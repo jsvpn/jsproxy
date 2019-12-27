@@ -114,15 +114,15 @@
     }
 
     const SITE_LIST = [
-      ['flickr', 'www.bannedbook.org'],
+      ['flickr', 'https://www.bannedbook.org'],
       ['quora', 'http://dongtaiwang.com/loc/phome.php?v=0'],
-      ['twitch', 'github.com/killgcd/justmysocks/blob/master/README.md'],
+      ['twitch', 'https://github.com/killgcd/justmysocks/blob/master/README.md'],
       ['google', ''],
-      ['youtube', 'www.youtube.com/channel/UCgzGv4sCijzlnYh_uPn9Q9w/videos'],
-      ['twitter', 'twitter.com/bannedebook'],
-      ['facebook', 'facebook.com/bannedbook.org'],
-      ['gist', 'github.com/bannedbook/fanqiang/wiki'],      
-      ['wiki', 'zh.100ke.info'],
+      ['youtube', 'https://www.youtube.com/channel/UCgzGv4sCijzlnYh_uPn9Q9w/videos'],
+      ['twitter', 'https://twitter.com/bannedebook'],
+      ['facebook', 'https://facebook.com/bannedbook.org'],
+      ['gist', 'https://github.com/bannedbook/fanqiang/wiki'],      
+      ['wiki', 'https://zh.100ke.info'],
       ['reddit', ''],   
       ['blogger', ''],
     ]
@@ -130,9 +130,9 @@
     function showIcons() {
       list.innerHTML = SITE_LIST.map(v => {
         let [id, url] = v
-        url = url || `www.${id}.com/`
+        url = url || `https://www.${id}.com/`
         return `\
-<a rel="noopener noreferrer" href=./-----https://${url}>\
+<a rel="noopener noreferrer" href=./-----${url}>\
 <img width=128 height=128 src=__sys__/assets/ico/${id}.png></a>`
       }).join('')
     }
