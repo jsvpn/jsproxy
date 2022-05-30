@@ -1,10 +1,10 @@
-![](https://raw.githubusercontent.com/ffnews/bnews/master/64photo/fqnews-qr.jpg)
+![](https://raw.githubusercontent.com/jsvpn/jsproxy/dev/64photo/fqnews-qr.jpg)
 
 <div id="tt">
-<h3>24小时热点禁闻|<a href="#%E4%B8%AD%E5%85%B1%E7%A6%81%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">中共禁闻</a>|<a href="#%E5%9B%BE%E7%89%87%E6%96%B0%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">头条禁闻</a>|<a href="#%E6%96%B0%E9%97%BB%E8%AF%84%E8%AE%BA%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">禁闻评论|<a href="#%E5%BF%85%E7%9C%8B%E7%BB%8F%E5%85%B8%E5%A5%BD%E6%96%87">经典必看|<a href="/video.md#%E7%A6%81%E7%89%87%E7%B2%BE%E9%80%89">禁片精选</a></h3>
-<div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="https://github.com/ffnews/bnews/blob/master/%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
+<h3>24小时热点禁闻|<a href="#%E4%B8%AD%E5%85%B1%E7%A6%81%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">中共禁闻</a>|<a href="#%E5%9B%BE%E7%89%87%E6%96%B0%E9%97%BB%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">头条禁闻</a>|<a href="#%E6%96%B0%E9%97%BB%E8%AF%84%E8%AE%BA%E6%9B%B4%E5%A4%9A%E6%96%87%E7%AB%A0">禁闻评论|<a href="#%E5%BF%85%E7%9C%8B%E7%BB%8F%E5%85%B8%E5%A5%BD%E6%96%87">经典必看</a></h3>
+<div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
-<li><b><a href="http://d1.bdrive.tk/64.mp4" target="_blank">六四图片视频</a>，本页短网址: https://git.io/fqksj</b></li>
+<li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20220529/1739114.md">武汉女花13万做胸部乳晕漂红整容…一看效果崩溃 男朋友提分手</a></li>
 <li><a href="/ssgc/20220530/1739172.md">〖兲朝浮世绘〗习总皇帝梦受影响 禁止朝鲜恶意解封</a></li>
 <li><a href="/bannedvideo/20220529/1739123.md">“李克强绝招！核算不给医保 大白即刻撤离：清零啦！”Shitao TV - 01 (29/05/22) 下令北方麦区 禁止设立检测站：习近平伟大胜利啦！</a></li>
@@ -15,20 +15,19 @@
 <li><a href="/cbnews/20220530/1739252.md">天亮时分：李克强釜底抽薪，清零政策动能耗尽；封城政策结束的时间与方式；两位世界首富的互怼和有趣的民调；经济危机时的生存策略（政论天下第709集 20220529）</a></li>
 <li><a href="/ccpdope/20220530/1739148.md">宋祖英，摄影师说你脱的时间不对</a></li>
 <li><a href="/baitai/20220530/1739250.md">新华社开始反对大规模核酸检测</a></li>
-<li><a href="/topimagenews/20220530/1739328.md">亮了！魔都常女士迫切为人民服务 要跟那三位大佬比…</a></li>
 <li><a href="/cnnews/20220530/1739206.md">领导进门 宣布“大家可能都要被裁了” 她脑袋嗡了一声...</a></li>
+<li><a href="/topimagenews/20220530/1739328.md">亮了！魔都常女士迫切为人民服务 要跟那三位大佬比…</a></li>
 <li><a href="/topimagenews/20220530/1739297.md">140次高喊斗争！两大中共党魁名字消失【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220530/1739243.md">一个神秘男人以1250亿身家，成为广州新首富，财富是许家印的2倍</a></li>
 <li><a href="/bannedvideo/20220530/1739176.md">🔥巅峰对决北京人厉害了；中共高层内斗激烈他被抬到会场；乌战变局俄占领乌东战略要地乌军方坦承重挫；中共政治局会议外交问题争论不下？中国家庭户均资产134万元？热搜速删</a></li>
 <li><a href="/bannedvideo/20220530/1739212.md">多国签证中心关闭! 国人往哪跑？女战狼口出狂言 翻车了；美国又险酿惨案 这回结果反转</a></li>
-<li><a href="/topimagenews/20220530/1739134.md">俄再痛失2菁英! 传“全国最强”空降指挥官阵亡</a></li>
 <li><a href="/topimagenews/20220530/1739327.md">换掉习近平？中共的噩梦 美国的愿景【阿波罗网报导】</a></li>
+<li><a href="/topimagenews/20220530/1739134.md">俄再痛失2菁英! 传“全国最强”空降指挥官阵亡</a></li>
 <li><a href="/topimagenews/20220530/1739269.md">【微博精粹】西韩太想阻北韩恶意解封 可惜三胖不尿习总</a></li>
-<li><a href="/cbnews/20220529/1739103.md">浙江工程师遇见真爱闪婚 美女孕妻竟是“在卖”婚礼被警带走</a></li>
 <li><a href="/baitai/20220530/1739251.md">人民日报发解放思想文章 只字不提习核心</a></li>
+<li><a href="/cbnews/20220529/1739103.md">浙江工程师遇见真爱闪婚 美女孕妻竟是“在卖”婚礼被警带走</a></li>
 <li><a href="/cbnews/20220529/1739122.md">大翻译运动如何让中共大外宣碎了一地</a></li>
 <li><a href="/comments/20220530/1739136.md">英媒惊天爆料：普京可能已病逝 近期公开亮相疑是替身</a></li>
-<li><b><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎-此波会过去，但更大更猛烈的瘟疫会再来</a></b></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -67,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220530/1739451.md" target="_blank">长三角房地产制造业互联网全凉了；炸了！中国银行吞百亿存款；</a></li>
 <li><a href="/topimagenews/20220530/1739328.md" target="_blank">亮了！魔都常女士迫切为人民服务 要跟那三位大佬比…</a></li>
 <li><a href="/topimagenews/20220530/1739327.md" target="_blank">换掉习近平？中共的噩梦 美国的愿景【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220530/1739307.md" target="_blank">穿越俄军枪林弹雨 亚速营指挥官逃离亚速钢铁厂</a></li>
@@ -91,7 +91,6 @@
 <li><a href="/topimagenews/20220529/1738806.md" target="_blank">河南郑州一家酒店突发爆炸 官方称无人伤亡 但民间传几十死伤 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220528/1738777.md" target="_blank">特大！人民日报出现极罕见政治信号【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220528/1738689.md" target="_blank">绑架平民为俄军充当“炮灰” 车臣领导人卡狄罗夫自称普丁的“马前卒”</a></li>
-<li><a href="/topimagenews/20220528/1738688.md" target="_blank">文革一幕再现！习近平身边的林彪是谁？【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -130,39 +129,37 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
 <li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
 
 </ul>
 </div>
 
-本页短网址: https://git.io/fqksj
-
-![](https://raw.githubusercontent.com/ffnews/bnews/master/64photo/fqnews-qr.jpg)
+![](https://raw.githubusercontent.com/jsvpn/jsproxy/dev/64photo/fqnews-qr.jpg)
 
 在浏览器中输入短网址 或使用微信、支付宝等二维码工具扫描二维码打开页面, 点击右上角"...", 在弹出菜单中点击“在浏览器打开”； 若网页被举报禁止访问，请点击“恢复申请访问”，将链接复制并粘贴到浏览器中打开（请不要使用QQ或360浏览器，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器）
 
-![](https://raw.githubusercontent.com/ffnews/bnews/master/64photo/wx.jpg)
+![](https://raw.githubusercontent.com/jsvpn/jsproxy/dev/64photo/wx.jpg)
