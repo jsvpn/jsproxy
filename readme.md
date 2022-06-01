@@ -20,10 +20,10 @@
 <li><a href="/bannedvideo/20220601/1739928.md">李强慌了 沪城强行解封 专家扔下这句话；欧盟力挽分裂 共同推出这一招</a></li>
 <li><a href="/cbnews/20220601/1739973.md">六四将至 北京风声鹤唳 坦克又进京了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220531/1739909.md">批评习近平将导致翻车？复旦帮的陈平想干啥？【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220601/1740028.md">有染“南京皇太后”，江苏原副书记被双开；政客和亿万富翁谁更受欢迎，马斯克对阵AOC；中共在南极搞清零；北京拉走大量民众隔离；欧盟年底前停止进口近9成俄石油【 #全球新闻 】</a></li>
 <li><a href="/cbnews/20220601/1739930.md">娱记怒开直播展示铁证 汪小菲丑闻越来越多</a></li>
 <li><a href="/weiquan/20220531/1739798.md">因被第14世达赖喇嘛掣签认定为第11世班禅转世灵童即被中共带走消失的根敦确吉尼玛的案情及简历</a></li>
 <li><a href="/lifebaike/20220531/1739803.md">朱元璋称帝后一习惯改不掉妃子们叫苦连天</a></li>
-<li><a href="/bannedvideo/20220601/1740028.md">有染“南京皇太后”，江苏原副书记被双开；政客和亿万富翁谁更受欢迎，马斯克对阵AOC；中共在南极搞清零；北京拉走大量民众隔离；欧盟年底前停止进口近9成俄石油【 #全球新闻 】</a></li>
 <li><a href="/topimagenews/20220531/1739800.md">海南师范大学教授被控常叫不同女学生到家里…</a></li>
 <li><a href="/comments/20220531/1739786.md">最狠的段子让你认清现实</a></li>
 <li><a href="/comments/20220531/1739728.md">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220601/1740167.md" target="_blank">听不到一句台词的电影，却让心灵充满温暖 ｜无声影片《一张传单》即将上映</a></li>
 <li><a href="/comments/20220601/1740158.md" target="_blank">欧盟对俄祭出史上最严制裁 泽连斯基：太晚了</a></li>
 <li><a href="/comments/20220601/1740157.md" target="_blank">法媒：新冠清零对中国经济是灾难性的代价</a></li>
 <li><a href="/comments/20220601/1740156.md" target="_blank">英媒：中国高校毕业生首超千万 今年才是真难</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220601/1740058.md" target="_blank">王赫：布林肯对华政策演讲三点评论</a></li>
 <li><a href="/comments/20220601/1740057.md" target="_blank">大批军人撤离上海，显出大白的原形</a></li>
 <li><a href="/comments/20220601/1740047.md" target="_blank">《三国演义》第七十七回 玉泉山关公显圣 洛阳城曹操感神</a></li>
-<li><a href="/comments/20220601/1740046.md" target="_blank">《封神演义》第七十七回 老子一气化三清</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
 <li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 <li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
 <li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 
 </ul>
 </div>
