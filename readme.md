@@ -19,15 +19,15 @@
 <li><a href="/cbnews/20220601/1740034.md">变色龙王毅：一边叫板美澳 一边大声求和</a></li>
 <li><a href="/cnnews/20220601/1740183.md">就这？这就完了？这场荒谬大戏就这么结束了？</a></li>
 <li><a href="/health/20220601/1740240.md">胆固醇“大户”被揪出，是猪肝10倍，医生直言：再不忌口，脑梗或找上门</a></li>
-<li><a href="/cbnews/20220601/1740200.md">6月1日零时一过 上海半夜出现奇景</a></li>
 <li><a href="/comments/20220601/1739984.md">陈敏尔连任重庆市委书记 前大秘李明清任副书记</a></li>
+<li><a href="/cbnews/20220601/1740200.md">6月1日零时一过 上海半夜出现奇景</a></li>
 <li><a href="/topimagenews/20220601/1740136.md">赫尔松俄军战线逐渐崩溃，俄军正犯下一大错</a></li>
 <li><a href="/funmedia/20220601/1740037.md">一个人的微信，藏着他的“经济状况”</a></li>
 <li><a href="/bannedvideo/20220601/1740207.md">上海市领导说：他们从来没下令封城，是小区自己封小区！！</a></li>
 <li><a href="/cbnews/20220601/1740134.md">天亮时分：6万亿财政缺口，上海从强制封城，到强制解封；制裁俄罗斯放大招，如何避免伤到自己；王毅说中美关系不能再坏下去了（政论天下第711集 20220531）</a></li>
 <li><a href="/cnnews/20220601/1740219.md">大陆小学教科书惊现“打老婆”课文！插图强化性器官</a></li>
-<li><a href="/cnnews/20220601/1739968.md">网传上海企业家公开信：复工不复产！静观二十大</a></li>
 <li><a href="/topimagenews/20220601/1740232.md">北顿内茨克陷落在即 乌军麻烦大了</a></li>
+<li><a href="/bannedvideo/20220601/1740159.md">斐济记者：王毅在我们国家把我们当犯人一样呼来赶去</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220602/1740446.md" target="_blank">【未普评论】对台既清晰又模糊，拜登和国务院演双簧</a></li>
 <li><a href="/comments/20220602/1740443.md" target="_blank">李燕铭：习近平清洗广东帮（三） 2022年第22虎 深圳前市长陈如桂落马内幕揭秘 深圳官场大地震市长等八人丢官 陈如桂曾任广州市长书记张广宁大秘 张广宁曾传被双规后跳楼美女主播张小莉发声明撇清关系 陈如桂曾任万庆良大秘与下属 万庆良落马揭阳帮公共情妇曝光 陈如桂曾任任学锋副手 任学锋四中全会京西宾馆“跳楼死”迷雾重重</a></li>
 <li><a href="/comments/20220602/1740442.md" target="_blank">丰田入门级SUV再推新: 2023 Corolla Cross 首款混动</a></li>
 <li><a href="/comments/20220602/1740421.md" target="_blank">评论 | 陈破空：习李争锋，习近平显露败像！何为反习不反共？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220601/1740202.md" target="_blank">教科书之丑仅仅是插画的问题？</a></li>
 <li><a href="/comments/20220601/1740190.md" target="_blank">怕看到中国人解封后..表演丧事喜办 磕头谢恩</a></li>
 <li><a href="/comments/20220601/1740167.md" target="_blank">听不到一句台词的电影，却让心灵充满温暖 ｜无声影片《一张传单》即将上映</a></li>
-<li><a href="/comments/20220601/1740158.md" target="_blank">欧盟对俄祭出史上最严制裁 泽连斯基：太晚了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 <li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/cbnews/20211009/1635583.md" target="_blank">美国纪录片：长津湖战役（高清完整版）</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
 
 </ul>
 </div>
