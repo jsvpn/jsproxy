@@ -9,16 +9,16 @@
 <li><a href="/bannedvideo/20220604/1741645.md">北京清算 上海解封 路线不同 二十大谁上谁下</a></li>
 <li><a href="/headline/20220604/1741703.md">国师曝痛揍马云秘辛！蚂蚁金脉吓坏习近平</a></li>
 <li><a href="/topimagenews/20220604/1741730.md">习近平生日将至 中共宣传系统竟如此歪曲历史【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220604/1741675.md">陈破空：习李争锋，习近平显露败像！军权保不了他。习下李上，李克强据有党内合法性！何为反习不反共？</a></li>
 <li><a href="/topimagenews/20220605/1741860.md">习近平真实想法流露 党媒20天连发三次信号【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220604/1741675.md">陈破空：习李争锋，习近平显露败像！军权保不了他。习下李上，李克强据有党内合法性！何为反习不反共？</a></li>
 <li><a href="/topimagenews/20220605/1741801.md">凤姐突然揭开了美名校…厕所里的秘密？全网点赞</a></li>
 <li><a href="/bannedvideo/20220604/1741679.md">李克强开会幕后竟是常委暗斗 他：接下来是否出事就看这一点</a></li>
 <li><a href="/cnnews/20220604/1741687.md">海运业出大事了！航运二哥带头开枪 最惨的是…</a></li>
 <li><a href="/baitai/20220604/1741600.md">鲍彤：写于“六四”事件33周年：由李鹏泄密引起的思考（三）</a></li>
 <li><a href="/cbnews/20220605/1741782.md">德驻北京使馆六四发帖又被删 使馆："每年都发，十分钟之内被删"</a></li>
-<li><a href="/topimagenews/20220605/1741753.md">胡锡进被封“乌鸦嘴” “每次让中国遭遇现世报”</a></li>
-<li><a href="/bannedvideo/20220605/1741824.md">🔥高层异动！习要破江规矩 让他留任；白宫影响20大 习趁机反操作？敏感时刻 传江系大员再被贬；史上首次：割麦子也要证明 中国多地限制农民返乡；上海核酸点被砸登热搜 动手者被抓 网赞壮士【阿波罗网HL】</a></li>
 <li><a href="/cnnews/20220605/1741881.md">浙江首富栽了，800亿身价归零</a></li>
+<li><a href="/bannedvideo/20220605/1741824.md">🔥高层异动！习要破江规矩 让他留任；白宫影响20大 习趁机反操作？敏感时刻 传江系大员再被贬；史上首次：割麦子也要证明 中国多地限制农民返乡；上海核酸点被砸登热搜 动手者被抓 网赞壮士【阿波罗网HL】</a></li>
+<li><a href="/topimagenews/20220605/1741753.md">胡锡进被封“乌鸦嘴” “每次让中国遭遇现世报”</a></li>
 <li><a href="/health/20220604/1741622.md">血栓会被身体溶解？不瞒你说：常吃3类食物，可清理血管垃圾</a></li>
 <li><a href="/bannedvideo/20220605/1741787.md">实体经济被掏空, 中国只剩央企赚钱, 外资逃往印度越南【希望之声-财经慧眼周末版】</a></li>
 <li><a href="/bannedvideo/20220605/1741800.md">🔥习真实想法流露，20天连3发信号；川普顾问纳瓦罗被FBI带手铐脚镣送牢房；乌报捷正收复乌东此城俄阵地；马斯克看衰美经济要裁员 拜登愤怒；美社保医保基金接近破产；奶茶可致肠癌【阿波罗网TA】</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 <li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 
 </ul>
 </div>
