@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/bannedvideo/20220605/1742018.md">“细节流出”习心腹被军纪委带走！习下李上尘埃落定？ 习近平“国师”曝光蚂蚁集团遭整肃内幕！</a></li>
 <li><a href="/bannedvideo/20220605/1742082.md">🔥痛批李克强？中纪委大骂两大宰相；前所未有 日本不再顾及中共；美超级战舰来了，保两国；北京以经贸胁迫澳洲新政府放弃… 习近平不懂“美国护照”魅力；阵亡最高级别俄军官 遭乌军“刺针”击落丧生  LV</a></li>
 <li><a href="/bannedvideo/20220605/1742069.md">带货一哥李佳琦 因“坦克蛋糕” 直播被干掉【方伟时间-20220605】</a></li>
 <li><a href="/ssgc/20220605/1742102.md">习近平的女性烦恼</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/bannedvideo/20220606/1742209.md">中共崩盘在即！未来中国领袖正在进行这三种准备工作（一平论政2022/6/5)</a></li>
 <li><a href="/bannedvideo/20220606/1742198.md">🔥华日曝李克强开10万官员大会内幕，习近平和常委表态；惊现黑天鹅！中国船厂新订单被希腊船东全撤了；六四北京大展异象；抗暴！台北六四2千人高喊时代革命；18国200国会议员要制裁中港官员【阿波罗网TL】</a></li>
 <li><a href="/cnnews/20220606/1742173.md">主人排队核酸，遥控哈士奇按电饭煲，没想到…</a></li>
+<li><a href="/cbnews/20220606/1742134.md">市民转传“再封一个月” 上海官方急辟谣</a></li>
 <li><a href="/topimagenews/20220606/1742159.md">突发：基辅再连传爆炸，与“核爆”擦肩而过?</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220606/1742365.md" target="_blank">乌克兰“指名”要瑞典军援RBS-17 原来可以“海陆两用”</a></li>
 <li><a href="/topimagenews/20220606/1742338.md" target="_blank">这武器对战争影响最大 专家：让乌克兰苦苦奋战</a></li>
 <li><a href="/topimagenews/20220606/1742337.md" target="_blank">中共高层人事异动 习近平要破江泽民规矩让他留任【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220606/1742329.md" target="_blank">疯狂！铁链女所在地派出所所长获评全国优秀 震惊全国 全网沸腾</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220604/1741551.md" target="_blank">箝制中俄 美军航母在台湾东方秀肌肉 部署两个航母打击群</a></li>
 <li><a href="/topimagenews/20220604/1741550.md" target="_blank">国库已空？李克强急转弯 反习老大是他?【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220604/1741540.md" target="_blank">粮食危机殃及非洲 德指责普丁带风向：俄发动侵略战争才是罪魁祸首</a></li>
-<li><a href="/topimagenews/20220604/1741506.md" target="_blank">遍览四、五月人民日报 发现一个惊人的事实 【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220606/1742373.md" target="_blank">限量抢购：丹麦夏季特价火车票畅游全境</a></li>
 <li><a href="/comments/20220606/1742347.md" target="_blank">“出狱焦虑综合症”：来自上海的《出小区记》</a></li>
 <li><a href="/comments/20220606/1742320.md" target="_blank">上海解封背后这三则新闻，让人意外…</a></li>
 <li><a href="/comments/20220606/1742306.md" target="_blank">李燕铭：美国领衔全球军事围堵中共（十一） 北约秘书长访五角大楼 与美防长讨论新战略概念对抗中共 北约与芬兰瑞典举行波罗的海海军演习 北约秘书长：乌克兰战争将是一场长期的消耗战 岸田文雄与尹锡悦受邀参加北约峰会 是否举行双边会谈受关注</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220606/1742186.md" target="_blank">《封神演义》第八十回 杨任下山破瘟司</a></li>
 <li><a href="/comments/20220606/1742182.md" target="_blank">希腊高温干旱导致森林大火 居民被迫撤离</a></li>
 <li><a href="/comments/20220606/1742174.md" target="_blank">六四期间大陆多地暴雨水灾 网民：天象异常</a></li>
-<li><a href="/comments/20220606/1742158.md" target="_blank">惊传“6月20上海再封一个月” 官方辟谣 居民更慌了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
 <li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
 
 </ul>
 </div>
