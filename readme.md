@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20220606/1742228.md">痛批李克强？中纪委杂志大骂两大宰相【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220606/1742207.md">董明珠冲上热搜！“这就是个笑话。”</a></li>
 <li><a href="/cbnews/20220606/1742294.md">大陆网红六四33周年端坦克蛋糕 直播秒被封</a></li>
-<li><a href="/ssgc/20220606/1742315.md">习近平与中国悲剧的未来</a></li>
 <li><a href="/headline/20220606/1742169.md">防疫过头惹民怨 卫健委踩刹车“九不准”</a></li>
+<li><a href="/ssgc/20220606/1742315.md">习近平与中国悲剧的未来</a></li>
 <li><a href="/lifebaike/20220606/1742223.md">75岁爷爷对孙子忠告：“这3种家庭的女儿，宁愿打光棍也不能娶”</a></li>
+<li><a href="/bannedvideo/20220606/1742423.md">习贴身大秘被抓，对局势的影响非同小可？李克强的经济重建，有一个危险先例？排队续命，人的保质期不如一块豆腐？！专家称，中共核检是干柴烈火，随时引爆疫情？【蔚然 财商天下】2022.06.06</a></li>
 <li><a href="/cnnews/20220606/1742332.md">看看昨夜上海的72小时核酸队伍，像话吗？</a></li>
 <li><a href="/topimagenews/20220606/1742337.md">中共高层人事异动 习近平要破江泽民规矩让他留任【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220606/1742423.md">习贴身大秘被抓，对局势的影响非同小可？李克强的经济重建，有一个危险先例？排队续命，人的保质期不如一块豆腐？！专家称，中共核检是干柴烈火，随时引爆疫情？【蔚然 财商天下】2022.06.06</a></li>
 <li><a href="/bannedvideo/20220606/1742209.md">中共崩盘在即！未来中国领袖正在进行这三种准备工作（一平论政2022/6/5)</a></li>
 <li><a href="/bannedvideo/20220606/1742198.md">🔥华日曝李克强开10万官员大会内幕，习近平和常委表态；惊现黑天鹅！中国船厂新订单被希腊船东全撤了；六四北京大展异象；抗暴！台北六四2千人高喊时代革命；18国200国会议员要制裁中港官员【阿波罗网TL】</a></li>
 <li><a href="/cbnews/20220606/1742331.md">敏感时刻 传江系大员被“一贬再贬”【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220606/1742427.md">“习下李上”最可能的结局……不破中共帮规，习早已准备！</a></li>
 <li><a href="/cnnews/20220606/1742270.md">疯传！宾利姐大战劳斯莱斯： “把我家50辆宾利开过来”【阿波罗网报导】</a></li>
 <li><a href="/cbnews/20220606/1742134.md">市民转传“再封一个月” 上海官方急辟谣</a></li>
 <li><a href="/cnnews/20220606/1742173.md">主人排队核酸，遥控哈士奇按电饭煲，没想到…</a></li>
-<li><a href="/bannedvideo/20220606/1742427.md">“习下李上”最可能的结局……不破中共帮规，习早已准备！</a></li>
-<li><a href="/topimagenews/20220606/1742296.md">中共卫健委下猛药 地方官员喝这一壶？【阿波罗网报导】</a></li>
+<li><a href="/topimagenews/20220606/1742308.md">中国疫情之下的很多人，真的快扛不住了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220607/1742512.md" target="_blank">【俄乌战火第103天】泽伦斯基曝曾往乌东最前线 乌军确认击毙第11名俄军将领</a></li>
 <li><a href="/comments/20220606/1742472.md" target="_blank">专栏 | 劳工通讯：广西桂林采石工被炸断右手 未获得工伤待遇（四）</a></li>
 <li><a href="/comments/20220606/1742456.md" target="_blank">时事大家谈：新华社预告战“疫”纪录片，上海丧事喜办何以服众？</a></li>
 <li><a href="/comments/20220606/1742442.md" target="_blank">美国面临创历史纪录的干旱</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220606/1742292.md" target="_blank">传国企高管夫人放话“开50台宾利”堵道 国资委回应</a></li>
 <li><a href="/comments/20220606/1742282.md" target="_blank">澳洲总理：中共空军拦截 危及澳侦察机安全</a></li>
 <li><a href="/comments/20220606/1742267.md" target="_blank">【中南火海】“特别党员” 镶钻的枷锁 上</a></li>
-<li><a href="/comments/20220606/1742266.md" target="_blank">洪博学：民族主义惹的祸</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
 <li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
 <li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
 
 </ul>
 </div>
