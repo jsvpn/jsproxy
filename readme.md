@@ -8,7 +8,6 @@
 <li><a href="/bannedvideo/20220605/1742082.md">🔥痛批李克强？中纪委大骂两大宰相；前所未有 日本不再顾及中共；美超级战舰来了，保两国；北京以经贸胁迫澳洲新政府放弃… 习近平不懂“美国护照”魅力；阵亡最高级别俄军官 遭乌军“刺针”击落丧生  LV</a></li>
 <li><a href="/ssgc/20220605/1742102.md">习近平的女性烦恼</a></li>
 <li><a href="/comments/20220606/1742139.md">中共帮规设埋伏：习近平二十大交出总书记</a></li>
-<li><a href="/bannedvideo/20220605/1742074.md">陈破空：盛传习近平军中大秘被带走？事关疫苗腐败。接种记录神秘消失！习国师泄密：习下手蚂蚁集团，出于高层斗争</a></li>
 <li><a href="/cnnews/20220606/1742150.md">车位被占！深圳贵妇呛“我家有50台宾利” 下秒惨遭举报</a></li>
 <li><a href="/comments/20220606/1742126.md">消息：李克强获常委支持 习近平默许十万人大会</a></li>
 <li><a href="/topimagenews/20220606/1742187.md">狗血！红二代万亿中植系帝国宫斗 最高院大法官变身成老大</a></li>
@@ -18,15 +17,16 @@
 <li><a href="/topimagenews/20220606/1742183.md">吓到习近平？ 中共国师突曝内幕 忽悠海内外【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220606/1742207.md">董明珠冲上热搜！“这就是个笑话。”</a></li>
 <li><a href="/headline/20220606/1742169.md">防疫过头惹民怨 卫健委踩刹车“九不准”</a></li>
-<li><a href="/lifebaike/20220606/1742223.md">75岁爷爷对孙子忠告：“这3种家庭的女儿，宁愿打光棍也不能娶”</a></li>
 <li><a href="/ssgc/20220606/1742315.md">习近平与中国悲剧的未来</a></li>
+<li><a href="/lifebaike/20220606/1742223.md">75岁爷爷对孙子忠告：“这3种家庭的女儿，宁愿打光棍也不能娶”</a></li>
+<li><a href="/cnnews/20220606/1742332.md">看看昨夜上海的72小时核酸队伍，像话吗？</a></li>
 <li><a href="/bannedvideo/20220606/1742209.md">中共崩盘在即！未来中国领袖正在进行这三种准备工作（一平论政2022/6/5)</a></li>
 <li><a href="/bannedvideo/20220606/1742198.md">🔥华日曝李克强开10万官员大会内幕，习近平和常委表态；惊现黑天鹅！中国船厂新订单被希腊船东全撤了；六四北京大展异象；抗暴！台北六四2千人高喊时代革命；18国200国会议员要制裁中港官员【阿波罗网TL】</a></li>
 <li><a href="/cbnews/20220606/1742134.md">市民转传“再封一个月” 上海官方急辟谣</a></li>
 <li><a href="/cnnews/20220606/1742173.md">主人排队核酸，遥控哈士奇按电饭煲，没想到…</a></li>
-<li><a href="/cnnews/20220606/1742332.md">看看昨夜上海的72小时核酸队伍，像话吗？</a></li>
 <li><a href="/cnnews/20220606/1742270.md">疯传！宾利姐大战劳斯莱斯： “把我家50辆宾利开过来”【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220606/1742159.md">突发：基辅再连传爆炸，与“核爆”擦肩而过?</a></li>
+<li><a href="/topimagenews/20220606/1742285.md">【微博精粹】六四维园今昔——180000：1</a></li>
 <li><a href="/cnnews/20220606/1742164.md">溺水后被陌生男子救起，她接下来的举动太意外</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
 <li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 <li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 
 </ul>
 </div>
