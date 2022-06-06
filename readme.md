@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/comments/20220606/1742139.md">中共帮规设埋伏：习近平二十大交出总书记</a></li>
-<li><a href="/cnnews/20220606/1742150.md">车位被占！深圳贵妇呛“我家有50台宾利” 下秒惨遭举报</a></li>
 <li><a href="/topimagenews/20220606/1742187.md">狗血！红二代万亿中植系帝国宫斗 最高院大法官变身成老大</a></li>
+<li><a href="/cnnews/20220606/1742150.md">车位被占！深圳贵妇呛“我家有50台宾利” 下秒惨遭举报</a></li>
 <li><a href="/topimagenews/20220606/1742183.md">吓到习近平？ 中共国师突曝内幕 忽悠海内外【阿波罗网报道】</a></li>
-<li><a href="/yule/20220606/1742152.md">李立群自曝：被搬家公司打碎十几个紫砂壶，一查价格损失6000多万</a></li>
 <li><a href="/topimagenews/20220606/1742228.md">痛批李克强？中纪委杂志大骂两大宰相【阿波罗网报道】</a></li>
+<li><a href="/yule/20220606/1742152.md">李立群自曝：被搬家公司打碎十几个紫砂壶，一查价格损失6000多万</a></li>
 <li><a href="/topimagenews/20220606/1742207.md">董明珠冲上热搜！“这就是个笑话。”</a></li>
 <li><a href="/cbnews/20220606/1742294.md">大陆网红六四33周年端坦克蛋糕 直播秒被封</a></li>
-<li><a href="/headline/20220606/1742169.md">防疫过头惹民怨 卫健委踩刹车“九不准”</a></li>
-<li><a href="/ssgc/20220606/1742315.md">习近平与中国悲剧的未来</a></li>
-<li><a href="/lifebaike/20220606/1742223.md">75岁爷爷对孙子忠告：“这3种家庭的女儿，宁愿打光棍也不能娶”</a></li>
 <li><a href="/bannedvideo/20220606/1742423.md">习贴身大秘被抓，对局势的影响非同小可？李克强的经济重建，有一个危险先例？排队续命，人的保质期不如一块豆腐？！专家称，中共核检是干柴烈火，随时引爆疫情？【蔚然 财商天下】2022.06.06</a></li>
+<li><a href="/headline/20220606/1742169.md">防疫过头惹民怨 卫健委踩刹车“九不准”</a></li>
+<li><a href="/lifebaike/20220606/1742223.md">75岁爷爷对孙子忠告：“这3种家庭的女儿，宁愿打光棍也不能娶”</a></li>
+<li><a href="/ssgc/20220606/1742315.md">习近平与中国悲剧的未来</a></li>
 <li><a href="/cnnews/20220606/1742332.md">看看昨夜上海的72小时核酸队伍，像话吗？</a></li>
 <li><a href="/topimagenews/20220606/1742337.md">中共高层人事异动 习近平要破江泽民规矩让他留任【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220606/1742427.md">“习下李上”最可能的结局……不破中共帮规，习早已准备！</a></li>
 <li><a href="/bannedvideo/20220606/1742209.md">中共崩盘在即！未来中国领袖正在进行这三种准备工作（一平论政2022/6/5)</a></li>
 <li><a href="/cbnews/20220606/1742331.md">敏感时刻 传江系大员被“一贬再贬”【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220606/1742198.md">🔥华日曝李克强开10万官员大会内幕，习近平和常委表态；惊现黑天鹅！中国船厂新订单被希腊船东全撤了；六四北京大展异象；抗暴！台北六四2千人高喊时代革命；18国200国会议员要制裁中港官员【阿波罗网TL】</a></li>
-<li><a href="/cbnews/20220606/1742134.md">市民转传“再封一个月” 上海官方急辟谣</a></li>
-<li><a href="/cnnews/20220606/1742173.md">主人排队核酸，遥控哈士奇按电饭煲，没想到…</a></li>
-<li><a href="/cnnews/20220606/1742270.md">疯传！宾利姐大战劳斯莱斯： “把我家50辆宾利开过来”【阿波罗网报导】</a></li>
 <li><a href="/cnnews/20220606/1742408.md">东北最后一个千万人口城市哈尔滨，被踢出群聊…</a></li>
 <li><a href="/topimagenews/20220606/1742308.md">中国疫情之下的很多人，真的快扛不住了</a></li>
+<li><a href="/cnnews/20220606/1742270.md">疯传！宾利姐大战劳斯莱斯： “把我家50辆宾利开过来”【阿波罗网报导】</a></li>
+<li><a href="/cnnews/20220606/1742173.md">主人排队核酸，遥控哈士奇按电饭煲，没想到…</a></li>
+<li><a href="/topimagenews/20220606/1742296.md">中共卫健委下猛药 地方官员喝这一壶？【阿波罗网报导】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220607/1742527.md" target="_blank">用电动自行车送信？美国邮政局在测试</a></li>
+<li><a href="/comments/20220607/1742524.md" target="_blank">【杜耀明评论】经济困境难解锁 「中国模式」真面目</a></li>
 <li><a href="/comments/20220607/1742513.md" target="_blank">乌俄战争如何演变？ BBC提出5种可能性</a></li>
 <li><a href="/comments/20220607/1742512.md" target="_blank">【俄乌战火第103天】泽伦斯基曝曾往乌东最前线 乌军确认击毙第11名俄军将领</a></li>
 <li><a href="/comments/20220606/1742472.md" target="_blank">专栏 | 劳工通讯：广西桂林采石工被炸断右手 未获得工伤待遇（四）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220606/1742320.md" target="_blank">上海解封背后这三则新闻，让人意外…</a></li>
 <li><a href="/comments/20220606/1742306.md" target="_blank">李燕铭：美国领衔全球军事围堵中共（十一） 北约秘书长访五角大楼 与美防长讨论新战略概念对抗中共 北约与芬兰瑞典举行波罗的海海军演习 北约秘书长：乌克兰战争将是一场长期的消耗战 岸田文雄与尹锡悦受邀参加北约峰会 是否举行双边会谈受关注</a></li>
 <li><a href="/comments/20220606/1742297.md" target="_blank">局势明朗了：中国当务之急是切断病毒的“资金链”</a></li>
-<li><a href="/comments/20220606/1742292.md" target="_blank">传国企高管夫人放话“开50台宾利”堵道 国资委回应</a></li>
-<li><a href="/comments/20220606/1742282.md" target="_blank">澳洲总理：中共空军拦截 危及澳侦察机安全</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 <li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 
 </ul>
 </div>
