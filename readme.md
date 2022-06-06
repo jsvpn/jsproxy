@@ -17,17 +17,17 @@
 <li><a href="/comments/20220606/1742126.md">消息：李克强获常委支持 习近平默许十万人大会</a></li>
 <li><a href="/topimagenews/20220606/1742187.md">狗血！红二代万亿中植系帝国宫斗 最高院大法官变身成老大</a></li>
 <li><a href="/yule/20220606/1742152.md">李立群自曝：被搬家公司打碎十几个紫砂壶，一查价格损失6000多万</a></li>
-<li><a href="/comments/20220605/1741973.md">六四北京突降冰雹 空中惊现“魔鬼脸”</a></li>
 <li><a href="/topimagenews/20220606/1742183.md">吓到习近平？ 中共国师突曝内幕 忽悠海内外【阿波罗网报道】</a></li>
-<li><a href="/health/20220605/1742009.md">提醒：吃腰子并不能补肾，真正补肾的是这3物，男性不妨看看</a></li>
-<li><a href="/headline/20220606/1742169.md">防疫过头惹民怨 卫健委踩刹车“九不准”</a></li>
 <li><a href="/yule/20220605/1741998.md">9年前是杨幂助理，9年后和杨幂平起平坐</a></li>
+<li><a href="/headline/20220606/1742169.md">防疫过头惹民怨 卫健委踩刹车“九不准”</a></li>
+<li><a href="/health/20220605/1742009.md">提醒：吃腰子并不能补肾，真正补肾的是这3物，男性不妨看看</a></li>
+<li><a href="/topimagenews/20220606/1742228.md">痛批李克强？中纪委杂志大骂两大宰相【阿波罗网报道】</a></li>
 <li><a href="/health/20220605/1741997.md">103岁老人，血管年龄60多岁，长寿秘诀不是多运动，或是这3件事</a></li>
 <li><a href="/comments/20220605/1742024.md">同样是啤酒，“瓶装”和“罐装”有什么区别？</a></li>
-<li><a href="/topimagenews/20220606/1742228.md">痛批李克强？中纪委杂志大骂两大宰相【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220605/1741992.md">中国核酸采样屋设计愚蠢：医护、市民姿态爆笑</a></li>
 <li><a href="/yule/20220605/1742037.md">赵本山儿子花260万买狗 健身房马上全国连锁</a></li>
 <li><a href="/comments/20220605/1742040.md">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cnnews/20220606/1742173.md">主人排队核酸，遥控哈士奇按电饭煲，没想到…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220606/1742309.md" target="_blank">惊人！拜登大幅调整国安战略 中国的优先级有所变化？</a></li>
+<li><a href="/topimagenews/20220606/1742308.md" target="_blank">中国疫情之下的很多人，真的快扛不住了</a></li>
 <li><a href="/topimagenews/20220606/1742301.md" target="_blank">针对中共导弹威胁 美军B-1B轰炸机再临关岛</a></li>
 <li><a href="/topimagenews/20220606/1742296.md" target="_blank">中共卫健委下猛药 地方官员喝这一壶？【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220606/1742285.md" target="_blank">【微博精粹】六四维园今昔——180000：1</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20220604/1741401.md" target="_blank">斩断伸向美国的触手 美4大动作追打中共</a></li>
 <li><a href="/topimagenews/20220604/1741392.md" target="_blank">中共遭美俄双双逼近</a></li>
 <li><a href="/topimagenews/20220603/1741314.md" target="_blank">网传北京一个小区管控10天 非正常死了11人【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220603/1741205.md" target="_blank">中国的危险邻国 俄曾积极加入北约决策小组 “脱亚入欧”是国家长期目标</a></li>
-<li><a href="/topimagenews/20220603/1741144.md" target="_blank">乌俄战争谁胜负？美媒曝普丁在等“这情形”发生</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220606/1742306.md" target="_blank">李燕铭：美国领衔全球军事围堵中共（十一） 北约秘书长访五角大楼 与美防长讨论新战略概念对抗中共 北约与芬兰瑞典举行波罗的海海军演习 北约秘书长：乌克兰战争将是一场长期的消耗战 岸田文雄与尹锡悦受邀参加北约峰会 是否举行双边会谈受关注</a></li>
 <li><a href="/comments/20220606/1742297.md" target="_blank">局势明朗了：中国当务之急是切断病毒的“资金链”</a></li>
 <li><a href="/comments/20220606/1742292.md" target="_blank">传国企高管夫人放话“开50台宾利”堵道 国资委回应</a></li>
 <li><a href="/comments/20220606/1742282.md" target="_blank">澳洲总理：中共空军拦截 危及澳侦察机安全</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220606/1742158.md" target="_blank">惊传“6月20上海再封一个月” 官方辟谣 居民更慌了</a></li>
 <li><a href="/comments/20220606/1742157.md" target="_blank">应对俄乌战争和台海局势 日相拟出席北约峰会与各方协调立场</a></li>
 <li><a href="/comments/20220606/1742156.md" target="_blank">紫苏也是药食同源的植物 供观赏可食用 去腥杀菌还解毒</a></li>
-<li><a href="/comments/20220606/1742147.md" target="_blank">李燕铭：习清洗文宣系统争夺笔杆子（二十） 习亲信智囊李书磊接替王沪宁副手王晓晖 出任中宣部常务副部长 卡位二十大政治局 传曾任习近平政治秘书 李书磊为习谋划新战略：清除江泽民政治影响 二十大高层人事大战（三二）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
 <li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
 <li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 
 </ul>
 </div>
