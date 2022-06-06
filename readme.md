@@ -17,17 +17,17 @@
 <li><a href="/bannedvideo/20220606/1742427.md">“习下李上”最可能的结局……不破中共帮规，习早已准备！</a></li>
 <li><a href="/cnnews/20220606/1742332.md">看看昨夜上海的72小时核酸队伍，像话吗？</a></li>
 <li><a href="/topimagenews/20220606/1742337.md">中共高层人事异动 习近平要破江泽民规矩让他留任【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20220606/1742408.md">东北最后一个千万人口城市哈尔滨，被踢出群聊…</a></li>
 <li><a href="/topimagenews/20220606/1742465.md">印度神童喊6月有大事 世界震撼</a></li>
-<li><a href="/bannedvideo/20220606/1742209.md">中共崩盘在即！未来中国领袖正在进行这三种准备工作（一平论政2022/6/5)</a></li>
+<li><a href="/cnnews/20220606/1742408.md">东北最后一个千万人口城市哈尔滨，被踢出群聊…</a></li>
 <li><a href="/cbnews/20220606/1742331.md">敏感时刻 传江系大员被“一贬再贬”【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220606/1742209.md">中共崩盘在即！未来中国领袖正在进行这三种准备工作（一平论政2022/6/5)</a></li>
 <li><a href="/bannedvideo/20220606/1742198.md">🔥华日曝李克强开10万官员大会内幕，习近平和常委表态；惊现黑天鹅！中国船厂新订单被希腊船东全撤了；六四北京大展异象；抗暴！台北六四2千人高喊时代革命；18国200国会议员要制裁中港官员【阿波罗网TL】</a></li>
 <li><a href="/topimagenews/20220606/1742308.md">中国疫情之下的很多人，真的快扛不住了</a></li>
-<li><a href="/cnnews/20220606/1742270.md">疯传！宾利姐大战劳斯莱斯： “把我家50辆宾利开过来”【阿波罗网报导】</a></li>
 <li><a href="/cbnews/20220606/1742452.md">宾利贵妇老公年收曝光竟所住豪宅1坪都买不起 财产来源引争议</a></li>
-<li><a href="/cnnews/20220606/1742173.md">主人排队核酸，遥控哈士奇按电饭煲，没想到…</a></li>
+<li><a href="/cnnews/20220606/1742270.md">疯传！宾利姐大战劳斯莱斯： “把我家50辆宾利开过来”【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220606/1742328.md">习近平拿到更多话语权？中共权贵圈子的潜在挑战【阿波罗网报导】</a></li>
-<li><a href="/cnnews/20220606/1742398.md">加州华裔女大闹星巴克 辱骂店长“滚回你的国家”</a></li>
+<li><a href="/cnnews/20220606/1742173.md">主人排队核酸，遥控哈士奇按电饭煲，没想到…</a></li>
+<li><a href="/bannedvideo/20220606/1742389.md">屁滚尿流！中国战机南海下三滥手段拦截澳洲侦察机，每日一low见怪不怪，王伟们只是消耗品</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220607/1742582.md" target="_blank">中国大学老师水准这么差! 竟在网络留言对女性“先奸后杀、再奸再杀”</a></li>
+<li><a href="/cbnews/20220607/1742581.md" target="_blank">“没钱没背景”别想飞? 中国沈航院突要求学生自费70万元 才能飞行训练</a></li>
 <li><a href="/cbnews/20220607/1742570.md" target="_blank">重点大学毕业生隐居闹市22年让家人都以为离世 真相出乎意料</a></li>
 <li><a href="/cbnews/20220607/1742532.md" target="_blank">50辆宾利和高层老公一夜之间都没了 宾利贵妇发声 妻子变女朋友</a></li>
 <li><a href="/cbnews/20220606/1742495.md" target="_blank">想抢台积电！中国放话：不能转给美国</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20220604/1741579.md" target="_blank">江峰：国务院重大通知，飞行突检：医保基金用于核酸检测违规，直接剥夺习近平清零政策的财权，同时全国大检查开始清算看不清方向的官员；六四悼念新动向：香港灯灭，世界光起【江峰漫谈20220603第496期】</a></li>
 <li><a href="/cbnews/20220604/1741567.md" target="_blank">六四事件33周年 布林肯承诺持续追究中共人权暴行</a></li>
 <li><a href="/cbnews/20220604/1741539.md" target="_blank">天亮时分：俄爹不断施压，习近平左右爲难；全球经济寒冬将至？特斯拉裁员10%，深圳公务员降薪9万；常态化核酸检测与全民医保（政论天下第713集 20220603）</a></li>
-<li><a href="/cbnews/20220604/1741409.md" target="_blank">中国军迷望穿秋水 003并未如期而至</a></li>
-<li><a href="/cbnews/20220604/1741393.md" target="_blank">“上海人民看完了会气死！”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
 <li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 
 </ul>
 </div>
