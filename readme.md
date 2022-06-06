@@ -6,10 +6,8 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220606/1742187.md">狗血！红二代万亿中植系帝国宫斗 最高院大法官变身成老大</a></li>
-<li><a href="/cnnews/20220606/1742150.md">车位被占！深圳贵妇呛“我家有50台宾利” 下秒惨遭举报</a></li>
 <li><a href="/topimagenews/20220606/1742183.md">吓到习近平？ 中共国师突曝内幕 忽悠海内外【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220606/1742228.md">痛批李克强？中纪委杂志大骂两大宰相【阿波罗网报道】</a></li>
-<li><a href="/yule/20220606/1742152.md">李立群自曝：被搬家公司打碎十几个紫砂壶，一查价格损失6000多万</a></li>
 <li><a href="/topimagenews/20220606/1742207.md">董明珠冲上热搜！“这就是个笑话。”</a></li>
 <li><a href="/bannedvideo/20220606/1742423.md">习贴身大秘被抓，对局势的影响非同小可？李克强的经济重建，有一个危险先例？排队续命，人的保质期不如一块豆腐？！专家称，中共核检是干柴烈火，随时引爆疫情？【蔚然 财商天下】2022.06.06</a></li>
 <li><a href="/cbnews/20220606/1742294.md">大陆网红六四33周年端坦克蛋糕 直播秒被封</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/cnnews/20220606/1742270.md">疯传！宾利姐大战劳斯莱斯： “把我家50辆宾利开过来”【阿波罗网报导】</a></li>
 <li><a href="/cnnews/20220606/1742173.md">主人排队核酸，遥控哈士奇按电饭煲，没想到…</a></li>
 <li><a href="/topimagenews/20220606/1742328.md">习近平拿到更多话语权？中共权贵圈子的潜在挑战【阿波罗网报导】</a></li>
+<li><a href="/cnnews/20220606/1742398.md">加州华裔女大闹星巴克 辱骂店长“滚回你的国家”</a></li>
+<li><a href="/topimagenews/20220606/1742296.md">中共卫健委下猛药 地方官员喝这一壶？【阿波罗网报导】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220607/1742558.md" target="_blank">紧握“笔杆子” 习近平文胆入主中宣部要职</a></li>
+<li><a href="/comments/20220607/1742557.md" target="_blank">丰田瞄准一个新兴市场，在北美会出新皮卡？</a></li>
 <li><a href="/comments/20220607/1742545.md" target="_blank">李燕铭：习近平清洗石油帮 围剿曾庆红（四） 东北石油大学原校长刘扬被查 其搭档东北石油大学原党委书记孙彦彬获刑五年减刑三个月出狱 原党委副书记徐延卿被捕 东北石油大学被誉为石油界黄埔军校 多个正部级知名校友落马 其中包括李克强的人事大管家 名单揭秘</a></li>
 <li><a href="/comments/20220607/1742544.md" target="_blank">中共称解除监管 滴滴退市前波动伤害散户</a></li>
 <li><a href="/comments/20220607/1742540.md" target="_blank">宾利姐大战劳斯莱斯哥，这些斯文扫地的亿万富翁</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220606/1742384.md" target="_blank">疫情导致“屁股痛”？ 久坐当心「深臀症候群」上身</a></li>
 <li><a href="/comments/20220606/1742383.md" target="_blank">六月后多喝2碗“肉汤”，身体好得不得了！冬病夏治正当时</a></li>
 <li><a href="/comments/20220606/1742382.md" target="_blank">二十四节气之：芒种</a></li>
-<li><a href="/comments/20220606/1742373.md" target="_blank">限量抢购：丹麦夏季特价火车票畅游全境</a></li>
-<li><a href="/comments/20220606/1742347.md" target="_blank">“出狱焦虑综合症”：来自上海的《出小区记》</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
 <li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 
 </ul>
 </div>
