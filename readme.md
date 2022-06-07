@@ -5,13 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220606/1742228.md">痛批李克强？中纪委杂志大骂两大宰相【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220606/1742423.md">习贴身大秘被抓，对局势的影响非同小可？李克强的经济重建，有一个危险先例？排队续命，人的保质期不如一块豆腐？！专家称，中共核检是干柴烈火，随时引爆疫情？【蔚然 财商天下】2022.06.06</a></li>
-<li><a href="/cbnews/20220606/1742294.md">大陆网红六四33周年端坦克蛋糕 直播秒被封</a></li>
 <li><a href="/ssgc/20220606/1742315.md">习近平与中国悲剧的未来</a></li>
+<li><a href="/cbnews/20220606/1742294.md">大陆网红六四33周年端坦克蛋糕 直播秒被封</a></li>
 <li><a href="/cbnews/20220607/1742532.md">50辆宾利和高层老公一夜之间都没了 宾利贵妇发声 妻子变女朋友</a></li>
-<li><a href="/cnnews/20220606/1742332.md">看看昨夜上海的72小时核酸队伍，像话吗？</a></li>
 <li><a href="/bannedvideo/20220606/1742427.md">“习下李上”最可能的结局……不破中共帮规，习早已准备！</a></li>
+<li><a href="/cnnews/20220606/1742332.md">看看昨夜上海的72小时核酸队伍，像话吗？</a></li>
 <li><a href="/topimagenews/20220606/1742337.md">中共高层人事异动 习近平要破江泽民规矩让他留任【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220606/1742465.md">印度神童喊6月有大事 世界震撼</a></li>
 <li><a href="/cnnews/20220606/1742408.md">东北最后一个千万人口城市哈尔滨，被踢出群聊…</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20220606/1742285.md">【微博精粹】六四维园今昔——180000：1</a></li>
 <li><a href="/lifebaike/20220606/1742286.md">【老照片】谷爱凌剽窃六四学生话语后成《人民日报》金句</a></li>
 <li><a href="/topimagenews/20220606/1742329.md">疯狂！铁链女所在地派出所所长获评全国优秀 震惊全国 全网沸腾</a></li>
+<li><a href="/cbnews/20220606/1742256.md">天亮时分：被封三天，李佳琦变成薇娅？“50辆宾利”堵车位，嚣张女靠山是谁？拜登考虑削减中国关税，如何落实？（政论天下第715集 20220605）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220607/1742708.md" target="_blank">天亮时分：马斯克收购推特破局？！李克强抓经济，吉凶未卜；宾利姐大战劳斯哥的隐情和铁链女的後续</a></li>
 <li><a href="/cbnews/20220607/1742650.md" target="_blank">太敢说！山西女护士在开会时斥责领导废话太多</a></li>
 <li><a href="/cbnews/20220607/1742635.md" target="_blank">面试被问：一瓶水怎卖到5百元？他神回1句 震惊面试官</a></li>
 <li><a href="/cbnews/20220607/1742582.md" target="_blank">中国大学老师水准这么差! 竟在网络留言对女性“先奸后杀、再奸再杀”</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220605/1741917.md" target="_blank">天亮时分：核酸绿码可团购；李佳琦直播间被封，和谐号动车出轨；乌克兰损失20%领土，俄公布第三阶段军事行动，乌克兰八月反攻（政论天下第714集 20220604）</a></li>
 <li><a href="/cbnews/20220605/1741782.md" target="_blank">德驻北京使馆六四发帖又被删 使馆：&#8221;每年都发，十分钟之内被删&#8221;</a></li>
 <li><a href="/cbnews/20220604/1741585.md" target="_blank">贵州动车车头出轨 撞得稀烂 司机当场身亡 更多细节曝光</a></li>
-<li><a href="/cbnews/20220604/1741579.md" target="_blank">江峰：国务院重大通知，飞行突检：医保基金用于核酸检测违规，直接剥夺习近平清零政策的财权，同时全国大检查开始清算看不清方向的官员；六四悼念新动向：香港灯灭，世界光起【江峰漫谈20220603第496期】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220607/1742713.md" target="_blank">挑衅新华字典，撞墙了，撞的鼻青脸肿</a></li>
+<li><a href="/comments/20220607/1742703.md" target="_blank">李燕铭：习反击江曾金融政变 许家印恒大危机深度内幕（三三） 亿万富翁许家印将在债务深渊中吹响熄灯号 恒大物业134亿被强制执行 恒大转让杭州水晶城项目 恒大系三家公司延期披露业绩 恒大风险化解委员会委员陈勇：7月底前提出重组方案</a></li>
 <li><a href="/comments/20220607/1742695.md" target="_blank">【中南火海】82 “特别党员” 镶钻的枷锁 下</a></li>
 <li><a href="/comments/20220607/1742694.md" target="_blank">宋国诚：习近平与中国悲剧的未来</a></li>
 <li><a href="/comments/20220607/1742692.md" target="_blank">李燕铭：习反击江曾金融政变 许家印恒大危机深度内幕（三二） 许家印降价亿元抛售深圳豪宅 恒大两名高管被限制高消费 恒大危机公开之前总裁夏海钧套现11.8亿元</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220606/1742456.md" target="_blank">时事大家谈：新华社预告战“疫”纪录片，上海丧事喜办何以服众？</a></li>
 <li><a href="/comments/20220606/1742442.md" target="_blank">美国面临创历史纪录的干旱</a></li>
 <li><a href="/comments/20220606/1742424.md" target="_blank">人类终极问题 永生！一种蛋白质“端粒酶”延长60万亿细胞的分裂次数，不再是梦！超越认知的地球上“永生生命”！抗衰老、冻龄比不了的永生秘笈⋯⋯</a></li>
-<li><a href="/comments/20220606/1742422.md" target="_blank">古人们的医道 中医中的玄学</a></li>
-<li><a href="/comments/20220606/1742421.md" target="_blank">指甲有竖纹是对健康的警示</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
 <li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
 <li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 
 </ul>
 </div>
