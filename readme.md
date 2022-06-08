@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20220607/1742837.md">“清零”突变“九不准” 政治局常委5人挺李? 专家：持续到二十大</a></li>
 <li><a href="/topimagenews/20220607/1742931.md">宾利贵妇与国企高层定情宴美照疯传 车位事件众人“紧急变穷” 原来中共官方出手了</a></li>
-<li><a href="/bannedvideo/20220607/1742859.md">上海，魔鬼城市再也不来了；上海静安区临汾花园小区连夜焊门，解封无望；上海陕西南路居民反抗封控；“政府一帮子畜牲”上海市民当官员的面骂导；政府抢手机，派出所不立案。【 #大陆民生 】</a></li>
 <li><a href="/topimagenews/20220608/1743049.md">宾利姐“结婚照”被曝光！碰瓷男子身份也被揭</a></li>
+<li><a href="/bannedvideo/20220607/1742859.md">上海，魔鬼城市再也不来了；上海静安区临汾花园小区连夜焊门，解封无望；上海陕西南路居民反抗封控；“政府一帮子畜牲”上海市民当官员的面骂导；政府抢手机，派出所不立案。【 #大陆民生 】</a></li>
 <li><a href="/bannedvideo/20220607/1742863.md">释学诚，中共最高级别的大和尚，竟是大色魔？好色、敛财、违建寺庙，祸乱宗教界大搞权色交易，一起来了解的释学诚的丑闻……｜ #百年真相</a></li>
+<li><a href="/topimagenews/20220608/1743040.md">不寻常信号！当前中国正有三支队伍正排队下乡</a></li>
 <li><a href="/topimagenews/20220608/1743009.md">图穷匕见！猪队友让中共露出“大尾巴”</a></li>
 <li><a href="/bannedvideo/20220608/1743017.md">🔥劲爆！习被边控？幕后人物浮出水面；太敢说！山西女护士开会时斥领导废话太多；“中共正成为世界孤儿”；大陆互联网大厂员工被花式降薪；俄黑海舰队躲砲袭后撤逾100公里；美油价狂飙拜登被骂翻【阿波罗网HL】</a></li>
-<li><a href="/topimagenews/20220608/1743040.md">不寻常信号！当前中国正有三支队伍正排队下乡</a></li>
 <li><a href="/bannedvideo/20220607/1742836.md">学者爆中共打击互联网巨头的真实原因</a></li>
 <li><a href="/headline/20220608/1742970.md">中国学者语出惊人：如遭遇西方毁灭式制裁，北京将收复台湾夺取台积电</a></li>
 <li><a href="/comments/20220607/1742856.md">世界高血压联盟全球倡议：把家里盐换了</a></li>
 <li><a href="/worldnews/usa/20220608/1743020.md">白宫：将在两年内停止向来自柬埔寨、马来西亚、泰国和越南的太阳能电池板征收关税</a></li>
 <li><a href="/topimagenews/20220608/1743059.md">几句话就戳破了！习近平宣传短片泄露真相！【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220607/1742869.md">清零失败想甩锅？卫健委发布防疫“九不准”</a></li>
 <li><a href="/baitai/20220608/1742977.md">梁京：习李矛盾公开化与「後习近平时代」的到来</a></li>
-<li><a href="/baitai/20220607/1742865.md">格十三｜上海复工后，最先挤爆的是离婚登记</a></li>
+<li><a href="/bannedvideo/20220607/1742869.md">清零失败想甩锅？卫健委发布防疫“九不准”</a></li>
 <li><a href="/bannedvideo/20220608/1743058.md">华春莹否认搬李佳琦石头砸碎党药葫芦，习近平王沪宁肠悔青！党蠢到天际，民族希望真来了</a></li>
-<li><a href="/comments/20220607/1742940.md">李佳琦坦克冰淇淋蛋糕事件让近亿粉丝得知六四事件</a></li>
+<li><a href="/baitai/20220607/1742865.md">格十三｜上海复工后，最先挤爆的是离婚登记</a></li>
 <li><a href="/health/20220607/1742820.md">腐乳是营养佳品还是致癌食物？现在知道答案还不晚，这些人要少吃</a></li>
+<li><a href="/comments/20220607/1742940.md">李佳琦坦克冰淇淋蛋糕事件让近亿粉丝得知六四事件</a></li>
 <li><a href="/comments/20220608/1743027.md">外媒传普京向习近平求援遇冷 中俄关系现裂痕</a></li>
 <li><a href="/bannedvideo/20220608/1742995.md">惨了！【红朝禁闻】</a></li>
 <li><a href="/ssgc/20220608/1743079.md">〖兲朝浮世绘〗有这样的恐怖分子学者，中国能步入正道吗！？</a></li>
-<li><a href="/cbnews/20220607/1742959.md">中共喊抢台积电！于北辰：解放军芯片未升级开始急了</a></li>
+<li><a href="/topimagenews/20220608/1743118.md">习近平被边控？政治传闻幕后人物浮出水面【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
 <li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 <li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
 
 </ul>
 </div>
