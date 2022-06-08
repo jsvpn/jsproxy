@@ -16,18 +16,18 @@
 <li><a href="/bannedvideo/20220607/1742836.md">学者爆中共打击互联网巨头的真实原因</a></li>
 <li><a href="/bannedvideo/20220608/1743017.md">🔥劲爆！习被边控？幕后人物浮出水面；太敢说！山西女护士开会时斥领导废话太多；“中共正成为世界孤儿”；大陆互联网大厂员工被花式降薪；俄黑海舰队躲砲袭后撤逾100公里；美油价狂飙拜登被骂翻【阿波罗网HL】</a></li>
 <li><a href="/topimagenews/20220608/1743049.md">宾利姐“结婚照”被曝光！碰瓷男子身份也被揭</a></li>
-<li><a href="/comments/20220607/1742856.md">世界高血压联盟全球倡议：把家里盐换了</a></li>
-<li><a href="/headline/20220608/1742970.md">中国学者语出惊人：如遭遇西方毁灭式制裁，北京将收复台湾夺取台积电</a></li>
 <li><a href="/topimagenews/20220608/1743040.md">不寻常信号！当前中国正有三支队伍正排队下乡</a></li>
+<li><a href="/headline/20220608/1742970.md">中国学者语出惊人：如遭遇西方毁灭式制裁，北京将收复台湾夺取台积电</a></li>
+<li><a href="/comments/20220607/1742856.md">世界高血压联盟全球倡议：把家里盐换了</a></li>
 <li><a href="/bannedvideo/20220607/1742869.md">清零失败想甩锅？卫健委发布防疫“九不准”</a></li>
-<li><a href="/baitai/20220607/1742865.md">格十三｜上海复工后，最先挤爆的是离婚登记</a></li>
-<li><a href="/baitai/20220608/1742977.md">梁京：习李矛盾公开化与「後习近平时代」的到来</a></li>
-<li><a href="/topimagenews/20220607/1742784.md">西方支持不会天长地久! 泽连斯基示警: 战事拖越久越会压迫乌接受“不想要的”结果</a></li>
 <li><a href="/worldnews/usa/20220608/1743020.md">白宫：将在两年内停止向来自柬埔寨、马来西亚、泰国和越南的太阳能电池板征收关税</a></li>
+<li><a href="/baitai/20220608/1742977.md">梁京：习李矛盾公开化与「後习近平时代」的到来</a></li>
+<li><a href="/baitai/20220607/1742865.md">格十三｜上海复工后，最先挤爆的是离婚登记</a></li>
+<li><a href="/topimagenews/20220607/1742784.md">西方支持不会天长地久! 泽连斯基示警: 战事拖越久越会压迫乌接受“不想要的”结果</a></li>
+<li><a href="/topimagenews/20220608/1743059.md">几句话就戳破了！习近平宣传短片泄露真相！【阿波罗网报道】</a></li>
 <li><a href="/health/20220607/1742820.md">腐乳是营养佳品还是致癌食物？现在知道答案还不晚，这些人要少吃</a></li>
 <li><a href="/comments/20220607/1742940.md">李佳琦坦克冰淇淋蛋糕事件让近亿粉丝得知六四事件</a></li>
 <li><a href="/cbnews/20220607/1742793.md">拜登政府偷偷对中共释放和解信号，关税制裁解禁在即。关键时刻掉链子，或引发同盟全面崩溃</a></li>
-<li><a href="/headline/20220607/1742841.md">北京解禁：民众很高兴</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220608/1743104.md" target="_blank">中共封杀！掀起中国人民学习它的新高潮【阿波罗网报导】</a></li>
+<li><a href="/topimagenews/20220608/1743103.md" target="_blank">不要羞辱俄罗斯？泽伦斯基狠酸马克宏…</a></li>
 <li><a href="/topimagenews/20220608/1743100.md" target="_blank">屠杀战俘和平民 恶名昭彰的俄罗斯刽子手被乌克兰狙击手击毙</a></li>
 <li><a href="/topimagenews/20220608/1743093.md" target="_blank">“第一个喊4000点”的美女分析师 被调查问责</a></li>
 <li><a href="/topimagenews/20220608/1743090.md" target="_blank">这次，天体物理学家不知道自己发现了什么？</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20220606/1742465.md" target="_blank">印度神童喊6月有大事 世界震撼</a></li>
 <li><a href="/topimagenews/20220606/1742392.md" target="_blank">火光冲天！孟加拉货柜场爆炸 大火连烧2天 至少49死包含9消防员</a></li>
 <li><a href="/topimagenews/20220606/1742391.md" target="_blank">上海抗疫需外援 中国医疗体系不堪一击</a></li>
-<li><a href="/topimagenews/20220606/1742365.md" target="_blank">乌克兰“指名”要瑞典军援RBS-17 原来可以“海陆两用”</a></li>
-<li><a href="/topimagenews/20220606/1742338.md" target="_blank">这武器对战争影响最大 专家：让乌克兰苦苦奋战</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220608/1743101.md" target="_blank">欧洲最棒冰淇淋店 夏季旅行中的亮点</a></li>
 <li><a href="/comments/20220608/1743063.md" target="_blank">【小说连载】日初天子 四、被放逐的贵公子(2)</a></li>
 <li><a href="/comments/20220608/1743047.md" target="_blank">【文逸飞专栏】后天的隐士</a></li>
 <li><a href="/comments/20220608/1743028.md" target="_blank">中国高考首日 多地状况频出 传女生上吊自杀</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220607/1742928.md" target="_blank">时事大家谈：习氏民主在进步台湾民主在倒退？马英九结论惹争议</a></li>
 <li><a href="/comments/20220607/1742907.md" target="_blank">法官求撤名与博士退党</a></li>
 <li><a href="/comments/20220607/1742897.md" target="_blank">撰文质疑屈原、刘胡兰 云南前教育厅长被检举违法</a></li>
-<li><a href="/comments/20220607/1742896.md" target="_blank">绕过俄罗斯封锁 美国第一大粮商5千吨玉米 顺利运出乌克兰</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 <li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
 <li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 
 </ul>
 </div>
