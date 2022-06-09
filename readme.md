@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/baitai/20220608/1743136.md">写在中国政治大变革前夜</a></li>
 <li><a href="/bannedvideo/20220608/1743155.md">突发！盐湖城冬奥会审委会回应：谷爱凌不是申奥大使，角色待定！但另一名华人冠军陈巍已经正式上任！</a></li>
 <li><a href="/bannedvideo/20220608/1743194.md">陈破空：李克强怒查核酸腐败！盛传丁薛祥涉案？习家军人人自危。中共女狂人大喊：攻台，抢夺台积电</a></li>
 <li><a href="/bannedvideo/20220608/1743174.md">对军队出手了 习权不稳？英媒：不能忽略这几个信号；它刊反诗鼓励高考生【两岸要闻】</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/topimagenews/20220609/1743353.md">重磅突发！中国民生证券董事长被抓</a></li>
 <li><a href="/bannedvideo/20220608/1743157.md">10万悬赏当天实施针对谁？人民日报头版头条：“习近平论强军兴军三”印发全军死保二十大！再谈习幕僚长“被带走”！</a></li>
 <li><a href="/bannedvideo/20220608/1743231.md">🔥李克强讲话被删，央视、新华社大不同；华春莹遭美打脸捏造虚假信息危及在大陆外交官安全；猪队友让中共露大尾巴；俄粉被打脸！小粉红众多场景被戳穿集体造谣；痛心！俄为什么要炸烂中企在乌工厂 LS</a></li>
-<li><a href="/ssgc/20220609/1743334.md">评论 | 胡平：把这三条消息连起来看，很有意思......</a></li>
 <li><a href="/comments/20220609/1743348.md">上海紧急召开稳外资圆桌会议 遭商会主席怒怼</a></li>
+<li><a href="/ssgc/20220609/1743334.md">评论 | 胡平：把这三条消息连起来看，很有意思......</a></li>
 <li><a href="/topimagenews/20220608/1743181.md">极端变态 郑州中学男老师着旗袍出场 是育人还是毁人？【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220609/1743343.md">爆粗口！普京怒批习近平支持不力；大陆高考首日数学题泄露；中共发动抓间谍运动，“全民皆谍”时代开启；柏林购物街汽车冲撞人群，1亡5重伤；马里乌波尔乌克兰士兵被转送俄罗斯【#全球新闻】</a></li>
 <li><a href="/topimagenews/20220609/1743374.md">热线被打爆！上海出现一个很大的危机</a></li>
-<li><a href="/topimagenews/20220608/1743168.md">有望让俄军付出代价！西方军援先进武器不会用 乌军得靠翻译软件自学</a></li>
 <li><a href="/comments/20220608/1743142.md">岁月不再静好：习近平的封城文革正在摧毁政权的基础 — 曾节明</a></li>
+<li><a href="/bannedvideo/20220609/1743343.md">爆粗口！普京怒批习近平支持不力；大陆高考首日数学题泄露；中共发动抓间谍运动，“全民皆谍”时代开启；柏林购物街汽车冲撞人群，1亡5重伤；马里乌波尔乌克兰士兵被转送俄罗斯【#全球新闻】</a></li>
+<li><a href="/topimagenews/20220608/1743168.md">有望让俄军付出代价！西方军援先进武器不会用 乌军得靠翻译软件自学</a></li>
 <li><a href="/comments/20220609/1743337.md">中国白血病患者挤爆医院 控诉国产疫苗致病者遭打压</a></li>
 <li><a href="/renquan/20220609/1743365.md">踩“六四”红线李佳琦被封杀 网络现象级震动</a></li>
 <li><a href="/topimagenews/20220609/1743384.md">上海政府如此甩锅：“不知道他们这么不要脸”</a></li>
+<li><a href="/topimagenews/20220609/1743415.md">李克强讲话被删减！央视、新华社版本大不同【阿波罗网报道】</a></li>
 <li><a href="/comments/20220609/1743307.md">李燕铭：习近平连任与二十大常委争夺战（二六） 习亲信军委办公厅主任钟绍军被双规？习近平被夺权被边控？政治传闻幕后人物浮出水面 江曾势力“爆料”或适得其反 习近平北戴河会前再度强化对枪杆子的控制 或对政敌痛下狠手</a></li>
 <li><a href="/bannedvideo/20220609/1743358.md">被美打脸！谷爱凌自封美国“申奥大使”美国申奥会：申奥大使是陈巍。谷爱凌角色待定！【每日头条】</a></li>
-<li><a href="/topimagenews/20220609/1743415.md">李克强讲话被删减！央视、新华社版本大不同【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220609/1743344.md">🔥传普京大骂习近平殃及俄外长；谷爱玲自封美国申奥大使，尴尬了；中国高考泄题! 官方大忽悠 网不买账；中国男老师极端变态；上海多小区再封民出逃 勇者奋起；西方武器不会用乌军靠翻译软件</a></li>
 <li><a href="/topimagenews/20220608/1743158.md">梅克尔揭反对乌加入北约2大主因</a></li>
+<li><a href="/ssgc/20220608/1743144.md">谷爱凌担任美国2030年申奥大使惹议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
 <li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
 <li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 <li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
 <li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 
 </ul>
 </div>
