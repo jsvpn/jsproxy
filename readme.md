@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20220609/1743374.md">热线被打爆！上海出现一个很大的危机</a></li>
 <li><a href="/bannedvideo/20220609/1743516.md">习四川行真藏危机？下榻处不一般 这事搞不好会让中共崩溃【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220609/1743343.md">爆粗口！普京怒批习近平支持不力；大陆高考首日数学题泄露；中共发动抓间谍运动，“全民皆谍”时代开启；柏林购物街汽车冲撞人群，1亡5重伤；马里乌波尔乌克兰士兵被转送俄罗斯【#全球新闻】</a></li>
-<li><a href="/comments/20220609/1743337.md">中国白血病患者挤爆医院 控诉国产疫苗致病者遭打压</a></li>
 <li><a href="/comments/20220609/1743407.md">中国女主持口鼻冒血猝死 真相曝光家属崩溃</a></li>
+<li><a href="/comments/20220609/1743337.md">中国白血病患者挤爆医院 控诉国产疫苗致病者遭打压</a></li>
 <li><a href="/cbnews/20220609/1743474.md">澳洲华人去举牌习近平XXX事件后续：袭击记者的华人小哥当庭认罪悔恨不已，被法官重罚</a></li>
 <li><a href="/topimagenews/20220609/1743437.md">中国经济面临五大困境 中共十年之内会完蛋</a></li>
 <li><a href="/topimagenews/20220609/1743384.md">上海政府如此甩锅：“不知道他们这么不要脸”</a></li>
 <li><a href="/headline/20220609/1743505.md">习近平在四川：特斯拉一律不准进入成都市区</a></li>
 <li><a href="/comments/20220609/1743452.md">高层内斗公开化 习近平出访四川 破病重传闻</a></li>
-<li><a href="/ssgc/20220609/1743439.md">〖兲朝浮世绘〗中俄友谊的小船说翻就要翻了</a></li>
 <li><a href="/bannedvideo/20220609/1743515.md">F-35A夜袭朝鲜核设施，美军眼看跨过鸭绿江；普京得北顿心切，乌军将计就计；#新冷战情室</a></li>
+<li><a href="/ssgc/20220609/1743439.md">〖兲朝浮世绘〗中俄友谊的小船说翻就要翻了</a></li>
 <li><a href="/cbnews/20220609/1743414.md">天亮时分：习总反击李中堂，中纪委痛批“李宰相”；中共造谣新境界，美国忍无可忍；谁跟你共情？谷爱凌、宾利姐还是铁链女？（政论天下第718集 20220608）</a></li>
 <li><a href="/renquan/20220609/1743365.md">踩“六四”红线李佳琦被封杀 网络现象级震动</a></li>
 <li><a href="/bannedvideo/20220609/1743358.md">被美打脸！谷爱凌自封美国“申奥大使”美国申奥会：申奥大使是陈巍。谷爱凌角色待定！【每日头条】</a></li>
 <li><a href="/bannedvideo/20220609/1743527.md">陈破空：忽然！习近平现身四川，辟谣意味重！习派仍操控党媒，每天删减李克强讲话！小动作不断，但是</a></li>
 <li><a href="/bannedvideo/20220609/1743344.md">🔥传普京大骂习近平殃及俄外长；谷爱玲自封美国申奥大使，尴尬了；中国高考泄题! 官方大忽悠 网不买账；中国男老师极端变态；上海多小区再封民出逃 勇者奋起；西方武器不会用乌军靠翻译软件</a></li>
-<li><a href="/comments/20220609/1743351.md">李燕铭：二十大高层人事大战（三三） 习亲信陈敏尔成江派打击目标 一则传言落空 陈敏尔大秘李明清一年三度履新晋升重庆市委副书记 59岁安徽帮吴存荣贬任闲职 无缘晋升正部级</a></li>
 <li><a href="/comments/20220609/1743450.md">习近平四川考察露倦容 多数人不戴口罩</a></li>
+<li><a href="/comments/20220609/1743351.md">李燕铭：二十大高层人事大战（三三） 习亲信陈敏尔成江派打击目标 一则传言落空 陈敏尔大秘李明清一年三度履新晋升重庆市委副书记 59岁安徽帮吴存荣贬任闲职 无缘晋升正部级</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220610/1743630.md" target="_blank">如何去除肉类的腥膻异味 赶紧收藏起来吧</a></li>
 <li><a href="/comments/20220610/1743625.md" target="_blank">湖北襄阳军机撞毁在民宅 多人死伤</a></li>
 <li><a href="/comments/20220610/1743624.md" target="_blank">被宠姬闷死的是他爸 最白痴的皇帝是他哥 然后这皇帝居然也被棉被闷死了</a></li>
 <li><a href="/comments/20220610/1743620.md" target="_blank">江曾另类政变进行时 中共末日乱象纷呈 43起重大凶杀伤亡惨案密集爆发（持续更新） 习近平视察海南后半个月内发生三起枪击案 重庆警察处理交通事故竟开枪打死一人 京畿重地河北连发爆炸驾车撞人惨案 湖南河南高楼起火坍塌数十人死亡 东航客机坠毁132人罹难疑蓄意坠机</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220609/1743468.md" target="_blank">李燕铭：习近平清洗重庆帮（十） 陈敏尔大秘李明清晋升重庆副书记兼任政法委书记 薄熙来孙政才旧部刘强卸任政法委书记 刘强副手谭晓荣主动投案 中央巡视组罕见表扬重庆陈敏尔 三大事件连环发生 重庆政法系统掀清洗风暴 多省副书记兼任政法委书记 习近平二十大前加强掌控刀把子 习近平清洗刀把子严防江曾二十大政变（三四）</a></li>
 <li><a href="/comments/20220609/1743467.md" target="_blank">恐袭阴云再现？德国柏林发生恶性汽车撞人伤亡事件</a></li>
 <li><a href="/comments/20220609/1743465.md" target="_blank">向中企发送卫星火箭蓝图 三家美企被制裁</a></li>
-<li><a href="/comments/20220609/1743452.md" target="_blank">高层内斗公开化 习近平出访四川 破病重传闻</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
 <li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 
 </ul>
 </div>
