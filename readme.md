@@ -6,10 +6,8 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220608/1743118.md">习近平被边控？政治传闻幕后人物浮出水面【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220608/1743058.md">华春莹否认搬李佳琦石头砸碎党药葫芦，习近平王沪宁肠悔青！党蠢到天际，民族希望真来了</a></li>
 <li><a href="/bannedvideo/20220608/1743155.md">突发！盐湖城冬奥会审委会回应：谷爱凌不是申奥大使，角色待定！但另一名华人冠军陈巍已经正式上任！</a></li>
 <li><a href="/baitai/20220608/1743136.md">写在中国政治大变革前夜</a></li>
-<li><a href="/topimagenews/20220608/1743059.md">几句话就戳破了！习近平宣传短片泄露真相！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220608/1743194.md">陈破空：李克强怒查核酸腐败！盛传丁薛祥涉案？习家军人人自危。中共女狂人大喊：攻台，抢夺台积电</a></li>
 <li><a href="/bannedvideo/20220608/1743075.md">宾利姐内裤值7千，张晓中现场压人；国企书记夫人是假？究竟谁在撒谎？高考试题泄漏，教育部不置可否；作弊无人发现？中共可能的做法；高校就业率真相，假签才发毕业证【新闻看点 李沐阳6.8】</a></li>
 <li><a href="/topimagenews/20220608/1743119.md">上海再封锁 市民反抗 高呼“自由、平等、民主、法治”【阿波罗网报道】</a></li>
@@ -26,8 +24,10 @@
 <li><a href="/topimagenews/20220608/1743168.md">有望让俄军付出代价！西方军援先进武器不会用 乌军得靠翻译软件自学</a></li>
 <li><a href="/comments/20220608/1743142.md">岁月不再静好：习近平的封城文革正在摧毁政权的基础 — 曾节明</a></li>
 <li><a href="/topimagenews/20220608/1743093.md">“第一个喊4000点”的美女分析师 被调查问责</a></li>
+<li><a href="/ssgc/20220609/1743334.md">评论 | 胡平：把这三条消息连起来看，很有意思......</a></li>
 <li><a href="/ssgc/20220608/1743144.md">谷爱凌担任美国2030年申奥大使惹议</a></li>
 <li><a href="/topimagenews/20220608/1743100.md">屠杀战俘和平民 恶名昭彰的俄罗斯刽子手被乌克兰狙击手击毙</a></li>
+<li><a href="/topimagenews/20220608/1743158.md">梅克尔揭反对乌加入北约2大主因</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220609/1743407.md" target="_blank">中国女主持口鼻冒血猝死 真相曝光家属崩溃</a></li>
 <li><a href="/comments/20220609/1743363.md" target="_blank">脑科学研究：出出汗，大脑更强大</a></li>
 <li><a href="/comments/20220609/1743351.md" target="_blank">李燕铭：二十大高层人事大战（三三） 习亲信陈敏尔成江派打击目标 一则传言落空 陈敏尔大秘李明清一年三度履新晋升重庆市委副书记 59岁安徽帮吴存荣贬任闲职 无缘晋升正部级</a></li>
 <li><a href="/comments/20220609/1743348.md" target="_blank">上海紧急召开稳外资圆桌会议 遭商会主席怒怼</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220608/1743189.md" target="_blank">营养师公开痛风饮食原则不藏私</a></li>
 <li><a href="/comments/20220608/1743188.md" target="_blank">不吃不喝想瘦？ 其实：基础代谢率下降效果更差</a></li>
 <li><a href="/comments/20220608/1743187.md" target="_blank">女性常吃4种食物有助延缓“衰老”</a></li>
-<li><a href="/comments/20220608/1743186.md" target="_blank">新冠病毒致耳鸣 研究：康复后发生率仍有14.8％</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 <li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 
 </ul>
 </div>
