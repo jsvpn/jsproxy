@@ -5,12 +5,10 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220608/1743118.md">习近平被边控？政治传闻幕后人物浮出水面【阿波罗网报道】</a></li>
 <li><a href="/baitai/20220608/1743136.md">写在中国政治大变革前夜</a></li>
 <li><a href="/bannedvideo/20220608/1743155.md">突发！盐湖城冬奥会审委会回应：谷爱凌不是申奥大使，角色待定！但另一名华人冠军陈巍已经正式上任！</a></li>
 <li><a href="/bannedvideo/20220608/1743194.md">陈破空：李克强怒查核酸腐败！盛传丁薛祥涉案？习家军人人自危。中共女狂人大喊：攻台，抢夺台积电</a></li>
 <li><a href="/bannedvideo/20220608/1743174.md">对军队出手了 习权不稳？英媒：不能忽略这几个信号；它刊反诗鼓励高考生【两岸要闻】</a></li>
-<li><a href="/topimagenews/20220608/1743119.md">上海再封锁 市民反抗 高呼“自由、平等、民主、法治”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220608/1743276.md">中俄友谊说假的？普丁怒习近平无帮助 飙骂俄外长：混蛋</a></li>
 <li><a href="/topimagenews/20220609/1743353.md">重磅突发！中国民生证券董事长被抓</a></li>
 <li><a href="/bannedvideo/20220608/1743157.md">10万悬赏当天实施针对谁？人民日报头版头条：“习近平论强军兴军三”印发全军死保二十大！再谈习幕僚长“被带走”！</a></li>
@@ -23,11 +21,13 @@
 <li><a href="/bannedvideo/20220609/1743343.md">爆粗口！普京怒批习近平支持不力；大陆高考首日数学题泄露；中共发动抓间谍运动，“全民皆谍”时代开启；柏林购物街汽车冲撞人群，1亡5重伤；马里乌波尔乌克兰士兵被转送俄罗斯【#全球新闻】</a></li>
 <li><a href="/comments/20220608/1743142.md">岁月不再静好：习近平的封城文革正在摧毁政权的基础 — 曾节明</a></li>
 <li><a href="/topimagenews/20220609/1743374.md">热线被打爆！上海出现一个很大的危机</a></li>
+<li><a href="/renquan/20220609/1743365.md">踩“六四”红线李佳琦被封杀 网络现象级震动</a></li>
 <li><a href="/comments/20220609/1743307.md">李燕铭：习近平连任与二十大常委争夺战（二六） 习亲信军委办公厅主任钟绍军被双规？习近平被夺权被边控？政治传闻幕后人物浮出水面 江曾势力“爆料”或适得其反 习近平北戴河会前再度强化对枪杆子的控制 或对政敌痛下狠手</a></li>
+<li><a href="/topimagenews/20220609/1743384.md">上海政府如此甩锅：“不知道他们这么不要脸”</a></li>
 <li><a href="/topimagenews/20220608/1743158.md">梅克尔揭反对乌加入北约2大主因</a></li>
 <li><a href="/bannedvideo/20220609/1743344.md">🔥传普京大骂习近平殃及俄外长；谷爱玲自封美国申奥大使，尴尬了；中国高考泄题! 官方大忽悠 网不买账；中国男老师极端变态；上海多小区再封民出逃 勇者奋起；西方武器不会用乌军靠翻译软件</a></li>
-<li><a href="/renquan/20220609/1743365.md">踩“六四”红线李佳琦被封杀 网络现象级震动</a></li>
 <li><a href="/ssgc/20220608/1743144.md">谷爱凌担任美国2030年申奥大使惹议</a></li>
+<li><a href="/bannedvideo/20220609/1743358.md">被美打脸！谷爱凌自封美国“申奥大使”美国申奥会：申奥大使是陈巍。谷爱凌角色待定！【每日头条】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220609/1743462.md" target="_blank">曾“三秒内连摔三次” 拜登上“空军一号”再度险摔</a></li>
 <li><a href="/topimagenews/20220609/1743437.md" target="_blank">中国经济面临五大困境 中共十年之内会完蛋</a></li>
 <li><a href="/topimagenews/20220609/1743433.md" target="_blank">胡锡进呛攻台不留台独活口 日媒狠酸</a></li>
 <li><a href="/topimagenews/20220609/1743426.md" target="_blank">入侵乌克兰代价惨重 俄罗斯将毁掉15年的经济收益</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220608/1743049.md" target="_blank">宾利姐“结婚照”被曝光！碰瓷男子身份也被揭</a></li>
 <li><a href="/topimagenews/20220608/1743040.md" target="_blank">不寻常信号！当前中国正有三支队伍正排队下乡</a></li>
 <li><a href="/topimagenews/20220608/1743032.md" target="_blank">日媒爆料：拜登对华投资禁令，原来是假的</a></li>
-<li><a href="/topimagenews/20220608/1743009.md" target="_blank">图穷匕见！猪队友让中共露出“大尾巴”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
 <li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 
 </ul>
 </div>
