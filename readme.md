@@ -7,11 +7,10 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/comments/20220609/1743348.md">上海紧急召开稳外资圆桌会议 遭商会主席怒怼</a></li>
 <li><a href="/topimagenews/20220609/1743353.md">重磅突发！中国民生证券董事长被抓</a></li>
-<li><a href="/topimagenews/20220609/1743374.md">热线被打爆！上海出现一个很大的危机</a></li>
 <li><a href="/topimagenews/20220609/1743415.md">李克强讲话被删减！央视、新华社版本大不同【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20220609/1743374.md">热线被打爆！上海出现一个很大的危机</a></li>
 <li><a href="/bannedvideo/20220609/1743516.md">习四川行真藏危机？下榻处不一般 这事搞不好会让中共崩溃【两岸要闻】</a></li>
 <li><a href="/comments/20220609/1743407.md">中国女主持口鼻冒血猝死 真相曝光家属崩溃</a></li>
-<li><a href="/bannedvideo/20220609/1743343.md">爆粗口！普京怒批习近平支持不力；大陆高考首日数学题泄露；中共发动抓间谍运动，“全民皆谍”时代开启；柏林购物街汽车冲撞人群，1亡5重伤；马里乌波尔乌克兰士兵被转送俄罗斯【#全球新闻】</a></li>
 <li><a href="/topimagenews/20220609/1743437.md">中国经济面临五大困境 中共十年之内会完蛋</a></li>
 <li><a href="/cbnews/20220609/1743474.md">澳洲华人去举牌习近平XXX事件后续：袭击记者的华人小哥当庭认罪悔恨不已，被法官重罚</a></li>
 <li><a href="/topimagenews/20220609/1743384.md">上海政府如此甩锅：“不知道他们这么不要脸”</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/renquan/20220609/1743365.md">踩“六四”红线李佳琦被封杀 网络现象级震动</a></li>
 <li><a href="/bannedvideo/20220609/1743358.md">被美打脸！谷爱凌自封美国“申奥大使”美国申奥会：申奥大使是陈巍。谷爱凌角色待定！【每日头条】</a></li>
 <li><a href="/bannedvideo/20220609/1743527.md">陈破空：忽然！习近平现身四川，辟谣意味重！习派仍操控党媒，每天删减李克强讲话！小动作不断，但是</a></li>
-<li><a href="/bannedvideo/20220609/1743344.md">🔥传普京大骂习近平殃及俄外长；谷爱玲自封美国申奥大使，尴尬了；中国高考泄题! 官方大忽悠 网不买账；中国男老师极端变态；上海多小区再封民出逃 勇者奋起；西方武器不会用乌军靠翻译软件</a></li>
 <li><a href="/bannedvideo/20220609/1743532.md">中纪委发文痛批李宰相，李克强风雨欲来？“抢下台积电”，中共学者口出狂言！外企大撤退，上海急安抚！“世界不会等著中国收拾完烂摊子”；“没有中国也能成功！”【#蔚然 财商天下】2022.06.08</a></li>
 <li><a href="/comments/20220609/1743450.md">习近平四川考察露倦容 多数人不戴口罩</a></li>
 <li><a href="/comments/20220609/1743351.md">李燕铭：二十大高层人事大战（三三） 习亲信陈敏尔成江派打击目标 一则传言落空 陈敏尔大秘李明清一年三度履新晋升重庆市委副书记 59岁安徽帮吴存荣贬任闲职 无缘晋升正部级</a></li>
+<li><a href="/topimagenews/20220609/1743581.md">中纪委说了实话 这才是问题的关键 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220609/1743482.md">中共榨干后就把它甩了？斯里兰卡总统好哀怨：北京转向东南亚和非洲</a></li>
+<li><a href="/topimagenews/20220609/1743489.md">俄罗斯窘了？！二战骨董老炮艇“熊蜂”出海</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
 <li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 
 </ul>
 </div>
