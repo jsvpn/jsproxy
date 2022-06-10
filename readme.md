@@ -18,16 +18,16 @@
 <li><a href="/ssgc/20220610/1743647.md">揭脱贫假象？ 中国网民实拍凉山婚宴传遭警方约谈</a></li>
 <li><a href="/comments/20220610/1743662.md">官场连日大清洗 上海江派高官突然落马 二十大前中共内斗激烈</a></li>
 <li><a href="/bannedvideo/20220609/1743528.md">上海中庚城突然封控，人们惊恐逃窜；上海居民撞开铁门外出，被大白警察包围；上海小姐姐自费做上门核酸，被收1200元；上海“常态化核酸检测”上海人不断的被折腾【 #大陆民生 】</a></li>
-<li><a href="/topimagenews/20220610/1743667.md">惊出一身冷汗：人畜混居 拍摄婚礼视频被喝茶</a></li>
 <li><a href="/baitai/20220610/1743704.md">习遭遇危机赴四川考察证明我披露的中南海动向完全准确</a></li>
+<li><a href="/topimagenews/20220610/1743667.md">惊出一身冷汗：人畜混居 拍摄婚礼视频被喝茶</a></li>
 <li><a href="/topimagenews/20220610/1743731.md">习近平“清零”政策最新指示 借四川“三苏”</a></li>
+<li><a href="/cnnews/20220610/1743862.md">愈演愈烈，反习派开始有所动作了</a></li>
 <li><a href="/topimagenews/20220609/1743489.md">俄罗斯窘了？！二战骨董老炮艇“熊蜂”出海</a></li>
 <li><a href="/headline/20220609/1743509.md">彭博：中国考虑让蚂蚁集团上市</a></li>
-<li><a href="/cnnews/20220610/1743862.md">愈演愈烈，反习派开始有所动作了</a></li>
 <li><a href="/topimagenews/20220610/1743655.md">震惊了美国人！字节跳动在美国输出中国式996</a></li>
 <li><a href="/bannedvideo/20220610/1743631.md">【#中国禁闻】习近平四川考察未戴口罩，清零政策有变？中共空军歼-7飞机湖北坠毁爆炸；美媒曝光中共全球军事野心；北京疫情再升温，多地区被封控；耐克跑步APP停止中国营运，外资加速撤离</a></li>
-<li><a href="/bannedvideo/20220609/1743540.md">🔥习近平不知如何应对，困境前所未有；重磅突发：民生证券董事长被抓；中欧商会主席:世界不会等中共收拾完烂摊子；中共厉害了？海上航舰联动 还没美国这能力；三美企向中企送卫星火箭蓝图被制裁【阿波罗网Y Y】</a></li>
 <li><a href="/bannedvideo/20220610/1743664.md">🔥这3消息连起来看,中共要下手？习近平在四川对特斯拉下禁令；中共全网封视频在此，播主被传唤；俄窘！二战古董老炮艇到乌；上海解封即清算江派高官落马；李克强北京戴口罩习访四川反没戴</a></li>
+<li><a href="/bannedvideo/20220609/1743540.md">🔥习近平不知如何应对，困境前所未有；重磅突发：民生证券董事长被抓；中欧商会主席:世界不会等中共收拾完烂摊子；中共厉害了？海上航舰联动 还没美国这能力；三美企向中企送卫星火箭蓝图被制裁【阿波罗网Y Y】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
 <li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
 
 </ul>
 </div>
