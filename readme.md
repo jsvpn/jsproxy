@@ -12,22 +12,22 @@
 <li><a href="/bannedvideo/20220609/1743527.md">陈破空：忽然！习近平现身四川，辟谣意味重！习派仍操控党媒，每天删减李克强讲话！小动作不断，但是</a></li>
 <li><a href="/topimagenews/20220610/1743701.md">习近平被封新称号，拍马者“玉照”登上人民日报【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220609/1743581.md">中纪委说了实话 这才是问题的关键 【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220609/1743532.md">中纪委发文痛批李宰相，李克强风雨欲来？“抢下台积电”，中共学者口出狂言！外企大撤退，上海急安抚！“世界不会等著中国收拾完烂摊子”；“没有中国也能成功！”【#蔚然 财商天下】2022.06.08</a></li>
 <li><a href="/bannedvideo/20220609/1743554.md">李佳琦的坦克蛋糕，究竟被谁设了局？中纪委的最新一篇文章，透露了幕后操盘手。李佳琦恐怕凶多吉少。</a></li>
+<li><a href="/bannedvideo/20220609/1743532.md">中纪委发文痛批李宰相，李克强风雨欲来？“抢下台积电”，中共学者口出狂言！外企大撤退，上海急安抚！“世界不会等著中国收拾完烂摊子”；“没有中国也能成功！”【#蔚然 财商天下】2022.06.08</a></li>
+<li><a href="/cnnews/20220610/1743862.md">愈演愈烈，反习派开始有所动作了</a></li>
 <li><a href="/ssgc/20220610/1743647.md">揭脱贫假象？ 中国网民实拍凉山婚宴传遭警方约谈</a></li>
 <li><a href="/bannedvideo/20220609/1743528.md">上海中庚城突然封控，人们惊恐逃窜；上海居民撞开铁门外出，被大白警察包围；上海小姐姐自费做上门核酸，被收1200元；上海“常态化核酸检测”上海人不断的被折腾【 #大陆民生 】</a></li>
-<li><a href="/cnnews/20220610/1743862.md">愈演愈烈，反习派开始有所动作了</a></li>
 <li><a href="/topimagenews/20220610/1743731.md">习近平“清零”政策最新指示 借四川“三苏”</a></li>
 <li><a href="/comments/20220610/1743662.md">官场连日大清洗 上海江派高官突然落马 二十大前中共内斗激烈</a></li>
 <li><a href="/baitai/20220610/1743704.md">习遭遇危机赴四川考察证明我披露的中南海动向完全准确</a></li>
 <li><a href="/topimagenews/20220610/1743667.md">惊出一身冷汗：人畜混居 拍摄婚礼视频被喝茶</a></li>
 <li><a href="/headline/20220609/1743509.md">彭博：中国考虑让蚂蚁集团上市</a></li>
+<li><a href="/ssgc/20220610/1743741.md">〖兲朝浮世绘〗习近平刚去过四川，吓得大地发抖四次</a></li>
 <li><a href="/topimagenews/20220610/1743655.md">震惊了美国人！字节跳动在美国输出中国式996</a></li>
+<li><a href="/bannedvideo/20220610/1743664.md">🔥这3消息连起来看,中共要下手？习近平在四川对特斯拉下禁令；中共全网封视频在此，播主被传唤；俄窘！二战古董老炮艇到乌；上海解封即清算江派高官落马；李克强北京戴口罩习访四川反没戴</a></li>
 <li><a href="/bannedvideo/20220609/1743540.md">🔥习近平不知如何应对，困境前所未有；重磅突发：民生证券董事长被抓；中欧商会主席:世界不会等中共收拾完烂摊子；中共厉害了？海上航舰联动 还没美国这能力；三美企向中企送卫星火箭蓝图被制裁【阿波罗网Y Y】</a></li>
 <li><a href="/bannedvideo/20220610/1743631.md">【#中国禁闻】习近平四川考察未戴口罩，清零政策有变？中共空军歼-7飞机湖北坠毁爆炸；美媒曝光中共全球军事野心；北京疫情再升温，多地区被封控；耐克跑步APP停止中国营运，外资加速撤离</a></li>
-<li><a href="/bannedvideo/20220610/1743664.md">🔥这3消息连起来看,中共要下手？习近平在四川对特斯拉下禁令；中共全网封视频在此，播主被传唤；俄窘！二战古董老炮艇到乌；上海解封即清算江派高官落马；李克强北京戴口罩习访四川反没戴</a></li>
 <li><a href="/bannedvideo/20220610/1743674.md">称霸世界梦碎！世界多国纷纷退出中共“17+1”合作、一带一路计画【每日头条】</a></li>
-<li><a href="/ssgc/20220610/1743741.md">〖兲朝浮世绘〗习近平刚去过四川，吓得大地发抖四次</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
 <li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 
 </ul>
 </div>
