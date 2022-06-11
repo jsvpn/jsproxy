@@ -14,7 +14,6 @@
 <li><a href="/topimagenews/20220611/1744392.md">北京头条这则报道浓浓的恶臭味！唐山恶性打人事件上热搜</a></li>
 <li><a href="/cnnews/20220611/1744269.md">董女士说格力手机不比iphone差 我被评论乐翻了</a></li>
 <li><a href="/cnnews/20220611/1744249.md">延安时期的“芳华”与性”事</a></li>
-<li><a href="/yule/20220611/1744194.md">50岁“潘金莲”近照曝光，颜值惊呆众网友</a></li>
 <li><a href="/cnnews/20220611/1744366.md">习近平彭丽媛要来这里了？他们已经被要求隔离</a></li>
 <li><a href="/topimagenews/20220611/1744411.md">惊人大逆转 习近平松手 彭博被放风【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220611/1744417.md">习近平震慑上海帮?审肖建华暗藏玄机【阿波罗网报道】</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/topimagenews/20220611/1744247.md">明抢！俄国人惨了</a></li>
 <li><a href="/bannedvideo/20220611/1744471.md">唐山惊悚殴女案，三大疑点藏猫腻？凉山彝族婚宴喜庆，竟让中共胆战心惊？高考作文题目引爆民怨，资深老师揭秘辛？（2022.6.11）｜世界的十字路口 唐浩</a></li>
 <li><a href="/bannedvideo/20220611/1744263.md">🔥中纪委督战提三要！各地官员快被逼疯；公开叫板习近平，薄熙来大红人挺身而出；习近平发清零最新指示；美囯调查报告 曝中共倚赖西方技术设备活摘器官；多数欧企仍将在中国创新研发 学者揭秘【阿波罗网TL】</a></li>
+<li><a href="/topimagenews/20220611/1744498.md">“中国心脏”遭四大外资垄断中企毫无抗争力；评论乐翻：特斯拉上海产量大跌叫停招聘；</a></li>
 <li><a href="/bannedvideo/20220611/1744275.md">文昭：习近平被逼退、四川释妥协信号？唐山殴女事件背後的操作；「既要...又要」的奥义</a></li>
 <li><a href="/topimagenews/20220611/1744379.md">习近平激战上海 御用学者要求中央给地方放权【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220611/1744498.md">“中国心脏”遭四大外资垄断中企毫无抗争力；评论乐翻：特斯拉上海产量大跌叫停招聘；</a></li>
 <li><a href="/ssgc/20220611/1744390.md">〖兲朝浮世绘〗亲自逃跑，亲自躲灾</a></li>
 <li><a href="/cbnews/20220611/1744377.md">天亮时分：习总清零、唐山打人事件和人口危机；四十年通胀最高点，拜登刻意维持高油价；美驻华大使：“中美关系处於历史最低点”（政论天下第720集 20220610）</a></li>
+<li><a href="/bannedvideo/20220611/1744416.md">红二代也受不了清零，不点名怒批习近平动态清零，贪生怕死。｜薇羽看世间 第493期 20220610</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220612/1744546.md" target="_blank">李燕铭：全球军事围堵中共 朝鲜半岛战争阴云（五） 朝鲜试射弹道导弹并出现核试征兆 尹锡悦发出强烈警告 韩美时隔四年联合射击地对地导弹回应 韩国安高官披露：尹锡悦政府对待朝鲜军事行动的三大原则 韩美日外长罕见跳过会谈直接发表联合声明</a></li>
 <li><a href="/comments/20220611/1744522.md" target="_blank">时事大家谈：“核酸焦虑症”袭来 上海的苦随“封”而逝？防疫“九不准” 能不能防止地方过度防疫？康西诺和辉瑞“分手” 跨国合作为什么失败？</a></li>
 <li><a href="/comments/20220611/1744518.md" target="_blank">”我蛮怕的“但还是要说！中国企业家挺身批当局防疫清零愚蠢</a></li>
 <li><a href="/comments/20220611/1744517.md" target="_blank">中国疫情反弹：上海要求每周核酸 北京新增46例</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220611/1744382.md" target="_blank">其实他们对西方了如指掌，他们不蠢只是坏</a></li>
 <li><a href="/comments/20220611/1744381.md" target="_blank">普京：只是拿回领土 从未抢夺他国领土</a></li>
 <li><a href="/comments/20220611/1744375.md" target="_blank">德媒：美国务院顾问：亚太抗衡中国已见成效</a></li>
-<li><a href="/comments/20220611/1744364.md" target="_blank">马妍睿:瑞丽解封第九次：硬扛、冻结、重启</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
 <li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 
 </ul>
 </div>
