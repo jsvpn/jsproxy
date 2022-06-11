@@ -10,7 +10,6 @@
 <li><a href="/topimagenews/20220610/1744145.md">警告升级！中纪委痛批严中堂、和中堂！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220611/1744372.md">传女生已经离世了 网友找到唐山围殴六男子</a></li>
 <li><a href="/cbnews/20220610/1744152.md">中国全网暴动！烧烤店性骚不成！男爆打拖行踩踹妙龄女 酒瓶猛砸头脸“往死里打”</a></li>
-<li><a href="/topimagenews/20220610/1744099.md">没钱了！上海多银行大排长龙理由奇葩，市国资委也发文要求捐款；</a></li>
 <li><a href="/bannedvideo/20220611/1744219.md">红二代：最高领导人有严重错误  一个变化正重创中共【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220611/1744402.md">赵薇遭封杀9个月后心痛发声我一无所有 火速删文</a></li>
 <li><a href="/cnnews/20220611/1744269.md">董女士说格力手机不比iphone差 我被评论乐翻了</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/topimagenews/20220611/1744411.md">惊人大逆转 习近平松手 彭博被放风【阿波罗网报导】</a></li>
 <li><a href="/bannedvideo/20220611/1744263.md">🔥中纪委督战提三要！各地官员快被逼疯；公开叫板习近平，薄熙来大红人挺身而出；习近平发清零最新指示；美囯调查报告 曝中共倚赖西方技术设备活摘器官；多数欧企仍将在中国创新研发 学者揭秘【阿波罗网TL】</a></li>
 <li><a href="/bannedvideo/20220611/1744275.md">文昭：习近平被逼退、四川释妥协信号？唐山殴女事件背後的操作；「既要...又要」的奥义</a></li>
-<li><a href="/topimagenews/20220611/1744379.md">习近平激战上海 御用学者要求中央给地方放权【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220611/1744420.md">蒋介石去世时 房间竟出现诡异现象 众人惊呆</a></li>
+<li><a href="/topimagenews/20220611/1744379.md">习近平激战上海 御用学者要求中央给地方放权【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20220611/1744377.md">天亮时分：习总清零、唐山打人事件和人口危机；四十年通胀最高点，拜登刻意维持高油价；美驻华大使：“中美关系处於历史最低点”（政论天下第720集 20220610）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220611/1744498.md" target="_blank">“中国心脏”遭四大外资垄断中企毫无抗争力；评论乐翻：特斯拉上海产量大跌叫停招聘；</a></li>
 <li><a href="/topimagenews/20220611/1744470.md" target="_blank">俄乌战争进入新型态 乌克兰扭转局势：关键取决于“它”</a></li>
 <li><a href="/topimagenews/20220611/1744430.md" target="_blank">陷债务危机 中共抛弃斯里兰卡 印度南亚重拾影响力</a></li>
 <li><a href="/topimagenews/20220611/1744417.md" target="_blank">习近平震慑上海帮?审肖建华暗藏玄机【阿波罗网报道】</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20220610/1743743.md" target="_blank">贪心不足？俄罗斯传考虑不承认立陶宛独立</a></li>
 <li><a href="/topimagenews/20220610/1743737.md" target="_blank">怕啥？疫情溯源缺少中国资料 世卫秘书长谭德塞爆：今年已向中共索取两次 皆遭拒绝</a></li>
 <li><a href="/topimagenews/20220610/1743736.md" target="_blank">俄军在互相射击同袍的脚…连水都没了</a></li>
-<li><a href="/topimagenews/20220610/1743735.md" target="_blank">俄罗斯不爽台湾制裁准备做这件事 分析师曝艰难后果…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220611/1744494.md" target="_blank">焦点对话：专访平可夫：美国能如何保卫台湾？（重播）</a></li>
+<li><a href="/comments/20220611/1744492.md" target="_blank">【俄乌战火第108天】乌军弹药将耗尽 泽伦斯基：援乌就是阻止俄国危害全世界</a></li>
 <li><a href="/comments/20220611/1744485.md" target="_blank">28岁小贾斯汀一侧脸全瘫了﹗演唱会紧急取消</a></li>
 <li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
 <li><a href="/comments/20220611/1744467.md" target="_blank">人也有致命“七寸”</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220611/1744345.md" target="_blank">海棠葉:李佳琦“消失”6天，他们慌了</a></li>
 <li><a href="/comments/20220611/1744344.md" target="_blank">叮咚：韩国新总统动作不简单</a></li>
 <li><a href="/comments/20220611/1744343.md" target="_blank">王维洛：六四”屠城、三峡工程与讲真实的历史</a></li>
-<li><a href="/comments/20220611/1744317.md" target="_blank">网海拾贝:中共离崩溃还有多久？</a></li>
-<li><a href="/comments/20220611/1744316.md" target="_blank">觅真：国际社会继续关注中共活摘器官的罪恶</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
 <li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 
 </ul>
 </div>
