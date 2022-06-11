@@ -12,8 +12,8 @@
 <li><a href="/topimagenews/20220610/1744005.md">山东女儿被父性侵19年，妈妈在门口放风，村支书 派出所都知道都不管</a></li>
 <li><a href="/cbnews/20220610/1744008.md">敏感时刻，重庆宣布重要人事任命</a></li>
 <li><a href="/topimagenews/20220610/1744145.md">警告升级！中纪委痛批严中堂、和中堂！【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20220610/1744061.md">可不能把江西首富惹急了</a></li>
 <li><a href="/cbnews/20220611/1744232.md">传北京联通90后女员工杀害其上级领导</a></li>
+<li><a href="/cnnews/20220610/1744061.md">可不能把江西首富惹急了</a></li>
 <li><a href="/cbnews/20220610/1743875.md">“宾利女”抢车位事件还没完，男女混战又上演了</a></li>
 <li><a href="/ssgc/20220610/1743741.md">〖兲朝浮世绘〗习近平刚去过四川，吓得大地发抖四次</a></li>
 <li><a href="/cbnews/20220610/1744152.md">中国全网暴动！烧烤店性骚不成！男爆打拖行踩踹妙龄女 酒瓶猛砸头脸“往死里打”</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/topimagenews/20220610/1744064.md">俄罗斯总统普丁上厕所6人跟“护体”！网友眼尖：走路怪</a></li>
 <li><a href="/cnnews/20220610/1744013.md">他被11所美国大学拒绝后上了清华，后来才知…</a></li>
 <li><a href="/topimagenews/20220610/1743737.md">怕啥？疫情溯源缺少中国资料 世卫秘书长谭德塞爆：今年已向中共索取两次 皆遭拒绝</a></li>
+<li><a href="/headline/20220611/1744187.md">世卫组织触动北京敏感神经，中国外交部作出强烈回应</a></li>
 <li><a href="/topimagenews/20220610/1743989.md">上海再封锁 居民奋起反抗 齐心合力撞开大门【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220610/1743864.md">小学生“字体美得像印刷”，老师赞叹：我认输</a></li>
-<li><a href="/headline/20220611/1744187.md">世卫组织触动北京敏感神经，中国外交部作出强烈回应</a></li>
 <li><a href="/cnnews/20220610/1743860.md">上海才解封一周，最担心的还是来了</a></li>
 <li><a href="/finance/20220610/1744009.md">北上广，同时出手了</a></li>
 <li><a href="/cbnews/20220610/1743877.md">中共社保官员被举报与多名女性乱搞 致一女多次怀孕</a></li>
-<li><a href="/bannedvideo/20220610/1744084.md">陈破空：惊奇！习近平到四川，最害怕一样东西！一段视频突然火爆。前脚刚走四川就地震！习李口罩有玄机</a></li>
+<li><a href="/yule/20220611/1744194.md">50岁“潘金莲”近照曝光，颜值惊呆众网友</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220611/1744350.md" target="_blank">开全局没：那个纪录片 让我胆寒</a></li>
+<li><a href="/comments/20220611/1744349.md" target="_blank">宁愿退市也不交审计底稿 中概股藏着什么大秘密</a></li>
+<li><a href="/comments/20220611/1744348.md" target="_blank">今年高考出题的老师，恐怕也没读懂《红楼梦》</a></li>
+<li><a href="/comments/20220611/1744345.md" target="_blank">海棠葉:李佳琦“消失”6天，他们慌了</a></li>
+<li><a href="/comments/20220611/1744344.md" target="_blank">叮咚：韩国新总统动作不简单</a></li>
+<li><a href="/comments/20220611/1744343.md" target="_blank">王维洛：六四”屠城、三峡工程与讲真实的历史</a></li>
 <li><a href="/comments/20220611/1744317.md" target="_blank">网海拾贝:中共离崩溃还有多久？</a></li>
 <li><a href="/comments/20220611/1744316.md" target="_blank">觅真：国际社会继续关注中共活摘器官的罪恶</a></li>
 <li><a href="/comments/20220611/1744315.md" target="_blank">韩笑：“共产党太腐败了” 上海退伍老兵声言退党</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20220611/1744188.md" target="_blank">杭州冰雪大世界起火爆炸 多人跳楼逃生</a></li>
 <li><a href="/comments/20220611/1744186.md" target="_blank">专栏 | 解读新疆：中国针对维吾尔人推动“宗教中国化”</a></li>
 <li><a href="/comments/20220611/1744179.md" target="_blank">李燕铭：习近平清洗天津帮（九） 王小洪前副手衡晓帆接掌天津市公安局 衡晓帆三年前临危受命出任内蒙古公安厅长 清洗孙力军政治团伙 内蒙古公安厅高层密集落马 习近平清洗刀把子严防江曾二十大政变（三五）</a></li>
-<li><a href="/comments/20220611/1744170.md" target="_blank">香菇烧面筋 &amp; 自制素高汤</a></li>
-<li><a href="/comments/20220610/1744161.md" target="_blank">专栏 | 劳工通讯：资阳市建筑工求救书记帮讨薪（二）</a></li>
-<li><a href="/comments/20220610/1744149.md" target="_blank">英媒揭活摘器官: 中国心脏移植量四年内增加1100%</a></li>
-<li><a href="/comments/20220610/1744131.md" target="_blank">腿脚疼痛肿麻不是小事 是先兆信号</a></li>
-<li><a href="/comments/20220610/1744116.md" target="_blank">澳洲新西兰总理会面 誓言抗中步调一致</a></li>
-<li><a href="/comments/20220610/1744114.md" target="_blank">卖地都不能纾困？上海要求党员带头捐款支持抗疫</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 <li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
 <li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 <li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
 
 </ul>
 </div>
