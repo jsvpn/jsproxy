@@ -15,13 +15,13 @@
 <li><a href="/cnnews/20220611/1744269.md">董女士说格力手机不比iphone差 我被评论乐翻了</a></li>
 <li><a href="/cnnews/20220611/1744249.md">延安时期的“芳华”与性”事</a></li>
 <li><a href="/cnnews/20220611/1744366.md">习近平彭丽媛要来这里了？他们已经被要求隔离</a></li>
+<li><a href="/bannedvideo/20220611/1744483.md">习与对手即将打出最关键一张牌；中共最大梦魇要来【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220611/1744411.md">惊人大逆转 习近平松手 彭博被放风【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220611/1744417.md">习近平震慑上海帮?审肖建华暗藏玄机【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220611/1744483.md">习与对手即将打出最关键一张牌；中共最大梦魇要来【两岸要闻】</a></li>
 <li><a href="/cnnews/20220611/1744420.md">蒋介石去世时 房间竟出现诡异现象 众人惊呆</a></li>
 <li><a href="/topimagenews/20220611/1744247.md">明抢！俄国人惨了</a></li>
-<li><a href="/bannedvideo/20220611/1744471.md">唐山惊悚殴女案，三大疑点藏猫腻？凉山彝族婚宴喜庆，竟让中共胆战心惊？高考作文题目引爆民怨，资深老师揭秘辛？（2022.6.11）｜世界的十字路口 唐浩</a></li>
 <li><a href="/topimagenews/20220611/1744498.md">“中国心脏”遭四大外资垄断中企毫无抗争力；评论乐翻：特斯拉上海产量大跌叫停招聘；</a></li>
+<li><a href="/bannedvideo/20220611/1744471.md">唐山惊悚殴女案，三大疑点藏猫腻？凉山彝族婚宴喜庆，竟让中共胆战心惊？高考作文题目引爆民怨，资深老师揭秘辛？（2022.6.11）｜世界的十字路口 唐浩</a></li>
 <li><a href="/bannedvideo/20220611/1744263.md">🔥中纪委督战提三要！各地官员快被逼疯；公开叫板习近平，薄熙来大红人挺身而出；习近平发清零最新指示；美囯调查报告 曝中共倚赖西方技术设备活摘器官；多数欧企仍将在中国创新研发 学者揭秘【阿波罗网TL】</a></li>
 <li><a href="/bannedvideo/20220611/1744275.md">文昭：习近平被逼退、四川释妥协信号？唐山殴女事件背後的操作；「既要...又要」的奥义</a></li>
 <li><a href="/topimagenews/20220611/1744379.md">习近平激战上海 御用学者要求中央给地方放权【阿波罗网报道】</a></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220612/1744560.md" target="_blank">人心向背 永久中立国瑞士宣布对俄罗斯再祭制裁</a></li>
+<li><a href="/comments/20220612/1744559.md" target="_blank">花椒不只是一种调味品 祛湿养生效果不一般</a></li>
+<li><a href="/comments/20220612/1744551.md" target="_blank">李燕铭：全球军事围堵中共 朝鲜半岛战争阴云（七） 韩美海军联演刚结束 朝鲜多地连发8枚导弹 韩美以牙还牙发射8枚导弹回应 韩美20架战机编队对朝施压飞行 剑指金正恩警告中共 朝鲜2022年至今射弹费用或达6.5亿美元 尹锡悦指示加强韩美延伸威慑力和联合防卫态势 韩美日商定加强三边安全合作</a></li>
 <li><a href="/comments/20220612/1744549.md" target="_blank">李燕铭：全球军事围堵中共 朝鲜半岛战争阴云（六） 韩美时隔4年再次动员核航母实施联合军演 韩海军出动史上最大规模战斗力参加环太平洋演习 韩美联合师举行成立七周年纪念仪式 韩美加强军事联盟围堵中朝</a></li>
 <li><a href="/comments/20220612/1744546.md" target="_blank">李燕铭：全球军事围堵中共 朝鲜半岛战争阴云（五） 朝鲜试射弹道导弹并出现核试征兆 尹锡悦发出强烈警告 韩美时隔四年联合射击地对地导弹回应 韩国安高官披露：尹锡悦政府对待朝鲜军事行动的三大原则 韩美日外长罕见跳过会谈直接发表联合声明</a></li>
 <li><a href="/comments/20220611/1744522.md" target="_blank">时事大家谈：“核酸焦虑症”袭来 上海的苦随“封”而逝？防疫“九不准” 能不能防止地方过度防疫？康西诺和辉瑞“分手” 跨国合作为什么失败？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220611/1744461.md" target="_blank">研究：每天一杯蔓越莓汁，改善短期记忆力</a></li>
 <li><a href="/comments/20220611/1744460.md" target="_blank">脑子缺了一大块，功能竟无损伤：读了研，还精通两门语言</a></li>
 <li><a href="/comments/20220611/1744424.md" target="_blank">挪威租房需要注意什么？各地房租价格是多少？</a></li>
-<li><a href="/comments/20220611/1744383.md" target="_blank">唐山打人事件，不要用来规训女性</a></li>
-<li><a href="/comments/20220611/1744382.md" target="_blank">其实他们对西方了如指掌，他们不蠢只是坏</a></li>
-<li><a href="/comments/20220611/1744381.md" target="_blank">普京：只是拿回领土 从未抢夺他国领土</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
 <li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
 
 </ul>
 </div>
