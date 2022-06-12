@@ -16,16 +16,16 @@
 <li><a href="/cnnews/20220612/1744665.md">习近平扳回了一城？很多人大吃一惊</a></li>
 <li><a href="/cbnews/20220612/1744695.md">天亮时分：唐山暴徒果有背景，爲什麽习近平再无可能全面打黑；泽伦斯基跟中共翻脸，普京不再掩饰吞并乌克兰全境的野心（政论天下第721集 20220611）</a></li>
 <li><a href="/cnnews/20220611/1744511.md">肖建华案将审 现在明白习近平讲话为何此时公布了【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220612/1744565.md">谁在罩着他们？唐山打人者陈某志、刘涛累累案底</a></li>
 <li><a href="/yule/20220612/1744576.md">十年貌美无人识，一朝“大妈”天下知</a></li>
 <li><a href="/bannedvideo/20220611/1744474.md">🔥内斗重要线索：习近平20大连任隐忧；习夫妇要来这？他们被要求隔离；如何关掉手机监听功能；警察社会！中共警察驻学校当副校长；北京延烧7区多小区封控；习考察为何不顺道去灾区 新华社现尴尬【阿波罗网FT】</a></li>
+<li><a href="/topimagenews/20220612/1744565.md">谁在罩着他们？唐山打人者陈某志、刘涛累累案底</a></li>
 <li><a href="/bannedvideo/20220612/1744606.md">🔥习近平唯一的交权方式；“替李克强担心，能安全下庄就不错”；网友强大！肉搜找到唐山六恶男；上海大数据曝光疫苗有效率是负值！美解除入境需阴性证明规定；北京审吴亦凡案冲热搜【阿波罗网JO】</a></li>
-<li><a href="/topimagenews/20220612/1744566.md">陆战巨兽对决！6门法国大炮摧毁80门俄军大炮</a></li>
 <li><a href="/topimagenews/20220612/1744604.md">习近平悄然疏远普京</a></li>
+<li><a href="/topimagenews/20220612/1744566.md">陆战巨兽对决！6门法国大炮摧毁80门俄军大炮</a></li>
 <li><a href="/yule/20220612/1744614.md">张国立儿子张默精神疑似出问题？晒极端照引争议</a></li>
 <li><a href="/topimagenews/20220612/1744698.md">继宣称“习近平被边控”后，反习派再曝惊人之语【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220611/1744470.md">俄乌战争进入新型态 乌克兰扭转局势：关键取决于“它”</a></li>
 <li><a href="/cbnews/20220612/1744532.md">唐山打人事件 大学生称应检讨受害者引众怒</a></li>
+<li><a href="/topimagenews/20220611/1744470.md">俄乌战争进入新型态 乌克兰扭转局势：关键取决于“它”</a></li>
 <li><a href="/cnnews/20220612/1744613.md">被“两巨头”打得稀碎的河北，它的未来在哪里</a></li>
 <li><a href="/lifebaike/20220612/1744595.md">唐山菜刀队一次被枪毙50多人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 
 </ul>
 </div>
