@@ -7,15 +7,14 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20220612/1744572.md">刚刚，吴晓波被禁言了</a></li>
 <li><a href="/cnnews/20220612/1744533.md">唐山围殴事件发酵：坐迈巴赫出逃 要花60万摆平</a></li>
-<li><a href="/topimagenews/20220611/1744498.md">“中国心脏”遭四大外资垄断中企毫无抗争力；评论乐翻：特斯拉上海产量大跌叫停招聘；</a></li>
 <li><a href="/topimagenews/20220612/1744723.md">施暴者是警察？唐山女孩被打当晚施暴者拍摄视频亮了【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220612/1744561.md">三大城市同时出事  这句预言在兑现</a></li>
-<li><a href="/cnnews/20220611/1744511.md">肖建华案将审 现在明白习近平讲话为何此时公布了【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220612/1744649.md">唐山黑帮太猖狂了！另一个角度的视频情节更清晰</a></li>
-<li><a href="/cnnews/20220612/1744665.md">习近平扳回了一城？很多人大吃一惊</a></li>
+<li><a href="/cnnews/20220611/1744511.md">肖建华案将审 现在明白习近平讲话为何此时公布了【阿波罗网报道】</a></li>
 <li><a href="/yule/20220612/1744576.md">十年貌美无人识，一朝“大妈”天下知</a></li>
-<li><a href="/topimagenews/20220612/1744565.md">谁在罩着他们？唐山打人者陈某志、刘涛累累案底</a></li>
+<li><a href="/cnnews/20220612/1744665.md">习近平扳回了一城？很多人大吃一惊</a></li>
 <li><a href="/cbnews/20220612/1744695.md">天亮时分：唐山暴徒果有背景，爲什麽习近平再无可能全面打黑；泽伦斯基跟中共翻脸，普京不再掩饰吞并乌克兰全境的野心（政论天下第721集 20220611）</a></li>
+<li><a href="/topimagenews/20220612/1744565.md">谁在罩着他们？唐山打人者陈某志、刘涛累累案底</a></li>
 <li><a href="/bannedvideo/20220612/1744606.md">🔥习近平唯一的交权方式；“替李克强担心，能安全下庄就不错”；网友强大！肉搜找到唐山六恶男；上海大数据曝光疫苗有效率是负值！美解除入境需阴性证明规定；北京审吴亦凡案冲热搜【阿波罗网JO】</a></li>
 <li><a href="/topimagenews/20220612/1744604.md">习近平悄然疏远普京</a></li>
 <li><a href="/topimagenews/20220612/1744566.md">陆战巨兽对决！6门法国大炮摧毁80门俄军大炮</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/lifebaike/20220612/1744595.md">唐山菜刀队一次被枪毙50多人</a></li>
 <li><a href="/cnnews/20220612/1744632.md">加拿大推出永久快速移民通道 狂送枫叶卡</a></li>
 <li><a href="/cbnews/20220611/1744526.md">在加拿大中国企业家公开炮轰“清零愚蠢” 惹恼小粉红</a></li>
+<li><a href="/topimagenews/20220612/1744746.md">唐山女子举报黑道 竟被警方吃案 要求删除检举视讯</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220612/1744822.md" target="_blank">狼性大爆发！重庆女歌手拒陌生大叔敬酒 被呛“连五小区小姐都不如”</a></li>
+<li><a href="/cbnews/20220612/1744821.md" target="_blank">他发布唐山打人影片被点阅近7千万次 电话被打爆遭威吓也不后悔</a></li>
 <li><a href="/comments/20220612/1744799.md" target="_blank">台湾观众赞神韵能量超级强　有观众病痛当场消失</a></li>
 <li><a href="/cbnews/20220612/1744785.md" target="_blank">机动防御失效：乌丢失最后据点2／3控制权</a></li>
 <li><a href="/cbnews/20220612/1744755.md" target="_blank">疑似涉事烧烤店老板娘：那伙人威胁我且没结账</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20220610/1744152.md" target="_blank">中国全网暴动！烧烤店性骚不成！男爆打拖行踩踹妙龄女 酒瓶猛砸头脸“往死里打”</a></li>
 <li><a href="/comments/20220610/1744083.md" target="_blank">儿子生死关头，爸爸亲眼见到神和永恒！无神论者被蓝光包围，瞬间回溯前半生做过的所有事，这不是批评，但准确严格！头号“科学打假人”公开转向，不再当“怀疑论者”</a></li>
 <li><a href="/cbnews/20220610/1744008.md" target="_blank">敏感时刻，重庆宣布重要人事任命</a></li>
-<li><a href="/cbnews/20220610/1743992.md" target="_blank">中共是否会武力犯台？这两国民调高度一致</a></li>
-<li><a href="/cbnews/20220610/1743988.md" target="_blank">台积电成美中必争？上海疫情升温</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,16 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220612/1744820.md" target="_blank">最热时节倒计时！家常几招化湿健脾、清心去火</a></li>
+<li><a href="/comments/20220612/1744819.md" target="_blank">「刚刚好」很重要，免疫力太强反伤身</a></li>
+<li><a href="/comments/20220612/1744818.md" target="_blank">嗅觉丧失怎么办？</a></li>
+<li><a href="/comments/20220612/1744817.md" target="_blank">研究：补充维他命预防武肺，仅对营养不良者有效</a></li>
+<li><a href="/comments/20220612/1744816.md" target="_blank">压力大排便不顺 营养师分享10大顺肠饮食</a></li>
+<li><a href="/comments/20220612/1744815.md" target="_blank">【俄乌战火第109天】德意法三国元首传6月底访基辅 北顿内茨克化工厂引发大火</a></li>
+<li><a href="/comments/20220612/1744814.md" target="_blank">平日睡不够！ 韩研究：周末补眠可减少2成脂肪肝风险</a></li>
+<li><a href="/comments/20220612/1744813.md" target="_blank">俄版麦当劳改名“美味就是这样”重新开幕</a></li>
+<li><a href="/comments/20220612/1744812.md" target="_blank">不想吃东西是身体出现了什么问题？</a></li>
+<li><a href="/comments/20220612/1744811.md" target="_blank">不花钱的「补药」：阳光</a></li>
 <li><a href="/comments/20220612/1744810.md" target="_blank">中国医药公司疯“囤猴” 传猴价已暴涨22倍…还没停</a></li>
 <li><a href="/comments/20220612/1744804.md" target="_blank">豆浆那点事~ 喝对养生 喝错伤身</a></li>
 <li><a href="/comments/20220612/1744802.md" target="_blank">刘梦熊：唐山再次震惊世界</a></li>
@@ -112,16 +122,6 @@
 <li><a href="/comments/20220612/1744728.md" target="_blank">北京头条的这则报道 是媒体的耻辱</a></li>
 <li><a href="/comments/20220612/1744720.md" target="_blank">曾庆红家族“白手套” 肖建华将在上海受审</a></li>
 <li><a href="/comments/20220612/1744700.md" target="_blank">古原: 女生要保护自己，到底有多难，你根本想象不到</a></li>
-<li><a href="/comments/20220612/1744699.md" target="_blank">对付唐山暴徒，孤立无援的弱者要怎么办？</a></li>
-<li><a href="/comments/20220612/1744692.md" target="_blank">【杰森视角】全球通胀时代来临！美70年代大通胀为何折腾了10多年？美国现状和70年大通胀前惊人相似！美5月通货膨胀数据咋看咋难受！为何日本，中国等这些东亚国家很多通货膨胀不严重？</a></li>
-<li><a href="/comments/20220612/1744686.md" target="_blank">四一哥:台湾学生的随笔，为何能秒杀高考满分作文？</a></li>
-<li><a href="/comments/20220612/1744685.md" target="_blank">李务实，习务虚，李临危受命，习升上神台</a></li>
-<li><a href="/comments/20220612/1744684.md" target="_blank">全民道德沦丧，乱世即将来临</a></li>
-<li><a href="/comments/20220612/1744683.md" target="_blank">二大爷:小姑娘被打 唐山没有大兄</a></li>
-<li><a href="/comments/20220612/1744682.md" target="_blank">陆鱼: 沿海某县财政供养困局管窥</a></li>
-<li><a href="/comments/20220612/1744647.md" target="_blank">颜纯钩:中共内部从上海开始瓦解</a></li>
-<li><a href="/comments/20220612/1744643.md" target="_blank">嘬过船蛆，才能体会海洋的邪魅</a></li>
-<li><a href="/comments/20220612/1744642.md" target="_blank">汤名晖：战狼折戟太平洋：实力赶不上意图造就的悲剧</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 <li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 
 </ul>
 </div>
