@@ -9,9 +9,9 @@
 <li><a href="/cnnews/20220612/1744533.md">唐山围殴事件发酵：坐迈巴赫出逃 要花60万摆平</a></li>
 <li><a href="/topimagenews/20220612/1744723.md">施暴者是警察？唐山女孩被打当晚施暴者拍摄视频亮了【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220612/1744561.md">三大城市同时出事  这句预言在兑现</a></li>
-<li><a href="/cnnews/20220612/1744649.md">唐山黑帮太猖狂了！另一个角度的视频情节更清晰</a></li>
 <li><a href="/cnnews/20220611/1744511.md">肖建华案将审 现在明白习近平讲话为何此时公布了【阿波罗网报道】</a></li>
 <li><a href="/yule/20220612/1744576.md">十年貌美无人识，一朝“大妈”天下知</a></li>
+<li><a href="/cnnews/20220612/1744649.md">唐山黑帮太猖狂了！另一个角度的视频情节更清晰</a></li>
 <li><a href="/cnnews/20220612/1744665.md">习近平扳回了一城？很多人大吃一惊</a></li>
 <li><a href="/cbnews/20220612/1744695.md">天亮时分：唐山暴徒果有背景，爲什麽习近平再无可能全面打黑；泽伦斯基跟中共翻脸，普京不再掩饰吞并乌克兰全境的野心（政论天下第721集 20220611）</a></li>
 <li><a href="/topimagenews/20220612/1744565.md">谁在罩着他们？唐山打人者陈某志、刘涛累累案底</a></li>
@@ -24,8 +24,8 @@
 <li><a href="/cbnews/20220612/1744532.md">唐山打人事件 大学生称应检讨受害者引众怒</a></li>
 <li><a href="/cnnews/20220612/1744613.md">被“两巨头”打得稀碎的河北，它的未来在哪里</a></li>
 <li><a href="/bannedvideo/20220612/1744635.md">短视频：解放军大部队开进北戴河。中共高层准备在北戴河火并吗？</a></li>
-<li><a href="/lifebaike/20220612/1744595.md">唐山菜刀队一次被枪毙50多人</a></li>
 <li><a href="/cnnews/20220612/1744632.md">加拿大推出永久快速移民通道 狂送枫叶卡</a></li>
+<li><a href="/lifebaike/20220612/1744595.md">唐山菜刀队一次被枪毙50多人</a></li>
 <li><a href="/cbnews/20220611/1744526.md">在加拿大中国企业家公开炮轰“清零愚蠢” 惹恼小粉红</a></li>
 <li><a href="/topimagenews/20220612/1744746.md">唐山女子举报黑道 竟被警方吃案 要求删除检举视讯</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220612/1744840.md" target="_blank">通膨冲上40年新高！拜登撂重话阻航运商涨价敲诈</a></li>
+<li><a href="/comments/20220612/1744835.md" target="_blank">《三国演义》第八十三回 战猇亭先主得仇人 守江口书生拜大将</a></li>
+<li><a href="/comments/20220612/1744834.md" target="_blank">《封神演义》第八十三回 三大师收狮象犼</a></li>
+<li><a href="/comments/20220612/1744828.md" target="_blank">蚝油不是万能酱料 烹调这几种菜时不能放</a></li>
 <li><a href="/comments/20220612/1744820.md" target="_blank">最热时节倒计时！家常几招化湿健脾、清心去火</a></li>
 <li><a href="/comments/20220612/1744819.md" target="_blank">「刚刚好」很重要，免疫力太强反伤身</a></li>
 <li><a href="/comments/20220612/1744818.md" target="_blank">嗅觉丧失怎么办？</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20220612/1744737.md" target="_blank">中共杀狗手段升级 原来是棒杀 现在是消杀</a></li>
 <li><a href="/comments/20220612/1744731.md" target="_blank">马斯克自曝“噩梦，靠2个关键扳回人生</a></li>
 <li><a href="/comments/20220612/1744730.md" target="_blank">深夜出门撸串？不好意思，X国给不了你这种安全感</a></li>
-<li><a href="/comments/20220612/1744729.md" target="_blank">拜登甩锅：我当初发警告泽连斯基根本不想听</a></li>
-<li><a href="/comments/20220612/1744728.md" target="_blank">北京头条的这则报道 是媒体的耻辱</a></li>
-<li><a href="/comments/20220612/1744720.md" target="_blank">曾庆红家族“白手套” 肖建华将在上海受审</a></li>
-<li><a href="/comments/20220612/1744700.md" target="_blank">古原: 女生要保护自己，到底有多难，你根本想象不到</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
 <li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 
 </ul>
 </div>
