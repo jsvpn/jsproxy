@@ -11,8 +11,8 @@
 <li><a href="/topimagenews/20220611/1744392.md">北京头条这则报道浓浓的恶臭味！唐山恶性打人事件上热搜</a></li>
 <li><a href="/cnnews/20220611/1744366.md">习近平彭丽媛要来这里了？他们已经被要求隔离</a></li>
 <li><a href="/topimagenews/20220611/1744411.md">惊人大逆转 习近平松手 彭博被放风【阿波罗网报导】</a></li>
-<li><a href="/topimagenews/20220611/1744417.md">习近平震慑上海帮?审肖建华暗藏玄机【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220611/1744483.md">习与对手即将打出最关键一张牌；中共最大梦魇要来【两岸要闻】</a></li>
+<li><a href="/topimagenews/20220611/1744417.md">习近平震慑上海帮?审肖建华暗藏玄机【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220612/1744533.md">唐山围殴事件发酵：坐迈巴赫出逃 要花60万摆平</a></li>
 <li><a href="/topimagenews/20220611/1744498.md">“中国心脏”遭四大外资垄断中企毫无抗争力；评论乐翻：特斯拉上海产量大跌叫停招聘；</a></li>
 <li><a href="/cnnews/20220611/1744420.md">蒋介石去世时 房间竟出现诡异现象 众人惊呆</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/topimagenews/20220611/1744379.md">习近平激战上海 御用学者要求中央给地方放权【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220611/1744390.md">〖兲朝浮世绘〗亲自逃跑，亲自躲灾</a></li>
 <li><a href="/cbnews/20220611/1744377.md">天亮时分：习总清零、唐山打人事件和人口危机；四十年通胀最高点，拜登刻意维持高油价；美驻华大使：“中美关系处於历史最低点”（政论天下第720集 20220610）</a></li>
-<li><a href="/bannedvideo/20220611/1744416.md">红二代也受不了清零，不点名怒批习近平动态清零，贪生怕死。｜薇羽看世间 第493期 20220610</a></li>
-<li><a href="/bannedvideo/20220611/1744370.md">文睿：党媒放料，习近平又一次惨败，军队不正常，双李“宰相”背后的信息</a></li>
-<li><a href="/bannedvideo/20220611/1744474.md">🔥内斗重要线索：习近平20大连任隐忧；习夫妇要来这？他们被要求隔离；如何关掉手机监听功能；警察社会！中共警察驻学校当副校长；北京延烧7区多小区封控；习考察为何不顺道去灾区 新华社现尴尬【阿波罗网FT】</a></li>
-<li><a href="/bannedvideo/20220611/1744438.md">曝韩正遥控保护 上海权贵小区不受封控影响</a></li>
-<li><a href="/bannedvideo/20220612/1744561.md">三大城市同时出事  这句预言在兑现</a></li>
-<li><a href="/headline/20220611/1744387.md">中共二十大前瞻：习近平会不会翻车？</a></li>
 <li><a href="/cbnews/20220612/1744572.md">刚刚，吴晓波被禁言了</a></li>
-<li><a href="/topimagenews/20220611/1744371.md">中纪委发社论督战 各地官员快被逼疯！ 【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220611/1744370.md">文睿：党媒放料，习近平又一次惨败，军队不正常，双李“宰相”背后的信息</a></li>
+<li><a href="/bannedvideo/20220611/1744416.md">红二代也受不了清零，不点名怒批习近平动态清零，贪生怕死。｜薇羽看世间 第493期 20220610</a></li>
+<li><a href="/bannedvideo/20220611/1744474.md">🔥内斗重要线索：习近平20大连任隐忧；习夫妇要来这？他们被要求隔离；如何关掉手机监听功能；警察社会！中共警察驻学校当副校长；北京延烧7区多小区封控；习考察为何不顺道去灾区 新华社现尴尬【阿波罗网FT】</a></li>
+<li><a href="/bannedvideo/20220612/1744561.md">三大城市同时出事  这句预言在兑现</a></li>
+<li><a href="/bannedvideo/20220611/1744438.md">曝韩正遥控保护 上海权贵小区不受封控影响</a></li>
+<li><a href="/headline/20220611/1744387.md">中共二十大前瞻：习近平会不会翻车？</a></li>
+<li><a href="/cnnews/20220611/1744511.md">肖建华案将审 现在明白习近平讲话为何此时公布了【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220612/1744647.md" target="_blank">颜纯钩:中共内部从上海开始瓦解</a></li>
+<li><a href="/comments/20220612/1744643.md" target="_blank">嘬过船蛆，才能体会海洋的邪魅</a></li>
+<li><a href="/comments/20220612/1744642.md" target="_blank">汤名晖：战狼折戟太平洋：实力赶不上意图造就的悲剧</a></li>
 <li><a href="/comments/20220612/1744624.md" target="_blank">周晓辉：中纪委发文警告 李克强被要求站好位</a></li>
 <li><a href="/comments/20220612/1744623.md" target="_blank">王赫：中共印太扩张的进展、挫败与前景</a></li>
 <li><a href="/comments/20220612/1744622.md" target="_blank">杨宁：唐山打人事件上热搜 京沪杀人案被淡化</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220611/1744494.md" target="_blank">焦点对话：专访平可夫：美国能如何保卫台湾？（重播）</a></li>
 <li><a href="/comments/20220611/1744492.md" target="_blank">【俄乌战火第108天】乌军弹药将耗尽 泽伦斯基：援乌就是阻止俄国危害全世界</a></li>
 <li><a href="/comments/20220611/1744485.md" target="_blank">28岁小贾斯汀一侧脸全瘫了﹗演唱会紧急取消</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/comments/20220611/1744467.md" target="_blank">人也有致命“七寸”</a></li>
-<li><a href="/comments/20220611/1744466.md" target="_blank">维生素C不是越酸含量越高！有些你根本想不到</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
 <li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
 
 </ul>
 </div>
