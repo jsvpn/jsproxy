@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/bannedvideo/20220612/1744803.md">怕啥来啥 一个更大危机逼近习；唐山事件曝更多细节 主角黑历史被揭【两岸要闻】</a></li>
 <li><a href="/ssgc/20220612/1744831.md">中纪委发文警告 李克强被要求站好位</a></li>
 <li><a href="/topimagenews/20220612/1744850.md">“大陆第一狗仔”复出讲唐山打人事件 12小时后这原因被禁</a></li>
 <li><a href="/topimagenews/20220613/1745003.md">倒吸凉气：关于唐山打人事件的第三波内幕来了</a></li>
@@ -18,14 +17,15 @@
 <li><a href="/cnnews/20220613/1744925.md">唐山被打女生，情况不太好…</a></li>
 <li><a href="/lifebaike/20220613/1745007.md">薄熙来曾放出一句狠话 6年后不幸言中</a></li>
 <li><a href="/topimagenews/20220613/1744884.md">什么信号？拜登突爆曾警告俄会开战 但泽伦斯基“不想听” 乌总统顾问反击批荒谬</a></li>
+<li><a href="/topimagenews/20220613/1745049.md">网曝唐山案60万的来路和去向【阿波罗网报导】</a></li>
 <li><a href="/cnnews/20220612/1744839.md">“我还满替李克强担心的，他能安全下庄就不错了”【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220613/1744938.md">🔥🔥突发❗唐山再“地震”，这次是十级❗❗</a></li>
 <li><a href="/cnnews/20220613/1744973.md">看着血流干，随后自首：北京联通“割喉”案始末</a></li>
-<li><a href="/topimagenews/20220613/1745049.md">网曝唐山案60万的来路和去向【阿波罗网报导】</a></li>
 <li><a href="/bannedvideo/20220613/1744960.md">红二代：京城习谣言加密流传 内容惊人 中共官场持续震荡</a></li>
 <li><a href="/cbnews/20220613/1745018.md">唐山打人者陈继志被警方带走 妻子:等着看通报</a></li>
 <li><a href="/comments/20220612/1744853.md">警匪一家实锤？唐山打人案曝更多证据 网友与官方角力</a></li>
 <li><a href="/cnnews/20220613/1744975.md">上海女当街遭砍杀 浴血惨叫 影片疯传 官方封禁话题</a></li>
+<li><a href="/cnnews/20220613/1745057.md">从乐玉成去而复返事件看中俄关系</a></li>
 <li><a href="/topimagenews/20220613/1744986.md">中国人不敢了！中共法律让见义勇为者付出代价</a></li>
 <li><a href="/funmedia/20220613/1745004.md">“疫情后，我离婚了，不是因为出轨…”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220613/1745144.md" target="_blank">地狱无处不在？！一个标准来断定：谁上天堂、谁下地狱！为什么有钱人，更容易上天堂？钻探队掘地1.2万米，百万人的声音，传到人间⋯⋯灵界使者之三</a></li>
 <li><a href="/cbnews/20220613/1745098.md" target="_blank">一线采访：七天未测核酸赋黄码 沪民反对</a></li>
 <li><a href="/cbnews/20220613/1745050.md" target="_blank">125万考生，河南高考到底有多难？</a></li>
 <li><a href="/cbnews/20220613/1745039.md" target="_blank">“真还传”大结局？罗永浩宣布退出所有社交平台</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220612/1744695.md" target="_blank">天亮时分：唐山暴徒果有背景，爲什麽习近平再无可能全面打黑；泽伦斯基跟中共翻脸，普京不再掩饰吞并乌克兰全境的野心（政论天下第721集 20220611）</a></li>
 <li><a href="/comments/20220612/1744692.md" target="_blank">【杰森视角】全球通胀时代来临！美70年代大通胀为何折腾了10多年？美国现状和70年大通胀前惊人相似！美5月通货膨胀数据咋看咋难受！为何日本，中国等这些东亚国家很多通货膨胀不严重？</a></li>
 <li><a href="/cbnews/20220612/1744572.md" target="_blank">刚刚，吴晓波被禁言了</a></li>
-<li><a href="/cbnews/20220612/1744532.md" target="_blank">唐山打人事件 大学生称应检讨受害者引众怒</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220613/1745144.md" target="_blank">地狱无处不在？！一个标准来断定：谁上天堂、谁下地狱！为什么有钱人，更容易上天堂？钻探队掘地1.2万米，百万人的声音，传到人间⋯⋯灵界使者之三</a></li>
 <li><a href="/comments/20220613/1745136.md" target="_blank">解放军和俄军同源：腐败、政治化和缺乏实战</a></li>
 <li><a href="/comments/20220613/1745128.md" target="_blank">反习并无错，撑习更有理：论中共垮台最佳路径</a></li>
 <li><a href="/comments/20220613/1745127.md" target="_blank">我们要的是普遍性法治，不是小概率打黑</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220613/1744983.md" target="_blank">李燕铭：习近平清洗河北帮（七） 唐山打人案交廊坊公安局异地办理 唐山现任公安局长赵晋进曾任廊坊市公安局长 廊坊市公安局长张文阁刚上任 张文阁与赵晋进在河北省公安厅共事多年 廊坊公安局会护唐山公安局的短？河北省公安厅五名高官落马 习近平逼河北刀把子自相残杀</a></li>
 <li><a href="/comments/20220613/1744971.md" target="_blank">马伯庸：就这么身陷惶恐之中</a></li>
 <li><a href="/comments/20220613/1744948.md" target="_blank">两边演戏的谷爱凌小姐，还能红多久？</a></li>
-<li><a href="/comments/20220613/1744947.md" target="_blank">洪博学：中国人站起来了吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 
 </ul>
 </div>
