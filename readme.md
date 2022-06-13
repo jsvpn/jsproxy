@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220612/1744723.md">施暴者是警察？唐山女孩被打当晚施暴者拍摄视频亮了【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220612/1744803.md">怕啥来啥 一个更大危机逼近习；唐山事件曝更多细节 主角黑历史被揭【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220612/1744764.md">唐山他们打人时候是清醒：多位目击者发声 被打女性说不认识嫌疑人</a></li>
 <li><a href="/ssgc/20220612/1744831.md">中纪委发文警告 李克强被要求站好位</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/health/20220612/1744775.md">早晨起来后喝一杯温水，等于在喝细菌？其实，或许很多人想错了</a></li>
 <li><a href="/cbnews/20220612/1744785.md">机动防御失效：乌丢失最后据点2／3控制权</a></li>
 <li><a href="/lifebaike/20220612/1744776.md">买酱油，瓶子上有这4个字，赶紧放下</a></li>
+<li><a href="/cnnews/20220613/1744925.md">唐山被打女生，情况不太好…</a></li>
 <li><a href="/comments/20220612/1744853.md">警匪一家实锤？唐山打人案曝更多证据 网友与官方角力</a></li>
-<li><a href="/bannedvideo/20220612/1744734.md">【薇羽直播】唐山打人事件为何火了？一切掌控在党的手中。｜薇羽看世间 第494期 20220611</a></li>
+<li><a href="/bannedvideo/20220612/1744806.md">陈破空：经典镜头！习近平在四川，隆重婚宴示范！唯一宣布全面小康的国家。多么淳朴的乡亲啊！看了叫人...</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220613/1745018.md" target="_blank">唐山打人者陈继志被警方带走 妻子:等着看通报</a></li>
 <li><a href="/cbnews/20220613/1744987.md" target="_blank">惊：政法大学学生评唐山事件受害者:“劝她反思”</a></li>
 <li><a href="/cbnews/20220613/1744981.md" target="_blank">香格里拉对话闭幕 美中关系和乌克兰最受关注</a></li>
 <li><a href="/cbnews/20220613/1744939.md" target="_blank">美参院两党团队达协议 宣布枪支管制框架</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20220611/1744453.md" target="_blank">前北约秘书长：俄乌战争可能导致北京延后侵台</a></li>
 <li><a href="/cbnews/20220611/1744415.md" target="_blank">遭美众院小组指控发动国会冲击事件 川普回应</a></li>
 <li><a href="/cbnews/20220611/1744405.md" target="_blank">都想当富人 岂知富人被“均贫富”？</a></li>
-<li><a href="/cbnews/20220611/1744377.md" target="_blank">天亮时分：习总清零、唐山打人事件和人口危机；四十年通胀最高点，拜登刻意维持高油价；美驻华大使：“中美关系处於历史最低点”（政论天下第720集 20220610）</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220613/1745017.md" target="_blank">唐山主犯：曾顶着潜逃与通缉之名 依旧叱咤风云</a></li>
 <li><a href="/topimagenews/20220613/1745003.md" target="_blank">倒吸凉气：关于唐山打人事件的第三波内幕来了</a></li>
 <li><a href="/topimagenews/20220613/1745002.md" target="_blank">【微博精粹】上次唐山出名是地震 这次出名是人渣</a></li>
 <li><a href="/topimagenews/20220613/1744986.md" target="_blank">中国人不敢了！中共法律让见义勇为者付出代价</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220611/1744411.md" target="_blank">惊人大逆转 习近平松手 彭博被放风【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220611/1744407.md" target="_blank">普京放话威胁欧洲 自喻彼得大帝【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220611/1744402.md" target="_blank">赵薇遭封杀9个月后心痛发声我一无所有 火速删文</a></li>
-<li><a href="/topimagenews/20220611/1744401.md" target="_blank">左媒：伊万卡不挺老爸“舞弊说” 川普疯狂吐槽</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220613/1745016.md" target="_blank">“人间私语，天闻若雷” 坚守德操者惠及子孙</a></li>
 <li><a href="/comments/20220613/1745015.md" target="_blank">改变命运 由一文不名变成全县首富</a></li>
 <li><a href="/comments/20220613/1745006.md" target="_blank">唐山事件里的民智：果然，“女的也有罪”又来了</a></li>
 <li><a href="/comments/20220613/1745005.md" target="_blank">从丰县到唐山：什么是系统性的性别暴力?</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220613/1744878.md" target="_blank">唐山女子举报黑势力 被警察要求删视频</a></li>
 <li><a href="/comments/20220613/1744877.md" target="_blank">大篷车移民抵达墨西哥 从长计议挺进美国</a></li>
 <li><a href="/comments/20220613/1744876.md" target="_blank">唐山女遭围殴是冰山一角 外媒质问根源</a></li>
-<li><a href="/comments/20220613/1744864.md" target="_blank">朝鲜任命首位女性新外长 或改变朝美外交政策</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 <li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
 <li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 
 </ul>
 </div>
