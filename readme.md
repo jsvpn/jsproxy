@@ -15,8 +15,8 @@
 <li><a href="/topimagenews/20220613/1745049.md">网曝唐山案60万的来路和去向【阿波罗网报导】</a></li>
 <li><a href="/bannedvideo/20220613/1744938.md">🔥🔥突发❗唐山再“地震”，这次是十级❗❗</a></li>
 <li><a href="/cnnews/20220613/1744973.md">看着血流干，随后自首：北京联通“割喉”案始末</a></li>
-<li><a href="/topimagenews/20220613/1744884.md">什么信号？拜登突爆曾警告俄会开战 但泽伦斯基“不想听” 乌总统顾问反击批荒谬</a></li>
 <li><a href="/cnnews/20220613/1745057.md">从乐玉成去而复返事件看中俄关系</a></li>
+<li><a href="/topimagenews/20220613/1744884.md">什么信号？拜登突爆曾警告俄会开战 但泽伦斯基“不想听” 乌总统顾问反击批荒谬</a></li>
 <li><a href="/bannedvideo/20220613/1745141.md">唐山再爆大案 袁立揭一重大误解 学者：中国这变化太可怕 后果将现【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220613/1744960.md">红二代：京城习谣言加密流传 内容惊人 中共官场持续震荡</a></li>
 <li><a href="/cbnews/20220613/1745018.md">唐山打人者陈继志被警方带走 妻子:等着看通报</a></li>
@@ -25,8 +25,8 @@
 <li><a href="/comments/20220613/1745028.md">唐山装甲车黑帮勾结军警 威胁到首都北京安全 震惊中南海 公安部严令剿灭 中南海不可告人的秘密_545</a></li>
 <li><a href="/cnnews/20220613/1744976.md">习近平在四川时要求推动一件事 然而很多人不知道的是...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220613/1744986.md">中国人不敢了！中共法律让见义勇为者付出代价</a></li>
-<li><a href="/funmedia/20220613/1745004.md">“疫情后，我离婚了，不是因为出轨…”</a></li>
 <li><a href="/ssgc/20220613/1745035.md">民心思变 习近平最大的危机</a></li>
+<li><a href="/funmedia/20220613/1745004.md">“疫情后，我离婚了，不是因为出轨…”</a></li>
 <li><a href="/bannedvideo/20220613/1745022.md">大陆千疮百孔，危机四伏，习近平一尊定位已经动摇。</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220614/1745236.md" target="_blank">李燕铭：习近平清洗河北帮（九） 习亲信王小洪率两心腹督办唐山打人案 抓捕9人细节曝光 其中3人隶属江苏黑帮天安社 唐山一个多月连爆三起恶劣伤人事件 官媒释放大清洗信号 唐山展开“雷霆风暴”专项行动 全面启动高等级巡控</a></li>
 <li><a href="/comments/20220613/1745215.md" target="_blank">专栏 | 劳工通讯：资阳市建筑工求救书记帮讨薪（三）</a></li>
 <li><a href="/comments/20220613/1745191.md" target="_blank">港候任特首李家超称「新闻自由无限」 记协反驳</a></li>
 <li><a href="/comments/20220613/1745183.md" target="_blank">时事大家谈：香格里拉对话: 中国胁迫逼人，今天乌克兰明日台湾？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220613/1745016.md" target="_blank">“人间私语，天闻若雷” 坚守德操者惠及子孙</a></li>
 <li><a href="/comments/20220613/1745015.md" target="_blank">改变命运 由一文不名变成全县首富</a></li>
 <li><a href="/comments/20220613/1745006.md" target="_blank">唐山事件里的民智：果然，“女的也有罪”又来了</a></li>
-<li><a href="/comments/20220613/1745005.md" target="_blank">从丰县到唐山：什么是系统性的性别暴力?</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 
 </ul>
 </div>
