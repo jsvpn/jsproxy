@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220612/1744723.md">施暴者是警察？唐山女孩被打当晚施暴者拍摄视频亮了【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20220612/1744665.md">习近平扳回了一城？很多人大吃一惊</a></li>
 <li><a href="/cbnews/20220612/1744695.md">天亮时分：唐山暴徒果有背景，爲什麽习近平再无可能全面打黑；泽伦斯基跟中共翻脸，普京不再掩饰吞并乌克兰全境的野心（政论天下第721集 20220611）</a></li>
 <li><a href="/bannedvideo/20220612/1744803.md">怕啥来啥 一个更大危机逼近习；唐山事件曝更多细节 主角黑历史被揭【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220612/1744764.md">唐山他们打人时候是清醒：多位目击者发声 被打女性说不认识嫌疑人</a></li>
@@ -15,17 +14,18 @@
 <li><a href="/topimagenews/20220612/1744850.md">“大陆第一狗仔”复出讲唐山打人事件 12小时后这原因被禁</a></li>
 <li><a href="/cbnews/20220612/1744821.md">他发布唐山打人影片被点阅近7千万次 电话被打爆遭威吓也不后悔</a></li>
 <li><a href="/cbnews/20220612/1744822.md">狼性大爆发！重庆女歌手拒陌生大叔敬酒 被呛“连五小区小姐都不如”</a></li>
-<li><a href="/lifebaike/20220612/1744794.md">成都一家人外出庆生 哈士奇＂拆家＂损失200多万</a></li>
 <li><a href="/health/20220612/1744774.md">寿命长短或与血型有关，如果你是这种血型，可能会比别人活得久</a></li>
+<li><a href="/lifebaike/20220612/1744794.md">成都一家人外出庆生 哈士奇＂拆家＂损失200多万</a></li>
 <li><a href="/topimagenews/20220612/1744746.md">唐山女子举报黑道 竟被警方吃案 要求删除检举视讯</a></li>
 <li><a href="/cnnews/20220612/1744688.md">唐山被打女子伤势曝光 血染白衣头缠纱布 或毁容</a></li>
 <li><a href="/bannedvideo/20220612/1744678.md">女孩确已S亡？唐山警方回避；多人行凶刑拘2人，案情会有变量？60万已“和解”？行凶前侮辱女孩；凶手皆为累犯，其中一人曾S人；距事发地900米，出警拖3.5小时【新闻看点 李沐阳6.11】</a></li>
 <li><a href="/topimagenews/20220612/1744697.md">【微博精粹】武装部发布6.4最佳广告词</a></li>
-<li><a href="/topimagenews/20220612/1744696.md">唐山成黑道之乡 “打人事件”改由他地警局侦办</a></li>
 <li><a href="/bannedvideo/20220612/1744743.md">向美军放狂言“不惜一战”！中美军头被曝当面冲突；羞辱乌总统？中共态度遭批</a></li>
-<li><a href="/cbnews/20220612/1744755.md">疑似涉事烧烤店老板娘：那伙人威胁我且没结账</a></li>
+<li><a href="/topimagenews/20220612/1744696.md">唐山成黑道之乡 “打人事件”改由他地警局侦办</a></li>
 <li><a href="/topimagenews/20220613/1744884.md">什么信号？拜登突爆曾警告俄会开战 但泽伦斯基“不想听” 乌总统顾问反击批荒谬</a></li>
+<li><a href="/cbnews/20220612/1744755.md">疑似涉事烧烤店老板娘：那伙人威胁我且没结账</a></li>
 <li><a href="/cnnews/20220612/1744839.md">“我还满替李克强担心的，他能安全下庄就不错了”【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20220613/1744900.md">〖兲朝浮世绘〗他们打黑不是为了匡扶人间正义 是为了二十大安全</a></li>
 <li><a href="/health/20220612/1744775.md">早晨起来后喝一杯温水，等于在喝细菌？其实，或许很多人想错了</a></li>
 <li><a href="/lifebaike/20220612/1744776.md">买酱油，瓶子上有这4个字，赶紧放下</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220613/1744981.md" target="_blank">香格里拉对话闭幕 美中关系和乌克兰最受关注</a></li>
 <li><a href="/cbnews/20220613/1744939.md" target="_blank">美参院两党团队达协议 宣布枪支管制框架</a></li>
 <li><a href="/cbnews/20220613/1744905.md" target="_blank">他称“威胁别人的事中国不干” 转头就威胁台湾</a></li>
 <li><a href="/cbnews/20220613/1744904.md" target="_blank">“在中国，对妇女施暴的行为非常普遍”</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220611/1744405.md" target="_blank">都想当富人 岂知富人被“均贫富”？</a></li>
 <li><a href="/cbnews/20220611/1744377.md" target="_blank">天亮时分：习总清零、唐山打人事件和人口危机；四十年通胀最高点，拜登刻意维持高油价；美驻华大使：“中美关系处於历史最低点”（政论天下第720集 20220610）</a></li>
 <li><a href="/cbnews/20220611/1744361.md" target="_blank">提升快速应对危机！美军“勇敢之盾”关岛军演：双航母＋两栖突击舰</a></li>
-<li><a href="/cbnews/20220611/1744310.md" target="_blank">江峰：留岛也留人？美国对宣战闹独立的叛乱竟是这个态度，美军登岛遭到神秘武器痛击【江峰漫谈20220610-佛罗里达】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220613/1744983.md" target="_blank">李燕铭：习近平清洗河北帮（七） 唐山打人案交廊坊公安局异地办理 唐山现任公安局长赵晋进曾任廊坊市公安局长 廊坊市公安局长张文阁刚上任 张文阁与赵晋进在河北省公安厅共事多年 廊坊公安局会护唐山公安局的短？河北省公安厅五名高官落马 习近平逼河北刀把子自相残杀</a></li>
+<li><a href="/comments/20220613/1744971.md" target="_blank">马伯庸：就这么身陷惶恐之中</a></li>
 <li><a href="/comments/20220613/1744948.md" target="_blank">两边演戏的谷爱凌小姐，还能红多久？</a></li>
 <li><a href="/comments/20220613/1744947.md" target="_blank">洪博学：中国人站起来了吗？</a></li>
 <li><a href="/comments/20220613/1744946.md" target="_blank">李濠仲：13次当选，习近平全球“夺冠”</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220612/1744840.md" target="_blank">通膨冲上40年新高！拜登撂重话阻航运商涨价敲诈</a></li>
 <li><a href="/comments/20220612/1744835.md" target="_blank">《三国演义》第八十三回 战猇亭先主得仇人 守江口书生拜大将</a></li>
 <li><a href="/comments/20220612/1744834.md" target="_blank">《封神演义》第八十三回 三大师收狮象犼</a></li>
-<li><a href="/comments/20220612/1744828.md" target="_blank">蚝油不是万能酱料 烹调这几种菜时不能放</a></li>
-<li><a href="/comments/20220612/1744820.md" target="_blank">最热时节倒计时！家常几招化湿健脾、清心去火</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 
 </ul>
 </div>
