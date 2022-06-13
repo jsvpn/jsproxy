@@ -9,10 +9,9 @@
 <li><a href="/ssgc/20220612/1744831.md">中纪委发文警告 李克强被要求站好位</a></li>
 <li><a href="/topimagenews/20220613/1744922.md">水落石出？唐山案打人最狠的三男 的确不是一般人</a></li>
 <li><a href="/topimagenews/20220612/1744850.md">“大陆第一狗仔”复出讲唐山打人事件 12小时后这原因被禁</a></li>
+<li><a href="/topimagenews/20220613/1745003.md">倒吸凉气：关于唐山打人事件的第三波内幕来了</a></li>
 <li><a href="/cbnews/20220612/1744821.md">他发布唐山打人影片被点阅近7千万次 电话被打爆遭威吓也不后悔</a></li>
 <li><a href="/cbnews/20220612/1744822.md">狼性大爆发！重庆女歌手拒陌生大叔敬酒 被呛“连五小区小姐都不如”</a></li>
-<li><a href="/topimagenews/20220613/1745003.md">倒吸凉气：关于唐山打人事件的第三波内幕来了</a></li>
-<li><a href="/health/20220612/1744774.md">寿命长短或与血型有关，如果你是这种血型，可能会比别人活得久</a></li>
 <li><a href="/lifebaike/20220612/1744794.md">成都一家人外出庆生 哈士奇＂拆家＂损失200多万</a></li>
 <li><a href="/cnnews/20220613/1744920.md">女星在富豪游艇趴溺毙，生前“恐怖动作“曝光</a></li>
 <li><a href="/cnnews/20220613/1744915.md">“把那几个女的怼在路边给干了” 唐山案视频竟获高赞5.7万</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/bannedvideo/20220613/1744938.md">🔥🔥突发❗唐山再“地震”，这次是十级❗❗</a></li>
 <li><a href="/topimagenews/20220613/1744884.md">什么信号？拜登突爆曾警告俄会开战 但泽伦斯基“不想听” 乌总统顾问反击批荒谬</a></li>
 <li><a href="/cnnews/20220612/1744839.md">“我还满替李克强担心的，他能安全下庄就不错了”【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20220613/1744973.md">看着血流干，随后自首：北京联通“割喉”案始末</a></li>
 <li><a href="/lifebaike/20220613/1745007.md">薄熙来曾放出一句狠话 6年后不幸言中</a></li>
-<li><a href="/lifebaike/20220612/1744776.md">买酱油，瓶子上有这4个字，赶紧放下</a></li>
-<li><a href="/health/20220612/1744775.md">早晨起来后喝一杯温水，等于在喝细菌？其实，或许很多人想错了</a></li>
+<li><a href="/cnnews/20220613/1744973.md">看着血流干，随后自首：北京联通“割喉”案始末</a></li>
 <li><a href="/bannedvideo/20220613/1744960.md">红二代：京城习谣言加密流传 内容惊人 中共官场持续震荡</a></li>
+<li><a href="/cnnews/20220613/1744975.md">上海女当街遭砍杀 浴血惨叫 影片疯传 官方封禁话题</a></li>
 <li><a href="/comments/20220612/1744853.md">警匪一家实锤？唐山打人案曝更多证据 网友与官方角力</a></li>
 <li><a href="/cbnews/20220612/1744785.md">机动防御失效：乌丢失最后据点2／3控制权</a></li>
+<li><a href="/topimagenews/20220613/1744986.md">中国人不敢了！中共法律让见义勇为者付出代价</a></li>
+<li><a href="/yule/20220613/1744893.md">张兰直播公开大S八岁女儿“身体变化”并曝光孙子长相掀热议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 
 </ul>
 </div>
