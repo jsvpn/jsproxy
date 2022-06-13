@@ -19,15 +19,15 @@
 <li><a href="/cnnews/20220613/1745057.md">从乐玉成去而复返事件看中俄关系</a></li>
 <li><a href="/bannedvideo/20220613/1744960.md">红二代：京城习谣言加密流传 内容惊人 中共官场持续震荡</a></li>
 <li><a href="/cbnews/20220613/1745018.md">唐山打人者陈继志被警方带走 妻子:等着看通报</a></li>
-<li><a href="/bannedvideo/20220613/1745047.md">中共中央利用“唐山事件”的三大算计！反思：中共国，有多少罪恶被掩盖？打人者有警察、熟识副市长？6月10日前后密集发生恶性案子；北京坊间广传加密骂习文件包；再有大陆人乘皮艇靠近台东｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20220613/1744975.md">上海女当街遭砍杀 浴血惨叫 影片疯传 官方封禁话题</a></li>
+<li><a href="/bannedvideo/20220613/1745047.md">中共中央利用“唐山事件”的三大算计！反思：中共国，有多少罪恶被掩盖？打人者有警察、熟识副市长？6月10日前后密集发生恶性案子；北京坊间广传加密骂习文件包；再有大陆人乘皮艇靠近台东｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/bannedvideo/20220613/1745143.md">中国犯罪事件，未来或井喷！经济崩坏，中共要拖着大家一起死？诺奖得主预言美国经济衰退；特斯拉要大裁员？免疫抗癌新药，100%治愈直肠癌！【#蔚然 财商天下】2022.06.13</a></li>
 <li><a href="/comments/20220613/1745028.md">唐山装甲车黑帮勾结军警 威胁到首都北京安全 震惊中南海 公安部严令剿灭 中南海不可告人的秘密_545</a></li>
 <li><a href="/bannedvideo/20220613/1745147.md">😡受害女已S? 现场食客发声打脸公安, 3点看见警察! 出警记录作假, 为收60万“摆平费”? 真观点｜真飞【20220613】#唐山打人事件 #唐山事件</a></li>
+<li><a href="/cnnews/20220613/1745155.md">马云们快得救？习近平的真正目的... 被普京害惨！中欧班列已停中企大落跑；</a></li>
 <li><a href="/cnnews/20220613/1744976.md">习近平在四川时要求推动一件事 然而很多人不知道的是...【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220613/1745035.md">民心思变 习近平最大的危机</a></li>
 <li><a href="/topimagenews/20220613/1744986.md">中国人不敢了！中共法律让见义勇为者付出代价</a></li>
-<li><a href="/cnnews/20220613/1745155.md">马云们快得救？习近平的真正目的... 被普京害惨！中欧班列已停中企大落跑；</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220614/1745276.md" target="_blank">北京大学生正当防卫被判15年 谁还敢救唐山被殴女</a></li>
 <li><a href="/comments/20220614/1745263.md" target="_blank">《三国演义》第八十四回 陆逊营烧七百里 孔明巧布八阵图</a></li>
 <li><a href="/comments/20220614/1745262.md" target="_blank">《封神演义》第八十四回 子牙兵取临潼关</a></li>
 <li><a href="/comments/20220614/1745259.md" target="_blank">【文韬政论】台积电「抢夺战」的启发</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220613/1745028.md" target="_blank">唐山装甲车黑帮勾结军警 威胁到首都北京安全 震惊中南海 公安部严令剿灭 中南海不可告人的秘密_545</a></li>
 <li><a href="/comments/20220613/1745026.md" target="_blank">袁红冰 : 心灵的歌者与舞者 ——桑梓《雪的泪花》诗集序￼</a></li>
 <li><a href="/comments/20220613/1745024.md" target="_blank">中国30年前再凶恶小混混也不会当街打女人 传出去要被全城追打的</a></li>
-<li><a href="/comments/20220613/1745019.md" target="_blank">【独家重磅】李燕铭：习近平清洗河北帮（八） 唐山警匪勾结群殴女性案更多黑幕曝光 唐山黑帮与军方勾结开装甲车巡街 唐山黑恶势力保护伞高官名单揭秘 其中一人已被罢免人大代表职务</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 
 </ul>
 </div>
