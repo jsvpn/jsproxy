@@ -11,8 +11,8 @@
 <li><a href="/yule/20220614/1745361.md">越南女学生被街头采访的视频爆红 颜值太高了</a></li>
 <li><a href="/topimagenews/20220614/1745458.md">【微博精粹】要打压了！ 原因很简单：他们没料到的事发生了</a></li>
 <li><a href="/topimagenews/20220614/1745319.md">深挖！谁罩着唐山打人事件暴徒？【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20220614/1745320.md">解封后上海出入境管理局排起长龙 开始“润”了</a></li>
 <li><a href="/bannedvideo/20220614/1745481.md">唐山事件“保护伞”太多！“九流氓”中有政法委书记的儿子，大陆媒体点名唐山官场；思考题：中共喜欢好人多、还是坏人多？公检法的上位逻辑；上千港人伦敦纪念612事件</a></li>
+<li><a href="/cbnews/20220614/1745320.md">解封后上海出入境管理局排起长龙 开始“润”了</a></li>
 <li><a href="/ssgc/20220614/1745472.md">〖兲朝浮世绘〗习近平突然签署这个命令，是要跟反习势力火并吗？</a></li>
 <li><a href="/topimagenews/20220614/1745305.md">火了！摒弃博士帽 改戴传统进士服和状元帽 ：糟蹋传统文化</a></li>
 <li><a href="/bannedvideo/20220614/1745589.md">习下军令 这16字是关键  中共遇70年来最大危机；唐山凶徒之一疑是官二代【两岸要闻】</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/ssgc/20220614/1745545.md">唐山9暴徒3人是“天安社”成员 当地掀举报浪潮 女学生惨遭绑架蹂躏</a></li>
 <li><a href="/bannedvideo/20220614/1745546.md">上海到北京的高铁半路查出来阳性 全车乘客在济南下车隔离；上海松江佘山地铁站进站撑伞扫码盛况；东方航空公司四川分公司 核酸证明过了3分钟 不让登机； 上海梅陇三村 四村抗疫先封 又封了</a></li>
 <li><a href="/lifebaike/20220614/1745488.md">江青“绝命书”：未除此人后患无穷</a></li>
-<li><a href="/cbnews/20220614/1745565.md">唐山被殴女满脸伤！“移动需借助轮椅”</a></li>
+<li><a href="/bannedvideo/20220614/1745580.md">唐山打人案扩大发酵，曝光政黑勾结内幕？深层真相曝光，中共利用唐山案保二十大？党媒连日砲轰唐山市府，暗藏政治算盘？（2022.6.14）｜世界的十字路口 唐浩</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220615/1745735.md" target="_blank">女艺人爱美脸变「仙人掌」 网惊「快吓死」</a></li>
 <li><a href="/comments/20220615/1745717.md" target="_blank">药食同源的香茅 还是天然驱蚊剂</a></li>
 <li><a href="/comments/20220615/1745716.md" target="_blank">哪儿最适合首次购房？美国2022年购房指数排名</a></li>
 <li><a href="/comments/20220615/1745697.md" target="_blank">加拿大印太顾问团很亲中？专家：战略规划有待推进</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220614/1745514.md" target="_blank">【独家重磅】李燕铭：习近平李克强明争暗斗内幕（二五） 习近平清洗李克强团派钱袋子 中青旅原副总经理伞翔宇被查 伞翔宇与团派大员李克强周强胡春华长期交集 李克强曾为中青旅揭牌 中青旅董事长康国明与李克强关系非同一般 李克强团派与曾庆红江西帮勾结？中青旅国有产权划转光大集团 江西帮常委吴官正之子吴少华长期操控光大集团 吴少华被调虎离山后光大集团八高管被查处 习近平连任与二十大常委争夺战（二八）</a></li>
 <li><a href="/comments/20220614/1745501.md" target="_blank">唐山涉事烧烤街老板被网暴 一天接两三百恐吓电话</a></li>
 <li><a href="/comments/20220614/1745500.md" target="_blank">参加美洲峰会返国 加拿大总理特鲁多再确诊</a></li>
-<li><a href="/comments/20220614/1745480.md" target="_blank">北京疫情严重 上海商户游行示威 爆发警民冲突</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
 
 </ul>
 </div>
