@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220613/1745003.md">倒吸凉气：关于唐山打人事件的第三波内幕来了</a></li>
 <li><a href="/lifebaike/20220613/1745007.md">薄熙来曾放出一句狠话 6年后不幸言中</a></li>
-<li><a href="/bannedvideo/20220613/1744938.md">🔥🔥突发❗唐山再“地震”，这次是十级❗❗</a></li>
 <li><a href="/topimagenews/20220613/1745049.md">网曝唐山案60万的来路和去向【阿波罗网报导】</a></li>
 <li><a href="/cnnews/20220613/1744973.md">看着血流干，随后自首：北京联通“割喉”案始末</a></li>
 <li><a href="/bannedvideo/20220613/1745141.md">唐山再爆大案 袁立揭一重大误解 学者：中国这变化太可怕 后果将现【两岸要闻】</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/bannedvideo/20220613/1744960.md">红二代：京城习谣言加密流传 内容惊人 中共官场持续震荡</a></li>
 <li><a href="/topimagenews/20220613/1745225.md">唐山打人事件 3名“天安社”黑帮开特殊车牌“苏M-A7777”豪车出逃 曝中国黑帮嚣张狂妄遍地</a></li>
 <li><a href="/cnnews/20220613/1744975.md">上海女当街遭砍杀 浴血惨叫 影片疯传 官方封禁话题</a></li>
+<li><a href="/bannedvideo/20220613/1745047.md">中共中央利用“唐山事件”的三大算计！反思：中共国，有多少罪恶被掩盖？打人者有警察、熟识副市长？6月10日前后密集发生恶性案子；北京坊间广传加密骂习文件包；再有大陆人乘皮艇靠近台东｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/bannedvideo/20220613/1745143.md">中国犯罪事件，未来或井喷！经济崩坏，中共要拖着大家一起死？诺奖得主预言美国经济衰退；特斯拉要大裁员？免疫抗癌新药，100%治愈直肠癌！【#蔚然 财商天下】2022.06.13</a></li>
 <li><a href="/cbnews/20220613/1745018.md">唐山打人者陈继志被警方带走 妻子:等着看通报</a></li>
-<li><a href="/bannedvideo/20220613/1745047.md">中共中央利用“唐山事件”的三大算计！反思：中共国，有多少罪恶被掩盖？打人者有警察、熟识副市长？6月10日前后密集发生恶性案子；北京坊间广传加密骂习文件包；再有大陆人乘皮艇靠近台东｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20220613/1745155.md">马云们快得救？习近平的真正目的... 被普京害惨！中欧班列已停中企大落跑；</a></li>
 <li><a href="/bannedvideo/20220613/1745147.md">😡受害女已S? 现场食客发声打脸公安, 3点看见警察! 出警记录作假, 为收60万“摆平费”? 真观点｜真飞【20220613】#唐山打人事件 #唐山事件</a></li>
 <li><a href="/comments/20220613/1745028.md">唐山装甲车黑帮勾结军警 威胁到首都北京安全 震惊中南海 公安部严令剿灭 中南海不可告人的秘密_545</a></li>
-<li><a href="/ssgc/20220613/1745035.md">民心思变 习近平最大的危机</a></li>
 <li><a href="/cnnews/20220613/1744976.md">习近平在四川时要求推动一件事 然而很多人不知道的是...【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20220613/1745035.md">民心思变 习近平最大的危机</a></li>
 <li><a href="/topimagenews/20220613/1744986.md">中国人不敢了！中共法律让见义勇为者付出代价</a></li>
 <li><a href="/bannedvideo/20220613/1745145.md">陈破空：奇了，习亲信又回到外交部！退位交易？唐山打人事件热门，哪些事能炒作？成龙泄密</a></li>
 <li><a href="/funmedia/20220613/1745004.md">“疫情后，我离婚了，不是因为出轨…”</a></li>
 <li><a href="/topimagenews/20220613/1745125.md">俄过滤营惨况曝光 逼乌克兰女性脱衣 看人挨揍 乌东顿巴斯之战关键在这</a></li>
 <li><a href="/bannedvideo/20220613/1745022.md">大陆千疮百孔，危机四伏，习近平一尊定位已经动摇。</a></li>
+<li><a href="/ssgc/20220613/1744955.md">〖微博谈〗他很忙，20大之后更忙</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220614/1745371.md" target="_blank">江浙沪成立降薪办！！上海处级年薪35万砍到20万</a></li>
 <li><a href="/topimagenews/20220614/1745319.md" target="_blank">深挖！谁罩着唐山打人事件暴徒？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220614/1745305.md" target="_blank">火了！摒弃博士帽 改戴传统进士服和状元帽 ：糟蹋传统文化</a></li>
 <li><a href="/topimagenews/20220613/1745225.md" target="_blank">唐山打人事件 3名“天安社”黑帮开特殊车牌“苏M-A7777”豪车出逃 曝中国黑帮嚣张狂妄遍地</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220612/1744723.md" target="_blank">施暴者是警察？唐山女孩被打当晚施暴者拍摄视频亮了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220612/1744711.md" target="_blank">深夜出门撸串？“生在中国 你就偷着乐吧”</a></li>
 <li><a href="/topimagenews/20220612/1744698.md" target="_blank">继宣称“习近平被边控”后，反习派再曝惊人之语【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220612/1744697.md" target="_blank">【微博精粹】武装部发布6.4最佳广告词</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220614/1745372.md" target="_blank">俄乌战负面效应加大 西方道德衰弱造成更大牺牲</a></li>
 <li><a href="/comments/20220614/1745363.md" target="_blank">中共国的恐惧感——爆棚</a></li>
 <li><a href="/comments/20220614/1745350.md" target="_blank">5月访中遭批评 联合国人权事务高级专员宣布不续任</a></li>
 <li><a href="/comments/20220614/1745315.md" target="_blank">四天获得供体移植 中国存在一个按需活摘器官的黑恶系统</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220613/1745121.md" target="_blank">中医认为高血压分3类 吃这2种食物降血压</a></li>
 <li><a href="/comments/20220613/1745120.md" target="_blank">警告！晨练完立即冲凉，可能危及生命</a></li>
 <li><a href="/comments/20220613/1745119.md" target="_blank">每周运动逾150分钟 研究：降低染疫风险</a></li>
-<li><a href="/comments/20220613/1745118.md" target="_blank">夏日褪黑激素分泌降易失眠 营养师：可以「这样吃」来改善</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
 <li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
 
 </ul>
 </div>
