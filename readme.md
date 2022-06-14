@@ -8,24 +8,24 @@
 <li><a href="/bannedvideo/20220613/1745141.md">唐山再爆大案 袁立揭一重大误解 学者：中国这变化太可怕 后果将现【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220613/1745225.md">唐山打人事件 3名“天安社”黑帮开特殊车牌“苏M-A7777”豪车出逃 曝中国黑帮嚣张狂妄遍地</a></li>
 <li><a href="/bannedvideo/20220613/1745143.md">中国犯罪事件，未来或井喷！经济崩坏，中共要拖着大家一起死？诺奖得主预言美国经济衰退；特斯拉要大裁员？免疫抗癌新药，100%治愈直肠癌！【#蔚然 财商天下】2022.06.13</a></li>
-<li><a href="/cnnews/20220614/1745373.md">网友自曝：一家3口持美旅游签证出境被劝返…</a></li>
 <li><a href="/bannedvideo/20220613/1745147.md">😡受害女已S? 现场食客发声打脸公安, 3点看见警察! 出警记录作假, 为收60万“摆平费”? 真观点｜真飞【20220613】#唐山打人事件 #唐山事件</a></li>
+<li><a href="/cnnews/20220614/1745373.md">网友自曝：一家3口持美旅游签证出境被劝返…</a></li>
 <li><a href="/cnnews/20220613/1745155.md">马云们快得救？习近平的真正目的... 被普京害惨！中欧班列已停中企大落跑；</a></li>
 <li><a href="/cbnews/20220614/1745416.md">网传被打花季少女真容 唐山公安的表演狼狈不堪</a></li>
 <li><a href="/topimagenews/20220614/1745371.md">江浙沪成立降薪办！！上海处级年薪35万砍到20万</a></li>
-<li><a href="/topimagenews/20220614/1745458.md">【微博精粹】要打压了！ 原因很简单：他们没料到的事发生了</a></li>
 <li><a href="/topimagenews/20220614/1745319.md">深挖！谁罩着唐山打人事件暴徒？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20220614/1745458.md">【微博精粹】要打压了！ 原因很简单：他们没料到的事发生了</a></li>
 <li><a href="/cnnews/20220614/1745288.md">亲俄立场不藏了 他靠一张嘴“重登大位”</a></li>
 <li><a href="/bannedvideo/20220613/1745145.md">陈破空：奇了，习亲信又回到外交部！退位交易？唐山打人事件热门，哪些事能炒作？成龙泄密</a></li>
-<li><a href="/cbnews/20220614/1745320.md">解封后上海出入境管理局排起长龙 开始“润”了</a></li>
 <li><a href="/bannedvideo/20220614/1745287.md">军方释重要信号  人算不如天算 一阴影已笼罩中共【红朝禁闻】</a></li>
+<li><a href="/cbnews/20220614/1745320.md">解封后上海出入境管理局排起长龙 开始“润”了</a></li>
 <li><a href="/yule/20220614/1745361.md">越南女学生被街头采访的视频爆红 颜值太高了</a></li>
 <li><a href="/topimagenews/20220614/1745305.md">火了！摒弃博士帽 改戴传统进士服和状元帽 ：糟蹋传统文化</a></li>
 <li><a href="/bannedvideo/20220613/1745188.md">文睿：真动军队了，习近平赌最后一把，了断的时刻到了</a></li>
-<li><a href="/topimagenews/20220614/1745380.md">范畴：盖棺论定习近平 脱序的越野车驾驶员 【劲爆文】</a></li>
-<li><a href="/ssgc/20220614/1745472.md">〖兲朝浮世绘〗习近平突然签署这个命令，是要跟反习势力火并吗？</a></li>
-<li><a href="/bannedvideo/20220614/1745316.md">军队非战争军事行动纲要公布/意味着中共动用军队镇压民众行动常态化</a></li>
 <li><a href="/bannedvideo/20220614/1745481.md">唐山事件“保护伞”太多！“九流氓”中有政法委书记的儿子，大陆媒体点名唐山官场；思考题：中共喜欢好人多、还是坏人多？公检法的上位逻辑；上千港人伦敦纪念612事件</a></li>
+<li><a href="/ssgc/20220614/1745472.md">〖兲朝浮世绘〗习近平突然签署这个命令，是要跟反习势力火并吗？</a></li>
+<li><a href="/topimagenews/20220614/1745380.md">范畴：盖棺论定习近平 脱序的越野车驾驶员 【劲爆文】</a></li>
+<li><a href="/bannedvideo/20220614/1745316.md">军队非战争军事行动纲要公布/意味着中共动用军队镇压民众行动常态化</a></li>
 <li><a href="/bannedvideo/20220614/1745346.md">将有大行动？防政变还是效仿普京？ 习近平突然签署《非战争军事行动纲要》【每日头条】</a></li>
 <li><a href="/cnnews/20220613/1745226.md">寄生上流恐怖版！中国男导游搬进富婆家 她就“失智”被交出财产了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220614/1745585.md" target="_blank">美国2024年大选 川普卷土重来？民主党“自欺欺人”？专家：这个人是“灾难”</a></li>
 <li><a href="/topimagenews/20220614/1745577.md" target="_blank">成龙谴责唐山打人案 台网友酸：香港民众被打 怎不见他站出来</a></li>
 <li><a href="/topimagenews/20220614/1745576.md" target="_blank">拜登将角逐2024连任 民主党人忧太老、国家崩溃、选民已身心俱疲</a></li>
 <li><a href="/topimagenews/20220614/1745534.md" target="_blank">摧毁共军对台两栖攻击 美军F35辗压中共歼20可占得制空权</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220613/1745017.md" target="_blank">唐山主犯：曾顶着潜逃与通缉之名 依旧叱咤风云</a></li>
 <li><a href="/topimagenews/20220613/1745003.md" target="_blank">倒吸凉气：关于唐山打人事件的第三波内幕来了</a></li>
 <li><a href="/topimagenews/20220613/1745002.md" target="_blank">【微博精粹】上次唐山出名是地震 这次出名是人渣</a></li>
-<li><a href="/topimagenews/20220613/1744986.md" target="_blank">中国人不敢了！中共法律让见义勇为者付出代价</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220614/1745588.md" target="_blank">最新研究报告：风险加剧 全球核武未来10年恐呈增长之势</a></li>
 <li><a href="/comments/20220614/1745572.md" target="_blank">研究：孩子过动、注意力不足，吃蔬果能改善症状</a></li>
 <li><a href="/comments/20220614/1745561.md" target="_blank">人体中的营养素你真的有了解吗？</a></li>
 <li><a href="/comments/20220614/1745560.md" target="_blank">这个部位出汗，竟是中风前兆</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220614/1745372.md" target="_blank">俄乌战负面效应加大 西方道德衰弱造成更大牺牲</a></li>
 <li><a href="/comments/20220614/1745363.md" target="_blank">中共国的恐惧感——爆棚</a></li>
 <li><a href="/comments/20220614/1745350.md" target="_blank">5月访中遭批评 联合国人权事务高级专员宣布不续任</a></li>
-<li><a href="/comments/20220614/1745315.md" target="_blank">四天获得供体移植 中国存在一个按需活摘器官的黑恶系统</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 <li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 
 </ul>
 </div>
