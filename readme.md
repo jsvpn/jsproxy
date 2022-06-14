@@ -9,8 +9,8 @@
 <li><a href="/topimagenews/20220613/1745225.md">唐山打人事件 3名“天安社”黑帮开特殊车牌“苏M-A7777”豪车出逃 曝中国黑帮嚣张狂妄遍地</a></li>
 <li><a href="/bannedvideo/20220613/1745143.md">中国犯罪事件，未来或井喷！经济崩坏，中共要拖着大家一起死？诺奖得主预言美国经济衰退；特斯拉要大裁员？免疫抗癌新药，100%治愈直肠癌！【#蔚然 财商天下】2022.06.13</a></li>
 <li><a href="/cnnews/20220613/1745155.md">马云们快得救？习近平的真正目的... 被普京害惨！中欧班列已停中企大落跑；</a></li>
-<li><a href="/bannedvideo/20220613/1745147.md">😡受害女已S? 现场食客发声打脸公安, 3点看见警察! 出警记录作假, 为收60万“摆平费”? 真观点｜真飞【20220613】#唐山打人事件 #唐山事件</a></li>
 <li><a href="/cnnews/20220614/1745373.md">网友自曝：一家3口持美旅游签证出境被劝返…</a></li>
+<li><a href="/bannedvideo/20220613/1745147.md">😡受害女已S? 现场食客发声打脸公安, 3点看见警察! 出警记录作假, 为收60万“摆平费”? 真观点｜真飞【20220613】#唐山打人事件 #唐山事件</a></li>
 <li><a href="/topimagenews/20220614/1745371.md">江浙沪成立降薪办！！上海处级年薪35万砍到20万</a></li>
 <li><a href="/topimagenews/20220614/1745319.md">深挖！谁罩着唐山打人事件暴徒？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220614/1745416.md">网传被打花季少女真容 唐山公安的表演狼狈不堪</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/topimagenews/20220613/1745125.md">俄过滤营惨况曝光 逼乌克兰女性脱衣 看人挨揍 乌东顿巴斯之战关键在这</a></li>
 <li><a href="/bannedvideo/20220614/1745287.md">军方释重要信号  人算不如天算 一阴影已笼罩中共【红朝禁闻】</a></li>
 <li><a href="/bannedvideo/20220613/1745188.md">文睿：真动军队了，习近平赌最后一把，了断的时刻到了</a></li>
-<li><a href="/bannedvideo/20220614/1745316.md">军队非战争军事行动纲要公布/意味着中共动用军队镇压民众行动常态化</a></li>
 <li><a href="/topimagenews/20220614/1745380.md">范畴：盖棺论定习近平 脱序的越野车驾驶员 【劲爆文】</a></li>
+<li><a href="/bannedvideo/20220614/1745316.md">军队非战争军事行动纲要公布/意味着中共动用军队镇压民众行动常态化</a></li>
 <li><a href="/topimagenews/20220613/1745105.md">结束俄乌战争 乌克兰开清单要军援：1000门榴弹炮、300套多管火箭…</a></li>
 <li><a href="/cnnews/20220613/1745226.md">寄生上流恐怖版！中国男导游搬进富婆家 她就“失智”被交出财产了</a></li>
+<li><a href="/topimagenews/20220614/1745458.md">【微博精粹】要打压了！ 原因很简单：他们没料到的事发生了</a></li>
 <li><a href="/comments/20220614/1745236.md">李燕铭：习近平清洗河北帮（九） 习亲信王小洪率两心腹督办唐山打人案 抓捕9人细节曝光 其中3人隶属江苏黑帮天安社 唐山一个多月连爆三起恶劣伤人事件 官媒释放大清洗信号 唐山展开“雷霆风暴”专项行动 全面启动高等级巡控</a></li>
-<li><a href="/bannedvideo/20220614/1745346.md">将有大行动？防政变还是效仿普京？ 习近平突然签署《非战争军事行动纲要》【每日头条】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220614/1745514.md" target="_blank">【独家重磅】李燕铭：习近平李克强明争暗斗内幕（二五） 习近平清洗李克强团派钱袋子 中青旅原副总经理伞翔宇被查 伞翔宇与团派大员李克强周强胡春华长期交集 李克强曾为中青旅揭牌 中青旅董事长康国明与李克强关系非同一般 李克强团派与曾庆红江西帮勾结？中青旅国有产权划转光大集团 江西帮常委吴官正之子吴少华长期操控光大集团 吴少华被调虎离山后光大集团八高管被查处 习近平连任与二十大常委争夺战（二八）</a></li>
 <li><a href="/comments/20220614/1745501.md" target="_blank">唐山涉事烧烤街老板被网暴 一天接两三百恐吓电话</a></li>
 <li><a href="/comments/20220614/1745500.md" target="_blank">参加美洲峰会返国 加拿大总理特鲁多再确诊</a></li>
 <li><a href="/comments/20220614/1745480.md" target="_blank">北京疫情严重 上海商户游行示威 爆发警民冲突</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220614/1745263.md" target="_blank">《三国演义》第八十四回 陆逊营烧七百里 孔明巧布八阵图</a></li>
 <li><a href="/comments/20220614/1745262.md" target="_blank">《封神演义》第八十四回 子牙兵取临潼关</a></li>
 <li><a href="/comments/20220614/1745259.md" target="_blank">【文韬政论】台积电「抢夺战」的启发</a></li>
-<li><a href="/comments/20220614/1745236.md" target="_blank">李燕铭：习近平清洗河北帮（九） 习亲信王小洪率两心腹督办唐山打人案 抓捕9人细节曝光 其中3人隶属江苏黑帮天安社 唐山一个多月连爆三起恶劣伤人事件 官媒释放大清洗信号 唐山展开“雷霆风暴”专项行动 全面启动高等级巡控</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 
 </ul>
 </div>
