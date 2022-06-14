@@ -17,17 +17,17 @@
 <li><a href="/baitai/20220614/1745508.md">范畴：盖棺论定习近平</a></li>
 <li><a href="/topimagenews/20220614/1745380.md">范畴：盖棺论定习近平 脱序的越野车驾驶员 【劲爆文】</a></li>
 <li><a href="/bannedvideo/20220614/1745596.md">陈破空：震动！习近平图谋政变？突然签署军队纲要，违宪！中共要出大事？同日，战狼外交宣布：台海不是国际水域</a></li>
-<li><a href="/bannedvideo/20220614/1745346.md">将有大行动？防政变还是效仿普京？ 习近平突然签署《非战争军事行动纲要》【每日头条】</a></li>
 <li><a href="/cbnews/20220614/1745357.md">上海新规 每月需自费核检10次 引来骂声一片</a></li>
 <li><a href="/cbnews/20220614/1745414.md">天亮时分：唐山事件後续；中国社会步入动荡期，习近平发布新军令；股市币市暴跌，资本市场极度恐慌，美联储能否让经济软着陆？（政论天下第723集 20220613）</a></li>
 <li><a href="/ssgc/20220614/1745545.md">唐山9暴徒3人是“天安社”成员 当地掀举报浪潮 女学生惨遭绑架蹂躏</a></li>
-<li><a href="/bannedvideo/20220614/1745546.md">上海到北京的高铁半路查出来阳性 全车乘客在济南下车隔离；上海松江佘山地铁站进站撑伞扫码盛况；东方航空公司四川分公司 核酸证明过了3分钟 不让登机； 上海梅陇三村 四村抗疫先封 又封了</a></li>
 <li><a href="/lifebaike/20220614/1745488.md">江青“绝命书”：未除此人后患无穷</a></li>
+<li><a href="/bannedvideo/20220614/1745546.md">上海到北京的高铁半路查出来阳性 全车乘客在济南下车隔离；上海松江佘山地铁站进站撑伞扫码盛况；东方航空公司四川分公司 核酸证明过了3分钟 不让登机； 上海梅陇三村 四村抗疫先封 又封了</a></li>
 <li><a href="/bannedvideo/20220614/1745580.md">唐山打人案扩大发酵，曝光政黑勾结内幕？深层真相曝光，中共利用唐山案保二十大？党媒连日砲轰唐山市府，暗藏政治算盘？（2022.6.14）｜世界的十字路口 唐浩</a></li>
 <li><a href="/cbnews/20220614/1745565.md">唐山被殴女满脸伤！“移动需借助轮椅”</a></li>
 <li><a href="/bannedvideo/20220614/1745356.md">文昭：唐山殴女事件呈雪崩效应，刚出套又进套；习近平连失三城，和普京友谊小船要翻？</a></li>
 <li><a href="/topimagenews/20220614/1745519.md">加密货币“雷曼危机”已开始？陆媒曝这措施恐引发“飓风级”慌乱</a></li>
 <li><a href="/topimagenews/20220614/1745645.md">妙文！中共县乡干部“青黄不接” 躲的躲、逃的逃！【阿波罗网报道】</a></li>
+<li><a href="/worldnews/20220615/1745718.md">俄做出这决定 日本教授：普京快不行了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
 <li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 <li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 
 </ul>
 </div>
