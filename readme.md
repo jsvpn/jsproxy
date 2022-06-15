@@ -9,25 +9,25 @@
 <li><a href="/cnnews/20220614/1745543.md">恐BA.4、BA.5大爆发！专家警告快做3件事</a></li>
 <li><a href="/bannedvideo/20220614/1745596.md">陈破空：震动！习近平图谋政变？突然签署军队纲要，违宪！中共要出大事？同日，战狼外交宣布：台海不是国际水域</a></li>
 <li><a href="/worldnews/20220615/1745718.md">俄做出这决定 日本教授：普京快不行了</a></li>
-<li><a href="/topimagenews/20220615/1745741.md">习延任成定局？近期3热点凸显中共的不可测性</a></li>
 <li><a href="/bannedvideo/20220615/1745714.md">太子党麻烦来了？习这招太不寻常 这个副国级悬了【红朝禁闻】</a></li>
-<li><a href="/topimagenews/20220615/1745801.md">不寻常！这人打破习近平清零钦定政策常规 “14亿人的大游戏。”【阿波罗网报导】</a></li>
+<li><a href="/topimagenews/20220615/1745741.md">习延任成定局？近期3热点凸显中共的不可测性</a></li>
 <li><a href="/ssgc/20220614/1745545.md">唐山9暴徒3人是“天安社”成员 当地掀举报浪潮 女学生惨遭绑架蹂躏</a></li>
 <li><a href="/comments/20220615/1745688.md">唐山事件迅速降温 公安局长遭举报 官场黑幕惊人</a></li>
+<li><a href="/topimagenews/20220615/1745801.md">不寻常！这人打破习近平清零钦定政策常规 “14亿人的大游戏。”【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220615/1745742.md">习近平危险动向 将限制外国船只进出台湾港口？</a></li>
 <li><a href="/bannedvideo/20220614/1745546.md">上海到北京的高铁半路查出来阳性 全车乘客在济南下车隔离；上海松江佘山地铁站进站撑伞扫码盛况；东方航空公司四川分公司 核酸证明过了3分钟 不让登机； 上海梅陇三村 四村抗疫先封 又封了</a></li>
-<li><a href="/bannedvideo/20220615/1745771.md">中共突与俄唱反调，挺俄战狼被逐出外交部，国师说出中共政府的最怕。【每日头条】</a></li>
-<li><a href="/cbnews/20220614/1745565.md">唐山被殴女满脸伤！“移动需借助轮椅”</a></li>
 <li><a href="/bannedvideo/20220614/1745580.md">唐山打人案扩大发酵，曝光政黑勾结内幕？深层真相曝光，中共利用唐山案保二十大？党媒连日砲轰唐山市府，暗藏政治算盘？（2022.6.14）｜世界的十字路口 唐浩</a></li>
-<li><a href="/topimagenews/20220614/1745645.md">妙文！中共县乡干部“青黄不接” 躲的躲、逃的逃！【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20220614/1745565.md">唐山被殴女满脸伤！“移动需借助轮椅”</a></li>
+<li><a href="/bannedvideo/20220615/1745771.md">中共突与俄唱反调，挺俄战狼被逐出外交部，国师说出中共政府的最怕。【每日头条】</a></li>
 <li><a href="/ssgc/20220615/1745811.md">〖微博谈〗中国人真的丢脸丢到全世界</a></li>
-<li><a href="/topimagenews/20220614/1745519.md">加密货币“雷曼危机”已开始？陆媒曝这措施恐引发“飓风级”慌乱</a></li>
+<li><a href="/topimagenews/20220614/1745645.md">妙文！中共县乡干部“青黄不接” 躲的躲、逃的逃！【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20220615/1745728.md">印度洋打捞出明代石碑，才知郑和下西洋真实目的</a></li>
-<li><a href="/cnnews/20220614/1745633.md">三星堆新发现：7、8号坑埋藏极丰富文物 考古学前所未见</a></li>
 <li><a href="/bannedvideo/20220615/1745803.md">漫谈一尊同父异母哥哥</a></li>
+<li><a href="/cnnews/20220614/1745633.md">三星堆新发现：7、8号坑埋藏极丰富文物 考古学前所未见</a></li>
 <li><a href="/health/20220614/1745530.md">不论男女，1个动作就能让气血传遍全身，赶跑疾病</a></li>
-<li><a href="/lifebaike/20220614/1745520.md">家中WIFI位置你摆放对了吗？5招让你的WIFI速度瞬间快3倍</a></li>
 <li><a href="/funmedia/20220615/1745782.md">真正聪明的人，只过1%的生活</a></li>
+<li><a href="/ccpdope/20220614/1745607.md">著名博士冒死带美籍华裔妻回国 为啥又逃离</a></li>
+<li><a href="/cnnews/20220615/1745719.md">突发！加国取消出境、境内航班疫苗接种要求</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220615/1745947.md" target="_blank">中共称台湾海峡非国际水域 美国回应了</a></li>
 <li><a href="/topimagenews/20220615/1745916.md" target="_blank">乌军配合M777榴弹炮发威 摧毁俄军BM-21 BM-27多管火箭发射系统</a></li>
 <li><a href="/topimagenews/20220615/1745891.md" target="_blank">川普前高级纳瓦罗法庭怒批调查委员会非法【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220615/1745801.md" target="_blank">不寻常！这人打破习近平清零钦定政策常规 “14亿人的大游戏。”【阿波罗网报导】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220613/1745210.md" target="_blank">唐山打人事件&#038;徐州铁链女 中共喉舌为何两副面孔【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220613/1745178.md" target="_blank">6.12三周年/ 全英15城港人“如水再聚”毋忘抗争</a></li>
 <li><a href="/topimagenews/20220613/1745134.md" target="_blank">他泪曝妻遭集束弹全身刺穿 俄罗斯“战争罪”难辩</a></li>
-<li><a href="/topimagenews/20220613/1745125.md" target="_blank">俄过滤营惨况曝光 逼乌克兰女性脱衣 看人挨揍 乌东顿巴斯之战关键在这</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
 <li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 
 </ul>
 </div>
