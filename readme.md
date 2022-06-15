@@ -11,14 +11,14 @@
 <li><a href="/headline/20220615/1746001.md">【中共权斗】传获彭丽媛举荐：国家粮食和储备局原党组书记张务锋被查</a></li>
 <li><a href="/ssgc/20220615/1745811.md">〖微博谈〗中国人真的丢脸丢到全世界</a></li>
 <li><a href="/ssgc/20220615/1745877.md">〖兲朝浮世绘〗李中堂要当心 习皇帝的反攻来了</a></li>
-<li><a href="/topimagenews/20220615/1745947.md">中共称台湾海峡非国际水域 美国回应了</a></li>
 <li><a href="/bannedvideo/20220615/1745868.md">🔥🔥唐山第五波强震：凶手原来是官二代❗网传白衣少女真容   女孩已死？</a></li>
-<li><a href="/bannedvideo/20220615/1746024.md">中共这话前所未见 专家：中南海可能出事了；唐山怎么了？百人当街下跪【两岸要闻】</a></li>
+<li><a href="/topimagenews/20220615/1745947.md">中共称台湾海峡非国际水域 美国回应了</a></li>
 <li><a href="/topimagenews/20220615/1746072.md">心疼小女孩街头卖花 暖男“我全包了”听下句却傻眼了 网络掀热议</a></li>
+<li><a href="/bannedvideo/20220615/1746024.md">中共这话前所未见 专家：中南海可能出事了；唐山怎么了？百人当街下跪【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220615/1745994.md">普丁最新影片惊见“不受控动作” 情报官：肯定病了</a></li>
 <li><a href="/yule/20220615/1745898.md">唐山受害人！汪小菲砸4亿投资惨赔傻眼 成第一个实名举报名人</a></li>
-<li><a href="/lifebaike/20220615/1745998.md">华国锋如何上了叶剑英的当</a></li>
 <li><a href="/bannedvideo/20220615/1745803.md">漫谈一尊同父异母哥哥</a></li>
+<li><a href="/lifebaike/20220615/1745998.md">华国锋如何上了叶剑英的当</a></li>
 <li><a href="/bannedvideo/20220615/1746028.md">中国经济未好转，股市已吹热风，中共要造大牛市，比亚迪成造富神话？美股牛市或终结，华尔街资金去哪儿赚钱？岌岌可危的港股怎么办？【#蔚然 财商天下】2022.06.15</a></li>
 <li><a href="/comments/20220615/1745883.md">晖思：唐山的第五波消息来了</a></li>
 <li><a href="/headline/20220615/1746071.md">克里姆林宫公告普京与习近平打电话内容更翔实：加强制裁下经济合作并&quot;发展军事关系&quot;</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/funmedia/20220615/1745782.md">真正聪明的人，只过1%的生活</a></li>
 <li><a href="/cnnews/20220615/1745985.md">网友咨询能否赴免签国 中国官方这样说</a></li>
 <li><a href="/bannedvideo/20220615/1746034.md">陈破空：难以置信！讥讽李克强的文章遭删，嘲弄习近平的文章却在！赵乐际力压习家军。肖案或重挫习近平，三大看点</a></li>
-<li><a href="/topimagenews/20220615/1745780.md">宋美龄表送修惊见暗藏4字 曝蒋身前大秘密</a></li>
 <li><a href="/cbnews/20220615/1746103.md">前晚还夜跑 旷视研究院长孙剑45岁猝死 AI业内震惊</a></li>
+<li><a href="/topimagenews/20220615/1745780.md">宋美龄表送修惊见暗藏4字 曝蒋身前大秘密</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
 <li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 
 </ul>
 </div>
