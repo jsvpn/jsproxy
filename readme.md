@@ -8,22 +8,22 @@
 <li><a href="/topimagenews/20220614/1745458.md">【微博精粹】要打压了！ 原因很简单：他们没料到的事发生了</a></li>
 <li><a href="/bannedvideo/20220614/1745481.md">唐山事件“保护伞”太多！“九流氓”中有政法委书记的儿子，大陆媒体点名唐山官场；思考题：中共喜欢好人多、还是坏人多？公检法的上位逻辑；上千港人伦敦纪念612事件</a></li>
 <li><a href="/ssgc/20220614/1745472.md">〖兲朝浮世绘〗习近平突然签署这个命令，是要跟反习势力火并吗？</a></li>
-<li><a href="/cnnews/20220614/1745543.md">恐BA.4、BA.5大爆发！专家警告快做3件事</a></li>
 <li><a href="/bannedvideo/20220614/1745589.md">习下军令 这16字是关键  中共遇70年来最大危机；唐山凶徒之一疑是官二代【两岸要闻】</a></li>
+<li><a href="/cnnews/20220614/1745543.md">恐BA.4、BA.5大爆发！专家警告快做3件事</a></li>
 <li><a href="/baitai/20220614/1745508.md">范畴：盖棺论定习近平</a></li>
 <li><a href="/worldnews/20220615/1745718.md">俄做出这决定 日本教授：普京快不行了</a></li>
-<li><a href="/bannedvideo/20220614/1745596.md">陈破空：震动！习近平图谋政变？突然签署军队纲要，违宪！中共要出大事？同日，战狼外交宣布：台海不是国际水域</a></li>
 <li><a href="/bannedvideo/20220615/1745714.md">太子党麻烦来了？习这招太不寻常 这个副国级悬了【红朝禁闻】</a></li>
+<li><a href="/bannedvideo/20220614/1745596.md">陈破空：震动！习近平图谋政变？突然签署军队纲要，违宪！中共要出大事？同日，战狼外交宣布：台海不是国际水域</a></li>
 <li><a href="/comments/20220615/1745688.md">唐山事件迅速降温 公安局长遭举报 官场黑幕惊人</a></li>
 <li><a href="/ssgc/20220614/1745545.md">唐山9暴徒3人是“天安社”成员 当地掀举报浪潮 女学生惨遭绑架蹂躏</a></li>
+<li><a href="/topimagenews/20220615/1745741.md">习延任成定局？近期3热点凸显中共的不可测性</a></li>
 <li><a href="/bannedvideo/20220614/1745546.md">上海到北京的高铁半路查出来阳性 全车乘客在济南下车隔离；上海松江佘山地铁站进站撑伞扫码盛况；东方航空公司四川分公司 核酸证明过了3分钟 不让登机； 上海梅陇三村 四村抗疫先封 又封了</a></li>
 <li><a href="/lifebaike/20220614/1745488.md">江青“绝命书”：未除此人后患无穷</a></li>
-<li><a href="/topimagenews/20220615/1745741.md">习延任成定局？近期3热点凸显中共的不可测性</a></li>
+<li><a href="/topimagenews/20220615/1745742.md">习近平危险动向 将限制外国船只进出台湾港口？</a></li>
 <li><a href="/cbnews/20220614/1745565.md">唐山被殴女满脸伤！“移动需借助轮椅”</a></li>
 <li><a href="/bannedvideo/20220614/1745580.md">唐山打人案扩大发酵，曝光政黑勾结内幕？深层真相曝光，中共利用唐山案保二十大？党媒连日砲轰唐山市府，暗藏政治算盘？（2022.6.14）｜世界的十字路口 唐浩</a></li>
-<li><a href="/topimagenews/20220615/1745742.md">习近平危险动向 将限制外国船只进出台湾港口？</a></li>
-<li><a href="/topimagenews/20220614/1745645.md">妙文！中共县乡干部“青黄不接” 躲的躲、逃的逃！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220614/1745519.md">加密货币“雷曼危机”已开始？陆媒曝这措施恐引发“飓风级”慌乱</a></li>
+<li><a href="/topimagenews/20220614/1745645.md">妙文！中共县乡干部“青黄不接” 躲的躲、逃的逃！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220614/1745633.md">三星堆新发现：7、8号坑埋藏极丰富文物 考古学前所未见</a></li>
 <li><a href="/health/20220614/1745530.md">不论男女，1个动作就能让气血传遍全身，赶跑疾病</a></li>
 <li><a href="/lifebaike/20220614/1745511.md">“人贪三样 一生白忙” 究竟是哪三样？</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 <li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
 
 </ul>
 </div>
