@@ -7,26 +7,26 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220614/1745589.md">习下军令 这16字是关键  中共遇70年来最大危机；唐山凶徒之一疑是官二代【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220614/1745596.md">陈破空：震动！习近平图谋政变？突然签署军队纲要，违宪！中共要出大事？同日，战狼外交宣布：台海不是国际水域</a></li>
-<li><a href="/worldnews/20220615/1745718.md">俄做出这决定 日本教授：普京快不行了</a></li>
 <li><a href="/bannedvideo/20220615/1745714.md">太子党麻烦来了？习这招太不寻常 这个副国级悬了【红朝禁闻】</a></li>
+<li><a href="/worldnews/20220615/1745718.md">俄做出这决定 日本教授：普京快不行了</a></li>
 <li><a href="/topimagenews/20220615/1745741.md">习延任成定局？近期3热点凸显中共的不可测性</a></li>
 <li><a href="/comments/20220615/1745688.md">唐山事件迅速降温 公安局长遭举报 官场黑幕惊人</a></li>
 <li><a href="/topimagenews/20220615/1745801.md">不寻常！这人打破习近平清零钦定政策常规 “14亿人的大游戏。”【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220615/1745742.md">习近平危险动向 将限制外国船只进出台湾港口？</a></li>
 <li><a href="/bannedvideo/20220614/1745580.md">唐山打人案扩大发酵，曝光政黑勾结内幕？深层真相曝光，中共利用唐山案保二十大？党媒连日砲轰唐山市府，暗藏政治算盘？（2022.6.14）｜世界的十字路口 唐浩</a></li>
 <li><a href="/bannedvideo/20220615/1745771.md">中共突与俄唱反调，挺俄战狼被逐出外交部，国师说出中共政府的最怕。【每日头条】</a></li>
+<li><a href="/bannedvideo/20220615/1745874.md">突发！喜大普奔！美国开始立法扒中国的网墙了！要么自己拆墙，要么都滚回去！</a></li>
 <li><a href="/topimagenews/20220614/1745645.md">妙文！中共县乡干部“青黄不接” 躲的躲、逃的逃！【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220615/1745877.md">〖兲朝浮世绘〗李中堂要当心 习皇帝的反攻来了</a></li>
 <li><a href="/ssgc/20220615/1745811.md">〖微博谈〗中国人真的丢脸丢到全世界</a></li>
 <li><a href="/bannedvideo/20220615/1745868.md">🔥🔥唐山第五波强震：凶手原来是官二代❗网传白衣少女真容   女孩已死？</a></li>
 <li><a href="/lifebaike/20220615/1745728.md">印度洋打捞出明代石碑，才知郑和下西洋真实目的</a></li>
 <li><a href="/bannedvideo/20220615/1745803.md">漫谈一尊同父异母哥哥</a></li>
-<li><a href="/bannedvideo/20220615/1745874.md">突发！喜大普奔！美国开始立法扒中国的网墙了！要么自己拆墙，要么都滚回去！</a></li>
 <li><a href="/cnnews/20220614/1745633.md">三星堆新发现：7、8号坑埋藏极丰富文物 考古学前所未见</a></li>
 <li><a href="/yule/20220615/1745898.md">唐山受害人！汪小菲砸4亿投资惨赔傻眼 成第一个实名举报名人</a></li>
 <li><a href="/funmedia/20220615/1745782.md">真正聪明的人，只过1%的生活</a></li>
-<li><a href="/ccpdope/20220614/1745607.md">著名博士冒死带美籍华裔妻回国 为啥又逃离</a></li>
 <li><a href="/comments/20220615/1745883.md">晖思：唐山的第五波消息来了</a></li>
+<li><a href="/ccpdope/20220614/1745607.md">著名博士冒死带美籍华裔妻回国 为啥又逃离</a></li>
 <li><a href="/cnnews/20220615/1745719.md">突发！加国取消出境、境内航班疫苗接种要求</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220615/1745994.md" target="_blank">普丁最新影片惊见“不受控动作” 情报官：肯定病了</a></li>
 <li><a href="/topimagenews/20220615/1745947.md" target="_blank">中共称台湾海峡非国际水域 美国回应了</a></li>
 <li><a href="/topimagenews/20220615/1745916.md" target="_blank">乌军配合M777榴弹炮发威 摧毁俄军BM-21 BM-27多管火箭发射系统</a></li>
 <li><a href="/topimagenews/20220615/1745891.md" target="_blank">川普前高级纳瓦罗法庭怒批调查委员会非法【阿波罗网报导】</a></li>
@@ -90,13 +91,15 @@
 <li><a href="/topimagenews/20220613/1745225.md" target="_blank">唐山打人事件 3名“天安社”黑帮开特殊车牌“苏M-A7777”豪车出逃 曝中国黑帮嚣张狂妄遍地</a></li>
 <li><a href="/topimagenews/20220613/1745210.md" target="_blank">唐山打人事件&#038;徐州铁链女 中共喉舌为何两副面孔【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220613/1745178.md" target="_blank">6.12三周年/ 全英15城港人“如水再聚”毋忘抗争</a></li>
-<li><a href="/topimagenews/20220613/1745134.md" target="_blank">他泪曝妻遭集束弹全身刺穿 俄罗斯“战争罪”难辩</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220615/1745995.md" target="_blank">【俄乌战火第112天】俄军官盗卖军武贵金属 乌克兰吁西方加速交付军备</a></li>
+<li><a href="/comments/20220615/1745990.md" target="_blank">十月怀胎，宝宝气质已形成</a></li>
+<li><a href="/comments/20220615/1745989.md" target="_blank">您如果感到心情抑郁，可以这么做……</a></li>
 <li><a href="/comments/20220615/1745893.md" target="_blank">美弹药供应严重依赖中国关键矿物 专家忧一旦开战怎么办?</a></li>
 <li><a href="/comments/20220615/1745885.md" target="_blank">飞机上能带多大的随身行李箱？各航空公司有不同要求</a></li>
 <li><a href="/comments/20220615/1745884.md" target="_blank">古原:不是钓鱼执法！！明明是黑道大哥搞事情</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220615/1745786.md" target="_blank">张肯之：浅谈八九六四与李佳琦事件</a></li>
 <li><a href="/comments/20220615/1745784.md" target="_blank">周晓辉：唐山打人事件后现六个诡异之处</a></li>
 <li><a href="/comments/20220615/1745770.md" target="_blank">《三国演义》第八十五回 刘先主遗诏托孤儿 诸葛亮安居平五路</a></li>
-<li><a href="/comments/20220615/1745757.md" target="_blank">《封神演义》第八十五回 邓芮二侯归周主</a></li>
-<li><a href="/comments/20220615/1745756.md" target="_blank">新西兰基督城现反迫害游行 民众敬佩法轮功</a></li>
-<li><a href="/comments/20220615/1745735.md" target="_blank">女艺人爱美脸变「仙人掌」 网惊「快吓死」</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
 <li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
 <li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 
 </ul>
 </div>
