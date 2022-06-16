@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220615/1745874.md">突发！喜大普奔！美国开始立法扒中国的网墙了！要么自己拆墙，要么都滚回去！</a></li>
 <li><a href="/headline/20220615/1746001.md">【中共权斗】传获彭丽媛举荐：国家粮食和储备局原党组书记张务锋被查</a></li>
-<li><a href="/ssgc/20220615/1745877.md">〖兲朝浮世绘〗李中堂要当心 习皇帝的反攻来了</a></li>
 <li><a href="/topimagenews/20220615/1745947.md">中共称台湾海峡非国际水域 美国回应了</a></li>
-<li><a href="/topimagenews/20220615/1746072.md">心疼小女孩街头卖花 暖男“我全包了”听下句却傻眼了 网络掀热议</a></li>
 <li><a href="/bannedvideo/20220615/1746024.md">中共这话前所未见 专家：中南海可能出事了；唐山怎么了？百人当街下跪【两岸要闻】</a></li>
 <li><a href="/cnnews/20220616/1746159.md">唐山打人事件的第六波内幕来了</a></li>
+<li><a href="/topimagenews/20220615/1746072.md">心疼小女孩街头卖花 暖男“我全包了”听下句却傻眼了 网络掀热议</a></li>
 <li><a href="/yule/20220615/1745898.md">唐山受害人！汪小菲砸4亿投资惨赔傻眼 成第一个实名举报名人</a></li>
 <li><a href="/cbnews/20220616/1746157.md">二十大前猛内斗! 中纪委直批“李丞相”后急删文 为习暗算李克强</a></li>
 <li><a href="/lifebaike/20220615/1745998.md">华国锋如何上了叶剑英的当</a></li>
 <li><a href="/topimagenews/20220615/1745994.md">普丁最新影片惊见“不受控动作” 情报官：肯定病了</a></li>
 <li><a href="/headline/20220615/1746071.md">克里姆林宫公告普京与习近平打电话内容更翔实：加强制裁下经济合作并&quot;发展军事关系&quot;</a></li>
-<li><a href="/comments/20220615/1745883.md">晖思：唐山的第五波消息来了</a></li>
 <li><a href="/bannedvideo/20220615/1746028.md">中国经济未好转，股市已吹热风，中共要造大牛市，比亚迪成造富神话？美股牛市或终结，华尔街资金去哪儿赚钱？岌岌可危的港股怎么办？【#蔚然 财商天下】2022.06.15</a></li>
 <li><a href="/headline/20220615/1745984.md">习近平二十大连任关键：中共硬道理--枪杆子里面出政权</a></li>
 <li><a href="/comments/20220616/1746134.md">唐山女实名举报公安局长 牵出强奸幼女中共官员40多人</a></li>
 <li><a href="/bannedvideo/20220615/1746034.md">陈破空：难以置信！讥讽李克强的文章遭删，嘲弄习近平的文章却在！赵乐际力压习家军。肖案或重挫习近平，三大看点</a></li>
 <li><a href="/cbnews/20220615/1746103.md">前晚还夜跑 旷视研究院长孙剑45岁猝死 AI业内震惊</a></li>
 <li><a href="/cnnews/20220615/1745985.md">网友咨询能否赴免签国 中国官方这样说</a></li>
-<li><a href="/ccpdope/20220616/1746145.md">中共决不解密的密闻：毛行宫的故事</a></li>
+<li><a href="/worldnews/20220616/1746168.md">10岁聋哑童跌8层楼深井，与毒蛇为伍4天，结果…</a></li>
 <li><a href="/cbnews/20220615/1746105.md">中国熔断政策放宽 北美、欧洲、南亚多条国际航线复飞</a></li>
+<li><a href="/ccpdope/20220616/1746145.md">中共决不解密的密闻：毛行宫的故事</a></li>
 <li><a href="/cbnews/20220615/1745937.md">唐山某公安局长就是黑社会保护伞？女子实名举报</a></li>
-<li><a href="/cnnews/20220615/1745875.md">癌症试验的意外结果：每位患者都被治愈</a></li>
+<li><a href="/health/20220615/1745943.md">为啥多病却长寿？10句话让人醍醐灌顶</a></li>
+<li><a href="/headline/20220616/1746177.md">推特上出现倒习救国“翡翠行动”倡议书</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220616/1746328.md" target="_blank">莫斯科放言：两年后不再有乌克兰</a></li>
+<li><a href="/comments/20220616/1746327.md" target="_blank">英媒： 战争和制裁持续为什么卢布保持坚挺</a></li>
+<li><a href="/comments/20220616/1746326.md" target="_blank">兽楼处：河南古董局中局 又倒霉了40万储户</a></li>
+<li><a href="/comments/20220616/1746325.md" target="_blank">英媒：维权储户健康码“被转红” 防疫技术沦为“维稳”工具？</a></li>
 <li><a href="/comments/20220616/1746321.md" target="_blank">仙境般的小镇！由6个加拿大顶级国家公园环拥</a></li>
 <li><a href="/comments/20220616/1746305.md" target="_blank">【小说连载】日初天子 七、背影会发光的男人(2)</a></li>
 <li><a href="/comments/20220616/1746299.md" target="_blank">蔡慎坤：谁在催逼乌克兰投降？</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20220615/1746095.md" target="_blank">专栏 | 劳工通讯：资阳市建筑工求救书记帮讨薪（四）</a></li>
 <li><a href="/comments/20220615/1746074.md" target="_blank">时事大家谈：唐山凶案引爆空前舆情，人们为何愤怒感伤？</a></li>
 <li><a href="/comments/20220615/1746073.md" target="_blank">【梁京评论】习近平和中国的最大麻烦是甚么？</a></li>
-<li><a href="/comments/20220615/1746064.md" target="_blank">评论 | 王丹：应当警惕中共展开“严打”</a></li>
-<li><a href="/comments/20220615/1746036.md" target="_blank">马斯克野心大！ SpaceX市值逾1250亿</a></li>
-<li><a href="/comments/20220615/1746021.md" target="_blank">紫菜不仅味道鲜美 养生功效也颇高</a></li>
-<li><a href="/comments/20220615/1746016.md" target="_blank">中南海“双重标准”的战略威胁</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
 <li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
 
 </ul>
 </div>
