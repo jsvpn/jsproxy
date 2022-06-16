@@ -15,9 +15,8 @@
 <li><a href="/topimagenews/20220616/1746308.md">习近平神秘军令 竟与这个会议有关？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220616/1746345.md">江峰：大动作：中纪委删文！李克强后面来头真不小； 普习通话乐玉成再被驱离外交部，习挺俄外交栽跟斗，新华社这句普京没听见？习近平签《非战争军事行动纲领》为何不是党内政治威慑？【江峰漫谈220615第498】</a></li>
 <li><a href="/cnnews/hknews/20220616/1746371.md">已婚媒体高层翘班抱小三照疯传 美女主播急了</a></li>
-<li><a href="/cnnews/20220616/1746404.md">外资抛售人民币逃离中国；中共变美国老三回第一太难；美中战将持续20年；</a></li>
 <li><a href="/cbnews/20220616/1746393.md">光靠抓军权还不够 习近平20大3个大目标</a></li>
-<li><a href="/cbnews/20220615/1746103.md">前晚还夜跑 旷视研究院长孙剑45岁猝死 AI业内震惊</a></li>
+<li><a href="/cnnews/20220616/1746404.md">外资抛售人民币逃离中国；中共变美国老三回第一太难；美中战将持续20年；</a></li>
 <li><a href="/bannedvideo/20220616/1746217.md">🔥习普突会！克宫版曝习近平秘而不宣内容；不寻常！这人破习清零钦定常规；俄新决定显普京快不行了？唐山事件被降温；绷不住？习罕见批造假；御用专家喊保底线；川普怒发回应纳瓦罗告众院</a></li>
 <li><a href="/ssgc/20220616/1746282.md">〖兲朝浮世绘〗教授这水平堪比清华小学博士了</a></li>
 <li><a href="/cnnews/20220616/1746387.md">他敛财百亿私人豪宅藏40名女子 1天开销500万</a></li>
@@ -25,9 +24,10 @@
 <li><a href="/cnnews/20220616/1746301.md">美华人区房价开始暴跌，降价18万美元也卖不出</a></li>
 <li><a href="/bannedvideo/20220616/1746290.md">【姚诚聊军事】习近平己做好败退巴蜀后割据保命的准备</a></li>
 <li><a href="/worldnews/20220616/1746168.md">10岁聋哑童跌8层楼深井，与毒蛇为伍4天，结果…</a></li>
-<li><a href="/cbnews/20220615/1746105.md">中国熔断政策放宽 北美、欧洲、南亚多条国际航线复飞</a></li>
+<li><a href="/headline/20220616/1746439.md">【中国社会】薪金降至十几年前水平 山东烟台老师上街示威</a></li>
 <li><a href="/ccpdope/20220616/1746145.md">中共决不解密的密闻：毛行宫的故事</a></li>
 <li><a href="/worldnews/20220616/1746186.md">他花3万坐商务舱，飞机餐一上来，傻眼了…</a></li>
+<li><a href="/cnnews/20220616/1746389.md">习近平20大前大动作 枪杆子待命笔杆子也换帅</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 <li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
 
 </ul>
 </div>
