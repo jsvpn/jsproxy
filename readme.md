@@ -9,25 +9,25 @@
 <li><a href="/bannedvideo/20220617/1746572.md">她传内部消息 记者：三大反常 本该出现的人消失了 神秘人现身【红朝禁闻】</a></li>
 <li><a href="/ssgc/20220616/1746490.md">就是查不出谁下的命令</a></li>
 <li><a href="/cbnews/20220617/1746658.md">美国驻华大使：中共“动态清零”政策会维持到…</a></li>
-<li><a href="/topimagenews/20220617/1746773.md">习近平20大只保留军委主席?【阿波罗网报导】</a></li>
 <li><a href="/bannedvideo/20220617/1746625.md">🔥习近平大清洗！中纪委发文高喊严查“三种人”；纪检内鬼不断 赵乐际涉2大案；谁在催逼乌克兰投降？中共党指挥枪实质是一人指挥；法、德、意三国元首今飞基辅；马斯克：推特对半个美国有偏见【阿波罗网TL】</a></li>
+<li><a href="/topimagenews/20220617/1746773.md">习近平20大只保留军委主席?【阿波罗网报导】</a></li>
 <li><a href="/bannedvideo/20220617/1746562.md">“时间是神！中共国顶尖 45岁AI科学家孙剑：暴毙！”Shitao TV - 04 (16/06/22) “AI 四小龙”之旷视首席科学家 13日夜跑后⋯倒地</a></li>
 <li><a href="/cnnews/20220617/1746583.md">警告！中俄悄悄开启新战场，西方该醒了</a></li>
 <li><a href="/cnnews/20220617/1746642.md">女子买二手奔驰，一年后原车主的话让她脊背发凉</a></li>
 <li><a href="/topimagenews/20220617/1746697.md">网络炸锅！清华教授打油诗：动态清零就是好 【阿波罗网报道】</a></li>
 <li><a href="/headline/20220617/1746535.md">习普通话“各自表述”，全球围观颇觉费解</a></li>
-<li><a href="/ssgc/20220617/1746694.md">〖兲朝浮世绘〗习近平治国理政还是毛魔那一套 开始准备批斗李克强了</a></li>
 <li><a href="/cnnews/20220617/1746783.md">又是河南，这次比乱赋红码还要荒唐</a></li>
-<li><a href="/cnnews/20220617/1746714.md">唐山白衣人曾与副市长、公安局长饭叙 打人者有保护伞？</a></li>
+<li><a href="/ssgc/20220617/1746694.md">〖兲朝浮世绘〗习近平治国理政还是毛魔那一套 开始准备批斗李克强了</a></li>
 <li><a href="/yule/20220617/1746557.md">她曾被封为第一美女,为儿子退圈，如今儿子长脸</a></li>
+<li><a href="/cnnews/20220617/1746714.md">唐山白衣人曾与副市长、公安局长饭叙 打人者有保护伞？</a></li>
 <li><a href="/cnnews/20220617/1746636.md">习近平当政，在中国这地当官好升迁</a></li>
 <li><a href="/cbnews/20220617/1746762.md">江峰：河南健康码遭党媒围攻，因其暴露中共高层关键时刻控制全社会的终极手段；唐山烧烤店与河南健康码事件反映中央集权与地方权力冲突加剧【江峰漫谈20220616第499期】</a></li>
 <li><a href="/bannedvideo/20220617/1746712.md">凶手哥哥想花钱“和解”，女孩母亲不私了；网友偷拍医院内部，送花被截遭查身份；三女孩早已离世？第四女孩植物人？巷子里的惨叫，2女孩动弹不得；非同寻常的举报者 唐山官员慌了【新闻看点‭ ‬李沐阳6.16】</a></li>
 <li><a href="/bannedvideo/20220617/1746652.md">🔥突发 烟台老师罢课上街示威；唐山后续小巷视频流出传4女3亡刘涛是顶替；中共发动群众斗群众出新招；微博处置近万涉唐山帐户；习20大只保留军委主席?川普报了一箭之仇！马克龙对泽连斯基许诺#阿波罗网 JM</a></li>
 <li><a href="/topimagenews/20220617/1746774.md">1月6日国会骚乱听证 川普彭斯火爆通话惊呆伊万卡</a></li>
+<li><a href="/cbnews/20220617/1746790.md">习近平连任稳了？彭博：拜习会要在20大之后</a></li>
 <li><a href="/headline/20220616/1746515.md">习近平与普京通话时互表支持 欧洲议员嘲两人拥有同样的独裁面孔</a></li>
 <li><a href="/lifebaike/20220617/1746598.md">“脏死了，别靠近我”，农民工坐地铁被嫌弃，女孩一句话让人感动</a></li>
-<li><a href="/cbnews/20220617/1746682.md">唐山打人事件背后的中国地方治理溃败</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220617/1746899.md" target="_blank">中国高调展示大型无人机母舰 外媒分析背后目的</a></li>
 <li><a href="/comments/20220617/1746894.md" target="_blank">穿透地球的“中微子”反旋 通往镜像宇宙？！人类科技史最震撼，找到电影《天能》逆熵物质，冲进南极上空 神祕灰白色烟雾，穿越时空之门！</a></li>
 <li><a href="/comments/20220617/1746864.md" target="_blank">轻微咳嗽、头晕，一查竟是肺癌末期，只剩3个月寿命</a></li>
 <li><a href="/comments/20220617/1746863.md" target="_blank">天热汗不停！几个茶饮止汗减肥、增免疫力</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220617/1746656.md" target="_blank">《封神演义》第八十六回 渑池县五岳归天</a></li>
 <li><a href="/comments/20220617/1746592.md" target="_blank">这也受疫情影响？美囯酒店小费，现在该怎样给？</a></li>
 <li><a href="/comments/20220617/1746566.md" target="_blank">荔枝-养血养心补阳气 吃对才养生</a></li>
-<li><a href="/comments/20220617/1746561.md" target="_blank">34年来首次闭园后，美国黄石公园下周将部分重开</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 <li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 <li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 
 </ul>
 </div>
