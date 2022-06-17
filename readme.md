@@ -6,19 +6,17 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220616/1746492.md">卫健委发布通知，网友齐喷“不要坑害人了”【阿波罗网报道】</a></li>
-<li><a href="/headline/20220616/1746439.md">【中国社会】薪金降至十几年前水平 山东烟台老师上街示威</a></li>
 <li><a href="/bannedvideo/20220617/1746572.md">她传内部消息 记者：三大反常 本该出现的人消失了 神秘人现身【红朝禁闻】</a></li>
 <li><a href="/ssgc/20220616/1746490.md">就是查不出谁下的命令</a></li>
 <li><a href="/cbnews/20220617/1746658.md">美国驻华大使：中共“动态清零”政策会维持到…</a></li>
-<li><a href="/topimagenews/20220616/1746437.md">20名俄罗斯正妹上街反战遭捕 泪曝警局逼脱衣 拍深蹲片</a></li>
 <li><a href="/bannedvideo/20220617/1746625.md">🔥习近平大清洗！中纪委发文高喊严查“三种人”；纪检内鬼不断 赵乐际涉2大案；谁在催逼乌克兰投降？中共党指挥枪实质是一人指挥；法、德、意三国元首今飞基辅；马斯克：推特对半个美国有偏见【阿波罗网TL】</a></li>
 <li><a href="/bannedvideo/20220616/1746465.md">被瞒下的这两句太重大  习防政变有秘诀：3关压住众元老【两岸要闻】</a></li>
-<li><a href="/bannedvideo/20220617/1746562.md">“时间是神！中共国顶尖 45岁AI科学家孙剑：暴毙！”Shitao TV - 04 (16/06/22) “AI 四小龙”之旷视首席科学家 13日夜跑后⋯倒地</a></li>
 <li><a href="/comments/20220616/1746452.md">光吃菜不吃米饭，30天后，身体发生了什么变化？</a></li>
+<li><a href="/bannedvideo/20220617/1746562.md">“时间是神！中共国顶尖 45岁AI科学家孙剑：暴毙！”Shitao TV - 04 (16/06/22) “AI 四小龙”之旷视首席科学家 13日夜跑后⋯倒地</a></li>
 <li><a href="/cnnews/20220617/1746583.md">警告！中俄悄悄开启新战场，西方该醒了</a></li>
 <li><a href="/cnnews/20220617/1746642.md">女子买二手奔驰，一年后原车主的话让她脊背发凉</a></li>
-<li><a href="/topimagenews/20220617/1746697.md">网络炸锅！清华教授打油诗：动态清零就是好 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220617/1746773.md">习近平20大只保留军委主席?【阿波罗网报导】</a></li>
+<li><a href="/topimagenews/20220617/1746697.md">网络炸锅！清华教授打油诗：动态清零就是好 【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220616/1746470.md">习近平为何与普京通话？</a></li>
 <li><a href="/headline/20220617/1746535.md">习普通话“各自表述”，全球围观颇觉费解</a></li>
 <li><a href="/ssgc/20220617/1746694.md">〖兲朝浮世绘〗习近平治国理政还是毛魔那一套 开始准备批斗李克强了</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/comments/20220616/1746449.md">罕见天象‘七星连珠’今日登场！吉兆还是凶兆？</a></li>
 <li><a href="/headline/20220616/1746515.md">习近平与普京通话时互表支持 欧洲议员嘲两人拥有同样的独裁面孔</a></li>
 <li><a href="/bannedvideo/20220617/1746652.md">🔥突发 烟台老师罢课上街示威；唐山后续小巷视频流出传4女3亡刘涛是顶替；中共发动群众斗群众出新招；微博处置近万涉唐山帐户；习20大只保留军委主席?川普报了一箭之仇！马克龙对泽连斯基许诺#阿波罗网 JM</a></li>
+<li><a href="/bannedvideo/20220617/1746712.md">凶手哥哥想花钱“和解”，女孩母亲不私了；网友偷拍医院内部，送花被截遭查身份；三女孩早已离世？第四女孩植物人？巷子里的惨叫，2女孩动弹不得；非同寻常的举报者 唐山官员慌了【新闻看点‭ ‬李沐阳6.16】</a></li>
+<li><a href="/lifebaike/20220617/1746621.md">一级致癌物名单：除了中式咸鱼，还有4种食物尽量少上你的餐桌</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220617/1746854.md" target="_blank">代价庞大！俄战略失败力衰 英将领曝最多只吞得下乌东</a></li>
 <li><a href="/topimagenews/20220617/1746830.md" target="_blank">不仅入侵乌克兰！俄罗斯通知美国 将把战火伸向这国家…</a></li>
 <li><a href="/topimagenews/20220617/1746815.md" target="_blank">入侵乌克兰俄攻击直升机遭殃! Mi-35M被击落、Ka-52低飞撞树</a></li>
 <li><a href="/topimagenews/20220617/1746774.md" target="_blank">1月6日国会骚乱听证 川普彭斯火爆通话惊呆伊万卡</a></li>
@@ -90,13 +91,21 @@
 <li><a href="/topimagenews/20220615/1745994.md" target="_blank">普丁最新影片惊见“不受控动作” 情报官：肯定病了</a></li>
 <li><a href="/topimagenews/20220615/1745947.md" target="_blank">中共称台湾海峡非国际水域 美国回应了</a></li>
 <li><a href="/topimagenews/20220615/1745916.md" target="_blank">乌军配合M777榴弹炮发威 摧毁俄军BM-21 BM-27多管火箭发射系统</a></li>
-<li><a href="/topimagenews/20220615/1745891.md" target="_blank">川普前高级纳瓦罗法庭怒批调查委员会非法【阿波罗网报导】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220617/1746864.md" target="_blank">轻微咳嗽、头晕，一查竟是肺癌末期，只剩3个月寿命</a></li>
+<li><a href="/comments/20220617/1746863.md" target="_blank">天热汗不停！几个茶饮止汗减肥、增免疫力</a></li>
+<li><a href="/comments/20220617/1746862.md" target="_blank">打鼾？白天困倦？可能是睡眠呼吸暂停</a></li>
+<li><a href="/comments/20220617/1746861.md" target="_blank">孩子不乖背后藏着你不知道原因</a></li>
+<li><a href="/comments/20220617/1746860.md" target="_blank">《柳叶刀》:每日久坐究竟会带来哪些影响？</a></li>
+<li><a href="/comments/20220617/1746859.md" target="_blank">研究：ADHD儿多吃蔬果 可改善注意力不集中</a></li>
+<li><a href="/comments/20220617/1746858.md" target="_blank">面对长新冠！医师狂推「香菜」疗脑雾又止咳</a></li>
+<li><a href="/comments/20220617/1746857.md" target="_blank">研究：T细胞作祟可能是导致长新冠的原因</a></li>
+<li><a href="/comments/20220617/1746855.md" target="_blank">【袁红冰热点】1.习近平四川之行未去灾区，习严格遵守「君子不立危墙之下」原则保命；2.习近平20大连任无悬念？3. 中共明确露出獠牙，台湾海峡问题不惜一战。</a></li>
 <li><a href="/comments/20220617/1746793.md" target="_blank">把灯打开，社会就不残酷</a></li>
 <li><a href="/comments/20220617/1746770.md" target="_blank">上面有字！中国“003”航舰要下水 甲板有长串“密码”</a></li>
 <li><a href="/comments/20220617/1746769.md" target="_blank">“港版国安法”黑手伸入台苹 陆委会：经营权变更须遵守法规</a></li>
@@ -113,15 +122,6 @@
 <li><a href="/comments/20220617/1746566.md" target="_blank">荔枝-养血养心补阳气 吃对才养生</a></li>
 <li><a href="/comments/20220617/1746561.md" target="_blank">34年来首次闭园后，美国黄石公园下周将部分重开</a></li>
 <li><a href="/comments/20220617/1746549.md" target="_blank">卡塔尔世界杯主办方在签证系统加入“台湾”选项</a></li>
-<li><a href="/comments/20220616/1746517.md" target="_blank">印度慕那尔 上帝之家园 稀有花卉每12年开花一次</a></li>
-<li><a href="/comments/20220616/1746487.md" target="_blank">时事大家谈：国务院首次曝光四起过度防疫 干脏活挨批的总是地方？</a></li>
-<li><a href="/comments/20220616/1746485.md" target="_blank">【未普评论】威权统治走不出命运循环的死局</a></li>
-<li><a href="/comments/20220616/1746468.md" target="_blank">六种常见疾病在饮食上的禁忌</a></li>
-<li><a href="/comments/20220616/1746466.md" target="_blank">【俄乌战火第113天】法德意领袖甫抵基辅空袭警报突大作 俄军九路齐攻卢甘斯克州</a></li>
-<li><a href="/comments/20220616/1746457.md" target="_blank">15个“必须休息”的信号，不要视而不见</a></li>
-<li><a href="/comments/20220616/1746456.md" target="_blank">你知道吗？荞麦有甜荞、苦荞之分</a></li>
-<li><a href="/comments/20220616/1746455.md" target="_blank">夏天是养生的最好季节，这4件事情定要注意</a></li>
-<li><a href="/comments/20220616/1746454.md" target="_blank">酷暑来了，每天来2勺，顺利度夏精神足</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
 
 </ul>
 </div>
