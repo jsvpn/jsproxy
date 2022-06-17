@@ -19,14 +19,14 @@
 <li><a href="/cnnews/20220616/1746389.md">习近平20大前大动作 枪杆子待命笔杆子也换帅</a></li>
 <li><a href="/topimagenews/20220616/1746437.md">20名俄罗斯正妹上街反战遭捕 泪曝警局逼脱衣 拍深蹲片</a></li>
 <li><a href="/ssgc/20220616/1746490.md">就是查不出谁下的命令</a></li>
+<li><a href="/bannedvideo/20220617/1746572.md">她传内部消息 记者：三大反常 本该出现的人消失了 神秘人现身【红朝禁闻】</a></li>
 <li><a href="/comments/20220616/1746452.md">光吃菜不吃米饭，30天后，身体发生了什么变化？</a></li>
 <li><a href="/bannedvideo/20220616/1746465.md">被瞒下的这两句太重大  习防政变有秘诀：3关压住众元老【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220616/1746379.md">文睿：重大转折点，李克强大反击，一切基本实锤了</a></li>
 <li><a href="/ssgc/20220616/1746470.md">习近平为何与普京通话？</a></li>
-<li><a href="/topimagenews/20220616/1746274.md">拜登震怒 发狠誓、威胁要动用总统紧急权力</a></li>
-<li><a href="/bannedvideo/20220617/1746572.md">她传内部消息 记者：三大反常 本该出现的人消失了 神秘人现身【红朝禁闻】</a></li>
+<li><a href="/bannedvideo/20220617/1746562.md">“时间是神！中共国顶尖 45岁AI科学家孙剑：暴毙！”Shitao TV - 04 (16/06/22) “AI 四小龙”之旷视首席科学家 13日夜跑后⋯倒地</a></li>
+<li><a href="/headline/20220617/1746535.md">习普通话“各自表述”，全球围观颇觉费解</a></li>
 <li><a href="/cnnews/20220616/1746388.md">股市、比特币被死神追杀 马斯克：下一个是楼市</a></li>
-<li><a href="/cnnews/20220616/1746418.md">川普报了一箭之仇！国会调查没伤到 美媒:期中选举拜登恐迎“滑铁卢”</a></li>
 <li><a href="/lifebaike/20220616/1746402.md">她嫌父母穷长相普通 做DNA…结果傻了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220617/1746682.md" target="_blank">唐山打人事件背后的中国地方治理溃败</a></li>
 <li><a href="/cbnews/20220617/1746658.md" target="_blank">美国驻华大使：中共“动态清零”政策会维持到…</a></li>
 <li><a href="/cbnews/20220616/1746433.md" target="_blank">必须在“48小时内死亡”才算工伤!中国劳工法律挨批落伍又残酷</a></li>
 <li><a href="/cbnews/20220616/1746400.md" target="_blank">大连男子为了741元商品退款 被骗了143万元</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220614/1745565.md" target="_blank">唐山被殴女满脸伤！“移动需借助轮椅”</a></li>
 <li><a href="/cbnews/20220614/1745416.md" target="_blank">网传被打花季少女真容 唐山公安的表演狼狈不堪</a></li>
 <li><a href="/cbnews/20220614/1745414.md" target="_blank">天亮时分：唐山事件後续；中国社会步入动荡期，习近平发布新军令；股市币市暴跌，资本市场极度恐慌，美联储能否让经济软着陆？（政论天下第723集 20220613）</a></li>
-<li><a href="/cbnews/20220614/1745357.md" target="_blank">上海新规 每月需自费核检10次 引来骂声一片</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220617/1746686.md" target="_blank">【桔梗的布言布语】星空布书套</a></li>
+<li><a href="/comments/20220617/1746685.md" target="_blank">洪博学：是偷师 不是让利</a></li>
 <li><a href="/comments/20220617/1746670.md" target="_blank">《三国演义》第八十六回 难张温秦宓逞天辩 破曹丕徐盛用火攻</a></li>
 <li><a href="/comments/20220617/1746656.md" target="_blank">《封神演义》第八十六回 渑池县五岳归天</a></li>
 <li><a href="/comments/20220617/1746592.md" target="_blank">这也受疫情影响？美囯酒店小费，现在该怎样给？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220616/1746362.md" target="_blank">习近平指高校“拉郎配” 就业签约造假糊弄学生</a></li>
 <li><a href="/comments/20220616/1746361.md" target="_blank">美众院推出法案 拟禁止中共官员使用美社交媒体</a></li>
 <li><a href="/comments/20220616/1746328.md" target="_blank">莫斯科放言：两年后不再有乌克兰</a></li>
-<li><a href="/comments/20220616/1746327.md" target="_blank">英媒： 战争和制裁持续为什么卢布保持坚挺</a></li>
-<li><a href="/comments/20220616/1746326.md" target="_blank">兽楼处：河南古董局中局 又倒霉了40万储户</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
 <li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 <li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 
 </ul>
 </div>
