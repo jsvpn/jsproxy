@@ -13,18 +13,18 @@
 <li><a href="/comments/20220618/1747027.md">习近平建立超级锦衣卫式现代特务系统 无人能阻止习二十大连任 曾庆红江绵恒改变政变策略 转为支持习近平武力攻台 借机发动宫廷政变 中南海谣言预言_535</a></li>
 <li><a href="/cbnews/20220617/1746762.md">江峰：河南健康码遭党媒围攻，因其暴露中共高层关键时刻控制全社会的终极手段；唐山烧烤店与河南健康码事件反映中央集权与地方权力冲突加剧【江峰漫谈20220616第499期】</a></li>
 <li><a href="/bannedvideo/20220617/1746912.md">黑暗中惨叫毛骨悚然,曝光伤最重实际是最轻的,唐山女孩后续更新！</a></li>
-<li><a href="/cbnews/20220618/1747033.md">中共第三艘航母下水 分析：有三大缺陷</a></li>
 <li><a href="/topimagenews/20220618/1747069.md">习近平性格特征决定了他会创下一项纪录</a></li>
+<li><a href="/cbnews/20220618/1747033.md">中共第三艘航母下水 分析：有三大缺陷</a></li>
 <li><a href="/topimagenews/20220617/1746854.md">代价庞大！俄战略失败力衰 英将领曝最多只吞得下乌东</a></li>
 <li><a href="/topimagenews/20220617/1746830.md">不仅入侵乌克兰！俄罗斯通知美国 将把战火伸向这国家…</a></li>
 <li><a href="/baitai/20220617/1746877.md">妖猴经略｜唐山被打的黑衣女生令人担忧</a></li>
 <li><a href="/cbnews/20220617/1746879.md">中俄各怀鬼胎！习近平遭俄罗斯出卖 被美国警告要站对边</a></li>
 <li><a href="/cnnews/20220618/1747043.md">唐山被打的黑衣女生令人担忧</a></li>
+<li><a href="/bannedvideo/20220618/1747085.md">惊悚爆料：唐山四女全部死亡。舆论控制为何忽冷忽热？打人男子跟受害女子无怨无仇为何下毒手？美国渗透？女拳氾滥？习近平非军事行动纲要的真实目的。｜薇羽看世间 第497期 20200617</a></li>
 <li><a href="/topimagenews/20220617/1746772.md">拜习会 中共20大习近平连任后举行</a></li>
 <li><a href="/topimagenews/20220617/1746774.md">1月6日国会骚乱听证 川普彭斯火爆通话惊呆伊万卡</a></li>
 <li><a href="/cnnews/20220618/1747037.md">最惨华人首富：半年没了5000亿，流浪到越南</a></li>
 <li><a href="/bannedvideo/20220618/1746991.md">倪萍终于公开承认靠撒谎成为中央电视台最红节目主持人</a></li>
-<li><a href="/bannedvideo/20220618/1747085.md">惊悚爆料：唐山四女全部死亡。舆论控制为何忽冷忽热？打人男子跟受害女子无怨无仇为何下毒手？美国渗透？女拳氾滥？习近平非军事行动纲要的真实目的。｜薇羽看世间 第497期 20200617</a></li>
 <li><a href="/ssgc/20220617/1746938.md">唐山的后面是北京</a></li>
 <li><a href="/bannedvideo/20220617/1746880.md">红二代为何决裂中共？罗宇为何给习近平写劝告信？李锐之女如何认清中共对人性的泯灭？ 亲历“六四”屠城，江林明白了什么？｜ #百年真相</a></li>
 <li><a href="/comments/20220617/1746855.md">【袁红冰热点】1.习近平四川之行未去灾区，习严格遵守「君子不立危墙之下」原则保命；2.习近平20大连任无悬念？3. 中共明确露出獠牙，台湾海峡问题不惜一战。</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
 
 </ul>
 </div>
