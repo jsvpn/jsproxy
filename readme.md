@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220617/1746853.md">文睿：政治局突然开会，金融夺权开始，习近平真急了</a></li>
 <li><a href="/bannedvideo/20220617/1746912.md">黑暗中惨叫毛骨悚然,曝光伤最重实际是最轻的,唐山女孩后续更新！</a></li>
-<li><a href="/topimagenews/20220618/1747069.md">习近平性格特征决定了他会创下一项纪录</a></li>
 <li><a href="/comments/20220618/1747027.md">习近平建立超级锦衣卫式现代特务系统 无人能阻止习二十大连任 曾庆红江绵恒改变政变策略 转为支持习近平武力攻台 借机发动宫廷政变 中南海谣言预言_535</a></li>
+<li><a href="/topimagenews/20220618/1747069.md">习近平性格特征决定了他会创下一项纪录</a></li>
 <li><a href="/cbnews/20220618/1747033.md">中共第三艘航母下水 分析：有三大缺陷</a></li>
 <li><a href="/topimagenews/20220617/1746830.md">不仅入侵乌克兰！俄罗斯通知美国 将把战火伸向这国家…</a></li>
 <li><a href="/baitai/20220617/1746877.md">妖猴经略｜唐山被打的黑衣女生令人担忧</a></li>
@@ -16,17 +16,17 @@
 <li><a href="/cnnews/20220618/1747111.md">中共权贵的另类生活内幕</a></li>
 <li><a href="/cbnews/20220617/1746879.md">中俄各怀鬼胎！习近平遭俄罗斯出卖 被美国警告要站对边</a></li>
 <li><a href="/bannedvideo/20220618/1746991.md">倪萍终于公开承认靠撒谎成为中央电视台最红节目主持人</a></li>
-<li><a href="/cnnews/20220618/1747098.md">唐山狂徒，陈继志的法外生活</a></li>
-<li><a href="/cnnews/20220618/1747043.md">唐山被打的黑衣女生令人担忧</a></li>
 <li><a href="/topimagenews/20220618/1747199.md">习近平召开政治局会议 或与此案有关【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20220618/1747043.md">唐山被打的黑衣女生令人担忧</a></li>
+<li><a href="/cnnews/20220618/1747098.md">唐山狂徒，陈继志的法外生活</a></li>
 <li><a href="/cnnews/20220618/1747037.md">最惨华人首富：半年没了5000亿，流浪到越南</a></li>
 <li><a href="/topimagenews/20220618/1747057.md">习近平要不惜一战 三大理由决定其无动武本钱</a></li>
-<li><a href="/bannedvideo/20220617/1746880.md">红二代为何决裂中共？罗宇为何给习近平写劝告信？李锐之女如何认清中共对人性的泯灭？ 亲历“六四”屠城，江林明白了什么？｜ #百年真相</a></li>
 <li><a href="/cnnews/20220618/1747084.md">男友两个坏习惯 中国女大学生昏迷3小时猝死</a></li>
+<li><a href="/bannedvideo/20220617/1746880.md">红二代为何决裂中共？罗宇为何给习近平写劝告信？李锐之女如何认清中共对人性的泯灭？ 亲历“六四”屠城，江林明白了什么？｜ #百年真相</a></li>
+<li><a href="/topimagenews/20220618/1747227.md">“没灭了他，算他走运！” 唐山官场水有多深【阿波罗网报导】</a></li>
 <li><a href="/ssgc/20220617/1746938.md">唐山的后面是北京</a></li>
 <li><a href="/topimagenews/20220618/1747056.md">劳力士的绿水鬼，真不是想戴就能戴</a></li>
 <li><a href="/comments/20220617/1746855.md">【袁红冰热点】1.习近平四川之行未去灾区，习严格遵守「君子不立危墙之下」原则保命；2.习近平20大连任无悬念？3. 中共明确露出獠牙，台湾海峡问题不惜一战。</a></li>
-<li><a href="/topimagenews/20220618/1747227.md">“没灭了他，算他走运！” 唐山官场水有多深【阿波罗网报导】</a></li>
 <li><a href="/cbnews/20220617/1746979.md">专家要失业年轻人“去结婚生子” 大陆网友傻眼：我的母语是无语</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220618/1747267.md" target="_blank">敏感时刻习近平不理拜登警告 再为中俄关系定调</a></li>
 <li><a href="/cbnews/20220618/1747264.md" target="_blank">突发：广西融水强降雨致泥石流，有村民被埋</a></li>
 <li><a href="/cbnews/20220618/1747256.md" target="_blank">上海石化工厂爆炸 已1死1伤 燃烧5小时恐怖画面曝光</a></li>
 <li><a href="/cbnews/20220618/1747248.md" target="_blank">内蒙古派出所被一伙唐山人打砸?官方:事件属实</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220616/1746393.md" target="_blank">光靠抓军权还不够 习近平20大3个大目标</a></li>
 <li><a href="/cbnews/20220616/1746381.md" target="_blank">被困豫康码里的储户：存款八位数进不了郑州</a></li>
 <li><a href="/cbnews/20220616/1746345.md" target="_blank">江峰：大动作：中纪委删文！李克强后面来头真不小； 普习通话乐玉成再被驱离外交部，习挺俄外交栽跟斗，新华社这句普京没听见？习近平签《非战争军事行动纲领》为何不是党内政治威慑？【江峰漫谈220615第498】</a></li>
-<li><a href="/cbnews/20220616/1746304.md" target="_blank">天亮时分：经济凛冬将至，我们该如何生存；三十年首见，美联储大幅升息；新东方双语带货直播火了，欣慰与悲凉（政论天下第724集 20220615）</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220618/1747273.md" target="_blank">英国内政大臣批准引渡阿桑奇到美国 维基解密矢言上诉</a></li>
 <li><a href="/comments/20220618/1747262.md" target="_blank">上海石化厂爆炸起火 烈焰冲天已知一死</a></li>
 <li><a href="/comments/20220618/1747261.md" target="_blank">唐山打人案疑点重重 媒体前往调查受阻</a></li>
 <li><a href="/comments/20220618/1747260.md" target="_blank">学者解习近平性格：二十大不会分权 也无习王体制</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220618/1747082.md" target="_blank">王赫：美全面军事转型 锁住中共</a></li>
 <li><a href="/comments/20220618/1747063.md" target="_blank">学者预测：习将独享权力 枪杆子和笔杆子完成布局</a></li>
 <li><a href="/comments/20220618/1747062.md" target="_blank">检方强行推进许志永“颠覆政权”案 纪录片《政治家》辗转发布</a></li>
-<li><a href="/comments/20220618/1747058.md" target="_blank">新闻大家谈：中共权贵的另类生活内幕</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 <li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 
 </ul>
 </div>
