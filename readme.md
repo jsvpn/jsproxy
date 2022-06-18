@@ -11,14 +11,12 @@
 <li><a href="/topimagenews/20220618/1747227.md">“没灭了他，算他走运！” 唐山官场水有多深【阿波罗网报导】</a></li>
 <li><a href="/bannedvideo/20220618/1747233.md">唐山打黑行动大佬对话：唐山路北区领导康彦松给大佬张荣送礼被拒！张荣：“给了六届省领导和市领导”，这话啥意思？</a></li>
 <li><a href="/cnnews/20220618/1747098.md">唐山狂徒，陈继志的法外生活</a></li>
-<li><a href="/topimagenews/20220618/1747057.md">习近平要不惜一战 三大理由决定其无动武本钱</a></li>
 <li><a href="/cnnews/20220618/1747266.md">马斯克惊悚预言是真的？危难时刻！李克强变招中国百姓买单？有件事更让人担心</a></li>
 <li><a href="/cnnews/20220618/1747249.md">王思聪微博被封 居然换平台继续更新自己的日常</a></li>
 <li><a href="/yule/20220618/1747271.md">范冰冰搂凸肚男当街又抱又亲 新欢曝光被指是他</a></li>
 <li><a href="/cnnews/20220618/1747084.md">男友两个坏习惯 中国女大学生昏迷3小时猝死</a></li>
 <li><a href="/bannedvideo/20220618/1747329.md">陈破空：习派高官接连栽倒，习近平难堪！下一个是王小洪？凡他新设部门，任命尽是贪官。赵乐际全力追剿。教师群起抗议，降薪倒退十几年</a></li>
 <li><a href="/topimagenews/20220618/1747335.md">中共财政曝雷问题频现！广东公交发停运告示；投250份履历石沉大海</a></li>
-<li><a href="/topimagenews/20220618/1747056.md">劳力士的绿水鬼，真不是想戴就能戴</a></li>
 <li><a href="/topimagenews/20220618/1747183.md">百年一遇！“五星连珠”出现 天文奇景预言改朝换代</a></li>
 <li><a href="/cbnews/20220618/1747240.md">再下重手 美国自21日起禁止进口这些中国商品</a></li>
 <li><a href="/topimagenews/20220618/1747228.md">被传“癌症”末期 普丁亲自回应了</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/cbnews/20220618/1747248.md">内蒙古派出所被一伙唐山人打砸?官方:事件属实</a></li>
 <li><a href="/bannedvideo/20220618/1747230.md">唐山市层层设防！公安扣记者，医院便衣把守，四名女孩生死成谜；有录像藏可怖实情，黑衣女孩可能遭遇最惨！唐山市民去烧烤店旁“巷子”献花，现场血迹被刷洗；三大疑问待解｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20220618/1747247.md">日经：中俄军演已出现裂痕 细节曝光【阿波罗网报导】</a></li>
+<li><a href="/bannedvideo/20220618/1747312.md">唐山受害女子生死真相？警方逮捕恶霸后为何失语？中共包庇恶霸保护伞？透视共产党：拆解中共维稳魔法五招（2022.6.18）｜世界的十字路口 唐浩</a></li>
 <li><a href="/bannedvideo/20220618/1747130.md">唐山被打女生生死成谜，官媒最新辟谣含糊其辞；网传惊悚信息哪些真哪些假？非对称管控受害人背后有一个特色逻辑；“福建舰”下水，电磁弹射到底贱还是不贱？</a></li>
+<li><a href="/cnnews/20220618/1747244.md">一切都在跌，市场一片恐慌</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220619/1747430.md" target="_blank">美大使：上海封城致美商人大量离华 “大V”前仆后继曝经济灾难被封杀</a></li>
+<li><a href="/cbnews/20220619/1747429.md" target="_blank">唐山打人案 记者被无端扣留、警搂脖逼下跪</a></li>
 <li><a href="/cbnews/20220619/1747424.md" target="_blank">习近平二十大连任 什么最重要？3大要害【阿波罗网报导】</a></li>
 <li><a href="/cbnews/20220619/1747399.md" target="_blank">广东男叫小龙虾外送“咬到金戒指” 结局全场赞爆</a></li>
 <li><a href="/cbnews/20220619/1747387.md" target="_blank">死神就在身边！上海工厂爆炸一堆人桥上看热闹 外送员沿途嘶吼劝离</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20220617/1746717.md" target="_blank">天亮时分：奇幻时代：失业要交税，上班要付费；国会法案，禁中共官员使用美社交媒体；中俄通话，新闻稿暴露习的恐慌（政论天下第725集 20220616）</a></li>
 <li><a href="/cbnews/20220617/1746682.md" target="_blank">唐山打人事件背后的中国地方治理溃败</a></li>
 <li><a href="/cbnews/20220617/1746658.md" target="_blank">美国驻华大使：中共“动态清零”政策会维持到…</a></li>
-<li><a href="/cbnews/20220616/1746433.md" target="_blank">必须在“48小时内死亡”才算工伤!中国劳工法律挨批落伍又残酷</a></li>
-<li><a href="/cbnews/20220616/1746400.md" target="_blank">大连男子为了741元商品退款 被骗了143万元</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220619/1747427.md" target="_blank">大曝光 当年央视记者对所谓“1400例”之一例的采访</a></li>
+<li><a href="/comments/20220619/1747426.md" target="_blank">要求大众汽车撤出新疆 德国金属业工会公开表达明确立场</a></li>
 <li><a href="/comments/20220619/1747422.md" target="_blank">李燕铭：习近平李克强明争暗斗内幕（二六） 习近平定性反腐是重大政治斗争 警告政治局委员 敲打李克强 中纪委连发两文影射李克强阴柔奸狡贪腐 其中一文网络刷屏后被删 习李二十大前明争暗斗激烈 习近平连任与二十大常委争夺战（二九）</a></li>
 <li><a href="/comments/20220619/1747405.md" target="_blank">普京已死亡？ 本尊现身回应健康状况</a></li>
 <li><a href="/comments/20220618/1747362.md" target="_blank">【俄乌战火第115天】美暂缓售乌尖端无人攻击机 传俄救援舰遭鱼叉飞弹击中</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220618/1747202.md" target="_blank">龅牙赵:是真的查不出谁下的命令吗？</a></li>
 <li><a href="/comments/20220618/1747201.md" target="_blank">谷歌前员工爆料：公司正被“邪教”渗透</a></li>
 <li><a href="/comments/20220618/1747194.md" target="_blank">“五星连珠”来了！百年一见天文奇景预言有大事</a></li>
-<li><a href="/comments/20220618/1747193.md" target="_blank">叮咚：声东击西剪中国羽翼 拜登屡出不凡之笔</a></li>
-<li><a href="/comments/20220618/1747181.md" target="_blank">【小说连载】日初天子 七、背影会发光的男人(4)</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 <li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
 <li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 
 </ul>
 </div>
