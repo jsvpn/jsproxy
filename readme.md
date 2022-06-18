@@ -7,25 +7,25 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220617/1746773.md">习近平20大只保留军委主席?【阿波罗网报导】</a></li>
 <li><a href="/bannedvideo/20220617/1746853.md">文睿：政治局突然开会，金融夺权开始，习近平真急了</a></li>
-<li><a href="/topimagenews/20220617/1746697.md">网络炸锅！清华教授打油诗：动态清零就是好 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220617/1746783.md">又是河南，这次比乱赋红码还要荒唐</a></li>
 <li><a href="/bannedvideo/20220617/1746794.md">前央视主持人赵普：深挖唐山打人事件，嫌犯背景令人震惊！谁在罩着他们？</a></li>
-<li><a href="/ssgc/20220617/1746694.md">〖兲朝浮世绘〗习近平治国理政还是毛魔那一套 开始准备批斗李克强了</a></li>
 <li><a href="/cbnews/20220617/1746790.md">习近平连任稳了？彭博：拜习会要在20大之后</a></li>
 <li><a href="/cnnews/20220617/1746714.md">唐山白衣人曾与副市长、公安局长饭叙 打人者有保护伞？</a></li>
 <li><a href="/cbnews/20220617/1746762.md">江峰：河南健康码遭党媒围攻，因其暴露中共高层关键时刻控制全社会的终极手段；唐山烧烤店与河南健康码事件反映中央集权与地方权力冲突加剧【江峰漫谈20220616第499期】</a></li>
+<li><a href="/comments/20220618/1747027.md">习近平建立超级锦衣卫式现代特务系统 无人能阻止习二十大连任 曾庆红江绵恒改变政变策略 转为支持习近平武力攻台 借机发动宫廷政变 中南海谣言预言_535</a></li>
 <li><a href="/bannedvideo/20220617/1746912.md">黑暗中惨叫毛骨悚然,曝光伤最重实际是最轻的,唐山女孩后续更新！</a></li>
 <li><a href="/topimagenews/20220617/1746854.md">代价庞大！俄战略失败力衰 英将领曝最多只吞得下乌东</a></li>
 <li><a href="/topimagenews/20220617/1746830.md">不仅入侵乌克兰！俄罗斯通知美国 将把战火伸向这国家…</a></li>
 <li><a href="/baitai/20220617/1746877.md">妖猴经略｜唐山被打的黑衣女生令人担忧</a></li>
-<li><a href="/comments/20220618/1747027.md">习近平建立超级锦衣卫式现代特务系统 无人能阻止习二十大连任 曾庆红江绵恒改变政变策略 转为支持习近平武力攻台 借机发动宫廷政变 中南海谣言预言_535</a></li>
-<li><a href="/cbnews/20220617/1746879.md">中俄各怀鬼胎！习近平遭俄罗斯出卖 被美国警告要站对边</a></li>
 <li><a href="/cbnews/20220618/1747033.md">中共第三艘航母下水 分析：有三大缺陷</a></li>
+<li><a href="/cbnews/20220617/1746879.md">中俄各怀鬼胎！习近平遭俄罗斯出卖 被美国警告要站对边</a></li>
 <li><a href="/bannedvideo/20220617/1746712.md">凶手哥哥想花钱“和解”，女孩母亲不私了；网友偷拍医院内部，送花被截遭查身份；三女孩早已离世？第四女孩植物人？巷子里的惨叫，2女孩动弹不得；非同寻常的举报者 唐山官员慌了【新闻看点‭ ‬李沐阳6.16】</a></li>
 <li><a href="/topimagenews/20220617/1746772.md">拜习会 中共20大习近平连任后举行</a></li>
-<li><a href="/topimagenews/20220617/1746774.md">1月6日国会骚乱听证 川普彭斯火爆通话惊呆伊万卡</a></li>
 <li><a href="/topimagenews/20220618/1747069.md">习近平性格特征决定了他会创下一项纪录</a></li>
+<li><a href="/topimagenews/20220617/1746774.md">1月6日国会骚乱听证 川普彭斯火爆通话惊呆伊万卡</a></li>
+<li><a href="/cnnews/20220618/1747043.md">唐山被打的黑衣女生令人担忧</a></li>
 <li><a href="/bannedvideo/20220618/1746991.md">倪萍终于公开承认靠撒谎成为中央电视台最红节目主持人</a></li>
+<li><a href="/bannedvideo/20220617/1746880.md">红二代为何决裂中共？罗宇为何给习近平写劝告信？李锐之女如何认清中共对人性的泯灭？ 亲历“六四”屠城，江林明白了什么？｜ #百年真相</a></li>
 <li><a href="/comments/20220617/1746855.md">【袁红冰热点】1.习近平四川之行未去灾区，习严格遵守「君子不立危墙之下」原则保命；2.习近平20大连任无悬念？3. 中共明确露出獠牙，台湾海峡问题不惜一战。</a></li>
 <li><a href="/topimagenews/20220617/1746719.md">【微博精粹】犯我者虽远必“朱”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220618/1747156.md" target="_blank">李燕铭：习江钱袋子争夺战（十三） 国开行海南省分行连续两任行长刘春生徐伟华落马 刘春生家族式腐败境内办事境外收钱 徐伟华涉华信案 国开行河南分行原行长傅小东落马 国开行逾十高管被查</a></li>
 <li><a href="/comments/20220618/1747142.md" target="_blank">陈铭尧：台湾是世界不可分割的一部分</a></li>
 <li><a href="/comments/20220618/1747141.md" target="_blank">石铭：从老人们悲惨遭遇看中共的邪恶本质</a></li>
 <li><a href="/comments/20220618/1747140.md" target="_blank">夏林：美国“1月6日委员会”让人迷惑</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220617/1746918.md" target="_blank">焦点对话：专访易思安：“最后的斗争”&#8211;中共全球战略大揭秘</a></li>
 <li><a href="/comments/20220617/1746903.md" target="_blank">我身边那些明白了真相的善良人</a></li>
 <li><a href="/comments/20220617/1746900.md" target="_blank">【俄乌战火第114天】法德意挺乌克兰加入欧盟 俄“天真”目标“12小时内攻掠基辅”</a></li>
-<li><a href="/comments/20220617/1746899.md" target="_blank">中国高调展示大型无人机母舰 外媒分析背后目的</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 <li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 
 </ul>
 </div>
