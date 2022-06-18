@@ -11,23 +11,23 @@
 <li><a href="/bannedvideo/20220617/1746794.md">前央视主持人赵普：深挖唐山打人事件，嫌犯背景令人震惊！谁在罩着他们？</a></li>
 <li><a href="/cbnews/20220617/1746790.md">习近平连任稳了？彭博：拜习会要在20大之后</a></li>
 <li><a href="/comments/20220618/1747027.md">习近平建立超级锦衣卫式现代特务系统 无人能阻止习二十大连任 曾庆红江绵恒改变政变策略 转为支持习近平武力攻台 借机发动宫廷政变 中南海谣言预言_535</a></li>
-<li><a href="/cbnews/20220617/1746762.md">江峰：河南健康码遭党媒围攻，因其暴露中共高层关键时刻控制全社会的终极手段；唐山烧烤店与河南健康码事件反映中央集权与地方权力冲突加剧【江峰漫谈20220616第499期】</a></li>
 <li><a href="/bannedvideo/20220617/1746912.md">黑暗中惨叫毛骨悚然,曝光伤最重实际是最轻的,唐山女孩后续更新！</a></li>
+<li><a href="/cbnews/20220617/1746762.md">江峰：河南健康码遭党媒围攻，因其暴露中共高层关键时刻控制全社会的终极手段；唐山烧烤店与河南健康码事件反映中央集权与地方权力冲突加剧【江峰漫谈20220616第499期】</a></li>
 <li><a href="/topimagenews/20220618/1747069.md">习近平性格特征决定了他会创下一项纪录</a></li>
 <li><a href="/cbnews/20220618/1747033.md">中共第三艘航母下水 分析：有三大缺陷</a></li>
 <li><a href="/topimagenews/20220617/1746854.md">代价庞大！俄战略失败力衰 英将领曝最多只吞得下乌东</a></li>
 <li><a href="/topimagenews/20220617/1746830.md">不仅入侵乌克兰！俄罗斯通知美国 将把战火伸向这国家…</a></li>
 <li><a href="/baitai/20220617/1746877.md">妖猴经略｜唐山被打的黑衣女生令人担忧</a></li>
+<li><a href="/bannedvideo/20220618/1747085.md">惊悚爆料：唐山四女全部死亡。舆论控制为何忽冷忽热？打人男子跟受害女子无怨无仇为何下毒手？美国渗透？女拳氾滥？习近平非军事行动纲要的真实目的。｜薇羽看世间 第497期 20200617</a></li>
 <li><a href="/cbnews/20220617/1746879.md">中俄各怀鬼胎！习近平遭俄罗斯出卖 被美国警告要站对边</a></li>
 <li><a href="/cnnews/20220618/1747043.md">唐山被打的黑衣女生令人担忧</a></li>
-<li><a href="/bannedvideo/20220618/1747085.md">惊悚爆料：唐山四女全部死亡。舆论控制为何忽冷忽热？打人男子跟受害女子无怨无仇为何下毒手？美国渗透？女拳氾滥？习近平非军事行动纲要的真实目的。｜薇羽看世间 第497期 20200617</a></li>
 <li><a href="/topimagenews/20220617/1746772.md">拜习会 中共20大习近平连任后举行</a></li>
-<li><a href="/topimagenews/20220617/1746774.md">1月6日国会骚乱听证 川普彭斯火爆通话惊呆伊万卡</a></li>
 <li><a href="/cnnews/20220618/1747037.md">最惨华人首富：半年没了5000亿，流浪到越南</a></li>
+<li><a href="/topimagenews/20220617/1746774.md">1月6日国会骚乱听证 川普彭斯火爆通话惊呆伊万卡</a></li>
 <li><a href="/bannedvideo/20220618/1746991.md">倪萍终于公开承认靠撒谎成为中央电视台最红节目主持人</a></li>
+<li><a href="/topimagenews/20220618/1747057.md">习近平要不惜一战 三大理由决定其无动武本钱</a></li>
 <li><a href="/ssgc/20220617/1746938.md">唐山的后面是北京</a></li>
 <li><a href="/bannedvideo/20220617/1746880.md">红二代为何决裂中共？罗宇为何给习近平写劝告信？李锐之女如何认清中共对人性的泯灭？ 亲历“六四”屠城，江林明白了什么？｜ #百年真相</a></li>
-<li><a href="/comments/20220617/1746855.md">【袁红冰热点】1.习近平四川之行未去灾区，习严格遵守「君子不立危墙之下」原则保命；2.习近平20大连任无悬念？3. 中共明确露出獠牙，台湾海峡问题不惜一战。</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220618/1747219.md" target="_blank">取不到现金 上海老人们凌晨两点去银行排队</a></li>
 <li><a href="/topimagenews/20220618/1747199.md" target="_blank">习近平召开政治局会议 或与此案有关【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220618/1747183.md" target="_blank">百年一遇！“五星连珠”出现 天文奇景预言改朝换代</a></li>
 <li><a href="/topimagenews/20220618/1747182.md" target="_blank">中纪委发文 高喊严查“三种人”【阿波罗网报道】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220616/1746380.md" target="_blank">勸澤連斯基「妥協 」? 法、德、义三国元首今飞基辅</a></li>
 <li><a href="/topimagenews/20220616/1746370.md" target="_blank">协助乌克兰防御 美终于军援“车载鱼叉发射器”</a></li>
 <li><a href="/topimagenews/20220616/1746336.md" target="_blank">重申挺乌克兰对抗俄罗斯！拜登与泽连斯基通话 加码10亿美元军援</a></li>
-<li><a href="/topimagenews/20220616/1746308.md" target="_blank">习近平神秘军令 竟与这个会议有关？【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 <li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 
 </ul>
 </div>
