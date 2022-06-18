@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20220618/1747033.md">中共第三艘航母下水 分析：有三大缺陷</a></li>
 <li><a href="/cnnews/20220618/1747111.md">中共权贵的另类生活内幕</a></li>
 <li><a href="/topimagenews/20220618/1747199.md">习近平召开政治局会议 或与此案有关【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220618/1746991.md">倪萍终于公开承认靠撒谎成为中央电视台最红节目主持人</a></li>
 <li><a href="/topimagenews/20220618/1747227.md">“没灭了他，算他走运！” 唐山官场水有多深【阿波罗网报导】</a></li>
 <li><a href="/cnnews/20220618/1747043.md">唐山被打的黑衣女生令人担忧</a></li>
 <li><a href="/cnnews/20220618/1747098.md">唐山狂徒，陈继志的法外生活</a></li>
 <li><a href="/cnnews/20220618/1747037.md">最惨华人首富：半年没了5000亿，流浪到越南</a></li>
 <li><a href="/bannedvideo/20220618/1747233.md">唐山打黑行动大佬对话：唐山路北区领导康彦松给大佬张荣送礼被拒！张荣：“给了六届省领导和市领导”，这话啥意思？</a></li>
 <li><a href="/topimagenews/20220618/1747057.md">习近平要不惜一战 三大理由决定其无动武本钱</a></li>
-<li><a href="/cnnews/20220618/1747084.md">男友两个坏习惯 中国女大学生昏迷3小时猝死</a></li>
 <li><a href="/cnnews/20220618/1747266.md">马斯克惊悚预言是真的？危难时刻！李克强变招中国百姓买单？有件事更让人担心</a></li>
+<li><a href="/cnnews/20220618/1747084.md">男友两个坏习惯 中国女大学生昏迷3小时猝死</a></li>
 <li><a href="/cnnews/20220618/1747249.md">王思聪微博被封 居然换平台继续更新自己的日常</a></li>
 <li><a href="/yule/20220618/1747271.md">范冰冰搂凸肚男当街又抱又亲 新欢曝光被指是他</a></li>
 <li><a href="/topimagenews/20220618/1747056.md">劳力士的绿水鬼，真不是想戴就能戴</a></li>
 <li><a href="/topimagenews/20220618/1747183.md">百年一遇！“五星连珠”出现 天文奇景预言改朝换代</a></li>
 <li><a href="/topimagenews/20220618/1747228.md">被传“癌症”末期 普丁亲自回应了</a></li>
-<li><a href="/ssgc/20220618/1747021.md">评论 | 魏京生：习近平的小动作，还是大阴谋？</a></li>
-<li><a href="/baitai/20220618/1747050.md">这一次，北京搬起石头砸自己的脚</a></li>
 <li><a href="/cbnews/20220618/1747240.md">再下重手 美国自21日起禁止进口这些中国商品</a></li>
+<li><a href="/baitai/20220618/1747050.md">这一次，北京搬起石头砸自己的脚</a></li>
+<li><a href="/ssgc/20220618/1747021.md">评论 | 魏京生：习近平的小动作，还是大阴谋？</a></li>
 <li><a href="/topimagenews/20220618/1747137.md">突发！上海石化发生爆炸 浓烟滚滚 火光冲天【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20220618/1747217.md">〖兲朝浮世绘〗中共才是唐山黑社会的保护伞</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
 <li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 <li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
 
 </ul>
 </div>
