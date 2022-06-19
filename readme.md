@@ -15,19 +15,19 @@
 <li><a href="/bannedvideo/20220619/1747444.md">🔥罕见报道！习近平当面向政治局委员发出警告；中俄军演已出现裂痕 细节曝光；被传癌症末期，普丁亲自回应；“给台湾制造新危机”拜登取消三个对台军售；唐山医院回应受害女去世传言表达矛盾【阿波罗网HL】</a></li>
 <li><a href="/bannedvideo/20220618/1747364.md">“77年一遇⋯七星连珠！属蛇的习近平完了 天命大劫已到”Shitao TV - 01 (18/06/22)  生日前后遭遇 7X7 满月大阴 七星诛灭</a></li>
 <li><a href="/ssgc/20220618/1747338.md">习近平连任的机会有多大？</a></li>
-<li><a href="/cbnews/20220619/1747424.md">习近平二十大连任 什么最重要？3大要害【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220619/1747585.md">不藏了？谭德塞爆私下认了“新冠病毒由武汉实验室外泄”</a></li>
+<li><a href="/cbnews/20220619/1747424.md">习近平二十大连任 什么最重要？3大要害【阿波罗网报导】</a></li>
 <li><a href="/cbnews/20220619/1747490.md">戏称中国第三艘航舰应叫“唐山舰” 惹怒胡锡进</a></li>
 <li><a href="/cnnews/20220619/1747499.md">唐山事件：背后有高人推波助澜</a></li>
 <li><a href="/headline/20220619/1747445.md">习近平此刻大谈反腐败用意何在</a></li>
 <li><a href="/baitai/20220619/1747390.md">【404文库】李大眼的李大眼｜李承鹏：中国人为什么没有安全感</a></li>
+<li><a href="/cnnews/20220619/1747586.md">核查：巴黎机场禁止中国机组穿成大白模样？</a></li>
 <li><a href="/cnnews/20220619/1747500.md">凤凰网记者也被唐山关了</a></li>
 <li><a href="/bannedvideo/20220619/1747521.md">上海，当局中断沪昆通勤，大批市民抗议示威。夜晚大批警察抓人镇压，抗议者暴动，推倒沪昆墙。</a></li>
-<li><a href="/cnnews/20220619/1747586.md">核查：巴黎机场禁止中国机组穿成大白模样？</a></li>
 <li><a href="/bannedvideo/20220618/1747314.md">唐山流氓暴打女孩恶行案件造成死伤，墙国又曝天花板级丑闻  【丑闻联播】92C</a></li>
 <li><a href="/topimagenews/20220619/1747543.md">【微博精粹】首席刷脸科学家去地狱开发鬼脸识别了</a></li>
+<li><a href="/topimagenews/20220619/1747570.md">习近平想干啥？中共驻俄大使透露要为俄提供飞机零部件【阿波罗网报导】</a></li>
 <li><a href="/comments/20220619/1747422.md">李燕铭：习近平李克强明争暗斗内幕（二六） 习近平定性反腐是重大政治斗争 警告政治局委员 敲打李克强 中纪委连发两文影射李克强阴柔奸狡贪腐 其中一文网络刷屏后被删 习李二十大前明争暗斗激烈 习近平连任与二十大常委争夺战（二九）</a></li>
-<li><a href="/cbnews/20220619/1747399.md">广东男叫小龙虾外送“咬到金戒指” 结局全场赞爆</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
 <li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
 
 </ul>
 </div>
