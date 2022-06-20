@@ -18,12 +18,12 @@
 <li><a href="/cbnews/20220620/1747851.md">天亮时分：“翡翠”运动倒习，政治局的隐秘议程；谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率（政论天下第727集 20220619）</a></li>
 <li><a href="/topimagenews/20220620/1747747.md">俄将引爆第三次世界大战？英参谋长一句话示警</a></li>
 <li><a href="/bannedvideo/20220620/1747782.md">🔥习要拨江泽民之乱？中纪委发万字重磅长文！习近平想藏啥？上海党媒揭底；中共元老在政治局会议上曝惊人密谋；乌俄战争结局预测：或将朝鲜半岛化； 乌超美志工投身救援赛环球小姐【阿波罗网TL】</a></li>
-<li><a href="/cnnews/20220620/1747746.md">俄军无奈士兵不服命令 英情报：俄乌双方恐不打了</a></li>
 <li><a href="/bannedvideo/20220620/1747900.md">唐山白衣女孩的“裤子”有惊人细节！惠州打人案上热搜，唐山案翻版，也有白衣女孩；恶性事件连发，原因为何，饭店打人成“流行病”？上海律师遭警告不能介入唐山案；四川武馆“摆拍”唐山事件｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cnnews/20220620/1747746.md">俄军无奈士兵不服命令 英情报：俄乌双方恐不打了</a></li>
 <li><a href="/cnnews/20220620/1747701.md">泰女星恐魂断“富豪残杀游戏”验尸报告：体内发现失身水</a></li>
+<li><a href="/topimagenews/20220620/1747940.md">唐山事件的议论中，细思极恐的“反杀醉汉”案</a></li>
 <li><a href="/bannedvideo/20220620/1747757.md">朱德6位妻子及子女/最小孙子为何被枪毙？</a></li>
 <li><a href="/ssgc/20220620/1747776.md">〖兲朝浮世绘〗唐山警方黑科技，用意念办公？</a></li>
-<li><a href="/topimagenews/20220620/1747940.md">唐山事件的议论中，细思极恐的“反杀醉汉”案</a></li>
 <li><a href="/bannedvideo/20220620/1747881.md">习近平清零对中国经济灾难性打击已显现⋯⋯</a></li>
 <li><a href="/baitai/20220620/1747802.md">荒唐的高考数学试题</a></li>
 <li><a href="/cnnews/20220620/1747871.md">中国女留学生穿汉服亮相毕业礼:高颜值惊艳全网</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220620/1748042.md" target="_blank">跟谁斗？中纪委紧跟习近平 高喊斗争到底！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220620/1747992.md" target="_blank">“财大气粗”的恒大汽车因“17元人民币”遭强制执行 陆网友戏称：连早饭钱都付不出来？</a></li>
 <li><a href="/topimagenews/20220620/1747975.md" target="_blank">举行中共重要会议？北戴河7月起禁止特斯拉进入</a></li>
 <li><a href="/topimagenews/20220620/1747960.md" target="_blank">技术低劣！中共造武器不堪使用 巴基斯坦军方头大</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220618/1747247.md" target="_blank">日经：中俄军演已出现裂痕 细节曝光【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220618/1747236.md" target="_blank">“主媒”丑闻！今日美国记者使用捏造消息来源【阿波罗网编译报导】</a></li>
 <li><a href="/topimagenews/20220618/1747228.md" target="_blank">被传“癌症”末期 普丁亲自回应了</a></li>
-<li><a href="/topimagenews/20220618/1747227.md" target="_blank">“没灭了他，算他走运！” 唐山官场水有多深【阿波罗网报导】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220620/1748038.md" target="_blank">时事大家谈：中纪委痛批“李宰相”,习近平推进反腐剑指何人？</a></li>
 <li><a href="/comments/20220620/1748019.md" target="_blank">全球最大邮轮之一还没完工 将从造船厂送往废品回收厂</a></li>
 <li><a href="/comments/20220620/1748014.md" target="_blank">桃子好处多多 但也有禁忌</a></li>
 <li><a href="/comments/20220620/1748011.md" target="_blank">神圣的天国婚姻！天使夫妻，美到极致！真理与良善的结合，号角吹响⋯黄金时代的人类夫妻，成双成对出生，一见钟情，和天上一样，举行盛大婚礼⋯后世婚姻，丈夫妒嫉妻子⋯</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220620/1747833.md" target="_blank">【小说连载】日初天子 八、大婚(2)</a></li>
 <li><a href="/comments/20220620/1747812.md" target="_blank">李燕铭：习近平连任与二十大常委争夺战（三一） 习近平可能是二十大唯一超龄留任领导人 福建号航母下水破习近平连任杂音 习近平二十大后要与拜登会面 学者揭示习近平六项性格特质：无论李克强会否留任常委习都不会分权 习近平李克强明争暗斗内幕（二七）</a></li>
 <li><a href="/comments/20220620/1747808.md" target="_blank">唐山惊现“毒蛇道德”</a></li>
-<li><a href="/comments/20220620/1747755.md" target="_blank">物价飞涨，利率飙高 再加平地摔 拜登连任悬了？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
 
 </ul>
 </div>
