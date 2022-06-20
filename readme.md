@@ -15,19 +15,19 @@
 <li><a href="/bannedvideo/20220620/1747782.md">🔥习要拨江泽民之乱？中纪委发万字重磅长文！习近平想藏啥？上海党媒揭底；中共元老在政治局会议上曝惊人密谋；乌俄战争结局预测：或将朝鲜半岛化； 乌超美志工投身救援赛环球小姐【阿波罗网TL】</a></li>
 <li><a href="/cnnews/20220621/1748101.md">江苏常州骨科停诊惊爆医师集体买春被逮 3段影片疯传！官方终于回应了</a></li>
 <li><a href="/topimagenews/20220620/1747975.md">举行中共重要会议？北戴河7月起禁止特斯拉进入</a></li>
-<li><a href="/topimagenews/20220620/1747960.md">技术低劣！中共造武器不堪使用 巴基斯坦军方头大</a></li>
 <li><a href="/bannedvideo/20220620/1747900.md">唐山白衣女孩的“裤子”有惊人细节！惠州打人案上热搜，唐山案翻版，也有白衣女孩；恶性事件连发，原因为何，饭店打人成“流行病”？上海律师遭警告不能介入唐山案；四川武馆“摆拍”唐山事件｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/topimagenews/20220620/1747960.md">技术低劣！中共造武器不堪使用 巴基斯坦军方头大</a></li>
 <li><a href="/bannedvideo/20220620/1748009.md">大陆多地银行出现挤兑，危机爆发的临界点？习近平释新规，要动贪官奶酪？地方财政亮红灯；中共前财长：个税减免不能刺激消费！中美继续脱钩，美国新法案要审查对华投资？【#蔚然财商天下】2022.06.20</a></li>
-<li><a href="/topimagenews/20220620/1747940.md">唐山事件的议论中，细思极恐的“反杀醉汉”案</a></li>
 <li><a href="/ccpdope/20220620/1747968.md">没商量！恶警敢强奸 就切下阴茎</a></li>
-<li><a href="/bannedvideo/20220620/1747881.md">习近平清零对中国经济灾难性打击已显现⋯⋯</a></li>
+<li><a href="/topimagenews/20220620/1747940.md">唐山事件的议论中，细思极恐的“反杀醉汉”案</a></li>
 <li><a href="/bannedvideo/20220620/1748093.md">深圳市长被捕画面惊人曝光</a></li>
+<li><a href="/bannedvideo/20220620/1747881.md">习近平清零对中国经济灾难性打击已显现⋯⋯</a></li>
 <li><a href="/ssgc/20220620/1747776.md">〖兲朝浮世绘〗唐山警方黑科技，用意念办公？</a></li>
+<li><a href="/topimagenews/20220620/1748042.md">跟谁斗？中纪委紧跟习近平 高喊斗争到底！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220620/1747757.md">朱德6位妻子及子女/最小孙子为何被枪毙？</a></li>
 <li><a href="/cnnews/20220620/1747871.md">中国女留学生穿汉服亮相毕业礼:高颜值惊艳全网</a></li>
 <li><a href="/topimagenews/20220620/1747992.md">“财大气粗”的恒大汽车因“17元人民币”遭强制执行 陆网友戏称：连早饭钱都付不出来？</a></li>
 <li><a href="/topimagenews/20220620/1747852.md">“拨乱反正”再现中纪委网站！习近平要拨江泽民之乱？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220620/1748042.md">跟谁斗？中纪委紧跟习近平 高喊斗争到底！【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 
 </ul>
 </div>
