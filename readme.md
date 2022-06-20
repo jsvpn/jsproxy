@@ -6,15 +6,14 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220619/1747585.md">不藏了？谭德塞爆私下认了“新冠病毒由武汉实验室外泄”</a></li>
-<li><a href="/cnnews/20220619/1747586.md">核查：巴黎机场禁止中国机组穿成大白模样？</a></li>
 <li><a href="/lifebaike/20220619/1747635.md">贝加尔湖里，沉睡着25万具冰冷尸体</a></li>
+<li><a href="/cnnews/20220619/1747586.md">核查：巴黎机场禁止中国机组穿成大白模样？</a></li>
 <li><a href="/topimagenews/20220619/1747597.md">上海昆山大批民众聚集抗议 要求开放沪昆通勤 遭镇压【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220619/1747648.md">唐山事件或涉中共高层内斗 幕后黑手伸向上海；被骂翻！中国专家要失业年轻人“去结婚生子”【希望之声TV-两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220619/1747627.md">考公人数激增，“厅局风”盛行，中国进入男盗女娼式社会！普通人的生存成本将大幅提高｜政经孙老师</a></li>
 <li><a href="/bannedvideo/20220620/1747748.md">中国农业银行每天取款限额为1000元。看来，全国范围的银行大暴雷，越来越近。</a></li>
 <li><a href="/cnnews/20220619/1747630.md">威力巨大的“房票”，重出江湖</a></li>
 <li><a href="/health/20220619/1747610.md">它是“黄曲霉素”的温床，平时喜欢藏在卫生间里，劝告家人远离它</a></li>
-<li><a href="/topimagenews/20220619/1747570.md">习近平想干啥？中共驻俄大使透露要为俄提供飞机零部件【阿波罗网报导】</a></li>
 <li><a href="/headline/20220619/1747652.md">英媒：WHO谭德塞认为新冠病毒是武汉实验室泄出</a></li>
 <li><a href="/cnnews/20220619/1747631.md">我没有看错吧…他们竟然摆摊卖起了这个</a></li>
 <li><a href="/topimagenews/20220619/1747679.md">反习派利用“红码”大作文章，要习近平做出保证【阿波罗网报道】</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/bannedvideo/20220619/1747654.md">陈破空：党的监控大师神秘死亡！习近平任人唯亲，高官比例严重失衡！攻击李克强文章戏剧性删除，反复多次</a></li>
 <li><a href="/bannedvideo/20220620/1747742.md">诡异的语音，讲叙唐山烧烤店打女人事件的真相！</a></li>
 <li><a href="/bannedvideo/20220619/1747608.md">唐山雷霆扫黑，咋扫老百姓来了，查一切来往车辆；剪子菜刀全用铁丝栓起来；唐山烧烤店旁边的小巷，成了关注的焦点；唐山市被举报的官员多涉及公检法系统。【 #大陆民生 】</a></li>
-<li><a href="/topimagenews/20220620/1747747.md">俄将引爆第三次世界大战？英参谋长一句话示警</a></li>
 <li><a href="/cbnews/20220620/1747718.md">20大前整肃？中共新规严控领导配偶、子女经商</a></li>
+<li><a href="/topimagenews/20220620/1747747.md">俄将引爆第三次世界大战？英参谋长一句话示警</a></li>
 <li><a href="/lifebaike/20220619/1747605.md">当你老了，留给自己5张底牌</a></li>
 <li><a href="/cnnews/20220620/1747701.md">泰女星恐魂断“富豪残杀游戏”验尸报告：体内发现失身水</a></li>
-<li><a href="/comments/20220619/1747640.md">这种碗可能致癌？没想到危害这么大</a></li>
 <li><a href="/cnnews/20220620/1747746.md">俄军无奈士兵不服命令 英情报：俄乌双方恐不打了</a></li>
+<li><a href="/topimagenews/20220620/1747798.md">侮辱性极强！上海人的捐款队形绝了 3.28元？</a></li>
+<li><a href="/comments/20220619/1747640.md">这种碗可能致癌？没想到危害这么大</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 <li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
 <li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
 
 </ul>
 </div>
