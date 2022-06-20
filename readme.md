@@ -17,17 +17,17 @@
 <li><a href="/topimagenews/20220620/1747806.md">唐山女孩被打进这条小巷 案发地民众献花 2亿人热读</a></li>
 <li><a href="/cbnews/20220620/1747851.md">天亮时分：“翡翠”运动倒习，政治局的隐秘议程；谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率（政论天下第727集 20220619）</a></li>
 <li><a href="/topimagenews/20220620/1747747.md">俄将引爆第三次世界大战？英参谋长一句话示警</a></li>
+<li><a href="/bannedvideo/20220620/1747782.md">🔥习要拨江泽民之乱？中纪委发万字重磅长文！习近平想藏啥？上海党媒揭底；中共元老在政治局会议上曝惊人密谋；乌俄战争结局预测：或将朝鲜半岛化； 乌超美志工投身救援赛环球小姐【阿波罗网TL】</a></li>
 <li><a href="/cnnews/20220620/1747746.md">俄军无奈士兵不服命令 英情报：俄乌双方恐不打了</a></li>
 <li><a href="/bannedvideo/20220620/1747900.md">唐山白衣女孩的“裤子”有惊人细节！惠州打人案上热搜，唐山案翻版，也有白衣女孩；恶性事件连发，原因为何，饭店打人成“流行病”？上海律师遭警告不能介入唐山案；四川武馆“摆拍”唐山事件｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/bannedvideo/20220620/1747782.md">🔥习要拨江泽民之乱？中纪委发万字重磅长文！习近平想藏啥？上海党媒揭底；中共元老在政治局会议上曝惊人密谋；乌俄战争结局预测：或将朝鲜半岛化； 乌超美志工投身救援赛环球小姐【阿波罗网TL】</a></li>
 <li><a href="/cnnews/20220620/1747701.md">泰女星恐魂断“富豪残杀游戏”验尸报告：体内发现失身水</a></li>
 <li><a href="/bannedvideo/20220620/1747757.md">朱德6位妻子及子女/最小孙子为何被枪毙？</a></li>
 <li><a href="/ssgc/20220620/1747776.md">〖兲朝浮世绘〗唐山警方黑科技，用意念办公？</a></li>
+<li><a href="/topimagenews/20220620/1747940.md">唐山事件的议论中，细思极恐的“反杀醉汉”案</a></li>
 <li><a href="/bannedvideo/20220620/1747881.md">习近平清零对中国经济灾难性打击已显现⋯⋯</a></li>
 <li><a href="/baitai/20220620/1747802.md">荒唐的高考数学试题</a></li>
 <li><a href="/cnnews/20220620/1747871.md">中国女留学生穿汉服亮相毕业礼:高颜值惊艳全网</a></li>
 <li><a href="/cbnews/20220619/1747680.md">成龙怎么说？他义勇救女以一敌四 被打到浴血昏迷！妻子也挨揍“脸上都是伤”</a></li>
-<li><a href="/topimagenews/20220620/1747852.md">“拨乱反正”再现中纪委网站！习近平要拨江泽民之乱？【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 <li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 <li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 
 </ul>
 </div>
