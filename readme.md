@@ -9,25 +9,25 @@
 <li><a href="/bannedvideo/20220619/1747648.md">唐山事件或涉中共高层内斗 幕后黑手伸向上海；被骂翻！中国专家要失业年轻人“去结婚生子”【希望之声TV-两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220619/1747627.md">考公人数激增，“厅局风”盛行，中国进入男盗女娼式社会！普通人的生存成本将大幅提高｜政经孙老师</a></li>
 <li><a href="/bannedvideo/20220620/1747748.md">中国农业银行每天取款限额为1000元。看来，全国范围的银行大暴雷，越来越近。</a></li>
-<li><a href="/cnnews/20220619/1747630.md">威力巨大的“房票”，重出江湖</a></li>
 <li><a href="/topimagenews/20220620/1747836.md">地球人真的都知道了！ 全球主流媒体几乎无一遗漏报道这事</a></li>
+<li><a href="/cnnews/20220619/1747630.md">威力巨大的“房票”，重出江湖</a></li>
 <li><a href="/health/20220619/1747610.md">它是“黄曲霉素”的温床，平时喜欢藏在卫生间里，劝告家人远离它</a></li>
 <li><a href="/topimagenews/20220620/1747798.md">侮辱性极强！上海人的捐款队形绝了 3.28元？</a></li>
 <li><a href="/headline/20220619/1747652.md">英媒：WHO谭德塞认为新冠病毒是武汉实验室泄出</a></li>
-<li><a href="/cnnews/20220619/1747631.md">我没有看错吧…他们竟然摆摊卖起了这个</a></li>
 <li><a href="/bannedvideo/20220619/1747658.md">“巨雷”被掩盖！最接近真实的唐山打人事件录音！中国银行挤兑潮拉开序幕⋯⋯</a></li>
+<li><a href="/cnnews/20220619/1747631.md">我没有看错吧…他们竟然摆摊卖起了这个</a></li>
 <li><a href="/topimagenews/20220619/1747679.md">反习派利用“红码”大作文章，要习近平做出保证【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220620/1747816.md">“不是弱智都不想不出这标题” ；中共军方航母喜提三胎说翻车</a></li>
 <li><a href="/bannedvideo/20220619/1747654.md">陈破空：党的监控大师神秘死亡！习近平任人唯亲，高官比例严重失衡！攻击李克强文章戏剧性删除，反复多次</a></li>
 <li><a href="/bannedvideo/20220620/1747742.md">诡异的语音，讲叙唐山烧烤店打女人事件的真相！</a></li>
 <li><a href="/cbnews/20220620/1747718.md">20大前整肃？中共新规严控领导配偶、子女经商</a></li>
-<li><a href="/lifebaike/20220619/1747605.md">当你老了，留给自己5张底牌</a></li>
 <li><a href="/topimagenews/20220620/1747806.md">唐山女孩被打进这条小巷 案发地民众献花 2亿人热读</a></li>
 <li><a href="/bannedvideo/20220619/1747608.md">唐山雷霆扫黑，咋扫老百姓来了，查一切来往车辆；剪子菜刀全用铁丝栓起来；唐山烧烤店旁边的小巷，成了关注的焦点；唐山市被举报的官员多涉及公检法系统。【 #大陆民生 】</a></li>
 <li><a href="/topimagenews/20220620/1747747.md">俄将引爆第三次世界大战？英参谋长一句话示警</a></li>
 <li><a href="/cnnews/20220620/1747746.md">俄军无奈士兵不服命令 英情报：俄乌双方恐不打了</a></li>
 <li><a href="/cnnews/20220620/1747701.md">泰女星恐魂断“富豪残杀游戏”验尸报告：体内发现失身水</a></li>
-<li><a href="/comments/20220619/1747640.md">这种碗可能致癌？没想到危害这么大</a></li>
+<li><a href="/topimagenews/20220620/1747860.md">【微博精粹】官媒用“奄奄一息”来形容这事 前所未闻</a></li>
+<li><a href="/cbnews/20220620/1747851.md">天亮时分：“翡翠”运动倒习，政治局的隐秘议程；谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率（政论天下第727集 20220619）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 <li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 
 </ul>
 </div>
