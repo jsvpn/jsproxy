@@ -8,18 +8,16 @@
 <li><a href="/cnnews/20220621/1748101.md">江苏常州骨科停诊惊爆医师集体买春被逮 3段影片疯传！官方终于回应了</a></li>
 <li><a href="/bannedvideo/20220620/1748093.md">深圳市长被捕画面惊人曝光</a></li>
 <li><a href="/bannedvideo/20220620/1748009.md">大陆多地银行出现挤兑，危机爆发的临界点？习近平释新规，要动贪官奶酪？地方财政亮红灯；中共前财长：个税减免不能刺激消费！中美继续脱钩，美国新法案要审查对华投资？【#蔚然财商天下】2022.06.20</a></li>
-<li><a href="/ccpdope/20220620/1747968.md">没商量！恶警敢强奸 就切下阴茎</a></li>
-<li><a href="/topimagenews/20220620/1747975.md">举行中共重要会议？北戴河7月起禁止特斯拉进入</a></li>
 <li><a href="/cnnews/20220621/1748155.md">没有“关键先生” 李克强难以上位</a></li>
 <li><a href="/bannedvideo/20220621/1748226.md">高层疑插手唐山打人事件；受害女身份曝光，打人团伙惊现“无名”人；陆媒采访报警人，目击证词真假？特斯拉禁入北戴河，习近平率先出招</a></li>
 <li><a href="/topimagenews/20220621/1748169.md">关机、拔卡还能被定位，行程码究竟是怎么做到的</a></li>
 <li><a href="/topimagenews/20220620/1748042.md">跟谁斗？中纪委紧跟习近平 高喊斗争到底！【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220620/1748017.md">陈破空：政治局议反腐？别装了！习近平处境很像某人下台前。老胡为第三艘航母发火？唐山舰丰县舰核酸舰，哪个是真货</a></li>
 <li><a href="/topimagenews/20220621/1748260.md">一箭双雕！暗示习近平内斗输掉一局 江志成赚翻了？【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220620/1748017.md">陈破空：政治局议反腐？别装了！习近平处境很像某人下台前。老胡为第三艘航母发火？唐山舰丰县舰核酸舰，哪个是真货</a></li>
 <li><a href="/bannedvideo/20220621/1748181.md">🔥完了！红朝四大皆失，李克强上台救不了；中央欲甩锅问责河南红码维稳；新华社长文捧习近平，反习派高级黑；白宫铺路撤免中共关税；乌军损一半重型武器，美突叫停出售这武器</a></li>
 <li><a href="/topimagenews/20220621/1748270.md">疫情源自中国武汉实验室？俄国科学家：新冠肺炎病毒可以制造出来</a></li>
-<li><a href="/topimagenews/20220620/1747992.md">“财大气粗”的恒大汽车因“17元人民币”遭强制执行 陆网友戏称：连早饭钱都付不出来？</a></li>
 <li><a href="/bannedvideo/20220621/1748259.md">两场灾、一场宴毁了习近平？清零冷藏、脱贫戳破，李克强围观、一尊动摇？</a></li>
+<li><a href="/topimagenews/20220620/1747992.md">“财大气粗”的恒大汽车因“17元人民币”遭强制执行 陆网友戏称：连早饭钱都付不出来？</a></li>
 <li><a href="/topimagenews/20220621/1748261.md">新华社七千字长文吹捧 反习派高级黑习近平【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220620/1748007.md">整肃党内对手 习开打第一枪；怕啥来啥！美国这招一个让中共陷入更大危机【两岸要闻】</a></li>
 <li><a href="/cnnews/20220621/1748154.md">43岁知名主持人过世 姐弟同年全病死</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/health/20220621/1748191.md">体内有癌，“睡眠”先提醒？医生：若出现3种异常，建议早筛查</a></li>
 <li><a href="/lifebaike/20220621/1748175.md">优秀的孩子都是管出来的！记住这2点，孩子想不成才都难</a></li>
 <li><a href="/lifebaike/20220621/1748162.md">东北最美女土匪！张学良光想救她却晚了一步</a></li>
+<li><a href="/topimagenews/20220621/1748292.md">【微博精粹】从来只有千日做贼的 没有千日防贼的</a></li>
+<li><a href="/cnnews/20220620/1748075.md">睡一半被摇醒！陌生男破门持枪逼“上床” 她因一句话躲劫</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220621/1748392.md" target="_blank">俄罗斯封锁乌克兰谷物出口 欧盟筹措另辟“团结通路”</a></li>
 <li><a href="/comments/20220621/1748345.md" target="_blank">德教育部长：学者不应在敏感领域与北京合作 不应设孔院</a></li>
 <li><a href="/comments/20220621/1748334.md" target="_blank">中共高层怕什么？ 传7、8月北戴河禁止特斯拉上路</a></li>
 <li><a href="/comments/20220621/1748333.md" target="_blank">政治局会议罕见提前 集体学习7人消失</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220620/1748091.md" target="_blank">中共高层惧怕什么？7、8两月秦皇岛、北戴河禁特斯拉车驶入</a></li>
 <li><a href="/comments/20220620/1748087.md" target="_blank">【杜耀明评论】当政府即法律，自由就是管制</a></li>
 <li><a href="/comments/20220620/1748081.md" target="_blank">加拿大最新民调：生活满意度最高/最差的省份是&#8230;</a></li>
-<li><a href="/comments/20220620/1748079.md" target="_blank">专栏 | 劳工通讯：资阳市建筑工求救书记帮讨薪（六）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
 
 </ul>
 </div>
