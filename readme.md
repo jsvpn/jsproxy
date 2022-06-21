@@ -5,17 +5,17 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20220621/1748155.md">没有“关键先生” 李克强难以上位</a></li>
 <li><a href="/bannedvideo/20220621/1748226.md">高层疑插手唐山打人事件；受害女身份曝光，打人团伙惊现“无名”人；陆媒采访报警人，目击证词真假？特斯拉禁入北戴河，习近平率先出招</a></li>
+<li><a href="/cnnews/20220621/1748155.md">没有“关键先生” 李克强难以上位</a></li>
 <li><a href="/topimagenews/20220621/1748169.md">关机、拔卡还能被定位，行程码究竟是怎么做到的</a></li>
 <li><a href="/topimagenews/20220621/1748260.md">一箭双雕！暗示习近平内斗输掉一局 江志成赚翻了？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220621/1748270.md">疫情源自中国武汉实验室？俄国科学家：新冠肺炎病毒可以制造出来</a></li>
-<li><a href="/bannedvideo/20220621/1748181.md">🔥完了！红朝四大皆失，李克强上台救不了；中央欲甩锅问责河南红码维稳；新华社长文捧习近平，反习派高级黑；白宫铺路撤免中共关税；乌军损一半重型武器，美突叫停出售这武器</a></li>
 <li><a href="/bannedvideo/20220621/1748259.md">两场灾、一场宴毁了习近平？清零冷藏、脱贫戳破，李克强围观、一尊动摇？</a></li>
+<li><a href="/bannedvideo/20220621/1748181.md">🔥完了！红朝四大皆失，李克强上台救不了；中央欲甩锅问责河南红码维稳；新华社长文捧习近平，反习派高级黑；白宫铺路撤免中共关税；乌军损一半重型武器，美突叫停出售这武器</a></li>
 <li><a href="/topimagenews/20220621/1748261.md">新华社七千字长文吹捧 反习派高级黑习近平【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220621/1748419.md">政治局会上军方出现异常  翡翠运动倒习？其中一句话或起关键作用</a></li>
-<li><a href="/bannedvideo/20220621/1748388.md">唐山打人案两股势力博弈……神秘录音精准“爆料”！官方通报服不服？“cc字幕”</a></li>
 <li><a href="/cnnews/20220621/1748154.md">43岁知名主持人过世 姐弟同年全病死</a></li>
+<li><a href="/bannedvideo/20220621/1748388.md">唐山打人案两股势力博弈……神秘录音精准“爆料”！官方通报服不服？“cc字幕”</a></li>
 <li><a href="/cnnews/20220621/1748341.md">老舍好色成性大搞婚外恋 被周恩来一封信诱回国踏上不归路</a></li>
 <li><a href="/ssgc/20220621/1748308.md">〖兲朝浮世绘〗不能说准确时间，怕新、老流氓一锅被端了</a></li>
 <li><a href="/topimagenews/20220621/1748309.md">司马南惨了！比电梯夹头还头疼【阿波罗网报导】</a></li>
@@ -23,8 +23,8 @@
 <li><a href="/yule/20220621/1748380.md">冯巩“女儿”长大了 她的老公大家很熟悉</a></li>
 <li><a href="/topimagenews/20220621/1748292.md">【微博精粹】从来只有千日做贼的 没有千日防贼的</a></li>
 <li><a href="/bannedvideo/20220621/1748312.md">最新：唐山公安局路北局长5人被查；多名警察实名举报；张文宏唱反调；内幕深，引蛇出洞！烧烤店被拆；上海邻居爆大规模抗议，多人被捕；香港珍宝海鲜舫沉没；美奶粉短缺。【 #晚间新闻 】</a></li>
-<li><a href="/health/20220621/1748191.md">体内有癌，“睡眠”先提醒？医生：若出现3种异常，建议早筛查</a></li>
 <li><a href="/lifebaike/20220621/1748402.md">“党的最大机密 都在报纸上”</a></li>
+<li><a href="/health/20220621/1748191.md">体内有癌，“睡眠”先提醒？医生：若出现3种异常，建议早筛查</a></li>
 <li><a href="/bannedvideo/20220621/1748228.md">🔥🔥最新爆料：4女孩都在太平间❓唐山黑帮与公安系统合伙买单杀人、杀一人50万❗唐山最惊悚一波黑幕...</a></li>
 <li><a href="/topimagenews/20220621/1748387.md">恐遭重判33年！洗米华案9月开庭 港媒曝光涉案金额高达8,000亿港币</a></li>
 <li><a href="/bannedvideo/20220621/1748313.md">唐山四女孩真名传出！烧烤店搬迁，舆论追问女孩下落、近况，中共戏路再被拆穿；小粉红：事件是美国指使！江苏常州医院骨科大夫“集体”买春被逮；香港“珍宝海鲜舫”沉没，淹没一个时代的记忆｜新闻拍案惊奇 大宇</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220622/1748531.md" target="_blank">全舰恐须点蜡烛 福建号的世界第一有多“水”</a></li>
 <li><a href="/topimagenews/20220622/1748520.md" target="_blank">加息潮戳破楼市泡沫 “硬着陆”冲击全球经济</a></li>
 <li><a href="/topimagenews/20220622/1748512.md" target="_blank">没有事能阻止我选2024！川普：拜登正将美带向世界大战</a></li>
 <li><a href="/topimagenews/20220621/1748387.md" target="_blank">恐遭重判33年！洗米华案9月开庭 港媒曝光涉案金额高达8,000亿港币</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220620/1747816.md" target="_blank">“不是弱智都不想不出这标题” ；中共军方航母喜提三胎说翻车</a></li>
 <li><a href="/topimagenews/20220620/1747807.md" target="_blank">李承鹏：中国人，你为什么没有安全感</a></li>
 <li><a href="/topimagenews/20220620/1747806.md" target="_blank">唐山女孩被打进这条小巷 案发地民众献花 2亿人热读</a></li>
-<li><a href="/topimagenews/20220620/1747798.md" target="_blank">侮辱性极强！上海人的捐款队形绝了 3.28元？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
 <li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 
 </ul>
 </div>
