@@ -11,22 +11,22 @@
 <li><a href="/bannedvideo/20220620/1747900.md">唐山白衣女孩的“裤子”有惊人细节！惠州打人案上热搜，唐山案翻版，也有白衣女孩；恶性事件连发，原因为何，饭店打人成“流行病”？上海律师遭警告不能介入唐山案；四川武馆“摆拍”唐山事件｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/bannedvideo/20220620/1748009.md">大陆多地银行出现挤兑，危机爆发的临界点？习近平释新规，要动贪官奶酪？地方财政亮红灯；中共前财长：个税减免不能刺激消费！中美继续脱钩，美国新法案要审查对华投资？【#蔚然财商天下】2022.06.20</a></li>
 <li><a href="/topimagenews/20220620/1747975.md">举行中共重要会议？北戴河7月起禁止特斯拉进入</a></li>
-<li><a href="/topimagenews/20220620/1747960.md">技术低劣！中共造武器不堪使用 巴基斯坦军方头大</a></li>
 <li><a href="/cnnews/20220621/1748155.md">没有“关键先生” 李克强难以上位</a></li>
+<li><a href="/topimagenews/20220620/1747960.md">技术低劣！中共造武器不堪使用 巴基斯坦军方头大</a></li>
 <li><a href="/ccpdope/20220620/1747968.md">没商量！恶警敢强奸 就切下阴茎</a></li>
 <li><a href="/topimagenews/20220621/1748169.md">关机、拔卡还能被定位，行程码究竟是怎么做到的</a></li>
 <li><a href="/topimagenews/20220620/1748042.md">跟谁斗？中纪委紧跟习近平 高喊斗争到底！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220620/1747940.md">唐山事件的议论中，细思极恐的“反杀醉汉”案</a></li>
 <li><a href="/bannedvideo/20220620/1748017.md">陈破空：政治局议反腐？别装了！习近平处境很像某人下台前。老胡为第三艘航母发火？唐山舰丰县舰核酸舰，哪个是真货</a></li>
 <li><a href="/topimagenews/20220620/1747992.md">“财大气粗”的恒大汽车因“17元人民币”遭强制执行 陆网友戏称：连早饭钱都付不出来？</a></li>
-<li><a href="/bannedvideo/20220620/1748007.md">整肃党内对手 习开打第一枪；怕啥来啥！美国这招一个让中共陷入更大危机【两岸要闻】</a></li>
+<li><a href="/bannedvideo/20220621/1748181.md">🔥完了！红朝四大皆失，李克强上台救不了；中央欲甩锅问责河南红码维稳；新华社长文捧习近平，反习派高级黑；白宫铺路撤免中共关税；乌军损一半重型武器，美突叫停出售这武器</a></li>
+<li><a href="/bannedvideo/20220621/1748226.md">高层疑插手唐山打人事件；受害女身份曝光，打人团伙惊现“无名”人；陆媒采访报警人，目击证词真假？特斯拉禁入北戴河，习近平率先出招</a></li>
 <li><a href="/cnnews/20220621/1748154.md">43岁知名主持人过世 姐弟同年全病死</a></li>
+<li><a href="/bannedvideo/20220620/1748007.md">整肃党内对手 习开打第一枪；怕啥来啥！美国这招一个让中共陷入更大危机【两岸要闻】</a></li>
 <li><a href="/cbnews/20220620/1747914.md">广东惠州男子痛殴女友，饭店老板制止遭围殴，通报来了</a></li>
 <li><a href="/cbnews/20220620/1747890.md">习近平祭新规赢内斗？20大前夯实基础【阿波罗网报导】</a></li>
-<li><a href="/bannedvideo/20220621/1748226.md">高层疑插手唐山打人事件；受害女身份曝光，打人团伙惊现“无名”人；陆媒采访报警人，目击证词真假？特斯拉禁入北戴河，习近平率先出招</a></li>
-<li><a href="/bannedvideo/20220621/1748181.md">🔥完了！红朝四大皆失，李克强上台救不了；中央欲甩锅问责河南红码维稳；新华社长文捧习近平，反习派高级黑；白宫铺路撤免中共关税；乌军损一半重型武器，美突叫停出售这武器</a></li>
-<li><a href="/funmedia/20220620/1747893.md">“新型啃老”出现了？很多家长浑然不知，反而认为孩子很优秀</a></li>
 <li><a href="/cbnews/20220620/1748071.md">快灭顶！广东养猪场猪群“大逃难”画面惊呆万人</a></li>
+<li><a href="/funmedia/20220620/1747893.md">“新型啃老”出现了？很多家长浑然不知，反而认为孩子很优秀</a></li>
 <li><a href="/cnnews/20220620/1748018.md">民怨沸腾！上海、辽宁多家银行爆发挤兑；反霸凌！他提台湾杀招，中共意外不敢回嘴；</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220621/1748311.md" target="_blank">李燕铭：江泽民江苏帮政变谋刺习近平 习绝地反击（二四） 江苏省检察院副检察长赵志刚被查 与落马的上海检察长张本才曾共事多年 诺贝尔奖得主莫言与张本才赵志刚鲜为人知隐秘关系曝光 赵志刚微信公号粉丝超百万 张本才画作十年前就能以40万元价格成交 习近平清洗刀把子严防江曾二十大政变（三六）</a></li>
 <li><a href="/comments/20220621/1748291.md" target="_blank">最强童颜﹗21岁金允熙新剧演小学生无违和感</a></li>
 <li><a href="/comments/20220621/1748271.md" target="_blank">【小说连载】日初天子 九、永远无法得到的人(1)</a></li>
 <li><a href="/comments/20220621/1748262.md" target="_blank">北京公安局长刘传新的悲惨人生 京沪公安局长之死 下 【中南火海】84</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220620/1748052.md" target="_blank">中国人权捍卫者郭飞雄“煽颠”案已被移送广州检方起诉</a></li>
 <li><a href="/comments/20220620/1748038.md" target="_blank">时事大家谈：中纪委痛批“李宰相”,习近平推进反腐剑指何人？</a></li>
 <li><a href="/comments/20220620/1748019.md" target="_blank">全球最大邮轮之一还没完工 将从造船厂送往废品回收厂</a></li>
-<li><a href="/comments/20220620/1748014.md" target="_blank">桃子好处多多 但也有禁忌</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
 
 </ul>
 </div>
