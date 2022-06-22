@@ -12,16 +12,16 @@
 <li><a href="/funmedia/20220622/1748625.md">人品差的女人，开口闭口都是这4句话，希望你没说过…</a></li>
 <li><a href="/bannedvideo/20220622/1748760.md">中共大使惹祸了！被俄媒大曝猛料；中共官场保命战太猛！中纪委名单来了；【希望之声TV-国际风云】</a></li>
 <li><a href="/ssgc/20220622/1748740.md">〖兲朝浮世绘〗难道网警们都知道熊指的是谁了？</a></li>
-<li><a href="/cnnews/20220622/1748847.md">三亚的江湖自此云歇雨停…</a></li>
 <li><a href="/comments/20220622/1748897.md">终将败给李克强？ 陈奎德：习近平已失去多数政治局常委支持</a></li>
+<li><a href="/cnnews/20220622/1748847.md">三亚的江湖自此云歇雨停…</a></li>
 <li><a href="/headline/20220622/1748845.md">【中国社会】传深圳市中国银行出现挤提</a></li>
 <li><a href="/bannedvideo/20220622/1748863.md">珍宝海鲜舫沉船是人为因素？年初的“賖刀人”预言，现在开始应验？今年年底会出大事？香港就此由盛转衰？【#蔚然财商天下】2022.06.22</a></li>
 <li><a href="/comments/20220622/1748763.md">无药可救 压垮中共的最后一击来了？</a></li>
-<li><a href="/cnnews/20220622/1748826.md">中国倒退50年？15市已发房票还能用“2物换房”</a></li>
 <li><a href="/topimagenews/20220622/1748910.md">笑喷！严控官员家属经商 人民日报说露馅了【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20220622/1748826.md">中国倒退50年？15市已发房票还能用“2物换房”</a></li>
 <li><a href="/cbnews/20220622/1748704.md">天亮时分：习近平怼自己也加速，遭谭德赛张文宏合力打脸；马斯克上了习近平黑名单；唐山事件政府通告，已无人相信（政论天下第728集 20220621）</a></li>
-<li><a href="/topimagenews/20220622/1748813.md">彻底躺平？恒大汽车因17元人民币被强制执行；美民调：53%认经济已衰退</a></li>
 <li><a href="/bannedvideo/20220622/1748866.md">陈破空：中南海头号大案？不利习近平！肖家人证实：案情复杂，充满戏剧性。本月开庭。李鸿忠进中央，习派小胜？中办出规定，反讽十足</a></li>
+<li><a href="/topimagenews/20220622/1748813.md">彻底躺平？恒大汽车因17元人民币被强制执行；美民调：53%认经济已衰退</a></li>
 <li><a href="/headline/20220622/1748851.md">放眼中共二十大：反习势力今何在</a></li>
 <li><a href="/ssgc/20220622/1748654.md">〖微博谈〗这是一种从没有过的悲凉</a></li>
 <li><a href="/comments/20220622/1748708.md">杜政：二十大前官媒对习仲勋习近平父子玩高级黑</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
 
 </ul>
 </div>
