@@ -8,26 +8,26 @@
 <li><a href="/bannedvideo/20220621/1748419.md">政治局会上军方出现异常  翡翠运动倒习？其中一句话或起关键作用</a></li>
 <li><a href="/bannedvideo/20220621/1748388.md">唐山打人案两股势力博弈……神秘录音精准“爆料”！官方通报服不服？“cc字幕”</a></li>
 <li><a href="/bannedvideo/20220621/1748378.md">唐山被打女生们的名字；关于唐山，我错了，发布了不当言论​； 唐山女孩最后被打到这个巷子；民众就问一句话；能在唐山翻江倒海，这鱼到底有多大？；为唐山被打女孩发声 收到恐吓私信</a></li>
-<li><a href="/topimagenews/20220622/1748567.md">天津发生大爆炸 伤23人 现场一片狼藉【阿波罗网报道】</a></li>
 <li><a href="/yule/20220621/1748380.md">冯巩“女儿”长大了 她的老公大家很熟悉</a></li>
+<li><a href="/topimagenews/20220622/1748567.md">天津发生大爆炸 伤23人 现场一片狼藉【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220622/1748639.md">上海街头不伦三角畸恋 男子和女友父亲竟是…..</a></li>
 <li><a href="/lifebaike/20220621/1748402.md">“党的最大机密 都在报纸上”</a></li>
 <li><a href="/topimagenews/20220622/1748531.md">全舰恐须点蜡烛 福建号的世界第一有多“水”</a></li>
 <li><a href="/topimagenews/20220622/1748687.md">中组部发重要评论进行表态 官员们对习近平或早已想好对策【阿波罗网报道】</a></li>
 <li><a href="/worldnews/20220622/1748562.md">只因带了“处方药” 女子过海关被捕面临死刑</a></li>
 <li><a href="/comments/20220622/1748556.md">李鸿忠连任天津“一把手” 习近平布局功亏一篑？</a></li>
-<li><a href="/topimagenews/20220621/1748387.md">恐遭重判33年！洗米华案9月开庭 港媒曝光涉案金额高达8,000亿港币</a></li>
 <li><a href="/ssgc/20220621/1748442.md">哈国总统语出惊人 让普京习近平都尴尬</a></li>
+<li><a href="/topimagenews/20220621/1748387.md">恐遭重判33年！洗米华案9月开庭 港媒曝光涉案金额高达8,000亿港币</a></li>
 <li><a href="/cnnews/20220622/1748649.md">湖南KTV男模陪侍服务猖獗 致多个家庭离散</a></li>
 <li><a href="/topimagenews/20220622/1748538.md">美中争霸内幕文件曝光 华府：我们又被他玩弄了</a></li>
 <li><a href="/funmedia/20220622/1748625.md">人品差的女人，开口闭口都是这4句话，希望你没说过…</a></li>
-<li><a href="/cbnews/20220621/1748373.md">中国南宁城管与女摊贩全武行“2打2”</a></li>
 <li><a href="/cbnews/20220622/1748561.md">中共甩出卫星照片 揭露美军对中共最新部署</a></li>
+<li><a href="/comments/20220622/1748726.md">习路线伤到“奶酪” 政治局常委忍无可忍</a></li>
 <li><a href="/cnnews/20220622/1748563.md">57岁华女担保42岁丈夫移民加国被拒，结局反转了</a></li>
 <li><a href="/yule/20220622/1748573.md">中共官方称刘亦菲是真正的中华儿女全网傻眼</a></li>
 <li><a href="/cnnews/20220621/1748396.md">房子卖不出去怎么办?中国建商连小麦、大蒜都收</a></li>
 <li><a href="/cnnews/20220621/1748432.md">唐山打人案4女遭痛殴竟仅被官方列“轻伤” 警接报后28分钟才抵现场</a></li>
-<li><a href="/cnnews/20220622/1748570.md">华人大哥网上炫富 美金摆成扇面 结果想不到</a></li>
+<li><a href="/topimagenews/20220622/1748520.md">加息潮戳破楼市泡沫 “硬着陆”冲击全球经济</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220622/1748808.md" target="_blank">乔州弗州和阿州中期选举初选结果出炉</a></li>
 <li><a href="/comments/20220622/1748772.md" target="_blank">反俄大利于中共的战略后果正在全面浮现 — 曾节明</a></li>
 <li><a href="/comments/20220622/1748763.md" target="_blank">无药可救 压垮中共的最后一击来了？</a></li>
 <li><a href="/comments/20220622/1748749.md" target="_blank">李燕铭：二十大前北戴河会议大战内幕（三） 北戴河大战习近平擒贼先擒王？江泽民老巢上海与老家江苏逾十高官被密集查处撤职 习近平清洗目标重点指向江泽民 震慑江曾政变反习势力 习近平决战江曾（十八） 习近平清洗江泽民老巢（十七） 江泽民江苏帮政变谋刺习近平 习绝地反击（二四）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220622/1748693.md" target="_blank">饶桐语:做餐饮几十年，今年比过去都难</a></li>
 <li><a href="/comments/20220622/1748690.md" target="_blank">【文逸飞专栏】毕竟西湖六月中：荷花</a></li>
 <li><a href="/comments/20220622/1748689.md" target="_blank">乌东爆发激战 泽连斯基批俄加剧非洲粮价飙涨</a></li>
-<li><a href="/comments/20220622/1748683.md" target="_blank">《三国演义》第九十回 驱驱巨兽六破蛮兵 烧藤甲七擒孟获</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
 <li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 
 </ul>
 </div>
