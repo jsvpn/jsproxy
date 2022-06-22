@@ -14,13 +14,13 @@
 <li><a href="/cnnews/20220622/1748649.md">湖南KTV男模陪侍服务猖獗 致多个家庭离散</a></li>
 <li><a href="/comments/20220622/1748726.md">习路线伤到“奶酪” 政治局常委忍无可忍</a></li>
 <li><a href="/topimagenews/20220622/1748538.md">美中争霸内幕文件曝光 华府：我们又被他玩弄了</a></li>
-<li><a href="/bannedvideo/20220622/1748760.md">中共大使惹祸了！被俄媒大曝猛料；中共官场保命战太猛！中纪委名单来了；【希望之声TV-国际风云】</a></li>
 <li><a href="/funmedia/20220622/1748625.md">人品差的女人，开口闭口都是这4句话，希望你没说过…</a></li>
+<li><a href="/bannedvideo/20220622/1748760.md">中共大使惹祸了！被俄媒大曝猛料；中共官场保命战太猛！中纪委名单来了；【希望之声TV-国际风云】</a></li>
 <li><a href="/ssgc/20220622/1748740.md">〖兲朝浮世绘〗难道网警们都知道熊指的是谁了？</a></li>
 <li><a href="/yule/20220622/1748573.md">中共官方称刘亦菲是真正的中华儿女全网傻眼</a></li>
 <li><a href="/cbnews/20220622/1748561.md">中共甩出卫星照片 揭露美军对中共最新部署</a></li>
-<li><a href="/cnnews/20220622/1748563.md">57岁华女担保42岁丈夫移民加国被拒，结局反转了</a></li>
 <li><a href="/cbnews/20220622/1748704.md">天亮时分：习近平怼自己也加速，遭谭德赛张文宏合力打脸；马斯克上了习近平黑名单；唐山事件政府通告，已无人相信（政论天下第728集 20220621）</a></li>
+<li><a href="/cnnews/20220622/1748563.md">57岁华女担保42岁丈夫移民加国被拒，结局反转了</a></li>
 <li><a href="/topimagenews/20220622/1748520.md">加息潮戳破楼市泡沫 “硬着陆”冲击全球经济</a></li>
 <li><a href="/cnnews/20220622/1748570.md">华人大哥网上炫富 美金摆成扇面 结果想不到</a></li>
 <li><a href="/comments/20220622/1748708.md">杜政：二十大前官媒对习仲勋习近平父子玩高级黑</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220622/1748896.md" target="_blank">秦晋：认识西藏问题—从朦胧的源头到比较清晰的现今</a></li>
 <li><a href="/comments/20220622/1748873.md" target="_blank">【梁京评论】普京的聪明误与傻男儿习近平——俄乌战争与中国危机（上）</a></li>
 <li><a href="/comments/20220622/1748869.md" target="_blank">江西无预警泄洪冲走人车 河南高温干旱等雨播种</a></li>
 <li><a href="/comments/20220622/1748868.md" target="_blank">与孩子的相处中 学会把自己当外人</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220622/1748726.md" target="_blank">习路线伤到“奶酪” 政治局常委忍无可忍</a></li>
 <li><a href="/comments/20220622/1748725.md" target="_blank">夏闻：美国养肥了中共又被砸锅</a></li>
 <li><a href="/comments/20220622/1748724.md" target="_blank">【小说连载】日初天子 九、永远无法得到的人(2)</a></li>
-<li><a href="/comments/20220622/1748723.md" target="_blank">英国三十年最大铁路罢工 伦敦人通勤难</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
 <li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
 
 </ul>
 </div>
