@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220621/1748419.md">政治局会上军方出现异常  翡翠运动倒习？其中一句话或起关键作用</a></li>
 <li><a href="/bannedvideo/20220621/1748388.md">唐山打人案两股势力博弈……神秘录音精准“爆料”！官方通报服不服？“cc字幕”</a></li>
-<li><a href="/cnnews/20220621/1748341.md">老舍好色成性大搞婚外恋 被周恩来一封信诱回国踏上不归路</a></li>
 <li><a href="/bannedvideo/20220621/1748378.md">唐山被打女生们的名字；关于唐山，我错了，发布了不当言论​； 唐山女孩最后被打到这个巷子；民众就问一句话；能在唐山翻江倒海，这鱼到底有多大？；为唐山被打女孩发声 收到恐吓私信</a></li>
 <li><a href="/topimagenews/20220622/1748567.md">天津发生大爆炸 伤23人 现场一片狼藉【阿波罗网报道】</a></li>
 <li><a href="/yule/20220621/1748380.md">冯巩“女儿”长大了 她的老公大家很熟悉</a></li>
-<li><a href="/lifebaike/20220621/1748402.md">“党的最大机密 都在报纸上”</a></li>
 <li><a href="/cbnews/20220622/1748639.md">上海街头不伦三角畸恋 男子和女友父亲竟是…..</a></li>
 <li><a href="/topimagenews/20220622/1748531.md">全舰恐须点蜡烛 福建号的世界第一有多“水”</a></li>
+<li><a href="/lifebaike/20220621/1748402.md">“党的最大机密 都在报纸上”</a></li>
 <li><a href="/worldnews/20220622/1748562.md">只因带了“处方药” 女子过海关被捕面临死刑</a></li>
 <li><a href="/comments/20220622/1748556.md">李鸿忠连任天津“一把手” 习近平布局功亏一篑？</a></li>
-<li><a href="/topimagenews/20220621/1748387.md">恐遭重判33年！洗米华案9月开庭 港媒曝光涉案金额高达8,000亿港币</a></li>
 <li><a href="/topimagenews/20220622/1748687.md">中组部发重要评论进行表态 官员们对习近平或早已想好对策【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20220621/1748387.md">恐遭重判33年！洗米华案9月开庭 港媒曝光涉案金额高达8,000亿港币</a></li>
 <li><a href="/ssgc/20220621/1748442.md">哈国总统语出惊人 让普京习近平都尴尬</a></li>
 <li><a href="/cnnews/20220622/1748649.md">湖南KTV男模陪侍服务猖獗 致多个家庭离散</a></li>
 <li><a href="/topimagenews/20220621/1748346.md">取代悍马？ 特斯拉Cybertruck“军用版”亮相</a></li>
 <li><a href="/topimagenews/20220622/1748538.md">美中争霸内幕文件曝光 华府：我们又被他玩弄了</a></li>
-<li><a href="/cbnews/20220621/1748373.md">中国南宁城管与女摊贩全武行“2打2”</a></li>
 <li><a href="/funmedia/20220622/1748625.md">人品差的女人，开口闭口都是这4句话，希望你没说过…</a></li>
-<li><a href="/comments/20220621/1748333.md">政治局会议罕见提前 集体学习7人消失</a></li>
+<li><a href="/cbnews/20220621/1748373.md">中国南宁城管与女摊贩全武行“2打2”</a></li>
 <li><a href="/cbnews/20220622/1748561.md">中共甩出卫星照片 揭露美军对中共最新部署</a></li>
 <li><a href="/cnnews/20220621/1748432.md">唐山打人案4女遭痛殴竟仅被官方列“轻伤” 警接报后28分钟才抵现场</a></li>
+<li><a href="/yule/20220622/1748573.md">中共官方称刘亦菲是真正的中华儿女全网傻眼</a></li>
 <li><a href="/cnnews/20220622/1748563.md">57岁华女担保42岁丈夫移民加国被拒，结局反转了</a></li>
+<li><a href="/cnnews/20220621/1748396.md">房子卖不出去怎么办?中国建商连小麦、大蒜都收</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220622/1748772.md" target="_blank">反俄大利于中共的战略后果正在全面浮现 — 曾节明</a></li>
 <li><a href="/comments/20220622/1748763.md" target="_blank">无药可救 压垮中共的最后一击来了？</a></li>
 <li><a href="/comments/20220622/1748749.md" target="_blank">李燕铭：二十大前北戴河会议大战内幕（三） 北戴河大战习近平擒贼先擒王？江泽民老巢上海与老家江苏逾十高官被密集查处撤职 习近平清洗目标重点指向江泽民 震慑江曾政变反习势力 习近平决战江曾（十八） 习近平清洗江泽民老巢（十七） 江泽民江苏帮政变谋刺习近平 习绝地反击（二四）</a></li>
 <li><a href="/comments/20220622/1748745.md" target="_blank">横河:法国选举现黑马 打破了所有预测</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220622/1748690.md" target="_blank">【文逸飞专栏】毕竟西湖六月中：荷花</a></li>
 <li><a href="/comments/20220622/1748689.md" target="_blank">乌东爆发激战 泽连斯基批俄加剧非洲粮价飙涨</a></li>
 <li><a href="/comments/20220622/1748683.md" target="_blank">《三国演义》第九十回 驱驱巨兽六破蛮兵 烧藤甲七擒孟获</a></li>
-<li><a href="/comments/20220622/1748678.md" target="_blank">九问唐山：请公布四个被打女孩现状</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 <li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 
 </ul>
 </div>
