@@ -9,9 +9,8 @@
 <li><a href="/topimagenews/20220622/1748567.md">天津发生大爆炸 伤23人 现场一片狼藉【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220622/1748531.md">全舰恐须点蜡烛 福建号的世界第一有多“水”</a></li>
 <li><a href="/cbnews/20220622/1748639.md">上海街头不伦三角畸恋 男子和女友父亲竟是…..</a></li>
-<li><a href="/lifebaike/20220621/1748402.md">“党的最大机密 都在报纸上”</a></li>
-<li><a href="/topimagenews/20220622/1748687.md">中组部发重要评论进行表态 官员们对习近平或早已想好对策【阿波罗网报道】</a></li>
 <li><a href="/worldnews/20220622/1748562.md">只因带了“处方药” 女子过海关被捕面临死刑</a></li>
+<li><a href="/topimagenews/20220622/1748687.md">中组部发重要评论进行表态 官员们对习近平或早已想好对策【阿波罗网报道】</a></li>
 <li><a href="/comments/20220622/1748556.md">李鸿忠连任天津“一把手” 习近平布局功亏一篑？</a></li>
 <li><a href="/ssgc/20220621/1748442.md">哈国总统语出惊人 让普京习近平都尴尬</a></li>
 <li><a href="/cnnews/20220622/1748649.md">湖南KTV男模陪侍服务猖獗 致多个家庭离散</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/ssgc/20220622/1748740.md">〖兲朝浮世绘〗难道网警们都知道熊指的是谁了？</a></li>
 <li><a href="/bannedvideo/20220622/1748760.md">中共大使惹祸了！被俄媒大曝猛料；中共官场保命战太猛！中纪委名单来了；【希望之声TV-国际风云】</a></li>
 <li><a href="/funmedia/20220622/1748625.md">人品差的女人，开口闭口都是这4句话，希望你没说过…</a></li>
-<li><a href="/cbnews/20220622/1748561.md">中共甩出卫星照片 揭露美军对中共最新部署</a></li>
 <li><a href="/yule/20220622/1748573.md">中共官方称刘亦菲是真正的中华儿女全网傻眼</a></li>
+<li><a href="/cbnews/20220622/1748561.md">中共甩出卫星照片 揭露美军对中共最新部署</a></li>
 <li><a href="/cnnews/20220622/1748563.md">57岁华女担保42岁丈夫移民加国被拒，结局反转了</a></li>
 <li><a href="/cnnews/20220621/1748432.md">唐山打人案4女遭痛殴竟仅被官方列“轻伤” 警接报后28分钟才抵现场</a></li>
 <li><a href="/cnnews/20220622/1748570.md">华人大哥网上炫富 美金摆成扇面 结果想不到</a></li>
 <li><a href="/topimagenews/20220622/1748520.md">加息潮戳破楼市泡沫 “硬着陆”冲击全球经济</a></li>
 <li><a href="/bannedvideo/20220621/1748427.md">陈破空：罕见！北戴河摆出大阵仗，准备恶斗两个月！空气骤然紧张。中纪委和国家监委闹双胞，各自反习和挺习</a></li>
-<li><a href="/topimagenews/20220622/1748512.md">没有事能阻止我选2024！川普：拜登正将美带向世界大战</a></li>
+<li><a href="/ssgc/20220622/1748654.md">〖微博谈〗这是一种从没有过的悲凉</a></li>
+<li><a href="/cbnews/20220622/1748704.md">天亮时分：习近平怼自己也加速，遭谭德赛张文宏合力打脸；马斯克上了习近平黑名单；唐山事件政府通告，已无人相信（政论天下第728集 20220621）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
 <li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 
 </ul>
 </div>
