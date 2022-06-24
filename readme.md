@@ -10,24 +10,24 @@
 <li><a href="/cnnews/20220623/1749211.md">神奇的中国：严打恶意不买房的时代来了</a></li>
 <li><a href="/topimagenews/20220623/1749292.md">乌克兰战况不利 美与西方再送新武器 俄罗斯气爆</a></li>
 <li><a href="/cbnews/20220623/1749193.md">江峰：中共历史从未见：在任领袖习近平特使欧洲认错？中共高层与习及政策进行切割！肖建华上海开案绝非习对上海帮最后一击，而是最后投降！【江峰漫谈20220622第501期】</a></li>
-<li><a href="/cbnews/20220623/1749141.md">江苏街头暴力再现：6人狂殴1女 民众围观无人管</a></li>
 <li><a href="/cnnews/20220623/1749200.md">海外留学注意，中共境外学历认证又出新规</a></li>
-<li><a href="/topimagenews/20220623/1749276.md">北京又要不爽！欧盟通过全球第一个碳关税机制 中国商品出口成本倍增</a></li>
 <li><a href="/bannedvideo/20220623/1749323.md">陈破空：两桩大案夹击习家族！反习派逼宫习近平。洗米华拉垮习家军？王小洪濒危</a></li>
+<li><a href="/topimagenews/20220623/1749276.md">北京又要不爽！欧盟通过全球第一个碳关税机制 中国商品出口成本倍增</a></li>
 <li><a href="/comments/20220623/1749188.md">李克强河北考察 接连发布多项预警</a></li>
 <li><a href="/topimagenews/20220623/1749154.md">习普通话显示，中共的“游戏”玩不长</a></li>
 <li><a href="/headline/20220623/1749296.md">【中国社会】男子将46万存入「支付宝」取不出 客服：要等1083天</a></li>
 <li><a href="/cnnews/20220623/1749264.md">电池卡在中国港口 特斯拉严重亏损 马斯克：像巨大咆啸 那是烧钱的声音</a></li>
 <li><a href="/comments/20220624/1749396.md">习近平终将败给李克强？习已失去多数政治局常委支持 中共元老与现任常委推出李克强纠正习的错误 中南海谣言预言_536</a></li>
 <li><a href="/yule/20220623/1749241.md">影帝周润发吃早餐被偶遇,满头白发瘦成纸片人</a></li>
-<li><a href="/bannedvideo/20220623/1749140.md">唐山风向大转：秋後算帐开始了！赵立坚请家乡人偷着乐，罗翔老师怒了</a></li>
 <li><a href="/health/20220623/1749277.md">“两处一垂，阳气将灭”，指的是哪“两处”？到底在暗示什么呢？</a></li>
 <li><a href="/worldnews/20220623/1749228.md">普京断气太狠 欧洲最大经济体快完蛋 悲惨下场曝</a></li>
 <li><a href="/funmedia/20220623/1749208.md">上海女博士公布11条“逆天”择偶条件，惨遭群嘲：千万别高估自己</a></li>
 <li><a href="/health/20220623/1749299.md">到了这个年纪，人们将面临真正的“断崖式衰老”</a></li>
-<li><a href="/topimagenews/20220623/1749194.md">特斯拉禁入北戴河 矢板明夫：中共领导人天天提心吊胆</a></li>
 <li><a href="/cbnews/20220624/1749469.md">中国作家声明拒领俄罗斯文学奖 消息被封杀</a></li>
+<li><a href="/topimagenews/20220623/1749194.md">特斯拉禁入北戴河 矢板明夫：中共领导人天天提心吊胆</a></li>
 <li><a href="/topimagenews/20220623/1749156.md">曾因苏联失去10万人口、1/10领土 芬兰总司令：俄国敢来犯将尝苦头</a></li>
+<li><a href="/lifebaike/20220623/1749255.md">煮冻饺子，最忌水开下锅！牢记4个技巧，爽滑筋道，不开裂不粘连</a></li>
+<li><a href="/cbnews/20220623/1749238.md">习力挺普京:想堵别人路,最终只会堵死自己的路</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220624/1749536.md" target="_blank">【欺世大观】大师梁实秋讽“旗手”鲁迅</a></li>
+<li><a href="/comments/20220624/1749535.md" target="_blank">海涛：轻伤可能很重，严规可能有洞 打断6根肋骨也是“轻伤”</a></li>
+<li><a href="/comments/20220624/1749529.md" target="_blank">中共各地奇葩措施救市 “恶意不买房”被约谈</a></li>
+<li><a href="/comments/20220624/1749528.md" target="_blank">【桔梗的布言布语】倾听内心的声音</a></li>
 <li><a href="/comments/20220624/1749527.md" target="_blank">香港《立场》被指串谋发布煽动刊物案 官裁定公司代表缺席下继续审讯</a></li>
 <li><a href="/comments/20220624/1749522.md" target="_blank">宋国诚：美国能否保世界领导地位 取决于与中共“最后一场战役”</a></li>
 <li><a href="/comments/20220624/1749496.md" target="_blank">中国神秘女富豪挥5.6亿现金买地中海豪宅 疑为京东前董事</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20220623/1749314.md" target="_blank">【俄乌战火第120天】顿巴斯双城之战白热化 英相约翰逊：俄军恐耗尽资源无力推进</a></li>
 <li><a href="/comments/20220623/1749313.md" target="_blank">【未普评论】中共20大和美国中期选举</a></li>
 <li><a href="/comments/20220623/1749273.md" target="_blank">认识一味中药，别搞混了“祛湿消肿神器”——赤小豆VS红豆</a></li>
-<li><a href="/comments/20220623/1749272.md" target="_blank">别等口渴了才喝水！夏天补水有技巧</a></li>
-<li><a href="/comments/20220623/1749271.md" target="_blank">你家的空调，装在哪里？</a></li>
-<li><a href="/comments/20220623/1749270.md" target="_blank">红色、紫色食物要多吃</a></li>
-<li><a href="/comments/20220623/1749269.md" target="_blank">夏至，黄芪跟它是“两口子”,常泡水喝，养肝护肾</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 
 </ul>
 </div>
