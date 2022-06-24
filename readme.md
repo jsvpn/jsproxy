@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220623/1749125.md">齐刷刷！中共四大喉舌现罕见一幕！ 要干啥？【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220623/1749186.md">〖兲朝浮世绘〗吃草的盛世降临了</a></li>
 <li><a href="/bannedvideo/20220623/1749309.md">习一句话引爆全网 专栏作家：他的最佳时机来了；中共4年内不会攻台？</a></li>
 <li><a href="/cnnews/20220623/1749211.md">神奇的中国：严打恶意不买房的时代来了</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/bannedvideo/20220623/1749323.md">陈破空：两桩大案夹击习家族！反习派逼宫习近平。洗米华拉垮习家军？王小洪濒危</a></li>
 <li><a href="/comments/20220623/1749188.md">李克强河北考察 接连发布多项预警</a></li>
 <li><a href="/topimagenews/20220623/1749154.md">习普通话显示，中共的“游戏”玩不长</a></li>
-<li><a href="/cnnews/20220623/1749264.md">电池卡在中国港口 特斯拉严重亏损 马斯克：像巨大咆啸 那是烧钱的声音</a></li>
 <li><a href="/headline/20220623/1749296.md">【中国社会】男子将46万存入「支付宝」取不出 客服：要等1083天</a></li>
+<li><a href="/cnnews/20220623/1749264.md">电池卡在中国港口 特斯拉严重亏损 马斯克：像巨大咆啸 那是烧钱的声音</a></li>
 <li><a href="/comments/20220624/1749396.md">习近平终将败给李克强？习已失去多数政治局常委支持 中共元老与现任常委推出李克强纠正习的错误 中南海谣言预言_536</a></li>
 <li><a href="/yule/20220623/1749241.md">影帝周润发吃早餐被偶遇,满头白发瘦成纸片人</a></li>
-<li><a href="/health/20220623/1749277.md">“两处一垂，阳气将灭”，指的是哪“两处”？到底在暗示什么呢？</a></li>
 <li><a href="/bannedvideo/20220623/1749140.md">唐山风向大转：秋後算帐开始了！赵立坚请家乡人偷着乐，罗翔老师怒了</a></li>
+<li><a href="/health/20220623/1749277.md">“两处一垂，阳气将灭”，指的是哪“两处”？到底在暗示什么呢？</a></li>
 <li><a href="/worldnews/20220623/1749228.md">普京断气太狠 欧洲最大经济体快完蛋 悲惨下场曝</a></li>
 <li><a href="/funmedia/20220623/1749208.md">上海女博士公布11条“逆天”择偶条件，惨遭群嘲：千万别高估自己</a></li>
 <li><a href="/health/20220623/1749299.md">到了这个年纪，人们将面临真正的“断崖式衰老”</a></li>
 <li><a href="/topimagenews/20220623/1749194.md">特斯拉禁入北戴河 矢板明夫：中共领导人天天提心吊胆</a></li>
-<li><a href="/lifebaike/20220623/1749255.md">煮冻饺子，最忌水开下锅！牢记4个技巧，爽滑筋道，不开裂不粘连</a></li>
+<li><a href="/cbnews/20220624/1749469.md">中国作家声明拒领俄罗斯文学奖 消息被封杀</a></li>
+<li><a href="/topimagenews/20220623/1749156.md">曾因苏联失去10万人口、1/10领土 芬兰总司令：俄国敢来犯将尝苦头</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220624/1749527.md" target="_blank">香港《立场》被指串谋发布煽动刊物案 官裁定公司代表缺席下继续审讯</a></li>
+<li><a href="/comments/20220624/1749522.md" target="_blank">宋国诚：美国能否保世界领导地位 取决于与中共“最后一场战役”</a></li>
 <li><a href="/comments/20220624/1749496.md" target="_blank">中国神秘女富豪挥5.6亿现金买地中海豪宅 疑为京东前董事</a></li>
 <li><a href="/comments/20220624/1749495.md" target="_blank">联合国数据: 73万中国人海外寻求政治庇护</a></li>
 <li><a href="/comments/20220624/1749470.md" target="_blank">李燕铭：中共末日之粮食危机（二） 习近平多次强调粮食安全 李克强十万人大会后放狠话 三粮食高官八天内被密集查处 中储粮副总经理徐宝义被双开 罪名罕见</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220623/1749271.md" target="_blank">你家的空调，装在哪里？</a></li>
 <li><a href="/comments/20220623/1749270.md" target="_blank">红色、紫色食物要多吃</a></li>
 <li><a href="/comments/20220623/1749269.md" target="_blank">夏至，黄芪跟它是“两口子”,常泡水喝，养肝护肾</a></li>
-<li><a href="/comments/20220623/1749268.md" target="_blank">亚洲沦陷！新加坡通报确诊首例猴痘</a></li>
-<li><a href="/comments/20220623/1749267.md" target="_blank">夏至的“至”，原来不是到来的意思，而是……</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
 <li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 <li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 
 </ul>
 </div>
