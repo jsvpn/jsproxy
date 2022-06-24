@@ -5,15 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/bannedvideo/20220624/1749479.md">🔥习中央新决定引爆网络！军代表又回来了？揭秘中共最高领导层之间隐私；李克强为何风险很高？美部署超级雷达！中俄高超音速导弹难逃踪迹；普京快成孤家寡人；谷歌工程师爆机器人有灵性，马斯克说【阿波罗网HS】</a></li>
 <li><a href="/baitai/20220624/1749520.md">《中国网民：对二十大常委与政治局委员的预测》</a></li>
 <li><a href="/cbnews/20220624/1749647.md">广东梅州婚礼上，新娘9名“前男友”拉横幅祝贺，结果…</a></li>
 <li><a href="/topimagenews/20220624/1749601.md">又一国“爆雷”！经济崩溃，全民愤怒：滚出去…</a></li>
-<li><a href="/health/20220624/1749476.md">判处死刑立即执行我的北大同学</a></li>
 <li><a href="/topimagenews/20220624/1749577.md">习近平亲信何立峰再获新身份！袁红冰曝出中宣部内情【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220624/1749488.md">🔥李佳琦事件闹大了！后果太严重了；有种打我！断俄铁、公路，此国不信普京敢动武；不看不知道！唐山到底有多恐怖？！习力挺普京侵乌后首次国际露面；芬兰总司令：俄来犯会尝苦头</a></li>
-<li><a href="/topimagenews/20220624/1749636.md">文革正在回归？中共一决定引爆网络【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220624/1749524.md">痛骂普京后，俄罗斯嫩模陈尸行李箱，他伴尸3天</a></li>
+<li><a href="/topimagenews/20220624/1749636.md">文革正在回归？中共一决定引爆网络【阿波罗网报道】</a></li>
 <li><a href="/headline/20220624/1749717.md">港传习近平旧部王小洪将任中国公安部长 紧握“刀把子”</a></li>
 <li><a href="/ssgc/20220624/1749620.md">〖兲朝浮世绘〗又一个党妈的卫生巾被抛弃了</a></li>
 <li><a href="/topimagenews/20220624/1749743.md">一架直升飞机降落上海一家医院 疑运送人体器官 杀了谁来救谁？【阿波罗网报道】</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/comments/20220624/1749748.md">2022年 末日预言 正在兑现！《圣经》弥赛亚正在带人类，进入新世界。《以西结书》早有预示⋯俄罗斯 非干不可的一件事，所有预言，都指向今天！</a></li>
 <li><a href="/bannedvideo/20220624/1749489.md">林郑即将退休，面临尴尬处境，在港遭人恨 在英遭制裁 在京没靠山【每日头条】</a></li>
 <li><a href="/cnnews/20220624/1749638.md">突发：中国母子在伦敦被刺身亡，儿子只有5岁</a></li>
+<li><a href="/cnnews/20220624/1749693.md">我们都被“缺钱”的朴树骗了</a></li>
+<li><a href="/health/20220624/1749675.md">糖尿病的“源头”已揭晓，别冤枉甜食了，提醒：这四种食物请撤离</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 <li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 
 </ul>
 </div>
