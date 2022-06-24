@@ -7,10 +7,10 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220624/1749479.md">🔥习中央新决定引爆网络！军代表又回来了？揭秘中共最高领导层之间隐私；李克强为何风险很高？美部署超级雷达！中俄高超音速导弹难逃踪迹；普京快成孤家寡人；谷歌工程师爆机器人有灵性，马斯克说【阿波罗网HS】</a></li>
 <li><a href="/baitai/20220624/1749520.md">《中国网民：对二十大常委与政治局委员的预测》</a></li>
-<li><a href="/cbnews/20220624/1749469.md">中国作家声明拒领俄罗斯文学奖 消息被封杀</a></li>
 <li><a href="/topimagenews/20220624/1749601.md">又一国“爆雷”！经济崩溃，全民愤怒：滚出去…</a></li>
-<li><a href="/health/20220624/1749476.md">判处死刑立即执行我的北大同学</a></li>
+<li><a href="/cbnews/20220624/1749469.md">中国作家声明拒领俄罗斯文学奖 消息被封杀</a></li>
 <li><a href="/cbnews/20220624/1749647.md">广东梅州婚礼上，新娘9名“前男友”拉横幅祝贺，结果…</a></li>
+<li><a href="/health/20220624/1749476.md">判处死刑立即执行我的北大同学</a></li>
 <li><a href="/topimagenews/20220624/1749577.md">习近平亲信何立峰再获新身份！袁红冰曝出中宣部内情【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220624/1749441.md">失踪半年 董卿丈夫密春雷深夜传新消息【红朝禁闻】</a></li>
 <li><a href="/bannedvideo/20220624/1749488.md">🔥李佳琦事件闹大了！后果太严重了；有种打我！断俄铁、公路，此国不信普京敢动武；不看不知道！唐山到底有多恐怖？！习力挺普京侵乌后首次国际露面；芬兰总司令：俄来犯会尝苦头</a></li>
@@ -18,16 +18,16 @@
 <li><a href="/topimagenews/20220624/1749636.md">文革正在回归？中共一决定引爆网络【阿波罗网报道】</a></li>
 <li><a href="/headline/20220624/1749717.md">港传习近平旧部王小洪将任中国公安部长 紧握“刀把子”</a></li>
 <li><a href="/ssgc/20220624/1749620.md">〖兲朝浮世绘〗又一个党妈的卫生巾被抛弃了</a></li>
+<li><a href="/topimagenews/20220624/1749743.md">一架直升飞机降落上海一家医院 疑运送人体器官 杀了谁来救谁？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220624/1749467.md">数百名硕博士的钱去哪了？“属实是把高学历的羊骗进来杀”</a></li>
 <li><a href="/topimagenews/20220624/1749481.md">习近平抱团取暖要先看他脸色？金砖五国貌合神离</a></li>
-<li><a href="/topimagenews/20220624/1749743.md">一架直升飞机降落上海一家医院 疑运送人体器官 杀了谁来救谁？【阿波罗网报道】</a></li>
 <li><a href="/headline/20220624/1749625.md">中国经济崩盘会让习近平倒台吗？</a></li>
 <li><a href="/cbnews/20220624/1749661.md">3岁男童17楼坠落续：监控拍到坠楼前惊人一幕</a></li>
-<li><a href="/cnnews/20220624/1749437.md">日天文专家曝罕见画面 网友叹：活不到下次</a></li>
+<li><a href="/bannedvideo/20220624/1749752.md">习丢了最重要一张牌？他靠两个字逆转大局；学者：接下来恐出大事 中国银行也不妙</a></li>
 <li><a href="/cbnews/20220624/1749662.md">北京银行职员携200万潜逃20年 北京买三套房 结果…</a></li>
 <li><a href="/topimagenews/20220624/1749578.md">【微博精粹】廊坊新闻直播间 54万人只问一句话</a></li>
-<li><a href="/bannedvideo/20220624/1749752.md">习丢了最重要一张牌？他靠两个字逆转大局；学者：接下来恐出大事 中国银行也不妙</a></li>
 <li><a href="/bannedvideo/20220624/1749653.md">唐山烧烤店打女人事件，又有了新问题；唐山张荣，封口费5000万【 #大陆民生 】</a></li>
+<li><a href="/baitai/20220624/1749621.md">中共党内高层政治生态的近期变化</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220625/1749869.md" target="_blank">李燕铭：二十大前北戴河会议大战内幕（四） 习亲信王小洪接替赵克志任公安部长 同时升任中央政法委副书记 介入港澳事务 王小洪升职打破一惯例留下一悬念 习近平掌控刀把子备战北戴河会议与二十大 习家军两大员架空郭声琨 习近平清洗刀把子严防江曾二十大政变（三七）</a></li>
+<li><a href="/comments/20220625/1749866.md" target="_blank">最新调查：哪个汽车品牌最美国本土化生产？结果意外</a></li>
 <li><a href="/comments/20220625/1749858.md" target="_blank">广东英德再次决堤 灾民哭诉：被淹28年从未获救助</a></li>
 <li><a href="/comments/20220625/1749846.md" target="_blank">罕见天文奇观五星连珠6月24日再次亮相</a></li>
 <li><a href="/comments/20220625/1749831.md" target="_blank">马云要出事？现身西班牙 开2亿美元豪华游艇 打高尔夫</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220624/1749655.md" target="_blank">终极对决上演？俄罗斯无视警告，坚定拿它开刀</a></li>
 <li><a href="/comments/20220624/1749626.md" target="_blank">【独家重磅】李燕铭：习江“核战”内幕（五） 习近平不寻常考察四川后 中共核武基地高官落马 刘鹤考察中共核武基地 披露习近平多次作出重要指示 习近平清洗四川帮（六）</a></li>
 <li><a href="/comments/20220624/1749622.md" target="_blank">77年一遇的“七星连珠”天象引热议：改朝换代之兆</a></li>
-<li><a href="/comments/20220624/1749619.md" target="_blank">奥地利童话小镇因斯布鲁克 一个适合所有人旅游的地方</a></li>
-<li><a href="/comments/20220624/1749600.md" target="_blank">〈莲花〉</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
 <li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
 
 </ul>
 </div>
