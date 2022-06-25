@@ -11,9 +11,8 @@
 <li><a href="/cbnews/20220625/1749964.md">20大前人事角力 李克强师弟被贬 团派提前谢幕？</a></li>
 <li><a href="/bannedvideo/20220625/1749898.md">传中央警卫局有变 习被迫把安危交托一心腹？李克强为胡春华备位？【红朝禁闻】</a></li>
 <li><a href="/bannedvideo/20220625/1749948.md">文昭：公安部长换人、北戴河会议提前开？习近平连任或功亏一篑，枪杆子、刀把子也保不了？</a></li>
-<li><a href="/topimagenews/20220624/1749798.md">马云被目击现身西班牙打球 2亿美元超级豪华游艇停靠当地海岸边</a></li>
-<li><a href="/topimagenews/20220625/1749992.md">大反转！习近平特使到处磕头？德国外交官这样说...【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220625/1750016.md">不仅是公安部长 王小洪已任中央政法委副书记</a></li>
+<li><a href="/topimagenews/20220625/1749992.md">大反转！习近平特使到处磕头？德国外交官这样说...【阿波罗网报道】</a></li>
 <li><a href="/finance/20220625/1749860.md">中国政府真的没钱了？！他看出这些端倪…</a></li>
 <li><a href="/cbnews/20220625/1750085.md">习近平心腹高调宣布：我们打赢了大上海保卫战</a></li>
 <li><a href="/topimagenews/20220625/1750135.md">38岁陆女“第一次带男友回家” 下幕竟让全家人惊呆…</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/cbnews/20220625/1750071.md">习近平攥紧“刀把子” 旧部同日任2要职 敲打赵乐际 【阿波罗网报导】</a></li>
 <li><a href="/cbnews/20220625/1749907.md">周小平称美国是死地 引来网民辛辣嘲讽</a></li>
 <li><a href="/cbnews/20220625/1749836.md">正妹结婚“前男友们”拉红布条祝贺！ 网友眼尖：口味非常专一</a></li>
+<li><a href="/bannedvideo/20220625/1750081.md">突然改口！说去香港又要变挂，习近平有啥怕心？暗算党魁有先例，香港政敌也太多；港警开始戒备，北京高官或七一造访；王小洪当上部长，何立峰带头舔习；保定狂风；刘强东要跑？传意大利买豪宅｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/yule/20220625/1749952.md">骗我们多少年穿帮镜头：第1张笑喷了</a></li>
+<li><a href="/comments/20220625/1749869.md">李燕铭：二十大前北戴河会议大战内幕（四） 习亲信王小洪接替赵克志任公安部长 同时升任中央政法委副书记 介入港澳事务 王小洪升职打破一惯例留下一悬念 习近平掌控刀把子备战北戴河会议与二十大 习家军两大员架空郭声琨 习近平清洗刀把子严防江曾二十大政变（三七）</a></li>
 <li><a href="/topimagenews/20220625/1750049.md">穷国被一带一路榨干没钱还贷款 美学者：中共掉入自己挖的债务陷阱</a></li>
 <li><a href="/bannedvideo/20220625/1749913.md">习近平亲信王小洪掌握“刀把子”/中共20大波澜不惊权斗恐无悬念</a></li>
-<li><a href="/comments/20220625/1749869.md">李燕铭：二十大前北戴河会议大战内幕（四） 习亲信王小洪接替赵克志任公安部长 同时升任中央政法委副书记 介入港澳事务 王小洪升职打破一惯例留下一悬念 习近平掌控刀把子备战北戴河会议与二十大 习家军两大员架空郭声琨 习近平清洗刀把子严防江曾二十大政变（三七）</a></li>
 <li><a href="/worldnews/usa/20220624/1749819.md">“北约直逼家门”，中国的主要邻居也都悄悄抄家伙，为什么？</a></li>
-<li><a href="/bannedvideo/20220625/1750081.md">突然改口！说去香港又要变挂，习近平有啥怕心？暗算党魁有先例，香港政敌也太多；港警开始戒备，北京高官或七一造访；王小洪当上部长，何立峰带头舔习；保定狂风；刘强东要跑？传意大利买豪宅｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20220625/1750074.md">习近平攥紧“刀把子” 旧部同日任2要职 赵乐际危矣 【阿波罗网报导】</a></li>
+<li><a href="/yule/20220625/1750061.md">59岁梁朝伟暂居日本！出席时装秀头发花白，与刘嘉玲分隔两地数月</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220625/1750179.md" target="_blank">夏季出游 做好防护 警惕蜱虫咬伤</a></li>
 <li><a href="/comments/20220625/1750174.md" target="_blank">【俄乌战火第122天】乌克兰排雷恐花至少10年 联合国警告全球将陷入粮食灾难</a></li>
 <li><a href="/comments/20220625/1750166.md" target="_blank">从古代交响乐 看音乐净化人心的治愈作用</a></li>
 <li><a href="/comments/20220625/1750114.md" target="_blank">半夜频繁性出现口干舌燥？小心是这5种疾病发出的信号</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220625/1750024.md" target="_blank">滕彪：谁是许志永？</a></li>
 <li><a href="/comments/20220625/1750002.md" target="_blank">汤名晖:中国航母从未对外开火 却敢说“战绩彪炳”</a></li>
 <li><a href="/comments/20220625/1750001.md" target="_blank">杨乃悟：你们怎么都在同情坏人</a></li>
-<li><a href="/comments/20220625/1749988.md" target="_blank">【独家重磅】李燕铭：二十大高层人事大战（三五） 习家军何立峰亲信丛亮接掌国家粮储局 丛亮成为习阵营政治新星 三重政治背景非同一般 粮食系统高官密集落马 中储粮四高官同日被查处 中共末日之粮食危机（三）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
 <li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 
 </ul>
 </div>
