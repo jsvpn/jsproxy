@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20220625/1749964.md">20大前人事角力 李克强师弟被贬 团派提前谢幕？</a></li>
 <li><a href="/bannedvideo/20220625/1749948.md">文昭：公安部长换人、北戴河会议提前开？习近平连任或功亏一篑，枪杆子、刀把子也保不了？</a></li>
-<li><a href="/cbnews/20220625/1750016.md">不仅是公安部长 王小洪已任中央政法委副书记</a></li>
 <li><a href="/topimagenews/20220625/1750135.md">38岁陆女“第一次带男友回家” 下幕竟让全家人惊呆…</a></li>
+<li><a href="/cbnews/20220625/1750016.md">不仅是公安部长 王小洪已任中央政法委副书记</a></li>
 <li><a href="/topimagenews/20220625/1749992.md">大反转！习近平特使到处磕头？德国外交官这样说...【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220625/1750053.md">〖兲朝浮世绘〗习已经顾不上（控制不住）马云了？</a></li>
-<li><a href="/cbnews/20220625/1750085.md">习近平心腹高调宣布：我们打赢了大上海保卫战</a></li>
 <li><a href="/topimagenews/20220625/1750185.md">罕见用词！习近平十二字“指示”曝光！【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20220625/1750085.md">习近平心腹高调宣布：我们打赢了大上海保卫战</a></li>
 <li><a href="/bannedvideo/20220625/1750158.md">陈破空：突然，习派抢下公安部长！即将发动政变？习近平连任稳了？其实另有玄机！任免七名部长，习李打成平手</a></li>
 <li><a href="/bannedvideo/20220625/1750169.md">习另有目的 他在公安部外有一劲敌 北戴河或有异常；神秘女富豪突然火了【两岸要闻】</a></li>
 <li><a href="/cbnews/20220625/1750071.md">习近平攥紧“刀把子” 旧部同日任2要职 敲打赵乐际 【阿波罗网报导】</a></li>
 <li><a href="/bannedvideo/20220625/1750081.md">突然改口！说去香港又要变挂，习近平有啥怕心？暗算党魁有先例，香港政敌也太多；港警开始戒备，北京高官或七一造访；王小洪当上部长，何立峰带头舔习；保定狂风；刘强东要跑？传意大利买豪宅｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20220625/1750049.md">穷国被一带一路榨干没钱还贷款 美学者：中共掉入自己挖的债务陷阱</a></li>
 <li><a href="/bannedvideo/20220625/1750126.md">亲信王小洪升任公安部长，但习近平远未掌握刀把子！另三战狼酷吏降职，内斗血雨腥风即将开始！ （一平论政2022/6/24)</a></li>
-<li><a href="/yule/20220625/1749952.md">骗我们多少年穿帮镜头：第1张笑喷了</a></li>
 <li><a href="/topimagenews/20220625/1750141.md">俄资源消耗殆尽 西方军情专家：乌克兰战局将停顿僵持</a></li>
+<li><a href="/yule/20220625/1749952.md">骗我们多少年穿帮镜头：第1张笑喷了</a></li>
 <li><a href="/cnnews/20220625/1750074.md">习近平攥紧“刀把子” 旧部同日任2要职 赵乐际危矣 【阿波罗网报导】</a></li>
 <li><a href="/comments/20220625/1750103.md">广西“老虎”出狱后大办寿宴 多名贪官到场庆祝</a></li>
 <li><a href="/yule/20220625/1750061.md">59岁梁朝伟暂居日本！出席时装秀头发花白，与刘嘉玲分隔两地数月</a></li>
-<li><a href="/bannedvideo/20220625/1749936.md">🔥反习挺习，中央中纪委分裂；谁能扳倒习近平？政治局背后顶枪？中国经济崩盘会让习倒台吗？刘强东什么人？神秘女砸近6亿现金买下地中海顶级豪宅；惊曝与普京密切前高官遭枪杀</a></li>
 <li><a href="/headline/20220625/1750164.md">新华社：习近平将出席七一 本尊抑视像惹猜疑</a></li>
 <li><a href="/bannedvideo/20220625/1749963.md">🔥🔥曝光“唐山打人事件”真正的黑手❗唐山烧烤店老板被失踪❓❗</a></li>
 <li><a href="/bannedvideo/20220625/1750099.md">失传百年后重现人间的预言，重现紫薇圣人的秘密</a></li>
+<li><a href="/headline/20220625/1750172.md">刘强东减持京东大套现 台媒疑是20大前备逃</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220626/1750266.md" target="_blank">俄军最后一支精锐部队调往俄乌战场，说明3点</a></li>
+<li><a href="/topimagenews/20220626/1750265.md" target="_blank">中共政坛明星出局？</a></li>
 <li><a href="/topimagenews/20220626/1750256.md" target="_blank">没有最离谱只有更离谱！存款凭空消失 贷款也能凭空降临</a></li>
 <li><a href="/topimagenews/20220626/1750252.md" target="_blank">网传丹东“倒地哥”是假警察，真实身份被扒出？</a></li>
 <li><a href="/topimagenews/20220626/1750251.md" target="_blank">普京正在进行一场强大而相当成功的秘密动员运动</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20220624/1749636.md" target="_blank">文革正在回归？中共一决定引爆网络【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220624/1749601.md" target="_blank">又一国“爆雷”！经济崩溃，全民愤怒：滚出去…</a></li>
 <li><a href="/topimagenews/20220624/1749599.md" target="_blank">中文社媒热传：让外国看看！丹东70岁老人声泪控诉视频曝光</a></li>
-<li><a href="/topimagenews/20220624/1749597.md" target="_blank">“俄军将会感到非常火热”！美国海马斯火箭运抵乌克兰…</a></li>
-<li><a href="/topimagenews/20220624/1749578.md" target="_blank">【微博精粹】廊坊新闻直播间 54万人只问一句话</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 <li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 
 </ul>
 </div>
