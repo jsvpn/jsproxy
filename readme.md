@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20220625/1749964.md">20大前人事角力 李克强师弟被贬 团派提前谢幕？</a></li>
-<li><a href="/bannedvideo/20220625/1749948.md">文昭：公安部长换人、北戴河会议提前开？习近平连任或功亏一篑，枪杆子、刀把子也保不了？</a></li>
 <li><a href="/topimagenews/20220625/1750135.md">38岁陆女“第一次带男友回家” 下幕竟让全家人惊呆…</a></li>
 <li><a href="/cbnews/20220625/1750016.md">不仅是公安部长 王小洪已任中央政法委副书记</a></li>
 <li><a href="/topimagenews/20220625/1749992.md">大反转！习近平特使到处磕头？德国外交官这样说...【阿波罗网报道】</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/bannedvideo/20220625/1750081.md">突然改口！说去香港又要变挂，习近平有啥怕心？暗算党魁有先例，香港政敌也太多；港警开始戒备，北京高官或七一造访；王小洪当上部长，何立峰带头舔习；保定狂风；刘强东要跑？传意大利买豪宅｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20220625/1750049.md">穷国被一带一路榨干没钱还贷款 美学者：中共掉入自己挖的债务陷阱</a></li>
 <li><a href="/bannedvideo/20220625/1750126.md">亲信王小洪升任公安部长，但习近平远未掌握刀把子！另三战狼酷吏降职，内斗血雨腥风即将开始！ （一平论政2022/6/24)</a></li>
-<li><a href="/yule/20220625/1749952.md">骗我们多少年穿帮镜头：第1张笑喷了</a></li>
 <li><a href="/topimagenews/20220625/1750141.md">俄资源消耗殆尽 西方军情专家：乌克兰战局将停顿僵持</a></li>
-<li><a href="/cnnews/20220625/1750074.md">习近平攥紧“刀把子” 旧部同日任2要职 赵乐际危矣 【阿波罗网报导】</a></li>
 <li><a href="/comments/20220625/1750103.md">广西“老虎”出狱后大办寿宴 多名贪官到场庆祝</a></li>
+<li><a href="/cnnews/20220625/1750074.md">习近平攥紧“刀把子” 旧部同日任2要职 赵乐际危矣 【阿波罗网报导】</a></li>
 <li><a href="/yule/20220625/1750061.md">59岁梁朝伟暂居日本！出席时装秀头发花白，与刘嘉玲分隔两地数月</a></li>
 <li><a href="/headline/20220625/1750164.md">新华社：习近平将出席七一 本尊抑视像惹猜疑</a></li>
-<li><a href="/bannedvideo/20220625/1749963.md">🔥🔥曝光“唐山打人事件”真正的黑手❗唐山烧烤店老板被失踪❓❗</a></li>
+<li><a href="/cbnews/20220626/1750219.md">刘强东套现66亿上热搜 与神秘女富豪关系曝光</a></li>
 <li><a href="/bannedvideo/20220625/1750099.md">失传百年后重现人间的预言，重现紫薇圣人的秘密</a></li>
 <li><a href="/headline/20220625/1750172.md">刘强东减持京东大套现 台媒疑是20大前备逃</a></li>
+<li><a href="/bannedvideo/20220625/1749963.md">🔥🔥曝光“唐山打人事件”真正的黑手❗唐山烧烤店老板被失踪❓❗</a></li>
+<li><a href="/topimagenews/20220625/1750040.md">天理昭彰？俄军发射导弹掉头轰爆自家阵地</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220626/1750276.md" target="_blank">岳山：王小洪还有不寻常安排 或一年三级跳</a></li>
+<li><a href="/comments/20220626/1750275.md" target="_blank">丹东封控近两月 当地人：太惨了，纯粹人祸</a></li>
+<li><a href="/comments/20220626/1750274.md" target="_blank">周晓辉：上海书记高唱赞歌 引火烧向中南海</a></li>
+<li><a href="/comments/20220626/1750273.md" target="_blank">沈舟：舰载机仍是003航母的最大短板</a></li>
+<li><a href="/comments/20220626/1750272.md" target="_blank">王赫：河南红码事件与中共“数字极权”</a></li>
 <li><a href="/comments/20220626/1750246.md" target="_blank">菲律宾新总统就任前 菲方全面终止与北京南海油气开发合作协商</a></li>
 <li><a href="/comments/20220626/1750243.md" target="_blank">【独家重磅】李燕铭：二十大高层人事大战（三六） 王小洪卡红线晋升公安部长 火速展开“百日行动” 为二十大入局接掌政法委热身 公安部长接替人选或再破惯例 习近平清洗刀把子严防江曾二十大政变（三八）</a></li>
 <li><a href="/comments/20220626/1750242.md" target="_blank">夏秋最常见的五种食材 其营养价值被人们扔掉了 很可惜</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20220625/1750104.md" target="_blank">习近平确定七一访港 3万港警如临大敌</a></li>
 <li><a href="/comments/20220625/1750103.md" target="_blank">广西“老虎”出狱后大办寿宴 多名贪官到场庆祝</a></li>
 <li><a href="/comments/20220625/1750100.md" target="_blank">俄乌战争满四月 欧盟正式通过乌克兰成为候选国</a></li>
-<li><a href="/comments/20220625/1750097.md" target="_blank">这项转圈丢人的国耻表演 大清至死都没戒掉</a></li>
-<li><a href="/comments/20220625/1750096.md" target="_blank">创造干净网络环境 “干净世界”综合平台面世</a></li>
-<li><a href="/comments/20220625/1750095.md" target="_blank">燕郊大爆炸至少2死22伤 整条街变废墟</a></li>
-<li><a href="/comments/20220625/1750094.md" target="_blank">拜登出席G7北约峰会 白宫：国际聚焦中共威胁</a></li>
-<li><a href="/comments/20220625/1750077.md" target="_blank">李燕铭：全球军事围堵中共 中日战争阴云（十三） 美日高官密集出动 深化与菲律宾军事联盟与防卫合作 菲中关系突变 菲律宾连番抗议中共 终止菲中南海能源开发谈判</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 
 </ul>
 </div>
