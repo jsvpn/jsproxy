@@ -8,9 +8,9 @@
 <li><a href="/topimagenews/20220625/1750185.md">罕见用词！习近平十二字“指示”曝光！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220625/1750169.md">习另有目的 他在公安部外有一劲敌 北戴河或有异常；神秘女富豪突然火了【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220625/1750158.md">陈破空：突然，习派抢下公安部长！即将发动政变？习近平连任稳了？其实另有玄机！任免七名部长，习李打成平手</a></li>
+<li><a href="/topimagenews/20220626/1750250.md">令人诧异！彭博披露中共前所未有举动</a></li>
 <li><a href="/topimagenews/20220626/1750252.md">网传丹东“倒地哥”是假警察，真实身份被扒出？</a></li>
 <li><a href="/cbnews/20220626/1750219.md">刘强东套现66亿上热搜 与神秘女富豪关系曝光</a></li>
-<li><a href="/topimagenews/20220626/1750250.md">令人诧异！彭博披露中共前所未有举动</a></li>
 <li><a href="/topimagenews/20220626/1750265.md">中共政坛明星出局？</a></li>
 <li><a href="/headline/20220625/1750164.md">新华社：习近平将出席七一 本尊抑视像惹猜疑</a></li>
 <li><a href="/cnnews/20220626/1750312.md">刚拔智齿！浙江甜美女硕拍毕业照 仓鼠脸照疯传</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/bannedvideo/20220626/1750270.md">🔥🔥唐山受害女孩家属紧急求救：24小时被控❗目击者发声：黑衣女孩已遭不测❗</a></li>
 <li><a href="/yule/20220626/1750259.md">中国女星曝“北京十几年难见惨况”！悲喊：如何不食这恶果</a></li>
 <li><a href="/headline/20220625/1750172.md">刘强东减持京东大套现 台媒疑是20大前备逃</a></li>
+<li><a href="/cnnews/20220626/1750396.md">刘强东案听证会：女方出庭 大量证词曝光</a></li>
 <li><a href="/cnnews/20220625/1750188.md">7年前奔驰就有的功能，也许能救蔚来试车员的命</a></li>
 <li><a href="/comments/20220626/1750223.md">刚摔完！摄影师拍到拜登手中这东西 惊呆了美国人</a></li>
-<li><a href="/cnnews/20220626/1750396.md">刘强东案听证会：女方出庭 大量证词曝光</a></li>
-<li><a href="/bannedvideo/20220626/1750230.md">深圳福田全区封控，华强北部分商户暂停营业；撰写讨共檄文，河北前副教授被秘密抓捕；美最高法院世纪裁决，否认堕胎权是宪法权利；美英日纽澳建联盟，在太平洋地区对抗中共。【 #环球直击 】</a></li>
 <li><a href="/topimagenews/20220626/1750323.md">“全球冥灯”！新华社：习近平为全球发展指明方向</a></li>
+<li><a href="/bannedvideo/20220626/1750230.md">深圳福田全区封控，华强北部分商户暂停营业；撰写讨共檄文，河北前副教授被秘密抓捕；美最高法院世纪裁决，否认堕胎权是宪法权利；美英日纽澳建联盟，在太平洋地区对抗中共。【 #环球直击 】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
 
 </ul>
 </div>
