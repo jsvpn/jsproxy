@@ -8,15 +8,14 @@
 <li><a href="/cnnews/20220627/1750652.md">幼儿园女老师太漂亮，娃爹抢着接娃，娃妈们炸了</a></li>
 <li><a href="/topimagenews/20220627/1750593.md">习近平七一访港，“剑齿虎”首度出动了</a></li>
 <li><a href="/cnnews/20220627/1750597.md">中国私募女魔头征男友：要求20+,178+,颜值…</a></li>
-<li><a href="/ssgc/20220627/1750783.md">蔡奇称“未来五年”坚持动态清零 舆论大哗 官媒急删</a></li>
 <li><a href="/cnnews/20220627/1750745.md">不寻常！至少9名省委书记急撰文捧习近平 江系曝料</a></li>
+<li><a href="/ssgc/20220627/1750783.md">蔡奇称“未来五年”坚持动态清零 舆论大哗 官媒急删</a></li>
 <li><a href="/cbnews/20220627/1750594.md">不武统？习近平可能用这2招逼台湾屈服</a></li>
 <li><a href="/bannedvideo/20220627/1750751.md">出大事了？普京深夜急入克宫 战略家：北顿标志俄军失败？“灰鹰”太贵? 乌克兰青睐“游荡弹药”；#新冷战情室</a></li>
 <li><a href="/topimagenews/20220627/1750814.md">阿里嗨翻！业内泼冷水：习近平不回头；陆多家银行传催款如黑帮；H＆M关上海旗舰店</a></li>
 <li><a href="/cnnews/20220627/1750605.md">马斯克：不解决这问题，美国将会彻底消失</a></li>
 <li><a href="/ssgc/20220627/1750656.md">〖微博谈〗“清零胜利”的代价</a></li>
 <li><a href="/baitai/20220627/1750730.md">【网络民议】未来五年，勿念未来，将是无期徒刑</a></li>
-<li><a href="/cnnews/20220627/1750574.md">我，北京人，越南创业三年，目睹河内地价三年翻三倍</a></li>
 <li><a href="/bannedvideo/20220627/1750808.md">陈破空：王小洪主要任务：北戴河防行刺！习近平骄傲：我在一个小村庄当农民！习家军宣布：打赢了上海</a></li>
 <li><a href="/cnnews/20220627/1750615.md">学霸高考考出900分！网友们懵了：怎么算的？</a></li>
 <li><a href="/bannedvideo/20220627/1750431.md">谷爱凌评美国堕胎权翻车，再不切割止损恐将永无翻身之日</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/topimagenews/20220627/1750746.md">国债要赖账!1918年以来首次世纪大违约 俄罗斯以后可能借不到钱</a></li>
 <li><a href="/topimagenews/20220627/1750659.md">丹东视频太火了 “你们怎么都在同情坏人？”</a></li>
 <li><a href="/comments/20220627/1750690.md">从地方政府没钱开始：中国将遇最大一只灰犀牛</a></li>
-<li><a href="/cnnews/20220627/1750699.md">格力地产大地震 公司前董事长因涉嫌泄露内幕信息被采取刑事强制措施</a></li>
 <li><a href="/comments/20220627/1750579.md">王友群：习近平近期应对反习势力的四大举措</a></li>
+<li><a href="/cnnews/20220627/1750699.md">格力地产大地震 公司前董事长因涉嫌泄露内幕信息被采取刑事强制措施</a></li>
 <li><a href="/cnnews/20220627/1750583.md">英国老太装病11年，政府竟给她577万护理费，结果…</a></li>
 <li><a href="/finance/20220627/1750791.md">中国的中小银行倒闭，只是刚刚开始</a></li>
+<li><a href="/cnnews/20220627/1750584.md">晒过大厂工牌的年轻人，正在“逃命”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220628/1750955.md" target="_blank">山东暴雨成灾 青岛街道淹到半人高 多辆汽车被水冲到路中央</a></li>
 <li><a href="/cbnews/20220628/1750926.md" target="_blank">保母只顾玩手机 杭州2岁童被单独留在电梯 出来后爬窗坠落</a></li>
 <li><a href="/cbnews/20220628/1750902.md" target="_blank">一个日本人意外地在中国知道了活摘人体器官内幕</a></li>
 <li><a href="/cbnews/20220627/1750854.md" target="_blank">大陆洪水整间医院泡水中 灾区画面曝光</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20220626/1750349.md" target="_blank">【杰森视角】中国经济还是由习近平定调！第三季度经济数据将会很亮丽！投资中国股市必须知道这点！习近平展现他“与众不同”的决断力！俄国卢布汇率大涨是假象？投资美国股市的办法在中国不好使！</a></li>
 <li><a href="/cbnews/20220626/1750342.md" target="_blank">天亮时分：清零这样结束；习将成中共末代掌门人；最高法院推翻联邦层面堕胎权，对选举造成重大影响；（政论天下第730集 20220625）</a></li>
 <li><a href="/cbnews/20220626/1750302.md" target="_blank">中国专家：大规模核酸检测 现阶段用处不大</a></li>
-<li><a href="/cbnews/20220626/1750178.md" target="_blank">新一代影视和信息综合平台“干净世界”问世</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220628/1750964.md" target="_blank">目睹中共活摘器官现场 日本名人菅原潮曝光当年经历</a></li>
 <li><a href="/comments/20220628/1750954.md" target="_blank">疫情使骑车成为了时尚 全美前十个最宜骑车的城市</a></li>
 <li><a href="/comments/20220628/1750949.md" target="_blank">蔡奇一句话引爆舆论 “未来5年”遭屏蔽 对习近平连任作暗示？</a></li>
 <li><a href="/comments/20220628/1750948.md" target="_blank">现场传出枪声？河南村镇银行储户遭政府人员施暴</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220627/1750691.md" target="_blank">俄罗斯袭击乌克兰最大的两个城市基辅和哈尔科夫</a></li>
 <li><a href="/comments/20220627/1750690.md" target="_blank">从地方政府没钱开始：中国将遇最大一只灰犀牛</a></li>
 <li><a href="/comments/20220627/1750675.md" target="_blank">俄国战俘希希马林的故事：“妈妈，我不在演习”</a></li>
-<li><a href="/comments/20220627/1750667.md" target="_blank">【小说连载】日初天子 十一、入世间(1)</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
 <li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
 <li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 
 </ul>
 </div>
