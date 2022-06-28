@@ -5,11 +5,10 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20220627/1750745.md">不寻常！至少9名省委书记急撰文捧习近平 江系曝料</a></li>
 <li><a href="/ssgc/20220627/1750783.md">蔡奇称“未来五年”坚持动态清零 舆论大哗 官媒急删</a></li>
 <li><a href="/bannedvideo/20220627/1750751.md">出大事了？普京深夜急入克宫 战略家：北顿标志俄军失败？“灰鹰”太贵? 乌克兰青睐“游荡弹药”；#新冷战情室</a></li>
-<li><a href="/topimagenews/20220627/1750814.md">阿里嗨翻！业内泼冷水：习近平不回头；陆多家银行传催款如黑帮；H＆M关上海旗舰店</a></li>
 <li><a href="/ssgc/20220628/1750901.md">〖兲朝浮世绘〗蔡奇一句话透露习近平连任成定局</a></li>
+<li><a href="/topimagenews/20220627/1750814.md">阿里嗨翻！业内泼冷水：习近平不回头；陆多家银行传催款如黑帮；H＆M关上海旗舰店</a></li>
 <li><a href="/bannedvideo/20220627/1750431.md">谷爱凌评美国堕胎权翻车，再不切割止损恐将永无翻身之日</a></li>
 <li><a href="/cbnews/20220628/1750984.md">强烈反对无效！北京目送亚太四国西去</a></li>
 <li><a href="/bannedvideo/20220627/1750808.md">陈破空：王小洪主要任务：北戴河防行刺！习近平骄傲：我在一个小村庄当农民！习家军宣布：打赢了上海</a></li>
@@ -20,13 +19,14 @@
 <li><a href="/cnnews/20220628/1750994.md">经历上海疫情封城 超模吕燕决定永久回法国</a></li>
 <li><a href="/cnnews/20220628/1750986.md">神秘“疾病X”将大规模爆发！传染力高具致命性</a></li>
 <li><a href="/headline/20220628/1750992.md">语不惊人死不休 习近平亲信打响入常争夺战</a></li>
-<li><a href="/topimagenews/20220627/1750746.md">国债要赖账!1918年以来首次世纪大违约 俄罗斯以后可能借不到钱</a></li>
 <li><a href="/topimagenews/20220628/1751121.md">【微博精粹】新华社怒发十问 少见</a></li>
+<li><a href="/topimagenews/20220627/1750746.md">国债要赖账!1918年以来首次世纪大违约 俄罗斯以后可能借不到钱</a></li>
 <li><a href="/bannedvideo/20220628/1751014.md">50年前，清华物理系一名女博士生失踪。50年后的今天，终于在徐州某村被发现。这又是一名铁链女？他到底遭遇了什么？</a></li>
+<li><a href="/baitai/20220628/1751047.md">习近平为什么不能连任——他已成中国最不稳定因素</a></li>
 <li><a href="/cnnews/20220628/1750960.md">拉兄弟下水，普京终于迈出危险的一步</a></li>
 <li><a href="/cbnews/20220628/1750968.md">抨击西方拥护北京 大陆多名小粉红却被铁拳砸中</a></li>
-<li><a href="/baitai/20220628/1751047.md">习近平为什么不能连任——他已成中国最不稳定因素</a></li>
 <li><a href="/bannedvideo/20220627/1750821.md">【 #新闻大家谈 6/27 】王小洪、习近平关系大起底；王小洪上位公安部长，破“两大惯例”，伴“两大怪象”；赵克志蒙奇耻大辱，难保平安退休？20大“卡位战”，习三连任稳了吗？</a></li>
+<li><a href="/cbnews/20220627/1750815.md">考上就不读！他连续3年上北大 狂赚200万元状元奖金</a></li>
 <li><a href="/cnnews/20220627/1750848.md">3万亿腾讯突发“闪崩”，瞬间蒸发1700亿港元【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
 
 </ul>
 </div>
