@@ -8,8 +8,8 @@
 <li><a href="/yule/20220629/1751455.md">别看大S了 范冰冰的新恋情真是离了大谱</a></li>
 <li><a href="/cnnews/20220629/1751525.md">今年上演？被习近平取消的北戴河会议前风声鹤唳！ 【阿波罗网报导】</a></li>
 <li><a href="/cbnews/20220629/1751447.md">为了习近平！驻港女兵训练画面曝光</a></li>
-<li><a href="/bannedvideo/20220629/1751683.md">现场传连环枪声 习毫无准备 一危机来袭 这家银行主管：山雨欲来【两岸要闻】</a></li>
 <li><a href="/cnnews/20220629/1751639.md">难怪普京豁出去 流亡寡头妻曝…</a></li>
+<li><a href="/bannedvideo/20220629/1751683.md">现场传连环枪声 习毫无准备 一危机来袭 这家银行主管：山雨欲来【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220629/1751660.md">九“诸侯”上“劝进表”，只是肉麻没有文化！闹剧刚开幕，习连任已遇重大危机！ （一平论政2022/6/28)（一平论政2022/6/28)</a></li>
 <li><a href="/ssgc/20220629/1751578.md">〖兲朝浮世绘〗盛世的奴才减薪，奴隶减寿</a></li>
 <li><a href="/bannedvideo/20220629/1751691.md">陈破空：微妙！京城流传邓小平遗嘱。多少真与伪？各派施压习近平！退还是不退？两条道路的抉择</a></li>
@@ -17,16 +17,16 @@
 <li><a href="/topimagenews/20220629/1751469.md">这个位置 最后要了他的命：大秘悲歌</a></li>
 <li><a href="/headline/20220629/1751676.md">【政绩工程】昔日习近平「千年大计」：雄安站每天只剩一趟车</a></li>
 <li><a href="/funmedia/20220629/1751616.md">谁是中国最惨的一代人？</a></li>
+<li><a href="/headline/20220629/1751766.md">习近平说“集体免疫”后果不堪设想 网友反呛</a></li>
 <li><a href="/topimagenews/20220629/1751574.md">中共扩张 福建舰欲逼美退向“第二岛链”！专家:美中若开战 势必海上大决战</a></li>
 <li><a href="/cnnews/20220629/1751620.md">留给许家印的时间不多了…</a></li>
 <li><a href="/cbnews/20220629/1751543.md">习近平皇冠新增灯塔、指南针、支柱等明珠 大员表忠再现造神运动【阿波罗网报导】</a></li>
 <li><a href="/bannedvideo/20220629/1751679.md">俄军恐慌，普京愤怒，海马斯后加码无敌防空系统；俄中核弹被看住，超越人们想象； #新冷战情室</a></li>
-<li><a href="/cbnews/20220629/1751580.md">传习近平乘高铁赴港 西九站外大批警力戒备</a></li>
 <li><a href="/headline/20220629/1751682.md">【铁腕清零】习近平再为「动态清零」政策辩护 上证A股指数立即应声下跌</a></li>
-<li><a href="/headline/20220629/1751766.md">习近平说“集体免疫”后果不堪设想 网友反呛</a></li>
+<li><a href="/cbnews/20220629/1751580.md">传习近平乘高铁赴港 西九站外大批警力戒备</a></li>
+<li><a href="/topimagenews/20220629/1751700.md">中共转让芯片技术暗藏“小九九”，普京不满；法拍房暴增中国房市命悬一线；</a></li>
 <li><a href="/lifebaike/20220629/1751655.md">古人的智慧：邻居三不要 亲戚三不交</a></li>
 <li><a href="/topimagenews/20220629/1751561.md">“上百架UFO”蜂拥包围美军舰队科技远超无人机</a></li>
-<li><a href="/topimagenews/20220629/1751700.md">中共转让芯片技术暗藏“小九九”，普京不满；法拍房暴增中国房市命悬一线；</a></li>
 <li><a href="/cnnews/20220629/1751610.md">中国房市 国家统计局来补刀了？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 <li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
 <li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 
 </ul>
 </div>
