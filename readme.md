@@ -7,18 +7,16 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/comments/20220628/1751248.md">中共国策正在酝酿大调整</a></li>
 <li><a href="/bannedvideo/20220628/1751255.md">习心腹故意泄20大最核心内容？这次事可大了！王丹：改变中国的力量在这里 【两岸要闻】</a></li>
-<li><a href="/cnnews/20220628/1751209.md">大陆报复性消费彻底落空了…</a></li>
 <li><a href="/bannedvideo/20220629/1751406.md">传6常委翻脸 难怪蔡奇这么说 20大这9人给习出一难题【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220629/1751384.md">四川银行人员：山雨欲来风满楼 感觉像世界末日</a></li>
 <li><a href="/topimagenews/20220628/1751331.md">惊曝，习近平上台十年 一件事很惊人【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220628/1751220.md">中共003航母电磁弹射技术从何而来？专家揭谜</a></li>
-<li><a href="/cnnews/20220629/1751431.md">大陆夫妻只喝桶装水 竟双双罹肝癌 医曝8症状</a></li>
 <li><a href="/cnnews/20220629/1751525.md">今年上演？被习近平取消的北戴河会议前风声鹤唳！ 【阿波罗网报导】</a></li>
-<li><a href="/topimagenews/20220628/1751260.md">权威报告揭穿 Omicron重症率极低 暗指动态清零反科学 官方恐惧急下架</a></li>
+<li><a href="/cnnews/20220629/1751431.md">大陆夫妻只喝桶装水 竟双双罹肝癌 医曝8症状</a></li>
 <li><a href="/yule/20220629/1751455.md">别看大S了 范冰冰的新恋情真是离了大谱</a></li>
+<li><a href="/topimagenews/20220628/1751260.md">权威报告揭穿 Omicron重症率极低 暗指动态清零反科学 官方恐惧急下架</a></li>
 <li><a href="/yule/20220629/1751411.md">中国娱乐圈频传噩耗 37岁男星突去世</a></li>
 <li><a href="/topimagenews/20220628/1751341.md">美最高法院下一个判决恐比推翻罗诉韦德案更震撼 或彻底颠覆美政府运作机制</a></li>
-<li><a href="/cbnews/20220628/1751207.md">中国出新规：密接和入境人员隔离14+7改为7+3</a></li>
 <li><a href="/cbnews/20220628/1751298.md">哈尔滨正妹双胞胎互换护照 突破管制出国30余次</a></li>
 <li><a href="/cbnews/20220629/1751447.md">为了习近平！驻港女兵训练画面曝光</a></li>
 <li><a href="/topimagenews/20220628/1751232.md">入浸乌克兰以来第一次 俄出动重量级杀器轰基辅</a></li>
@@ -26,8 +24,10 @@
 <li><a href="/topimagenews/20220629/1751469.md">这个位置 最后要了他的命：大秘悲歌</a></li>
 <li><a href="/cbnews/20220629/1751407.md">德云社陈霄华入室猥亵被抓，女生还原事情经过</a></li>
 <li><a href="/bannedvideo/20220628/1751270.md">陈破空：蔡奇惊人泄密：习近平乞求连任五年！延续封城手段。遭质问急删四字。地方大员仅九人表态拥习！谭德赛证实就是那个来源</a></li>
-<li><a href="/bannedvideo/20220628/1751262.md">银行内部员工：为什么最近总有世界末日的感觉？你们也有这种感觉吗？是！</a></li>
 <li><a href="/yule/20220629/1751432.md">离开黄晓明的杨颖：被新人欺负 奢侈品代言掉光</a></li>
+<li><a href="/bannedvideo/20220628/1751262.md">银行内部员工：为什么最近总有世界末日的感觉？你们也有这种感觉吗？是！</a></li>
+<li><a href="/ssgc/20220628/1751296.md">王小洪任公安部长的三点解读</a></li>
+<li><a href="/comments/20220629/1751517.md">王友群:曾庆红越来越悬了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 <li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
 
 </ul>
 </div>
