@@ -12,22 +12,22 @@
 <li><a href="/cnnews/hknews/20220630/1752060.md">习近平将到访香港 最新:原定的晚宴也取消了?林郑跟求“指方向”</a></li>
 <li><a href="/comments/20220630/1751856.md">权力得到巩固？习近平再度强调“动态清零” 专家揭背后真实目的</a></li>
 <li><a href="/cbnews/20220630/1751985.md">回国隔离看似松了 但让海外华人更忧心的来了</a></li>
+<li><a href="/cbnews/20220630/1752146.md">北戴河会议在即 习近平放话要算总帐</a></li>
 <li><a href="/headline/20220629/1751764.md">行程码星号取消 网友众说纷纭</a></li>
 <li><a href="/ssgc/20220630/1752018.md">〖兲朝浮世绘〗人民的胆子越来越肥了</a></li>
-<li><a href="/cbnews/20220630/1752146.md">北戴河会议在即 习近平放话要算总帐</a></li>
 <li><a href="/cbnews/20220630/1751913.md">因这事，大陆大学生捅室友一百多刀致死，被判死刑</a></li>
 <li><a href="/funmedia/20220630/1752051.md">22张一丝不挂的人性照片，都应该看一看</a></li>
-<li><a href="/topimagenews/20220630/1752068.md">人民日报炮轰德云社，引发众怒 大骂中共【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220630/1751796.md">习近平30日抵港 夫人彭丽媛随行 港警最高级别戒备</a></li>
+<li><a href="/topimagenews/20220630/1752068.md">人民日报炮轰德云社，引发众怒 大骂中共【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220630/1751905.md">炸锅！佩洛西“肘推”女孩视频疯传，后续更傻眼</a></li>
 <li><a href="/cbnews/20220630/1752080.md">习近平下午乘高铁抵港？ 官媒节目表透出玄机</a></li>
-<li><a href="/cnnews/20220630/1752065.md">习近平赴港大阵仗！港媒：5大机构要员随行</a></li>
 <li><a href="/cbnews/20220630/1752145.md">人马遭撤换 习近平外交掌控权被削弱？ 专家：中共内部矛盾已公开化</a></li>
+<li><a href="/cnnews/20220630/1752065.md">习近平赴港大阵仗！港媒：5大机构要员随行</a></li>
 <li><a href="/cnnews/hknews/20220630/1752061.md">为保护习近平彭丽媛 香港出动近三万警力</a></li>
 <li><a href="/topimagenews/20220630/1752023.md">七百万人将被党监管！ 中共黑手伸进这行业 【阿波罗网报导】</a></li>
 <li><a href="/bannedvideo/20220630/1752058.md">习与彭丽媛在九龙下车，上千警察“迎接”！缩短行程，在香港“饭都不吃”，或遇风雨雷暴天气；习闭环访问，病毒是假想敌，核心安保区内，要见维尼的都得提前隔离，湾仔层层设防｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/bannedvideo/20220630/1752153.md">唐山烧烤店内部实拍；我就是唐山烧烤店打人事件，将视频上传到网上的神秘人；唐山烧烤店事件大事化小，小事化无；到底谁在造谣；网友追问唐山事件 后续呢？【 #大陆民生 】</a></li>
 <li><a href="/bannedvideo/20220630/1751875.md">🔥上海出现破天荒一幕；李克强忧“规模性返贫”突破底线；“上百架UFO”包围美军舰队；人民日报炮轰德云社引众怒；侵乌首次 俄出动重量级杀器轰基辅；安理会讨论乌克兰，中共不怪俄通篇指责北约【阿波罗网TL】</a></li>
-<li><a href="/topimagenews/20220630/1751983.md">芬兰瑞典入北约 普丁说话了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220630/1752248.md" target="_blank">美国新奥尔良：文化大熔炉 爵士乐发源地</a></li>
 <li><a href="/comments/20220630/1752239.md" target="_blank">北京警察大战防疫人员 网民戏称：很有价值的闹剧</a></li>
 <li><a href="/comments/20220630/1752238.md" target="_blank">感动台中企业界 台商前会长：神韵对人类非常重要</a></li>
 <li><a href="/comments/20220630/1752237.md" target="_blank">时事大家谈：香港归还中国25周年 北京为何急于抹去英国殖民地印记？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220630/1752020.md" target="_blank">习近平访香港 传取消盛大欢迎宴不吃晚饭就闪人</a></li>
 <li><a href="/comments/20220630/1752017.md" target="_blank">上海推出“餐饮桌长”制度 网友：无法理解</a></li>
 <li><a href="/comments/20220630/1752013.md" target="_blank">俄空袭商场瞬间生还者 惨况景象如地狱</a></li>
-<li><a href="/comments/20220630/1752012.md" target="_blank">德媒：疫情笼罩下的&#8221;一带一路&#8221;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 <li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
 
 </ul>
 </div>
