@@ -7,9 +7,9 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20220630/1751837.md">黑道持军用手枪透行刺企图？ 习近平访港不过夜 缩时又减量有玄机</a></li>
 <li><a href="/cnnews/20220630/1751845.md">油腻老男人是怎样做局，设计年轻女孩的？</a></li>
+<li><a href="/cbnews/20220630/1752146.md">北戴河会议在即 习近平放话要算总帐</a></li>
 <li><a href="/topimagenews/20220630/1752087.md">无声的打脸！人民日报现耐人寻味一幕【阿波罗网报道】</a></li>
 <li><a href="/comments/20220630/1751856.md">权力得到巩固？习近平再度强调“动态清零” 专家揭背后真实目的</a></li>
-<li><a href="/cbnews/20220630/1752146.md">北戴河会议在即 习近平放话要算总帐</a></li>
 <li><a href="/cnnews/hknews/20220630/1752060.md">习近平将到访香港 最新:原定的晚宴也取消了?林郑跟求“指方向”</a></li>
 <li><a href="/cbnews/20220630/1751985.md">回国隔离看似松了 但让海外华人更忧心的来了</a></li>
 <li><a href="/ssgc/20220630/1752018.md">〖兲朝浮世绘〗人民的胆子越来越肥了</a></li>
@@ -19,15 +19,15 @@
 <li><a href="/cbnews/20220630/1751796.md">习近平30日抵港 夫人彭丽媛随行 港警最高级别戒备</a></li>
 <li><a href="/cnnews/20220630/1751905.md">炸锅！佩洛西“肘推”女孩视频疯传，后续更傻眼</a></li>
 <li><a href="/topimagenews/20220630/1752068.md">人民日报炮轰德云社，引发众怒 大骂中共【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20220630/1752080.md">习近平下午乘高铁抵港？ 官媒节目表透出玄机</a></li>
-<li><a href="/bannedvideo/20220630/1752153.md">唐山烧烤店内部实拍；我就是唐山烧烤店打人事件，将视频上传到网上的神秘人；唐山烧烤店事件大事化小，小事化无；到底谁在造谣；网友追问唐山事件 后续呢？【 #大陆民生 】</a></li>
-<li><a href="/cnnews/20220630/1752065.md">习近平赴港大阵仗！港媒：5大机构要员随行</a></li>
 <li><a href="/bannedvideo/20220630/1752152.md">习最大隐忧藏在杯子里？访港就为一目的 不敢吃饭+防弹车！【两岸要闻】</a></li>
+<li><a href="/bannedvideo/20220630/1752153.md">唐山烧烤店内部实拍；我就是唐山烧烤店打人事件，将视频上传到网上的神秘人；唐山烧烤店事件大事化小，小事化无；到底谁在造谣；网友追问唐山事件 后续呢？【 #大陆民生 】</a></li>
+<li><a href="/cbnews/20220630/1752080.md">习近平下午乘高铁抵港？ 官媒节目表透出玄机</a></li>
 <li><a href="/headline/20220630/1752185.md">习近平访香港为何要“夜宿”深圳?</a></li>
-<li><a href="/cnnews/hknews/20220630/1752061.md">为保护习近平彭丽媛 香港出动近三万警力</a></li>
+<li><a href="/cnnews/20220630/1752065.md">习近平赴港大阵仗！港媒：5大机构要员随行</a></li>
 <li><a href="/topimagenews/20220630/1752023.md">七百万人将被党监管！ 中共黑手伸进这行业 【阿波罗网报导】</a></li>
-<li><a href="/bannedvideo/20220630/1752058.md">习与彭丽媛在九龙下车，上千警察“迎接”！缩短行程，在香港“饭都不吃”，或遇风雨雷暴天气；习闭环访问，病毒是假想敌，核心安保区内，要见维尼的都得提前隔离，湾仔层层设防｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cnnews/hknews/20220630/1752061.md">为保护习近平彭丽媛 香港出动近三万警力</a></li>
 <li><a href="/bannedvideo/20220630/1751875.md">🔥上海出现破天荒一幕；李克强忧“规模性返贫”突破底线；“上百架UFO”包围美军舰队；人民日报炮轰德云社引众怒；侵乌首次 俄出动重量级杀器轰基辅；安理会讨论乌克兰，中共不怪俄通篇指责北约【阿波罗网TL】</a></li>
+<li><a href="/topimagenews/20220630/1752154.md">中国毒牛奶恶梦再现！新疆麦趣尔纯牛奶含丙二醇 网友傻眼</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220701/1752287.md" target="_blank">物极必反，盛极而衰：美国的扭转和自救</a></li>
 <li><a href="/comments/20220701/1752279.md" target="_blank">重拳保习连任？ 中国各地警察武装上街巡逻 规模空前</a></li>
 <li><a href="/comments/20220701/1752267.md" target="_blank">李燕铭：香港风云（三） 习近平访港首日十大看点 习近平冒高风险访港 专列加防弹车十米一岗防暗杀 习近平彭丽媛分头考察暗藏玄机 五大机构五名副国级高官陪同 习访港前夕港澳办常务副主任张晓明被免职 习访港不过夜欢迎晚宴临时取消</a></li>
 <li><a href="/comments/20220630/1752248.md" target="_blank">美国新奥尔良：文化大熔炉 爵士乐发源地</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220630/1752034.md" target="_blank">再爆毒牛奶！新疆麦趣尔纯牛奶含丙二醇 网友崩溃</a></li>
 <li><a href="/comments/20220630/1752025.md" target="_blank">北约峰会 人人抢吃这道俄国美食</a></li>
 <li><a href="/comments/20220630/1752024.md" target="_blank">掠夺者出击俄乌激战曝无人机大罩门</a></li>
-<li><a href="/comments/20220630/1752020.md" target="_blank">习近平访香港 传取消盛大欢迎宴不吃晚饭就闪人</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
 <li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
 
 </ul>
 </div>
