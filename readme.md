@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220630/1752087.md">无声的打脸！人民日报现耐人寻味一幕【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220630/1752146.md">北戴河会议在即 习近平放话要算总帐</a></li>
-<li><a href="/cnnews/hknews/20220630/1752060.md">习近平将到访香港 最新:原定的晚宴也取消了?林郑跟求“指方向”</a></li>
 <li><a href="/topimagenews/20220701/1752375.md">习近平访港“史诗级”国际大笑话？军容壮盛的背后…</a></li>
 <li><a href="/topimagenews/20220630/1752068.md">人民日报炮轰德云社，引发众怒 大骂中共【阿波罗网报道】</a></li>
 <li><a href="/headline/20220630/1752185.md">习近平访香港为何要“夜宿”深圳?</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/topimagenews/20220630/1752154.md">中国毒牛奶恶梦再现！新疆麦趣尔纯牛奶含丙二醇 网友傻眼</a></li>
 <li><a href="/bannedvideo/20220701/1752286.md">习近平到达香港，肢体僵硬</a></li>
 <li><a href="/cbnews/20220630/1752207.md">20大前卡位战 王小洪升官破规矩？</a></li>
-<li><a href="/cnnews/20220630/1752065.md">习近平赴港大阵仗！港媒：5大机构要员随行</a></li>
 <li><a href="/bannedvideo/20220630/1752260.md">红卫兵回来了，文革又开始了？</a></li>
 <li><a href="/topimagenews/20220701/1752354.md">中共又遇难题？习近平求助王岐山【阿波罗网报导】</a></li>
-<li><a href="/cnnews/hknews/20220630/1752061.md">为保护习近平彭丽媛 香港出动近三万警力</a></li>
-<li><a href="/cbnews/20220630/1752059.md">习的特别代表 王岐山见杜特尔特载提敏感问题</a></li>
+<li><a href="/bannedvideo/20220701/1752364.md">🔥要出大事！中共军方发声：割除毒瘤 清除毒源 肃清流毒；习近平强调清零党媒报导竟隐匿；中国形势恶化远超习预期；美国将在波兰建永久军事基地；不得人心！19国最新民调：近7成负面看待中共【阿波罗网TL】</a></li>
 <li><a href="/yule/20220630/1752255.md">关之琳：我后悔当情妇</a></li>
+<li><a href="/ssgc/20220630/1752190.md">当下中国的政治生态比慈禧时代还黑暗</a></li>
+<li><a href="/comments/20220630/1752181.md">李燕铭：习近平连任与二十大常委争夺战（三四） 韩正搅局上海防疫 遥控旧部躺平对抗习近平李强 知情人士曝内幕 韩正要求习近平强迫李强下台 李强保住上海市委书记职位但仕途黯淡 习近平清洗江泽民老巢（十八）</a></li>
+<li><a href="/topimagenews/20220701/1752498.md">习近平内部讲话被公开：我再用重槌敲一下响鼓【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220701/1752547.md" target="_blank">一夜之间！联合国全球运动的乌托邦议程成为一种嘲弄！【阿波罗网翻译报导】</a></li>
 <li><a href="/topimagenews/20220701/1752525.md" target="_blank">香港回归大典 习近平紧戴口罩不握手</a></li>
 <li><a href="/topimagenews/20220701/1752513.md" target="_blank">我们已经来到临界点！拜登vs普京【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220701/1752498.md" target="_blank">习近平内部讲话被公开：我再用重槌敲一下响鼓【阿波罗网报道】</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220630/1751983.md" target="_blank">芬兰瑞典入北约 普丁说话了</a></li>
 <li><a href="/topimagenews/20220629/1751700.md" target="_blank">中共转让芯片技术暗藏“小九九”，普京不满；法拍房暴增中国房市命悬一线；</a></li>
 <li><a href="/topimagenews/20220629/1751574.md" target="_blank">中共扩张 福建舰欲逼美退向“第二岛链”！专家:美中若开战 势必海上大决战</a></li>
-<li><a href="/topimagenews/20220629/1751562.md" target="_blank">G7峰会落幕 7国领袖矢言不会让普丁获胜、要俄罗斯为侵略付出代价</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220701/1752543.md" target="_blank">观神韵如沐浴温暖佛光 台湾各界感受神的力量</a></li>
 <li><a href="/comments/20220701/1752541.md" target="_blank">粤江浙沪公务员降薪 分析：还将进一步缩水</a></li>
 <li><a href="/comments/20220701/1752540.md" target="_blank">国务卿、国安会发声明：美国与港人站在一起</a></li>
 <li><a href="/comments/20220701/1752292.md" target="_blank">【舞蹈】王琛说舞蹈 第三集：怎么站更美丽？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220701/1752396.md" target="_blank">美英双双警告：中共或步普京后尘 准备武力攻台</a></li>
 <li><a href="/comments/20220701/1752395.md" target="_blank">太罕见！新车大降价？雪佛兰EUV不到3万美元</a></li>
 <li><a href="/comments/20220701/1752388.md" target="_blank">《三国演义》第九十六回 孔明挥泪斩马谡 周鲂断发赚曹休</a></li>
-<li><a href="/comments/20220701/1752387.md" target="_blank">经济学家：投资者正对中国市场失去兴趣</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 <li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
 
 </ul>
 </div>
