@@ -13,21 +13,21 @@
 <li><a href="/topimagenews/20220701/1752375.md">习近平访港“史诗级”国际大笑话？军容壮盛的背后…</a></li>
 <li><a href="/headline/20220630/1752185.md">习近平访香港为何要“夜宿”深圳?</a></li>
 <li><a href="/cbnews/20220630/1752145.md">人马遭撤换 习近平外交掌控权被削弱？ 专家：中共内部矛盾已公开化</a></li>
-<li><a href="/bannedvideo/20220630/1752152.md">习最大隐忧藏在杯子里？访港就为一目的 不敢吃饭+防弹车！【两岸要闻】</a></li>
 <li><a href="/cnnews/20220701/1752358.md">骇人听闻女政委被脱光推上楼顶示众</a></li>
+<li><a href="/bannedvideo/20220630/1752152.md">习最大隐忧藏在杯子里？访港就为一目的 不敢吃饭+防弹车！【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220630/1752153.md">唐山烧烤店内部实拍；我就是唐山烧烤店打人事件，将视频上传到网上的神秘人；唐山烧烤店事件大事化小，小事化无；到底谁在造谣；网友追问唐山事件 后续呢？【 #大陆民生 】</a></li>
 <li><a href="/cbnews/20220630/1752080.md">习近平下午乘高铁抵港？ 官媒节目表透出玄机</a></li>
+<li><a href="/bannedvideo/20220701/1752359.md">习取消晚宴并回深圳，准官媒透露内幕；中共诱骗大学毕业生从事间谍工作；乌军猛轰蛇岛，俄军全面撤离；环太平洋军演26国精锐齐出直指中共；美最高院再做两重大判决【#全球新闻】</a></li>
 <li><a href="/cbnews/20220701/1752330.md">高考476分“学渣”办升学宴 一席发言走红网络</a></li>
 <li><a href="/bannedvideo/20220630/1752203.md">江泽民被冷处理！习近平怕什么？赴港乘高铁、取消晚宴、不过夜……</a></li>
 <li><a href="/topimagenews/20220630/1752154.md">中国毒牛奶恶梦再现！新疆麦趣尔纯牛奶含丙二醇 网友傻眼</a></li>
-<li><a href="/bannedvideo/20220701/1752359.md">习取消晚宴并回深圳，准官媒透露内幕；中共诱骗大学毕业生从事间谍工作；乌军猛轰蛇岛，俄军全面撤离；环太平洋军演26国精锐齐出直指中共；美最高院再做两重大判决【#全球新闻】</a></li>
 <li><a href="/cnnews/20220630/1752065.md">习近平赴港大阵仗！港媒：5大机构要员随行</a></li>
 <li><a href="/cbnews/20220630/1752207.md">20大前卡位战 王小洪升官破规矩？</a></li>
 <li><a href="/bannedvideo/20220701/1752286.md">习近平到达香港，肢体僵硬</a></li>
 <li><a href="/bannedvideo/20220630/1752260.md">红卫兵回来了，文革又开始了？</a></li>
+<li><a href="/topimagenews/20220701/1752354.md">中共又遇难题？习近平求助王岐山【阿波罗网报导】</a></li>
 <li><a href="/cnnews/hknews/20220630/1752061.md">为保护习近平彭丽媛 香港出动近三万警力</a></li>
 <li><a href="/cbnews/20220630/1752059.md">习的特别代表 王岐山见杜特尔特载提敏感问题</a></li>
-<li><a href="/bannedvideo/20220630/1752058.md">习与彭丽媛在九龙下车，上千警察“迎接”！缩短行程，在香港“饭都不吃”，或遇风雨雷暴天气；习闭环访问，病毒是假想敌，核心安保区内，要见维尼的都得提前隔离，湾仔层层设防｜新闻拍案惊奇 大宇</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220701/1752292.md" target="_blank">【舞蹈】王琛说舞蹈 第三集：怎么站更美丽？</a></li>
+<li><a href="/cbnews/20220701/1752524.md" target="_blank">江峰：北约入亚太剑指中共，环太军演台湾被缺席，白宫真糊涂！ 命脉被掐，习近平“芯”碎！香港七一 有人设局摆习上台？【江峰漫谈20220630第505期】</a></li>
 <li><a href="/cbnews/20220701/1752514.md" target="_blank">惊曝：90名美国前议员充当“中共等国家说客”</a></li>
 <li><a href="/cbnews/20220701/1752483.md" target="_blank">狂风骤雨迎接习近平访港 港天文台报“芙蓉”来袭</a></li>
 <li><a href="/cbnews/20220701/1752478.md" target="_blank">天亮时分：习近平行踪诡异，香港比北戴河更凶险？通胀风暴席卷全球，我们面临返贫的时代；最高法院重要判决，左派被缴枪（政论天下第733集 20220630）</a></li>
@@ -58,14 +60,13 @@
 <li><a href="/cbnews/20220630/1751960.md" target="_blank">天亮时分：李强为入常奋力一搏，不比政绩比马屁；揭秘习近平如何落入川普的圈套；习近平二十大后的尴尬事；（政论天下第732集 20220629）</a></li>
 <li><a href="/cbnews/20220630/1751913.md" target="_blank">因这事，大陆大学生捅室友一百多刀致死，被判死刑</a></li>
 <li><a href="/cbnews/20220630/1751869.md" target="_blank">G7呼吁抵制中共，赵立坚跳脚：制造分裂</a></li>
-<li><a href="/cbnews/20220630/1751826.md" target="_blank">中国“开课吧”恶意欠薪、停社保 大批员工抗议 竟用大巴挡门口</a></li>
-<li><a href="/cbnews/20220630/1751813.md" target="_blank">G7工业国VS金砖国：全球秩序重新洗牌</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220701/1752525.md" target="_blank">香港回归大典 习近平紧戴口罩不握手</a></li>
 <li><a href="/topimagenews/20220701/1752513.md" target="_blank">我们已经来到临界点！拜登vs普京【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220701/1752498.md" target="_blank">习近平内部讲话被公开：我再用重槌敲一下响鼓【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220701/1752497.md" target="_blank">【微博精粹】失足女成立党委指日可待</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220629/1751700.md" target="_blank">中共转让芯片技术暗藏“小九九”，普京不满；法拍房暴增中国房市命悬一线；</a></li>
 <li><a href="/topimagenews/20220629/1751574.md" target="_blank">中共扩张 福建舰欲逼美退向“第二岛链”！专家:美中若开战 势必海上大决战</a></li>
 <li><a href="/topimagenews/20220629/1751562.md" target="_blank">G7峰会落幕 7国领袖矢言不会让普丁获胜、要俄罗斯为侵略付出代价</a></li>
-<li><a href="/topimagenews/20220629/1751561.md" target="_blank">“上百架UFO”蜂拥包围美军舰队科技远超无人机</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220701/1752292.md" target="_blank">【舞蹈】王琛说舞蹈 第三集：怎么站更美丽？</a></li>
 <li><a href="/comments/20220701/1752522.md" target="_blank">哈德逊研讨会：中共“活摘”罪行仍在延续 参与医生应被制裁 </a></li>
 <li><a href="/comments/20220701/1752511.md" target="_blank">李燕铭：全球军事围堵中共 中日战争阴云（十四） 美日密集联合军演 岸田重磅表态：彻底加强日本防卫力 日本加强与盟友军事合作 对抗中共扩张与朝鲜核威胁</a></li>
 <li><a href="/comments/20220701/1752496.md" target="_blank">太嚣张！共军战机再度拦截澳加军机并出言威胁</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220701/1752387.md" target="_blank">经济学家：投资者正对中国市场失去兴趣</a></li>
 <li><a href="/comments/20220701/1752373.md" target="_blank">《封神演义》第九十六回 子牙发柬擒妲己</a></li>
 <li><a href="/comments/20220701/1752372.md" target="_blank">巴黎恐袭案“世纪审判”落幕 祭出法国最重刑罚</a></li>
-<li><a href="/comments/20220701/1752365.md" target="_blank">李燕铭：二十大高层人事大战（三七） 北京市委换届压轴 市委副书记与政法委书记换人 31省区市党委换届全部完成 新一届省级党委书记与副书记已有三人调职</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
