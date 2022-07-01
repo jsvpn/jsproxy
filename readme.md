@@ -21,13 +21,13 @@
 <li><a href="/bannedvideo/20220630/1752203.md">江泽民被冷处理！习近平怕什么？赴港乘高铁、取消晚宴、不过夜……</a></li>
 <li><a href="/topimagenews/20220630/1752154.md">中国毒牛奶恶梦再现！新疆麦趣尔纯牛奶含丙二醇 网友傻眼</a></li>
 <li><a href="/cnnews/20220630/1752065.md">习近平赴港大阵仗！港媒：5大机构要员随行</a></li>
+<li><a href="/topimagenews/20220701/1752375.md">习近平访港“史诗级”国际大笑话？军容壮盛的背后…</a></li>
 <li><a href="/cbnews/20220630/1752207.md">20大前卡位战 王小洪升官破规矩？</a></li>
 <li><a href="/bannedvideo/20220701/1752286.md">习近平到达香港，肢体僵硬</a></li>
-<li><a href="/cbnews/20220630/1752059.md">习的特别代表 王岐山见杜特尔特载提敏感问题</a></li>
-<li><a href="/cnnews/hknews/20220630/1752061.md">为保护习近平彭丽媛 香港出动近三万警力</a></li>
-<li><a href="/bannedvideo/20220630/1752058.md">习与彭丽媛在九龙下车，上千警察“迎接”！缩短行程，在香港“饭都不吃”，或遇风雨雷暴天气；习闭环访问，病毒是假想敌，核心安保区内，要见维尼的都得提前隔离，湾仔层层设防｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/bannedvideo/20220630/1752260.md">红卫兵回来了，文革又开始了？</a></li>
-<li><a href="/ssgc/20220630/1752190.md">当下中国的政治生态比慈禧时代还黑暗</a></li>
+<li><a href="/cnnews/hknews/20220630/1752061.md">为保护习近平彭丽媛 香港出动近三万警力</a></li>
+<li><a href="/cbnews/20220630/1752059.md">习的特别代表 王岐山见杜特尔特载提敏感问题</a></li>
+<li><a href="/bannedvideo/20220630/1752058.md">习与彭丽媛在九龙下车，上千警察“迎接”！缩短行程，在香港“饭都不吃”，或遇风雨雷暴天气；习闭环访问，病毒是假想敌，核心安保区内，要见维尼的都得提前隔离，湾仔层层设防｜新闻拍案惊奇 大宇</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220701/1752435.md" target="_blank">赤膊形象被G7领导人取笑，普京本人回应了</a></li>
 <li><a href="/topimagenews/20220701/1752375.md" target="_blank">习近平访港“史诗级”国际大笑话？军容壮盛的背后…</a></li>
 <li><a href="/topimagenews/20220701/1752354.md" target="_blank">中共又遇难题？习近平求助王岐山【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220701/1752346.md" target="_blank">上海封城 至少10多位明星逃离 中国超模吕燕决定永久回法国【阿波罗网报道】</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220629/1751508.md" target="_blank">高通胀雪崩下：没有一片小雪花是冤枉的</a></li>
 <li><a href="/topimagenews/20220629/1751469.md" target="_blank">这个位置 最后要了他的命：大秘悲歌</a></li>
 <li><a href="/topimagenews/20220629/1751384.md" target="_blank">四川银行人员：山雨欲来风满楼 感觉像世界末日</a></li>
-<li><a href="/topimagenews/20220628/1751341.md" target="_blank">美最高法院下一个判决恐比推翻罗诉韦德案更震撼 或彻底颠覆美政府运作机制</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220701/1752442.md" target="_blank">低欲望社会大抵如此吧 90后俊男美女尴尬单着</a></li>
 <li><a href="/comments/20220701/1752424.md" target="_blank">兽爷：海䴖落游记 门外大白饲养员走来走去</a></li>
 <li><a href="/comments/20220701/1752423.md" target="_blank">牌坊再好看，婊子还是婊子</a></li>
 <li><a href="/comments/20220701/1752419.md" target="_blank">【独家重磅】李燕铭：二十大前北戴河会议大战内幕（六） 习近平亲信王小洪新官上任三把火 公安部五天发起三项“百日行动” 火线反击江曾另类政变 77起重大凶杀伤亡惨案密集爆发 黑幕重重 习近平火线反击江曾政变（四十）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220701/1752302.md" target="_blank">【组图】习近平访港 警方多处封路截查 民间遭噤声</a></li>
 <li><a href="/comments/20220701/1752287.md" target="_blank">物极必反，盛极而衰：美国的扭转和自救</a></li>
 <li><a href="/comments/20220701/1752279.md" target="_blank">重拳保习连任？ 中国各地警察武装上街巡逻 规模空前</a></li>
-<li><a href="/comments/20220701/1752267.md" target="_blank">李燕铭：香港风云（三） 习近平访港首日十大看点 习近平冒高风险访港 专列加防弹车十米一岗防暗杀 习近平彭丽媛分头考察暗藏玄机 五大机构五名副国级高官陪同 习访港前夕港澳办常务副主任张晓明被免职 习访港不过夜欢迎晚宴临时取消</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 <li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 <li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
 
 </ul>
 </div>
