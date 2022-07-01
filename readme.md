@@ -15,7 +15,6 @@
 <li><a href="/cbnews/20220630/1751913.md">因这事，大陆大学生捅室友一百多刀致死，被判死刑</a></li>
 <li><a href="/cbnews/20220630/1752145.md">人马遭撤换 习近平外交掌控权被削弱？ 专家：中共内部矛盾已公开化</a></li>
 <li><a href="/headline/20220630/1752185.md">习近平访香港为何要“夜宿”深圳?</a></li>
-<li><a href="/cnnews/20220630/1751905.md">炸锅！佩洛西“肘推”女孩视频疯传，后续更傻眼</a></li>
 <li><a href="/bannedvideo/20220630/1752152.md">习最大隐忧藏在杯子里？访港就为一目的 不敢吃饭+防弹车！【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220630/1752153.md">唐山烧烤店内部实拍；我就是唐山烧烤店打人事件，将视频上传到网上的神秘人；唐山烧烤店事件大事化小，小事化无；到底谁在造谣；网友追问唐山事件 后续呢？【 #大陆民生 】</a></li>
 <li><a href="/cbnews/20220630/1752080.md">习近平下午乘高铁抵港？ 官媒节目表透出玄机</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/hknews/20220630/1752061.md">为保护习近平彭丽媛 香港出动近三万警力</a></li>
 <li><a href="/bannedvideo/20220630/1752058.md">习与彭丽媛在九龙下车，上千警察“迎接”！缩短行程，在香港“饭都不吃”，或遇风雨雷暴天气；习闭环访问，病毒是假想敌，核心安保区内，要见维尼的都得提前隔离，湾仔层层设防｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ssgc/20220630/1752190.md">当下中国的政治生态比慈禧时代还黑暗</a></li>
+<li><a href="/bannedvideo/20220630/1752260.md">红卫兵回来了，文革又开始了？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220701/1752388.md" target="_blank">《三国演义》第九十六回 孔明挥泪斩马谡 周鲂断发赚曹休</a></li>
+<li><a href="/comments/20220701/1752387.md" target="_blank">经济学家：投资者正对中国市场失去兴趣</a></li>
 <li><a href="/comments/20220701/1752373.md" target="_blank">《封神演义》第九十六回 子牙发柬擒妲己</a></li>
 <li><a href="/comments/20220701/1752372.md" target="_blank">巴黎恐袭案“世纪审判”落幕 祭出法国最重刑罚</a></li>
 <li><a href="/comments/20220701/1752365.md" target="_blank">李燕铭：二十大高层人事大战（三七） 北京市委换届压轴 市委副书记与政法委书记换人 31省区市党委换届全部完成 新一届省级党委书记与副书记已有三人调职</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220630/1752181.md" target="_blank">李燕铭：习近平连任与二十大常委争夺战（三四） 韩正搅局上海防疫 遥控旧部躺平对抗习近平李强 知情人士曝内幕 韩正要求习近平强迫李强下台 李强保住上海市委书记职位但仕途黯淡 习近平清洗江泽民老巢（十八）</a></li>
 <li><a href="/comments/20220630/1752176.md" target="_blank">汪湖：骊歌——声声慢</a></li>
 <li><a href="/comments/20220630/1752173.md" target="_blank">张建兴：“七.一”，中国劫难的开始，中共垮台的倒计时</a></li>
-<li><a href="/comments/20220630/1752164.md" target="_blank">国际宗教自由峰会 葛特曼：中共“活摘器官”罪行仍在继续</a></li>
-<li><a href="/comments/20220630/1752122.md" target="_blank">研究：「北欧式健走」对改善心脏功能有效</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
 <li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
 
 </ul>
 </div>
