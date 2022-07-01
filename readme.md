@@ -12,19 +12,19 @@
 <li><a href="/topimagenews/20220630/1752068.md">人民日报炮轰德云社，引发众怒 大骂中共【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220630/1752145.md">人马遭撤换 习近平外交掌控权被削弱？ 专家：中共内部矛盾已公开化</a></li>
 <li><a href="/headline/20220630/1752185.md">习近平访香港为何要“夜宿”深圳?</a></li>
-<li><a href="/bannedvideo/20220630/1752152.md">习最大隐忧藏在杯子里？访港就为一目的 不敢吃饭+防弹车！【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220701/1752375.md">习近平访港“史诗级”国际大笑话？军容壮盛的背后…</a></li>
-<li><a href="/bannedvideo/20220630/1752153.md">唐山烧烤店内部实拍；我就是唐山烧烤店打人事件，将视频上传到网上的神秘人；唐山烧烤店事件大事化小，小事化无；到底谁在造谣；网友追问唐山事件 后续呢？【 #大陆民生 】</a></li>
+<li><a href="/bannedvideo/20220630/1752152.md">习最大隐忧藏在杯子里？访港就为一目的 不敢吃饭+防弹车！【两岸要闻】</a></li>
 <li><a href="/cnnews/20220701/1752358.md">骇人听闻女政委被脱光推上楼顶示众</a></li>
+<li><a href="/bannedvideo/20220630/1752153.md">唐山烧烤店内部实拍；我就是唐山烧烤店打人事件，将视频上传到网上的神秘人；唐山烧烤店事件大事化小，小事化无；到底谁在造谣；网友追问唐山事件 后续呢？【 #大陆民生 】</a></li>
 <li><a href="/cbnews/20220630/1752080.md">习近平下午乘高铁抵港？ 官媒节目表透出玄机</a></li>
-<li><a href="/topimagenews/20220630/1752023.md">七百万人将被党监管！ 中共黑手伸进这行业 【阿波罗网报导】</a></li>
+<li><a href="/cbnews/20220701/1752330.md">高考476分“学渣”办升学宴 一席发言走红网络</a></li>
 <li><a href="/bannedvideo/20220630/1752203.md">江泽民被冷处理！习近平怕什么？赴港乘高铁、取消晚宴、不过夜……</a></li>
 <li><a href="/topimagenews/20220630/1752154.md">中国毒牛奶恶梦再现！新疆麦趣尔纯牛奶含丙二醇 网友傻眼</a></li>
-<li><a href="/cbnews/20220701/1752330.md">高考476分“学渣”办升学宴 一席发言走红网络</a></li>
 <li><a href="/cnnews/20220630/1752065.md">习近平赴港大阵仗！港媒：5大机构要员随行</a></li>
 <li><a href="/cbnews/20220630/1752207.md">20大前卡位战 王小洪升官破规矩？</a></li>
 <li><a href="/bannedvideo/20220701/1752286.md">习近平到达香港，肢体僵硬</a></li>
 <li><a href="/bannedvideo/20220630/1752260.md">红卫兵回来了，文革又开始了？</a></li>
+<li><a href="/bannedvideo/20220701/1752359.md">习取消晚宴并回深圳，准官媒透露内幕；中共诱骗大学毕业生从事间谍工作；乌军猛轰蛇岛，俄军全面撤离；环太平洋军演26国精锐齐出直指中共；美最高院再做两重大判决【#全球新闻】</a></li>
 <li><a href="/cnnews/hknews/20220630/1752061.md">为保护习近平彭丽媛 香港出动近三万警力</a></li>
 <li><a href="/cbnews/20220630/1752059.md">习的特别代表 王岐山见杜特尔特载提敏感问题</a></li>
 <li><a href="/bannedvideo/20220630/1752058.md">习与彭丽媛在九龙下车，上千警察“迎接”！缩短行程，在香港“饭都不吃”，或遇风雨雷暴天气；习闭环访问，病毒是假想敌，核心安保区内，要见维尼的都得提前隔离，湾仔层层设防｜新闻拍案惊奇 大宇</a></li>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220701/1752498.md" target="_blank">习近平内部讲话被公开：我再用重槌敲一下响鼓【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20220701/1752497.md" target="_blank">【微博精粹】失足女成立党委指日可待</a></li>
 <li><a href="/topimagenews/20220701/1752435.md" target="_blank">赤膊形象被G7领导人取笑，普京本人回应了</a></li>
 <li><a href="/topimagenews/20220701/1752375.md" target="_blank">习近平访港“史诗级”国际大笑话？军容壮盛的背后…</a></li>
 <li><a href="/topimagenews/20220701/1752354.md" target="_blank">中共又遇难题？习近平求助王岐山【阿波罗网报导】</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20220629/1751562.md" target="_blank">G7峰会落幕 7国领袖矢言不会让普丁获胜、要俄罗斯为侵略付出代价</a></li>
 <li><a href="/topimagenews/20220629/1751561.md" target="_blank">“上百架UFO”蜂拥包围美军舰队科技远超无人机</a></li>
 <li><a href="/topimagenews/20220629/1751508.md" target="_blank">高通胀雪崩下：没有一片小雪花是冤枉的</a></li>
-<li><a href="/topimagenews/20220629/1751469.md" target="_blank">这个位置 最后要了他的命：大秘悲歌</a></li>
-<li><a href="/topimagenews/20220629/1751384.md" target="_blank">四川银行人员：山雨欲来风满楼 感觉像世界末日</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
 <li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
 
 </ul>
 </div>
