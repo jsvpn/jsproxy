@@ -13,21 +13,21 @@
 <li><a href="/cnnews/20220701/1752358.md">骇人听闻女政委被脱光推上楼顶示众</a></li>
 <li><a href="/bannedvideo/20220630/1752153.md">唐山烧烤店内部实拍；我就是唐山烧烤店打人事件，将视频上传到网上的神秘人；唐山烧烤店事件大事化小，小事化无；到底谁在造谣；网友追问唐山事件 后续呢？【 #大陆民生 】</a></li>
 <li><a href="/bannedvideo/20220701/1752359.md">习取消晚宴并回深圳，准官媒透露内幕；中共诱骗大学毕业生从事间谍工作；乌军猛轰蛇岛，俄军全面撤离；环太平洋军演26国精锐齐出直指中共；美最高院再做两重大判决【#全球新闻】</a></li>
+<li><a href="/bannedvideo/20220701/1752286.md">习近平到达香港，肢体僵硬</a></li>
 <li><a href="/bannedvideo/20220630/1752203.md">江泽民被冷处理！习近平怕什么？赴港乘高铁、取消晚宴、不过夜……</a></li>
 <li><a href="/cbnews/20220701/1752330.md">高考476分“学渣”办升学宴 一席发言走红网络</a></li>
-<li><a href="/bannedvideo/20220701/1752286.md">习近平到达香港，肢体僵硬</a></li>
-<li><a href="/topimagenews/20220630/1752154.md">中国毒牛奶恶梦再现！新疆麦趣尔纯牛奶含丙二醇 网友傻眼</a></li>
 <li><a href="/topimagenews/20220701/1752498.md">习近平内部讲话被公开：我再用重槌敲一下响鼓【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20220630/1752154.md">中国毒牛奶恶梦再现！新疆麦趣尔纯牛奶含丙二醇 网友傻眼</a></li>
 <li><a href="/cbnews/20220630/1752207.md">20大前卡位战 王小洪升官破规矩？</a></li>
 <li><a href="/bannedvideo/20220630/1752260.md">红卫兵回来了，文革又开始了？</a></li>
 <li><a href="/topimagenews/20220701/1752354.md">中共又遇难题？习近平求助王岐山【阿波罗网报导】</a></li>
+<li><a href="/topimagenews/20220701/1752525.md">香港回归大典 习近平紧戴口罩不握手</a></li>
 <li><a href="/yule/20220630/1752255.md">关之琳：我后悔当情妇</a></li>
 <li><a href="/bannedvideo/20220701/1752364.md">🔥要出大事！中共军方发声：割除毒瘤 清除毒源 肃清流毒；习近平强调清零党媒报导竟隐匿；中国形势恶化远超习预期；美国将在波兰建永久军事基地；不得人心！19国最新民调：近7成负面看待中共【阿波罗网TL】</a></li>
 <li><a href="/ssgc/20220630/1752190.md">当下中国的政治生态比慈禧时代还黑暗</a></li>
-<li><a href="/topimagenews/20220701/1752525.md">香港回归大典 习近平紧戴口罩不握手</a></li>
+<li><a href="/ssgc/20220701/1752510.md">〖兲朝浮世绘〗亲自视察自己一手砸烂的东方明珠 习总特别有成就感吧？</a></li>
 <li><a href="/comments/20220630/1752181.md">李燕铭：习近平连任与二十大常委争夺战（三四） 韩正搅局上海防疫 遥控旧部躺平对抗习近平李强 知情人士曝内幕 韩正要求习近平强迫李强下台 李强保住上海市委书记职位但仕途黯淡 习近平清洗江泽民老巢（十八）</a></li>
 <li><a href="/lifebaike/20220701/1752377.md">7月警告！印度神童喊有事发生 他曝4生肖财运岌岌可危</a></li>
-<li><a href="/ssgc/20220701/1752510.md">〖兲朝浮世绘〗亲自视察自己一手砸烂的东方明珠 习总特别有成就感吧？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
 <li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
 
 </ul>
 </div>
