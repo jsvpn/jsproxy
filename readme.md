@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20220702/1752814.md">习近平竟然“翘掉”重要典礼 政圈将“大风吹”</a></li>
 <li><a href="/cnnews/20220702/1753007.md">火速删除视频！央视采访张学友 天王素颜出镜 不肯说二个字？【阿波罗网报导】</a></li>
+<li><a href="/topimagenews/20220702/1752901.md">习全程没和新特首握手 彭丽媛也和艺人隔这么远</a></li>
 <li><a href="/cbnews/20220702/1752811.md">网惊！校花毕业6年快速老化增胖变阿嬷</a></li>
 <li><a href="/topimagenews/20220702/1752846.md">太惊悚！朝鲜直接路上放脱北者尸体 给你满满大恐怖平台</a></li>
-<li><a href="/topimagenews/20220702/1752901.md">习全程没和新特首握手 彭丽媛也和艺人隔这么远</a></li>
 <li><a href="/bannedvideo/20220702/1752835.md">🔥习近平在大典演讲现惊人一幕；习访港现多个异象；还被曝港府安排极度混乱公务员大吐苦水；习这行动被指恐重创香港经贸；拜登VS普京“我们已来到临界点”；惊曝90名美前议员充当中共等国说客【阿波罗网HL】</a></li>
 <li><a href="/bannedvideo/20220702/1752849.md">李家超声嘶力竭也没用，习近平“带领”林郑月娥等人集体做“中国梦”？声援香港自由？敏感日广州万人合唱香港黄家驹经典曲。【每日头条】</a></li>
 <li><a href="/cbnews/20220702/1752791.md">上台后查五百万人 习敲打中共高官讲话曝光</a></li>
-<li><a href="/topimagenews/20220702/1753003.md">打脸习近平！金砖刚开完 印度出重手【阿波罗网报导】</a></li>
 <li><a href="/comments/20220702/1752794.md">吉林爆恶性杀人案 传5人死亡 警悬赏10万抓逃犯</a></li>
+<li><a href="/topimagenews/20220702/1753003.md">打脸习近平！金砖刚开完 印度出重手【阿波罗网报导】</a></li>
 <li><a href="/cbnews/20220702/1752983.md">天亮时分：换掉习近平，中南海内谁是男儿？“为何最近总有世界末日感觉”？新特首慷慨演说，习近平呼呼大睡（政论天下第734集 20220701）</a></li>
 <li><a href="/ssgc/20220702/1752883.md">〖兲朝浮世绘〗香港败了，他无所谓</a></li>
 <li><a href="/cnnews/20220702/1753022.md">广东夫妻吃苦8年花160万买房 打扫时发现一协议崩溃</a></li>
-<li><a href="/cnnews/20220702/1753006.md">习访港安保曝光 未乘港车自带防弹车 年产仅5辆</a></li>
 <li><a href="/bannedvideo/20220702/1752759.md">家驹的歌今天响彻南中国，不知道身在香港的习近平听见了没有？</a></li>
+<li><a href="/cnnews/20220702/1753006.md">习访港安保曝光 未乘港车自带防弹车 年产仅5辆</a></li>
 <li><a href="/ssgc/20220702/1752832.md">习近平连任还有变数吗？（戴忠仁/程晓农/江峰）| 亚洲很想聊</a></li>
 <li><a href="/bannedvideo/20220702/1752994.md">扛不住了！中国核酸“大跃进”忽降温</a></li>
 <li><a href="/topimagenews/20220702/1752970.md">人民日报七一社论 两大关键词 释放特殊信号【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220702/1752843.md">“谨防居民不花钱”，什么情况？</a></li>
+<li><a href="/cbnews/20220702/1753033.md">大陆取消行程码带星后，多城出现了替代方案？</a></li>
 <li><a href="/topimagenews/20220701/1752744.md">中国网络科技大厂再爆裁员潮 恐有数千人受影响</a></li>
 <li><a href="/cnnews/20220702/1752872.md">73岁华裔婚纱女王庆生 颜值引热议</a></li>
 <li><a href="/bannedvideo/20220702/1752854.md">🔥出大事？习近平突然离港 行程大幅缩短；七一党庆 五毛都躺平 俄抓共谍；傻眼！深圳90后俊男美女无欲；一夜间全球运动成嘲弄；美最高法院最新裁决彻底颠覆美政府运作机制；川普要和他搭档</a></li>
-<li><a href="/cbnews/20220702/1752931.md">记者躲雨竟遭港警拘捕 CNN：习近平如皇帝出巡</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220702/1753121.md" target="_blank">【俄乌战火第129天】美对乌军援 “海马斯”击中俄军据点</a></li>
 <li><a href="/comments/20220702/1753120.md" target="_blank">NASA署长示警 小心中国登月占领月球</a></li>
 <li><a href="/comments/20220702/1753117.md" target="_blank">矢板明夫：一国两制被指鹿为马 香港逐渐“新疆化”</a></li>
 <li><a href="/comments/20220702/1753110.md" target="_blank">神韵台中第三场巡演 教育界赞演出高度完美</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220702/1752959.md" target="_blank">2020年排名亚洲前10名的最佳餐厅</a></li>
 <li><a href="/comments/20220702/1752946.md" target="_blank">【小说连载】日初天子 十二、舍利子(3)</a></li>
 <li><a href="/comments/20220702/1752944.md" target="_blank">美高院推翻几州限枪裁决 四大判决激怒左派 大风暴来临？</a></li>
-<li><a href="/comments/20220702/1752942.md" target="_blank">专栏 | 劳工通讯：广东省惠州市惠东县华业铸造厂“2·18”爆炸事故（三）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 <li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
 
 </ul>
 </div>
