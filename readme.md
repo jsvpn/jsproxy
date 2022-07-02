@@ -9,12 +9,11 @@
 <li><a href="/ssgc/20220701/1752510.md">〖兲朝浮世绘〗亲自视察自己一手砸烂的东方明珠 习总特别有成就感吧？</a></li>
 <li><a href="/topimagenews/20220701/1752525.md">香港回归大典 习近平紧戴口罩不握手</a></li>
 <li><a href="/yule/20220701/1752566.md">范冰冰最新照片曝光，网友炸锅：真是绝了</a></li>
-<li><a href="/bannedvideo/20220701/1752649.md">习走出不寻常的一步棋 北戴河胜负初定？另有三大危机或难招架【两岸要闻】</a></li>
-<li><a href="/headline/20220701/1752584.md">习近平结束旋风式访港 下午再乘高铁离开</a></li>
 <li><a href="/cnnews/20220702/1752814.md">习近平竟然“翘掉”重要典礼 政圈将“大风吹”</a></li>
+<li><a href="/bannedvideo/20220701/1752649.md">习走出不寻常的一步棋 北戴河胜负初定？另有三大危机或难招架【两岸要闻】</a></li>
 <li><a href="/cnnews/20220701/1752492.md">要出大事！中共军方发声：割除毒瘤 清除毒源 肃清流毒【阿波罗网报道】</a></li>
+<li><a href="/headline/20220701/1752584.md">习近平结束旋风式访港 下午再乘高铁离开</a></li>
 <li><a href="/bannedvideo/20220701/1752549.md">英国首相约翰逊香港移交25周年讲话：中共食言，但我们会对香港和香港人守诺到底</a></li>
-<li><a href="/cbnews/20220701/1752478.md">天亮时分：习近平行踪诡异，香港比北戴河更凶险？通胀风暴席卷全球，我们面临返贫的时代；最高法院重要判决，左派被缴枪（政论天下第733集 20220630）</a></li>
 <li><a href="/bannedvideo/20220701/1752640.md">陈破空：震撼！庆典在地下室举行，他是地下党总书记！取消阅兵，仓惶离去。新特首讲话，多数人睡着。陈破空直播 与网友互动 美东7月1早8点30、即中港台7月1晚8点30</a></li>
 <li><a href="/topimagenews/20220701/1752665.md">习近平被骗？武汉华工激光徒有其表；股价闪崩股东跑路，此中企让习近平颜面扫地；</a></li>
 <li><a href="/topimagenews/20220701/1752677.md">惊呆！深圳90后俊男美女这样尴尬单着 低欲望社会大抵如此吧</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20220701/1752558.md">成都男子坐地铁被拔腿毛：不忍打扰，以后会长…</a></li>
 <li><a href="/headline/20220701/1752676.md">习近平未与港官握手 未乘港车</a></li>
 <li><a href="/cbnews/20220702/1752791.md">上台后查五百万人 习敲打中共高官讲话曝光</a></li>
+<li><a href="/bannedvideo/20220702/1752759.md">家驹的歌今天响彻南中国，不知道身在香港的习近平听见了没有？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220702/1752960.md" target="_blank">俄已无退路？分析：美国欲斩断普京的“四大臂膀”</a></li>
+<li><a href="/comments/20220702/1752959.md" target="_blank">2020年排名亚洲前10名的最佳餐厅</a></li>
+<li><a href="/comments/20220702/1752946.md" target="_blank">【小说连载】日初天子 十二、舍利子(3)</a></li>
 <li><a href="/comments/20220702/1752944.md" target="_blank">美高院推翻几州限枪裁决 四大判决激怒左派 大风暴来临？</a></li>
 <li><a href="/comments/20220702/1752942.md" target="_blank">专栏 | 劳工通讯：广东省惠州市惠东县华业铸造厂“2·18”爆炸事故（三）</a></li>
 <li><a href="/comments/20220702/1752941.md" target="_blank">专栏 | 财经时时听：回归25年东方明珠闪耀依旧？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220702/1752855.md" target="_blank">颜丹：“向二十大建言”是最新版的皇帝新装</a></li>
 <li><a href="/comments/20220702/1752852.md" target="_blank">中国多地暴雨灾情严重 13级台风将在广东登陆</a></li>
 <li><a href="/comments/20220702/1752848.md" target="_blank">韩笑：苦口相劝见真诚 唤醒中国人良善</a></li>
-<li><a href="/comments/20220702/1752839.md" target="_blank">蔡奇连任北京市委书记 习近平爱将谁最可能入常？</a></li>
-<li><a href="/comments/20220702/1752833.md" target="_blank">香港移交25年 英相和外相再促北京履行中英联合声明</a></li>
-<li><a href="/comments/20220702/1752825.md" target="_blank">疾病源头到底哪来？ 朝鲜暗控韩国“投毒”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 <li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
 
 </ul>
 </div>
