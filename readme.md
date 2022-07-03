@@ -18,16 +18,16 @@
 <li><a href="/bannedvideo/20220703/1753354.md">突发！全中国十亿人户籍资料几十亿警情信息被盗！要了亲命了！</a></li>
 <li><a href="/cnnews/20220703/1753224.md">乌兹别克兄妹乱伦生子！男婴出生2小时亡 “全身鳞片”</a></li>
 <li><a href="/bannedvideo/20220703/1753360.md">唐山烧烤店黑帮打女孩时，有两名警察在场。唐山市路北区副区长、公安局书记局长马爱军，不仅在场，还亲自部署、亲自指挥。</a></li>
+<li><a href="/comments/20220703/1753426.md">习近平是不是比江泽民更坏？</a></li>
 <li><a href="/topimagenews/20220703/1753205.md">习近平正提供一份全新的社会契约 收买港人民心</a></li>
 <li><a href="/bannedvideo/20220703/1753349.md">（黄标）唐山再爆猛料！马局长在现场,女记者采访被消失⋯⋯</a></li>
 <li><a href="/cbnews/20220703/1753168.md">江苏无锡突发疫情 上万人被拉走隔离</a></li>
-<li><a href="/comments/20220703/1753426.md">习近平是不是比江泽民更坏？</a></li>
 <li><a href="/cnnews/20220703/1753240.md">他悲愤退场 她挥舞镰刀 上海精英的两种残酷选择</a></li>
 <li><a href="/cnnews/20220703/1753187.md">马斯克神隐十天回归推特 发布了一张照片</a></li>
 <li><a href="/bannedvideo/20220703/1753278.md">老粉红翻车堵路二十大，习近平大怒，李克强大笑？香港怪花装饰一尊讲话桌，讽动态清灵？</a></li>
 <li><a href="/headline/20220703/1753393.md">惊！香港民建联议员何俊贤确诊 3天前曾与习近平集体合照</a></li>
-<li><a href="/comments/20220703/1753212.md">钟原：习近平香港之行泄漏了哪些实情？</a></li>
 <li><a href="/comments/20220703/1753362.md">李燕铭：李克强挑战习近平 背后有反习元老势力支持 中共内部酝酿宫廷政变式重大政治事变 京城加密反习谣言触目惊心 反腐败斗争成为习近平生死之战 习近平内部讲话曝光 二十大前北戴河会议大战内幕（八） 习近平李克强明争暗斗内幕（二九） 习近平连任与二十大常委争夺战（三六） 习近平火线反击江曾政变（四一）</a></li>
+<li><a href="/comments/20220703/1753212.md">钟原：习近平香港之行泄漏了哪些实情？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220704/1753498.md" target="_blank">与奥密克戎变异株有关？英国新冠确诊病例一周急增32%</a></li>
 <li><a href="/comments/20220704/1753484.md" target="_blank">夏季最适宜女人养生的汤茶饮</a></li>
 <li><a href="/comments/20220703/1753447.md" target="_blank">【俄乌战火第130天】乌军特战队“萨满营”潜入俄罗斯报复 传利西昌斯克已被俄军攻陷</a></li>
 <li><a href="/comments/20220703/1753440.md" target="_blank">说“香港加油”遭围剿 张学友发声明：盼中国人以理服人</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220703/1753316.md" target="_blank">解决不了银行，还解决不了你嘛</a></li>
 <li><a href="/comments/20220703/1753315.md" target="_blank">英媒：香港主权移交25周年：令人难忘的十件大事</a></li>
 <li><a href="/comments/20220703/1753314.md" target="_blank">曾庆文：孔子的中庸之道：华夏的自由之光</a></li>
-<li><a href="/comments/20220703/1753293.md" target="_blank">【小说连载】日初天子 十三、等待那一天的到来(1)</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
 <li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 
 </ul>
 </div>
