@@ -19,15 +19,15 @@
 <li><a href="/bannedvideo/20220704/1753785.md">上海泄密疑涉内斗 他爆习家人动向：政治气氛像1970年 【两岸要闻】</a></li>
 <li><a href="/cnnews/20220704/1753584.md">大陆卖鱼西施超高颜值爆红 惊艳美照惊呆网友</a></li>
 <li><a href="/bannedvideo/20220704/1753549.md">🔥政治局会议出事！风暴来袭；细思极恐！人工智能辨中共党员忠诚度；普京外访凄凉被排挤？民主党借抗中共法案夹带私货？共和党领袖撂话；乌东战略重镇遭包围；报复制裁 俄减供天然气 德改配给制【阿波罗网TL】</a></li>
-<li><a href="/headline/20220704/1753772.md">肖建华庭审新消息</a></li>
-<li><a href="/cnnews/20220704/1753651.md">唐山烧烤案 民警王艳辉 实名举报法医</a></li>
-<li><a href="/cnnews/20220704/1753720.md">更加尴尬了：朝鲜疫情结束，俄罗斯突然宣布躺平</a></li>
 <li><a href="/ssgc/20220704/1753795.md">公安分局长也在烧烤店 唐山官方缘何隐瞒</a></li>
+<li><a href="/headline/20220704/1753772.md">肖建华庭审新消息</a></li>
+<li><a href="/cnnews/20220704/1753720.md">更加尴尬了：朝鲜疫情结束，俄罗斯突然宣布躺平</a></li>
+<li><a href="/cnnews/20220704/1753651.md">唐山烧烤案 民警王艳辉 实名举报法医</a></li>
 <li><a href="/headline/20220704/1753702.md">”向20大建言”骂声一片 抗疫清零或成习总连任死结？</a></li>
 <li><a href="/topimagenews/20220704/1753590.md">葫芦岛告急：“我也跑了，能忍着的人佩服了”</a></li>
 <li><a href="/cnnews/20220704/1753585.md">南加州华人大妈跳广场舞互殴，结果尴尬了</a></li>
-<li><a href="/baitai/20220704/1753727.md">倪匡逃离内蒙古的经过</a></li>
 <li><a href="/headline/20220704/1753753.md">中央清零令不灵：有12城市爆发疫情</a></li>
+<li><a href="/baitai/20220704/1753727.md">倪匡逃离内蒙古的经过</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220705/1753929.md" target="_blank">在望女成凤的遗憾中 勿忘偏颇教育带来的危害</a></li>
 <li><a href="/comments/20220705/1753904.md" target="_blank">千年乐山大佛 每逢灾难来时都会落泪 是巧合吗？</a></li>
 <li><a href="/comments/20220705/1753894.md" target="_blank">持续两年猛增后，特斯拉首次出现交付量下降</a></li>
 <li><a href="/comments/20220705/1753887.md" target="_blank">神韵彰化巡演 一日连两场爆满 县长盛赞：心灵飨宴</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220704/1753692.md" target="_blank">上海公安数据库疑大规模泄漏 10亿人变“透明人”</a></li>
 <li><a href="/comments/20220704/1753691.md" target="_blank">无锡疑似封城 孕产妇和新生婴儿也被拉走隔离</a></li>
 <li><a href="/comments/20220704/1753690.md" target="_blank">《星星点灯》歌词被改 台湾歌手郑智化：震惊、愤怒</a></li>
-<li><a href="/comments/20220704/1753681.md" target="_blank">编写剧本超300部 倪匡曾获终身成就奖</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
 <li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 
 </ul>
 </div>
