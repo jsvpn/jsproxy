@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220704/1753649.md">【微博精粹】接下来就看习主席的抵抗力了</a></li>
 <li><a href="/topimagenews/20220704/1753676.md">任正非透心凉！34亿到手！华为、中兴彻底没戏了【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220704/1753710.md">中国当下即将爆发金融危机的十大征兆</a></li>
 <li><a href="/bannedvideo/20220704/1753785.md">上海泄密疑涉内斗 他爆习家人动向：政治气氛像1970年 【两岸要闻】</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/cnnews/20220704/1753720.md">更加尴尬了：朝鲜疫情结束，俄罗斯突然宣布躺平</a></li>
 <li><a href="/headline/20220704/1753702.md">”向20大建言”骂声一片 抗疫清零或成习总连任死结？</a></li>
 <li><a href="/renquan/20220704/1753846.md">唐山举报者张荣被警方刑拘</a></li>
-<li><a href="/cnnews/20220704/1753651.md">唐山烧烤案 民警王艳辉 实名举报法医</a></li>
 <li><a href="/baitai/20220704/1753727.md">倪匡逃离内蒙古的经过</a></li>
+<li><a href="/topimagenews/20220705/1753934.md">印度神童：东亚大难将至 投资者这个时间要小心？</a></li>
 <li><a href="/headline/20220704/1753753.md">中央清零令不灵：有12城市爆发疫情</a></li>
 <li><a href="/headline/20220704/1753758.md">反共倪匡逝世 中国微博热搜第一 弃用10年官号突涌过万留言悼念</a></li>
-<li><a href="/topimagenews/20220705/1753934.md">印度神童：东亚大难将至 投资者这个时间要小心？</a></li>
 <li><a href="/topimagenews/20220704/1753736.md">习近平说溜嘴？视察武汉称被“卡脖子” 要半导体突破关键技术</a></li>
-<li><a href="/topimagenews/20220704/1753812.md">9成靠进口！高端科学仪器中国造不出；俄远离中俄大飞机项目；</a></li>
-<li><a href="/yule/20220704/1753654.md">清纯不再？章泽天最新亮相被吐槽：又老又土…</a></li>
-<li><a href="/cnnews/20220704/1753841.md">政治风暴来袭！中共宣传机器全力开动！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220705/1753993.md">中国拼多多售卖女童下体肉？平台紧急停业调查</a></li>
+<li><a href="/topimagenews/20220704/1753812.md">9成靠进口！高端科学仪器中国造不出；俄远离中俄大飞机项目；</a></li>
+<li><a href="/cnnews/20220704/1753841.md">政治风暴来袭！中共宣传机器全力开动！【阿波罗网报道】</a></li>
 <li><a href="/headline/20220704/1753780.md">【中国社会】河北刑警队长实名举报省公安厅副厅长保护黑社会</a></li>
 <li><a href="/cnnews/20220704/1753774.md">丹东，一个离地狱最近的地方</a></li>
+<li><a href="/cnnews/20220704/1753706.md">不向丧尸低头，张学友是个好榜样</a></li>
+<li><a href="/baitai/20220704/1753776.md">巨鹿路9号女嘉宾｜这个世界真是操蛋的不真实</a></li>
+<li><a href="/topimagenews/20220705/1753976.md">大陆储户转账3万遭冻结 多名网友遇类似情况</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220705/1754066.md" target="_blank">芝加哥独立日游行枪击案 数十伤亡 警方追捕一小时后嫌犯落网</a></li>
+<li><a href="/comments/20220705/1754065.md" target="_blank">调查：近半数青年对港未来悲观 最期望“自由”</a></li>
+<li><a href="/comments/20220705/1754064.md" target="_blank">俄军攻下卢甘斯克 西方纷纷加码援乌 媒体人吁认清中共</a></li>
+<li><a href="/comments/20220705/1754063.md" target="_blank">亚特兰大联储GDP系统预测：美国经济衰退或提前到来</a></li>
+<li><a href="/comments/20220705/1754059.md" target="_blank">87岁倪匡辞世 周慧敏曝光公公私下一面</a></li>
+<li><a href="/comments/20220705/1754053.md" target="_blank">袁红冰：自焚圣火之歌</a></li>
 <li><a href="/comments/20220705/1754045.md" target="_blank">中国的新能源车又多了一门哑炮…… 【原文已被404】</a></li>
 <li><a href="/comments/20220705/1754044.md" target="_blank">这个世界真是操蛋的不真实</a></li>
 <li><a href="/comments/20220705/1754043.md" target="_blank">战事走向凶险！普京欲壑难填 或假途灭虢</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20220704/1753877.md" target="_blank">“中南海头号大案”开审 习曾生死战大拉开帷幕？</a></li>
 <li><a href="/comments/20220704/1753876.md" target="_blank">唐山再爆恶性事件！男子持刀杀害2人 评论翻车</a></li>
 <li><a href="/comments/20220704/1753873.md" target="_blank">【杜耀明评论】解决房屋问题，有劳中联办展示底线思维</a></li>
-<li><a href="/comments/20220704/1753842.md" target="_blank">丰田2022年上半年美国销量下降19%</a></li>
-<li><a href="/comments/20220704/1753827.md" target="_blank">时事大家谈：“该下岗不要贪权”：民间20大建言警告习近平？</a></li>
-<li><a href="/comments/20220704/1753821.md" target="_blank">暴雨酿祸！ 中国河北石家庄牌楼坍塌致8死1伤</a></li>
-<li><a href="/comments/20220704/1753803.md" target="_blank">【俄乌战火第131天】乌军证实利西昌斯克失守 英外相研拟赠乌俄被冻资产</a></li>
-<li><a href="/comments/20220704/1753801.md" target="_blank">被消失5年的加拿大华裔亿万富翁肖建华今在中国受审</a></li>
-<li><a href="/comments/20220704/1753794.md" target="_blank">蒸烤箱两用功能对家庭的适用性</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
 <li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
 
 </ul>
 </div>
