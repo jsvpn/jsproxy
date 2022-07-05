@@ -9,25 +9,25 @@
 <li><a href="/cbnews/20220705/1753959.md">中国篮球明星赴美和妻儿团圆 豪宅曝光</a></li>
 <li><a href="/renquan/20220704/1753846.md">唐山举报者张荣被警方刑拘</a></li>
 <li><a href="/ssgc/20220705/1754136.md">54岁河北公安厅厅长刘文玺因病离世 官方两天后公布消息</a></li>
-<li><a href="/topimagenews/20220705/1754035.md">暗批习？王岐山系媒体丢“今上”面子</a></li>
 <li><a href="/topimagenews/20220705/1753934.md">印度神童：东亚大难将至 投资者这个时间要小心？</a></li>
+<li><a href="/topimagenews/20220705/1754035.md">暗批习？王岐山系媒体丢“今上”面子</a></li>
 <li><a href="/finance/20220705/1754037.md">李克强无视习近平 喊出大实话</a></li>
 <li><a href="/topimagenews/20220705/1753976.md">大陆储户转账3万遭冻结 多名网友遇类似情况</a></li>
-<li><a href="/topimagenews/20220705/1754077.md">【微博精粹】今上这种光辉形象 怎么通过审查的？</a></li>
 <li><a href="/cnnews/20220704/1753841.md">政治风暴来袭！中共宣传机器全力开动！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220705/1753992.md">党媒自曝中共高层密集出国有深意？中共很可能在准备一件大事：中共被美卡脖子！应打中间商；【每日头条】</a></li>
+<li><a href="/topimagenews/20220705/1754077.md">【微博精粹】今上这种光辉形象 怎么通过审查的？</a></li>
 <li><a href="/topimagenews/20220705/1754078.md">王岐山扫“今上”面子？上海帮身影浮现【阿波罗网报导】</a></li>
 <li><a href="/comments/20220705/1753983.md">房价跌回15年前 中国出现第二个鹤岗？地方政府没钱直接躺平</a></li>
 <li><a href="/yule/20220705/1754049.md">金正恩处决姑丈清纯小三 揭大量知名艺人</a></li>
 <li><a href="/cnnews/20220705/1753970.md">银行再爆雷！辽宁两银行被承接 原行长潜逃被捕</a></li>
-<li><a href="/bannedvideo/20220705/1754112.md">中共逃不了！法国重磅报告震惊总统；习近平怕什么？拒绝普京访俄邀请【希望之声TV-国际风云】</a></li>
 <li><a href="/yule/20220705/1753899.md">55岁王祖贤现身街头遛狗，又高又胖模样大变</a></li>
+<li><a href="/bannedvideo/20220705/1754112.md">中共逃不了！法国重磅报告震惊总统；习近平怕什么？拒绝普京访俄邀请【希望之声TV-国际风云】</a></li>
 <li><a href="/ssgc/20220705/1754067.md">〖兲朝浮世绘〗奴才是不能与主子肩并肩的 地下党难道不培训的吗？</a></li>
-<li><a href="/ssgc/20220705/1754110.md">〖微博谈〗难道他们自己感觉不到很傻吗？</a></li>
 <li><a href="/ssgc/20220705/1754128.md">中、港宣布 “永续”人民币/港币互换协议 中国变相套取1200亿美元外汇</a></li>
+<li><a href="/ssgc/20220705/1754110.md">〖微博谈〗难道他们自己感觉不到很傻吗？</a></li>
 <li><a href="/cnnews/20220705/1754113.md">中共稀土不“稀”了？土耳其境内发现大量稀土 称矿含量可为全球供应1,000年</a></li>
+<li><a href="/topimagenews/20220705/1754199.md">乌空军曝对抗俄战机像“自杀”：对方已发射导弹 自己在雷达萤幕上还没找到敌机</a></li>
 <li><a href="/funmedia/20220705/1753964.md">如果你有女儿，请告诉她：拒绝以下九件事</a></li>
-<li><a href="/comments/20220705/1754059.md">87岁倪匡辞世 周慧敏曝光公公私下一面</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
 <li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
 
 </ul>
 </div>
