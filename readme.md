@@ -8,26 +8,26 @@
 <li><a href="/bannedvideo/20220704/1753785.md">上海泄密疑涉内斗 他爆习家人动向：政治气氛像1970年 【两岸要闻】</a></li>
 <li><a href="/ssgc/20220704/1753795.md">公安分局长也在烧烤店 唐山官方缘何隐瞒</a></li>
 <li><a href="/topimagenews/20220705/1753993.md">中国拼多多售卖女童下体肉？平台紧急停业调查</a></li>
-<li><a href="/bannedvideo/20220704/1753777.md">陈破空：赵乐际在行动！大规模逮捕粮官，中纪委盘查习时代。清零帝失败，12城市爆疫情。陆台篡改台湾歌词。陈破空直播 与网友互动 美东7月4早8点30、即中港台7月4晚8点30</a></li>
 <li><a href="/cbnews/20220705/1753959.md">中国篮球明星赴美和妻儿团圆 豪宅曝光</a></li>
 <li><a href="/renquan/20220704/1753846.md">唐山举报者张荣被警方刑拘</a></li>
 <li><a href="/topimagenews/20220705/1754035.md">暗批习？王岐山系媒体丢“今上”面子</a></li>
 <li><a href="/topimagenews/20220705/1753934.md">印度神童：东亚大难将至 投资者这个时间要小心？</a></li>
 <li><a href="/finance/20220705/1754037.md">李克强无视习近平 喊出大实话</a></li>
 <li><a href="/topimagenews/20220705/1754077.md">【微博精粹】今上这种光辉形象 怎么通过审查的？</a></li>
-<li><a href="/topimagenews/20220705/1754078.md">王岐山扫“今上”面子？上海帮身影浮现【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220705/1753976.md">大陆储户转账3万遭冻结 多名网友遇类似情况</a></li>
+<li><a href="/ssgc/20220705/1754136.md">54岁河北公安厅厅长刘文玺因病离世 官方两天后公布消息</a></li>
+<li><a href="/topimagenews/20220705/1754078.md">王岐山扫“今上”面子？上海帮身影浮现【阿波罗网报导】</a></li>
+<li><a href="/cnnews/20220704/1753841.md">政治风暴来袭！中共宣传机器全力开动！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220705/1753992.md">党媒自曝中共高层密集出国有深意？中共很可能在准备一件大事：中共被美卡脖子！应打中间商；【每日头条】</a></li>
 <li><a href="/yule/20220705/1754049.md">金正恩处决姑丈清纯小三 揭大量知名艺人</a></li>
 <li><a href="/topimagenews/20220704/1753812.md">9成靠进口！高端科学仪器中国造不出；俄远离中俄大飞机项目；</a></li>
-<li><a href="/cnnews/20220704/1753841.md">政治风暴来袭！中共宣传机器全力开动！【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20220705/1754136.md">54岁河北公安厅厅长刘文玺因病离世 官方两天后公布消息</a></li>
 <li><a href="/comments/20220705/1753983.md">房价跌回15年前 中国出现第二个鹤岗？地方政府没钱直接躺平</a></li>
 <li><a href="/headline/20220704/1753780.md">【中国社会】河北刑警队长实名举报省公安厅副厅长保护黑社会</a></li>
 <li><a href="/cnnews/20220705/1753970.md">银行再爆雷！辽宁两银行被承接 原行长潜逃被捕</a></li>
 <li><a href="/yule/20220705/1753899.md">55岁王祖贤现身街头遛狗，又高又胖模样大变</a></li>
-<li><a href="/baitai/20220704/1753776.md">巨鹿路9号女嘉宾｜这个世界真是操蛋的不真实</a></li>
+<li><a href="/ssgc/20220705/1754067.md">〖兲朝浮世绘〗奴才是不能与主子肩并肩的 地下党难道不培训的吗？</a></li>
 <li><a href="/funmedia/20220705/1753964.md">如果你有女儿，请告诉她：拒绝以下九件事</a></li>
+<li><a href="/comments/20220705/1754059.md">87岁倪匡辞世 周慧敏曝光公公私下一面</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220705/1754221.md" target="_blank">与俄罗斯关系急转直下 保加利亚不再软弱</a></li>
+<li><a href="/comments/20220705/1754219.md" target="_blank">高温来袭，全球失眠</a></li>
+<li><a href="/comments/20220705/1754211.md" target="_blank">【俄乌战火第132天】乌克兰重建费用天文数字 国旗运抵蛇岛象征收复失土</a></li>
 <li><a href="/comments/20220705/1754209.md" target="_blank">英国研究：握力大，不易痴呆</a></li>
 <li><a href="/comments/20220705/1754208.md" target="_blank">研究发现：80%的猝死运动员没有心脏病症状或家族病史</a></li>
 <li><a href="/comments/20220705/1754207.md" target="_blank">运动鞋怎么挑？如此选择防伤害</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220705/1754066.md" target="_blank">芝加哥独立日游行枪击案 数十伤亡 警方追捕一小时后嫌犯落网</a></li>
 <li><a href="/comments/20220705/1754065.md" target="_blank">调查：近半数青年对港未来悲观 最期望“自由”</a></li>
 <li><a href="/comments/20220705/1754064.md" target="_blank">俄军攻下卢甘斯克 西方纷纷加码援乌 媒体人吁认清中共</a></li>
-<li><a href="/comments/20220705/1754063.md" target="_blank">亚特兰大联储GDP系统预测：美国经济衰退或提前到来</a></li>
-<li><a href="/comments/20220705/1754059.md" target="_blank">87岁倪匡辞世 周慧敏曝光公公私下一面</a></li>
-<li><a href="/comments/20220705/1754053.md" target="_blank">袁红冰：自焚圣火之歌</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
 
 </ul>
 </div>
