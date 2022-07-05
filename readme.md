@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220704/1753710.md">中国当下即将爆发金融危机的十大征兆</a></li>
 <li><a href="/bannedvideo/20220704/1753785.md">上海泄密疑涉内斗 他爆习家人动向：政治气氛像1970年 【两岸要闻】</a></li>
-<li><a href="/cbnews/20220705/1753959.md">中国篮球明星赴美和妻儿团圆 豪宅曝光</a></li>
 <li><a href="/ssgc/20220704/1753795.md">公安分局长也在烧烤店 唐山官方缘何隐瞒</a></li>
+<li><a href="/cbnews/20220705/1753959.md">中国篮球明星赴美和妻儿团圆 豪宅曝光</a></li>
 <li><a href="/bannedvideo/20220704/1753777.md">陈破空：赵乐际在行动！大规模逮捕粮官，中纪委盘查习时代。清零帝失败，12城市爆疫情。陆台篡改台湾歌词。陈破空直播 与网友互动 美东7月4早8点30、即中港台7月4晚8点30</a></li>
 <li><a href="/headline/20220704/1753772.md">肖建华庭审新消息</a></li>
 <li><a href="/cnnews/20220704/1753720.md">更加尴尬了：朝鲜疫情结束，俄罗斯突然宣布躺平</a></li>
+<li><a href="/topimagenews/20220705/1753993.md">中国拼多多售卖女童下体肉？平台紧急停业调查</a></li>
 <li><a href="/renquan/20220704/1753846.md">唐山举报者张荣被警方刑拘</a></li>
 <li><a href="/headline/20220704/1753702.md">”向20大建言”骂声一片 抗疫清零或成习总连任死结？</a></li>
-<li><a href="/topimagenews/20220705/1753993.md">中国拼多多售卖女童下体肉？平台紧急停业调查</a></li>
 <li><a href="/baitai/20220704/1753727.md">倪匡逃离内蒙古的经过</a></li>
 <li><a href="/topimagenews/20220705/1753934.md">印度神童：东亚大难将至 投资者这个时间要小心？</a></li>
 <li><a href="/headline/20220704/1753753.md">中央清零令不灵：有12城市爆发疫情</a></li>
+<li><a href="/topimagenews/20220705/1753976.md">大陆储户转账3万遭冻结 多名网友遇类似情况</a></li>
 <li><a href="/topimagenews/20220704/1753736.md">习近平说溜嘴？视察武汉称被“卡脖子” 要半导体突破关键技术</a></li>
 <li><a href="/headline/20220704/1753758.md">反共倪匡逝世 中国微博热搜第一 弃用10年官号突涌过万留言悼念</a></li>
 <li><a href="/topimagenews/20220704/1753812.md">9成靠进口！高端科学仪器中国造不出；俄远离中俄大飞机项目；</a></li>
-<li><a href="/topimagenews/20220705/1753976.md">大陆储户转账3万遭冻结 多名网友遇类似情况</a></li>
 <li><a href="/cnnews/20220704/1753841.md">政治风暴来袭！中共宣传机器全力开动！【阿波罗网报道】</a></li>
 <li><a href="/headline/20220704/1753780.md">【中国社会】河北刑警队长实名举报省公安厅副厅长保护黑社会</a></li>
 <li><a href="/yule/20220705/1753899.md">55岁王祖贤现身街头遛狗，又高又胖模样大变</a></li>
+<li><a href="/comments/20220705/1753983.md">房价跌回15年前 中国出现第二个鹤岗？地方政府没钱直接躺平</a></li>
 <li><a href="/cnnews/20220704/1753774.md">丹东，一个离地狱最近的地方</a></li>
 <li><a href="/cnnews/20220704/1753706.md">不向丧尸低头，张学友是个好榜样</a></li>
-<li><a href="/baitai/20220704/1753776.md">巨鹿路9号女嘉宾｜这个世界真是操蛋的不真实</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220705/1754116.md" target="_blank">【独家重磅】李燕铭：习王打虎干将空降 曾庆红心腹及周永康人事大管家的大秘被查 习近平布局清洗江曾集团宁夏帮 习近平清洗宁夏帮（三）</a></li>
+<li><a href="/comments/20220705/1754099.md" target="_blank">七月四日感悟：亡国奴没有国庆 — 曾节明</a></li>
 <li><a href="/comments/20220705/1754066.md" target="_blank">芝加哥独立日游行枪击案 数十伤亡 警方追捕一小时后嫌犯落网</a></li>
 <li><a href="/comments/20220705/1754065.md" target="_blank">调查：近半数青年对港未来悲观 最期望“自由”</a></li>
 <li><a href="/comments/20220705/1754064.md" target="_blank">俄军攻下卢甘斯克 西方纷纷加码援乌 媒体人吁认清中共</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220705/1753894.md" target="_blank">持续两年猛增后，特斯拉首次出现交付量下降</a></li>
 <li><a href="/comments/20220705/1753887.md" target="_blank">神韵彰化巡演 一日连两场爆满 县长盛赞：心灵飨宴</a></li>
 <li><a href="/comments/20220704/1753877.md" target="_blank">“中南海头号大案”开审 习曾生死战大拉开帷幕？</a></li>
-<li><a href="/comments/20220704/1753876.md" target="_blank">唐山再爆恶性事件！男子持刀杀害2人 评论翻车</a></li>
-<li><a href="/comments/20220704/1753873.md" target="_blank">【杜耀明评论】解决房屋问题，有劳中联办展示底线思维</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
 <li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">修炼法轮功 女飞行员依然翱翔在蓝色天空</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
 
 </ul>
 </div>
