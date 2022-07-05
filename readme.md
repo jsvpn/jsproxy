@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220704/1753563.md">习稳握大权！“刀把子”王小洪甫一上任火速出拳</a></li>
 <li><a href="/topimagenews/20220704/1753649.md">【微博精粹】接下来就看习主席的抵抗力了</a></li>
 <li><a href="/topimagenews/20220704/1753676.md">任正非透心凉！34亿到手！华为、中兴彻底没戏了【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220704/1753710.md">中国当下即将爆发金融危机的十大征兆</a></li>
@@ -14,8 +13,8 @@
 <li><a href="/topimagenews/20220704/1753591.md">我是银行的 最近心里慌得一片…</a></li>
 <li><a href="/topimagenews/20220704/1753604.md">中共神秘署名的政论文章，重要信号再现【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220704/1753584.md">大陆卖鱼西施超高颜值爆红 惊艳美照惊呆网友</a></li>
-<li><a href="/bannedvideo/20220704/1753777.md">陈破空：赵乐际在行动！大规模逮捕粮官，中纪委盘查习时代。清零帝失败，12城市爆疫情。陆台篡改台湾歌词。陈破空直播 与网友互动 美东7月4早8点30、即中港台7月4晚8点30</a></li>
 <li><a href="/bannedvideo/20220704/1753785.md">上海泄密疑涉内斗 他爆习家人动向：政治气氛像1970年 【两岸要闻】</a></li>
+<li><a href="/bannedvideo/20220704/1753777.md">陈破空：赵乐际在行动！大规模逮捕粮官，中纪委盘查习时代。清零帝失败，12城市爆疫情。陆台篡改台湾歌词。陈破空直播 与网友互动 美东7月4早8点30、即中港台7月4晚8点30</a></li>
 <li><a href="/ssgc/20220704/1753795.md">公安分局长也在烧烤店 唐山官方缘何隐瞒</a></li>
 <li><a href="/headline/20220704/1753772.md">肖建华庭审新消息</a></li>
 <li><a href="/cnnews/20220704/1753720.md">更加尴尬了：朝鲜疫情结束，俄罗斯突然宣布躺平</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/headline/20220704/1753753.md">中央清零令不灵：有12城市爆发疫情</a></li>
 <li><a href="/headline/20220704/1753758.md">反共倪匡逝世 中国微博热搜第一 弃用10年官号突涌过万留言悼念</a></li>
 <li><a href="/topimagenews/20220704/1753736.md">习近平说溜嘴？视察武汉称被“卡脖子” 要半导体突破关键技术</a></li>
+<li><a href="/cbnews/20220705/1753959.md">中国篮球明星赴美和妻儿团圆 豪宅曝光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220705/1753993.md" target="_blank">中国拼多多售卖女童下体肉？平台紧急停业调查</a></li>
 <li><a href="/topimagenews/20220705/1753976.md" target="_blank">大陆储户转账3万遭冻结 多名网友遇类似情况</a></li>
 <li><a href="/topimagenews/20220705/1753934.md" target="_blank">印度神童：东亚大难将至 投资者这个时间要小心？</a></li>
 <li><a href="/topimagenews/20220705/1753889.md" target="_blank">夜间潜入俄国境内炸油槽 乌克兰神秘特战队“萨满营”曝光</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220703/1753201.md" target="_blank">普京外访凄凉“被排挤”？ 里海峰会再现奇观</a></li>
 <li><a href="/topimagenews/20220703/1753200.md" target="_blank">魔都人惊人之举：魔症了</a></li>
 <li><a href="/topimagenews/20220702/1753080.md" target="_blank">遭拐卖26年！陆女千里寻亲返家惊闻父母噩耗…</a></li>
-<li><a href="/topimagenews/20220702/1753075.md" target="_blank">回到冷战时期？俄副外长：瑞典、芬兰入北约 波罗的海地区将沦“军事竞技场”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220705/1753996.md" target="_blank">巴菲特操作频繁 斥资数亿投资能源企业</a></li>
 <li><a href="/comments/20220705/1753983.md" target="_blank">房价跌回15年前 中国出现第二个鹤岗？地方政府没钱直接躺平</a></li>
 <li><a href="/comments/20220705/1753973.md" target="_blank">上海现张献忠！传上海电视台被裁员工持刀伤人</a></li>
 <li><a href="/comments/20220705/1753956.md" target="_blank">瑞士主办“乌克兰重建会议” 乌总理：计划需7500亿美元</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220704/1753765.md" target="_blank">减肥也能吃！毛豆的4大好处</a></li>
 <li><a href="/comments/20220704/1753764.md" target="_blank">果中之后「山竹」可控血糖</a></li>
 <li><a href="/comments/20220704/1753763.md" target="_blank">最新发现：你睡着了，癌却苏醒了…</a></li>
-<li><a href="/comments/20220704/1753724.md" target="_blank">美国务院参事：美澳关系对遏止中共影响力至关重要</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
 <li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 
 </ul>
 </div>
