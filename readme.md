@@ -18,16 +18,16 @@
 <li><a href="/cnnews/20220706/1754416.md">中国体操人气王 奥运夺冠1年后 胖到认不出</a></li>
 <li><a href="/comments/20220706/1754470.md">红二代美国出书 揭秘周永康薄熙来政变始末： 两太子党获得王立军窃听密档 掌握薄周政变篡权罪证 敦促周永康发兵中南海 胡锦涛从内线获得消息 紧急调38集团军三个师团包围政法委公安部 先下手为强反戈一击 周永康试图致电胡锦涛无果 最后只得向江泽民求救…… 中南海不可告人的秘密_546</a></li>
 <li><a href="/bannedvideo/20220706/1754684.md">陈破空：神秘，河北高官接连猝死！北戴河时刻。惊爆习近平打完辉瑞三针！北约东扩直抵俄境。一带一路又导致一国破产。陈破空直播 与网友互动 美东7月6早8点30、即中港台7月6晚8点30</a></li>
-<li><a href="/ssgc/20220706/1754467.md">〖微博谈〗他们非常清楚自己是个笑话</a></li>
 <li><a href="/cnnews/20220706/1754645.md">斯里兰卡宣告破产 英国警告公民非必要勿前往</a></li>
+<li><a href="/ssgc/20220706/1754467.md">〖微博谈〗他们非常清楚自己是个笑话</a></li>
 <li><a href="/topimagenews/20220706/1754675.md">“一带一路”害崩盘？ 斯里兰卡破产 缺油缺粮、居民绝望当难民逃亡</a></li>
 <li><a href="/bannedvideo/20220706/1754526.md">河北公安厅长死亡，带走多少黑幕？红三代自曝父子参与政变；胡锦涛亲令38军包围政法委；陈昊苏力促行动，胡锦涛成功策反；重庆密件泄漏，最终替换习近平？【新闻看点 李沐阳7.5】</a></li>
 <li><a href="/ssgc/20220706/1754562.md">〖兲朝浮世绘〗香港上层对中共黑帮的规矩还没摸清门道</a></li>
 <li><a href="/bannedvideo/20220706/1754488.md">🔥 兵变坐实？中南海政变枪战 主谋是他？诡异！唐山打人 河北公安厅长突完了；取代习？校友曝李克强；耶伦与刘鹤通话 贸易战要停？中共2原因不敢轻易犯台；西方应和中共器官移植业断联</a></li>
 <li><a href="/topimagenews/20220706/1754474.md">真的吗？"如果政变是另一种结局，就不一定会有今天的..."【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20220706/1754652.md">川普愿望成真？美企掀逃离大陆潮 揭美国制造复兴关键</a></li>
 <li><a href="/topimagenews/20220706/1754585.md">俄军所有后备部队都投入了!乌军：卢甘斯克郊区双方激战</a></li>
 <li><a href="/bannedvideo/20220706/1754593.md">知情者揭“军队进北京”细节！上海、西安再封控，钢板围小区，夜半核酸，西安实行7天管制；李克强薄熙来的北大同学，披露二人当年表现；中共高官互相送礼，竟藏窃听器｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/topimagenews/20220706/1754652.md">川普愿望成真？美企掀逃离大陆潮 揭美国制造复兴关键</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
 <li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 
 </ul>
 </div>
