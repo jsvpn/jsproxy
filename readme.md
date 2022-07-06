@@ -19,15 +19,15 @@
 <li><a href="/topimagenews/20220706/1754528.md">又倒下一个装纯的！中国奶制品业堪忧</a></li>
 <li><a href="/lifebaike/20220706/1754604.md">这些东西不要放床头 会短命 不是开玩笑</a></li>
 <li><a href="/bannedvideo/20220706/1754527.md">张学友“认罪书”疯传，引发黄明志郑智化成龙明星大讨论！习近平密接做实，倪匡香港大预言准确应验</a></li>
-<li><a href="/cnnews/20220706/1754416.md">中国体操人气王 奥运夺冠1年后 胖到认不出</a></li>
 <li><a href="/worldnews/20220706/1754347.md">面对历史性的一天：普京眼前一黑，但佯装镇定</a></li>
+<li><a href="/cnnews/20220706/1754416.md">中国体操人气王 奥运夺冠1年后 胖到认不出</a></li>
 <li><a href="/cnnews/20220706/1754376.md">第7波来袭！安省华人自曝强阳：喉咙像吞刀片</a></li>
-<li><a href="/comments/20220706/1754470.md">红二代美国出书 揭秘周永康薄熙来政变始末： 两太子党获得王立军窃听密档 掌握薄周政变篡权罪证 敦促周永康发兵中南海 胡锦涛从内线获得消息 紧急调38集团军三个师团包围政法委公安部 先下手为强反戈一击 周永康试图致电胡锦涛无果 最后只得向江泽民求救…… 中南海不可告人的秘密_546</a></li>
 <li><a href="/topimagenews/20220706/1754670.md">重庆车主维权 “遮羞布”成中国车展特色</a></li>
+<li><a href="/comments/20220706/1754470.md">红二代美国出书 揭秘周永康薄熙来政变始末： 两太子党获得王立军窃听密档 掌握薄周政变篡权罪证 敦促周永康发兵中南海 胡锦涛从内线获得消息 紧急调38集团军三个师团包围政法委公安部 先下手为强反戈一击 周永康试图致电胡锦涛无果 最后只得向江泽民求救…… 中南海不可告人的秘密_546</a></li>
 <li><a href="/bannedvideo/20220706/1754383.md">无锡全面消杀，宛如外星人入侵！</a></li>
 <li><a href="/ssgc/20220706/1754467.md">〖微博谈〗他们非常清楚自己是个笑话</a></li>
-<li><a href="/bannedvideo/20220706/1754488.md">🔥 兵变坐实？中南海政变枪战 主谋是他？诡异！唐山打人 河北公安厅长突完了；取代习？校友曝李克强；耶伦与刘鹤通话 贸易战要停？中共2原因不敢轻易犯台；西方应和中共器官移植业断联</a></li>
 <li><a href="/ssgc/20220706/1754562.md">〖兲朝浮世绘〗香港上层对中共黑帮的规矩还没摸清门道</a></li>
+<li><a href="/bannedvideo/20220706/1754488.md">🔥 兵变坐实？中南海政变枪战 主谋是他？诡异！唐山打人 河北公安厅长突完了；取代习？校友曝李克强；耶伦与刘鹤通话 贸易战要停？中共2原因不敢轻易犯台；西方应和中共器官移植业断联</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220706/1754788.md" target="_blank">看黄片招来鬼上身 修行人看到的魔鬼如何控制人身</a></li>
+<li><a href="/comments/20220706/1754787.md" target="_blank">专栏 | 劳工通讯：广东省惠州市惠东县华业铸造厂“2·18”爆炸事故（四）</a></li>
 <li><a href="/comments/20220706/1754740.md" target="_blank">喜见社会热烈回响 台湾最大玻璃企业董座成神韵忠粉</a></li>
 <li><a href="/comments/20220706/1754739.md" target="_blank">时事大家谈：乌东血战俄军攻城略地，普京能否笑到最后？</a></li>
 <li><a href="/comments/20220706/1754714.md" target="_blank">【梁京评论】习近平何以一退利己利天下——俄乌战争与中国危机（下）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220706/1754609.md" target="_blank">世界和平论坛 美英法驻华大使敦促中共停止助俄传谣</a></li>
 <li><a href="/comments/20220706/1754594.md" target="_blank">中国猪肉供应危机 发改委急开会禁带手机</a></li>
 <li><a href="/comments/20220706/1754590.md" target="_blank">中国冰淇淋“火烧也化不了” 吓坏网友</a></li>
-<li><a href="/comments/20220706/1754589.md" target="_blank">致信广东政法 牛腾宇母引“习语录”促翻案</a></li>
-<li><a href="/comments/20220706/1754588.md" target="_blank">一位脑神经专家谈濒死经历：我进入了天堂并见到守护天使</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
 
 </ul>
 </div>
