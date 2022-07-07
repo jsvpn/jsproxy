@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20220706/1754600.md">薄熙来在秦城监狱里的生活细节</a></li>
-<li><a href="/cnnews/20220706/1754460.md">中南海头号大案开审 涉及党魁等至少7常委【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220706/1754570.md">一场针对习近平的群众运动正在进行！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220706/1754483.md">官宣！河北廊坊出身赵丽颖步入仕途 还是“领导” 靳东之外又一人【阿波罗网报导】</a></li>
 <li><a href="/lifebaike/20220706/1754604.md">这些东西不要放床头 会短命 不是开玩笑</a></li>
 <li><a href="/topimagenews/20220706/1754528.md">又倒下一个装纯的！中国奶制品业堪忧</a></li>
 <li><a href="/topimagenews/20220706/1754670.md">重庆车主维权 “遮羞布”成中国车展特色</a></li>
 <li><a href="/bannedvideo/20220706/1754527.md">张学友“认罪书”疯传，引发黄明志郑智化成龙明星大讨论！习近平密接做实，倪匡香港大预言准确应验</a></li>
-<li><a href="/comments/20220706/1754470.md">红二代美国出书 揭秘周永康薄熙来政变始末： 两太子党获得王立军窃听密档 掌握薄周政变篡权罪证 敦促周永康发兵中南海 胡锦涛从内线获得消息 紧急调38集团军三个师团包围政法委公安部 先下手为强反戈一击 周永康试图致电胡锦涛无果 最后只得向江泽民求救…… 中南海不可告人的秘密_546</a></li>
 <li><a href="/bannedvideo/20220706/1754684.md">陈破空：神秘，河北高官接连猝死！北戴河时刻。惊爆习近平打完辉瑞三针！北约东扩直抵俄境。一带一路又导致一国破产。陈破空直播 与网友互动 美东7月6早8点30、即中港台7月6晚8点30</a></li>
-<li><a href="/ssgc/20220706/1754467.md">〖微博谈〗他们非常清楚自己是个笑话</a></li>
 <li><a href="/cnnews/20220706/1754645.md">斯里兰卡宣告破产 英国警告公民非必要勿前往</a></li>
 <li><a href="/topimagenews/20220706/1754675.md">“一带一路”害崩盘？ 斯里兰卡破产 缺油缺粮、居民绝望当难民逃亡</a></li>
 <li><a href="/bannedvideo/20220706/1754526.md">河北公安厅长死亡，带走多少黑幕？红三代自曝父子参与政变；胡锦涛亲令38军包围政法委；陈昊苏力促行动，胡锦涛成功策反；重庆密件泄漏，最终替换习近平？【新闻看点 李沐阳7.5】</a></li>
 <li><a href="/bannedvideo/20220706/1754488.md">🔥 兵变坐实？中南海政变枪战 主谋是他？诡异！唐山打人 河北公安厅长突完了；取代习？校友曝李克强；耶伦与刘鹤通话 贸易战要停？中共2原因不敢轻易犯台；西方应和中共器官移植业断联</a></li>
 <li><a href="/ssgc/20220706/1754562.md">〖兲朝浮世绘〗香港上层对中共黑帮的规矩还没摸清门道</a></li>
+<li><a href="/bannedvideo/20220707/1754796.md">河北公安厅长离奇猝死后,传政法委书记赵革病亡</a></li>
 <li><a href="/topimagenews/20220706/1754652.md">川普愿望成真？美企掀逃离大陆潮 揭美国制造复兴关键</a></li>
 <li><a href="/topimagenews/20220706/1754474.md">真的吗？"如果政变是另一种结局，就不一定会有今天的..."【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220706/1754593.md">知情者揭“军队进北京”细节！上海、西安再封控，钢板围小区，夜半核酸，西安实行7天管制；李克强薄熙来的北大同学，披露二人当年表现；中共高官互相送礼，竟藏窃听器｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20220706/1754585.md">俄军所有后备部队都投入了!乌军：卢甘斯克郊区双方激战</a></li>
-<li><a href="/bannedvideo/20220707/1754796.md">河北公安厅长离奇猝死后,传政法委书记赵革病亡</a></li>
 <li><a href="/bannedvideo/20220706/1754789.md">唐山，这个实名举报太震撼了！</a></li>
 <li><a href="/finance/20220706/1754492.md">中国民航“洗澡五十 门票一百” 飞友怒骂 为什么资本主义国家就不呢？</a></li>
+<li><a href="/cnnews/20220707/1754806.md">浓妆“田媛”插秧去 穿着清凉干农活拼流量</a></li>
+<li><a href="/bannedvideo/20220706/1754580.md">西安再次封城！西安大学生大逃亡，他们要赶在午夜12点前逃出西安！</a></li>
+<li><a href="/baitai/20220706/1754649.md">许纪霖：为什么想过太平日子的都愿去上海, 爱折腾的都想去北京？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220707/1754916.md" target="_blank">魔幻中国：盖了章，我们就是“放心猪肉”了</a></li>
 <li><a href="/topimagenews/20220706/1754675.md" target="_blank">“一带一路”害崩盘？ 斯里兰卡破产 缺油缺粮、居民绝望当难民逃亡</a></li>
 <li><a href="/topimagenews/20220706/1754670.md" target="_blank">重庆车主维权 “遮羞布”成中国车展特色</a></li>
 <li><a href="/topimagenews/20220706/1754652.md" target="_blank">川普愿望成真？美企掀逃离大陆潮 揭美国制造复兴关键</a></li>
@@ -90,13 +91,20 @@
 <li><a href="/topimagenews/20220705/1754034.md" target="_blank">二大爷：倪匡——用妓女比喻中共是侮辱妓女</a></li>
 <li><a href="/topimagenews/20220705/1753993.md" target="_blank">中国拼多多售卖女童下体肉？平台紧急停业调查</a></li>
 <li><a href="/topimagenews/20220705/1753976.md" target="_blank">大陆储户转账3万遭冻结 多名网友遇类似情况</a></li>
-<li><a href="/topimagenews/20220705/1753934.md" target="_blank">印度神童：东亚大难将至 投资者这个时间要小心？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220707/1754940.md" target="_blank">吁中共施压俄罗斯终战 澳外长：世界都在关注北京所为</a></li>
+<li><a href="/comments/20220707/1754932.md" target="_blank">田云：中共治下民众生存权难保 党媒诡辩无效</a></li>
+<li><a href="/comments/20220707/1754931.md" target="_blank">网海拾贝:习近平成密接，中南海要不要封锁？</a></li>
+<li><a href="/comments/20220707/1754930.md" target="_blank">宇清：从当前社会乱象反思中共对法轮功的镇压</a></li>
+<li><a href="/comments/20220707/1754929.md" target="_blank">金言：唐山“雷霆风暴” 无言的结局</a></li>
+<li><a href="/comments/20220707/1754928.md" target="_blank">杨威：各国商讨重建乌克兰 中共靠边站</a></li>
+<li><a href="/comments/20220707/1754927.md" target="_blank">袁斌：为何倪匡三十多年前就预言了香港的今天？</a></li>
+<li><a href="/comments/20220707/1754926.md" target="_blank">说什么“社会调剂”，明摆着就是变相拐卖人口</a></li>
 <li><a href="/comments/20220707/1754893.md" target="_blank">心腹“笔杆子”随习访港 评论指或有秘密任务</a></li>
 <li><a href="/comments/20220707/1754873.md" target="_blank">卷烟厂员工爆惊人秘密：中国烟草行业偷偷更换“过滤嘴材料” 藏有四种毒物毒上加毒 已经十年</a></li>
 <li><a href="/comments/20220707/1754872.md" target="_blank">《三国演义》第一百回 汉兵劫寨破曹真 武侯斗阵辱仲达</a></li>
@@ -114,14 +122,6 @@
 <li><a href="/comments/20220706/1754739.md" target="_blank">时事大家谈：乌东血战俄军攻城略地，普京能否笑到最后？</a></li>
 <li><a href="/comments/20220706/1754714.md" target="_blank">【梁京评论】习近平何以一退利己利天下——俄乌战争与中国危机（下）</a></li>
 <li><a href="/comments/20220706/1754704.md" target="_blank">中国房地产销售触底 房市痛苦仍将持续</a></li>
-<li><a href="/comments/20220706/1754699.md" target="_blank">人体气血阴阳失调 可在食物中找到功同药补的食材</a></li>
-<li><a href="/comments/20220706/1754686.md" target="_blank">网传家长求助公开信 上千孩子打国产疫苗罹患糖尿病</a></li>
-<li><a href="/comments/20220706/1754679.md" target="_blank">张建兴：江派抛出邓小平《密信》有用吗？</a></li>
-<li><a href="/comments/20220706/1754673.md" target="_blank">【俄乌战火第133天】俄军剑指顿内茨克 外国船只遭亲俄政府扣留</a></li>
-<li><a href="/comments/20220706/1754647.md" target="_blank">拜登再次暴露出共产党人的真面目 — 曾节明</a></li>
-<li><a href="/comments/20220706/1754662.md" target="_blank">高地公园枪杀案嫌犯被控七项一级谋杀罪</a></li>
-<li><a href="/comments/20220706/1754657.md" target="_blank">美六月份为欧亚输送500多万桶战略储备原油</a></li>
-<li><a href="/comments/20220706/1754640.md" target="_blank">用眼过度眼睛干涩 7种护眼水果来补救</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 <li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
 
 </ul>
 </div>
