@@ -8,25 +8,25 @@
 <li><a href="/topimagenews/20220706/1754670.md">重庆车主维权 “遮羞布”成中国车展特色</a></li>
 <li><a href="/bannedvideo/20220707/1754881.md">🔥怪！两大太子党主谋兵变未遂，竟然全身而退？河北事真多！传政法委书记丧生；俄乌就一关键问题接近达协议？老底揭穿！中共现在靠这个？拜登推迟对台军售 美囯会共和党人推新法案要求说明进度【阿波罗网TL】</a></li>
 <li><a href="/bannedvideo/20220707/1754796.md">河北公安厅长离奇猝死后,传政法委书记赵革病亡</a></li>
+<li><a href="/bannedvideo/20220707/1755015.md">习下一步 更危险！学者：中国人做好两手准备 关键时刻要来了【北美新闻】</a></li>
 <li><a href="/bannedvideo/20220706/1754684.md">陈破空：神秘，河北高官接连猝死！北戴河时刻。惊爆习近平打完辉瑞三针！北约东扩直抵俄境。一带一路又导致一国破产。陈破空直播 与网友互动 美东7月6早8点30、即中港台7月6晚8点30</a></li>
 <li><a href="/topimagenews/20220707/1754989.md">坐实？江泽民是这次政变的幕后支持者【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220707/1755015.md">习下一步 更危险！学者：中国人做好两手准备 关键时刻要来了【北美新闻】</a></li>
 <li><a href="/bannedvideo/20220706/1754789.md">唐山，这个实名举报太震撼了！</a></li>
 <li><a href="/topimagenews/20220706/1754675.md">“一带一路”害崩盘？ 斯里兰卡破产 缺油缺粮、居民绝望当难民逃亡</a></li>
 <li><a href="/comments/20220707/1754873.md">卷烟厂员工爆惊人秘密：中国烟草行业偷偷更换“过滤嘴材料” 藏有四种毒物毒上加毒 已经十年</a></li>
-<li><a href="/topimagenews/20220706/1754652.md">川普愿望成真？美企掀逃离大陆潮 揭美国制造复兴关键</a></li>
 <li><a href="/bannedvideo/20220707/1754803.md">中共万想不到   40国援乌的“马歇尔计划”来了 自己却成弃子；习访港 林郑尴尬 被习随从粗暴拖拽一幕曝光【环球看点】</a></li>
-<li><a href="/cnnews/20220706/1754712.md">四川美女直播主遭夫杀害！尸藏卧室冰柜2个月 疑与粉丝暧昧惹尪痛下杀手</a></li>
 <li><a href="/bannedvideo/20220707/1754878.md">河北省公安厅长刘文玺是病逝/轻生还是其他？我的校友/文友宋斌离世真相</a></li>
+<li><a href="/cnnews/20220706/1754712.md">四川美女直播主遭夫杀害！尸藏卧室冰柜2个月 疑与粉丝暧昧惹尪痛下杀手</a></li>
 <li><a href="/cnnews/20220707/1754806.md">浓妆“田媛”插秧去 穿着清凉干农活拼流量</a></li>
 <li><a href="/cnnews/20220707/1754891.md">最新！拜登拟取消对中共关税，细节和时间曝光</a></li>
 <li><a href="/ssgc/20220707/1754957.md">〖微博谈〗中国人口比预想的还要糟糕</a></li>
-<li><a href="/baitai/20220706/1754649.md">许纪霖：为什么想过太平日子的都愿去上海, 爱折腾的都想去北京？</a></li>
 <li><a href="/comments/20220706/1754679.md">张建兴：江派抛出邓小平《密信》有用吗？</a></li>
 <li><a href="/ssgc/20220706/1754661.md">多家银行卡客户账户被冻结  不可转出却可转入引发质疑</a></li>
-<li><a href="/health/20220707/1754898.md">呼吁停止食用，或比味精还伤骨骼，转告家人：尽早撤下餐桌</a></li>
-<li><a href="/cbnews/20220706/1754757.md">中国农村高挂“催生标语”网见内容酸爆：把人当畜生</a></li>
 <li><a href="/cnnews/20220707/1755036.md">“穿过大半个中国去睡你”诗人余秀华遭家暴：被老公抽了上百个耳光</a></li>
+<li><a href="/bannedvideo/20220707/1755030.md">文睿：李克强发严厉恐吓，北京政策大变，习近平消失近一周</a></li>
+<li><a href="/cbnews/20220706/1754757.md">中国农村高挂“催生标语”网见内容酸爆：把人当畜生</a></li>
+<li><a href="/health/20220707/1754898.md">呼吁停止食用，或比味精还伤骨骼，转告家人：尽早撤下餐桌</a></li>
+<li><a href="/bannedvideo/20220706/1754697.md">战略作家预告习未来：军变？脱钩？中国财政崩溃的标志 【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220707/1754949.md">这业务量确实在蹭蹭蹭往上走 福利院自己人说：日子过得相当滋润</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220707/1755151.md" target="_blank">4种柠檬小料理祝您度过炎炎夏日</a></li>
+<li><a href="/comments/20220707/1755150.md" target="_blank">夏季来临，注意泳池中的腺病毒</a></li>
+<li><a href="/comments/20220707/1755149.md" target="_blank">疾病越来越年轻化，让人措手不及</a></li>
+<li><a href="/comments/20220707/1755148.md" target="_blank">猴痘新发现！ 这两个地方病毒量最多</a></li>
+<li><a href="/comments/20220707/1755147.md" target="_blank">二十四节气之——小暑</a></li>
+<li><a href="/comments/20220707/1755146.md" target="_blank">今日小暑，最养生不过“小暑”天</a></li>
 <li><a href="/comments/20220707/1755139.md" target="_blank">无锡市民黄码转绿 手盖戳为凭 遭批不把人当人待</a></li>
 <li><a href="/comments/20220707/1755082.md" target="_blank">俄前上校：攻占利西昌斯克是落入乌克兰圈套</a></li>
 <li><a href="/comments/20220707/1755069.md" target="_blank">美卡住中共命脉 游说荷兰停供光刻机</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20220707/1755010.md" target="_blank">全州的“社会调剂”，可怕在什么地方</a></li>
 <li><a href="/comments/20220707/1755009.md" target="_blank">拒聘新冠康复者没有科学依据，就是歧视</a></li>
 <li><a href="/comments/20220707/1755008.md" target="_blank">城市的地得：身体是人最后的堡垒</a></li>
-<li><a href="/comments/20220707/1754999.md" target="_blank">世卫：全球58国通报猴痘病例 总数超过6千</a></li>
-<li><a href="/comments/20220707/1754992.md" target="_blank">木蹊：全州“超生调剂”之思——敢于正视历史的伤疤，我们才有未来</a></li>
-<li><a href="/comments/20220707/1754983.md" target="_blank">屡遭中共删文 美驻中大使伯恩斯愤而发文抗议</a></li>
-<li><a href="/comments/20220707/1754981.md" target="_blank">曾经历文革 美议员候选人：极左意识形态害惨学生</a></li>
-<li><a href="/comments/20220707/1754975.md" target="_blank">王丹：习近平不过是山寨版的普京</a></li>
-<li><a href="/comments/20220707/1754971.md" target="_blank">调查揭：中共军方偷买美国AI芯片</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
 
 </ul>
 </div>
