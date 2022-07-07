@@ -8,26 +8,26 @@
 <li><a href="/cnnews/20220706/1754600.md">薄熙来在秦城监狱里的生活细节</a></li>
 <li><a href="/cbnews/20220706/1754570.md">一场针对习近平的群众运动正在进行！【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20220706/1754604.md">这些东西不要放床头 会短命 不是开玩笑</a></li>
-<li><a href="/topimagenews/20220706/1754528.md">又倒下一个装纯的！中国奶制品业堪忧</a></li>
-<li><a href="/bannedvideo/20220706/1754527.md">张学友“认罪书”疯传，引发黄明志郑智化成龙明星大讨论！习近平密接做实，倪匡香港大预言准确应验</a></li>
 <li><a href="/topimagenews/20220706/1754670.md">重庆车主维权 “遮羞布”成中国车展特色</a></li>
 <li><a href="/bannedvideo/20220706/1754684.md">陈破空：神秘，河北高官接连猝死！北戴河时刻。惊爆习近平打完辉瑞三针！北约东扩直抵俄境。一带一路又导致一国破产。陈破空直播 与网友互动 美东7月6早8点30、即中港台7月6晚8点30</a></li>
-<li><a href="/bannedvideo/20220706/1754526.md">河北公安厅长死亡，带走多少黑幕？红三代自曝父子参与政变；胡锦涛亲令38军包围政法委；陈昊苏力促行动，胡锦涛成功策反；重庆密件泄漏，最终替换习近平？【新闻看点 李沐阳7.5】</a></li>
 <li><a href="/topimagenews/20220706/1754675.md">“一带一路”害崩盘？ 斯里兰卡破产 缺油缺粮、居民绝望当难民逃亡</a></li>
 <li><a href="/cnnews/20220706/1754645.md">斯里兰卡宣告破产 英国警告公民非必要勿前往</a></li>
 <li><a href="/bannedvideo/20220707/1754796.md">河北公安厅长离奇猝死后,传政法委书记赵革病亡</a></li>
 <li><a href="/topimagenews/20220706/1754652.md">川普愿望成真？美企掀逃离大陆潮 揭美国制造复兴关键</a></li>
 <li><a href="/ssgc/20220706/1754562.md">〖兲朝浮世绘〗香港上层对中共黑帮的规矩还没摸清门道</a></li>
 <li><a href="/bannedvideo/20220706/1754593.md">知情者揭“军队进北京”细节！上海、西安再封控，钢板围小区，夜半核酸，西安实行7天管制；李克强薄熙来的北大同学，披露二人当年表现；中共高官互相送礼，竟藏窃听器｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/bannedvideo/20220706/1754789.md">唐山，这个实名举报太震撼了！</a></li>
 <li><a href="/topimagenews/20220706/1754585.md">俄军所有后备部队都投入了!乌军：卢甘斯克郊区双方激战</a></li>
+<li><a href="/bannedvideo/20220706/1754789.md">唐山，这个实名举报太震撼了！</a></li>
 <li><a href="/cnnews/20220707/1754806.md">浓妆“田媛”插秧去 穿着清凉干农活拼流量</a></li>
 <li><a href="/cnnews/20220706/1754712.md">四川美女直播主遭夫杀害！尸藏卧室冰柜2个月 疑与粉丝暧昧惹尪痛下杀手</a></li>
+<li><a href="/bannedvideo/20220707/1754803.md">中共万想不到   40国援乌的“马歇尔计划”来了 自己却成弃子；习访港 林郑尴尬 被习随从粗暴拖拽一幕曝光【环球看点】</a></li>
 <li><a href="/baitai/20220706/1754649.md">许纪霖：为什么想过太平日子的都愿去上海, 爱折腾的都想去北京？</a></li>
 <li><a href="/bannedvideo/20220706/1754580.md">西安再次封城！西安大学生大逃亡，他们要赶在午夜12点前逃出西安！</a></li>
-<li><a href="/bannedvideo/20220707/1754803.md">中共万想不到   40国援乌的“马歇尔计划”来了 自己却成弃子；习访港 林郑尴尬 被习随从粗暴拖拽一幕曝光【环球看点】</a></li>
 <li><a href="/ssgc/20220706/1754661.md">多家银行卡客户账户被冻结  不可转出却可转入引发质疑</a></li>
 <li><a href="/comments/20220706/1754679.md">张建兴：江派抛出邓小平《密信》有用吗？</a></li>
+<li><a href="/yule/20220706/1754554.md">57岁马云现身荷兰被偶遇，身材消瘦走路有范，旁边还有保镖跟随</a></li>
+<li><a href="/comments/20220706/1754594.md">中国猪肉供应危机 发改委急开会禁带手机</a></li>
+<li><a href="/cbnews/20220706/1754628.md">上海10亿人个资泄露 转发网友被请“喝茶”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220707/1755001.md" target="_blank">江峰：成龙死守香港，党媒赞美中有杀气；广西明抢婴儿做‘社会调剂’，中国‘弃婴’产业链曝光！谁让西方人‘给孩子一个家’的善良变成了让中国家庭骨肉分离的悲剧【江峰漫谈20220706第508期】</a></li>
 <li><a href="/cbnews/20220707/1754988.md" target="_blank">天亮时分：《中国对决》揭秘未遂政变，习近平侥幸逃脱；人工智能辨别对党的忠诚度；拜登取消对华关税的细节曝光，中共极度失望（政论天下第737集 20220706）</a></li>
 <li><a href="/cbnews/20220707/1754871.md" target="_blank">英美情报高官史无前例联合演讲 警告中共窃密</a></li>
 <li><a href="/cbnews/20220707/1754813.md" target="_blank">白挖了 浙江金华居民挖出的上万枚宋代古钱币全得上缴</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220704/1753840.md" target="_blank">中国长三角地区难清零 疫情是否反弹受瞩</a></li>
 <li><a href="/cbnews/20220704/1753839.md" target="_blank">大马路上被弃养！小白狗狂拍车门、追车 网见画面心碎了</a></li>
 <li><a href="/comments/20220704/1753791.md" target="_blank">太阳系！水星人知识最丰富？！木星人注重孩子的教育，火星人的交流方式最接近天使，人脸十分奇特，有两个颜色！土星人谦逊正直。遥远星系，密集云层下的巨大鸿沟⋯</a></li>
-<li><a href="/cbnews/20220704/1753531.md" target="_blank">中共军方设立人头公司躲“芯片出口管制”发展AI技术 美政府：考虑做更多管制</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220707/1755013.md" target="_blank">FBI：北京正为侵台对付国际经济制裁做准备</a></li>
+<li><a href="/comments/20220707/1755012.md" target="_blank">超生孩子统一抱走？ 瞎说什么大实话</a></li>
+<li><a href="/comments/20220707/1755011.md" target="_blank">超生调剂”疑并非个例，记者梳理发现多地曾现其身影</a></li>
+<li><a href="/comments/20220707/1755010.md" target="_blank">全州的“社会调剂”，可怕在什么地方</a></li>
+<li><a href="/comments/20220707/1755009.md" target="_blank">拒聘新冠康复者没有科学依据，就是歧视</a></li>
+<li><a href="/comments/20220707/1755008.md" target="_blank">城市的地得：身体是人最后的堡垒</a></li>
+<li><a href="/comments/20220707/1754999.md" target="_blank">世卫：全球58国通报猴痘病例 总数超过6千</a></li>
 <li><a href="/comments/20220707/1754992.md" target="_blank">木蹊：全州“超生调剂”之思——敢于正视历史的伤疤，我们才有未来</a></li>
 <li><a href="/comments/20220707/1754983.md" target="_blank">屡遭中共删文 美驻中大使伯恩斯愤而发文抗议</a></li>
 <li><a href="/comments/20220707/1754981.md" target="_blank">曾经历文革 美议员候选人：极左意识形态害惨学生</a></li>
@@ -115,13 +122,6 @@
 <li><a href="/comments/20220707/1754929.md" target="_blank">金言：唐山“雷霆风暴” 无言的结局</a></li>
 <li><a href="/comments/20220707/1754928.md" target="_blank">杨威：各国商讨重建乌克兰 中共靠边站</a></li>
 <li><a href="/comments/20220707/1754927.md" target="_blank">袁斌：为何倪匡三十多年前就预言了香港的今天？</a></li>
-<li><a href="/comments/20220707/1754926.md" target="_blank">说什么“社会调剂”，明摆着就是变相拐卖人口</a></li>
-<li><a href="/comments/20220707/1754893.md" target="_blank">心腹“笔杆子”随习访港 评论指或有秘密任务</a></li>
-<li><a href="/comments/20220707/1754873.md" target="_blank">卷烟厂员工爆惊人秘密：中国烟草行业偷偷更换“过滤嘴材料” 藏有四种毒物毒上加毒 已经十年</a></li>
-<li><a href="/comments/20220707/1754872.md" target="_blank">《三国演义》第一百回 汉兵劫寨破曹真 武侯斗阵辱仲达</a></li>
-<li><a href="/comments/20220707/1754870.md" target="_blank">西瓜被冤枉了！水果甜不甜跟热量不一定成正比</a></li>
-<li><a href="/comments/20220707/1754860.md" target="_blank">《封神演义》第一百回 武王封列国诸侯</a></li>
-<li><a href="/comments/20220707/1754856.md" target="_blank">约翰逊内阁“地震” 20多名英国议员相继请辞公职</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 <li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
 
 </ul>
 </div>
