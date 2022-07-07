@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220707/1754881.md">🔥怪！两大太子党主谋兵变未遂，竟然全身而退？河北事真多！传政法委书记丧生；俄乌就一关键问题接近达协议？老底揭穿！中共现在靠这个？拜登推迟对台军售 美囯会共和党人推新法案要求说明进度【阿波罗网TL】</a></li>
 <li><a href="/bannedvideo/20220707/1754796.md">河北公安厅长离奇猝死后,传政法委书记赵革病亡</a></li>
-<li><a href="/bannedvideo/20220707/1755015.md">习下一步 更危险！学者：中国人做好两手准备 关键时刻要来了【北美新闻】</a></li>
 <li><a href="/bannedvideo/20220706/1754789.md">唐山，这个实名举报太震撼了！</a></li>
+<li><a href="/bannedvideo/20220707/1755015.md">习下一步 更危险！学者：中国人做好两手准备 关键时刻要来了【北美新闻】</a></li>
 <li><a href="/topimagenews/20220707/1754989.md">坐实？江泽民是这次政变的幕后支持者【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220707/1754803.md">中共万想不到   40国援乌的“马歇尔计划”来了 自己却成弃子；习访港 林郑尴尬 被习随从粗暴拖拽一幕曝光【环球看点】</a></li>
 <li><a href="/comments/20220707/1754873.md">卷烟厂员工爆惊人秘密：中国烟草行业偷偷更换“过滤嘴材料” 藏有四种毒物毒上加毒 已经十年</a></li>
-<li><a href="/cnnews/20220706/1754712.md">四川美女直播主遭夫杀害！尸藏卧室冰柜2个月 疑与粉丝暧昧惹尪痛下杀手</a></li>
 <li><a href="/bannedvideo/20220707/1754878.md">河北省公安厅长刘文玺是病逝/轻生还是其他？我的校友/文友宋斌离世真相</a></li>
+<li><a href="/cnnews/20220706/1754712.md">四川美女直播主遭夫杀害！尸藏卧室冰柜2个月 疑与粉丝暧昧惹尪痛下杀手</a></li>
 <li><a href="/bannedvideo/20220707/1755030.md">文睿：李克强发严厉恐吓，北京政策大变，习近平消失近一周</a></li>
+<li><a href="/topimagenews/20220707/1755098.md">这一次，任正非是真的坐不住了！多少年没有这样欢乐的事了</a></li>
 <li><a href="/cnnews/20220707/1754806.md">浓妆“田媛”插秧去 穿着清凉干农活拼流量</a></li>
 <li><a href="/cnnews/20220707/1754891.md">最新！拜登拟取消对中共关税，细节和时间曝光</a></li>
-<li><a href="/topimagenews/20220707/1755098.md">这一次，任正非是真的坐不住了！多少年没有这样欢乐的事了</a></li>
 <li><a href="/ssgc/20220707/1754957.md">〖微博谈〗中国人口比预想的还要糟糕</a></li>
-<li><a href="/cnnews/20220707/1755036.md">“穿过大半个中国去睡你”诗人余秀华遭家暴：被老公抽了上百个耳光</a></li>
 <li><a href="/cnnews/20220707/1755068.md">上海防疫 他突然被确诊新冠 境遇曝光后全网都怒了</a></li>
+<li><a href="/cnnews/20220707/1755036.md">“穿过大半个中国去睡你”诗人余秀华遭家暴：被老公抽了上百个耳光</a></li>
 <li><a href="/cbnews/20220706/1754757.md">中国农村高挂“催生标语”网见内容酸爆：把人当畜生</a></li>
 <li><a href="/health/20220707/1754898.md">呼吁停止食用，或比味精还伤骨骼，转告家人：尽早撤下餐桌</a></li>
+<li><a href="/cnnews/20220707/1755063.md">赵丽颖新官上任袜子都要穿“正” 政治正确算啥【阿波罗网报导】</a></li>
 <li><a href="/bannedvideo/20220706/1754697.md">战略作家预告习未来：军变？脱钩？中国财政崩溃的标志 【两岸要闻】</a></li>
 <li><a href="/comments/20220707/1755025.md">瑞媒：中国倒退回毛泽东时代民众已失去自由</a></li>
 <li><a href="/topimagenews/20220707/1754949.md">这业务量确实在蹭蹭蹭往上走 福利院自己人说：日子过得相当滋润</a></li>
 <li><a href="/topimagenews/20220707/1755021.md">俄罗斯恐惧：克里米亚大桥被炸 不排除用核武</a></li>
-<li><a href="/cnnews/20220707/1755063.md">赵丽颖新官上任袜子都要穿“正” 政治正确算啥【阿波罗网报导】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220707/1755178.md" target="_blank">被性丑闻案压垮！英国首相约翰逊被“逼宫” 将于今天辞职</a></li>
+<li><a href="/comments/20220707/1755176.md" target="_blank">中国30家房产公司违约负债近1兆美元 4千万户房贷违约 广州现荔枝抵房价</a></li>
 <li><a href="/comments/20220707/1755160.md" target="_blank">突发！英国首相约翰逊今天将辞去保守党党魁一职</a></li>
 <li><a href="/comments/20220707/1755151.md" target="_blank">4种柠檬小料理祝您度过炎炎夏日</a></li>
 <li><a href="/comments/20220707/1755150.md" target="_blank">夏季来临，注意泳池中的腺病毒</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220707/1755013.md" target="_blank">FBI：北京正为侵台对付国际经济制裁做准备</a></li>
 <li><a href="/comments/20220707/1755012.md" target="_blank">超生孩子统一抱走？ 瞎说什么大实话</a></li>
 <li><a href="/comments/20220707/1755011.md" target="_blank">超生调剂”疑并非个例，记者梳理发现多地曾现其身影</a></li>
-<li><a href="/comments/20220707/1755010.md" target="_blank">全州的“社会调剂”，可怕在什么地方</a></li>
-<li><a href="/comments/20220707/1755009.md" target="_blank">拒聘新冠康复者没有科学依据，就是歧视</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
 
 </ul>
 </div>
