@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20220706/1754670.md">重庆车主维权 “遮羞布”成中国车展特色</a></li>
 <li><a href="/bannedvideo/20220706/1754527.md">张学友“认罪书”疯传，引发黄明志郑智化成龙明星大讨论！习近平密接做实，倪匡香港大预言准确应验</a></li>
 <li><a href="/bannedvideo/20220706/1754684.md">陈破空：神秘，河北高官接连猝死！北戴河时刻。惊爆习近平打完辉瑞三针！北约东扩直抵俄境。一带一路又导致一国破产。陈破空直播 与网友互动 美东7月6早8点30、即中港台7月6晚8点30</a></li>
-<li><a href="/cnnews/20220706/1754645.md">斯里兰卡宣告破产 英国警告公民非必要勿前往</a></li>
 <li><a href="/topimagenews/20220706/1754675.md">“一带一路”害崩盘？ 斯里兰卡破产 缺油缺粮、居民绝望当难民逃亡</a></li>
+<li><a href="/cnnews/20220706/1754645.md">斯里兰卡宣告破产 英国警告公民非必要勿前往</a></li>
 <li><a href="/bannedvideo/20220706/1754526.md">河北公安厅长死亡，带走多少黑幕？红三代自曝父子参与政变；胡锦涛亲令38军包围政法委；陈昊苏力促行动，胡锦涛成功策反；重庆密件泄漏，最终替换习近平？【新闻看点 李沐阳7.5】</a></li>
 <li><a href="/bannedvideo/20220707/1754796.md">河北公安厅长离奇猝死后,传政法委书记赵革病亡</a></li>
 <li><a href="/ssgc/20220706/1754562.md">〖兲朝浮世绘〗香港上层对中共黑帮的规矩还没摸清门道</a></li>
 <li><a href="/topimagenews/20220706/1754652.md">川普愿望成真？美企掀逃离大陆潮 揭美国制造复兴关键</a></li>
-<li><a href="/bannedvideo/20220706/1754593.md">知情者揭“军队进北京”细节！上海、西安再封控，钢板围小区，夜半核酸，西安实行7天管制；李克强薄熙来的北大同学，披露二人当年表现；中共高官互相送礼，竟藏窃听器｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20220706/1754585.md">俄军所有后备部队都投入了!乌军：卢甘斯克郊区双方激战</a></li>
+<li><a href="/bannedvideo/20220706/1754593.md">知情者揭“军队进北京”细节！上海、西安再封控，钢板围小区，夜半核酸，西安实行7天管制；李克强薄熙来的北大同学，披露二人当年表现；中共高官互相送礼，竟藏窃听器｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/bannedvideo/20220706/1754789.md">唐山，这个实名举报太震撼了！</a></li>
-<li><a href="/finance/20220706/1754492.md">中国民航“洗澡五十 门票一百” 飞友怒骂 为什么资本主义国家就不呢？</a></li>
 <li><a href="/cnnews/20220707/1754806.md">浓妆“田媛”插秧去 穿着清凉干农活拼流量</a></li>
-<li><a href="/bannedvideo/20220706/1754580.md">西安再次封城！西安大学生大逃亡，他们要赶在午夜12点前逃出西安！</a></li>
 <li><a href="/cnnews/20220706/1754712.md">四川美女直播主遭夫杀害！尸藏卧室冰柜2个月 疑与粉丝暧昧惹尪痛下杀手</a></li>
+<li><a href="/bannedvideo/20220706/1754580.md">西安再次封城！西安大学生大逃亡，他们要赶在午夜12点前逃出西安！</a></li>
 <li><a href="/baitai/20220706/1754649.md">许纪霖：为什么想过太平日子的都愿去上海, 爱折腾的都想去北京？</a></li>
-<li><a href="/ssgc/20220706/1754661.md">多家银行卡客户账户被冻结  不可转出却可转入引发质疑</a></li>
 <li><a href="/bannedvideo/20220707/1754803.md">中共万想不到   40国援乌的“马歇尔计划”来了 自己却成弃子；习访港 林郑尴尬 被习随从粗暴拖拽一幕曝光【环球看点】</a></li>
+<li><a href="/ssgc/20220706/1754661.md">多家银行卡客户账户被冻结  不可转出却可转入引发质疑</a></li>
+<li><a href="/comments/20220706/1754679.md">张建兴：江派抛出邓小平《密信》有用吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220707/1754971.md" target="_blank">调查揭：中共军方偷买美国AI芯片</a></li>
+<li><a href="/comments/20220707/1754970.md" target="_blank">摩根士丹利：未来美股将更关注企业利润</a></li>
+<li><a href="/comments/20220707/1754969.md" target="_blank">“或近期入侵台湾” FBI和英军情局警告中共对全球构成威胁</a></li>
+<li><a href="/comments/20220707/1754964.md" target="_blank">如松:通胀税大幅爆发的时代：谁能逃脱</a></li>
+<li><a href="/comments/20220707/1754963.md" target="_blank">颜纯钩:横风横雨，苦口苦面，怕死怕乱，冇心冇情</a></li>
 <li><a href="/comments/20220707/1754954.md" target="_blank">300美企吁保留对中关税 川普批：拜登在给中共送大礼</a></li>
 <li><a href="/comments/20220707/1754953.md" target="_blank">加国使馆被拒旁听肖建华案 中共政变新书火了 学者爆内幕</a></li>
 <li><a href="/comments/20220707/1754940.md" target="_blank">吁中共施压俄罗斯终战 澳外长：世界都在关注北京所为</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20220707/1754843.md" target="_blank">西安按下暂停键 恐惧封城民众大逃亡 超市清空</a></li>
 <li><a href="/comments/20220707/1754841.md" target="_blank">美国国务卿布林肯向达赖喇嘛祝寿</a></li>
 <li><a href="/comments/20220707/1754833.md" target="_blank">剑指江派大外宣？招银入禀于品海追讨逾4亿港元</a></li>
-<li><a href="/comments/20220707/1754807.md" target="_blank">【未普评论】习近平毁了东方之珠</a></li>
-<li><a href="/comments/20220706/1754788.md" target="_blank">看黄片招来鬼上身 修行人看到的魔鬼如何控制人身</a></li>
-<li><a href="/comments/20220706/1754787.md" target="_blank">专栏 | 劳工通讯：广东省惠州市惠东县华业铸造厂“2·18”爆炸事故（四）</a></li>
-<li><a href="/comments/20220706/1754740.md" target="_blank">喜见社会热烈回响 台湾最大玻璃企业董座成神韵忠粉</a></li>
-<li><a href="/comments/20220706/1754739.md" target="_blank">时事大家谈：乌东血战俄军攻城略地，普京能否笑到最后？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
 <li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
 
 </ul>
 </div>
