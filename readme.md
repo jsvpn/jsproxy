@@ -21,10 +21,10 @@
 <li><a href="/topimagenews/20220708/1755542.md">快讯！枪击安倍嫌犯身份曝光！日媒：前海上自卫队员</a></li>
 <li><a href="/bannedvideo/20220708/1755646.md">安倍遇刺去世这八小时世界各国密集致哀，连赵立坚都祝福了。白宫还没上班</a></li>
 <li><a href="/cnnews/20220708/1755427.md">中国博士生被岳父举报“嫖娼成瘾”读8年无法毕业</a></li>
-<li><a href="/topimagenews/20220708/1755522.md">快讯！白衬衫沾满血安倍晋三倒地照片曝光</a></li>
-<li><a href="/topimagenews/20220708/1755541.md">枪手“埋伏安倍背后”画面疯传！假装听演讲还跟着拍手</a></li>
 <li><a href="/topimagenews/20220708/1755559.md">中共高层激斗内幕！他投下关键一篇【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220708/1755493.md">〖兲朝浮世绘〗这个领导一定是个卖肉的</a></li>
+<li><a href="/topimagenews/20220708/1755522.md">快讯！白衬衫沾满血安倍晋三倒地照片曝光</a></li>
+<li><a href="/topimagenews/20220708/1755541.md">枪手“埋伏安倍背后”画面疯传！假装听演讲还跟着拍手</a></li>
 <li><a href="/cnnews/20220708/1755567.md">华裔经济学家的一篇文章，震惊了中共权力中心</a></li>
 <li><a href="/cnnews/20220708/1755617.md">日本首相退休后成普通人 不再有秘书、警卫和专车</a></li>
 <li><a href="/topimagenews/20220708/1755571.md">中共要抢世界最大黄金矿藏?发现3100万吨金矿 乌干达总统:中企将开采</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220709/1755799.md" target="_blank">【世界变局】安倍晋三遇刺内幕 心脏被子弹贯穿失血过多死亡 行刺者身份曝光供词前后不一 家中搜出更危险爆裂物 全球震惊 世界领袖悼念日本战后最重要领导人 五任日本首相任内或卸任后遇刺身亡内幕揭秘 日本近年重大攻击事件盘点</a></li>
 <li><a href="/comments/20220709/1755778.md" target="_blank">说说入伏那点事 老辈人有什么说法</a></li>
 <li><a href="/comments/20220708/1755727.md" target="_blank">西芹香梨汁 纯天然 清肺解毒 祛痘印效果佳</a></li>
 <li><a href="/comments/20220708/1755726.md" target="_blank">焦点对话：10亿中国公民个资外泄 受害人可能是你？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220708/1755589.md" target="_blank">Meta公司推出新模型 可实现200种语言互译</a></li>
 <li><a href="/comments/20220708/1755130.md" target="_blank">寺庙门前的血旗</a></li>
 <li><a href="/comments/20220708/1755557.md" target="_blank">破天荒 美英情报首脑首次同台示警</a></li>
-<li><a href="/comments/20220708/1755549.md" target="_blank">河南兄妹接连遇难 网民悲愤声援</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
 <li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
 <li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
 
 </ul>
 </div>
