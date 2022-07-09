@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20220708/1755691.md">安倍晋三遭袭杀！普丁、川普都发声了 外媒：日本国民安全信念从根本动摇</a></li>
 <li><a href="/cbnews/20220709/1755793.md">乌克兰永久取缔共产党 中共沉默</a></li>
 <li><a href="/bannedvideo/20220708/1755664.md">大批中国人庆祝安倍遇刺，畜生和人的区别到底在哪儿？习近平遇刺你会庆祝吗？</a></li>
-<li><a href="/cnnews/20220708/1755617.md">日本首相退休后成普通人 不再有秘书、警卫和专车</a></li>
 <li><a href="/topimagenews/20220709/1755957.md">想让习近平成第二个华国锋、赵紫阳？反习派千方百计挤兑习近平...【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20220708/1755617.md">日本首相退休后成普通人 不再有秘书、警卫和专车</a></li>
 <li><a href="/ssgc/20220709/1755911.md">〖微博谈〗乱世已经来到</a></li>
 <li><a href="/topimagenews/20220708/1755733.md">枪击打死安倍！凶嫌首曝“犯案动机”：与宗教团体有关联 就是想杀了他</a></li>
 <li><a href="/cbnews/20220709/1755821.md">中国驻日记者直播安倍遇刺哽咽落泪 遭网民围攻</a></li>
 <li><a href="/cnnews/20220709/1755906.md">印度神童阿南德又中！一个月内恐引爆新兴国违债风暴？</a></li>
-<li><a href="/cnnews/20220709/1755761.md">安倍40年前1张旧照曾掀轰动 为父助选激似男星</a></li>
 <li><a href="/bannedvideo/20220709/1755811.md">谁安排行刺安倍？他：若是他们，不令人惊讶【红朝禁闻】</a></li>
+<li><a href="/cnnews/20220709/1755761.md">安倍40年前1张旧照曾掀轰动 为父助选激似男星</a></li>
 <li><a href="/cnnews/20220709/1755775.md">安倍是宠妻魔人！迎娶森永千金 结婚35年无子女仍超甜蜜</a></li>
 <li><a href="/cnnews/20220709/1755798.md">枪击安倍 邻居爆山上彻也房间每晚都有这声音：现在回想超毛</a></li>
 <li><a href="/headline/20220708/1755640.md">【安倍中枪】小粉红幸灾乐祸 大翻译运动誓将丑行公诸于世</a></li>
 <li><a href="/topimagenews/20220709/1755945.md">安倍卸任安保费破2亿 “0.2秒毙敌”第一女保镖曝光</a></li>
-<li><a href="/bannedvideo/20220709/1755854.md">🔥安倍今出事，中国博主昨曝完成组织安排任务；给习发悼词？新华社干的；俄敢对美发特殊军事行动？俄议长放话；习二十大准备好! 肖建华案“被养”到现在审 这些人不敢吭声；河南银行储户再被红码【阿波罗网TL】</a></li>
+<li><a href="/topimagenews/20220709/1756005.md">夹心婚姻苦了安倍 枪击丧生 强势母和率性妻泪崩</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220709/1756063.md" target="_blank">群雄角逐英相大位 未来首相面料诸多挑战</a></li>
 <li><a href="/comments/20220709/1756034.md" target="_blank">马斯克提出终止440亿收购案 推特将提告</a></li>
 <li><a href="/comments/20220709/1756025.md" target="_blank">安倍生前两事热传 驻日记者揭嫌犯可疑之处</a></li>
 <li><a href="/comments/20220709/1756021.md" target="_blank">被特斯拉裁员的员工，竟这样抢手？知名大公司抛橄榄枝</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220709/1755904.md" target="_blank">二大爷:安倍遇刺，你高兴什么？</a></li>
 <li><a href="/comments/20220709/1755903.md" target="_blank">北京变相强制接种新冠疫苗，网络炸锅</a></li>
 <li><a href="/comments/20220709/1755902.md" target="_blank">周晓辉：十亿中国人数据外泄将牵出哪些秘密？</a></li>
-<li><a href="/comments/20220709/1755901.md" target="_blank">谢田：美国最高法院正本清源 任重道远</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
 
 </ul>
 </div>
