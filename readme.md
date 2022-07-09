@@ -12,8 +12,8 @@
 <li><a href="/cnnews/20220708/1755588.md">安倍晋三中枪！中国小粉红群起嘲讽“祝贺”大翻译运动向全球揭劣行</a></li>
 <li><a href="/bannedvideo/20220708/1755646.md">安倍遇刺去世这八小时世界各国密集致哀，连赵立坚都祝福了。白宫还没上班</a></li>
 <li><a href="/topimagenews/20220708/1755559.md">中共高层激斗内幕！他投下关键一篇【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220709/1755839.md">泪目！安倍中弹苦撑5小时 爱妻到院后8分钟死亡</a></li>
 <li><a href="/cbnews/20220708/1755719.md">安倍晋三遇刺：可能永远改变日本的一起枪击案</a></li>
+<li><a href="/topimagenews/20220709/1755839.md">泪目！安倍中弹苦撑5小时 爱妻到院后8分钟死亡</a></li>
 <li><a href="/topimagenews/20220708/1755691.md">安倍晋三遭袭杀！普丁、川普都发声了 外媒：日本国民安全信念从根本动摇</a></li>
 <li><a href="/cbnews/20220709/1755793.md">乌克兰永久取缔共产党 中共沉默</a></li>
 <li><a href="/cnnews/20220708/1755567.md">华裔经济学家的一篇文章，震惊了中共权力中心</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/topimagenews/20220708/1755571.md">中共要抢世界最大黄金矿藏?发现3100万吨金矿 乌干达总统:中企将开采</a></li>
 <li><a href="/cnnews/20220708/1755617.md">日本首相退休后成普通人 不再有秘书、警卫和专车</a></li>
 <li><a href="/topimagenews/20220708/1755733.md">枪击打死安倍！凶嫌首曝“犯案动机”：与宗教团体有关联 就是想杀了他</a></li>
+<li><a href="/cbnews/20220709/1755821.md">中国驻日记者直播安倍遇刺哽咽落泪 遭网民围攻</a></li>
 <li><a href="/cnnews/20220709/1755761.md">安倍40年前1张旧照曾掀轰动 为父助选激似男星</a></li>
 <li><a href="/bannedvideo/20220709/1755811.md">谁安排行刺安倍？他：若是他们，不令人惊讶【红朝禁闻】</a></li>
-<li><a href="/cbnews/20220709/1755821.md">中国驻日记者直播安倍遇刺哽咽落泪 遭网民围攻</a></li>
 <li><a href="/cnnews/20220709/1755775.md">安倍是宠妻魔人！迎娶森永千金 结婚35年无子女仍超甜蜜</a></li>
 <li><a href="/cnnews/20220709/1755798.md">枪击安倍 邻居爆山上彻也房间每晚都有这声音：现在回想超毛</a></li>
+<li><a href="/ssgc/20220709/1755911.md">〖微博谈〗乱世已经来到</a></li>
 <li><a href="/headline/20220708/1755640.md">【安倍中枪】小粉红幸灾乐祸 大翻译运动誓将丑行公诸于世</a></li>
-<li><a href="/cnnews/20220708/1755595.md">李克强耗1.3兆修基建 专家：地方大亏3.2兆 发不出养老金恐爆民怨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220709/1756029.md" target="_blank">两大迹象！江曾派系出现大问题【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220709/1756005.md" target="_blank">夹心婚姻苦了安倍 枪击丧生 强势母和率性妻泪崩</a></li>
 <li><a href="/topimagenews/20220709/1755969.md" target="_blank">警方公布安倍解剖报告 直接死因曝光</a></li>
 <li><a href="/topimagenews/20220709/1755968.md" target="_blank">不只安倍 枪手供词惊曝“还有下个目标”</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220708/1755530.md" target="_blank">安倍晋三中枪首相岸田文雄发声了！取消行程“急返东京”</a></li>
 <li><a href="/topimagenews/20220708/1755529.md" target="_blank">安倍晋三中弹“在第2枪倒下”！嫌犯遭制伏画面曝光</a></li>
 <li><a href="/topimagenews/20220708/1755528.md" target="_blank">安倍晋三遭枪击 42岁嫌犯逮捕画面曝光</a></li>
-<li><a href="/topimagenews/20220708/1755523.md" target="_blank">快讯！安倍晋三中弹失去意识现场影片画面曝光</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
 <li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 
 </ul>
 </div>
