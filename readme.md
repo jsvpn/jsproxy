@@ -19,8 +19,8 @@
 <li><a href="/cnnews/20220709/1756062.md">开枪射杀安倍晋三！山上彻也背景曝光</a></li>
 <li><a href="/cbnews/20220709/1756051.md">上海男持刀砍人案视频曝光 血迹斑斑路人奔逃</a></li>
 <li><a href="/cnnews/20220709/1756049.md">伊万卡现身机场身形仍健美 包里露出奇怪物品</a></li>
-<li><a href="/cbnews/20220709/1755997.md">江峰：安倍被刺，刺客背后有无中共阴谋？中国粉红的迅速狂欢与习近平的迟来哀悼，会给中国带来怎样的悲剧？日本政治初探，东亚变局？【江峰漫谈20220708第510期】</a></li>
 <li><a href="/topimagenews/20220709/1756149.md">夸张！中国搞安倍晋三灵堂电音趴“欢天喜地” 网友傻眼：政府怎允许这种事</a></li>
+<li><a href="/cbnews/20220709/1755997.md">江峰：安倍被刺，刺客背后有无中共阴谋？中国粉红的迅速狂欢与习近平的迟来哀悼，会给中国带来怎样的悲剧？日本政治初探，东亚变局？【江峰漫谈20220708第510期】</a></li>
 <li><a href="/bannedvideo/20220709/1756017.md">疯传网络预言真发生了！安倍遇袭曾有预告？日安全官踢爆中共在日间谍内幕！【希望之声TV-国际风云】</a></li>
 <li><a href="/ssgc/20220709/1755875.md">专栏 | 夜话中南海：公安部纪检大权从习近平旧部转给习近平老乡</a></li>
 <li><a href="/worldnews/20220709/1755959.md">安倍晋三为她助选却身亡！女候选人全程目睹崩溃：都是我的错</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220710/1756251.md" target="_blank">家族核心！94岁的安倍洋子和背后强大的娘家</a></li>
 <li><a href="/topimagenews/20220710/1756233.md" target="_blank">猛！向银行“宣战”？</a></li>
 <li><a href="/topimagenews/20220709/1756149.md" target="_blank">夸张！中国搞安倍晋三灵堂电音趴“欢天喜地” 网友傻眼：政府怎允许这种事</a></li>
 <li><a href="/topimagenews/20220709/1756123.md" target="_blank">习近平鲸吞中共顶层3万亿；中国投资人开始送外卖！新特色？中国车展惊人一幕</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220708/1755613.md" target="_blank">快讯：安倍晋三中弹 抢救后宣告不治</a></li>
 <li><a href="/topimagenews/20220708/1755571.md" target="_blank">中共要抢世界最大黄金矿藏?发现3100万吨金矿 乌干达总统:中企将开采</a></li>
 <li><a href="/topimagenews/20220708/1755559.md" target="_blank">中共高层激斗内幕！他投下关键一篇【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220708/1755542.md" target="_blank">快讯！枪击安倍嫌犯身份曝光！日媒：前海上自卫队员</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220710/1756254.md" target="_blank">告别默克尔时代 德国对华政策悄然变化中</a></li>
 <li><a href="/comments/20220710/1756209.md" target="_blank">李燕铭：孙力军代表江家欲控制习近平 背后监督王岐山 操控香港黑警暴力镇压与暗杀行动 孙力军操作江绵恒换肾多人丧命 孙力军被抓捕细节曝光 政治震荡效应不亚于王立军案 公安部副部长孙力军政变反习内幕（七）</a></li>
 <li><a href="/comments/20220710/1756208.md" target="_blank">上海瑞金医院发生无差别砍人事件 警察开枪 受害者人数成迷</a></li>
 <li><a href="/comments/20220710/1756197.md" target="_blank">李燕铭：公安部副部长孙力军政变反习内幕（六） 孙力军控制要害部门政变反习 江绵恒安排孙力军暗杀习近平 孙力军和王立科见面预谋刺习 湖北省军区司令员马涛将暗杀计划汇报给习 江派刺习行动有十几波 官方通报间接证实孙力军泄露武汉病毒所及中共病毒疫情绝密资料</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220709/1756080.md" target="_blank">7个迹象帮你发现心理危机</a></li>
 <li><a href="/comments/20220709/1756079.md" target="_blank">中药——莲子</a></li>
 <li><a href="/comments/20220709/1756078.md" target="_blank">研究：只需看到诱人的饭菜便会引发跟糖尿病有关的炎症</a></li>
-<li><a href="/comments/20220709/1756077.md" target="_blank">消暑又不用担心热量！推荐3种茶</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 <li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
 <li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 
 </ul>
 </div>
