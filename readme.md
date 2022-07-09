@@ -6,11 +6,10 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220709/1755756.md">安倍晋三逝世！习近平盯住印度神童阿南德：他也提到中国！中共小粉红奔走庆祝，赵立坚拒绝谴责</a></li>
-<li><a href="/bannedvideo/20220708/1755646.md">安倍遇刺去世这八小时世界各国密集致哀，连赵立坚都祝福了。白宫还没上班</a></li>
 <li><a href="/cbnews/20220708/1755719.md">安倍晋三遇刺：可能永远改变日本的一起枪击案</a></li>
 <li><a href="/cbnews/20220709/1755793.md">乌克兰永久取缔共产党 中共沉默</a></li>
-<li><a href="/topimagenews/20220708/1755691.md">安倍晋三遭袭杀！普丁、川普都发声了 外媒：日本国民安全信念从根本动摇</a></li>
 <li><a href="/topimagenews/20220709/1755839.md">泪目！安倍中弹苦撑5小时 爱妻到院后8分钟死亡</a></li>
+<li><a href="/topimagenews/20220708/1755691.md">安倍晋三遭袭杀！普丁、川普都发声了 外媒：日本国民安全信念从根本动摇</a></li>
 <li><a href="/bannedvideo/20220708/1755664.md">大批中国人庆祝安倍遇刺，畜生和人的区别到底在哪儿？习近平遇刺你会庆祝吗？</a></li>
 <li><a href="/topimagenews/20220709/1755957.md">想让习近平成第二个华国锋、赵紫阳？反习派千方百计挤兑习近平...【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220709/1755911.md">〖微博谈〗乱世已经来到</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/bannedvideo/20220709/1755811.md">谁安排行刺安倍？他：若是他们，不令人惊讶【红朝禁闻】</a></li>
 <li><a href="/cnnews/20220709/1755761.md">安倍40年前1张旧照曾掀轰动 为父助选激似男星</a></li>
 <li><a href="/cnnews/20220709/1755775.md">安倍是宠妻魔人！迎娶森永千金 结婚35年无子女仍超甜蜜</a></li>
+<li><a href="/bannedvideo/20220709/1756024.md">“山上彻也”不是日本人？！蜗居奈良，在家造武器“扰到邻居”，生平遭肉搜；安倍之死对“台海”有重大影响！详说事件全过程，安倍遇刺第一时间什么反应？送院输血2万毫升；外祖父也曾被刺｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20220709/1755945.md">安倍卸任安保费破2亿 “0.2秒毙敌”第一女保镖曝光</a></li>
 <li><a href="/bannedvideo/20220709/1755854.md">🔥安倍今出事，中国博主昨曝完成组织安排任务；给习发悼词？新华社干的；俄敢对美发特殊军事行动？俄议长放话；习二十大准备好! 肖建华案“被养”到现在审 这些人不敢吭声；河南银行储户再被红码【阿波罗网TL】</a></li>
 <li><a href="/cnnews/20220709/1755798.md">枪击安倍 邻居爆山上彻也房间每晚都有这声音：现在回想超毛</a></li>
-<li><a href="/bannedvideo/20220709/1756024.md">“山上彻也”不是日本人？！蜗居奈良，在家造武器“扰到邻居”，生平遭肉搜；安倍之死对“台海”有重大影响！详说事件全过程，安倍遇刺第一时间什么反应？送院输血2万毫升；外祖父也曾被刺｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/worldnews/20220709/1755801.md">安倍与女高中生“手比心”成最后身影 上万网友看完泪崩</a></li>
 <li><a href="/bannedvideo/20220709/1756017.md">疯传网络预言真发生了！安倍遇袭曾有预告？日安全官踢爆中共在日间谍内幕！【希望之声TV-国际风云】</a></li>
-<li><a href="/ssgc/20220709/1755875.md">专栏 | 夜话中南海：公安部纪检大权从习近平旧部转给习近平老乡</a></li>
+<li><a href="/topimagenews/20220709/1756029.md">两大迹象！江曾派系出现大问题【阿波罗网报道】</a></li>
+<li><a href="/worldnews/20220709/1755801.md">安倍与女高中生“手比心”成最后身影 上万网友看完泪崩</a></li>
+<li><a href="/topimagenews/20220709/1755969.md">警方公布安倍解剖报告 直接死因曝光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220709/1756101.md" target="_blank">外媒：安倍最大贡献是及早示警中共崛起带来的挑战</a></li>
 <li><a href="/comments/20220709/1756089.md" target="_blank">川普内华达州讲演：我们只想拥有一个伟大和安全的美国</a></li>
 <li><a href="/comments/20220709/1756083.md" target="_blank">老是听说“气虚”，到底什么是气虚？</a></li>
 <li><a href="/comments/20220709/1756082.md" target="_blank">日本前首相安倍晋三中枪后心跳停止，为什么死亡却是几分钟后？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220709/1755976.md" target="_blank">三表的表：安倍遇刺后的公共表达</a></li>
 <li><a href="/comments/20220709/1755975.md" target="_blank">吃朝廷的饭，砸朝廷的锅</a></li>
 <li><a href="/comments/20220709/1755966.md" target="_blank">越来越多美企高管倾向共和党 更多公司迁往红州</a></li>
-<li><a href="/comments/20220709/1755962.md" target="_blank">王友群:江泽民最大的罪恶必须被清算</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
 
 </ul>
 </div>
