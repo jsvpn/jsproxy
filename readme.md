@@ -12,8 +12,8 @@
 <li><a href="/cnnews/20220709/1756059.md">朝中无人！人民日报又“翻车”了：这回刘胡兰又咋地啦</a></li>
 <li><a href="/topimagenews/20220709/1756123.md">习近平鲸吞中共顶层3万亿；中国投资人开始送外卖！新特色？中国车展惊人一幕</a></li>
 <li><a href="/topimagenews/20220709/1756005.md">夹心婚姻苦了安倍 枪击丧生 强势母和率性妻泪崩</a></li>
-<li><a href="/bannedvideo/20220709/1756098.md">陈破空：沉默两天，习近平终于吭声！电文奇怪，暗示彭丽媛要升官？梁静茹歌声忽然风靡网络。审判孙力军能吓住谁？陈破空直播 与网友互动 美东7月9早8点30、即中港台7月9晚8点30</a></li>
 <li><a href="/bannedvideo/20220709/1756024.md">“山上彻也”不是日本人？！蜗居奈良，在家造武器“扰到邻居”，生平遭肉搜；安倍之死对“台海”有重大影响！详说事件全过程，安倍遇刺第一时间什么反应？送院输血2万毫升；外祖父也曾被刺｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/bannedvideo/20220709/1756098.md">陈破空：沉默两天，习近平终于吭声！电文奇怪，暗示彭丽媛要升官？梁静茹歌声忽然风靡网络。审判孙力军能吓住谁？陈破空直播 与网友互动 美东7月9早8点30、即中港台7月9晚8点30</a></li>
 <li><a href="/topimagenews/20220709/1756029.md">两大迹象！江曾派系出现大问题【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220709/1755945.md">安倍卸任安保费破2亿 “0.2秒毙敌”第一女保镖曝光</a></li>
 <li><a href="/cnnews/20220709/1756062.md">开枪射杀安倍晋三！山上彻也背景曝光</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/cbnews/20220709/1755997.md">江峰：安倍被刺，刺客背后有无中共阴谋？中国粉红的迅速狂欢与习近平的迟来哀悼，会给中国带来怎样的悲剧？日本政治初探，东亚变局？【江峰漫谈20220708第510期】</a></li>
 <li><a href="/topimagenews/20220709/1756149.md">夸张！中国搞安倍晋三灵堂电音趴“欢天喜地” 网友傻眼：政府怎允许这种事</a></li>
 <li><a href="/bannedvideo/20220709/1756017.md">疯传网络预言真发生了！安倍遇袭曾有预告？日安全官踢爆中共在日间谍内幕！【希望之声TV-国际风云】</a></li>
-<li><a href="/bannedvideo/20220709/1755854.md">🔥安倍今出事，中国博主昨曝完成组织安排任务；给习发悼词？新华社干的；俄敢对美发特殊军事行动？俄议长放话；习二十大准备好! 肖建华案“被养”到现在审 这些人不敢吭声；河南银行储户再被红码【阿波罗网TL】</a></li>
 <li><a href="/ssgc/20220709/1755875.md">专栏 | 夜话中南海：公安部纪检大权从习近平旧部转给习近平老乡</a></li>
 <li><a href="/worldnews/20220709/1755959.md">安倍晋三为她助选却身亡！女候选人全程目睹崩溃：都是我的错</a></li>
 <li><a href="/topimagenews/20220709/1755969.md">警方公布安倍解剖报告 直接死因曝光</a></li>
 <li><a href="/cbnews/20220709/1756050.md">中国狗仔被公安抄家 葛斯齐爆最渣男星惊人势力</a></li>
 <li><a href="/bannedvideo/20220709/1756072.md">习近平被迫哀悼赞扬安倍，秒成汉奸！仇日宣传和战狼外交自食其果。</a></li>
+<li><a href="/worldnews/20220709/1756009.md">G20外长会议突发一幕：俄外长愤怒离席</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
 <li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 
 </ul>
 </div>
