@@ -10,23 +10,23 @@
 <li><a href="/topimagenews/20220709/1756123.md">习近平鲸吞中共顶层3万亿；中国投资人开始送外卖！新特色？中国车展惊人一幕</a></li>
 <li><a href="/bannedvideo/20220710/1756223.md">传内部通知 中共7月底或要搞事【红朝禁闻】</a></li>
 <li><a href="/bannedvideo/20220709/1756098.md">陈破空：沉默两天，习近平终于吭声！电文奇怪，暗示彭丽媛要升官？梁静茹歌声忽然风靡网络。审判孙力军能吓住谁？陈破空直播 与网友互动 美东7月9早8点30、即中港台7月9晚8点30</a></li>
-<li><a href="/topimagenews/20220709/1756029.md">两大迹象！江曾派系出现大问题【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220709/1756062.md">开枪射杀安倍晋三！山上彻也背景曝光</a></li>
-<li><a href="/cbnews/20220709/1756051.md">上海男持刀砍人案视频曝光 血迹斑斑路人奔逃</a></li>
 <li><a href="/topimagenews/20220709/1756149.md">夸张！中国搞安倍晋三灵堂电音趴“欢天喜地” 网友傻眼：政府怎允许这种事</a></li>
 <li><a href="/topimagenews/20220710/1756233.md">猛！向银行“宣战”？</a></li>
+<li><a href="/cbnews/20220709/1756051.md">上海男持刀砍人案视频曝光 血迹斑斑路人奔逃</a></li>
 <li><a href="/cnnews/20220710/1756244.md">安倍遇刺身亡，胡锡进被骂惨，金灿荣被吓得够呛</a></li>
 <li><a href="/cnnews/20220709/1756049.md">伊万卡现身机场身形仍健美 包里露出奇怪物品</a></li>
 <li><a href="/bannedvideo/20220709/1756072.md">习近平被迫哀悼赞扬安倍，秒成汉奸！仇日宣传和战狼外交自食其果。</a></li>
+<li><a href="/bannedvideo/20220710/1756263.md">🔥🔥大陆著名女演员悼念安倍！13万网友点赞 安倍爱妻绝望喊1句话！94岁母闻讯放声大哭上月才为她贺寿“非常诡异的国家”！安倍遇刺小粉红幸灾乐祸律师怒轰【阿波罗网JO】</a></li>
 <li><a href="/topimagenews/20220709/1756122.md">安倍晋三竟是替罪羊？杀手称想杀的本来是另一个人 网友不买账</a></li>
 <li><a href="/cbnews/20220709/1756050.md">中国狗仔被公安抄家 葛斯齐爆最渣男星惊人势力</a></li>
-<li><a href="/bannedvideo/20220710/1756204.md">李克强很受欢迎，有人妒忌</a></li>
-<li><a href="/topimagenews/20220710/1756251.md">家族核心！94岁的安倍洋子和背后强大的娘家</a></li>
-<li><a href="/bannedvideo/20220710/1756263.md">🔥🔥大陆著名女演员悼念安倍！13万网友点赞 安倍爱妻绝望喊1句话！94岁母闻讯放声大哭上月才为她贺寿“非常诡异的国家”！安倍遇刺小粉红幸灾乐祸律师怒轰【阿波罗网JO】</a></li>
-<li><a href="/topimagenews/20220710/1756339.md">高级黑！新华社给习近平写悼词！【阿波罗网报道】</a></li>
-<li><a href="/comments/20220709/1756156.md">为啥没向安倍家属表示哀悼？原来包子吓的没缓过劲来</a></li>
 <li><a href="/cnnews/20220710/1756285.md">中共统战来了 他拒绝：中国不是我的国家</a></li>
+<li><a href="/topimagenews/20220710/1756251.md">家族核心！94岁的安倍洋子和背后强大的娘家</a></li>
+<li><a href="/topimagenews/20220710/1756339.md">高级黑！新华社给习近平写悼词！【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220710/1756204.md">李克强很受欢迎，有人妒忌</a></li>
+<li><a href="/comments/20220709/1756156.md">为啥没向安倍家属表示哀悼？原来包子吓的没缓过劲来</a></li>
 <li><a href="/bannedvideo/20220709/1756152.md">让全世界都看到，这就是中国人</a></li>
+<li><a href="/cnnews/20220710/1756252.md">“救命神器”救不了安倍晋三 全球仅千余台</a></li>
 <li><a href="/cnnews/20220710/1756243.md">罕见！德国、日本、越南都出现了贸易赤字，这意味着什么？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220710/1756414.md" target="_blank">澳门“清零”封赌场 暂停非必要工商活动一周</a></li>
+<li><a href="/comments/20220710/1756413.md" target="_blank">安倍解剖报告出炉 葬礼仅限家人参加 凶手供认刺杀动机</a></li>
+<li><a href="/comments/20220710/1756412.md" target="_blank">安倍遇刺 奈良警方承认维安不足</a></li>
 <li><a href="/comments/20220710/1756401.md" target="_blank">经济危机引发大规模抗议 斯里兰卡总统和总理被迫辞职</a></li>
 <li><a href="/comments/20220710/1756384.md" target="_blank">【独家重磅】李燕铭：胡锦涛御用记者被免新华社副社长 是李克强安徽老乡 曾撰文吹捧江泽民 习近平二十大与北戴河会议前加强掌控笔杆子 二十大前北戴河会议大战内幕（十三） 习清洗文宣系统争夺笔杆子（二一） 习近平李克强明争暗斗内幕（三一） 二十大高层人事大战（三八）</a></li>
 <li><a href="/comments/20220710/1756380.md" target="_blank">各方评判：北顿涅茨克战役的真相</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220710/1756300.md" target="_blank">失算的普京，了不起的托卡耶夫</a></li>
 <li><a href="/comments/20220710/1756284.md" target="_blank">田云：安倍晋三遇刺 中共反应淡漠说明什么？</a></li>
 <li><a href="/comments/20220710/1756283.md" target="_blank">美国煤炭工业的复兴</a></li>
-<li><a href="/comments/20220710/1756282.md" target="_blank">楚一丁：马斯克，一个传奇冒险的梦幻</a></li>
-<li><a href="/comments/20220710/1756281.md" target="_blank">周晓辉：安倍遇刺应了中共早前威胁 只是巧合吗</a></li>
-<li><a href="/comments/20220710/1756280.md" target="_blank">郝平：安倍遇刺悬疑丛生 三大焦点引关注</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
 <li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
 
 </ul>
 </div>
