@@ -13,21 +13,21 @@
 <li><a href="/bannedvideo/20220709/1756098.md">陈破空：沉默两天，习近平终于吭声！电文奇怪，暗示彭丽媛要升官？梁静茹歌声忽然风靡网络。审判孙力军能吓住谁？陈破空直播 与网友互动 美东7月9早8点30、即中港台7月9晚8点30</a></li>
 <li><a href="/bannedvideo/20220709/1756024.md">“山上彻也”不是日本人？！蜗居奈良，在家造武器“扰到邻居”，生平遭肉搜；安倍之死对“台海”有重大影响！详说事件全过程，安倍遇刺第一时间什么反应？送院输血2万毫升；外祖父也曾被刺｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20220709/1756029.md">两大迹象！江曾派系出现大问题【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220709/1755945.md">安倍卸任安保费破2亿 “0.2秒毙敌”第一女保镖曝光</a></li>
-<li><a href="/cnnews/20220709/1756062.md">开枪射杀安倍晋三！山上彻也背景曝光</a></li>
 <li><a href="/bannedvideo/20220710/1756223.md">传内部通知 中共7月底或要搞事【红朝禁闻】</a></li>
+<li><a href="/cnnews/20220709/1756062.md">开枪射杀安倍晋三！山上彻也背景曝光</a></li>
 <li><a href="/cbnews/20220709/1756051.md">上海男持刀砍人案视频曝光 血迹斑斑路人奔逃</a></li>
 <li><a href="/topimagenews/20220709/1756149.md">夸张！中国搞安倍晋三灵堂电音趴“欢天喜地” 网友傻眼：政府怎允许这种事</a></li>
 <li><a href="/cnnews/20220709/1756049.md">伊万卡现身机场身形仍健美 包里露出奇怪物品</a></li>
 <li><a href="/cbnews/20220709/1755997.md">江峰：安倍被刺，刺客背后有无中共阴谋？中国粉红的迅速狂欢与习近平的迟来哀悼，会给中国带来怎样的悲剧？日本政治初探，东亚变局？【江峰漫谈20220708第510期】</a></li>
 <li><a href="/bannedvideo/20220709/1756017.md">疯传网络预言真发生了！安倍遇袭曾有预告？日安全官踢爆中共在日间谍内幕！【希望之声TV-国际风云】</a></li>
 <li><a href="/worldnews/20220709/1755959.md">安倍晋三为她助选却身亡！女候选人全程目睹崩溃：都是我的错</a></li>
-<li><a href="/topimagenews/20220709/1755969.md">警方公布安倍解剖报告 直接死因曝光</a></li>
 <li><a href="/bannedvideo/20220709/1756072.md">习近平被迫哀悼赞扬安倍，秒成汉奸！仇日宣传和战狼外交自食其果。</a></li>
+<li><a href="/topimagenews/20220709/1755969.md">警方公布安倍解剖报告 直接死因曝光</a></li>
 <li><a href="/cbnews/20220709/1756050.md">中国狗仔被公安抄家 葛斯齐爆最渣男星惊人势力</a></li>
 <li><a href="/topimagenews/20220709/1756122.md">安倍晋三竟是替罪羊？杀手称想杀的本来是另一个人 网友不买账</a></li>
-<li><a href="/worldnews/20220709/1756009.md">G20外长会议突发一幕：俄外长愤怒离席</a></li>
+<li><a href="/topimagenews/20220710/1756233.md">猛！向银行“宣战”？</a></li>
 <li><a href="/bannedvideo/20220710/1756204.md">李克强很受欢迎，有人妒忌</a></li>
+<li><a href="/worldnews/20220709/1756009.md">G20外长会议突发一幕：俄外长愤怒离席</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220710/1756323.md" target="_blank">【微博精粹】手舞足蹈者只是在欢庆自身的死亡 安倍安息</a></li>
+<li><a href="/comments/20220710/1756322.md" target="_blank">西北在望：我的恐惧在于我的学生会不会是死亡欢呼者</a></li>
+<li><a href="/comments/20220710/1756321.md" target="_blank">旧闻：不传播偏见与仇恨是教育的最底线</a></li>
 <li><a href="/comments/20220710/1756314.md" target="_blank">【独家重磅】李燕铭：习近平开杀戒击破孙力军心理防线 孙力军为保命供出江绵恒郭声琨与上海帮两大佬 招供立功政治大罪被隐去面临终身监禁 二十大北戴河大战习近平手握重磅筹码 公安部副部长孙力军政变反习内幕（九） 二十大前北戴河会议大战内幕（十二）</a></li>
 <li><a href="/comments/20220710/1756310.md" target="_blank">布王会 布林肯：作为常任理事国中共理应维护国际秩序</a></li>
 <li><a href="/comments/20220710/1756302.md" target="_blank">阑夕:闭嘴感恩吧</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220709/1756158.md" target="_blank">高温天气席卷中国20多省 网民叫苦不迭</a></li>
 <li><a href="/comments/20220709/1756157.md" target="_blank">神韵台北首演 主流精英盛赞带来安定与希望</a></li>
 <li><a href="/comments/20220709/1756156.md" target="_blank">为啥没向安倍家属表示哀悼？原来包子吓的没缓过劲来</a></li>
-<li><a href="/comments/20220709/1756155.md" target="_blank">“今天某地会发生大事” 安倍遭枪击前…网上出现诡异梦境预言</a></li>
-<li><a href="/comments/20220709/1756142.md" target="_blank">重庆特斯拉失控撞向人群 致2死4伤</a></li>
-<li><a href="/comments/20220709/1756141.md" target="_blank">上海瑞金医院砍人事件4人受伤 警察开枪制服嫌犯 民众仓皇逃出</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 <li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
 <li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 
 </ul>
 </div>
