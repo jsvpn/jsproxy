@@ -5,15 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220710/1756233.md">猛！向银行“宣战”？</a></li>
 <li><a href="/topimagenews/20220710/1756339.md">高级黑！新华社给习近平写悼词！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220710/1756244.md">安倍遇刺身亡，胡锡进被骂惨，金灿荣被吓得够呛</a></li>
 <li><a href="/bannedvideo/20220710/1756263.md">🔥🔥大陆著名女演员悼念安倍！13万网友点赞 安倍爱妻绝望喊1句话！94岁母闻讯放声大哭上月才为她贺寿“非常诡异的国家”！安倍遇刺小粉红幸灾乐祸律师怒轰【阿波罗网JO】</a></li>
 <li><a href="/cnnews/20220710/1756285.md">中共统战来了 他拒绝：中国不是我的国家</a></li>
 <li><a href="/comments/20220710/1756460.md">河南村镇银行 3000名储户郑州维权爆流血冲突</a></li>
 <li><a href="/cbnews/20220710/1756298.md">吕丽萍发文悼念安倍晋三，被中国网友痛批</a></li>
-<li><a href="/cnnews/20220710/1756484.md">满脸血！郑州3千人抗议存款冻结 遭黑白两道殴打封锁消息</a></li>
 <li><a href="/cnnews/20220710/1756303.md">82岁佩洛西在意大利海滩放飞自我 引网友围观</a></li>
+<li><a href="/cnnews/20220710/1756484.md">满脸血！郑州3千人抗议存款冻结 遭黑白两道殴打封锁消息</a></li>
 <li><a href="/bannedvideo/20220710/1756453.md">（今日）数千河南村镇银行受害储户持续抗议，当局出动大批黑衣人白衣人围困抓人、打人。【 #大陆民生 】</a></li>
 <li><a href="/topimagenews/20220710/1756425.md">中国美女记者为安倍落泪 秀才艺无声打脸中国酸民</a></li>
 <li><a href="/topimagenews/20220710/1756251.md">家族核心！94岁的安倍洋子和背后强大的娘家</a></li>
@@ -25,9 +24,10 @@
 <li><a href="/cnnews/20220710/1756243.md">罕见！德国、日本、越南都出现了贸易赤字，这意味着什么？</a></li>
 <li><a href="/comments/20220710/1756384.md">【独家重磅】李燕铭：胡锦涛御用记者被免新华社副社长 是李克强安徽老乡 曾撰文吹捧江泽民 习近平二十大与北戴河会议前加强掌控笔杆子 二十大前北戴河会议大战内幕（十三） 习清洗文宣系统争夺笔杆子（二一） 习近平李克强明争暗斗内幕（三一） 二十大高层人事大战（三八）</a></li>
 <li><a href="/bannedvideo/20220710/1756403.md">河南村镇银行储户持续抗议。抗议者高呼：黑社会！当局调大批警察前来镇压！</a></li>
-<li><a href="/cbnews/20220710/1756340.md">中共军机飞过海峡中线挑衅 赵立坚不演了</a></li>
 <li><a href="/baitai/20220710/1756455.md">魔殿春秋｜疾控最新发现：新冠可通过网络传播</a></li>
+<li><a href="/cbnews/20220710/1756340.md">中共军机飞过海峡中线挑衅 赵立坚不演了</a></li>
 <li><a href="/lifebaike/20220710/1756429.md">42岁男子血管重度狭窄，1年后斑块“消失”，医生说做对了3件事</a></li>
+<li><a href="/bannedvideo/20220710/1756468.md">墙国社会主义耍流氓特色越来越明显，银行、公积金、中港互换通、计生委，个个争先害国人 联播 95</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220711/1756576.md" target="_blank">注意！驻美中领馆确认：入境中国10年签证停用</a></li>
+<li><a href="/cbnews/20220711/1756575.md" target="_blank">窃贼连偷4家以为完美犯罪 最后竟栽给一只蚊子</a></li>
 <li><a href="/cbnews/20220711/1756564.md" target="_blank">视频集锦 河南储户抗议现场犹如战场【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220710/1756527.md" target="_blank">布林肯：拜登、习近平将在未来几周通话</a></li>
 <li><a href="/cbnews/20220710/1756516.md" target="_blank">上海迪士尼停电！游客受困“加勒比海盗” 惊悚画面曝光</a></li>
@@ -58,14 +60,13 @@
 <li><a href="/cbnews/20220709/1755997.md" target="_blank">江峰：安倍被刺，刺客背后有无中共阴谋？中国粉红的迅速狂欢与习近平的迟来哀悼，会给中国带来怎样的悲剧？日本政治初探，东亚变局？【江峰漫谈20220708第510期】</a></li>
 <li><a href="/cbnews/20220709/1755987.md" target="_blank">天亮时分：安倍遇刺身亡，亚太面临地缘政治冲击波；小粉红犯坏实为犯蠢；安倍显赫的家族背景和政治光谱；马斯克不买推特了！（政论天下第739集 20220708）</a></li>
 <li><a href="/cbnews/20220709/1755970.md" target="_blank">中国今年487条河流发生洪水 死亡失踪40人</a></li>
-<li><a href="/cbnews/20220709/1755821.md" target="_blank">中国驻日记者直播安倍遇刺哽咽落泪 遭网民围攻</a></li>
-<li><a href="/cbnews/20220709/1755793.md" target="_blank">乌克兰永久取缔共产党 中共沉默</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220711/1756574.md" target="_blank">网传上海下周二封城！官方一辟谣 中国人吓傻：囤好物资了</a></li>
 <li><a href="/topimagenews/20220711/1756560.md" target="_blank">被指称“刺杀安倍”罪魁祸首，他受访喊冤</a></li>
 <li><a href="/topimagenews/20220711/1756537.md" target="_blank">日媒曝安倍改行程全因他 6旬翁帮复仇放话“下一个是你”遭逮</a></li>
 <li><a href="/topimagenews/20220710/1756425.md" target="_blank">中国美女记者为安倍落泪 秀才艺无声打脸中国酸民</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220709/1755968.md" target="_blank">不只安倍 枪手供词惊曝“还有下个目标”</a></li>
 <li><a href="/topimagenews/20220709/1755957.md" target="_blank">想让习近平成第二个华国锋、赵紫阳？反习派千方百计挤兑习近平&#8230;【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220709/1755945.md" target="_blank">安倍卸任安保费破2亿 “0.2秒毙敌”第一女保镖曝光</a></li>
-<li><a href="/topimagenews/20220709/1755864.md" target="_blank">凶嫌掌握安倍行程先于警方？演说于“昨天傍晚”敲定</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220711/1756573.md" target="_blank">又是武汉！武大疑似出现霍乱 整栋楼被封 学生都做肛拭子检测</a></li>
 <li><a href="/comments/20220711/1756565.md" target="_blank">加拿大放行北溪设备德国表欢迎 乌克兰批此举将破坏对俄制裁</a></li>
 <li><a href="/comments/20220711/1756556.md" target="_blank">上海首现奥密克戎BA.5本土病例 新增12高风险区 184中风险区</a></li>
 <li><a href="/comments/20220710/1756528.md" target="_blank">疫情下港人回大陆救急难 前政协呼吁设人道通道</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
 <li><a href="/comments/20220710/1756416.md" target="_blank">习近平被曝在公安部安插老乡 秘查孙力军</a></li>
 <li><a href="/comments/20220710/1756414.md" target="_blank">澳门“清零”封赌场 暂停非必要工商活动一周</a></li>
-<li><a href="/comments/20220710/1756413.md" target="_blank">安倍解剖报告出炉 葬礼仅限家人参加 凶手供认刺杀动机</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
 
 </ul>
 </div>
