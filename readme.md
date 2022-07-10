@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220709/1755957.md">想让习近平成第二个华国锋、赵紫阳？反习派千方百计挤兑习近平...【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220709/1756052.md">史上最尴尬握手 安倍身亡一天后习近平终发唁电</a></li>
 <li><a href="/cnnews/20220709/1756059.md">朝中无人！人民日报又“翻车”了：这回刘胡兰又咋地啦</a></li>
 <li><a href="/topimagenews/20220709/1756123.md">习近平鲸吞中共顶层3万亿；中国投资人开始送外卖！新特色？中国车展惊人一幕</a></li>
-<li><a href="/topimagenews/20220709/1756005.md">夹心婚姻苦了安倍 枪击丧生 强势母和率性妻泪崩</a></li>
 <li><a href="/bannedvideo/20220709/1756098.md">陈破空：沉默两天，习近平终于吭声！电文奇怪，暗示彭丽媛要升官？梁静茹歌声忽然风靡网络。审判孙力军能吓住谁？陈破空直播 与网友互动 美东7月9早8点30、即中港台7月9晚8点30</a></li>
+<li><a href="/topimagenews/20220709/1756005.md">夹心婚姻苦了安倍 枪击丧生 强势母和率性妻泪崩</a></li>
 <li><a href="/bannedvideo/20220709/1756024.md">“山上彻也”不是日本人？！蜗居奈良，在家造武器“扰到邻居”，生平遭肉搜；安倍之死对“台海”有重大影响！详说事件全过程，安倍遇刺第一时间什么反应？送院输血2万毫升；外祖父也曾被刺｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/topimagenews/20220709/1756029.md">两大迹象！江曾派系出现大问题【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220710/1756223.md">传内部通知 中共7月底或要搞事【红朝禁闻】</a></li>
+<li><a href="/topimagenews/20220709/1756029.md">两大迹象！江曾派系出现大问题【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220709/1756062.md">开枪射杀安倍晋三！山上彻也背景曝光</a></li>
 <li><a href="/cbnews/20220709/1756051.md">上海男持刀砍人案视频曝光 血迹斑斑路人奔逃</a></li>
-<li><a href="/topimagenews/20220709/1756149.md">夸张！中国搞安倍晋三灵堂电音趴“欢天喜地” 网友傻眼：政府怎允许这种事</a></li>
 <li><a href="/cnnews/20220709/1756049.md">伊万卡现身机场身形仍健美 包里露出奇怪物品</a></li>
+<li><a href="/topimagenews/20220709/1756149.md">夸张！中国搞安倍晋三灵堂电音趴“欢天喜地” 网友傻眼：政府怎允许这种事</a></li>
 <li><a href="/cbnews/20220709/1755997.md">江峰：安倍被刺，刺客背后有无中共阴谋？中国粉红的迅速狂欢与习近平的迟来哀悼，会给中国带来怎样的悲剧？日本政治初探，东亚变局？【江峰漫谈20220708第510期】</a></li>
 <li><a href="/bannedvideo/20220709/1756017.md">疯传网络预言真发生了！安倍遇袭曾有预告？日安全官踢爆中共在日间谍内幕！【希望之声TV-国际风云】</a></li>
-<li><a href="/worldnews/20220709/1755959.md">安倍晋三为她助选却身亡！女候选人全程目睹崩溃：都是我的错</a></li>
 <li><a href="/bannedvideo/20220709/1756072.md">习近平被迫哀悼赞扬安倍，秒成汉奸！仇日宣传和战狼外交自食其果。</a></li>
 <li><a href="/topimagenews/20220709/1755969.md">警方公布安倍解剖报告 直接死因曝光</a></li>
-<li><a href="/cbnews/20220709/1756050.md">中国狗仔被公安抄家 葛斯齐爆最渣男星惊人势力</a></li>
-<li><a href="/topimagenews/20220709/1756122.md">安倍晋三竟是替罪羊？杀手称想杀的本来是另一个人 网友不买账</a></li>
 <li><a href="/topimagenews/20220710/1756233.md">猛！向银行“宣战”？</a></li>
+<li><a href="/cbnews/20220709/1756050.md">中国狗仔被公安抄家 葛斯齐爆最渣男星惊人势力</a></li>
+<li><a href="/cnnews/20220710/1756244.md">安倍遇刺身亡，胡锡进被骂惨，金灿荣被吓得够呛</a></li>
+<li><a href="/topimagenews/20220709/1756122.md">安倍晋三竟是替罪羊？杀手称想杀的本来是另一个人 网友不买账</a></li>
 <li><a href="/bannedvideo/20220710/1756204.md">李克强很受欢迎，有人妒忌</a></li>
 <li><a href="/worldnews/20220709/1756009.md">G20外长会议突发一幕：俄外长愤怒离席</a></li>
+<li><a href="/bannedvideo/20220709/1756152.md">让全世界都看到，这就是中国人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220710/1756340.md" target="_blank">中共军机飞过海峡中线挑衅 赵立坚不演了</a></li>
 <li><a href="/cbnews/20220710/1756298.md" target="_blank">吕丽萍发文悼念安倍晋三，被中国网友痛批</a></li>
 <li><a href="/cbnews/20220709/1756052.md" target="_blank">史上最尴尬握手 安倍身亡一天后习近平终发唁电</a></li>
 <li><a href="/cbnews/20220709/1756051.md" target="_blank">上海男持刀砍人案视频曝光 血迹斑斑路人奔逃</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20220708/1755416.md" target="_blank">刚刚，中共工信部发布重要防疫调整通知</a></li>
 <li><a href="/cbnews/20220708/1755323.md" target="_blank">抖音红遍全球 台湾公视揭背后隐藏危机</a></li>
 <li><a href="/cbnews/20220708/1755322.md" target="_blank">奥密克戎新分支或“重拾”感染肺部能力</a></li>
-<li><a href="/cbnews/20220707/1755117.md" target="_blank">史上头一遭 美英情报头子联手警告北京威胁</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220710/1756339.md" target="_blank">高级黑！新华社给习近平写悼词！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220710/1756251.md" target="_blank">家族核心！94岁的安倍洋子和背后强大的娘家</a></li>
 <li><a href="/topimagenews/20220710/1756233.md" target="_blank">猛！向银行“宣战”？</a></li>
 <li><a href="/topimagenews/20220709/1756149.md" target="_blank">夸张！中国搞安倍晋三灵堂电音趴“欢天喜地” 网友傻眼：政府怎允许这种事</a></li>
@@ -90,13 +91,15 @@
 <li><a href="/topimagenews/20220708/1755644.md" target="_blank">安倍遇害已离世 医惊见心脏有“超大洞”证实死因</a></li>
 <li><a href="/topimagenews/20220708/1755613.md" target="_blank">快讯：安倍晋三中弹 抢救后宣告不治</a></li>
 <li><a href="/topimagenews/20220708/1755571.md" target="_blank">中共要抢世界最大黄金矿藏?发现3100万吨金矿 乌干达总统:中企将开采</a></li>
-<li><a href="/topimagenews/20220708/1755559.md" target="_blank">中共高层激斗内幕！他投下关键一篇【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220710/1756347.md" target="_blank">漫天霾：病毒不一定能害死我们，观念却能</a></li>
+<li><a href="/comments/20220710/1756346.md" target="_blank">沉默克:永失倪匡：香港最后的大师仙去</a></li>
+<li><a href="/comments/20220710/1756345.md" target="_blank">余英时：我们有更大的使命</a></li>
 <li><a href="/comments/20220710/1756323.md" target="_blank">【微博精粹】手舞足蹈者只是在欢庆自身的死亡 安倍安息</a></li>
 <li><a href="/comments/20220710/1756322.md" target="_blank">西北在望：我的恐惧在于我的学生会不会是死亡欢呼者</a></li>
 <li><a href="/comments/20220710/1756321.md" target="_blank">旧闻：不传播偏见与仇恨是教育的最底线</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220710/1756208.md" target="_blank">上海瑞金医院发生无差别砍人事件 警察开枪 受害者人数成迷</a></li>
 <li><a href="/comments/20220710/1756197.md" target="_blank">李燕铭：公安部副部长孙力军政变反习内幕（六） 孙力军控制要害部门政变反习 江绵恒安排孙力军暗杀习近平 孙力军和王立科见面预谋刺习 湖北省军区司令员马涛将暗杀计划汇报给习 江派刺习行动有十几波 官方通报间接证实孙力军泄露武汉病毒所及中共病毒疫情绝密资料</a></li>
 <li><a href="/comments/20220710/1756196.md" target="_blank">时事大家谈：mRNA抗癌疫苗又进一步 前景如何？ 中国mRNA疫苗尴尬了 还能“为国争光”吗？</a></li>
-<li><a href="/comments/20220709/1756158.md" target="_blank">高温天气席卷中国20多省 网民叫苦不迭</a></li>
-<li><a href="/comments/20220709/1756157.md" target="_blank">神韵台北首演 主流精英盛赞带来安定与希望</a></li>
-<li><a href="/comments/20220709/1756156.md" target="_blank">为啥没向安倍家属表示哀悼？原来包子吓的没缓过劲来</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
 <li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 
 </ul>
 </div>
