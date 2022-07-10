@@ -5,16 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220709/1756123.md">习近平鲸吞中共顶层3万亿；中国投资人开始送外卖！新特色？中国车展惊人一幕</a></li>
 <li><a href="/bannedvideo/20220710/1756223.md">传内部通知 中共7月底或要搞事【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220710/1756233.md">猛！向银行“宣战”？</a></li>
 <li><a href="/topimagenews/20220709/1756149.md">夸张！中国搞安倍晋三灵堂电音趴“欢天喜地” 网友傻眼：政府怎允许这种事</a></li>
-<li><a href="/cnnews/20220710/1756244.md">安倍遇刺身亡，胡锡进被骂惨，金灿荣被吓得够呛</a></li>
 <li><a href="/bannedvideo/20220709/1756072.md">习近平被迫哀悼赞扬安倍，秒成汉奸！仇日宣传和战狼外交自食其果。</a></li>
+<li><a href="/cnnews/20220710/1756244.md">安倍遇刺身亡，胡锡进被骂惨，金灿荣被吓得够呛</a></li>
 <li><a href="/topimagenews/20220710/1756339.md">高级黑！新华社给习近平写悼词！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220710/1756263.md">🔥🔥大陆著名女演员悼念安倍！13万网友点赞 安倍爱妻绝望喊1句话！94岁母闻讯放声大哭上月才为她贺寿“非常诡异的国家”！安倍遇刺小粉红幸灾乐祸律师怒轰【阿波罗网JO】</a></li>
 <li><a href="/cnnews/20220710/1756285.md">中共统战来了 他拒绝：中国不是我的国家</a></li>
-<li><a href="/topimagenews/20220709/1756122.md">安倍晋三竟是替罪羊？杀手称想杀的本来是另一个人 网友不买账</a></li>
 <li><a href="/bannedvideo/20220710/1756204.md">李克强很受欢迎，有人妒忌</a></li>
 <li><a href="/comments/20220709/1756156.md">为啥没向安倍家属表示哀悼？原来包子吓的没缓过劲来</a></li>
 <li><a href="/cnnews/20220710/1756303.md">82岁佩洛西在意大利海滩放飞自我 引网友围观</a></li>
@@ -22,12 +20,14 @@
 <li><a href="/topimagenews/20220710/1756251.md">家族核心！94岁的安倍洋子和背后强大的娘家</a></li>
 <li><a href="/cnnews/20220710/1756252.md">“救命神器”救不了安倍晋三 全球仅千余台</a></li>
 <li><a href="/bannedvideo/20220709/1756152.md">让全世界都看到，这就是中国人</a></li>
-<li><a href="/cnnews/20220710/1756243.md">罕见！德国、日本、越南都出现了贸易赤字，这意味着什么？</a></li>
 <li><a href="/worldnews/20220710/1756277.md">安倍遇刺！女神级保镖被指失职“真相大逆转” 正面照证实身份</a></li>
+<li><a href="/cnnews/20220710/1756243.md">罕见！德国、日本、越南都出现了贸易赤字，这意味着什么？</a></li>
 <li><a href="/topimagenews/20220710/1756408.md">安倍辞世前最后场面曝光 妻子绝望唤小名</a></li>
 <li><a href="/cnnews/20220709/1756137.md">上海医院惊传随机砍人！传5个小朋友3医生受伤 1女医颈动脉断</a></li>
-<li><a href="/cnnews/20220710/1756235.md">黄秋生疑斥责陆网欢庆安倍身亡！网刷一排认同</a></li>
 <li><a href="/bannedvideo/20220710/1756404.md">中共最怕的事要发生?日本人怒了安倍遗愿恐成真!G20曝意外!俄外长遭围剿愤怒离席【希望之声TV-国际风云】</a></li>
+<li><a href="/cnnews/20220710/1756235.md">黄秋生疑斥责陆网欢庆安倍身亡！网刷一排认同</a></li>
+<li><a href="/topimagenews/20220710/1756425.md">中国美女记者为安倍落泪 秀才艺无声打脸中国酸民</a></li>
+<li><a href="/cbnews/20220710/1756340.md">中共军机飞过海峡中线挑衅 赵立坚不演了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220710/1756491.md" target="_blank">台海就是“国际海峡”！ 法军太平洋司令呛中国主权论“大错特错”</a></li>
 <li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
 <li><a href="/comments/20220710/1756461.md" target="_blank">【俄乌战火第137天】泽伦斯基撤换5位驻外大使 乌克兰外委会感谢台湾支持</a></li>
 <li><a href="/comments/20220710/1756460.md" target="_blank">河南村镇银行 3000名储户郑州维权爆流血冲突</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220710/1756379.md" target="_blank">邵旭峰：货币脱钩 中亚巨变</a></li>
 <li><a href="/comments/20220710/1756270.md" target="_blank">美国乔治亚州神秘巨石阵被炸毁 当局决定完全清拆</a></li>
 <li><a href="/comments/20220710/1756371.md" target="_blank">【杰森视角】从安倍之死看当今世界的时运！“安倍经济学”是一剂不得不用的猛药！斯里兰卡向世界展示通胀如何击垮一个社会！安倍和川普的交情为何那么铁？安倍为什么是“台湾最坚定的挚友”？</a></li>
-<li><a href="/comments/20220710/1756368.md" target="_blank">就在2022年，日本再无大佬善于敢于平衡中美</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 <li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 
 </ul>
 </div>
