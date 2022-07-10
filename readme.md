@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/bannedvideo/20220710/1756223.md">传内部通知 中共7月底或要搞事【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220710/1756233.md">猛！向银行“宣战”？</a></li>
 <li><a href="/topimagenews/20220710/1756339.md">高级黑！新华社给习近平写悼词！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220710/1756244.md">安倍遇刺身亡，胡锡进被骂惨，金灿荣被吓得够呛</a></li>
@@ -13,14 +12,14 @@
 <li><a href="/cnnews/20220710/1756285.md">中共统战来了 他拒绝：中国不是我的国家</a></li>
 <li><a href="/comments/20220710/1756460.md">河南村镇银行 3000名储户郑州维权爆流血冲突</a></li>
 <li><a href="/cbnews/20220710/1756298.md">吕丽萍发文悼念安倍晋三，被中国网友痛批</a></li>
-<li><a href="/bannedvideo/20220710/1756453.md">（今日）数千河南村镇银行受害储户持续抗议，当局出动大批黑衣人白衣人围困抓人、打人。【 #大陆民生 】</a></li>
 <li><a href="/cnnews/20220710/1756303.md">82岁佩洛西在意大利海滩放飞自我 引网友围观</a></li>
+<li><a href="/bannedvideo/20220710/1756453.md">（今日）数千河南村镇银行受害储户持续抗议，当局出动大批黑衣人白衣人围困抓人、打人。【 #大陆民生 】</a></li>
 <li><a href="/cnnews/20220710/1756484.md">满脸血！郑州3千人抗议存款冻结 遭黑白两道殴打封锁消息</a></li>
 <li><a href="/topimagenews/20220710/1756425.md">中国美女记者为安倍落泪 秀才艺无声打脸中国酸民</a></li>
 <li><a href="/topimagenews/20220710/1756251.md">家族核心！94岁的安倍洋子和背后强大的娘家</a></li>
 <li><a href="/topimagenews/20220710/1756408.md">安倍辞世前最后场面曝光 妻子绝望唤小名</a></li>
-<li><a href="/cnnews/20220710/1756252.md">“救命神器”救不了安倍晋三 全球仅千余台</a></li>
 <li><a href="/worldnews/20220710/1756277.md">安倍遇刺！女神级保镖被指失职“真相大逆转” 正面照证实身份</a></li>
+<li><a href="/cnnews/20220710/1756252.md">“救命神器”救不了安倍晋三 全球仅千余台</a></li>
 <li><a href="/bannedvideo/20220710/1756404.md">中共最怕的事要发生?日本人怒了安倍遗愿恐成真!G20曝意外!俄外长遭围剿愤怒离席【希望之声TV-国际风云】</a></li>
 <li><a href="/bannedvideo/20220710/1756467.md">陈破空：李克强继续出击，习近平挡不住！斯里兰卡政府被人民赶下台。安倍的最后时刻，妻子呼唤小名。陈破空直播 与网友互动 美东7月10早8点30、即中港台7月10晚8点30</a></li>
 <li><a href="/cnnews/20220710/1756243.md">罕见！德国、日本、越南都出现了贸易赤字，这意味着什么？</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/bannedvideo/20220710/1756403.md">河南村镇银行储户持续抗议。抗议者高呼：黑社会！当局调大批警察前来镇压！</a></li>
 <li><a href="/cbnews/20220710/1756340.md">中共军机飞过海峡中线挑衅 赵立坚不演了</a></li>
 <li><a href="/lifebaike/20220710/1756429.md">42岁男子血管重度狭窄，1年后斑块“消失”，医生说做对了3件事</a></li>
+<li><a href="/cnnews/20220710/1756235.md">黄秋生疑斥责陆网欢庆安倍身亡！网刷一排认同</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220711/1756565.md" target="_blank">加拿大放行北溪设备德国表欢迎 乌克兰批此举将破坏对俄制裁</a></li>
 <li><a href="/comments/20220711/1756556.md" target="_blank">上海首现奥密克戎BA.5本土病例 新增12高风险区 184中风险区</a></li>
 <li><a href="/comments/20220710/1756528.md" target="_blank">疫情下港人回大陆救急难 前政协呼吁设人道通道</a></li>
 <li><a href="/comments/20220710/1756521.md" target="_blank">小暑时节 谨防肠胃高发疾病 养生要注意这些要点</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220710/1756416.md" target="_blank">习近平被曝在公安部安插老乡 秘查孙力军</a></li>
 <li><a href="/comments/20220710/1756414.md" target="_blank">澳门“清零”封赌场 暂停非必要工商活动一周</a></li>
 <li><a href="/comments/20220710/1756413.md" target="_blank">安倍解剖报告出炉 葬礼仅限家人参加 凶手供认刺杀动机</a></li>
-<li><a href="/comments/20220710/1756412.md" target="_blank">安倍遇刺 奈良警方承认维安不足</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 <li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
 
 </ul>
 </div>
