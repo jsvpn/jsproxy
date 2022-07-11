@@ -15,19 +15,19 @@
 <li><a href="/comments/20220710/1756384.md">【独家重磅】李燕铭：胡锦涛御用记者被免新华社副社长 是李克强安徽老乡 曾撰文吹捧江泽民 习近平二十大与北戴河会议前加强掌控笔杆子 二十大前北戴河会议大战内幕（十三） 习清洗文宣系统争夺笔杆子（二一） 习近平李克强明争暗斗内幕（三一） 二十大高层人事大战（三八）</a></li>
 <li><a href="/cbnews/20220711/1756576.md">注意！驻美中领馆确认：入境中国10年签证停用</a></li>
 <li><a href="/bannedvideo/20220710/1756403.md">河南村镇银行储户持续抗议。抗议者高呼：黑社会！当局调大批警察前来镇压！</a></li>
+<li><a href="/topimagenews/20220711/1756574.md">网传上海下周二封城！官方一辟谣 中国人吓傻：囤好物资了</a></li>
 <li><a href="/bannedvideo/20220710/1756468.md">墙国社会主义耍流氓特色越来越明显，银行、公积金、中港互换通、计生委，个个争先害国人 联播 95</a></li>
 <li><a href="/lifebaike/20220710/1756429.md">42岁男子血管重度狭窄，1年后斑块“消失”，医生说做对了3件事</a></li>
 <li><a href="/baitai/20220710/1756455.md">魔殿春秋｜疾控最新发现：新冠可通过网络传播</a></li>
-<li><a href="/topimagenews/20220711/1756574.md">网传上海下周二封城！官方一辟谣 中国人吓傻：囤好物资了</a></li>
-<li><a href="/lifebaike/20220710/1756451.md">房子住久了，才明白厨房没必要装这3件东西，费钱又不实用</a></li>
 <li><a href="/finance/20220711/1756531.md">ZARA集团3品牌 全线退出中国市场</a></li>
+<li><a href="/lifebaike/20220710/1756451.md">房子住久了，才明白厨房没必要装这3件东西，费钱又不实用</a></li>
 <li><a href="/funmedia/20220710/1756398.md">“人有贵相，一看便知”：一个人是否自带贵相，往往和这4点有关</a></li>
 <li><a href="/topimagenews/20220710/1756420.md">安倍遭刺杀可避免？两枪间关键3秒酿成遗憾</a></li>
 <li><a href="/comments/20220710/1756449.md">二代奥密克戎问世！变异多、传播快，来势汹汹......</a></li>
-<li><a href="/baitai/20220710/1756490.md">小黄和他胡思乱想的脑子｜荷兰的银行储户们</a></li>
-<li><a href="/bannedvideo/20220710/1756423.md">文睿：穷到吓人，一小时3块钱，中国经济废了</a></li>
 <li><a href="/cbnews/20220711/1756564.md">视频集锦 河南储户抗议现场犹如战场【阿波罗网报道】</a></li>
-<li><a href="/lifebaike/20220710/1756428.md">爱喝茶的人，这5种茶最好列入“黑名单”，别等身体出问题才后悔</a></li>
+<li><a href="/baitai/20220710/1756490.md">小黄和他胡思乱想的脑子｜荷兰的银行储户们</a></li>
+<li><a href="/topimagenews/20220711/1756612.md">被删文：46万厂弟厂妹，躺平在“沙井吧”</a></li>
+<li><a href="/bannedvideo/20220710/1756423.md">文睿：穷到吓人，一小时3块钱，中国经济废了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220711/1756683.md" target="_blank">马斯克弃推特 双方大咖律师激战在即 川普：很糟糕的合同</a></li>
+<li><a href="/comments/20220711/1756678.md" target="_blank">【中南火海】87 《星火》反抗与林昭就义</a></li>
+<li><a href="/comments/20220711/1756677.md" target="_blank">林芳如：台湾有事就是日本有事 也就是日美同盟有事</a></li>
 <li><a href="/comments/20220711/1756664.md" target="_blank">何清涟：俄乌战争后果：西方绿能计划悄然“洗绿” 扛不住了</a></li>
 <li><a href="/comments/20220711/1756663.md" target="_blank">许慧仪：如今，欧洲国家尝到苦头了</a></li>
 <li><a href="/comments/20220711/1756662.md" target="_blank">司马南狂怼清华北大：硅谷竟然有2万清华学子？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220710/1756460.md" target="_blank">河南村镇银行 3000名储户郑州维权爆流血冲突</a></li>
 <li><a href="/comments/20220710/1756459.md" target="_blank">中国惊现新型重组猪流感病毒！具人畜共通传染可能性</a></li>
 <li><a href="/comments/20220710/1756454.md" target="_blank">参加阿拉斯加竞选活动 川普披露两原因</a></li>
-<li><a href="/comments/20220710/1756449.md" target="_blank">二代奥密克戎问世！变异多、传播快，来势汹汹&#8230;&#8230;</a></li>
-<li><a href="/comments/20220710/1756448.md" target="_blank">纽约市疫情又起！卫生局促民众戴回N95</a></li>
-<li><a href="/comments/20220710/1756447.md" target="_blank">厨房里的中药材——昆布</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
 <li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 
 </ul>
 </div>
