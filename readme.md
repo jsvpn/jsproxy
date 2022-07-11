@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20220711/1756576.md">注意！驻美中领馆确认：入境中国10年签证停用</a></li>
 <li><a href="/topimagenews/20220711/1756767.md">群众终于肯授权美帝干涉内政：快去河南看看吧</a></li>
-<li><a href="/topimagenews/20220711/1756612.md">被删文：46万厂弟厂妹，躺平在“沙井吧”</a></li>
 <li><a href="/headline/20220711/1756587.md">“李克强 查河南” 数千名示威者为何怒吼</a></li>
+<li><a href="/topimagenews/20220711/1756612.md">被删文：46万厂弟厂妹，躺平在“沙井吧”</a></li>
 <li><a href="/topimagenews/20220711/1756574.md">网传上海下周二封城！官方一辟谣 中国人吓傻：囤好物资了</a></li>
 <li><a href="/baitai/20220711/1756726.md">【404文库】真叫卢俊｜“我躲在虹桥的卫生间，不知道去哪。”</a></li>
 <li><a href="/topimagenews/20220711/1756598.md">习近平20大准备好了！肖建华案才审没人敢吭声</a></li>
@@ -21,10 +21,10 @@
 <li><a href="/renquan/20220711/1756608.md">河南村镇银行储户维权遭镇压</a></li>
 <li><a href="/ssgc/20220711/1756716.md">〖兲朝浮世绘〗普京的人情味还是比中共国的领袖多那么一点</a></li>
 <li><a href="/cbnews/20220711/1756669.md">天亮时分：天克地冲，七月政局大动荡；十年签证作废，中美外交降级；河南储户维权遭镇压，四大极不寻常之处；日本将废和平宪法（政论天下第740集 20220710）</a></li>
-<li><a href="/comments/20220711/1756573.md">又是武汉！武大疑似出现霍乱 整栋楼被封 学生都做肛拭子检测</a></li>
 <li><a href="/topimagenews/20220711/1756731.md">冲上热搜！“谭谈交通”下架 面临千万赔偿？主持人或有牢狱之灾</a></li>
-<li><a href="/cbnews/20220711/1756732.md">上海10岁男孩核酸被拒，拿菜刀怒吼：砍死你</a></li>
+<li><a href="/comments/20220711/1756573.md">又是武汉！武大疑似出现霍乱 整栋楼被封 学生都做肛拭子检测</a></li>
 <li><a href="/topimagenews/20220711/1756537.md">日媒曝安倍改行程全因他 6旬翁帮复仇放话“下一个是你”遭逮</a></li>
+<li><a href="/cbnews/20220711/1756732.md">上海10岁男孩核酸被拒，拿菜刀怒吼：砍死你</a></li>
 <li><a href="/cbnews/20220711/1756747.md">上海高考首个零分考生曝光，竟然是她？</a></li>
 <li><a href="/yule/20220711/1756542.md">大S松口“整个婚礼都在发火”揭11年前嫁汪小菲惨况</a></li>
 <li><a href="/cnnews/20220711/1756601.md">中国疾控最新发现：新冠可通过网络传播</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220711/1756867.md" target="_blank">【俄乌战火第138天】俄军砲轰民宅酿15死 乌克兰整备百万大军准备反攻</a></li>
+<li><a href="/comments/20220711/1756866.md" target="_blank">安倍晋三遗体移往东京增上寺 今晚举行守灵仪式</a></li>
 <li><a href="/comments/20220711/1756856.md" target="_blank">茄子的食疗功效不可小视 是心血管病患者的佳蔬</a></li>
 <li><a href="/comments/20220711/1756854.md" target="_blank">释迦佛大弟子 大迦叶住世2500年，为向“未来佛弥勒”交予佛衣、舍利。释迦座下，悟性最高的弟子之一，运用神通，力保真身于鸡足山，出面度化英国哲学博士！</a></li>
 <li><a href="/comments/20220711/1756845.md" target="_blank">袁红冰：《燃烧的安魂曲》第一章    寻找美丽的死亡</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220711/1756749.md" target="_blank">大批俄军抵边境 白俄罗斯军方急了</a></li>
 <li><a href="/comments/20220711/1756741.md" target="_blank">川普：早料到马斯克不会真的收购推特</a></li>
 <li><a href="/comments/20220711/1756740.md" target="_blank">安倍效应 日本自民党参院大胜 岸田迎“黄金3年”</a></li>
-<li><a href="/comments/20220711/1756738.md" target="_blank">李燕铭：习近平秘审肖建华 警告新老权贵家族 决战江曾为二十大连任铺路 中南海头号大案肖建华涉三大政治罪 背靠六大常委家族 肖建华关押中给家人下严格指示 供出多名政治局常委与委员 肖建华与吴小晖涉金融政变内幕曝光 中南海头号大案肖建华案内幕（一） 二十大前北戴河会议大战内幕（十四） 习近平决战江曾（二一）</a></li>
-<li><a href="/comments/20220711/1756734.md" target="_blank">中共一带一路烂尾 千亿元烂帐为20大献礼</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
 <li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
 <li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
 
 </ul>
 </div>
