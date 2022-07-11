@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220710/1756339.md">高级黑！新华社给习近平写悼词！【阿波罗网报道】</a></li>
 <li><a href="/comments/20220710/1756460.md">河南村镇银行 3000名储户郑州维权爆流血冲突</a></li>
 <li><a href="/bannedvideo/20220710/1756453.md">（今日）数千河南村镇银行受害储户持续抗议，当局出动大批黑衣人白衣人围困抓人、打人。【 #大陆民生 】</a></li>
 <li><a href="/cnnews/20220710/1756484.md">满脸血！郑州3千人抗议存款冻结 遭黑白两道殴打封锁消息</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/bannedvideo/20220710/1756404.md">中共最怕的事要发生?日本人怒了安倍遗愿恐成真!G20曝意外!俄外长遭围剿愤怒离席【希望之声TV-国际风云】</a></li>
 <li><a href="/bannedvideo/20220710/1756467.md">陈破空：李克强继续出击，习近平挡不住！斯里兰卡政府被人民赶下台。安倍的最后时刻，妻子呼唤小名。陈破空直播 与网友互动 美东7月10早8点30、即中港台7月10晚8点30</a></li>
 <li><a href="/comments/20220710/1756384.md">【独家重磅】李燕铭：胡锦涛御用记者被免新华社副社长 是李克强安徽老乡 曾撰文吹捧江泽民 习近平二十大与北戴河会议前加强掌控笔杆子 二十大前北戴河会议大战内幕（十三） 习清洗文宣系统争夺笔杆子（二一） 习近平李克强明争暗斗内幕（三一） 二十大高层人事大战（三八）</a></li>
+<li><a href="/cbnews/20220711/1756576.md">注意！驻美中领馆确认：入境中国10年签证停用</a></li>
 <li><a href="/bannedvideo/20220710/1756403.md">河南村镇银行储户持续抗议。抗议者高呼：黑社会！当局调大批警察前来镇压！</a></li>
-<li><a href="/cbnews/20220710/1756340.md">中共军机飞过海峡中线挑衅 赵立坚不演了</a></li>
 <li><a href="/bannedvideo/20220710/1756468.md">墙国社会主义耍流氓特色越来越明显，银行、公积金、中港互换通、计生委，个个争先害国人 联播 95</a></li>
 <li><a href="/lifebaike/20220710/1756429.md">42岁男子血管重度狭窄，1年后斑块“消失”，医生说做对了3件事</a></li>
 <li><a href="/baitai/20220710/1756455.md">魔殿春秋｜疾控最新发现：新冠可通过网络传播</a></li>
-<li><a href="/cbnews/20220711/1756576.md">注意！驻美中领馆确认：入境中国10年签证停用</a></li>
-<li><a href="/lifebaike/20220710/1756451.md">房子住久了，才明白厨房没必要装这3件东西，费钱又不实用</a></li>
-<li><a href="/funmedia/20220710/1756398.md">“人有贵相，一看便知”：一个人是否自带贵相，往往和这4点有关</a></li>
-<li><a href="/finance/20220711/1756531.md">ZARA集团3品牌 全线退出中国市场</a></li>
-<li><a href="/topimagenews/20220710/1756420.md">安倍遭刺杀可避免？两枪间关键3秒酿成遗憾</a></li>
 <li><a href="/topimagenews/20220711/1756574.md">网传上海下周二封城！官方一辟谣 中国人吓傻：囤好物资了</a></li>
+<li><a href="/lifebaike/20220710/1756451.md">房子住久了，才明白厨房没必要装这3件东西，费钱又不实用</a></li>
+<li><a href="/finance/20220711/1756531.md">ZARA集团3品牌 全线退出中国市场</a></li>
+<li><a href="/funmedia/20220710/1756398.md">“人有贵相，一看便知”：一个人是否自带贵相，往往和这4点有关</a></li>
+<li><a href="/topimagenews/20220710/1756420.md">安倍遭刺杀可避免？两枪间关键3秒酿成遗憾</a></li>
 <li><a href="/comments/20220710/1756449.md">二代奥密克戎问世！变异多、传播快，来势汹汹......</a></li>
 <li><a href="/baitai/20220710/1756490.md">小黄和他胡思乱想的脑子｜荷兰的银行储户们</a></li>
 <li><a href="/bannedvideo/20220710/1756423.md">文睿：穷到吓人，一小时3块钱，中国经济废了</a></li>
+<li><a href="/cbnews/20220711/1756564.md">视频集锦 河南储户抗议现场犹如战场【阿波罗网报道】</a></li>
+<li><a href="/lifebaike/20220710/1756428.md">爱喝茶的人，这5种茶最好列入“黑名单”，别等身体出问题才后悔</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220711/1756669.md" target="_blank">天亮时分：天克地冲，七月政局大动荡；十年签证作废，中美外交降级；河南储户维权遭镇压，四大极不寻常之处；日本将废和平宪法（政论天下第740集 20220710）</a></li>
 <li><a href="/cbnews/20220711/1756576.md" target="_blank">注意！驻美中领馆确认：入境中国10年签证停用</a></li>
 <li><a href="/cbnews/20220711/1756575.md" target="_blank">窃贼连偷4家以为完美犯罪 最后竟栽给一只蚊子</a></li>
 <li><a href="/cbnews/20220711/1756564.md" target="_blank">视频集锦 河南储户抗议现场犹如战场【阿波罗网报道】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220709/1755999.md" target="_blank">佛法洪传——唐太宗与唐三藏的故事</a></li>
 <li><a href="/cbnews/20220709/1755997.md" target="_blank">江峰：安倍被刺，刺客背后有无中共阴谋？中国粉红的迅速狂欢与习近平的迟来哀悼，会给中国带来怎样的悲剧？日本政治初探，东亚变局？【江峰漫谈20220708第510期】</a></li>
 <li><a href="/cbnews/20220709/1755987.md" target="_blank">天亮时分：安倍遇刺身亡，亚太面临地缘政治冲击波；小粉红犯坏实为犯蠢；安倍显赫的家族背景和政治光谱；马斯克不买推特了！（政论天下第739集 20220708）</a></li>
-<li><a href="/cbnews/20220709/1755970.md" target="_blank">中国今年487条河流发生洪水 死亡失踪40人</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220711/1756664.md" target="_blank">何清涟：俄乌战争后果：西方绿能计划悄然“洗绿” 扛不住了</a></li>
+<li><a href="/comments/20220711/1756663.md" target="_blank">许慧仪：如今，欧洲国家尝到苦头了</a></li>
+<li><a href="/comments/20220711/1756662.md" target="_blank">司马南狂怼清华北大：硅谷竟然有2万清华学子？</a></li>
 <li><a href="/comments/20220711/1756641.md" target="_blank">安倍晋三遇刺,中文网友嗨翻了,但先别高兴太早</a></li>
 <li><a href="/comments/20220711/1756640.md" target="_blank">安倍之死将是中共最大的恶梦</a></li>
 <li><a href="/comments/20220711/1756626.md" target="_blank">《甄嬛传》竟祸害了数百万头非洲驴 外媒道破真相</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220710/1756449.md" target="_blank">二代奥密克戎问世！变异多、传播快，来势汹汹&#8230;&#8230;</a></li>
 <li><a href="/comments/20220710/1756448.md" target="_blank">纽约市疫情又起！卫生局促民众戴回N95</a></li>
 <li><a href="/comments/20220710/1756447.md" target="_blank">厨房里的中药材——昆布</a></li>
-<li><a href="/comments/20220710/1756446.md" target="_blank">研究发现：心跳快慢或与寿命长短相关？心率多少才好？</a></li>
-<li><a href="/comments/20220710/1756445.md" target="_blank">夏日养心不浮躁！ 中医提示：清心泻火「吃这些」</a></li>
-<li><a href="/comments/20220710/1756444.md" target="_blank">研究：每周做饭5次以上可降低40%的死亡率</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
 
 </ul>
 </div>
