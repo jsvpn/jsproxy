@@ -12,14 +12,14 @@
 <li><a href="/cbnews/20220711/1756576.md">注意！驻美中领馆确认：入境中国10年签证停用</a></li>
 <li><a href="/bannedvideo/20220710/1756467.md">陈破空：李克强继续出击，习近平挡不住！斯里兰卡政府被人民赶下台。安倍的最后时刻，妻子呼唤小名。陈破空直播 与网友互动 美东7月10早8点30、即中港台7月10晚8点30</a></li>
 <li><a href="/topimagenews/20220711/1756612.md">被删文：46万厂弟厂妹，躺平在“沙井吧”</a></li>
-<li><a href="/topimagenews/20220711/1756574.md">网传上海下周二封城！官方一辟谣 中国人吓傻：囤好物资了</a></li>
 <li><a href="/headline/20220711/1756587.md">“李克强 查河南” 数千名示威者为何怒吼</a></li>
+<li><a href="/topimagenews/20220711/1756574.md">网传上海下周二封城！官方一辟谣 中国人吓傻：囤好物资了</a></li>
 <li><a href="/bannedvideo/20220710/1756468.md">墙国社会主义耍流氓特色越来越明显，银行、公积金、中港互换通、计生委，个个争先害国人 联播 95</a></li>
 <li><a href="/lifebaike/20220710/1756429.md">42岁男子血管重度狭窄，1年后斑块“消失”，医生说做对了3件事</a></li>
-<li><a href="/finance/20220711/1756531.md">ZARA集团3品牌 全线退出中国市场</a></li>
-<li><a href="/baitai/20220710/1756455.md">魔殿春秋｜疾控最新发现：新冠可通过网络传播</a></li>
 <li><a href="/topimagenews/20220711/1756598.md">习近平20大准备好了！肖建华案才审没人敢吭声</a></li>
+<li><a href="/finance/20220711/1756531.md">ZARA集团3品牌 全线退出中国市场</a></li>
 <li><a href="/lifebaike/20220710/1756451.md">房子住久了，才明白厨房没必要装这3件东西，费钱又不实用</a></li>
+<li><a href="/baitai/20220710/1756455.md">魔殿春秋｜疾控最新发现：新冠可通过网络传播</a></li>
 <li><a href="/yule/20220711/1756577.md">中共官方撑腰最渣男星 惹到这主 公安抄家三天</a></li>
 <li><a href="/cbnews/20220711/1756564.md">视频集锦 河南储户抗议现场犹如战场【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220710/1756420.md">安倍遭刺杀可避免？两枪间关键3秒酿成遗憾</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220711/1756747.md" target="_blank">上海高考首个零分考生曝光，竟然是她？</a></li>
 <li><a href="/cbnews/20220711/1756732.md" target="_blank">上海10岁男孩核酸被拒，拿菜刀怒吼：砍死你</a></li>
 <li><a href="/cbnews/20220711/1756705.md" target="_blank">安倍遇刺：“大御所”走了，中共既喜也忧心</a></li>
 <li><a href="/cbnews/20220711/1756692.md" target="_blank">安倍的遗产是一个为对抗中共而准备得更好的世界</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220709/1756051.md" target="_blank">上海男持刀砍人案视频曝光 血迹斑斑路人奔逃</a></li>
 <li><a href="/cbnews/20220709/1756050.md" target="_blank">中国狗仔被公安抄家 葛斯齐爆最渣男星惊人势力</a></li>
 <li><a href="/cbnews/20220709/1756043.md" target="_blank">突发：上海医院砍人案已酿4伤 男子劫持人质</a></li>
-<li><a href="/cbnews/20220709/1756015.md" target="_blank">美司令谈中共威胁：做好准备 先胜而后求战</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220711/1756750.md" target="_blank">中国遭遇最大范围酷热 11省超过40℃</a></li>
+<li><a href="/comments/20220711/1756749.md" target="_blank">大批俄军抵边境 白俄罗斯军方急了</a></li>
 <li><a href="/comments/20220711/1756741.md" target="_blank">川普：早料到马斯克不会真的收购推特</a></li>
 <li><a href="/comments/20220711/1756740.md" target="_blank">安倍效应 日本自民党参院大胜 岸田迎“黄金3年”</a></li>
 <li><a href="/comments/20220711/1756738.md" target="_blank">李燕铭：习近平秘审肖建华 警告新老权贵家族 决战江曾为二十大连任铺路 中南海头号大案肖建华涉三大政治罪 背靠六大常委家族 肖建华关押中给家人下严格指示 供出多名政治局常委与委员 肖建华与吴小晖涉金融政变内幕曝光 中南海头号大案肖建华案内幕（一） 二十大前北戴河会议大战内幕（十四） 习近平决战江曾（二一）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220711/1756556.md" target="_blank">上海首现奥密克戎BA.5本土病例 新增12高风险区 184中风险区</a></li>
 <li><a href="/comments/20220710/1756528.md" target="_blank">疫情下港人回大陆救急难 前政协呼吁设人道通道</a></li>
 <li><a href="/comments/20220710/1756521.md" target="_blank">小暑时节 谨防肠胃高发疾病 养生要注意这些要点</a></li>
-<li><a href="/comments/20220710/1756506.md" target="_blank">影像曝光！ 日本深海“食物链王者” 2.5公尺长神祕巨鱼现踪</a></li>
-<li><a href="/comments/20220710/1756505.md" target="_blank">西安、北京后 上海也现BA.5本土病例 多区将全员核酸检测</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
 <li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
 
 </ul>
 </div>
