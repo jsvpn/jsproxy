@@ -12,9 +12,9 @@
 <li><a href="/baitai/20220711/1756726.md">【404文库】真叫卢俊｜“我躲在虹桥的卫生间，不知道去哪。”</a></li>
 <li><a href="/cnnews/20220711/1756843.md">起底暴雷的河南村镇银行背后神秘人：谁的白手套</a></li>
 <li><a href="/cnnews/20220711/1756828.md">昨天的河南银行储户…</a></li>
-<li><a href="/cbnews/20220711/1756669.md">天亮时分：天克地冲，七月政局大动荡；十年签证作废，中美外交降级；河南储户维权遭镇压，四大极不寻常之处；日本将废和平宪法（政论天下第740集 20220710）</a></li>
-<li><a href="/cnnews/20220711/1756721.md">上海女研究生厕所自杀：没有人愿被脐带栓一辈子</a></li>
 <li><a href="/ssgc/20220711/1756716.md">〖兲朝浮世绘〗普京的人情味还是比中共国的领袖多那么一点</a></li>
+<li><a href="/cnnews/20220711/1756721.md">上海女研究生厕所自杀：没有人愿被脐带栓一辈子</a></li>
+<li><a href="/cbnews/20220711/1756669.md">天亮时分：天克地冲，七月政局大动荡；十年签证作废，中美外交降级；河南储户维权遭镇压，四大极不寻常之处；日本将废和平宪法（政论天下第740集 20220710）</a></li>
 <li><a href="/cbnews/20220711/1756732.md">上海10岁男孩核酸被拒，拿菜刀怒吼：砍死你</a></li>
 <li><a href="/comments/20220711/1756838.md">惠虎宇：中共走入“内乱2.0” 灭亡将至</a></li>
 <li><a href="/topimagenews/20220711/1756821.md">美军对中共军队了若指掌 共军频繁演习反泄“家底”</a></li>
@@ -24,9 +24,9 @@
 <li><a href="/cbnews/20220711/1756747.md">上海高考首个零分考生曝光，竟然是她？</a></li>
 <li><a href="/bannedvideo/20220711/1756801.md">中共禁止美国电影 专家解读深层原因</a></li>
 <li><a href="/bannedvideo/20220711/1756729.md">河南案不简单！习近敌成功出逃  牵出神秘常委【国际风云】</a></li>
+<li><a href="/topimagenews/20220711/1756806.md">五角大厦神秘“127e”计划！外媒：美“代理人战争”规模比想像中大得多</a></li>
 <li><a href="/bannedvideo/20220711/1756746.md">9000人镇压3000人？！40辆“囚车”拉人，河南储户遭潮水式打压；河南书记楼阳生三零政策：零上访零事件零事故，习该禅让；安倍是“川普之前的川普”？中共恨之入骨，凶手疑点重重｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20220711/1756756.md">【404文库】小炒说｜今天是郑州最黑暗的一天</a></li>
-<li><a href="/topimagenews/20220711/1756806.md">五角大厦神秘“127e”计划！外媒：美“代理人战争”规模比想像中大得多</a></li>
 <li><a href="/bannedvideo/20220711/1756855.md">陈破空：河南事件暗伏习李斗！民众高呼：李克强，查河南！党报竟发文庇护习亲信。中国影星悼念安倍，13万点赞！陈破空直播 与网友互动 美东7月11早8点30、即中港台7月11晚8点30</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220712/1757077.md" target="_blank">李燕铭：李克强四天三大事件与习近平分庭抗礼 习李明争暗斗升级 安倍遇刺身亡李克强继习近平彭丽媛之后又发唁电 李克强促东南五省市稳经济暗抗习清零政策 河南储户维权矛头直指习家军 高喊口号“李克强查河南”暗藏玄机 二十大权力承继重组博弈关键时刻 习近平给自己挖了一个大坑 二十大前北戴河会议大战内幕（十六） 习近平李克强明争暗斗内幕（三二） 习近平连任与二十大常委争夺战（三七）</a></li>
+<li><a href="/comments/20220712/1757075.md" target="_blank">美安全政策专家：安倍晋三是优秀政治家 对国际影响巨大</a></li>
+<li><a href="/comments/20220712/1757074.md" target="_blank">朝鲜将入绝境？数据：国际对朝援助金10年降了98.7%</a></li>
+<li><a href="/comments/20220712/1757071.md" target="_blank">1张985高端相亲局照片曝光：有钱人的择偶观好狠</a></li>
+<li><a href="/comments/20220712/1757070.md" target="_blank">美国对印第安人实施了种族灭绝吗？</a></li>
+<li><a href="/comments/20220712/1757069.md" target="_blank">岸田文雄在等地动山摇时？日本修宪的玄机</a></li>
 <li><a href="/comments/20220712/1757066.md" target="_blank">学卡车记 — 曾节明</a></li>
 <li><a href="/comments/20220712/1757057.md" target="_blank">中国最富省市财政滑坡 习遇清零难题？李克强重掌经济主导权</a></li>
 <li><a href="/comments/20220712/1757056.md" target="_blank">美欧消费品需求放缓 中国工厂感受到压力</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20220711/1756929.md" target="_blank">时事大家谈：安倍遇难战狼狂欢，习近平唁电能否挽回国际影响？</a></li>
 <li><a href="/comments/20220711/1756924.md" target="_blank">防止疫情扩散 澳门赌场今起停运1周 博彩股暴跌</a></li>
 <li><a href="/comments/20220711/1756914.md" target="_blank">三伏一定要吃它！祛湿补阳 冬病夏治正当时</a></li>
-<li><a href="/comments/20220711/1756911.md" target="_blank">【文韬政论】由治及兴还是从专制到独裁？</a></li>
-<li><a href="/comments/20220711/1756910.md" target="_blank">评论 | 傅申奇：面目全非的香港</a></li>
-<li><a href="/comments/20220711/1756888.md" target="_blank">河南村镇银行藉互联网吸客酿成全国危机 当局锁不住！ “郑州710”等标签疯传消息</a></li>
-<li><a href="/comments/20220711/1756887.md" target="_blank">安倍晋三遇刺的涟漪和浮想</a></li>
-<li><a href="/comments/20220711/1756867.md" target="_blank">【俄乌战火第138天】俄军砲轰民宅酿15死 乌克兰整备百万大军准备反攻</a></li>
-<li><a href="/comments/20220711/1756866.md" target="_blank">安倍晋三遗体移往东京增上寺 今晚举行守灵仪式</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
 <li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 
 </ul>
 </div>
