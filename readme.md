@@ -14,9 +14,8 @@
 <li><a href="/cnnews/20220711/1756828.md">昨天的河南银行储户…</a></li>
 <li><a href="/ssgc/20220711/1756716.md">〖兲朝浮世绘〗普京的人情味还是比中共国的领袖多那么一点</a></li>
 <li><a href="/cnnews/20220711/1756721.md">上海女研究生厕所自杀：没有人愿被脐带栓一辈子</a></li>
-<li><a href="/cbnews/20220711/1756669.md">天亮时分：天克地冲，七月政局大动荡；十年签证作废，中美外交降级；河南储户维权遭镇压，四大极不寻常之处；日本将废和平宪法（政论天下第740集 20220710）</a></li>
-<li><a href="/cbnews/20220711/1756732.md">上海10岁男孩核酸被拒，拿菜刀怒吼：砍死你</a></li>
 <li><a href="/comments/20220711/1756838.md">惠虎宇：中共走入“内乱2.0” 灭亡将至</a></li>
+<li><a href="/cbnews/20220711/1756732.md">上海10岁男孩核酸被拒，拿菜刀怒吼：砍死你</a></li>
 <li><a href="/topimagenews/20220711/1756821.md">美军对中共军队了若指掌 共军频繁演习反泄“家底”</a></li>
 <li><a href="/cnnews/20220711/1756842.md">“我躲在上海虹桥的卫生间，不知道去哪”</a></li>
 <li><a href="/topimagenews/20220711/1756731.md">冲上热搜！“谭谈交通”下架 面临千万赔偿？主持人或有牢狱之灾</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/bannedvideo/20220711/1756746.md">9000人镇压3000人？！40辆“囚车”拉人，河南储户遭潮水式打压；河南书记楼阳生三零政策：零上访零事件零事故，习该禅让；安倍是“川普之前的川普”？中共恨之入骨，凶手疑点重重｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20220711/1756756.md">【404文库】小炒说｜今天是郑州最黑暗的一天</a></li>
 <li><a href="/bannedvideo/20220711/1756855.md">陈破空：河南事件暗伏习李斗！民众高呼：李克强，查河南！党报竟发文庇护习亲信。中国影星悼念安倍，13万点赞！陈破空直播 与网友互动 美东7月11早8点30、即中港台7月11晚8点30</a></li>
+<li><a href="/cbnews/20220711/1756705.md">安倍遇刺：“大御所”走了，中共既喜也忧心</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220712/1757118.md" target="_blank">安倍油管频道3日内逾百万订阅 2500人出席守灵仪式</a></li>
+<li><a href="/comments/20220712/1757106.md" target="_blank">考了5年公务员，最后败在政审上 比范进还惨</a></li>
 <li><a href="/comments/20220712/1757095.md" target="_blank">斯里兰卡总统跑路、总理下台 法广：未来一周很关键</a></li>
 <li><a href="/comments/20220712/1757084.md" target="_blank">中国400亿“韭菜储户”维权被暴打 微博求助美使馆：“之前不该骂你们”</a></li>
 <li><a href="/comments/20220712/1757077.md" target="_blank">李燕铭：李克强四天三大事件与习近平分庭抗礼 习李明争暗斗升级 安倍遇刺身亡李克强继习近平彭丽媛之后又发唁电 李克强促东南五省市稳经济暗抗习清零政策 河南储户维权矛头直指习家军 高喊口号“李克强查河南”暗藏玄机 二十大权力承继重组博弈关键时刻 习近平给自己挖了一个大坑 二十大前北戴河会议大战内幕（十六） 习近平李克强明争暗斗内幕（三二） 习近平连任与二十大常委争夺战（三七）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220712/1756963.md" target="_blank">【沈旭晖评论】悼港人的国际关系启蒙老师、《追龙》预言家倪匡</a></li>
 <li><a href="/comments/20220711/1756941.md" target="_blank">痛批小粉红无脑狂欢 颜纯钩：安倍之死必将加速中共崩溃</a></li>
 <li><a href="/comments/20220711/1756931.md" target="_blank">观神韵 台外交部发言人盛赞：演出带来希望</a></li>
-<li><a href="/comments/20220711/1756930.md" target="_blank">“人贩子”有了合法高端名字-社会调剂 震碎三观</a></li>
-<li><a href="/comments/20220711/1756929.md" target="_blank">时事大家谈：安倍遇难战狼狂欢，习近平唁电能否挽回国际影响？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
 <li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
 
 </ul>
 </div>
