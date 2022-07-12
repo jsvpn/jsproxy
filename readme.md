@@ -8,17 +8,14 @@
 <li><a href="/cnnews/20220712/1757073.md">一夜之间变成女魔头？中共正处于一个疯狂的时代</a></li>
 <li><a href="/cbnews/20220712/1757059.md">哈萨克捅了“马蜂窝” 北京坐立难安装糊涂</a></li>
 <li><a href="/cnnews/20220712/1757046.md">中国股市突遭猛烈抛售 全球市场本周迎两大风暴</a></li>
-<li><a href="/bannedvideo/20220712/1756997.md">河南事件非同小可 法媒揭开真正的危机【红朝禁闻】</a></li>
 <li><a href="/comments/20220712/1757057.md">中国最富省市财政滑坡 习遇清零难题？李克强重掌经济主导权</a></li>
 <li><a href="/comments/20220712/1757071.md">1张985高端相亲局照片曝光：有钱人的择偶观好狠</a></li>
-<li><a href="/cbnews/20220712/1757001.md">中共高官傅政华受贿案 首度出现这4个罕见措词</a></li>
 <li><a href="/cbnews/20220712/1757173.md">江峰：会员网站爆料栗战书深陷河南银行骗案！白衣人殴储户，美国大使馆能伸冤？赖清德访日，日台邦交大突破！中共如何报复都冒更大政治风险【江峰漫谈20220711第511期】</a></li>
 <li><a href="/bannedvideo/20220712/1756917.md">突发！河南村镇银行爆雷央行印钞兜底，垫付储户损失？以后爆雷照此执行？</a></li>
-<li><a href="/cnnews/20220712/1757006.md">50年来首见！岸田突发签证给他 中共势必跳脚</a></li>
 <li><a href="/topimagenews/20220712/1757320.md">乌克兰惊现这“武器”专家：俄军绝望了</a></li>
 <li><a href="/cnnews/20220712/1757113.md">说的太妙 当今中共官场的清凉写真</a></li>
-<li><a href="/cnnews/20220712/1757243.md">白岩松往事：送儿上国外名校，送平民只有3个字</a></li>
 <li><a href="/ssgc/20220712/1757366.md">留习或弃习：中共老人帮的两难抉择</a></li>
+<li><a href="/cnnews/20220712/1757243.md">白岩松往事：送儿上国外名校，送平民只有3个字</a></li>
 <li><a href="/cnnews/20220712/1757359.md">安倍遗孀昭惠脸靠遗体不舍天人永隔 首揭夫死前曾回握她的手</a></li>
 <li><a href="/ssgc/20220712/1757152.md">明报 : 军方推举习近平为 “人民领袖” 大陆学者断言连任“毫无疑问”</a></li>
 <li><a href="/bannedvideo/20220712/1757176.md">近日，解放军坦克开上了苏州的大街上。这些坦克是为了镇压谁？</a></li>
@@ -28,6 +25,9 @@
 <li><a href="/topimagenews/20220712/1757188.md">安倍遇刺 0.2秒毙敌第一女保镖就在旁？大逆转【阿波罗网报道】</a></li>
 <li><a href="/headline/20220712/1757299.md">港媒：20大冠称习近平领袖 与毛泽东齐名</a></li>
 <li><a href="/cbnews/20220712/1757190.md">习近平还没搞定？刀把子系统七大块 水太深【阿波罗网报导】</a></li>
+<li><a href="/health/20220712/1757284.md">空调调到26度，大错特错！这个温度才是最舒适省电的！赶紧调一下</a></li>
+<li><a href="/topimagenews/20220712/1757404.md">美国楼市开始崩溃 地产商感世界末日降临</a></li>
+<li><a href="/ssgc/20220712/1757067.md">〖微博谈〗我们流泪流汗以防被封门</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220713/1757485.md" target="_blank">台湾副总统赴日吊唁安倍 北京对日“严正交涉”</a></li>
 <li><a href="/cbnews/20220713/1757467.md" target="_blank">非必要别申请！赴华签证有效期大变</a></li>
 <li><a href="/cbnews/20220713/1757455.md" target="_blank">安倍对美影响力超惊人 教授：北京慎防这件事</a></li>
 <li><a href="/cbnews/20220713/1757454.md" target="_blank">美国前防长艾斯培：台海冲突一旦发生 日韩都将介入</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220711/1756576.md" target="_blank">注意！驻美中领馆确认：入境中国10年签证停用</a></li>
 <li><a href="/cbnews/20220711/1756575.md" target="_blank">窃贼连偷4家以为完美犯罪 最后竟栽给一只蚊子</a></li>
 <li><a href="/cbnews/20220711/1756564.md" target="_blank">视频集锦 河南储户抗议现场犹如战场【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20220710/1756527.md" target="_blank">布林肯：拜登、习近平将在未来几周通话</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 
 </ul>
 </div>
