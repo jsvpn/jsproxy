@@ -5,17 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20220711/1756843.md">起底暴雷的河南村镇银行背后神秘人：谁的白手套</a></li>
-<li><a href="/comments/20220711/1756838.md">惠虎宇：中共走入“内乱2.0” 灭亡将至</a></li>
 <li><a href="/cbnews/20220712/1757059.md">哈萨克捅了“马蜂窝” 北京坐立难安装糊涂</a></li>
 <li><a href="/cnnews/20220712/1757073.md">一夜之间变成女魔头？中共正处于一个疯狂的时代</a></li>
-<li><a href="/cnnews/20220711/1756842.md">“我躲在上海虹桥的卫生间，不知道去哪”</a></li>
 <li><a href="/cnnews/20220712/1757046.md">中国股市突遭猛烈抛售 全球市场本周迎两大风暴</a></li>
 <li><a href="/bannedvideo/20220712/1756997.md">河南事件非同小可 法媒揭开真正的危机【红朝禁闻】</a></li>
 <li><a href="/comments/20220712/1757057.md">中国最富省市财政滑坡 习遇清零难题？李克强重掌经济主导权</a></li>
 <li><a href="/cbnews/20220712/1757173.md">江峰：会员网站爆料栗战书深陷河南银行骗案！白衣人殴储户，美国大使馆能伸冤？赖清德访日，日台邦交大突破！中共如何报复都冒更大政治风险【江峰漫谈20220711第511期】</a></li>
-<li><a href="/bannedvideo/20220712/1756917.md">突发！河南村镇银行爆雷央行印钞兜底，垫付储户损失？以后爆雷照此执行？</a></li>
 <li><a href="/cbnews/20220712/1757001.md">中共高官傅政华受贿案 首度出现这4个罕见措词</a></li>
+<li><a href="/bannedvideo/20220712/1756917.md">突发！河南村镇银行爆雷央行印钞兜底，垫付储户损失？以后爆雷照此执行？</a></li>
 <li><a href="/bannedvideo/20220711/1756855.md">陈破空：河南事件暗伏习李斗！民众高呼：李克强，查河南！党报竟发文庇护习亲信。中国影星悼念安倍，13万点赞！陈破空直播 与网友互动 美东7月11早8点30、即中港台7月11晚8点30</a></li>
 <li><a href="/topimagenews/20220711/1756877.md">要全撤? 三星在中国减员7成；没信心！中国居民储蓄持续走高；认怂！华为欧洲撤三案</a></li>
 <li><a href="/comments/20220712/1757071.md">1张985高端相亲局照片曝光：有钱人的择偶观好狠</a></li>
@@ -28,6 +25,9 @@
 <li><a href="/ssgc/20220711/1756864.md">楼阳生掩耳盗铃 为北京如此分忧</a></li>
 <li><a href="/ssgc/20220712/1757067.md">〖微博谈〗我们流泪流汗以防被封门</a></li>
 <li><a href="/cbnews/20220712/1757098.md">30万银龙鱼暴毙 饲主含泪清蒸配2碗饭：人生最贵一道菜</a></li>
+<li><a href="/topimagenews/20220712/1757188.md">安倍遇刺 0.2秒毙敌第一女保镖就在旁？大逆转【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20220712/1757016.md">武汉惊爆“霍乱病例”外媒曝危险性：比新冠层级还高</a></li>
+<li><a href="/cbnews/20220712/1757190.md">习近平还没搞定？刀把子系统七大块 水太深【阿波罗网报导】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220712/1757340.md" target="_blank">清零政策堪忧 中国多地开始封控 要求足不出户</a></li>
 <li><a href="/comments/20220712/1757331.md" target="_blank">澳中关系解冻？澳总理：不会响应北京要求</a></li>
 <li><a href="/comments/20220712/1757329.md" target="_blank">日修宪挺台2动作 后安倍时代来临</a></li>
 <li><a href="/comments/20220712/1757328.md" target="_blank">正视蓬佩奥的警告</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220712/1757153.md" target="_blank">与Uber“秘密交易”曝光 马克龙被指助其巩固在法地位</a></li>
 <li><a href="/comments/20220712/1757135.md" target="_blank">美媒透露五角大厦神秘计划 “代理人战争”规模巨大</a></li>
 <li><a href="/comments/20220712/1757134.md" target="_blank">纽约费城相继发生青少年杀人案 社会震惊</a></li>
-<li><a href="/comments/20220712/1757120.md" target="_blank">拜习将在七月底视频通话 布林肯避答拜习是否在十一月见面</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 
 </ul>
 </div>
