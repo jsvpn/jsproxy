@@ -8,10 +8,10 @@
 <li><a href="/baitai/20220713/1757538.md">央视新闻联播正式宣告习近平时代进入倒计时</a></li>
 <li><a href="/cnnews/20220713/1757610.md">名单越来越长，形势有点严峻了</a></li>
 <li><a href="/comments/20220713/1757536.md">习近平二十大将获“领袖”称号 分析：为连任或与对手达成妥协</a></li>
-<li><a href="/bannedvideo/20220713/1757786.md">军方消息 习内部做一重大承诺 打开潘多拉盒子【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220713/1757729.md">房地产断崖式下滑 北大院长公开批当局政策</a></li>
-<li><a href="/topimagenews/20220713/1757654.md">富人都开始套现 桃李面包吴志刚套现62亿</a></li>
+<li><a href="/bannedvideo/20220713/1757786.md">军方消息 习内部做一重大承诺 打开潘多拉盒子【两岸要闻】</a></li>
 <li><a href="/lifebaike/20220713/1757636.md">文强死前说过的11句话 令人极度震惊</a></li>
+<li><a href="/topimagenews/20220713/1757654.md">富人都开始套现 桃李面包吴志刚套现62亿</a></li>
 <li><a href="/finance/20220713/1757706.md">传数字人民币难产 北京遇大麻烦</a></li>
 <li><a href="/bannedvideo/20220713/1757678.md">内部会议泄上海疫情严重 恐与三月疫情相当</a></li>
 <li><a href="/health/20220713/1757764.md">血栓“大户”被揪出，是肥肉的5倍，医生：常吃血管可能扛不住</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/comments/20220713/1757691.md">外媒：河南银行爆雷 中共开始秋后算账</a></li>
 <li><a href="/cnnews/20220713/1757553.md">江苏女子正如厕 马桶钻出大蛇 脑补画面竟成真</a></li>
 <li><a href="/cnnews/20220713/1757665.md">首张照片提前公布：展现巨量人类从未见过的东西</a></li>
-<li><a href="/bannedvideo/20220713/1757539.md">陈破空：安倍葬礼场面震撼。习派急了！接连抛出习近平连任三版本：五年，十年，终身！党媒头目高喊核心天天见，公开撕毁党章、挑战全党、叫板北戴河！直播与互动 美东7月12晚8点30、中港台7月13早8点30</a></li>
 <li><a href="/topimagenews/20220713/1757868.md">真急了？李克强：把龙头昂起来，然而…【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220713/1757539.md">陈破空：安倍葬礼场面震撼。习派急了！接连抛出习近平连任三版本：五年，十年，终身！党媒头目高喊核心天天见，公开撕毁党章、挑战全党、叫板北戴河！直播与互动 美东7月12晚8点30、中港台7月13早8点30</a></li>
+<li><a href="/topimagenews/20220714/1757940.md">中共高层都悄悄不见人 胡锦涛儿突升迁 专家 : 神秘北戴河会议开始了？</a></li>
 <li><a href="/funmedia/20220713/1757566.md">史上最悲催国宝：用7000斤名玉制成，被当成菜缸，装了300年咸菜</a></li>
 <li><a href="/cnnews/20220713/1757533.md">安倍今火化 夫人4天4夜没睡 坚强守灵令人动容</a></li>
 <li><a href="/bannedvideo/20220713/1757699.md">中共派人吊唁安倍，对逝者不敬！职称和事务都有“潜台词”；上海再封控百日？与3月情况相当，传方舱再启用；河南广建“非正常上访训诫中心”；民众夹街相送安倍灵柩车，2500人灵堂吊唁｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20220713/1757672.md">安倍晋三霸气护妻过往曝光！矢板明夫：他永远默默挡在夫人身前组图</a></li>
-<li><a href="/headline/20220713/1757779.md">地方政府深陷财政泥潭，中国各地危机四起</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
 <li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
 
 </ul>
 </div>
