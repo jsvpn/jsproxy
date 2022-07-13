@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/ssgc/20220712/1757366.md">留习或弃习：中共老人帮的两难抉择</a></li>
 <li><a href="/topimagenews/20220712/1757320.md">乌克兰惊现这“武器”专家：俄军绝望了</a></li>
-<li><a href="/baitai/20220713/1757538.md">央视新闻联播正式宣告习近平时代进入倒计时</a></li>
 <li><a href="/cnnews/20220713/1757610.md">名单越来越长，形势有点严峻了</a></li>
+<li><a href="/baitai/20220713/1757538.md">央视新闻联播正式宣告习近平时代进入倒计时</a></li>
 <li><a href="/cnnews/20220712/1757359.md">安倍遗孀昭惠脸靠遗体不舍天人永隔 首揭夫死前曾回握她的手</a></li>
 <li><a href="/topimagenews/20220712/1757404.md">美国楼市开始崩溃 地产商感世界末日降临</a></li>
 <li><a href="/cbnews/20220713/1757494.md">中共正在严正交涉 他曝日本第二颗“震撼弹”</a></li>
 <li><a href="/cbnews/20220713/1757467.md">非必要别申请！赴华签证有效期大变</a></li>
-<li><a href="/health/20220712/1757284.md">空调调到26度，大错特错！这个温度才是最舒适省电的！赶紧调一下</a></li>
 <li><a href="/cnnews/20220713/1757471.md">全国停贷潮来了！？</a></li>
 <li><a href="/headline/20220712/1757299.md">港媒：20大冠称习近平领袖 与毛泽东齐名</a></li>
 <li><a href="/topimagenews/20220712/1757300.md">斯里兰卡总统要跑!试图离境时遭拦阻 错过4趟班机</a></li>
 <li><a href="/comments/20220713/1757536.md">习近平二十大将获“领袖”称号 分析：为连任或与对手达成妥协</a></li>
 <li><a href="/cnnews/20220713/1757426.md">震惊中国网友！雨衣男埋伏梯间强掳返家母女 “囚禁”4小时！性侵完才闪人</a></li>
+<li><a href="/topimagenews/20220713/1757654.md">富人都开始套现 桃李面包吴志刚套现62亿</a></li>
 <li><a href="/bannedvideo/20220713/1757497.md">港媒放风习近平20大加冕“人民领袖”，“法西斯”路线公开；“武统”成筹码？军方支持释何信号？政法口连抛大案，上海重启方舱指向同一目标！</a></li>
 <li><a href="/bannedvideo/20220712/1757325.md">安倍家几秒短视频 却重击中共 这一待遇超过布林肯【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220713/1757475.md">太不正常 中共怕了！表面妥协 暗用毒计设一陷阱【红朝禁闻】</a></li>
 <li><a href="/cbnews/20220712/1757425.md">中国流传安倍晋三安保团队集体切腹 查核中心：错误讯息</a></li>
-<li><a href="/topimagenews/20220713/1757654.md">富人都开始套现 桃李面包吴志刚套现62亿</a></li>
-<li><a href="/cnnews/20220712/1757311.md">遭中共“一带一路”坑杀!斯里兰卡破产 这3国挫著等….</a></li>
 <li><a href="/cnnews/20220713/1757553.md">江苏女子正如厕 马桶钻出大蛇 脑补画面竟成真</a></li>
+<li><a href="/cnnews/20220712/1757311.md">遭中共“一带一路”坑杀!斯里兰卡破产 这3国挫著等….</a></li>
 <li><a href="/bannedvideo/20220713/1757539.md">陈破空：安倍葬礼场面震撼。习派急了！接连抛出习近平连任三版本：五年，十年，终身！党媒头目高喊核心天天见，公开撕毁党章、挑战全党、叫板北戴河！直播与互动 美东7月12晚8点30、中港台7月13早8点30</a></li>
 <li><a href="/bannedvideo/20220712/1757350.md">新冠病毒后遗症，让人变老20年！疫苗也会让你变老？长新冠“它”是元凶？逆转衰老的办法！（2022.7.11）</a></li>
+<li><a href="/funmedia/20220713/1757566.md">史上最悲催国宝：用7000斤名玉制成，被当成菜缸，装了300年咸菜</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220713/1757750.md" target="_blank">清凉一夏无负担——营养师授5种甜品吃法</a></li>
+<li><a href="/comments/20220713/1757749.md" target="_blank">男热昏倒地送医&#8230;&#8230;医叹：内脏像煮过</a></li>
+<li><a href="/comments/20220713/1757748.md" target="_blank">学习一个穴位——玉枕穴</a></li>
+<li><a href="/comments/20220713/1757747.md" target="_blank">夏天开空调时，房间记得放2样东西</a></li>
+<li><a href="/comments/20220713/1757746.md" target="_blank">日研究：口水防疫？「唾液蛋白」能防COVID感染</a></li>
+<li><a href="/comments/20220713/1757745.md" target="_blank">Omicron第二代BA.2.75在多国现踪，引发担忧</a></li>
+<li><a href="/comments/20220713/1757744.md" target="_blank">「PA+」、「SPF」是什么？一文教你看懂防晒剂标示</a></li>
 <li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
 <li><a href="/comments/20220713/1757704.md" target="_blank">【美食天堂】韩式辣黄瓜泡菜做法 又脆又清爽</a></li>
 <li><a href="/comments/20220713/1757703.md" target="_blank">川浙高温大树冒烟 热射病爆发 现死亡病例</a></li>
@@ -115,13 +122,6 @@
 <li><a href="/comments/20220713/1757658.md" target="_blank">全线顿挫！这是当前俄罗斯军事外交处境</a></li>
 <li><a href="/comments/20220713/1757646.md" target="_blank">保守派大法官吃饭被围 拜登或动用联邦资源帮助“堕胎者”</a></li>
 <li><a href="/comments/20220713/1757645.md" target="_blank">安倍发明一词令中共害怕 美欧亚合体有重大转变</a></li>
-<li><a href="/comments/20220713/1757626.md" target="_blank">樱桃大房子:全国停贷潮来了！？</a></li>
-<li><a href="/comments/20220713/1757625.md" target="_blank">安倍身后中国网民的仇恨</a></li>
-<li><a href="/comments/20220713/1757618.md" target="_blank">【文逸飞专栏】李白的寂寞</a></li>
-<li><a href="/comments/20220713/1757615.md" target="_blank">中共在拉丁美洲大搞“毒品战” 严重损害美国</a></li>
-<li><a href="/comments/20220713/1757607.md" target="_blank">小炒说:今天是郑州最黑暗的一天</a></li>
-<li><a href="/comments/20220713/1757606.md" target="_blank">夏林：历史会永远记住安倍晋三</a></li>
-<li><a href="/comments/20220713/1757605.md" target="_blank">你今天的泪水，都是你曾经的鼓掌换来的</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
 <li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
 <li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 <li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
 
 </ul>
 </div>
