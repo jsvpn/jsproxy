@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/ssgc/20220712/1757366.md">留习或弃习：中共老人帮的两难抉择</a></li>
-<li><a href="/topimagenews/20220712/1757320.md">乌克兰惊现这“武器”专家：俄军绝望了</a></li>
 <li><a href="/cnnews/20220713/1757610.md">名单越来越长，形势有点严峻了</a></li>
 <li><a href="/baitai/20220713/1757538.md">央视新闻联播正式宣告习近平时代进入倒计时</a></li>
 <li><a href="/cnnews/20220712/1757359.md">安倍遗孀昭惠脸靠遗体不舍天人永隔 首揭夫死前曾回握她的手</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/cbnews/20220713/1757467.md">非必要别申请！赴华签证有效期大变</a></li>
 <li><a href="/cnnews/20220713/1757471.md">全国停贷潮来了！？</a></li>
 <li><a href="/topimagenews/20220713/1757654.md">富人都开始套现 桃李面包吴志刚套现62亿</a></li>
-<li><a href="/comments/20220713/1757536.md">习近平二十大将获“领袖”称号 分析：为连任或与对手达成妥协</a></li>
 <li><a href="/cnnews/20220713/1757426.md">震惊中国网友！雨衣男埋伏梯间强掳返家母女 “囚禁”4小时！性侵完才闪人</a></li>
-<li><a href="/lifebaike/20220713/1757636.md">文强死前说过的11句话 令人极度震惊</a></li>
+<li><a href="/comments/20220713/1757536.md">习近平二十大将获“领袖”称号 分析：为连任或与对手达成妥协</a></li>
 <li><a href="/bannedvideo/20220713/1757497.md">港媒放风习近平20大加冕“人民领袖”，“法西斯”路线公开；“武统”成筹码？军方支持释何信号？政法口连抛大案，上海重启方舱指向同一目标！</a></li>
+<li><a href="/lifebaike/20220713/1757636.md">文强死前说过的11句话 令人极度震惊</a></li>
 <li><a href="/bannedvideo/20220713/1757475.md">太不正常 中共怕了！表面妥协 暗用毒计设一陷阱【红朝禁闻】</a></li>
 <li><a href="/cbnews/20220712/1757425.md">中国流传安倍晋三安保团队集体切腹 查核中心：错误讯息</a></li>
 <li><a href="/cnnews/20220713/1757553.md">江苏女子正如厕 马桶钻出大蛇 脑补画面竟成真</a></li>
 <li><a href="/bannedvideo/20220712/1757325.md">安倍家几秒短视频 却重击中共 这一待遇超过布林肯【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220713/1757539.md">陈破空：安倍葬礼场面震撼。习派急了！接连抛出习近平连任三版本：五年，十年，终身！党媒头目高喊核心天天见，公开撕毁党章、挑战全党、叫板北戴河！直播与互动 美东7月12晚8点30、中港台7月13早8点30</a></li>
 <li><a href="/bannedvideo/20220713/1757678.md">内部会议泄上海疫情严重 恐与三月疫情相当</a></li>
-<li><a href="/bannedvideo/20220712/1757350.md">新冠病毒后遗症，让人变老20年！疫苗也会让你变老？长新冠“它”是元凶？逆转衰老的办法！（2022.7.11）</a></li>
 <li><a href="/cnnews/20220713/1757665.md">首张照片提前公布：展现巨量人类从未见过的东西</a></li>
+<li><a href="/bannedvideo/20220712/1757350.md">新冠病毒后遗症，让人变老20年！疫苗也会让你变老？长新冠“它”是元凶？逆转衰老的办法！（2022.7.11）</a></li>
 <li><a href="/funmedia/20220713/1757566.md">史上最悲催国宝：用7000斤名玉制成，被当成菜缸，装了300年咸菜</a></li>
+<li><a href="/cnnews/20220713/1757533.md">安倍今火化 夫人4天4夜没睡 坚强守灵令人动容</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220713/1757781.md" target="_blank">20大加冕“领袖” 习组合拳开打</a></li>
+<li><a href="/comments/20220713/1757780.md" target="_blank">洪博学：别蹭中国这摊混水</a></li>
 <li><a href="/comments/20220713/1757770.md" target="_blank">从着名的“儒、农”之辩 看乔迁与搬家区别之渊源</a></li>
 <li><a href="/comments/20220713/1757750.md" target="_blank">清凉一夏无负担——营养师授5种甜品吃法</a></li>
 <li><a href="/comments/20220713/1757749.md" target="_blank">男热昏倒地送医&#8230;&#8230;医叹：内脏像煮过</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220713/1757667.md" target="_blank">川普和马斯克交锋 “糊弄大王”vs“应该退场”</a></li>
 <li><a href="/comments/20220713/1757661.md" target="_blank">我们没得选</a></li>
 <li><a href="/comments/20220713/1757659.md" target="_blank">芯片突然供过于求路透社:如同囤厕纸</a></li>
-<li><a href="/comments/20220713/1757658.md" target="_blank">全线顿挫！这是当前俄罗斯军事外交处境</a></li>
-<li><a href="/comments/20220713/1757646.md" target="_blank">保守派大法官吃饭被围 拜登或动用联邦资源帮助“堕胎者”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质()</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
 <li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 
 </ul>
 </div>
