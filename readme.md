@@ -8,9 +8,8 @@
 <li><a href="/bannedvideo/20220713/1757786.md">军方消息 习内部做一重大承诺 打开潘多拉盒子【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220713/1757729.md">房地产断崖式下滑 北大院长公开批当局政策</a></li>
 <li><a href="/topimagenews/20220714/1757940.md">中共高层都悄悄不见人 胡锦涛儿突升迁 专家 : 神秘北戴河会议开始了？</a></li>
-<li><a href="/bannedvideo/20220713/1757678.md">内部会议泄上海疫情严重 恐与三月疫情相当</a></li>
-<li><a href="/health/20220713/1757764.md">血栓“大户”被揪出，是肥肉的5倍，医生：常吃血管可能扛不住</a></li>
 <li><a href="/finance/20220713/1757706.md">传数字人民币难产 北京遇大麻烦</a></li>
+<li><a href="/health/20220713/1757764.md">血栓“大户”被揪出，是肥肉的5倍，医生：常吃血管可能扛不住</a></li>
 <li><a href="/lifebaike/20220713/1757782.md">1990年春晚江与宋之间发生了什么？</a></li>
 <li><a href="/comments/20220713/1757691.md">外媒：河南银行爆雷 中共开始秋后算账</a></li>
 <li><a href="/cbnews/20220713/1757859.md">中共高层全隐身 北戴河会议开场？</a></li>
@@ -23,10 +22,11 @@
 <li><a href="/bannedvideo/20220713/1757798.md">乌克兰撕破普京防线，海马斯攻击直冲云霄；乌军可以得到90架F-16，但部署需要十个月！#新冷战情室</a></li>
 <li><a href="/comments/20220714/1757937.md">赵立坚暗批日本修宪是打开“魔盒” 微博评论区大翻车</a></li>
 <li><a href="/topimagenews/20220713/1757730.md">这场与中共力量悬殊的对抗有何启示</a></li>
-<li><a href="/cbnews/20220713/1757683.md">江峰：安倍葬礼恸人，日本修宪已成必然，中共最强大敌人已然苏醒；日本脱亚入欧脱胎换骨，中国义和拳痴百年沉迷，两个历史劲敌的世纪宿命【江峰漫谈20220712第512期】</a></li>
-<li><a href="/bannedvideo/20220713/1757833.md">🔥罕见！中纪委竟然直指政治局常委；赖清德破天荒访日 中共怎么反而怂了？日本修宪能成功？就看一事！印度人口将超越中国 林毅夫误导中美日等国决策；镇压也能外包？曝河南银行案白衣人身份 LS</a></li>
 <li><a href="/bannedvideo/20220714/1757959.md">中共日本密令曝光 日警方还原现场关键时刻【红朝禁闻】</a></li>
+<li><a href="/bannedvideo/20220714/1758007.md">🔥出了掉脑袋大事！习近平打马化腾；名单越来越长，形势有点严峻了；中国三大危机齐爆发；糗了！中共2武官混入太平洋论坛，结果… 击落来袭导弹！美军世界第一个战斗机载激光武器交付</a></li>
 <li><a href="/baitai/20220714/1757954.md">像一块顽石｜终于发现了“常温下体外病毒活不过1天”，不容易</a></li>
+<li><a href="/bannedvideo/20220713/1757833.md">🔥罕见！中纪委竟然直指政治局常委；赖清德破天荒访日 中共怎么反而怂了？日本修宪能成功？就看一事！印度人口将超越中国 林毅夫误导中美日等国决策；镇压也能外包？曝河南银行案白衣人身份 LS</a></li>
+<li><a href="/ssgc/20220713/1757812.md">祥子决定不拉车了</a></li>
 <li><a href="/comments/20220713/1757701.md">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
 <li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
 <li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
 
 </ul>
 </div>
