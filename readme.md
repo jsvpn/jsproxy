@@ -12,16 +12,16 @@
 <li><a href="/cbnews/20220714/1758235.md">中共中委大换血20人都是“三非” 胡海峰仕途看好</a></li>
 <li><a href="/comments/20220714/1758045.md">岳山：李克强卸任前的国务院人事出现异常</a></li>
 <li><a href="/bannedvideo/20220714/1758187.md">唐山最新爆料！四女孩死前可怕遭遇，黑衣女太惨了；孙力军用微信监视高官，开发“软件模型”预测官场人事动向；中国84城超40度，频传热射病热死人，重庆晚上30度；“细颈瓶”将绝迹？｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/bannedvideo/20220714/1758288.md">专家已警告 更大危机来临 这次崩的不止房市！中产阶级也要起义？【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220714/1758211.md">要干啥？习近平动作罕见 一周之内连推三大案 【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220714/1758032.md">🔥 中共军方给习近平花式挖坑？没钱？中国银行海外汇款难取出; 他们要美扩大制裁上至习近平；20年首见 欧元跌至与美元平价；马斯克星链能否推倒中共那堵墙？英政府行动力受限2个月【阿波罗网AZ】</a></li>
+<li><a href="/bannedvideo/20220714/1758288.md">专家已警告 更大危机来临 这次崩的不止房市！中产阶级也要起义？【两岸要闻】</a></li>
 <li><a href="/cnnews/20220714/1758255.md">儿子射杀安倍 山上彻也母亲终于说话了</a></li>
+<li><a href="/bannedvideo/20220714/1758032.md">🔥 中共军方给习近平花式挖坑？没钱？中国银行海外汇款难取出; 他们要美扩大制裁上至习近平；20年首见 欧元跌至与美元平价；马斯克星链能否推倒中共那堵墙？英政府行动力受限2个月【阿波罗网AZ】</a></li>
 <li><a href="/cbnews/20220714/1758126.md">天亮时分：终身执政？！习二十大将加冕“人民领袖”，极可能升任党主席；房地产大危机！烂尾楼业主停贷，金融海啸将至（政论天下第742集 20220713）</a></li>
 <li><a href="/ssgc/20220714/1758168.md">〖兲朝浮世绘〗东京版十里长街送首相跟中国版的十里长街送总理是有本质区别的</a></li>
 <li><a href="/ssgc/20220714/1758123.md">〖微博谈〗然后他就挂了</a></li>
 <li><a href="/health/20220714/1758244.md">“嘌呤王”发现了，是猪肉的42倍，专家提醒：想远离痛风，早戒</a></li>
-<li><a href="/bannedvideo/20220714/1758299.md">陈破空：党内催他走人！习近平连任卡在这里：经济完了！停贷风暴席卷中国。各省市财政崩盘。金正恩失算，顿失邦交。陈破空直播 与网友互动 美东7月14早8点30、即中港台7月14晚8点30</a></li>
 <li><a href="/comments/20220714/1758391.md">李克强与元老联手逼习近平退位？习阵营放风要处死曾庆红 中南海谣言预言_538</a></li>
+<li><a href="/bannedvideo/20220714/1758299.md">陈破空：党内催他走人！习近平连任卡在这里：经济完了！停贷风暴席卷中国。各省市财政崩盘。金正恩失算，顿失邦交。陈破空直播 与网友互动 美东7月14早8点30、即中港台7月14晚8点30</a></li>
 <li><a href="/cbnews/20220714/1757815.md">消失的银行存款去哪了？| 新闻追击</a></li>
 <li><a href="/cnnews/20220714/1758093.md">芯片业玩完了？专家惊揭恐怖数据：最惨还没来</a></li>
 <li><a href="/cnnews/20220714/1758193.md">谷爱凌又在秀了 这次摆满了一楼梯</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220715/1758459.md" target="_blank">中华美食文化 菜名都有学问</a></li>
 <li><a href="/comments/20220715/1758458.md" target="_blank">无国界记者呼吁释放十五名健康堪虑政治犯</a></li>
 <li><a href="/comments/20220715/1758452.md" target="_blank">返京者要佩戴“电子手铐” 网友：命令恐出自高层</a></li>
 <li><a href="/comments/20220715/1758447.md" target="_blank">【独家重磅】李燕铭：北戴河会前六常委纷纷离京考察独缺一人 习近平“看管”赵乐际紧随赵之后考察新疆 官媒报导出现重大异常 二十大前北戴河会议大战内幕（十八）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220714/1758285.md" target="_blank">苏式绿豆汤，独特的味道非常清凉解暑</a></li>
 <li><a href="/comments/20220714/1758284.md" target="_blank">防中风——降血压4大黄金穴位</a></li>
 <li><a href="/comments/20220714/1758283.md" target="_blank">德国人寿命越来越长关键在于坚持这几点，告诉你你能做到吗？</a></li>
-<li><a href="/comments/20220714/1758282.md" target="_blank">和睦，是一个家庭兴旺的最好风水</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
 <li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 
 </ul>
 </div>
