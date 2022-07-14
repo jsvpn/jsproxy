@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220713/1757786.md">军方消息 习内部做一重大承诺 打开潘多拉盒子【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220713/1757729.md">房地产断崖式下滑 北大院长公开批当局政策</a></li>
-<li><a href="/lifebaike/20220713/1757636.md">文强死前说过的11句话 令人极度震惊</a></li>
 <li><a href="/topimagenews/20220713/1757654.md">富人都开始套现 桃李面包吴志刚套现62亿</a></li>
 <li><a href="/topimagenews/20220714/1757940.md">中共高层都悄悄不见人 胡锦涛儿突升迁 专家 : 神秘北戴河会议开始了？</a></li>
 <li><a href="/bannedvideo/20220713/1757678.md">内部会议泄上海疫情严重 恐与三月疫情相当</a></li>
@@ -20,13 +19,14 @@
 <li><a href="/topimagenews/20220713/1757868.md">真急了？李克强：把龙头昂起来，然而…【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220713/1757665.md">首张照片提前公布：展现巨量人类从未见过的东西</a></li>
 <li><a href="/bannedvideo/20220713/1757699.md">中共派人吊唁安倍，对逝者不敬！职称和事务都有“潜台词”；上海再封控百日？与3月情况相当，传方舱再启用；河南广建“非正常上访训诫中心”；民众夹街相送安倍灵柩车，2500人灵堂吊唁｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/comments/20220714/1757991.md">房地产爆发断供潮 专家：中国最严重的三大危机终于来了</a></li>
 <li><a href="/headline/20220713/1757779.md">地方政府深陷财政泥潭，中国各地危机四起</a></li>
 <li><a href="/topimagenews/20220713/1757672.md">安倍晋三霸气护妻过往曝光！矢板明夫：他永远默默挡在夫人身前组图</a></li>
 <li><a href="/bannedvideo/20220713/1757798.md">乌克兰撕破普京防线，海马斯攻击直冲云霄；乌军可以得到90架F-16，但部署需要十个月！#新冷战情室</a></li>
-<li><a href="/comments/20220714/1757991.md">房地产爆发断供潮 专家：中国最严重的三大危机终于来了</a></li>
 <li><a href="/topimagenews/20220713/1757730.md">这场与中共力量悬殊的对抗有何启示</a></li>
-<li><a href="/cbnews/20220713/1757683.md">江峰：安倍葬礼恸人，日本修宪已成必然，中共最强大敌人已然苏醒；日本脱亚入欧脱胎换骨，中国义和拳痴百年沉迷，两个历史劲敌的世纪宿命【江峰漫谈20220712第512期】</a></li>
+<li><a href="/topimagenews/20220714/1758058.md">情势转变！俄乌战况，渐分上下</a></li>
 <li><a href="/comments/20220714/1757937.md">赵立坚暗批日本修宪是打开“魔盒” 微博评论区大翻车</a></li>
+<li><a href="/cbnews/20220713/1757683.md">江峰：安倍葬礼恸人，日本修宪已成必然，中共最强大敌人已然苏醒；日本脱亚入欧脱胎换骨，中国义和拳痴百年沉迷，两个历史劲敌的世纪宿命【江峰漫谈20220712第512期】</a></li>
 <li><a href="/bannedvideo/20220713/1757833.md">🔥罕见！中纪委竟然直指政治局常委；赖清德破天荒访日 中共怎么反而怂了？日本修宪能成功？就看一事！印度人口将超越中国 林毅夫误导中美日等国决策；镇压也能外包？曝河南银行案白衣人身份 LS</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 <li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 
 </ul>
 </div>
