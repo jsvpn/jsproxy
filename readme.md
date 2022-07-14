@@ -17,16 +17,16 @@
 <li><a href="/bannedvideo/20220713/1757800.md">陈破空：习近平结束隔离？北戴河会议悄然登场！胡公子有动静。他又想跟胡锦涛做交易。习派造势：伪造军方共识！劝进“人民领袖”。直播与互动 美东7月13早8点30、即中港台7月13晚8点30</a></li>
 <li><a href="/comments/20220714/1757991.md">房地产爆发断供潮 专家：中国最严重的三大危机终于来了</a></li>
 <li><a href="/bannedvideo/20220714/1758007.md">🔥出了掉脑袋大事！习近平打马化腾；名单越来越长，形势有点严峻了；中国三大危机齐爆发；糗了！中共2武官混入太平洋论坛，结果… 击落来袭导弹！美军世界第一个战斗机载激光武器交付</a></li>
-<li><a href="/bannedvideo/20220713/1757699.md">中共派人吊唁安倍，对逝者不敬！职称和事务都有“潜台词”；上海再封控百日？与3月情况相当，传方舱再启用；河南广建“非正常上访训诫中心”；民众夹街相送安倍灵柩车，2500人灵堂吊唁｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20220714/1758086.md">谁将进入二十大政治局，胡春华这回是稳了？</a></li>
 <li><a href="/headline/20220713/1757779.md">地方政府深陷财政泥潭，中国各地危机四起</a></li>
 <li><a href="/comments/20220714/1757937.md">赵立坚暗批日本修宪是打开“魔盒” 微博评论区大翻车</a></li>
 <li><a href="/bannedvideo/20220713/1757798.md">乌克兰撕破普京防线，海马斯攻击直冲云霄；乌军可以得到90架F-16，但部署需要十个月！#新冷战情室</a></li>
 <li><a href="/topimagenews/20220713/1757730.md">这场与中共力量悬殊的对抗有何启示</a></li>
 <li><a href="/ssgc/20220713/1757812.md">祥子决定不拉车了</a></li>
-<li><a href="/bannedvideo/20220714/1757959.md">中共日本密令曝光 日警方还原现场关键时刻【红朝禁闻】</a></li>
+<li><a href="/bannedvideo/20220714/1758032.md">🔥 中共军方给习近平花式挖坑？没钱？中国银行海外汇款难取出; 他们要美扩大制裁上至习近平；20年首见 欧元跌至与美元平价；马斯克星链能否推倒中共那堵墙？英政府行动力受限2个月【阿波罗网AZ】</a></li>
 <li><a href="/baitai/20220714/1757954.md">像一块顽石｜终于发现了“常温下体外病毒活不过1天”，不容易</a></li>
 <li><a href="/bannedvideo/20220713/1757833.md">🔥罕见！中纪委竟然直指政治局常委；赖清德破天荒访日 中共怎么反而怂了？日本修宪能成功？就看一事！印度人口将超越中国 林毅夫误导中美日等国决策；镇压也能外包？曝河南银行案白衣人身份 LS</a></li>
+<li><a href="/bannedvideo/20220714/1757959.md">中共日本密令曝光 日警方还原现场关键时刻【红朝禁闻】</a></li>
 <li><a href="/comments/20220713/1757701.md">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
 <li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 
 </ul>
 </div>
