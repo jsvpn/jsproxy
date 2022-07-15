@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/bannedvideo/20220714/1758187.md">唐山最新爆料！四女孩死前可怕遭遇，黑衣女太惨了；孙力军用微信监视高官，开发“软件模型”预测官场人事动向；中国84城超40度，频传热射病热死人，重庆晚上30度；“细颈瓶”将绝迹？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20220714/1758235.md">中共中委大换血20人都是“三非” 胡海峰仕途看好</a></li>
 <li><a href="/bannedvideo/20220714/1758288.md">专家已警告 更大危机来临 这次崩的不止房市！中产阶级也要起义？【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220714/1758211.md">要干啥？习近平动作罕见 一周之内连推三大案 【阿波罗网报道】</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/health/20220714/1758244.md">“嘌呤王”发现了，是猪肉的42倍，专家提醒：想远离痛风，早戒</a></li>
 <li><a href="/bannedvideo/20220714/1758299.md">陈破空：党内催他走人！习近平连任卡在这里：经济完了！停贷风暴席卷中国。各省市财政崩盘。金正恩失算，顿失邦交。陈破空直播 与网友互动 美东7月14早8点30、即中港台7月14晚8点30</a></li>
 <li><a href="/bannedvideo/20220714/1758390.md">清华大学教授讲实话，中国经济崩溃了</a></li>
-<li><a href="/topimagenews/20220715/1758429.md">海马斯火箭击中俄军指挥所 第12位俄国将军阵亡</a></li>
-<li><a href="/cnnews/20220714/1758193.md">谷爱凌又在秀了 这次摆满了一楼梯</a></li>
 <li><a href="/bannedvideo/20220715/1758485.md">🔥异动？李克强的人上位？惊爆内幕：中共就是大号恒大；17兆断流，北大院长不忍当局公开批；中国多地为救楼市鼓励团购 房价可突破限跌令；与虎谋皮 拜登争取中共对俄能源限制价格【阿波罗网AS】</a></li>
+<li><a href="/topimagenews/20220715/1758429.md">海马斯火箭击中俄军指挥所 第12位俄国将军阵亡</a></li>
 <li><a href="/topimagenews/20220714/1758395.md">断供项目已达150个！烂尾楼消息让银行和地产板块遭到巨震 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220714/1758318.md">百年老店菜刀拍蒜断裂客服这样回复让网友炸锅 “是装蒜的刀”</a></li>
-<li><a href="/bannedvideo/20220715/1758407.md">亲共艺人回到台湾，终于开始讲实话</a></li>
 <li><a href="/cnnews/20220715/1758448.md">吓一跳：这个省华人新冠死亡率竟这么高</a></li>
+<li><a href="/bannedvideo/20220715/1758407.md">亲共艺人回到台湾，终于开始讲实话</a></li>
 <li><a href="/comments/20220714/1758314.md">李燕铭：中南海放风习近平二十大添新头衔 终身掌权 中共军方爆料习为连任许下重大承诺 习近平治国模式遭遇两大危机 二十大前北戴河会议大战内幕（十七） 习近平连任与二十大常委争夺战（三八）</a></li>
 <li><a href="/cnnews/20220715/1758481.md">小国盛产美女却如地狱！总统带头贩毒震撼世界</a></li>
 <li><a href="/bannedvideo/20220715/1758446.md">敢言蓬佩奥一句话揭底  曝习秘密通话：这样威胁密友【红朝禁闻】</a></li>
 <li><a href="/cnnews/20220714/1758200.md">连续打掉俄20个军火库，乌军“海马斯”这么神？</a></li>
 <li><a href="/bannedvideo/20220714/1758328.md">🔥赵立坚自作孽不可活？引火烧习近平；情势转变！俄乌战况渐分上下；俄乌土三国达成协议；神秘国安副部长罕见掌管司法部纪检组；安倍遇刺是分水岭 学者：日本对中共将零容忍；美通胀创41年纪录【阿波罗网Y Y】</a></li>
 <li><a href="/ssgc/20220715/1758465.md">习近平考察新疆 彭博社说他之前隐身创纪录</a></li>
-<li><a href="/cnnews/20220714/1758222.md">BA.5恐更容易重症？专家揭感染后肺部超可怕</a></li>
+<li><a href="/comments/20220715/1758447.md">【独家重磅】李燕铭：北戴河会前六常委纷纷离京考察独缺一人 习近平“看管”赵乐际紧随赵之后考察新疆 官媒报导出现重大异常 二十大前北戴河会议大战内幕（十八）</a></li>
+<li><a href="/cnnews/20220715/1758462.md">中共怂了？这国盖过中共【阿波罗网报导】</a></li>
+<li><a href="/cnnews/20220714/1758287.md">前国足队长被曝抛售豪宅：1.45亿+5000万验资</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220715/1758650.md" target="_blank">乌俄战局要逆转!乌军:“海马斯”上战场 俄多处弹药库遭重创</a></li>
 <li><a href="/topimagenews/20220715/1758643.md" target="_blank">只跟泽连斯基讲喔!巴西总统卖关子：我知道如何“解决”乌俄战争</a></li>
 <li><a href="/topimagenews/20220715/1758625.md" target="_blank">不欢迎中共!太平洋岛国论坛落幕 与会领导人拒绝签“安全贸易协定”</a></li>
 <li><a href="/topimagenews/20220715/1758624.md" target="_blank">【微博精粹】树对斧头说：至少你的把手是我们自己人</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220712/1757319.md" target="_blank">俄富豪被制裁贱卖持股 整个电信公司只卖一英镑</a></li>
 <li><a href="/topimagenews/20220712/1757300.md" target="_blank">斯里兰卡总统要跑!试图离境时遭拦阻 错过4趟班机</a></li>
 <li><a href="/topimagenews/20220712/1757229.md" target="_blank">力挺普丁 中共尴尬！哈萨克不支持卢顿独立</a></li>
-<li><a href="/topimagenews/20220712/1757189.md" target="_blank">抢了土地还要抢人民!普丁签法令简化程序 全乌克兰人都可入俄国籍</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
 
 </ul>
 </div>
