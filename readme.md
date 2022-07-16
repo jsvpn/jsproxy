@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20220715/1758594.md">李克强卸任前有动作 中共最神秘官员之一也登场？</a></li>
 <li><a href="/bannedvideo/20220715/1758657.md">习近平威胁金正恩“你试试”！断送朝鲜前程；中共紧急开会！银行恐慌公告，烂尾楼“停贷”涉十万亿；习一直不在北京，他去干什么了？港媒说军方认习“人民领袖”，还要“统一”，真是这样吗｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20220715/1758670.md">iPhone14 Pro MAX真机照曝光！镜头让全网看傻</a></li>
 <li><a href="/topimagenews/20220716/1758891.md">千万注意：微信出现这两个界面马上停手</a></li>
 <li><a href="/cbnews/20220715/1758660.md">惊了：四川省84岁老太太一个小区里有116套房，结果…</a></li>
-<li><a href="/ssgc/20220715/1758596.md">〖兲朝浮世绘〗金三胖突然来兲朝走红毯了</a></li>
 <li><a href="/topimagenews/20220715/1758659.md">触目惊心！中国的“停贷潮”来了？银行都懵了</a></li>
 <li><a href="/ssgc/20220715/1758509.md">前几天去泉州体验了一把翻墙白名单</a></li>
 <li><a href="/bannedvideo/20220715/1758752.md">陈破空：重大信号！他至少让出两个职位？习近平冒生命危险密访新疆，只准女人接近！他的称谓有变。陈破空直播 与网友互动 美东7月15早8点30、即中港台7月15晚8点30</a></li>
 <li><a href="/comments/20220715/1758728.md">二十年内中国将成地狱，“五零后”一代人最惨 — 曾节明</a></li>
 <li><a href="/topimagenews/20220715/1758828.md">资金缺口2～3兆 ! “集体停贷”引中国银行地震 各界要习大大赶快“排雷”</a></li>
-<li><a href="/cnnews/20220715/1758589.md">疫情再起，中国两地已宣布全面停课</a></li>
 <li><a href="/topimagenews/20220715/1758768.md">烂尾楼增至235建案！停贷风暴加剧 千人围陕西银保监局</a></li>
+<li><a href="/finance/20220716/1758897.md">北京高铁空无一人 网友：经济一片衰败</a></li>
 <li><a href="/bannedvideo/20220715/1758755.md">中共不是亡于内斗？李南央开列真正克星 预告习结局【两岸要闻】</a></li>
 <li><a href="/cnnews/20220715/1758682.md">福建女生为游长沙做22页攻略，结果太意外了</a></li>
 <li><a href="/cbnews/20220715/1758668.md">翻车现场：“我们的防疫措施是最经济 效果最好的”</a></li>
-<li><a href="/finance/20220716/1758897.md">北京高铁空无一人 网友：经济一片衰败</a></li>
 <li><a href="/topimagenews/20220715/1758827.md">中共军方爆料？还是给习近平花式挖坑？【阿波罗网报道】</a></li>
 <li><a href="/headline/20220715/1758707.md">上海公安局10亿中国人数据外流罪魁祸首称是阿里 官方约谈</a></li>
+<li><a href="/finance/20220716/1758899.md">网传专家报告、中共对付“强制停贷”业主新招式</a></li>
 <li><a href="/topimagenews/20220715/1758603.md">安倍与菅义伟肝胆相照惹哭网友：政坛也有真朋友</a></li>
 <li><a href="/cbnews/20220715/1758676.md">中国国际标准舞舞蹈协会主席多次猥亵15岁男孩？北京警方回应</a></li>
 <li><a href="/cnnews/20220715/1758663.md">杭州小伙每晚躺钱上睡觉，中午回家一看，傻了</a></li>
+<li><a href="/topimagenews/20220715/1758667.md">热浪横扫！中国制造业大省限电；河南银行大储户遭通缉，浙江律师怒斥当局；</a></li>
 <li><a href="/cbnews/20220715/1758661.md">中国疫情再蔓延19省市，习近平清零遭重挫</a></li>
+<li><a href="/bannedvideo/20220715/1758788.md">🔥巨变有预兆！北京所有掌权者都没想到要垮了；拒中共，太平洋岛国论坛落幕 与会领导人不签安贸协定；金山办公软件涉嫌敏感词锁文；中国高温惊人一幕；党媒称其防疫是“最好最经济”大翻车  LS</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220716/1759069.md" target="_blank">【独家重磅】李燕铭：北戴河会议前夕 公安部高官刘文玺空降河北 重洗牌河北公安队伍 秦皇岛等三市公安局长换人 秦皇岛市公安局长任职不到一年被免 关键时刻刘文玺“被死亡” 二十大前北戴河会议大战内幕（十九） 习近平清洗河北帮（十三）</a></li>
 <li><a href="/comments/20220716/1759058.md" target="_blank">两部天书的对话！宇宙公式《易经》和人类遗传密码，揭秘中国历史上第一对夫妻画像中，暗藏的生命秘密钥匙。</a></li>
 <li><a href="/comments/20220716/1759054.md" target="_blank">朱同：欲戴王冠，必承其重</a></li>
 <li><a href="/comments/20220716/1759053.md" target="_blank">石铭：中国的信仰自由正在遭受中共的严重破坏</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220716/1758957.md" target="_blank">数据：中国GDP增长率为两年多来最弱</a></li>
 <li><a href="/comments/20220716/1758955.md" target="_blank">美加财长G20会议痛斥俄侵乌 俄方官员未退场</a></li>
 <li><a href="/comments/20220716/1758954.md" target="_blank">“中国仍是最危险战略对手” 美前防长埃斯珀吁尽快公布2022年国防战略</a></li>
-<li><a href="/comments/20220716/1758933.md" target="_blank">【世界变局】川普对是否参加2024大选已下定决心：如果我参选将会胜选 曾精准预言川普击败希拉里的政治战略家：川普2024将重新竞选总统并会赢 川普与马斯克掀骂战 马斯克嘲讽川普“太老别参选” 川普回击“想想当年你在我办公室卑微的模样”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 
 </ul>
 </div>
