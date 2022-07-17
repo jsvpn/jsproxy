@@ -5,13 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/bannedvideo/20220717/1759322.md">习近平二十大保位策略浮现。此人是内斗高手！反习派似已上当，要破局需用这个“阳谋”（一平论政2022/7/16)</a></li>
 <li><a href="/cbnews/20220717/1759442.md">非要整到上海人没命不可？当局公布的消息让人恐慌【阿波罗网报导】</a></li>
 <li><a href="/bannedvideo/20220717/1759334.md">🔥🔥唐山事件骇人内幕后续❗2白衣女孩尸体被流氓拉走 环卫工给黑衣女收尸 4女孩全已不在人间❗一位家长被打死❗</a></li>
 <li><a href="/topimagenews/20220717/1759364.md">上海遭重创 中国经济第一城易主</a></li>
 <li><a href="/topimagenews/20220717/1759487.md">李克强又说实话：经济发展极不寻常【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220717/1759365.md">怕被吞？亚洲第一女富豪坚持中共总理管遗产 15年难解封</a></li>
 <li><a href="/cnnews/20220717/1759410.md">汉奸发迹史：“皇军”情报员怎么当上了中共副总理</a></li>
+<li><a href="/topimagenews/20220717/1759365.md">怕被吞？亚洲第一女富豪坚持中共总理管遗产 15年难解封</a></li>
 <li><a href="/bannedvideo/20220717/1759524.md">看网友评论就放心了！河南银行储户拿回存款后“得意忘形连发感谢”……</a></li>
 <li><a href="/topimagenews/20220717/1759427.md">【微博精粹】养驴9诀</a></li>
 <li><a href="/ssgc/20220717/1759539.md">唐山凶徒将女孩们毁尸灭迹就完了吗</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/topimagenews/20220717/1759541.md">武汉“最高学历楼盘”成烂尾楼！买房者：只能离婚救孩子</a></li>
 <li><a href="/topimagenews/20220717/1759540.md">恒大危机还在烧！ 中国这个“全宇宙最重要行业”出事了</a></li>
 <li><a href="/cnnews/20220717/1759326.md">三名中国留学生偷拍空军基地监禁+遣返</a></li>
+<li><a href="/cbnews/20220717/1759547.md">“求交往”遭拒！18岁嫩妹坐副驾痛哭 法拉利车主傻眼</a></li>
 <li><a href="/yule/20220717/1759425.md">网红晒与高官父合照高调炫富 网：不作就不会死</a></li>
 <li><a href="/cbnews/20220717/1759392.md">天亮时分：蓬佩奥揭内幕，习近平严控金正恩；余茂春：东西合围中共，北约应扩张至印太；援俄被抓包，中共高科技后门被断（政论天下第744集 20220716）</a></li>
 <li><a href="/worldnews/20220717/1759393.md">“盲眼龙婆”预言2022年6大灾 外媒惊曝：又中了</a></li>
-<li><a href="/cbnews/20220717/1759547.md">“求交往”遭拒！18岁嫩妹坐副驾痛哭 法拉利车主傻眼</a></li>
 <li><a href="/ssgc/20220717/1759435.md">〖微博谈〗你以为我们还不知道吗？</a></li>
 <li><a href="/yule/20220717/1759464.md">娱乐圈的明星到底有多假？去掉伪装可能连普通人都不如 动图/图集</a></li>
-<li><a href="/topimagenews/20220717/1759486.md">习近平考察之地 曾发生20万人大骚乱【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220717/1759413.md">四川游乐场气垫游泳池垮塌 多人被冲入河中</a></li>
+<li><a href="/topimagenews/20220717/1759486.md">习近平考察之地 曾发生20万人大骚乱【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20220717/1759412.md">川普再战总统？旧部纷纷归队 影子政府隐约成形</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220718/1759630.md" target="_blank">肯尼亚2022年大选引欧盟关注</a></li>
+<li><a href="/comments/20220718/1759628.md" target="_blank">英国保守党竞选党魁淘汰赛 5人进行第二轮辩论</a></li>
+<li><a href="/comments/20220718/1759627.md" target="_blank">乌克兰货机载11公吨武器 空中爆炸坠希腊北部</a></li>
 <li><a href="/comments/20220718/1759622.md" target="_blank">停贷潮来袭，离金融海啸还有多远？</a></li>
 <li><a href="/comments/20220718/1759621.md" target="_blank">孙俪晒一家四口合照 7岁女儿上演腾空一字马</a></li>
 <li><a href="/comments/20220718/1759620.md" target="_blank">成名后未曾与周星驰同出镜 梁朝伟亲揭原因</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220717/1759466.md" target="_blank">上海名记者因“知了”诗躺枪 网络热议</a></li>
 <li><a href="/comments/20220717/1759465.md" target="_blank">小粉红出征迪奥新款裙 被呛：上纲上线</a></li>
 <li><a href="/comments/20220717/1759462.md" target="_blank">李燕铭：美日举行大规模联合军事训练累计52架战机参加 美军数十架战机在日本岩国基地举行“大象漫步” 美军三款先进无人机部署日本警戒中共 美军无人侦察机Triton飞抵岩国基地 8架美军MQ-9死神无人机拟部署鹿儿岛 日本自卫队于三泽基地首次部署美制全球鹰无人侦察机 全球军事围堵中共之中日战争阴云（十五）</a></li>
-<li><a href="/comments/20220717/1759431.md" target="_blank">王简论道：要时刻警惕司马南及其基本盘</a></li>
-<li><a href="/comments/20220717/1759408.md" target="_blank">波旁斯基:抄作业可以，能不能把答案抄全</a></li>
-<li><a href="/comments/20220717/1759407.md" target="_blank">维舟: 余秀华的爱情</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
 
 </ul>
 </div>
