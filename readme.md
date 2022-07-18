@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20220717/1759365.md">怕被吞？亚洲第一女富豪坚持中共总理管遗产 15年难解封</a></li>
 <li><a href="/bannedvideo/20220717/1759524.md">看网友评论就放心了！河南银行储户拿回存款后“得意忘形连发感谢”……</a></li>
 <li><a href="/topimagenews/20220717/1759427.md">【微博精粹】养驴9诀</a></li>
-<li><a href="/ssgc/20220717/1759539.md">唐山凶徒将女孩们毁尸灭迹就完了吗</a></li>
 <li><a href="/bannedvideo/20220717/1759516.md">陈破空：习近平毫无安全感！定要王小洪暗中尾随。栗韩行程罕见重叠，两常委到西藏密商？陈破空直播 与网友互动 美东7月17早8点30、即中港台7月17晚8点30</a></li>
 <li><a href="/bannedvideo/20220717/1759452.md">上海再次封城，被封小区居民聚集抗议，许多警察在封控区外戒备。</a></li>
+<li><a href="/ssgc/20220717/1759539.md">唐山凶徒将女孩们毁尸灭迹就完了吗</a></li>
 <li><a href="/topimagenews/20220717/1759541.md">武汉“最高学历楼盘”成烂尾楼！买房者：只能离婚救孩子</a></li>
-<li><a href="/topimagenews/20220717/1759540.md">恒大危机还在烧！ 中国这个“全宇宙最重要行业”出事了</a></li>
 <li><a href="/yule/20220717/1759425.md">网红晒与高官父合照高调炫富 网：不作就不会死</a></li>
+<li><a href="/topimagenews/20220717/1759540.md">恒大危机还在烧！ 中国这个“全宇宙最重要行业”出事了</a></li>
 <li><a href="/cbnews/20220717/1759547.md">“求交往”遭拒！18岁嫩妹坐副驾痛哭 法拉利车主傻眼</a></li>
 <li><a href="/cbnews/20220717/1759392.md">天亮时分：蓬佩奥揭内幕，习近平严控金正恩；余茂春：东西合围中共，北约应扩张至印太；援俄被抓包，中共高科技后门被断（政论天下第744集 20220716）</a></li>
+<li><a href="/topimagenews/20220718/1759609.md">要给习近平难看？中国正处在大风暴前夕</a></li>
 <li><a href="/worldnews/20220717/1759393.md">“盲眼龙婆”预言2022年6大灾 外媒惊曝：又中了</a></li>
 <li><a href="/yule/20220717/1759464.md">娱乐圈的明星到底有多假？去掉伪装可能连普通人都不如 动图/图集</a></li>
 <li><a href="/ssgc/20220717/1759435.md">〖微博谈〗你以为我们还不知道吗？</a></li>
 <li><a href="/cbnews/20220717/1759413.md">四川游乐场气垫游泳池垮塌 多人被冲入河中</a></li>
-<li><a href="/topimagenews/20220717/1759412.md">川普再战总统？旧部纷纷归队 影子政府隐约成形</a></li>
 <li><a href="/topimagenews/20220717/1759486.md">习近平考察之地 曾发生20万人大骚乱【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220717/1759528.md">中国处在风暴前夕</a></li>
-<li><a href="/topimagenews/20220718/1759609.md">要给习近平难看？中国正处在大风暴前夕</a></li>
+<li><a href="/topimagenews/20220717/1759412.md">川普再战总统？旧部纷纷归队 影子政府隐约成形</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220718/1759669.md" target="_blank">中共这样做，实为害人害己</a></li>
+<li><a href="/comments/20220718/1759668.md" target="_blank">张亦嵘：下庄的人和“半牲口”</a></li>
+<li><a href="/comments/20220718/1759667.md" target="_blank">王丹：中国嘲讽安倍之死，是共产党一手导演</a></li>
 <li><a href="/comments/20220718/1759652.md" target="_blank">北大教授：伪精英的六大病征</a></li>
 <li><a href="/comments/20220718/1759651.md" target="_blank">【首发】李德君：习近平，二十大政变天赐良机</a></li>
 <li><a href="/comments/20220718/1759646.md" target="_blank">意大利天空孤岛：悬崖上的中世纪古堡</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220717/1759505.md" target="_blank">四川雅安泥石流冲走车人 逃生者像泥雕</a></li>
 <li><a href="/comments/20220717/1759482.md" target="_blank">食物也影响心理健康，常吃水果有助远离忧郁</a></li>
 <li><a href="/comments/20220717/1759481.md" target="_blank">高温天气，这几件事最好别做</a></li>
-<li><a href="/comments/20220717/1759480.md" target="_blank">美研究：催产素释放多，生活满意度高</a></li>
-<li><a href="/comments/20220717/1759479.md" target="_blank">自闭的孩子容易肚子痛？ 研究：压力、焦虑、忧郁影响肠胃</a></li>
-<li><a href="/comments/20220717/1759478.md" target="_blank">睡眠充足就是健康！ 研究：睡不好恐增肺阻塞机率</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 <li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
 <li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 <li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
 
 </ul>
 </div>
