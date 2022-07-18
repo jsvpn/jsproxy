@@ -12,21 +12,21 @@
 <li><a href="/topimagenews/20220717/1759365.md">怕被吞？亚洲第一女富豪坚持中共总理管遗产 15年难解封</a></li>
 <li><a href="/bannedvideo/20220717/1759524.md">看网友评论就放心了！河南银行储户拿回存款后“得意忘形连发感谢”……</a></li>
 <li><a href="/topimagenews/20220717/1759427.md">【微博精粹】养驴9诀</a></li>
-<li><a href="/bannedvideo/20220717/1759516.md">陈破空：习近平毫无安全感！定要王小洪暗中尾随。栗韩行程罕见重叠，两常委到西藏密商？陈破空直播 与网友互动 美东7月17早8点30、即中港台7月17晚8点30</a></li>
 <li><a href="/bannedvideo/20220717/1759452.md">上海再次封城，被封小区居民聚集抗议，许多警察在封控区外戒备。</a></li>
+<li><a href="/bannedvideo/20220717/1759516.md">陈破空：习近平毫无安全感！定要王小洪暗中尾随。栗韩行程罕见重叠，两常委到西藏密商？陈破空直播 与网友互动 美东7月17早8点30、即中港台7月17晚8点30</a></li>
 <li><a href="/ssgc/20220717/1759539.md">唐山凶徒将女孩们毁尸灭迹就完了吗</a></li>
+<li><a href="/topimagenews/20220718/1759609.md">要给习近平难看？中国正处在大风暴前夕</a></li>
 <li><a href="/topimagenews/20220717/1759541.md">武汉“最高学历楼盘”成烂尾楼！买房者：只能离婚救孩子</a></li>
 <li><a href="/yule/20220717/1759425.md">网红晒与高官父合照高调炫富 网：不作就不会死</a></li>
 <li><a href="/topimagenews/20220717/1759540.md">恒大危机还在烧！ 中国这个“全宇宙最重要行业”出事了</a></li>
 <li><a href="/cbnews/20220717/1759547.md">“求交往”遭拒！18岁嫩妹坐副驾痛哭 法拉利车主傻眼</a></li>
 <li><a href="/cbnews/20220717/1759392.md">天亮时分：蓬佩奥揭内幕，习近平严控金正恩；余茂春：东西合围中共，北约应扩张至印太；援俄被抓包，中共高科技后门被断（政论天下第744集 20220716）</a></li>
-<li><a href="/topimagenews/20220718/1759609.md">要给习近平难看？中国正处在大风暴前夕</a></li>
 <li><a href="/worldnews/20220717/1759393.md">“盲眼龙婆”预言2022年6大灾 外媒惊曝：又中了</a></li>
 <li><a href="/yule/20220717/1759464.md">娱乐圈的明星到底有多假？去掉伪装可能连普通人都不如 动图/图集</a></li>
 <li><a href="/ssgc/20220717/1759435.md">〖微博谈〗你以为我们还不知道吗？</a></li>
+<li><a href="/ssgc/20220717/1759528.md">中国处在风暴前夕</a></li>
 <li><a href="/cbnews/20220717/1759413.md">四川游乐场气垫游泳池垮塌 多人被冲入河中</a></li>
 <li><a href="/topimagenews/20220717/1759486.md">习近平考察之地 曾发生20万人大骚乱【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20220717/1759528.md">中国处在风暴前夕</a></li>
 <li><a href="/topimagenews/20220717/1759412.md">川普再战总统？旧部纷纷归队 影子政府隐约成形</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220718/1759691.md" target="_blank">俄乌战况：百万大军何在？赫尔松反攻真相 少女</a></li>
+<li><a href="/comments/20220718/1759690.md" target="_blank">尚龙：原来能正常说话是一种幸福</a></li>
+<li><a href="/comments/20220718/1759689.md" target="_blank">秦就石：一次爆炸在北京的、射程最远的炮击</a></li>
 <li><a href="/comments/20220718/1759669.md" target="_blank">中共这样做，实为害人害己</a></li>
 <li><a href="/comments/20220718/1759668.md" target="_blank">张亦嵘：下庄的人和“半牲口”</a></li>
 <li><a href="/comments/20220718/1759667.md" target="_blank">王丹：中国嘲讽安倍之死，是共产党一手导演</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220717/1759527.md" target="_blank">【俄乌战火第144天】乌克兰：不排除用“海马斯”袭击克里米亚 俄防长下令加强对乌行动强度</a></li>
 <li><a href="/comments/20220717/1759517.md" target="_blank">身体营养素缺乏的10种表现 如何补救？</a></li>
 <li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20220717/1759505.md" target="_blank">四川雅安泥石流冲走车人 逃生者像泥雕</a></li>
-<li><a href="/comments/20220717/1759482.md" target="_blank">食物也影响心理健康，常吃水果有助远离忧郁</a></li>
-<li><a href="/comments/20220717/1759481.md" target="_blank">高温天气，这几件事最好别做</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 <li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 <li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
 
 </ul>
 </div>
