@@ -8,7 +8,6 @@
 <li><a href="/bannedvideo/20220717/1759524.md">看网友评论就放心了！河南银行储户拿回存款后“得意忘形连发感谢”……</a></li>
 <li><a href="/topimagenews/20220718/1759609.md">要给习近平难看？中国正处在大风暴前夕</a></li>
 <li><a href="/ssgc/20220717/1759539.md">唐山凶徒将女孩们毁尸灭迹就完了吗</a></li>
-<li><a href="/bannedvideo/20220717/1759516.md">陈破空：习近平毫无安全感！定要王小洪暗中尾随。栗韩行程罕见重叠，两常委到西藏密商？陈破空直播 与网友互动 美东7月17早8点30、即中港台7月17晚8点30</a></li>
 <li><a href="/cbnews/20220717/1759547.md">“求交往”遭拒！18岁嫩妹坐副驾痛哭 法拉利车主傻眼</a></li>
 <li><a href="/topimagenews/20220717/1759541.md">武汉“最高学历楼盘”成烂尾楼！买房者：只能离婚救孩子</a></li>
 <li><a href="/topimagenews/20220717/1759540.md">恒大危机还在烧！ 中国这个“全宇宙最重要行业”出事了</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/cbnews/20220718/1759610.md">网红与高官父亲合影炫富事件：沈阳警方通报来了</a></li>
 <li><a href="/ssgc/20220718/1759739.md">〖兲朝浮世绘〗宣克炅的领导这么一闹，习总又多个外号</a></li>
 <li><a href="/bannedvideo/20220718/1759648.md">🔥🔥唐山最新黑幕：4女孩尸体被扔进炼钢炉❗杀人凶手老妈是省厅高官❓【被黄标】</a></li>
+<li><a href="/bannedvideo/20220718/1759768.md">20220718直播：墙内传言分析：北戴河已有结果，团派站队，江系出局，丁胡接班人，习最多再干五年；按闹分配！苦主们这次有点希望；乌克兰要炸跨海大桥，德国难受了。</a></li>
 <li><a href="/topimagenews/20220718/1759764.md">闹婚玩过火 新郎被伴郎活活揍死</a></li>
 <li><a href="/cbnews/20220717/1759565.md">中共金融领域逾十名高管被密集查处</a></li>
 <li><a href="/comments/20220718/1759651.md">【首发】李德君：习近平，二十大政变天赐良机</a></li>
-<li><a href="/cnnews/20220718/1759578.md">河南银行弊案直烧中南海！南京银背后有政治局常委作保护伞？</a></li>
 <li><a href="/cnnews/20220718/1759711.md">侮辱性极强！让医护人员冒着死亡率高达80%的风险去干这事</a></li>
-<li><a href="/comments/20220717/1759493.md">人生的真正目的究竟是什么？</a></li>
-<li><a href="/bannedvideo/20220718/1759768.md">20220718直播：墙内传言分析：北戴河已有结果，团派站队，江系出局，丁胡接班人，习最多再干五年；按闹分配！苦主们这次有点希望；乌克兰要炸跨海大桥，德国难受了。</a></li>
+<li><a href="/cnnews/20220718/1759578.md">河南银行弊案直烧中南海！南京银背后有政治局常委作保护伞？</a></li>
 <li><a href="/headline/20220718/1759618.md">习近平二十大前须拆弹</a></li>
+<li><a href="/cnnews/20220718/1759653.md">浙江两男子夜钓，竟捞上岸一“活的年轻女子”，吓傻</a></li>
+<li><a href="/yule/20220718/1759582.md">离婚三年双宋状态大变，男的变胖女方变得刻薄狠厉</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 
 </ul>
 </div>
