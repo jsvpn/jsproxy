@@ -12,17 +12,17 @@
 <li><a href="/topimagenews/20220717/1759540.md">恒大危机还在烧！ 中国这个“全宇宙最重要行业”出事了</a></li>
 <li><a href="/cnnews/20220718/1759732.md">用周杰伦新歌暗讽习近平赖着不走 网友微博被封</a></li>
 <li><a href="/bannedvideo/20220718/1759571.md">中国多地出台新政策，父母如果没交足社保医保，孩子的入学资格将被取消。父母被迫排队交社保！</a></li>
-<li><a href="/ssgc/20220717/1759528.md">中国处在风暴前夕</a></li>
 <li><a href="/cnnews/20220718/1759604.md">“跨性别女囚”致2狱友怀孕被转移男监，结果…</a></li>
+<li><a href="/ssgc/20220717/1759528.md">中国处在风暴前夕</a></li>
 <li><a href="/cnnews/20220718/1759654.md">川普前妻死因出炉，其友人气炸了</a></li>
+<li><a href="/bannedvideo/20220718/1759768.md">20220718直播：墙内传言分析：北戴河已有结果，团派站队，江系出局，丁胡接班人，习最多再干五年；按闹分配！苦主们这次有点希望；乌克兰要炸跨海大桥，德国难受了。</a></li>
 <li><a href="/cbnews/20220718/1759610.md">网红与高官父亲合影炫富事件：沈阳警方通报来了</a></li>
 <li><a href="/ssgc/20220718/1759739.md">〖兲朝浮世绘〗宣克炅的领导这么一闹，习总又多个外号</a></li>
-<li><a href="/bannedvideo/20220718/1759768.md">20220718直播：墙内传言分析：北戴河已有结果，团派站队，江系出局，丁胡接班人，习最多再干五年；按闹分配！苦主们这次有点希望；乌克兰要炸跨海大桥，德国难受了。</a></li>
 <li><a href="/bannedvideo/20220718/1759648.md">🔥🔥唐山最新黑幕：4女孩尸体被扔进炼钢炉❗杀人凶手老妈是省厅高官❓【被黄标】</a></li>
 <li><a href="/topimagenews/20220718/1759764.md">闹婚玩过火 新郎被伴郎活活揍死</a></li>
 <li><a href="/cbnews/20220717/1759565.md">中共金融领域逾十名高管被密集查处</a></li>
-<li><a href="/comments/20220718/1759651.md">【首发】李德君：习近平，二十大政变天赐良机</a></li>
 <li><a href="/cnnews/20220718/1759711.md">侮辱性极强！让医护人员冒着死亡率高达80%的风险去干这事</a></li>
+<li><a href="/comments/20220718/1759651.md">【首发】李德君：习近平，二十大政变天赐良机</a></li>
 <li><a href="/cnnews/20220718/1759578.md">河南银行弊案直烧中南海！南京银背后有政治局常委作保护伞？</a></li>
 <li><a href="/cnnews/20220718/1759653.md">浙江两男子夜钓，竟捞上岸一“活的年轻女子”，吓傻</a></li>
 <li><a href="/headline/20220718/1759618.md">习近平二十大前须拆弹</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220718/1759892.md" target="_blank">上海疫情拉警报明起3天大规模检测 澳门延长封城令5天</a></li>
 <li><a href="/comments/20220718/1759884.md" target="_blank">非人类手段 屠牛事件！全美国 密集发生，FBI拒绝调查。外星人道西基地，是小灰人罗斯威尔事件的后续发展？</a></li>
 <li><a href="/cbnews/20220718/1759801.md" target="_blank">举报社会：退休教师给孙子补课 惨被邻居举报</a></li>
 <li><a href="/cbnews/20220718/1759794.md" target="_blank">母亲外出，4岁女娃被3只斗牛犬咬死，现场血淋淋</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220717/1759392.md" target="_blank">天亮时分：蓬佩奥揭内幕，习近平严控金正恩；余茂春：东西合围中共，北约应扩张至印太；援俄被抓包，中共高科技后门被断（政论天下第744集 20220716）</a></li>
 <li><a href="/comments/20220717/1759387.md" target="_blank">【杰森视角】中国人金融起义的真正原因是什么？为何这个运动能在中国迅速形成燎原之势？这场运动将如何冲击中国金融体系？中共会如何应对？李克强派系战胜习近平路线！习近平20大结局已定！</a></li>
 <li><a href="/cbnews/20220717/1759301.md" target="_blank">广东16岁少女割颈杀害男童 不适用死刑惹议</a></li>
-<li><a href="/cbnews/20220717/1759295.md" target="_blank">美智库错估台海 众院法案含撑台</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220718/1759889.md" target="_blank">英国前首相布莱尔：西方国家应团结起来应对中共</a></li>
+<li><a href="/comments/20220718/1759888.md" target="_blank">母亲在亲子教育角色中的作用 可能超乎想像</a></li>
 <li><a href="/comments/20220718/1759884.md" target="_blank">非人类手段 屠牛事件！全美国 密集发生，FBI拒绝调查。外星人道西基地，是小灰人罗斯威尔事件的后续发展？</a></li>
 <li><a href="/comments/20220718/1759858.md" target="_blank">习共专制的新特点：对舆情赤裸裸蔑视+彻底封杀 — 曾节明</a></li>
 <li><a href="/comments/20220718/1759840.md" target="_blank">夏日补水！ 6种蔬果「它」含水量第一</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220718/1759690.md" target="_blank">尚龙：原来能正常说话是一种幸福</a></li>
 <li><a href="/comments/20220718/1759689.md" target="_blank">秦就石：一次爆炸在北京的、射程最远的炮击</a></li>
 <li><a href="/comments/20220718/1759669.md" target="_blank">中共这样做，实为害人害己</a></li>
-<li><a href="/comments/20220718/1759668.md" target="_blank">张亦嵘：下庄的人和“半牲口”</a></li>
-<li><a href="/comments/20220718/1759667.md" target="_blank">王丹：中国嘲讽安倍之死，是共产党一手导演</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
 <li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
 
 </ul>
 </div>
