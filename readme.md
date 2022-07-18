@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220717/1759487.md">李克强又说实话：经济发展极不寻常【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220717/1759524.md">看网友评论就放心了！河南银行储户拿回存款后“得意忘形连发感谢”……</a></li>
 <li><a href="/topimagenews/20220718/1759609.md">要给习近平难看？中国正处在大风暴前夕</a></li>
 <li><a href="/ssgc/20220717/1759539.md">唐山凶徒将女孩们毁尸灭迹就完了吗</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/cbnews/20220717/1759547.md">“求交往”遭拒！18岁嫩妹坐副驾痛哭 法拉利车主傻眼</a></li>
 <li><a href="/topimagenews/20220717/1759541.md">武汉“最高学历楼盘”成烂尾楼！买房者：只能离婚救孩子</a></li>
 <li><a href="/topimagenews/20220717/1759540.md">恒大危机还在烧！ 中国这个“全宇宙最重要行业”出事了</a></li>
-<li><a href="/cnnews/20220718/1759654.md">川普前妻死因出炉，其友人气炸了</a></li>
 <li><a href="/cnnews/20220718/1759732.md">用周杰伦新歌暗讽习近平赖着不走 网友微博被封</a></li>
+<li><a href="/cnnews/20220718/1759654.md">川普前妻死因出炉，其友人气炸了</a></li>
 <li><a href="/ssgc/20220717/1759528.md">中国处在风暴前夕</a></li>
-<li><a href="/cnnews/20220718/1759604.md">“跨性别女囚”致2狱友怀孕被转移男监，结果…</a></li>
 <li><a href="/bannedvideo/20220718/1759571.md">中国多地出台新政策，父母如果没交足社保医保，孩子的入学资格将被取消。父母被迫排队交社保！</a></li>
+<li><a href="/cnnews/20220718/1759604.md">“跨性别女囚”致2狱友怀孕被转移男监，结果…</a></li>
 <li><a href="/cbnews/20220718/1759610.md">网红与高官父亲合影炫富事件：沈阳警方通报来了</a></li>
-<li><a href="/topimagenews/20220717/1759486.md">习近平考察之地 曾发生20万人大骚乱【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220718/1759648.md">🔥🔥唐山最新黑幕：4女孩尸体被扔进炼钢炉❗杀人凶手老妈是省厅高官❓【被黄标】</a></li>
 <li><a href="/cnnews/20220718/1759578.md">河南银行弊案直烧中南海！南京银背后有政治局常委作保护伞？</a></li>
-<li><a href="/comments/20220717/1759493.md">人生的真正目的究竟是什么？</a></li>
 <li><a href="/cbnews/20220717/1759565.md">中共金融领域逾十名高管被密集查处</a></li>
+<li><a href="/comments/20220717/1759493.md">人生的真正目的究竟是什么？</a></li>
 <li><a href="/comments/20220718/1759651.md">【首发】李德君：习近平，二十大政变天赐良机</a></li>
 <li><a href="/yule/20220718/1759582.md">离婚三年双宋状态大变，男的变胖女方变得刻薄狠厉</a></li>
-<li><a href="/lifebaike/20220717/1759489.md">洗车只洗表面？老司机都会勤洗这4个部位，10年后还是新车</a></li>
 <li><a href="/headline/20220718/1759618.md">习近平二十大前须拆弹</a></li>
+<li><a href="/bannedvideo/20220718/1759595.md">“反诗！习近平惨遭修理：肥头大耳 不知民间苦”Shitao TV - 04 (17/07/22) 上海名记打油诗：蜇伏阴间5年 屁股高调：巨大政治错误！</a></li>
+<li><a href="/cnnews/20220718/1759653.md">浙江两男子夜钓，竟捞上岸一“活的年轻女子”，吓傻</a></li>
+<li><a href="/cnnews/20220718/1759711.md">侮辱性极强！让医护人员冒着死亡率高达80%的风险去干这事</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220718/1759840.md" target="_blank">夏日补水！ 6种蔬果「它」含水量第一</a></li>
 <li><a href="/comments/20220718/1759826.md" target="_blank">夏季高温逾31.5℃ 心肌梗塞风险增3成</a></li>
 <li><a href="/comments/20220718/1759825.md" target="_blank">吃完一盒冰淇淋，男子头痛恶心，一查竟患上了……</a></li>
 <li><a href="/comments/20220718/1759824.md" target="_blank">中暑了要牢记4点，2类人群要当心</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220718/1759667.md" target="_blank">王丹：中国嘲讽安倍之死，是共产党一手导演</a></li>
 <li><a href="/comments/20220718/1759652.md" target="_blank">北大教授：伪精英的六大病征</a></li>
 <li><a href="/comments/20220718/1759651.md" target="_blank">【首发】李德君：习近平，二十大政变天赐良机</a></li>
-<li><a href="/comments/20220718/1759646.md" target="_blank">意大利天空孤岛：悬崖上的中世纪古堡</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 
 </ul>
 </div>
