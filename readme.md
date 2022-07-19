@@ -17,13 +17,13 @@
 <li><a href="/topimagenews/20220719/1760092.md">俄远东精锐师团被全歼，乌著名叛变将领被击杀</a></li>
 <li><a href="/cbnews/20220719/1760208.md">江峰：二十大真没戏了？邀欧洲领袖来朝壮行色；外媒赞习近平为新疆指明方向？揭《参考消息》谎言，外媒评论竟直指习阴谋；知了打油诗伤了谁？【江峰漫谈20220718第515期】</a></li>
 <li><a href="/topimagenews/20220719/1760364.md">停贷潮又升级了! 经济下行成定局人行行长易纲认了，中共党媒接连喊话；</a></li>
-<li><a href="/topimagenews/20220719/1760115.md">微信在暗中干啥？大量占用手机CPU 安全疑虑超高</a></li>
-<li><a href="/topimagenews/20220719/1760238.md">中共心惊！蓬佩奥有意参选美国总统 专家:他若当选将有这3大变化…</a></li>
-<li><a href="/headline/20220719/1760005.md">经济学人:习近平培育了一种丑陋的中国式民族主义（上）</a></li>
 <li><a href="/comments/20220719/1760324.md">严歌苓：“我不相信中国会一直这样坏下去”</a></li>
+<li><a href="/topimagenews/20220719/1760238.md">中共心惊！蓬佩奥有意参选美国总统 专家:他若当选将有这3大变化…</a></li>
+<li><a href="/topimagenews/20220719/1760115.md">微信在暗中干啥？大量占用手机CPU 安全疑虑超高</a></li>
+<li><a href="/headline/20220719/1760005.md">经济学人:习近平培育了一种丑陋的中国式民族主义（上）</a></li>
 <li><a href="/topimagenews/20220719/1760210.md">德媒：这才是影响中国经济的“罪魁祸首”</a></li>
-<li><a href="/headline/20220719/1760244.md">蔡奇亲信遭法办 人民日报：「常思己过才能摆脱利益集团」</a></li>
 <li><a href="/bannedvideo/20220719/1760327.md">1962年中印边境战，全世界“目瞪口呆”：毛泽东一己之私，全国饿死4000万人也得开打；共军大胜，却突然抛弃战果、无条件撤退，有何黑幕？</a></li>
+<li><a href="/headline/20220719/1760244.md">蔡奇亲信遭法办 人民日报：「常思己过才能摆脱利益集团」</a></li>
 <li><a href="/headline/20220719/1760055.md">习近平《全球安全倡议》发表三月乏人问津 专家警告不可轻忽</a></li>
 <li><a href="/ssgc/20220719/1760064.md">〖兲朝浮世绘〗什么是自治？这就是自治</a></li>
 <li><a href="/bannedvideo/20220719/1760127.md">“没钱了！习近平开始卖掉美国国债换现金：12年首次跌下万亿-9800亿”Shitao TV - 04 (18/07/22) 放出2000亿救援地方银行</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220720/1760464.md" target="_blank">中共狂射导弹怎么办？ 外媒曝美军援台新利器</a></li>
 <li><a href="/cbnews/20220720/1760455.md" target="_blank">东亚杯还没开打…中国男足已遭韩媒嘲笑</a></li>
 <li><a href="/cbnews/20220719/1760435.md" target="_blank">湖南一学院花逾1900万引进23名菲律宾博士 网骂翻</a></li>
 <li><a href="/cbnews/20220719/1760240.md" target="_blank">美军展示两条反击线 中共难应对</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220717/1759550.md" target="_blank">中国多地“热死人” 已连续12天高温</a></li>
 <li><a href="/cbnews/20220717/1759547.md" target="_blank">“求交往”遭拒！18岁嫩妹坐副驾痛哭 法拉利车主傻眼</a></li>
 <li><a href="/cbnews/20220717/1759546.md" target="_blank">逃亡30年与家人断联、辛苦度日 男自首才发现从未被通缉</a></li>
-<li><a href="/cbnews/20220717/1759495.md" target="_blank">“党比爹妈亲”很荒唐 男士明真相退党</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220720/1760467.md" target="_blank">雪佛兰首款全电动SUV: 2024 特制警车、Blazer EV</a></li>
 <li><a href="/comments/20220719/1760412.md" target="_blank">时事大家谈：中国银保监会火速回应停贷风暴，维稳关键时刻到了？</a></li>
 <li><a href="/comments/20220719/1760397.md" target="_blank">青海六月飞雪民间叹：有大冤案</a></li>
 <li><a href="/comments/20220719/1760378.md" target="_blank">洪水、极端酷暑双重袭击 中国进入持续四十天“蒸笼”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220719/1760257.md" target="_blank">欧洲罕见高温 如何在家里自行降温？几个行之有效的好办法</a></li>
 <li><a href="/comments/20220719/1760256.md" target="_blank">暑天到了 如何挑选又甜又新鲜的西瓜？</a></li>
 <li><a href="/comments/20220719/1760251.md" target="_blank">唐靖远：蓬佩奥拟角逐总统大位 中南海心头一惊</a></li>
-<li><a href="/comments/20220719/1760228.md" target="_blank">德州纪念法轮功反迫害23周年 州议员和民众支持</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
 <li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
 
 </ul>
 </div>
