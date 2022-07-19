@@ -12,14 +12,14 @@
 <li><a href="/cnnews/20220718/1759885.md">影帝级贪官！人前：穿淘宝衣吃阳春面 人后：坐拥豪宅钱山酒海</a></li>
 <li><a href="/bannedvideo/20220718/1759873.md">陈破空：蔡奇亲信遭拿下！习近平乱穿衣？王小洪乱抓人。党报疑似高级黑：常思己过，不论谁出问题。陈破空直播 与网友互动 美东7月18早8点30、即中港台7月18晚8点30</a></li>
 <li><a href="/topimagenews/20220719/1760050.md">数据太难看！中共国统计局一张图 网民笑了</a></li>
+<li><a href="/topimagenews/20220719/1760155.md">令人震惊！习近平政治局讲话被公开 里面有...【阿波罗网报道】</a></li>
 <li><a href="/yule/20220719/1760038.md">同样是李连杰的基因 把利智和黄秋燕的孩子对比</a></li>
 <li><a href="/topimagenews/20220718/1759863.md">英俄要开战？爆200年恩怨情仇</a></li>
-<li><a href="/topimagenews/20220719/1760155.md">令人震惊！习近平政治局讲话被公开 里面有...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220719/1759998.md">只能存钱 不能提款? 停贷风暴银根紧 中国多省银行拿“断卡”当借口</a></li>
 <li><a href="/topimagenews/20220719/1760092.md">俄远东精锐师团被全歼，乌著名叛变将领被击杀</a></li>
 <li><a href="/comments/20220719/1760107.md">曾庆红侄女曾宝宝曝中共中联部特别行动刺杀安倍 中共内部消息：习近平批准中联部增设两个职能部门执行特别行动方案 中联部制定在台湾实施大规模暗杀52人黑名单 中南海谣言预言_538</a></li>
-<li><a href="/bannedvideo/20220719/1760078.md">🔥🔥唐山打人事件最新爆料❗4女孩家属全被送精神病院   ❗</a></li>
 <li><a href="/bannedvideo/20220719/1760006.md">中国某地，大批防爆警察集结待命，准备攻入一个村子！</a></li>
+<li><a href="/bannedvideo/20220719/1760078.md">🔥🔥唐山打人事件最新爆料❗4女孩家属全被送精神病院   ❗</a></li>
 <li><a href="/renquan/20220718/1759933.md">言论审查再升级 网民纷纷谴责</a></li>
 <li><a href="/headline/20220719/1760005.md">经济学人:习近平培育了一种丑陋的中国式民族主义（上）</a></li>
 <li><a href="/headline/20220719/1760055.md">习近平《全球安全倡议》发表三月乏人问津 专家警告不可轻忽</a></li>
@@ -97,6 +97,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220719/1760273.md" target="_blank">红疙瘩一片——夏季警惕虫咬皮炎</a></li>
+<li><a href="/comments/20220719/1760272.md" target="_blank">酷暑难耐 要加倍警惕食源性疾病</a></li>
+<li><a href="/comments/20220719/1760271.md" target="_blank">黑眼圈有4成因 医：可慢慢改善</a></li>
+<li><a href="/comments/20220719/1760270.md" target="_blank">“三伏天”养生，谨记这3点</a></li>
+<li><a href="/comments/20220719/1760269.md" target="_blank">最新研究：验尿有望发现气喘新疗法</a></li>
+<li><a href="/comments/20220719/1760268.md" target="_blank">夏天喝四神汤健脾除湿</a></li>
+<li><a href="/comments/20220719/1760267.md" target="_blank">每天吃一点，保护眼睛</a></li>
+<li><a href="/comments/20220719/1760266.md" target="_blank">晒伤后千万别撕皮！5样物品也别乱擦，有反效果</a></li>
 <li><a href="/comments/20220719/1760257.md" target="_blank">欧洲罕见高温 如何在家里自行降温？几个行之有效的好办法</a></li>
 <li><a href="/comments/20220719/1760256.md" target="_blank">暑天到了 如何挑选又甜又新鲜的西瓜？</a></li>
 <li><a href="/comments/20220719/1760251.md" target="_blank">唐靖远：蓬佩奥拟角逐总统大位 中南海心头一惊</a></li>
@@ -114,14 +122,6 @@
 <li><a href="/comments/20220719/1760133.md" target="_blank">谢老实命中本无嗣 积阴德连生三子</a></li>
 <li><a href="/comments/20220719/1760132.md" target="_blank">NASA发现火星表面意大利面条状物体</a></li>
 <li><a href="/comments/20220719/1760131.md" target="_blank">【陈东音乐】看“漫威”《惊奇少女》预告片体会怎样达到自然、入戏的声音表演</a></li>
-<li><a href="/comments/20220719/1760122.md" target="_blank">德州小学枪案调查报告出台 「执法者自保」为惨剧主因</a></li>
-<li><a href="/comments/20220719/1760107.md" target="_blank">曾庆红侄女曾宝宝曝中共中联部特别行动刺杀安倍 中共内部消息：习近平批准中联部增设两个职能部门执行特别行动方案 中联部制定在台湾实施大规模暗杀52人黑名单 中南海谣言预言_538</a></li>
-<li><a href="/comments/20220719/1760106.md" target="_blank">中俄威胁增 印欧时隔9年重启贸易谈判</a></li>
-<li><a href="/comments/20220719/1760101.md" target="_blank">台湾“备份一座城市”展览 将港《苹果日报》备份重现</a></li>
-<li><a href="/comments/20220719/1760098.md" target="_blank">吴崑玉：习近平跟威廉二世一样蠢！日本迈向再武装第一步</a></li>
-<li><a href="/comments/20220719/1760097.md" target="_blank">长平：从骂“境外势力”到主动求救：“半年不黑你们”</a></li>
-<li><a href="/comments/20220719/1760096.md" target="_blank">为什么不把河南村镇银行案中的吕奕引渡回国？他是谁的白手套？</a></li>
-<li><a href="/comments/20220719/1760087.md" target="_blank">经济专家：许多非官方数据显示中国经济已陷困境</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
 <li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
 
 </ul>
 </div>
