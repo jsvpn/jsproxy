@@ -8,7 +8,6 @@
 <li><a href="/topimagenews/20220719/1760155.md">令人震惊！习近平政治局讲话被公开 里面有...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220719/1760050.md">数据太难看！中共国统计局一张图 网民笑了</a></li>
 <li><a href="/comments/20220719/1760107.md">曾庆红侄女曾宝宝曝中共中联部特别行动刺杀安倍 中共内部消息：习近平批准中联部增设两个职能部门执行特别行动方案 中联部制定在台湾实施大规模暗杀52人黑名单 中南海谣言预言_538</a></li>
-<li><a href="/yule/20220719/1760038.md">同样是李连杰的基因 把利智和黄秋燕的孩子对比</a></li>
 <li><a href="/bannedvideo/20220719/1760204.md">北戴河确认习连任，团派大胜？习李联手救经济？中共破船漏洞百出，没有救了；借知了讽今上，红朝文学开奇葩。｜薇羽看世间 第509期 20220718</a></li>
 <li><a href="/bannedvideo/20220719/1760078.md">🔥🔥唐山打人事件最新爆料❗4女孩家属全被送精神病院   ❗</a></li>
 <li><a href="/cnnews/20220719/1760176.md">被江泽民看中后不买账 她惨遭秋后算账</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/topimagenews/20220719/1760210.md">德媒：这才是影响中国经济的“罪魁祸首”</a></li>
 <li><a href="/headline/20220719/1760244.md">蔡奇亲信遭法办 人民日报：「常思己过才能摆脱利益集团」</a></li>
 <li><a href="/headline/20220719/1760055.md">习近平《全球安全倡议》发表三月乏人问津 专家警告不可轻忽</a></li>
-<li><a href="/ssgc/20220719/1760064.md">〖兲朝浮世绘〗什么是自治？这就是自治</a></li>
-<li><a href="/comments/20220719/1760325.md">再见微信 再见那些突然把我当仇人的好友们</a></li>
-<li><a href="/bannedvideo/20220719/1760127.md">“没钱了！习近平开始卖掉美国国债换现金：12年首次跌下万亿-9800亿”Shitao TV - 04 (18/07/22) 放出2000亿救援地方银行</a></li>
-<li><a href="/topimagenews/20220719/1760156.md">【微博精粹】知了前仆后继</a></li>
 <li><a href="/bannedvideo/20220719/1760403.md">深圳人大逃亡，抗习运动</a></li>
+<li><a href="/ssgc/20220719/1760064.md">〖兲朝浮世绘〗什么是自治？这就是自治</a></li>
+<li><a href="/bannedvideo/20220719/1760127.md">“没钱了！习近平开始卖掉美国国债换现金：12年首次跌下万亿-9800亿”Shitao TV - 04 (18/07/22) 放出2000亿救援地方银行</a></li>
+<li><a href="/comments/20220719/1760325.md">再见微信 再见那些突然把我当仇人的好友们</a></li>
+<li><a href="/topimagenews/20220719/1760156.md">【微博精粹】知了前仆后继</a></li>
 <li><a href="/cnnews/20220719/1760060.md">绝望之火：全球转瞬进入大破产时代</a></li>
+<li><a href="/topimagenews/20220719/1760211.md">跟进美国 欧盟和加拿大出手了…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
 <li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
 <li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 
 </ul>
 </div>
