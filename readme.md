@@ -5,13 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20220719/1760035.md">【袁红冰热点】北京官场现在普遍相信安倍遇刺，是刘建超自3月份实际主导中联部权力後，启动的特别处置方案。刺杀安倍的杀手是中共在日本发展的秘密党员。</a></li>
 <li><a href="/topimagenews/20220719/1760155.md">令人震惊！习近平政治局讲话被公开 里面有...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220719/1760050.md">数据太难看！中共国统计局一张图 网民笑了</a></li>
 <li><a href="/comments/20220719/1760107.md">曾庆红侄女曾宝宝曝中共中联部特别行动刺杀安倍 中共内部消息：习近平批准中联部增设两个职能部门执行特别行动方案 中联部制定在台湾实施大规模暗杀52人黑名单 中南海谣言预言_538</a></li>
 <li><a href="/yule/20220719/1760038.md">同样是李连杰的基因 把利智和黄秋燕的孩子对比</a></li>
-<li><a href="/bannedvideo/20220719/1760078.md">🔥🔥唐山打人事件最新爆料❗4女孩家属全被送精神病院   ❗</a></li>
 <li><a href="/bannedvideo/20220719/1760204.md">北戴河确认习连任，团派大胜？习李联手救经济？中共破船漏洞百出，没有救了；借知了讽今上，红朝文学开奇葩。｜薇羽看世间 第509期 20220718</a></li>
+<li><a href="/bannedvideo/20220719/1760078.md">🔥🔥唐山打人事件最新爆料❗4女孩家属全被送精神病院   ❗</a></li>
 <li><a href="/cnnews/20220719/1760176.md">被江泽民看中后不买账 她惨遭秋后算账</a></li>
 <li><a href="/topimagenews/20220719/1760092.md">俄远东精锐师团被全歼，乌著名叛变将领被击杀</a></li>
 <li><a href="/topimagenews/20220719/1760364.md">停贷潮又升级了! 经济下行成定局人行行长易纲认了，中共党媒接连喊话；</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/headline/20220719/1760244.md">蔡奇亲信遭法办 人民日报：「常思己过才能摆脱利益集团」</a></li>
 <li><a href="/headline/20220719/1760055.md">习近平《全球安全倡议》发表三月乏人问津 专家警告不可轻忽</a></li>
 <li><a href="/ssgc/20220719/1760064.md">〖兲朝浮世绘〗什么是自治？这就是自治</a></li>
-<li><a href="/bannedvideo/20220719/1760127.md">“没钱了！习近平开始卖掉美国国债换现金：12年首次跌下万亿-9800亿”Shitao TV - 04 (18/07/22) 放出2000亿救援地方银行</a></li>
 <li><a href="/comments/20220719/1760325.md">再见微信 再见那些突然把我当仇人的好友们</a></li>
+<li><a href="/bannedvideo/20220719/1760127.md">“没钱了！习近平开始卖掉美国国债换现金：12年首次跌下万亿-9800亿”Shitao TV - 04 (18/07/22) 放出2000亿救援地方银行</a></li>
 <li><a href="/topimagenews/20220719/1760156.md">【微博精粹】知了前仆后继</a></li>
 <li><a href="/bannedvideo/20220719/1760403.md">深圳人大逃亡，抗习运动</a></li>
+<li><a href="/cnnews/20220719/1760060.md">绝望之火：全球转瞬进入大破产时代</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220720/1760490.md" target="_blank">唐吉田妹妹披露哥哥健康状况糟糕</a></li>
 <li><a href="/comments/20220720/1760482.md" target="_blank">【陈东音乐】 梦回东土</a></li>
 <li><a href="/comments/20220720/1760476.md" target="_blank">病毒变异入侵中国 上海天津等开启新一轮大规模核检 1万富人准备跑路</a></li>
 <li><a href="/comments/20220720/1760475.md" target="_blank">香港言语治疗师总工会5人案 控方声称：煽动罪等同于叛国罪</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220719/1760270.md" target="_blank">“三伏天”养生，谨记这3点</a></li>
 <li><a href="/comments/20220719/1760269.md" target="_blank">最新研究：验尿有望发现气喘新疗法</a></li>
 <li><a href="/comments/20220719/1760268.md" target="_blank">夏天喝四神汤健脾除湿</a></li>
-<li><a href="/comments/20220719/1760267.md" target="_blank">每天吃一点，保护眼睛</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 <li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
 <li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
 
 </ul>
 </div>
