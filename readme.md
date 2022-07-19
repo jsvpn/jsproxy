@@ -20,14 +20,14 @@
 <li><a href="/topimagenews/20220718/1759863.md">英俄要开战？爆200年恩怨情仇</a></li>
 <li><a href="/cbnews/20220718/1759703.md">天亮时分：上海全区沦陷，全面封城在即？烂尾楼风暴，启动国有化进程？回答网友提问（政论天下第745集 20220717）</a></li>
 <li><a href="/cnnews/20220718/1759818.md">为了美化年轻人大失业，中共又在创造汉语词汇</a></li>
-<li><a href="/cbnews/20220718/1759794.md">母亲外出，4岁女娃被3只斗牛犬咬死，现场血淋淋</a></li>
 <li><a href="/topimagenews/20220719/1759998.md">只能存钱 不能提款? 停贷风暴银根紧 中国多省银行拿“断卡”当借口</a></li>
+<li><a href="/cbnews/20220718/1759794.md">母亲外出，4岁女娃被3只斗牛犬咬死，现场血淋淋</a></li>
 <li><a href="/cnnews/20220718/1759838.md">习近平两过北江洪水灾区而不入</a></li>
-<li><a href="/topimagenews/20220718/1759774.md">乌克兰政府爆大规模叛国行为 泽伦斯基开铡2高官</a></li>
 <li><a href="/cbnews/20220718/1759719.md">习近平笑眯眯视察新疆，让维吾尔人为他跳舞</a></li>
+<li><a href="/topimagenews/20220718/1759774.md">乌克兰政府爆大规模叛国行为 泽伦斯基开铡2高官</a></li>
 <li><a href="/cbnews/20220718/1759793.md">专家确认重大发现！网友震惊：这家餐厅要火了</a></li>
-<li><a href="/topimagenews/20220718/1759752.md">已经动摇了中共国本！烂尾党、烂尾房、烂尾银行</a></li>
 <li><a href="/renquan/20220718/1759933.md">言论审查再升级 网民纷纷谴责</a></li>
+<li><a href="/topimagenews/20220718/1759752.md">已经动摇了中共国本！烂尾党、烂尾房、烂尾银行</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220719/1760092.md" target="_blank">俄远东精锐师团被全歼，乌著名叛变将领被击杀</a></li>
 <li><a href="/topimagenews/20220719/1760050.md" target="_blank">数据太难看！中共国统计局一张图 网民笑了</a></li>
 <li><a href="/topimagenews/20220719/1759998.md" target="_blank">只能存钱 不能提款? 停贷风暴银根紧 中国多省银行拿“断卡”当借口</a></li>
 <li><a href="/topimagenews/20220718/1759923.md" target="_blank">大陆国中男巷弄性侵小学女 监视器影片曝光！爆料人惊呼“看了3次精神快分裂”</a></li>
@@ -90,13 +91,16 @@
 <li><a href="/topimagenews/20220718/1759588.md" target="_blank">南村镇银行爆发弊案 学者：中国债务炸弹将引爆</a></li>
 <li><a href="/topimagenews/20220717/1759568.md" target="_blank">中国发展半导体再受挫 管理国家“大基金”前总裁落马</a></li>
 <li><a href="/topimagenews/20220717/1759541.md" target="_blank">武汉“最高学历楼盘”成烂尾楼！买房者：只能离婚救孩子</a></li>
-<li><a href="/topimagenews/20220717/1759540.md" target="_blank">恒大危机还在烧！ 中国这个“全宇宙最重要行业”出事了</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220719/1760098.md" target="_blank">吴崑玉：习近平跟威廉二世一样蠢！日本迈向再武装第一步</a></li>
+<li><a href="/comments/20220719/1760097.md" target="_blank">长平：从骂“境外势力”到主动求救：“半年不黑你们”</a></li>
+<li><a href="/comments/20220719/1760096.md" target="_blank">为什么不把河南村镇银行案中的吕奕引渡回国？他是谁的白手套？</a></li>
+<li><a href="/comments/20220719/1760087.md" target="_blank">经济专家：许多非官方数据显示中国经济已陷困境</a></li>
 <li><a href="/comments/20220719/1760062.md" target="_blank">美房地产市场最稳定的十州出炉 犹他州居首</a></li>
 <li><a href="/comments/20220719/1760056.md" target="_blank">隐退半个世纪，2023新版丰田皇冠Crown重返美国</a></li>
 <li><a href="/comments/20220719/1760040.md" target="_blank">美国生活成本最高的10个州 冠军令人想不到</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20220718/1759927.md" target="_blank">政治制度与社会习俗塑造了中国人的群体性特点</a></li>
 <li><a href="/comments/20220718/1759920.md" target="_blank">中共若武力犯台 专家：英国可望前线军援助美保台</a></li>
 <li><a href="/comments/20220718/1759919.md" target="_blank">习近平“三条红线”直逼中国房市窒息？被呛实质弃守</a></li>
-<li><a href="/comments/20220718/1759902.md" target="_blank">丝瓜鸡蛋菌菇浓汤 消暑美白健脑</a></li>
-<li><a href="/comments/20220718/1759897.md" target="_blank">【俄乌战火第145天】泽伦斯基开除两政府高层 时装品牌H&#038;M宣布退出俄国市场</a></li>
-<li><a href="/comments/20220718/1759896.md" target="_blank">法国中餐馆西藏员工疑遭老板杀害 藏人愤慨示威</a></li>
-<li><a href="/comments/20220718/1759889.md" target="_blank">英国前首相布莱尔：西方国家应团结起来应对中共</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
 
 </ul>
 </div>
