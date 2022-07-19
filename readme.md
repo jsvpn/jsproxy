@@ -13,8 +13,8 @@
 <li><a href="/topimagenews/20220718/1759923.md">大陆国中男巷弄性侵小学女 监视器影片曝光！爆料人惊呼“看了3次精神快分裂”</a></li>
 <li><a href="/cnnews/20220718/1759807.md">一片乱象：郑州、北大、四川的操作让网友们惊呆</a></li>
 <li><a href="/comments/20220718/1759651.md">【首发】李德君：习近平，二十大政变天赐良机</a></li>
-<li><a href="/bannedvideo/20220718/1759934.md">蔡英文公开说不要连任，习近平傻了</a></li>
 <li><a href="/topimagenews/20220718/1759764.md">闹婚玩过火 新郎被伴郎活活揍死</a></li>
+<li><a href="/bannedvideo/20220718/1759934.md">蔡英文公开说不要连任，习近平傻了</a></li>
 <li><a href="/bannedvideo/20220718/1759857.md">罕见点名中共常委 谁在给习难看？【两岸要闻】</a></li>
 <li><a href="/cnnews/20220718/1759711.md">侮辱性极强！让医护人员冒着死亡率高达80%的风险去干这事</a></li>
 <li><a href="/topimagenews/20220718/1759759.md">习近平外出考察 身上着装大不同【阿波罗网报道】</a></li>
@@ -22,8 +22,8 @@
 <li><a href="/cnnews/20220718/1759885.md">影帝级贪官！人前：穿淘宝衣吃阳春面 人后：坐拥豪宅钱山酒海</a></li>
 <li><a href="/topimagenews/20220718/1759863.md">英俄要开战？爆200年恩怨情仇</a></li>
 <li><a href="/cnnews/20220718/1759653.md">浙江两男子夜钓，竟捞上岸一“活的年轻女子”，吓傻</a></li>
-<li><a href="/cnnews/20220718/1759818.md">为了美化年轻人大失业，中共又在创造汉语词汇</a></li>
 <li><a href="/cbnews/20220718/1759703.md">天亮时分：上海全区沦陷，全面封城在即？烂尾楼风暴，启动国有化进程？回答网友提问（政论天下第745集 20220717）</a></li>
+<li><a href="/cnnews/20220718/1759818.md">为了美化年轻人大失业，中共又在创造汉语词汇</a></li>
 <li><a href="/topimagenews/20220718/1759650.md">自己动手割包皮？中国一大批男患者进医院了…</a></li>
 <li><a href="/cbnews/20220718/1759794.md">母亲外出，4岁女娃被3只斗牛犬咬死，现场血淋淋</a></li>
 <li><a href="/cnnews/20220718/1759838.md">习近平两过北江洪水灾区而不入</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220719/1760062.md" target="_blank">美房地产市场最稳定的十州出炉 犹他州居首</a></li>
 <li><a href="/comments/20220719/1760056.md" target="_blank">隐退半个世纪，2023新版丰田皇冠Crown重返美国</a></li>
 <li><a href="/comments/20220719/1760040.md" target="_blank">美国生活成本最高的10个州 冠军令人想不到</a></li>
 <li><a href="/comments/20220719/1760035.md" target="_blank">【袁红冰热点】北京官场现在普遍相信安倍遇刺，是刘建超自3月份实际主导中联部权力後，启动的特别处置方案。刺杀安倍的杀手是中共在日本发展的秘密党员。</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220718/1759897.md" target="_blank">【俄乌战火第145天】泽伦斯基开除两政府高层 时装品牌H&#038;M宣布退出俄国市场</a></li>
 <li><a href="/comments/20220718/1759896.md" target="_blank">法国中餐馆西藏员工疑遭老板杀害 藏人愤慨示威</a></li>
 <li><a href="/comments/20220718/1759889.md" target="_blank">英国前首相布莱尔：西方国家应团结起来应对中共</a></li>
-<li><a href="/comments/20220718/1759888.md" target="_blank">母亲在亲子教育角色中的作用 可能超乎想像</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 <li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
 
 </ul>
 </div>
