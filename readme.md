@@ -5,10 +5,9 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/bannedvideo/20220719/1760403.md">深圳人大逃亡，抗习运动</a></li>
 <li><a href="/bannedvideo/20220719/1760416.md">事实核查，王毅输惨了</a></li>
-<li><a href="/ccpdope/20220720/1760502.md">唐山爆料称女孩都已遇害 残忍超想像</a></li>
 <li><a href="/bannedvideo/20220719/1760417.md">这是哪里？坦克进城了，二十大摊牌</a></li>
+<li><a href="/ccpdope/20220720/1760502.md">唐山爆料称女孩都已遇害 残忍超想像</a></li>
 <li><a href="/cbnews/20220720/1760472.md">为安倍哽咽中国媒体人曾颖自杀 作家陈岚证实：抢救中</a></li>
 <li><a href="/bannedvideo/20220720/1760479.md">中国人在逃亡 他曝：中共可能在备战【红朝禁闻】</a></li>
 <li><a href="/bannedvideo/20220720/1760520.md">赵立坚这句话让习近平处境尴尬，想抵赖被欧洲外交官戳穿【每日头条】</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/baitai/20220720/1760469.md">傅国涌：巨变有预兆所有掌权者都没想到要垮了</a></li>
 <li><a href="/topimagenews/20220720/1760545.md">他曾任北京市公安局局长 陷害大批干部 后自杀</a></li>
 <li><a href="/bannedvideo/20220720/1760580.md">🔥江系曝习一个大料大逆转！连曝习绝密反习派接近习被拒；蔡奇亲信遭法办，人民日报发文敲打；中国经济2成停滞41城2.64亿人陷封控；针对中共美军大买375架F35战机；安倍国葬4巨头谁来【阿波罗网JS】</a></li>
-<li><a href="/finance/20220720/1760508.md">马屁经济扩大 中共成立国企“习酒集团”</a></li>
 <li><a href="/ccpdope/20220720/1760657.md">唐山凶徒将女孩们扔进炼钢炉里…</a></li>
+<li><a href="/finance/20220720/1760508.md">马屁经济扩大 中共成立国企“习酒集团”</a></li>
+<li><a href="/cbnews/20220720/1760767.md">大雄：马云约我在一个上海很偏僻的酒店</a></li>
 <li><a href="/cnnews/20220720/1760697.md">“沈阳郭美美”，坑的不只是亲爹</a></li>
 <li><a href="/topimagenews/20220720/1760672.md">遭土耳其总统羞辱 普丁超窘“罚站”</a></li>
 <li><a href="/cbnews/20220720/1760483.md">为安倍哭泣的曾颖自杀 “拳民”迫不及待要开席</a></li>
 <li><a href="/comments/20220720/1760660.md">德媒：习总胜任！仅仅3年，这个国家发生巨变</a></li>
 <li><a href="/ssgc/20220720/1760586.md">〖微博谈〗这党怎么能不把人民吃干榨尽呢？</a></li>
-<li><a href="/bannedvideo/20220719/1760429.md">文睿：出人意料，外交部动手了，习近平挨一闷棍</a></li>
+<li><a href="/cnnews/20220720/1760663.md">苹果放大招 iPhone14又有猛料</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220720/1760866.md" target="_blank">中共靠大外宣洗白新疆政策 报告发现中东与非洲最买单</a></li>
+<li><a href="/comments/20220720/1760850.md" target="_blank">【组图】香港书展开幕 禁书绝迹 倪匡小说受追捧</a></li>
+<li><a href="/comments/20220720/1760849.md" target="_blank">时事大家谈：小诗“知了”竟成风声鹤唳，20大前中共草木皆兵？</a></li>
 <li><a href="/comments/20220720/1760832.md" target="_blank">【俄乌战火第147天】美国指俄正为并吞乌克兰“打基础” 叙利亚正式与乌断交</a></li>
 <li><a href="/comments/20220720/1760831.md" target="_blank">中国版N号房曝光 数万色狼围猎幼女触目惊心</a></li>
 <li><a href="/comments/20220720/1760830.md" target="_blank">断交台湾转投中国能发大财？研究报告揭露真相</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220720/1760630.md" target="_blank">效仿美国 欧盟和加拿大也打算抵制新疆奴工商品</a></li>
 <li><a href="/comments/20220720/1760618.md" target="_blank">与另一个自己交谈？马斯克称「已把大脑传至云端」</a></li>
 <li><a href="/comments/20220720/1760617.md" target="_blank">安倍遇害与中共中联部有关？拜登或出席安倍国葬</a></li>
-<li><a href="/comments/20220720/1760609.md" target="_blank">依赖中国的后果！德国欲重启防疫政策 却面临口罩短缺</a></li>
-<li><a href="/comments/20220720/1760601.md" target="_blank">普习下赌注沿南北轴重构国际格局 分析：美国仍领先</a></li>
-<li><a href="/comments/20220720/1760591.md" target="_blank">项栋梁：如果环境消毒不肯停手，那么新冠防疫就难有尽头</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20180726/727420.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 <li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 
 </ul>
 </div>
