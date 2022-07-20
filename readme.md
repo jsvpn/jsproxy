@@ -5,10 +5,9 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/bannedvideo/20220720/1760520.md">赵立坚这句话让习近平处境尴尬，想抵赖被欧洲外交官戳穿【每日头条】</a></li>
 <li><a href="/cbnews/20220720/1760575.md">天亮时分：反转！习近平“三条红线”被否决；邀欧洲领袖20大后“进京”朝拜，人家会给面子吗？万名富豪要“润”，最大的问题是这个（政论天下第746集 20220718）</a></li>
-<li><a href="/topimagenews/20220720/1760715.md">六十年一轮回！中办发通知 要求各地认真执行【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220720/1760655.md">〖兲朝浮世绘〗赵立坚多煞风景，中央出了什么状况？</a></li>
+<li><a href="/topimagenews/20220720/1760715.md">六十年一轮回！中办发通知 要求各地认真执行【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220720/1760767.md">大雄：马云约我在一个上海很偏僻的酒店</a></li>
 <li><a href="/bannedvideo/20220720/1760798.md">陈破空：丁薛祥暗示：习下李上有可能？李克强大秘将高升！欧洲政要将访中？赵立坚：假消息！佩洛西即将访台，胡锡进：我为卿狂</a></li>
 <li><a href="/topimagenews/20220720/1760545.md">他曾任北京市公安局局长 陷害大批干部 后自杀</a></li>
@@ -16,11 +15,11 @@
 <li><a href="/bannedvideo/20220720/1760580.md">🔥江系曝习一个大料大逆转！连曝习绝密反习派接近习被拒；蔡奇亲信遭法办，人民日报发文敲打；中国经济2成停滞41城2.64亿人陷封控；针对中共美军大买375架F35战机；安倍国葬4巨头谁来【阿波罗网JS】</a></li>
 <li><a href="/topimagenews/20220720/1760878.md">爱马仕不香了！江浙沪的风向变了！有钱人从“包治百病”到“卖包求生”</a></li>
 <li><a href="/topimagenews/20220720/1760822.md">救楼市！习画“三条红线”中国各地弃守；中国金融体系崩坏才要开始；数据太难看</a></li>
-<li><a href="/bannedvideo/20220720/1760814.md">🔥习近平遭反抗，面临最糟糕政治危机；报道被删！半年倒46万企业，深圳精神病院满了；英媒：中国经济六大考验；停贷潮 银行和房管局互相甩锅；斯政府破产，另九个一带一路也要成烂尾国【阿波罗网Y X】</a></li>
 <li><a href="/cnnews/20220720/1760697.md">“沈阳郭美美”，坑的不只是亲爹</a></li>
+<li><a href="/bannedvideo/20220720/1760814.md">🔥习近平遭反抗，面临最糟糕政治危机；报道被删！半年倒46万企业，深圳精神病院满了；英媒：中国经济六大考验；停贷潮 银行和房管局互相甩锅；斯政府破产，另九个一带一路也要成烂尾国【阿波罗网Y X】</a></li>
 <li><a href="/comments/20220720/1760660.md">德媒：习总胜任！仅仅3年，这个国家发生巨变</a></li>
-<li><a href="/topimagenews/20220720/1760766.md">普丁步履蹒跚显病容?媒体分析是这原因</a></li>
 <li><a href="/ssgc/20220720/1760586.md">〖微博谈〗这党怎么能不把人民吃干榨尽呢？</a></li>
+<li><a href="/topimagenews/20220720/1760766.md">普丁步履蹒跚显病容?媒体分析是这原因</a></li>
 <li><a href="/topimagenews/20220720/1760672.md">遭土耳其总统羞辱 普丁超窘“罚站”</a></li>
 <li><a href="/cbnews/20220720/1760712.md">停贷风波蔓延 南华早报杠上外交部</a></li>
 <li><a href="/cnnews/20220720/1760663.md">苹果放大招 iPhone14又有猛料</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20220720/1760678.md">麦当劳前员工揭秘：千万别点薯条和奶昔</a></li>
 <li><a href="/topimagenews/20220720/1760716.md">中共官媒曝惊人数据！打零工将达4亿人！【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20220720/1760719.md">老祖宗告诫：人过50岁 3个场合要少去</a></li>
+<li><a href="/cnnews/20220720/1760579.md">俄军队里一个不是秘密的秘密</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220721/1761031.md" target="_blank">朋友间会传染的，除了快乐和变胖还有它</a></li>
 <li><a href="/comments/20220721/1761005.md" target="_blank">埃尔多安晾完普京呛芬瑞 三国发表联合声明</a></li>
 <li><a href="/comments/20220721/1760991.md" target="_blank">专栏 | 纵横大历史：《回顾文革》第十四讲 文革到底是什么？（十四） 毛泽东的文革：理想主义？争权夺利？（中）</a></li>
 <li><a href="/comments/20220721/1760990.md" target="_blank">专栏 | 劳工通讯：广东省惠州市惠东县华业铸造厂“2·18”爆炸事故（八）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220720/1760850.md" target="_blank">【组图】香港书展开幕 禁书绝迹 倪匡小说受追捧</a></li>
 <li><a href="/comments/20220720/1760849.md" target="_blank">时事大家谈：小诗“知了”竟成风声鹤唳，20大前中共草木皆兵？</a></li>
 <li><a href="/comments/20220720/1760832.md" target="_blank">【俄乌战火第147天】美国指俄正为并吞乌克兰“打基础” 叙利亚正式与乌断交</a></li>
-<li><a href="/comments/20220720/1760831.md" target="_blank">中国版N号房曝光 数万色狼围猎幼女触目惊心</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 
 </ul>
 </div>
