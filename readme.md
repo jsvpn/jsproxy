@@ -22,12 +22,12 @@
 <li><a href="/comments/20220720/1760874.md">深圳封控 万人逃离被逼回 严厉措施酿血案</a></li>
 <li><a href="/cnnews/20220721/1761002.md">悲惨：贵州女网红生四胎患癌身上长虫…老公拒绝治疗</a></li>
 <li><a href="/worldnews/20220721/1761011.md">官宣了，朝鲜这回又是“世界第一”</a></li>
-<li><a href="/ssgc/20220721/1761066.md">〖微博谈〗穿越苦难 守住心中的善</a></li>
 <li><a href="/cnnews/20220721/1761110.md">唐山精神病院长：再发4女孩的事，都能抓来关了</a></li>
+<li><a href="/ssgc/20220721/1761066.md">〖微博谈〗穿越苦难 守住心中的善</a></li>
 <li><a href="/cnnews/20220721/1760942.md">两蒋去世后留下多少财产？</a></li>
 <li><a href="/yule/20220721/1760916.md">67岁周润发近照疯传 头发全白“内有超大块胸肌”</a></li>
 <li><a href="/bannedvideo/20220721/1760953.md">死马当活马医？李克强公开给习近平“上眼药”；佩洛西将访台，北京为何色厉内荏？停贷风两个新迹象，官方抱薪救火？</a></li>
-<li><a href="/lifebaike/20220721/1761022.md">你给孩子穿的衣服，决定了孩子的未来，可惜很多父母都没这意识</a></li>
+<li><a href="/yule/20220721/1761074.md">61岁费翔隐退5年罕曝近况，定居英国屋内无空调，发文回应IP争议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220721/1761287.md" target="_blank">小红书审查文件外泄 “辱包”敏感词列表堪称习近平外号库</a></li>
+<li><a href="/comments/20220721/1761259.md" target="_blank">孔庆东这样的毛左，比民运中的邓共买办洋奴伪类强太多 — 曾节明</a></li>
+<li><a href="/comments/20220721/1761280.md" target="_blank">2022年世界最佳50餐厅揭晓</a></li>
 <li><a href="/comments/20220721/1761277.md" target="_blank">汪湖：河水</a></li>
 <li><a href="/comments/20220721/1761276.md" target="_blank">袁红冰：《燃烧的安魂曲》第二章    邂逅永恒之外的芳香</a></li>
 <li><a href="/comments/20220721/1761265.md" target="_blank">【俄乌战火第148天】美承诺提供乌20套“海马斯”火箭 CIA曝光俄军伤亡数</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220721/1761141.md" target="_blank">子野: 是体制优势，还是制度弊端？</a></li>
 <li><a href="/comments/20220721/1761140.md" target="_blank">吕千荣：如果有一天我被迫害死了祖国您不要流泪</a></li>
 <li><a href="/comments/20220721/1761139.md" target="_blank">李濠仲：为何战争让美国受罪，俄罗斯却没事？</a></li>
-<li><a href="/comments/20220721/1761128.md" target="_blank">传佩洛西8月访台 美媒：她或意识到台湾需更好防卫</a></li>
-<li><a href="/comments/20220721/1761113.md" target="_blank">章家敦：为实现霸权野心 中共会独占月球吗？</a></li>
-<li><a href="/comments/20220721/1761106.md" target="_blank">网络民议: “只准xx开会，不许百姓过生日”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 <li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 
 </ul>
 </div>
