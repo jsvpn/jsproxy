@@ -9,25 +9,25 @@
 <li><a href="/comments/20220723/1761861.md">中南海内斗升级？《南早》再次挑战习近平 曝中共军队死穴</a></li>
 <li><a href="/comments/20220723/1761908.md">港媒：二十大人事方案9月敲定 习亲信王小洪仕途受关注</a></li>
 <li><a href="/topimagenews/20220723/1762049.md">打起来了！江系当众打脸习近平【阿波罗网报道】</a></li>
-<li><a href="/finance/20220723/1761897.md">今年这个专业正式跌落神坛？</a></li>
 <li><a href="/bannedvideo/20220723/1761988.md">胡海峰表忠言论雷倒穿越者！接班有戏？习近平二十大不交棒原因成疑，党国教育部教材泄露秘密</a></li>
+<li><a href="/finance/20220723/1761897.md">今年这个专业正式跌落神坛？</a></li>
 <li><a href="/bannedvideo/20220723/1761846.md">习主席亲自留下烂尾楼：雄安新区，一带一路！华裔选美皇后发声，父亲被国安请喝茶。在日本，你丢不了东西</a></li>
 <li><a href="/ssgc/20220723/1762028.md">〖兲朝浮世绘〗在习总这个伟大舵手的领导下，中共国居然没有拿第一？</a></li>
+<li><a href="/bannedvideo/20220723/1762140.md">🔥给党国丢人！中共最美警花不雅片疯传，对话看傻全网；泽伦斯基病危？乌最大电台惊爆；俄空军摆烂！乌坦克白天过大桥；惊天丑闻！阿兹海默症关键论文造假? 女星海清被网暴；吴啊萍是谁？【阿波罗网FT】</a></li>
 <li><a href="/comments/20220723/1761881.md">中南海火烧眉毛：断供潮未解 最大退休潮又至 养老金缺口10万亿</a></li>
 <li><a href="/cnnews/20220723/1761921.md">突发！恒大公告解释134亿存款之谜，总裁辞职</a></li>
-<li><a href="/cnnews/20220723/1761972.md">涉习近平敏感词多达564个 小红书审查文件曝光</a></li>
-<li><a href="/bannedvideo/20220723/1762140.md">🔥给党国丢人！中共最美警花不雅片疯传，对话看傻全网；泽伦斯基病危？乌最大电台惊爆；俄空军摆烂！乌坦克白天过大桥；惊天丑闻！阿兹海默症关键论文造假? 女星海清被网暴；吴啊萍是谁？【阿波罗网FT】</a></li>
-<li><a href="/worldnews/20220722/1761809.md">越南$350亿买200架波音 中国网友提俩问题</a></li>
 <li><a href="/headline/20220723/1762150.md">中国最美警花性爱片外泄 疑当小三引发热搜</a></li>
+<li><a href="/cnnews/20220723/1761972.md">涉习近平敏感词多达564个 小红书审查文件曝光</a></li>
 <li><a href="/funmedia/20220723/1762084.md">酒店不一定干净 房务员警告:住宿2物品绝对别碰</a></li>
+<li><a href="/comments/20220723/1762123.md">50岁之后，别再粗茶淡饭！最新研究结果，一定要看看</a></li>
 <li><a href="/topimagenews/20220723/1762031.md">泽伦斯基病危？乌克兰最大广播电台惊爆</a></li>
 <li><a href="/funmedia/20220723/1762064.md">高情商的人从来不说的三句话，糊涂人却见人就说</a></li>
 <li><a href="/topimagenews/20220723/1761942.md">俄空军摆烂：乌军列车装满坦克，大白天通过大桥</a></li>
-<li><a href="/comments/20220723/1762123.md">50岁之后，别再粗茶淡饭！最新研究结果，一定要看看</a></li>
 <li><a href="/ssgc/20220723/1761890.md">南京玄奘寺供奉日本战犯始末与"爱国网民"的两面</a></li>
 <li><a href="/bannedvideo/20220723/1761902.md">银行问题越来越多，中共金融流动性快撑不住了，中国人抱怨躺枪【希望之声TV-财经慧眼】</a></li>
 <li><a href="/weiquan/20220723/1762081.md">维权评论&#65306;上海记者赋诗惹祸&#65292;以言治罪再次升级&#65281;</a></li>
 <li><a href="/yule/20220723/1761923.md">又一个老婆英年早婚，网友直接哭崩了…</a></li>
+<li><a href="/comments/20220723/1762125.md">家里的路由器应该多久关一次？可能你一直做错了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220723/1762218.md" target="_blank">【独家重磅】李燕铭：李克强高中同学前工信部长苗圩大管家被查 又一团派高官落马 苗圩效仿李克强讲真话泄露中南海两大危机 习近平李克强明争暗斗内幕（三三）</a></li>
 <li><a href="/comments/20220723/1762205.md" target="_blank">时事大家谈：美国总统拜登新冠检测阳性 如何对付“最糟”毒株奥密克戎BA.5？</a></li>
 <li><a href="/comments/20220723/1762196.md" target="_blank">人的寿命真的是被定好的吗？</a></li>
 <li><a href="/comments/20220723/1762187.md" target="_blank">中共女警涉桃色事件 不雅影片网路热传 舆论哗然</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220723/1762021.md" target="_blank">中共的和尚方丈的官员朋友圈</a></li>
 <li><a href="/comments/20220723/1762020.md" target="_blank">盛洪:为什么不受约束的权力会瓦解中国&#8221;奇迹&#8221;？</a></li>
 <li><a href="/comments/20220723/1762011.md" target="_blank">生死一瞬间 火烧车前他救了林志颖</a></li>
-<li><a href="/comments/20220723/1761995.md" target="_blank">刘纯婷：父母的“挫折教育”，培养了多少失败的孩子</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 
 </ul>
 </div>
