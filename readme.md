@@ -22,12 +22,12 @@
 <li><a href="/topimagenews/20220724/1762386.md">女儿死了，科兴赔了25万</a></li>
 <li><a href="/bannedvideo/20220724/1762425.md">唐山老汉城烧烤店居然有焚烧炉，你相信这座焚烧炉是用于焚烧牛羊的吗？唐山老汉烧烤城就是为官员物色年轻漂亮的女孩子供他们玩乐，不从者，杀人焚尸灭迹。</a></li>
 <li><a href="/cnnews/20220724/1762258.md">河南有这种新娘？喜庆之日，她狂玩手游 两家看呆</a></li>
-<li><a href="/topimagenews/20220724/1762319.md">玄奘寺事件：20大前转移视线 用仇恨凝聚民心</a></li>
 <li><a href="/bannedvideo/20220724/1762483.md">陈破空：动静！王沪宁疑似亮牌：挺习连任！赵乐际当日反击：党章高于一切！打下一名习派官员。陈破空直播 与网友互动 美东7月24早8点30、即中港台7月24晚8点30</a></li>
+<li><a href="/topimagenews/20220724/1762319.md">玄奘寺事件：20大前转移视线 用仇恨凝聚民心</a></li>
 <li><a href="/topimagenews/20220724/1762385.md">【微博精粹】传说中的陆地巡阳舰</a></li>
 <li><a href="/bannedvideo/20220724/1762427.md">北京检查站专查当过兵的。过去的炮灰，现在成危险分子了。这是怕武装起义吗？</a></li>
-<li><a href="/cbnews/20220724/1762285.md">北京对联合国的命令式语气</a></li>
 <li><a href="/cbnews/20220724/1762474.md">中国风景区又夺命：男子安全绳“缠颈”直落惨死</a></li>
+<li><a href="/cbnews/20220724/1762285.md">北京对联合国的命令式语气</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220725/1762541.md" target="_blank">朱熹问买东西为何不叫买南北 10岁小孩一语道破</a></li>
 <li><a href="/comments/20220725/1762535.md" target="_blank">中共呛声祭军事回应 华邮：美军拟派航母、战机护航裴洛西访台</a></li>
 <li><a href="/comments/20220724/1762527.md" target="_blank">李燕铭：杭州书记周江勇被秒杀内幕（十一） 周江勇攀附天津市長黄兴国內幕曝光 黄兴国背靠上海帮发家 仕途关键升迁源于江泽民曾庆红安排 黄兴国马仔偷拍陈良宇秘书淫乱视频 天津大爆炸黄兴国琢磨“怎么样把坏事变成好事”</a></li>
 <li><a href="/comments/20220724/1762519.md" target="_blank">疫情冲击财政 中国辽宁医护断薪数月</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220724/1762328.md" target="_blank">苏暁康：多数人暴政——“文革”的一个侧面</a></li>
 <li><a href="/comments/20220724/1762327.md" target="_blank">莫叔:多少人不知道，这种情况可以不用“全员核酸”了</a></li>
 <li><a href="/comments/20220724/1762312.md" target="_blank">拜登的跨性别内阁，实在是辣眼睛</a></li>
-<li><a href="/comments/20220724/1762311.md" target="_blank">徐晴: 那些后悔学医的年轻人</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
 <li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
 
 </ul>
 </div>
