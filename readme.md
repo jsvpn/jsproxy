@@ -11,8 +11,8 @@
 <li><a href="/cbnews/20220724/1762474.md">中国风景区又夺命：男子安全绳“缠颈”直落惨死</a></li>
 <li><a href="/comments/20220724/1762499.md">李燕铭：杭州书记周江勇被秒杀内幕（九） 周江勇罕见罪名曝光 官媒暗示周江勇支持马云资本无序扩张 应马云请托选拔官员 官方学者暗示周江勇是马云政治代理人 中纪委介入调查蚂蚁集团</a></li>
 <li><a href="/bannedvideo/20220725/1762593.md">习近平下台之后，三种力量确保中共垮台。权贵高层面临困境，保党就不能保命（一平论政2022/7/24)</a></li>
-<li><a href="/yule/20220725/1762661.md">惊曝张艺谋性丑闻：借电影海选物色女孩陪睡</a></li>
 <li><a href="/topimagenews/20220725/1762721.md">饶毅方面引爆信息链：李兰娟院士举家陷权色丑闻</a></li>
+<li><a href="/yule/20220725/1762661.md">惊曝张艺谋性丑闻：借电影海选物色女孩陪睡</a></li>
 <li><a href="/bannedvideo/20220725/1762542.md">“痛失人生！新东方教父俞敏洪惨遭习教主清零：顿悟禅学？”Shitao TV - 01 (24/07/22) 步马云 李连杰后尘 结缘漫画教父蔡志忠</a></li>
 <li><a href="/topimagenews/20220725/1762583.md">爆炸：川普白宫女博士承认与福奇撒谎欺骗川普 篡改报告</a></li>
 <li><a href="/ssgc/20220725/1762684.md">〖兲朝浮世绘〗谁相信习近平已接种国产疫苗呢？</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/baitai/20220724/1762469.md">陋习知了翡翠及其他</a></li>
 <li><a href="/bannedvideo/20220724/1762511.md">🔥习近平直接亮刀子？中共敢动佩罗西军机？史上最猖狂正能量骗子跑路了；俄媒：中共支援俄军红箭导弹 对付北约援乌坦克；从捷克到立陶宛 北京一路抗议无人理睬；美警告习与美为敌没好下场  LV</a></li>
 <li><a href="/cnnews/20220725/1762598.md">莫斯科男孩在象棋比赛中“犯规”：竟被机器人折断手指</a></li>
-<li><a href="/bannedvideo/20220725/1762557.md">中国的医院开始安检了！</a></li>
+<li><a href="/cnnews/20220725/1762691.md">豆腐渣工程终于砸到了人民英烈的头上</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220725/1762805.md" target="_blank">日本是科技强国，三大技术独步全球，你知道几个？</a></li>
+<li><a href="/comments/20220725/1762804.md" target="_blank">医生曝4类护牙食材</a></li>
+<li><a href="/comments/20220725/1762803.md" target="_blank">大暑后热到炸！ 营养师授2招防暑又怯湿</a></li>
 <li><a href="/comments/20220725/1762775.md" target="_blank">李燕铭：韩国尹锡悦政府酝酿“大胆计划” 两手应对朝核威胁 尹锡悦要求韩军打造严密反导网 美韩拟重启乙支自由卫士联合军演 韩联参：保持坚定防卫态势应对朝鲜核试 全球军事围堵中共之朝鲜半岛战争阴云（十七）</a></li>
 <li><a href="/comments/20220725/1762765.md" target="_blank">中国进入大暑 十多个省份继续高温预警</a></li>
 <li><a href="/comments/20220725/1762764.md" target="_blank">林志颖醒了 太太陈若仪发文报平安</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220725/1762639.md" target="_blank">《三国演义》第110回 文鸯单骑退雄兵 姜维背水破大敌</a></li>
 <li><a href="/comments/20220725/1762638.md" target="_blank">《三国演义》第109回 困司马汉将奇谋 废曹芳魏家果报</a></li>
 <li><a href="/comments/20220725/1762637.md" target="_blank">《三国演义》第108回 丁奉雪中奋短兵 孙峻席间施密计</a></li>
-<li><a href="/comments/20220725/1762636.md" target="_blank">《三国演义》第107回 魏主政归司马氏 姜维兵败牛头山</a></li>
-<li><a href="/comments/20220725/1762603.md" target="_blank">被绑架法轮功学员吕巍的姐姐写给警察的一封信</a></li>
-<li><a href="/comments/20220725/1762602.md" target="_blank">北京外防输入 黄安手机弹窗全国流浪 央视冲击动态清零红线</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 <li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 
 </ul>
 </div>
