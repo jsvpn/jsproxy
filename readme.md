@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/bannedvideo/20220725/1762593.md">习近平下台之后，三种力量确保中共垮台。权贵高层面临困境，保党就不能保命（一平论政2022/7/24)</a></li>
 <li><a href="/topimagenews/20220725/1762721.md">饶毅方面引爆信息链：李兰娟院士举家陷权色丑闻</a></li>
 <li><a href="/yule/20220725/1762661.md">惊曝张艺谋性丑闻：借电影海选物色女孩陪睡</a></li>
 <li><a href="/cnnews/20220725/1762616.md">北京外送员接到客户奇葩订单，崩溃：我不敢接…</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/cnnews/20220725/1762691.md">豆腐渣工程终于砸到了人民英烈的头上</a></li>
 <li><a href="/topimagenews/20220725/1762643.md">广州再次丢脸：7天未做核酸 派出所强行注销门禁</a></li>
 <li><a href="/topimagenews/20220725/1762873.md">泡沫破了！河南公务员停薪3月；境外机构减持中国国债创记录；投行发中企最糟业绩报告</a></li>
-<li><a href="/comments/20220725/1762687.md">【微博精粹】优秀党员姚明润了 川军要摆脱共匪自治</a></li>
 <li><a href="/cnnews/20220725/1762679.md">花了4个月，许家印找到了“替罪羊”</a></li>
-<li><a href="/health/20220725/1762785.md">55岁大叔血糖从19.5降到4.8，医生：他的2个降糖习惯，值得学习</a></li>
+<li><a href="/comments/20220725/1762687.md">【微博精粹】优秀党员姚明润了 川军要摆脱共匪自治</a></li>
 <li><a href="/ssgc/20220725/1762871.md">中国经济的庞氏骗局破灭了</a></li>
-<li><a href="/topimagenews/20220725/1762762.md">荒诞！中共法院：这就是枪！26万网友大怒！“都去玩洋娃娃、跳皮筋儿吧”【阿波罗网报道】</a></li>
+<li><a href="/health/20220725/1762785.md">55岁大叔血糖从19.5降到4.8，医生：他的2个降糖习惯，值得学习</a></li>
 <li><a href="/cnnews/20220725/1762919.md">清华大学彭林院长，您太牛B了</a></li>
+<li><a href="/topimagenews/20220725/1762762.md">荒诞！中共法院：这就是枪！26万网友大怒！“都去玩洋娃娃、跳皮筋儿吧”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220725/1762685.md">恒大造车，真的太可笑了</a></li>
 <li><a href="/cnnews/20220725/1762598.md">莫斯科男孩在象棋比赛中“犯规”：竟被机器人折断手指</a></li>
+<li><a href="/headline/20220725/1762829.md">【唐山烧烤店打人案】公安部称彻底查清全案 网民：查个打架斗殴这么费劲</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220726/1763036.md" target="_blank">没钱了…时隔16年，他们又想起了农业税？</a></li>
 <li><a href="/topimagenews/20220726/1762974.md" target="_blank">英特尔抛震撼弹 芯片巨头中美选边战一触即发？</a></li>
 <li><a href="/topimagenews/20220726/1762973.md" target="_blank">解放军特战兵抢滩登陆 “20处”错误超离谱</a></li>
 <li><a href="/topimagenews/20220725/1762925.md" target="_blank">中国7月新屋成交量砍半大跳水 全年财政缺口6兆元</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220724/1762385.md" target="_blank">【微博精粹】传说中的陆地巡阳舰</a></li>
 <li><a href="/topimagenews/20220724/1762372.md" target="_blank">中共再提这四个字 细思极恐！【阿波罗网报道】</a></li>
 <li><a href="/comments/20220724/1762340.md" target="_blank">神韵纽约艺术团乐团音乐会在线直播中，免费观看</a></li>
-<li><a href="/topimagenews/20220724/1762319.md" target="_blank">玄奘寺事件：20大前转移视线 用仇恨凝聚民心</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220726/1763045.md" target="_blank">汉森教授：拜登给了左翼一切 但左翼却要换掉他</a></li>
 <li><a href="/comments/20220726/1763025.md" target="_blank">河南狂风暴雨树倒屋毁 “魔鬼云”几度变色</a></li>
 <li><a href="/comments/20220726/1763024.md" target="_blank">甘肃省委秘书长、大连副市长接连突然身亡 均履新不久</a></li>
 <li><a href="/comments/20220726/1763023.md" target="_blank">北京接种国产疫苗补助加倍 引发质疑</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220725/1762898.md" target="_blank">中国出生人口创新低 官媒自曝「断崖式下降」</a></li>
 <li><a href="/comments/20220725/1762897.md" target="_blank">时事大家谈：40年改革开放终成泡影，是谁断送了“中国奇迹”？</a></li>
 <li><a href="/comments/20220725/1762870.md" target="_blank">【陈东音乐】王者的旅程、重游荷塘</a></li>
-<li><a href="/comments/20220725/1762869.md" target="_blank">大暑养生秘籍 六款养生食谱</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 
 </ul>
 </div>
