@@ -13,21 +13,21 @@
 <li><a href="/topimagenews/20220725/1762583.md">爆炸：川普白宫女博士承认与福奇撒谎欺骗川普 篡改报告</a></li>
 <li><a href="/ssgc/20220725/1762684.md">〖兲朝浮世绘〗谁相信习近平已接种国产疫苗呢？</a></li>
 <li><a href="/topimagenews/20220725/1762763.md">反习派占据制高点 猛烈打脸习近平！【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220725/1762854.md">陈破空：突发！习家军出事，又有两高官挂了！神秘力量在后。香港亲共媒体发声，直指顶层！陈破空直播 与网友互动 美东7月25早8点30、即中港台7月25晚8点30</a></li>
 <li><a href="/cbnews/20220725/1762548.md">丰田休旅车、特斯拉杭州路口对撞！下秒“它”烧起来 网友怕爆</a></li>
 <li><a href="/cnnews/20220725/1762777.md">唐山烧烤店打人后一个半月 中共公安部终于说话了</a></li>
-<li><a href="/bannedvideo/20220725/1762854.md">陈破空：突发！习家军出事，又有两高官挂了！神秘力量在后。香港亲共媒体发声，直指顶层！陈破空直播 与网友互动 美东7月25早8点30、即中港台7月25晚8点30</a></li>
 <li><a href="/bannedvideo/20220725/1762846.md">最高权力中心传不祥之兆 习又有麻烦？【两岸要闻】</a></li>
 <li><a href="/lifebaike/20220725/1762623.md">小学生满分作文《热死了》走红，老师看后捧腹大笑：我拜你为师吧</a></li>
 <li><a href="/cnnews/20220725/1762627.md">1小时，曼哈顿惊爆连环强奸案 亚裔女当街被性侵</a></li>
+<li><a href="/comments/20220725/1762828.md">评论 | 魏京生：聊聊二十大</a></li>
 <li><a href="/cnnews/20220725/1762691.md">豆腐渣工程终于砸到了人民英烈的头上</a></li>
 <li><a href="/cnnews/20220725/1762570.md">“正面看17，背面看47”，27岁“娃娃脸”长这样</a></li>
 <li><a href="/topimagenews/20220725/1762643.md">广州再次丢脸：7天未做核酸 派出所强行注销门禁</a></li>
 <li><a href="/cnnews/20220725/1762679.md">花了4个月，许家印找到了“替罪羊”</a></li>
-<li><a href="/comments/20220725/1762828.md">评论 | 魏京生：聊聊二十大</a></li>
-<li><a href="/health/20220725/1762785.md">55岁大叔血糖从19.5降到4.8，医生：他的2个降糖习惯，值得学习</a></li>
 <li><a href="/comments/20220725/1762687.md">【微博精粹】优秀党员姚明润了 川军要摆脱共匪自治</a></li>
-<li><a href="/topimagenews/20220725/1762762.md">荒诞！中共法院：这就是枪！26万网友大怒！“都去玩洋娃娃、跳皮筋儿吧”【阿波罗网报道】</a></li>
+<li><a href="/health/20220725/1762785.md">55岁大叔血糖从19.5降到4.8，医生：他的2个降糖习惯，值得学习</a></li>
 <li><a href="/bannedvideo/20220725/1762557.md">中国的医院开始安检了！</a></li>
+<li><a href="/topimagenews/20220725/1762762.md">荒诞！中共法院：这就是枪！26万网友大怒！“都去玩洋娃娃、跳皮筋儿吧”【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 <li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
 
 </ul>
 </div>
