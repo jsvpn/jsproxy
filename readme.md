@@ -19,15 +19,15 @@
 <li><a href="/cbnews/20220725/1762548.md">丰田休旅车、特斯拉杭州路口对撞！下秒“它”烧起来 网友怕爆</a></li>
 <li><a href="/lifebaike/20220725/1762623.md">小学生满分作文《热死了》走红，老师看后捧腹大笑：我拜你为师吧</a></li>
 <li><a href="/cnnews/20220725/1762627.md">1小时，曼哈顿惊爆连环强奸案 亚裔女当街被性侵</a></li>
+<li><a href="/bannedvideo/20220725/1762854.md">陈破空：突发！习家军出事，又有两高官挂了！神秘力量在后。香港亲共媒体发声，直指顶层！陈破空直播 与网友互动 美东7月25早8点30、即中港台7月25晚8点30</a></li>
 <li><a href="/cnnews/20220725/1762691.md">豆腐渣工程终于砸到了人民英烈的头上</a></li>
 <li><a href="/cnnews/20220725/1762570.md">“正面看17，背面看47”，27岁“娃娃脸”长这样</a></li>
 <li><a href="/topimagenews/20220725/1762643.md">广州再次丢脸：7天未做核酸 派出所强行注销门禁</a></li>
 <li><a href="/cnnews/20220725/1762679.md">花了4个月，许家印找到了“替罪羊”</a></li>
+<li><a href="/bannedvideo/20220725/1762846.md">最高权力中心传不祥之兆 习又有麻烦？【两岸要闻】</a></li>
 <li><a href="/comments/20220725/1762687.md">【微博精粹】优秀党员姚明润了 川军要摆脱共匪自治</a></li>
-<li><a href="/bannedvideo/20220725/1762854.md">陈破空：突发！习家军出事，又有两高官挂了！神秘力量在后。香港亲共媒体发声，直指顶层！陈破空直播 与网友互动 美东7月25早8点30、即中港台7月25晚8点30</a></li>
+<li><a href="/comments/20220725/1762828.md">评论 | 魏京生：聊聊二十大</a></li>
 <li><a href="/health/20220725/1762785.md">55岁大叔血糖从19.5降到4.8，医生：他的2个降糖习惯，值得学习</a></li>
-<li><a href="/bannedvideo/20220725/1762557.md">中国的医院开始安检了！</a></li>
-<li><a href="/topimagenews/20220725/1762685.md">恒大造车，真的太可笑了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220725/1762934.md" target="_blank">林志颖0.1秒的选择 让伤全落在自己身上</a></li>
 <li><a href="/comments/20220725/1762924.md" target="_blank">中国「问天」实验舱发射升空 火箭残骸问题再引关注</a></li>
 <li><a href="/comments/20220725/1762923.md" target="_blank">羊村绘本案 学者斥港府藉国安法无限上纲</a></li>
 <li><a href="/comments/20220725/1762922.md" target="_blank">教主的顿悟 还是重锤之下的无奈和失落</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220725/1762803.md" target="_blank">大暑后热到炸！ 营养师授2招防暑又怯湿</a></li>
 <li><a href="/comments/20220725/1762775.md" target="_blank">李燕铭：韩国尹锡悦政府酝酿“大胆计划” 两手应对朝核威胁 尹锡悦要求韩军打造严密反导网 美韩拟重启乙支自由卫士联合军演 韩联参：保持坚定防卫态势应对朝鲜核试 全球军事围堵中共之朝鲜半岛战争阴云（十七）</a></li>
 <li><a href="/comments/20220725/1762765.md" target="_blank">中国进入大暑 十多个省份继续高温预警</a></li>
-<li><a href="/comments/20220725/1762764.md" target="_blank">林志颖醒了 太太陈若仪发文报平安</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
 
 </ul>
 </div>
