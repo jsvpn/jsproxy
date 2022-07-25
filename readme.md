@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220724/1762468.md">重庆江北区，大批民众上街抗议。示威者打出横幅：坚决抵制以孙重军为首的，不作为官员在港湾胡作非为。孙重军为重庆江北区大石坝街道党委书记。</a></li>
-<li><a href="/cbnews/20220724/1762322.md">台海紧张到何种程度？东海舰队官微照片藏细节</a></li>
 <li><a href="/topimagenews/20220724/1762372.md">中共再提这四个字 细思极恐！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220724/1762424.md">中共卫健委惹祸了！习近平接种这个引争议；习不敢出席安倍国丧？中共内斗新焦点【希望之声-国际风云】</a></li>
 <li><a href="/cbnews/20220724/1762401.md">中共前副总理耿飙妻子辞世 习近平曾是耿飙秘书</a></li>
-<li><a href="/cnnews/20220724/1762438.md">震惊！中共党魁竟亲口称要消灭这个！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220724/1762336.md">史上最猖狂的“正能量”骗子，跑路了</a></li>
+<li><a href="/cnnews/20220724/1762438.md">震惊！中共党魁竟亲口称要消灭这个！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220724/1762483.md">陈破空：动静！王沪宁疑似亮牌：挺习连任！赵乐际当日反击：党章高于一切！打下一名习派官员。陈破空直播 与网友互动 美东7月24早8点30、即中港台7月24晚8点30</a></li>
 <li><a href="/cbnews/20220724/1762474.md">中国风景区又夺命：男子安全绳“缠颈”直落惨死</a></li>
 <li><a href="/topimagenews/20220724/1762386.md">女儿死了，科兴赔了25万</a></li>
 <li><a href="/bannedvideo/20220724/1762425.md">唐山老汉城烧烤店居然有焚烧炉，你相信这座焚烧炉是用于焚烧牛羊的吗？唐山老汉烧烤城就是为官员物色年轻漂亮的女孩子供他们玩乐，不从者，杀人焚尸灭迹。</a></li>
 <li><a href="/comments/20220724/1762499.md">李燕铭：杭州书记周江勇被秒杀内幕（九） 周江勇罕见罪名曝光 官媒暗示周江勇支持马云资本无序扩张 应马云请托选拔官员 官方学者暗示周江勇是马云政治代理人 中纪委介入调查蚂蚁集团</a></li>
-<li><a href="/topimagenews/20220724/1762319.md">玄奘寺事件：20大前转移视线 用仇恨凝聚民心</a></li>
 <li><a href="/topimagenews/20220725/1762546.md">中国医生曝光2岁女童肛门病状照片后…全网激愤</a></li>
 <li><a href="/topimagenews/20220724/1762385.md">【微博精粹】传说中的陆地巡阳舰</a></li>
 <li><a href="/bannedvideo/20220724/1762427.md">北京检查站专查当过兵的。过去的炮灰，现在成危险分子了。这是怕武装起义吗？</a></li>
 <li><a href="/health/20220724/1762443.md">早餐不能喝“白米粥”？营养师提醒：不止白米粥，这3样东西少吃</a></li>
 <li><a href="/bannedvideo/20220724/1762349.md">“最美警花”当小三，不雅视频对话疯传；中南海接种国产疫苗？官媒脸肿了；疫苗不会引发重症？评论区翻车；血癌患者有多少？ 知名专家解读；德总理“垃圾”泄密，备注第一夫人们【新闻看点 李沐阳7.23】</a></li>
+<li><a href="/bannedvideo/20220725/1762542.md">“痛失人生！新东方教父俞敏洪惨遭习教主清零：顿悟禅学？”Shitao TV - 01 (24/07/22) 步马云 李连杰后尘 结缘漫画教父蔡志忠</a></li>
 <li><a href="/comments/20220724/1762416.md">国企中车大幅降薪 折射中国高铁困境</a></li>
 <li><a href="/cnnews/20220724/1762375.md">林志颖妈妈发声：一定要当面感谢救命恩人，林家人不会亏待他们</a></li>
 <li><a href="/ssgc/20220724/1762363.md">〖微博谈〗黄鼠狼给鸡拜年</a></li>
-<li><a href="/bannedvideo/20220725/1762542.md">“痛失人生！新东方教父俞敏洪惨遭习教主清零：顿悟禅学？”Shitao TV - 01 (24/07/22) 步马云 李连杰后尘 结缘漫画教父蔡志忠</a></li>
 <li><a href="/cbnews/20220724/1762526.md">上海公安数据库泄密 一条标语重判五年</a></li>
+<li><a href="/yule/20220724/1762389.md">哥哥林志杰讲解林志颖车祸原因：全家只有一个疑问，等待正确答案</a></li>
+<li><a href="/baitai/20220724/1762469.md">陋习知了翡翠及其他</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220725/1762603.md" target="_blank">被绑架法轮功学员吕巍的姐姐写给警察的一封信</a></li>
+<li><a href="/comments/20220725/1762602.md" target="_blank">北京外防输入 黄安手机弹窗全国流浪 央视冲击动态清零红线</a></li>
 <li><a href="/comments/20220725/1762596.md" target="_blank">李燕铭：河南村镇银行暴雷内幕（一） 银保监会三高官落马 曾负责农村中小金融机构工作 任期与河南村镇银行乱象高度重合 河南农信系统近百人被带走配合调查 多人牵涉新财富集团 河南四家取款异常村镇银行高管大换血 河南农信社系统调整将近400人 习江钱袋子争夺战（十六） 习近平暗战李克强清洗河南帮（十五）</a></li>
 <li><a href="/comments/20220725/1762589.md" target="_blank">“北溪1号”天然气管线恢复供气 德国推出能源安全新方案</a></li>
 <li><a href="/comments/20220725/1762572.md" target="_blank">《黑海倡议》墨迹未干 乌港口城市遭俄导弹袭击 联合国欧盟谴责</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220724/1762394.md" target="_blank">【杰森视角】普京设圈套，计划今年冬天让欧盟各国内讧？2011年，欧洲央行用喊口号挽救了欧元危机，这次还会起作用吗？美中欧三足鼎立，但欧盟和欧元有先天基因缺陷！ 美国下轮通胀由欧洲触发？</a></li>
 <li><a href="/comments/20220724/1762374.md" target="_blank">章天亮：中国历史是农民起义吗？</a></li>
 <li><a href="/comments/20220724/1762358.md" target="_blank">漫天霾：恶法横行，只因巨婴遍地</a></li>
-<li><a href="/comments/20220724/1762357.md" target="_blank">童大焕：粮食援助带来更加饥饿的非洲</a></li>
-<li><a href="/comments/20220724/1762340.md" target="_blank">神韵纽约艺术团乐团音乐会在线直播中，免费观看</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
 <li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
 
 </ul>
 </div>
