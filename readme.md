@@ -18,13 +18,13 @@
 <li><a href="/cnnews/20220726/1763030.md">又一位坑爹的来了…江西“周劼”出名了</a></li>
 <li><a href="/topimagenews/20220726/1762974.md">英特尔抛震撼弹 芯片巨头中美选边战一触即发？</a></li>
 <li><a href="/ssgc/20220726/1763164.md">〖兲朝浮世绘〗自杀式结束中共政权生命 中共或在一年半内侵略台湾？</a></li>
-<li><a href="/bannedvideo/20220726/1762936.md">王小洪受刺激开始反击？公安部回应唐山事件；安倍夫人高速公路车祸；林志颖家人急寻救命恩人 只为这个【环球看点】</a></li>
 <li><a href="/topimagenews/20220726/1763167.md">【微博精粹】吴啊萍被抓 韭菜：这不是关键</a></li>
+<li><a href="/bannedvideo/20220726/1762936.md">王小洪受刺激开始反击？公安部回应唐山事件；安倍夫人高速公路车祸；林志颖家人急寻救命恩人 只为这个【环球看点】</a></li>
 <li><a href="/cnnews/20220725/1762863.md">11岁男孩留遗书跳楼自杀 58天后家长看到监控…</a></li>
 <li><a href="/comments/20220726/1763024.md">甘肃省委秘书长、大连副市长接连突然身亡 均履新不久</a></li>
+<li><a href="/comments/20220726/1763088.md">北大著名经济学家：制度的失败：越来越多的人“不和你玩了”</a></li>
 <li><a href="/bannedvideo/20220726/1763050.md">大五毛们突然被曝光同属公司名称，司马南、北美崔哥等都在列，被疑是特务统战机构【每日头条】</a></li>
 <li><a href="/cnnews/20220725/1762888.md">到底有多少广东猛男被树叶砸伤？</a></li>
-<li><a href="/comments/20220726/1763088.md">北大著名经济学家：制度的失败：越来越多的人“不和你玩了”</a></li>
 <li><a href="/bannedvideo/20220726/1762991.md">蓬佩奥一箭双雕 学者：只要拜登这么做 佩洛西一定访台【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220726/1763086.md">马斯克打扁华日！深夜发开心合照 大动作“消毒”</a></li>
 <li><a href="/bannedvideo/20220726/1763073.md">陈破空：南京爆发大规模示威！佩洛西访台事件闹大了，中共宣称严正以待。美方或出动战机和航母迎战！台湾军演登场。直播与互动 美东7月25晚8点30、即中港台7月26早8点30</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220726/1763254.md" target="_blank">全面收集中共的罪证 为大审判做准备</a></li>
+<li><a href="/comments/20220726/1763274.md" target="_blank">佩罗西计划的作秀访台，是为了掩盖民主党卖台 — 曾节明</a></li>
 <li><a href="/comments/20220726/1763215.md" target="_blank">经济大盘动摇 河南公务员停发工资 最大养老潮到来</a></li>
 <li><a href="/comments/20220726/1763214.md" target="_blank">香港公务员辞职创新高 多个团体析因由</a></li>
 <li><a href="/comments/20220726/1763210.md" target="_blank">陆媒揭中国烂尾楼黑幕 专家：当局要转嫁责任</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220726/1763019.md" target="_blank">微视频：中共不用美国推翻 加个息都可能倒台</a></li>
 <li><a href="/comments/20220726/1763012.md" target="_blank">盘点七大美国购房者最想离开的城市</a></li>
 <li><a href="/comments/20220726/1763011.md" target="_blank">插足谷歌创始人婚姻？马斯克否认</a></li>
-<li><a href="/comments/20220726/1763001.md" target="_blank">如恐怖科幻大片！河南郑州、安阳现魔鬼云</a></li>
-<li><a href="/comments/20220726/1763000.md" target="_blank">美联储、财报与经济数据出炉 夏季关键一周来临</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 <li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 
 </ul>
 </div>
