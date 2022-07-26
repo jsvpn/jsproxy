@@ -5,8 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/bannedvideo/20220725/1762846.md">最高权力中心传不祥之兆 习又有麻烦？【两岸要闻】</a></li>
-<li><a href="/bannedvideo/20220725/1762854.md">陈破空：突发！习家军出事，又有两高官挂了！神秘力量在后。香港亲共媒体发声，直指顶层！陈破空直播 与网友互动 美东7月25早8点30、即中港台7月25晚8点30</a></li>
 <li><a href="/cnnews/20220726/1763009.md">世界冠军前女友发文揭央视最美女记者是小三？</a></li>
 <li><a href="/ssgc/20220725/1762871.md">中国经济的庞氏骗局破灭了</a></li>
 <li><a href="/topimagenews/20220725/1762873.md">泡沫破了！河南公务员停薪3月；境外机构减持中国国债创记录；投行发中企最糟业绩报告</a></li>
@@ -17,14 +15,16 @@
 <li><a href="/topimagenews/20220726/1763036.md">没钱了…时隔16年，他们又想起了农业税？</a></li>
 <li><a href="/cnnews/20220726/1763030.md">又一位坑爹的来了…江西“周劼”出名了</a></li>
 <li><a href="/topimagenews/20220726/1762974.md">英特尔抛震撼弹 芯片巨头中美选边战一触即发？</a></li>
-<li><a href="/ssgc/20220726/1763164.md">〖兲朝浮世绘〗自杀式结束中共政权生命 中共或在一年半内侵略台湾？</a></li>
 <li><a href="/topimagenews/20220726/1763167.md">【微博精粹】吴啊萍被抓 韭菜：这不是关键</a></li>
+<li><a href="/ssgc/20220726/1763164.md">〖兲朝浮世绘〗自杀式结束中共政权生命 中共或在一年半内侵略台湾？</a></li>
 <li><a href="/bannedvideo/20220726/1762936.md">王小洪受刺激开始反击？公安部回应唐山事件；安倍夫人高速公路车祸；林志颖家人急寻救命恩人 只为这个【环球看点】</a></li>
 <li><a href="/cnnews/20220725/1762863.md">11岁男孩留遗书跳楼自杀 58天后家长看到监控…</a></li>
 <li><a href="/comments/20220726/1763024.md">甘肃省委秘书长、大连副市长接连突然身亡 均履新不久</a></li>
 <li><a href="/comments/20220726/1763088.md">北大著名经济学家：制度的失败：越来越多的人“不和你玩了”</a></li>
 <li><a href="/bannedvideo/20220726/1763050.md">大五毛们突然被曝光同属公司名称，司马南、北美崔哥等都在列，被疑是特务统战机构【每日头条】</a></li>
 <li><a href="/cnnews/20220725/1762888.md">到底有多少广东猛男被树叶砸伤？</a></li>
+<li><a href="/topimagenews/20220726/1763203.md">习近平与普京豪赌世界 重塑国际权力格局【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20220726/1763218.md">陈云的临终遗言：中共党内激烈斗争的过来人</a></li>
 <li><a href="/bannedvideo/20220726/1762991.md">蓬佩奥一箭双雕 学者：只要拜登这么做 佩洛西一定访台【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220726/1763086.md">马斯克打扁华日！深夜发开心合照 大动作“消毒”</a></li>
 <li><a href="/bannedvideo/20220726/1763073.md">陈破空：南京爆发大规模示威！佩洛西访台事件闹大了，中共宣称严正以待。美方或出动战机和航母迎战！台湾军演登场。直播与互动 美东7月25晚8点30、即中港台7月26早8点30</a></li>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220726/1763296.md" target="_blank">最新研究：维生素B6可减少焦虑和抑郁</a></li>
+<li><a href="/comments/20220726/1763295.md" target="_blank">大暑时节易肝火旺 4招可以「养心」消暑</a></li>
+<li><a href="/comments/20220726/1763294.md" target="_blank">研究：购物前来杯咖啡，小心荷包失血更多</a></li>
+<li><a href="/comments/20220726/1763293.md" target="_blank">热到快晕倒！ 医急授：如何防止热危害</a></li>
 <li><a href="/comments/20220726/1763254.md" target="_blank">全面收集中共的罪证 为大审判做准备</a></li>
 <li><a href="/comments/20220726/1763274.md" target="_blank">佩罗西计划的作秀访台，是为了掩盖民主党卖台 — 曾节明</a></li>
 <li><a href="/comments/20220726/1763215.md" target="_blank">经济大盘动摇 河南公务员停发工资 最大养老潮到来</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20220726/1763045.md" target="_blank">汉森教授：拜登给了左翼一切 但左翼却要换掉他</a></li>
 <li><a href="/comments/20220726/1763025.md" target="_blank">河南狂风暴雨树倒屋毁 “魔鬼云”几度变色</a></li>
 <li><a href="/comments/20220726/1763024.md" target="_blank">甘肃省委秘书长、大连副市长接连突然身亡 均履新不久</a></li>
-<li><a href="/comments/20220726/1763023.md" target="_blank">北京接种国产疫苗补助加倍 引发质疑</a></li>
-<li><a href="/comments/20220726/1763019.md" target="_blank">微视频：中共不用美国推翻 加个息都可能倒台</a></li>
-<li><a href="/comments/20220726/1763012.md" target="_blank">盘点七大美国购房者最想离开的城市</a></li>
-<li><a href="/comments/20220726/1763011.md" target="_blank">插足谷歌创始人婚姻？马斯克否认</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
 <li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 
 </ul>
 </div>
