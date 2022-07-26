@@ -17,17 +17,17 @@
 <li><a href="/cnnews/20220726/1763244.md">大毒计！江曾希望习近平击落佩洛西飞机【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220726/1763303.md">陈破空：惊诧！习近平内部讲话流出？有关朝鲜。他在下一盘大棋：中国军队冒名参战乌克兰？陈破空直播 与网友互动 美东7月26早8点30、即中港台7月26晚8点30</a></li>
 <li><a href="/comments/20220726/1763024.md">甘肃省委秘书长、大连副市长接连突然身亡 均履新不久</a></li>
+<li><a href="/topimagenews/20220726/1763321.md">中国公立医院负债万亿，2千多民营倒闭；中俄一带一路崩盘；中国大飞机要黄？和俄要掰</a></li>
 <li><a href="/comments/20220726/1763088.md">北大著名经济学家：制度的失败：越来越多的人“不和你玩了”</a></li>
 <li><a href="/bannedvideo/20220726/1763279.md">10秒视频吓坏中共 汪小菲被谁出卖？去年这篇报导有亮点【两岸要闻】</a></li>
-<li><a href="/topimagenews/20220726/1763321.md">中国公立医院负债万亿，2千多民营倒闭；中俄一带一路崩盘；中国大飞机要黄？和俄要掰</a></li>
 <li><a href="/topimagenews/20220726/1763203.md">习近平与普京豪赌世界 重塑国际权力格局【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220726/1763050.md">大五毛们突然被曝光同属公司名称，司马南、北美崔哥等都在列，被疑是特务统战机构【每日头条】</a></li>
 <li><a href="/bannedvideo/20220726/1763073.md">陈破空：南京爆发大规模示威！佩洛西访台事件闹大了，中共宣称严正以待。美方或出动战机和航母迎战！台湾军演登场。直播与互动 美东7月25晚8点30、即中港台7月26早8点30</a></li>
 <li><a href="/lifebaike/20220726/1763280.md">老祖宗的智慧：邻居三不要 亲戚三不交</a></li>
 <li><a href="/cnnews/20220726/1763261.md">特斯拉全景天窗像烤炉 车主戴斗笠开车、浇水降温 网酸:有钱人的烦恼</a></li>
-<li><a href="/bannedvideo/20220726/1762991.md">蓬佩奥一箭双雕 学者：只要拜登这么做 佩洛西一定访台【红朝禁闻】</a></li>
-<li><a href="/cnnews/20220726/1763207.md">被删文：有人开房逛爱马仕 有人一连四天吃馒头</a></li>
 <li><a href="/topimagenews/20220726/1763086.md">马斯克打扁华日！深夜发开心合照 大动作“消毒”</a></li>
+<li><a href="/cnnews/20220726/1763207.md">被删文：有人开房逛爱马仕 有人一连四天吃馒头</a></li>
+<li><a href="/cbnews/20220726/1763100.md">天亮时分：航母护送佩洛西访台，两岸会否擦枪走火？揭秘两岸沟通秘密管道；英国党魁竞选，反共已成共识；婚外情？马斯克：胡扯（政论天下第749集 20220725）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220727/1763435.md" target="_blank">美中局势趋于紧张之际 拜登称本周与习近平通话</a></li>
+<li><a href="/comments/20220727/1763434.md" target="_blank">邪门死亡职位？新冠疫苗研发者相继猝死</a></li>
 <li><a href="/comments/20220727/1763417.md" target="_blank">诡异！中共官员接连突然死亡 与权斗有关？</a></li>
 <li><a href="/comments/20220726/1763362.md" target="_blank">四川爆腺病毒疫情 超百名孩子出现症状 有人高烧达42度</a></li>
 <li><a href="/comments/20220726/1763361.md" target="_blank">时事大家谈：北京说党和国家领导人都打了国产疫苗，为何质疑遍地？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220726/1763199.md" target="_blank">在华府建「中国园」？北京阴谋被揭 更多内幕曝光</a></li>
 <li><a href="/comments/20220726/1763191.md" target="_blank">【独家重磅】李燕铭：甘肃省委秘书长周伟跳楼身亡内幕揭秘 习近平两亲信陈敏尔楼阳生的大管家王赋受命清洗甘肃官场 周伟搭档同僚密集落马 习近平清洗甘肃帮（一）</a></li>
 <li><a href="/comments/20220726/1763176.md" target="_blank">中共威胁要「反制」佩洛西访台 美国各界群起抗共</a></li>
-<li><a href="/comments/20220726/1763163.md" target="_blank">前白宫防疫专家承认与福奇欺骗全美 川普连喊3声宣战</a></li>
-<li><a href="/comments/20220726/1763162.md" target="_blank">出行尽量避开这10个机场！夏季航班延误最严重</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 <li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
 <li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 
 </ul>
 </div>
