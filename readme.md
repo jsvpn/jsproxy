@@ -10,23 +10,23 @@
 <li><a href="/bannedvideo/20220726/1763303.md">陈破空：惊诧！习近平内部讲话流出？有关朝鲜。他在下一盘大棋：中国军队冒名参战乌克兰？陈破空直播 与网友互动 美东7月26早8点30、即中港台7月26晚8点30</a></li>
 <li><a href="/topimagenews/20220726/1763321.md">中国公立医院负债万亿，2千多民营倒闭；中俄一带一路崩盘；中国大飞机要黄？和俄要掰</a></li>
 <li><a href="/bannedvideo/20220726/1763279.md">10秒视频吓坏中共 汪小菲被谁出卖？去年这篇报导有亮点【两岸要闻】</a></li>
-<li><a href="/topimagenews/20220726/1763203.md">习近平与普京豪赌世界 重塑国际权力格局【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20220726/1763280.md">老祖宗的智慧：邻居三不要 亲戚三不交</a></li>
+<li><a href="/topimagenews/20220726/1763203.md">习近平与普京豪赌世界 重塑国际权力格局【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220727/1763443.md">曝华府对佩洛西访台立场 中共这举动是严重升级</a></li>
-<li><a href="/cnnews/20220726/1763261.md">特斯拉全景天窗像烤炉 车主戴斗笠开车、浇水降温 网酸:有钱人的烦恼</a></li>
 <li><a href="/topimagenews/20220727/1763517.md">振奋！形势逆转 3因素致普京已无指望乌战获胜</a></li>
+<li><a href="/cnnews/20220726/1763261.md">特斯拉全景天窗像烤炉 车主戴斗笠开车、浇水降温 网酸:有钱人的烦恼</a></li>
 <li><a href="/lifebaike/20220727/1763463.md">血泪红旗渠大闺女小媳妇一律脱光</a></li>
+<li><a href="/comments/20220727/1763510.md">四川乐山一警察开枪打伤2人 又持械杀害3人 驾车逃匿</a></li>
 <li><a href="/baitai/20220726/1763310.md">【麻辣总局】人民网｜习近平：“什么叫人民至上？这么多人围着一个病人转&#8230;”</a></li>
 <li><a href="/cnnews/20220726/1763207.md">被删文：有人开房逛爱马仕 有人一连四天吃馒头</a></li>
-<li><a href="/comments/20220727/1763510.md">四川乐山一警察开枪打伤2人 又持械杀害3人 驾车逃匿</a></li>
+<li><a href="/cnnews/20220727/1763471.md">俄军军列遭精确命中！俄军五大主力损失严重</a></li>
 <li><a href="/headline/20220727/1763409.md">陆媒曝奥运冠军卖金牌举家移民 网友羡其登上「最后逃生船」</a></li>
 <li><a href="/bannedvideo/20220727/1763429.md">【 #中国禁闻 】中共疾控中心主任高福卸任，网民热议；忧烂尾楼引发金融风暴，中共筹资3千亿救楼市；佩洛西访台 美政要支持，北京威胁升级；常玮平案开庭，妻儿旁听遭恶意围堵</a></li>
-<li><a href="/cnnews/20220727/1763471.md">俄军军列遭精确命中！俄军五大主力损失严重</a></li>
 <li><a href="/ssgc/20220727/1763410.md">网络视频传汪小菲要与共产党争一争</a></li>
 <li><a href="/cbnews/20220726/1763337.md">苏州“12级雷暴大风”公车站瞬间吹垮 网吓：如世界末日</a></li>
 <li><a href="/topimagenews/20220727/1763458.md">游历地狱23分钟美国男子著书披露见闻</a></li>
-<li><a href="/bannedvideo/20220726/1763313.md">汪小菲一句话吓坏中共 被谁出卖？去年这篇报导有亮点【两岸要闻】</a></li>
 <li><a href="/cnnews/20220726/1763369.md">女子因发布共产党标志 被判入狱5年！【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220726/1763313.md">汪小菲一句话吓坏中共 被谁出卖？去年这篇报导有亮点【两岸要闻】</a></li>
 <li><a href="/comments/20220727/1763434.md">邪门死亡职位？新冠疫苗研发者相继猝死</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220727/1763649.md" target="_blank">割完韭菜还很嚣张 中共国学金融大师诈数十亿</a></li>
 <li><a href="/topimagenews/20220727/1763637.md" target="_blank">被删文：被禁止献花的郑州水灾一周年与那些不被允许的纪念</a></li>
 <li><a href="/topimagenews/20220727/1763634.md" target="_blank">反习派再施离间计！瞄上习近平贴身心腹【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220727/1763624.md" target="_blank">裴洛西访台有变数！传将待拜习通话后定案 路透：恐引发美中危机</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220725/1762790.md" target="_blank">朝鲜又见粮食危机 韩媒：有人为买粮食卖掉女儿</a></li>
 <li><a href="/topimagenews/20220725/1762763.md" target="_blank">反习派占据制高点 猛烈打脸习近平！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220725/1762762.md" target="_blank">荒诞！中共法院：这就是枪！26万网友大怒！“都去玩洋娃娃、跳皮筋儿吧”【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220725/1762743.md" target="_blank">力挺裴洛西访台 蓬佩奥：我陪你一起去</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220727/1763644.md" target="_blank">传习近平受邀11月出国访问 释连任重大信号？</a></li>
 <li><a href="/comments/20220727/1763629.md" target="_blank">美宝莲退出中国市场 Dior百褶裙惹翻小粉红</a></li>
 <li><a href="/comments/20220727/1763628.md" target="_blank">聚焦西雅图：华州参议员计划建立更多警察培训学院</a></li>
 <li><a href="/comments/20220727/1763623.md" target="_blank">报告：中共在美联储暗置线人网 胁迫美经济学家</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220727/1763542.md" target="_blank">偷到的西方技术，成压垮苏联的最后一根稻草</a></li>
 <li><a href="/comments/20220727/1763541.md" target="_blank">误诊AI开处方等乱象频现 在线接诊25万人次的医生可靠吗</a></li>
 <li><a href="/comments/20220727/1763540.md" target="_blank">末日博士罗比尼：这次比金融危机后更糟</a></li>
-<li><a href="/comments/20220727/1763532.md" target="_blank">阔别18个月 川普重返华府发表国策演讲 释重要风向标</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
 <li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 <li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
 
 </ul>
 </div>
