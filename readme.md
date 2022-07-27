@@ -20,14 +20,14 @@
 <li><a href="/cnnews/20220727/1763471.md">俄军军列遭精确命中！俄军五大主力损失严重</a></li>
 <li><a href="/lifebaike/20220727/1763503.md">羊肉被世卫列为致癌物，它到底是致癌还是营养佳品? 告诉你答案</a></li>
 <li><a href="/ssgc/20220727/1763410.md">网络视频传汪小菲要与共产党争一争</a></li>
-<li><a href="/bannedvideo/20220727/1763429.md">【 #中国禁闻 】中共疾控中心主任高福卸任，网民热议；忧烂尾楼引发金融风暴，中共筹资3千亿救楼市；佩洛西访台 美政要支持，北京威胁升级；常玮平案开庭，妻儿旁听遭恶意围堵</a></li>
 <li><a href="/cnnews/20220727/1763523.md">周劼，请继续你的表演吧</a></li>
+<li><a href="/bannedvideo/20220727/1763429.md">【 #中国禁闻 】中共疾控中心主任高福卸任，网民热议；忧烂尾楼引发金融风暴，中共筹资3千亿救楼市；佩洛西访台 美政要支持，北京威胁升级；常玮平案开庭，妻儿旁听遭恶意围堵</a></li>
 <li><a href="/topimagenews/20220727/1763458.md">游历地狱23分钟美国男子著书披露见闻</a></li>
 <li><a href="/cbnews/20220726/1763337.md">苏州“12级雷暴大风”公车站瞬间吹垮 网吓：如世界末日</a></li>
 <li><a href="/topimagenews/20220727/1763497.md">传拜登政府劝阻无效 佩洛西持续推进访台计划</a></li>
-<li><a href="/comments/20220727/1763434.md">邪门死亡职位？新冠疫苗研发者相继猝死</a></li>
-<li><a href="/comments/20220727/1763475.md">专家：未来几年内 中国经济将非常困难</a></li>
 <li><a href="/cnnews/20220727/1763524.md">手机电量撑不久？关掉这“功能”</a></li>
+<li><a href="/comments/20220727/1763475.md">专家：未来几年内 中国经济将非常困难</a></li>
+<li><a href="/comments/20220727/1763434.md">邪门死亡职位？新冠疫苗研发者相继猝死</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220727/1763691.md" target="_blank">研究：音乐显示出延缓痴呆症进展的巨大潜力</a></li>
+<li><a href="/comments/20220727/1763690.md" target="_blank">研究：中式餐点控制半盐，收缩压1个月降10mmHg</a></li>
+<li><a href="/comments/20220727/1763689.md" target="_blank">孩子的眼睛如何保护？ 很多爸妈都还不懂</a></li>
+<li><a href="/comments/20220727/1763688.md" target="_blank">研究：奶奶过世，7年内孙子将更忧郁</a></li>
+<li><a href="/comments/20220727/1763687.md" target="_blank">专家拉警报！舌苔「厚重发白」：恐是5大疾病</a></li>
 <li><a href="/comments/20220727/1763673.md" target="_blank">中共出狠招 教师叹每人头上被硬塞任务</a></li>
 <li><a href="/comments/20220727/1763665.md" target="_blank">「双减」满一年 补教资源反向菁英阶层倾斜</a></li>
 <li><a href="/comments/20220727/1763664.md" target="_blank">传乐山警察持枪灭门 遭警方悬赏10万通缉</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20220727/1763581.md" target="_blank">俄拟2024年退出国际空间站 NASA：未获通知</a></li>
 <li><a href="/comments/20220727/1763580.md" target="_blank">【文逸飞专栏】举头望见故乡</a></li>
 <li><a href="/comments/20220727/1763579.md" target="_blank">德国汉莎航空地勤罢工 欧洲逾千航班取消</a></li>
-<li><a href="/comments/20220727/1763577.md" target="_blank">延续传递真相 港舞台剧《5月35日》洛城放映</a></li>
-<li><a href="/comments/20220727/1763575.md" target="_blank">李承鹏：理想爆雷时，请记住湖边一件美好的事</a></li>
-<li><a href="/comments/20220727/1763557.md" target="_blank">白丁 : 河南郑州水灾一周年祭 —— 揭开遇难人数之谜</a></li>
-<li><a href="/comments/20220727/1763556.md" target="_blank">译丛:西方对乌克兰援助的无效性</a></li>
-<li><a href="/comments/20220727/1763555.md" target="_blank">归善：无神论和进化论到底给中国人带来了什么？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 <li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 <li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 
 </ul>
 </div>
