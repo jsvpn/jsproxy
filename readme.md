@@ -17,17 +17,17 @@
 <li><a href="/cnnews/20220727/1763743.md">中国这次经济危机和过去很不一样</a></li>
 <li><a href="/topimagenews/20220727/1763624.md">裴洛西访台有变数！传将待拜习通话后定案 路透：恐引发美中危机</a></li>
 <li><a href="/cnnews/20220727/1763653.md">中共军方批裴洛西计划访台 美国防部回应了</a></li>
-<li><a href="/comments/20220727/1763700.md">王友群：二十大前中南海内斗三件大事</a></li>
 <li><a href="/topimagenews/20220727/1763740.md">中、美两军为裴洛西访台“狭路相逢”?抢在拜、习通话前 秦刚急释善意</a></li>
 <li><a href="/topimagenews/20220727/1763783.md">3死2伤！英雄警察持枪杀人驾车逃逸 四川乐山全城追缉</a></li>
+<li><a href="/comments/20220727/1763700.md">王友群：二十大前中南海内斗三件大事</a></li>
 <li><a href="/topimagenews/20220727/1763634.md">反习派再施离间计！瞄上习近平贴身心腹【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220727/1763630.md">〖兲朝浮世绘〗缺啥吆喝啥 无知者的自信</a></li>
-<li><a href="/topimagenews/20220727/1763497.md">传拜登政府劝阻无效 佩洛西持续推进访台计划</a></li>
 <li><a href="/cnnews/20220727/1763524.md">手机电量撑不久？关掉这“功能”</a></li>
+<li><a href="/topimagenews/20220727/1763497.md">传拜登政府劝阻无效 佩洛西持续推进访台计划</a></li>
+<li><a href="/topimagenews/20220727/1763649.md">割完韭菜还很嚣张 中共国学金融大师诈数十亿</a></li>
 <li><a href="/topimagenews/20220727/1763458.md">游历地狱23分钟美国男子著书披露见闻</a></li>
 <li><a href="/topimagenews/20220727/1763572.md">这个“砖家”真欠揍</a></li>
-<li><a href="/topimagenews/20220727/1763649.md">割完韭菜还很嚣张 中共国学金融大师诈数十亿</a></li>
-<li><a href="/comments/20220727/1763475.md">专家：未来几年内 中国经济将非常困难</a></li>
+<li><a href="/cbnews/20220727/1763657.md">江峰：习近平清零为家族招生意？中共领导人都打了国产疫苗？一讽美国二骗屁民！惊：一年近四千万人，哪儿去了！【江峰漫谈20220726第521期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220728/1763872.md" target="_blank">1920万美元罚款？现代资本美国公司同意支付</a></li>
 <li><a href="/comments/20220728/1763864.md" target="_blank">聚焦西雅图：警方抨击华州立法部门纵容犯罪</a></li>
 <li><a href="/comments/20220727/1763851.md" target="_blank">南京玄奘寺事件后 中国佛教协会强调从严治教</a></li>
 <li><a href="/comments/20220727/1763850.md" target="_blank">冬奥后首位外国元首访中 印尼总统佐科北京会习近平</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220727/1763664.md" target="_blank">传乐山警察持枪灭门 遭警方悬赏10万通缉</a></li>
 <li><a href="/comments/20220727/1763655.md" target="_blank">李燕铭：习近平严防江曾生化政变 北戴河会议前夕习家军接管疾控中心 江绵恒马仔高福卸职一度传被调查 江绵恒马仔国家卫健委主任马晓伟被架空 习家军王贺胜“五点希望”释放清洗信号 习点江曾死穴清洗江绵恒暗黑帝国（十七） 二十大前北戴河会议大战内幕（二一）</a></li>
 <li><a href="/comments/20220727/1763644.md" target="_blank">传习近平受邀11月出国访问 释连任重大信号？</a></li>
-<li><a href="/comments/20220727/1763629.md" target="_blank">美宝莲退出中国市场 Dior百褶裙惹翻小粉红</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 <li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
 
 </ul>
 </div>
