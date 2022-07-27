@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20220726/1763321.md">中国公立医院负债万亿，2千多民营倒闭；中俄一带一路崩盘；中国大飞机要黄？和俄要掰</a></li>
 <li><a href="/bannedvideo/20220726/1763279.md">10秒视频吓坏中共 汪小菲被谁出卖？去年这篇报导有亮点【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220726/1763203.md">习近平与普京豪赌世界 重塑国际权力格局【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220726/1763073.md">陈破空：南京爆发大规模示威！佩洛西访台事件闹大了，中共宣称严正以待。美方或出动战机和航母迎战！台湾军演登场。直播与互动 美东7月25晚8点30、即中港台7月26早8点30</a></li>
 <li><a href="/lifebaike/20220726/1763280.md">老祖宗的智慧：邻居三不要 亲戚三不交</a></li>
 <li><a href="/cnnews/20220726/1763261.md">特斯拉全景天窗像烤炉 车主戴斗笠开车、浇水降温 网酸:有钱人的烦恼</a></li>
-<li><a href="/cnnews/20220726/1763207.md">被删文：有人开房逛爱马仕 有人一连四天吃馒头</a></li>
 <li><a href="/cbnews/20220726/1763100.md">天亮时分：航母护送佩洛西访台，两岸会否擦枪走火？揭秘两岸沟通秘密管道；英国党魁竞选，反共已成共识；婚外情？马斯克：胡扯（政论天下第749集 20220725）</a></li>
+<li><a href="/cnnews/20220726/1763207.md">被删文：有人开房逛爱马仕 有人一连四天吃馒头</a></li>
 <li><a href="/topimagenews/20220726/1763086.md">马斯克打扁华日！深夜发开心合照 大动作“消毒”</a></li>
 <li><a href="/baitai/20220726/1763310.md">【麻辣总局】人民网｜习近平：“什么叫人民至上？这么多人围着一个病人转&#8230;”</a></li>
-<li><a href="/topimagenews/20220726/1763145.md">拆除中国制造？这次，德国人终于出手了…</a></li>
 <li><a href="/headline/20220727/1763409.md">陆媒曝奥运冠军卖金牌举家移民 网友羡其登上「最后逃生船」</a></li>
-<li><a href="/cnnews/20220726/1763369.md">女子因发布共产党标志 被判入狱5年！【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220726/1763313.md">汪小菲一句话吓坏中共 被谁出卖？去年这篇报导有亮点【两岸要闻】</a></li>
+<li><a href="/topimagenews/20220726/1763145.md">拆除中国制造？这次，德国人终于出手了…</a></li>
 <li><a href="/ssgc/20220727/1763410.md">网络视频传汪小菲要与共产党争一争</a></li>
-<li><a href="/lifebaike/20220726/1763242.md">7个好习惯，瘦子没告诉你的苗条秘密</a></li>
+<li><a href="/bannedvideo/20220726/1763313.md">汪小菲一句话吓坏中共 被谁出卖？去年这篇报导有亮点【两岸要闻】</a></li>
 <li><a href="/cbnews/20220726/1763337.md">苏州“12级雷暴大风”公车站瞬间吹垮 网吓：如世界末日</a></li>
+<li><a href="/cnnews/20220726/1763369.md">女子因发布共产党标志 被判入狱5年！【阿波罗网报道】</a></li>
+<li><a href="/lifebaike/20220726/1763242.md">7个好习惯，瘦子没告诉你的苗条秘密</a></li>
+<li><a href="/bannedvideo/20220726/1763230.md">反日游行开始了？吴啊萍何罪之有！对比毛泽东，谁更伤害中国人民感情？｜薇羽看世间 第512期 20220725</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220727/1763543.md" target="_blank">周晓辉:中共领导人被报打国产疫苗 用意何在</a></li>
+<li><a href="/comments/20220727/1763542.md" target="_blank">偷到的西方技术，成压垮苏联的最后一根稻草</a></li>
+<li><a href="/comments/20220727/1763541.md" target="_blank">误诊AI开处方等乱象频现 在线接诊25万人次的医生可靠吗</a></li>
+<li><a href="/comments/20220727/1763540.md" target="_blank">末日博士罗比尼：这次比金融危机后更糟</a></li>
 <li><a href="/comments/20220727/1763532.md" target="_blank">阔别18个月 川普重返华府发表国策演讲 释重要风向标</a></li>
 <li><a href="/comments/20220727/1763512.md" target="_blank">习连任是大势所趋？官媒再提“铁帽子王” 释放打虎升级信号</a></li>
 <li><a href="/comments/20220727/1763511.md" target="_blank">神奇事发生在舞蹈班的孩子们身上</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20220726/1763339.md" target="_blank">诺贝尔和平奖得主崔波辞世 英爱政要齐悼北爱和平推手</a></li>
 <li><a href="/comments/20220726/1763336.md" target="_blank">蚂蚁集团高层全退出阿里巴巴合伙人 进一步分家</a></li>
 <li><a href="/comments/20220726/1763324.md" target="_blank">解谜轰爆俄军雷达的神秘武器！ 传美援乌“反辐射飞弹”</a></li>
-<li><a href="/comments/20220726/1763323.md" target="_blank">美中央情报局示警“中国可能几年内攻台” 德外长忧心：柏林也知情</a></li>
-<li><a href="/comments/20220726/1763322.md" target="_blank">四川游泳池爆腺病毒疫情 147童现症状！有人高烧飙到42度</a></li>
-<li><a href="/comments/20220726/1763314.md" target="_blank">【财经拆局】点止跳舞咁简单！ TikTok自由资讯的敌人</a></li>
-<li><a href="/comments/20220726/1763304.md" target="_blank">【俄乌战火第153天】德国防空战车运抵乌克兰 联合国：首批粮船数日后启航</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 <li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
 <li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 
 </ul>
 </div>
