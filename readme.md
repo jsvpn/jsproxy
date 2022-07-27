@@ -17,17 +17,17 @@
 <li><a href="/cnnews/20220726/1763261.md">特斯拉全景天窗像烤炉 车主戴斗笠开车、浇水降温 网酸:有钱人的烦恼</a></li>
 <li><a href="/cnnews/20220726/1763207.md">被删文：有人开房逛爱马仕 有人一连四天吃馒头</a></li>
 <li><a href="/baitai/20220726/1763310.md">【麻辣总局】人民网｜习近平：“什么叫人民至上？这么多人围着一个病人转&#8230;”</a></li>
-<li><a href="/headline/20220727/1763409.md">陆媒曝奥运冠军卖金牌举家移民 网友羡其登上「最后逃生船」</a></li>
 <li><a href="/cbnews/20220727/1763443.md">曝华府对佩洛西访台立场 中共这举动是严重升级</a></li>
+<li><a href="/headline/20220727/1763409.md">陆媒曝奥运冠军卖金牌举家移民 网友羡其登上「最后逃生船」</a></li>
 <li><a href="/topimagenews/20220726/1763145.md">拆除中国制造？这次，德国人终于出手了…</a></li>
 <li><a href="/ssgc/20220727/1763410.md">网络视频传汪小菲要与共产党争一争</a></li>
 <li><a href="/cbnews/20220726/1763337.md">苏州“12级雷暴大风”公车站瞬间吹垮 网吓：如世界末日</a></li>
 <li><a href="/bannedvideo/20220726/1763313.md">汪小菲一句话吓坏中共 被谁出卖？去年这篇报导有亮点【两岸要闻】</a></li>
+<li><a href="/bannedvideo/20220727/1763429.md">【 #中国禁闻 】中共疾控中心主任高福卸任，网民热议；忧烂尾楼引发金融风暴，中共筹资3千亿救楼市；佩洛西访台 美政要支持，北京威胁升级；常玮平案开庭，妻儿旁听遭恶意围堵</a></li>
 <li><a href="/cnnews/20220726/1763369.md">女子因发布共产党标志 被判入狱5年！【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20220726/1763242.md">7个好习惯，瘦子没告诉你的苗条秘密</a></li>
 <li><a href="/cbnews/20220726/1763126.md">南京寺庙供奉日本战犯案 到底触犯哪条法规?</a></li>
 <li><a href="/bannedvideo/20220726/1763230.md">反日游行开始了？吴啊萍何罪之有！对比毛泽东，谁更伤害中国人民感情？｜薇羽看世间 第512期 20220725</a></li>
-<li><a href="/bannedvideo/20220726/1763301.md">北约加速武装基辅，美军准备进入黑海；普京从赫尔松撤军？海马斯必须天天出场；俄罗斯大砲如何支配战场，这里是细节；欧洲战斗机支援乌克兰，到底可不可能？#新冷战情室</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220727/1763591.md" target="_blank">小国倾囊相助；9月夺回赫尔松，乌军胜算有多大</a></li>
+<li><a href="/comments/20220727/1763590.md" target="_blank">1978年：已是43年前的恍如隔夜</a></li>
+<li><a href="/comments/20220727/1763589.md" target="_blank">岳山：首名二十大代表死亡 或涉不寻常内情</a></li>
+<li><a href="/comments/20220727/1763588.md" target="_blank">“常玮平，今天是你的受难日，也是你的荣耀日”</a></li>
+<li><a href="/comments/20220727/1763582.md" target="_blank">消息：二十大前怕出事 北京拟三千亿收购烂尾楼</a></li>
+<li><a href="/comments/20220727/1763581.md" target="_blank">俄拟2024年退出国际空间站 NASA：未获通知</a></li>
+<li><a href="/comments/20220727/1763580.md" target="_blank">【文逸飞专栏】举头望见故乡</a></li>
+<li><a href="/comments/20220727/1763579.md" target="_blank">德国汉莎航空地勤罢工 欧洲逾千航班取消</a></li>
 <li><a href="/comments/20220727/1763577.md" target="_blank">延续传递真相 港舞台剧《5月35日》洛城放映</a></li>
 <li><a href="/comments/20220727/1763575.md" target="_blank">李承鹏：理想爆雷时，请记住湖边一件美好的事</a></li>
 <li><a href="/comments/20220727/1763557.md" target="_blank">白丁 : 河南郑州水灾一周年祭 —— 揭开遇难人数之谜</a></li>
@@ -114,14 +122,6 @@
 <li><a href="/comments/20220727/1763491.md" target="_blank">美国安专家：关岛是美国主权领土 也是抗击中共最前线</a></li>
 <li><a href="/comments/20220727/1763489.md" target="_blank">中俄朝伊邪恶轴心，抱团取暖同赴黄泉</a></li>
 <li><a href="/comments/20220727/1763488.md" target="_blank">周晓辉：2021年火化数超死亡数几百万 细思极恐</a></li>
-<li><a href="/comments/20220727/1763476.md" target="_blank">通胀高昂 盘点美国生活成本最低的十个州</a></li>
-<li><a href="/comments/20220727/1763475.md" target="_blank">专家：未来几年内 中国经济将非常困难</a></li>
-<li><a href="/comments/20220727/1763461.md" target="_blank">颜丹：中共造谣黑美国 还有几人能信</a></li>
-<li><a href="/comments/20220727/1763460.md" target="_blank">网海拾贝:会不会到某一天，连呼吸也要批准？</a></li>
-<li><a href="/comments/20220727/1763459.md" target="_blank">王赫：佩洛西访台的政治效应</a></li>
-<li><a href="/comments/20220727/1763435.md" target="_blank">美中局势趋于紧张之际 拜登称本周与习近平通话</a></li>
-<li><a href="/comments/20220727/1763434.md" target="_blank">邪门死亡职位？新冠疫苗研发者相继猝死</a></li>
-<li><a href="/comments/20220727/1763417.md" target="_blank">诡异！中共官员接连突然死亡 与权斗有关？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
 <li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
 
 </ul>
 </div>
