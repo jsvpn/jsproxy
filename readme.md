@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220727/1763834.md">反习派和习近平激烈交手 习阵营发出警告【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220727/1763848.md">出大事了！很多股票暴跌90% 专家警告“史诗级大崩盘”</a></li>
-<li><a href="/comments/20220728/1764124.md">胡春华竟对李克强如此无礼 学者：有意安排</a></li>
 <li><a href="/topimagenews/20220728/1763913.md">习近平压力山大 佩罗西访台最新消息有可能是这个时间【阿波罗网报道】</a></li>
+<li><a href="/comments/20220728/1764124.md">胡春华竟对李克强如此无礼 学者：有意安排</a></li>
 <li><a href="/headline/20220728/1763869.md">习近平：二十大将宣示中共将“走什么路”</a></li>
 <li><a href="/headline/20220728/1763946.md">自称第二任极不平凡 习近平讲话为20大连任定调</a></li>
 <li><a href="/health/20220728/1763951.md">成都一40岁男子，长期服用六味地黄丸，后来身体怎么样了呢？</a></li>
@@ -17,17 +17,17 @@
 <li><a href="/topimagenews/20220728/1764059.md">金正恩怒吼100%歼灭韩国 美妻娇笑成全场焦点</a></li>
 <li><a href="/bannedvideo/20220728/1763968.md">陈破空：习近平强烈暗示：连任，走朝鲜道路！八常委同台，习李都说违心话！受邀出访？印尼总统软硬两手对付他。直播与互动 美东7月27晚8点30、即中港台7月28早8点30</a></li>
 <li><a href="/cbnews/20220728/1764029.md">习近平要走出国门了?彭丽媛：我还想去巴厘岛</a></li>
-<li><a href="/cnnews/20220728/1763897.md">俄出狠招欧惊呆 美最大恐惧成真</a></li>
-<li><a href="/cbnews/20220728/1764128.md">中共党媒：歼16、歼20将对佩洛西专机伴飞拦截</a></li>
 <li><a href="/topimagenews/20220728/1764152.md">玩砸了！反习派痛批佩洛西、埃斯珀 露出真面目【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20220728/1764128.md">中共党媒：歼16、歼20将对佩洛西专机伴飞拦截</a></li>
+<li><a href="/cnnews/20220728/1763897.md">俄出狠招欧惊呆 美最大恐惧成真</a></li>
 <li><a href="/topimagenews/20220728/1764142.md">绝非偶然！中共大笔杆子发文 暗藏重要信号【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220728/1763944.md">中共的最后一根稻草？“二舅”走红要拯救谁？俄罗斯宣布重回苏联【每日头条】</a></li>
 <li><a href="/topimagenews/20220728/1763929.md">倪匡:中华苏维埃共和国</a></li>
+<li><a href="/topimagenews/20220728/1764198.md">阿里巴巴开第一枪释重要信号 中美金融战开打？</a></li>
 <li><a href="/comments/20220728/1763918.md">《二舅》视频爆火平台 讨论量超3亿次 中共是背后推手</a></li>
 <li><a href="/cbnews/20220728/1763980.md">〖微博谈〗中共的“思想工作”早就到了香港</a></li>
-<li><a href="/cbnews/20220728/1763982.md">俄外长：中国将成为西方国家下一个制裁目标</a></li>
 <li><a href="/headline/20220728/1763866.md">习近平: 中共20大将宣示党要举什么旗走什么路</a></li>
-<li><a href="/headline/20220728/1763861.md">最新研究：大流疫源自武汉华南海鲜市场，而且是动物传人</a></li>
+<li><a href="/cbnews/20220728/1763982.md">俄外长：中国将成为西方国家下一个制裁目标</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220728/1764253.md" target="_blank">红三代曝江泽民丑闻：国宴上为吃牛扒急眼拍桌子 执意要在装满燃料的运载火箭前拍照 未被允许后撒泼大骂 中南海不可告人的秘密_549</a></li>
+<li><a href="/comments/20220728/1764249.md" target="_blank">中共疾控中心主任高福突遭免职 原因成谜</a></li>
+<li><a href="/comments/20220728/1764248.md" target="_blank">你知道几种人体结石？你知道可乐能治疗结石吗&#8230;&#8230;</a></li>
 <li><a href="/comments/20220728/1764239.md" target="_blank">研究：睡午觉者中风、高血压机率高</a></li>
 <li><a href="/comments/20220728/1764238.md" target="_blank">猴痘会像COVID-19大流行吗？</a></li>
 <li><a href="/comments/20220728/1764232.md" target="_blank">【未普评论】沈默的大多数开始小规模抵抗</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220728/1764030.md" target="_blank">存照:不打疫苗影响你第三代？多地强打疫苗政策引不满</a></li>
 <li><a href="/comments/20220728/1764020.md" target="_blank">下调全球经济预期 IMF警告前景黯淡且不稳定</a></li>
 <li><a href="/comments/20220728/1764019.md" target="_blank">美联储升息75个基点 行业分析鹰派政策路径</a></li>
-<li><a href="/comments/20220728/1764011.md" target="_blank">黑柳丁：二舅负重前行，周劼岁月静好</a></li>
-<li><a href="/comments/20220728/1763998.md" target="_blank">评论 | 胡平：胡春华会接替李克强当国务院总理吗？</a></li>
-<li><a href="/comments/20220728/1763978.md" target="_blank">张所长:南京玄奘寺供奉战犯，谁是真正的坏人？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 
 </ul>
 </div>
