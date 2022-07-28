@@ -9,11 +9,11 @@
 <li><a href="/comments/20220728/1764124.md">胡春华竟对李克强如此无礼 学者：有意安排</a></li>
 <li><a href="/headline/20220728/1763946.md">自称第二任极不平凡 习近平讲话为20大连任定调</a></li>
 <li><a href="/health/20220728/1763951.md">成都一40岁男子，长期服用六味地黄丸，后来身体怎么样了呢？</a></li>
-<li><a href="/bannedvideo/20220728/1763968.md">陈破空：习近平强烈暗示：连任，走朝鲜道路！八常委同台，习李都说违心话！受邀出访？印尼总统软硬两手对付他。直播与互动 美东7月27晚8点30、即中港台7月28早8点30</a></li>
 <li><a href="/cnnews/20220728/1764013.md">不好意思, 我被刷屏的“二舅”视频恶心到了</a></li>
+<li><a href="/bannedvideo/20220728/1763968.md">陈破空：习近平强烈暗示：连任，走朝鲜道路！八常委同台，习李都说违心话！受邀出访？印尼总统软硬两手对付他。直播与互动 美东7月27晚8点30、即中港台7月28早8点30</a></li>
+<li><a href="/bannedvideo/20220728/1764090.md">服务中共官员的天朝宫女！</a></li>
 <li><a href="/topimagenews/20220728/1764198.md">阿里巴巴开第一枪释重要信号 中美金融战开打？</a></li>
 <li><a href="/headline/20220728/1764210.md">中国工信部长肖亚庆涉嫌违纪违法被调查</a></li>
-<li><a href="/bannedvideo/20220728/1764090.md">服务中共官员的天朝宫女！</a></li>
 <li><a href="/topimagenews/20220728/1764059.md">金正恩怒吼100%歼灭韩国 美妻娇笑成全场焦点</a></li>
 <li><a href="/cbnews/20220728/1764029.md">习近平要走出国门了?彭丽媛：我还想去巴厘岛</a></li>
 <li><a href="/headline/20220728/1764233.md">【中共权斗】曾长期追随李克强 中信部部长肖亚庆落马无缘二十大</a></li>
@@ -24,9 +24,9 @@
 <li><a href="/cbnews/20220728/1764128.md">中共党媒：歼16、歼20将对佩洛西专机伴飞拦截</a></li>
 <li><a href="/bannedvideo/20220728/1764205.md">不止要连任 习这次讲话了不得 中美或有一战 学者曝背后关键【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220728/1764225.md">陈破空：震动！习近平做秘密报告，不准带纸笔不准记录！自我宣布连任五年。政局进入最危险时刻？陈破空直播 与网友互动 美东7月28早8点30、即中港台7月28晚8点30</a></li>
+<li><a href="/bannedvideo/20220728/1764227.md">中国经济现三大危机，下一个更可怕！又一行业陷倒闭潮。年轻人不敢花钱，消费更疲弱？再提“铁帽子王”，习江最后一搏？美联储遭渗透？【#蔚然财商天下】2022.07.28</a></li>
 <li><a href="/bannedvideo/20220728/1763944.md">中共的最后一根稻草？“二舅”走红要拯救谁？俄罗斯宣布重回苏联【每日头条】</a></li>
 <li><a href="/topimagenews/20220728/1763929.md">倪匡:中华苏维埃共和国</a></li>
-<li><a href="/bannedvideo/20220728/1764227.md">中国经济现三大危机，下一个更可怕！又一行业陷倒闭潮。年轻人不敢花钱，消费更疲弱？再提“铁帽子王”，习江最后一搏？美联储遭渗透？【#蔚然财商天下】2022.07.28</a></li>
 <li><a href="/cbnews/20220728/1763980.md">〖微博谈〗中共的“思想工作”早就到了香港</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 <li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
 
 </ul>
 </div>
