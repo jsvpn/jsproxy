@@ -12,22 +12,22 @@
 <li><a href="/comments/20220727/1763700.md">王友群：二十大前中南海内斗三件大事</a></li>
 <li><a href="/cnnews/20220727/1763653.md">中共军方批裴洛西计划访台 美国防部回应了</a></li>
 <li><a href="/cnnews/20220727/1763848.md">出大事了！很多股票暴跌90% 专家警告“史诗级大崩盘”</a></li>
-<li><a href="/topimagenews/20220727/1763634.md">反习派再施离间计！瞄上习近平贴身心腹【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20220727/1763630.md">〖兲朝浮世绘〗缺啥吆喝啥 无知者的自信</a></li>
 <li><a href="/topimagenews/20220727/1763740.md">中、美两军为裴洛西访台“狭路相逢”?抢在拜、习通话前 秦刚急释善意</a></li>
 <li><a href="/topimagenews/20220728/1763913.md">习近平压力山大 佩罗西访台最新消息有可能是这个时间【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220727/1763657.md">江峰：习近平清零为家族招生意？中共领导人都打了国产疫苗？一讽美国二骗屁民！惊：一年近四千万人，哪儿去了！【江峰漫谈20220726第521期】</a></li>
 <li><a href="/topimagenews/20220727/1763649.md">割完韭菜还很嚣张 中共国学金融大师诈数十亿</a></li>
 <li><a href="/cbnews/20220727/1763696.md">卫星照曝光：大陆距台湾最近军机场升级启用</a></li>
 <li><a href="/bannedvideo/20220727/1763767.md">日本降低移民门槛，最快1年可拿身分？还可带父母？在华日企回流日本，带走中国高端人才？中共应对出奇招？重启废除了16年的农业税？【#蔚然财商天下】2022.07.27</a></li>
-<li><a href="/bannedvideo/20220727/1763776.md">陈破空：玄机！胡春华发文挺习？丁薛祥态度暧昧。佩洛西访台升温，中美都做军事准备！紧锣密鼓。陈破空直播 与网友互动 美东7月27早8点30、即中港台7月27晚8点30</a></li>
 <li><a href="/headline/20220728/1763869.md">习近平：二十大将宣示中共将“走什么路”</a></li>
+<li><a href="/bannedvideo/20220727/1763776.md">陈破空：玄机！胡春华发文挺习？丁薛祥态度暧昧。佩洛西访台升温，中美都做军事准备！紧锣密鼓。陈破空直播 与网友互动 美东7月27早8点30、即中港台7月27晚8点30</a></li>
 <li><a href="/finance/20220727/1763716.md">中国大陆提款机开始领不到钱了 官方推称是“这原因”…</a></li>
 <li><a href="/topimagenews/20220727/1763724.md">拜习明将进行第四次通话 专家：白宫备妥“三大好牌”等习接招</a></li>
+<li><a href="/cnnews/20220728/1763897.md">俄出狠招欧惊呆 美最大恐惧成真</a></li>
 <li><a href="/bannedvideo/20220727/1763684.md">海外华人必看：绿卡被剪护照停办严控出国</a></li>
 <li><a href="/health/20220727/1763677.md">男人变老了？看5个地方 一个都没有还年轻</a></li>
-<li><a href="/cnnews/20220728/1763897.md">俄出狠招欧惊呆 美最大恐惧成真</a></li>
 <li><a href="/topimagenews/20220727/1763710.md">美军已拟妥保护计划 确保裴洛西访台安全</a></li>
+<li><a href="/bannedvideo/20220727/1763642.md">总统亲自认证！暗示习近平将连任？小心！发共产主义标志被判入狱5年【希望之声TV-国际风云】</a></li>
+<li><a href="/ssgc/20220727/1763785.md">又坏又蠢 中共搞垮中国经济</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220728/1764089.md" target="_blank">“你打不打疫苗？你不打影响你第三代…” 中共强迫老人打疫苗</a></li>
+<li><a href="/cbnews/20220728/1764088.md" target="_blank">高温热浪席卷中国，超9亿人受影响</a></li>
+<li><a href="/cbnews/20220728/1764086.md" target="_blank">天亮时分：二舅让张艺谋弱爆了；佩洛西注定成行，军方准备护航；习近平讲话，暗示可能连任十年（政论天下第751集 20220727）</a></li>
 <li><a href="/cbnews/20220728/1764060.md" target="_blank">打拼要照顾好自己！江西22岁女孩连续加班5天后猝死</a></li>
 <li><a href="/cbnews/20220728/1764049.md" target="_blank">北京9天6次公开警告美国 一次比一次严厉</a></li>
 <li><a href="/cbnews/20220728/1764029.md" target="_blank">习近平要走出国门了?彭丽媛：我还想去巴厘岛</a></li>
@@ -57,15 +60,13 @@
 <li><a href="/cbnews/20220726/1763212.md" target="_blank">江峰：吴啊萍与”’某些势力“— 尴尬的法西斯；安倍国葬安排让人叫绝，林芳正邀邦交国竟有台湾！佩罗西访台被迫航母护驾，中共咋办呀，打么？【江峰漫谈20220725第520期】</a></li>
 <li><a href="/cbnews/20220726/1762867.md" target="_blank">【中国支持俄罗斯 中日陷入不可调和的矛盾】</a></li>
 <li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/cbnews/20220726/1763204.md" target="_blank">佩洛西访台 美中可能摊牌？ 【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20220726/1763197.md" target="_blank">对敌雷达威胁大了 美军先进增程反辐射导弹实测成功</a></li>
-<li><a href="/cbnews/20220726/1763185.md" target="_blank">彭博：波洛西若访台 会在拜登和习近平通话几天后</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220728/1764087.md" target="_blank">裴洛西访台前紧张升高 美雷根号航母打击群航向台海</a></li>
 <li><a href="/topimagenews/20220728/1764059.md" target="_blank">金正恩怒吼100%歼灭韩国 美妻娇笑成全场焦点</a></li>
 <li><a href="/topimagenews/20220728/1764048.md" target="_blank">普京出狠招欧洲惊呆 美国最大恐惧成真？</a></li>
 <li><a href="/topimagenews/20220728/1763929.md" target="_blank">倪匡:中华苏维埃共和国</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220726/1763167.md" target="_blank">【微博精粹】吴啊萍被抓 韭菜：这不是关键</a></li>
 <li><a href="/topimagenews/20220726/1763166.md" target="_blank">乌克兰获德国防空战车 可对付无人机</a></li>
 <li><a href="/topimagenews/20220726/1763146.md" target="_blank">《美联社》：越来越多共和党人“公开支持”裴洛西访台</a></li>
-<li><a href="/topimagenews/20220726/1763145.md" target="_blank">拆除中国制造？这次，德国人终于出手了…</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 
 </ul>
 </div>
