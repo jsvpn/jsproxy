@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20220728/1763913.md">习近平压力山大 佩罗西访台最新消息有可能是这个时间【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220727/1763740.md">中、美两军为裴洛西访台“狭路相逢”?抢在拜、习通话前 秦刚急释善意</a></li>
 <li><a href="/cbnews/20220727/1763696.md">卫星照曝光：大陆距台湾最近军机场升级启用</a></li>
-<li><a href="/headline/20220728/1763869.md">习近平：二十大将宣示中共将“走什么路”</a></li>
 <li><a href="/bannedvideo/20220727/1763767.md">日本降低移民门槛，最快1年可拿身分？还可带父母？在华日企回流日本，带走中国高端人才？中共应对出奇招？重启废除了16年的农业税？【#蔚然财商天下】2022.07.27</a></li>
+<li><a href="/headline/20220728/1763869.md">习近平：二十大将宣示中共将“走什么路”</a></li>
 <li><a href="/bannedvideo/20220727/1763776.md">陈破空：玄机！胡春华发文挺习？丁薛祥态度暧昧。佩洛西访台升温，中美都做军事准备！紧锣密鼓。陈破空直播 与网友互动 美东7月27早8点30、即中港台7月27晚8点30</a></li>
 <li><a href="/finance/20220727/1763716.md">中国大陆提款机开始领不到钱了 官方推称是“这原因”…</a></li>
 <li><a href="/topimagenews/20220727/1763724.md">拜习明将进行第四次通话 专家：白宫备妥“三大好牌”等习接招</a></li>
-<li><a href="/bannedvideo/20220727/1763684.md">海外华人必看：绿卡被剪护照停办严控出国</a></li>
+<li><a href="/headline/20220728/1763946.md">自称第二任极不平凡 习近平讲话为20大连任定调</a></li>
 <li><a href="/cnnews/20220728/1763897.md">俄出狠招欧惊呆 美最大恐惧成真</a></li>
+<li><a href="/bannedvideo/20220727/1763684.md">海外华人必看：绿卡被剪护照停办严控出国</a></li>
 <li><a href="/health/20220727/1763677.md">男人变老了？看5个地方 一个都没有还年轻</a></li>
+<li><a href="/health/20220728/1763951.md">成都一40岁男子，长期服用六味地黄丸，后来身体怎么样了呢？</a></li>
 <li><a href="/ssgc/20220727/1763785.md">又坏又蠢 中共搞垮中国经济</a></li>
 <li><a href="/topimagenews/20220727/1763710.md">美军已拟妥保护计划 确保裴洛西访台安全</a></li>
-<li><a href="/headline/20220728/1763946.md">自称第二任极不平凡 习近平讲话为20大连任定调</a></li>
-<li><a href="/worldnews/20220727/1763771.md">39岁女富豪离奇丧命 死前1通电话揭中国籍假老公杀妻夺产真相</a></li>
 <li><a href="/topimagenews/20220728/1763929.md">倪匡:中华苏维埃共和国</a></li>
-<li><a href="/health/20220728/1763951.md">成都一40岁男子，长期服用六味地黄丸，后来身体怎么样了呢？</a></li>
+<li><a href="/worldnews/20220727/1763771.md">39岁女富豪离奇丧命 死前1通电话揭中国籍假老公杀妻夺产真相</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220728/1764128.md" target="_blank">中共党媒：歼16、歼20将对佩洛西专机伴飞拦截</a></li>
 <li><a href="/cbnews/20220728/1764104.md" target="_blank">失踪近3个月 芝大中国留学生找到了</a></li>
 <li><a href="/cbnews/20220728/1764103.md" target="_blank">五台山比丘尼还俗结婚光头顶皇冠 真相是</a></li>
 <li><a href="/cbnews/20220728/1764089.md" target="_blank">“你打不打疫苗？你不打影响你第三代…” 中共强迫老人打疫苗</a></li>
@@ -59,13 +60,15 @@
 <li><a href="/cbnews/20220727/1763443.md" target="_blank">曝华府对佩洛西访台立场 中共这举动是严重升级</a></li>
 <li><a href="/cbnews/20220726/1763337.md" target="_blank">苏州“12级雷暴大风”公车站瞬间吹垮 网吓：如世界末日</a></li>
 <li><a href="/cbnews/20220726/1763255.md" target="_blank">安倍外交顾问警告 中共将试图操控台湾2024大选</a></li>
-<li><a href="/cbnews/20220726/1763212.md" target="_blank">江峰：吴啊萍与”’某些势力“— 尴尬的法西斯；安倍国葬安排让人叫绝，林芳正邀邦交国竟有台湾！佩罗西访台被迫航母护驾，中共咋办呀，打么？【江峰漫谈20220725第520期】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220728/1764127.md" target="_blank">普京正变成习近平的工具人？拜登进退两难</a></li>
+<li><a href="/topimagenews/20220728/1764126.md" target="_blank">惊人的趋势！美国正在进行的文化大革命【阿波罗网编译报道】</a></li>
+<li><a href="/topimagenews/20220728/1764125.md" target="_blank">韩外长称“萨德三不政策”并非承诺 中急批 : 新官不能不理旧账</a></li>
 <li><a href="/topimagenews/20220728/1764087.md" target="_blank">裴洛西访台前紧张升高 美雷根号航母打击群航向台海</a></li>
 <li><a href="/topimagenews/20220728/1764059.md" target="_blank">金正恩怒吼100%歼灭韩国 美妻娇笑成全场焦点</a></li>
 <li><a href="/topimagenews/20220728/1764048.md" target="_blank">普京出狠招欧洲惊呆 美国最大恐惧成真？</a></li>
@@ -88,15 +91,13 @@
 <li><a href="/topimagenews/20220727/1763458.md" target="_blank">游历地狱23分钟美国男子著书披露见闻</a></li>
 <li><a href="/topimagenews/20220726/1763321.md" target="_blank">中国公立医院负债万亿，2千多民营倒闭；中俄一带一路崩盘；中国大飞机要黄？和俄要掰</a></li>
 <li><a href="/topimagenews/20220726/1763203.md" target="_blank">习近平与普京豪赌世界 重塑国际权力格局【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220726/1763167.md" target="_blank">【微博精粹】吴啊萍被抓 韭菜：这不是关键</a></li>
-<li><a href="/topimagenews/20220726/1763166.md" target="_blank">乌克兰获德国防空战车 可对付无人机</a></li>
-<li><a href="/topimagenews/20220726/1763146.md" target="_blank">《美联社》：越来越多共和党人“公开支持”裴洛西访台</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220728/1764124.md" target="_blank">胡春华竟对李克强如此无礼 学者：有意安排</a></li>
 <li><a href="/comments/20220728/1764120.md" target="_blank">【独家重磅】李燕铭：习近平三大异常举动半公开疫情死亡人数惊人 中南海高层围绕防疫路线激斗内幕揭秘 十组数据泄露中国疫情真实死亡人数 细思极恐 2020年诊疗减少十亿人次 入院人数减少3583万人 2000万手机用户消失 2021年全国死亡人数异常增加 习近平连任与二十大常委争夺战（三九） 习近平李克强明争暗斗内幕（三四）</a></li>
 <li><a href="/comments/20220728/1764079.md" target="_blank">美参院通过2800亿芯片法案 「抗共」为主要动力</a></li>
 <li><a href="/comments/20220728/1764078.md" target="_blank">美国会警察和五角大楼记录流出 还原1月6日真相</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220728/1763945.md" target="_blank">【袁红冰热点】内幕：应对佩洛西访台，中共对北韩6万人军队加入俄乌战场，提供全部后勤补给，同时派特战旅加入北韩军队，并支持伊朗给俄罗斯提供大量军用无人机。</a></li>
 <li><a href="/comments/20220728/1763940.md" target="_blank">联合国人权事务委员会促香港停止执行并废除《港版国安法》</a></li>
 <li><a href="/comments/20220728/1763933.md" target="_blank">石铭：中共破坏信仰自由 丧尽天良</a></li>
-<li><a href="/comments/20220728/1763932.md" target="_blank">周晓辉： 中疾控换将有因 新官上任要听习指示</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
 
 </ul>
 </div>
