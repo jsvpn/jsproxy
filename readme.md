@@ -14,11 +14,11 @@
 <li><a href="/bannedvideo/20220728/1764205.md">不止要连任 习这次讲话了不得 中美或有一战 学者曝背后关键【两岸要闻】</a></li>
 <li><a href="/cnnews/20220729/1764375.md">有损习近平天威？中共中央经济会议新说法引热议</a></li>
 <li><a href="/cbnews/20220729/1764434.md">北京不敢对佩洛西动真格 两大错误致其骑虎难下</a></li>
+<li><a href="/bannedvideo/20220729/1764320.md">《二舅》突然被禁，惹了习近平？中国制药厂的秘密</a></li>
 <li><a href="/cnnews/20220729/1764435.md">真的来了？知情人：佩洛西明日开始亚太行</a></li>
 <li><a href="/topimagenews/20220729/1764515.md">江系常委大秘、习近平第二任首个在职部长突然落马【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220729/1764320.md">《二舅》突然被禁，惹了习近平？中国制药厂的秘密</a></li>
-<li><a href="/cnnews/20220729/1764319.md">白宫：拜习通话2小时17分钟 提及台湾、乌克兰</a></li>
 <li><a href="/cbnews/20220729/1764595.md">嘴硬实软 习近平先退让了</a></li>
+<li><a href="/cnnews/20220729/1764319.md">白宫：拜习通话2小时17分钟 提及台湾、乌克兰</a></li>
 <li><a href="/bannedvideo/20220728/1764227.md">中国经济现三大危机，下一个更可怕！又一行业陷倒闭潮。年轻人不敢花钱，消费更疲弱？再提“铁帽子王”，习江最后一搏？美联储遭渗透？【#蔚然财商天下】2022.07.28</a></li>
 <li><a href="/cbnews/20220729/1764489.md">天亮时分：传佩洛西明日启程，里根号航母护航，拜习会鸡同鸭讲；“二舅”的后续事件令人震惊；胡春华捧习踩李，准备入常（政论天下第752集 20220728）</a></li>
 <li><a href="/comments/20220728/1764253.md">红三代曝江泽民丑闻：国宴上为吃牛扒急眼拍桌子 执意要在装满燃料的运载火箭前拍照 未被允许后撒泼大骂 中南海不可告人的秘密_549</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/topimagenews/20220728/1764241.md">北朝鲜高层也买春！警破获卖淫集团 旗下竟有未成年卖淫女</a></li>
 <li><a href="/cnnews/20220729/1764358.md">猜猜我是谁？习近平被涂上“马赛克”</a></li>
 <li><a href="/comments/20220729/1764374.md">大桥被炸断！丢掉赫尔松还好，15000俄军怎么办</a></li>
-<li><a href="/cbnews/20220729/1764347.md">拜习五度通话 拜登：强烈反对单方面改变现状或破坏台海和平稳定</a></li>
+<li><a href="/topimagenews/20220729/1764536.md">佩洛西未启程 胡锡进已叫嚣</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
 <li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
 <li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
 
 </ul>
 </div>
