@@ -8,8 +8,6 @@
 <li><a href="/cnnews/20220730/1764885.md">反讽：动手前，先认清佩洛西专机长啥样</a></li>
 <li><a href="/cnnews/20220730/1764915.md">佩洛西出访前这样说话 习近平不高兴</a></li>
 <li><a href="/topimagenews/20220730/1765036.md">习近平向李克强低头？真相来了【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20220730/1764870.md">一夜之间，澳洲大批华人银行账户纷纷消失</a></li>
-<li><a href="/cbnews/20220730/1764869.md">矢板明夫：裴洛西访台告诉全世界 习近平对美外交、对台政策都失败</a></li>
 <li><a href="/cbnews/20220730/1764965.md">二十大即将到来北戴河会议不轻松</a></li>
 <li><a href="/topimagenews/20220730/1765084.md">江媒：局势异常紧张 佩洛西已经启程,美中军舰南海对峙</a></li>
 <li><a href="/topimagenews/20220730/1765100.md">把习近平架到火炉上烤！反习派设下致命陷阱【阿波罗网报道】</a></li>
@@ -20,14 +18,16 @@
 <li><a href="/topimagenews/20220730/1764884.md">文如其人：从蒋介石和毛泽东的第一首诗看人生格局</a></li>
 <li><a href="/cbnews/20220730/1765181.md">佩洛西访台传“暂定” 中共军演党媒急喊避误判</a></li>
 <li><a href="/ssgc/20220730/1764961.md">〖兲朝浮世绘〗究竟谁怕开战？谁怂了？</a></li>
+<li><a href="/cnnews/20220731/1765213.md">美军一架波音C-40C启航 线上近10万人看它飞</a></li>
 <li><a href="/bannedvideo/20220730/1765019.md">杭州东站，一列载满坦克的军列正向南方行进。这应该是解放军向台海前线运送重型武器装备。台海前线要打仗了吗？</a></li>
 <li><a href="/comments/20220730/1765118.md">大陆某某：分析：中国已经不可能走朝鲜道路了</a></li>
-<li><a href="/cnnews/20220731/1765213.md">美军一架波音C-40C启航 线上近10万人看它飞</a></li>
 <li><a href="/bannedvideo/20220730/1764993.md">佩洛西闪电出发，党国国防部发言人立马认怂：杜绝意外事件！胡锡进指挥击落专机遭维稳？</a></li>
 <li><a href="/cnnews/20220731/1765228.md">华邮专栏：佩洛西亚洲行初期访台 外交消息证实</a></li>
 <li><a href="/headline/20220730/1765169.md">胡锡进威胁击落佩洛西访台座机后推特账号被封，自称为解除封锁而删除贴文</a></li>
-<li><a href="/ssgc/20220730/1764980.md">〖微博谈〗中共弄巧成拙</a></li>
 <li><a href="/bannedvideo/20220730/1765045.md">中共罕见承认了！政治局给习定调？要算政治帐；全美翻案潮来了！大法官首次回应【希望之声TV-两岸要闻】</a></li>
+<li><a href="/ssgc/20220730/1764980.md">〖微博谈〗中共弄巧成拙</a></li>
+<li><a href="/topimagenews/20220731/1765216.md">81前 难以置信！全部暴跌 一天蒸发了接近万亿</a></li>
+<li><a href="/bannedvideo/20220730/1764932.md">陈破空：胡锡进写反诗，要求习近平下台！美中军舰在南海对峙。国军首次发射信号枪，驱离共机。北部战区叫战太假？直播与互动 美东7月29晚8点30、即中港台7月30早8点30</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220731/1765255.md" target="_blank">见证医学之外的奇迹 法轮大法使她们站起来了</a></li>
 <li><a href="/comments/20220731/1765247.md" target="_blank">你可能搞错了你的生肖属相</a></li>
 <li><a href="/comments/20220731/1765246.md" target="_blank">华邮：外交消息证实佩洛西亚洲行初期访台</a></li>
 <li><a href="/comments/20220731/1765245.md" target="_blank">布林肯下周出访东亚和非洲 寻求在全球影响上抗衡中俄</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220730/1765091.md" target="_blank">河南村镇银行弊案 受害者揭当局垫付内情</a></li>
 <li><a href="/comments/20220730/1765090.md" target="_blank">特拉斯获国防大臣力挺 英未来首相之争处于领先优势</a></li>
 <li><a href="/comments/20220730/1765086.md" target="_blank">安倍遇刺已3周 第二颗子弹仍未找到</a></li>
-<li><a href="/comments/20220730/1765075.md" target="_blank">李燕铭：韩国新一代宙斯盾驱逐舰正祖大王舰下水 可打击朝鲜核设施 自研超音速战斗机KF-21成功试飞 韩国FA-50轻型战斗机首次进军欧洲市场 波兰将购190亿美元韩国武器 韩国武器出口跃升至全球第八 全球军事围堵中共之朝鲜半岛战争阴云（十八）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 
 </ul>
 </div>
