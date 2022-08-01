@@ -11,8 +11,8 @@
 <li><a href="/comments/20220801/1765543.md">李燕铭：习近平兵分三路围剿郭声琨 剑指曾庆红 习家军两大员跨省空降接管郭声琨老巢 七省份同日任命11名副省长副主席 习近平之江新军凌志峰跨省接掌广西公安厅 栗战书王岐山旧部苗庆旺空降任广西副主席 曾巡视建行掀清洗风暴 习清洗广西帮围猎郭声琨（七） 二十大高层人事大战（四十）</a></li>
 <li><a href="/ssgc/20220801/1765649.md">〖兲朝浮世绘〗中共想就坡下驴认怂网友不干</a></li>
 <li><a href="/topimagenews/20220801/1765821.md">政坛小辣椒！裴洛西20岁美颜曝光 无惧中共曾多次踩红线</a></li>
-<li><a href="/cnnews/20220801/1765569.md">佩洛西或旋风访台 台湾涉外人士最新评估</a></li>
 <li><a href="/topimagenews/20220801/1765679.md">核查：佩洛西专机发动机故障被迫原路折返？</a></li>
+<li><a href="/cnnews/20220801/1765569.md">佩洛西或旋风访台 台湾涉外人士最新评估</a></li>
 <li><a href="/topimagenews/20220801/1765836.md">中国经济伤命门！大连这轮战果骂灭中国商铺千多家，赶走汉奸打工人3万；</a></li>
 <li><a href="/cnnews/20220801/1765607.md">年代档案：高干子女的北戴河海滩生活</a></li>
 <li><a href="/cnnews/20220801/1765848.md">CNN：台美官员终于松口 裴洛西本周访台！留宿一晚</a></li>
@@ -22,8 +22,8 @@
 <li><a href="/cnnews/20220801/1765562.md">连续熬夜加班猝死？央视出招遭网友骂</a></li>
 <li><a href="/cnnews/20220801/1765914.md">扑通一声！胡锡进跪下了</a></li>
 <li><a href="/cnnews/20220801/1765790.md">裴洛西再被爆最快周二抵台 胡锡进狂吠：敢停留就会点燃台海火药桶</a></li>
-<li><a href="/cnnews/20220801/1765704.md">网友太有才！ 一字不改就写出周劼的生平简史</a></li>
 <li><a href="/bannedvideo/20220801/1765830.md">陈破空：建军节异常！习近平军权旁落？他愁眉苦脸。美军航母战斗群进抵台湾南，佩洛西即将访台？直播与互动 美东8月1早8点30、即中港台8月1晚8点30</a></li>
+<li><a href="/cnnews/20220801/1765704.md">网友太有才！ 一字不改就写出周劼的生平简史</a></li>
 <li><a href="/topimagenews/20220801/1765750.md">为裴洛西访台准备？！传美E-8C作战指挥机午后进入台海南缘</a></li>
 <li><a href="/lifebaike/20220801/1765754.md">北京高校的“朝鲜高干子弟班”：象一个模子刻的</a></li>
 <li><a href="/topimagenews/20220801/1765556.md">积重难返 外资不再痴迷中国市场</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 <li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 <li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 
 </ul>
 </div>
