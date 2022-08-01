@@ -8,26 +8,26 @@
 <li><a href="/comments/20220731/1765427.md">中共怂了？官媒发文称佩洛西访台属个人行为 不代表美国政府</a></li>
 <li><a href="/bannedvideo/20220731/1765454.md">网曝中共军队在杭州、上海一带集结，包括两栖坦克。网友：在公众的视野下，这样的安排，装装样子。【 #大陆民生 】</a></li>
 <li><a href="/cbnews/20220731/1765450.md">辽宁出轨10年人夫脑中风 小三溜了 正宫5分钟定他生死</a></li>
-<li><a href="/topimagenews/20220731/1765495.md">历史正在重演？中共军队一幕令人担忧【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20220731/1765431.md">我们被“8小时睡眠论”忽悠了？50岁以后，最佳睡眠时间是多少？</a></li>
+<li><a href="/topimagenews/20220731/1765495.md">历史正在重演？中共军队一幕令人担忧【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220731/1765460.md">中国楼市硬着陆！当房地产救不了中国经济，说明中国经济已经没救了｜政经孙老师</a></li>
 <li><a href="/topimagenews/20220801/1765566.md">迎接佩洛西 曝台湾方面“准备中”</a></li>
 <li><a href="/topimagenews/20220731/1765449.md">长征五号B火箭残骸坠回地球画面曝光 距台湾仅…</a></li>
 <li><a href="/cbnews/20220731/1765503.md">佩洛西展开亚洲行 逾10架美军军机飞抵冲绳</a></li>
+<li><a href="/bannedvideo/20220801/1765564.md">🔥扑通一声！胡锡进跪下了 叫嚣击落佩洛西飞机，白宫回应，蓬佩奥回呛；俄正变得“越来越绝望”； “韩衙内”横空出世！官二代炫爹也内卷；天安门伪案编教材；古巴能源危机！首都哈瓦那下月停电【阿波罗网TL】</a></li>
 <li><a href="/bannedvideo/20220801/1765518.md">“裴洛西厉害啦！公布行程 叫板习近平”Shitao TV - 01 (31/07/22) 10多架美军各种救援机降落冲绳 飞机代号：WHO SCARE</a></li>
 <li><a href="/topimagenews/20220731/1765498.md">中共军报：二十大之前全军的重要政治任务是...【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220801/1765564.md">🔥扑通一声！胡锡进跪下了 叫嚣击落佩洛西飞机，白宫回应，蓬佩奥回呛；俄正变得“越来越绝望”； “韩衙内”横空出世！官二代炫爹也内卷；天安门伪案编教材；古巴能源危机！首都哈瓦那下月停电【阿波罗网TL】</a></li>
 <li><a href="/cnnews/20220731/1765455.md">川男弃高薪隐居洞穴 每天睡到自然醒劳作1小时</a></li>
 <li><a href="/cnnews/20220801/1765569.md">佩洛西或旋风访台 台湾涉外人士最新评估</a></li>
 <li><a href="/cnnews/20220731/1765426.md">访台有机会？佩洛西预计今抵亚洲 明出席新加坡商会演讲</a></li>
-<li><a href="/cnnews/20220731/1765434.md">佩洛西公布亚洲行程：此行强调对盟国及朋友承诺</a></li>
 <li><a href="/bannedvideo/20220731/1765462.md">🔥美军出现在台湾 大型车接送；佩洛西专机再起飞 关闭讯号 公布亚洲行程，强调对盟国及朋友承诺；访台是压力测试？中共党媒急喊避误判；川普签署：赋予美国官员抗拒来自中共压力的法律根据  LV</a></li>
 <li><a href="/comments/20220801/1765543.md">李燕铭：习近平兵分三路围剿郭声琨 剑指曾庆红 习家军两大员跨省空降接管郭声琨老巢 七省份同日任命11名副省长副主席 习近平之江新军凌志峰跨省接掌广西公安厅 栗战书王岐山旧部苗庆旺空降任广西副主席 曾巡视建行掀清洗风暴 习清洗广西帮围猎郭声琨（七） 二十大高层人事大战（四十）</a></li>
+<li><a href="/cnnews/20220731/1765434.md">佩洛西公布亚洲行程：此行强调对盟国及朋友承诺</a></li>
 <li><a href="/bannedvideo/20220731/1765472.md">中共变得越来越坏</a></li>
 <li><a href="/cnnews/20220801/1765562.md">连续熬夜加班猝死？央视出招遭网友骂</a></li>
-<li><a href="/bannedvideo/20220731/1765473.md">陈破空：佩洛西飞往亚太！关闭讯号。四架战机护航！行前听取印太司令部简报，参观珍珠港。党媒重点：访问国未列台湾。习近平敢点燃战火？土共空军准备这么干。直播 美东7月31早8点30、即中港台7月31晚8点30</a></li>
 <li><a href="/lifebaike/20220731/1765451.md">孝庄太后临终留下遗言 康熙到死都不知怎么办</a></li>
-<li><a href="/topimagenews/20220801/1765556.md">积重难返 外资不再痴迷中国市场</a></li>
+<li><a href="/topimagenews/20220801/1765573.md">空中护卫佩洛西专机 台军方与美合作完备作战计划</a></li>
+<li><a href="/bannedvideo/20220731/1765473.md">陈破空：佩洛西飞往亚太！关闭讯号。四架战机护航！行前听取印太司令部简报，参观珍珠港。党媒重点：访问国未列台湾。习近平敢点燃战火？土共空军准备这么干。直播 美东7月31早8点30、即中港台7月31晚8点30</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
 <li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 
 </ul>
 </div>
