@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20220731/1765379.md">裴洛西专机上午再次起飞 目的地未知 起飞后20分钟即关闭讯号</a></li>
-<li><a href="/cnnews/20220731/1765288.md">崩溃：14家医院紧急关闭ICU 大批医护逃离</a></li>
 <li><a href="/bannedvideo/20220731/1765385.md">佩洛西访台成行，习近平将遭军方唾弃！现在台海开战，美军将是主力！ （一平论政2022/7/30)</a></li>
 <li><a href="/comments/20220731/1765427.md">中共怂了？官媒发文称佩洛西访台属个人行为 不代表美国政府</a></li>
 <li><a href="/bannedvideo/20220731/1765404.md">佩洛西真的去台湾？行程曝光！习近平召集高官进京密会，不准记录说了啥？ 【希望之声TV-国际风云】</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/lifebaike/20220731/1765431.md">我们被“8小时睡眠论”忽悠了？50岁以后，最佳睡眠时间是多少？</a></li>
 <li><a href="/bannedvideo/20220731/1765460.md">中国楼市硬着陆！当房地产救不了中国经济，说明中国经济已经没救了｜政经孙老师</a></li>
 <li><a href="/cbnews/20220731/1765343.md">大陆学者：这是开放剧本 北京不会“小打小闹”</a></li>
-<li><a href="/cnnews/20220731/1765291.md">你我没想到！那个“死去“的诺基亚又活过来了</a></li>
 <li><a href="/topimagenews/20220731/1765449.md">长征五号B火箭残骸坠回地球画面曝光 距台湾仅…</a></li>
 <li><a href="/cbnews/20220731/1765503.md">佩洛西展开亚洲行 逾10架美军军机飞抵冲绳</a></li>
-<li><a href="/bannedvideo/20220731/1765284.md">🔥中共发难佩洛西突转向；习近平一番话，军方和反习派反应大不同；河南银行案官宣第3批垫付受害者曝大忽悠黑幕；中国银行雪梨分行现挤兑大排长龙；人都跑了？上海全球招五千博士后【阿波罗网TA】</a></li>
 <li><a href="/bannedvideo/20220731/1765331.md">🔥李克强在干啥？中共政治局学习现罕见一幕；中国疫苗界多高官专家壮年忽然丧生，疑有黑幕；佩罗西访台凸显习两大失败；二十大后学朝鲜？习近平讲话引猜测；对西方渗透不止！曝中共对抖音图谋...【阿波罗网FT】</a></li>
 <li><a href="/cnnews/20220731/1765426.md">访台有机会？佩洛西预计今抵亚洲 明出席新加坡商会演讲</a></li>
 <li><a href="/topimagenews/20220731/1765498.md">中共军报：二十大之前全军的重要政治任务是...【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220801/1765518.md">“裴洛西厉害啦！公布行程 叫板习近平”Shitao TV - 01 (31/07/22) 10多架美军各种救援机降落冲绳 飞机代号：WHO SCARE</a></li>
 <li><a href="/cnnews/20220731/1765455.md">川男弃高薪隐居洞穴 每天睡到自然醒劳作1小时</a></li>
 <li><a href="/bannedvideo/20220731/1765375.md">佩洛西确定访台了；胡锡进删推文、叹不得不低头，中共五场军演最怕意外；中美台如何对待佩洛西访台？｜薇羽看世间 第515期 20220730</a></li>
+<li><a href="/bannedvideo/20220731/1765462.md">🔥美军出现在台湾 大型车接送；佩洛西专机再起飞 关闭讯号 公布亚洲行程，强调对盟国及朋友承诺；访台是压力测试？中共党媒急喊避误判；川普签署：赋予美国官员抗拒来自中共压力的法律根据  LV</a></li>
+<li><a href="/cnnews/20220731/1765434.md">佩洛西公布亚洲行程：此行强调对盟国及朋友承诺</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 <li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 
 </ul>
 </div>
