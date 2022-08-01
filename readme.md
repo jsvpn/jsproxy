@@ -15,15 +15,15 @@
 <li><a href="/topimagenews/20220731/1765402.md">美军现出在台湾 美军人员由台方安排大型休旅车接送</a></li>
 <li><a href="/topimagenews/20220731/1765495.md">历史正在重演？中共军队一幕令人担忧【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220731/1765366.md">【微博精粹】深究二舅：共党不配执政</a></li>
-<li><a href="/lifebaike/20220731/1765431.md">我们被“8小时睡眠论”忽悠了？50岁以后，最佳睡眠时间是多少？</a></li>
 <li><a href="/bannedvideo/20220731/1765460.md">中国楼市硬着陆！当房地产救不了中国经济，说明中国经济已经没救了｜政经孙老师</a></li>
+<li><a href="/lifebaike/20220731/1765431.md">我们被“8小时睡眠论”忽悠了？50岁以后，最佳睡眠时间是多少？</a></li>
 <li><a href="/cbnews/20220731/1765343.md">大陆学者：这是开放剧本 北京不会“小打小闹”</a></li>
 <li><a href="/topimagenews/20220731/1765449.md">长征五号B火箭残骸坠回地球画面曝光 距台湾仅…</a></li>
 <li><a href="/cbnews/20220731/1765503.md">佩洛西展开亚洲行 逾10架美军军机飞抵冲绳</a></li>
+<li><a href="/bannedvideo/20220801/1765518.md">“裴洛西厉害啦！公布行程 叫板习近平”Shitao TV - 01 (31/07/22) 10多架美军各种救援机降落冲绳 飞机代号：WHO SCARE</a></li>
 <li><a href="/bannedvideo/20220731/1765331.md">🔥李克强在干啥？中共政治局学习现罕见一幕；中国疫苗界多高官专家壮年忽然丧生，疑有黑幕；佩罗西访台凸显习两大失败；二十大后学朝鲜？习近平讲话引猜测；对西方渗透不止！曝中共对抖音图谋...【阿波罗网FT】</a></li>
 <li><a href="/cnnews/20220731/1765426.md">访台有机会？佩洛西预计今抵亚洲 明出席新加坡商会演讲</a></li>
 <li><a href="/topimagenews/20220731/1765498.md">中共军报：二十大之前全军的重要政治任务是...【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220801/1765518.md">“裴洛西厉害啦！公布行程 叫板习近平”Shitao TV - 01 (31/07/22) 10多架美军各种救援机降落冲绳 飞机代号：WHO SCARE</a></li>
 <li><a href="/cnnews/20220731/1765455.md">川男弃高薪隐居洞穴 每天睡到自然醒劳作1小时</a></li>
 <li><a href="/bannedvideo/20220731/1765375.md">佩洛西确定访台了；胡锡进删推文、叹不得不低头，中共五场军演最怕意外；中美台如何对待佩洛西访台？｜薇羽看世间 第515期 20220730</a></li>
 <li><a href="/bannedvideo/20220731/1765462.md">🔥美军出现在台湾 大型车接送；佩洛西专机再起飞 关闭讯号 公布亚洲行程，强调对盟国及朋友承诺；访台是压力测试？中共党媒急喊避误判；川普签署：赋予美国官员抗拒来自中共压力的法律根据  LV</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
 <li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 
 </ul>
 </div>
