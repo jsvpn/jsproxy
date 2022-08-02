@@ -8,9 +8,9 @@
 <li><a href="/bannedvideo/20220801/1765916.md">“习近平认输了？外交部声明微博爆棚近5000万：严重后果！”Shitao TV - 02 (01/08/22) 东部战区：严阵以待 听令而战 东风17公路发射</a></li>
 <li><a href="/cnnews/20220801/1765914.md">扑通一声！胡锡进跪下了</a></li>
 <li><a href="/cbnews/20220802/1766100.md">斐洛西坚持把台湾列入行程 知情人士曝背后主因</a></li>
+<li><a href="/topimagenews/20220802/1766046.md">佩洛西访台从热搜消失！中共‘红线’快被人踩成红地毯了【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220802/1766203.md">报复？北京出手了…</a></li>
 <li><a href="/cbnews/20220802/1766026.md">反习势力与习将有3场交易？黑天鹅灰犀牛不断</a></li>
-<li><a href="/topimagenews/20220802/1766046.md">佩洛西访台从热搜消失！中共‘红线’快被人踩成红地毯了【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220802/1765964.md">美官员预期 中方最大报复会出现在波洛西离台后</a></li>
 <li><a href="/cbnews/20220802/1765999.md">尴尬！新华字典中出现这个词 家长全傻了</a></li>
 <li><a href="/topimagenews/20220802/1766138.md">【微博精粹】佩洛西落地台湾前 华春莹被晒精日</a></li>
@@ -19,14 +19,14 @@
 <li><a href="/cnnews/20220801/1765913.md">裴洛西拟访台中共频放话 他曝：习近平不怕枪口向后转吗？</a></li>
 <li><a href="/comments/20220802/1766012.md">高层人事9月底敲定？习与政治对手权斗升级 将有政治局委员落马？</a></li>
 <li><a href="/topimagenews/20220802/1766273.md">SPAR19起飞了！十六万人“在线等”裴洛西航班…</a></li>
-<li><a href="/topimagenews/20220802/1766236.md">习近平身家性命在此 军机让道？厦门航空宣布调整…【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220802/1766171.md">护驾裴洛西！美军3大主力舰北东南环台 20架F-35B待命</a></li>
-<li><a href="/cnnews/20220802/1766214.md">江泽民淫乱 “二英”大战中南海</a></li>
 <li><a href="/topimagenews/20220802/1766301.md">传裴洛西座机将绕菲律宾抵台 专家曝原因</a></li>
+<li><a href="/topimagenews/20220802/1766236.md">习近平身家性命在此 军机让道？厦门航空宣布调整…【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20220802/1766214.md">江泽民淫乱 “二英”大战中南海</a></li>
+<li><a href="/topimagenews/20220802/1766171.md">护驾裴洛西！美军3大主力舰北东南环台 20架F-35B待命</a></li>
 <li><a href="/topimagenews/20220802/1766266.md">中共威吓不断！美前众议院议长金瑞契警告：共军击落裴洛西座机“形同开战”</a></li>
-<li><a href="/comments/20220802/1765967.md">佩洛西真的要访台！胡锡进泄气：就让她去吧</a></li>
+<li><a href="/topimagenews/20220802/1766287.md">裴洛西今晚抵台！共军真的绝不“坐视不管”？专家：中共只会撂狠话、自圆其说</a></li>
 <li><a href="/topimagenews/20220802/1766237.md">伴飞？换座机？裴洛西抵马来西亚 另一架神秘包机也来了</a></li>
-<li><a href="/cbnews/20220802/1766125.md">泄气的皮球！裴洛西访台 胡锡进“让她去吧” 小粉红：真是不嫌丢人 不怕全世界取笑</a></li>
+<li><a href="/comments/20220802/1765967.md">佩洛西真的要访台！胡锡进泄气：就让她去吧</a></li>
 <li><a href="/cbnews/20220802/1766188.md">江峰：佩罗西访台行程已定，中共画风大变：来与不来中国赢定了！假演习真妥协，习近平怂了的三大原因；军队高层转向、瑞士制裁、美无人机精准打击；芯片产业也烂尾，拿什么跟美国拼【江峰漫谈20220801第523期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220802/1766374.md" target="_blank">来了！ 佩洛西专机“目的地松山机场” 抵台时间曝光</a></li>
+<li><a href="/comments/20220802/1766371.md" target="_blank">佩洛西访台 大量中共军队厦门集结 装甲车冲上游客云集的海滩</a></li>
 <li><a href="/comments/20220802/1766360.md" target="_blank">时事大家谈：大基金芯片窝案传言四起中国芯片大业烂到芯里？</a></li>
 <li><a href="/comments/20220802/1766357.md" target="_blank">【财经拆局】清算时刻——由肖亚庆下马到二十大权斗</a></li>
 <li><a href="/comments/20220802/1766338.md" target="_blank">【俄乌战火第160天】乌克兰首艘粮食船启航 俄军惧怕“海马斯” 以核电厂为盾牌</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220802/1766197.md" target="_blank">佩洛西中暑？专机故障返回？疑出自粉红之手</a></li>
 <li><a href="/comments/20220802/1766185.md" target="_blank">影帝翻车 代言理财产品涉诈390亿 奖项提名被取消</a></li>
 <li><a href="/comments/20220802/1766184.md" target="_blank">白宫：基地组织头目扎瓦希里已被斩首</a></li>
-<li><a href="/comments/20220802/1766175.md" target="_blank">美民调分析：共和党或在中期选举中赢得25席</a></li>
-<li><a href="/comments/20220802/1766174.md" target="_blank">超过辛德勒！女护士救2500犹太儿童的故事将被搬上荧屏</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
 <li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 <li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
 
 </ul>
 </div>
