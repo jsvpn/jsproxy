@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220801/1765821.md">政坛小辣椒！裴洛西20岁美颜曝光 无惧中共曾多次踩红线</a></li>
-<li><a href="/comments/20220801/1765752.md">被封杀热文：佩洛西治好了中国的精神内耗</a></li>
 <li><a href="/bannedvideo/20220801/1765916.md">“习近平认输了？外交部声明微博爆棚近5000万：严重后果！”Shitao TV - 02 (01/08/22) 东部战区：严阵以待 听令而战 东风17公路发射</a></li>
 <li><a href="/topimagenews/20220801/1765836.md">中国经济伤命门！大连这轮战果骂灭中国商铺千多家，赶走汉奸打工人3万；</a></li>
 <li><a href="/cnnews/20220801/1765914.md">扑通一声！胡锡进跪下了</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cbnews/20220802/1765999.md">尴尬！新华字典中出现这个词 家长全傻了</a></li>
 <li><a href="/bannedvideo/20220801/1765830.md">陈破空：建军节异常！习近平军权旁落？他愁眉苦脸。美军航母战斗群进抵台湾南，佩洛西即将访台？直播与互动 美东8月1早8点30、即中港台8月1晚8点30</a></li>
 <li><a href="/cnnews/20220801/1765790.md">裴洛西再被爆最快周二抵台 胡锡进狂吠：敢停留就会点燃台海火药桶</a></li>
-<li><a href="/cnnews/20220802/1765964.md">美官员预期 中方最大报复会出现在波洛西离台后</a></li>
 <li><a href="/topimagenews/20220802/1766098.md">裴洛西今晚10时20分飞抵松山机场 下榻饭店曝光</a></li>
+<li><a href="/cnnews/20220802/1765964.md">美官员预期 中方最大报复会出现在波洛西离台后</a></li>
 <li><a href="/topimagenews/20220802/1766138.md">【微博精粹】佩洛西落地台湾前 华春莹被晒精日</a></li>
 <li><a href="/comments/20220802/1766012.md">高层人事9月底敲定？习与政治对手权斗升级 将有政治局委员落马？</a></li>
 <li><a href="/cnnews/20220801/1765913.md">裴洛西拟访台中共频放话 他曝：习近平不怕枪口向后转吗？</a></li>
 <li><a href="/comments/20220802/1765967.md">佩洛西真的要访台！胡锡进泄气：就让她去吧</a></li>
-<li><a href="/lifebaike/20220801/1765754.md">北京高校的“朝鲜高干子弟班”：象一个模子刻的</a></li>
-<li><a href="/topimagenews/20220801/1765750.md">为裴洛西访台准备？！传美E-8C作战指挥机午后进入台海南缘</a></li>
 <li><a href="/cnnews/hknews/20220801/1765912.md">裴洛西确定明晚抵台北！政府官员证实：已收到“接待通知”</a></li>
 <li><a href="/cnnews/20220802/1765951.md">与谷爱凌合影的气质美女吸睛 竟是林徽因的曾孙女</a></li>
 <li><a href="/bannedvideo/20220802/1765997.md">佩洛西访台敏感时刻 习喊出四个字【红朝禁闻】</a></li>
+<li><a href="/topimagenews/20220801/1765926.md">中共武力夺取台积电 自己也要天下大乱</a></li>
+<li><a href="/cbnews/20220802/1766125.md">泄气的皮球！裴洛西访台 胡锡进“让她去吧” 小粉红：真是不嫌丢人 不怕全世界取笑</a></li>
+<li><a href="/topimagenews/20220802/1766171.md">护驾裴洛西！美军3大主力舰北东南环台 20架F-35B待命</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 
 </ul>
 </div>
