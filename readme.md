@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20220801/1765705.md">共军伴飞计划落空？美军明确开火条件？</a></li>
 <li><a href="/topimagenews/20220801/1765821.md">政坛小辣椒！裴洛西20岁美颜曝光 无惧中共曾多次踩红线</a></li>
-<li><a href="/topimagenews/20220801/1765679.md">核查：佩洛西专机发动机故障被迫原路折返？</a></li>
 <li><a href="/comments/20220801/1765752.md">被封杀热文：佩洛西治好了中国的精神内耗</a></li>
 <li><a href="/topimagenews/20220801/1765836.md">中国经济伤命门！大连这轮战果骂灭中国商铺千多家，赶走汉奸打工人3万；</a></li>
 <li><a href="/cnnews/20220801/1765848.md">CNN：台美官员终于松口 裴洛西本周访台！留宿一晚</a></li>
 <li><a href="/cnnews/20220801/1765914.md">扑通一声！胡锡进跪下了</a></li>
 <li><a href="/topimagenews/20220801/1765743.md">习近平情急之下发射“航母杀手”？威胁佩罗西【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220801/1765916.md">“习近平认输了？外交部声明微博爆棚近5000万：严重后果！”Shitao TV - 02 (01/08/22) 东部战区：严阵以待 听令而战 东风17公路发射</a></li>
-<li><a href="/cnnews/20220801/1765790.md">裴洛西再被爆最快周二抵台 胡锡进狂吠：敢停留就会点燃台海火药桶</a></li>
-<li><a href="/cnnews/20220802/1765964.md">美官员预期 中方最大报复会出现在波洛西离台后</a></li>
 <li><a href="/cbnews/20220802/1765999.md">尴尬！新华字典中出现这个词 家长全傻了</a></li>
+<li><a href="/cnnews/20220801/1765790.md">裴洛西再被爆最快周二抵台 胡锡进狂吠：敢停留就会点燃台海火药桶</a></li>
 <li><a href="/bannedvideo/20220801/1765830.md">陈破空：建军节异常！习近平军权旁落？他愁眉苦脸。美军航母战斗群进抵台湾南，佩洛西即将访台？直播与互动 美东8月1早8点30、即中港台8月1晚8点30</a></li>
+<li><a href="/cnnews/20220802/1765964.md">美官员预期 中方最大报复会出现在波洛西离台后</a></li>
 <li><a href="/cbnews/20220802/1766026.md">反习势力与习将有3场交易？黑天鹅灰犀牛不断</a></li>
-<li><a href="/cnnews/20220801/1765704.md">网友太有才！ 一字不改就写出周劼的生平简史</a></li>
 <li><a href="/topimagenews/20220802/1766046.md">佩洛西访台从热搜消失！中共‘红线’快被人踩成红地毯了【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20220801/1765704.md">网友太有才！ 一字不改就写出周劼的生平简史</a></li>
 <li><a href="/cnnews/20220801/1765913.md">裴洛西拟访台中共频放话 他曝：习近平不怕枪口向后转吗？</a></li>
 <li><a href="/comments/20220802/1765967.md">佩洛西真的要访台！胡锡进泄气：就让她去吧</a></li>
 <li><a href="/lifebaike/20220801/1765754.md">北京高校的“朝鲜高干子弟班”：象一个模子刻的</a></li>
+<li><a href="/comments/20220802/1766012.md">高层人事9月底敲定？习与政治对手权斗升级 将有政治局委员落马？</a></li>
 <li><a href="/topimagenews/20220801/1765750.md">为裴洛西访台准备？！传美E-8C作战指挥机午后进入台海南缘</a></li>
 <li><a href="/cnnews/hknews/20220801/1765912.md">裴洛西确定明晚抵台北！政府官员证实：已收到“接待通知”</a></li>
-<li><a href="/comments/20220802/1766012.md">高层人事9月底敲定？习与政治对手权斗升级 将有政治局委员落马？</a></li>
 <li><a href="/topimagenews/20220801/1765926.md">中共武力夺取台积电 自己也要天下大乱</a></li>
+<li><a href="/cnnews/20220801/1765738.md">美国4名中学生从报纸的一行字，挖出震撼世界的历史</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220802/1766171.md" target="_blank">护驾裴洛西！美军3大主力舰北东南环台 20架F-35B待命</a></li>
+<li><a href="/topimagenews/20220802/1766170.md" target="_blank">最新发布！台湾三军进入特殊时期 佩罗西访台强化战备？</a></li>
 <li><a href="/topimagenews/20220802/1766138.md" target="_blank">【微博精粹】佩洛西落地台湾前 华春莹被晒精日</a></li>
 <li><a href="/topimagenews/20220802/1766098.md" target="_blank">裴洛西今晚10时20分飞抵松山机场 下榻饭店曝光</a></li>
 <li><a href="/topimagenews/20220802/1766046.md" target="_blank">佩洛西访台从热搜消失！中共‘红线’快被人踩成红地毯了【阿波罗网报道】</a></li>
@@ -89,14 +91,14 @@
 <li><a href="/topimagenews/20220731/1765498.md" target="_blank">中共军报：二十大之前全军的重要政治任务是&#8230;【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220731/1765495.md" target="_blank">历史正在重演？中共军队一幕令人担忧【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220731/1765449.md" target="_blank">长征五号B火箭残骸坠回地球画面曝光 距台湾仅…</a></li>
-<li><a href="/topimagenews/20220731/1765402.md" target="_blank">美军现出在台湾 美军人员由台方安排大型休旅车接送</a></li>
-<li><a href="/topimagenews/20220731/1765366.md" target="_blank">【微博精粹】深究二舅：共党不配执政</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220802/1766175.md" target="_blank">美民调分析：共和党或在中期选举中赢得25席</a></li>
+<li><a href="/comments/20220802/1766174.md" target="_blank">超过辛德勒！女护士救2500犹太儿童的故事将被搬上荧屏</a></li>
 <li><a href="/comments/20220802/1766162.md" target="_blank">佩洛西访台行程确定 胡锡进立马变怂：中共军机只是伴飞</a></li>
 <li><a href="/comments/20220802/1766161.md" target="_blank">俄国也来凑热闹？发中国地图不见台湾 小粉红翻脸</a></li>
 <li><a href="/comments/20220802/1766160.md" target="_blank">白宫首度挺佩洛西访台 《华日》曝唯一变数</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220801/1765932.md" target="_blank">专栏 | 劳工通讯：云南工人工伤 没钱付费医院暂停治疗（四）</a></li>
 <li><a href="/comments/20220801/1765919.md" target="_blank">河北曝「招生陷阱」 200多名学生上「假高中」</a></li>
 <li><a href="/comments/20220801/1765918.md" target="_blank">有电池起火的安全隐患，2022宝马i4、iX被召回</a></li>
-<li><a href="/comments/20220801/1765915.md" target="_blank">佩洛西亚洲行由南向北 专家：避中共火力 开安全航道</a></li>
-<li><a href="/comments/20220801/1765907.md" target="_blank">为巩固权力 习近平引进“福建帮”和心腹主掌安全、宣传与经济</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 <li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
 <li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
 
 </ul>
 </div>
