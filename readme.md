@@ -10,7 +10,6 @@
 <li><a href="/topimagenews/20220802/1766046.md">佩洛西访台从热搜消失！中共‘红线’快被人踩成红地毯了【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220802/1766026.md">反习势力与习将有3场交易？黑天鹅灰犀牛不断</a></li>
 <li><a href="/topimagenews/20220802/1766138.md">【微博精粹】佩洛西落地台湾前 华春莹被晒精日</a></li>
-<li><a href="/cbnews/20220802/1765999.md">尴尬！新华字典中出现这个词 家长全傻了</a></li>
 <li><a href="/comments/20220802/1766012.md">高层人事9月底敲定？习与政治对手权斗升级 将有政治局委员落马？</a></li>
 <li><a href="/topimagenews/20220802/1766098.md">裴洛西今晚10时20分飞抵松山机场 下榻饭店曝光</a></li>
 <li><a href="/topimagenews/20220802/1766207.md">无畏中共恫吓 蔡英文3日“官方接见”佩洛西并进行直播</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20220802/1766288.md">裴洛西将访台 中共气到不见布林肯</a></li>
 <li><a href="/cbnews/20220802/1766125.md">泄气的皮球！裴洛西访台 胡锡进“让她去吧” 小粉红：真是不嫌丢人 不怕全世界取笑</a></li>
 <li><a href="/bannedvideo/20220802/1766300.md">8/2  终于来了？！直击佩洛西搭机抵台 【#大纪元直播】｜#大纪元新闻</a></li>
+<li><a href="/topimagenews/20220802/1766383.md">裴洛西访台 解放军战车集结厦门沙滩影片疯传 游客让道看傻眼</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220803/1766477.md" target="_blank">佩洛西将会见蔡英文 公开接受媒体采访 中共动作不断</a></li>
 <li><a href="/comments/20220803/1766456.md" target="_blank">年近八旬老太车祸跌入涵洞 奇迹生还</a></li>
 <li><a href="/comments/20220803/1766442.md" target="_blank">再传重磅消息！力挺台湾 英国下议院外委会拟年底访台获赞</a></li>
 <li><a href="/comments/20220803/1766436.md" target="_blank">华春莹以「纸老虎」回应佩洛西访台 微博热搜中台湾话题被撤</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220802/1766279.md" target="_blank">英国研究：3%新手父母 罹晚期产后忧郁症</a></li>
 <li><a href="/comments/20220802/1766278.md" target="_blank">黄肉红肉紫心！ 番薯营养成分含量大不同</a></li>
 <li><a href="/comments/20220802/1766277.md" target="_blank">当心特殊“空调病”，来势汹汹可能“要命”</a></li>
-<li><a href="/comments/20220802/1766261.md" target="_blank">李燕铭：台海风云（九） 佩洛西访台行程曝光 中美台三军异动 台海战事一触即发 共军密集军演 东部战区扬言埋葬一切来犯之敌 央视公布航母杀手发射画面 9架轰-6K轰炸机同框出击 台湾国军汉光实弹演习模拟两栖登陆作战 国军下达强化战备整备指导命令 “第一击”权责交衡指所执行 美国五角大楼为佩洛希制定保护方案 美军战舰军机集结航母出动 美国在印太地区同期主导三场大型军演</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 <li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 <li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 
 </ul>
 </div>
