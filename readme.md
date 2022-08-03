@@ -10,10 +10,10 @@
 <li><a href="/topimagenews/20220803/1766556.md">笑喷！中共外交部深夜极速声明：坚决反对 严厉谴责 强烈抗议【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220803/1766698.md">胡锡进认了：解放军没能力伴飞、没能力穿越台湾</a></li>
 <li><a href="/bannedvideo/20220803/1766547.md">商议找台阶下？中共高层突然集体隐身。如何既保住面子又不至造成美军反弹冲突升级【每日头条】</a></li>
-<li><a href="/cnnews/20220803/1766722.md">佩洛西在记者会上 回答了外界最关心的一个问题</a></li>
 <li><a href="/cnnews/20220803/1766730.md">中国网友的诙谐评论 笑翻你大有可能</a></li>
-<li><a href="/cbnews/20220803/1766585.md">天亮时分：佩洛西到访台湾，英德跟进，踩烂中共红线；中共打出“七伤拳”，狠伤自己，胡锡进倒成赢家（政论天下第754集 20220802）</a></li>
+<li><a href="/cnnews/20220803/1766722.md">佩洛西在记者会上 回答了外界最关心的一个问题</a></li>
 <li><a href="/cnnews/hknews/20220803/1766788.md">佩洛西自曝和蔡英文闭门谈了这件事</a></li>
+<li><a href="/cbnews/20220803/1766585.md">天亮时分：佩洛西到访台湾，英德跟进，踩烂中共红线；中共打出“七伤拳”，狠伤自己，胡锡进倒成赢家（政论天下第754集 20220802）</a></li>
 <li><a href="/topimagenews/20220803/1766751.md">以“国家信誉”要挟！反习派逼习近平犯错误【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220803/1766694.md">江峰：佩洛西临行交给《华盛顿邮报》重磅密文！ 共军军演包围台湾，不敢杠美国，挑软柿子捏？这三个地点要小心！【江峰漫谈20220802第524期】</a></li>
 <li><a href="/topimagenews/20220803/1766786.md">口译妹4度打断裴洛西！结果是AIT员工网傻眼：散会了</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220804/1767052.md" target="_blank">克里姆林宫：佩洛西访台是纯粹挑衅 不能小看</a></li>
+<li><a href="/cbnews/20220804/1767051.md" target="_blank">中共又警告了：英议员不要跟着美国“玩火”</a></li>
 <li><a href="/cbnews/20220804/1767047.md" target="_blank">佩洛西抵台 胡编“击落”哪去了？</a></li>
 <li><a href="/cbnews/20220804/1767025.md" target="_blank">佩洛西平安来去台湾 胡锡进：遗憾没把她吓回去</a></li>
 <li><a href="/cbnews/20220804/1766993.md" target="_blank">佩洛西访台未引发大战 下次恐没这么幸运？</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20220803/1766450.md" target="_blank">家电无法启动 格力董事长董明珠变脸 丢下2直播主走人</a></li>
 <li><a href="/cbnews/20220803/1766431.md" target="_blank">断言习近平不会攻台 美学者：比起裴洛西中国更怕没芯片</a></li>
 <li><a href="/cbnews/20220803/1766430.md" target="_blank">胡锡进为何跳脚 他揭：每年靠激进言论赚1500万人民币</a></li>
-<li><a href="/cbnews/20220803/1766410.md" target="_blank">共军宣布“包围台湾”实弹射击！区域图曝 封锁台海空3天</a></li>
-<li><a href="/cbnews/20220803/1766409.md" target="_blank">紧张！裴洛西抵台5分钟共机2次入侵ADIZ 空军驱离</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220804/1767058.md" target="_blank">【特稿】四亿人三退 红朝将倾 退党保平安</a></li>
+<li><a href="/comments/20220804/1767057.md" target="_blank">佩洛茜访台，让习近平陷入两难</a></li>
+<li><a href="/comments/20220804/1767056.md" target="_blank">周晓辉： 佩洛西访台 北京自打脸的背后是忧惧</a></li>
+<li><a href="/comments/20220804/1767055.md" target="_blank">袁斌：“纸老虎”吓唬真老虎的把戏</a></li>
+<li><a href="/comments/20220804/1767054.md" target="_blank">石铭：从几个迫害案例看中共惨无人道</a></li>
+<li><a href="/comments/20220804/1767053.md" target="_blank">王赫：中共僵硬 中概股大概率从美退市</a></li>
 <li><a href="/comments/20220804/1767044.md" target="_blank">港府高官议员谴责佩洛西访台 评：这是大陆化悲惨写照</a></li>
 <li><a href="/comments/20220804/1767023.md" target="_blank">武统台湾？中共宣布在6海域军演 台国防部：北京信号明确</a></li>
 <li><a href="/comments/20220804/1766988.md" target="_blank">李燕铭：七常委隐身北戴河会议开启 佩洛希访台催化四大危机 冲击北戴河会议牵动二十大高层人事 江曾反习势力以“国家信誉”要挟逼习近平动武 学者揭习近平的B计划 二十大前北戴河会议大战内幕（二八） 台海风云（十一） 习近平连任与二十大常委争夺战（四一）</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20220803/1766882.md" target="_blank">港币恐与美元脱勾 改联人民币？</a></li>
 <li><a href="/comments/20220803/1766880.md" target="_blank">【俄乌战火第161天】首艘运粮船抵达土耳其 美军驳斥俄罗斯“击毁”海马斯说法</a></li>
 <li><a href="/comments/20220803/1766878.md" target="_blank">佩洛西访韩尹锡悦缺席 被疑顾虑中国</a></li>
-<li><a href="/comments/20220803/1766876.md" target="_blank">佩洛西抵台当晚 黎明金曲《今夜你会不会来》在大陆一度禁播</a></li>
-<li><a href="/comments/20220803/1766863.md" target="_blank">时事大家谈：佩洛西访台 解放军绕台军演 习近平陷两难？</a></li>
-<li><a href="/comments/20220803/1766862.md" target="_blank">专栏 | 劳工通讯：云南工人工伤 没钱付费医院暂停治疗（五）</a></li>
-<li><a href="/comments/20220803/1766850.md" target="_blank">江西一男子幼儿园持刀行凶致3死6伤 嫌犯逃逸</a></li>
-<li><a href="/comments/20220803/1766849.md" target="_blank">佩洛西访台成行，且慢欢呼 警惕中共移祸江东，向台湾泄愤</a></li>
-<li><a href="/comments/20220803/1766848.md" target="_blank">绝美宇宙涟漪！ 韦伯望远镜捕捉到车轮星系奇观</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
 <li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
 
 </ul>
 </div>
