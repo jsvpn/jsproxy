@@ -8,11 +8,11 @@
 <li><a href="/cnnews/hknews/20220804/1767121.md">军演?桃园上空惊见红色闪光持续1小时 网上炸了</a></li>
 <li><a href="/cbnews/20220804/1766992.md">裴洛西访台对习近平政权杀伤力大 矢板明夫：为何北京这2件事大失败？</a></li>
 <li><a href="/topimagenews/20220804/1766931.md">华春莹呛美国官员“缺乏历史知识”！网友1句话回呛</a></li>
-<li><a href="/topimagenews/20220804/1767215.md">共军犯案了！“环台”军演符合联合国定义的“国家侵略”</a></li>
 <li><a href="/cnnews/20220804/1766924.md">裴洛西访台“央视正妹主播”惨被出征！陆网崩溃：全国人民都觉得被耍了</a></li>
+<li><a href="/topimagenews/20220804/1767215.md">共军犯案了！“环台”军演符合联合国定义的“国家侵略”</a></li>
 <li><a href="/topimagenews/20220804/1767191.md">佩洛西座机曾遭拦截？网上疯传清晰“弹孔照”</a></li>
-<li><a href="/cnnews/20220804/1767009.md">胡锡进的末路 今天的文章有点不祥的味道…</a></li>
 <li><a href="/topimagenews/20220804/1767242.md">中共军演7处围台 东部再增1处 台湾急发警告</a></li>
+<li><a href="/cnnews/20220804/1767009.md">胡锡进的末路 今天的文章有点不祥的味道…</a></li>
 <li><a href="/topimagenews/20220804/1767071.md">开战？台湾国军下令了 共机舰围台数量创新高</a></li>
 <li><a href="/topimagenews/20220804/1767120.md">北戴河会议之前 习近平感慨了</a></li>
 <li><a href="/cbnews/20220804/1766912.md">解放军武统计划曝光？中共神秘军训基地曝光了</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/cbnews/20220804/1767141.md">北京军演倒数 台国防部、外交部官网瘫痪</a></li>
 <li><a href="/bannedvideo/20220804/1766946.md">中印边界拉达克地区，中共军队后撤2.5公里，班公湖已经划归印军控制！</a></li>
 <li><a href="/topimagenews/20220804/1766966.md">川普呛裴洛西访台“疯了” 怒揭她惊人问题</a></li>
-<li><a href="/topimagenews/20220804/1767140.md">稍微有点基本常识的中国人都不会这样干</a></li>
 <li><a href="/cnnews/20220804/1767255.md">火药味超浓：国军也开始实弹射击 炮声隆隆</a></li>
 <li><a href="/cbnews/20220804/1767304.md">中共对台大军演 小粉红不懂台湾为何不紧张?台网友:你们就继续演吧</a></li>
+<li><a href="/topimagenews/20220804/1767140.md">稍微有点基本常识的中国人都不会这样干</a></li>
 <li><a href="/cbnews/20220804/1767208.md">中共解放军实弹演习这区最重要：让导弹越过上空</a></li>
 <li><a href="/ssgc/20220804/1767079.md">〖兲朝浮世绘〗东边的海骂战震天响 西边的湖割让静悄悄</a></li>
-<li><a href="/cnnews/20220804/1766981.md">历史一刻！佩洛西飞离台湾 专机快闪101大楼</a></li>
+<li><a href="/topimagenews/20220804/1767244.md">中共驻法大使卢沙野语出惊人 被批公开撒野</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
 
 </ul>
 </div>
