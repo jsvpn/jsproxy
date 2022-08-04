@@ -7,12 +7,11 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220803/1766679.md">裴洛西离台后才是重点！中共锁台军演 白宫：美中关系取决于中共未来几天表现</a></li>
 <li><a href="/topimagenews/20220803/1766630.md">“谁是纸老虎”获得验证！赵立坚“拭目以待”被网友一针见血戳破【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220803/1766556.md">笑喷！中共外交部深夜极速声明：坚决反对 严厉谴责 强烈抗议【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220803/1766698.md">胡锡进认了：解放军没能力伴飞、没能力穿越台湾</a></li>
-<li><a href="/cnnews/20220803/1766730.md">中国网友的诙谐评论 笑翻你大有可能</a></li>
 <li><a href="/cnnews/20220803/1766722.md">佩洛西在记者会上 回答了外界最关心的一个问题</a></li>
-<li><a href="/cnnews/hknews/20220803/1766788.md">佩洛西自曝和蔡英文闭门谈了这件事</a></li>
+<li><a href="/cnnews/20220803/1766730.md">中国网友的诙谐评论 笑翻你大有可能</a></li>
 <li><a href="/topimagenews/20220803/1766751.md">以“国家信誉”要挟！反习派逼习近平犯错误【阿波罗网报道】</a></li>
+<li><a href="/cnnews/hknews/20220803/1766788.md">佩洛西自曝和蔡英文闭门谈了这件事</a></li>
 <li><a href="/cbnews/20220803/1766585.md">天亮时分：佩洛西到访台湾，英德跟进，踩烂中共红线；中共打出“七伤拳”，狠伤自己，胡锡进倒成赢家（政论天下第754集 20220802）</a></li>
 <li><a href="/cbnews/20220803/1766694.md">江峰：佩洛西临行交给《华盛顿邮报》重磅密文！ 共军军演包围台湾，不敢杠美国，挑软柿子捏？这三个地点要小心！【江峰漫谈20220802第524期】</a></li>
 <li><a href="/topimagenews/20220803/1766786.md">口译妹4度打断裴洛西！结果是AIT员工网傻眼：散会了</a></li>
@@ -20,9 +19,10 @@
 <li><a href="/topimagenews/20220803/1766714.md">中共红线被跨过！再划新红线！裴洛西访台 王毅提4个“美国不要幻想”…</a></li>
 <li><a href="/bannedvideo/20220803/1766673.md">不给北京下台阶机会：佩洛西称台湾“民主国家”！习近平突然祭出反制手段：逼胡锡进电视认罪</a></li>
 <li><a href="/cnnews/20220803/1766768.md">打脸赵立坚！菲律宾渔民捞起百公斤重“长征5-B”火箭残骸</a></li>
+<li><a href="/cnnews/20220804/1766924.md">裴洛西访台“央视正妹主播”惨被出征！陆网崩溃：全国人民都觉得被耍了</a></li>
 <li><a href="/topimagenews/20220803/1766802.md">拉拢中共？台海如爆大战 俄罗斯：愿军援中国</a></li>
 <li><a href="/cnnews/20220803/1766665.md">裴洛西抵台 小粉红质问胡锡进：14亿人相信赵立坚的拭目以待 结果呢？</a></li>
-<li><a href="/cnnews/20220804/1766924.md">裴洛西访台“央视正妹主播”惨被出征！陆网崩溃：全国人民都觉得被耍了</a></li>
+<li><a href="/topimagenews/20220804/1766931.md">华春莹呛美国官员“缺乏历史知识”！网友1句话回呛</a></li>
 <li><a href="/cnnews/20220803/1766757.md">中共围台72小时军演 北南东7大港口受正面威胁 航港局公布6大避航区</a></li>
 <li><a href="/cbnews/20220803/1766587.md">若中共犯台 德国必将为台湾提供支持</a></li>
 <li><a href="/cbnews/20220804/1766912.md">解放军武统计划曝光？中共神秘军训基地曝光了</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220804/1767089.md" target="_blank">白宫如何看佩洛西访台？台前避表态 幕后很不满</a></li>
 <li><a href="/topimagenews/20220804/1767071.md" target="_blank">开战？台湾国军下令了 共机舰围台数量创新高</a></li>
 <li><a href="/topimagenews/20220804/1766966.md" target="_blank">川普呛裴洛西访台“疯了” 怒揭她惊人问题</a></li>
 <li><a href="/topimagenews/20220804/1766942.md" target="_blank">裴洛西发布访台声明：中共无法阻止世界领袖造访台湾</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220803/1766556.md" target="_blank">笑喷！中共外交部深夜极速声明：坚决反对 严厉谴责 强烈抗议【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220803/1766549.md" target="_blank">第三次世界大战？佩洛西访台 习近平挥舞军刀</a></li>
 <li><a href="/topimagenews/20220803/1766512.md" target="_blank">恍然大悟！赵立坚的“拭目以待” 原来是这个</a></li>
-<li><a href="/topimagenews/20220803/1766501.md" target="_blank">佩洛西让微博留言大崩溃 悲愤喊竟然真的敢降落【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220804/1767090.md" target="_blank">王宏恩：佩洛西访台的赛局分析</a></li>
 <li><a href="/comments/20220804/1767078.md" target="_blank">台海危机升温 习骑虎难下？英媒：若开战中共将面临灾难性结果</a></li>
 <li><a href="/comments/20220804/1767075.md" target="_blank">林保华：习近平骑“胡”难下</a></li>
 <li><a href="/comments/20220804/1767074.md" target="_blank">复盘一下胡锡进这些天都说了什么</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220804/1766935.md" target="_blank">李燕铭：佩洛希访台内幕揭秘 布林肯7月即告知北京佩洛希可能访台 美航母两栖舰携F-35B台湾附近护航 共军多战区密集实弹演习 白宫回应共军武吓对美中关系影响 佩洛希访台让世界看到台湾承受中共压力 延续强化台美关系效应 美参院共和党领袖等26人发声明挺佩洛希访台 美参院拟立法列台湾为主要非北约盟国 台海风云（十）</a></li>
 <li><a href="/comments/20220803/1766908.md" target="_blank">三菇烩豆腐</a></li>
 <li><a href="/comments/20220803/1766894.md" target="_blank">唐山再爆恶性事件 一女被男友驾车多次碾压</a></li>
-<li><a href="/comments/20220803/1766893.md" target="_blank">台星田馥甄吃「义大利面」遭粉红出征 竟然跟佩洛西有关</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
 <li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
 <li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 的新解和真相</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 
 </ul>
 </div>
