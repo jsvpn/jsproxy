@@ -14,8 +14,8 @@
 <li><a href="/topimagenews/20220804/1767071.md">开战？台湾国军下令了 共机舰围台数量创新高</a></li>
 <li><a href="/topimagenews/20220804/1767242.md">中共军演7处围台 东部再增1处 台湾急发警告</a></li>
 <li><a href="/cbnews/20220804/1767139.md">天亮时分：中共六处军演，美国一招儿反击；为什么美国也有那么多投降派？核酸泡沫也要爆（政论天下第755集 20220803）</a></li>
-<li><a href="/cnnews/20220804/1767220.md">疫情要转向？核酸已陷入两难…</a></li>
 <li><a href="/cbnews/20220804/1767304.md">中共对台大军演 小粉红不懂台湾为何不紧张?台网友:你们就继续演吧</a></li>
+<li><a href="/cnnews/20220804/1767220.md">疫情要转向？核酸已陷入两难…</a></li>
 <li><a href="/cbnews/20220804/1767141.md">北京军演倒数 台国防部、外交部官网瘫痪</a></li>
 <li><a href="/cbnews/20220804/1767245.md">射了？中共军演最近处距小琉球不到10公里</a></li>
 <li><a href="/cnnews/20220804/1767255.md">火药味超浓：国军也开始实弹射击 炮声隆隆</a></li>
@@ -23,9 +23,9 @@
 <li><a href="/cbnews/20220804/1767320.md">一目了然 从这组图表看两岸军力对比</a></li>
 <li><a href="/topimagenews/20220804/1767140.md">稍微有点基本常识的中国人都不会这样干</a></li>
 <li><a href="/topimagenews/20220804/1767244.md">中共驻法大使卢沙野语出惊人 被批公开撒野</a></li>
-<li><a href="/topimagenews/20220804/1767262.md">演完？共军称导弹精准命中目标 称解除海空域管制</a></li>
-<li><a href="/ssgc/20220804/1767079.md">〖兲朝浮世绘〗东边的海骂战震天响 西边的湖割让静悄悄</a></li>
 <li><a href="/bannedvideo/20220804/1767327.md">军报泄中共高层秘密 专家：将有大变【两岸要闻】</a></li>
+<li><a href="/ssgc/20220804/1767079.md">〖兲朝浮世绘〗东边的海骂战震天响 西边的湖割让静悄悄</a></li>
+<li><a href="/topimagenews/20220804/1767262.md">演完？共军称导弹精准命中目标 称解除海空域管制</a></li>
 <li><a href="/cnnews/20220804/1767256.md">突发：共军福建阵地发射2枚导弹 目标区未明</a></li>
 <li><a href="/cbnews/20220804/1767208.md">中共解放军实弹演习这区最重要：让导弹越过上空</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220805/1767464.md" target="_blank">台海局势“推背图”早有预言？专家：共军已在门口 国军处境非常危险</a></li>
+<li><a href="/comments/20220805/1767463.md" target="_blank">中共实弹军演视频曝光 平潭导弹发射场挤满网红</a></li>
 <li><a href="/comments/20220805/1767462.md" target="_blank">古人家教俭朴的故事（二）</a></li>
 <li><a href="/comments/20220805/1767442.md" target="_blank">共军「包围台湾」 他看台湾捷运：可怕啊</a></li>
 <li><a href="/comments/20220805/1767436.md" target="_blank">制裁台积电？北京禁天然砂 小粉红拍手称快遭讽</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220804/1767352.md" target="_blank">李燕铭：北戴河会期打虎 王立军心腹旧部辽宁省公安厅副厅长刘家铎落马 曾随王立军一道生擒铁岭黑社会头目辽宁省拳击冠军杨富 刘家铎与落马的王立科及四任辽宁省公安厅长有交集 习近平清洗辽宁帮剑指李姓两常委（七） 习近平清洗刀把子严防江曾二十大政变（四一） 二十大前北戴河会议大战内幕（三一）</a></li>
 <li><a href="/comments/20220804/1767340.md" target="_blank">裴洛西访台黎明衰卷辱华 小粉红点名不表态艺人</a></li>
 <li><a href="/comments/20220804/1767338.md" target="_blank">中共“围台”军演 5枚飞弹掉落日本  美日多架战机冲绳起飞应变</a></li>
-<li><a href="/comments/20220804/1767317.md" target="_blank">赊刀人再现 天灭中共的火引子已燃</a></li>
-<li><a href="/comments/20220804/1767316.md" target="_blank">佩洛西：「台湾，我真的来了！！」中共输光了所有</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
 <li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
 
 </ul>
 </div>
