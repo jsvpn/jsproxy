@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/hknews/20220804/1767121.md">军演?桃园上空惊见红色闪光持续1小时 网上炸了</a></li>
-<li><a href="/cbnews/20220804/1766992.md">裴洛西访台对习近平政权杀伤力大 矢板明夫：为何北京这2件事大失败？</a></li>
 <li><a href="/topimagenews/20220804/1767120.md">北戴河会议之前 习近平感慨了</a></li>
 <li><a href="/cnnews/20220804/1767009.md">胡锡进的末路 今天的文章有点不祥的味道…</a></li>
 <li><a href="/topimagenews/20220804/1767191.md">佩洛西座机曾遭拦截？网上疯传清晰“弹孔照”</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/topimagenews/20220804/1767140.md">稍微有点基本常识的中国人都不会这样干</a></li>
 <li><a href="/topimagenews/20220804/1767244.md">中共驻法大使卢沙野语出惊人 被批公开撒野</a></li>
 <li><a href="/bannedvideo/20220804/1767327.md">军报泄中共高层秘密 专家：将有大变【两岸要闻】</a></li>
+<li><a href="/cnnews/20220804/1767256.md">突发：共军福建阵地发射2枚导弹 目标区未明</a></li>
 <li><a href="/topimagenews/20220804/1767262.md">演完？共军称导弹精准命中目标 称解除海空域管制</a></li>
 <li><a href="/ssgc/20220804/1767079.md">〖兲朝浮世绘〗东边的海骂战震天响 西边的湖割让静悄悄</a></li>
-<li><a href="/cnnews/20220804/1767256.md">突发：共军福建阵地发射2枚导弹 目标区未明</a></li>
 <li><a href="/cbnews/20220804/1767208.md">中共解放军实弹演习这区最重要：让导弹越过上空</a></li>
 <li><a href="/cbnews/20220804/1767072.md">被“红三代”骂刷流量十分低俗 胡锡进委屈了</a></li>
+<li><a href="/cnnews/20220804/1767016.md">裴洛西访台 中共军演武吓 德外长仗义：台湾若遭入侵 德国将援助</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220805/1767488.md" target="_blank">意大利罗马著名电影城发生火灾 曾拍摄《罗马假日》《宾虚》等3000多部电影和巨作 其中有51部获得奥斯卡奖</a></li>
 <li><a href="/comments/20220805/1767464.md" target="_blank">台海局势“推背图”早有预言？专家：共军已在门口 国军处境非常危险</a></li>
 <li><a href="/comments/20220805/1767463.md" target="_blank">中共实弹军演视频曝光 平潭导弹发射场挤满网红</a></li>
 <li><a href="/comments/20220805/1767462.md" target="_blank">古人家教俭朴的故事（二）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220804/1767356.md" target="_blank">玻璃心！只因“胖胖、眯眯眼” 云南两雕像遭举报辱华</a></li>
 <li><a href="/comments/20220804/1767352.md" target="_blank">李燕铭：北戴河会期打虎 王立军心腹旧部辽宁省公安厅副厅长刘家铎落马 曾随王立军一道生擒铁岭黑社会头目辽宁省拳击冠军杨富 刘家铎与落马的王立科及四任辽宁省公安厅长有交集 习近平清洗辽宁帮剑指李姓两常委（七） 习近平清洗刀把子严防江曾二十大政变（四一） 二十大前北戴河会议大战内幕（三一）</a></li>
 <li><a href="/comments/20220804/1767340.md" target="_blank">裴洛西访台黎明衰卷辱华 小粉红点名不表态艺人</a></li>
-<li><a href="/comments/20220804/1767338.md" target="_blank">中共“围台”军演 5枚飞弹掉落日本  美日多架战机冲绳起飞应变</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
 
 </ul>
 </div>
