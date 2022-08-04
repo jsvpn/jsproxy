@@ -8,26 +8,26 @@
 <li><a href="/cnnews/hknews/20220804/1767121.md">军演?桃园上空惊见红色闪光持续1小时 网上炸了</a></li>
 <li><a href="/cbnews/20220804/1766992.md">裴洛西访台对习近平政权杀伤力大 矢板明夫：为何北京这2件事大失败？</a></li>
 <li><a href="/topimagenews/20220804/1766931.md">华春莹呛美国官员“缺乏历史知识”！网友1句话回呛</a></li>
-<li><a href="/cnnews/20220804/1766924.md">裴洛西访台“央视正妹主播”惨被出征！陆网崩溃：全国人民都觉得被耍了</a></li>
 <li><a href="/topimagenews/20220804/1767215.md">共军犯案了！“环台”军演符合联合国定义的“国家侵略”</a></li>
+<li><a href="/cnnews/20220804/1766924.md">裴洛西访台“央视正妹主播”惨被出征！陆网崩溃：全国人民都觉得被耍了</a></li>
 <li><a href="/topimagenews/20220804/1767191.md">佩洛西座机曾遭拦截？网上疯传清晰“弹孔照”</a></li>
-<li><a href="/topimagenews/20220804/1767242.md">中共军演7处围台 东部再增1处 台湾急发警告</a></li>
 <li><a href="/cnnews/20220804/1767009.md">胡锡进的末路 今天的文章有点不祥的味道…</a></li>
-<li><a href="/topimagenews/20220804/1767071.md">开战？台湾国军下令了 共机舰围台数量创新高</a></li>
+<li><a href="/topimagenews/20220804/1767242.md">中共军演7处围台 东部再增1处 台湾急发警告</a></li>
 <li><a href="/topimagenews/20220804/1767120.md">北戴河会议之前 习近平感慨了</a></li>
+<li><a href="/topimagenews/20220804/1767071.md">开战？台湾国军下令了 共机舰围台数量创新高</a></li>
 <li><a href="/cbnews/20220804/1766912.md">解放军武统计划曝光？中共神秘军训基地曝光了</a></li>
 <li><a href="/cbnews/20220804/1767139.md">天亮时分：中共六处军演，美国一招儿反击；为什么美国也有那么多投降派？核酸泡沫也要爆（政论天下第755集 20220803）</a></li>
 <li><a href="/cnnews/20220804/1767220.md">疫情要转向？核酸已陷入两难…</a></li>
 <li><a href="/cbnews/20220804/1767245.md">射了？中共军演最近处距小琉球不到10公里</a></li>
 <li><a href="/cbnews/20220804/1767141.md">北京军演倒数 台国防部、外交部官网瘫痪</a></li>
+<li><a href="/cnnews/20220804/1767255.md">火药味超浓：国军也开始实弹射击 炮声隆隆</a></li>
 <li><a href="/bannedvideo/20220804/1766946.md">中印边界拉达克地区，中共军队后撤2.5公里，班公湖已经划归印军控制！</a></li>
 <li><a href="/topimagenews/20220804/1766966.md">川普呛裴洛西访台“疯了” 怒揭她惊人问题</a></li>
-<li><a href="/cnnews/20220804/1767255.md">火药味超浓：国军也开始实弹射击 炮声隆隆</a></li>
 <li><a href="/cbnews/20220804/1767304.md">中共对台大军演 小粉红不懂台湾为何不紧张?台网友:你们就继续演吧</a></li>
 <li><a href="/topimagenews/20220804/1767140.md">稍微有点基本常识的中国人都不会这样干</a></li>
 <li><a href="/cbnews/20220804/1767208.md">中共解放军实弹演习这区最重要：让导弹越过上空</a></li>
 <li><a href="/ssgc/20220804/1767079.md">〖兲朝浮世绘〗东边的海骂战震天响 西边的湖割让静悄悄</a></li>
-<li><a href="/topimagenews/20220804/1767244.md">中共驻法大使卢沙野语出惊人 被批公开撒野</a></li>
+<li><a href="/cnnews/20220804/1767256.md">突发：共军福建阵地发射2枚导弹 目标区未明</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220804/1767384.md" target="_blank">习近平对军方讲话被公开！首先强调了这件事【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220804/1767364.md" target="_blank">胡锡进微博 网友提出中共最怕问题【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220804/1767279.md" target="_blank">惊曝：美参院延审支持台湾法案 白宫游说民主党议员踩煞车</a></li>
 <li><a href="/topimagenews/20220804/1767262.md" target="_blank">演完？共军称导弹精准命中目标 称解除海空域管制</a></li>
@@ -90,13 +91,21 @@
 <li><a href="/topimagenews/20220803/1766796.md" target="_blank">离台前裴洛西再发声 强调美对台承诺“坚定不移”</a></li>
 <li><a href="/topimagenews/20220803/1766786.md" target="_blank">口译妹4度打断裴洛西！结果是AIT员工网傻眼：散会了</a></li>
 <li><a href="/topimagenews/20220803/1766751.md" target="_blank">以“国家信誉”要挟！反习派逼习近平犯错误【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220803/1766735.md" target="_blank">佩罗西在台湾会晤了他 美国“芯片与科学法案”将实施</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220804/1767403.md" target="_blank">《三国演义》第120回 荐杜预老将献新谋 降孙皓三分归一统</a></li>
+<li><a href="/comments/20220804/1767402.md" target="_blank">《三国演义》第119回 假投降巧计成虚话 再受禅依样画葫芦</a></li>
+<li><a href="/comments/20220804/1767401.md" target="_blank">《三国演义》第118回 哭祖庙一王死孝 入西川二士争功</a></li>
+<li><a href="/comments/20220804/1767400.md" target="_blank">《三国演义》第117回 邓士载偷度阴平 诸葛瞻战死绵竹</a></li>
+<li><a href="/comments/20220804/1767399.md" target="_blank">《三国演义》第116回 钟会分兵汉中道 武侯显圣定军山</a></li>
+<li><a href="/comments/20220804/1767398.md" target="_blank">《三国演义》第115回 诏班师后主信谗 托屯田姜维避祸</a></li>
+<li><a href="/comments/20220804/1767397.md" target="_blank">《三国演义》第114回 曹髦驱车死南阙 姜维弃粮胜魏兵</a></li>
+<li><a href="/comments/20220804/1767396.md" target="_blank">《三国演义》第113回 丁奉定计斩孙綝 姜维斗阵破邓艾</a></li>
+<li><a href="/comments/20220804/1767392.md" target="_blank">聚焦西雅图：华州中期选举初选投票率低于25%</a></li>
 <li><a href="/comments/20220804/1767362.md" target="_blank">时事大家谈：美议长佩洛西高调访台，习近平文攻武赫将如何收场？</a></li>
 <li><a href="/comments/20220804/1767360.md" target="_blank">【杜耀明评论】又要国安法治港，又要人权公约的贞节牌坊？</a></li>
 <li><a href="/comments/20220804/1767359.md" target="_blank">【华府看天下】中共加强海外统战 圆习近平「海内外中华儿女」梦</a></li>
@@ -113,15 +122,6 @@
 <li><a href="/comments/20220804/1767296.md" target="_blank">气温居高不下，恐影响心理健康</a></li>
 <li><a href="/comments/20220804/1767295.md" target="_blank">警惕：馒头冷冻时间长，会滋生“一类致癌物”？</a></li>
 <li><a href="/comments/20220804/1767287.md" target="_blank">话说七夕 情人节有哪些禁忌？</a></li>
-<li><a href="/comments/20220804/1767260.md" target="_blank">裴洛西‘高衣Q’色彩穿搭藏玄机</a></li>
-<li><a href="/comments/20220804/1767249.md" target="_blank">川普背书的力量：神话还是魔术？</a></li>
-<li><a href="/comments/20220804/1767226.md" target="_blank">美官员曝重磅内幕 接下来台海会怎样？</a></li>
-<li><a href="/comments/20220804/1767216.md" target="_blank">北京在秘密进行一场接近于战争的冲突</a></li>
-<li><a href="/comments/20220804/1767214.md" target="_blank">台湾艺人讨好中共 三立主播妙谈「一个中国」</a></li>
-<li><a href="/comments/20220804/1767199.md" target="_blank">【独家重磅】李燕铭：赵乐际卸任中纪委书记前兆 北戴河会议敏感期赵乐际大管家张春生被贬职调离中纪委 张春生曾任赵乐际女副手大管家 张春生与副国级女高官隐秘关系曝光 赵乐际十九大前提前半年布局张春生接管中纪委中枢 习近平连环引爆四大案围剿江派接班人选赵乐际 二十大前北戴河会议大战内幕（二九） 习近平追杀赵乐际（七） 习近平连任与二十大常委争夺战（四二）</a></li>
-<li><a href="/comments/20220804/1767174.md" target="_blank">〈喜鹊诗回应庾信的七夕诗〉</a></li>
-<li><a href="/comments/20220804/1767173.md" target="_blank">海涛：锻炼身体，拭目以待</a></li>
-<li><a href="/comments/20220804/1767147.md" target="_blank">长平：为何强调六四？佩洛西的世界观与台湾的出路</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 <li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
+<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
 <li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 
 </ul>
 </div>
