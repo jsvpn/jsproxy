@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/hknews/20220804/1767121.md">军演?桃园上空惊见红色闪光持续1小时 网上炸了</a></li>
-<li><a href="/cnnews/hknews/20220803/1766788.md">佩洛西自曝和蔡英文闭门谈了这件事</a></li>
 <li><a href="/topimagenews/20220804/1767191.md">佩洛西座机曾遭拦截？网上疯传清晰“弹孔照”</a></li>
 <li><a href="/cbnews/20220804/1766992.md">裴洛西访台对习近平政权杀伤力大 矢板明夫：为何北京这2件事大失败？</a></li>
 <li><a href="/cnnews/20220804/1766924.md">裴洛西访台“央视正妹主播”惨被出征！陆网崩溃：全国人民都觉得被耍了</a></li>
@@ -20,13 +19,14 @@
 <li><a href="/cbnews/20220804/1766912.md">解放军武统计划曝光？中共神秘军训基地曝光了</a></li>
 <li><a href="/cbnews/20220804/1767141.md">北京军演倒数 台国防部、外交部官网瘫痪</a></li>
 <li><a href="/topimagenews/20220803/1766855.md">江西惊传幼稚园随机杀人酿3死6伤 凶嫌手段残忍引众怒</a></li>
+<li><a href="/topimagenews/20220804/1767242.md">中共军演7处围台 东部再增1处 台湾急发警告</a></li>
 <li><a href="/topimagenews/20220804/1766966.md">川普呛裴洛西访台“疯了” 怒揭她惊人问题</a></li>
 <li><a href="/topimagenews/20220804/1767140.md">稍微有点基本常识的中国人都不会这样干</a></li>
 <li><a href="/bannedvideo/20220804/1766946.md">中印边界拉达克地区，中共军队后撤2.5公里，班公湖已经划归印军控制！</a></li>
-<li><a href="/topimagenews/20220804/1767242.md">中共军演7处围台 东部再增1处 台湾急发警告</a></li>
 <li><a href="/cbnews/20220803/1766856.md">影片曝光！高空拍照被机器推下身亡 可怜孩子目睹哭喊“妈妈”</a></li>
 <li><a href="/cnnews/20220804/1766981.md">历史一刻！佩洛西飞离台湾 专机快闪101大楼</a></li>
 <li><a href="/ssgc/20220804/1767079.md">〖兲朝浮世绘〗东边的海骂战震天响 西边的湖割让静悄悄</a></li>
+<li><a href="/cbnews/20220804/1767245.md">射了？中共军演最近处距小琉球不到10公里</a></li>
 <li><a href="/cnnews/20220804/1767016.md">裴洛西访台 中共军演武吓 德外长仗义：台湾若遭入侵 德国将援助</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220804/1767308.md" target="_blank">阿帕契升空巡航！恒春机场罕见10架军机进驻：防中共军演突袭</a></li>
 <li><a href="/cbnews/20220804/1767304.md" target="_blank">中共对台大军演 小粉红不懂台湾为何不紧张?台网友:你们就继续演吧</a></li>
 <li><a href="/cbnews/20220804/1767290.md" target="_blank">美中终须一战？他曝裴洛西访台放“大招” 助美实施“勒脖战略”</a></li>
 <li><a href="/cbnews/20220804/1767245.md" target="_blank">射了？中共军演最近处距小琉球不到10公里</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220804/1766976.md" target="_blank">广州一公司招聘助理要陪客户睡觉 平台:符合规则</a></li>
 <li><a href="/cbnews/20220804/1766944.md" target="_blank">名嘴：裴洛西访台为中共划三条红线，成两岸、亚太局势定锚</a></li>
 <li><a href="/cbnews/20220804/1766943.md" target="_blank">陆网搜6字“裴洛西到台湾”断线一片白 他曝中共跳脚原因</a></li>
-<li><a href="/cbnews/20220804/1766912.md" target="_blank">解放军武统计划曝光？中共神秘军训基地曝光了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
 <li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 
 </ul>
 </div>
