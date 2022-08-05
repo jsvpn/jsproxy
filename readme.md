@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/bannedvideo/20220804/1767327.md">军报泄中共高层秘密 专家：将有大变【两岸要闻】</a></li>
 <li><a href="/cnnews/20220805/1767536.md">中共军演锁台3天 白宫表态了</a></li>
 <li><a href="/topimagenews/20220805/1767445.md">印度神童阿南德又中！8月7日前东亚真的出事 之后会…</a></li>
 <li><a href="/topimagenews/20220804/1767384.md">习近平对军方讲话被公开！首先强调了这件事【阿波罗网报道】</a></li>
@@ -26,6 +25,7 @@
 <li><a href="/bannedvideo/20220805/1767519.md">🔥大败！中共军演都没人信是真的；稍有基本常识的都不会这样干；川普呛佩访台“疯了”；大陆民众认为北京不会攻打台湾；中共挑动民意反噬 青年携油漆前往美领馆抗议被抓；中共无人机扰金门遭驱离【阿波罗网HL】</a></li>
 <li><a href="/cbnews/20220805/1767483.md">日本防卫省公布中共飞弹路径 4枚飞经台北上空</a></li>
 <li><a href="/worldnews/20220805/1767449.md">韩 真寒! 裴洛西抵韩竟无政府礼宾人员接机 韩外交部回应：正常</a></li>
+<li><a href="/cbnews/20220805/1767689.md">江峰：三天变一天！东部战区封锁台湾军事演习草草收场？导弹飞出外太空压根儿不算台湾领空，宣传大于军事斗争，胡锡进挖的坑把习总摔惨了！【江峰漫谈 20220804 第525期】</a></li>
 <li><a href="/topimagenews/20220805/1767499.md">怪胎？卧底？中共拿来祭旗 蓝、绿、白、红混合变色体</a></li>
 <li><a href="/cnnews/20220805/1767570.md">央视发“一个中国”图片 网罗列未转发艺人名单</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220805/1767809.md" target="_blank">预言成真！转轮圣王掌管人间之时，全世界绽放 三千年开一次的优昙婆罗花！东方未来佛弥勒和西方救世主弥赛亚，是同一人？诺查丹玛斯4百年前《诸世纪》奇准⋯⋯</a></li>
 <li><a href="/cbnews/20220805/1767792.md" target="_blank">布林肯：中若制造危机 可能产生意想不到的后果</a></li>
 <li><a href="/cbnews/20220805/1767791.md" target="_blank">裴洛西访台 中共外交部宣布：8措施反制美国</a></li>
 <li><a href="/cbnews/20220805/1767783.md" target="_blank">中共大规模军演报复 专家：反成裴洛西最大收获</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220804/1767304.md" target="_blank">中共对台大军演 小粉红不懂台湾为何不紧张?台网友:你们就继续演吧</a></li>
 <li><a href="/cbnews/20220804/1767290.md" target="_blank">美中终须一战？他曝裴洛西访台放“大招” 助美实施“勒脖战略”</a></li>
 <li><a href="/cbnews/20220804/1767245.md" target="_blank">射了？中共军演最近处距小琉球不到10公里</a></li>
-<li><a href="/cbnews/20220804/1767228.md" target="_blank">江西幼儿园行凶案嫌犯落网现场曝光 高速旁被捕</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220805/1767809.md" target="_blank">预言成真！转轮圣王掌管人间之时，全世界绽放 三千年开一次的优昙婆罗花！东方未来佛弥勒和西方救世主弥赛亚，是同一人？诺查丹玛斯4百年前《诸世纪》奇准⋯⋯</a></li>
+<li><a href="/comments/20220805/1767806.md" target="_blank">古人信神过七夕 现代人有生肖七夕飙财运的说法</a></li>
 <li><a href="/comments/20220805/1767756.md" target="_blank">它含所有「必需胺基酸」蛋白质含量达19％</a></li>
 <li><a href="/comments/20220805/1767755.md" target="_blank">喝水太少恐心肌梗塞！ 医激推4种水减肥又排毒</a></li>
 <li><a href="/comments/20220805/1767754.md" target="_blank">手机充电的6点注意事项，每个都不起眼却很重要</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220805/1767618.md" target="_blank">范畴：裴洛西访台与习近平的“解放军指数”</a></li>
 <li><a href="/comments/20220805/1767617.md" target="_blank">孙立平：即使二舅是真的，我们看到的二舅也是假的</a></li>
 <li><a href="/comments/20220805/1767616.md" target="_blank">佩洛西打脸战狼 台陆可能都是输家</a></li>
-<li><a href="/comments/20220805/1767609.md" target="_blank">佩洛西访台 分析：考验美日台实力与抗共底线</a></li>
-<li><a href="/comments/20220805/1767608.md" target="_blank">美猛攻中共要害！佩洛西访台放「大招」美恐实施「勒脖战略」</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 
 </ul>
 </div>
