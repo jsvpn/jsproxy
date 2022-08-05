@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20220805/1767536.md">中共军演锁台3天 白宫表态了</a></li>
-<li><a href="/cbnews/20220805/1767480.md">又一著名艺人也润了 晒健身照 像十八铜人</a></li>
 <li><a href="/topimagenews/20220805/1767650.md">【微博精粹】一条不能细想的恐怖新闻</a></li>
 <li><a href="/ssgc/20220805/1767530.md">〖兲朝浮世绘〗耳光声、痛哭声响彻大江南北 不知道那些吃翔的诺言兑现了没有？</a></li>
 <li><a href="/topimagenews/20220805/1767680.md">中共对台射弹军演 裴洛西说话了</a></li>
@@ -15,12 +14,10 @@
 <li><a href="/cnnews/20220805/1767760.md">连任？习近平重大考验【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220805/1767728.md">满载F-35！美军航母打击群和两栖舰在台东部待命：共军4枚导弹穿越台湾上空</a></li>
 <li><a href="/topimagenews/20220805/1767559.md">猛料！72个假新闻网站为中共宣传曝光</a></li>
-<li><a href="/cbnews/20220805/1767482.md">被劝返！网友爆料：出境到东南亚，到底有多难</a></li>
 <li><a href="/comments/20220805/1767679.md">【独家重磅】李燕铭：北戴河会议内斗激烈 山西省政协主席李佳突被免职五大异常 李佳是李克强旧部 曾任胡春华人事大管家与副手 二十大前北戴河会议大战内幕（三二） 习近平连任与二十大常委争夺战（四三） 习近平李克强明争暗斗内幕（三五）</a></li>
 <li><a href="/bannedvideo/20220805/1767548.md">胡锡进将被抛弃？习近平因胡自身难保，北戴河有戏看【每日头条】</a></li>
 <li><a href="/cbnews/20220805/1767689.md">江峰：三天变一天！东部战区封锁台湾军事演习草草收场？导弹飞出外太空压根儿不算台湾领空，宣传大于军事斗争，胡锡进挖的坑把习总摔惨了！【江峰漫谈 20220804 第525期】</a></li>
 <li><a href="/bannedvideo/20220805/1767519.md">🔥大败！中共军演都没人信是真的；稍有基本常识的都不会这样干；川普呛佩访台“疯了”；大陆民众认为北京不会攻打台湾；中共挑动民意反噬 青年携油漆前往美领馆抗议被抓；中共无人机扰金门遭驱离【阿波罗网HL】</a></li>
-<li><a href="/cbnews/20220805/1767483.md">日本防卫省公布中共飞弹路径 4枚飞经台北上空</a></li>
 <li><a href="/cnnews/20220805/1767701.md">卫星图揭露 台湾东部外海突现神秘物</a></li>
 <li><a href="/comments/20220805/1767731.md">杜政：台海紧张 习近平在北戴河有更重要“大战”</a></li>
 <li><a href="/bannedvideo/20220805/1767671.md">台海军演实弹射击闪电叫停？习近平遭大秘挖坑追佩洛西？首骗陈游标遭全网追剿；胡锡进找地缝</a></li>
@@ -28,6 +25,9 @@
 <li><a href="/cnnews/20220805/1767570.md">央视发“一个中国”图片 网罗列未转发艺人名单</a></li>
 <li><a href="/topimagenews/20220805/1767614.md">俄紧急辟谣：莫斯科地标没有打出俄与中共同在标语</a></li>
 <li><a href="/cbnews/20220805/1767792.md">布林肯：中若制造危机 可能产生意想不到的后果</a></li>
+<li><a href="/cbnews/20220805/1767791.md">裴洛西访台 中共外交部宣布：8措施反制美国</a></li>
+<li><a href="/cnnews/20220805/1767714.md">浦东机场那一晚，我多年岁月静好的生活从此结束</a></li>
+<li><a href="/cbnews/20220805/1767783.md">中共大规模军演报复 专家：反成裴洛西最大收获</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220806/1767943.md" target="_blank">恒大广州足球场宣布退地 亏12.55亿元</a></li>
 <li><a href="/comments/20220806/1767928.md" target="_blank">夏季淡水湖戏水要小心 警惕致命的食脑虫的侵袭</a></li>
 <li><a href="/comments/20220806/1767915.md" target="_blank">又辱华﹗黄明志酸中国比赛节目「假唱」</a></li>
 <li><a href="/comments/20220806/1767906.md" target="_blank">李燕铭：北戴河会议敏感期 彭丽媛老乡王岐山亲信大动作清洗曾庆红老家 江西帮十官员密集落马 七官员被点名通报典型问题 吴官正孟建柱73岁旧部刘积福获刑11年 孟建柱旧部强卫大管家龚建华被刑诉 二十大前北戴河会议大战内幕（三三） 习近平清洗江西帮围剿曾庆红（十七）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220805/1767693.md" target="_blank">外资7月继续减持中国债券并抛售股票</a></li>
 <li><a href="/comments/20220805/1767686.md" target="_blank">分析：佩洛西访台后效应 中共将丧失所谓「一中」话语权</a></li>
 <li><a href="/comments/20220805/1767685.md" target="_blank">最贵麦当劳！澳洲乘客为这两样花了2600澳元</a></li>
-<li><a href="/comments/20220805/1767679.md" target="_blank">【独家重磅】李燕铭：北戴河会议内斗激烈 山西省政协主席李佳突被免职五大异常 李佳是李克强旧部 曾任胡春华人事大管家与副手 二十大前北戴河会议大战内幕（三二） 习近平连任与二十大常委争夺战（四三） 习近平李克强明争暗斗内幕（三五）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
 <li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 <li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
 
 </ul>
 </div>
