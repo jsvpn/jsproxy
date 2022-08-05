@@ -13,14 +13,13 @@
 <li><a href="/topimagenews/20220804/1767384.md">习近平对军方讲话被公开！首先强调了这件事【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220805/1767480.md">又一著名艺人也润了 晒健身照 像十八铜人</a></li>
 <li><a href="/cbnews/20220805/1767446.md">中共演习前夕 东部战区海军司令及政委双双换人</a></li>
-<li><a href="/topimagenews/20220804/1767262.md">演完？共军称导弹精准命中目标 称解除海空域管制</a></li>
 <li><a href="/topimagenews/20220804/1767364.md">胡锡进微博 网友提出中共最怕问题【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220804/1767388.md">中共射东风导弹结束管控 他曝共军异常克制：水很深啊</a></li>
 <li><a href="/topimagenews/20220804/1767409.md">佩洛西来了 打赌失败 中国首骗陈光标删文被洗板</a></li>
 <li><a href="/topimagenews/20220805/1767559.md">猛料！72个假新闻网站为中共宣传曝光</a></li>
-<li><a href="/bannedvideo/20220805/1767444.md">7万亿冻结！还武统吗？【老北京茶馆08/04/2022】</a></li>
-<li><a href="/ssgc/20220805/1767530.md">〖兲朝浮世绘〗耳光声、痛哭声响彻大江南北 不知道那些吃翔的诺言兑现了没有？</a></li>
 <li><a href="/topimagenews/20220805/1767650.md">【微博精粹】一条不能细想的恐怖新闻</a></li>
+<li><a href="/ssgc/20220805/1767530.md">〖兲朝浮世绘〗耳光声、痛哭声响彻大江南北 不知道那些吃翔的诺言兑现了没有？</a></li>
+<li><a href="/bannedvideo/20220805/1767444.md">7万亿冻结！还武统吗？【老北京茶馆08/04/2022】</a></li>
 <li><a href="/cbnews/20220805/1767482.md">被劝返！网友爆料：出境到东南亚，到底有多难</a></li>
 <li><a href="/cnnews/20220804/1767386.md">日本防卫省公布“共军导弹轨迹”：有4枚飞越台湾本岛</a></li>
 <li><a href="/topimagenews/20220805/1767680.md">中共对台射弹军演 裴洛西说话了</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/bannedvideo/20220805/1767548.md">胡锡进将被抛弃？习近平因胡自身难保，北戴河有戏看【每日头条】</a></li>
 <li><a href="/topimagenews/20220804/1767279.md">惊曝：美参院延审支持台湾法案 白宫游说民主党议员踩煞车</a></li>
 <li><a href="/bannedvideo/20220805/1767519.md">🔥大败！中共军演都没人信是真的；稍有基本常识的都不会这样干；川普呛佩访台“疯了”；大陆民众认为北京不会攻打台湾；中共挑动民意反噬 青年携油漆前往美领馆抗议被抓；中共无人机扰金门遭驱离【阿波罗网HL】</a></li>
+<li><a href="/worldnews/20220805/1767449.md">韩 真寒! 裴洛西抵韩竟无政府礼宾人员接机 韩外交部回应：正常</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
 <li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
 
 </ul>
 </div>
