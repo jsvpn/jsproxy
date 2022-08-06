@@ -10,24 +10,24 @@
 <li><a href="/cnnews/20220805/1767760.md">连任？习近平重大考验【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220805/1767728.md">满载F-35！美军航母打击群和两栖舰在台东部待命：共军4枚导弹穿越台湾上空</a></li>
 <li><a href="/bannedvideo/20220806/1767931.md">佩洛西再对北京出手 非常罕见！日本正式宣布这件事 中共傻眼了【红朝禁闻】</a></li>
+<li><a href="/topimagenews/20220806/1768045.md">习近平如何让闹剧收场 中共军演沦为世界笑柄</a></li>
 <li><a href="/ssgc/20220806/1767959.md">〖兲朝浮世绘〗习总真当自己是皇帝啊？连姓都要避讳</a></li>
 <li><a href="/comments/20220805/1767731.md">杜政：台海紧张 习近平在北戴河有更重要“大战”</a></li>
-<li><a href="/topimagenews/20220806/1768045.md">习近平如何让闹剧收场 中共军演沦为世界笑柄</a></li>
 <li><a href="/cnnews/20220805/1767862.md">趁你病，要你命！反习派使出连环狠招【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220805/1767856.md">共军吹嘘把雷根号“逼退几百公里” 美军：还在台湾周边</a></li>
 <li><a href="/cnnews/20220806/1767895.md">洛杉矶奔驰女飙速闯红灯 撞车爆炸！惨酿5尸6命9人伤</a></li>
 <li><a href="/cbnews/20220806/1767969.md">江西幼儿园命案已致4人死亡 嫌疑人竟车祸死了</a></li>
 <li><a href="/cnnews/20220806/1767938.md">传马斯克星链屏蔽中国北斗 助裴洛西顺利抵台</a></li>
 <li><a href="/cbnews/20220805/1767792.md">布林肯：中若制造危机 可能产生意想不到的后果</a></li>
-<li><a href="/cbnews/20220806/1767919.md">共军为何不射东风-17？ 专家 : 怕被美军搜集数据 军演只为应付内部压力</a></li>
-<li><a href="/bannedvideo/20220806/1767902.md">有人说这是习近平最新讲话，关于佩洛西访台，笑话？</a></li>
-<li><a href="/cbnews/20220805/1767783.md">中共大规模军演报复 专家：反成裴洛西最大收获</a></li>
 <li><a href="/topimagenews/20220806/1768026.md">共军愚蠢超出想像 验证安倍名言【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220806/1767902.md">有人说这是习近平最新讲话，关于佩洛西访台，笑话？</a></li>
+<li><a href="/cbnews/20220806/1767919.md">共军为何不射东风-17？ 专家 : 怕被美军搜集数据 军演只为应付内部压力</a></li>
+<li><a href="/cbnews/20220805/1767783.md">中共大规模军演报复 专家：反成裴洛西最大收获</a></li>
 <li><a href="/cbnews/20220805/1767791.md">裴洛西访台 中共外交部宣布：8措施反制美国</a></li>
 <li><a href="/baitai/20220805/1767770.md">落日余灯｜一天时间只为配合习主席二十分钟的秀</a></li>
 <li><a href="/bannedvideo/20220805/1767830.md">粉红围堵，不许外国人拍照；中共军演后，海滩一片鱼；当局基层广播，安抚民众；退役老兵给公安磕头；停止出口天然砂，就能遏制台湾吗？【 #大陆民生 】</a></li>
 <li><a href="/topimagenews/20220806/1768004.md">老舍生命最后一晚：白天被打，晚上妻子拒不开门</a></li>
-<li><a href="/bannedvideo/20220806/1767973.md">吓唬无效闯大祸，犯众怒引多国行动，全球都在看习近平如何收拾这场闹剧？【每日头条】</a></li>
+<li><a href="/topimagenews/20220806/1768046.md">中共军演第二天 蔡英文深夜发文：绝不退缩</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220806/1768168.md" target="_blank">疯传解放军演习2架歼-20互撞坠机 实为假新闻</a></li>
 <li><a href="/cbnews/20220806/1768152.md" target="_blank">大陆男子跳河自杀，游40分钟学会游泳,无奈上岸</a></li>
 <li><a href="/cbnews/20220806/1768135.md" target="_blank">江峰：避皇上名讳，党媒统一改演习？&#8212;-内幕更露骨！导弹打偏落争议‘专属经济区’，为何日本内喜。 习八条反制佩洛西，中美实质脱钩开始【江峰漫谈20220805第526期】</a></li>
 <li><a href="/cbnews/20220806/1768113.md" target="_blank">战狼护党 华春莹搬“14亿中国人民血肉长城”呛美国</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/cbnews/20220805/1767689.md" target="_blank">江峰：三天变一天！东部战区封锁台湾军事演习草草收场？导弹飞出外太空压根儿不算台湾领空，宣传大于军事斗争，胡锡进挖的坑把习总摔惨了！【江峰漫谈 20220804 第525期】</a></li>
 <li><a href="/cbnews/20220805/1767684.md" target="_blank">胡锡进透露唯一“遗憾” 小粉红傻眼</a></li>
 <li><a href="/cbnews/20220805/1767670.md" target="_blank">欧智库：不要接受中共那套扭曲台湾的说辞</a></li>
-<li><a href="/cbnews/20220805/1767589.md" target="_blank">中共发射11枚东风飞弹 蔡英文促全球遏止中共…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220806/1768167.md" target="_blank">突发：南京舰逼近花莲外海，国军导弹锁定</a></li>
+<li><a href="/topimagenews/20220806/1768166.md" target="_blank">中共玩失联让台海紧张加剧 中共军方高层不回美方多次去电</a></li>
 <li><a href="/topimagenews/20220806/1768159.md" target="_blank">验收习近平七年军改成果 才演了1小时22分钟【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220806/1768046.md" target="_blank">中共军演第二天 蔡英文深夜发文：绝不退缩</a></li>
 <li><a href="/topimagenews/20220806/1768045.md" target="_blank">习近平如何让闹剧收场 中共军演沦为世界笑柄</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20220804/1767250.md" target="_blank">共军开始环台军演 胡锡进又回血唱秋</a></li>
 <li><a href="/topimagenews/20220804/1767244.md" target="_blank">中共驻法大使卢沙野语出惊人 被批公开撒野</a></li>
 <li><a href="/topimagenews/20220804/1767243.md" target="_blank">报复！北京深夜出手直指佩罗西访台；中国小县城样本：8千人口,2千公务员;</a></li>
-<li><a href="/topimagenews/20220804/1767242.md" target="_blank">中共军演7处围台 东部再增1处 台湾急发警告</a></li>
-<li><a href="/topimagenews/20220804/1767215.md" target="_blank">共军犯案了！“环台”军演符合联合国定义的“国家侵略”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
 <li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 
 </ul>
 </div>
