@@ -12,22 +12,22 @@
 <li><a href="/bannedvideo/20220806/1767931.md">佩洛西再对北京出手 非常罕见！日本正式宣布这件事 中共傻眼了【红朝禁闻】</a></li>
 <li><a href="/ssgc/20220806/1767959.md">〖兲朝浮世绘〗习总真当自己是皇帝啊？连姓都要避讳</a></li>
 <li><a href="/comments/20220805/1767731.md">杜政：台海紧张 习近平在北戴河有更重要“大战”</a></li>
-<li><a href="/cnnews/20220805/1767862.md">趁你病，要你命！反习派使出连环狠招【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220806/1768045.md">习近平如何让闹剧收场 中共军演沦为世界笑柄</a></li>
+<li><a href="/cnnews/20220805/1767862.md">趁你病，要你命！反习派使出连环狠招【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220805/1767856.md">共军吹嘘把雷根号“逼退几百公里” 美军：还在台湾周边</a></li>
-<li><a href="/cnnews/20220805/1767714.md">浦东机场那一晚，我多年岁月静好的生活从此结束</a></li>
+<li><a href="/cnnews/20220806/1767895.md">洛杉矶奔驰女飙速闯红灯 撞车爆炸！惨酿5尸6命9人伤</a></li>
 <li><a href="/cbnews/20220806/1767969.md">江西幼儿园命案已致4人死亡 嫌疑人竟车祸死了</a></li>
 <li><a href="/cnnews/20220806/1767938.md">传马斯克星链屏蔽中国北斗 助裴洛西顺利抵台</a></li>
-<li><a href="/cnnews/20220806/1767895.md">洛杉矶奔驰女飙速闯红灯 撞车爆炸！惨酿5尸6命9人伤</a></li>
-<li><a href="/cbnews/20220806/1767919.md">共军为何不射东风-17？ 专家 : 怕被美军搜集数据 军演只为应付内部压力</a></li>
 <li><a href="/cbnews/20220805/1767792.md">布林肯：中若制造危机 可能产生意想不到的后果</a></li>
+<li><a href="/cbnews/20220806/1767919.md">共军为何不射东风-17？ 专家 : 怕被美军搜集数据 军演只为应付内部压力</a></li>
 <li><a href="/bannedvideo/20220806/1767902.md">有人说这是习近平最新讲话，关于佩洛西访台，笑话？</a></li>
 <li><a href="/cbnews/20220805/1767783.md">中共大规模军演报复 专家：反成裴洛西最大收获</a></li>
+<li><a href="/topimagenews/20220806/1768026.md">共军愚蠢超出想像 验证安倍名言【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220805/1767791.md">裴洛西访台 中共外交部宣布：8措施反制美国</a></li>
 <li><a href="/baitai/20220805/1767770.md">落日余灯｜一天时间只为配合习主席二十分钟的秀</a></li>
 <li><a href="/bannedvideo/20220805/1767830.md">粉红围堵，不许外国人拍照；中共军演后，海滩一片鱼；当局基层广播，安抚民众；退役老兵给公安磕头；停止出口天然砂，就能遏制台湾吗？【 #大陆民生 】</a></li>
-<li><a href="/topimagenews/20220806/1768026.md">共军愚蠢超出想像 验证安倍名言【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20220805/1767712.md">大理两座露天雕塑被指辱华 当地回应</a></li>
+<li><a href="/topimagenews/20220806/1768004.md">老舍生命最后一晚：白天被打，晚上妻子拒不开门</a></li>
+<li><a href="/bannedvideo/20220806/1767973.md">吓唬无效闯大祸，犯众怒引多国行动，全球都在看习近平如何收拾这场闹剧？【每日头条】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220806/1768159.md" target="_blank">验收习近平七年军改成果 才演了1小时22分钟【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220806/1768046.md" target="_blank">中共军演第二天 蔡英文深夜发文：绝不退缩</a></li>
 <li><a href="/topimagenews/20220806/1768045.md" target="_blank">习近平如何让闹剧收场 中共军演沦为世界笑柄</a></li>
 <li><a href="/topimagenews/20220806/1768026.md" target="_blank">共军愚蠢超出想像 验证安倍名言【阿波罗网报道】</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220804/1767243.md" target="_blank">报复！北京深夜出手直指佩罗西访台；中国小县城样本：8千人口,2千公务员;</a></li>
 <li><a href="/topimagenews/20220804/1767242.md" target="_blank">中共军演7处围台 东部再增1处 台湾急发警告</a></li>
 <li><a href="/topimagenews/20220804/1767215.md" target="_blank">共军犯案了！“环台”军演符合联合国定义的“国家侵略”</a></li>
-<li><a href="/topimagenews/20220804/1767202.md" target="_blank">裴洛西访台让共军自曝其短?专家:实力不济、也无快速部署能力</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220806/1768162.md" target="_blank">突爆BA.5新病毒 三亚、义乌封城 旅游、贸易遭重创</a></li>
 <li><a href="/comments/20220806/1768157.md" target="_blank">扎波罗热核电站「完全失控」受关注 俄乌动作开始转向</a></li>
 <li><a href="/comments/20220806/1768150.md" target="_blank">容海恩登报脱离关系 袁弓夷淡定回应</a></li>
 <li><a href="/comments/20220806/1768133.md" target="_blank">李燕铭：佩洛西访台推倒多米诺骨牌 中共军事威胁激发民主国家同仇敌忾 英德议员团计划访台 法国国会一年三度派团访台 日本两位前防卫大臣率团访台 台海风云（十二）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220806/1768027.md" target="_blank">狭路相逢绕路走，赔了夫人又折兵</a></li>
 <li><a href="/comments/20220806/1768023.md" target="_blank">科学家发现地球每天时间在缩短：2022年6月29日为迄今最短地球日</a></li>
 <li><a href="/comments/20220806/1768016.md" target="_blank">李德君:胡锡进就是个马保国</a></li>
-<li><a href="/comments/20220806/1767990.md" target="_blank">矢板明夫：中共军演不敢挑起战端 三理由判断</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 <li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
 
 </ul>
 </div>
