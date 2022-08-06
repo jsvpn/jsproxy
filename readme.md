@@ -6,14 +6,13 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220806/1768045.md">习近平如何让闹剧收场 中共军演沦为世界笑柄</a></li>
-<li><a href="/ssgc/20220806/1767959.md">〖兲朝浮世绘〗习总真当自己是皇帝啊？连姓都要避讳</a></li>
 <li><a href="/cnnews/20220806/1768147.md">北戴河上演一场大战 习近平要摆平这些</a></li>
 <li><a href="/topimagenews/20220806/1768175.md">解放军舰逼近台湾海岸线是P图？船长们看照片都笑了</a></li>
 <li><a href="/topimagenews/20220806/1768026.md">共军愚蠢超出想像 验证安倍名言【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220806/1767969.md">江西幼儿园命案已致4人死亡 嫌疑人竟车祸死了</a></li>
 <li><a href="/topimagenews/20220806/1768167.md">突发：南京舰逼近花莲外海，国军导弹锁定</a></li>
-<li><a href="/cbnews/20220806/1768135.md">江峰：避皇上名讳，党媒统一改演习？----内幕更露骨！导弹打偏落争议‘专属经济区’，为何日本内喜。 习八条反制佩洛西，中美实质脱钩开始【江峰漫谈20220805第526期】</a></li>
 <li><a href="/topimagenews/20220806/1768280.md">窝里斗！中共央视刚吹牛 反习派马上打脸：假的！【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20220806/1768135.md">江峰：避皇上名讳，党媒统一改演习？----内幕更露骨！导弹打偏落争议‘专属经济区’，为何日本内喜。 习八条反制佩洛西，中美实质脱钩开始【江峰漫谈20220805第526期】</a></li>
 <li><a href="/cbnews/20220806/1768020.md">中共自诩满清？习近平再误判</a></li>
 <li><a href="/topimagenews/20220806/1768198.md">制裁裴洛西及其直系亲属 孙子狠酸中共：我该被吓到吗</a></li>
 <li><a href="/topimagenews/20220806/1768046.md">中共军演第二天 蔡英文深夜发文：绝不退缩</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/bannedvideo/20220806/1767973.md">吓唬无效闯大祸，犯众怒引多国行动，全球都在看习近平如何收拾这场闹剧？【每日头条】</a></li>
 <li><a href="/cnnews/20220806/1768086.md">盖茨19岁女儿又晒非裔男友 正脸首曝光</a></li>
 <li><a href="/bannedvideo/20220806/1767960.md">佩洛西访台，中共收不了场，白宫调查探底；中南海集体失踪【希望之声TV-财经慧眼】</a></li>
+<li><a href="/cbnews/20220806/1768168.md">疯传解放军演习2架歼-20互撞坠机 实为假新闻</a></li>
 <li><a href="/cnnews/20220806/1768069.md">习近平比谁都清楚 佩洛西和拜登精准评估</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220807/1768341.md" target="_blank">里根号航母折返 中共小粉红学乖了 不敢随意嗨了</a></li>
+<li><a href="/comments/20220807/1768340.md" target="_blank">“反思绝不会消亡” 广岛举行原子弹爆炸77周年纪念活动</a></li>
 <li><a href="/comments/20220807/1768331.md" target="_blank">新鲜豌豆保存时间长的二个小窍门</a></li>
 <li><a href="/comments/20220807/1768323.md" target="_blank">西方愚人节乘以二 中共国产愚人节8月2日正式诞生 灭共总动员</a></li>
 <li><a href="/comments/20220807/1768315.md" target="_blank">【独家重磅】李燕铭：北戴河会议江曾另类政变 习亲信王小洪一个月抓8.9万人 派出十个督察组保驾护航北戴河会议 公安部第一督察组进驻江泽民老巢上海老家江苏 第二督察组进驻曾庆红老家江西 两督察组抄底赵乐际老巢 公安部两部门同步展开清洗行动 二十大前北戴河会议大战内幕（三四） 习近平决战江曾（二三）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220806/1768065.md" target="_blank">史上3位打烂一手好牌的人 可以躺赢 非要作死</a></li>
 <li><a href="/comments/20220806/1768064.md" target="_blank">绝不放过习近平？佩罗西访台稳赚不赔</a></li>
 <li><a href="/comments/20220806/1768063.md" target="_blank">某些人期待的战争为什么没有爆发？</a></li>
-<li><a href="/comments/20220806/1768062.md" target="_blank">老玖:当年的红卫兵红小兵老了又开始作妖了</a></li>
-<li><a href="/comments/20220806/1768059.md" target="_blank">美国男孩路边卖柠檬水 暖心故事获千万人观看</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 
 </ul>
 </div>
