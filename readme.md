@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20220806/1768045.md">习近平如何让闹剧收场 中共军演沦为世界笑柄</a></li>
 <li><a href="/ssgc/20220806/1767959.md">〖兲朝浮世绘〗习总真当自己是皇帝啊？连姓都要避讳</a></li>
 <li><a href="/cnnews/20220806/1768147.md">北戴河上演一场大战 习近平要摆平这些</a></li>
-<li><a href="/cnnews/20220806/1767938.md">传马斯克星链屏蔽中国北斗 助裴洛西顺利抵台</a></li>
 <li><a href="/topimagenews/20220806/1768175.md">解放军舰逼近台湾海岸线是P图？船长们看照片都笑了</a></li>
 <li><a href="/topimagenews/20220806/1768026.md">共军愚蠢超出想像 验证安倍名言【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220806/1767969.md">江西幼儿园命案已致4人死亡 嫌疑人竟车祸死了</a></li>
 <li><a href="/topimagenews/20220806/1768167.md">突发：南京舰逼近花莲外海，国军导弹锁定</a></li>
-<li><a href="/cbnews/20220806/1768020.md">中共自诩满清？习近平再误判</a></li>
 <li><a href="/cbnews/20220806/1768135.md">江峰：避皇上名讳，党媒统一改演习？----内幕更露骨！导弹打偏落争议‘专属经济区’，为何日本内喜。 习八条反制佩洛西，中美实质脱钩开始【江峰漫谈20220805第526期】</a></li>
+<li><a href="/cbnews/20220806/1768020.md">中共自诩满清？习近平再误判</a></li>
 <li><a href="/topimagenews/20220806/1768280.md">窝里斗！中共央视刚吹牛 反习派马上打脸：假的！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220806/1768198.md">制裁裴洛西及其直系亲属 孙子狠酸中共：我该被吓到吗</a></li>
 <li><a href="/topimagenews/20220806/1768046.md">中共军演第二天 蔡英文深夜发文：绝不退缩</a></li>
 <li><a href="/cnnews/20220806/1768088.md">战狼外交出新招：摔门 日本外相正在发言 王毅和俄罗斯外长愤然离场</a></li>
 <li><a href="/topimagenews/20220806/1768004.md">老舍生命最后一晚：白天被打，晚上妻子拒不开门</a></li>
 <li><a href="/cnnews/20220806/1768232.md">中共禁台3千项唯独1项不敢动；河北银行曝雷存款变保单；打中国芯片美拟祭这招；</a></li>
-<li><a href="/cbnews/20220806/1768039.md">天亮时分：中共导弹射歪，日本抗议；三天军演，三小时烂尾收场；半导体大佬捐款一亿美元加强台湾国防；美国将大幅调整对台政策（政论天下第756集 20220805）</a></li>
 <li><a href="/cnnews/20220806/1768156.md">三亚疫情升温临时封城 8万受困游客一片哀嚎</a></li>
+<li><a href="/cbnews/20220806/1768039.md">天亮时分：中共导弹射歪，日本抗议；三天军演，三小时烂尾收场；半导体大佬捐款一亿美元加强台湾国防；美国将大幅调整对台政策（政论天下第756集 20220805）</a></li>
 <li><a href="/topimagenews/20220806/1768159.md">验收习近平七年军改成果 才演了1小时22分钟【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220806/1768152.md">大陆男子跳河自杀，游40分钟学会游泳,无奈上岸</a></li>
 <li><a href="/bannedvideo/20220806/1767973.md">吓唬无效闯大祸，犯众怒引多国行动，全球都在看习近平如何收拾这场闹剧？【每日头条】</a></li>
-<li><a href="/bannedvideo/20220806/1767960.md">佩洛西访台，中共收不了场，白宫调查探底；中南海集体失踪【希望之声TV-财经慧眼】</a></li>
 <li><a href="/cnnews/20220806/1768086.md">盖茨19岁女儿又晒非裔男友 正脸首曝光</a></li>
+<li><a href="/bannedvideo/20220806/1767960.md">佩洛西访台，中共收不了场，白宫调查探底；中南海集体失踪【希望之声TV-财经慧眼】</a></li>
+<li><a href="/cnnews/20220806/1768069.md">习近平比谁都清楚 佩洛西和拜登精准评估</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220807/1768331.md" target="_blank">新鲜豌豆保存时间长的二个小窍门</a></li>
 <li><a href="/comments/20220807/1768323.md" target="_blank">西方愚人节乘以二 中共国产愚人节8月2日正式诞生 灭共总动员</a></li>
 <li><a href="/comments/20220807/1768315.md" target="_blank">【独家重磅】李燕铭：北戴河会议江曾另类政变 习亲信王小洪一个月抓8.9万人 派出十个督察组保驾护航北戴河会议 公安部第一督察组进驻江泽民老巢上海老家江苏 第二督察组进驻曾庆红老家江西 两督察组抄底赵乐际老巢 公安部两部门同步展开清洗行动 二十大前北戴河会议大战内幕（三四） 习近平决战江曾（二三）</a></li>
 <li><a href="/comments/20220806/1768297.md" target="_blank">姜是夏天的一味良药 三伏天怎样用好它</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220806/1768063.md" target="_blank">某些人期待的战争为什么没有爆发？</a></li>
 <li><a href="/comments/20220806/1768062.md" target="_blank">老玖:当年的红卫兵红小兵老了又开始作妖了</a></li>
 <li><a href="/comments/20220806/1768059.md" target="_blank">美国男孩路边卖柠檬水 暖心故事获千万人观看</a></li>
-<li><a href="/comments/20220806/1768058.md" target="_blank">报复佩洛西反出洋相 中共军演3天结束 美日台合演大戏</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
 <li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 
 </ul>
 </div>
