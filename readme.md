@@ -7,20 +7,19 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220805/1767794.md">习再摔一大跟头 中共军演惨变3小时 原因找到了【两岸要闻】</a></li>
 <li><a href="/cbnews/20220805/1767782.md">裴洛西访台 共军呛伴飞失败原因曝！传马斯克屏蔽中国卫星</a></li>
-<li><a href="/cnnews/20220805/1767760.md">连任？习近平重大考验【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220806/1768045.md">习近平如何让闹剧收场 中共军演沦为世界笑柄</a></li>
 <li><a href="/bannedvideo/20220806/1767931.md">佩洛西再对北京出手 非常罕见！日本正式宣布这件事 中共傻眼了【红朝禁闻】</a></li>
 <li><a href="/ssgc/20220806/1767959.md">〖兲朝浮世绘〗习总真当自己是皇帝啊？连姓都要避讳</a></li>
 <li><a href="/cnnews/20220805/1767862.md">趁你病，要你命！反习派使出连环狠招【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220805/1767856.md">共军吹嘘把雷根号“逼退几百公里” 美军：还在台湾周边</a></li>
-<li><a href="/topimagenews/20220806/1768026.md">共军愚蠢超出想像 验证安倍名言【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220806/1767895.md">洛杉矶奔驰女飙速闯红灯 撞车爆炸！惨酿5尸6命9人伤</a></li>
+<li><a href="/topimagenews/20220806/1768026.md">共军愚蠢超出想像 验证安倍名言【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220806/1767969.md">江西幼儿园命案已致4人死亡 嫌疑人竟车祸死了</a></li>
 <li><a href="/cnnews/20220806/1767938.md">传马斯克星链屏蔽中国北斗 助裴洛西顺利抵台</a></li>
-<li><a href="/cbnews/20220805/1767792.md">布林肯：中若制造危机 可能产生意想不到的后果</a></li>
 <li><a href="/bannedvideo/20220806/1767902.md">有人说这是习近平最新讲话，关于佩洛西访台，笑话？</a></li>
-<li><a href="/cbnews/20220806/1767919.md">共军为何不射东风-17？ 专家 : 怕被美军搜集数据 军演只为应付内部压力</a></li>
+<li><a href="/cbnews/20220805/1767792.md">布林肯：中若制造危机 可能产生意想不到的后果</a></li>
 <li><a href="/topimagenews/20220806/1768046.md">中共军演第二天 蔡英文深夜发文：绝不退缩</a></li>
+<li><a href="/cbnews/20220806/1767919.md">共军为何不射东风-17？ 专家 : 怕被美军搜集数据 军演只为应付内部压力</a></li>
 <li><a href="/cbnews/20220805/1767783.md">中共大规模军演报复 专家：反成裴洛西最大收获</a></li>
 <li><a href="/cbnews/20220806/1768020.md">中共自诩满清？习近平再误判</a></li>
 <li><a href="/baitai/20220805/1767770.md">落日余灯｜一天时间只为配合习主席二十分钟的秀</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20220806/1768004.md">老舍生命最后一晚：白天被打，晚上妻子拒不开门</a></li>
 <li><a href="/bannedvideo/20220805/1767830.md">粉红围堵，不许外国人拍照；中共军演后，海滩一片鱼；当局基层广播，安抚民众；退役老兵给公安磕头；停止出口天然砂，就能遏制台湾吗？【 #大陆民生 】</a></li>
 <li><a href="/bannedvideo/20220806/1767973.md">吓唬无效闯大祸，犯众怒引多国行动，全球都在看习近平如何收拾这场闹剧？【每日头条】</a></li>
+<li><a href="/bannedvideo/20220806/1767960.md">佩洛西访台，中共收不了场，白宫调查探底；中南海集体失踪【希望之声TV-财经慧眼】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220806/1768185.md" target="_blank">裴洛西结束访台 党媒扣“六宗罪”追杀</a></li>
 <li><a href="/topimagenews/20220806/1768175.md" target="_blank">解放军舰逼近台湾海岸线是P图？船长们看照片都笑了</a></li>
 <li><a href="/topimagenews/20220806/1768167.md" target="_blank">突发：南京舰逼近花莲外海，国军导弹锁定</a></li>
 <li><a href="/topimagenews/20220806/1768166.md" target="_blank">中共玩失联让台海紧张加剧 中共军方高层不回美方多次去电</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220804/1767279.md" target="_blank">惊曝：美参院延审支持台湾法案 白宫游说民主党议员踩煞车</a></li>
 <li><a href="/topimagenews/20220804/1767262.md" target="_blank">演完？共军称导弹精准命中目标 称解除海空域管制</a></li>
 <li><a href="/topimagenews/20220804/1767250.md" target="_blank">共军开始环台军演 胡锡进又回血唱秋</a></li>
-<li><a href="/topimagenews/20220804/1767244.md" target="_blank">中共驻法大使卢沙野语出惊人 被批公开撒野</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
 <li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 
 </ul>
 </div>
