@@ -20,14 +20,14 @@
 <li><a href="/cnnews/20220806/1768232.md">中共禁台3千项唯独1项不敢动；河北银行曝雷存款变保单；打中国芯片美拟祭这招；</a></li>
 <li><a href="/cbnews/20220806/1768152.md">大陆男子跳河自杀，游40分钟学会游泳,无奈上岸</a></li>
 <li><a href="/cnnews/20220806/1768156.md">三亚疫情升温临时封城 8万受困游客一片哀嚎</a></li>
-<li><a href="/cbnews/20220806/1768039.md">天亮时分：中共导弹射歪，日本抗议；三天军演，三小时烂尾收场；半导体大佬捐款一亿美元加强台湾国防；美国将大幅调整对台政策（政论天下第756集 20220805）</a></li>
 <li><a href="/topimagenews/20220806/1768159.md">验收习近平七年军改成果 才演了1小时22分钟【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220806/1767973.md">吓唬无效闯大祸，犯众怒引多国行动，全球都在看习近平如何收拾这场闹剧？【每日头条】</a></li>
+<li><a href="/cbnews/20220806/1768039.md">天亮时分：中共导弹射歪，日本抗议；三天军演，三小时烂尾收场；半导体大佬捐款一亿美元加强台湾国防；美国将大幅调整对台政策（政论天下第756集 20220805）</a></li>
 <li><a href="/cnnews/20220806/1768086.md">盖茨19岁女儿又晒非裔男友 正脸首曝光</a></li>
 <li><a href="/cbnews/20220806/1768168.md">疯传解放军演习2架歼-20互撞坠机 实为假新闻</a></li>
 <li><a href="/cnnews/20220806/1768069.md">习近平比谁都清楚 佩洛西和拜登精准评估</a></li>
 <li><a href="/topimagenews/20220806/1768166.md">中共玩失联让台海紧张加剧 中共军方高层不回美方多次去电</a></li>
 <li><a href="/cnnews/20220806/1768068.md">上海养老院的老人正在被围猎</a></li>
+<li><a href="/bannedvideo/20220806/1768237.md">陈破空：惊倒！共军演习严重造假！闹成国际大笑话。习近平大失败！北戴河如何收场？中美濒临开战边缘。中方玩失联。直播与互动 美东8月6早8点30、即中港台8月6晚8点30</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220807/1768353.md" target="_blank">由人口贩卖黑幕引出更惊人的人体器官贩卖</a></li>
 <li><a href="/comments/20220807/1768341.md" target="_blank">里根号航母折返 中共小粉红学乖了 不敢随意嗨了</a></li>
 <li><a href="/comments/20220807/1768340.md" target="_blank">“反思绝不会消亡” 广岛举行原子弹爆炸77周年纪念活动</a></li>
 <li><a href="/comments/20220807/1768331.md" target="_blank">新鲜豌豆保存时间长的二个小窍门</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220806/1768109.md" target="_blank">世界上最神秘地方探寻系列之二： 百慕大三角区</a></li>
 <li><a href="/comments/20220806/1768065.md" target="_blank">史上3位打烂一手好牌的人 可以躺赢 非要作死</a></li>
 <li><a href="/comments/20220806/1768064.md" target="_blank">绝不放过习近平？佩罗西访台稳赚不赔</a></li>
-<li><a href="/comments/20220806/1768063.md" target="_blank">某些人期待的战争为什么没有爆发？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 <li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 
 </ul>
 </div>
