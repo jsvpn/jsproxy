@@ -18,16 +18,16 @@
 <li><a href="/comments/20220805/1767731.md">杜政：台海紧张 习近平在北戴河有更重要“大战”</a></li>
 <li><a href="/topimagenews/20220805/1767856.md">共军吹嘘把雷根号“逼退几百公里” 美军：还在台湾周边</a></li>
 <li><a href="/bannedvideo/20220805/1767671.md">台海军演实弹射击闪电叫停？习近平遭大秘挖坑追佩洛西？首骗陈游标遭全网追剿；胡锡进找地缝</a></li>
-<li><a href="/topimagenews/20220805/1767614.md">俄紧急辟谣：莫斯科地标没有打出俄与中共同在标语</a></li>
 <li><a href="/cnnews/20220805/1767714.md">浦东机场那一晚，我多年岁月静好的生活从此结束</a></li>
+<li><a href="/topimagenews/20220805/1767614.md">俄紧急辟谣：莫斯科地标没有打出俄与中共同在标语</a></li>
 <li><a href="/cbnews/20220805/1767792.md">布林肯：中若制造危机 可能产生意想不到的后果</a></li>
 <li><a href="/cnnews/20220806/1767895.md">洛杉矶奔驰女飙速闯红灯 撞车爆炸！惨酿5尸6命9人伤</a></li>
 <li><a href="/cbnews/20220805/1767783.md">中共大规模军演报复 专家：反成裴洛西最大收获</a></li>
 <li><a href="/cbnews/20220805/1767791.md">裴洛西访台 中共外交部宣布：8措施反制美国</a></li>
+<li><a href="/bannedvideo/20220806/1767931.md">佩洛西再对北京出手 非常罕见！日本正式宣布这件事 中共傻眼了【红朝禁闻】</a></li>
 <li><a href="/bannedvideo/20220806/1767902.md">有人说这是习近平最新讲话，关于佩洛西访台，笑话？</a></li>
 <li><a href="/baitai/20220805/1767770.md">落日余灯｜一天时间只为配合习主席二十分钟的秀</a></li>
 <li><a href="/cbnews/20220805/1767698.md">罕见！共军战果累累？实弹军演发射场允网红现场拍摄【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20220805/1767712.md">大理两座露天雕塑被指辱华 当地回应</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220806/1768026.md" target="_blank">共军愚蠢超出想像 验证安倍名言【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220806/1768004.md" target="_blank">老舍生命最后一晚：白天被打，晚上妻子拒不开门</a></li>
 <li><a href="/topimagenews/20220806/1767953.md" target="_blank">乌军收复赫尔松53个定居点的领土 俄军全线受挫</a></li>
 <li><a href="/topimagenews/20220805/1767856.md" target="_blank">共军吹嘘把雷根号“逼退几百公里” 美军：还在台湾周边</a></li>
@@ -90,13 +91,15 @@
 <li><a href="/topimagenews/20220804/1767202.md" target="_blank">裴洛西访台让共军自曝其短?专家:实力不济、也无快速部署能力</a></li>
 <li><a href="/topimagenews/20220804/1767201.md" target="_blank">遏制佩洛西！美国深层内幕【阿波罗网编译报道】</a></li>
 <li><a href="/topimagenews/20220804/1767191.md" target="_blank">佩洛西座机曾遭拦截？网上疯传清晰“弹孔照”</a></li>
-<li><a href="/topimagenews/20220804/1767170.md" target="_blank">报复?佩洛西访台后北京大卖美债 美中加速脱钩？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220806/1768030.md" target="_blank">美时政专家：佩洛西访台展现勇气 美国会应推进美台关系</a></li>
+<li><a href="/comments/20220806/1768027.md" target="_blank">狭路相逢绕路走，赔了夫人又折兵</a></li>
+<li><a href="/comments/20220806/1768023.md" target="_blank">科学家发现地球每天时间在缩短：2022年6月29日为迄今最短地球日</a></li>
 <li><a href="/comments/20220806/1768016.md" target="_blank">李德君:胡锡进就是个马保国</a></li>
 <li><a href="/comments/20220806/1767990.md" target="_blank">矢板明夫：中共军演不敢挑起战端 三理由判断</a></li>
 <li><a href="/comments/20220806/1767989.md" target="_blank">网海拾贝:习近平拿着刀将自己逼到了死角</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220805/1767866.md" target="_blank">焦点对话：中方宣布制裁佩洛西 解放军“封岛”演习引爆台海危机？</a></li>
 <li><a href="/comments/20220805/1767831.md" target="_blank">才宣布制裁佩洛西及直系亲属 中共又发8项反制裁美国措施</a></li>
 <li><a href="/comments/20220805/1767822.md" target="_blank">【文韬政论】后安培时代的日本有限度修宪与友台路线</a></li>
-<li><a href="/comments/20220805/1767809.md" target="_blank">预言成真！转轮圣王掌管人间之时，全世界绽放 三千年开一次的优昙婆罗花！东方未来佛弥勒和西方救世主弥赛亚，是同一人？诺查丹玛斯4百年前《诸世纪》奇准⋯⋯</a></li>
-<li><a href="/comments/20220805/1767806.md" target="_blank">古人信神过七夕 现代人有生肖七夕飙财运的说法</a></li>
-<li><a href="/comments/20220805/1767756.md" target="_blank">它含所有「必需胺基酸」蛋白质含量达19％</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
 <li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
 
 </ul>
 </div>
