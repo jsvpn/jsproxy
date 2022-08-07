@@ -18,16 +18,16 @@
 <li><a href="/cnnews/20220806/1768156.md">三亚疫情升温临时封城 8万受困游客一片哀嚎</a></li>
 <li><a href="/cbnews/20220806/1768152.md">大陆男子跳河自杀，游40分钟学会游泳,无奈上岸</a></li>
 <li><a href="/topimagenews/20220806/1768159.md">验收习近平七年军改成果 才演了1小时22分钟【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20220806/1768039.md">天亮时分：中共导弹射歪，日本抗议；三天军演，三小时烂尾收场；半导体大佬捐款一亿美元加强台湾国防；美国将大幅调整对台政策（政论天下第756集 20220805）</a></li>
 <li><a href="/cnnews/20220806/1768086.md">盖茨19岁女儿又晒非裔男友 正脸首曝光</a></li>
 <li><a href="/bannedvideo/20220807/1768302.md">“军演炮击导弹第三天 中共大怒宣布：海南-三亚战时状态封了⋯⋯疯了8万多人”Shitao TV - 02 (06/08/22) 海陆空无处可逃⋯⋯网络炸了</a></li>
 <li><a href="/cbnews/20220806/1768168.md">疯传解放军演习2架歼-20互撞坠机 实为假新闻</a></li>
 <li><a href="/cnnews/20220806/1768069.md">习近平比谁都清楚 佩洛西和拜登精准评估</a></li>
-<li><a href="/topimagenews/20220806/1768166.md">中共玩失联让台海紧张加剧 中共军方高层不回美方多次去电</a></li>
 <li><a href="/bannedvideo/20220807/1768303.md">王毅不懂历史到令人惊诧</a></li>
+<li><a href="/topimagenews/20220806/1768166.md">中共玩失联让台海紧张加剧 中共军方高层不回美方多次去电</a></li>
 <li><a href="/bannedvideo/20220806/1768237.md">陈破空：惊倒！共军演习严重造假！闹成国际大笑话。习近平大失败！北戴河如何收场？中美濒临开战边缘。中方玩失联。直播与互动 美东8月6早8点30、即中港台8月6晚8点30</a></li>
 <li><a href="/funmedia/20220806/1768146.md">今年最幽默的段子，看一次笑一次，太解压了</a></li>
 <li><a href="/cnnews/20220806/1768068.md">上海养老院的老人正在被围猎</a></li>
+<li><a href="/cnnews/20220807/1768313.md">台国防部发布监控中共军舰照 还特别加注8字 打脸中共啪啪响</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220807/1768433.md" target="_blank">天亮时分：二十大之后，习会开始全面加速；惊悚的传闻：“中美电子战对抗”；川普批评佩洛西，推特创世人说必须终结中共（政论天下第757集 20220806）</a></li>
+<li><a href="/cbnews/20220807/1768421.md" target="_blank">辽宁省酿46万人涝灾 当地堤坝遭强水冲破溃决</a></li>
+<li><a href="/comments/20220807/1768419.md" target="_blank">【杰森视角】 裴洛西不访台，台海危机也会发生！谁在这次台海危机中吃亏更多？美国一招就能降低台海战争风险！乌克兰战争给台湾提供回避战争的思路！正常人非常容易误判神经过敏人的行为！</a></li>
 <li><a href="/cbnews/20220807/1768388.md" target="_blank">共军无人机连4天夜袭金门 11批18架闯入</a></li>
 <li><a href="/cbnews/20220807/1768387.md" target="_blank">1细节表明中共7月即开始备战 武统序曲已然奏响</a></li>
 <li><a href="/cbnews/20220807/1768371.md" target="_blank">野心很大！利用演习 中共背后有3个重大图谋</a></li>
@@ -57,15 +60,13 @@
 <li><a href="/cbnews/20220806/1767918.md" target="_blank">奥美医疗湖北荆门工厂 43员工中毒 1突发心肌梗塞死亡</a></li>
 <li><a href="/cbnews/20220806/1767885.md" target="_blank">中共未来对台战略呼之欲出 美国面临一场大考</a></li>
 <li><a href="/comments/20220805/1767809.md" target="_blank">预言成真！转轮圣王掌管人间之时，全世界绽放 三千年开一次的优昙婆罗花！东方未来佛弥勒和西方救世主弥赛亚，是同一人？诺查丹玛斯4百年前《诸世纪》奇准⋯⋯</a></li>
-<li><a href="/cbnews/20220805/1767792.md" target="_blank">布林肯：中若制造危机 可能产生意想不到的后果</a></li>
-<li><a href="/cbnews/20220805/1767791.md" target="_blank">裴洛西访台 中共外交部宣布：8措施反制美国</a></li>
-<li><a href="/cbnews/20220805/1767783.md" target="_blank">中共大规模军演报复 专家：反成裴洛西最大收获</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220807/1768420.md" target="_blank">人权组织指责乌军队违反国际法 乌总统正面回怼</a></li>
 <li><a href="/topimagenews/20220806/1768280.md" target="_blank">窝里斗！中共央视刚吹牛 反习派马上打脸：假的！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220806/1768279.md" target="_blank">中共大乱斗 反习派一掌把他扇晕【阿波罗网报道】【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220806/1768198.md" target="_blank">制裁裴洛西及其直系亲属 孙子狠酸中共：我该被吓到吗</a></li>
@@ -90,13 +91,15 @@
 <li><a href="/topimagenews/20220805/1767445.md" target="_blank">印度神童阿南德又中！8月7日前东亚真的出事 之后会…</a></li>
 <li><a href="/topimagenews/20220804/1767409.md" target="_blank">佩洛西来了 打赌失败 中国首骗陈光标删文被洗板</a></li>
 <li><a href="/topimagenews/20220804/1767384.md" target="_blank">习近平对军方讲话被公开！首先强调了这件事【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220804/1767364.md" target="_blank">胡锡进微博 网友提出中共最怕问题【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220807/1768425.md" target="_blank">只差点中共国大名 美军正展开一系列反制共动作</a></li>
+<li><a href="/comments/20220807/1768424.md" target="_blank">颜纯钩:缺乏政治智慧与定力 习近平临阵脚软</a></li>
+<li><a href="/comments/20220807/1768419.md" target="_blank">【杰森视角】 裴洛西不访台，台海危机也会发生！谁在这次台海危机中吃亏更多？美国一招就能降低台海战争风险！乌克兰战争给台湾提供回避战争的思路！正常人非常容易误判神经过敏人的行为！</a></li>
 <li><a href="/comments/20220807/1768404.md" target="_blank">王友群:中共高官亦高危 退党方能保平安</a></li>
 <li><a href="/comments/20220807/1768403.md" target="_blank">李木通：佩洛西让被欺凌的台湾成为全球焦点</a></li>
 <li><a href="/comments/20220807/1768402.md" target="_blank">洪博学:“爱国”的生意真好赚</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220807/1768323.md" target="_blank">西方愚人节乘以二 中共国产愚人节8月2日正式诞生 灭共总动员</a></li>
 <li><a href="/comments/20220807/1768315.md" target="_blank">【独家重磅】李燕铭：北戴河会议江曾另类政变 习亲信王小洪一个月抓8.9万人 派出十个督察组保驾护航北戴河会议 公安部第一督察组进驻江泽民老巢上海老家江苏 第二督察组进驻曾庆红老家江西 两督察组抄底赵乐际老巢 公安部两部门同步展开清洗行动 二十大前北戴河会议大战内幕（三四） 习近平决战江曾（二三）</a></li>
 <li><a href="/comments/20220806/1768297.md" target="_blank">姜是夏天的一味良药 三伏天怎样用好它</a></li>
-<li><a href="/comments/20220806/1768281.md" target="_blank">时事大家谈：中国7月制造业萎缩 清零是“最经济”的防疫？亚洲首例猴痘死亡 病毒变异了？</a></li>
-<li><a href="/comments/20220806/1768274.md" target="_blank">CNN分析中共军演目地 专家：佩洛西访台令全世界重视中共实质威胁</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
 <li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
 
 </ul>
 </div>
