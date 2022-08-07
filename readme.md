@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220806/1768045.md">习近平如何让闹剧收场 中共军演沦为世界笑柄</a></li>
 <li><a href="/cnnews/20220806/1768147.md">北戴河上演一场大战 习近平要摆平这些</a></li>
 <li><a href="/topimagenews/20220806/1768175.md">解放军舰逼近台湾海岸线是P图？船长们看照片都笑了</a></li>
 <li><a href="/topimagenews/20220806/1768167.md">突发：南京舰逼近花莲外海，国军导弹锁定</a></li>
 <li><a href="/topimagenews/20220806/1768280.md">窝里斗！中共央视刚吹牛 反习派马上打脸：假的！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220806/1768135.md">江峰：避皇上名讳，党媒统一改演习？----内幕更露骨！导弹打偏落争议‘专属经济区’，为何日本内喜。 习八条反制佩洛西，中美实质脱钩开始【江峰漫谈20220805第526期】</a></li>
 <li><a href="/topimagenews/20220806/1768198.md">制裁裴洛西及其直系亲属 孙子狠酸中共：我该被吓到吗</a></li>
-<li><a href="/topimagenews/20220806/1768046.md">中共军演第二天 蔡英文深夜发文：绝不退缩</a></li>
 <li><a href="/cnnews/20220806/1768088.md">战狼外交出新招：摔门 日本外相正在发言 王毅和俄罗斯外长愤然离场</a></li>
 <li><a href="/cnnews/20220806/1768232.md">中共禁台3千项唯独1项不敢动；河北银行曝雷存款变保单；打中国芯片美拟祭这招；</a></li>
 <li><a href="/cnnews/20220806/1768156.md">三亚疫情升温临时封城 8万受困游客一片哀嚎</a></li>
-<li><a href="/cbnews/20220806/1768152.md">大陆男子跳河自杀，游40分钟学会游泳,无奈上岸</a></li>
 <li><a href="/topimagenews/20220806/1768159.md">验收习近平七年军改成果 才演了1小时22分钟【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20220806/1768152.md">大陆男子跳河自杀，游40分钟学会游泳,无奈上岸</a></li>
 <li><a href="/cnnews/20220806/1768086.md">盖茨19岁女儿又晒非裔男友 正脸首曝光</a></li>
 <li><a href="/bannedvideo/20220807/1768302.md">“军演炮击导弹第三天 中共大怒宣布：海南-三亚战时状态封了⋯⋯疯了8万多人”Shitao TV - 02 (06/08/22) 海陆空无处可逃⋯⋯网络炸了</a></li>
-<li><a href="/cbnews/20220806/1768168.md">疯传解放军演习2架歼-20互撞坠机 实为假新闻</a></li>
-<li><a href="/cnnews/20220806/1768069.md">习近平比谁都清楚 佩洛西和拜登精准评估</a></li>
 <li><a href="/bannedvideo/20220807/1768303.md">王毅不懂历史到令人惊诧</a></li>
+<li><a href="/cbnews/20220806/1768168.md">疯传解放军演习2架歼-20互撞坠机 实为假新闻</a></li>
 <li><a href="/topimagenews/20220806/1768166.md">中共玩失联让台海紧张加剧 中共军方高层不回美方多次去电</a></li>
+<li><a href="/cnnews/20220806/1768069.md">习近平比谁都清楚 佩洛西和拜登精准评估</a></li>
 <li><a href="/bannedvideo/20220806/1768237.md">陈破空：惊倒！共军演习严重造假！闹成国际大笑话。习近平大失败！北戴河如何收场？中美濒临开战边缘。中方玩失联。直播与互动 美东8月6早8点30、即中港台8月6晚8点30</a></li>
 <li><a href="/funmedia/20220806/1768146.md">今年最幽默的段子，看一次笑一次，太解压了</a></li>
 <li><a href="/cnnews/20220806/1768068.md">上海养老院的老人正在被围猎</a></li>
 <li><a href="/cnnews/20220807/1768313.md">台国防部发布监控中共军舰照 还特别加注8字 打脸中共啪啪响</a></li>
+<li><a href="/cbnews/20220806/1768060.md">苹果手机自带软件显示上海气温50℃，气象局回应</a></li>
+<li><a href="/cnnews/20220806/1768219.md">大军集结 英曝乌俄战争即将进入新阶段</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220807/1768438.md" target="_blank">陶杰：女领袖的“服装政治学”</a></li>
+<li><a href="/comments/20220807/1768437.md" target="_blank">小民之心：没采取军事行动代价巨大 习近平事先是否想过后果</a></li>
+<li><a href="/comments/20220807/1768436.md" target="_blank">“爽死”、“弄死”？不能以耍流氓的方式来爱国</a></li>
 <li><a href="/comments/20220807/1768425.md" target="_blank">只差点中共国大名 美军正展开一系列反制共动作</a></li>
 <li><a href="/comments/20220807/1768424.md" target="_blank">颜纯钩:缺乏政治智慧与定力 习近平临阵脚软</a></li>
 <li><a href="/comments/20220807/1768419.md" target="_blank">【杰森视角】 裴洛西不访台，台海危机也会发生！谁在这次台海危机中吃亏更多？美国一招就能降低台海战争风险！乌克兰战争给台湾提供回避战争的思路！正常人非常容易误判神经过敏人的行为！</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220807/1768341.md" target="_blank">里根号航母折返 中共小粉红学乖了 不敢随意嗨了</a></li>
 <li><a href="/comments/20220807/1768340.md" target="_blank">“反思绝不会消亡” 广岛举行原子弹爆炸77周年纪念活动</a></li>
 <li><a href="/comments/20220807/1768331.md" target="_blank">新鲜豌豆保存时间长的二个小窍门</a></li>
-<li><a href="/comments/20220807/1768323.md" target="_blank">西方愚人节乘以二 中共国产愚人节8月2日正式诞生 灭共总动员</a></li>
-<li><a href="/comments/20220807/1768315.md" target="_blank">【独家重磅】李燕铭：北戴河会议江曾另类政变 习亲信王小洪一个月抓8.9万人 派出十个督察组保驾护航北戴河会议 公安部第一督察组进驻江泽民老巢上海老家江苏 第二督察组进驻曾庆红老家江西 两督察组抄底赵乐际老巢 公安部两部门同步展开清洗行动 二十大前北戴河会议大战内幕（三四） 习近平决战江曾（二三）</a></li>
-<li><a href="/comments/20220806/1768297.md" target="_blank">姜是夏天的一味良药 三伏天怎样用好它</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
 <li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 
 </ul>
 </div>
