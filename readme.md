@@ -11,19 +11,19 @@
 <li><a href="/cnnews/20220806/1768232.md">中共禁台3千项唯独1项不敢动；河北银行曝雷存款变保单；打中国芯片美拟祭这招；</a></li>
 <li><a href="/worldnews/20220807/1768350.md">不惧中共围台军演 两国政要7日访台</a></li>
 <li><a href="/bannedvideo/20220807/1768414.md">震惊！中共授权新华社向全世界公告：2022年8月15日起，恢复对台湾行政管辖权，台湾军事组织就地解散，台湾由中国共产党领导，任命洪秀柱为台湾省代省长，组建台湾省政府，组建台湾内为警察部队。</a></li>
-<li><a href="/bannedvideo/20220807/1768302.md">“军演炮击导弹第三天 中共大怒宣布：海南-三亚战时状态封了⋯⋯疯了8万多人”Shitao TV - 02 (06/08/22) 海陆空无处可逃⋯⋯网络炸了</a></li>
 <li><a href="/cbnews/20220807/1768433.md">天亮时分：二十大之后，习会开始全面加速；惊悚的传闻：“中美电子战对抗”；川普批评佩洛西，推特创世人说必须终结中共（政论天下第757集 20220806）</a></li>
+<li><a href="/bannedvideo/20220807/1768302.md">“军演炮击导弹第三天 中共大怒宣布：海南-三亚战时状态封了⋯⋯疯了8万多人”Shitao TV - 02 (06/08/22) 海陆空无处可逃⋯⋯网络炸了</a></li>
 <li><a href="/comments/20220807/1768361.md">中共不爽佩洛西访台！曝光其家族在中国的大量投资</a></li>
-<li><a href="/bannedvideo/20220807/1768303.md">王毅不懂历史到令人惊诧</a></li>
 <li><a href="/bannedvideo/20220807/1768326.md">赵立坚家暴？乱了……【老北京茶馆08/06/2022】</a></li>
+<li><a href="/bannedvideo/20220807/1768303.md">王毅不懂历史到令人惊诧</a></li>
 <li><a href="/bannedvideo/20220806/1768237.md">陈破空：惊倒！共军演习严重造假！闹成国际大笑话。习近平大失败！北戴河如何收场？中美濒临开战边缘。中方玩失联。直播与互动 美东8月6早8点30、即中港台8月6晚8点30</a></li>
 <li><a href="/bannedvideo/20220807/1768328.md">党媒释信号 ，北戴河有大战 ，佩洛西帮习连任？【红朝禁闻】</a></li>
 <li><a href="/ssgc/20220806/1768255.md">河南钻石就要统治世界了</a></li>
 <li><a href="/cnnews/20220807/1768313.md">台国防部发布监控中共军舰照 还特别加注8字 打脸中共啪啪响</a></li>
 <li><a href="/cnnews/20220806/1768219.md">大军集结 英曝乌俄战争即将进入新阶段</a></li>
 <li><a href="/cbnews/20220807/1768387.md">1细节表明中共7月即开始备战 武统序曲已然奏响</a></li>
-<li><a href="/comments/20220807/1768383.md">重磅炸弹：尼斯湖水怪是长颈恐龙？</a></li>
 <li><a href="/comments/20220807/1768341.md">里根号航母折返 中共小粉红学乖了 不敢随意嗨了</a></li>
+<li><a href="/comments/20220807/1768383.md">重磅炸弹：尼斯湖水怪是长颈恐龙？</a></li>
 <li><a href="/topimagenews/20220807/1768441.md">【微博精粹】贼来筛糠 贼走耍枪 共军演“习” 犯大忌</a></li>
 <li><a href="/topimagenews/20220806/1768279.md">中共大乱斗 反习派一掌把他扇晕【阿波罗网报道】【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220807/1768371.md">野心很大！利用演习 中共背后有3个重大图谋</a></li>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220807/1768528.md" target="_blank">癌症其实可预防！抗癌食物「8要8不要」</a></li>
+<li><a href="/comments/20220807/1768527.md" target="_blank">出汗多≠排毒，伤肾又毁颜！这3个方法收火气</a></li>
+<li><a href="/comments/20220807/1768526.md" target="_blank">今日立秋</a></li>
+<li><a href="/comments/20220807/1768525.md" target="_blank">音乐能减缓疼痛！ 专家：在对音乐的感受而非节奏</a></li>
+<li><a href="/comments/20220807/1768524.md" target="_blank">美国猴痘疫情扩大延烧 政府宣布进入「公共卫生紧急状态」</a></li>
+<li><a href="/comments/20220807/1768523.md" target="_blank">友谊让人更长寿，别怕被拒绝 老朋友乐于重新联系</a></li>
 <li><a href="/comments/20220807/1768514.md" target="_blank">李燕铭：美韩联合军演将分三步实施战时演练 包括演练斩首金正恩 朝鲜最恐惧的美韩海军陆战队双龙演习将重启 全球军事围堵中共之朝鲜半岛战争阴云（二十）</a></li>
 <li><a href="/comments/20220807/1768513.md" target="_blank">美印将在中印边境上空联合军演</a></li>
 <li><a href="/comments/20220807/1768509.md" target="_blank">没说 「一个中国」 蔡依林等艺人遭粉红出征</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20220807/1768419.md" target="_blank">【杰森视角】 裴洛西不访台，台海危机也会发生！谁在这次台海危机中吃亏更多？美国一招就能降低台海战争风险！乌克兰战争给台湾提供回避战争的思路！正常人非常容易误判神经过敏人的行为！</a></li>
 <li><a href="/comments/20220807/1768404.md" target="_blank">王友群:中共高官亦高危 退党方能保平安</a></li>
 <li><a href="/comments/20220807/1768403.md" target="_blank">李木通：佩洛西让被欺凌的台湾成为全球焦点</a></li>
-<li><a href="/comments/20220807/1768402.md" target="_blank">洪博学:“爱国”的生意真好赚</a></li>
-<li><a href="/comments/20220807/1768400.md" target="_blank">网海拾贝:中共想怎么改底线就怎么改底线</a></li>
-<li><a href="/comments/20220807/1768399.md" target="_blank">周晓辉：八一招待会上有蹊跷 习五年前讲话重登</a></li>
-<li><a href="/comments/20220807/1768398.md" target="_blank">对全域人员强制赋码管理，民权县里无民权可言</a></li>
-<li><a href="/comments/20220807/1768394.md" target="_blank">钟原：中共对台网络攻击比导弹更真实</a></li>
-<li><a href="/comments/20220807/1768393.md" target="_blank">楚一丁：夏游太浩湖随笔</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 <li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
 <li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
 <li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
 
 </ul>
 </div>
