@@ -16,15 +16,15 @@
 <li><a href="/cnnews/20220806/1768156.md">三亚疫情升温临时封城 8万受困游客一片哀嚎</a></li>
 <li><a href="/cbnews/20220806/1768152.md">大陆男子跳河自杀，游40分钟学会游泳,无奈上岸</a></li>
 <li><a href="/bannedvideo/20220807/1768326.md">赵立坚家暴？乱了……【老北京茶馆08/06/2022】</a></li>
+<li><a href="/worldnews/20220807/1768350.md">不惧中共围台军演 两国政要7日访台</a></li>
 <li><a href="/bannedvideo/20220807/1768302.md">“军演炮击导弹第三天 中共大怒宣布：海南-三亚战时状态封了⋯⋯疯了8万多人”Shitao TV - 02 (06/08/22) 海陆空无处可逃⋯⋯网络炸了</a></li>
 <li><a href="/bannedvideo/20220807/1768303.md">王毅不懂历史到令人惊诧</a></li>
-<li><a href="/topimagenews/20220806/1768166.md">中共玩失联让台海紧张加剧 中共军方高层不回美方多次去电</a></li>
-<li><a href="/cbnews/20220806/1768168.md">疯传解放军演习2架歼-20互撞坠机 实为假新闻</a></li>
 <li><a href="/bannedvideo/20220806/1768237.md">陈破空：惊倒！共军演习严重造假！闹成国际大笑话。习近平大失败！北戴河如何收场？中美濒临开战边缘。中方玩失联。直播与互动 美东8月6早8点30、即中港台8月6晚8点30</a></li>
+<li><a href="/cbnews/20220806/1768168.md">疯传解放军演习2架歼-20互撞坠机 实为假新闻</a></li>
 <li><a href="/bannedvideo/20220807/1768328.md">党媒释信号 ，北戴河有大战 ，佩洛西帮习连任？【红朝禁闻】</a></li>
-<li><a href="/worldnews/20220807/1768350.md">不惧中共围台军演 两国政要7日访台</a></li>
-<li><a href="/cnnews/20220807/1768313.md">台国防部发布监控中共军舰照 还特别加注8字 打脸中共啪啪响</a></li>
+<li><a href="/topimagenews/20220806/1768166.md">中共玩失联让台海紧张加剧 中共军方高层不回美方多次去电</a></li>
 <li><a href="/funmedia/20220806/1768146.md">今年最幽默的段子，看一次笑一次，太解压了</a></li>
+<li><a href="/cnnews/20220807/1768313.md">台国防部发布监控中共军舰照 还特别加注8字 打脸中共啪啪响</a></li>
 <li><a href="/ssgc/20220806/1768255.md">河南钻石就要统治世界了</a></li>
 <li><a href="/cnnews/20220806/1768219.md">大军集结 英曝乌俄战争即将进入新阶段</a></li>
 <li><a href="/topimagenews/20220806/1768279.md">中共大乱斗 反习派一掌把他扇晕【阿波罗网报道】【阿波罗网报道】</a></li>
@@ -117,11 +117,11 @@
 <li><a href="/comments/20220807/1768400.md" target="_blank">网海拾贝:中共想怎么改底线就怎么改底线</a></li>
 <li><a href="/comments/20220807/1768399.md" target="_blank">周晓辉：八一招待会上有蹊跷 习五年前讲话重登</a></li>
 <li><a href="/comments/20220807/1768398.md" target="_blank">对全域人员强制赋码管理，民权县里无民权可言</a></li>
-<li><a href="/comments/20220807/1768395.md" target="_blank">郑愚山：“墙国”少年躺平纪实</a></li>
 <li><a href="/comments/20220807/1768394.md" target="_blank">钟原：中共对台网络攻击比导弹更真实</a></li>
 <li><a href="/comments/20220807/1768393.md" target="_blank">楚一丁：夏游太浩湖随笔</a></li>
 <li><a href="/comments/20220807/1768383.md" target="_blank">重磅炸弹：尼斯湖水怪是长颈恐龙？</a></li>
 <li><a href="/comments/20220807/1768382.md" target="_blank">大众ID.4不再从德国进口 2023电动SUV更实惠</a></li>
+<li><a href="/comments/20220807/1768361.md" target="_blank">中共不爽佩洛西访台！曝光其家族在中国的大量投资</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 <li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 
 </ul>
 </div>
