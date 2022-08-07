@@ -11,23 +11,23 @@
 <li><a href="/worldnews/20220807/1768350.md">不惧中共围台军演 两国政要7日访台</a></li>
 <li><a href="/bannedvideo/20220807/1768328.md">党媒释信号 ，北戴河有大战 ，佩洛西帮习连任？【红朝禁闻】</a></li>
 <li><a href="/comments/20220807/1768361.md">中共不爽佩洛西访台！曝光其家族在中国的大量投资</a></li>
-<li><a href="/cnnews/20220807/1768313.md">台国防部发布监控中共军舰照 还特别加注8字 打脸中共啪啪响</a></li>
 <li><a href="/bannedvideo/20220807/1768498.md">中共国开始发行10元硬币，这意味着人民币将大幅度贬值，编制幅度至少10倍以上。</a></li>
 <li><a href="/cbnews/20220807/1768387.md">1细节表明中共7月即开始备战 武统序曲已然奏响</a></li>
 <li><a href="/topimagenews/20220807/1768441.md">【微博精粹】贼来筛糠 贼走耍枪 共军演“习” 犯大忌</a></li>
 <li><a href="/cnnews/20220807/1768552.md">海南多间旅店恶意涨价 省长称要有打大仗准备</a></li>
-<li><a href="/cbnews/20220807/1768518.md">军演秀没完没了 共军宣布：“继续”对台实战演训</a></li>
 <li><a href="/bannedvideo/20220807/1768573.md">赵立坚患精神病？洪秀柱做“内应”遇猪队友！共军军舰进入台湾领海……</a></li>
+<li><a href="/cbnews/20220807/1768518.md">军演秀没完没了 共军宣布：“继续”对台实战演训</a></li>
 <li><a href="/cnnews/20220807/1768522.md">中共10艘军舰多次进逼海峡中线 台舰同数量逼近 现场超级诡异</a></li>
 <li><a href="/comments/20220807/1768478.md">韦拓:中国农村已踏入史上最危险境地</a></li>
+<li><a href="/cnnews/20220807/1768558.md">比“仙气紫”更美？iPhone14 Pro实机曝光</a></li>
 <li><a href="/topimagenews/20220807/1768517.md">美军“导弹测量船”来了：5天路径直朝台湾</a></li>
 <li><a href="/comments/20220807/1768341.md">里根号航母折返 中共小粉红学乖了 不敢随意嗨了</a></li>
-<li><a href="/cnnews/20220807/1768558.md">比“仙气紫”更美？iPhone14 Pro实机曝光</a></li>
 <li><a href="/cbnews/20220807/1768371.md">野心很大！利用演习 中共背后有3个重大图谋</a></li>
 <li><a href="/comments/20220807/1768383.md">重磅炸弹：尼斯湖水怪是长颈恐龙？</a></li>
 <li><a href="/yule/20220807/1768488.md">张颖颖“包养金主”身份曝光 正面回应反被嘲</a></li>
 <li><a href="/topimagenews/20220807/1768457.md">要隔离吗？中共战狼外长王毅成密接人士【阿波罗网报道】</a></li>
 <li><a href="/health/20220807/1768520.md">中医发现了！得癌症的人有这关键特点</a></li>
+<li><a href="/ssgc/20220807/1768484.md">〖微博谈〗袍子和新衣</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220808/1768622.md" target="_blank">中共南京舰卫星照称“距花莲11公里” 又翻船了</a></li>
 <li><a href="/topimagenews/20220807/1768598.md" target="_blank">美军放出震撼影片！给中共上课【阿波罗网报道】【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220807/1768517.md" target="_blank">美军“导弹测量船”来了：5天路径直朝台湾</a></li>
 <li><a href="/topimagenews/20220807/1768457.md" target="_blank">要隔离吗？中共战狼外长王毅成密接人士【阿波罗网报道】</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20220805/1767650.md" target="_blank">【微博精粹】一条不能细想的恐怖新闻</a></li>
 <li><a href="/topimagenews/20220805/1767614.md" target="_blank">俄紧急辟谣：莫斯科地标没有打出俄与中共同在标语</a></li>
 <li><a href="/topimagenews/20220805/1767613.md" target="_blank">疯传！大陆海滩边正集结坦克?别再造谣了</a></li>
-<li><a href="/topimagenews/20220805/1767559.md" target="_blank">猛料！72个假新闻网站为中共宣传曝光</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220808/1768620.md" target="_blank">港「红黄码」突延后 背后原因引猜测</a></li>
+<li><a href="/comments/20220808/1768619.md" target="_blank">这些瓜果蔬菜水分多 可清爽度过上火燥热的三伏天</a></li>
 <li><a href="/comments/20220807/1768602.md" target="_blank">今日立秋！立秋吃什么最养生？</a></li>
 <li><a href="/comments/20220807/1768600.md" target="_blank">不满当局对佩洛西访台无作为 小粉红到政府前拉布条抗议</a></li>
 <li><a href="/comments/20220807/1768599.md" target="_blank">没封台湾岛封了海南岛！三亚疫情8万人受困 各类“宰客”行径引不满</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220807/1768461.md" target="_blank">莫叔：鼓励群众举报未按要求做核酸的人”？？？</a></li>
 <li><a href="/comments/20220807/1768452.md" target="_blank">李燕铭：北戴河大战习近平枪杆子刀把子压阵 习调大军封锁北戴河 军报重磅发声：没有谁是铁帽子王！军委办公厅印发通知 强调贯彻军委主席负责制听从习指挥 王小洪公安部特勤局印发通知 要求忠诚核心捍卫核心 二十大前北戴河会议大战内幕（三五） 习强化军权为二十大保驾护航 严防江曾政变（十六）</a></li>
 <li><a href="/comments/20220807/1768445.md" target="_blank">不二:芯片业腐败简史</a></li>
-<li><a href="/comments/20220807/1768438.md" target="_blank">陶杰：女领袖的“服装政治学”</a></li>
-<li><a href="/comments/20220807/1768437.md" target="_blank">小民之心：没采取军事行动代价巨大 习近平事先是否想过后果</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
 <li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 
 </ul>
 </div>
