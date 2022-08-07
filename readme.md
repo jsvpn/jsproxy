@@ -12,22 +12,22 @@
 <li><a href="/cnnews/20220806/1768232.md">中共禁台3千项唯独1项不敢动；河北银行曝雷存款变保单；打中国芯片美拟祭这招；</a></li>
 <li><a href="/worldnews/20220807/1768350.md">不惧中共围台军演 两国政要7日访台</a></li>
 <li><a href="/topimagenews/20220806/1768159.md">验收习近平七年军改成果 才演了1小时22分钟【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20220806/1768152.md">大陆男子跳河自杀，游40分钟学会游泳,无奈上岸</a></li>
-<li><a href="/cnnews/20220806/1768156.md">三亚疫情升温临时封城 8万受困游客一片哀嚎</a></li>
-<li><a href="/bannedvideo/20220807/1768326.md">赵立坚家暴？乱了……【老北京茶馆08/06/2022】</a></li>
 <li><a href="/bannedvideo/20220807/1768302.md">“军演炮击导弹第三天 中共大怒宣布：海南-三亚战时状态封了⋯⋯疯了8万多人”Shitao TV - 02 (06/08/22) 海陆空无处可逃⋯⋯网络炸了</a></li>
-<li><a href="/bannedvideo/20220807/1768303.md">王毅不懂历史到令人惊诧</a></li>
+<li><a href="/bannedvideo/20220807/1768326.md">赵立坚家暴？乱了……【老北京茶馆08/06/2022】</a></li>
 <li><a href="/comments/20220807/1768361.md">中共不爽佩洛西访台！曝光其家族在中国的大量投资</a></li>
+<li><a href="/bannedvideo/20220807/1768303.md">王毅不懂历史到令人惊诧</a></li>
+<li><a href="/bannedvideo/20220807/1768414.md">震惊！中共授权新华社向全世界公告：2022年8月15日起，恢复对台湾行政管辖权，台湾军事组织就地解散，台湾由中国共产党领导，任命洪秀柱为台湾省代省长，组建台湾省政府，组建台湾内为警察部队。</a></li>
 <li><a href="/bannedvideo/20220807/1768328.md">党媒释信号 ，北戴河有大战 ，佩洛西帮习连任？【红朝禁闻】</a></li>
 <li><a href="/bannedvideo/20220806/1768237.md">陈破空：惊倒！共军演习严重造假！闹成国际大笑话。习近平大失败！北戴河如何收场？中美濒临开战边缘。中方玩失联。直播与互动 美东8月6早8点30、即中港台8月6晚8点30</a></li>
 <li><a href="/cbnews/20220806/1768168.md">疯传解放军演习2架歼-20互撞坠机 实为假新闻</a></li>
 <li><a href="/topimagenews/20220806/1768166.md">中共玩失联让台海紧张加剧 中共军方高层不回美方多次去电</a></li>
 <li><a href="/ssgc/20220806/1768255.md">河南钻石就要统治世界了</a></li>
 <li><a href="/cnnews/20220807/1768313.md">台国防部发布监控中共军舰照 还特别加注8字 打脸中共啪啪响</a></li>
-<li><a href="/bannedvideo/20220807/1768414.md">震惊！中共授权新华社向全世界公告：2022年8月15日起，恢复对台湾行政管辖权，台湾军事组织就地解散，台湾由中国共产党领导，任命洪秀柱为台湾省代省长，组建台湾省政府，组建台湾内为警察部队。</a></li>
+<li><a href="/cbnews/20220807/1768433.md">天亮时分：二十大之后，习会开始全面加速；惊悚的传闻：“中美电子战对抗”；川普批评佩洛西，推特创世人说必须终结中共（政论天下第757集 20220806）</a></li>
 <li><a href="/comments/20220807/1768341.md">里根号航母折返 中共小粉红学乖了 不敢随意嗨了</a></li>
 <li><a href="/cnnews/20220806/1768219.md">大军集结 英曝乌俄战争即将进入新阶段</a></li>
 <li><a href="/topimagenews/20220806/1768279.md">中共大乱斗 反习派一掌把他扇晕【阿波罗网报道】【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20220807/1768387.md">1细节表明中共7月即开始备战 武统序曲已然奏响</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220807/1768509.md" target="_blank">没说 「一个中国」 蔡依林等艺人遭粉红出征</a></li>
 <li><a href="/comments/20220807/1768480.md" target="_blank">杨乃悟:互联网没有记忆</a></li>
 <li><a href="/comments/20220807/1768479.md" target="_blank">洛克杂谭：洛克之眼看俄乌</a></li>
 <li><a href="/comments/20220807/1768478.md" target="_blank">韦拓:中国农村已踏入史上最危险境地</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220807/1768393.md" target="_blank">楚一丁：夏游太浩湖随笔</a></li>
 <li><a href="/comments/20220807/1768383.md" target="_blank">重磅炸弹：尼斯湖水怪是长颈恐龙？</a></li>
 <li><a href="/comments/20220807/1768382.md" target="_blank">大众ID.4不再从德国进口 2023电动SUV更实惠</a></li>
-<li><a href="/comments/20220807/1768361.md" target="_blank">中共不爽佩洛西访台！曝光其家族在中国的大量投资</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
 
 </ul>
 </div>
