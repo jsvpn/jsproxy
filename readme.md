@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20220808/1768629.md">【独家重磅】李燕铭：北戴河内斗汹涌 习近平重磅出手 李克强北大同班同学落马 曾公开演讲吹捧李克强孟建柱周强却只字不提习近平 北大法律系77级被称为法律界黄埔一期 知名同班同学名单泄露李克强与政法系统深度关联 二十大前北戴河会议大战内幕（三六） 习近平连任与二十大常委争夺战（四四） 习近平李克强明争暗斗内幕（三六）</a></li>
 <li><a href="/bannedvideo/20220808/1768664.md">🔥北京反常！佩洛西让习近平感到军队不受控制；内部消息：习中央提供朝鲜部队加入俄乌战争补给；上海破50℃官方坐不住，中国气温为何不能超过40度？菲律宾总统：佩洛西台湾行并没加剧局势紧张【阿波罗网TL】</a></li>
 <li><a href="/ssgc/20220808/1768634.md">〖兲朝浮世绘〗如果中国真的武统拿下台湾，台湾人都要进集中营</a></li>
 <li><a href="/topimagenews/20220808/1768655.md">全球围观最强辱共：推特创办人发“灭共宣言”【阿波罗网报道】</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/topimagenews/20220808/1768847.md">发明“愿者上钩”文凭交易模式：复旦苏教授火了 中共特色走出国门</a></li>
 <li><a href="/cnnews/20220808/1768767.md">从月入5万到银行上门催债：北漂夫妻的断供生活</a></li>
 <li><a href="/cnnews/20220808/1768890.md">习近平要大事化小，不敢动美国利益？“世界小商品之都”义乌封城；</a></li>
-<li><a href="/cnnews/20220808/1768636.md">台海危机有利于习近平连任？美国左媒为首为何痛批佩洛西访台？惊人大逆转【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220808/1768742.md">〖微博谈〗中国的事情总是让人啼笑皆非</a></li>
+<li><a href="/cnnews/20220808/1768636.md">台海危机有利于习近平连任？美国左媒为首为何痛批佩洛西访台？惊人大逆转【阿波罗网报道】</a></li>
 <li><a href="/headline/20220808/1768653.md">中国要求韩国遵守萨德三不承诺 韩国官员：这不是承诺</a></li>
 <li><a href="/cbnews/20220808/1768658.md">耗时6年动漫纪录片《长春》澳墨尔本加映 票房再爆满</a></li>
 <li><a href="/lifebaike/20220808/1768707.md">“中国式”家庭的悲哀：缺爱的父亲，急躁的母亲，和失控的孩子</a></li>
 <li><a href="/cnnews/20220808/1768785.md">中共射导弹曝2大缺失!专家：军演泄露攻台战略、离实战水平差距不小</a></li>
 <li><a href="/bannedvideo/20220808/1768885.md">🔥惊爆2号中美做好开战准备；战狼外交致一个中国开始崩盘；华春莹逻辑遭一面倒轻蔑；中国名主持“润”到美国晒照；美五大军种展开威慑态势 应对中共威胁；马斯克提出这项条件可以继续收购推特</a></li>
-<li><a href="/ssgc/20220808/1768626.md">美舰、美机抵达台湾附近 布林肯说大海应该平静下来</a></li>
+<li><a href="/cbnews/20220808/1768956.md">已做撞击准备！成功舰对峙共军长春舰实况曝 相距仅2百码</a></li>
+<li><a href="/cbnews/20220808/1768835.md">小伙裸辞后：立夏时被隔离在上海 立秋时在三亚</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220809/1769012.md" target="_blank">台湾选手包办前3！中国直播平台崩溃…</a></li>
 <li><a href="/topimagenews/20220809/1768989.md" target="_blank">川普：美国已沦第三世界国家及笑柄 不再受尊重 裴洛西带来混乱</a></li>
 <li><a href="/topimagenews/20220808/1768945.md" target="_blank">习近平面临两难境地？大外宣打脸习近平【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220808/1768921.md" target="_blank">台湾飞行员空中大骂：马列主义的走狗！【阿波罗网报道】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220806/1768166.md" target="_blank">中共玩失联让台海紧张加剧 中共军方高层不回美方多次去电</a></li>
 <li><a href="/topimagenews/20220806/1768159.md" target="_blank">验收习近平七年军改成果 才演了1小时22分钟【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220806/1768046.md" target="_blank">中共军演第二天 蔡英文深夜发文：绝不退缩</a></li>
-<li><a href="/topimagenews/20220806/1768045.md" target="_blank">习近平如何让闹剧收场 中共军演沦为世界笑柄</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
