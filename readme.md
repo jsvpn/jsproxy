@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20220808/1768655.md">全球围观最强辱共：推特创办人发“灭共宣言”【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220808/1768634.md">〖兲朝浮世绘〗如果中国真的武统拿下台湾，台湾人都要进集中营</a></li>
 <li><a href="/bannedvideo/20220807/1768570.md">🔥俄媒曝朝鲜要派10万军到乌克兰；瞬间灰飞！乌炸毁俄超级战车；美国面临史上最大威胁；印度力压中共 中国测量船遇阻；人权组织指乌军违反国际法；三亚舱门都已关 所有乘客还必须下飞机  LV</a></li>
-<li><a href="/cnnews/20220808/1768656.md">宇宙高级生命的存在形式超乎人类想像</a></li>
 <li><a href="/cnnews/20220807/1768595.md">大外宣戳破大内宣！反习近平打脸习近平【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20220808/1768656.md">宇宙高级生命的存在形式超乎人类想像</a></li>
 <li><a href="/ssgc/20220807/1768584.md">国民党背弃中共 习近平万事不顺心</a></li>
-<li><a href="/bannedvideo/20220807/1768594.md">悲剧重演，困在三亚的大多是上海人，新加坡首富透中国国情，一万中国高净值富豪要润，铁链女吹哨人逃美，中国人移民最多的国家，外卖小哥爱国悲剧（小木谈天第271期 20220807）</a></li>
 <li><a href="/topimagenews/20220808/1768686.md">北京发文悬赏搞这出：鼓励群众“举报”未做核酸的人</a></li>
+<li><a href="/bannedvideo/20220807/1768594.md">悲剧重演，困在三亚的大多是上海人，新加坡首富透中国国情，一万中国高净值富豪要润，铁链女吹哨人逃美，中国人移民最多的国家，外卖小哥爱国悲剧（小木谈天第271期 20220807）</a></li>
 <li><a href="/cnnews/20220808/1768636.md">台海危机有利于习近平连任？美国左媒为首为何痛批佩洛西访台？惊人大逆转【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20220807/1768549.md">如何甩掉肚子上的脂肪？做好这3件事，让腹部恢复平坦</a></li>
 <li><a href="/headline/20220808/1768653.md">中国要求韩国遵守萨德三不承诺 韩国官员：这不是承诺</a></li>
 <li><a href="/health/20220807/1768533.md">为何一查肝癌，往往都是晚期？主要有2点！劝你远离这4个“祸根”</a></li>
 <li><a href="/ssgc/20220808/1768626.md">美舰、美机抵达台湾附近 布林肯说大海应该平静下来</a></li>
 <li><a href="/cbnews/20220808/1768658.md">耗时6年动漫纪录片《长春》澳墨尔本加映 票房再爆满</a></li>
+<li><a href="/cnnews/20220808/1768778.md">网友们发现了一个关于上海天气的内幕了</a></li>
 <li><a href="/comments/20220807/1768548.md">中国芯片业腐败简史</a></li>
-<li><a href="/weiquan/20220807/1768591.md">对石家庄市政府&#8220;责令&#8221;阳奉阴违&#65292;长安区政府勉强公开政府信息敷衍了事</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220808/1768773.md" target="_blank">章天亮博士《中华文明史》带您探寻华夏文明的古老智慧</a></li>
+<li><a href="/cbnews/20220808/1768835.md" target="_blank">小伙裸辞后：立夏时被隔离在上海 立秋时在三亚</a></li>
 <li><a href="/cbnews/20220808/1768823.md" target="_blank">280人的惊魂60小时：从三亚撤离、一天100个电话</a></li>
 <li><a href="/cbnews/20220808/1768800.md" target="_blank">美媒：美印将于中印边境军演 中共反应受瞩</a></li>
 <li><a href="/cbnews/20220808/1768793.md" target="_blank">安倍国葬台湾谁去？恐为下个触发点</a></li>
@@ -58,14 +60,13 @@
 <li><a href="/cbnews/20220806/1768152.md" target="_blank">大陆男子跳河自杀，游40分钟学会游泳,无奈上岸</a></li>
 <li><a href="/cbnews/20220806/1768135.md" target="_blank">江峰：避皇上名讳，党媒统一改演习？&#8212;-内幕更露骨！导弹打偏落争议‘专属经济区’，为何日本内喜。 习八条反制佩洛西，中美实质脱钩开始【江峰漫谈20220805第526期】</a></li>
 <li><a href="/cbnews/20220806/1768113.md" target="_blank">战狼护党 华春莹搬“14亿中国人民血肉长城”呛美国</a></li>
-<li><a href="/cbnews/20220806/1768103.md" target="_blank">上海四度飙破40℃ 多位老人因“热射病”住院</a></li>
-<li><a href="/cbnews/20220806/1768084.md" target="_blank">裴洛西访台美中多方试探 步步进逼 也留回旋空间</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220808/1768773.md" target="_blank">章天亮博士《中华文明史》带您探寻华夏文明的古老智慧</a></li>
 <li><a href="/topimagenews/20220808/1768821.md" target="_blank">微博屏蔽话题“#演员宁静为徐州铁链女发声”</a></li>
 <li><a href="/topimagenews/20220808/1768686.md" target="_blank">北京发文悬赏搞这出：鼓励群众“举报”未做核酸的人</a></li>
 <li><a href="/topimagenews/20220808/1768655.md" target="_blank">全球围观最强辱共：推特创办人发“灭共宣言”【阿波罗网报道】</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220806/1768004.md" target="_blank">老舍生命最后一晚：白天被打，晚上妻子拒不开门</a></li>
 <li><a href="/topimagenews/20220806/1767953.md" target="_blank">乌军收复赫尔松53个定居点的领土 俄军全线受挫</a></li>
 <li><a href="/topimagenews/20220805/1767856.md" target="_blank">共军吹嘘把雷根号“逼退几百公里” 美军：还在台湾周边</a></li>
-<li><a href="/topimagenews/20220805/1767728.md" target="_blank">满载F-35！美军航母打击群和两栖舰在台东部待命：共军4枚导弹穿越台湾上空</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220808/1768773.md" target="_blank">章天亮博士《中华文明史》带您探寻华夏文明的古老智慧</a></li>
 <li><a href="/comments/20220808/1768816.md" target="_blank">哪些食物最伤牙？这些你可能还不知道</a></li>
 <li><a href="/comments/20220808/1768815.md" target="_blank">惊！蔬果切的大小竟会影响营养</a></li>
 <li><a href="/comments/20220808/1768814.md" target="_blank">它是百益之果，又称植物黄金，舒筋络、和脾胃，药食同源佳品</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220808/1768687.md" target="_blank">中共连遭背弃 除了捶胸跳脚还能怎样？</a></li>
 <li><a href="/comments/20220808/1768679.md" target="_blank">COVID-19未消！又爆新“琅琊病毒” 可诱发致命性疾病</a></li>
 <li><a href="/comments/20220808/1768645.md" target="_blank">应对能源危机 德国重新启用燃煤电厂</a></li>
-<li><a href="/comments/20220808/1768642.md" target="_blank">灭共之“火”燎原：End the CCP 地表最强标语</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 
 </ul>
 </div>
