@@ -11,8 +11,8 @@
 <li><a href="/cnnews/20220808/1768865.md">华春莹用推特喊话台湾人！惨遭中国网友酸爆：已举报翻墙</a></li>
 <li><a href="/cbnews/20220808/1768956.md">已做撞击准备！成功舰对峙共军长春舰实况曝 相距仅2百码</a></li>
 <li><a href="/cbnews/20220809/1769023.md">北戴河难题 现任中共最高层可以连任多久？</a></li>
-<li><a href="/topimagenews/20220808/1768847.md">发明“愿者上钩”文凭交易模式：复旦苏教授火了 中共特色走出国门</a></li>
 <li><a href="/cbnews/20220808/1768965.md">华春莹遭打脸！美国务院前发言人：中国有8500家肯德基 中国是肯塔基州一部分</a></li>
+<li><a href="/topimagenews/20220808/1768847.md">发明“愿者上钩”文凭交易模式：复旦苏教授火了 中共特色走出国门</a></li>
 <li><a href="/cnnews/20220809/1769035.md">多名国人在机场被拦下！护照被收，惨罚上千</a></li>
 <li><a href="/topimagenews/20220809/1769012.md">台湾选手包办前3！中国直播平台崩溃…</a></li>
 <li><a href="/cnnews/20220808/1768890.md">习近平要大事化小，不敢动美国利益？“世界小商品之都”义乌封城；</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/bannedvideo/20220808/1768885.md">🔥惊爆2号中美做好开战准备；战狼外交致一个中国开始崩盘；华春莹逻辑遭一面倒轻蔑；中国名主持“润”到美国晒照；美五大军种展开威慑态势 应对中共威胁；马斯克提出这项条件可以继续收购推特</a></li>
 <li><a href="/comments/20220809/1769064.md">赵乐际“大管家”被贬 二十大前中纪委大洗牌</a></li>
 <li><a href="/topimagenews/20220808/1768945.md">习近平面临两难境地？大外宣打脸习近平【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220809/1769062.md">🔥传赵立坚家暴被诊断精神病；北戴河会议已悄开 习近平坐在火山口；赵乐际无法连任常委？大管家被贬 中纪委大洗牌；协防台海利器！海马斯家族新成员PrSM！载弹、射程多1倍 可攻海陆移动目标【阿波罗网FT】</a></li>
-<li><a href="/cnnews/20220809/1769117.md">华春莹“脑残弱智”一席话 背后是中共政治密码</a></li>
-<li><a href="/bannedvideo/20220809/1768971.md">新加坡前外长爆惊人消息 佩洛西抵台一刻 美中之间竟有这样千钧一发的局面；华春莹再出丑 推特遭各方扇脸【环球看点】</a></li>
-<li><a href="/cbnews/20220808/1768835.md">小伙裸辞后：立夏时被隔离在上海 立秋时在三亚</a></li>
 <li><a href="/topimagenews/20220809/1769207.md">爆料!习近平要清算…【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20220809/1769117.md">华春莹“脑残弱智”一席话 背后是中共政治密码</a></li>
+<li><a href="/bannedvideo/20220809/1769062.md">🔥传赵立坚家暴被诊断精神病；北戴河会议已悄开 习近平坐在火山口；赵乐际无法连任常委？大管家被贬 中纪委大洗牌；协防台海利器！海马斯家族新成员PrSM！载弹、射程多1倍 可攻海陆移动目标【阿波罗网FT】</a></li>
+<li><a href="/bannedvideo/20220809/1768971.md">新加坡前外长爆惊人消息 佩洛西抵台一刻 美中之间竟有这样千钧一发的局面；华春莹再出丑 推特遭各方扇脸【环球看点】</a></li>
 <li><a href="/topimagenews/20220809/1769115.md">【重磅】拿什么较量？美国在打一场“根”的战争</a></li>
 <li><a href="/cnnews/20220808/1768882.md">上海那位98岁的老人走了，街道欠他一个道歉</a></li>
 <li><a href="/bannedvideo/20220808/1768907.md">普京失去主动权，面临战略灾难；S-400被克，反雷达杀器惊现战场；共军台海“常态”演习，美印宣布青藏高原军演；赫尔松反攻，乌克兰战术升级；#新冷战情室</a></li>
+<li><a href="/bannedvideo/20220809/1769225.md">中国某地，交警拦检军车，并引发双方冲突。事后军队开来装甲车，并向交警局开火，造成多名交警伤亡。</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220809/1769266.md" target="_blank">美国防部：目前的台海危机是中共「制造的」</a></li>
 <li><a href="/comments/20220809/1769255.md" target="_blank">俄控乌攻击核电厂 俄武器技术隐忧现数百西方零件</a></li>
 <li><a href="/comments/20220809/1769254.md" target="_blank">为何晨起喝杯水如此重要？</a></li>
 <li><a href="/comments/20220809/1769253.md" target="_blank">一种罹患糖尿病导致的新症状被关注</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220809/1769102.md" target="_blank">华春莹推台湾美食扯「回归」 引各方反呛嘲讽</a></li>
 <li><a href="/comments/20220809/1769085.md" target="_blank">炎炎夏日靠空调“续命”？没错，但最好加上这两个夏季养生汤</a></li>
 <li><a href="/comments/20220809/1769070.md" target="_blank">谁是敌人？「护航二十大 忠诚保平安」惊悚视频曝光</a></li>
-<li><a href="/comments/20220809/1769068.md" target="_blank">拜登：不担心台湾局势，关切中国军方的行动幅度</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 <li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 
 </ul>
 </div>
