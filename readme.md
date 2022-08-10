@@ -10,8 +10,8 @@
 <li><a href="/bannedvideo/20220810/1769643.md">中共官宣称，如发生战争，参战顺序为：1、现役人员；2、预备役和退役人员，3、18-35岁男性，4、36-60岁男性。这片土地是中共权贵家的，跟屁民没有一毛钱关系，屁民只是炮灰！</a></li>
 <li><a href="/bannedvideo/20220810/1769780.md">中共七常委大换血开始！先出局的竟是他？习近平铁腕清理中纪委！12高官遭撤【两岸要闻】</a></li>
 <li><a href="/finance/20220810/1769529.md">亿金不见成效！传习近平震怒</a></li>
-<li><a href="/topimagenews/20220810/1769488.md">连北京都出现提前还贷潮了</a></li>
 <li><a href="/comments/20220810/1769536.md">大陆经济学家：中共为何不愿结束“过度防疫”？</a></li>
+<li><a href="/topimagenews/20220810/1769488.md">连北京都出现提前还贷潮了</a></li>
 <li><a href="/topimagenews/20220810/1769719.md">愈演愈烈 习近平被“闭门斗争”？北戴河会议黑箱操作【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220810/1769700.md">调兵保卫北戴河？习近平要一锤定音 内斗上演中 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220810/1769500.md">一个穿帮的“中国好故事” 树立张海迪典型的内幕</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/ssgc/20220810/1769610.md">〖兲朝浮世绘〗佩罗西开始看懂习近平了</a></li>
 <li><a href="/topimagenews/20220810/1769698.md">中共式“权力的傲慢”矢板明夫：华春莹越来越离谱</a></li>
 <li><a href="/cbnews/20220810/1769702.md">一位女教师 中共公安为了让她屈服启用了闻所未闻的“酷刑工具箱”</a></li>
-<li><a href="/topimagenews/20220810/1769432.md">乌军突袭克里米亚？俄空军基地连续爆炸浓烟狂窜 画面曝光</a></li>
 <li><a href="/topimagenews/20220810/1769777.md">乌克兰大反攻收复失土!泽连斯基 ：必须在克里米亚结束这战争</a></li>
+<li><a href="/topimagenews/20220810/1769432.md">乌军突袭克里米亚？俄空军基地连续爆炸浓烟狂窜 画面曝光</a></li>
 <li><a href="/bannedvideo/20220810/1769429.md">最年轻正厅级女性官员落马/是谁提拔重用了她？</a></li>
 <li><a href="/topimagenews/20220810/1769510.md">逃回家还是冲卡？让他们来抓我吧，抓走我至少家里人安全了</a></li>
+<li><a href="/headline/20220810/1769782.md">著名医学资讯号「丁香园」被封 疑跟批习「清零」及对海南西藏封控有关</a></li>
 <li><a href="/cnnews/20220810/1769445.md">FBI为何敢抄川普的海湖庄园? 行家曝：有内应爆料</a></li>
 <li><a href="/cnnews/20220810/1769721.md">惊爆！习近平中央提供朝鲜入俄乌战场军队后勤补给【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220810/1769611.md">〖微博谈〗国王的名字已经响彻宇宙了</a></li>
-<li><a href="/headline/20220810/1769782.md">著名医学资讯号「丁香园」被封 疑跟批习「清零」及对海南西藏封控有关</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220811/1769924.md" target="_blank">路透：中共防疫政策令中国女性不想生 人口增长将清零</a></li>
 <li><a href="/comments/20220810/1769908.md" target="_blank">李立群突转发「一个中国」表态 台中网民齐酸「两面人」</a></li>
 <li><a href="/comments/20220810/1769906.md" target="_blank">专栏 | 劳工通讯：贵州六盘水农民工讨薪（二）</a></li>
 <li><a href="/comments/20220810/1769905.md" target="_blank">西藏清零神话破灭 藏人质疑“静默封控”或为维稳</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220810/1769657.md" target="_blank">中国芯片产业反腐：中央对谁恼了？</a></li>
 <li><a href="/comments/20220810/1769656.md" target="_blank">曝中芯国际软件项目停摆 百人团队解散</a></li>
 <li><a href="/comments/20220810/1769655.md" target="_blank">中美若开战，全球经济难将面临大衰退</a></li>
-<li><a href="/comments/20220810/1769654.md" target="_blank">川普海湖庄园遭FBI突袭 媒体曝出这些细节…</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 <li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 
 </ul>
 </div>
