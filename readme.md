@@ -9,17 +9,16 @@
 <li><a href="/cnnews/20220810/1769451.md">唐山案水太深？公安厅长突猝逝 传妻女也暴毙</a></li>
 <li><a href="/bannedvideo/20220810/1769643.md">中共官宣称，如发生战争，参战顺序为：1、现役人员；2、预备役和退役人员，3、18-35岁男性，4、36-60岁男性。这片土地是中共权贵家的，跟屁民没有一毛钱关系，屁民只是炮灰！</a></li>
 <li><a href="/topimagenews/20220810/1769488.md">连北京都出现提前还贷潮了</a></li>
-<li><a href="/topimagenews/20220809/1769354.md">台海持续紧张 路透：两岸20艘军舰今在海峡中线对峙</a></li>
 <li><a href="/cnnews/20220810/1769700.md">调兵保卫北戴河？习近平要一锤定音 内斗上演中 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220810/1769507.md">100÷10=10被打叉！中国老师解释 网友却怒了</a></li>
 <li><a href="/topimagenews/20220810/1769719.md">愈演愈烈 习近平被“闭门斗争”？北戴河会议黑箱操作【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220810/1769500.md">一个穿帮的“中国好故事” 树立张海迪典型的内幕</a></li>
 <li><a href="/finance/20220810/1769529.md">亿金不见成效！传习近平震怒</a></li>
-<li><a href="/bannedvideo/20220810/1769516.md">中共丧失“一中”话语权，世界多国声明已加注条件，台湾被视为“民主的中国”【每日头条】</a></li>
 <li><a href="/comments/20220810/1769536.md">大陆经济学家：中共为何不愿结束“过度防疫”？</a></li>
+<li><a href="/bannedvideo/20220810/1769516.md">中共丧失“一中”话语权，世界多国声明已加注条件，台湾被视为“民主的中国”【每日头条】</a></li>
 <li><a href="/ssgc/20220810/1769610.md">〖兲朝浮世绘〗佩罗西开始看懂习近平了</a></li>
-<li><a href="/topimagenews/20220810/1769698.md">中共式“权力的傲慢”矢板明夫：华春莹越来越离谱</a></li>
 <li><a href="/topimagenews/20220810/1769432.md">乌军突袭克里米亚？俄空军基地连续爆炸浓烟狂窜 画面曝光</a></li>
+<li><a href="/topimagenews/20220810/1769698.md">中共式“权力的傲慢”矢板明夫：华春莹越来越离谱</a></li>
 <li><a href="/cbnews/20220810/1769702.md">一位女教师 中共公安为了让她屈服启用了闻所未闻的“酷刑工具箱”</a></li>
 <li><a href="/cbnews/20220809/1769368.md">美中若在台海开战 美军事专家：台湾能击退中共但损失巨大</a></li>
 <li><a href="/topimagenews/20220810/1769510.md">逃回家还是冲卡？让他们来抓我吧，抓走我至少家里人安全了</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20220810/1769721.md">惊爆！习近平中央提供朝鲜入俄乌战场军队后勤补给【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220810/1769611.md">〖微博谈〗国王的名字已经响彻宇宙了</a></li>
 <li><a href="/bannedvideo/20220810/1769503.md">分裂加剧！中共担心二十大前还有巨大危机爆发，高官寝食难安【希望之声TV-财经慧眼】</a></li>
+<li><a href="/bannedvideo/20220810/1769461.md">北京再派45机10舰扰台 美国强力回击 评论：中共将遭灭顶之灾【红朝禁闻】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220810/1769818.md" target="_blank">北戴河内斗惨烈上演中？中国渤海军演被疑调兵保卫</a></li>
+<li><a href="/comments/20220810/1769817.md" target="_blank">NASA：火星上惊见人耳陨石坑 直径长达1800公尺</a></li>
 <li><a href="/comments/20220810/1769816.md" target="_blank">立秋后养生宜多吃‘三白’ 少吃‘2绿’ 润肺去秋燥</a></li>
 <li><a href="/comments/20220810/1769792.md" target="_blank">袁红冰：《燃烧的安魂曲》 第六章  时－空的尽头才是心灵的起点</a></li>
 <li><a href="/comments/20220810/1769740.md" target="_blank">俄乌战火续燃 克里米亚大爆炸游击队所为？英国防部：俄兵力不足攻势弛缓</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220810/1769615.md" target="_blank">林培瑞：中共的“思想工作”到了香港</a></li>
 <li><a href="/comments/20220810/1769614.md" target="_blank">天地闭，贤人出——追念余英时先生</a></li>
 <li><a href="/comments/20220810/1769613.md" target="_blank">陈奎德 张杰:北京欲造台海新常态？</a></li>
-<li><a href="/comments/20220810/1769590.md" target="_blank">韩外长会晤王毅 驻韩美军机出动台海</a></li>
-<li><a href="/comments/20220810/1769564.md" target="_blank">《一张传单》影评：是谁抢走了我们的良知？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 <li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
 
 </ul>
 </div>
