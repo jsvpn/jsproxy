@@ -26,8 +26,8 @@
 <li><a href="/bannedvideo/20220810/1769812.md">陈破空：调兵保卫北戴河！习近平有危险？华春莹狂热发推秀智商，助力推特终结中共？俄占克里米亚发生连环巨爆。直播与互动 美东8月10早8点30、即中港台8月10晚8点30</a></li>
 <li><a href="/funmedia/20220810/1769733.md">为什么日本的酒店从不查房？</a></li>
 <li><a href="/bannedvideo/20220810/1769726.md">💥佩洛西指习近平正处于危机！军演别有目的；赵立坚消失，家Bao后诊出精神病？海南骂上海！官媒互掐；大陆现致死率75%新病；七常委去哪了；“老川”遭FBI搜查｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/bannedvideo/20220810/1769912.md">🔥传北京为军事调动，交通管制2小时；大逆转！F16投共伴飞战机遭击落，谁在推？夏立言伸脖子让人砍？媒体人：国民党是中共小弟？美囯两党议员推动用数字美元对抗数字人民币【阿波罗网TＬ】</a></li>
 <li><a href="/bannedvideo/20220810/1769645.md">佩洛西开骂：那位像恐惧的恶霸！习近平遭王毅华春莹帮倒忙，四个自信丢光？</a></li>
-<li><a href="/comments/20220810/1769818.md">北戴河内斗惨烈上演中？中国渤海军演被疑调兵保卫</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220811/1770101.md" target="_blank">老牌恶棍：核酸检测也能搞“大比武”？建议加入奥运项目</a></li>
+<li><a href="/comments/20220811/1770100.md" target="_blank">顾意:丁香之死</a></li>
+<li><a href="/comments/20220811/1770099.md" target="_blank">颜纯钩: 军车巡游虚张声势，武装犯台望梅止渴</a></li>
+<li><a href="/comments/20220811/1770098.md" target="_blank">洪博学:韭菜与青蛙现形记</a></li>
+<li><a href="/comments/20220811/1770091.md" target="_blank">川普忧FBI突袭为故意栽赃 推竞选影片暗示参选</a></li>
 <li><a href="/comments/20220811/1770078.md" target="_blank">亦默:北漂年轻中产夫妻的断供人生</a></li>
 <li><a href="/comments/20220811/1770058.md" target="_blank">李濠仲:从“台独恐引发战争”到“战争恐促成台独”</a></li>
 <li><a href="/comments/20220811/1770045.md" target="_blank">调查：白宫推过多左翼政策 连民主党选民都难接受</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20220811/1769971.md" target="_blank">李燕铭：广西政法委书记异常卸职 之江新军跨省接掌广西公安厅 常务副厅长随即落马 公安厅三高官相继被查 习近平兵分三路围剿 曾庆红表外甥郭声琨高危 习清洗广西帮围猎郭声琨（九） 习近平清洗刀把子严防江曾二十大政变（四二） 二十大前北戴河会议大战内幕（三九）</a></li>
 <li><a href="/comments/20220811/1769970.md" target="_blank">租车火爆! 怎样让私家车帮你赚外快？</a></li>
 <li><a href="/comments/20220811/1769962.md" target="_blank">夜长梦多？中共匆忙低调宣布围台军演结束</a></li>
-<li><a href="/comments/20220811/1769946.md" target="_blank">美7月消费者价格低于预期 通胀有所缓解</a></li>
-<li><a href="/comments/20220811/1769945.md" target="_blank">蒙市休班警察在唐尼市被枪杀</a></li>
-<li><a href="/comments/20220811/1769944.md" target="_blank">修复故宫龙椅宝座三年 却没敢坐一次 为何？他回答了2个字</a></li>
-<li><a href="/comments/20220811/1769928.md" target="_blank">中国首例 河北廊坊取消一切房屋限购政策 市场未能回暖</a></li>
-<li><a href="/comments/20220811/1769924.md" target="_blank">路透：中共防疫政策令中国女性不想生 人口增长将清零</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 <li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 
 </ul>
 </div>
