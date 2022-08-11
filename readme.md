@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/bannedvideo/20220810/1769643.md">中共官宣称，如发生战争，参战顺序为：1、现役人员；2、预备役和退役人员，3、18-35岁男性，4、36-60岁男性。这片土地是中共权贵家的，跟屁民没有一毛钱关系，屁民只是炮灰！</a></li>
 <li><a href="/bannedvideo/20220810/1769780.md">中共七常委大换血开始！先出局的竟是他？习近平铁腕清理中纪委！12高官遭撤【两岸要闻】</a></li>
 <li><a href="/cnnews/20220810/1769700.md">调兵保卫北戴河？习近平要一锤定音 内斗上演中 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220810/1769719.md">愈演愈烈 习近平被“闭门斗争”？北戴河会议黑箱操作【阿波罗网报道】</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/topimagenews/20220810/1769879.md">“妙”文！大外宣精神分裂 现了原形【阿波罗网报道】</a></li>
 <li><a href="/health/20220810/1769735.md">50岁后想长寿 4件事比运动更重要</a></li>
 <li><a href="/topimagenews/20220810/1769899.md">克里米亚空军基地大爆炸 俄军9架战机被烧毁 史上最黑暗的一天</a></li>
-<li><a href="/bannedvideo/20220810/1769812.md">陈破空：调兵保卫北戴河！习近平有危险？华春莹狂热发推秀智商，助力推特终结中共？俄占克里米亚发生连环巨爆。直播与互动 美东8月10早8点30、即中港台8月10晚8点30</a></li>
 <li><a href="/funmedia/20220810/1769733.md">为什么日本的酒店从不查房？</a></li>
-<li><a href="/bannedvideo/20220810/1769726.md">💥佩洛西指习近平正处于危机！军演别有目的；赵立坚消失，家Bao后诊出精神病？海南骂上海！官媒互掐；大陆现致死率75%新病；七常委去哪了；“老川”遭FBI搜查｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/bannedvideo/20220810/1769812.md">陈破空：调兵保卫北戴河！习近平有危险？华春莹狂热发推秀智商，助力推特终结中共？俄占克里米亚发生连环巨爆。直播与互动 美东8月10早8点30、即中港台8月10晚8点30</a></li>
 <li><a href="/bannedvideo/20220810/1769912.md">🔥传北京为军事调动，交通管制2小时；大逆转！F16投共伴飞战机遭击落，谁在推？夏立言伸脖子让人砍？媒体人：国民党是中共小弟？美囯两党议员推动用数字美元对抗数字人民币【阿波罗网TＬ】</a></li>
-<li><a href="/bannedvideo/20220810/1769645.md">佩洛西开骂：那位像恐惧的恶霸！习近平遭王毅华春莹帮倒忙，四个自信丢光？</a></li>
+<li><a href="/bannedvideo/20220810/1769726.md">💥佩洛西指习近平正处于危机！军演别有目的；赵立坚消失，家Bao后诊出精神病？海南骂上海！官媒互掐；大陆现致死率75%新病；七常委去哪了；“老川”遭FBI搜查｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/comments/20220810/1769818.md">北戴河内斗惨烈上演中？中国渤海军演被疑调兵保卫</a></li>
+<li><a href="/topimagenews/20220810/1769720.md">烂尾楼扩大！中国银行自身难保；北京试点老人贷款买房 被讽：掘地三尺挖韭菜根；</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220811/1770114.md" target="_blank">台海大战A-10不缺席 曝美军“疣猪”3大秘密武器</a></li>
 <li><a href="/topimagenews/20220811/1770032.md" target="_blank">视频曝光！诉朱军性骚扰案二审后，弦子公开自述</a></li>
 <li><a href="/topimagenews/20220811/1770001.md" target="_blank">FBI突袭“反帮了川普一大把”专家：烈士人设让他2024胜算提高</a></li>
 <li><a href="/topimagenews/20220811/1769934.md" target="_blank">川普儿子曝FBI拒绝出示搜索票搜查海湖庄园 坚称拜登知情</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220809/1769207.md" target="_blank">爆料!习近平要清算…【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220809/1769195.md" target="_blank">【微博精粹】 如何完全不乳滑指南</a></li>
 <li><a href="/topimagenews/20220809/1769185.md" target="_blank">雷达克星！乌克兰已秘密获得AGM-88高速反辐射导弹</a></li>
-<li><a href="/topimagenews/20220809/1769115.md" target="_blank">【重磅】拿什么较量？美国在打一场“根”的战争</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
 
 </ul>
 </div>
