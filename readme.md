@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20220813/1771163.md">深圳大批民众帐户遭冻结；中国多地海景房跌成白菜价；中共提购房补救经济不管烂尾楼；</a></li>
 <li><a href="/cnnews/20220813/1771075.md">习近平大洗牌中央部委高层 夺下曾庆红地盘【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220813/1771136.md">上海进入大萧条时代，上海田子坊200多家商舖覆没；一觉醒来深圳南山区粤海街道又封【 #大陆民生 】</a></li>
-<li><a href="/topimagenews/20220813/1771186.md">中共军演刚开始 习近平接到一个“最高指示”？【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220813/1770939.md">闪开！邓小平重孙～来了！【老北京茶馆08/12/2022】</a></li>
+<li><a href="/topimagenews/20220813/1771186.md">中共军演刚开始 习近平接到一个“最高指示”？【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220813/1771135.md">重磅 习突然大动作 中美关系要变 隐藏信息更令人担忧【两岸要闻】</a></li>
 <li><a href="/health/20220813/1770987.md">105岁老人，身体像55岁！长寿秘诀不是多走路，而是坚持这“3事”</a></li>
 <li><a href="/bannedvideo/20220813/1771101.md">阿南德预言 8月世界一切本质巨变开始，新暴力能量惊天爆发！</a></li>
 <li><a href="/weiquan/20220813/1771091.md">因在网上发布唐山打人事件信息河北衡水自媒体人毛惠斌遭刑事拘留</a></li>
+<li><a href="/topimagenews/20220814/1771237.md">黑客入侵？中国高铁崩了/视频</a></li>
 <li><a href="/lifebaike/20220813/1771087.md">华人网红找工作进圈套:7天遭性侵9次,毒打+电击</a></li>
 <li><a href="/yule/20220813/1771099.md">打扮一如既往 94岁李嘉诚现身寺庙:骑电动车上山被4人保护</a></li>
 <li><a href="/cbnews/20220813/1771032.md">广东女点完饮料突赏2女童巴掌上热搜 网友吵翻天</a></li>
 <li><a href="/ssgc/20220813/1771029.md">〖微博谈〗美需准备与党国断交</a></li>
-<li><a href="/topimagenews/20220814/1771237.md">黑客入侵？中国高铁崩了/视频</a></li>
 <li><a href="/yule/20220813/1770930.md">63岁杨丽萍罕见脱帽摘眼镜，素颜年轻模样大变</a></li>
 <li><a href="/topimagenews/20220813/1771078.md">大咖直播遇玩家“战争恶魔近平”…双双惨遭禁播</a></li>
 <li><a href="/cnnews/20220813/1771080.md">川普“赐死”华为获利崩塌 没这武器下场会更惨</a></li>
+<li><a href="/topimagenews/20220814/1771232.md">台演员放弃免费医疗入籍大陆，结果患癌就医难</a></li>
 <li><a href="/bannedvideo/20220813/1771185.md">🔥内部消息：军心不稳，将领都不想和习近平玩下去；白宫预告：美军将海空并进 通过台湾海峡；连续多月发不出工资 河南郸城公交车全部停运【阿波罗网HL】</a></li>
-<li><a href="/lifebaike/20220813/1771098.md">赴柬7天转卖4次 妙龄女曝接待人身份 主持人惊呆</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 <li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
 
 </ul>
 </div>
