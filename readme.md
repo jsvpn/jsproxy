@@ -12,22 +12,22 @@
 <li><a href="/cnnews/20220812/1770624.md">习近平强人形象瞬间破功！党内斗争舆论战打响！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220812/1770614.md">关键内幕！习近平颜面尽失，是被他挖坑？【阿波罗网报道】</a></li>
 <li><a href="/comments/20220812/1770611.md">传习近平下周出访沙特 专家曝光目的</a></li>
+<li><a href="/bannedvideo/20220812/1770730.md">陈破空：惊爆，北戴河摊牌！政治老人当面控诉习近平：监控，变相软禁，高干死得不明不白！你不能再做佛朗哥那样的人</a></li>
 <li><a href="/topimagenews/20220812/1770664.md">不爽一带一路跳票 孟加拉外长叫王毅改天再来</a></li>
 <li><a href="/topimagenews/20220813/1770833.md">北京14岁少年炫富火了 自称是邓小平后代</a></li>
-<li><a href="/bannedvideo/20220812/1770730.md">陈破空：惊爆，北戴河摊牌！政治老人当面控诉习近平：监控，变相软禁，高干死得不明不白！你不能再做佛朗哥那样的人</a></li>
 <li><a href="/ssgc/20220812/1770601.md">〖兲朝浮世绘〗俄罗斯又辱华 粉红战狼们咋没反应呢？</a></li>
 <li><a href="/topimagenews/20220813/1770832.md">突发！5中共央企同时宣布自美退市 含两大巨头 就是不敢被审计</a></li>
-<li><a href="/cbnews/20220812/1770569.md">天亮时分：内幕：习近平向拜登认怂，江泽民还有话事权？金正恩感染新冠；欧洲两国退出朋友圈，韩日接连重击中共（政论天下第761集 20220811）</a></li>
 <li><a href="/bannedvideo/20220813/1770824.md">上海空气紧张！再次上演大逃难</a></li>
-<li><a href="/cnnews/20220812/1770630.md">视频慎入：唐山女被男友碾压4圈惨死，血肉模糊</a></li>
 <li><a href="/yule/20220812/1770626.md">香港女星带12个行李现身机场 宣布移民加拿大</a></li>
+<li><a href="/cnnews/20220812/1770630.md">视频慎入：唐山女被男友碾压4圈惨死，血肉模糊</a></li>
 <li><a href="/bannedvideo/20220812/1770607.md">不顾政变风险！传习近平将出国搬救兵？中共芯片重大突破！白宫将出致命一击【希望之声TV-国际风云】</a></li>
 <li><a href="/bannedvideo/20220812/1770697.md">🔥惊人逆转！习近平军演中接到他“最高指示”？习向拜登泄底牌美媒踢爆；学者晒“账本”指习武统是嘴炮；洛阳烂尾楼业主维权 ：投几辈人钱，还要背几十年债；伊朗刺杀蓬佩奥奖金百万美元 LS</a></li>
-<li><a href="/topimagenews/20220812/1770570.md">力挺普京 中共外交重挫！爱沙尼亚拉脱维亚同时告退17＋1</a></li>
 <li><a href="/cbnews/20220813/1770864.md">习军演弄巧成拙 美第二波反击即将出炉</a></li>
 <li><a href="/cnnews/20220813/1770871.md">装进-196℃液氮瓶 第一批冷冻人现况让人心寒</a></li>
+<li><a href="/cnnews/20220813/1770896.md">背后原因想不到！北京噩梦</a></li>
+<li><a href="/bannedvideo/20220813/1770903.md">北戴河会议结束，两迹象示习近平已党内摊牌；“挟危机以令诸侯”，连任基本策略浮出？突访沙特，习近平要别拜登苗头？导弹故意落日本专经区，拍板者是他！</a></li>
+<li><a href="/bannedvideo/20220813/1770892.md">即将拍板！二十大人事方案有消息，中国经济垮了，李克强有何出路？【希望之声TV-财经慧眼】</a></li>
 <li><a href="/cbnews/20220813/1770849.md">横河：丁香园被封真实原因 对台白皮书荒唐可笑</a></li>
-<li><a href="/cnnews/20220812/1770645.md">“男生身价上亿！”海归女生相亲 之后越来越慌</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
 <li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
 
 </ul>
 </div>
