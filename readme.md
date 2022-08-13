@@ -8,10 +8,9 @@
 <li><a href="/topimagenews/20220813/1770833.md">北京14岁少年炫富火了 自称是邓小平后代</a></li>
 <li><a href="/bannedvideo/20220813/1770903.md">北戴河会议结束，两迹象示习近平已党内摊牌；“挟危机以令诸侯”，连任基本策略浮出？突访沙特，习近平要别拜登苗头？导弹故意落日本专经区，拍板者是他！</a></li>
 <li><a href="/bannedvideo/20220813/1770892.md">即将拍板！二十大人事方案有消息，中国经济垮了，李克强有何出路？【希望之声TV-财经慧眼】</a></li>
-<li><a href="/bannedvideo/20220813/1770824.md">上海空气紧张！再次上演大逃难</a></li>
 <li><a href="/topimagenews/20220813/1770832.md">突发！5中共央企同时宣布自美退市 含两大巨头 就是不敢被审计</a></li>
-<li><a href="/cbnews/20220813/1770864.md">习军演弄巧成拙 美第二波反击即将出炉</a></li>
 <li><a href="/cnnews/20220813/1770896.md">背后原因想不到！北京噩梦</a></li>
+<li><a href="/cbnews/20220813/1770864.md">习军演弄巧成拙 美第二波反击即将出炉</a></li>
 <li><a href="/bannedvideo/20220813/1770854.md">这个红色家族要出事？【红朝禁闻】</a></li>
 <li><a href="/ssgc/20220813/1771050.md">〖兲朝浮世绘〗邓小平曾孙网上炫富加重了国内民众的精神内耗</a></li>
 <li><a href="/cnnews/20220813/1770871.md">装进-196℃液氮瓶 第一批冷冻人现况让人心寒</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/bannedvideo/20220813/1771145.md">网传：北戴河会议多项重大决定！多个地方政府推“割韭菜”新方案,富力地产销售额崩盘式下跌……</a></li>
 <li><a href="/bannedvideo/20220813/1771054.md">谁值班？评论区忘关了！汪文斌记者会火了！胡锡进天天吃包子？习近平咋看？立陶宛力挺台湾</a></li>
 <li><a href="/cbnews/20220813/1770849.md">横河：丁香园被封真实原因 对台白皮书荒唐可笑</a></li>
-<li><a href="/bannedvideo/20220813/1770939.md">闪开！邓小平重孙～来了！【老北京茶馆08/12/2022】</a></li>
 <li><a href="/bannedvideo/20220813/1771136.md">上海进入大萧条时代，上海田子坊200多家商舖覆没；一觉醒来深圳南山区粤海街道又封【 #大陆民生 】</a></li>
 <li><a href="/cnnews/20220813/1771075.md">习近平大洗牌中央部委高层 夺下曾庆红地盘【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220813/1771135.md">重磅 习突然大动作 中美关系要变 隐藏信息更令人担忧【两岸要闻】</a></li>
+<li><a href="/bannedvideo/20220813/1770939.md">闪开！邓小平重孙～来了！【老北京茶馆08/12/2022】</a></li>
 <li><a href="/topimagenews/20220813/1771163.md">深圳大批民众帐户遭冻结；中国多地海景房跌成白菜价；中共提购房补救经济不管烂尾楼；</a></li>
 <li><a href="/bannedvideo/20220813/1771101.md">阿南德预言 8月世界一切本质巨变开始，新暴力能量惊天爆发！</a></li>
 <li><a href="/health/20220813/1770987.md">105岁老人，身体像55岁！长寿秘诀不是多走路，而是坚持这“3事”</a></li>
 <li><a href="/comments/20220813/1770900.md">中共二十大将开 楼市泡沫正在破裂 中国经济危险了</a></li>
 <li><a href="/weiquan/20220813/1771091.md">因在网上发布唐山打人事件信息河北衡水自媒体人毛惠斌遭刑事拘留</a></li>
+<li><a href="/bannedvideo/20220813/1770829.md">中共驻美国大使馆圈养的20多名打手，使用高音喇叭对流亡美国的访民进行公开骚扰、辱骂和死亡威胁，其中领头的打手被美国特勤局特工逮捕。</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220814/1771218.md" target="_blank">地方财政恶化： 河南发不出薪资公交停驶</a></li>
+<li><a href="/comments/20220814/1771217.md" target="_blank">访中惹议：夏立言辞台中国际事务委员会职务</a></li>
+<li><a href="/comments/20220814/1771216.md" target="_blank">西藏爆发疫情 日喀则市卫健委主任等5人被免职</a></li>
 <li><a href="/comments/20220813/1771209.md" target="_blank">欧盟轮值主席国将提议对所有俄国人禁发签证 德国反对</a></li>
 <li><a href="/comments/20220813/1771196.md" target="_blank">中共演习5枚导弹入日外海 谢金河：为日本再起去除「捆龙索」</a></li>
 <li><a href="/comments/20220813/1771194.md" target="_blank">人生 原本孤独</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220813/1771062.md" target="_blank">神秘中国人豪掷现金 购买13艘油轮 偷运俄原油</a></li>
 <li><a href="/comments/20220813/1771047.md" target="_blank">效仿2020大选？推特声称要「保护」11月中期选举</a></li>
 <li><a href="/comments/20220813/1771041.md" target="_blank">曈小瞳：FBI在找什么？</a></li>
-<li><a href="/comments/20220813/1771040.md" target="_blank">漫天霾：拜登，不折腾死美国人，你就不打算收手？</a></li>
-<li><a href="/comments/20220813/1771039.md" target="_blank">维舟：跳不出来的机制</a></li>
-<li><a href="/comments/20220813/1771038.md" target="_blank">“别拉记者入群”是流量僵尸的视野</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
 <li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
 
 </ul>
 </div>
