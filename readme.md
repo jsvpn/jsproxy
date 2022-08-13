@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/bannedvideo/20220812/1770714.md">北戴河会议再传新迹象 有人对习暗下黑手【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220813/1770833.md">北京14岁少年炫富火了 自称是邓小平后代</a></li>
 <li><a href="/bannedvideo/20220812/1770730.md">陈破空：惊爆，北戴河摊牌！政治老人当面控诉习近平：监控，变相软禁，高干死得不明不白！你不能再做佛朗哥那样的人</a></li>
 <li><a href="/bannedvideo/20220813/1770903.md">北戴河会议结束，两迹象示习近平已党内摊牌；“挟危机以令诸侯”，连任基本策略浮出？突访沙特，习近平要别拜登苗头？导弹故意落日本专经区，拍板者是他！</a></li>
 <li><a href="/bannedvideo/20220813/1770892.md">即将拍板！二十大人事方案有消息，中国经济垮了，李克强有何出路？【希望之声TV-财经慧眼】</a></li>
-<li><a href="/topimagenews/20220813/1770832.md">突发！5中共央企同时宣布自美退市 含两大巨头 就是不敢被审计</a></li>
 <li><a href="/bannedvideo/20220813/1770824.md">上海空气紧张！再次上演大逃难</a></li>
+<li><a href="/topimagenews/20220813/1770832.md">突发！5中共央企同时宣布自美退市 含两大巨头 就是不敢被审计</a></li>
 <li><a href="/cbnews/20220813/1770864.md">习军演弄巧成拙 美第二波反击即将出炉</a></li>
 <li><a href="/cnnews/20220813/1770896.md">背后原因想不到！北京噩梦</a></li>
 <li><a href="/ssgc/20220813/1771050.md">〖兲朝浮世绘〗邓小平曾孙网上炫富加重了国内民众的精神内耗</a></li>
 <li><a href="/bannedvideo/20220813/1770854.md">这个红色家族要出事？【红朝禁闻】</a></li>
 <li><a href="/cnnews/20220813/1770871.md">装进-196℃液氮瓶 第一批冷冻人现况让人心寒</a></li>
-<li><a href="/cbnews/20220813/1770849.md">横河：丁香园被封真实原因 对台白皮书荒唐可笑</a></li>
 <li><a href="/bannedvideo/20220813/1771054.md">谁值班？评论区忘关了！汪文斌记者会火了！胡锡进天天吃包子？习近平咋看？立陶宛力挺台湾</a></li>
+<li><a href="/cbnews/20220813/1770849.md">横河：丁香园被封真实原因 对台白皮书荒唐可笑</a></li>
 <li><a href="/bannedvideo/20220813/1770939.md">闪开！邓小平重孙～来了！【老北京茶馆08/12/2022】</a></li>
 <li><a href="/topimagenews/20220812/1770760.md">大翻车！胡锡进挑拨川普独立！网友却大聊翻墙！【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20220812/1770761.md">清代龙银“绝珍”拍出4657.5万人民币 创下中国纪录</a></li>
-<li><a href="/health/20220813/1770987.md">105岁老人，身体像55岁！长寿秘诀不是多走路，而是坚持这“3事”</a></li>
-<li><a href="/bannedvideo/20220813/1770829.md">中共驻美国大使馆圈养的20多名打手，使用高音喇叭对流亡美国的访民进行公开骚扰、辱骂和死亡威胁，其中领头的打手被美国特勤局特工逮捕。</a></li>
-<li><a href="/cnnews/20220813/1771075.md">习近平大洗牌中央部委高层 夺下曾庆红地盘【阿波罗网报道】</a></li>
 <li><a href="/comments/20220813/1770900.md">中共二十大将开 楼市泡沫正在破裂 中国经济危险了</a></li>
+<li><a href="/cnnews/20220813/1771075.md">习近平大洗牌中央部委高层 夺下曾庆红地盘【阿波罗网报道】</a></li>
+<li><a href="/health/20220813/1770987.md">105岁老人，身体像55岁！长寿秘诀不是多走路，而是坚持这“3事”</a></li>
+<li><a href="/cbnews/20220812/1770761.md">清代龙银“绝珍”拍出4657.5万人民币 创下中国纪录</a></li>
+<li><a href="/bannedvideo/20220813/1770829.md">中共驻美国大使馆圈养的20多名打手，使用高音喇叭对流亡美国的访民进行公开骚扰、辱骂和死亡威胁，其中领头的打手被美国特勤局特工逮捕。</a></li>
 <li><a href="/yule/20220813/1770930.md">63岁杨丽萍罕见脱帽摘眼镜，素颜年轻模样大变</a></li>
 <li><a href="/comments/20220813/1770831.md">【独家重磅】李燕铭：二十大副国级女高官热门人选出事 大管家被查 前上司落马 曾任吴官正大秘的副手六年 二十大高层人事大战（四二） 李燕铭：习近平清洗宁夏帮（四） 二十大前北戴河会议大战内幕（四十）</a></li>
+<li><a href="/cbnews/20220813/1771032.md">广东女点完饮料突赏2女童巴掌上热搜 网友吵翻天</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220813/1771163.md" target="_blank">深圳大批民众帐户遭冻结；中国多地海景房跌成白菜价；中共提购房补救经济不管烂尾楼；</a></li>
 <li><a href="/topimagenews/20220813/1771138.md" target="_blank">“你穿和服”！中共警察当街咆哮撕衣逮人</a></li>
 <li><a href="/topimagenews/20220813/1771122.md" target="_blank">中共军演射弹进日EEZ 谢金河：为日本再起去除“捆龙索”</a></li>
 <li><a href="/topimagenews/20220813/1771104.md" target="_blank">无人机“惨”了 美军激光武器下放到步兵班</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220812/1770589.md" target="_blank">卯起来阻止川普回白宫 拜登要竞选连任</a></li>
 <li><a href="/topimagenews/20220812/1770570.md" target="_blank">力挺普京 中共外交重挫！爱沙尼亚拉脱维亚同时告退17＋1</a></li>
 <li><a href="/topimagenews/20220812/1770491.md" target="_blank">快讯！台湾将试射“无限高”导弹</a></li>
-<li><a href="/topimagenews/20220812/1770418.md" target="_blank">20大倒数：多个征兆显示 北戴河会议将落幕</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 <li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 <li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
 
 </ul>
 </div>
