@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220815/1771584.md">被删文：问了一圈朋友，大家都选择”躺平”了，因为…</a></li>
-<li><a href="/cbnews/20220815/1771686.md">天亮时分：北戴河的争吵，元老们联合反习？银行爆发全面危机，习近平是否气数将尽？美参众议员再次组团访台，胡锡进怂了（政论天下第764集 20220814）</a></li>
 <li><a href="/cnnews/20220815/1771620.md">朝鲜高官女儿被处死 上百人目击，只因卖这东西</a></li>
+<li><a href="/cbnews/20220815/1771686.md">天亮时分：北戴河的争吵，元老们联合反习？银行爆发全面危机，习近平是否气数将尽？美参众议员再次组团访台，胡锡进怂了（政论天下第764集 20220814）</a></li>
 <li><a href="/topimagenews/20220815/1771720.md">习近平政权四面楚歌？正在进行中 中共史上最激烈斗争【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220815/1771574.md">最近一个餐饮大老板跳江，餐饮圈子炸开了</a></li>
 <li><a href="/topimagenews/20220815/1771670.md">【微博精粹】福建媳妇当上邻国副总统 习总只笑了一分钟</a></li>
@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20220815/1771605.md">美国释杀手级禁令，中国半导体要倒一片</a></li>
 <li><a href="/cnnews/20220815/1771827.md">网友发现最近高铁大面积停运的那个内幕了？</a></li>
 <li><a href="/cnnews/20220815/1771818.md">最近上海的两个操作又让网友们看不懂了</a></li>
-<li><a href="/topimagenews/20220815/1771834.md">订单断崖 东莞大量企业倒闭；5央企同日退美市 非硬气是迫不得已；</a></li>
 <li><a href="/topimagenews/20220815/1771627.md">拉警报：空置率炸出一堆省会，中国房子早过剩了</a></li>
+<li><a href="/topimagenews/20220815/1771834.md">订单断崖 东莞大量企业倒闭；5央企同日退美市 非硬气是迫不得已；</a></li>
 <li><a href="/cnnews/20220815/1771773.md">复旦苏教授火了！一下扯出600多个假博士…</a></li>
 <li><a href="/bannedvideo/20220815/1771573.md">🔥孙春兰急赴 海南要倒大霉；上海“撤侨”后曝待遇非人引强烈反抗；胡锡进此话一出 中网友嘲笑文狂炸；大疆慌了...俄赞中共无人机助俄军；曝司马南等“反美斗士”们在美国的幸福生活</a></li>
 <li><a href="/worldnews/20220815/1771570.md">被蛇咬了怎么办？土耳其2岁萌娃惊人复仇 全网看傻</a></li>
 <li><a href="/bannedvideo/20220815/1771844.md">人民日报公然反习！绝密军情外泄、失业率创性高、美议员继续访台……</a></li>
 <li><a href="/topimagenews/20220815/1771692.md">领先全球！F-35靠这招战胜歼20 美军官员：濒临崩溃</a></li>
 <li><a href="/cnnews/20220815/1771631.md">开保时捷飙速171，她被拦后说一句话，全网傻眼</a></li>
-<li><a href="/cnnews/20220815/1771775.md">滴滴叫板中南海？ 网爆“恐怖”检测数字【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220815/1771689.md">文睿：习近平要哭晕了，这样下去，啥都完了</a></li>
+<li><a href="/cnnews/20220815/1771775.md">滴滴叫板中南海？ 网爆“恐怖”检测数字【阿波罗网报道】</a></li>
+<li><a href="/renquan/20220815/1771880.md">六位老访民请求习近平赐死</a></li>
 <li><a href="/bannedvideo/20220815/1771841.md">陈破空：不得了！习近平动态清零遭否定？北戴河不斗不行。海南当局宣布清零失败！罕见向民众道歉。孙春兰表述大变。美国禁令重击土共！中国高铁出事</a></li>
 <li><a href="/cnnews/20220815/1771608.md">英相约翰逊卸任后，有去处了</a></li>
-<li><a href="/cnnews/20220815/1771756.md">网暴又杀死一个好人：67岁武汉“糖水爷爷”被逼求饶</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220816/1772002.md" target="_blank">马斯克畅想火星建城20年计划</a></li>
+<li><a href="/comments/20220816/1772001.md" target="_blank">美议员访台湾 传递怎样经济信号</a></li>
 <li><a href="/comments/20220816/1771998.md" target="_blank">美议员再访台 与蔡英文会面</a></li>
 <li><a href="/comments/20220816/1771975.md" target="_blank">孙春兰承认15万游客被困海南 上海IKEA突封店顾客速逃</a></li>
 <li><a href="/comments/20220816/1771970.md" target="_blank">【独家重磅】李燕铭：北戴河会议敏感期习近平清洗江泽民堂妹江泽慧地盘 中林集团总经理总会计师巡视组副组长相继落马 隐秘牵连李克强弟李克明与郭声琨副手肖亚庆 肖亚庆案发酵震动李克强国务院系统 习近平李克强明争暗斗内幕（三八） 习近平决战江曾（二五） 二十大前北戴河会议大战内幕（四一）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220815/1771826.md" target="_blank">上海：一只塑料桶和被劝退的文明</a></li>
 <li><a href="/comments/20220815/1771795.md" target="_blank">美国研究：在5年之内影响罹患任何癌症最重要的2个因素</a></li>
 <li><a href="/comments/20220815/1771794.md" target="_blank">长时间思考为什么会累？ 因为「这物质」累积在大脑</a></li>
-<li><a href="/comments/20220815/1771793.md" target="_blank">临终告别注意谨言慎行！科学家警告：人死后还能听到声音</a></li>
-<li><a href="/comments/20220815/1771792.md" target="_blank">每天久坐8小时增2成死亡机率 医：任何运动都能降低风险</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
 
 </ul>
 </div>
