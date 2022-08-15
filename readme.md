@@ -9,7 +9,6 @@
 <li><a href="/cnnews/20220815/1771620.md">朝鲜高官女儿被处死 上百人目击，只因卖这东西</a></li>
 <li><a href="/cbnews/20220815/1771686.md">天亮时分：北戴河的争吵，元老们联合反习？银行爆发全面危机，习近平是否气数将尽？美参众议员再次组团访台，胡锡进怂了（政论天下第764集 20220814）</a></li>
 <li><a href="/topimagenews/20220815/1771720.md">习近平政权四面楚歌？正在进行中 中共史上最激烈斗争【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20220815/1771574.md">最近一个餐饮大老板跳江，餐饮圈子炸开了</a></li>
 <li><a href="/topimagenews/20220815/1771670.md">【微博精粹】福建媳妇当上邻国副总统 习总只笑了一分钟</a></li>
 <li><a href="/topimagenews/20220815/1771634.md">重磅！习近平最高绝密军情外泄？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220815/1771605.md">美国释杀手级禁令，中国半导体要倒一片</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/topimagenews/20220815/1771834.md">订单断崖 东莞大量企业倒闭；5央企同日退美市 非硬气是迫不得已；</a></li>
 <li><a href="/cnnews/20220815/1771773.md">复旦苏教授火了！一下扯出600多个假博士…</a></li>
 <li><a href="/bannedvideo/20220815/1771844.md">人民日报公然反习！绝密军情外泄、失业率创性高、美议员继续访台……</a></li>
-<li><a href="/topimagenews/20220815/1771692.md">领先全球！F-35靠这招战胜歼20 美军官员：濒临崩溃</a></li>
 <li><a href="/cnnews/20220815/1771631.md">开保时捷飙速171，她被拦后说一句话，全网傻眼</a></li>
-<li><a href="/bannedvideo/20220815/1771689.md">文睿：习近平要哭晕了，这样下去，啥都完了</a></li>
+<li><a href="/topimagenews/20220815/1771692.md">领先全球！F-35靠这招战胜歼20 美军官员：濒临崩溃</a></li>
 <li><a href="/renquan/20220815/1771880.md">六位老访民请求习近平赐死</a></li>
-<li><a href="/bannedvideo/20220815/1771841.md">陈破空：不得了！习近平动态清零遭否定？北戴河不斗不行。海南当局宣布清零失败！罕见向民众道歉。孙春兰表述大变。美国禁令重击土共！中国高铁出事</a></li>
+<li><a href="/bannedvideo/20220815/1771689.md">文睿：习近平要哭晕了，这样下去，啥都完了</a></li>
 <li><a href="/cnnews/20220815/1771775.md">滴滴叫板中南海？ 网爆“恐怖”检测数字【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220815/1771841.md">陈破空：不得了！习近平动态清零遭否定？北戴河不斗不行。海南当局宣布清零失败！罕见向民众道歉。孙春兰表述大变。美国禁令重击土共！中国高铁出事</a></li>
 <li><a href="/bannedvideo/20220815/1771850.md">内鬼出卖这么重要的信息 中共脸丢大了 美国再出重手【两岸要闻】</a></li>
+<li><a href="/topimagenews/20220816/1771956.md">全球经济准备崩了？大陆1指标惊见危机：所有人都逃不过</a></li>
+<li><a href="/bannedvideo/20220815/1771760.md">文睿：消失15天，“改革开放”再上头条，习近平麻烦大了</a></li>
 <li><a href="/cnnews/20220815/1771608.md">英相约翰逊卸任后，有去处了</a></li>
-<li><a href="/cnnews/20220815/1771756.md">网暴又杀死一个好人：67岁武汉“糖水爷爷”被逼求饶</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220816/1772018.md" target="_blank">中国房地产危机加剧 年轻人失业率20% 中共央行意外降息</a></li>
 <li><a href="/comments/20220816/1772009.md" target="_blank">选民更认清中共 中国威胁论成西方选战看点</a></li>
 <li><a href="/comments/20220816/1772008.md" target="_blank">法轮大法洪传印度 民众深受裨益 感恩神给的机缘</a></li>
 <li><a href="/comments/20220816/1772003.md" target="_blank">抄家川普 这群人给民主党递刀子 美叛国者黑历史被翻出</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220815/1771863.md" target="_blank">【独家重磅】李燕铭：佩洛希访台中美电子战共军完败内情曝光 习近平火线清洗军工系统 多次参与重大演习涵盖战术通信系统的中共军工央企两任董事长同日被查 母公司曾被美国列入黑名单 习强化军权为二十大保驾护航 严防江曾政变（十七） 台海风云（十三）</a></li>
 <li><a href="/comments/20220815/1771833.md" target="_blank">美军招募的现实版“X-Men”少年，引领进入外星科技时代。</a></li>
 <li><a href="/comments/20220815/1771832.md" target="_blank">那些年赊刀人出没的瞬间 华夏遍地伤痛</a></li>
-<li><a href="/comments/20220815/1771831.md" target="_blank">防止植物过早抽苔开花，可以试试这几种办法</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 <li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
 
 </ul>
 </div>
