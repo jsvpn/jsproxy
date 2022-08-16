@@ -11,23 +11,23 @@
 <li><a href="/bannedvideo/20220816/1771959.md">中共外交部称，中国政府从来未下达封城的命令，所有相关的防疫活动，都是由中国人民自主、自愿发起的。</a></li>
 <li><a href="/topimagenews/20220815/1771834.md">订单断崖 东莞大量企业倒闭；5央企同日退美市 非硬气是迫不得已；</a></li>
 <li><a href="/cnnews/20220815/1771773.md">复旦苏教授火了！一下扯出600多个假博士…</a></li>
-<li><a href="/topimagenews/20220816/1771956.md">全球经济准备崩了？大陆1指标惊见危机：所有人都逃不过</a></li>
 <li><a href="/bannedvideo/20220815/1771844.md">人民日报公然反习！绝密军情外泄、失业率创性高、美议员继续访台……</a></li>
 <li><a href="/bannedvideo/20220816/1772012.md">拜登不会连任，普京会下台，习近平被罢免，中国外围会发生革命，新领导人将发动对台战争</a></li>
+<li><a href="/topimagenews/20220816/1771956.md">全球经济准备崩了？大陆1指标惊见危机：所有人都逃不过</a></li>
 <li><a href="/bannedvideo/20220816/1771979.md">这消息一出 整个圈子都炸了 中共第三次崩溃就在现在【红朝禁闻】</a></li>
 <li><a href="/renquan/20220815/1771880.md">六位老访民请求习近平赐死</a></li>
 <li><a href="/bannedvideo/20220815/1771841.md">陈破空：不得了！习近平动态清零遭否定？北戴河不斗不行。海南当局宣布清零失败！罕见向民众道歉。孙春兰表述大变。美国禁令重击土共！中国高铁出事</a></li>
 <li><a href="/bannedvideo/20220815/1771850.md">内鬼出卖这么重要的信息 中共脸丢大了 美国再出重手【两岸要闻】</a></li>
 <li><a href="/cnnews/20220815/1771775.md">滴滴叫板中南海？ 网爆“恐怖”检测数字【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220816/1771966.md">川普被FBI抄家 朱利安尼警告：他重回白宫第一件事就去搜拜登家</a></li>
-<li><a href="/bannedvideo/20220815/1771760.md">文睿：消失15天，“改革开放”再上头条，习近平麻烦大了</a></li>
-<li><a href="/cnnews/20220815/1771756.md">网暴又杀死一个好人：67岁武汉“糖水爷爷”被逼求饶</a></li>
-<li><a href="/cbnews/20220816/1771983.md">她年薪百万，在北京看不起牙</a></li>
 <li><a href="/cbnews/20220816/1772010.md">中共央行突然降息 专家：经济困境超预期</a></li>
+<li><a href="/bannedvideo/20220815/1771760.md">文睿：消失15天，“改革开放”再上头条，习近平麻烦大了</a></li>
+<li><a href="/cbnews/20220816/1771983.md">她年薪百万，在北京看不起牙</a></li>
 <li><a href="/comments/20220816/1771970.md">【独家重磅】李燕铭：北戴河会议敏感期习近平清洗江泽民堂妹江泽慧地盘 中林集团总经理总会计师巡视组副组长相继落马 隐秘牵连李克强弟李克明与郭声琨副手肖亚庆 肖亚庆案发酵震动李克强国务院系统 习近平李克强明争暗斗内幕（三八） 习近平决战江曾（二五） 二十大前北戴河会议大战内幕（四一）</a></li>
+<li><a href="/cnnews/20220815/1771756.md">网暴又杀死一个好人：67岁武汉“糖水爷爷”被逼求饶</a></li>
+<li><a href="/bannedvideo/20220816/1772011.md">军内泄中美台海电子战内幕：中共机舰全懵了！北戴河又一信号：习放风连任后面见拜登；EDA断供，对中共没什么影响吗？</a></li>
 <li><a href="/topimagenews/20220815/1771782.md">中共战机苏恺-30天天骚扰台湾西北空域！专家：共军这弱点泄露了….</a></li>
 <li><a href="/cbnews/20220815/1771868.md">四川山洪“众人眼睁睁看父子被冲走”！ 最新消息翻盘“爸爸当天获救，孩子没了”</a></li>
-<li><a href="/cbnews/20220815/1771733.md">中国特色社会生存指南：不遵守他们定的任何政策</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220816/1772190.md" target="_blank">美媒重磅调查：TikTok至少300人出身中共官媒</a></li>
+<li><a href="/comments/20220816/1772189.md" target="_blank">把台湾人弄到柬埔寨 最新手法曝光</a></li>
 <li><a href="/comments/20220816/1772180.md" target="_blank">哈里斯将出席安倍国葬 拜登不去引质疑</a></li>
 <li><a href="/comments/20220816/1771912.md" target="_blank">金融信心崩溃谁之错？|＂动物庄园＂动画剧场</a></li>
 <li><a href="/comments/20220816/1772155.md" target="_blank">经典的斯巴鲁Forester与Outback，哪款更好？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220816/1771961.md" target="_blank">评论 | 江棋生：三议蝴蝶效应</a></li>
 <li><a href="/comments/20220816/1771951.md" target="_blank">评论 | 陈光诚：高智晟被失踪五年无下落 与中共暴政谈法律何其讽刺</a></li>
 <li><a href="/comments/20220815/1771924.md" target="_blank">抗议FBI突袭川普庄园 南加民众：自由受威胁</a></li>
-<li><a href="/comments/20220815/1771923.md" target="_blank">时事大家谈：五大国企退市华尔街，美中金融脱钩释放什么警讯？</a></li>
-<li><a href="/comments/20220815/1771918.md" target="_blank">中共5国企宣布自美下市 美媒：凸显中美紧张关系升级</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
 
 </ul>
 </div>
