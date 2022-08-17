@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220816/1772130.md">【微博精粹】还没连任 颂圣词已出</a></li>
 <li><a href="/comments/20220816/1772237.md">习近平和中共元老北戴河胜负已分？</a></li>
 <li><a href="/yule/20220816/1772176.md">湖南卫视开除李维嘉 微博认证很讽刺</a></li>
 <li><a href="/bannedvideo/20220816/1772303.md">中共政局罕见 习被迫做一交易 他会让步吗？20大不一定能开？【两岸要闻】</a></li>
@@ -17,8 +16,8 @@
 <li><a href="/ssgc/20220816/1772156.md">〖兲朝浮世绘〗使馆副大使与访民对骂 这素质也太LOW了</a></li>
 <li><a href="/health/20220816/1772281.md">断食3天可重启人体免疫系统？美国学者发布研究结论，建议早了解</a></li>
 <li><a href="/topimagenews/20220816/1772218.md">退路被断 俄军指挥官丢下两万大军先跑了</a></li>
-<li><a href="/bannedvideo/20220816/1772194.md">受压扛不住了？习近平首次正式向党内喊话！ 400年预言石现身【希望之声TV-国际风云】</a></li>
 <li><a href="/topimagenews/20220816/1772376.md">细思极恐！中共大秘密曝光【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220816/1772194.md">受压扛不住了？习近平首次正式向党内喊话！ 400年预言石现身【希望之声TV-国际风云】</a></li>
 <li><a href="/bannedvideo/20220816/1772338.md">陈破空：突然，习近平向反习派喊话：一切为了政治！证实北戴河斗争激烈。惊爆：共军遭集体监控，被戴电子手铐防叛逃</a></li>
 <li><a href="/bannedvideo/20220816/1772353.md">文睿：李克强“南巡”，深圳另立山头，一切越发精彩</a></li>
 <li><a href="/cnnews/20220816/1772413.md">股市出大事了！专家警告“史诗大崩盘” 几乎出清光光持股</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/cbnews/20220816/1772235.md">中国南方热太离谱？不到43℃都挤不进气温top10</a></li>
 <li><a href="/topimagenews/20220816/1772208.md">习近平座上宾 一带一路中国侨领泰国被捕【阿波罗网报道】</a></li>
 <li><a href="/yule/20220816/1772330.md">刘亦菲最新红毯礼服被讽：没脖子腰泄三层肉</a></li>
-<li><a href="/bannedvideo/20220816/1772205.md">上海一市民因发文谈论唐山烧烤店打女孩事件，被唐山警察跨省抓捕，并带回唐山关押！</a></li>
 <li><a href="/cnnews/20220817/1772485.md">重庆高温嘉陵江见底 600年前摩崖造像露出</a></li>
+<li><a href="/cnnews/20220817/1772506.md">宜家17㎡可移动小屋价格曝光…网：马上下单</a></li>
+<li><a href="/bannedvideo/20220816/1772205.md">上海一市民因发文谈论唐山烧烤店打女孩事件，被唐山警察跨省抓捕，并带回唐山关押！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220817/1772638.md" target="_blank">德媒：中共国公布“台独”制裁新清单萧美琴等7人入列</a></li>
+<li><a href="/comments/20220817/1772637.md" target="_blank">北游:为什么一定要夸孩子努力，不能夸孩子聪明？</a></li>
 <li><a href="/comments/20220817/1772623.md" target="_blank">郝大星：还是要爱惜自己的身体</a></li>
 <li><a href="/comments/20220817/1772622.md" target="_blank">莫叔：魔都开创了“无人机防疫”</a></li>
 <li><a href="/comments/20220817/1772621.md" target="_blank">城市的地得：2022年会被写入历史的对话</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220817/1772503.md" target="_blank">北戴河会议结局已定？李克强现身广东视频流出</a></li>
 <li><a href="/comments/20220817/1772499.md" target="_blank">吃葱有禁忌 吃对葱可顶药</a></li>
 <li><a href="/comments/20220817/1772466.md" target="_blank">德国超市购物有何省钱秘诀？听听业内人士怎么说</a></li>
-<li><a href="/comments/20220817/1772457.md" target="_blank">中国青年失业率创新高 官方归咎于求职者</a></li>
-<li><a href="/comments/20220817/1772447.md" target="_blank">2023花车游行序曲开启 玫瑰王后接受报名</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 <li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
 
 </ul>
 </div>
