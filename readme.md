@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220817/1772611.md">李克强你在干啥？中共央视现罕见一幕【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220817/1772806.md">北戴河刚闭幕就爆不可思议的事 坊间热传的真要来了？【两岸要闻】</a></li>
 <li><a href="/ssgc/20220817/1772762.md">习近平、李克强同日分别考察辽宁 、深圳 官媒先发布李克强行程后一天才发习近平消息</a></li>
 <li><a href="/topimagenews/20220817/1772709.md">这世道 连支付宝女王也“润”了</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/worldnews/usa/20220817/1772763.md">华日：数据显示美国批准了几乎所有对华技术出口</a></li>
 <li><a href="/cnnews/20220817/1772761.md">习近平北戴河暑休后第一站 考察辽沈战役纪念馆</a></li>
 <li><a href="/cnnews/20220818/1772981.md">中共又要炸？他亲自证实：下周访台</a></li>
-<li><a href="/topimagenews/20220817/1772652.md">猎色高手、江泽民汉奸生父的上司 如何捕猎张爱玲</a></li>
 <li><a href="/headline/20220817/1772773.md">北戴河会议结束了：习近平露面</a></li>
+<li><a href="/topimagenews/20220817/1772652.md">猎色高手、江泽民汉奸生父的上司 如何捕猎张爱玲</a></li>
 <li><a href="/bannedvideo/20220817/1772803.md">🔥大变 中国将爆雪崩式返贫；大事 专家警告史诗大崩盘；周围问一圈，都选择躺平了？欧盟商会主席：北京启动自我毁灭模式；中国开发商下手太狠了；南方干旱，长江水位61年最低几乎断流【阿波罗网Y Y】</a></li>
+<li><a href="/bannedvideo/20220818/1772980.md">北戴河会议人事方案有了？二十大接李克强烂摊子的可能是他【希望之声TV-财经慧眼】</a></li>
 <li><a href="/bannedvideo/20220817/1772713.md">👉李克强跑到广东，满脸堆笑；中共“通缉”佘伦凯十年，他却能与习近平共进晚餐；掌控整个“东南亚黑道”的是谁？知情者揭露柬国黑暗内情；国台办“制裁”台湾7个政治人物，用心险恶 ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/bannedvideo/20220817/1772764.md">文睿：习近平现身，五大看点，李克强笑了</a></li>
 <li><a href="/topimagenews/20220817/1772741.md">司马南美国房事丑闻发酵 胡锡进站台【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220818/1772980.md">北戴河会议人事方案有了？二十大接李克强烂摊子的可能是他【希望之声TV-财经慧眼】</a></li>
 <li><a href="/bannedvideo/20220817/1772681.md">习近平政治豪赌犯大错？中美政要专家都指向这件事！太猖狂！中共军事间谍船开到印度后院【希望之声TV-国际风云】</a></li>
 <li><a href="/comments/20220817/1772690.md">罕见！中共17个政府部门联名发文</a></li>
 <li><a href="/baitai/20220817/1772755.md">王鼎钧：我乍见那张受降照片时，觉得什么地方不对劲，看了几十年，终于看出眉目来</a></li>
-<li><a href="/comments/20220817/1772605.md">习近平犯了大错？政要专家解析因由</a></li>
 <li><a href="/comments/20220818/1772914.md">李燕铭：北戴河会结束 习近平北上李克强南下 释放五重敏感政治信号 二十大两名政治局委员一名副总理人选浮现 二十大前北戴河会议大战内幕（四五） 习近平李克强明争暗斗内幕（三九） 二十大高层人事大战（四三）</a></li>
 <li><a href="/worldnews/20220817/1772744.md">乌克兰火力全开 辗压南部俄军</a></li>
+<li><a href="/bannedvideo/20220818/1772906.md">美领馆连发3 推  震慑意味浓重；台海有事 中共必导致这一恶果；再来两国 中共红线可绕地球【环球看点】</a></li>
+<li><a href="/health/20220817/1772671.md">天然抗癌药：这6大食物消灭癌细胞</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220818/1773087.md" target="_blank">北京若要切断“命根子”，美国就只能灭了中共</a></li>
+<li><a href="/cbnews/20220818/1773086.md" target="_blank">天亮时分：北戴河会议结束，李克强高调复出，习近平边缘化？警告：北京进入自毁模式；俄黑海舰队司令被撤，普京的焦虑和恐慌；（政论天下第766集 20220817）</a></li>
 <li><a href="/cbnews/20220818/1772916.md" target="_blank">中国爷爷为孙子“偷50公斤”小龙虾！深夜连闯5次养殖场</a></li>
 <li><a href="/cbnews/20220817/1772890.md" target="_blank">超市避暑省电！陆大爷大妈“躺货架睡觉” 店员崩溃求离开</a></li>
 <li><a href="/cbnews/20220817/1772723.md" target="_blank">极度高温 网传重庆嘉陵江被“晒干”？</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20220816/1771984.md" target="_blank">山洪暴发怎自救 ？记得三看一听</a></li>
 <li><a href="/cbnews/20220816/1771983.md" target="_blank">她年薪百万，在北京看不起牙</a></li>
 <li><a href="/cbnews/20220816/1771949.md" target="_blank">特斯拉失控？ 车主：冲出栏杆撞墙 突然加速控制不了</a></li>
-<li><a href="/cbnews/20220815/1771878.md" target="_blank">何清涟：美国宪政旧瓶装了左派“进步主义”新酒</a></li>
-<li><a href="/cbnews/20220815/1771868.md" target="_blank">四川山洪“众人眼睁睁看父子被冲走”！ 最新消息翻盘“爸爸当天获救，孩子没了”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220818/1773104.md" target="_blank">老牌恶棍：对不起，你涉嫌“伤害民族情感罪”</a></li>
+<li><a href="/comments/20220818/1773103.md" target="_blank">缓解地方财政危机，我有一妙计</a></li>
+<li><a href="/comments/20220818/1773102.md" target="_blank">木蹊：对穿和服苦大仇深，对烂尾房情绪稳定</a></li>
+<li><a href="/comments/20220818/1773101.md" target="_blank">宋承恩：《八一七公报》：历史余烬后的重要议题</a></li>
 <li><a href="/comments/20220818/1773077.md" target="_blank">美驻华大使馆三发推文 呛中共企图改变台海现状</a></li>
 <li><a href="/comments/20220818/1773076.md" target="_blank">中美关系下滑 白宫或推迟对华关税减免</a></li>
 <li><a href="/comments/20220818/1773064.md" target="_blank">遇刺作家鲁西迪，真的仇恨伊斯兰教吗？</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20220818/1772957.md" target="_blank">“玉米打掉头 劲大似如牛”啥意思？古人智慧传给后人</a></li>
 <li><a href="/comments/20220818/1772926.md" target="_blank">北戴河会议结束 习近平北上 李克强南下</a></li>
 <li><a href="/comments/20220818/1772914.md" target="_blank">李燕铭：北戴河会结束 习近平北上李克强南下 释放五重敏感政治信号 二十大两名政治局委员一名副总理人选浮现 二十大前北戴河会议大战内幕（四五） 习近平李克强明争暗斗内幕（三九） 二十大高层人事大战（四三）</a></li>
-<li><a href="/comments/20220818/1772909.md" target="_blank">中共党政军合推生育新措施 90后：最后一代了 ，不要孩子了</a></li>
-<li><a href="/comments/20220817/1772881.md" target="_blank">专栏 | 劳工通讯：甘肃建筑工讨薪（二）</a></li>
-<li><a href="/comments/20220817/1772855.md" target="_blank">解除报导限制 港支联会国安法案下月公开初级侦讯</a></li>
-<li><a href="/comments/20220817/1772854.md" target="_blank">美议员接力访台 秦刚举行记者会抗议 魏凤和发声含阴谋</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
 <li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 
 </ul>
 </div>
