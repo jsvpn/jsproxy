@@ -9,8 +9,8 @@
 <li><a href="/cnnews/20220817/1772581.md">当心 这一切真的来了</a></li>
 <li><a href="/bannedvideo/20220817/1772806.md">北戴河刚闭幕就爆不可思议的事 坊间热传的真要来了？【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220817/1772571.md">秦刚的战狗被美逮了中共驻美公使比中指呛民众</a></li>
-<li><a href="/topimagenews/20220817/1772709.md">这世道 连支付宝女王也“润”了</a></li>
 <li><a href="/ssgc/20220817/1772762.md">习近平、李克强同日分别考察辽宁 、深圳 官媒先发布李克强行程后一天才发习近平消息</a></li>
+<li><a href="/topimagenews/20220817/1772709.md">这世道 连支付宝女王也“润”了</a></li>
 <li><a href="/cnnews/20220817/1772664.md">新iPad爆史诗级更新</a></li>
 <li><a href="/cnnews/20220817/1772787.md">明摆着 日本这是故意让中南海难堪</a></li>
 <li><a href="/cnnews/hknews/20220817/1772572.md">男女“倒立香”插香炉！内行人曝恶质含意</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/topimagenews/20220817/1772556.md">这几天，“移民”这个词再度火爆</a></li>
 <li><a href="/bannedvideo/20220817/1772713.md">👉李克强跑到广东，满脸堆笑；中共“通缉”佘伦凯十年，他却能与习近平共进晚餐；掌控整个“东南亚黑道”的是谁？知情者揭露柬国黑暗内情；国台办“制裁”台湾7个政治人物，用心险恶 ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/bannedvideo/20220817/1772764.md">文睿：习近平现身，五大看点，李克强笑了</a></li>
-<li><a href="/cnnews/20220817/1772542.md">被删文：房都不买，还想当干部？</a></li>
 <li><a href="/topimagenews/20220817/1772741.md">司马南美国房事丑闻发酵 胡锡进站台【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220817/1772681.md">习近平政治豪赌犯大错？中美政要专家都指向这件事！太猖狂！中共军事间谍船开到印度后院【希望之声TV-国际风云】</a></li>
 <li><a href="/comments/20220817/1772690.md">罕见！中共17个政府部门联名发文</a></li>
+<li><a href="/baitai/20220817/1772755.md">王鼎钧：我乍见那张受降照片时，觉得什么地方不对劲，看了几十年，终于看出眉目来</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220818/1773026.md" target="_blank">石铭：冤判重判何时休？</a></li>
+<li><a href="/comments/20220818/1773025.md" target="_blank">.若西方与中国全面脱钩，中共国将成最大输家</a></li>
+<li><a href="/comments/20220818/1773024.md" target="_blank">青萍之末：中共国不是中国</a></li>
+<li><a href="/comments/20220818/1773023.md" target="_blank">吴玉：拿什么守护你的爱情？“宝马”与“自行车”之争</a></li>
+<li><a href="/comments/20220818/1773022.md" target="_blank">周晓辉：习去年讲话重登透信息 北戴河不平静？</a></li>
+<li><a href="/comments/20220818/1773021.md" target="_blank">王清鹏：共产党下台，你做好准备了吗</a></li>
+<li><a href="/comments/20220818/1773020.md" target="_blank">周晓辉：北戴河会议结束 习李胡动向透端倪</a></li>
 <li><a href="/comments/20220818/1773015.md" target="_blank">面对经济下滑 中共进退失据 官员躺平等待二十大结果</a></li>
 <li><a href="/comments/20220818/1773006.md" target="_blank">权力之手疯狂寻租自肥 还有更大的隐患…</a></li>
 <li><a href="/comments/20220818/1772998.md" target="_blank">真成了火焰山！创纪录高温中重庆突发2处山火</a></li>
@@ -115,13 +122,6 @@
 <li><a href="/comments/20220817/1772817.md" target="_blank">俄军“粗心”？卢甘斯克俄总部遭炸毁！ 乌克兰重心夺回被占领的克里米亚</a></li>
 <li><a href="/comments/20220817/1772816.md" target="_blank">拉脱维亚援乌 厉害的M109自走炮已投入实战</a></li>
 <li><a href="/comments/20220817/1772805.md" target="_blank">60年来最强热浪 长江武汉8月水位创近160年新低</a></li>
-<li><a href="/comments/20220817/1772790.md" target="_blank">袁红冰：《燃烧的安魂曲》   第八章    佛血和豹骨</a></li>
-<li><a href="/comments/20220817/1772789.md" target="_blank">张建兴：台湾亲共者们生在福中不知福</a></li>
-<li><a href="/comments/20220817/1772783.md" target="_blank">西兰花具有一定抗癌作用 烹饪不当效果会大大降低</a></li>
-<li><a href="/comments/20220817/1772754.md" target="_blank">国际权威期刊：证实中医经络的存在</a></li>
-<li><a href="/comments/20220817/1772753.md" target="_blank">数千游客从西藏进云南受阻 与防疫人员爆发冲突</a></li>
-<li><a href="/comments/20220817/1772752.md" target="_blank">克里米亚变电站 弹药库连续爆炸 瓦格纳集团总部被炸与俄记者有关？普京鼓励生10孩有重赏</a></li>
-<li><a href="/comments/20220817/1772719.md" target="_blank">闷热天气湿疹难缠，6种营养素助改善</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 <li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 
 </ul>
 </div>
