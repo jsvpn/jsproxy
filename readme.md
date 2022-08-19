@@ -13,13 +13,13 @@
 <li><a href="/cbnews/20220818/1772374.md">外媒：缅甸诈骗基地转移 大批中国人被拉到公海活摘器官</a></li>
 <li><a href="/finance/20220819/1773434.md">真的过不动了！地方已被逼到墙角</a></li>
 <li><a href="/comments/20220819/1773445.md">中共军方二十大代表出炉 习“钦点”军委副主席在列 “枪杆子”牢牢在握</a></li>
-<li><a href="/cnnews/20220819/1773581.md">突发！加州机场两架飞机空中相撞，致多人死亡</a></li>
 <li><a href="/lifebaike/20220819/1773436.md">若无这场婚外情 中国可能增加7600个岛屿</a></li>
+<li><a href="/cnnews/20220819/1773581.md">突发！加州机场两架飞机空中相撞，致多人死亡</a></li>
+<li><a href="/topimagenews/20220819/1773632.md">全球经济要崩？中国1指标惊见危机所有人都难逃；中共央行突降息但专家说真没尿了；</a></li>
 <li><a href="/bannedvideo/20220818/1773314.md">文睿：18分钟，“总方针”消失，习近平兵败“北戴河”</a></li>
 <li><a href="/ssgc/20220819/1773608.md">〖兲朝浮世绘〗如果习大胜，未来不可预期</a></li>
 <li><a href="/topimagenews/20220819/1773599.md">【微博精粹】美国名校教授被骗回赵国 在监狱给小粉红上爱国课</a></li>
 <li><a href="/cbnews/20220819/1773612.md">江峰：李克强效仿邓小平南下深圳，这句话指的是谁，全党都明白了； 习近平北上辽宁，重归计划经济路线图，忽悠辽沈战役真相【江峰漫谈20220818第532期】</a></li>
-<li><a href="/topimagenews/20220819/1773632.md">全球经济要崩？中国1指标惊见危机所有人都难逃；中共央行突降息但专家说真没尿了；</a></li>
 <li><a href="/bannedvideo/20220819/1773495.md">惊天侦破：马航370被某国三人特工小组劫持？劫机全过程、飞机降落地点推理；内含大量细节【文昭思绪飞扬176期】</a></li>
 <li><a href="/bannedvideo/20220819/1773391.md">李克强向习近平宣战。司马来认错了，曾经是陈破空的手下败将</a></li>
 <li><a href="/cbnews/20220819/1773533.md">天亮时分：李克强言论被封杀！“共同富裕”议题，习近平暂时退却；乌克兰轰炸克里米亚大桥，国防部：大反攻很快开始（政论天下第767集 20220818）</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
 <li><a href="/comments/20220819/1773751.md" target="_blank">人被关久了会发生什么？揭秘一项人类永远无法完成的实验⋯⋯</a></li>
 <li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
 <li><a href="/cbnews/20220819/1773622.md" target="_blank">美中冲突恐在10年内爆发，“美国防令人担忧”</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220817/1772890.md" target="_blank">超市避暑省电！陆大爷大妈“躺货架睡觉” 店员崩溃求离开</a></li>
 <li><a href="/cbnews/20220817/1772723.md" target="_blank">极度高温 网传重庆嘉陵江被“晒干”？</a></li>
 <li><a href="/cbnews/20220817/1772688.md" target="_blank">江峰：中共台办发“台独”制裁清单反成英雄榜，为何不直接制裁蔡英文？原来习近平最反对！从清单看清两岸政治这三条，脑洞大开【江峰漫谈20220816第531期】</a></li>
-<li><a href="/cbnews/20220817/1772680.md" target="_blank">中美台海对峙何时最危险 需看美航母这一动向</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220819/1773765.md" target="_blank">鲨鱼的祖先更厉害！研究揭史前巨鲨可5口吃掉8公尺杀人鲸</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20220819/1773761.md" target="_blank">官媒报「和服女」警察局遭遇被删文 去年此街不准穿汉服</a></li>
 <li><a href="/comments/20220819/1773751.md" target="_blank">人被关久了会发生什么？揭秘一项人类永远无法完成的实验⋯⋯</a></li>
 <li><a href="/comments/20220819/1773740.md" target="_blank">【横河观点】习北上李南下 跛足改革大势已去</a></li>
 <li><a href="/comments/20220819/1773739.md" target="_blank">到底谁在抹黑中国？是时候重新审视了</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220819/1773549.md" target="_blank">李濠仲：中国驻纽约总领馆的“骗局” 3年骗了4000万美金</a></li>
 <li><a href="/comments/20220819/1773548.md" target="_blank">宋国诚：美中“攻防战”已经开打，而且很惨烈</a></li>
 <li><a href="/comments/20220819/1773547.md" target="_blank">【中南火海】 95 江泽民暗害杨尚昆 中南海杀场</a></li>
-<li><a href="/comments/20220819/1773546.md" target="_blank">【中南火海】 94 杨尚昆伴虎被咬 中南海杀场</a></li>
-<li><a href="/comments/20220819/1773529.md" target="_blank">纽邮曝：切尼丈夫公司与拜登儿子亨特关系匪浅</a></li>
-<li><a href="/comments/20220819/1773516.md" target="_blank">洪博学：一带一路成危险国家</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 <li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 
 </ul>
 </div>
