@@ -6,18 +6,15 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/yule/20220818/1773194.md">章子怡情绪失控痛哭20多分钟狂喊：什么都没有</a></li>
-<li><a href="/cnnews/20220818/1773158.md">石家庄男子吃饭时凳子腿插入了肛门自行拔出 结果…</a></li>
 <li><a href="/topimagenews/20220819/1773413.md">习近平妥协换连任？北戴河会议不轻松</a></li>
 <li><a href="/headline/20220818/1773270.md">【中共权斗】李克强「南巡」影片遭中共网管审查封杀</a></li>
 <li><a href="/topimagenews/20220818/1773362.md">李克强被封讲话：四十年前，你们敢想象吗？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220818/1773236.md">“啊！忘记开美颜”直播大妈回春变网美 大陆网友傻眼：我看了啥</a></li>
 <li><a href="/topimagenews/20220818/1773375.md">重大信号！中共“核心”走丢了一个【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220818/1773312.md">🔥习近平密令共军内部透露；公开分裂？习近平李克强为何南辕北辙？钱尼惨败共和党从布什时代过渡到川普时代；报告显示：通胀使美国家庭平均每月多花717美元【阿波罗网JY】</a></li>
-<li><a href="/cnnews/20220818/1773160.md">8个国家冷落中共特使团</a></li>
 <li><a href="/bannedvideo/20220818/1773294.md">陈破空：北戴河会后有戏：习近平权威下降！集体领导复苏？党媒先报李后报习，暗示习下李上？卢甘斯克俄军总部覆灭。德日猛醒抗共</a></li>
 <li><a href="/cnnews/20220818/1773170.md">华尔街押注这个：年底前会大涨</a></li>
 <li><a href="/cbnews/20220818/1772374.md">外媒：缅甸诈骗基地转移 大批中国人被拉到公海活摘器官</a></li>
-<li><a href="/cnnews/20220818/1773159.md">恐怖：网红无边泳池出意外 至少20人被卷入海中</a></li>
 <li><a href="/finance/20220819/1773434.md">真的过不动了！地方已被逼到墙角</a></li>
 <li><a href="/yule/20220818/1773182.md">成龙不碰的4位女星 第1位不好意思第4位不敢</a></li>
 <li><a href="/comments/20220819/1773445.md">中共军方二十大代表出炉 习“钦点”军委副主席在列 “枪杆子”牢牢在握</a></li>
@@ -26,8 +23,11 @@
 <li><a href="/headline/20220818/1773268.md">【铁腕清零】广西北海全民冲卡后续：传居委会人员拿板砖痛打居民</a></li>
 <li><a href="/finance/20220818/1773198.md">中国“5万亿之城”，呼之欲出？</a></li>
 <li><a href="/bannedvideo/20220818/1773314.md">文睿：18分钟，“总方针”消失，习近平兵败“北戴河”</a></li>
-<li><a href="/bannedvideo/20220818/1773169.md">习近平终于露面了！特殊行程曝光中共面临大转折；美国在下一盘大棋？制衡中共新现状【希望之声TV-国际风云】</a></li>
 <li><a href="/bannedvideo/20220819/1773391.md">李克强向习近平宣战。司马来认错了，曾经是陈破空的手下败将</a></li>
+<li><a href="/bannedvideo/20220818/1773169.md">习近平终于露面了！特殊行程曝光中共面临大转折；美国在下一盘大棋？制衡中共新现状【希望之声TV-国际风云】</a></li>
+<li><a href="/lifebaike/20220818/1773233.md">老年痴呆的元凶揪出来了：4个习惯要改掉！每天一动作，脑不萎缩</a></li>
+<li><a href="/bannedvideo/20220818/1773173.md">唐山烧烤店打死女孩事件发生后，警方假装逮捕罪犯。听听当时警察与犯罪嫌疑人的对话！</a></li>
+<li><a href="/yule/20220819/1773439.md">55岁港星湖南县城摆摊卖水，卖力吆喝无人买</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220819/1773609.md" target="_blank">李燕铭：持续高温缺雨 长江水位暴降海轮停航 鄱阳湖缩水三千平方公里创最早枯水纪录 长江鄂州段水位破157年最低 万里长江第一阁观音阁露出全貌 乐山大佛同日对比照：2020年大佛洗脚 2022年水位低10余米 中共末日之生态危机（二）</a></li>
 <li><a href="/comments/20220819/1773588.md" target="_blank">出人意料！彭斯喊话愿为「1月6日国会事件」调查作证</a></li>
 <li><a href="/comments/20220819/1773555.md" target="_blank">五家中共国企将从美退市 美中脱钩大戏开演？</a></li>
 <li><a href="/comments/20220819/1773554.md" target="_blank">美台启动21世纪贸易谈判 专家：北京干扰 美不会手软</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220819/1773421.md" target="_blank">中国网红忘开美颜现原形…吓坏网友</a></li>
 <li><a href="/comments/20220819/1773399.md" target="_blank">哈仙达拉普特联合学区因过失赔偿孩子家属1800万</a></li>
 <li><a href="/comments/20220819/1773396.md" target="_blank">【杜耀明评论】拜托，英治香港千万不能是殖民地</a></li>
-<li><a href="/comments/20220819/1773392.md" target="_blank">我们的心灵之窗：眼睛</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 <li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">中国文化中的六艺 ·上（礼·乐）中国文化中礼乐对人有何影响</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
 
 </ul>
 </div>
