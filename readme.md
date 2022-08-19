@@ -15,12 +15,12 @@
 <li><a href="/cbnews/20220819/1773612.md">江峰：李克强效仿邓小平南下深圳，这句话指的是谁，全党都明白了； 习近平北上辽宁，重归计划经济路线图，忽悠辽沈战役真相【江峰漫谈20220818第532期】</a></li>
 <li><a href="/topimagenews/20220819/1773599.md">【微博精粹】美国名校教授被骗回赵国 在监狱给小粉红上爱国课</a></li>
 <li><a href="/cbnews/20220819/1773533.md">天亮时分：李克强言论被封杀！“共同富裕”议题，习近平暂时退却；乌克兰轰炸克里米亚大桥，国防部：大反攻很快开始（政论天下第767集 20220818）</a></li>
-<li><a href="/cbnews/20220819/1773831.md">陈丽华立遗嘱：儿女每人100亿，余下归唐僧老公</a></li>
 <li><a href="/cnnews/20220819/1773698.md">习近平判曾庆红白手套肖建华13年 还罚款550亿人民币</a></li>
+<li><a href="/cbnews/20220819/1773831.md">陈丽华立遗嘱：儿女每人100亿，余下归唐僧老公</a></li>
+<li><a href="/topimagenews/20220820/1773875.md">美富豪称中国经济近乎彻底崩溃 曝下步可能动向</a></li>
 <li><a href="/topimagenews/20220819/1773806.md">习近平讲话 竟然大谈“改革开放”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220819/1773704.md">700年“长江第一阁”露全貌 湖北鄂州段水位破157年最低点</a></li>
 <li><a href="/baitai/20220819/1773508.md">揭批习画皮之二：北戴河会议结束，习近平认怂</a></li>
-<li><a href="/topimagenews/20220820/1773875.md">美富豪称中国经济近乎彻底崩溃 曝下步可能动向</a></li>
 <li><a href="/cnnews/20220819/1773525.md">他，是被习近平摆臭脸的坚忍外交家</a></li>
 <li><a href="/bannedvideo/20220819/1773620.md">重大外交失败！中共特使团被欧洲8国拒之门外；为何共军绕台大练反潜战？目的曝光【希望之声TV-国际风云】</a></li>
 <li><a href="/ssgc/20220819/1773631.md">〖微博谈〗以其人之道，还治其人之身</a></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220820/1773959.md" target="_blank">等不了了！习近平或下个月出席上海合作组织峰会见普京</a></li>
+<li><a href="/comments/20220820/1773958.md" target="_blank">明天系肖建华案一审公开判决 分析：党内妥协结果</a></li>
+<li><a href="/comments/20220820/1773957.md" target="_blank">专栏 | 解读新疆：新疆当局利用打击犯罪运动清理&#8221;不忠&#8221;的维吾尔人</a></li>
 <li><a href="/comments/20220820/1773951.md" target="_blank">美媒：习近平9月将赴中亚访问 11月将参加G20峰会</a></li>
 <li><a href="/comments/20220820/1773946.md" target="_blank">颜丹：辟谣中国人在瑞士有存款 中共怕啥？</a></li>
 <li><a href="/comments/20220820/1773945.md" target="_blank">周晓辉：李克强深圳推改革 效用难及邓南巡</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220819/1773798.md" target="_blank">【文韬政论】佩洛西旋风后北京政府打压台湾的策略</a></li>
 <li><a href="/comments/20220819/1773793.md" target="_blank">家教的缺失？江苏“狼”孩要不到玩具当街狂咬妈妈不松口</a></li>
 <li><a href="/comments/20220819/1773792.md" target="_blank">《科学》：中国科学家疑遭大外宣绑架 否认病毒起源遭打脸</a></li>
-<li><a href="/comments/20220819/1773787.md" target="_blank">焦点对话：台海局势险恶 美中谁该负责？</a></li>
-<li><a href="/comments/20220819/1773766.md" target="_blank">核酸检测走火入魔？ 厦门渔民所捕鱼虾也要掰嘴采样</a></li>
-<li><a href="/comments/20220819/1773765.md" target="_blank">鲨鱼的祖先更厉害！研究揭史前巨鲨可5口吃掉8公尺杀人鲸</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 <li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
 
 </ul>
 </div>
