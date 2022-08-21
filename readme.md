@@ -5,19 +5,17 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220820/1774237.md">要出大事了？江派吹捧习近平“拨乱反正”【阿波罗网报道】【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220821/1774274.md">损失惨重！司马南全网账号都被禁言了</a></li>
 <li><a href="/topimagenews/20220821/1774319.md">坐没坐相？ 乌克兰第一夫人坐姿掀论战</a></li>
-<li><a href="/topimagenews/20220820/1774236.md">揭不开锅了！曾庆红侄女：穷日子穷过...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220821/1774347.md">湘雅事件背后：数千医院关停 公立医院医生失业</a></li>
 <li><a href="/bannedvideo/20220821/1774285.md">习再给自己惹下大祸  能否补救 就看一指标【红朝禁闻】</a></li>
 <li><a href="/cbnews/20220821/1774403.md">天亮时分：隐秘行程曝光，李克强去深圳另有意图；普京的大脑“杜金”，女儿遇袭身亡；泽伦斯基走下神坛？（政论天下第769集 20220820）</a></li>
 <li><a href="/cnnews/20220821/1774456.md">高温、干旱 乐山大佛真身已全部露出</a></li>
 <li><a href="/topimagenews/20220821/1774436.md">突发！“普京大脑”杜金女儿遭汽车炸弹袭击丧生</a></li>
 <li><a href="/bannedvideo/20220821/1774461.md">中共驻美大使馆发生混战！大使急求美警保护；司马南遭中共维稳？被全网禁言！ 【希望之声TV-国际风云】</a></li>
+<li><a href="/cnnews/20220821/1774522.md">微博炸锅！疯传李立群儿开谯“李家永远反共” 为了4部新片才低头</a></li>
 <li><a href="/finance/20220821/1774462.md">敏感时刻胡春华再次发声 新华社当天发文</a></li>
 <li><a href="/bannedvideo/20220821/1774342.md">🔥从未有过！习近平连任10年 江系竟承认了；司马南在美儿子正面照片和职业遭曝，和还网友干起来了；为掏空俄军助力 美国宣布7.75亿美元对乌新军援； 俄罗斯黑海舰队一半的战斗机折翅【阿波罗网AA】</a></li>
-<li><a href="/cnnews/20220821/1774522.md">微博炸锅！疯传李立群儿开谯“李家永远反共” 为了4部新片才低头</a></li>
 <li><a href="/cbnews/20220821/1774383.md">“左棍”司马南被全网封杀 孔庆东遭禁言</a></li>
 <li><a href="/cnnews/20220821/1774304.md">涉嫌外汇管理和逃税漏税，司马南被实名举报</a></li>
 <li><a href="/baitai/20220821/1774318.md">沉寂十四年，王朔出手来治我的精神内耗</a></li>
@@ -26,8 +24,10 @@
 <li><a href="/worldnews/20220821/1774282.md">巨鱿现身南非陆地 眼睛跟餐盘一样大</a></li>
 <li><a href="/cnnews/20220821/1774336.md">房东怒爆：中国留学生太脏 整个房间让人想吐</a></li>
 <li><a href="/comments/20220821/1774311.md">瞳眼天下：最近越南动作太大 中国西南邻居想干嘛</a></li>
+<li><a href="/cnnews/20220821/1774335.md">没素质？华人逛Costco让孩子坐推车，商品垫屁股</a></li>
 <li><a href="/bannedvideo/20220821/1774308.md">🔥司马南突被全网禁言；都混成流氓了 还装懂什么政治？深度揭秘中共内幕；西安防疫：不戴口罩者，游街示众；江南高温限电停产 北方洪灾 到底怎么了</a></li>
 <li><a href="/comments/20220821/1774277.md">俄单日战损惊人！拒绝提议 普京重划动核武底线</a></li>
+<li><a href="/bannedvideo/20220821/1774489.md">💥肖建华曾对习近平发动政变！中国官方“专家”放风，要给疫情管制降级；柬埔寨“小深圳”，如何走向“一带一路”下的堕落之城？网信办6年封号14亿个，中共免掉17非洲国债务，另有所图｜新闻拍案惊奇 大宇</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220821/1774596.md" target="_blank">有全职工作也能兼职赚外快的7种方法</a></li>
 <li><a href="/comments/20220821/1774585.md" target="_blank">【独家重磅】李燕铭：李克强卷入中南海头号大案 与肖建华隐秘关系曝光 李克强大秘杨晶涉肖建华案被查 习近平王岐山各一句话结束杨晶政治生命 李克强大发雷霆才为杨晶保住正部级退休待遇 李克强曾任北大学生常代会第一任会长 肖建华等三届北大学生会主席仕途多舛 中南海头号大案肖建华案内幕（六） 习近平李克强明争暗斗内幕（四十） 习近平连任与二十大常委争夺战（四七）</a></li>
 <li><a href="/comments/20220821/1774577.md" target="_blank">曾孤身在荒岛29年 日本老翁与世隔绝</a></li>
 <li><a href="/comments/20220821/1774576.md" target="_blank">乌克兰骇客侵入克里米亚电视台 播放泽伦斯基演说</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220821/1774423.md" target="_blank">德媒：中国免除非洲23笔债务网民纷纷吐糟</a></li>
 <li><a href="/comments/20220821/1774422.md" target="_blank">三连炸后 大鹅陆海空逃离克里米亚 乌不想收手</a></li>
 <li><a href="/comments/20220821/1774421.md" target="_blank">岳山：习近平纪念内战 涉中共阴暗军史</a></li>
-<li><a href="/comments/20220821/1774420.md" target="_blank">【杰森视角】谁准确预测了美国经济7月的亮丽？抄底美股还有机会？中国启动“自毁”模式？李克强和习近平南辕北辙有后果！全球捆到一起倒霉的时代还会继续下去？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
 <li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
 <li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
 <li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
 
 </ul>
 </div>
