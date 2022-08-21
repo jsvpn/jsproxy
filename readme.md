@@ -12,10 +12,10 @@
 <li><a href="/cbnews/20220821/1774403.md">天亮时分：隐秘行程曝光，李克强去深圳另有意图；普京的大脑“杜金”，女儿遇袭身亡；泽伦斯基走下神坛？（政论天下第769集 20220820）</a></li>
 <li><a href="/cnnews/20220821/1774456.md">高温、干旱 乐山大佛真身已全部露出</a></li>
 <li><a href="/topimagenews/20220821/1774436.md">突发！“普京大脑”杜金女儿遭汽车炸弹袭击丧生</a></li>
-<li><a href="/bannedvideo/20220821/1774461.md">中共驻美大使馆发生混战！大使急求美警保护；司马南遭中共维稳？被全网禁言！ 【希望之声TV-国际风云】</a></li>
 <li><a href="/cnnews/20220821/1774522.md">微博炸锅！疯传李立群儿开谯“李家永远反共” 为了4部新片才低头</a></li>
-<li><a href="/finance/20220821/1774462.md">敏感时刻胡春华再次发声 新华社当天发文</a></li>
+<li><a href="/bannedvideo/20220821/1774461.md">中共驻美大使馆发生混战！大使急求美警保护；司马南遭中共维稳？被全网禁言！ 【希望之声TV-国际风云】</a></li>
 <li><a href="/bannedvideo/20220821/1774342.md">🔥从未有过！习近平连任10年 江系竟承认了；司马南在美儿子正面照片和职业遭曝，和还网友干起来了；为掏空俄军助力 美国宣布7.75亿美元对乌新军援； 俄罗斯黑海舰队一半的战斗机折翅【阿波罗网AA】</a></li>
+<li><a href="/finance/20220821/1774462.md">敏感时刻胡春华再次发声 新华社当天发文</a></li>
 <li><a href="/cbnews/20220821/1774383.md">“左棍”司马南被全网封杀 孔庆东遭禁言</a></li>
 <li><a href="/cnnews/20220821/1774304.md">涉嫌外汇管理和逃税漏税，司马南被实名举报</a></li>
 <li><a href="/baitai/20220821/1774318.md">沉寂十四年，王朔出手来治我的精神内耗</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/cnnews/20220821/1774377.md">国内年入53万中产男要移民 网友纷纷泼冷水</a></li>
 <li><a href="/worldnews/20220821/1774282.md">巨鱿现身南非陆地 眼睛跟餐盘一样大</a></li>
 <li><a href="/cnnews/20220821/1774336.md">房东怒爆：中国留学生太脏 整个房间让人想吐</a></li>
-<li><a href="/comments/20220821/1774311.md">瞳眼天下：最近越南动作太大 中国西南邻居想干嘛</a></li>
-<li><a href="/cnnews/20220821/1774335.md">没素质？华人逛Costco让孩子坐推车，商品垫屁股</a></li>
-<li><a href="/bannedvideo/20220821/1774308.md">🔥司马南突被全网禁言；都混成流氓了 还装懂什么政治？深度揭秘中共内幕；西安防疫：不戴口罩者，游街示众；江南高温限电停产 北方洪灾 到底怎么了</a></li>
-<li><a href="/comments/20220821/1774277.md">俄单日战损惊人！拒绝提议 普京重划动核武底线</a></li>
 <li><a href="/bannedvideo/20220821/1774489.md">💥肖建华曾对习近平发动政变！中国官方“专家”放风，要给疫情管制降级；柬埔寨“小深圳”，如何走向“一带一路”下的堕落之城？网信办6年封号14亿个，中共免掉17非洲国债务，另有所图｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/comments/20220821/1774311.md">瞳眼天下：最近越南动作太大 中国西南邻居想干嘛</a></li>
+<li><a href="/bannedvideo/20220821/1774308.md">🔥司马南突被全网禁言；都混成流氓了 还装懂什么政治？深度揭秘中共内幕；西安防疫：不戴口罩者，游街示众；江南高温限电停产 北方洪灾 到底怎么了</a></li>
+<li><a href="/cnnews/20220821/1774335.md">没素质？华人逛Costco让孩子坐推车，商品垫屁股</a></li>
+<li><a href="/comments/20220821/1774479.md">中共辟谣100名中国人存瑞银7.8万亿元 引嘲讽</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220821/1774604.md" target="_blank">真的热死人！四川破纪录高温却停电 网友爆料触目惊心</a></li>
 <li><a href="/comments/20220821/1774596.md" target="_blank">有全职工作也能兼职赚外快的7种方法</a></li>
 <li><a href="/comments/20220821/1774585.md" target="_blank">【独家重磅】李燕铭：李克强卷入中南海头号大案 与肖建华隐秘关系曝光 李克强大秘杨晶涉肖建华案被查 习近平王岐山各一句话结束杨晶政治生命 李克强大发雷霆才为杨晶保住正部级退休待遇 李克强曾任北大学生常代会第一任会长 肖建华等三届北大学生会主席仕途多舛 中南海头号大案肖建华案内幕（六） 习近平李克强明争暗斗内幕（四十） 习近平连任与二十大常委争夺战（四七）</a></li>
 <li><a href="/comments/20220821/1774577.md" target="_blank">曾孤身在荒岛29年 日本老翁与世隔绝</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220821/1774430.md" target="_blank">2022圆石滩拍卖会上最贵的跑车：价值千万美元的布加迪</a></li>
 <li><a href="/comments/20220821/1774423.md" target="_blank">德媒：中国免除非洲23笔债务网民纷纷吐糟</a></li>
 <li><a href="/comments/20220821/1774422.md" target="_blank">三连炸后 大鹅陆海空逃离克里米亚 乌不想收手</a></li>
-<li><a href="/comments/20220821/1774421.md" target="_blank">岳山：习近平纪念内战 涉中共阴暗军史</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
 <li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
 <li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
 
 </ul>
 </div>
