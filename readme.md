@@ -5,14 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/bannedvideo/20220823/1775366.md">他二十大铁定入常？几大特殊信号 他真能创造历史？【两岸要闻】</a></li>
 <li><a href="/cbnews/20220824/1775534.md">确定“李上习不下”?网传李接总书记习第三任期要解决“台湾问题”</a></li>
-<li><a href="/bannedvideo/20220823/1775377.md">🔥“李上习不下成定局”台媒报道：两岸更可能开战；日本被激怒 两年后将让中共航母无海可出；窃自驾车机密回中国工作 苹果前员工认罪【阿波罗网HS】</a></li>
 <li><a href="/bannedvideo/20220824/1775544.md">我对中共20大7常委组成的预测：大胆猜测/小心求证</a></li>
-<li><a href="/bannedvideo/20220824/1775601.md">🔥曝出李克强！赵克志秘密讲话泄漏；打倒习近平，江派煽动民意 暗批习“把一手好牌打的稀烂”；联调局突袭，川普女婿终于开口；“乌克兰30年内不会加入北约” 德国总理承认向普京保证【阿波罗网AW】</a></li>
-<li><a href="/topimagenews/20220824/1775718.md">发生习近平最忌讳的事 废太子满血复活？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220824/1775538.md">三只黑天鹅来袭 中共重演清朝经济发展陷阱</a></li>
 <li><a href="/topimagenews/20220824/1775734.md">习近平3爱将可能入常 本届中共政治局常委将有2人出局？【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220824/1775601.md">🔥曝出李克强！赵克志秘密讲话泄漏；打倒习近平，江派煽动民意 暗批习“把一手好牌打的稀烂”；联调局突袭，川普女婿终于开口；“乌克兰30年内不会加入北约” 德国总理承认向普京保证【阿波罗网AW】</a></li>
+<li><a href="/topimagenews/20220824/1775538.md">三只黑天鹅来袭 中共重演清朝经济发展陷阱</a></li>
+<li><a href="/topimagenews/20220824/1775718.md">发生习近平最忌讳的事 废太子满血复活？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220824/1775499.md">开国产车去山区济贫！当地公务车全是进口200万休旅 自嘲：我们来闹笑话</a></li>
 <li><a href="/cnnews/20220824/1775539.md">习近平笃定延任 世界心惊胆颤</a></li>
 <li><a href="/topimagenews/20220824/1775687.md">李上习不下已成定局？两岸更可能开战？【阿波罗网报道】</a></li>
@@ -23,11 +21,13 @@
 <li><a href="/yule/20220823/1775463.md">已定居美国？郑爽被封杀神隐9个月 突自曝现况</a></li>
 <li><a href="/headline/20220824/1775517.md">中共二十大日期公布在即 谁陪习近平第三任？</a></li>
 <li><a href="/topimagenews/20220824/1775627.md">台湾：我们要射击了！结果 中共军舰跑的可快了！【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20220824/1775700.md">在俄罗斯，一切都越来越难了</a></li>
 <li><a href="/cnnews/20220823/1775435.md">吃多会变笨、致癌！哈佛点名“6大超加工食品”少碰</a></li>
 <li><a href="/cnnews/20220823/1775458.md">川渝缺电的另一个原因：高能耗的5G工程</a></li>
-<li><a href="/cnnews/20220824/1775700.md">在俄罗斯，一切都越来越难了</a></li>
 <li><a href="/cnnews/20220824/1775614.md">董明珠接班人，23岁的她消失了</a></li>
+<li><a href="/cnnews/20220824/1775655.md">郑爽也润了！被封杀神隐9个月 突自曝现况 已定居美国？</a></li>
 <li><a href="/yule/20220824/1775581.md">乐嘉在美国相亲！被女生嫌弃离婚带个娃，表情尴尬称自己没有三婚</a></li>
+<li><a href="/comments/20220824/1775684.md">重庆人怒了！居民聚集高喊：不做核酸</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220824/1775820.md" target="_blank">番茄这样留种 一点不费事</a></li>
 <li><a href="/comments/20220824/1775813.md" target="_blank">张建兴：我看近日热议的习李斗</a></li>
 <li><a href="/comments/20220824/1775804.md" target="_blank">袁红冰：《燃烧的安魂曲》  第十章    诗写在自焚少年的心间</a></li>
 <li><a href="/comments/20220824/1775757.md" target="_blank">新冠+猴痘+流感+小儿麻痹 美国面临疫情风暴来袭</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220824/1775619.md" target="_blank">白宫前顾问纳瓦罗：扣住福西护照 以防他「飞走」</a></li>
 <li><a href="/comments/20220824/1775618.md" target="_blank">川普起诉司法部 跨党派议员促查阅搜查所获文件</a></li>
 <li><a href="/comments/20220824/1775617.md" target="_blank">美方会见秦刚 蔡英文：任何威胁都无法撼动台湾</a></li>
-<li><a href="/comments/20220824/1775608.md" target="_blank">北戴河会议后的中共政局—假和谐与半稳定</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 <li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 
 </ul>
 </div>
