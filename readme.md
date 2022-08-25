@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220824/1775734.md">习近平3爱将可能入常 本届中共政治局常委将有2人出局？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220824/1775718.md">发生习近平最忌讳的事 废太子满血复活？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220824/1775687.md">李上习不下已成定局？两岸更可能开战？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220824/1775836.md">重庆图书馆大排长龙！赵立坚赞“知识就是力量” 却遭无情吐槽翻车</a></li>
 <li><a href="/bannedvideo/20220824/1775749.md">文睿：腰斩，公务员太规模裁员，来的太快了</a></li>
 <li><a href="/bannedvideo/20220824/1775791.md">🔥发生习近平最忌讳的事 废太子满血复活？陪习近平第三任？二十大谁将在这轮激烈权斗中胜出；风向突变 埃尔多安和普京“翻脸”了；前任安全长举报推特 对主管机关隐瞒资料安全疏失【阿波罗网AS】</a></li>
 <li><a href="/cnnews/20220824/1775700.md">在俄罗斯，一切都越来越难了</a></li>
-<li><a href="/topimagenews/20220824/1775880.md">冲上热搜！李立群录视频表态 如上演文革剧【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220824/1775824.md">习近平北上讲话透露心思？二十大前，商人、官员都躺平？习近平为何不喜欢改革开放？大数据下的新计划经济，有什么新功能？【#蔚然财商天下】2022.08.24</a></li>
 <li><a href="/bannedvideo/20220825/1775954.md">李克强警告凛冬将至 专家：不排除大事随时发生【红朝禁闻】</a></li>
+<li><a href="/bannedvideo/20220824/1775824.md">习近平北上讲话透露心思？二十大前，商人、官员都躺平？习近平为何不喜欢改革开放？大数据下的新计划经济，有什么新功能？【#蔚然财商天下】2022.08.24</a></li>
+<li><a href="/topimagenews/20220824/1775880.md">冲上热搜！李立群录视频表态 如上演文革剧【阿波罗网报道】</a></li>
 <li><a href="/comments/20220824/1775726.md">中国人不忍了 时隔33年这一标语重现北京街头</a></li>
-<li><a href="/comments/20220824/1775684.md">重庆人怒了！居民聚集高喊：不做核酸</a></li>
 <li><a href="/ssgc/20220825/1775966.md">〖兲朝浮世绘〗俄爹耍流氓没收飞机，干儿子中共连屁都没敢放</a></li>
 <li><a href="/topimagenews/20220824/1775879.md">全球经济惨了？日媒揭3大引爆点：火车头全失灵</a></li>
 <li><a href="/worldnews/20220824/1775761.md">惊曝俄军S-400防空系统 游客泳装照露馅！帮了乌克兰大忙</a></li>
 <li><a href="/cbnews/20220824/1775847.md">弄丢钥匙抽屉被锁多年！妇撬开后嗨喊：要发财了 网曝真相</a></li>
 <li><a href="/headline/20220824/1775800.md">成蕾被中国当局囚禁整两年 澳大利亚媒体披露狱中状况</a></li>
 <li><a href="/cbnews/20220824/1775908.md">国务院督查19省 不提习动态清零</a></li>
-<li><a href="/comments/20220824/1775813.md">张建兴：我看近日热议的习李斗</a></li>
 <li><a href="/cbnews/20220825/1775951.md">李克强献花邓小平铜像 专家：隐晦警告不走改革开放恐遇“大灾大难”</a></li>
+<li><a href="/comments/20220824/1775813.md">张建兴：我看近日热议的习李斗</a></li>
 <li><a href="/ssgc/20220824/1775696.md">〖微博谈〗停个电不奇怪</a></li>
 <li><a href="/cnnews/20220824/1775776.md">“路上有枪战”?不少上海车主收到怪讯息 警方称无此事 业者:可能被骇</a></li>
+<li><a href="/topimagenews/20220825/1776003.md">关于四川，今年最恶心的一个热搜，出炉了</a></li>
 <li><a href="/worldnews/20220824/1775704.md">左派芬兰女总理风波再起 2女半裸接吻照流出</a></li>
+<li><a href="/baitai/20220824/1775738.md">颜纯鈎：「江山就是人民」：又是偷换概念的大话</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220825/1776123.md" target="_blank">唐山的社会乱象是谁造成的</a></li>
+<li><a href="/comments/20220825/1776122.md" target="_blank">许纪霖：从反种族主义运动看美国的政治正确和身份政治</a></li>
+<li><a href="/comments/20220825/1776121.md" target="_blank">极端的天气加上妄为的政府，重庆市民真的太难了</a></li>
 <li><a href="/comments/20220825/1776108.md" target="_blank">洛克杂谭：性是左先锋</a></li>
 <li><a href="/comments/20220825/1776107.md" target="_blank">德媒：新乌克兰是普京的梦魇</a></li>
 <li><a href="/comments/20220825/1776094.md" target="_blank">佛州精彩选战 德桑提斯扮「独行侠」迎战克里斯特</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220825/1775988.md" target="_blank">上个月美国房价三年来首次下跌</a></li>
 <li><a href="/comments/20220825/1775985.md" target="_blank">俄乌战争制造十大影响 损害经济</a></li>
 <li><a href="/comments/20220825/1775965.md" target="_blank">乌克兰独立31周年 约翰逊现身基辅 拜登宣布近30亿美元援乌</a></li>
-<li><a href="/comments/20220825/1775946.md" target="_blank">疫苗杀人？「中国最后一位女酋长」101岁老人打疫苗后去世</a></li>
-<li><a href="/comments/20220825/1775940.md" target="_blank">秋季咳嗽嗓子发干 中医推荐这样吃萝卜 生熟功效不同</a></li>
-<li><a href="/comments/20220825/1775939.md" target="_blank">民间反毒胜利 加州州长否决设毒品注射站提案</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/health/20170626/780263.md" target="_blank">法轮功学员神通除牙疼记</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
 <li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 
 </ul>
 </div>
