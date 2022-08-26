@@ -16,17 +16,17 @@
 <li><a href="/cnnews/20220826/1776713.md">2手房恐怖骗局蔓延中国大城；3只黑天鹅来袭中国重演清陷阱；李克强祭“大招”有用？</a></li>
 <li><a href="/topimagenews/20220826/1776692.md">“黑色大黄蜂奈米”发威 乌克兰要悄悄刺探俄军</a></li>
 <li><a href="/bannedvideo/20220826/1776607.md">20220826直播：习近平到底在干什么？所有人都停在原地焦灼的‘等风向’，等着命运的宣判；独立日的三个没想到，普京插旗招兵。（20220826 第937期）</a></li>
+<li><a href="/cnnews/20220827/1776857.md">中国民航已手忙脚乱</a></li>
 <li><a href="/bannedvideo/20220826/1776731.md">🔥习近平犯中共大忌？双标激民怨！中共忽取消出入境核酸申报；普丁成“功臣”了？俄乌战争打不停 美军F35成唯一赢家；NASA公布黑洞声音2亿光年外音档惊呆46万人；美对澳军售20亿美元  LS</a></li>
 <li><a href="/topimagenews/20220826/1776591.md">重口味“屎尿体”诗作“爸气”外漏？大作家之女入选中国作协会员疑“靠爸”上位</a></li>
-<li><a href="/cbnews/20220826/1776548.md">天亮时分：政治局两常委，神秘消失25天；乌克兰独立日，北约释放重大信号直指北京；任正非一句话，股市崩了（政论天下第772集 20220825）天亮时分</a></li>
 <li><a href="/topimagenews/20220826/1776606.md">火力大增！ 美军援乌克兰“吸血鬼”痛宰俄无人机</a></li>
+<li><a href="/cbnews/20220826/1776548.md">天亮时分：政治局两常委，神秘消失25天；乌克兰独立日，北约释放重大信号直指北京；任正非一句话，股市崩了（政论天下第772集 20220825）天亮时分</a></li>
 <li><a href="/cbnews/20220826/1776701.md">珠海防空警报突响，民众吓坏，政府回应傻眼</a></li>
 <li><a href="/funmedia/20220826/1776605.md">知乎30条神回复，针针见血，句句戳心</a></li>
-<li><a href="/cnnews/20220827/1776857.md">中国民航已手忙脚乱</a></li>
 <li><a href="/funmedia/20220826/1776504.md">机场过安检时，“女生隐私”能得到保护吗？看完现场屏幕就知道了</a></li>
 <li><a href="/cnnews/20220826/1776571.md">印证传闻 iPhone 14卫星连接真要来了</a></li>
-<li><a href="/headline/20220826/1776676.md">中国女排与伊朗比赛戴口罩引惊讶 官方道歉</a></li>
 <li><a href="/topimagenews/20220826/1776527.md">高级黑习近平？人民网选用特殊案例【阿波罗网报道】</a></li>
+<li><a href="/headline/20220826/1776676.md">中国女排与伊朗比赛戴口罩引惊讶 官方道歉</a></li>
 <li><a href="/cbnews/20220826/1776595.md">江峰：大熊猫叫‘翠翠’，全国人民都乐了！最准的民意：习近平外号比前任党魁总和都多！中国伊朗女排交手，戴口罩的三比一赢了戴头罩的【江峰漫谈20220825第537期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 <li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 
 </ul>
 </div>
