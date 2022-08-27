@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20220827/1776952.md">可怜的中国半导体，靠一个笑话活着</a></li>
 <li><a href="/cnnews/20220827/1776858.md">期待！iPhone14被曝有这三大功能</a></li>
 <li><a href="/cnnews/20220827/1777060.md">习近平失控？临战状态空前扩权【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20220827/1777007.md">天亮时分：两大政策朝令夕改，凸显李克强困境；习近平亲信掌握政法委，下周或可确认是否连任；马斯克星链二代，手机直接上卫星（政论天下第773集 20220826）</a></li>
 <li><a href="/bannedvideo/20220827/1776973.md">🔥马云们为啥"在颤抖”？背后水很深！汪洋、李克强留任担任这职位？重庆朋友圈看哭了多少人？老人中暑去世时手里还握着… 重庆强迫一千万居民冒烈日检测 结果令人大跌眼镜【阿波罗网AS】</a></li>
+<li><a href="/cbnews/20220827/1777007.md">天亮时分：两大政策朝令夕改，凸显李克强困境；习近平亲信掌握政法委，下周或可确认是否连任；马斯克星链二代，手机直接上卫星（政论天下第773集 20220826）</a></li>
 <li><a href="/topimagenews/20220827/1777080.md">中共党媒释危险信号！中国经济或面临崩溃边缘【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220827/1776870.md">儿媳惨遭公公压在菜田殴打 婆婆参战拿镰刀猛敲</a></li>
-<li><a href="/cbnews/20220826/1776759.md">司马南“好友”李肃曝光司马南赚钱路径</a></li>
 <li><a href="/topimagenews/20220827/1777078.md">暗评习近平“沉迷于宏大叙事",反习派暗讽“要全国大乱”【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220827/1776981.md">〖微博谈〗中国农业部是世界上最神奇的机构</a></li>
 <li><a href="/cbnews/20220827/1776902.md">“把人逼成鬼”！海南女子深夜扮鬼专走偏僻小道…</a></li>
 <li><a href="/cnnews/20220827/1776907.md">周恩来的狡诈和无情</a></li>
-<li><a href="/ccpdope/20220827/1776899.md">无情的朱德遇到无义的毛泽东</a></li>
-<li><a href="/comments/20220827/1777035.md">中共金融机构拒受中央命令 大陆经济崩盘在即？</a></li>
 <li><a href="/cnnews/20220827/1777032.md">美国19岁巨鹰过机场安检 旅客纷纷拍照</a></li>
+<li><a href="/comments/20220827/1777035.md">中共金融机构拒受中央命令 大陆经济崩盘在即？</a></li>
+<li><a href="/ccpdope/20220827/1776899.md">无情的朱德遇到无义的毛泽东</a></li>
 <li><a href="/bannedvideo/20220827/1776938.md">被握把柄？习近平被普京狠坑 损失巨大 却一声不吭【每日头条】</a></li>
 <li><a href="/cbnews/20220827/1777009.md">河南汝州巨型怪鱼已捕获：一雌一雄 已无害化处理</a></li>
+<li><a href="/topimagenews/20220827/1777119.md">鲍尔8分钟引爆炸弹？美富豪2.3兆没 这大咖比马斯克还惨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
 <li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
 
 </ul>
 </div>
