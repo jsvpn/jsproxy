@@ -11,23 +11,23 @@
 <li><a href="/cnnews/20220827/1776857.md">中国民航已手忙脚乱</a></li>
 <li><a href="/cnnews/20220826/1776713.md">2手房恐怖骗局蔓延中国大城；3只黑天鹅来袭中国重演清陷阱；李克强祭“大招”有用？</a></li>
 <li><a href="/bannedvideo/20220826/1776731.md">🔥习近平犯中共大忌？双标激民怨！中共忽取消出入境核酸申报；普丁成“功臣”了？俄乌战争打不停 美军F35成唯一赢家；NASA公布黑洞声音2亿光年外音档惊呆46万人；美对澳军售20亿美元  LS</a></li>
-<li><a href="/bannedvideo/20220826/1776607.md">20220826直播：习近平到底在干什么？所有人都停在原地焦灼的‘等风向’，等着命运的宣判；独立日的三个没想到，普京插旗招兵。（20220826 第937期）</a></li>
-<li><a href="/topimagenews/20220826/1776692.md">“黑色大黄蜂奈米”发威 乌克兰要悄悄刺探俄军</a></li>
 <li><a href="/comments/20220826/1776806.md">震惊！网传四川乐山一临街店舖下挖出大量人体残骸 疑与器官买卖有关</a></li>
+<li><a href="/topimagenews/20220826/1776692.md">“黑色大黄蜂奈米”发威 乌克兰要悄悄刺探俄军</a></li>
 <li><a href="/cnnews/20220827/1776858.md">期待！iPhone14被曝有这三大功能</a></li>
 <li><a href="/bannedvideo/20220827/1776867.md">专家揭中共高层最大恐惧 习被曝最后一刻下这决定【红朝禁闻】</a></li>
+<li><a href="/topimagenews/20220827/1776952.md">可怜的中国半导体，靠一个笑话活着</a></li>
 <li><a href="/ssgc/20220827/1776896.md">专栏 | 夜话中南海：王小洪和陈一新已经全面接管了中央政法委</a></li>
-<li><a href="/topimagenews/20220826/1776606.md">火力大增！ 美军援乌克兰“吸血鬼”痛宰俄无人机</a></li>
 <li><a href="/cbnews/20220826/1776701.md">珠海防空警报突响，民众吓坏，政府回应傻眼</a></li>
 <li><a href="/bannedvideo/20220827/1776828.md">二十大前波涛汹涌  这些中共老党员豁出去了；深圳，10万人大排长龙…【环球看点】</a></li>
-<li><a href="/topimagenews/20220827/1776952.md">可怜的中国半导体，靠一个笑话活着</a></li>
 <li><a href="/cbnews/20220827/1776870.md">儿媳惨遭公公压在菜田殴打 婆婆参战拿镰刀猛敲</a></li>
 <li><a href="/bannedvideo/20220826/1776722.md">李克强这命令不一般 习剩一招制敌？专家：这两人入常将改变最高权力结构【两岸要闻】</a></li>
+<li><a href="/bannedvideo/20220827/1776951.md">文昭：最猛缩编方案，事业单位裁员66%! 又裁出一个李自成？华为自认进入「喘息期」</a></li>
 <li><a href="/cbnews/20220826/1776759.md">司马南“好友”李肃曝光司马南赚钱路径</a></li>
 <li><a href="/headline/20220826/1776676.md">中国女排与伊朗比赛戴口罩引惊讶 官方道歉</a></li>
 <li><a href="/cbnews/20220827/1776902.md">“把人逼成鬼”！海南女子深夜扮鬼专走偏僻小道…</a></li>
-<li><a href="/bannedvideo/20220827/1776951.md">文昭：最猛缩编方案，事业单位裁员66%! 又裁出一个李自成？华为自认进入「喘息期」</a></li>
 <li><a href="/cnnews/20220826/1776616.md">川普豪宅被搜，美国最“壕”的女人浮出水面</a></li>
+<li><a href="/cnnews/20220827/1776907.md">周恩来的狡诈和无情</a></li>
+<li><a href="/ccpdope/20220827/1776899.md">无情的朱德遇到无义的毛泽东</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220827/1777067.md" target="_blank">美议员：对集权无「灰色地带」 美将宣布对台军售</a></li>
 <li><a href="/comments/20220827/1777044.md" target="_blank">中国14省大旱 粮食危机迫近 旱震理论热传</a></li>
 <li><a href="/comments/20220827/1777043.md" target="_blank">一周内五名高官确诊 香港收紧防疫措施 专家唱反调</a></li>
 <li><a href="/comments/20220827/1777042.md" target="_blank">被迫灌输习讲话 香港启动红色教育</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220827/1776905.md" target="_blank">2022年中国魔幻时刻</a></li>
 <li><a href="/comments/20220827/1776904.md" target="_blank">周晓辉：中共二十大会期待公布 习出席G20有变数</a></li>
 <li><a href="/comments/20220827/1776903.md" target="_blank">大数据说话，疫苗有效率严重造假</a></li>
-<li><a href="/comments/20220827/1776871.md" target="_blank">美参议院访台 中共宣布军演 蔡英文表态</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 <li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 
 </ul>
 </div>
