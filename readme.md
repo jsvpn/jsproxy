@@ -13,11 +13,11 @@
 <li><a href="/topimagenews/20220828/1777447.md">马云们为啥"在颤抖”？背后水很深！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220828/1777299.md">微信海外版重大变更 海外数据上传中国服务器审核</a></li>
 <li><a href="/topimagenews/20220828/1777289.md">这个专家，刚上热搜，就闭嘴了</a></li>
-<li><a href="/cnnews/20220828/1777320.md">举国哗然！太原教堂就这样被拆了</a></li>
 <li><a href="/bannedvideo/20220828/1777368.md">赵立坚重庆翻车！习近平锦州考察现场失窃案！贼直接动手？胡锡进假装没看见美代表团访台</a></li>
+<li><a href="/cnnews/20220828/1777320.md">举国哗然！太原教堂就这样被拆了</a></li>
+<li><a href="/bannedvideo/20220828/1777518.md">🔥习近平“应聘”出面“救党”？大瓜！发布赵立坚抓拍照 赵立坚侄女？ 疑官三代炫富“坑爷”；中国人头顶上的监控摄影机 老大哥在盯着你  LV</a></li>
 <li><a href="/yule/20220828/1777275.md">“史上最高调小三”泰星被捕入狱!好美的脸 好丑的心</a></li>
 <li><a href="/comments/20220828/1777441.md">看了这组新闻 大陆网友悲叹：看来真不景气了</a></li>
-<li><a href="/bannedvideo/20220828/1777518.md">🔥习近平“应聘”出面“救党”？大瓜！发布赵立坚抓拍照 赵立坚侄女？ 疑官三代炫富“坑爷”；中国人头顶上的监控摄影机 老大哥在盯着你  LV</a></li>
 <li><a href="/cbnews/20220828/1777455.md">网友怒骂专家：坐在办公室，吹空调瞎编政策；看新闻联播，感民生世界第一</a></li>
 <li><a href="/ccpdope/20220828/1777430.md">这图片露天机！中共非得免除非洲大爷的债务不可</a></li>
 <li><a href="/cnnews/20220828/1777426.md">穆迪：明年房价恐跌20%“泡沫”期购屋非常可怕</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220829/1777575.md" target="_blank">“习近平不确定未来走向”拜登谈话引关</a></li>
+<li><a href="/comments/20220829/1777574.md" target="_blank">一带一路“血黄金”曝光 中共国企盗采涉炸死16人</a></li>
 <li><a href="/comments/20220829/1777571.md" target="_blank">救房市“奇招”频出 贷期40年父债子偿 网友炸了</a></li>
 <li><a href="/comments/20220829/1777560.md" target="_blank">日本突发登月热潮 将发射多个月球探测器</a></li>
 <li><a href="/comments/20220828/1777554.md" target="_blank">李燕铭：习亲信王小洪和陈一新全面接管中央政法委 王小洪提前热身副国级高职 陈一新向王小洪负责 带刀侍卫王小洪护驾习近平二十大连任 王小洪召开公安系统万人大会 非常喊话传递特殊信号 习近平清洗刀把子严防江曾二十大政变（四三） 习近平连任与二十大常委争夺战（五四）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220828/1777405.md" target="_blank">中俄反对 联合国核不扩散谈判再度破裂 联合国秘书长警告人类面临核毁灭的深渊 全球反共世界变局（十二）</a></li>
 <li><a href="/comments/20220828/1777395.md" target="_blank">北游：杜金娜之死，到底谁干的？</a></li>
 <li><a href="/comments/20220828/1777394.md" target="_blank">胡锦成:一部纷纭美国史，半在黑人骚乱中</a></li>
-<li><a href="/comments/20220828/1777382.md" target="_blank">从“外教杀人事件”，论看待外国人的两种错误方式</a></li>
-<li><a href="/comments/20220828/1777370.md" target="_blank">【杰森视角】中美新协议是给美国挖的坑？台湾的一个能力让美国羨慕，但美国却学不来？任正非说：冬天来了。惹恼习近平！冥冥中，上天两次救了台湾！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
 <li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
 
 </ul>
 </div>
