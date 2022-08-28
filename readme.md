@@ -9,25 +9,25 @@
 <li><a href="/bannedvideo/20220828/1777256.md">拜登语出惊人有何意图？中共被扯掉遮羞布 习也傻眼了【红朝禁闻】</a></li>
 <li><a href="/bannedvideo/20220828/1777243.md">没人理他，习近平埋头数钱</a></li>
 <li><a href="/cnnews/20220828/1777283.md">媒体们改了两次标题 安徽雷击为何这么敏感</a></li>
-<li><a href="/headline/20220827/1777195.md">中共二十大报道：习近平在二十大上会被问责吗？</a></li>
 <li><a href="/bannedvideo/20220828/1777285.md">公务员铁饭碗难保，这次比1990年代更难办；谁的苦日子？百业萧条之际，中共一项收入大增；印钞度难关，这次能行吗？官民矛盾激化，基层官员两面不讨好，或现离职潮。</a></li>
 <li><a href="/yule/20220828/1777232.md">中国女星与小21岁老公离婚 男方哭诉人财两空</a></li>
 <li><a href="/topimagenews/20220828/1777299.md">微信海外版重大变更 海外数据上传中国服务器审核</a></li>
-<li><a href="/topimagenews/20220828/1777447.md">马云们为啥"在颤抖”？背后水很深！【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20220828/1777227.md">高考300分不到的贾浅浅 给名校600分的学生上课</a></li>
 <li><a href="/cbnews/20220828/1777369.md">天亮时分：王沪宁成弃子？只有两种可能；“红三代”坑了叔叔赵立坚，知道为何习近平整马云了吗？大白遭雷劈，与太原拆教堂（政论天下第774集 20220827）</a></li>
+<li><a href="/cnnews/20220828/1777227.md">高考300分不到的贾浅浅 给名校600分的学生上课</a></li>
+<li><a href="/topimagenews/20220828/1777447.md">马云们为啥"在颤抖”？背后水很深！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220828/1777289.md">这个专家，刚上热搜，就闭嘴了</a></li>
 <li><a href="/topimagenews/20220828/1777255.md">乌克兰发布最新数字 俄罗斯战损惊人</a></li>
 <li><a href="/cnnews/20220828/1777320.md">举国哗然！太原教堂就这样被拆了</a></li>
 <li><a href="/bannedvideo/20220828/1777368.md">赵立坚重庆翻车！习近平锦州考察现场失窃案！贼直接动手？胡锡进假装没看见美代表团访台</a></li>
 <li><a href="/yule/20220828/1777275.md">“史上最高调小三”泰星被捕入狱!好美的脸 好丑的心</a></li>
 <li><a href="/comments/20220828/1777441.md">看了这组新闻 大陆网友悲叹：看来真不景气了</a></li>
-<li><a href="/bannedvideo/20220828/1777282.md">🔥丢人现眼！央视直播三星堆记者出事！全网封口删稿；中共疯狂罚款创收，百姓有句话绝了；4亿人三退 前中共法官：动摇了中共政权的根基；韦伯望远镜首度发现：太阳系外行星大气 含二氧化碳【阿波罗网TM】</a></li>
 <li><a href="/cbnews/20220827/1777217.md">不甩美国！解放军定调台海军演出现一个“首次”</a></li>
-<li><a href="/topimagenews/20220828/1777284.md">举报川普的内应身份曝光 前白宫高层说是他</a></li>
+<li><a href="/bannedvideo/20220828/1777282.md">🔥丢人现眼！央视直播三星堆记者出事！全网封口删稿；中共疯狂罚款创收，百姓有句话绝了；4亿人三退 前中共法官：动摇了中共政权的根基；韦伯望远镜首度发现：太阳系外行星大气 含二氧化碳【阿波罗网TM】</a></li>
 <li><a href="/ccpdope/20220828/1777430.md">这图片露天机！中共非得免除非洲大爷的债务不可</a></li>
+<li><a href="/topimagenews/20220828/1777284.md">举报川普的内应身份曝光 前白宫高层说是他</a></li>
 <li><a href="/cbnews/20220828/1777271.md">热搜爆了! 男演员被控家暴,视频画面曝光</a></li>
 <li><a href="/cnnews/20220828/1777426.md">穆迪：明年房价恐跌20%“泡沫”期购屋非常可怕</a></li>
+<li><a href="/bannedvideo/20220828/1777417.md">中美关系彻底凉了？习近平把一件大事要搞砸！中共军企遭曝光！偷偷做这事被抓住了【希望之声TV-国际风云】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220828/1777544.md" target="_blank">华为不忍习近平了？前高管：中国芯片梦泡沫超大</a></li>
+<li><a href="/comments/20220828/1777543.md" target="_blank">年轻人求职难 中国实际失业人口超官方数据2倍</a></li>
+<li><a href="/comments/20220828/1777542.md" target="_blank">在中国大陆无法上映 《沉默呼声》揭开历史真相</a></li>
 <li><a href="/comments/20220828/1777526.md" target="_blank">“神秘光柱”惊现北海道夜空</a></li>
 <li><a href="/comments/20220828/1777511.md" target="_blank">袁红冰：《燃烧的安魂曲》 第十一章    美人嫁给金焰中的微笑</a></li>
 <li><a href="/comments/20220828/1777510.md" target="_blank">索赔超两亿 李小龙女儿诉商标侵权案开庭</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220828/1777362.md" target="_blank">【微博精粹】英科学家：中国这场热浪是本次人类有记录以来从没有过的</a></li>
 <li><a href="/comments/20220828/1777361.md" target="_blank">中国前羽球球后叶钊颖：曾被迫在奥运赛事放水</a></li>
 <li><a href="/comments/20220828/1777360.md" target="_blank">北京高校朝鲜高干子弟班：他们如此雷同</a></li>
-<li><a href="/comments/20220828/1777359.md" target="_blank">澳洲人嫌人畜共患病少?现在又张罗起动物妓院</a></li>
-<li><a href="/comments/20220828/1777316.md" target="_blank">徐媛：无核酸证明车站下跪，怎么全成了老人的错</a></li>
-<li><a href="/comments/20220828/1777315.md" target="_blank">修成铁：太原北寒天主堂被爆破</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
 <li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 
 </ul>
 </div>
