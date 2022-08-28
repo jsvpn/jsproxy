@@ -6,20 +6,18 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20220828/1777351.md">最新内部消息 20大高层名单</a></li>
-<li><a href="/bannedvideo/20220828/1777285.md">公务员铁饭碗难保，这次比1990年代更难办；谁的苦日子？百业萧条之际，中共一项收入大增；印钞度难关，这次能行吗？官民矛盾激化，基层官员两面不讨好，或现离职潮。</a></li>
 <li><a href="/cbnews/20220828/1777369.md">天亮时分：王沪宁成弃子？只有两种可能；“红三代”坑了叔叔赵立坚，知道为何习近平整马云了吗？大白遭雷劈，与太原拆教堂（政论天下第774集 20220827）</a></li>
 <li><a href="/topimagenews/20220828/1777447.md">马云们为啥"在颤抖”？背后水很深！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220828/1777299.md">微信海外版重大变更 海外数据上传中国服务器审核</a></li>
 <li><a href="/topimagenews/20220828/1777289.md">这个专家，刚上热搜，就闭嘴了</a></li>
 <li><a href="/bannedvideo/20220828/1777368.md">赵立坚重庆翻车！习近平锦州考察现场失窃案！贼直接动手？胡锡进假装没看见美代表团访台</a></li>
 <li><a href="/cnnews/20220828/1777320.md">举国哗然！太原教堂就这样被拆了</a></li>
-<li><a href="/bannedvideo/20220828/1777518.md">🔥习近平“应聘”出面“救党”？大瓜！发布赵立坚抓拍照 赵立坚侄女？ 疑官三代炫富“坑爷”；中国人头顶上的监控摄影机 老大哥在盯着你  LV</a></li>
 <li><a href="/comments/20220828/1777441.md">看了这组新闻 大陆网友悲叹：看来真不景气了</a></li>
+<li><a href="/bannedvideo/20220828/1777518.md">🔥习近平“应聘”出面“救党”？大瓜！发布赵立坚抓拍照 赵立坚侄女？ 疑官三代炫富“坑爷”；中国人头顶上的监控摄影机 老大哥在盯着你  LV</a></li>
 <li><a href="/cbnews/20220828/1777455.md">网友怒骂专家：坐在办公室，吹空调瞎编政策；看新闻联播，感民生世界第一</a></li>
 <li><a href="/ccpdope/20220828/1777430.md">这图片露天机！中共非得免除非洲大爷的债务不可</a></li>
 <li><a href="/cnnews/20220828/1777426.md">穆迪：明年房价恐跌20%“泡沫”期购屋非常可怕</a></li>
 <li><a href="/bannedvideo/20220828/1777417.md">中美关系彻底凉了？习近平把一件大事要搞砸！中共军企遭曝光！偷偷做这事被抓住了【希望之声TV-国际风云】</a></li>
-<li><a href="/topimagenews/20220828/1777284.md">举报川普的内应身份曝光 前白宫高层说是他</a></li>
 <li><a href="/cbnews/20220828/1777352.md">陕西夫妇卖5斤芹菜遭罚6.6万 舆情惊动国务院督查组</a></li>
 <li><a href="/cnnews/20220828/1777387.md">疑住所卖春 纽约法拉盛华女被刺身亡</a></li>
 <li><a href="/ssgc/20220828/1777403.md">〖微博谈〗有多少人没有熬过这个夏天？</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/topimagenews/20220828/1777407.md">快讯：佩洛西访台后首次 美军舰通过台海</a></li>
 <li><a href="/cnnews/20220828/1777319.md">上海踹伤人的熊孩子父亲被拘留！母亲：我们家没错</a></li>
 <li><a href="/bannedvideo/20220828/1777534.md">文睿：又消失十天，“总方针”完了，习近平出大笑话了</a></li>
+<li><a href="/cbnews/20220828/1777559.md">中国美女留学生在法国捡垃圾吃走红，被骂惨了</a></li>
 <li><a href="/comments/20220828/1777465.md">湿疹、疲劳、慢病…这些身体常见问题都与缺乏它有关</a></li>
+<li><a href="/bannedvideo/20220828/1777517.md">川普赢得首场法庭胜利，打破司法部暗箱操作。公开宣誓书，加兰暗中使坏。前FBI高官：民主党会后悔的。突袭海湖庄园将成为他们噩梦的开始。</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220829/1777599.md" target="_blank">毛泽东最初并不想要台湾？</a></li>
 <li><a href="/topimagenews/20220829/1777590.md" target="_blank">全网炸锅！中国历史研究院“闭国锁国有利论”</a></li>
 <li><a href="/topimagenews/20220828/1777447.md" target="_blank">马云们为啥&#8221;在颤抖”？背后水很深！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220828/1777446.md" target="_blank">内幕浮出…安倍遇刺当天 岸田弱化安倍派 【阿波罗网报道】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220826/1776662.md" target="_blank">被反攻大陆？ 广东珠海惊传防空警报 官方急澄清</a></li>
 <li><a href="/topimagenews/20220826/1776661.md" target="_blank">任正非为何突然高喊“活下来”?专家:意在“敲打中央”有政治目的</a></li>
 <li><a href="/topimagenews/20220826/1776632.md" target="_blank">江系曝料习备战共军动态：1秒4000米！实测高超音速子弹杀伤力太惊人</a></li>
-<li><a href="/topimagenews/20220826/1776606.md" target="_blank">火力大增！ 美军援乌克兰“吸血鬼”痛宰俄无人机</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
 
 </ul>
 </div>
