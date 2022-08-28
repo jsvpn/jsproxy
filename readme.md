@@ -12,10 +12,9 @@
 <li><a href="/bannedvideo/20220828/1777243.md">没人理他，习近平埋头数钱</a></li>
 <li><a href="/yule/20220828/1777232.md">中国女星与小21岁老公离婚 男方哭诉人财两空</a></li>
 <li><a href="/headline/20220827/1777195.md">中共二十大报道：习近平在二十大上会被问责吗？</a></li>
-<li><a href="/bannedvideo/20220827/1777153.md">司马南刚被社会主义铁拳打脸6次  最新又挨了一拳 联播102C</a></li>
 <li><a href="/topimagenews/20220828/1777299.md">微信海外版重大变更 海外数据上传中国服务器审核</a></li>
-<li><a href="/cnnews/20220828/1777227.md">高考300分不到的贾浅浅 给名校600分的学生上课</a></li>
 <li><a href="/bannedvideo/20220828/1777285.md">公务员铁饭碗难保，这次比1990年代更难办；谁的苦日子？百业萧条之际，中共一项收入大增；印钞度难关，这次能行吗？官民矛盾激化，基层官员两面不讨好，或现离职潮。</a></li>
+<li><a href="/cnnews/20220828/1777227.md">高考300分不到的贾浅浅 给名校600分的学生上课</a></li>
 <li><a href="/topimagenews/20220828/1777289.md">这个专家，刚上热搜，就闭嘴了</a></li>
 <li><a href="/cbnews/20220828/1777369.md">天亮时分：王沪宁成弃子？只有两种可能；“红三代”坑了叔叔赵立坚，知道为何习近平整马云了吗？大白遭雷劈，与太原拆教堂（政论天下第774集 20220827）</a></li>
 <li><a href="/cnnews/20220828/1777320.md">举国哗然！太原教堂就这样被拆了</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/bannedvideo/20220828/1777282.md">🔥丢人现眼！央视直播三星堆记者出事！全网封口删稿；中共疯狂罚款创收，百姓有句话绝了；4亿人三退 前中共法官：动摇了中共政权的根基；韦伯望远镜首度发现：太阳系外行星大气 含二氧化碳【阿波罗网TM】</a></li>
 <li><a href="/topimagenews/20220828/1777284.md">举报川普的内应身份曝光 前白宫高层说是他</a></li>
 <li><a href="/cbnews/20220828/1777271.md">热搜爆了! 男演员被控家暴,视频画面曝光</a></li>
-<li><a href="/bannedvideo/20220827/1777154.md">🔥习近平失控？临战状态空前扩权；拜登最新讲话戳破习迷失方向；美国中期选举 民主党候选人不敢请拜登助阵；拜登签行政令 加速实施《芯片法案》对抗中共【阿波罗网FT】</a></li>
+<li><a href="/topimagenews/20220828/1777447.md">马云们为啥"在颤抖”？背后水很深！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220828/1777352.md">陕西夫妇卖5斤芹菜遭罚6.6万 舆情惊动国务院督查组</a></li>
+<li><a href="/cnnews/20220828/1777387.md">疑住所卖春 纽约法拉盛华女被刺身亡</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220828/1777511.md" target="_blank">袁红冰：《燃烧的安魂曲》 第十一章    美人嫁给金焰中的微笑</a></li>
+<li><a href="/comments/20220828/1777510.md" target="_blank">索赔超两亿 李小龙女儿诉商标侵权案开庭</a></li>
 <li><a href="/comments/20220828/1777496.md" target="_blank">〈仙人指路〉</a></li>
 <li><a href="/comments/20220828/1777465.md" target="_blank">湿疹、疲劳、慢病…这些身体常见问题都与缺乏它有关</a></li>
 <li><a href="/comments/20220828/1777464.md" target="_blank">研究：每天吃两杯葡萄可以更长寿</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220828/1777316.md" target="_blank">徐媛：无核酸证明车站下跪，怎么全成了老人的错</a></li>
 <li><a href="/comments/20220828/1777315.md" target="_blank">修成铁：太原北寒天主堂被爆破</a></li>
 <li><a href="/comments/20220828/1777303.md" target="_blank">林保华：从“废死”看“左胶”</a></li>
-<li><a href="/comments/20220828/1777302.md" target="_blank">觅真：犯下重罪的司法部唐一军们</a></li>
-<li><a href="/comments/20220828/1777301.md" target="_blank">第四次工业革命助台增强军力</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
 
 </ul>
 </div>
