@@ -14,20 +14,20 @@
 <li><a href="/cnnews/20220829/1777840.md">易中天也被禁？以后大人孩子能看的书越来越少了</a></li>
 <li><a href="/topimagenews/20220829/1777893.md">43万网友怒了！河北通报：上访的9人全被拘留！【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220830/1777954.md">“突发！川普刚刚声明：FBI干涉选举 即刻宣布2020年选举作废”Shitao TV - 01 (29/08/22) 并立即进行重新选举！</a></li>
-<li><a href="/ssgc/20220829/1777816.md">赵立坚姪女拟高调炫富后 抖音帐号被清空惹外界质疑</a></li>
 <li><a href="/topimagenews/20220830/1778150.md">【微博精粹】赵立坚侄女月入千万 知道她怎么发的 小粉红就要变红卫兵了</a></li>
 <li><a href="/cnnews/20220830/1777987.md">巴基斯坦怪物级暴雨！豪华酒店“如骨牌倒塌”惊人画面</a></li>
 <li><a href="/ssgc/20220830/1778003.md">〖兲朝浮世绘〗疫情不可怕人疫才可怕，这是封城阴霾下民众的呐喊</a></li>
 <li><a href="/cnnews/20220829/1777838.md">卸磨杀驴，重庆救火志愿者：那我们做坏人好了</a></li>
 <li><a href="/worldnews/20220830/1777972.md">你们别走啊 联合国仅剩这些支持反俄决议</a></li>
 <li><a href="/bannedvideo/20220830/1778036.md">文昭：美军飞机连续两天闯入中国领空！深圳逆转，李中堂局面生变；对三峡工程一项未公开的研究</a></li>
-<li><a href="/bannedvideo/20220830/1778000.md">崩塌！中国又有银行倒闭 酝酿更大风暴；俄侵乌受制裁经济未倒？专家解析【财经慧眼】</a></li>
-<li><a href="/topimagenews/20220830/1778037.md">中国人看到崩溃 跨领域学习 “历史考题跨物理”</a></li>
 <li><a href="/topimagenews/20220830/1778141.md">普丁能源战惨败？欧洲大国不缺天然气了！真实现况曝光</a></li>
-<li><a href="/ssgc/20220829/1777873.md">中共全方位加速灭亡，中国人应自救</a></li>
+<li><a href="/topimagenews/20220830/1778037.md">中国人看到崩溃 跨领域学习 “历史考题跨物理”</a></li>
+<li><a href="/bannedvideo/20220830/1778000.md">崩塌！中国又有银行倒闭 酝酿更大风暴；俄侵乌受制裁经济未倒？专家解析【财经慧眼】</a></li>
 <li><a href="/cbnews/20220830/1778013.md">上海一新郎结婚当天被封控 新娘和人形牌完婚</a></li>
+<li><a href="/ssgc/20220829/1777873.md">中共全方位加速灭亡，中国人应自救</a></li>
 <li><a href="/cnnews/20220830/1778015.md">华人大妈在美国当老鸨 被驱逐出境</a></li>
 <li><a href="/topimagenews/20220829/1777827.md">清零防疫！深圳“中国电子第一街”停业4天 24地铁站不开放</a></li>
+<li><a href="/cnnews/20220830/1777953.md">鄱阳湖枯水见底 2930米明代石桥露“真容”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/bannedvideo/20220527/1738329.md" target="_blank">没有中共篡改的中华文明史｜大宇新闻拍案惊奇&#038;天亮时分 联合呈现</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 <li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
 
 </ul>
 </div>
