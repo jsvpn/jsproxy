@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20220830/1778293.md">中共“二十大”日期敲定 10/16北京登场</a></li>
 <li><a href="/topimagenews/20220830/1778141.md">普丁能源战惨败？欧洲大国不缺天然气了！真实现况曝光</a></li>
 <li><a href="/headline/20220830/1778224.md">为保20大不失控 北京周边400万居民被隔离</a></li>
-<li><a href="/headline/20220830/1778304.md">法新社：中共公告召开党代会，习近平的未来被提上日程</a></li>
 <li><a href="/bannedvideo/20220830/1778194.md">文睿：财政崩塌，公务员下狠手了，“造反”不远了</a></li>
+<li><a href="/headline/20220830/1778304.md">法新社：中共公告召开党代会，习近平的未来被提上日程</a></li>
 <li><a href="/ssgc/20220830/1778169.md">〖微博谈〗一路滑行20年</a></li>
 <li><a href="/ssgc/20220830/1778326.md">王小洪近日讲话透三大信息</a></li>
 <li><a href="/ssgc/20220830/1778275.md">中共二十大１０月１６日北京召开</a></li>
-<li><a href="/bannedvideo/20220830/1778267.md">习近平试水“自主限关”？胡锡进洗地！中国历史研究院突然为“闭关锁国”翻案……</a></li>
 <li><a href="/cnnews/20220831/1778416.md">加拿大41岁中国女子惨死！全身最坚硬骨头被摧毁</a></li>
+<li><a href="/bannedvideo/20220830/1778267.md">习近平试水“自主限关”？胡锡进洗地！中国历史研究院突然为“闭关锁国”翻案……</a></li>
 <li><a href="/headline/20220831/1778396.md">二十大定十月中召开 延习核心推民族复兴 评论：高层分歧公开化</a></li>
+<li><a href="/topimagenews/20220831/1778462.md">这个连坐制真的是震惊了！简直让人毁三观</a></li>
 <li><a href="/ssgc/20220830/1778337.md">习近平为何还能稳坐江山？</a></li>
 <li><a href="/health/20220830/1778255.md">肺癌“不痛不痒”？身体出现3种症状要警惕了</a></li>
-<li><a href="/topimagenews/20220831/1778462.md">这个连坐制真的是震惊了！简直让人毁三观</a></li>
-<li><a href="/cnnews/20220830/1778366.md">“百万人清场”全球大崩盘 他警告：超越2008金融风暴</a></li>
 <li><a href="/headline/20220831/1778426.md">二十大日期敲定 迎"新时代"还是"习时代"?</a></li>
+<li><a href="/cnnews/20220830/1778366.md">“百万人清场”全球大崩盘 他警告：超越2008金融风暴</a></li>
 <li><a href="/cbnews/20220830/1778172.md">江峰：闭关锁国是为了抵抗侵略，义和团是正义之师，习近平距离亡国慈禧究竟有多远？唐山烧烤结案被害人仍下落不明。江峰朋友大雄作品国内被禁，海外入围奥斯卡【江峰漫谈20220829第538期】</a></li>
 <li><a href="/baitai/20220830/1778226.md">没想到吧？赫尔松反攻从这里打响——不对称竞争和普京的扩军，意味着什么烧脑的结果？</a></li>
-<li><a href="/bannedvideo/20220830/1778179.md">20220830直播：除了宁夏全部沦陷！中国哪来这么大疫情？唐山打人事件最后变成了一场宣传秀；应勇起复？归政国务院迹象明显；乌克兰大反攻开始了。（20220830 第940期）</a></li>
 <li><a href="/bannedvideo/20220830/1778322.md">文睿：快讯：二十大出炉，习近平现身，一句话定调</a></li>
+<li><a href="/topimagenews/20220830/1778254.md">长江面临61年来最严重干旱!农民:中稻肯定已绝收…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220831/1778561.md" target="_blank">愚昧﹑愚忠﹑愚弄：上诈下愚，苦难无终期</a></li>
 <li><a href="/comments/20220831/1778539.md" target="_blank">孙立平：理解眼下：我最近提出的两个概念</a></li>
 <li><a href="/comments/20220831/1778538.md" target="_blank">小炒君：有能力全民核酸，就有能力全民免费医疗</a></li>
 <li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220831/1778421.md" target="_blank">东山再起！ 传习近平亲信应勇将升任副国级</a></li>
 <li><a href="/comments/20220831/1778420.md" target="_blank">北京宣布20大召开时间 多地疫情反扑 首都被红色包围</a></li>
 <li><a href="/comments/20220831/1778401.md" target="_blank">黎智英就手机内容被查提司法覆核败诉 即再申请上诉</a></li>
-<li><a href="/comments/20220831/1778392.md" target="_blank">天普市入室抢劫案 1男子被枪击2女子被捆绑</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 <li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
 
 </ul>
 </div>
