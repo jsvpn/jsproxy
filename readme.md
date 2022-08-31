@@ -8,26 +8,26 @@
 <li><a href="/bannedvideo/20220830/1778286.md">太意外！二十大前这一习派核心突生变 王小洪暗示谁是真老大【两岸要闻】</a></li>
 <li><a href="/headline/20220830/1778241.md">传应勇或将晋升为国家领导人</a></li>
 <li><a href="/topimagenews/20220830/1778150.md">【微博精粹】赵立坚侄女月入千万 知道她怎么发的 小粉红就要变红卫兵了</a></li>
-<li><a href="/bannedvideo/20220830/1778036.md">文昭：美军飞机连续两天闯入中国领空！深圳逆转，李中堂局面生变；对三峡工程一项未公开的研究</a></li>
 <li><a href="/topimagenews/20220830/1778293.md">中共“二十大”日期敲定 10/16北京登场</a></li>
 <li><a href="/topimagenews/20220830/1778141.md">普丁能源战惨败？欧洲大国不缺天然气了！真实现况曝光</a></li>
-<li><a href="/topimagenews/20220830/1778037.md">中国人看到崩溃 跨领域学习 “历史考题跨物理”</a></li>
 <li><a href="/headline/20220830/1778224.md">为保20大不失控 北京周边400万居民被隔离</a></li>
 <li><a href="/headline/20220830/1778304.md">法新社：中共公告召开党代会，习近平的未来被提上日程</a></li>
-<li><a href="/ssgc/20220830/1778326.md">王小洪近日讲话透三大信息</a></li>
 <li><a href="/ssgc/20220830/1778275.md">中共二十大１０月１６日北京召开</a></li>
+<li><a href="/ssgc/20220830/1778326.md">王小洪近日讲话透三大信息</a></li>
 <li><a href="/ssgc/20220830/1778169.md">〖微博谈〗一路滑行20年</a></li>
 <li><a href="/bannedvideo/20220830/1778194.md">文睿：财政崩塌，公务员下狠手了，“造反”不远了</a></li>
 <li><a href="/bannedvideo/20220830/1778267.md">习近平试水“自主限关”？胡锡进洗地！中国历史研究院突然为“闭关锁国”翻案……</a></li>
-<li><a href="/ssgc/20220830/1778337.md">习近平为何还能稳坐江山？</a></li>
 <li><a href="/headline/20220831/1778396.md">二十大定十月中召开 延习核心推民族复兴 评论：高层分歧公开化</a></li>
-<li><a href="/cbnews/20220830/1778038.md">中国多地居民非必要不出户 武汉推出健康码灰码</a></li>
+<li><a href="/ssgc/20220830/1778337.md">习近平为何还能稳坐江山？</a></li>
+<li><a href="/cnnews/20220831/1778416.md">加拿大41岁中国女子惨死！全身最坚硬骨头被摧毁</a></li>
 <li><a href="/cnnews/20220830/1778366.md">“百万人清场”全球大崩盘 他警告：超越2008金融风暴</a></li>
 <li><a href="/health/20220830/1778255.md">肺癌“不痛不痒”？身体出现3种症状要警惕了</a></li>
-<li><a href="/cnnews/20220831/1778416.md">加拿大41岁中国女子惨死！全身最坚硬骨头被摧毁</a></li>
-<li><a href="/cbnews/20220830/1778172.md">江峰：闭关锁国是为了抵抗侵略，义和团是正义之师，习近平距离亡国慈禧究竟有多远？唐山烧烤结案被害人仍下落不明。江峰朋友大雄作品国内被禁，海外入围奥斯卡【江峰漫谈20220829第538期】</a></li>
 <li><a href="/baitai/20220830/1778226.md">没想到吧？赫尔松反攻从这里打响——不对称竞争和普京的扩军，意味着什么烧脑的结果？</a></li>
+<li><a href="/cbnews/20220830/1778172.md">江峰：闭关锁国是为了抵抗侵略，义和团是正义之师，习近平距离亡国慈禧究竟有多远？唐山烧烤结案被害人仍下落不明。江峰朋友大雄作品国内被禁，海外入围奥斯卡【江峰漫谈20220829第538期】</a></li>
+<li><a href="/bannedvideo/20220830/1778322.md">文睿：快讯：二十大出炉，习近平现身，一句话定调</a></li>
 <li><a href="/bannedvideo/20220830/1778179.md">20220830直播：除了宁夏全部沦陷！中国哪来这么大疫情？唐山打人事件最后变成了一场宣传秀；应勇起复？归政国务院迹象明显；乌克兰大反攻开始了。（20220830 第940期）</a></li>
+<li><a href="/topimagenews/20220830/1778254.md">长江面临61年来最严重干旱!农民:中稻肯定已绝收…</a></li>
+<li><a href="/weiquan/20220830/1778182.md">上海公民俞忠欢&#65306;谋财害命的政府&#65292;还我房产还我老婆&#8212;&#8212;致中共上海市委书记李强的信</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220831/1778485.md" target="_blank">闭关锁国，对于任何史观都是错误的</a></li>
 <li><a href="/comments/20220831/1778479.md" target="_blank">西坡原创:疫情，聊不动了</a></li>
 <li><a href="/comments/20220831/1778478.md" target="_blank">王丹:习近平为何还能稳坐江山？</a></li>
 <li><a href="/comments/20220831/1778477.md" target="_blank">美军刚刚又踩了大红线，中共为什么还不开战？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220830/1778299.md" target="_blank">德媒：普京小女儿曾频飞德国约会“泽连斯基” 总统卫队保镖随从</a></li>
 <li><a href="/comments/20220830/1778296.md" target="_blank">【财经拆局】香港高等学院成内地「润学」三甲</a></li>
 <li><a href="/comments/20220830/1778289.md" target="_blank">【简讯】中共二十大召开时间出炉</a></li>
-<li><a href="/comments/20220830/1778288.md" target="_blank">通胀预期加深 欧洲央行9月份将“暴力加息”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
 
 </ul>
 </div>
