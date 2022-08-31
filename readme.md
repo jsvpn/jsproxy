@@ -9,10 +9,9 @@
 <li><a href="/headline/20220830/1778241.md">传应勇或将晋升为国家领导人</a></li>
 <li><a href="/topimagenews/20220830/1778150.md">【微博精粹】赵立坚侄女月入千万 知道她怎么发的 小粉红就要变红卫兵了</a></li>
 <li><a href="/topimagenews/20220830/1778293.md">中共“二十大”日期敲定 10/16北京登场</a></li>
-<li><a href="/topimagenews/20220830/1778141.md">普丁能源战惨败？欧洲大国不缺天然气了！真实现况曝光</a></li>
 <li><a href="/headline/20220830/1778224.md">为保20大不失控 北京周边400万居民被隔离</a></li>
-<li><a href="/bannedvideo/20220830/1778194.md">文睿：财政崩塌，公务员下狠手了，“造反”不远了</a></li>
 <li><a href="/headline/20220830/1778304.md">法新社：中共公告召开党代会，习近平的未来被提上日程</a></li>
+<li><a href="/bannedvideo/20220830/1778194.md">文睿：财政崩塌，公务员下狠手了，“造反”不远了</a></li>
 <li><a href="/ssgc/20220830/1778169.md">〖微博谈〗一路滑行20年</a></li>
 <li><a href="/ssgc/20220830/1778326.md">王小洪近日讲话透三大信息</a></li>
 <li><a href="/ssgc/20220830/1778275.md">中共二十大１０月１６日北京召开</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/bannedvideo/20220830/1778267.md">习近平试水“自主限关”？胡锡进洗地！中国历史研究院突然为“闭关锁国”翻案……</a></li>
 <li><a href="/topimagenews/20220831/1778462.md">这个连坐制真的是震惊了！简直让人毁三观</a></li>
 <li><a href="/headline/20220831/1778396.md">二十大定十月中召开 延习核心推民族复兴 评论：高层分歧公开化</a></li>
-<li><a href="/ssgc/20220830/1778337.md">习近平为何还能稳坐江山？</a></li>
 <li><a href="/headline/20220831/1778426.md">二十大日期敲定 迎"新时代"还是"习时代"?</a></li>
+<li><a href="/ssgc/20220830/1778337.md">习近平为何还能稳坐江山？</a></li>
 <li><a href="/health/20220830/1778255.md">肺癌“不痛不痒”？身体出现3种症状要警惕了</a></li>
 <li><a href="/cnnews/20220830/1778366.md">“百万人清场”全球大崩盘 他警告：超越2008金融风暴</a></li>
 <li><a href="/cbnews/20220830/1778172.md">江峰：闭关锁国是为了抵抗侵略，义和团是正义之师，习近平距离亡国慈禧究竟有多远？唐山烧烤结案被害人仍下落不明。江峰朋友大雄作品国内被禁，海外入围奥斯卡【江峰漫谈20220829第538期】</a></li>
-<li><a href="/baitai/20220830/1778226.md">没想到吧？赫尔松反攻从这里打响——不对称竞争和普京的扩军，意味着什么烧脑的结果？</a></li>
-<li><a href="/bannedvideo/20220830/1778322.md">文睿：快讯：二十大出炉，习近平现身，一句话定调</a></li>
 <li><a href="/bannedvideo/20220831/1778414.md">唐山受H女“现身” 中央级插手水极深【红朝禁闻】</a></li>
+<li><a href="/bannedvideo/20220830/1778322.md">文睿：快讯：二十大出炉，习近平现身，一句话定调</a></li>
+<li><a href="/baitai/20220830/1778226.md">没想到吧？赫尔松反攻从这里打响——不对称竞争和普京的扩军，意味着什么烧脑的结果？</a></li>
+<li><a href="/cnnews/20220831/1778418.md">传杀杜金爱女凶嫌身中17刀惨死 第2凶嫌身份公布</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
 
 </ul>
 </div>
