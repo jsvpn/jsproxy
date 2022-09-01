@@ -9,8 +9,8 @@
 <li><a href="/cbnews/20220831/1778639.md">习近平政治局会议遭遇阻力 这些文件中没有习近平的名字了【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220831/1778587.md">大陆9月起新规上路包含离境出行、教育、租屋</a></li>
 <li><a href="/bannedvideo/20220831/1778708.md">政治局这安排太反常 习到站下车？党媒这段是重点【两岸要闻】</a></li>
-<li><a href="/cnnews/20220831/1778577.md">强逼死对头引退 江泽民最终自尝苦果</a></li>
 <li><a href="/bannedvideo/20220831/1778715.md">🔥李克强去留已定？下任总理这2人2选1；中共新规9月起上路，含离境出行教育租屋；中国律师呼吁UN认定：中共指定居所监视居住是强迫失踪；谷歌拒川普社交App；曹30亿反共资金用途</a></li>
+<li><a href="/cnnews/20220831/1778577.md">强逼死对头引退 江泽民最终自尝苦果</a></li>
 <li><a href="/cbnews/20220831/1778781.md">中共20大将登场！路透社估习近平“地位变化”：想当毛泽东</a></li>
 <li><a href="/topimagenews/20220831/1778624.md">又崩了！10万人爆仓；上海陆家嘴也沦陷 1/3店铺关门；炸了！北京推父债子偿</a></li>
 <li><a href="/topimagenews/20220831/1778629.md">俄军紧急关机也躲不掉!乌克兰公布作战画面：米格-29发射美制反雷达导弹</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/baitai/20220831/1778711.md">深瞳印象｜又有女网友炫夫了 “从五品吏从走到一品大员，我选择的老公不会错”</a></li>
 <li><a href="/cnnews/20220831/1778648.md">习近平政治局会议遭遇阻力？这300人有决定权？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220831/1778687.md">外企疯狂撤出 普丁没在怕？美媒爆俄国变“陆货天下”</a></li>
-<li><a href="/cnnews/20220831/1778666.md">小米手机卖不动了?雷军3个月解雇900人 当年一起喝小米粥的元老也离职..</a></li>
+<li><a href="/topimagenews/20220901/1778899.md">北大才子出走美国任教，临走前留3句话</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220901/1779001.md" target="_blank">“让所有人上大学，是本世纪最愚蠢的事情”</a></li>
 <li><a href="/comments/20220901/1778969.md" target="_blank">又有女网友炫夫了“从五品吏从走到一品大员，我选择的老公不会错”</a></li>
 <li><a href="/comments/20220901/1778968.md" target="_blank">戈尔巴乔夫逝世，至少作为中国人，你应该感谢他</a></li>
 <li><a href="/comments/20220901/1778961.md" target="_blank">戈尔巴乔夫逝世 各国政要缅怀哀悼</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220901/1778840.md" target="_blank">豆浆是个好东西 四个年龄阶段这样喝 更有益于养生</a></li>
 <li><a href="/comments/20220901/1778833.md" target="_blank">专栏 | 劳工通讯：山东济宁梁山建筑公司停发社保(一)</a></li>
 <li><a href="/comments/20220901/1778829.md" target="_blank">华裔男诈骗亚马逊130万美元 获判18个月</a></li>
-<li><a href="/comments/20220901/1778820.md" target="_blank">广西城管把小区给整解封了 网友：防疫原来是个笑话</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
 <li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
 
 </ul>
 </div>
