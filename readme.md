@@ -18,16 +18,16 @@
 <li><a href="/cnnews/20220901/1778913.md">郑州10岁男孩一直开灯睡觉，去医院一查：惊呆了</a></li>
 <li><a href="/cnnews/20220901/1779126.md">又一个上海！成都宣布1日晚6点起封城 发消息指可能封城 成都一网民遭警方关半月</a></li>
 <li><a href="/bannedvideo/20220901/1779102.md">💥习不立“储君”有难言之隐！美媒预测李克强最可能的接班人选；台自制武器曾在伊拉克战场与中共装备较量；习近平麾下智库，发文公开反清零，一日封杀！泄露当局秘辛；中共害怕戈巴乔夫之死｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/topimagenews/20220901/1779040.md">福建渔民挖起泥巴丢掷 精准击落中国无人机</a></li>
 <li><a href="/cnnews/20220901/1778948.md">福布斯全美大学排行：哈佛跌出10名外，第一是…</a></li>
+<li><a href="/topimagenews/20220901/1779040.md">福建渔民挖起泥巴丢掷 精准击落中国无人机</a></li>
 <li><a href="/cnnews/20220901/1779127.md">还以颜色？疑似金门无人机飞厦门军营空拍 共军紧急应变影片疯传</a></li>
 <li><a href="/ssgc/20220901/1779064.md">〖兲朝浮世绘〗久病床前无孝子 俄爹抱怨儿子靠不住</a></li>
-<li><a href="/topimagenews/20220901/1779089.md">大外宣公开耍流氓！五十年不变竟然这样解释【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220901/1778915.md">田震在澳洲当土豪背后，中国富人垄断投资移民</a></li>
+<li><a href="/topimagenews/20220901/1779089.md">大外宣公开耍流氓！五十年不变竟然这样解释【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220901/1778891.md">🔥习近平政治局会议遭遇阻力？这300人有决定权？中共二十大充满变量 民心思变；中国一名资产十亿的青年企业家全家润往加拿大 公开祝李洪志大师中秋节快乐【阿波罗网TL】</a></li>
-<li><a href="/bannedvideo/20220901/1778894.md">金门国军连续实弹射击，台无人机“反攻”厦门共军基地！台海危机升温，无人机攻防战会否引发冲突失控？戈尔巴乔夫去世，习近平“男儿”误区究竟在哪里？</a></li>
+<li><a href="/topimagenews/20220901/1779176.md">王毅硬塞“5个应当”政策 韩智库大骂:高压破坏中韩关系 无礼且无耻</a></li>
 <li><a href="/ssgc/20220901/1778991.md">〖微博谈〗真是笔好生意</a></li>
-<li><a href="/comments/20220901/1778912.md">钟原：二十大人事或定盘 “改革开放”又消失？</a></li>
+<li><a href="/bannedvideo/20220901/1778894.md">金门国军连续实弹射击，台无人机“反攻”厦门共军基地！台海危机升温，无人机攻防战会否引发冲突失控？戈尔巴乔夫去世，习近平“男儿”误区究竟在哪里？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 <li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 
 </ul>
 </div>
