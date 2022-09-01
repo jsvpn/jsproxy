@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cbnews/20220831/1778781.md">中共20大将登场！路透社估习近平“地位变化”：想当毛泽东</a></li>
 <li><a href="/topimagenews/20220901/1778898.md">不作不死：女网友炫夫“从五品吏从走到一品大员”</a></li>
 <li><a href="/topimagenews/20220901/1778899.md">北大才子出走美国任教，临走前留3句话</a></li>
-<li><a href="/cnnews/20220831/1778785.md">惊曝！武汉病毒研究所正掩盖一种全新病毒</a></li>
 <li><a href="/cnnews/20220901/1778926.md">怒了！美国西南航空机长广播喊话：再传裸照就掉头</a></li>
 <li><a href="/cnnews/20220901/1778824.md">大连708路公交车惊现这一幕，这下全国出名了</a></li>
 <li><a href="/cnnews/20220901/1778914.md">上海人懵了：这是个啥？有人直接被吓哭</a></li>
@@ -18,16 +16,18 @@
 <li><a href="/topimagenews/20220901/1779074.md">微博疯传！网友纷纷发帖力挺 建议向全国推广【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220901/1778913.md">郑州10岁男孩一直开灯睡觉，去医院一查：惊呆了</a></li>
 <li><a href="/comments/20220901/1778880.md">中共二十大将是习近平“加冕”仪式？分析：这些挑战等着他</a></li>
-<li><a href="/bannedvideo/20220901/1779102.md">💥习不立“储君”有难言之隐！美媒预测李克强最可能的接班人选；台自制武器曾在伊拉克战场与中共装备较量；习近平麾下智库，发文公开反清零，一日封杀！泄露当局秘辛；中共害怕戈巴乔夫之死｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/cnnews/20220901/1779126.md">又一个上海！成都宣布1日晚6点起封城 发消息指可能封城 成都一网民遭警方关半月</a></li>
-<li><a href="/topimagenews/20220901/1779040.md">福建渔民挖起泥巴丢掷 精准击落中国无人机</a></li>
 <li><a href="/bannedvideo/20220901/1779162.md">🔥重磅！联合国最后一刻发布，中共惨了；警察说20大要开，之前就要抓一些人；乌克兰突发奇想，坑了俄军；美国限制辉达、超微高级AI芯片销售给中共【阿波罗网AY】</a></li>
-<li><a href="/cnnews/20220901/1778948.md">福布斯全美大学排行：哈佛跌出10名外，第一是…</a></li>
+<li><a href="/cnnews/20220901/1779126.md">又一个上海！成都宣布1日晚6点起封城 发消息指可能封城 成都一网民遭警方关半月</a></li>
+<li><a href="/bannedvideo/20220901/1779102.md">💥习不立“储君”有难言之隐！美媒预测李克强最可能的接班人选；台自制武器曾在伊拉克战场与中共装备较量；习近平麾下智库，发文公开反清零，一日封杀！泄露当局秘辛；中共害怕戈巴乔夫之死｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20220901/1779127.md">还以颜色？疑似金门无人机飞厦门军营空拍 共军紧急应变影片疯传</a></li>
+<li><a href="/topimagenews/20220901/1779040.md">福建渔民挖起泥巴丢掷 精准击落中国无人机</a></li>
+<li><a href="/cnnews/20220901/1778948.md">福布斯全美大学排行：哈佛跌出10名外，第一是…</a></li>
 <li><a href="/comments/20220901/1778820.md">广西城管把小区给整解封了 网友：防疫原来是个笑话</a></li>
-<li><a href="/ssgc/20220901/1779064.md">〖兲朝浮世绘〗久病床前无孝子 俄爹抱怨儿子靠不住</a></li>
 <li><a href="/cnnews/20220831/1778798.md">别急着买iPhone 14？“3关键”再等1年换iPhone 15</a></li>
+<li><a href="/ssgc/20220901/1779064.md">〖兲朝浮世绘〗久病床前无孝子 俄爹抱怨儿子靠不住</a></li>
 <li><a href="/cnnews/20220901/1778915.md">田震在澳洲当土豪背后，中国富人垄断投资移民</a></li>
+<li><a href="/topimagenews/20220901/1779089.md">大外宣公开耍流氓！五十年不变竟然这样解释【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220901/1778891.md">🔥习近平政治局会议遭遇阻力？这300人有决定权？中共二十大充满变量 民心思变；中国一名资产十亿的青年企业家全家润往加拿大 公开祝李洪志大师中秋节快乐【阿波罗网TL】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220901/1779243.md" target="_blank">中国傲慢清零 每月经济损失460亿美元</a></li>
 <li><a href="/comments/20220901/1779242.md" target="_blank">凤凰卫视记者乌克兰战场采访疑吓晕 中国网友：全世界都目睹这尿性</a></li>
 <li><a href="/comments/20220901/1779238.md" target="_blank">谣言成预言！成都封城居民报复性囤货 吓坏网友</a></li>
 <li><a href="/comments/20220901/1779237.md" target="_blank">二十大前北京疫情拉警报 海淀划定四个高风险区</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220901/1779084.md" target="_blank">示弱？美司法部称：突袭川普家是「被误导」</a></li>
 <li><a href="/comments/20220901/1779083.md" target="_blank">戈尔巴乔夫去世 多国领袖缅怀 民众反思并回顾历史</a></li>
 <li><a href="/comments/20220901/1779076.md" target="_blank">美商务部：禁止NVIDIA和AMD对中国出口人工智能芯片</a></li>
-<li><a href="/comments/20220901/1779071.md" target="_blank">台湾不手软！中共无人机再飞金门 台军实弹驱离</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 <li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 
 </ul>
 </div>
