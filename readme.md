@@ -7,13 +7,12 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20220901/1779100.md">习近平致命软肋 党代会敲定“储君”？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220901/1779087.md">习近平：你不批评我，我不批评你，你若批评我，我必批评你【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220901/1779074.md">微博疯传！网友纷纷发帖力挺 建议向全国推广【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220901/1779162.md">🔥重磅！联合国最后一刻发布，中共惨了；警察说20大要开，之前就要抓一些人；乌克兰突发奇想，坑了俄军；美国限制辉达、超微高级AI芯片销售给中共【阿波罗网AY】</a></li>
 <li><a href="/bannedvideo/20220901/1779102.md">💥习不立“储君”有难言之隐！美媒预测李克强最可能的接班人选；台自制武器曾在伊拉克战场与中共装备较量；习近平麾下智库，发文公开反清零，一日封杀！泄露当局秘辛；中共害怕戈巴乔夫之死｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20220901/1779126.md">又一个上海！成都宣布1日晚6点起封城 发消息指可能封城 成都一网民遭警方关半月</a></li>
 <li><a href="/cnnews/20220901/1779127.md">还以颜色？疑似金门无人机飞厦门军营空拍 共军紧急应变影片疯传</a></li>
-<li><a href="/topimagenews/20220901/1779089.md">大外宣公开耍流氓！五十年不变竟然这样解释【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220902/1779381.md">课本上那些课文的作者他们都自杀了</a></li>
+<li><a href="/topimagenews/20220901/1779089.md">大外宣公开耍流氓！五十年不变竟然这样解释【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220902/1779285.md">成都封城 居民挤爆市场抢菜屯粮画面曝 车辆塞满生肉惊呆众人</a></li>
 <li><a href="/comments/20220902/1779362.md">李克强继任者逐渐明朗？谁将接替刘鹤？二十大经济班底引猜测</a></li>
 <li><a href="/bannedvideo/20220901/1779186.md">暗谋出兵台湾，习近平二十大连任真妥了？苏联总加速师戈尔巴乔夫过世，习急追进度？苏联解体四条轨迹，中共重蹈覆辙？（2022.9.1）｜世界的十字路口 唐浩</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/cbnews/20220901/1779223.md">成都网友“预言封城”3天后成真 换来被拘留15天</a></li>
 <li><a href="/ssgc/20220901/1779096.md">二十大人事或定盘 “改革开放”又消失？</a></li>
 <li><a href="/comments/20220901/1779167.md">美国国家癌症研究所(NCI)追踪50万人11年研究：多喝茶 少罹病</a></li>
+<li><a href="/topimagenews/20220902/1779378.md">瘆得慌! 殡仪馆“无差别”发送简讯透着垄断气息</a></li>
 <li><a href="/bannedvideo/20220902/1779299.md">河北新乐市领导下达防疫命令：中午十二点后，抓人，直接抓人！你们开着车上街，见一个，抓一个！</a></li>
-<li><a href="/comments/20220901/1779219.md">黑中国？美国大使在上海排队做核酸照片引发疯传热议</a></li>
+<li><a href="/yule/20220902/1779369.md">网传金巧巧被袁立爆料，本人亲自回应引起网友热议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,9 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220902/1779550.md" target="_blank">重磅调整！中国银行停止ATM扫码存款业务</a></li>
+<li><a href="/topimagenews/20220902/1779549.md" target="_blank">普丁再出招！这回打算暴买人民币 美媒揭背后盘算</a></li>
+<li><a href="/topimagenews/20220902/1779548.md" target="_blank">中共方寸大乱 川普被拜登偷梁换柱【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220902/1779500.md" target="_blank">中国盈喜“奇股”那斯达克上市 爆炒1天涨130倍 隔天暴跌95％…</a></li>
 <li><a href="/topimagenews/20220902/1779499.md" target="_blank">中国大陆芯片“强国梦”成难真？美媒揭致命伤：只靠自己行不通</a></li>
 <li><a href="/topimagenews/20220902/1779443.md" target="_blank">湘雅黑医害人失去肛门，作恶多年为何没被告倒？</a></li>
@@ -88,9 +91,6 @@
 <li><a href="/topimagenews/20220831/1778662.md" target="_blank">一辈子心血全毁了 戈尔巴乔夫生前最痛恨他…</a></li>
 <li><a href="/topimagenews/20220831/1778629.md" target="_blank">俄军紧急关机也躲不掉!乌克兰公布作战画面：米格-29发射美制反雷达导弹</a></li>
 <li><a href="/topimagenews/20220831/1778628.md" target="_blank">故乡惨遭俄军屠戮 乌克兰狙击手专抓俄军事阵地供炮击</a></li>
-<li><a href="/topimagenews/20220831/1778624.md" target="_blank">又崩了！10万人爆仓；上海陆家嘴也沦陷 1/3店铺关门；炸了！北京推父债子偿</a></li>
-<li><a href="/topimagenews/20220831/1778608.md" target="_blank">一场无法阻挡的寒潮正袭向中国【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220831/1778567.md" target="_blank">反习派痛批习近平：治下小粉红崛起！【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 
 </ul>
 </div>
