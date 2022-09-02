@@ -7,14 +7,12 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/baitai/20220902/1779533.md">大局已定，习近平会卸任总书记和国家主席</a></li>
 <li><a href="/topimagenews/20220902/1779550.md">重磅调整！中国银行停止ATM扫码存款业务</a></li>
-<li><a href="/cnnews/20220902/1779381.md">课本上那些课文的作者他们都自杀了</a></li>
 <li><a href="/cnnews/hknews/20220902/1779447.md">突发！继佩洛西后，首个欧洲大国访问台湾</a></li>
-<li><a href="/lifebaike/20220902/1779380.md">最早洞悉“文革”真相的人毛亲自批准枪决令？</a></li>
 <li><a href="/bannedvideo/20220902/1779668.md">🔥习近平让李克强脸丢大了；微博疯传 建议向全国推广；中共禁明星用外文名，Angelababy首当其冲；中共官方无人机拍宣传片被击落 网民质疑渔民身份 LV</a></li>
 <li><a href="/topimagenews/20220902/1779499.md">中国大陆芯片“强国梦”成难真？美媒揭致命伤：只靠自己行不通</a></li>
 <li><a href="/cnnews/20220902/1779398.md">都赢麻了！热总很可能在下一盘大棋</a></li>
-<li><a href="/cbnews/20220902/1779420.md">美军穿越台海照片曝光，惊现一罕见画面</a></li>
 <li><a href="/topimagenews/20220902/1779612.md">俄罗斯到底多惨？央行终于认了亏损！亲曝夸张数字</a></li>
+<li><a href="/cbnews/20220902/1779420.md">美军穿越台海照片曝光，惊现一罕见画面</a></li>
 <li><a href="/cnnews/20220902/1779655.md">中共又创下一个36年尴尬纪录；这搞法中国经济定崩；14年来巴菲特首次…</a></li>
 <li><a href="/topimagenews/20220902/1779625.md">南京银行再爆储户存款无法提领…</a></li>
 <li><a href="/cnnews/20220902/1779450.md">独家：中共二十大日期 暗藏重大政治密码！【阿波罗网报道】</a></li>
@@ -25,9 +23,11 @@
 <li><a href="/cnnews/20220902/1779473.md">韩国人已经生不出小孩了</a></li>
 <li><a href="/bannedvideo/20220902/1779643.md">成都乱象如末日 二十大传七字密令 中共进入倒计时？【两岸要闻】</a></li>
 <li><a href="/ssgc/20220902/1779664.md">深圳突取消六个展会 李克强颜面被扫</a></li>
-<li><a href="/topimagenews/20220902/1779378.md">瘆得慌! 殡仪馆“无差别”发送简讯透着垄断气息</a></li>
-<li><a href="/topimagenews/20220902/1779618.md">台湾一定做对什么!美挺台击落中共无人机 专家揭北京“这原因”低调回避…</a></li>
 <li><a href="/yule/20220902/1779490.md">伊能静不忍了！中国隔离突喊：为何对自己随便？</a></li>
+<li><a href="/topimagenews/20220902/1779618.md">台湾一定做对什么!美挺台击落中共无人机 专家揭北京“这原因”低调回避…</a></li>
+<li><a href="/topimagenews/20220902/1779419.md">“有脸站在这”？曹兴诚怒呛红媒中天记者</a></li>
+<li><a href="/bannedvideo/20220902/1779653.md">🔥谁能想到 中国经济差到这份上；巨亏3500亿，中共这统战计划成大笑话；土豆卖2元罚30万；东莞万人电子大厂停业 今年第三家；大亏 海底捞遭爆鸡汤用粉泡；三大经济体拉响全球衰退警报【阿波罗网 Y S】</a></li>
+<li><a href="/topimagenews/20220902/1779548.md">中共方寸大乱 川普被拜登偷梁换柱【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220903/1779853.md" target="_blank">成都网友“吹哨”被拘 网民：“一个字不对就算谣言”</a></li>
+<li><a href="/comments/20220903/1779852.md" target="_blank">广宇：从互联网产业看中国科技的进步与局限</a></li>
+<li><a href="/comments/20220903/1779851.md" target="_blank">杨威：中共又参加海参崴军演 何谈民族“复兴”</a></li>
+<li><a href="/comments/20220903/1779850.md" target="_blank">王赫：“二十大”常委几何？</a></li>
 <li><a href="/comments/20220903/1779838.md" target="_blank">美国8月份就业报告出炉 市场关注</a></li>
 <li><a href="/comments/20220903/1779837.md" target="_blank">人民币兑美元汇率连续4天防守6.9</a></li>
 <li><a href="/comments/20220903/1779820.md" target="_blank">清零政策挫败李克强？上海之后成都又封城 中国制造业根基动摇</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20220902/1779663.md" target="_blank">遏制中共野心 德扩大印太部署</a></li>
 <li><a href="/comments/20220902/1779659.md" target="_blank">埃及女祭司16岁“入门”看见未来3000年幻境？和今世丈夫，千年轮回相伴，为情所困；多世夫妻，只为了愿！找到真我，重返石棺⋯⋯</a></li>
 <li><a href="/comments/20220902/1779654.md" target="_blank">中国无人机遭福建渔民泥巴击落 小粉红高潮了：幻影来也用泥巴打</a></li>
-<li><a href="/comments/20220902/1779648.md" target="_blank">新疆人权报告引爆舆论 国际要求追责中共</a></li>
-<li><a href="/comments/20220902/1779647.md" target="_blank">没有地？茼蒿菜用寄宿方式种植 可吃到来年五月份</a></li>
-<li><a href="/comments/20220902/1779631.md" target="_blank">中国式清零比疫情可怕！ 成都封城前系列怪象曝光引热议</a></li>
-<li><a href="/comments/20220902/1779629.md" target="_blank">中国“经济沙皇”刘鹤届退 谁来接烂摊子？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
 <li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 <li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
 
 </ul>
 </div>
