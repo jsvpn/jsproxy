@@ -12,22 +12,22 @@
 <li><a href="/bannedvideo/20220901/1779102.md">💥习不立“储君”有难言之隐！美媒预测李克强最可能的接班人选；台自制武器曾在伊拉克战场与中共装备较量；习近平麾下智库，发文公开反清零，一日封杀！泄露当局秘辛；中共害怕戈巴乔夫之死｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20220901/1779126.md">又一个上海！成都宣布1日晚6点起封城 发消息指可能封城 成都一网民遭警方关半月</a></li>
 <li><a href="/cnnews/20220901/1779127.md">还以颜色？疑似金门无人机飞厦门军营空拍 共军紧急应变影片疯传</a></li>
-<li><a href="/ssgc/20220901/1779064.md">〖兲朝浮世绘〗久病床前无孝子 俄爹抱怨儿子靠不住</a></li>
 <li><a href="/topimagenews/20220901/1779089.md">大外宣公开耍流氓！五十年不变竟然这样解释【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220902/1779285.md">成都封城 居民挤爆市场抢菜屯粮画面曝 车辆塞满生肉惊呆众人</a></li>
 <li><a href="/cnnews/20220902/1779381.md">课本上那些课文的作者他们都自杀了</a></li>
+<li><a href="/comments/20220902/1779362.md">李克强继任者逐渐明朗？谁将接替刘鹤？二十大经济班底引猜测</a></li>
 <li><a href="/bannedvideo/20220901/1779186.md">暗谋出兵台湾，习近平二十大连任真妥了？苏联总加速师戈尔巴乔夫过世，习急追进度？苏联解体四条轨迹，中共重蹈覆辙？（2022.9.1）｜世界的十字路口 唐浩</a></li>
 <li><a href="/topimagenews/20220901/1779176.md">王毅硬塞“5个应当”政策 韩智库大骂:高压破坏中韩关系 无礼且无耻</a></li>
-<li><a href="/cnnews/20220901/1779180.md">玩抖音玩到毫无戒心 标准温水煮青蛙</a></li>
 <li><a href="/bannedvideo/20220901/1779197.md">二十大前发生两件大事 一场危机正袭向中国 他：未来不堪设想【两岸要闻】</a></li>
+<li><a href="/cnnews/20220901/1779180.md">玩抖音玩到毫无戒心 标准温水煮青蛙</a></li>
 <li><a href="/bannedvideo/20220901/1779191.md">全球经济崩盘，超过2008年金融风暴？中国六大国有银行，不良贷款齐升！地方政府穷疯，靠罚款创收？安邦智库公开反对清零？欧洲央行两难，压通胀还是保增长？【#蔚然财商天下】2022.09.01</a></li>
-<li><a href="/comments/20220902/1779362.md">李克强继任者逐渐明朗？谁将接替刘鹤？二十大经济班底引猜测</a></li>
 <li><a href="/cnnews/20220902/1779302.md">行李输送带卷长发 女地勤头皮狠遭扯下血流干不治身亡</a></li>
 <li><a href="/cbnews/20220901/1779223.md">成都网友“预言封城”3天后成真 换来被拘留15天</a></li>
 <li><a href="/topimagenews/20220901/1779178.md">普丁大开杀戒?第8起俄寡头命案 卢克石油公司董事长医院坠窗身亡</a></li>
-<li><a href="/comments/20220901/1779167.md">美国国家癌症研究所(NCI)追踪50万人11年研究：多喝茶 少罹病</a></li>
 <li><a href="/ssgc/20220901/1779096.md">二十大人事或定盘 “改革开放”又消失？</a></li>
+<li><a href="/comments/20220901/1779167.md">美国国家癌症研究所(NCI)追踪50万人11年研究：多喝茶 少罹病</a></li>
 <li><a href="/comments/20220901/1779219.md">黑中国？美国大使在上海排队做核酸照片引发疯传热议</a></li>
+<li><a href="/bannedvideo/20220902/1779299.md">河北新乐市领导下达防疫命令：中午十二点后，抓人，直接抓人！你们开着车上街，见一个，抓一个！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220902/1779529.md" target="_blank">中国结婚人数再跌至新低 外媒：历史性灾难</a></li>
+<li><a href="/comments/20220902/1779528.md" target="_blank">吴钊燮：若中共侵台 台湾人会勇敢为国家而战</a></li>
 <li><a href="/comments/20220902/1779514.md" target="_blank">戈尔巴乔夫：这是中共的必然走向</a></li>
 <li><a href="/comments/20220902/1779506.md" target="_blank">【独家重磅】李燕铭：公安部国安部高官刘彦平涉政变反习 官方首次披露刘彦平是孙力军政治团伙一员 官方通报现罕见细节 暗示刘彦平涉活摘器官 习近平清洗刀把子严防江曾二十大政变（四四） 公安部副部长孙力军政变反习内幕（十一） 习近平火线反击江曾政变（四五）</a></li>
 <li><a href="/comments/20220902/1779503.md" target="_blank">【微博精粹】走火入魔世界第一 没有第二</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220902/1779372.md" target="_blank">加拿大新税法：10万元豪车，需缴奢侈品税</a></li>
 <li><a href="/comments/20220902/1779362.md" target="_blank">李克强继任者逐渐明朗？谁将接替刘鹤？二十大经济班底引猜测</a></li>
 <li><a href="/comments/20220902/1779355.md" target="_blank">教育部司长落马 甘肃前副省长判无期 牵出内蒙金融窝案</a></li>
-<li><a href="/comments/20220902/1779354.md" target="_blank">乘南瓜船划61公里 可望创世界纪录</a></li>
-<li><a href="/comments/20220902/1779353.md" target="_blank">生活压力太大？！中国去年结婚创新低 仅760万多对</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
 <li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
 
 </ul>
 </div>
