@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/baitai/20220902/1779533.md">大局已定，习近平会卸任总书记和国家主席</a></li>
 <li><a href="/topimagenews/20220902/1779550.md">重磅调整！中国银行停止ATM扫码存款业务</a></li>
 <li><a href="/bannedvideo/20220902/1779668.md">🔥习近平让李克强脸丢大了；微博疯传 建议向全国推广；中共禁明星用外文名，Angelababy首当其冲；中共官方无人机拍宣传片被击落 网民质疑渔民身份 LV</a></li>
 <li><a href="/topimagenews/20220902/1779612.md">俄罗斯到底多惨？央行终于认了亏损！亲曝夸张数字</a></li>
@@ -14,17 +13,18 @@
 <li><a href="/funmedia/20220902/1779569.md">2046年，当中国“取消核酸”的消息传出之后…</a></li>
 <li><a href="/bannedvideo/20220902/1779483.md">李文亮其实一直都没有死，而且又被抓了，这次被寻衅滋事，刑拘15天。老百姓都感谢他</a></li>
 <li><a href="/bannedvideo/20220902/1779643.md">成都乱象如末日 二十大传七字密令 中共进入倒计时？【两岸要闻】</a></li>
-<li><a href="/bannedvideo/20220903/1779777.md">习二十大遇致命软肋 中纪委这句话藏暗示 老常委们战战兢兢【红朝禁闻】</a></li>
-<li><a href="/ssgc/20220902/1779664.md">深圳突取消六个展会 李克强颜面被扫</a></li>
-<li><a href="/comments/20220903/1779761.md">李燕铭：二十大前夕重磅高层人事变动 习近平布局三名习家军提前卡位副国级 严防二十大与两会生变 赵乐际大管家被贬职调离中纪委国家监委 前湖北省委书记应勇履新将接掌最高检 最高法院高层密集变动 彭丽媛山东老乡或接替周强任最高法院院长 二十大高层人事大战（四八） 习近平清洗刀把子严防江曾二十大政变（四五） 习近平追杀赵乐际（九）</a></li>
 <li><a href="/topimagenews/20220903/1779841.md">就这么被强行共产了 中国这个群体 难啊</a></li>
+<li><a href="/ssgc/20220902/1779664.md">深圳突取消六个展会 李克强颜面被扫</a></li>
+<li><a href="/bannedvideo/20220903/1779777.md">习二十大遇致命软肋 中纪委这句话藏暗示 老常委们战战兢兢【红朝禁闻】</a></li>
+<li><a href="/comments/20220903/1779761.md">李燕铭：二十大前夕重磅高层人事变动 习近平布局三名习家军提前卡位副国级 严防二十大与两会生变 赵乐际大管家被贬职调离中纪委国家监委 前湖北省委书记应勇履新将接掌最高检 最高法院高层密集变动 彭丽媛山东老乡或接替周强任最高法院院长 二十大高层人事大战（四八） 习近平清洗刀把子严防江曾二十大政变（四五） 习近平追杀赵乐际（九）</a></li>
 <li><a href="/bannedvideo/20220903/1779835.md">20大人事爆料坐实，习家军祸福相依；谋反大案引而小发，习近平什么算盘？成都“疯狂购物节”背后：一个可怕的现实正在成型</a></li>
-<li><a href="/topimagenews/20220902/1779618.md">台湾一定做对什么!美挺台击落中共无人机 专家揭北京“这原因”低调回避…</a></li>
 <li><a href="/ssgc/20220903/1779839.md">〖兲朝浮世绘〗文革也没有这样过，这是人间地狱</a></li>
+<li><a href="/topimagenews/20220902/1779618.md">台湾一定做对什么!美挺台击落中共无人机 专家揭北京“这原因”低调回避…</a></li>
 <li><a href="/cnnews/20220903/1779794.md">加国中餐馆食物中毒源头找到了 这两种调料快扔掉</a></li>
 <li><a href="/cbnews/20220902/1779723.md">离谱上海爸爸！送女儿上小学 接到班导来电才惊觉：送错学校了</a></li>
 <li><a href="/bannedvideo/20220902/1779653.md">🔥谁能想到 中国经济差到这份上；巨亏3500亿，中共这统战计划成大笑话；土豆卖2元罚30万；东莞万人电子大厂停业 今年第三家；大亏 海底捞遭爆鸡汤用粉泡；三大经济体拉响全球衰退警报【阿波罗网 Y S】</a></li>
 <li><a href="/topimagenews/20220902/1779548.md">中共方寸大乱 川普被拜登偷梁换柱【阿波罗网报道】</a></li>
+<li><a href="/comments/20220903/1779850.md">王赫：“二十大”常委几何？</a></li>
 <li><a href="/topimagenews/20220902/1779578.md">萧敬腾定居成都 一个月内限电、缺水加封城</a></li>
 <li><a href="/comments/20220902/1779659.md">埃及女祭司16岁“入门”看见未来3000年幻境？和今世丈夫，千年轮回相伴，为情所困；多世夫妻，只为了愿！找到真我，重返石棺⋯⋯</a></li>
 <li><a href="/comments/20220902/1779631.md">中国式清零比疫情可怕！ 成都封城前系列怪象曝光引热议</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220903/1779979.md" target="_blank">千钧一发 阿根廷女副总统在家门口遇险</a></li>
 <li><a href="/comments/20220903/1779961.md" target="_blank">麦杰逊:热总很可能在下一盘大棋</a></li>
 <li><a href="/comments/20220903/1779960.md" target="_blank">清史编纂委员会主任：闭关锁国源于统治者与人民的尖锐矛盾</a></li>
 <li><a href="/comments/20220903/1779959.md" target="_blank">邱开冒：成都，今夜请别忘记“热带雨林”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220903/1779837.md" target="_blank">人民币兑美元汇率连续4天防守6.9</a></li>
 <li><a href="/comments/20220903/1779820.md" target="_blank">清零政策挫败李克强？上海之后成都又封城 中国制造业根基动摇</a></li>
 <li><a href="/comments/20220903/1779819.md" target="_blank">美经济学家：中共诋毁戈尔巴乔夫遗产 紧紧控制社会</a></li>
-<li><a href="/comments/20220903/1779789.md" target="_blank">港府推“逆向隔离”入境大陆 学者：两面不讨好</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 
 </ul>
 </div>
