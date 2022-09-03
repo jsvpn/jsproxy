@@ -13,21 +13,21 @@
 <li><a href="/ssgc/20220903/1779839.md">〖兲朝浮世绘〗文革也没有这样过，这是人间地狱</a></li>
 <li><a href="/topimagenews/20220903/1779986.md">习近平被痛骂“昏招迭出，谬误不断，一塌糊涂”【阿波罗网报道】</a></li>
 <li><a href="/comments/20220903/1779761.md">李燕铭：二十大前夕重磅高层人事变动 习近平布局三名习家军提前卡位副国级 严防二十大与两会生变 赵乐际大管家被贬职调离中纪委国家监委 前湖北省委书记应勇履新将接掌最高检 最高法院高层密集变动 彭丽媛山东老乡或接替周强任最高法院院长 二十大高层人事大战（四八） 习近平清洗刀把子严防江曾二十大政变（四五） 习近平追杀赵乐际（九）</a></li>
-<li><a href="/cbnews/20220902/1779723.md">离谱上海爸爸！送女儿上小学 接到班导来电才惊觉：送错学校了</a></li>
 <li><a href="/topimagenews/20220903/1780036.md">中共元老帮式微？二十大前特殊迹象出现【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20220902/1779723.md">离谱上海爸爸！送女儿上小学 接到班导来电才惊觉：送错学校了</a></li>
 <li><a href="/comments/20220903/1779850.md">王赫：“二十大”常委几何？</a></li>
-<li><a href="/cnnews/20220903/1779794.md">加国中餐馆食物中毒源头找到了 这两种调料快扔掉</a></li>
 <li><a href="/baitai/20220903/1779930.md">习近平连任已板上钉钉</a></li>
+<li><a href="/cnnews/20220903/1779794.md">加国中餐馆食物中毒源头找到了 这两种调料快扔掉</a></li>
 <li><a href="/cnnews/20220903/1779940.md">港星黄竣锋内地被砍三刀！遭菜刀直劈面部险丧命，脸和手缝100针</a></li>
 <li><a href="/bannedvideo/20220903/1779844.md">🔥习近平的“重大意外” 西方媒体预测二十大；俄罗斯到底多惨？俄央行终于认了亏损！亲曝夸张数字；戈尔巴乔夫曾道出中国的必然走向；中共噤声新疆人权报告 自家官方的反驳也遭“404”【阿波罗网AT】</a></li>
+<li><a href="/cnnews/20220903/1780017.md">1分钟都不离开习视野 新华社20大前抛3个1分钟</a></li>
 <li><a href="/topimagenews/20220903/1779945.md">韩国被拜登捅刀 他爆致命错误：冷落这个老太太</a></li>
 <li><a href="/yule/20220903/1779886.md">40岁范冰冰近照模样大变，与妈妈合体拍照，又白又胖</a></li>
-<li><a href="/cnnews/20220903/1780017.md">1分钟都不离开习视野 新华社20大前抛3个1分钟</a></li>
-<li><a href="/yule/20220903/1779799.md">罗志祥的复出 映射出了整个中国娱乐圈的悲哀</a></li>
 <li><a href="/cbnews/20220903/1779934.md">核酸系统又崩了！热搜第一 整个成都都在等</a></li>
+<li><a href="/yule/20220903/1779799.md">罗志祥的复出 映射出了整个中国娱乐圈的悲哀</a></li>
 <li><a href="/cbnews/20220903/1779991.md">成都封城她在家中囤11台冰箱 不缺物资就是费电</a></li>
-<li><a href="/cnnews/20220902/1779725.md">乌克兰消失的空军回来了：赫尔松连番18轰</a></li>
 <li><a href="/headline/20220903/1779848.md">20大前中南海气氛紧张诡异</a></li>
+<li><a href="/cnnews/20220902/1779725.md">乌克兰消失的空军回来了：赫尔松连番18轰</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 <li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 <li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 
 </ul>
 </div>
