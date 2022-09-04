@@ -15,19 +15,19 @@
 <li><a href="/cnnews/hknews/20220903/1780108.md">拖1个月才击落中共无人机 只因蔡英文听到这句话</a></li>
 <li><a href="/bannedvideo/20220904/1780164.md">习一句话竟引出王朝灭亡之相 大灾之后必有大疫？【红朝禁闻】</a></li>
 <li><a href="/bannedvideo/20220904/1780208.md">王岐山两大干将被“双开”。孙立军团伙是江王两派的联合“反习行动组”（一平论政2022/9/3)</a></li>
-<li><a href="/bannedvideo/20220903/1780067.md">乌军反攻夺回领土，普京利爪被剁；俄军大砲不响了，凤凰幽灵决战赫尔松；“以史为镜”，乌克兰的反攻样子是啥？#新冷战情室</a></li>
 <li><a href="/topimagenews/20220904/1780358.md">传大批特警用警棍招呼武汉人 哭喊声响成一片【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220904/1780365.md">国军刚击落中共无人机 厦门宣布“禁飞10天”原因曝光</a></li>
 <li><a href="/topimagenews/20220904/1780161.md">前第一夫人梅兰妮亚内衣裤全部重买 都怪FBI ?</a></li>
 <li><a href="/cnnews/20220904/1780206.md">回国航班又变了!核酸检测变严 申请健康码又多了一步</a></li>
 <li><a href="/bannedvideo/20220903/1780070.md">成都封城，中国数千万人封控，清零恶梦不会停？习近平急称帝，清零暗藏二十大升官密码和战争布局？中共严打网络谣言，声东击西？（2022.9.3）｜世界的十字路口 唐浩</a></li>
+<li><a href="/cnnews/20220904/1780382.md">成都突发巨响热搜第一：窗户都震响了</a></li>
 <li><a href="/bannedvideo/20220904/1780177.md">中共罕见“预告”灾难，中央地方分裂 危机四伏；村霸手眼通中央？“国安红线”成虚设，饥荒会来吗？地方官瞒天过海，“软挑战”中央，红祸民遭殃。</a></li>
 <li><a href="/yule/20220904/1780176.md">林志颖“救命恩人”收到的感谢礼物曝光：21箱饮料及24杯奶茶</a></li>
-<li><a href="/cnnews/20220904/1780382.md">成都突发巨响热搜第一：窗户都震响了</a></li>
 <li><a href="/cbnews/20220904/1780244.md">44：0 浙江女足赛惊现这比数 不是假球原因曝光</a></li>
 <li><a href="/topimagenews/20220904/1780296.md">【微博精粹】告知大白：夜不闭户 睡觉张嘴 你直接进来捅</a></li>
 <li><a href="/bannedvideo/20220903/1780085.md">陈破空：二十大，习李继续斗！他连任后将公开批邓？刺习大案还没完！成都封城，政治瓦解经济。日本巧用敏感词拆解中国盗版</a></li>
 <li><a href="/cbnews/20220904/1780189.md">10月要开二十大 北京宣布从严限制进返京</a></li>
+<li><a href="/topimagenews/20220904/1780401.md">习近平承认：经济困难前所未有！挑战前所未有！【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
 <li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
 
 </ul>
 </div>
