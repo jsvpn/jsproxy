@@ -6,11 +6,10 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/comments/20220904/1780172.md">武汉人猛！集体要求解封 大批特警挥舞警棍狂殴居民 场面惨烈</a></li>
-<li><a href="/bannedvideo/20220903/1780068.md">天有意象 网络疯传 政权溃灭的十大征兆 中国真要变天了?敲响中共政权丧钟 大革命前的法国社会 折射中国困境。一带一路 大量输出张献忠社会 中国帝国主义治理也溃败 中共体制现危机?220903</a></li>
 <li><a href="/comments/20220904/1780165.md">再给川渝一把火！华春莹言论翻车 美大使回应</a></li>
 <li><a href="/topimagenews/20220904/1780255.md">警报！3中国男故意散播艾滋 东京或已超1000人感染</a></li>
-<li><a href="/bannedvideo/20220903/1780114.md">“强制清零”背后隐藏惊天阴谋；成都封城两千万人躺平 一张照片刺痛良心；吹哨人预警被抓 官方辟谣后打脸 全城疯抢物资；核酸测试系统崩溃，各类检测走火入魔。【 #时事金扫描 】</a></li>
 <li><a href="/bannedvideo/20220904/1780199.md">🔥应勇这照片,上海帮大呼后悔；中共政权性质重大转向 党政军联合发文；新华社泄秘 俄罗斯再次令中共吃哑巴亏【阿波罗网AM】</a></li>
+<li><a href="/bannedvideo/20220903/1780114.md">“强制清零”背后隐藏惊天阴谋；成都封城两千万人躺平 一张照片刺痛良心；吹哨人预警被抓 官方辟谣后打脸 全城疯抢物资；核酸测试系统崩溃，各类检测走火入魔。【 #时事金扫描 】</a></li>
 <li><a href="/topimagenews/20220904/1780309.md">习近平非100%说了算？国务院总理等接班习李派系抢破头</a></li>
 <li><a href="/cnnews/hknews/20220903/1780108.md">拖1个月才击落中共无人机 只因蔡英文听到这句话</a></li>
 <li><a href="/bannedvideo/20220904/1780164.md">习一句话竟引出王朝灭亡之相 大灾之后必有大疫？【红朝禁闻】</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/cbnews/20220904/1780365.md">国军刚击落中共无人机 厦门宣布“禁飞10天”原因曝光</a></li>
 <li><a href="/topimagenews/20220904/1780161.md">前第一夫人梅兰妮亚内衣裤全部重买 都怪FBI ?</a></li>
 <li><a href="/cnnews/20220904/1780206.md">回国航班又变了!核酸检测变严 申请健康码又多了一步</a></li>
-<li><a href="/bannedvideo/20220903/1780070.md">成都封城，中国数千万人封控，清零恶梦不会停？习近平急称帝，清零暗藏二十大升官密码和战争布局？中共严打网络谣言，声东击西？（2022.9.3）｜世界的十字路口 唐浩</a></li>
 <li><a href="/cnnews/20220904/1780382.md">成都突发巨响热搜第一：窗户都震响了</a></li>
 <li><a href="/bannedvideo/20220904/1780177.md">中共罕见“预告”灾难，中央地方分裂 危机四伏；村霸手眼通中央？“国安红线”成虚设，饥荒会来吗？地方官瞒天过海，“软挑战”中央，红祸民遭殃。</a></li>
-<li><a href="/yule/20220904/1780176.md">林志颖“救命恩人”收到的感谢礼物曝光：21箱饮料及24杯奶茶</a></li>
-<li><a href="/cbnews/20220904/1780244.md">44：0 浙江女足赛惊现这比数 不是假球原因曝光</a></li>
 <li><a href="/topimagenews/20220904/1780296.md">【微博精粹】告知大白：夜不闭户 睡觉张嘴 你直接进来捅</a></li>
+<li><a href="/topimagenews/20220904/1780401.md">习近平承认：经济困难前所未有！挑战前所未有！【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20220904/1780244.md">44：0 浙江女足赛惊现这比数 不是假球原因曝光</a></li>
+<li><a href="/yule/20220904/1780176.md">林志颖“救命恩人”收到的感谢礼物曝光：21箱饮料及24杯奶茶</a></li>
 <li><a href="/bannedvideo/20220903/1780085.md">陈破空：二十大，习李继续斗！他连任后将公开批邓？刺习大案还没完！成都封城，政治瓦解经济。日本巧用敏感词拆解中国盗版</a></li>
 <li><a href="/cbnews/20220904/1780189.md">10月要开二十大 北京宣布从严限制进返京</a></li>
-<li><a href="/topimagenews/20220904/1780401.md">习近平承认：经济困难前所未有！挑战前所未有！【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220904/1780273.md">🔥三峡大坝卵石出 黄万里前11个预测都实现了，就看最后1个了；成都核酸系统崩溃，防疫人员找信号照片疯传 阅读量高达3.4亿；成都封城百姓叹末日：活猪活牛塞私家车后箱；庆解封唱歌陕西3男被拘</a></li>
+<li><a href="/bannedvideo/20220904/1780290.md">广州白云机场亲历，现在出国已经困难重重！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 <li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 
 </ul>
 </div>
