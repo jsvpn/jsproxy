@@ -16,17 +16,17 @@
 <li><a href="/bannedvideo/20220904/1780455.md">深圳封城 如同死城； 不信谣不传谣 半夜一车一车往外拖【 #大陆民生 】</a></li>
 <li><a href="/bannedvideo/20220904/1780453.md">陈破空：震惊！中共公开宣布：转向军国主义！要求全国崇军尚武。下一代全毁了！美国精准对台军售，痛击土共软肋。中国经济数据跌破眼镜</a></li>
 <li><a href="/comments/20220904/1780420.md">二十大前气氛诡异 中南海如临大敌</a></li>
-<li><a href="/bannedvideo/20220904/1780350.md">北京当局大怒！美国抗共最大动作出手了！日本等不及了！加紧制造可射到中国导弹【希望之声TV-国际风云】</a></li>
 <li><a href="/headline/20220905/1780518.md">习近平坚持清零被疑只为保权保位</a></li>
+<li><a href="/bannedvideo/20220904/1780350.md">北京当局大怒！美国抗共最大动作出手了！日本等不及了！加紧制造可射到中国导弹【希望之声TV-国际风云】</a></li>
 <li><a href="/lifebaike/20220904/1780381.md">中老年男人的眉毛变长，通常意味着什么？医生：原因要心里有数</a></li>
 <li><a href="/ssgc/20220905/1780495.md">〖兲朝浮世绘〗小奸坚身在共产党，心在美帝国</a></li>
-<li><a href="/cbnews/20220904/1780490.md">惊曝！美国前副总统彭斯将访台</a></li>
 <li><a href="/cnnews/20220905/1780530.md">突发！千亿集团董事长被查，6天前曾出席会议</a></li>
+<li><a href="/cbnews/20220904/1780490.md">惊曝！美国前副总统彭斯将访台</a></li>
 <li><a href="/yule/20220904/1780393.md">黄晓明初恋33岁去世，令京城四少汪雨至今难忘</a></li>
-<li><a href="/comments/20220905/1780501.md">贾浅浅比较幸运？她137字“奇文”疑踩红线 中国全网封杀</a></li>
 <li><a href="/topimagenews/20220904/1780384.md">一位患者从刘翔峰手底逃脱的惊险经历，建议阅读</a></li>
+<li><a href="/comments/20220905/1780501.md">贾浅浅比较幸运？她137字“奇文”疑踩红线 中国全网封杀</a></li>
+<li><a href="/bannedvideo/20220905/1780528.md">美国这一记重锤终于敲了下来  中共欲哭无泪；习亲信到访！这里成美中激争之地【每日头条】</a></li>
 <li><a href="/worldnews/20220904/1780366.md">普丁:我的下巴都惊掉了!乌克兰被“解放”地区学生竟不知曾是苏联一部分</a></li>
-<li><a href="/ssgc/20220904/1780460.md">封城没完没了，中国人快活不起了？</a></li>
 <li><a href="/yule/20220904/1780378.md">早润了 李咏女儿在美国近照曝光，小时候被称为“最丑星二代”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220905/1780673.md" target="_blank">台海有事将让美军使用菲国基地 菲驻美大使表态</a></li>
 <li><a href="/topimagenews/20220905/1780667.md" target="_blank">乌克兰坦克靠密技爆打10公里外俄对手</a></li>
 <li><a href="/topimagenews/20220905/1780666.md" target="_blank">知名公司曝大规模毁约：名校博士刚下飞机就失业</a></li>
 <li><a href="/topimagenews/20220905/1780643.md" target="_blank">普丁不满！ 拉中共助阵不力 俄驻京大使遭撤换…</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220903/1779997.md" target="_blank">中国新兴“文艺僧”！和尚大跳《天鹅湖》</a></li>
 <li><a href="/topimagenews/20220903/1779986.md" target="_blank">习近平被痛骂“昏招迭出，谬误不断，一塌糊涂”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220903/1779945.md" target="_blank">韩国被拜登捅刀 他爆致命错误：冷落这个老太太</a></li>
-<li><a href="/topimagenews/20220903/1779933.md" target="_blank">习近平将有批邓小平大动作？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220905/1780670.md" target="_blank">李燕铭：日本打造反航母战力 加强远程反击能力 剑指中共 日本国防预算将创新高 将增加第四个新领域 日本时隔四年再度举行防空疏散演习 自民党副总裁：台海若开战日本在战区内 日本防长：国际局势面临着二战后最大的考验 全球军事围堵中共之中日战争阴云（十八）</a></li>
 <li><a href="/comments/20220905/1780661.md" target="_blank">李燕铭：台海局势急剧升级 美日导弹和电子战部队举行联合训练 日美实射反坦克导弹实施离岛防卫联合演习 日本首次在环太军演就“存亡危机事态”开展训练 美日2022年联合演习数增加50% 全球军事围堵中共之中日战争阴云（十七）</a></li>
 <li><a href="/comments/20220905/1780651.md" target="_blank">巴黎贝甜事件：我雪中送炭，你“秋后算账”？</a></li>
 <li><a href="/comments/20220905/1780650.md" target="_blank">【微博精粹】大咖：多好的人民啊！后半句犯了众怒</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220905/1780502.md" target="_blank">国际原子能机构人员实地考察扎波罗热核电站 下周将发布检查报告</a></li>
 <li><a href="/comments/20220905/1780501.md" target="_blank">贾浅浅比较幸运？她137字“奇文”疑踩红线 中国全网封杀</a></li>
 <li><a href="/comments/20220905/1780500.md" target="_blank">中国疫情升温！已33城市“封控”中 至少影响6500万人</a></li>
-<li><a href="/comments/20220904/1780489.md" target="_blank">大庆人怒了！封城多日没吃的 集体出门讨食遭特警镇压</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 <li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
 
 </ul>
 </div>
