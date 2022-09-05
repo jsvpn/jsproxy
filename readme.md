@@ -14,20 +14,20 @@
 <li><a href="/bannedvideo/20220905/1780528.md">美国这一记重锤终于敲了下来  中共欲哭无泪；习亲信到访！这里成美中激争之地【每日头条】</a></li>
 <li><a href="/topimagenews/20220905/1780722.md">中国国家铁路集团上半年负债6兆人民币 最赚钱的“京沪高铁”都亏10.28亿元</a></li>
 <li><a href="/cbnews/20220904/1780490.md">惊曝！美国前副总统彭斯将访台</a></li>
-<li><a href="/cbnews/20220905/1780527.md">清华硕士被律所辞退后自杀，背后真相令人唏嘘</a></li>
 <li><a href="/topimagenews/20220905/1780690.md">中国业内人士曝内幕：为什么都在劝退航空航天专业？</a></li>
+<li><a href="/cbnews/20220905/1780527.md">清华硕士被律所辞退后自杀，背后真相令人唏嘘</a></li>
 <li><a href="/bannedvideo/20220905/1780522.md">🔥李克强焦头烂额 苹果谷歌信号严重；习近平亲信栗战书将出访 韩国成中美必争之地 会倒向中共吗？印度不再骑墙 在美中之间作出重大选择 为日本退出海上军演【阿波罗网FT】</a></li>
-<li><a href="/topimagenews/20220905/1780605.md">中国人真的快活不起了</a></li>
 <li><a href="/cbnews/20220905/1780698.md">为习连任铺垫？两喉舌大员接连捧习</a></li>
+<li><a href="/topimagenews/20220905/1780605.md">中国人真的快活不起了</a></li>
 <li><a href="/comments/20220905/1780501.md">贾浅浅比较幸运？她137字“奇文”疑踩红线 中国全网封杀</a></li>
 <li><a href="/cnnews/20220905/1780579.md">中国大妈勇闯海关：她开口后，留学生语塞</a></li>
-<li><a href="/bannedvideo/20220905/1780547.md">陈破空：习近平提前发动政变？某常委和副主席下落不明。天津驶过大批坦克军车。北京气氛异常？全国到处封城。美东9月4晚8点30、即中港台9月5早8点30</a></li>
 <li><a href="/topimagenews/20220905/1780666.md">知名公司曝大规模毁约：名校博士刚下飞机就失业</a></li>
+<li><a href="/bannedvideo/20220905/1780547.md">陈破空：习近平提前发动政变？某常委和副主席下落不明。天津驶过大批坦克军车。北京气氛异常？全国到处封城。美东9月4晚8点30、即中港台9月5早8点30</a></li>
 <li><a href="/headline/20220905/1780509.md">中国深圳将采取分层新冠措施 成都延长封锁</a></li>
-<li><a href="/ssgc/20220904/1780460.md">封城没完没了，中国人快活不起了？</a></li>
+<li><a href="/cnnews/20220905/1780777.md">江苏51岁大爷下药百名女性，录下数百段不雅视频</a></li>
 <li><a href="/headline/20220905/1780521.md">习近平连任倒计时 忠不忠 看分钟</a></li>
+<li><a href="/topimagenews/20220905/1780706.md">习总的“绿水青山”，究竟是谁的“金山银山”？</a></li>
 <li><a href="/cnnews/20220905/1780615.md">乌东告急：俄第3集团军进入战场</a></li>
-<li><a href="/comments/20220904/1780489.md">大庆人怒了！封城多日没吃的 集体出门讨食遭特警镇压</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
 <li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 
 </ul>
 </div>
