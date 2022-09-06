@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20220905/1780777.md">江苏51岁大爷下药百名女性，录下数百段不雅视频</a></li>
 <li><a href="/topimagenews/20220905/1780844.md">港媒放风：二十大人事布局，更多“老干部”将上位【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220905/1780872.md">上海帮最后悔的一张照片：“应勇，是民族的脊梁”【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220906/1780923.md">闭关锁国算什么！官方这文章令人不寒而栗  腥风血雨又要来【红朝禁闻】</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/topimagenews/20220906/1780972.md">这个视频很震撼</a></li>
 <li><a href="/cbnews/20220906/1781042.md">新人上位 赵立坚被挤下一位</a></li>
 <li><a href="/cbnews/20220905/1780809.md">俄在乌克兰打得太烂 北京为难了</a></li>
-<li><a href="/bannedvideo/20220905/1780811.md">二十大最重要问题有答案 一信号不寻常 最危险的常委出现了【两岸要闻】</a></li>
 <li><a href="/cnnews/20220906/1781114.md">二十大“刀把子”握在谁手?他没戏了！【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220905/1780811.md">二十大最重要问题有答案 一信号不寻常 最危险的常委出现了【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220906/1780973.md">清零给中国经济、社会带来巨大的灾难，那么习近平为什么明知如此还要坚持清零政策呢？我们从三个方面来谈习近平不放弃清零政策的根本原因。【李军访谈20220905第60期】【固定时间9：00播出】</a></li>
 <li><a href="/cbnews/20220905/1780874.md">四川强震有征兆？“事前1画面”吓坏众人：天空黑压压</a></li>
 <li><a href="/yule/20220906/1780955.md">伊能静出事了 求救讯息曝光…网酸“都是大妈了”挨轰</a></li>
 <li><a href="/topimagenews/20220906/1781102.md">【微博精粹】四川地震大白锁门 反人类的源头是这个马屁精</a></li>
-<li><a href="/ssgc/20220906/1781000.md">〖兲朝浮世绘〗一切都为乌纱帽 哪管百姓死与活</a></li>
 <li><a href="/topimagenews/20220906/1781122.md">谋划让习近平走人？他是习近平的一步“活棋”【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20220906/1781000.md">〖兲朝浮世绘〗一切都为乌纱帽 哪管百姓死与活</a></li>
 <li><a href="/bannedvideo/20220906/1780976.md">陈破空：四川突发地震，意外突出李克强地位！习近平是病人？封城不准避难。王沪宁亲信跟四川人民有仇？铁娘子上任英国新首相，土共着慌。胡锡进趁机高级黑。美东9月5晚8点30、即中港台9月6早8点30</a></li>
 <li><a href="/cnnews/20220905/1780848.md">大地震也不准跑！四川饭店：出房门就抓回去重算隔离天数</a></li>
 <li><a href="/comments/20220906/1780936.md">四川突发强震 “大白”不让逃生 遇难人数达30多</a></li>
 <li><a href="/cnnews/20220905/1780833.md">人民币狂贬 新兴市场惨了！美媒警告：引爆恐怖连锁效应</a></li>
-<li><a href="/comments/20220905/1780786.md">上海这样的秋后算账，伤害性极大</a></li>
 <li><a href="/cbnews/20220905/1780873.md">四川6.8地震！恐怖画面曝 家中“鱼缸起大浪”水溅满地</a></li>
+<li><a href="/comments/20220905/1780786.md">上海这样的秋后算账，伤害性极大</a></li>
 <li><a href="/ssgc/20220906/1780959.md">评论 | 胡平：整李佳是不是敲打胡春华？</a></li>
+<li><a href="/comments/20220906/1780999.md">美经济学家：中国向消费经济转型必引发更大危机</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220906/1781238.md" target="_blank">秋燥润肺用良方 止咳化痰养肺有饮品</a></li>
 <li><a href="/comments/20220906/1781232.md" target="_blank">俄政府践踏新闻自由 境内仅存主要独立媒体遭吊销执照</a></li>
 <li><a href="/comments/20220906/1781225.md" target="_blank">宋国诚：“皇帝的新衣”还能编多久？</a></li>
 <li><a href="/comments/20220906/1781198.md" target="_blank">秋天吃它功效堪比冬虫夏草</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220906/1781026.md" target="_blank">王文胜：俄国作用下降 印度就没必要和中国假装和平</a></li>
 <li><a href="/comments/20220906/1781017.md" target="_blank">中国四千多上市公司发布最惨半年报</a></li>
 <li><a href="/comments/20220906/1781016.md" target="_blank">拜登演讲被指太「政治化」 美四大媒体拒播</a></li>
-<li><a href="/comments/20220906/1781004.md" target="_blank">西坡：关于疫情 再聊两句</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
 <li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 <li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
 
 </ul>
 </div>
