@@ -19,10 +19,10 @@
 <li><a href="/ssgc/20220906/1781000.md">〖兲朝浮世绘〗一切都为乌纱帽 哪管百姓死与活</a></li>
 <li><a href="/bannedvideo/20220906/1780976.md">陈破空：四川突发地震，意外突出李克强地位！习近平是病人？封城不准避难。王沪宁亲信跟四川人民有仇？铁娘子上任英国新首相，土共着慌。胡锡进趁机高级黑。美东9月5晚8点30、即中港台9月6早8点30</a></li>
 <li><a href="/comments/20220906/1781128.md">广东居民用粤语表达愤怒 躲过网络审查</a></li>
-<li><a href="/ssgc/20220906/1781135.md">〖微博谈〗这不是防疫，而是杀人</a></li>
 <li><a href="/cbnews/20220906/1781041.md">天亮时分：外汇降准，中共真没钱了，拯救中国经济只剩一招儿；习近平9月14日出访哈萨克斯坦，传美国前副总统彭斯将访台（政论天下第783集 20220905）</a></li>
-<li><a href="/comments/20220906/1780936.md">四川突发强震 “大白”不让逃生 遇难人数达30多</a></li>
+<li><a href="/ssgc/20220906/1781135.md">〖微博谈〗这不是防疫，而是杀人</a></li>
 <li><a href="/health/20220906/1781153.md">慢慢“窃走”寿命的行为，抽烟仅排第三，第一名很多人不在意</a></li>
+<li><a href="/comments/20220906/1780936.md">四川突发强震 “大白”不让逃生 遇难人数达30多</a></li>
 <li><a href="/bannedvideo/20220906/1781235.md">大先兆被忽视 恐有巨震在后头？又一地现异象 古预言成真？【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220906/1781143.md">爆炸瞬间“8千飞镖”射出夺命！俄军遭控对平民使用“一战”凶残武器</a></li>
 <li><a href="/lifebaike/20220906/1781190.md">最佳儿童身高表，男孩女孩都齐全了！对照一下，你的孩子达标没？</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220907/1781379.md" target="_blank">2022年全球最强护照排名 前三名均是亚洲国家</a></li>
 <li><a href="/comments/20220907/1781370.md" target="_blank">种植羽衣甘蓝注意4点 可改善苦味 适宜减肥朋友的二道餐食</a></li>
 <li><a href="/comments/20220907/1781369.md" target="_blank">杨丞琳吃海鲜惹一身腥 曝赚人民币有套路</a></li>
 <li><a href="/comments/20220907/1781363.md" target="_blank">大陆各地异象频频！是否预示着习近平连任之路梦碎？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220906/1781195.md" target="_blank">滋润回甘！ 自制冷泡茶的「最佳时间」</a></li>
 <li><a href="/comments/20220906/1781194.md" target="_blank">露自今夜白，月从秋夜明</a></li>
 <li><a href="/comments/20220906/1781193.md" target="_blank">只要让计算机外放这个“声音”，6米内的手机都能被入侵</a></li>
-<li><a href="/comments/20220906/1781177.md" target="_blank">为二十大更“完美”？ 外媒爆习近平将参加上合峰会</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
 <li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
 
 </ul>
 </div>
