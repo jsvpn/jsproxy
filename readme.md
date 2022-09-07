@@ -15,13 +15,13 @@
 <li><a href="/comments/20220907/1781597.md">钟原：二十大常委之争 一人或成焦点</a></li>
 <li><a href="/bannedvideo/20220907/1781566.md">厄运先知帕克9月预言：中共今年底或明年初解体，2024是关键，香港、西藏、台湾独立；英国新首相特拉斯更强硬。｜薇羽看世间 第536期 20220906</a></li>
 <li><a href="/cnnews/20220907/1781568.md">成都一小区上千人突遭连夜转运隔离 居民怒了</a></li>
+<li><a href="/headline/20220907/1781631.md">港台媒透露中共政治局常委不会增至9人 习近平不会卸任三职中任何职位</a></li>
 <li><a href="/cnnews/20220907/1781398.md">越砸越狠，美国玩命了要耗死俄罗斯</a></li>
 <li><a href="/topimagenews/20220907/1781506.md">中国房地产骨牌被推倒 一系列连锁反应海啸般袭来</a></li>
 <li><a href="/bannedvideo/20220907/1781571.md">💥习“立储君”成大挑战！下周出访、不怕丢权？地震挑战西南各水坝及地下军工；泸定震感跨中国，震中被“管控”，当地人描述惨状，习近平下达指示；中共靠核酸赚多少？｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/headline/20220907/1781631.md">港台媒透露中共政治局常委不会增至9人 习近平不会卸任三职中任何职位</a></li>
+<li><a href="/cbnews/20220907/1781633.md">二十大前 中共最高法前常务副院长遭开除</a></li>
 <li><a href="/bannedvideo/20220907/1781545.md">中共外交路线恐将巨变？风向标出现！菲驻美大使不忍了！表态共军挑衅【希望之声TV-国际风云】</a></li>
 <li><a href="/cbnews/20220907/1781541.md">江峰：习近平五项重磅级政策出笼：生产芯片的举国机制能走多远；资源短缺还是资源抢夺；农村宅基地拯救房市还是压塌房市；两个字总结：‘抢’和‘占’【江峰漫谈20220906第542期】</a></li>
-<li><a href="/cbnews/20220907/1781633.md">二十大前 中共最高法前常务副院长遭开除</a></li>
 <li><a href="/lifebaike/20220907/1781608.md">这4件家电：没必要买太贵的，能满足基本功能，普通款就足够了</a></li>
 <li><a href="/topimagenews/20220907/1781446.md">天有异象！微博疯传 蜉蝣满天飞 湖南飞虫尸体堆路上超厚</a></li>
 <li><a href="/topimagenews/20220907/1781620.md">中共大论战开始？生存危机下内斗加剧【阿波罗网报道】</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220908/1781767.md" target="_blank">掩盖死亡人数？震中灾区禁人员车辆进入 山体滑坡惨象触目惊心</a></li>
 <li><a href="/comments/20220907/1781756.md" target="_blank">四川地震已致74人遇难 红十字会募捐评论大翻车</a></li>
 <li><a href="/comments/20220907/1781740.md" target="_blank">反复核酸激起民怨 成都一党员提菜刀反抗</a></li>
 <li><a href="/comments/20220907/1781739.md" target="_blank">临近二十大 北京两所学校爆发疫情 3个校区被封</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220907/1781544.md" target="_blank">〈霸王级寒流在台南〉</a></li>
 <li><a href="/comments/20220907/1781522.md" target="_blank">横河观点：天下未乱蜀先乱 中共能逃脱？</a></li>
 <li><a href="/comments/20220907/1781521.md" target="_blank">基本常识：多灾多难的四川，防震和防疫孰轻孰重？</a></li>
-<li><a href="/comments/20220907/1781519.md" target="_blank">桃花谭李白:网友想平反，不想连歌都下架了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
 
 </ul>
 </div>
