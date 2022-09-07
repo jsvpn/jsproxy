@@ -15,17 +15,17 @@
 <li><a href="/comments/20220906/1781128.md">广东居民用粤语表达愤怒 躲过网络审查</a></li>
 <li><a href="/cnnews/20220907/1781345.md">拜登应该是准备要动手了</a></li>
 <li><a href="/cbnews/20220906/1781041.md">天亮时分：外汇降准，中共真没钱了，拯救中国经济只剩一招儿；习近平9月14日出访哈萨克斯坦，传美国前副总统彭斯将访台（政论天下第783集 20220905）</a></li>
+<li><a href="/topimagenews/20220907/1781413.md">不要脸，楼市最荒诞的一幕出现了</a></li>
 <li><a href="/cnnews/20220907/1781359.md">血洗中国1.5亿后，她梦碎美国</a></li>
 <li><a href="/cnnews/20220906/1781292.md">乌克兰勇伯提枪“砰”一声 俄军8500万美元最强战机没了</a></li>
-<li><a href="/topimagenews/20220907/1781413.md">不要脸，楼市最荒诞的一幕出现了</a></li>
 <li><a href="/bannedvideo/20220906/1781235.md">大先兆被忽视 恐有巨震在后头？又一地现异象 古预言成真？【两岸要闻】</a></li>
 <li><a href="/ssgc/20220906/1781135.md">〖微博谈〗这不是防疫，而是杀人</a></li>
 <li><a href="/health/20220906/1781153.md">慢慢“窃走”寿命的行为，抽烟仅排第三，第一名很多人不在意</a></li>
+<li><a href="/cnnews/20220907/1781397.md">公务员，也要失业了</a></li>
 <li><a href="/topimagenews/20220906/1781143.md">爆炸瞬间“8千飞镖”射出夺命！俄军遭控对平民使用“一战”凶残武器</a></li>
 <li><a href="/bannedvideo/20220906/1781257.md">🔥习近平突下周出访 有几重目的；新人上位 赵立坚被挤下一位；侵乌战争促进俄中军事关系 但俄囯罕见批中共窃取技术；上海人工智能大会外商减少 中西研发走向脱钩【阿波罗网AS】</a></li>
 <li><a href="/lifebaike/20220906/1781190.md">最佳儿童身高表，男孩女孩都齐全了！对照一下，你的孩子达标没？</a></li>
 <li><a href="/health/20220906/1781176.md">研究发现饭量和寿命有关，老年人别太和饭量较劲，怎么吃好？</a></li>
-<li><a href="/cnnews/20220907/1781397.md">公务员，也要失业了</a></li>
 <li><a href="/lifebaike/20220906/1781246.md">碧桂园森林城市：怎么变成了“鬼城”…</a></li>
 <li><a href="/cbnews/20220906/1781105.md">江峰：先检测再救援！四川地震遇清零封城政治大局，大白把地震逃生之人往家里赶；唐山、汶川和今日泸定地震，这一点是共同的【江峰漫谈20220905第541期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220907/1781474.md" target="_blank">四川震前地火四窜引燃山林 坊间忧大旱后还有巨震</a></li>
 <li><a href="/cbnews/20220907/1781414.md" target="_blank">11月印尼见习近平？拜登愿意</a></li>
 <li><a href="/cbnews/20220906/1781308.md" target="_blank">啥情况？江苏2女子吃火锅点200多瓶白酒、帐单474万</a></li>
 <li><a href="/cbnews/20220906/1781105.md" target="_blank">江峰：先检测再救援！四川地震遇清零封城政治大局，大白把地震逃生之人往家里赶；唐山、汶川和今日泸定地震，这一点是共同的【江峰漫谈20220905第541期】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220905/1780527.md" target="_blank">清华硕士被律所辞退后自杀，背后真相令人唏嘘</a></li>
 <li><a href="/cbnews/20220904/1780491.md" target="_blank">英国记者：这才是中国“最可怕”的地方</a></li>
 <li><a href="/cbnews/20220904/1780490.md" target="_blank">惊曝！美国前副总统彭斯将访台</a></li>
-<li><a href="/cbnews/20220904/1780385.md" target="_blank">栗战书证实将访韩国 还要去俄罗斯</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220907/1781478.md" target="_blank">拜登费城演讲：瞄准MAGA “追杀”川普</a></li>
+<li><a href="/comments/20220907/1781477.md" target="_blank">叮咚：想称兄道弟的排起长队，他因中国获历史机遇</a></li>
+<li><a href="/comments/20220907/1781476.md" target="_blank">乌军王牌第93机步旅痛击瓦格纳 克宫怂了</a></li>
+<li><a href="/comments/20220907/1781472.md" target="_blank">澳洲加息50个基点 警告进一步升息</a></li>
 <li><a href="/comments/20220907/1781455.md" target="_blank">中秋将至 月圆家难圆 谁之罪</a></li>
 <li><a href="/comments/20220907/1781454.md" target="_blank">着名出版商：「反川势力」希望把川普和拜登都拉下政坛</a></li>
 <li><a href="/comments/20220907/1781448.md" target="_blank">乘云行泥:一千天</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20220907/1781369.md" target="_blank">杨丞琳吃海鲜惹一身腥 曝赚人民币有套路</a></li>
 <li><a href="/comments/20220907/1781363.md" target="_blank">大陆各地异象频频！是否预示着习近平连任之路梦碎？</a></li>
 <li><a href="/comments/20220907/1781350.md" target="_blank">太平洋西北群岛奇观: 圣胡安群岛</a></li>
-<li><a href="/comments/20220907/1781348.md" target="_blank">亚马逊超市南加又多一家 无收银员购物体验如何</a></li>
-<li><a href="/comments/20220906/1781323.md" target="_blank">美准确发布四川地震警报 当局阻民众逃生被指「赶尽杀绝」</a></li>
-<li><a href="/comments/20220906/1781322.md" target="_blank">为阻网民截图变大翻译运动 中共恐怖维稳手段曝光</a></li>
-<li><a href="/comments/20220906/1781321.md" target="_blank">能源危机加剧 欧洲是否已经做好准备？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 
 </ul>
 </div>
