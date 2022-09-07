@@ -10,13 +10,12 @@
 <li><a href="/bannedvideo/20220906/1781229.md">郭伯雄到底多腐败？权钱交易，提拔全军一半以上干部；妻女卷入，趁机大敛财；染指武器采购，吞下惊人回扣。这些不是最大问题？习近平隐晦一句话，揭内部殊死斗。｜ #百年真相</a></li>
 <li><a href="/topimagenews/20220907/1781413.md">不要脸，楼市最荒诞的一幕出现了</a></li>
 <li><a href="/cnnews/20220907/1781345.md">拜登应该是准备要动手了</a></li>
-<li><a href="/bannedvideo/20220906/1781235.md">大先兆被忽视 恐有巨震在后头？又一地现异象 古预言成真？【两岸要闻】</a></li>
 <li><a href="/cnnews/20220907/1781359.md">血洗中国1.5亿后，她梦碎美国</a></li>
+<li><a href="/bannedvideo/20220906/1781235.md">大先兆被忽视 恐有巨震在后头？又一地现异象 古预言成真？【两岸要闻】</a></li>
 <li><a href="/cnnews/20220906/1781292.md">乌克兰勇伯提枪“砰”一声 俄军8500万美元最强战机没了</a></li>
 <li><a href="/cnnews/20220907/1781397.md">公务员，也要失业了</a></li>
-<li><a href="/ssgc/20220906/1781135.md">〖微博谈〗这不是防疫，而是杀人</a></li>
-<li><a href="/bannedvideo/20220907/1781381.md">中央禁军有异常 又一禁诗热传 习访哈国背后藏疑团【红朝禁闻】</a></li>
 <li><a href="/health/20220906/1781153.md">慢慢“窃走”寿命的行为，抽烟仅排第三，第一名很多人不在意</a></li>
+<li><a href="/bannedvideo/20220907/1781381.md">中央禁军有异常 又一禁诗热传 习访哈国背后藏疑团【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220906/1781143.md">爆炸瞬间“8千飞镖”射出夺命！俄军遭控对平民使用“一战”凶残武器</a></li>
 <li><a href="/bannedvideo/20220906/1781257.md">🔥习近平突下周出访 有几重目的；新人上位 赵立坚被挤下一位；侵乌战争促进俄中军事关系 但俄囯罕见批中共窃取技术；上海人工智能大会外商减少 中西研发走向脱钩【阿波罗网AS】</a></li>
 <li><a href="/lifebaike/20220906/1781190.md">最佳儿童身高表，男孩女孩都齐全了！对照一下，你的孩子达标没？</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/bannedvideo/20220907/1781349.md">新华社长傅华提出的三个“一分钟”要求涉嫌“欺君之罪”/无死角监控摄像头何时布满傅华家？</a></li>
 <li><a href="/comments/20220906/1781225.md">宋国诚：“皇帝的新衣”还能编多久？</a></li>
 <li><a href="/comments/20220906/1781196.md">科学家们的困惑：詹姆斯·韦伯看到的不应该存在的东西</a></li>
+<li><a href="/comments/20220906/1781193.md">只要让计算机外放这个“声音”，6米内的手机都能被入侵</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
 <li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
 
 </ul>
 </div>
