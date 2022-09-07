@@ -6,24 +6,24 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220907/1781502.md">王岐山与习近平决裂的前因后果及狗血过程！刘彦平与郭文贵互相忽悠，还是老公安技高一筹（一平论政2022/9/6)</a></li>
-<li><a href="/bannedvideo/20220907/1781566.md">厄运先知帕克9月预言：中共今年底或明年初解体，2024是关键，香港、西藏、台湾独立；英国新首相特拉斯更强硬。｜薇羽看世间 第536期 20220906</a></li>
 <li><a href="/comments/20220907/1781597.md">钟原：二十大常委之争 一人或成焦点</a></li>
+<li><a href="/bannedvideo/20220907/1781566.md">厄运先知帕克9月预言：中共今年底或明年初解体，2024是关键，香港、西藏、台湾独立；英国新首相特拉斯更强硬。｜薇羽看世间 第536期 20220906</a></li>
 <li><a href="/headline/20220907/1781631.md">港台媒透露中共政治局常委不会增至9人 习近平不会卸任三职中任何职位</a></li>
 <li><a href="/cnnews/20220907/1781568.md">成都一小区上千人突遭连夜转运隔离 居民怒了</a></li>
 <li><a href="/topimagenews/20220907/1781506.md">中国房地产骨牌被推倒 一系列连锁反应海啸般袭来</a></li>
 <li><a href="/bannedvideo/20220907/1781545.md">中共外交路线恐将巨变？风向标出现！菲驻美大使不忍了！表态共军挑衅【希望之声TV-国际风云】</a></li>
 <li><a href="/cbnews/20220907/1781633.md">二十大前 中共最高法前常务副院长遭开除</a></li>
 <li><a href="/bannedvideo/20220907/1781571.md">💥习“立储君”成大挑战！下周出访、不怕丢权？地震挑战西南各水坝及地下军工；泸定震感跨中国，震中被“管控”，当地人描述惨状，习近平下达指示；中共靠核酸赚多少？｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/bannedvideo/20220907/1781677.md">陈破空：习近平不稳！军方不服从。几桩事异常！传各大战区司令观望二十大？中纪委蹊跷，通报十大落马贪官，几乎都是习派。深圳一夜变鬼城</a></li>
 <li><a href="/cbnews/20220907/1781541.md">江峰：习近平五项重磅级政策出笼：生产芯片的举国机制能走多远；资源短缺还是资源抢夺；农村宅基地拯救房市还是压塌房市；两个字总结：‘抢’和‘占’【江峰漫谈20220906第542期】</a></li>
+<li><a href="/bannedvideo/20220907/1781677.md">陈破空：习近平不稳！军方不服从。几桩事异常！传各大战区司令观望二十大？中纪委蹊跷，通报十大落马贪官，几乎都是习派。深圳一夜变鬼城</a></li>
+<li><a href="/cbnews/20220908/1781818.md">习近平展开新动作，中共真的要结束清零了？</a></li>
 <li><a href="/topimagenews/20220907/1781665.md">腰斩！中国房地产崩塌重创这行业；人民币贬破7？变大威胁；名公司曝大规模毁约</a></li>
 <li><a href="/lifebaike/20220907/1781608.md">这4件家电：没必要买太贵的，能满足基本功能，普通款就足够了</a></li>
 <li><a href="/topimagenews/20220907/1781446.md">天有异象！微博疯传 蜉蝣满天飞 湖南飞虫尸体堆路上超厚</a></li>
-<li><a href="/cbnews/20220908/1781818.md">习近平展开新动作，中共真的要结束清零了？</a></li>
 <li><a href="/bannedvideo/20220907/1781648.md">中共这时垮台？网传：成都有难 这次来真的了！【两岸要闻】</a></li>
+<li><a href="/renquan/20220907/1781694.md">“闭关锁国有利论”掀起轩然大波</a></li>
 <li><a href="/ssgc/20220907/1781495.md">〖兲朝浮世绘〗党的钱包已开放收取贡献，韭菜们快打钱</a></li>
 <li><a href="/topimagenews/20220907/1781620.md">中共大论战开始？生存危机下内斗加剧【阿波罗网报道】</a></li>
-<li><a href="/renquan/20220907/1781694.md">“闭关锁国有利论”掀起轩然大波</a></li>
 <li><a href="/topimagenews/20220907/1781582.md">让攻台成为史上最棘手的军事行动之一！五角大厦瞄准了中共罩门…</a></li>
 <li><a href="/topimagenews/20220907/1781680.md">马斯克狂言酸“太老了”！川普呛：电动车充电时间比开车久 若当选将取消补贴</a></li>
 <li><a href="/baitai/20220907/1781499.md">习近平的弱点 狂妄与偏执如何威胁中国的未来</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 <li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 
 </ul>
 </div>
