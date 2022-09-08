@@ -16,9 +16,9 @@
 <li><a href="/topimagenews/20220908/1782027.md">谁会取代王岐山的角色，他会是习的接班人？</a></li>
 <li><a href="/baitai/20220908/1781816.md">蔡霞：习近平的弱点——狂妄与偏执如何威胁中国的未来</a></li>
 <li><a href="/bannedvideo/20220908/1781959.md">普京急了！曝家底全败光  俄军已大规模失败【北美新闻】</a></li>
+<li><a href="/bannedvideo/20220908/1782149.md">习闻言大怒,拒听专家组意见！2/3公务员被裁……“八个月无一个新生儿”东北大省数据没法看了……</a></li>
 <li><a href="/ssgc/20220908/1781914.md">〖兲朝浮世绘〗有这样坑干儿子的干爹吗？</a></li>
 <li><a href="/bannedvideo/20220908/1782038.md">8月7日凌晨，辽宁沈阳于洪区军用机场传出激烈枪声和爆炸声！</a></li>
-<li><a href="/bannedvideo/20220908/1782149.md">习闻言大怒,拒听专家组意见！2/3公务员被裁……“八个月无一个新生儿”东北大省数据没法看了……</a></li>
 <li><a href="/cbnews/20220908/1781924.md">栗战书：看到这样的俄罗斯…中共很高兴</a></li>
 <li><a href="/cbnews/20220908/1782158.md">21岁妹海底捞“吞下1食材”当场噎死丧命 惊悚过程曝光</a></li>
 <li><a href="/cnnews/20220908/1781822.md">404文章：贵阳求助“谁还有剩饭，给一点吧”</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220909/1782255.md" target="_blank">李燕铭：习近平打破惯例二十大前晋升上将 北部战区司令换人 沈阳凌晨战斗机轰鸣有爆炸声伴闪光 习强化军权为二十大保驾护航 严防江曾政变（二十）</a></li>
+<li><a href="/comments/20220909/1782254.md" target="_blank">英国女王伊丽莎白二世过世 享年96岁</a></li>
 <li><a href="/comments/20220909/1782250.md" target="_blank">96岁英国女王伊丽莎白二世驾崩</a></li>
 <li><a href="/comments/20220909/1782246.md" target="_blank">洛县的非法街头赛车和占街行为变得更加危险了</a></li>
 <li><a href="/comments/20220909/1782243.md" target="_blank">诗朗诵《中秋颂诗恩》｜感恩大法洪传三十周年，恭祝师尊中秋快乐</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220908/1782030.md" target="_blank">【独家重磅】李燕铭：李克强胡春华又一北大学弟被查 曾任北大团委书记 与中南海头号大案主角肖建华在北大有长期交集 担任江泽民马仔许智宏副手长达七年 李克强团派北大帮与江泽民集团北京帮江苏帮上海帮之间隐秘关系网络曝光 习近平李克强明争暗斗内幕（四七） 习近平连任与二十大常委争夺战（六三） 中南海头号大案肖建华案内幕（七）</a></li>
 <li><a href="/comments/20220908/1782029.md" target="_blank">惊！贵阳因疫情遭封控静默 居民断粮 一片喊饿声</a></li>
 <li><a href="/comments/20220908/1782020.md" target="_blank">日本麝香葡萄传入中国 年损失100亿日元</a></li>
-<li><a href="/comments/20220908/1782010.md" target="_blank">强强联手！英国「铁娘子」将与美一致抗中俄</a></li>
-<li><a href="/comments/20220908/1781997.md" target="_blank">美国芯片法祭禁令 先进技术企业10年禁赴中国设</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
 <li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
 <li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
 
 </ul>
 </div>
