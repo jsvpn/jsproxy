@@ -9,8 +9,8 @@
 <li><a href="/topimagenews/20220908/1782048.md">习近平要见普京 俄罗斯公开表态中共尴尬了</a></li>
 <li><a href="/topimagenews/20220908/1782068.md">习近平被高级黑大集锦！不看不知道，一看真好笑【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220908/1782006.md">曾审理薄熙来周永康令计划案 他到底为何会落马</a></li>
-<li><a href="/bannedvideo/20220908/1782149.md">习闻言大怒,拒听专家组意见！2/3公务员被裁……“八个月无一个新生儿”东北大省数据没法看了……</a></li>
 <li><a href="/bannedvideo/20220908/1782038.md">8月7日凌晨，辽宁沈阳于洪区军用机场传出激烈枪声和爆炸声！</a></li>
+<li><a href="/bannedvideo/20220908/1782149.md">习闻言大怒,拒听专家组意见！2/3公务员被裁……“八个月无一个新生儿”东北大省数据没法看了……</a></li>
 <li><a href="/topimagenews/20220908/1782027.md">谁会取代王岐山的角色，他会是习的接班人？</a></li>
 <li><a href="/bannedvideo/20220908/1781959.md">普京急了！曝家底全败光  俄军已大规模失败【北美新闻】</a></li>
 <li><a href="/ssgc/20220908/1781914.md">〖兲朝浮世绘〗有这样坑干儿子的干爹吗？</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/ssgc/20220908/1782141.md">胡德平批中研院文章 习失红二代支持</a></li>
 <li><a href="/topimagenews/20220908/1782047.md">习近平即将出访？二十大时间藏大凶兆！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220908/1781875.md">40万人超大社区静态管理，贵阳政府公开道歉了</a></li>
-<li><a href="/bannedvideo/20220908/1782025.md">突发！胡锡进所有社媒账户被摘去“环球时报特约评论员”认证！老胡终成佩洛西翻车事件牺牲品？</a></li>
+<li><a href="/comments/20220908/1782212.md">有大事发生？传沈阳凌晨战斗机轰鸣 有爆炸声伴闪光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220909/1782337.md" target="_blank">青岛救护车事故，正把寒气传递给每一位热心市民</a></li>
+<li><a href="/topimagenews/20220909/1782336.md" target="_blank">内阁早知情 英首相接小纸条脸色大变</a></li>
 <li><a href="/topimagenews/20220909/1782326.md" target="_blank">因为这件事 乌克兰渐从亲中转为挺台</a></li>
 <li><a href="/topimagenews/20220909/1782324.md" target="_blank">早润了！“名门痞女”陈凯歌前妻经历4段婚姻 现在巴黎生活惬意</a></li>
 <li><a href="/topimagenews/20220909/1782300.md" target="_blank">惊天霹雳！没有疫情也要做！全国常态化核酸检测终于来了 国家卫健委大变脸</a></li>
@@ -89,14 +91,16 @@
 <li><a href="/topimagenews/20220907/1781665.md" target="_blank">腰斩！中国房地产崩塌重创这行业；人民币贬破7？变大威胁；名公司曝大规模毁约</a></li>
 <li><a href="/topimagenews/20220907/1781647.md" target="_blank">睡起来！普丁会中打盹 官员作陪</a></li>
 <li><a href="/topimagenews/20220907/1781620.md" target="_blank">中共大论战开始？生存危机下内斗加剧【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220907/1781596.md" target="_blank">拜登拒列俄为支持恐怖主义国家？白宫曝恐酿3大后果</a></li>
-<li><a href="/topimagenews/20220907/1781582.md" target="_blank">让攻台成为史上最棘手的军事行动之一！五角大厦瞄准了中共罩门…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220909/1782335.md" target="_blank">习近平再度破例 二十大前突然换将 许其亮继续受倚重？</a></li>
+<li><a href="/comments/20220909/1782334.md" target="_blank">中共外交两遇尴尬：特拉斯当选 习普要会晤</a></li>
+<li><a href="/comments/20220909/1782333.md" target="_blank">英作家：新首相特拉斯将把英国带向何方？</a></li>
+<li><a href="/comments/20220909/1782332.md" target="_blank">【系列专题】永远的英国女王（2）全世界唯一把女王视为普通女人的男人</a></li>
 <li><a href="/comments/20220909/1782331.md" target="_blank">英国史上最长君主 伊丽莎白女王去世 享年96岁</a></li>
 <li><a href="/comments/20220909/1782320.md" target="_blank">中秋前夕 悉尼两姐妹致信澳洲政要 营救被中共非法抓捕的父亲</a></li>
 <li><a href="/comments/20220909/1782306.md" target="_blank">制衡中共 美推印太经济谈判不容忽视</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20220908/1782168.md" target="_blank">反映西北农民苦况 《隐入尘烟》意外火爆又被强制下映</a></li>
 <li><a href="/comments/20220908/1782151.md" target="_blank">【华府看天下】伟大领袖淹溺在「形势大好」谎言中 世界劝阻无效唯有脱钩</a></li>
 <li><a href="/comments/20220908/1782055.md" target="_blank">突然瘦了，当要警惕</a></li>
-<li><a href="/comments/20220908/1782054.md" target="_blank">1973年，美国教授让正常人进精神病院待了4年，结局如何</a></li>
-<li><a href="/comments/20220908/1782053.md" target="_blank">研究发现：健康饮​​食可改善年轻人的抑郁症</a></li>
-<li><a href="/comments/20220908/1782052.md" target="_blank">明月几时有，把酒问青天——话中秋</a></li>
-<li><a href="/comments/20220908/1782051.md" target="_blank">中秋聚会不小心就吃多了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
 
 </ul>
 </div>
