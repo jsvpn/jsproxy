@@ -14,16 +14,16 @@
 <li><a href="/cbnews/20220907/1781633.md">二十大前 中共最高法前常务副院长遭开除</a></li>
 <li><a href="/bannedvideo/20220907/1781571.md">💥习“立储君”成大挑战！下周出访、不怕丢权？地震挑战西南各水坝及地下军工；泸定震感跨中国，震中被“管控”，当地人描述惨状，习近平下达指示；中共靠核酸赚多少？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/bannedvideo/20220907/1781677.md">陈破空：习近平不稳！军方不服从。几桩事异常！传各大战区司令观望二十大？中纪委蹊跷，通报十大落马贪官，几乎都是习派。深圳一夜变鬼城</a></li>
-<li><a href="/cbnews/20220907/1781541.md">江峰：习近平五项重磅级政策出笼：生产芯片的举国机制能走多远；资源短缺还是资源抢夺；农村宅基地拯救房市还是压塌房市；两个字总结：‘抢’和‘占’【江峰漫谈20220906第542期】</a></li>
 <li><a href="/topimagenews/20220907/1781665.md">腰斩！中国房地产崩塌重创这行业；人民币贬破7？变大威胁；名公司曝大规模毁约</a></li>
+<li><a href="/bannedvideo/20220908/1781843.md">港媒爆料：20大已经确定了2件大事；习近平出访送普京一大见面礼；外交部高调批美网攻另有醉翁意？震区救援先核酸，新版大跃进来了！</a></li>
 <li><a href="/lifebaike/20220907/1781608.md">这4件家电：没必要买太贵的，能满足基本功能，普通款就足够了</a></li>
 <li><a href="/bannedvideo/20220908/1781800.md">王岐山如此定位7常委？习最大挑战居然是这个【红朝禁闻】</a></li>
 <li><a href="/bannedvideo/20220907/1781648.md">中共这时垮台？网传：成都有难 这次来真的了！【两岸要闻】</a></li>
-<li><a href="/bannedvideo/20220908/1781843.md">港媒爆料：20大已经确定了2件大事；习近平出访送普京一大见面礼；外交部高调批美网攻另有醉翁意？震区救援先核酸，新版大跃进来了！</a></li>
 <li><a href="/renquan/20220907/1781694.md">“闭关锁国有利论”掀起轩然大波</a></li>
 <li><a href="/topimagenews/20220907/1781680.md">马斯克狂言酸“太老了”！川普呛：电动车充电时间比开车久 若当选将取消补贴</a></li>
 <li><a href="/topimagenews/20220907/1781620.md">中共大论战开始？生存危机下内斗加剧【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220907/1781582.md">让攻台成为史上最棘手的军事行动之一！五角大厦瞄准了中共罩门…</a></li>
+<li><a href="/cnnews/20220908/1781844.md">被警秘带头欺负宋庆龄的文革岁月</a></li>
 <li><a href="/lifebaike/20220907/1781607.md">如果孩子不想读书了，就带孩子去这“3”个地方，比打骂更管用</a></li>
 <li><a href="/bannedvideo/20220907/1781737.md">🔥习近平20大后将有大动作！3大信号证实；露怯！“李克强不知长江以前就是倒流”；润了！潘石屹夫妇双双辞职 SOHO中国股价暴涨； 踢爆！中共对美国禁售AI芯片需求实况【阿波罗网TL】</a></li>
 <li><a href="/cnnews/20220908/1781822.md">404文章：贵阳求助“谁还有剩饭，给一点吧”</a></li>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220908/1782027.md" target="_blank">谁会取代王岐山的角色，他会是习的接班人？</a></li>
+<li><a href="/topimagenews/20220908/1782026.md" target="_blank">欧洲能源危机梦魇成真！专家曝普丁底牌尽出：没戏唱了</a></li>
 <li><a href="/topimagenews/20220908/1782012.md" target="_blank">普丁：俄罗斯开战是为了“结束冲突 帮助乌克兰人民”</a></li>
 <li><a href="/topimagenews/20220908/1781992.md" target="_blank">改变“美苏冷战格局”：别连科驾MiG-25降落日本 投奔自由</a></li>
 <li><a href="/topimagenews/20220908/1781991.md" target="_blank">“梦想”！朱立伦两岸对话？泽连斯基求救马克宏热线曝光</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20220906/1780972.md" target="_blank">这个视频很震撼</a></li>
 <li><a href="/topimagenews/20220905/1780872.md" target="_blank">上海帮最后悔的一张照片：“应勇，是民族的脊梁”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220905/1780844.md" target="_blank">港媒放风：二十大人事布局，更多“老干部”将上位【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220905/1780808.md" target="_blank">英国宣布再迎女首相! 外交大臣特拉斯上任大位</a></li>
-<li><a href="/topimagenews/20220905/1780769.md" target="_blank">俄罗斯损失惨重 俄军新部队11月才能出动 被迫搬出苏联旧装备</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220908/1782020.md" target="_blank">日本麝香葡萄传入中国 年损失100亿日元</a></li>
 <li><a href="/comments/20220908/1782010.md" target="_blank">强强联手！英国「铁娘子」将与美一致抗中俄</a></li>
 <li><a href="/comments/20220908/1781997.md" target="_blank">美国芯片法祭禁令 先进技术企业10年禁赴中国设</a></li>
 <li><a href="/comments/20220908/1781996.md" target="_blank">中国改用卢布和人民币买俄能源 被指抱团取暖</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220908/1781839.md" target="_blank">新英相特拉斯组内阁 符合北京最坏预期</a></li>
 <li><a href="/comments/20220908/1781826.md" target="_blank">中共二十大两件事已明确 分析指一职位特殊 不受“七上八下”限制</a></li>
 <li><a href="/comments/20220908/1781814.md" target="_blank">专栏 | 劳工通讯：沃华公司劳工工伤索赔未果(一)</a></li>
-<li><a href="/comments/20220908/1781802.md" target="_blank">李燕铭：习近平接班人有七备选？二十大没机会入常 中南海放风：更多老干部将上位 一人或破格晋升政治局委员 胡春华被习近平敲打接任总理有点悬 习政敌或挟持内政外交危机继续控制总理人选 习近平连任与二十大常委争夺战（六一） 二十大高层人事大战（四九）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
 
 </ul>
 </div>
