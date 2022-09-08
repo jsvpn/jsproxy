@@ -13,21 +13,21 @@
 <li><a href="/bannedvideo/20220908/1781843.md">港媒爆料：20大已经确定了2件大事；习近平出访送普京一大见面礼；外交部高调批美网攻另有醉翁意？震区救援先核酸，新版大跃进来了！</a></li>
 <li><a href="/renquan/20220907/1781694.md">“闭关锁国有利论”掀起轩然大波</a></li>
 <li><a href="/topimagenews/20220908/1782033.md">习近平犯大忌恐丢权？或下令逮捕更多高官 王岐山小命难保？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220907/1781680.md">马斯克狂言酸“太老了”！川普呛：电动车充电时间比开车久 若当选将取消补贴</a></li>
 <li><a href="/cnnews/20220908/1782006.md">曾审理薄熙来周永康令计划案 他到底为何会落马</a></li>
+<li><a href="/topimagenews/20220907/1781680.md">马斯克狂言酸“太老了”！川普呛：电动车充电时间比开车久 若当选将取消补贴</a></li>
 <li><a href="/cnnews/20220908/1781844.md">被警秘带头欺负宋庆龄的文革岁月</a></li>
 <li><a href="/bannedvideo/20220908/1781959.md">普京急了！曝家底全败光  俄军已大规模失败【北美新闻】</a></li>
+<li><a href="/topimagenews/20220908/1782027.md">谁会取代王岐山的角色，他会是习的接班人？</a></li>
 <li><a href="/headline/20220907/1781650.md">因晋升无望愤而辞职惹毛习 全国政协原常委沈德咏被双开</a></li>
 <li><a href="/ssgc/20220908/1781914.md">〖兲朝浮世绘〗有这样坑干儿子的干爹吗？</a></li>
+<li><a href="/topimagenews/20220908/1782068.md">习近平被高级黑大集锦！不看不知道，一看真好笑【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220907/1781737.md">🔥习近平20大后将有大动作！3大信号证实；露怯！“李克强不知长江以前就是倒流”；润了！潘石屹夫妇双双辞职 SOHO中国股价暴涨； 踢爆！中共对美国禁售AI芯片需求实况【阿波罗网TL】</a></li>
-<li><a href="/topimagenews/20220908/1782027.md">谁会取代王岐山的角色，他会是习的接班人？</a></li>
 <li><a href="/cnnews/20220908/1781822.md">404文章：贵阳求助“谁还有剩饭，给一点吧”</a></li>
 <li><a href="/baitai/20220908/1781816.md">蔡霞：习近平的弱点——狂妄与偏执如何威胁中国的未来</a></li>
 <li><a href="/bannedvideo/20220907/1781668.md">中国驻澳大使再出击：中国人民选择习近平抛弃邓小平；反对统一的台湾人只是一小撮；海外维族人被洗脑了；中国政府不能干预司法但可以未审先判。稍后出评论视频</a></li>
+<li><a href="/topimagenews/20220908/1782048.md">习近平要见普京 俄罗斯公开表态中共尴尬了</a></li>
 <li><a href="/topimagenews/20220907/1781727.md">乌克兰俄军传酝酿罢战 “整个星期没有水…”没粮没饷</a></li>
 <li><a href="/cbnews/20220908/1781924.md">栗战书：看到这样的俄罗斯…中共很高兴</a></li>
-<li><a href="/topimagenews/20220908/1782068.md">习近平被高级黑大集锦！不看不知道，一看真好笑【阿波罗网报道】</a></li>
-<li><a href="/comments/20220908/1781826.md">中共二十大两件事已明确 分析指一职位特殊 不受“七上八下”限制</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 
 </ul>
 </div>
