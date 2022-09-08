@@ -14,8 +14,8 @@
 <li><a href="/bannedvideo/20220908/1782149.md">习闻言大怒,拒听专家组意见！2/3公务员被裁……“八个月无一个新生儿”东北大省数据没法看了……</a></li>
 <li><a href="/topimagenews/20220908/1782027.md">谁会取代王岐山的角色，他会是习的接班人？</a></li>
 <li><a href="/bannedvideo/20220908/1781959.md">普京急了！曝家底全败光  俄军已大规模失败【北美新闻】</a></li>
-<li><a href="/ssgc/20220908/1781914.md">〖兲朝浮世绘〗有这样坑干儿子的干爹吗？</a></li>
 <li><a href="/bannedvideo/20220908/1782038.md">8月7日凌晨，辽宁沈阳于洪区军用机场传出激烈枪声和爆炸声！</a></li>
+<li><a href="/ssgc/20220908/1781914.md">〖兲朝浮世绘〗有这样坑干儿子的干爹吗？</a></li>
 <li><a href="/cbnews/20220908/1782158.md">21岁妹海底捞“吞下1食材”当场噎死丧命 惊悚过程曝光</a></li>
 <li><a href="/cbnews/20220908/1781924.md">栗战书：看到这样的俄罗斯…中共很高兴</a></li>
 <li><a href="/topimagenews/20220908/1782039.md">习近平屈辱地失败？为中共垮台铺平道路【阿波罗网报道】</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220909/1782300.md" target="_blank">惊天霹雳！没有疫情也要做！全国常态化核酸检测终于来了 国家卫健委大变脸</a></li>
 <li><a href="/topimagenews/20220909/1782272.md" target="_blank">女王驾崩 英国“伦敦桥计划”全面启动 查尔斯王子继任</a></li>
 <li><a href="/topimagenews/20220908/1782093.md" target="_blank">普丁狠断欧洲天然气 专家揭真正盘算：在等这时机…</a></li>
 <li><a href="/topimagenews/20220908/1782068.md" target="_blank">习近平被高级黑大集锦！不看不知道，一看真好笑【阿波罗网报道】</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220907/1781582.md" target="_blank">让攻台成为史上最棘手的军事行动之一！五角大厦瞄准了中共罩门…</a></li>
 <li><a href="/topimagenews/20220907/1781506.md" target="_blank">中国房地产骨牌被推倒 一系列连锁反应海啸般袭来</a></li>
 <li><a href="/topimagenews/20220907/1781446.md" target="_blank">天有异象！微博疯传 蜉蝣满天飞 湖南飞虫尸体堆路上超厚</a></li>
-<li><a href="/topimagenews/20220907/1781413.md" target="_blank">不要脸，楼市最荒诞的一幕出现了</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220909/1782306.md" target="_blank">制衡中共 美推印太经济谈判不容忽视</a></li>
 <li><a href="/comments/20220909/1782291.md" target="_blank">【系列专题】永远的英国女王 （1）英国在位时间最长的君主</a></li>
 <li><a href="/comments/20220909/1782259.md" target="_blank">英国史上最长君主 伊丽莎白女王逝世 享耆寿96岁</a></li>
 <li><a href="/comments/20220909/1782257.md" target="_blank">6大改变！推倒中共网络集权高墙的契机来了</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220908/1782051.md" target="_blank">中秋聚会不小心就吃多了</a></li>
 <li><a href="/comments/20220908/1781777.md" target="_blank">严歌苓(下) ：我没有绝望 中国还能再往哪儿坏呢｜观点</a></li>
 <li><a href="/comments/20220908/1782036.md" target="_blank">中共倒打美国一耙 专家揭中共老底</a></li>
-<li><a href="/comments/20220908/1782035.md" target="_blank">微信撕掉面具 通知海外用户数据送中</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 <li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
 
 </ul>
 </div>
