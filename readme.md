@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220908/1782048.md">习近平要见普京 俄罗斯公开表态中共尴尬了</a></li>
-<li><a href="/bannedvideo/20220908/1782038.md">8月7日凌晨，辽宁沈阳于洪区军用机场传出激烈枪声和爆炸声！</a></li>
 <li><a href="/topimagenews/20220908/1782068.md">习近平被高级黑大集锦！不看不知道，一看真好笑【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220908/1782149.md">习闻言大怒,拒听专家组意见！2/3公务员被裁……“八个月无一个新生儿”东北大省数据没法看了……</a></li>
 <li><a href="/topimagenews/20220909/1782300.md">惊天霹雳！没有疫情也要做！全国常态化核酸检测终于来了 国家卫健委大变脸</a></li>
 <li><a href="/cbnews/20220908/1782158.md">21岁妹海底捞“吞下1食材”当场噎死丧命 惊悚过程曝光</a></li>
 <li><a href="/cbnews/20220909/1782223.md">中国宣布中秋连假至10月底 需核酸阴性才得出行</a></li>
 <li><a href="/cnnews/20220909/1782281.md">iPhone 14真的捅破了天，国产高端手机更难了</a></li>
-<li><a href="/bannedvideo/20220909/1782308.md">红二代海外长文，曝习近平上位秘史；面斥王岐山，放过贾庆林，与县委书记较劲，敲打刘亚洲兄弟，这一切是如何发生的？习近平是如何利用“党内民主”搞定20大的？</a></li>
-<li><a href="/topimagenews/20220908/1782039.md">习近平屈辱地失败？为中共垮台铺平道路【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220909/1782336.md">内阁早知情 英首相接小纸条脸色大变</a></li>
+<li><a href="/bannedvideo/20220909/1782308.md">红二代海外长文，曝习近平上位秘史；面斥王岐山，放过贾庆林，与县委书记较劲，敲打刘亚洲兄弟，这一切是如何发生的？习近平是如何利用“党内民主”搞定20大的？</a></li>
 <li><a href="/topimagenews/20220908/1782067.md">乌克兰将领惊人预言 曝俄乌大战结束时间</a></li>
-<li><a href="/bannedvideo/20220909/1782292.md">不止公务员减薪！更爆炸消息出现 自媒体人深扒文全网被删【红朝禁闻】</a></li>
 <li><a href="/comments/20220909/1782229.md">传四川泸定地震死亡人数惊人 官媒噤声</a></li>
+<li><a href="/bannedvideo/20220909/1782292.md">不止公务员减薪！更爆炸消息出现 自媒体人深扒文全网被删【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220909/1782272.md">女王驾崩 英国“伦敦桥计划”全面启动 查尔斯王子继任</a></li>
 <li><a href="/topimagenews/20220908/1782093.md">普丁狠断欧洲天然气 专家揭真正盘算：在等这时机…</a></li>
 <li><a href="/ssgc/20220908/1782141.md">胡德平批中研院文章 习失红二代支持</a></li>
+<li><a href="/topimagenews/20220909/1782374.md">比经济萧条更可怕：男人都不追女人了</a></li>
 <li><a href="/lifebaike/20220908/1782086.md">路由器要不要每天重启？多亏宽带师傅透露，难怪网速一天比一天慢</a></li>
-<li><a href="/topimagenews/20220909/1782324.md">早润了！“名门痞女”陈凯歌前妻经历4段婚姻 现在巴黎生活惬意</a></li>
 <li><a href="/topimagenews/20220908/1782061.md">“快找身份证去银行取钱！” 成都独居老人死后留20万现金和存折 家人“开心大笑…</a></li>
+<li><a href="/topimagenews/20220909/1782324.md">早润了！“名门痞女”陈凯歌前妻经历4段婚姻 现在巴黎生活惬意</a></li>
 <li><a href="/comments/20220908/1782212.md">有大事发生？传沈阳凌晨战斗机轰鸣 有爆炸声伴闪光</a></li>
 <li><a href="/cnnews/20220908/1782106.md">成都社区邻居吵架 她开窗看热闹 惊见“整栋楼都是脑袋”…</a></li>
-<li><a href="/topimagenews/20220909/1782374.md">比经济萧条更可怕：男人都不追女人了</a></li>
+<li><a href="/bannedvideo/20220908/1782116.md">二十大还没开，习近平为何急见普京？普京切断欧洲天然气，中俄大玩博奕，扭转台湾乌克兰战局？（2022.9.8）｜世界的十字路口 唐浩</a></li>
+<li><a href="/comments/20220909/1782335.md">习近平再度破例 二十大前突然换将 许其亮继续受倚重？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220909/1782489.md" target="_blank">川普曝FBI非法抄走医疗纪录 再透参选意愿</a></li>
 <li><a href="/comments/20220909/1782484.md" target="_blank">美中期选举冲刺！两党激烈争夺两院控制权</a></li>
 <li><a href="/comments/20220909/1782479.md" target="_blank">英女王亲自认证 中共访团粗鲁无礼</a></li>
 <li><a href="/comments/20220909/1782476.md" target="_blank">奇！英国女王去世 白金汉宫上空现双彩虹 大陆网友赞</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220909/1782331.md" target="_blank">英国史上最长君主 伊丽莎白女王去世 享年96岁</a></li>
 <li><a href="/comments/20220909/1782320.md" target="_blank">中秋前夕 悉尼两姐妹致信澳洲政要 营救被中共非法抓捕的父亲</a></li>
 <li><a href="/comments/20220909/1782306.md" target="_blank">制衡中共 美推印太经济谈判不容忽视</a></li>
-<li><a href="/comments/20220909/1782291.md" target="_blank">【系列专题】永远的英国女王 （1）英国在位时间最长的君主</a></li>
 
 </ul>
 </div>
@@ -129,30 +129,30 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 <li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
 
 </ul>
