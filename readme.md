@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220909/1782300.md">惊天霹雳！没有疫情也要做！全国常态化核酸检测终于来了 国家卫健委大变脸</a></li>
-<li><a href="/cnnews/20220909/1782281.md">iPhone 14真的捅破了天，国产高端手机更难了</a></li>
 <li><a href="/bannedvideo/20220909/1782308.md">红二代海外长文，曝习近平上位秘史；面斥王岐山，放过贾庆林，与县委书记较劲，敲打刘亚洲兄弟，这一切是如何发生的？习近平是如何利用“党内民主”搞定20大的？</a></li>
 <li><a href="/bannedvideo/20220909/1782292.md">不止公务员减薪！更爆炸消息出现 自媒体人深扒文全网被删【红朝禁闻】</a></li>
 <li><a href="/cnnews/20220909/1782483.md">习近平向太子党及军队高层发出迄今为止最强烈警告【阿波罗网报导】</a></li>
 <li><a href="/topimagenews/20220909/1782336.md">内阁早知情 英首相接小纸条脸色大变</a></li>
 <li><a href="/topimagenews/20220909/1782374.md">比经济萧条更可怕：男人都不追女人了</a></li>
 <li><a href="/topimagenews/20220909/1782481.md">习近平连任大变数【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20220909/1782407.md">天亮时分：英女王病逝；王岐山抱怨习近平；传沈阳出现枪炮声，原北部战区司令哪去了？北上广深房价下跌，有钱的人都在润（政论天下第786集 20220908）</a></li>
 <li><a href="/cnnews/20220909/1782488.md">三大信号佐证！习近平二十大后或有大动作【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20220909/1782407.md">天亮时分：英女王病逝；王岐山抱怨习近平；传沈阳出现枪炮声，原北部战区司令哪去了？北上广深房价下跌，有钱的人都在润（政论天下第786集 20220908）</a></li>
 <li><a href="/topimagenews/20220909/1782501.md">若这法案通过，中美恐摊牌，甚至断交！？</a></li>
-<li><a href="/topimagenews/20220909/1782272.md">女王驾崩 英国“伦敦桥计划”全面启动 查尔斯王子继任</a></li>
 <li><a href="/cnnews/20220909/1782491.md">中共给了杨丞琳什么任务</a></li>
 <li><a href="/comments/20220909/1782335.md">习近平再度破例 二十大前突然换将 许其亮继续受倚重？</a></li>
 <li><a href="/topimagenews/20220909/1782485.md">突发：白宫或颁布行政命令！审查美国在中国的…</a></li>
-<li><a href="/topimagenews/20220909/1782502.md">英女王“皇家认证”中共访团粗鲁无礼 查尔斯也曾吐：中共领导人像恐怖蜡像</a></li>
 <li><a href="/finance/20220909/1782327.md">北上广深也开始了！全国房价跌得鼻青脸肿</a></li>
 <li><a href="/topimagenews/20220909/1782324.md">早润了！“名门痞女”陈凯歌前妻经历4段婚姻 现在巴黎生活惬意</a></li>
+<li><a href="/topimagenews/20220909/1782502.md">英女王“皇家认证”中共访团粗鲁无礼 查尔斯也曾吐：中共领导人像恐怖蜡像</a></li>
 <li><a href="/cnnews/20220909/1782528.md">国学大师季羡林：一条老狗</a></li>
 <li><a href="/topimagenews/20220909/1782337.md">青岛救护车事故，正把寒气传递给每一位热心市民</a></li>
 <li><a href="/bannedvideo/20220909/1782577.md">🔥20大后，习近平启动基石计划；北上广深也开始了！全国房价跌得鼻青脸肿；完了！中共天下第一村；中共外汇储备降至4年低点；中国经济就三驾马车还全熄火；国际财团撤资中国抛售腾讯【阿波罗网 Y X】</a></li>
 <li><a href="/ssgc/20220909/1782451.md">〖兲朝浮世绘〗安徒生得罪了习近平 他的童话被踢出幼儿园</a></li>
+<li><a href="/headline/20220909/1782550.md">中共二十大前 习近平撤换北部战区司令</a></li>
 <li><a href="/topimagenews/20220909/1782542.md">两岸恶化 中共会攻台？美芯片CEO惊人预测13字</a></li>
+<li><a href="/cnnews/20220909/1782388.md">女王生前最后亮相 “手背有大片瘀青”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
 <li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
 
 </ul>
 </div>
