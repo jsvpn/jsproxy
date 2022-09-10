@@ -11,16 +11,16 @@
 <li><a href="/cnnews/20220910/1782831.md">贪官为移民让妻子和老外假结婚，6年给老外生3孩</a></li>
 <li><a href="/topimagenews/20220910/1782910.md">向习近平连开四炮！两股力量大较量！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220910/1782712.md">疫情下，有人开始仇恨身边的人</a></li>
-<li><a href="/topimagenews/20220910/1782929.md">华为恐惧！没喊撤出俄罗斯 遭俄媒惊爆…</a></li>
 <li><a href="/bannedvideo/20220910/1782881.md">李桥铭兵变未遂，王强平息有功？重磅信号：习近平铁定连任？一人晋生一人失踪，一个动作三大诡异；中秋特别直播，自媒大咖聚会【新闻看点 李沐阳9.9】</a></li>
+<li><a href="/topimagenews/20220910/1782929.md">华为恐惧！没喊撤出俄罗斯 遭俄媒惊爆…</a></li>
 <li><a href="/topimagenews/20220910/1782869.md">【微博精粹】共产党这个物种再也见不到人类下一个中秋了</a></li>
 <li><a href="/cnnews/20220910/1782737.md">老百姓对中共的满意度超过90% 舆论哗然官媒关评</a></li>
 <li><a href="/cbnews/20220910/1782837.md">天亮时分：政治局修改党章，释放习去留关键信号；大转折：俄军司令被生擒！查尔斯三世继任英国国王，灵媒预言查尔斯退位和中共垮台会很快发生（政论天下第787集 20220909）</a></li>
-<li><a href="/topimagenews/20220910/1782943.md">习近平将在国内进一步收紧控制 中国未来面临更多动荡【阿波罗网报导】</a></li>
-<li><a href="/topimagenews/20220910/1782986.md">中国4大电信宣布：美国买的iPhone14不能在中国用？</a></li>
 <li><a href="/yule/20220910/1782982.md">陶红因病去世，前夫乐嘉携女儿求福至拉萨</a></li>
-<li><a href="/ssgc/20220910/1782800.md">〖兲朝浮世绘〗精准防控 迅雷不及掩耳</a></li>
+<li><a href="/topimagenews/20220910/1782986.md">中国4大电信宣布：美国买的iPhone14不能在中国用？</a></li>
+<li><a href="/topimagenews/20220910/1782943.md">习近平将在国内进一步收紧控制 中国未来面临更多动荡【阿波罗网报导】</a></li>
 <li><a href="/cbnews/20220910/1782987.md">不准谈习连任 中国《原神》玩家打游戏傻眼了</a></li>
+<li><a href="/ssgc/20220910/1782800.md">〖兲朝浮世绘〗精准防控 迅雷不及掩耳</a></li>
 <li><a href="/bannedvideo/20220910/1782984.md">政治局吃了豹子胆？重要人物缺席 习将遇一难关 【两岸要闻】</a></li>
 <li><a href="/cnnews/20220910/1782946.md">反习派放风：判断习近平影响力，重要指标是看…【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220910/1782756.md">林彪生命中最后七天，以及最后冲向机场的细节</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
 <li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 
 </ul>
 </div>
