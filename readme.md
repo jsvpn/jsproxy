@@ -15,19 +15,19 @@
 <li><a href="/cnnews/20220910/1782712.md">疫情下，有人开始仇恨身边的人</a></li>
 <li><a href="/cnnews/20220909/1782630.md">德州夫妇20万美元买下闲置20年空屋 意外发现屋内都是宝</a></li>
 <li><a href="/topimagenews/20220910/1782869.md">【微博精粹】共产党这个物种再也见不到人类下一个中秋了</a></li>
-<li><a href="/topimagenews/20220910/1782943.md">习近平将在国内进一步收紧控制 中国未来面临更多动荡【阿波罗网报导】</a></li>
 <li><a href="/cnnews/20220910/1782737.md">老百姓对中共的满意度超过90% 舆论哗然官媒关评</a></li>
+<li><a href="/topimagenews/20220910/1782943.md">习近平将在国内进一步收紧控制 中国未来面临更多动荡【阿波罗网报导】</a></li>
 <li><a href="/cbnews/20220910/1782837.md">天亮时分：政治局修改党章，释放习去留关键信号；大转折：俄军司令被生擒！查尔斯三世继任英国国王，灵媒预言查尔斯退位和中共垮台会很快发生（政论天下第787集 20220909）</a></li>
 <li><a href="/bannedvideo/20220910/1782881.md">李桥铭兵变未遂，王强平息有功？重磅信号：习近平铁定连任？一人晋生一人失踪，一个动作三大诡异；中秋特别直播，自媒大咖聚会【新闻看点 李沐阳9.9】</a></li>
 <li><a href="/ssgc/20220910/1782800.md">〖兲朝浮世绘〗精准防控 迅雷不及掩耳</a></li>
-<li><a href="/cnnews/20220910/1782756.md">林彪生命中最后七天，以及最后冲向机场的细节</a></li>
+<li><a href="/topimagenews/20220910/1782986.md">中国4大电信宣布：美国买的iPhone14不能在中国用？</a></li>
 <li><a href="/cnnews/20220910/1782946.md">反习派放风：判断习近平影响力，重要指标是看…【阿波罗网报道】</a></li>
-<li><a href="/headline/20220910/1782669.md">中国防疫政策急转弯 宣布恢复常态化核酸检测至二十大闭幕后</a></li>
+<li><a href="/cnnews/20220910/1782756.md">林彪生命中最后七天，以及最后冲向机场的细节</a></li>
 <li><a href="/topimagenews/20220910/1782868.md">冒充中校遭乌克兰俘虏 被认出竟是中将！二战以来最高阶俄罗斯战俘…</a></li>
+<li><a href="/headline/20220910/1782669.md">中国防疫政策急转弯 宣布恢复常态化核酸检测至二十大闭幕后</a></li>
 <li><a href="/worldnews/20220909/1782645.md">确认了，他是二战以来俄被俘最高级军官</a></li>
 <li><a href="/cnnews/20220910/1782719.md">墨西哥电视台播放“风暴中的UFO”引起轰动</a></li>
-<li><a href="/bannedvideo/20220910/1782838.md">文昭：来了！习近平释出最强连任信号、四个字向中共崩溃发起最强冲刺！她驾崩、与他要崩的故事</a></li>
-<li><a href="/topimagenews/20220910/1782986.md">中国4大电信宣布：美国买的iPhone14不能在中国用？</a></li>
+<li><a href="/bannedvideo/20220910/1782704.md">深圳华强花园，大批居民推倒围栏，冲上街头抗议。抗议者高呼：解封！解封！解封！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220910/1783035.md" target="_blank">中俄虐行争议无解 联合国人权理事会几近失能</a></li>
 <li><a href="/cbnews/20220910/1782987.md" target="_blank">不准谈习连任 中国《原神》玩家打游戏傻眼了</a></li>
 <li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
 <li><a href="/cbnews/20220910/1782882.md" target="_blank">台海恶化大陆会攻台？美芯片CEO惊人预测13字</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220908/1781976.md" target="_blank">中疾控：中国防疫 人民至上生命至上 网友：感谢领导不杀之恩</a></li>
 <li><a href="/cbnews/20220908/1781975.md" target="_blank">天亮时分：习出访会见普京，构建中俄内循环；中共经济三个引擎均熄火，集中力量为闭关锁国做准备；马斯克：如果第三次世界大战爆发&#8230;&#8230;（政论天下第785集 20220907）</a></li>
 <li><a href="/cbnews/20220908/1781974.md" target="_blank">江峰：俄罗斯购买北朝鲜军火？独家分析疑点重重，谁是幕後交易者？美国芯片法案白宫开後门，英伟达AI芯片输送中共无人机，成俄乌战争俄罗斯大杀器【江峰漫谈20220907第543期】</a></li>
-<li><a href="/cbnews/20220908/1781925.md" target="_blank">拜习真要G20会晤?白宫:不预期会有重大成果</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
 <li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 
 </ul>
 </div>
