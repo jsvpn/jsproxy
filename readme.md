@@ -5,19 +5,17 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cbnews/20220909/1782627.md">太累懒走路？ 王思聪坐轮椅出游 穿5万元球鞋 身边美女围绕</a></li>
 <li><a href="/cbnews/20220910/1782711.md">自信满满 习近平提前黄袍加身</a></li>
 <li><a href="/topimagenews/20220910/1782780.md">倒计时！中国建筑业走上末路</a></li>
 <li><a href="/cnnews/20220910/1782684.md">67岁王健林罕见现身，身材暴瘦走路踉跄</a></li>
 <li><a href="/topimagenews/20220910/1782910.md">向习近平连开四炮！两股力量大较量！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220910/1782831.md">贪官为移民让妻子和老外假结婚，6年给老外生3孩</a></li>
-<li><a href="/topimagenews/20220910/1782929.md">华为恐惧！没喊撤出俄罗斯 遭俄媒惊爆…</a></li>
 <li><a href="/cnnews/20220910/1782712.md">疫情下，有人开始仇恨身边的人</a></li>
-<li><a href="/cnnews/20220909/1782630.md">德州夫妇20万美元买下闲置20年空屋 意外发现屋内都是宝</a></li>
+<li><a href="/topimagenews/20220910/1782929.md">华为恐惧！没喊撤出俄罗斯 遭俄媒惊爆…</a></li>
 <li><a href="/topimagenews/20220910/1782869.md">【微博精粹】共产党这个物种再也见不到人类下一个中秋了</a></li>
 <li><a href="/cnnews/20220910/1782737.md">老百姓对中共的满意度超过90% 舆论哗然官媒关评</a></li>
-<li><a href="/topimagenews/20220910/1782943.md">习近平将在国内进一步收紧控制 中国未来面临更多动荡【阿波罗网报导】</a></li>
 <li><a href="/cbnews/20220910/1782837.md">天亮时分：政治局修改党章，释放习去留关键信号；大转折：俄军司令被生擒！查尔斯三世继任英国国王，灵媒预言查尔斯退位和中共垮台会很快发生（政论天下第787集 20220909）</a></li>
+<li><a href="/topimagenews/20220910/1782943.md">习近平将在国内进一步收紧控制 中国未来面临更多动荡【阿波罗网报导】</a></li>
 <li><a href="/bannedvideo/20220910/1782881.md">李桥铭兵变未遂，王强平息有功？重磅信号：习近平铁定连任？一人晋生一人失踪，一个动作三大诡异；中秋特别直播，自媒大咖聚会【新闻看点 李沐阳9.9】</a></li>
 <li><a href="/ssgc/20220910/1782800.md">〖兲朝浮世绘〗精准防控 迅雷不及掩耳</a></li>
 <li><a href="/topimagenews/20220910/1782986.md">中国4大电信宣布：美国买的iPhone14不能在中国用？</a></li>
@@ -25,6 +23,8 @@
 <li><a href="/cnnews/20220910/1782756.md">林彪生命中最后七天，以及最后冲向机场的细节</a></li>
 <li><a href="/topimagenews/20220910/1782868.md">冒充中校遭乌克兰俘虏 被认出竟是中将！二战以来最高阶俄罗斯战俘…</a></li>
 <li><a href="/headline/20220910/1782669.md">中国防疫政策急转弯 宣布恢复常态化核酸检测至二十大闭幕后</a></li>
+<li><a href="/yule/20220910/1782982.md">陶红因病去世，前夫乐嘉携女儿求福至拉萨</a></li>
+<li><a href="/cbnews/20220910/1782987.md">不准谈习连任 中国《原神》玩家打游戏傻眼了</a></li>
 <li><a href="/worldnews/20220909/1782645.md">确认了，他是二战以来俄被俘最高级军官</a></li>
 <li><a href="/cnnews/20220910/1782719.md">墨西哥电视台播放“风暴中的UFO”引起轰动</a></li>
 <li><a href="/bannedvideo/20220910/1782704.md">深圳华强花园，大批居民推倒围栏，冲上街头抗议。抗议者高呼：解封！解封！解封！</a></li>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220910/1783046.md" target="_blank">震惊！贵阳志愿者下跪讨食 女孩跳楼 女孩差点饿死</a></li>
+<li><a href="/comments/20220910/1783041.md" target="_blank">查尔斯三世今日登基 正式即位英国国王</a></li>
+<li><a href="/comments/20220910/1783040.md" target="_blank">表姐伊莉莎白二世辞世 丹麦女王︰我会非常想念她</a></li>
+<li><a href="/comments/20220910/1783039.md" target="_blank">英女王辞世 逾470万张纸钞、290亿枚硬币将汰换</a></li>
 <li><a href="/comments/20220910/1783031.md" target="_blank">大陆民众祝福李洪志大师中秋快乐 盼早日回中国</a></li>
 <li><a href="/comments/20220910/1783029.md" target="_blank">中国兰州公交公司财政无以为继 要员工贷款发薪给自己</a></li>
 <li><a href="/comments/20220910/1783028.md" target="_blank">2085年才能打开！ 英女王68年前首访澳洲神秘亲笔信引发讨论</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20220910/1782897.md" target="_blank">偶然发现的旧文：一个反动分子的自白</a></li>
 <li><a href="/comments/20220910/1782894.md" target="_blank">李燕铭：美国大使暗示建立亚太北约围堵中共 美日军事合作升级 日防长会见美太平洋陆军司令 美军基地司令强调威慑力 日本护卫舰与美加海军实施联合训练 日印计划实施战机联演 韩美将重启延伸威慑战略磋商机制 美国领衔全球军事围堵中共（十五）</a></li>
 <li><a href="/comments/20220910/1782888.md" target="_blank">中国人被封锁的恐惧已胜过对病毒的恐惧</a></li>
-<li><a href="/comments/20220910/1782887.md" target="_blank">写书哥:40 岁失业怎么办</a></li>
-<li><a href="/comments/20220910/1782886.md" target="_blank">英国女王刷屏，是因为她让我们看到了权力的俯身</a></li>
-<li><a href="/comments/20220910/1782885.md" target="_blank">西坡::深夜看完某个超话，写点有用的</a></li>
-<li><a href="/comments/20220910/1782878.md" target="_blank">中国进出口失动能 专家同指中共一软肋</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 
 </ul>
 </div>
