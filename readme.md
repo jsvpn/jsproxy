@@ -10,8 +10,8 @@
 <li><a href="/cnnews/20220909/1782488.md">三大信号佐证！习近平二十大后或有大动作【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220909/1782501.md">若这法案通过，中美恐摊牌，甚至断交！？</a></li>
 <li><a href="/cnnews/20220909/1782491.md">中共给了杨丞琳什么任务</a></li>
-<li><a href="/topimagenews/20220909/1782485.md">突发：白宫或颁布行政命令！审查美国在中国的…</a></li>
 <li><a href="/cbnews/20220909/1782627.md">太累懒走路？ 王思聪坐轮椅出游 穿5万元球鞋 身边美女围绕</a></li>
+<li><a href="/topimagenews/20220909/1782485.md">突发：白宫或颁布行政命令！审查美国在中国的…</a></li>
 <li><a href="/cbnews/20220910/1782711.md">自信满满 习近平提前黄袍加身</a></li>
 <li><a href="/bannedvideo/20220909/1782577.md">🔥20大后，习近平启动基石计划；北上广深也开始了！全国房价跌得鼻青脸肿；完了！中共天下第一村；中共外汇储备降至4年低点；中国经济就三驾马车还全熄火；国际财团撤资中国抛售腾讯【阿波罗网 Y X】</a></li>
 <li><a href="/topimagenews/20220909/1782502.md">英女王“皇家认证”中共访团粗鲁无礼 查尔斯也曾吐：中共领导人像恐怖蜡像</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/ssgc/20220909/1782543.md">习近平9日主持政治局会议 听取20大报告稿意见</a></li>
 <li><a href="/topimagenews/20220909/1782553.md">“袋子里还有”！陆妻发现丈夫藏有“私房钱”…</a></li>
 <li><a href="/headline/20220909/1782546.md">中共开政治局会议露习近平3连任端倪</a></li>
-<li><a href="/bannedvideo/20220909/1782507.md">💥习近平派人上门威胁高官闭嘴！蔡霞详细透露习的真实处境，连任并非坦途，军队忠诚吗？石正丽质疑清零；20大前内斗更凶，王岐山吐槽常委跟习的真实关系；英女王过世，英国启动伦敦桥计画｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cnnews/20220910/1782737.md">老百姓对中共的满意度超过90% 舆论哗然官媒关评</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220910/1782910.md" target="_blank">向习近平连开四炮！两股力量大较量！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20220910/1782909.md" target="_blank">美军F-22太强悍！第五代战机的典范之作</a></li>
 <li><a href="/topimagenews/20220910/1782895.md" target="_blank">“乌克兰是普丁最大且持久的失败” 美中情局：俄罗斯将付出沉重代价</a></li>
 <li><a href="/topimagenews/20220910/1782869.md" target="_blank">【微博精粹】共产党这个物种再也见不到人类下一个中秋了</a></li>
 <li><a href="/topimagenews/20220910/1782868.md" target="_blank">冒充中校遭乌克兰俘虏 被认出竟是中将！二战以来最高阶俄罗斯战俘…</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20220909/1782300.md" target="_blank">惊天霹雳！没有疫情也要做！全国常态化核酸检测终于来了 国家卫健委大变脸</a></li>
 <li><a href="/topimagenews/20220909/1782272.md" target="_blank">女王驾崩 英国“伦敦桥计划”全面启动 查尔斯王子继任</a></li>
 <li><a href="/topimagenews/20220908/1782093.md" target="_blank">普丁狠断欧洲天然气 专家揭真正盘算：在等这时机…</a></li>
-<li><a href="/topimagenews/20220908/1782068.md" target="_blank">习近平被高级黑大集锦！不看不知道，一看真好笑【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220908/1782067.md" target="_blank">乌克兰将领惊人预言 曝俄乌大战结束时间</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220910/1782924.md" target="_blank">二十大前是隐退好时机？美媒揭中国富豪「出走潮」内幕</a></li>
 <li><a href="/comments/20220910/1782905.md" target="_blank">中秋谢师恩小型文艺晚会</a></li>
 <li><a href="/comments/20220910/1782897.md" target="_blank">偶然发现的旧文：一个反动分子的自白</a></li>
 <li><a href="/comments/20220910/1782894.md" target="_blank">李燕铭：美国大使暗示建立亚太北约围堵中共 美日军事合作升级 日防长会见美太平洋陆军司令 美军基地司令强调威慑力 日本护卫舰与美加海军实施联合训练 日印计划实施战机联演 韩美将重启延伸威慑战略磋商机制 美国领衔全球军事围堵中共（十五）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220910/1782816.md" target="_blank">叮咚：普京大开国际玩笑，泽林斯基收到3大定心丸</a></li>
 <li><a href="/comments/20220910/1782799.md" target="_blank">美政治学家析川普对习近平和中共的真实想法</a></li>
 <li><a href="/comments/20220910/1782798.md" target="_blank">学者：英女王是世界级的一个领袖 离世将冲击大不列颠王国</a></li>
-<li><a href="/comments/20220910/1782789.md" target="_blank">那位坐拥时代的女人 终是被时代带走</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 <li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
 
 </ul>
 </div>
