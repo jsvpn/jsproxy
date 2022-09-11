@@ -8,12 +8,12 @@
 <li><a href="/topimagenews/20220910/1782986.md">中国4大电信宣布：美国买的iPhone14不能在中国用？</a></li>
 <li><a href="/yule/20220910/1782982.md">陶红因病去世，前夫乐嘉携女儿求福至拉萨</a></li>
 <li><a href="/topimagenews/20220910/1782943.md">习近平将在国内进一步收紧控制 中国未来面临更多动荡【阿波罗网报导】</a></li>
-<li><a href="/cbnews/20220910/1782987.md">不准谈习连任 中国《原神》玩家打游戏傻眼了</a></li>
 <li><a href="/bannedvideo/20220910/1783059.md">沈阳于洪机场军人起义被镇压后，多部大型军用运输车向外运送神秘东西==物品，旁边有摩托车护卫，不允许任何人靠近。能猜出这是运送什么了吧？</a></li>
+<li><a href="/cbnews/20220910/1782987.md">不准谈习连任 中国《原神》玩家打游戏傻眼了</a></li>
 <li><a href="/bannedvideo/20220910/1782984.md">政治局吃了豹子胆？重要人物缺席 习将遇一难关 【两岸要闻】</a></li>
 <li><a href="/cnnews/20220911/1783104.md">李易峰被曝嫖娼！央视中秋晚会将其除名，本人多次上线却没辟谣</a></li>
-<li><a href="/bannedvideo/20220911/1783090.md">这次轮到汪洋出事？幕后黑手两大可能 【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220911/1783134.md">贪官们都把钱藏在哪？打死你都想不到</a></li>
+<li><a href="/bannedvideo/20220911/1783090.md">这次轮到汪洋出事？幕后黑手两大可能 【红朝禁闻】</a></li>
 <li><a href="/cnnews/20220911/1783193.md">李易峰前老板发微博，加大了“李易峰嫖娼”的可能性</a></li>
 <li><a href="/cbnews/20220910/1783061.md">深圳福田村数万人抗议封控</a></li>
 <li><a href="/cnnews/20220910/1782946.md">反习派放风：判断习近平影响力，重要指标是看…【阿波罗网报道】</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/bannedvideo/20220911/1783135.md">陈破空：激战二十大！习派突然放风损汪洋，说他的女儿有事。贵阳人饿疯了！但何必下跪？美东9月10晚8点30、即中港台9月11早8点30</a></li>
 <li><a href="/topimagenews/20220911/1783083.md">大捷！乌解放伊久姆和库皮扬斯克 俄军四散奔逃</a></li>
 <li><a href="/cnnews/20220911/1783166.md">加州年轻女子当街遭斩首 头颅滚落现场太血腥</a></li>
-<li><a href="/bannedvideo/20220910/1783010.md">陈破空：政治局会议暗藏密条：坚持集体领导！王岐山还有戏？突换北部战区司令有内情，沈阳响起枪炮声？</a></li>
 <li><a href="/cnnews/20220911/1783160.md">脱钩已经开始？苹果、谷歌、亚马逊和微软...</a></li>
+<li><a href="/bannedvideo/20220910/1783010.md">陈破空：政治局会议暗藏密条：坚持集体领导！王岐山还有戏？突换北部战区司令有内情，沈阳响起枪炮声？</a></li>
 <li><a href="/headline/20220911/1783133.md">习近平为什么还要修改党章</a></li>
 <li><a href="/bannedvideo/20220910/1783014.md">乌军闪电战，1万俄军被困；乌军这群天生的战士，打得普京怀疑人生；德国交付世界最牛反砲兵雷达，军援乌国真相惊人；#新冷战情室</a></li>
 <li><a href="/comments/20220911/1783108.md">李燕铭：男星李易峰疑似嫖娼被抓被封杀 网曝内幕 前老板微博发一字意味深长 央视中秋晚会紧急除名 最高检察院等多个官方机关删光与李易峰有关讯息 李易峰与王思聪及吴亦凡等多位问题男星私交好 李易峰黑历史被扒：肇事逃逸、私交混乱、情史复杂……习近平清洗曾庆红曾庆淮娱乐圈（五二）</a></li>
 <li><a href="/cnnews/20220910/1782981.md">中秋节也封 中国传媒大学官微发了一封信</a></li>
-<li><a href="/comments/20220911/1783127.md">与毛思想并驾齐驱？ 中共20大将修改党章 写入“两个确立” 凸显习思想</a></li>
+<li><a href="/topimagenews/20220911/1783243.md">就在下周！美国另一场经济灾难拜登恐也挡不了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220911/1783289.md" target="_blank">羡慕中国经济？假相被戳破：专家：国王没穿衣服</a></li>
 <li><a href="/comments/20220911/1783288.md" target="_blank">快被逼疯了！深圳三万人抗议封控</a></li>
 <li><a href="/comments/20220911/1782976.md" target="_blank">曾节明揭露“基督徒”郭庆海在泰国期间投靠中国国安程为民，迫害流亡民运和法轮功人士的罪恶行径： — 曾节明</a></li>
 <li><a href="/comments/20220911/1783266.md" target="_blank">张江名媛：我是不是再次踏进了楚门的世界</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220911/1783149.md" target="_blank">周晓辉：卫健委出尔反尔涉高层博弈 主任挺习</a></li>
 <li><a href="/comments/20220911/1783148.md" target="_blank">王赫：2027年中共国网络安全人员将缺327万？</a></li>
 <li><a href="/comments/20220911/1783146.md" target="_blank">只靠一瓶红酒就让习近平受挫 女王“柔性外交”成绝响</a></li>
-<li><a href="/comments/20220911/1783138.md" target="_blank">班农“自首”意在“懂王”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
 <li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
 <li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
 
 </ul>
 </div>
