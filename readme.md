@@ -9,24 +9,24 @@
 <li><a href="/baitai/20220911/1783309.md">余茂春：中国对台湾的假战及其真实意图</a></li>
 <li><a href="/cbnews/20220912/1783425.md">李易峰嫖娼惨被逮，疑似前女友发声引围观</a></li>
 <li><a href="/cnnews/20220912/1783438.md">窒息了：外交部新任发言人记者会上遭遇尴尬一刻</a></li>
-<li><a href="/ssgc/20220912/1783430.md">〖兲朝浮世绘〗被习胖胖忽悠进战争沼泽 普京小命危矣</a></li>
 <li><a href="/bannedvideo/20220911/1783342.md">陈破空：不忍了！胡耀邦之子挺身而出，痛批习近平闭关锁国！中秋节中国三处地震。乌军大捷！查尔斯即位大英国王</a></li>
+<li><a href="/ssgc/20220912/1783430.md">〖兲朝浮世绘〗被习胖胖忽悠进战争沼泽 普京小命危矣</a></li>
 <li><a href="/bannedvideo/20220911/1783316.md">成都“棒棒军团” 文革红卫兵再现；北京疫情连环爆；贵阳“大白”摆拍接力传菜；贵阳救援物资现场卖；志愿者下跪讨食；各地核酸检测互不承认；【 #大陆民生 】</a></li>
 <li><a href="/yule/20220912/1783428.md">李易峰嫖娼现场疑似曝光:让小姐骑共享单车回家</a></li>
 <li><a href="/baitai/20220911/1783308.md">林保华：中共二十大前夕的观察</a></li>
 <li><a href="/cbnews/20220911/1783365.md">警方通报李易峰多次嫖娼被行政拘留，此前嘴硬撒谎不认账，当下星路尽毁</a></li>
 <li><a href="/baitai/20220911/1783361.md">【CDTV】外交部新任发言人毛宁在例行记者会上遭遇冷场，网友：“‘站方已开启评论精选’实体版”</a></li>
-<li><a href="/worldnews/20220911/1783297.md">英国灵媒预言“查尔斯只当3个月国王”！传位威廉原因曝光</a></li>
 <li><a href="/worldnews/20220911/1783387.md">陆媒：俄国全体议员书面要求普京辞职 7人被收监</a></li>
+<li><a href="/cbnews/20220912/1783473.md">当地震遇到“疫情”：四川甘孜州的兽性公告</a></li>
 <li><a href="/cnnews/20220912/1783457.md">官媒竟发文“黑自己”？网友：狠起来自己都骂…</a></li>
 <li><a href="/topimagenews/20220912/1783437.md">当政府等于社会，人间瞬间成为地狱…</a></li>
-<li><a href="/cbnews/20220912/1783473.md">当地震遇到“疫情”：四川甘孜州的兽性公告</a></li>
-<li><a href="/bannedvideo/20220912/1783405.md">伊犁，维吾尔人勇敢的走上街头，抗议封城！</a></li>
 <li><a href="/cnnews/20220912/1783467.md">李易峰：瓜熟蒂落，猛料迭出</a></li>
+<li><a href="/bannedvideo/20220912/1783405.md">伊犁，维吾尔人勇敢的走上街头，抗议封城！</a></li>
 <li><a href="/yule/20220911/1783367.md">肇事逃逸、私交混乱、情史复杂，李易峰黑历史被扒，他是真不老实</a></li>
+<li><a href="/topimagenews/20220912/1783503.md">“自二战以来第一次 俄罗斯军队成建制全部覆灭”</a></li>
 <li><a href="/bannedvideo/20220912/1783426.md">🔥兵败如山倒！俄20集团军不战自溃；错判习近平 中共老朋友公开改变立场；四川居民喊楼：要饿没命了 公安：没命了就埋 网炸锅</a></li>
-<li><a href="/lifebaike/20220911/1783311.md">家里这2个位置不能挂钟表，好多人还不懂咋回事？挂错回家挪走</a></li>
 <li><a href="/cnnews/20220912/1783469.md">曝安踏公子奢华大婚：彩礼18亿，豪车、大咖云集</a></li>
+<li><a href="/lifebaike/20220911/1783311.md">家里这2个位置不能挂钟表，好多人还不懂咋回事？挂错回家挪走</a></li>
 <li><a href="/topimagenews/20220912/1783455.md">视频疯传：贵阳警察手持棍棒闯家中“制服”市民…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
 <li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 <li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
 
 </ul>
 </div>
