@@ -14,20 +14,20 @@
 <li><a href="/cbnews/20220912/1783473.md">当地震遇到“疫情”：四川甘孜州的兽性公告</a></li>
 <li><a href="/cnnews/20220912/1783457.md">官媒竟发文“黑自己”？网友：狠起来自己都骂…</a></li>
 <li><a href="/topimagenews/20220912/1783553.md">习近平此举激怒华盛顿？日美英澳纽联手反制中共【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20220912/1783599.md">北京街上宝马当街“决斗”奔驰 ，全网看傻，结果惨了</a></li>
 <li><a href="/topimagenews/20220912/1783503.md">“自二战以来第一次 俄罗斯军队成建制全部覆灭”</a></li>
+<li><a href="/cbnews/20220912/1783599.md">北京街上宝马当街“决斗”奔驰 ，全网看傻，结果惨了</a></li>
 <li><a href="/comments/20220912/1783549.md">中共官方透露一信息 习将终身执政？历史学家预言将会兑现？</a></li>
 <li><a href="/topimagenews/20220912/1783606.md">贵阳进入无政府状态？中秋夜居民抢物资视频疯传【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220912/1783654.md">俄奢望:中共还在帮我喔!俄乌战争失利 杜马称李克强力挺 中方文本一字不提</a></li>
 <li><a href="/cnnews/20220912/1783467.md">李易峰：瓜熟蒂落，猛料迭出</a></li>
 <li><a href="/baitai/20220912/1783485.md">我所知道的胡春华（上）\高瞻</a></li>
 <li><a href="/cnnews/20220912/1783659.md">非要搞到没饭吃，才能叫防疫吗？</a></li>
+<li><a href="/lifebaike/20220912/1783658.md">别等了，王朔不会回来了</a></li>
 <li><a href="/topimagenews/20220912/1783437.md">当政府等于社会，人间瞬间成为地狱…</a></li>
 <li><a href="/cnnews/20220912/1783469.md">曝安踏公子奢华大婚：彩礼18亿，豪车、大咖云集</a></li>
-<li><a href="/lifebaike/20220912/1783658.md">别等了，王朔不会回来了</a></li>
 <li><a href="/headline/20220912/1783613.md">中共二十大前 胡耀邦长子撰文批「闭关锁国」</a></li>
-<li><a href="/bannedvideo/20220912/1783426.md">🔥兵败如山倒！俄20集团军不战自溃；错判习近平 中共老朋友公开改变立场；四川居民喊楼：要饿没命了 公安：没命了就埋 网炸锅</a></li>
 <li><a href="/bannedvideo/20220912/1783664.md">普京处境不妙 习立刻装傻？俄大使恐话里有话 法媒提关键一问【两岸要闻】</a></li>
+<li><a href="/bannedvideo/20220912/1783426.md">🔥兵败如山倒！俄20集团军不战自溃；错判习近平 中共老朋友公开改变立场；四川居民喊楼：要饿没命了 公安：没命了就埋 网炸锅</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220913/1783802.md" target="_blank">白露后吃芋头超养生 吃芋头有什么讲究</a></li>
+<li><a href="/comments/20220913/1783801.md" target="_blank">《演员梦》洛城全球首映 传递善良令观众动容</a></li>
 <li><a href="/comments/20220913/1783797.md" target="_blank">【独家重磅】李燕铭：李克强权力被削 习近平另起炉灶重建经济体系 刘鹤出席敏感大会宣读习贺信 只字不提李克强 习近平二十大高层人事布局或有惊人之举 习近平李克强明争暗斗内幕（四八） 习近平连任与二十大常委争夺战（六五）</a></li>
 <li><a href="/comments/20220913/1783794.md" target="_blank">评论 | 傅申奇：中共二十大</a></li>
 <li><a href="/comments/20220913/1783785.md" target="_blank">英女王在位70年 任命15位英国首相 利兹·特拉斯成为绝唱</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220912/1783579.md" target="_blank">中共为何宣称九二共识没「各表」？</a></li>
 <li><a href="/comments/20220912/1783578.md" target="_blank">中秋两则消息令人感叹：中国人怎么了？</a></li>
 <li><a href="/comments/20220912/1783577.md" target="_blank">英女王仅用「一瓶红酒」 就挫了习近平锐气</a></li>
-<li><a href="/comments/20220912/1783563.md" target="_blank">拜登接受邀请 将与夫人一同参加英女王国葬</a></li>
-<li><a href="/comments/20220912/1783554.md" target="_blank">女王最后旅程！伊莉莎白二世移灵爱丁堡 民众夹道致意</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 
 </ul>
 </div>
