@@ -15,16 +15,16 @@
 <li><a href="/cnnews/20220913/1783859.md">中国飙车仔被辗爆断头 身首异处断两截飞抛</a></li>
 <li><a href="/cnnews/20220913/1783838.md">真壕…李易峰的豪宅</a></li>
 <li><a href="/bannedvideo/20220913/1783816.md">北京危险了？他：官方疑已在造势 千万别存侥幸 【红朝禁闻】</a></li>
-<li><a href="/ssgc/20220913/1783983.md">〖兲朝浮世绘〗栗战书这发言水平 丢人丢到北冰洋</a></li>
 <li><a href="/bannedvideo/20220913/1783871.md">已经发生军变还是要防止军变？习近平在二十大前为啥急换北战区司令李桥铭。李桥铭到底哪里得罪了习近平？二十大前军队会安稳吗？【李军访谈20220912第62期】【固定时间9:00播出】</a></li>
-<li><a href="/topimagenews/20220913/1783882.md">中产，感受到寒意了</a></li>
-<li><a href="/topimagenews/20220913/1783988.md">【微博精粹】1周前没人料到乌克兰大反转 谁敢保证1个月后习近平还在</a></li>
+<li><a href="/ssgc/20220913/1783983.md">〖兲朝浮世绘〗栗战书这发言水平 丢人丢到北冰洋</a></li>
 <li><a href="/topimagenews/20220913/1784064.md">习近平和他对着干 被隐去名字的“大佬”是谁【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20220913/1783988.md">【微博精粹】1周前没人料到乌克兰大反转 谁敢保证1个月后习近平还在</a></li>
+<li><a href="/topimagenews/20220913/1783882.md">中产，感受到寒意了</a></li>
 <li><a href="/cbnews/20220913/1783898.md">国际瞩目！普京已成习近平沉重负担</a></li>
+<li><a href="/baitai/20220913/1784071.md">张宏良：三天后中国将面临40年来第一个历史大坎</a></li>
+<li><a href="/cbnews/20220913/1784084.md">北京急了 秦刚放话：中美关系面临瓦解</a></li>
 <li><a href="/topimagenews/20220912/1783747.md">昔鼓吹投资中国 华尔街大佬跳船发忏悔文认错：误判习近平</a></li>
 <li><a href="/bannedvideo/20220913/1783790.md">栗战书口音河北，念稿语顿，磕磕巴巴，毫无国格</a></li>
-<li><a href="/cbnews/20220913/1784084.md">北京急了 秦刚放话：中美关系面临瓦解</a></li>
-<li><a href="/baitai/20220913/1784071.md">张宏良：三天后中国将面临40年来第一个历史大坎</a></li>
 <li><a href="/cnnews/20220913/1783911.md">中国人买房能力 终于被榨干了…</a></li>
 <li><a href="/topimagenews/20220913/1784002.md">余茂春痛批中共：集中力量办坏事、办蠢事！【阿波罗网报道】</a></li>
 <li><a href="/yule/20220913/1783793.md">李易峰嫖娼3P 冯小刚一段话揭6年玩超大：你忙得过来吗</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220913/1784167.md" target="_blank">UN人权理事会常会聚焦中俄 新任人权高级专员面临重大挑战</a></li>
 <li><a href="/comments/20220913/1784157.md" target="_blank">【财经拆局】「内出血」的转机—商界施压，「0＋3」曙光在望</a></li>
 <li><a href="/comments/20220913/1784153.md" target="_blank">写下新历史！安妮公主为母守灵 成首位参与“王子守夜”女性</a></li>
 <li><a href="/comments/20220913/1784130.md" target="_blank">菊花养生有门道 菊花合理搭配有讲究</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220913/1783931.md" target="_blank">雷霆万钧：冲向边境线</a></li>
 <li><a href="/comments/20220913/1783930.md" target="_blank">亚欧视点：普京两老友要“倒戈”，世界来到新十字路口</a></li>
 <li><a href="/comments/20220913/1783929.md" target="_blank">我的心情到现在也没缓过来 不知道此生能不能缓过来</a></li>
-<li><a href="/comments/20220913/1783919.md" target="_blank">永远无法平复的伤痛 民众纪念「9.11」21周年</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
 <li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 
 </ul>
 </div>
