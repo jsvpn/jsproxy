@@ -14,20 +14,20 @@
 <li><a href="/bannedvideo/20220913/1783873.md">大陆疯传：F姓三字男和Z姓三字男，将会是下一个！李易峰几天前已被捕，Jing方选择中秋通报，大有深意！【新闻最嘲点 姜光宇】2022.0912</a></li>
 <li><a href="/cnnews/20220913/1783859.md">中国飙车仔被辗爆断头 身首异处断两截飞抛</a></li>
 <li><a href="/cnnews/20220913/1783838.md">真壕…李易峰的豪宅</a></li>
-<li><a href="/topimagenews/20220913/1784064.md">习近平和他对着干 被隐去名字的“大佬”是谁【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220913/1783816.md">北京危险了？他：官方疑已在造势 千万别存侥幸 【红朝禁闻】</a></li>
 <li><a href="/bannedvideo/20220913/1783871.md">已经发生军变还是要防止军变？习近平在二十大前为啥急换北战区司令李桥铭。李桥铭到底哪里得罪了习近平？二十大前军队会安稳吗？【李军访谈20220912第62期】【固定时间9:00播出】</a></li>
-<li><a href="/ssgc/20220913/1783983.md">〖兲朝浮世绘〗栗战书这发言水平 丢人丢到北冰洋</a></li>
-<li><a href="/topimagenews/20220913/1783988.md">【微博精粹】1周前没人料到乌克兰大反转 谁敢保证1个月后习近平还在</a></li>
+<li><a href="/bannedvideo/20220913/1783816.md">北京危险了？他：官方疑已在造势 千万别存侥幸 【红朝禁闻】</a></li>
+<li><a href="/topimagenews/20220913/1784064.md">习近平和他对着干 被隐去名字的“大佬”是谁【阿波罗网报道】</a></li>
 <li><a href="/baitai/20220913/1784071.md">张宏良：三天后中国将面临40年来第一个历史大坎</a></li>
-<li><a href="/topimagenews/20220913/1783882.md">中产，感受到寒意了</a></li>
+<li><a href="/ssgc/20220913/1783983.md">〖兲朝浮世绘〗栗战书这发言水平 丢人丢到北冰洋</a></li>
 <li><a href="/cbnews/20220913/1784084.md">北京急了 秦刚放话：中美关系面临瓦解</a></li>
+<li><a href="/topimagenews/20220913/1783988.md">【微博精粹】1周前没人料到乌克兰大反转 谁敢保证1个月后习近平还在</a></li>
+<li><a href="/topimagenews/20220913/1783882.md">中产，感受到寒意了</a></li>
 <li><a href="/cbnews/20220913/1783898.md">国际瞩目！普京已成习近平沉重负担</a></li>
 <li><a href="/topimagenews/20220912/1783747.md">昔鼓吹投资中国 华尔街大佬跳船发忏悔文认错：误判习近平</a></li>
 <li><a href="/bannedvideo/20220913/1783790.md">栗战书口音河北，念稿语顿，磕磕巴巴，毫无国格</a></li>
 <li><a href="/cnnews/20220913/1783911.md">中国人买房能力 终于被榨干了…</a></li>
-<li><a href="/yule/20220913/1783793.md">李易峰嫖娼3P 冯小刚一段话揭6年玩超大：你忙得过来吗</a></li>
 <li><a href="/topimagenews/20220913/1784002.md">余茂春痛批中共：集中力量办坏事、办蠢事！【阿波罗网报道】</a></li>
+<li><a href="/yule/20220913/1783793.md">李易峰嫖娼3P 冯小刚一段话揭6年玩超大：你忙得过来吗</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 <li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
 <li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
 
 </ul>
 </div>
