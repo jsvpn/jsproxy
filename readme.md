@@ -19,15 +19,15 @@
 <li><a href="/bannedvideo/20220913/1783871.md">已经发生军变还是要防止军变？习近平在二十大前为啥急换北战区司令李桥铭。李桥铭到底哪里得罪了习近平？二十大前军队会安稳吗？【李军访谈20220912第62期】【固定时间9:00播出】</a></li>
 <li><a href="/topimagenews/20220913/1783882.md">中产，感受到寒意了</a></li>
 <li><a href="/topimagenews/20220913/1783988.md">【微博精粹】1周前没人料到乌克兰大反转 谁敢保证1个月后习近平还在</a></li>
-<li><a href="/topimagenews/20220912/1783674.md">看衰！巴菲特、孙正义减持中企套现；中国19家银行大到不能倒？</a></li>
-<li><a href="/topimagenews/20220912/1783747.md">昔鼓吹投资中国 华尔街大佬跳船发忏悔文认错：误判习近平</a></li>
-<li><a href="/cbnews/20220913/1783898.md">国际瞩目！普京已成习近平沉重负担</a></li>
 <li><a href="/topimagenews/20220913/1784064.md">习近平和他对着干 被隐去名字的“大佬”是谁【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20220913/1783898.md">国际瞩目！普京已成习近平沉重负担</a></li>
+<li><a href="/topimagenews/20220912/1783747.md">昔鼓吹投资中国 华尔街大佬跳船发忏悔文认错：误判习近平</a></li>
 <li><a href="/bannedvideo/20220913/1783790.md">栗战书口音河北，念稿语顿，磕磕巴巴，毫无国格</a></li>
-<li><a href="/cnnews/20220913/1783911.md">中国人买房能力 终于被榨干了…</a></li>
-<li><a href="/yule/20220913/1783793.md">李易峰嫖娼3P 冯小刚一段话揭6年玩超大：你忙得过来吗</a></li>
-<li><a href="/topimagenews/20220913/1784002.md">余茂春痛批中共：集中力量办坏事、办蠢事！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220913/1784084.md">北京急了 秦刚放话：中美关系面临瓦解</a></li>
+<li><a href="/baitai/20220913/1784071.md">张宏良：三天后中国将面临40年来第一个历史大坎</a></li>
+<li><a href="/cnnews/20220913/1783911.md">中国人买房能力 终于被榨干了…</a></li>
+<li><a href="/topimagenews/20220913/1784002.md">余茂春痛批中共：集中力量办坏事、办蠢事！【阿波罗网报道】</a></li>
+<li><a href="/yule/20220913/1783793.md">李易峰嫖娼3P 冯小刚一段话揭6年玩超大：你忙得过来吗</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220913/1784159.md" target="_blank">会晤普京？习近平处境尴尬</a></li>
 <li><a href="/cbnews/20220913/1784110.md" target="_blank">不只卢沙野 中共驻澳洲大使也称再教育台湾人</a></li>
 <li><a href="/cbnews/20220913/1784109.md" target="_blank">河北三河市毗邻北京1人阳性 今起全域静默管理4天</a></li>
 <li><a href="/cbnews/20220913/1784084.md" target="_blank">北京急了 秦刚放话：中美关系面临瓦解</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220910/1782987.md" target="_blank">不准谈习连任 中国《原神》玩家打游戏傻眼了</a></li>
 <li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
 <li><a href="/cbnews/20220910/1782882.md" target="_blank">台海恶化大陆会攻台？美芯片CEO惊人预测13字</a></li>
-<li><a href="/cbnews/20220910/1782837.md" target="_blank">天亮时分：政治局修改党章，释放习去留关键信号；大转折：俄军司令被生擒！查尔斯三世继任英国国王，灵媒预言查尔斯退位和中共垮台会很快发生（政论天下第787集 20220909）</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220913/1784157.md" target="_blank">【财经拆局】「内出血」的转机—商界施压，「0＋3」曙光在望</a></li>
 <li><a href="/comments/20220913/1784153.md" target="_blank">写下新历史！安妮公主为母守灵 成首位参与“王子守夜”女性</a></li>
 <li><a href="/comments/20220913/1784130.md" target="_blank">菊花养生有门道 菊花合理搭配有讲究</a></li>
 <li><a href="/comments/20220913/1784129.md" target="_blank">人类能发光？科学家也没有很合理的解释</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220913/1783930.md" target="_blank">亚欧视点：普京两老友要“倒戈”，世界来到新十字路口</a></li>
 <li><a href="/comments/20220913/1783929.md" target="_blank">我的心情到现在也没缓过来 不知道此生能不能缓过来</a></li>
 <li><a href="/comments/20220913/1783919.md" target="_blank">永远无法平复的伤痛 民众纪念「9.11」21周年</a></li>
-<li><a href="/comments/20220913/1783918.md" target="_blank">美中期选举将至 红蓝大战新州和罗德岛州</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
 <li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
 
 </ul>
 </div>
