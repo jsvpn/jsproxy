@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20220914/1784499.md">让普丁真正恐惧！坦克、大炮、弹药库俄军全丢就算了 连这“神器”都落敌手…</a></li>
 <li><a href="/topimagenews/20220914/1784500.md">闭关锁国再发酵，这次被捅向全世界【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220914/1784517.md">赶尽杀绝！她从中南海勤政殿回家后自裁【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20220914/1784573.md">iOS16惊见“2隐藏小功能”！果粉嗨翻</a></li>
 <li><a href="/topimagenews/20220914/1784324.md">何时请君入瓮？美国正考虑制裁中共的系列方案</a></li>
+<li><a href="/cnnews/20220914/1784573.md">iOS16惊见“2隐藏小功能”！果粉嗨翻</a></li>
 <li><a href="/yule/20220914/1784436.md">李易峰被拘 嫖娼老司机揭“囚禁经历”：恐是地狱级</a></li>
 <li><a href="/topimagenews/20220914/1784546.md">2014休斯敦灭门枪杀案嫌犯抓获 传为周永康指使</a></li>
 <li><a href="/cbnews/20220914/1784367.md">乌军追击俄军一日千里 网民追杀俄粉战况惨烈</a></li>
 <li><a href="/bannedvideo/20220914/1784596.md">陈破空：重大泄密！栗战书遭现场抓包！直接说了那件事。嫁祸李克强未果。习亲信捉急：中美关系面临瓦解！西方酝酿震撼法案。直播与互动 美东9月14早9点、即中港台9月14晚9点</a></li>
-<li><a href="/worldnews/20220914/1784303.md">才咬了邻居仍“坚持要养” 女被自家比特犬咬死</a></li>
 <li><a href="/health/20220914/1784494.md">《柳叶刀》证实：这项运动能降低47%死亡率，不是跑步和游泳</a></li>
 <li><a href="/topimagenews/20220914/1784569.md">乌克兰“选9月”赶时间反攻！美官员曝关键原因…</a></li>
 <li><a href="/bannedvideo/20220914/1784491.md">为开战除掉军中障碍？中央军委将大地震！路透独家！美国策划制裁中共系列方案【国际风云】</a></li>
 <li><a href="/topimagenews/20220914/1784461.md">周恩来如何谋生林彪？ 对913事件早有安排</a></li>
 <li><a href="/topimagenews/20220914/1784545.md">大航海时代终结!全球海运价格“断崖式”崩跌 企业“超订”货物销不出</a></li>
-<li><a href="/headline/20220914/1784582.md">新冠病毒疫情以来首个外访 习近平抵达哈萨克斯坦 仪仗队罕见戴口罩</a></li>
 <li><a href="/bannedvideo/20220914/1784529.md">文睿：突发：给习“挖坑”，栗战书彻底火了，一尊咋办呢？</a></li>
+<li><a href="/headline/20220914/1784582.md">新冠病毒疫情以来首个外访 习近平抵达哈萨克斯坦 仪仗队罕见戴口罩</a></li>
 <li><a href="/bannedvideo/20220914/1784493.md">人日头版突然大喊改革开放，党媒搞政变？李易峰金句吓傻党中央！习近平主动掉进普京深坑？</a></li>
 <li><a href="/bannedvideo/20220914/1784589.md">20大稳了?稳不稳都得去! 习近平为何非要在20大前出国? 时隔3年首出门 只剩普京可拉拢?中俄同陷孤立 互不信任好友 抱团取暖 各怀鬼胎!220914</a></li>
+<li><a href="/baitai/20220914/1784363.md">微信删干净还占8GB UP主深扒：聊天记录删了5遍依然全都在</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220915/1784760.md" target="_blank">逾500万人追踪最后航班 女王灵柩抵白金汉宫</a></li>
+<li><a href="/comments/20220915/1784757.md" target="_blank">TPMS灯亮，不一定是胎压低，也许该更换传感器了？</a></li>
+<li><a href="/comments/20220915/1784752.md" target="_blank">【袁红冰热点】1.解析习近平修改党章终极目的？2.揭开习近平共同富裕丶国内市场大循环实质——共同贫穷丶闭关锁国；3.揭秘中共就俄乌战争对俄罗斯的「两点论」；4.清零背後习近平最惧怕什么？</a></li>
 <li><a href="/comments/20220915/1784744.md" target="_blank">乌克兰经济企稳 企业加入军需供应链</a></li>
 <li><a href="/comments/20220915/1784743.md" target="_blank">英女王国葬上百名元首受邀 3国列“黑名单”被排除</a></li>
 <li><a href="/comments/20220915/1784725.md" target="_blank">王沪宁帮习办这事？矢板明夫：习派若获胜他将出局</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20220914/1784566.md" target="_blank">研究人员发现力量训练与长寿之间的关系</a></li>
 <li><a href="/comments/20220914/1784565.md" target="_blank">它是肾黄金，每天吃一片，好处数不清</a></li>
 <li><a href="/comments/20220914/1784564.md" target="_blank">情绪不佳 试试这几类食物</a></li>
-<li><a href="/comments/20220914/1784563.md" target="_blank">比吸烟还可怕的【偏好】</a></li>
-<li><a href="/comments/20220914/1784562.md" target="_blank">黑棘皮，糖尿病发出邀请</a></li>
-<li><a href="/comments/20220914/1784561.md" target="_blank">远离阿尔兹海默症，从现在做起</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
 <li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 
 </ul>
 </div>
