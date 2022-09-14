@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220913/1784138.md">习出访前连遭暗算……是反习黑手还是习近平以退为进？</a></li>
-<li><a href="/ssgc/20220913/1784112.md">小童为反抗体罚勒毙奶奶 旁观者拍摄全过程但没有阻止</a></li>
 <li><a href="/topimagenews/20220914/1784348.md">“隔壁把WiFi密码改了” 外交部开始骂骂咧咧</a></li>
 <li><a href="/cnnews/20220914/1784289.md">李易峰完了 神秘人再抖F姓、Z姓男星：逃不过</a></li>
 <li><a href="/topimagenews/20220913/1784139.md">英国情报：俄“近卫第一战车军团”损失惨重 数年难恢复</a></li>
 <li><a href="/cbnews/20220913/1784159.md">会晤普京？习近平处境尴尬</a></li>
 <li><a href="/cnnews/20220913/1784232.md">高盛：预计中共20大后 中国仍继续清零防疫</a></li>
 <li><a href="/bannedvideo/20220914/1784280.md">这俩副国级前途不妙？学者分析习是否要出这一杀招 【红朝禁闻】</a></li>
+<li><a href="/topimagenews/20220914/1784498.md">中共国务院智囊 罕见曝出经济大问题【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220913/1784162.md">陈破空：习近平出访，其实是绝望之举！并非连任稳了。刘亚洲胞弟曝光全文：邓小平原话很震撼！预见习王极左误国</a></li>
 <li><a href="/ssgc/20220914/1784407.md">〖兲朝浮世绘〗习近平不能再胡搞破坏改革开放了？</a></li>
-<li><a href="/topimagenews/20220914/1784498.md">中共国务院智囊 罕见曝出经济大问题【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220913/1784154.md">俄乌再现重大逆转！中南海这场会议不寻常？【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220913/1784151.md">🔥谁将做习近平霸业的枯骨？大逆转！李克强支持俄侵乌；乌东战况，环球时报大翻车；俄军丢盔弃甲 普京战败 大五毛胡锡进开第一枪放风:“我们只能中立”</a></li>
-<li><a href="/cnnews/20220914/1784286.md">父母被隔离方舱,12岁女童52岁村支书强奸</a></li>
-<li><a href="/topimagenews/20220914/1784324.md">何时请君入瓮？美国正考虑制裁中共的系列方案</a></li>
-<li><a href="/worldnews/20220914/1784303.md">才咬了邻居仍“坚持要养” 女被自家比特犬咬死</a></li>
-<li><a href="/topimagenews/20220914/1784461.md">周恩来如何谋生林彪？ 对913事件早有安排</a></li>
+<li><a href="/bannedvideo/20220913/1784154.md">俄乌再现重大逆转！中南海这场会议不寻常？【两岸要闻】</a></li>
 <li><a href="/topimagenews/20220914/1784499.md">让普丁真正恐惧！坦克、大炮、弹药库俄军全丢就算了 连这“神器”都落敌手…</a></li>
-<li><a href="/yule/20220914/1784436.md">李易峰被拘 嫖娼老司机揭“囚禁经历”：恐是地狱级</a></li>
-<li><a href="/cbnews/20220914/1784367.md">乌军追击俄军一日千里 网民追杀俄粉战况惨烈</a></li>
+<li><a href="/cnnews/20220914/1784286.md">父母被隔离方舱,12岁女童52岁村支书强奸</a></li>
 <li><a href="/topimagenews/20220914/1784500.md">闭关锁国再发酵，这次被捅向全世界【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20220914/1784324.md">何时请君入瓮？美国正考虑制裁中共的系列方案</a></li>
+<li><a href="/topimagenews/20220914/1784461.md">周恩来如何谋生林彪？ 对913事件早有安排</a></li>
+<li><a href="/cbnews/20220914/1784367.md">乌军追击俄军一日千里 网民追杀俄粉战况惨烈</a></li>
+<li><a href="/worldnews/20220914/1784303.md">才咬了邻居仍“坚持要养” 女被自家比特犬咬死</a></li>
+<li><a href="/yule/20220914/1784436.md">李易峰被拘 嫖娼老司机揭“囚禁经历”：恐是地狱级</a></li>
 <li><a href="/cnnews/20220914/1784450.md">没有自媒体 “江西12岁幼女被村支书强奸”被消失了</a></li>
 <li><a href="/baitai/20220913/1784172.md">【翻车现场】我得罪了邻居，他把WiFi密码改了，我骂了半天</a></li>
+<li><a href="/health/20220914/1784494.md">《柳叶刀》证实：这项运动能降低47%死亡率，不是跑步和游泳</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220914/1784570.md" target="_blank">北化持续封控 贵阳民不聊生 新疆模式推广全国？</a></li>
 <li><a href="/comments/20220914/1784566.md" target="_blank">研究人员发现力量训练与长寿之间的关系</a></li>
 <li><a href="/comments/20220914/1784565.md" target="_blank">它是肾黄金，每天吃一片，好处数不清</a></li>
 <li><a href="/comments/20220914/1784564.md" target="_blank">情绪不佳 试试这几类食物</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220914/1784454.md" target="_blank">拜登谨慎看待乌初步胜利 CNN：俄要拖中共下水</a></li>
 <li><a href="/comments/20220914/1784448.md" target="_blank">杜政:枪杆子始终是习的“心腹大患”</a></li>
 <li><a href="/comments/20220914/1784443.md" target="_blank">美扩大杀手级禁令 专家曝骇人原因</a></li>
-<li><a href="/comments/20220914/1784428.md" target="_blank">饶桐语:“失败者” 挤满县城自习室</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 <li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
 <li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
 
 </ul>
 </div>
