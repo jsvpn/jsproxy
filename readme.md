@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220914/1784348.md">“隔壁把WiFi密码改了” 外交部开始骂骂咧咧</a></li>
 <li><a href="/cnnews/20220914/1784289.md">李易峰完了 神秘人再抖F姓、Z姓男星：逃不过</a></li>
-<li><a href="/cbnews/20220913/1784159.md">会晤普京？习近平处境尴尬</a></li>
 <li><a href="/topimagenews/20220914/1784498.md">中共国务院智囊 罕见曝出经济大问题【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220913/1784232.md">高盛：预计中共20大后 中国仍继续清零防疫</a></li>
 <li><a href="/bannedvideo/20220914/1784280.md">这俩副国级前途不妙？学者分析习是否要出这一杀招 【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220914/1784499.md">让普丁真正恐惧！坦克、大炮、弹药库俄军全丢就算了 连这“神器”都落敌手…</a></li>
-<li><a href="/bannedvideo/20220913/1784162.md">陈破空：习近平出访，其实是绝望之举！并非连任稳了。刘亚洲胞弟曝光全文：邓小平原话很震撼！预见习王极左误国</a></li>
 <li><a href="/topimagenews/20220914/1784500.md">闭关锁国再发酵，这次被捅向全世界【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220914/1784407.md">〖兲朝浮世绘〗习近平不能再胡搞破坏改革开放了？</a></li>
-<li><a href="/bannedvideo/20220913/1784154.md">俄乌再现重大逆转！中南海这场会议不寻常？【两岸要闻】</a></li>
+<li><a href="/cbnews/20220914/1784517.md">赶尽杀绝！她从中南海勤政殿回家后自裁【阿波罗网报道】</a></li>
 <li><a href="/health/20220914/1784494.md">《柳叶刀》证实：这项运动能降低47%死亡率，不是跑步和游泳</a></li>
 <li><a href="/topimagenews/20220914/1784324.md">何时请君入瓮？美国正考虑制裁中共的系列方案</a></li>
-<li><a href="/topimagenews/20220914/1784461.md">周恩来如何谋生林彪？ 对913事件早有安排</a></li>
 <li><a href="/cnnews/20220914/1784286.md">父母被隔离方舱,12岁女童52岁村支书强奸</a></li>
-<li><a href="/cbnews/20220914/1784517.md">赶尽杀绝！她从中南海勤政殿回家后自裁【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20220914/1784367.md">乌军追击俄军一日千里 网民追杀俄粉战况惨烈</a></li>
-<li><a href="/yule/20220914/1784436.md">李易峰被拘 嫖娼老司机揭“囚禁经历”：恐是地狱级</a></li>
-<li><a href="/worldnews/20220914/1784303.md">才咬了邻居仍“坚持要养” 女被自家比特犬咬死</a></li>
-<li><a href="/cnnews/20220914/1784450.md">没有自媒体 “江西12岁幼女被村支书强奸”被消失了</a></li>
-<li><a href="/bannedvideo/20220914/1784491.md">为开战除掉军中障碍？中央军委将大地震！路透独家！美国策划制裁中共系列方案【国际风云】</a></li>
-<li><a href="/baitai/20220913/1784172.md">【翻车现场】我得罪了邻居，他把WiFi密码改了，我骂了半天</a></li>
+<li><a href="/topimagenews/20220914/1784461.md">周恩来如何谋生林彪？ 对913事件早有安排</a></li>
 <li><a href="/topimagenews/20220914/1784547.md">北京不放20大名单风声？他预测两份名单</a></li>
+<li><a href="/cbnews/20220914/1784367.md">乌军追击俄军一日千里 网民追杀俄粉战况惨烈</a></li>
+<li><a href="/worldnews/20220914/1784303.md">才咬了邻居仍“坚持要养” 女被自家比特犬咬死</a></li>
+<li><a href="/yule/20220914/1784436.md">李易峰被拘 嫖娼老司机揭“囚禁经历”：恐是地狱级</a></li>
+<li><a href="/bannedvideo/20220914/1784491.md">为开战除掉军中障碍？中央军委将大地震！路透独家！美国策划制裁中共系列方案【国际风云】</a></li>
+<li><a href="/cnnews/20220914/1784450.md">没有自媒体 “江西12岁幼女被村支书强奸”被消失了</a></li>
+<li><a href="/baitai/20220913/1784172.md">【翻车现场】我得罪了邻居，他把WiFi密码改了，我骂了半天</a></li>
+<li><a href="/bannedvideo/20220914/1784493.md">人日头版突然大喊改革开放，党媒搞政变？李易峰金句吓傻党中央！习近平主动掉进普京深坑？</a></li>
+<li><a href="/headline/20220913/1784190.md">【二十大】日经：习近平将提拔多名亲信进军委 全支持武力侵台</a></li>
+<li><a href="/cnnews/20220914/1784261.md">一夜逆转！乌克兰的大反攻，抽肿了大棋党的脸</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220914/1784600.md" target="_blank">英国新王刚上任就不耐烦 帕克预言其与中共同一时间随风去</a></li>
 <li><a href="/comments/20220914/1784590.md" target="_blank">秋冬养肺有三宝 感冒咳嗽时怎么吃才是对</a></li>
 <li><a href="/comments/20220914/1784572.md" target="_blank">陈光诚：中共爪牙们不断被抓 是必然结果</a></li>
 <li><a href="/comments/20220914/1784570.md" target="_blank">北化持续封控 贵阳民不聊生 新疆模式推广全国？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220914/1784467.md" target="_blank">王维洛：关公的命蜀国的运——闲话四川灾害频发的原因</a></li>
 <li><a href="/comments/20220914/1784466.md" target="_blank">陈奎德: 九.一一：文明的命运</a></li>
 <li><a href="/comments/20220914/1784462.md" target="_blank">〈我为你死了两次〉</a></li>
-<li><a href="/comments/20220914/1784454.md" target="_blank">拜登谨慎看待乌初步胜利 CNN：俄要拖中共下水</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
 <li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
 <li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
 
 </ul>
 </div>
