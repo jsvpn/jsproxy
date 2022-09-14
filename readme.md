@@ -14,17 +14,17 @@
 <li><a href="/topimagenews/20220914/1784500.md">闭关锁国再发酵，这次被捅向全世界【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220914/1784407.md">〖兲朝浮世绘〗习近平不能再胡搞破坏改革开放了？</a></li>
 <li><a href="/cbnews/20220914/1784517.md">赶尽杀绝！她从中南海勤政殿回家后自裁【阿波罗网报道】</a></li>
-<li><a href="/health/20220914/1784494.md">《柳叶刀》证实：这项运动能降低47%死亡率，不是跑步和游泳</a></li>
+<li><a href="/topimagenews/20220914/1784547.md">北京不放20大名单风声？他预测两份名单</a></li>
 <li><a href="/topimagenews/20220914/1784324.md">何时请君入瓮？美国正考虑制裁中共的系列方案</a></li>
 <li><a href="/cnnews/20220914/1784286.md">父母被隔离方舱,12岁女童52岁村支书强奸</a></li>
 <li><a href="/topimagenews/20220914/1784461.md">周恩来如何谋生林彪？ 对913事件早有安排</a></li>
-<li><a href="/topimagenews/20220914/1784547.md">北京不放20大名单风声？他预测两份名单</a></li>
-<li><a href="/cbnews/20220914/1784367.md">乌军追击俄军一日千里 网民追杀俄粉战况惨烈</a></li>
+<li><a href="/health/20220914/1784494.md">《柳叶刀》证实：这项运动能降低47%死亡率，不是跑步和游泳</a></li>
 <li><a href="/worldnews/20220914/1784303.md">才咬了邻居仍“坚持要养” 女被自家比特犬咬死</a></li>
+<li><a href="/cbnews/20220914/1784367.md">乌军追击俄军一日千里 网民追杀俄粉战况惨烈</a></li>
 <li><a href="/yule/20220914/1784436.md">李易峰被拘 嫖娼老司机揭“囚禁经历”：恐是地狱级</a></li>
 <li><a href="/bannedvideo/20220914/1784491.md">为开战除掉军中障碍？中央军委将大地震！路透独家！美国策划制裁中共系列方案【国际风云】</a></li>
-<li><a href="/cnnews/20220914/1784450.md">没有自媒体 “江西12岁幼女被村支书强奸”被消失了</a></li>
 <li><a href="/baitai/20220913/1784172.md">【翻车现场】我得罪了邻居，他把WiFi密码改了，我骂了半天</a></li>
+<li><a href="/cnnews/20220914/1784450.md">没有自媒体 “江西12岁幼女被村支书强奸”被消失了</a></li>
 <li><a href="/bannedvideo/20220914/1784493.md">人日头版突然大喊改革开放，党媒搞政变？李易峰金句吓傻党中央！习近平主动掉进普京深坑？</a></li>
 <li><a href="/headline/20220913/1784190.md">【二十大】日经：习近平将提拔多名亲信进军委 全支持武力侵台</a></li>
 <li><a href="/cnnews/20220914/1784261.md">一夜逆转！乌克兰的大反攻，抽肿了大棋党的脸</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
 <li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
 
 </ul>
 </div>
