@@ -12,22 +12,22 @@
 <li><a href="/cnnews/20220913/1784232.md">高盛：预计中共20大后 中国仍继续清零防疫</a></li>
 <li><a href="/topimagenews/20220914/1784547.md">北京不放20大名单风声？他预测两份名单</a></li>
 <li><a href="/topimagenews/20220914/1784499.md">让普丁真正恐惧！坦克、大炮、弹药库俄军全丢就算了 连这“神器”都落敌手…</a></li>
+<li><a href="/ssgc/20220914/1784407.md">〖兲朝浮世绘〗习近平不能再胡搞破坏改革开放了？</a></li>
 <li><a href="/cbnews/20220914/1784517.md">赶尽杀绝！她从中南海勤政殿回家后自裁【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220914/1784500.md">闭关锁国再发酵，这次被捅向全世界【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20220914/1784407.md">〖兲朝浮世绘〗习近平不能再胡搞破坏改革开放了？</a></li>
 <li><a href="/topimagenews/20220914/1784324.md">何时请君入瓮？美国正考虑制裁中共的系列方案</a></li>
 <li><a href="/cnnews/20220914/1784286.md">父母被隔离方舱,12岁女童52岁村支书强奸</a></li>
 <li><a href="/worldnews/20220914/1784303.md">才咬了邻居仍“坚持要养” 女被自家比特犬咬死</a></li>
-<li><a href="/cbnews/20220914/1784367.md">乌军追击俄军一日千里 网民追杀俄粉战况惨烈</a></li>
 <li><a href="/health/20220914/1784494.md">《柳叶刀》证实：这项运动能降低47%死亡率，不是跑步和游泳</a></li>
-<li><a href="/topimagenews/20220914/1784461.md">周恩来如何谋生林彪？ 对913事件早有安排</a></li>
+<li><a href="/cbnews/20220914/1784367.md">乌军追击俄军一日千里 网民追杀俄粉战况惨烈</a></li>
 <li><a href="/bannedvideo/20220914/1784491.md">为开战除掉军中障碍？中央军委将大地震！路透独家！美国策划制裁中共系列方案【国际风云】</a></li>
 <li><a href="/yule/20220914/1784436.md">李易峰被拘 嫖娼老司机揭“囚禁经历”：恐是地狱级</a></li>
+<li><a href="/topimagenews/20220914/1784461.md">周恩来如何谋生林彪？ 对913事件早有安排</a></li>
 <li><a href="/cnnews/20220914/1784450.md">没有自媒体 “江西12岁幼女被村支书强奸”被消失了</a></li>
 <li><a href="/bannedvideo/20220914/1784493.md">人日头版突然大喊改革开放，党媒搞政变？李易峰金句吓傻党中央！习近平主动掉进普京深坑？</a></li>
-<li><a href="/headline/20220913/1784190.md">【二十大】日经：习近平将提拔多名亲信进军委 全支持武力侵台</a></li>
 <li><a href="/cnnews/20220914/1784573.md">iOS16惊见“2隐藏小功能”！果粉嗨翻</a></li>
-<li><a href="/comments/20220914/1784296.md">英国女王国葬19日举行 这些国家有邦交却未获邀出席</a></li>
+<li><a href="/topimagenews/20220914/1784546.md">2014休斯敦灭门枪杀案嫌犯抓获 传为周永康指使</a></li>
+<li><a href="/topimagenews/20220914/1784569.md">乌克兰“选9月”赶时间反攻！美官员曝关键原因…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220914/1784630.md" target="_blank">用无人机丢“统一泡面”给金门官兵？中国网友看傻怒轰白痴</a></li>
 <li><a href="/cbnews/20220914/1784549.md" target="_blank">习近平出席中亚峰会面对3大风险 与普丁会面如何表态全球瞩目</a></li>
 <li><a href="/cbnews/20220914/1784548.md" target="_blank">“里根号”归来 中共2艘052C急忙奔赴监视</a></li>
 <li><a href="/cbnews/20220914/1783675.md" target="_blank">法轮功奇迹：胃癌痊愈 枯木逢春（3）</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220912/1783586.md" target="_blank">被忽略的贵阳和伊犁封城：人道灾难与救助的声浪</a></li>
 <li><a href="/cbnews/20220912/1783572.md" target="_blank">地震了，能跑吗？“原则居家”囚禁中的成都人</a></li>
 <li><a href="/cbnews/20220912/1783541.md" target="_blank">成都一男子因不戴口罩被警察使用辣椒水攻击</a></li>
-<li><a href="/cbnews/20220912/1783473.md" target="_blank">当地震遇到“疫情”：四川甘孜州的兽性公告</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220914/1784635.md" target="_blank">时事大家谈：俄军乌克兰深陷困境，习近平会晤普京雪中送炭？</a></li>
 <li><a href="/comments/20220914/1784613.md" target="_blank">【梁京评论】乌东大捷的重大意义</a></li>
 <li><a href="/comments/20220914/1784600.md" target="_blank">英国新王刚上任就不耐烦 帕克预言其与中共同一时间随风去</a></li>
 <li><a href="/comments/20220914/1784590.md" target="_blank">秋冬养肺有三宝 感冒咳嗽时怎么吃才是对</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220914/1784473.md" target="_blank">美中风暴再起 美审议重磅法案 恐令北京大震</a></li>
 <li><a href="/comments/20220914/1784472.md" target="_blank">川普律师拒绝司法部最新动议 专家：FBI将受审查</a></li>
 <li><a href="/comments/20220914/1784467.md" target="_blank">王维洛：关公的命蜀国的运——闲话四川灾害频发的原因</a></li>
-<li><a href="/comments/20220914/1784466.md" target="_blank">陈奎德: 九.一一：文明的命运</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 <li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
 <li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 
 </ul>
 </div>
