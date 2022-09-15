@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220915/1784755.md">栗战书公开卖国，遭俄国议长眼神羞辱</a></li>
 <li><a href="/topimagenews/20220915/1784809.md">栗战书罕见公开支持普京侵乌 释放强烈信号</a></li>
-<li><a href="/comments/20220915/1784743.md">英女王国葬上百名元首受邀 3国列“黑名单”被排除</a></li>
 <li><a href="/topimagenews/20220915/1784901.md">习近平出访哈萨克 一下飞机就险踩空…</a></li>
+<li><a href="/comments/20220915/1784743.md">英女王国葬上百名元首受邀 3国列“黑名单”被排除</a></li>
 <li><a href="/comments/20220915/1784725.md">王沪宁帮习办这事？矢板明夫：习派若获胜他将出局</a></li>
 <li><a href="/topimagenews/20220915/1784959.md">远胜习近平 胡春华铸造了李克强又一次辉煌？【阿波罗网报道】</a></li>
 <li><a href="/comments/20220915/1784775.md">看到"毛泽东”嫖妓 就有不祥预感…</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/bannedvideo/20220915/1784773.md">文昭：栗战书被爆料，敏感时刻中共遭重大泄密！张文宏一席话，揭出比金融爆雷更可怕的一件事</a></li>
 <li><a href="/bannedvideo/20220915/1785027.md">普京遇内鬼？习当众出丑 被迫出访竟是为开战做准备？【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220915/1784971.md">💥习出访差点“摔下楼梯”！盛传他有替身，掌上指纹、发际线等都可比对；栗战书“私密讲话”被俄公开，习近平很尴尬；清零下，新疆伊宁人吃树叶；泽伦斯基突遭车祸，伤势受关注，调查已展开｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/topimagenews/20220915/1785006.md">俄军仓皇逃生！至少有338架战斗机、坦克或卡车被抛下 美媒：俄罗斯不再是北约对手</a></li>
 <li><a href="/bannedvideo/20220915/1785030.md">普京要见习近平，俄罗斯爆大料吓坏习？乌克兰战火甩锅失败，习连任有变量？《台湾政策法》再推进，中共难挡国际围剿？（2022.9.15）｜世界的十字路口 唐浩</a></li>
+<li><a href="/topimagenews/20220915/1785006.md">俄军仓皇逃生！至少有338架战斗机、坦克或卡车被抛下 美媒：俄罗斯不再是北约对手</a></li>
 <li><a href="/ssgc/20220915/1784921.md">〖兲朝浮世绘〗新造神运动 习近平想成为毛泽东第二</a></li>
 <li><a href="/headline/20220915/1784717.md">习近平结束对哈萨克斯坦访问后飞抵乌兹别克斯坦，与普京峰会受关注</a></li>
+<li><a href="/bannedvideo/20220915/1785035.md">🔥出意外 习近平出访央视不敢播；泽连斯基撞车 曝伤势；美股崩杀逾千点 拜登竟为一事庆功！CNN不忍了“卡掉画面”；欧盟遭自己人背叛？这2国找俄“干大事”；哈萨克斯坦迎习 特别全员戴口罩【阿波罗网AS】</a></li>
 <li><a href="/cbnews/20220915/1784916.md">天亮时分：中俄结盟，可能开启与北约的全面冲突；栗战书承诺“策应”俄军，台湾政策法参院过关；王沪宁修改党章，中央军委大换血（政论天下第791集 20220914）</a></li>
 <li><a href="/cnnews/20220915/1784731.md">多伦多华人收到房贷月供的信，绝望了</a></li>
-<li><a href="/bannedvideo/20220915/1785035.md">🔥出意外 习近平出访央视不敢播；泽连斯基撞车 曝伤势；美股崩杀逾千点 拜登竟为一事庆功！CNN不忍了“卡掉画面”；欧盟遭自己人背叛？这2国找俄“干大事”；哈萨克斯坦迎习 特别全员戴口罩【阿波罗网AS】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220916/1785120.md" target="_blank">习首访哈萨克有玄机 美立法挺台</a></li>
 <li><a href="/cbnews/20220915/1785108.md" target="_blank">习普见面了，通稿不见乌克兰“身影”？</a></li>
 <li><a href="/cbnews/20220915/1785047.md" target="_blank">法轮功奇迹：胰腺癌患者痊愈的若干案例（1）</a></li>
 <li><a href="/cbnews/20220915/1784967.md" target="_blank">上海市民风雨中排队做核酸 民怨沸腾</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220914/1784367.md" target="_blank">乌军追击俄军一日千里 网民追杀俄粉战况惨烈</a></li>
 <li><a href="/cbnews/20220913/1784159.md" target="_blank">会晤普京？习近平处境尴尬</a></li>
 <li><a href="/cbnews/20220913/1784110.md" target="_blank">不只卢沙野 中共驻澳洲大使也称再教育台湾人</a></li>
-<li><a href="/cbnews/20220913/1784109.md" target="_blank">河北三河市毗邻北京1人阳性 今起全域静默管理4天</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 <li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
 
 </ul>
 </div>
