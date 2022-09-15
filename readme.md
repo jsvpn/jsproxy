@@ -9,7 +9,6 @@
 <li><a href="/topimagenews/20220915/1784809.md">栗战书罕见公开支持普京侵乌 释放强烈信号</a></li>
 <li><a href="/topimagenews/20220915/1784901.md">习近平出访哈萨克 一下飞机就险踩空…</a></li>
 <li><a href="/comments/20220915/1784743.md">英女王国葬上百名元首受邀 3国列“黑名单”被排除</a></li>
-<li><a href="/comments/20220915/1784725.md">王沪宁帮习办这事？矢板明夫：习派若获胜他将出局</a></li>
 <li><a href="/topimagenews/20220915/1784959.md">远胜习近平 胡春华铸造了李克强又一次辉煌？【阿波罗网报道】</a></li>
 <li><a href="/comments/20220915/1784775.md">看到"毛泽东”嫖妓 就有不祥预感…</a></li>
 <li><a href="/bannedvideo/20220915/1784745.md">栗战书视频曝光，“策应”俄军语惊四座！习近平出访“脚滑”，被拖下水露先兆？风暴在即，美欧酝酿一揽子制裁中共</a></li>
@@ -26,6 +25,7 @@
 <li><a href="/bannedvideo/20220915/1785035.md">🔥出意外 习近平出访央视不敢播；泽连斯基撞车 曝伤势；美股崩杀逾千点 拜登竟为一事庆功！CNN不忍了“卡掉画面”；欧盟遭自己人背叛？这2国找俄“干大事”；哈萨克斯坦迎习 特别全员戴口罩【阿波罗网AS】</a></li>
 <li><a href="/ssgc/20220915/1784921.md">〖兲朝浮世绘〗新造神运动 习近平想成为毛泽东第二</a></li>
 <li><a href="/cbnews/20220915/1784916.md">天亮时分：中俄结盟，可能开启与北约的全面冲突；栗战书承诺“策应”俄军，台湾政策法参院过关；王沪宁修改党章，中央军委大换血（政论天下第791集 20220914）</a></li>
+<li><a href="/bannedvideo/20220915/1785048.md">中国经济面临五大无解的危机！觉醒的中国人质问政府“不知道水有多深？为什么要折腾？ ”</a></li>
 <li><a href="/cnnews/20220915/1784731.md">多伦多华人收到房贷月供的信，绝望了</a></li>
 <li><a href="/headline/20220915/1784993.md">“动态清零将成基本国策”在中国网络疯传 官媒灭火称说假的</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220916/1785139.md" target="_blank">离岸人民币跌破7的心理关键水平</a></li>
 <li><a href="/comments/20220916/1785138.md" target="_blank">李克强二十大后出访柬埔寨？外界竞猜其去向</a></li>
 <li><a href="/comments/20220916/1785137.md" target="_blank">山东幼儿园恐怖虐童：剪十几个幼儿上嘴唇系带</a></li>
 <li><a href="/comments/20220916/1785136.md" target="_blank">14款安全可靠性的经典二手车，年轻新手首购族必看</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220915/1785003.md" target="_blank">四川成都宜宾出现阳性 数千人被集中隔离</a></li>
 <li><a href="/comments/20220915/1784941.md" target="_blank">济宁人没饭吃上央视求援被抓 官方却包豪华宾馆办公</a></li>
 <li><a href="/comments/20220915/1784938.md" target="_blank">学者：栗战书挺俄 或连累香港</a></li>
-<li><a href="/comments/20220915/1784937.md" target="_blank">中共国台办给予杨丞琳致命一击 网惊「统战认证」</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
 <li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
 
 </ul>
 </div>
