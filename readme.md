@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20220915/1784809.md">栗战书罕见公开支持普京侵乌 释放强烈信号</a></li>
 <li><a href="/topimagenews/20220915/1784901.md">习近平出访哈萨克 一下飞机就险踩空…</a></li>
 <li><a href="/comments/20220915/1784725.md">王沪宁帮习办这事？矢板明夫：习派若获胜他将出局</a></li>
-<li><a href="/headline/20220914/1784582.md">新冠病毒疫情以来首个外访 习近平抵达哈萨克斯坦 仪仗队罕见戴口罩</a></li>
 <li><a href="/bannedvideo/20220914/1784589.md">20大稳了?稳不稳都得去! 习近平为何非要在20大前出国? 时隔3年首出门 只剩普京可拉拢?中俄同陷孤立 互不信任好友 抱团取暖 各怀鬼胎!220914</a></li>
+<li><a href="/headline/20220914/1784582.md">新冠病毒疫情以来首个外访 习近平抵达哈萨克斯坦 仪仗队罕见戴口罩</a></li>
 <li><a href="/cnnews/20220915/1784799.md">泽连斯基惊传车祸！才刚赴前线宣示光复国土 基辅撞车伤势曝光</a></li>
-<li><a href="/topimagenews/20220914/1784569.md">乌克兰“选9月”赶时间反攻！美官员曝关键原因…</a></li>
 <li><a href="/bannedvideo/20220915/1784745.md">栗战书视频曝光，“策应”俄军语惊四座！习近平出访“脚滑”，被拖下水露先兆？风暴在即，美欧酝酿一揽子制裁中共</a></li>
-<li><a href="/comments/20220915/1784775.md">看到"毛泽东”嫖妓 就有不祥预感…</a></li>
 <li><a href="/topimagenews/20220915/1784935.md">中共总瓢把子大当家的必须血统纯正 前太子遭中组部改血统【阿波罗网报道】</a></li>
+<li><a href="/comments/20220915/1784775.md">看到"毛泽东”嫖妓 就有不祥预感…</a></li>
 <li><a href="/comments/20220915/1784743.md">英女王国葬上百名元首受邀 3国列“黑名单”被排除</a></li>
 <li><a href="/cbnews/20220914/1784630.md">用无人机丢“统一泡面”给金门官兵？中国网友看傻怒轰白痴</a></li>
-<li><a href="/bannedvideo/20220915/1784780.md">入俄陷阱！栗战书被抓把柄的视频突然被俄官媒大肆公布，很可能惹祸上身，习近平被拉下水【每日头条】</a></li>
-<li><a href="/bannedvideo/20220915/1784773.md">文昭：栗战书被爆料，敏感时刻中共遭重大泄密！张文宏一席话，揭出比金融爆雷更可怕的一件事</a></li>
 <li><a href="/topimagenews/20220915/1784959.md">远胜习近平 胡春华铸造了李克强又一次辉煌？【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220915/1784780.md">入俄陷阱！栗战书被抓把柄的视频突然被俄官媒大肆公布，很可能惹祸上身，习近平被拉下水【每日头条】</a></li>
 <li><a href="/bannedvideo/20220914/1784606.md">🔥李克强急了 要能用尽用快出快落地 ；中国中产感受到寒意；中国供应链移转的大赢家；谷歌拟将中国两成手机移至印度生产；中共暴雷先救这些银行；德经济部长：对中共贸易将不再天真【阿波罗网 Y Y】</a></li>
+<li><a href="/bannedvideo/20220915/1784773.md">文昭：栗战书被爆料，敏感时刻中共遭重大泄密！张文宏一席话，揭出比金融爆雷更可怕的一件事</a></li>
 <li><a href="/headline/20220915/1784717.md">习近平结束对哈萨克斯坦访问后飞抵乌兹别克斯坦，与普京峰会受关注</a></li>
-<li><a href="/comments/20220914/1784565.md">它是肾黄金，每天吃一片，好处数不清</a></li>
+<li><a href="/cbnews/20220915/1784955.md">习近平要害被抓到！内斗中频频失利【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220914/1784604.md">怎么，赫尔松的俄军也举白旗了？莫斯科现政变迹象？普京的近卫军损失惨重；乌军先锋逼近1991年划定的乌克兰边境；#新冷战情室</a></li>
 <li><a href="/headline/20220914/1784671.md">港媒说习近平20大前外访反映信心十足 称高层人事争斗与军人政变都是谣言</a></li>
+<li><a href="/cnnews/20220915/1784731.md">多伦多华人收到房贷月供的信，绝望了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220915/1785006.md" target="_blank">俄军仓皇逃生！至少有338架战斗机、坦克或卡车被抛下 美媒：俄罗斯不再是北约对手</a></li>
 <li><a href="/topimagenews/20220915/1784959.md" target="_blank">远胜习近平 胡春华铸造了李克强又一次辉煌？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220915/1784958.md" target="_blank">俄罗斯战败! 美媒:习近平和普丁欲重建全球新秩序的计划破灭了</a></li>
 <li><a href="/topimagenews/20220915/1784954.md" target="_blank">侵入俄罗斯后院 取代当老大?专家:习近平首站出访哈萨克有玄机</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220913/1784099.md" target="_blank">普丁报应来了？俄国“断气”内伤 外媒惊曝1数字很不妙</a></li>
 <li><a href="/topimagenews/20220913/1784064.md" target="_blank">习近平和他对着干 被隐去名字的“大佬”是谁【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220913/1784043.md" target="_blank">玄松月失宠？金正恩身边出现“新人”</a></li>
-<li><a href="/topimagenews/20220913/1784042.md" target="_blank">俄军Su-25战机坠毁成火球 曝俄空中战力大问题…</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 <li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 
 </ul>
 </div>
