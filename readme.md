@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20220914/1784546.md">2014休斯敦灭门枪杀案嫌犯抓获 传为周永康指使</a></li>
 <li><a href="/bannedvideo/20220914/1784596.md">陈破空：重大泄密！栗战书遭现场抓包！直接说了那件事。嫁祸李克强未果。习亲信捉急：中美关系面临瓦解！西方酝酿震撼法案。直播与互动 美东9月14早9点、即中港台9月14晚9点</a></li>
 <li><a href="/bannedvideo/20220914/1784491.md">为开战除掉军中障碍？中央军委将大地震！路透独家！美国策划制裁中共系列方案【国际风云】</a></li>
-<li><a href="/topimagenews/20220914/1784545.md">大航海时代终结!全球海运价格“断崖式”崩跌 企业“超订”货物销不出</a></li>
 <li><a href="/bannedvideo/20220915/1784755.md">栗战书公开卖国，遭俄国议长眼神羞辱</a></li>
+<li><a href="/topimagenews/20220914/1784545.md">大航海时代终结!全球海运价格“断崖式”崩跌 企业“超订”货物销不出</a></li>
 <li><a href="/comments/20220915/1784725.md">王沪宁帮习办这事？矢板明夫：习派若获胜他将出局</a></li>
 <li><a href="/health/20220914/1784494.md">《柳叶刀》证实：这项运动能降低47%死亡率，不是跑步和游泳</a></li>
 <li><a href="/topimagenews/20220914/1784569.md">乌克兰“选9月”赶时间反攻！美官员曝关键原因…</a></li>
 <li><a href="/headline/20220914/1784582.md">新冠病毒疫情以来首个外访 习近平抵达哈萨克斯坦 仪仗队罕见戴口罩</a></li>
+<li><a href="/bannedvideo/20220915/1784745.md">栗战书视频曝光，“策应”俄军语惊四座！习近平出访“脚滑”，被拖下水露先兆？风暴在即，美欧酝酿一揽子制裁中共</a></li>
 <li><a href="/bannedvideo/20220914/1784529.md">文睿：突发：给习“挖坑”，栗战书彻底火了，一尊咋办呢？</a></li>
 <li><a href="/bannedvideo/20220914/1784493.md">人日头版突然大喊改革开放，党媒搞政变？李易峰金句吓傻党中央！习近平主动掉进普京深坑？</a></li>
 <li><a href="/bannedvideo/20220914/1784589.md">20大稳了?稳不稳都得去! 习近平为何非要在20大前出国? 时隔3年首出门 只剩普京可拉拢?中俄同陷孤立 互不信任好友 抱团取暖 各怀鬼胎!220914</a></li>
 <li><a href="/cbnews/20220914/1784630.md">用无人机丢“统一泡面”给金门官兵？中国网友看傻怒轰白痴</a></li>
-<li><a href="/cbnews/20220914/1784549.md">习近平出席中亚峰会面对3大风险 与普丁会面如何表态全球瞩目</a></li>
-<li><a href="/bannedvideo/20220915/1784745.md">栗战书视频曝光，“策应”俄军语惊四座！习近平出访“脚滑”，被拖下水露先兆？风暴在即，美欧酝酿一揽子制裁中共</a></li>
-<li><a href="/baitai/20220914/1784363.md">微信删干净还占8GB UP主深扒：聊天记录删了5遍依然全都在</a></li>
 <li><a href="/comments/20220915/1784743.md">英女王国葬上百名元首受邀 3国列“黑名单”被排除</a></li>
+<li><a href="/cbnews/20220914/1784549.md">习近平出席中亚峰会面对3大风险 与普丁会面如何表态全球瞩目</a></li>
+<li><a href="/baitai/20220914/1784363.md">微信删干净还占8GB UP主深扒：聊天记录删了5遍依然全都在</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
 
 </ul>
 </div>
