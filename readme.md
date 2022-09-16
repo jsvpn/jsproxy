@@ -9,7 +9,6 @@
 <li><a href="/bannedvideo/20220916/1785195.md">北京市委书记蔡奇内部讲话称：要真刀真枪，要刺刀见红！</a></li>
 <li><a href="/yule/20220916/1785159.md">李易峰全家福，老爸面相很凶，老妈很漂亮</a></li>
 <li><a href="/bannedvideo/20220916/1785211.md">他提前10个月预言了英国女王的驾崩，现在预言中国即将有大事发生！谁是中国未来之主？【文昭思绪飞扬184期】</a></li>
-<li><a href="/cbnews/20220915/1785108.md">习普见面了，通稿不见乌克兰“身影”？</a></li>
 <li><a href="/comments/20220916/1785169.md">习稳控“枪杆子” 新军委人选即将揭幕？涉兵变传言一人去向不明</a></li>
 <li><a href="/topimagenews/20220916/1785329.md">笑喷！指桑骂槐说习近平是墨索里尼？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220916/1785320.md">没招了？！中共外交部回应美《台湾政策法》…</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/topimagenews/20220916/1785297.md">【微博精粹】谭书记必须立即停止反华宣传</a></li>
 <li><a href="/ssgc/20220916/1785210.md">〖微博谈〗俄罗斯把中共出卖了</a></li>
 <li><a href="/cbnews/20220916/1785298.md">习普会39:0完胜，他自从上任还未与习近平见面</a></li>
-<li><a href="/topimagenews/20220916/1785365.md">中共力拼“芯片自主”！港媒爆残酷真相：2关键酿倒闭潮</a></li>
-<li><a href="/cbnews/20220916/1785330.md">内部消息！中共秘谋俄罗斯 习近平见普京宣言【阿波罗网报道】</a></li>
 <li><a href="/headline/20220916/1785438.md">上合峰会大家欢晚宴 独有习近平未去</a></li>
-<li><a href="/topimagenews/20220916/1785312.md">美国经济惨了？日媒揭3大泡沫现形：惊见雷曼级警讯</a></li>
+<li><a href="/topimagenews/20220916/1785365.md">中共力拼“芯片自主”！港媒爆残酷真相：2关键酿倒闭潮</a></li>
 <li><a href="/cbnews/20220916/1785433.md">长沙中国电信大楼恐怖大火串烧整栋 官方宣称：暂未发现人员伤亡</a></li>
+<li><a href="/cbnews/20220916/1785330.md">内部消息！中共秘谋俄罗斯 习近平见普京宣言【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20220916/1785312.md">美国经济惨了？日媒揭3大泡沫现形：惊见雷曼级警讯</a></li>
 <li><a href="/topimagenews/20220916/1785327.md">乌克兰反攻太成功，拜登却开始担心了</a></li>
 <li><a href="/topimagenews/20220916/1785212.md">美断供EDA软件生效 中国企业不能设计传感器了</a></li>
-<li><a href="/cnnews/20220916/1785158.md">传：中国国产DUV遭大量投诉</a></li>
+<li><a href="/ssgc/20220916/1785409.md">习近平《求是》发文谈“伟大社会革命”    学者预视跟改革开放彻底的道别</a></li>
+<li><a href="/comments/20220916/1785138.md">李克强二十大后出访柬埔寨？外界竞猜其去向</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 <li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 <li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
 
 </ul>
 </div>
