@@ -5,14 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20220916/1785329.md">笑喷！指桑骂槐说习近平是墨索里尼？【阿波罗网报道】</a></li>
 <li><a href="/headline/20220916/1785438.md">上合峰会大家欢晚宴 独有习近平未去</a></li>
 <li><a href="/cnnews/20220917/1785625.md">今天，一批炒房客，哭晕在高铁上</a></li>
 <li><a href="/comments/20220916/1785457.md">习普会：普京怒目？习近平躲闪其辞</a></li>
 <li><a href="/topimagenews/20220916/1785365.md">中共力拼“芯片自主”！港媒爆残酷真相：2关键酿倒闭潮</a></li>
 <li><a href="/cbnews/20220916/1785433.md">长沙中国电信大楼恐怖大火串烧整栋 官方宣称：暂未发现人员伤亡</a></li>
 <li><a href="/comments/20220916/1785469.md">精准预言！女王离世，英王室大戏⋯通灵人帕克反复提中国巨变！和赊刀人不谋而合？！8月下雪赊刀人再言中，集团崩、红船沉、坏人亡绝灭，好人⋯已在实现中⋯⋯</a></li>
-<li><a href="/cbnews/20220916/1785330.md">内部消息！中共秘谋俄罗斯 习近平见普京宣言【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220917/1785648.md">蹊跷缺席峰会晚宴，习近平居然给出这个理由！ “人设”与“烂尾”，哪个更重要？网传习近平内部讲话，中国的未来有多可怕？ ！</a></li>
 <li><a href="/topimagenews/20220917/1785704.md">奥密克戎都没你狠毒！上海这位书记火了</a></li>
 <li><a href="/cnnews/20220917/1785570.md">上合峰会多国领袖数次大合照 独缺习近平</a></li>
@@ -20,14 +18,16 @@
 <li><a href="/topimagenews/20220916/1785447.md">欧洲根本不用怕？他曝普丁这招破功 俄罗斯苦日子来了…</a></li>
 <li><a href="/cnnews/20220916/1785507.md">长沙大火非突发？陆网怒揭“招标公告”：消防设备超期运行</a></li>
 <li><a href="/cnnews/20220917/1785671.md">大陆27岁正妹被误认为学生 晒身份证明：我是教授</a></li>
-<li><a href="/bannedvideo/20220916/1785434.md">普京一细节曝心理状态 习被打脸 中俄关系现危险转折【两岸要闻】</a></li>
 <li><a href="/cbnews/20220917/1785719.md">天亮时分：上合峰会失败，中俄裂痕显现，习近平三大异常表现；习近平秘密讲话曝光，内容亦真亦假；《求是》发文，习要继续革命（政论天下第793集 20220916）</a></li>
+<li><a href="/bannedvideo/20220916/1785434.md">普京一细节曝心理状态 习被打脸 中俄关系现危险转折【两岸要闻】</a></li>
+<li><a href="/bannedvideo/20220917/1785679.md">习最担心的事在全世界快速发酵，中共官媒动员全民 暗示要开战【每日头条】</a></li>
 <li><a href="/topimagenews/20220916/1785518.md">通话曝！俄罗斯大兵绝望认输 亲吐战况很糟：我们无处可逃</a></li>
 <li><a href="/yule/20220917/1785672.md">整容上瘾？40岁李小璐近照认不出，好可怕</a></li>
-<li><a href="/bannedvideo/20220917/1785679.md">习最担心的事在全世界快速发酵，中共官媒动员全民 暗示要开战【每日头条】</a></li>
 <li><a href="/cnnews/20220916/1785458.md">美知名亚裔副总裁持刀强奸多人 最小受害者13岁</a></li>
 <li><a href="/cbnews/20220916/1785506.md">怕被“就地隔离”！上海好市多突传疫情 购物民众失控逃跑</a></li>
 <li><a href="/bannedvideo/20220916/1785471.md">陈破空：栗战书恐遭党内清算！党媒矮化习普会，暗示随时抛弃。他险遭暗杀。王岐山准备出发，英国议员反对。长沙突发大火烧红天。直播与互动 美东9月15早9点、即中港台9月15晚9点</a></li>
+<li><a href="/bannedvideo/20220917/1785616.md">习另有一野心？《日经》：2023年或让出主席【红朝禁闻】</a></li>
+<li><a href="/lifebaike/20220916/1785341.md">儿科医生呼吁停止食用，多吃或影响孩子发育，建议家长：端下餐桌</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220917/1785819.md" target="_blank">CIA副局长：习告知解放军2027年具武统台湾能力</a></li>
 <li><a href="/cbnews/20220917/1785809.md" target="_blank">黑：网购平台两个月前预售iPhone14后，卷款跑路</a></li>
 <li><a href="/cbnews/20220917/1785808.md" target="_blank">长沙大楼爆大火绝望视角曝光 办公室只剩他一人</a></li>
 <li><a href="/cbnews/20220917/1785788.md" target="_blank">中俄关系生变？普丁公开承认北京忧俄乌战事 华府讶异</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220916/1785150.md" target="_blank">美中半导体“从点到面”脱勾 芯片战争全面开打</a></li>
 <li><a href="/cbnews/20220916/1785120.md" target="_blank">习首访哈萨克有玄机 美立法挺台</a></li>
 <li><a href="/cbnews/20220915/1785108.md" target="_blank">习普见面了，通稿不见乌克兰“身影”？</a></li>
-<li><a href="/cbnews/20220915/1785047.md" target="_blank">法轮功奇迹：胰腺癌患者痊愈的若干案例（1）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
 <li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
 
 </ul>
 </div>
