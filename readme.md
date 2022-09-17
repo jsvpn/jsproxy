@@ -15,19 +15,19 @@
 <li><a href="/cbnews/20220917/1785719.md">天亮时分：上合峰会失败，中俄裂痕显现，习近平三大异常表现；习近平秘密讲话曝光，内容亦真亦假；《求是》发文，习要继续革命（政论天下第793集 20220916）</a></li>
 <li><a href="/cnnews/20220917/1785769.md">快讯：习近平已结束外访回到北京，还戴着口罩</a></li>
 <li><a href="/bannedvideo/20220917/1785679.md">习最担心的事在全世界快速发酵，中共官媒动员全民 暗示要开战【每日头条】</a></li>
-<li><a href="/cnnews/20220916/1785507.md">长沙大火非突发？陆网怒揭“招标公告”：消防设备超期运行</a></li>
 <li><a href="/cnnews/20220917/1785671.md">大陆27岁正妹被误认为学生 晒身份证明：我是教授</a></li>
 <li><a href="/cbnews/20220917/1785825.md">触目惊心：长沙电信大楼大火 烧出另一个真相</a></li>
+<li><a href="/cnnews/20220916/1785507.md">长沙大火非突发？陆网怒揭“招标公告”：消防设备超期运行</a></li>
 <li><a href="/yule/20220917/1785672.md">整容上瘾？40岁李小璐近照认不出，好可怕</a></li>
 <li><a href="/topimagenews/20220916/1785518.md">通话曝！俄罗斯大兵绝望认输 亲吐战况很糟：我们无处可逃</a></li>
 <li><a href="/cnnews/20220916/1785458.md">美知名亚裔副总裁持刀强奸多人 最小受害者13岁</a></li>
 <li><a href="/bannedvideo/20220916/1785471.md">陈破空：栗战书恐遭党内清算！党媒矮化习普会，暗示随时抛弃。他险遭暗杀。王岐山准备出发，英国议员反对。长沙突发大火烧红天。直播与互动 美东9月15早9点、即中港台9月15晚9点</a></li>
-<li><a href="/cbnews/20220916/1785506.md">怕被“就地隔离”！上海好市多突传疫情 购物民众失控逃跑</a></li>
 <li><a href="/cbnews/20220917/1785763.md">江峰：中俄官媒罕见互贬，普习会成中俄关系破裂开端。习走毛路，或反美反俄全面封闭；不赴晚宴习弃老大席位，缺钱缺枪上合组织将瓦解【江峰漫谈20220916第548期】</a></li>
+<li><a href="/cbnews/20220916/1785506.md">怕被“就地隔离”！上海好市多突传疫情 购物民众失控逃跑</a></li>
+<li><a href="/topimagenews/20220917/1785816.md">李克强急了 要能用尽用快出快落地 ；中国中产感受到寒意；中国供应链移转的大赢家；</a></li>
 <li><a href="/bannedvideo/20220917/1785616.md">习另有一野心？《日经》：2023年或让出主席【红朝禁闻】</a></li>
 <li><a href="/cnnews/20220916/1785561.md">无视拜登警告 iPhone14拆解见中国厂商长江存储芯片</a></li>
 <li><a href="/cbnews/20220916/1785519.md">砸20万买鱼塘 买主抽干乍见“尴尬一幕”：只捞出4条鱼</a></li>
-<li><a href="/funmedia/20220916/1785464.md">上海市中心惊现“神话之鸟”，全球仅存100余只</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220917/1785871.md" target="_blank">张建兴：反共的无私、勇气和金钱一一论曹兴诚现象</a></li>
+<li><a href="/comments/20220917/1785869.md" target="_blank">唐靖远：习近平诡异缺席上合晚宴 有何玄机</a></li>
 <li><a href="/comments/20220917/1785866.md" target="_blank">室内养文竹，5个技巧，常年绿油油，“小小的森林”</a></li>
 <li><a href="/comments/20220917/1785865.md" target="_blank">人体内的惊人数字</a></li>
 <li><a href="/comments/20220917/1785864.md" target="_blank">遇事最重要的4种能力</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220917/1785722.md" target="_blank">不是俄军不好，而是世界第二和世界第一差距太大</a></li>
 <li><a href="/comments/20220917/1785721.md" target="_blank">言左右：俄国吃相难看 不要急着帮普京</a></li>
 <li><a href="/comments/20220917/1785720.md" target="_blank">李濠仲: 被普京刺激到的《台湾政策法案》</a></li>
-<li><a href="/comments/20220917/1785713.md" target="_blank">舒默警告民主党或失众院 参院候选人吁结束舒默「统治」</a></li>
-<li><a href="/comments/20220917/1785712.md" target="_blank">习近平拒见教宗 分析：印证中梵不对等</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
 <li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
 
 </ul>
 </div>
