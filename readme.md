@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220917/1785704.md">奥密克戎都没你狠毒！上海这位书记火了</a></li>
 <li><a href="/topimagenews/20220917/1785807.md">上合晚宴数次大合照 独缺习近平 乌方解答来了</a></li>
-<li><a href="/bannedvideo/20220917/1785679.md">习最担心的事在全世界快速发酵，中共官媒动员全民 暗示要开战【每日头条】</a></li>
 <li><a href="/cbnews/20220917/1785825.md">触目惊心：长沙电信大楼大火 烧出另一个真相</a></li>
 <li><a href="/cbnews/20220917/1785719.md">天亮时分：上合峰会失败，中俄裂痕显现，习近平三大异常表现；习近平秘密讲话曝光，内容亦真亦假；《求是》发文，习要继续革命（政论天下第793集 20220916）</a></li>
 <li><a href="/cnnews/20220917/1785769.md">快讯：习近平已结束外访回到北京，还戴着口罩</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/bannedvideo/20220917/1785874.md">🔥出事？习近平从会场直奔机场深夜抵京 还戴着口罩；纵狼为患”20大前夕朝鲜宣布这么做 北京只能吃哑巴亏… 美报告曝中共将领致命弱点 或步俄后尘；美将军警告：中共正快速扩大核武库【阿波罗网FT】</a></li>
 <li><a href="/topimagenews/20220917/1785851.md">“神鬼先知”预言：2023年“5事撼全球” 恐世界大战、燃天火</a></li>
 <li><a href="/topimagenews/20220917/1785910.md">习近平出访，照片中出现一个特殊人物！【阿波罗网报道】</a></li>
-<li><a href="/headline/20220917/1785877.md">「核酸盛世」四字惹怒民众 中国媒体也骂翻</a></li>
 <li><a href="/comments/20220917/1785915.md">传长沙电信大楼内藏省纪委软禁官员场所 大火烧出另一真相</a></li>
+<li><a href="/headline/20220917/1785877.md">「核酸盛世」四字惹怒民众 中国媒体也骂翻</a></li>
 <li><a href="/cbnews/20220917/1785808.md">长沙大楼爆大火绝望视角曝光 办公室只剩他一人</a></li>
 <li><a href="/yule/20220917/1785870.md">佟丽娅撇再婚高官 前夫仍帮她庆生 转身被拍“深夜疑搂新女友”</a></li>
 <li><a href="/cbnews/20220917/1785788.md">中俄关系生变？普丁公开承认北京忧俄乌战事 华府讶异</a></li>
+<li><a href="/topimagenews/20220918/1785950.md">想取而代之，习近平大错特错</a></li>
 <li><a href="/bannedvideo/20220917/1785757.md">🔥习近平“国师”造反？大唱反调！习近平想执政到...栗战书1句话泄露；中共发射火箭 菲律宾对失控残骸坠落发警报；7至8月 中国至少1850名法轮功学员遭绑架骚扰【阿波罗网AM】</a></li>
 <li><a href="/bannedvideo/20220917/1785692.md">🔥🔥惊爆：中共军方政变❓❗血月异象应验❓湖北现千年不遇异象 或有大灾❓</a></li>
 <li><a href="/bannedvideo/20220917/1785818.md">一居民下楼放风，被大白阻拦，只说了句“红卫兵”，就被警察上门抓捕。</a></li>
+<li><a href="/bannedvideo/20220918/1785955.md">传习对红二代说心里话 曝可怕未来【红朝禁闻】</a></li>
 <li><a href="/baitai/20220917/1785831.md">林保华 | 国际大丑闻：习近平落跑上合组织晚宴</a></li>
 <li><a href="/cbnews/20220917/1785824.md">确定：王岐山代表习近平出席英国女王国葬</a></li>
-<li><a href="/topimagenews/20220918/1785950.md">想取而代之，习近平大错特错</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220918/1786002.md" target="_blank">时事金扫描:天津要封城？拉萨变鬼城</a></li>
+<li><a href="/comments/20220918/1786001.md" target="_blank">习近平为何“御驾亲征”上海合作组织峰会？</a></li>
+<li><a href="/comments/20220918/1785999.md" target="_blank">刘晓：身穿旧衣不忘先训 明成祖躬行节俭</a></li>
+<li><a href="/comments/20220918/1785997.md" target="_blank">项云：不可小觑中共的欺骗性</a></li>
+<li><a href="/comments/20220918/1785996.md" target="_blank">王赫：《台湾政策法》的立法前景</a></li>
 <li><a href="/comments/20220918/1785978.md" target="_blank">贝克汉姆：彩虹奶奶的离去是悲伤的一天</a></li>
 <li><a href="/comments/20220918/1785963.md" target="_blank">开拓与台湾交往新时代 欧洲议会通过台海决议</a></li>
 <li><a href="/comments/20220918/1785956.md" target="_blank">普京乖巧聆听 俄乌战争大转折时刻来临</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20220917/1785865.md" target="_blank">人体内的惊人数字</a></li>
 <li><a href="/comments/20220917/1785864.md" target="_blank">遇事最重要的4种能力</a></li>
 <li><a href="/comments/20220917/1785863.md" target="_blank">防秋燥只做到多喝水还不够，试试这5款中药茶</a></li>
-<li><a href="/comments/20220917/1785862.md" target="_blank">秋天被毒蚊子咬了怎么办？</a></li>
-<li><a href="/comments/20220917/1785861.md" target="_blank">柑橘：维生素B1冠军</a></li>
-<li><a href="/comments/20220917/1785860.md" target="_blank">医师：身体的毒有70％是你吃下去的！正本清源需这样&#8230;&#8230;</a></li>
-<li><a href="/comments/20220917/1785812.md" target="_blank">长沙多处起火 湖南电台禁止传播消息</a></li>
-<li><a href="/comments/20220917/1785811.md" target="_blank">习近平缺席晚宴 网民嘲讽：没带小本本</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 <li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
 
 </ul>
 </div>
