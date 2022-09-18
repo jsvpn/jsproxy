@@ -22,12 +22,12 @@
 <li><a href="/bannedvideo/20220918/1785954.md">“习普会”后中共变低调，专家分析原因；上合峰会结束，成员国就俄乌战争立场分歧；美将军警告：中共扩大核武，美需调整政策；南加学生误食酿悲剧，芬太尼假药氾滥引发关注【 #环球直击 】</a></li>
 <li><a href="/bannedvideo/20220917/1785818.md">一居民下楼放风，被大白阻拦，只说了句“红卫兵”，就被警察上门抓捕。</a></li>
 <li><a href="/cbnews/20220917/1785824.md">确定：王岐山代表习近平出席英国女王国葬</a></li>
-<li><a href="/comments/20220917/1785811.md">习近平缺席晚宴 网民嘲讽：没带小本本</a></li>
 <li><a href="/topimagenews/20220918/1785951.md">兵败乌东！ 俄罗斯军队败退暴露其关键弱点</a></li>
+<li><a href="/bannedvideo/20220918/1785985.md">俄罗斯海关恶意检查中国人，而且只查中国人，其他国家的人都免检放行！！</a></li>
 <li><a href="/bannedvideo/20220917/1785879.md">习近平秘密讲话曝光，要搞穷中国救中共？坚决搞个人崇拜，中国重回毛年代？解决台湾问题写入党章，习连任要开战？（2022.9.17）｜世界的十字路口 唐浩</a></li>
+<li><a href="/topimagenews/20220918/1786033.md">许家印是来搞笑的吗？</a></li>
 <li><a href="/bannedvideo/20220917/1785912.md">帕克预测了美国、俄罗斯、和中国领导人的未来命运</a></li>
 <li><a href="/yule/20220918/1785957.md">勤奋发大财的海清：住豪宅开豪车 名表一大把</a></li>
-<li><a href="/bannedvideo/20220917/1785902.md">习近平怕什么？公安部长高喊“保习”,习三天日程未结束即返京……</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220918/1786138.md" target="_blank">荒唐：中国中学为防疫竟“控管上厕所人流”</a></li>
 <li><a href="/comments/20220918/1786093.md" target="_blank">【杰森视角】美国间谍战反守为攻！中共国安官员为何主动跳进FBI陷阱？英国工程师吃顿饭的功夫数据就丢光了！中共特工后悔入职国安！国安特工犯错低级程度令人难以置信！</a></li>
 <li><a href="/cbnews/20220918/1786092.md" target="_blank">天亮时分：国内出事？习连夜奔回北京；一张照片泄露，他才是这次上合峰会大赢家；2027武统台湾与北约分裂俄罗斯计划（政论天下第794集 20220917）</a></li>
 <li><a href="/cbnews/20220918/1785888.md" target="_blank">法轮功奇迹：胰腺癌患者痊愈的若干案例（3）</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/comments/20220916/1785469.md" target="_blank">精准预言！女王离世，英王室大戏⋯通灵人帕克反复提中国巨变！和赊刀人不谋而合？！8月下雪赊刀人再言中，集团崩、红船沉、坏人亡绝灭，好人⋯已在实现中⋯⋯</a></li>
 <li><a href="/cbnews/20220916/1785433.md" target="_blank">长沙中国电信大楼恐怖大火串烧整栋 官方宣称：暂未发现人员伤亡</a></li>
 <li><a href="/cbnews/20220916/1785359.md" target="_blank">高空无人机对决！澳洲“人鱼海神”到位 应对中共印太海权扩张</a></li>
-<li><a href="/cbnews/20220916/1785330.md" target="_blank">内部消息！中共秘谋俄罗斯 习近平见普京宣言【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220918/1786137.md" target="_blank">习近平三位一体大位将让出之一？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220918/1786105.md" target="_blank">习近平“国师”造反？大唱反调！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220918/1786033.md" target="_blank">许家印是来搞笑的吗？</a></li>
 <li><a href="/topimagenews/20220918/1785951.md" target="_blank">兵败乌东！ 俄罗斯军队败退暴露其关键弱点</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220916/1785297.md" target="_blank">【微博精粹】谭书记必须立即停止反华宣传</a></li>
 <li><a href="/topimagenews/20220916/1785282.md" target="_blank">360度无死角！F-15EX“鹰二世”证明4代战机的新价值</a></li>
 <li><a href="/topimagenews/20220916/1785212.md" target="_blank">美断供EDA软件生效 中国企业不能设计传感器了</a></li>
-<li><a href="/topimagenews/20220915/1785099.md" target="_blank">普丁传“逼情妇堕胎”！不要小孩原因曝 父女恋关系急恶化</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
 <li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
 
 </ul>
 </div>
