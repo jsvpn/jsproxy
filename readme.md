@@ -16,10 +16,10 @@
 <li><a href="/yule/20220917/1785870.md">佟丽娅撇再婚高官 前夫仍帮她庆生 转身被拍“深夜疑搂新女友”</a></li>
 <li><a href="/bannedvideo/20220918/1785971.md">乌军在收复的俄军阵地上，发现了中国的军火弹药！</a></li>
 <li><a href="/topimagenews/20220918/1786033.md">许家印是来搞笑的吗？</a></li>
-<li><a href="/bannedvideo/20220918/1785972.md">广州，警察开枪了，原因不明！</a></li>
 <li><a href="/topimagenews/20220918/1786105.md">习近平“国师”造反？大唱反调！【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220918/1785954.md">“习普会”后中共变低调，专家分析原因；上合峰会结束，成员国就俄乌战争立场分歧；美将军警告：中共扩大核武，美需调整政策；南加学生误食酿悲剧，芬太尼假药氾滥引发关注【 #环球直击 】</a></li>
+<li><a href="/bannedvideo/20220918/1785972.md">广州，警察开枪了，原因不明！</a></li>
 <li><a href="/cbnews/20220918/1786092.md">天亮时分：国内出事？习连夜奔回北京；一张照片泄露，他才是这次上合峰会大赢家；2027武统台湾与北约分裂俄罗斯计划（政论天下第794集 20220917）</a></li>
+<li><a href="/bannedvideo/20220918/1785954.md">“习普会”后中共变低调，专家分析原因；上合峰会结束，成员国就俄乌战争立场分歧；美将军警告：中共扩大核武，美需调整政策；南加学生误食酿悲剧，芬太尼假药氾滥引发关注【 #环球直击 】</a></li>
 <li><a href="/bannedvideo/20220918/1785985.md">俄罗斯海关恶意检查中国人，而且只查中国人，其他国家的人都免检放行！！</a></li>
 <li><a href="/topimagenews/20220918/1785951.md">兵败乌东！ 俄罗斯军队败退暴露其关键弱点</a></li>
 <li><a href="/bannedvideo/20220917/1785879.md">习近平秘密讲话曝光，要搞穷中国救中共？坚决搞个人崇拜，中国重回毛年代？解决台湾问题写入党章，习连任要开战？（2022.9.17）｜世界的十字路口 唐浩</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/bannedvideo/20220917/1785912.md">帕克预测了美国、俄罗斯、和中国领导人的未来命运</a></li>
 <li><a href="/bannedvideo/20220917/1785902.md">习近平怕什么？公安部长高喊“保习”,习三天日程未结束即返京……</a></li>
 <li><a href="/bannedvideo/20220918/1785966.md">习李二十大前相继宣布访外 别有用心还是形势所迫？【财经慧眼】</a></li>
-<li><a href="/headline/20220917/1785850.md">习近平返抵中国 未见莫迪</a></li>
+<li><a href="/cnnews/20220918/1786064.md">简历“太好笑” 中国南开大学教授引起热议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20190418/1115565.md" target="_blank">修炼笔记：新宇宙的神话-补天的故事</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 <li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 
 </ul>
 </div>
