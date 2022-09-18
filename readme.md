@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20220918/1786147.md">中共二十大后路线已明！习近平讲话透露最重要信息【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220918/1786215.md">105岁元老再为习站台？他是周恩来政治秘书,胡锦涛、温家宝、吴仪的伯乐,邓小平最信任的人！</a></li>
 <li><a href="/cbnews/20220918/1786191.md">中国大巴车深夜翻覆已27死 疯传都是拉去隔离的</a></li>
-<li><a href="/bannedvideo/20220918/1785985.md">俄罗斯海关恶意检查中国人，而且只查中国人，其他国家的人都免检放行！！</a></li>
 <li><a href="/bannedvideo/20220918/1786209.md">陈破空：罕见报道政治老人引猜疑！习近平仓促回国，因北部战区有事？他面前惊现小矮人！全程尾随。普京变乖了？气焰顿失。直播与互动 美东9月18早9点、即中港台9月18晚9点</a></li>
 <li><a href="/health/20220918/1786157.md">为何中国脑梗越来越多？提醒：离不开这2个祸根，不是叶酸补少了</a></li>
 <li><a href="/bannedvideo/20220918/1786149.md">💥公安部威胁敲打众高官！习当晚赶回北京；在中亚，习近平一行不敢出席晚宴；中共暗地大力输出军火，以色列、乌克兰等国都发现了；中共代表吊唁英女王，被拒绝进入，王岐山去英国也“凶险”｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ssgc/20220918/1786068.md">〖微博谈〗十四亿人民没有斗过唐山事件几个流氓</a></li>
+<li><a href="/cnnews/20220918/1786243.md">印度神童又命中！6.8强震全台吓坏 还有“3大未爆弹”</a></li>
 <li><a href="/cbnews/20220918/1786009.md">他拿到iPhone14瑕疵机 苹果给补偿 网惊赚烂了</a></li>
 <li><a href="/cnnews/20220918/1786064.md">简历“太好笑” 中国南开大学教授引起热议</a></li>
-<li><a href="/cnnews/20220918/1786243.md">印度神童又命中！6.8强震全台吓坏 还有“3大未爆弹”</a></li>
 <li><a href="/bannedvideo/20220918/1786187.md">二十大后仍危险！习近平对军方命令曝光 ！积怨深 习近平莫迪没会谈【两岸要闻】</a></li>
 <li><a href="/cnnews/20220918/1786005.md">下面就看谁头铁了 屋漏偏逢连夜雨 这届也太惨了</a></li>
 <li><a href="/comments/20220918/1786230.md">贵阳大巴车祸致死27人 财新副主编吁“反对全民核酸” 当局急“消音”</a></li>
 <li><a href="/comments/20220918/1786046.md">习近平怕北京出事？从上合会场直奔机场 深夜回国</a></li>
 <li><a href="/baitai/20220918/1786185.md">【网络民议】你凭什么认为你不会在那辆凌晨的大巴上？</a></li>
 <li><a href="/cbnews/20220918/1786189.md">传中国“禁用整容艺人” Angelababy又被点名</a></li>
+<li><a href="/bannedvideo/20220918/1786218.md">🔥普京反常 大转折时刻来临；习近平可能变心 普京听懂拜登警告? 突发！中芯董事国际被抓 大基金已有多名高管落马【阿波罗网LS】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 <li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
 
 </ul>
 </div>
