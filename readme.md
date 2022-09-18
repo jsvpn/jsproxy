@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20220917/1785916.md">栗战书访尼泊尔，一句话泄露习近平想执政到...【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220917/1785910.md">习近平出访，照片中出现一个特殊人物！【阿波罗网报道】</a></li>
 <li><a href="/comments/20220917/1785915.md">传长沙电信大楼内藏省纪委软禁官员场所 大火烧出另一真相</a></li>
 <li><a href="/topimagenews/20220918/1785950.md">想取而代之，习近平大错特错</a></li>
 <li><a href="/bannedvideo/20220918/1785955.md">传习对红二代说心里话 曝可怕未来【红朝禁闻】</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/bannedvideo/20220918/1785971.md">乌军在收复的俄军阵地上，发现了中国的军火弹药！</a></li>
 <li><a href="/topimagenews/20220918/1786033.md">许家印是来搞笑的吗？</a></li>
 <li><a href="/bannedvideo/20220918/1785972.md">广州，警察开枪了，原因不明！</a></li>
-<li><a href="/cbnews/20220918/1786092.md">天亮时分：国内出事？习连夜奔回北京；一张照片泄露，他才是这次上合峰会大赢家；2027武统台湾与北约分裂俄罗斯计划（政论天下第794集 20220917）</a></li>
-<li><a href="/topimagenews/20220918/1786137.md">习近平三位一体大位将让出之一？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220918/1786148.md">被删文：反了？新京报发文批“核酸盛世” 火速被删</a></li>
-<li><a href="/bannedvideo/20220918/1786125.md">北京出大事了？习近平突然中断国外访问，公安部长紧急喊保习！中共内部谋划对俄国特殊战略曝光【国际风云】</a></li>
+<li><a href="/topimagenews/20220918/1786137.md">习近平三位一体大位将让出之一？【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20220918/1786092.md">天亮时分：国内出事？习连夜奔回北京；一张照片泄露，他才是这次上合峰会大赢家；2027武统台湾与北约分裂俄罗斯计划（政论天下第794集 20220917）</a></li>
 <li><a href="/topimagenews/20220918/1786147.md">中共二十大后路线已明！习近平讲话透露最重要信息【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220918/1786125.md">北京出大事了？习近平突然中断国外访问，公安部长紧急喊保习！中共内部谋划对俄国特殊战略曝光【国际风云】</a></li>
 <li><a href="/bannedvideo/20220918/1785954.md">“习普会”后中共变低调，专家分析原因；上合峰会结束，成员国就俄乌战争立场分歧；美将军警告：中共扩大核武，美需调整政策；南加学生误食酿悲剧，芬太尼假药氾滥引发关注【 #环球直击 】</a></li>
 <li><a href="/bannedvideo/20220918/1785985.md">俄罗斯海关恶意检查中国人，而且只查中国人，其他国家的人都免检放行！！</a></li>
 <li><a href="/topimagenews/20220918/1785951.md">兵败乌东！ 俄罗斯军队败退暴露其关键弱点</a></li>
-<li><a href="/bannedvideo/20220917/1785912.md">帕克预测了美国、俄罗斯、和中国领导人的未来命运</a></li>
+<li><a href="/cbnews/20220918/1786191.md">中国大巴车深夜翻覆已27死 疯传都是拉去隔离的</a></li>
 <li><a href="/cnnews/20220918/1786064.md">简历“太好笑” 中国南开大学教授引起热议</a></li>
 <li><a href="/yule/20220918/1785957.md">勤奋发大财的海清：住豪宅开豪车 名表一大把</a></li>
-<li><a href="/cbnews/20220918/1786191.md">中国大巴车深夜翻覆已27死 疯传都是拉去隔离的</a></li>
 <li><a href="/cbnews/20220918/1786009.md">他拿到iPhone14瑕疵机 苹果给补偿 网惊赚烂了</a></li>
 <li><a href="/ssgc/20220918/1786068.md">〖微博谈〗十四亿人民没有斗过唐山事件几个流氓</a></li>
+<li><a href="/bannedvideo/20220918/1786149.md">💥公安部威胁敲打众高官！习当晚赶回北京；在中亚，习近平一行不敢出席晚宴；中共暗地大力输出军火，以色列、乌克兰等国都发现了；中共代表吊唁英女王，被拒绝进入，王岐山去英国也“凶险”｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cnnews/20220918/1786005.md">下面就看谁头铁了 屋漏偏逢连夜雨 这届也太惨了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220918/1786230.md" target="_blank">贵阳大巴车祸致死27人 财新副主编吁“反对全民核酸” 当局急“消音”</a></li>
 <li><a href="/comments/20220918/1786219.md" target="_blank">被指泄露解封规划 四川成都官员遭立案调查</a></li>
 <li><a href="/comments/20220918/1786210.md" target="_blank">台湾台东6.8强震 49年来最强 桥断楼塌鱼儿也跳出水</a></li>
 <li><a href="/comments/20220918/1786197.md" target="_blank">群众的眼睛是雪亮的，但有时候露出的是贼光</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220918/1786106.md" target="_blank">〈跳地球〉</a></li>
 <li><a href="/comments/20220918/1786093.md" target="_blank">【杰森视角】美国间谍战反守为攻！中共国安官员为何主动跳进FBI陷阱？英国工程师吃顿饭的功夫数据就丢光了！中共特工后悔入职国安！国安特工犯错低级程度令人难以置信！</a></li>
 <li><a href="/comments/20220918/1786081.md" target="_blank">长沙电信楼大火室内画面曝光 亲历者：很后怕</a></li>
-<li><a href="/comments/20220918/1786078.md" target="_blank">美将军警告：中共扩大核武 美需调整政策</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 <li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200626/1259925.md" target="_blank">穿越时空 改变历史 正在发生着</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 <li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220710/1756417.md" target="_blank">安倍君子豹变，日本和韩国受中华传统文化影响深远</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
 
 </ul>
 </div>
