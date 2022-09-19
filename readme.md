@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20220919/1786284.md">突发！美国2架飞机空中相撞，机上人员全部罹难</a></li>
 <li><a href="/cnnews/20220919/1786285.md">因女王国葬限制这，各国元首炸毛，有的不来了</a></li>
-<li><a href="/comments/20220918/1786248.md">习近平对红二代内部讲话网络热传 内容涉及批邓挺毛、个人崇拜、打破规矩连任、人口与经济问题 反习势力改口风 “爆料人”：习连任八九不离十 不要被“习下李上”带偏了 中南海谣言预言_541</a></li>
 <li><a href="/cnnews/20220919/1786310.md">她说“我母亲在隔离大巴，确认死亡”，却被骂惨</a></li>
 <li><a href="/headline/20220919/1786491.md">【二十大】105岁原常委宋平罕见露面 强调「改革开放是中国发展必由之路」</a></li>
 <li><a href="/topimagenews/20220919/1786307.md">我们要怎么做，才能不上那辆大巴车？</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/topimagenews/20220919/1786450.md">习近平心腹不满软抵制【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220919/1786369.md">转运隔离大巴车祸当天，就被媒体热搜恶心到了</a></li>
 <li><a href="/topimagenews/20220919/1786518.md">中共暴力封城遭各地居民反抗 遍地烽火 重庆业主逼退警察【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220919/1786546.md">“兵变”细节来了！与官方新闻时间线完全吻合……</a></li>
 <li><a href="/cnnews/20220919/1786480.md">中国首富的两台印钞机：一台矿泉水，另一台是…</a></li>
 <li><a href="/bannedvideo/20220919/1786429.md">中国某军营在夜里传出了枪声和呐喊声，原因不明！</a></li>
 <li><a href="/cbnews/20220919/1786324.md">拜登告诫习近平：若支持俄罗斯 美会叫停投资</a></li>
-<li><a href="/bannedvideo/20220919/1786546.md">“兵变”细节来了！与官方新闻时间线完全吻合……</a></li>
-<li><a href="/headline/20220919/1786378.md">据信先被英议长拒绝 中国国家副主席王岐山获准瞻仰英女王灵柩 </a></li>
+<li><a href="/cnnews/20220919/1786563.md">捷运乍现“女神级乘客”千人朝圣抢看 本尊无罩美图曝光</a></li>
 <li><a href="/cnnews/20220919/1786421.md">离谱了：苹果刚公布，这操作比iPhone14还过分</a></li>
-<li><a href="/topimagenews/20220919/1786416.md">【微博精粹】这国栽在两个演员手里</a></li>
+<li><a href="/headline/20220919/1786378.md">据信先被英议长拒绝 中国国家副主席王岐山获准瞻仰英女王灵柩 </a></li>
 <li><a href="/bannedvideo/20220919/1786314.md">陈破空：重大爆料！习近平封城的真正目的：禁足政治老人！疫情造假，别动队投毒。全国人民成殉葬品。只因他想终身执政！贵州翻车只是悲剧之一。美东9月18晚8点30、即中港台9月19早8点30</a></li>
 <li><a href="/topimagenews/20220919/1786380.md">俄罗斯经济没救了？普丁扛不住制裁 专家惊曝1灾难苦果</a></li>
-<li><a href="/cnnews/20220919/1786563.md">捷运乍现“女神级乘客”千人朝圣抢看 本尊无罩美图曝光</a></li>
+<li><a href="/topimagenews/20220919/1786416.md">【微博精粹】这国栽在两个演员手里</a></li>
+<li><a href="/baitai/20220919/1786273.md">聂日明｜贵州大巴车侧翻事件，绝不是什么简单的交通事故</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220919/1786640.md" target="_blank">四度表态美国会防卫台湾 矢板明夫：拜登在向三个方面喊话</a></li>
 <li><a href="/topimagenews/20220919/1786626.md" target="_blank">有什么敏感问题？习近平讲话，两大内容未敢公布【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220919/1786597.md" target="_blank">指桑骂槐！习近平被恶心惨了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220919/1786533.md" target="_blank">乌克兰使用台制无人机3连轰 炸毁俄军导弹车…</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20220918/1786033.md" target="_blank">许家印是来搞笑的吗？</a></li>
 <li><a href="/topimagenews/20220918/1785951.md" target="_blank">兵败乌东！ 俄罗斯军队败退暴露其关键弱点</a></li>
 <li><a href="/topimagenews/20220918/1785950.md" target="_blank">想取而代之，习近平大错特错</a></li>
-<li><a href="/topimagenews/20220917/1785916.md" target="_blank">栗战书访尼泊尔，一句话泄露习近平想执政到&#8230;【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220919/1786643.md" target="_blank">【沈旭晖评论】为何香港人民怀念英女王？英国人做到的，中国人做不到</a></li>
+<li><a href="/comments/20220919/1786633.md" target="_blank">拜登警告中共勿犯滔天大错 克林顿驳「俄被逼开战」说</a></li>
 <li><a href="/comments/20220919/1786632.md" target="_blank">力促《台湾政策法》早日生效 台美议员欲另辟蹊径</a></li>
 <li><a href="/comments/20220919/1786609.md" target="_blank">2022悲伤的一年，有谁能逃</a></li>
 <li><a href="/comments/20220919/1786607.md" target="_blank">专栏 | 劳工通讯：沃华公司劳工工伤索赔未果(六)</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220919/1786505.md" target="_blank">懂得为别人鼓掌 你也可以成为一道光</a></li>
 <li><a href="/comments/20220919/1786504.md" target="_blank">减重不当当心秃头</a></li>
 <li><a href="/comments/20220919/1786473.md" target="_blank">民企500强发布 对比美国榜单 中美国人都沉默了</a></li>
-<li><a href="/comments/20220919/1786453.md" target="_blank">台湾再震 影片记录海拔千米高山恐怖画面</a></li>
-<li><a href="/comments/20220919/1786452.md" target="_blank">台湾国安局长资料外泄 国安人士揭秘</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
 
 </ul>
 </div>
