@@ -8,11 +8,11 @@
 <li><a href="/bannedvideo/20220919/1786546.md">“兵变”细节来了！与官方新闻时间线完全吻合……</a></li>
 <li><a href="/headline/20220919/1786491.md">【二十大】105岁原常委宋平罕见露面 强调「改革开放是中国发展必由之路」</a></li>
 <li><a href="/topimagenews/20220919/1786450.md">习近平心腹不满软抵制【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220919/1786518.md">中共暴力封城遭各地居民反抗 遍地烽火 重庆业主逼退警察【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220919/1786597.md">指桑骂槐！习近平被恶心惨了！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20220919/1786518.md">中共暴力封城遭各地居民反抗 遍地烽火 重庆业主逼退警察【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220919/1786480.md">中国首富的两台印钞机：一台矿泉水，另一台是…</a></li>
-<li><a href="/cnnews/20220919/1786563.md">捷运乍现“女神级乘客”千人朝圣抢看 本尊无罩美图曝光</a></li>
 <li><a href="/comments/20220919/1786593.md">突兀！王岐山戴着口罩瞻仰英国女王灵柩</a></li>
+<li><a href="/cnnews/20220919/1786563.md">捷运乍现“女神级乘客”千人朝圣抢看 本尊无罩美图曝光</a></li>
 <li><a href="/bannedvideo/20220919/1786555.md">又出事？越来越反常！习能顶到二十大吗？谁在叹：只能祈求下个不是我？【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220920/1786707.md">一个中共不敢提的真相 被英女王葬礼揭穿； 习派王岐山访英有四原因？【财经慧眼】</a></li>
 <li><a href="/cnnews/20220920/1786697.md">iOS16的这个更新，让出轨更难抓了</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/topimagenews/20220919/1786626.md">有什么敏感问题？习近平讲话，两大内容未敢公布【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220919/1786545.md">陈破空：丁薛祥突发通知，习家军加快抢班夺权！习国师纷纷离弃。英国女王隆重葬礼！王岐山心情复杂。直播与互动 美东9月19早9点、即中港台9月19晚9点</a></li>
 <li><a href="/comments/20220920/1786681.md">女王盛世葬礼 中共与世界格格不入 刘嘉玲祭奠踩雷</a></li>
-<li><a href="/topimagenews/20220919/1786511.md">让步只会让俄罗斯更胆大妄为！美媒:中共挺俄缩手 普丁想用冬季当武器</a></li>
 <li><a href="/bannedvideo/20220920/1786735.md">9月19日，武汉纺织大学爆发大规模学潮！</a></li>
+<li><a href="/topimagenews/20220919/1786511.md">让步只会让俄罗斯更胆大妄为！美媒:中共挺俄缩手 普丁想用冬季当武器</a></li>
 <li><a href="/cnnews/20220920/1786699.md">网友痛批胡锡进：都退休了，给子孙后代积点德吧</a></li>
 <li><a href="/comments/20220919/1786473.md">民企500强发布 对比美国榜单 中美国人都沉默了</a></li>
 <li><a href="/bannedvideo/20220919/1786641.md">“王岐山代表习近平 以“极为异类” 出现在女王灵柩面前”Shitao TV - 01 (19/09/22) 毫无礼仪 嘲讽 冷漠 拒绝 旁观 窃窃私语者</a></li>
+<li><a href="/comments/20220920/1786706.md">习近平派王歧山出席英女王国葬 专家解读4原因</a></li>
 <li><a href="/headline/20220919/1786589.md">领导干部要“能上能下” 新华社刊文引关注</a></li>
-<li><a href="/headline/20220919/1786512.md">【二十大】日媒：习整肃政法系统 加强监控以胁迫元老臣服于他</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220920/1786888.md" target="_blank">苦共久矣：中国大陆即将全面爆发抗议活动和暴动</a></li>
 <li><a href="/cbnews/20220920/1786823.md" target="_blank">江峰：王岐山被允参加女王国葬，议员称“共产党又赢了”，贵州夺命大巴背後的真实原因【江峰漫谈20220919第549期】</a></li>
 <li><a href="/cbnews/20220920/1786794.md" target="_blank">天亮时分：新华社突然发文，要求领导能上能下；习近平封杀恩师兼正国级元老宋平；拜登的两记重拳：武装保卫台湾和维持对华关税（政论天下第796集 20220919）</a></li>
 <li><a href="/cbnews/20220920/1786663.md" target="_blank">拜登表态“由台湾决定是否独立” 或更令北京忧心</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220918/1785888.md" target="_blank">法轮功奇迹：胰腺癌患者痊愈的若干案例（3）</a></li>
 <li><a href="/cbnews/20220918/1786034.md" target="_blank">长沙大火 暴露中国消防能力一大软肋</a></li>
 <li><a href="/cbnews/20220918/1786009.md" target="_blank">他拿到iPhone14瑕疵机 苹果给补偿 网惊赚烂了</a></li>
-<li><a href="/cbnews/20220918/1786008.md" target="_blank">长沙电信大楼大火 有民众花6分钟跑24层到楼下</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220920/1786888.md" target="_blank">苦共久矣：中国大陆即将全面爆发抗议活动和暴动</a></li>
+<li><a href="/comments/20220920/1786889.md" target="_blank">广东掀企业倒闭潮 分析：将向江浙蔓延</a></li>
 <li><a href="/comments/20220920/1786872.md" target="_blank">【独家重磅】李燕铭：习近平二十大前重磅动作 主持政治局常委会修改“能上能下”规定 删除多条敏感条款 新增一说法 实质废除“七上八下”潜规则 预示二十大高层人事重大变局充满极大变数 习亲信刘鹤陈希或黑马入常 习近平连任与二十大常委争夺战（六七） 二十大高层人事大战（五二）</a></li>
 <li><a href="/comments/20220920/1786841.md" target="_blank">李濠仲：出兵保台？拜登需顾虑说“不”的后果</a></li>
 <li><a href="/comments/20220920/1786840.md" target="_blank">杨宪宏：“拥有核武、美军驻台”的全球战略形势正在形成</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220919/1786633.md" target="_blank">拜登警告中共勿犯滔天大错 克林顿驳「俄被逼开战」说</a></li>
 <li><a href="/comments/20220919/1786632.md" target="_blank">力促《台湾政策法》早日生效 台美议员欲另辟蹊径</a></li>
 <li><a href="/comments/20220919/1786609.md" target="_blank">2022悲伤的一年，有谁能逃</a></li>
-<li><a href="/comments/20220919/1786607.md" target="_blank">专栏 | 劳工通讯：沃华公司劳工工伤索赔未果(六)</a></li>
-<li><a href="/comments/20220919/1786593.md" target="_blank">突兀！王岐山戴着口罩瞻仰英国女王灵柩</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
 <li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 
 </ul>
 </div>
