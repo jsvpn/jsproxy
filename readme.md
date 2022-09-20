@@ -17,17 +17,17 @@
 <li><a href="/cbnews/20220919/1786594.md">贵州隔离大巴惨烈车祸、“核酸盛世”与“清零国策” 点燃公众怒火</a></li>
 <li><a href="/topimagenews/20220919/1786626.md">有什么敏感问题？习近平讲话，两大内容未敢公布【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220920/1786734.md">武汉纺织大学爆发学潮！</a></li>
-<li><a href="/cbnews/20220920/1786794.md">天亮时分：新华社突然发文，要求领导能上能下；习近平封杀恩师兼正国级元老宋平；拜登的两记重拳：武装保卫台湾和维持对华关税（政论天下第796集 20220919）</a></li>
 <li><a href="/comments/20220920/1786888.md">苦共久矣：中国大陆即将全面爆发抗议活动和暴动</a></li>
-<li><a href="/bannedvideo/20220919/1786545.md">陈破空：丁薛祥突发通知，习家军加快抢班夺权！习国师纷纷离弃。英国女王隆重葬礼！王岐山心情复杂。直播与互动 美东9月19早9点、即中港台9月19晚9点</a></li>
+<li><a href="/cbnews/20220920/1786794.md">天亮时分：新华社突然发文，要求领导能上能下；习近平封杀恩师兼正国级元老宋平；拜登的两记重拳：武装保卫台湾和维持对华关税（政论天下第796集 20220919）</a></li>
 <li><a href="/topimagenews/20220920/1786867.md">【微博精粹】终于有人受不了了</a></li>
+<li><a href="/bannedvideo/20220919/1786545.md">陈破空：丁薛祥突发通知，习家军加快抢班夺权！习国师纷纷离弃。英国女王隆重葬礼！王岐山心情复杂。直播与互动 美东9月19早9点、即中港台9月19晚9点</a></li>
 <li><a href="/cnnews/20220920/1786842.md">习内部讲话热传 要保党先返贫？</a></li>
 <li><a href="/comments/20220920/1786681.md">女王盛世葬礼 中共与世界格格不入 刘嘉玲祭奠踩雷</a></li>
-<li><a href="/ssgc/20220920/1786762.md">〖微博谈〗连装都不装了</a></li>
 <li><a href="/topimagenews/20220920/1786874.md">北电艺考老师被曝诱奸未成年 致多名学生怀孕</a></li>
+<li><a href="/ssgc/20220920/1786762.md">〖微博谈〗连装都不装了</a></li>
 <li><a href="/cnnews/20220920/1786699.md">网友痛批胡锡进：都退休了，给子孙后代积点德吧</a></li>
 <li><a href="/comments/20220920/1786706.md">习近平派王歧山出席英女王国葬 专家解读4原因</a></li>
-<li><a href="/bannedvideo/20220919/1786641.md">“王岐山代表习近平 以“极为异类” 出现在女王灵柩面前”Shitao TV - 01 (19/09/22) 毫无礼仪 嘲讽 冷漠 拒绝 旁观 窃窃私语者</a></li>
+<li><a href="/comments/20220920/1786716.md">日媒：习巩固权力还差“最后一步” 他将接替郭声琨任？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
 <li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
 
 </ul>
 </div>
