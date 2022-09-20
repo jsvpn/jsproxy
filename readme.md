@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220919/1786546.md">“兵变”细节来了！与官方新闻时间线完全吻合……</a></li>
-<li><a href="/headline/20220919/1786491.md">【二十大】105岁原常委宋平罕见露面 强调「改革开放是中国发展必由之路」</a></li>
 <li><a href="/topimagenews/20220919/1786597.md">指桑骂槐！习近平被恶心惨了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220919/1786518.md">中共暴力封城遭各地居民反抗 遍地烽火 重庆业主逼退警察【阿波罗网报道】</a></li>
 <li><a href="/comments/20220919/1786593.md">突兀！王岐山戴着口罩瞻仰英国女王灵柩</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cnnews/20220920/1786697.md">iOS16的这个更新，让出轨更难抓了</a></li>
 <li><a href="/bannedvideo/20220920/1786735.md">9月19日，武汉纺织大学爆发大规模学潮！</a></li>
 <li><a href="/cbnews/20220919/1786594.md">贵州隔离大巴惨烈车祸、“核酸盛世”与“清零国策” 点燃公众怒火</a></li>
-<li><a href="/bannedvideo/20220920/1786734.md">武汉纺织大学爆发学潮！</a></li>
 <li><a href="/topimagenews/20220919/1786626.md">有什么敏感问题？习近平讲话，两大内容未敢公布【阿波罗网报道】</a></li>
-<li><a href="/bannedvideo/20220919/1786545.md">陈破空：丁薛祥突发通知，习家军加快抢班夺权！习国师纷纷离弃。英国女王隆重葬礼！王岐山心情复杂。直播与互动 美东9月19早9点、即中港台9月19晚9点</a></li>
+<li><a href="/bannedvideo/20220920/1786734.md">武汉纺织大学爆发学潮！</a></li>
 <li><a href="/cbnews/20220920/1786794.md">天亮时分：新华社突然发文，要求领导能上能下；习近平封杀恩师兼正国级元老宋平；拜登的两记重拳：武装保卫台湾和维持对华关税（政论天下第796集 20220919）</a></li>
+<li><a href="/bannedvideo/20220919/1786545.md">陈破空：丁薛祥突发通知，习家军加快抢班夺权！习国师纷纷离弃。英国女王隆重葬礼！王岐山心情复杂。直播与互动 美东9月19早9点、即中港台9月19晚9点</a></li>
 <li><a href="/comments/20220920/1786681.md">女王盛世葬礼 中共与世界格格不入 刘嘉玲祭奠踩雷</a></li>
 <li><a href="/ssgc/20220920/1786762.md">〖微博谈〗连装都不装了</a></li>
 <li><a href="/topimagenews/20220919/1786511.md">让步只会让俄罗斯更胆大妄为！美媒:中共挺俄缩手 普丁想用冬季当武器</a></li>
-<li><a href="/cnnews/20220920/1786699.md">网友痛批胡锡进：都退休了，给子孙后代积点德吧</a></li>
 <li><a href="/cnnews/20220920/1786842.md">习内部讲话热传 要保党先返贫？</a></li>
+<li><a href="/cnnews/20220920/1786699.md">网友痛批胡锡进：都退休了，给子孙后代积点德吧</a></li>
 <li><a href="/comments/20220920/1786706.md">习近平派王歧山出席英女王国葬 专家解读4原因</a></li>
 <li><a href="/bannedvideo/20220919/1786641.md">“王岐山代表习近平 以“极为异类” 出现在女王灵柩面前”Shitao TV - 01 (19/09/22) 毫无礼仪 嘲讽 冷漠 拒绝 旁观 窃窃私语者</a></li>
+<li><a href="/comments/20220920/1786716.md">日媒：习巩固权力还差“最后一步” 他将接替郭声琨任？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220920/1786927.md" target="_blank">今年冬天更冷？科学界证实，“三重拉尼娜”可能会来</a></li>
+<li><a href="/comments/20220920/1786926.md" target="_blank">武汉肺炎确诊后当心无声后遗症！心血管风险</a></li>
+<li><a href="/comments/20220920/1786925.md" target="_blank">新研究显示，睡眠中断可能与精神障碍有关</a></li>
+<li><a href="/comments/20220920/1786924.md" target="_blank">鬼谷子说它是“不死之草”！秋冬可以滋阴润肺</a></li>
+<li><a href="/comments/20220920/1786923.md" target="_blank">谁是真正的“地下人参”？不是红薯山药哦</a></li>
+<li><a href="/comments/20220920/1786922.md" target="_blank">最热夏天“后遗症”来了 这种“秋病”今年特别要预防</a></li>
 <li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
 <li><a href="/comments/20220920/1786895.md" target="_blank">俄军神话破灭 最强坦克被掳获 专家：非常不妙</a></li>
 <li><a href="/comments/20220920/1786888.md" target="_blank">苦共久矣：中国大陆即将全面爆发抗议活动和暴动</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20220920/1786691.md" target="_blank">英国女王国葬 2000名世界顶级领导人出席 全世界民众关注</a></li>
 <li><a href="/comments/20220920/1786690.md" target="_blank">打压新闻自由？港记协主席遭警起诉 无国界吁港府撤诉</a></li>
 <li><a href="/comments/20220920/1786689.md" target="_blank">飞机起落前，为什么要把窗户遮光板打开？</a></li>
-<li><a href="/comments/20220920/1786688.md" target="_blank">华美之声: 美国薪资最高的专业排名（七）</a></li>
-<li><a href="/comments/20220920/1786682.md" target="_blank">美国8月租金跌幅最大的城市是哪五个？</a></li>
-<li><a href="/comments/20220920/1786681.md" target="_blank">女王盛世葬礼 中共与世界格格不入 刘嘉玲祭奠踩雷</a></li>
-<li><a href="/comments/20220920/1786671.md" target="_blank">炼油厂库存减少 加州油价突然上涨</a></li>
-<li><a href="/comments/20220919/1786643.md" target="_blank">【沈旭晖评论】为何香港人民怀念英女王？英国人做到的，中国人做不到</a></li>
-<li><a href="/comments/20220919/1786633.md" target="_blank">拜登警告中共勿犯滔天大错 克林顿驳「俄被逼开战」说</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 <li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 <li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
 
 </ul>
 </div>
