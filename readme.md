@@ -13,21 +13,21 @@
 <li><a href="/comments/20220920/1786888.md">苦共久矣：中国大陆即将全面爆发抗议活动和暴动</a></li>
 <li><a href="/cbnews/20220919/1786594.md">贵州隔离大巴惨烈车祸、“核酸盛世”与“清零国策” 点燃公众怒火</a></li>
 <li><a href="/topimagenews/20220919/1786626.md">有什么敏感问题？习近平讲话，两大内容未敢公布【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20220920/1786935.md">二十大报告提前被剧透?一个核心，两场革命，三个关键词【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220920/1786794.md">天亮时分：新华社突然发文，要求领导能上能下；习近平封杀恩师兼正国级元老宋平；拜登的两记重拳：武装保卫台湾和维持对华关税（政论天下第796集 20220919）</a></li>
 <li><a href="/bannedvideo/20220920/1786734.md">武汉纺织大学爆发学潮！</a></li>
-<li><a href="/topimagenews/20220920/1786935.md">二十大报告提前被剧透?一个核心，两场革命，三个关键词【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220920/1786867.md">【微博精粹】终于有人受不了了</a></li>
 <li><a href="/cnnews/20220920/1786842.md">习内部讲话热传 要保党先返贫？</a></li>
 <li><a href="/comments/20220920/1786681.md">女王盛世葬礼 中共与世界格格不入 刘嘉玲祭奠踩雷</a></li>
-<li><a href="/ssgc/20220920/1786762.md">〖微博谈〗连装都不装了</a></li>
 <li><a href="/topimagenews/20220920/1786874.md">北电艺考老师被曝诱奸未成年 致多名学生怀孕</a></li>
+<li><a href="/ssgc/20220920/1786762.md">〖微博谈〗连装都不装了</a></li>
 <li><a href="/comments/20220920/1786910.md">中苏特别条约计划消灭一亿人中国人</a></li>
 <li><a href="/comments/20220920/1786706.md">习近平派王歧山出席英女王国葬 专家解读4原因</a></li>
 <li><a href="/comments/20220920/1786716.md">日媒：习巩固权力还差“最后一步” 他将接替郭声琨任？</a></li>
 <li><a href="/cnnews/20220920/1786699.md">网友痛批胡锡进：都退休了，给子孙后代积点德吧</a></li>
 <li><a href="/bannedvideo/20220919/1786641.md">“王岐山代表习近平 以“极为异类” 出现在女王灵柩面前”Shitao TV - 01 (19/09/22) 毫无礼仪 嘲讽 冷漠 拒绝 旁观 窃窃私语者</a></li>
 <li><a href="/topimagenews/20220920/1786797.md">二大爷：开往黄泉的贵州大巴 武昌的枪声何时才能响起</a></li>
-<li><a href="/headline/20220919/1786589.md">领导干部要“能上能下” 新华社刊文引关注</a></li>
+<li><a href="/cnnews/20220920/1786944.md">习近平私密讲话真假？一句话露出端倪</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 
 </ul>
 </div>
