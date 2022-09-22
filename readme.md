@@ -17,8 +17,8 @@
 <li><a href="/topimagenews/20220921/1787449.md">抗暴 老百姓不干了：“谁封大门我砍谁！”【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220921/1787347.md">〖兲朝浮世绘〗搞十户长连坐制？习总可以自称习始皇了</a></li>
 <li><a href="/topimagenews/20220921/1787513.md">中共给自己壮胆？二十大或出炉新说法【阿波罗网报道】</a></li>
-<li><a href="/baitai/20220921/1787386.md">林保华：宋延平阻挡习近平？</a></li>
 <li><a href="/bannedvideo/20220922/1787644.md">胆子真大！中国女星郑爽发文痛骂中共；王立科被捕 罪名不简单 震摄意味浓；温州车主称特斯拉刹车失灵案出结果了【希望之声TV-红朝禁闻-2021/10/12】</a></li>
+<li><a href="/baitai/20220921/1787386.md">林保华：宋延平阻挡习近平？</a></li>
 <li><a href="/renquan/20220921/1787546.md">中共二十大将召开公民被维稳情况</a></li>
 <li><a href="/comments/20220921/1787466.md">唐靖远：中共政治局名单生变？</a></li>
 <li><a href="/bannedvideo/20220921/1787490.md">北京燕郊，数万民众聚集抗议，并与警察冲突。民众对警察高呼：土匪！土匪！土匪！</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/cnnews/20220922/1787655.md">普京将不惜动用核武，“乌克兰将不复存在”</a></li>
 <li><a href="/cnnews/20220921/1787468.md">中资急售美国地产 除了关系恶化还有“这原因”</a></li>
 <li><a href="/ssgc/20220921/1787358.md">〖微博谈〗真正歧视华人的是中国政府</a></li>
-<li><a href="/headline/20220921/1787457.md">传专职监听高层被卷入权斗：上海市公安局原局长龚道安判终身监禁</a></li>
 <li><a href="/topimagenews/20220921/1787425.md">普丁急求一胜挽回面子！佣兵上场了 “瓦格纳集团”攻击巴赫穆特</a></li>
+<li><a href="/headline/20220921/1787457.md">传专职监听高层被卷入权斗：上海市公安局原局长龚道安判终身监禁</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220922/1787822.md" target="_blank">【独家重磅】李燕铭：李克强十九大后扶植安徽帮遭习近平碾压 国务院工信部等多部委在李克强老家安徽合肥主办国际大会 李克强连续五年缺席 习家军郑栅洁现场致辞 习近平曾发贺信刘鹤曾书面致辞 习近平李克强明争暗斗内幕（五十） 习近平连任与二十大常委争夺战（六八） 习清洗安徽帮暗战两党魁五常委（六）</a></li>
+<li><a href="/comments/20220922/1787811.md" target="_blank">司法部拟制造「十月惊奇」 川普：FBI已被「武器化」</a></li>
 <li><a href="/comments/20220922/1787810.md" target="_blank">非法移民将飞往拜登别墅区 麦康奈尔支持把他们送到蓝州</a></li>
 <li><a href="/comments/20220922/1787808.md" target="_blank">伊朗爆发大规模示威 中共官媒噤声 微博评论：伊朗天要亮了？</a></li>
 <li><a href="/comments/20220922/1787798.md" target="_blank">俄罗斯宣布“部分动员可能引爆核战”？别做梦了</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220922/1787693.md" target="_blank">动手信号？官媒再度点名周永康等 不寻常：3名孙力军团伙成员同日领刑</a></li>
 <li><a href="/comments/20220922/1787692.md" target="_blank">国际安全专家：美国正大力帮助台湾抵御中共入侵</a></li>
 <li><a href="/comments/20220922/1787677.md" target="_blank">新闻看点：这两人历经半生风雨为何退党？</a></li>
-<li><a href="/comments/20220922/1787672.md" target="_blank">李燕铭：上海市公安局原局长龚道安被判无期 龚道安在湖北被抓捕前参加应勇晚宴 龚道鑫涉黑案提前一周被引爆 孙力军龚道安结党内幕曝光 孙力军政变团伙刺习阴谋被公开 背后大佬是孟郭江曾 公安部副部长孙力军政变反习内幕（十二） 习近平清洗刀把子严防江曾二十大政变（四六） 习近平清洗江泽民老巢（二一）</a></li>
-<li><a href="/comments/20220922/1787671.md" target="_blank">美挥锤重砸中共！建亚太岛链关键在这</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
 <li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
 
 </ul>
 </div>
