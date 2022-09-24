@@ -6,19 +6,18 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/bannedvideo/20220924/1788611.md">【直播】网传习近平遇兵变被扣，核心人物露面；习缺席重要军方会议，央视镜头语言说明了什么？ 《南早》又爆料习近平连任，矛盾信息该信谁？</a></li>
-<li><a href="/bannedvideo/20220923/1788459.md">上海城管要失业！习被软禁？全国大面积取消航班，进京道路封闭……</a></li>
 <li><a href="/cnnews/20220923/1788511.md">经济最惨还没来！她断言2023更苦：这群人首当其冲</a></li>
 <li><a href="/cbnews/20220923/1788467.md">最容易激起民愤 习近平政策被盯紧【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220924/1788777.md">习制定中国2049年前计划 任命胡春华被视为向核心圈子外抛了一块骨头【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220924/1788655.md">憔悴照流出! 大势已去 动员令反曝普京重大弱点</a></li>
-<li><a href="/bannedvideo/20220924/1788570.md">新华社重磅长文太反常！孙力军也判了 下一步恐要动真格【红朝禁闻】</a></li>
 <li><a href="/ssgc/20220924/1788677.md">〖兲朝浮世绘〗习总的热情追捧者也倒戈了？</a></li>
+<li><a href="/bannedvideo/20220924/1788570.md">新华社重磅长文太反常！孙力军也判了 下一步恐要动真格【红朝禁闻】</a></li>
 <li><a href="/bannedvideo/20220924/1788610.md">习魏缺席重要军委会议 他却坐头排；人民币跌爆7.1 刹不住车【财经慧眼】</a></li>
 <li><a href="/cnnews/20220924/1788583.md">又一个名人润了 现身机场超抢眼 42岁姚明被疑移民澳洲</a></li>
 <li><a href="/lifebaike/20220924/1788614.md">毛泽东打败所有政敌最终输给宠臣</a></li>
+<li><a href="/topimagenews/20220924/1788793.md">习带头?中共推进干部能上能下,20大恐掀人事风暴</a></li>
 <li><a href="/bannedvideo/20220924/1788746.md">💥中南海政变真假？军权归党中央？中俄闹翻？俄罗斯两朋友无中共；孙力军供出大老虎被轻判，习近平会动手吗？｜薇羽看世间 第543期 20220923</a></li>
 <li><a href="/bannedvideo/20220924/1788766.md">党内风向要变？习近平一项重要方针遭否定！中国人要惨了！中共官媒释放信号【国际风云】</a></li>
-<li><a href="/topimagenews/20220924/1788793.md">习带头?中共推进干部能上能下,20大恐掀人事风暴</a></li>
 <li><a href="/topimagenews/20220924/1788621.md">被删文：撒马尔罕峰会现端倪 普京的失败是好事</a></li>
 <li><a href="/bannedvideo/20220924/1788649.md">颜色革命正在上演，中共忙封锁消息；他突然高调出现，习近平要悬？【每日头条】</a></li>
 <li><a href="/bannedvideo/20220924/1788632.md">文昭：暴雨欲来或有惊雷！习近平「夜奔」後缺席重要军事会议，出事了、或另有谋划？伊朗头巾与中华男儿</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/worldnews/20220924/1788594.md">俄人民逃难！传普京已离开首都 恐要爆发核战</a></li>
 <li><a href="/cbnews/20220924/1788701.md">天亮时分：孙力军也判死缓，习近平神隐，软禁还是憋大招？如果习下李上，是否岁月再度静好？伊朗头巾革命，马斯克打开星链支持（政论天下第800集 20220923）</a></li>
 <li><a href="/cnnews/20220923/1788496.md">山东滨州职业学院特发凶杀案 入学新生持刀将室友杀害【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220924/1788560.md">养7年母牛突然“向主人下跪”他心软退钱给买家：不卖了</a></li>
 <li><a href="/comments/20220924/1788629.md">习魏缺席重要军委会议 这一军官出面「叫板」？</a></li>
+<li><a href="/topimagenews/20220924/1788560.md">养7年母牛突然“向主人下跪”他心软退钱给买家：不卖了</a></li>
+<li><a href="/comments/20220924/1788640.md">【独家重磅】李燕铭：孙力军供出江绵恒郭声琨与上海帮两大佬 重大立功保命被判死缓终身监禁 江绵恒安排孙力军暗杀习近平 孙力军和王立科见面谋划刺习行动 湖北省军区司令员将暗杀计划汇报给习 习近平二十大手握重磅杀手锏 剑指铁帽子王 习近平清洗刀把子严防江曾二十大政变（四九） 公安部副部长孙力军政变反习内幕（十七） 习近平决战江曾（二八） 习近平火线反击江曾政变（四八）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220924/1788869.md" target="_blank">香港庆中共国殇影片现戴口罩吹笛子画面 网民傻眼</a></li>
+<li><a href="/comments/20220924/1788868.md" target="_blank">联合国总部外 人权组织向各国官员喊话：中共滚出联合国</a></li>
 <li><a href="/comments/20220924/1788854.md" target="_blank">张建兴：执政以千年计，是中共的妄想</a></li>
 <li><a href="/comments/20220924/1788846.md" target="_blank">唐靖远：习缺席重要军方会 央视镜头泄露啥</a></li>
 <li><a href="/comments/20220924/1788837.md" target="_blank">横河：习连续重判对手 危机重重恐超想像</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220924/1788743.md" target="_blank">虽官司缠身 川普的支持率却日益攀升</a></li>
 <li><a href="/comments/20220924/1788742.md" target="_blank">路怒症最严重! 美国这五个州开车需当心</a></li>
 <li><a href="/comments/20220924/1788739.md" target="_blank">亡命天涯心系香港，离散如水坚强如钢</a></li>
-<li><a href="/comments/20220924/1788725.md" target="_blank">美民调专家承认：MAGA选民数量被大大低估</a></li>
-<li><a href="/comments/20220924/1788724.md" target="_blank">王毅会见乌克兰外长 中共俄乌立场显重大转变</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
 <li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
 <li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
 
 </ul>
 </div>
