@@ -16,18 +16,18 @@
 <li><a href="/topimagenews/20220924/1788793.md">习带头?中共推进干部能上能下,20大恐掀人事风暴</a></li>
 <li><a href="/bannedvideo/20220924/1788861.md">陈破空：出国就出事！习近平白熬三年？意外遭栗战书重伤！刺习大案低调，孙力军和傅政华的重大立功指向谁</a></li>
 <li><a href="/comments/20220924/1788846.md">唐靖远：习缺席重要军方会 央视镜头泄露啥</a></li>
-<li><a href="/topimagenews/20220924/1788621.md">被删文：撒马尔罕峰会现端倪 普京的失败是好事</a></li>
 <li><a href="/cbnews/20220924/1788701.md">天亮时分：孙力军也判死缓，习近平神隐，软禁还是憋大招？如果习下李上，是否岁月再度静好？伊朗头巾革命，马斯克打开星链支持（政论天下第800集 20220923）</a></li>
+<li><a href="/weiquan/20220924/1788901.md">&#8220;泼墨女&#8221;董瑶琼父亲董建彪昨天惨死狱中</a></li>
 <li><a href="/comments/20220924/1788745.md">中共智库发文否定习近平言论 外界热议</a></li>
 <li><a href="/bannedvideo/20220924/1788632.md">文昭：暴雨欲来或有惊雷！习近平「夜奔」後缺席重要军事会议，出事了、或另有谋划？伊朗头巾与中华男儿</a></li>
-<li><a href="/weiquan/20220924/1788901.md">&#8220;泼墨女&#8221;董瑶琼父亲董建彪昨天惨死狱中</a></li>
 <li><a href="/funmedia/20220924/1788780.md">以色列的美女监狱，关押全世界最美的女犯，狱警：不是来坐牢的</a></li>
-<li><a href="/comments/20220924/1788629.md">习魏缺席重要军委会议 这一军官出面「叫板」？</a></li>
-<li><a href="/topimagenews/20220924/1788826.md">又见豆腐渣工程！广东西江大桥坍塌 货车被压</a></li>
 <li><a href="/bannedvideo/20220924/1788879.md">海量军车入京，习近平多日隐身；中国近万航班取消，孙力军集团判死缓；普京真要动核武，征兵30万俄国人出逃；普京发言人儿子拒应征，小粉红喊为国而战当众出丑。【 #时事金扫描 】</a></li>
+<li><a href="/topimagenews/20220924/1788826.md">又见豆腐渣工程！广东西江大桥坍塌 货车被压</a></li>
 <li><a href="/comments/20220924/1788640.md">【独家重磅】李燕铭：孙力军供出江绵恒郭声琨与上海帮两大佬 重大立功保命被判死缓终身监禁 江绵恒安排孙力军暗杀习近平 孙力军和王立科见面谋划刺习行动 湖北省军区司令员将暗杀计划汇报给习 习近平二十大手握重磅杀手锏 剑指铁帽子王 习近平清洗刀把子严防江曾二十大政变（四九） 公安部副部长孙力军政变反习内幕（十七） 习近平决战江曾（二八） 习近平火线反击江曾政变（四八）</a></li>
+<li><a href="/bannedvideo/20220924/1788903.md">“习近平被软禁？今晚北京机场关闭：无飞机✈️进出”Shitao TV - 01 (24/09/22) 海外开始火爆热议：推特置顶 集中3点理由</a></li>
 <li><a href="/comments/20220924/1788634.md">周晓辉：党媒报导有变化 是党中央而非习统揽全局</a></li>
 <li><a href="/cnnews/20220924/1788645.md">湖南女参加闺蜜婚宴随礼1000包辣条，结果…</a></li>
+<li><a href="/cnnews/20220924/1788838.md">乌克兰战俘回家了！4个月炼狱凌虐饿到皮包骨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220925/1788968.md" target="_blank">【独家重磅】李燕铭：江泽民老家逾30名官员二十大前密集落马 江苏帮副部级老虎仇和缪瑞林的搭档退休八年被查 仇和曾陪薄熙来喂海鸥 落马前其秘书谢新松一举一动被监控 谢新松收受七套商铺转给私生子 缪瑞林一罪名罕见 杨卫泽打响发令枪吓到缪瑞林 江泽民江苏帮政变谋刺习近平 习绝地反击（二九）</a></li>
+<li><a href="/comments/20220925/1788967.md" target="_blank">NASA航天器主动撞击小行星 测试如何拯救地球 阻止世界末日</a></li>
 <li><a href="/comments/20220925/1788959.md" target="_blank">欧洲金融市场遭遇“黑色星期五” 经济衰退担忧加剧</a></li>
 <li><a href="/comments/20220925/1788955.md" target="_blank">「低头族」护眼吃什么？六种食物可缓解眼睛疲劳</a></li>
 <li><a href="/comments/20220925/1788941.md" target="_blank">效仿川普？英国新首相拟将驻以使馆迁至耶路撒冷</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220924/1788813.md" target="_blank">苹果，也要理性食用</a></li>
 <li><a href="/comments/20220924/1788812.md" target="_blank">十全十美的大众营养食品</a></li>
 <li><a href="/comments/20220924/1788811.md" target="_blank">李时珍称它是血气双补之王，能抗病毒还能逆转血糖</a></li>
-<li><a href="/comments/20220924/1788810.md" target="_blank">冰箱保鲜层您用对了吗？这几样东西不要放进去</a></li>
-<li><a href="/comments/20220924/1788809.md" target="_blank">生物体是否能复活？Nature：猪死亡1小时后，器官再次运转</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
 <li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因。｜薇羽看世间 第435期 20220119</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 
 </ul>
 </div>
