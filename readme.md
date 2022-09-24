@@ -9,10 +9,10 @@
 <li><a href="/bannedvideo/20220924/1788611.md">【直播】网传习近平遇兵变被扣，核心人物露面；习缺席重要军方会议，央视镜头语言说明了什么？ 《南早》又爆料习近平连任，矛盾信息该信谁？</a></li>
 <li><a href="/topimagenews/20220923/1788423.md">吓坏14亿人！打科兴疫苗后出现肺结节 中共紧急“辟谣”？</a></li>
 <li><a href="/bannedvideo/20220923/1788459.md">上海城管要失业！习被软禁？全国大面积取消航班，进京道路封闭……</a></li>
-<li><a href="/cnnews/20220923/1788511.md">经济最惨还没来！她断言2023更苦：这群人首当其冲</a></li>
 <li><a href="/cbnews/20220923/1788467.md">最容易激起民愤 习近平政策被盯紧【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20220924/1788655.md">憔悴照流出! 大势已去 动员令反曝普京重大弱点</a></li>
+<li><a href="/cnnews/20220923/1788511.md">经济最惨还没来！她断言2023更苦：这群人首当其冲</a></li>
 <li><a href="/topimagenews/20220924/1788777.md">习制定中国2049年前计划 任命胡春华被视为向核心圈子外抛了一块骨头【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20220924/1788655.md">憔悴照流出! 大势已去 动员令反曝普京重大弱点</a></li>
 <li><a href="/ssgc/20220924/1788677.md">〖兲朝浮世绘〗习总的热情追捧者也倒戈了？</a></li>
 <li><a href="/bannedvideo/20220924/1788570.md">新华社重磅长文太反常！孙力军也判了 下一步恐要动真格【红朝禁闻】</a></li>
 <li><a href="/bannedvideo/20220924/1788610.md">习魏缺席重要军委会议 他却坐头排；人民币跌爆7.1 刹不住车【财经慧眼】</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/bannedvideo/20220924/1788649.md">颜色革命正在上演，中共忙封锁消息；他突然高调出现，习近平要悬？【每日头条】</a></li>
 <li><a href="/cnnews/20220923/1788496.md">山东滨州职业学院特发凶杀案 入学新生持刀将室友杀害【阿波罗网报道】</a></li>
 <li><a href="/worldnews/20220924/1788594.md">俄人民逃难！传普京已离开首都 恐要爆发核战</a></li>
+<li><a href="/comments/20220924/1788640.md">【独家重磅】李燕铭：孙力军供出江绵恒郭声琨与上海帮两大佬 重大立功保命被判死缓终身监禁 江绵恒安排孙力军暗杀习近平 孙力军和王立科见面谋划刺习行动 湖北省军区司令员将暗杀计划汇报给习 习近平二十大手握重磅杀手锏 剑指铁帽子王 习近平清洗刀把子严防江曾二十大政变（四九） 公安部副部长孙力军政变反习内幕（十七） 习近平决战江曾（二八） 习近平火线反击江曾政变（四八）</a></li>
+<li><a href="/comments/20220924/1788745.md">中共智库发文否定习近平言论 外界热议</a></li>
 <li><a href="/topimagenews/20220924/1788560.md">养7年母牛突然“向主人下跪”他心软退钱给买家：不卖了</a></li>
-<li><a href="/topimagenews/20220923/1788445.md">印度不挺了？折扣缩水 俄罗斯石油出口暴跌… 风险不断积聚，全球投资者正在撤离中国</a></li>
-<li><a href="/comments/20220924/1788629.md">习魏缺席重要军委会议 这一军官出面「叫板」？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220924/1788846.md" target="_blank">唐靖远：习缺席重要军方会 央视镜头泄露啥</a></li>
 <li><a href="/comments/20220924/1788837.md" target="_blank">横河：习连续重判对手 危机重重恐超想像</a></li>
 <li><a href="/comments/20220924/1788836.md" target="_blank">好战派“拱火”力促军事动员，普京骑虎难下</a></li>
 <li><a href="/comments/20220924/1788814.md" target="_blank">研究：睡眠与死亡的关系被发现</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220924/1788725.md" target="_blank">美民调专家承认：MAGA选民数量被大大低估</a></li>
 <li><a href="/comments/20220924/1788724.md" target="_blank">王毅会见乌克兰外长 中共俄乌立场显重大转变</a></li>
 <li><a href="/comments/20220924/1788720.md" target="_blank">俄国选择了一条被人类文明所淘汰的“复兴“道路</a></li>
-<li><a href="/comments/20220924/1788707.md" target="_blank">麻烦大了!普京们不懂什么叫“成本”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 <li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
 
 </ul>
 </div>
