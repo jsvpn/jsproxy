@@ -12,7 +12,6 @@
 <li><a href="/bannedvideo/20220925/1789092.md">最火爆的政变听床段子来啦！习近平宋平李克强直接交手！普京跪了：智商真感人啊</a></li>
 <li><a href="/ccpdope/20220925/1789164.md">“习近平内部讲话” 全文 内容令人不寒而栗</a></li>
 <li><a href="/bannedvideo/20220925/1788996.md">陈破空：北京政变？盛传习近平出事。栗战书疑遭扣押！人大会现异常。胡温宋曾发挥关键作用？大量军车进京。上海和四川一把手紧急转向！党媒模糊其词。美东9月24日晚8点30、即中港台9月25早8点30</a></li>
-<li><a href="/bannedvideo/20220925/1788956.md">揭㊙️习近平为何神隐？“脚滑”怕曝身体隐疾？三号人物栗战书公开唱反调，或奉命演戏；普京“支持一中”只为骗北京，“核按钮”根本按不动</a></li>
 <li><a href="/bannedvideo/20220925/1789148.md">💥胡锦涛让习近平隐身躲暗S！如今的爆料太意外？宋平真发起“逼宫”吗，将领譁变，尼泊尔媒体都在报；孙力军现在没死，但好不了；大量军车驶向北京；普京被习近平耍了｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20220925/1789109.md">被删江系放风文章：江泽民为首的老同志是党的中流砥柱、定海神针</a></li>
 <li><a href="/bannedvideo/20220925/1789202.md">陈破空：党媒降调习近平！政变续闻：李克强汪洋主政。胡锦涛可能复任军委主席两年。刘源或将复出。王岐山发挥重要作用。二十大党代表出炉！但须审核。直播与互动 美东9月25早8点30、即中港台9月25晚8点30</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/topimagenews/20220925/1789093.md">在中国，“死亡交叉”正式来临</a></li>
 <li><a href="/topimagenews/20220925/1788960.md">抢人了，中国多个特大城市全面放开落户</a></li>
 <li><a href="/topimagenews/20220925/1789081.md">【微博精粹】挣钱的红卫兵来了</a></li>
+<li><a href="/cnnews/20220925/1789246.md">疯传中国“出大事”？取消航班停售高铁</a></li>
 <li><a href="/yule/20220925/1788979.md">章泽天疑似怀二胎！挺巨肚陪大19岁老公逛超市，表现亲密恩爱如初</a></li>
 <li><a href="/cnnews/20220925/1789182.md">没人相信iPhone14会卖不出 大陆黄牛慌了 摆地摊</a></li>
 <li><a href="/topimagenews/20220925/1789121.md">中国人恐慌！专家不会说的秘密 打科兴疫苗得肺结节热搜破亿</a></li>
 <li><a href="/cbnews/20220925/1789213.md">从王岐山戴口罩出席女王葬礼说开去</a></li>
-<li><a href="/cnnews/20220925/1789246.md">疯传中国“出大事”？取消航班停售高铁</a></li>
 <li><a href="/comments/20220925/1788968.md">【独家重磅】李燕铭：江泽民老家逾30名官员二十大前密集落马 江苏帮副部级老虎仇和缪瑞林的搭档退休八年被查 仇和曾陪薄熙来喂海鸥 落马前其秘书谢新松一举一动被监控 谢新松收受七套商铺转给私生子 缪瑞林一罪名罕见 杨卫泽打响发令枪吓到缪瑞林 江泽民江苏帮政变谋刺习近平 习绝地反击（二九）</a></li>
+<li><a href="/cnnews/20220925/1789186.md">热议：人大代表提降英语教学比重 教育部回应</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 <li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 
 </ul>
 </div>
