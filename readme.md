@@ -9,8 +9,8 @@
 <li><a href="/topimagenews/20220925/1789068.md">习近平“命根子”已失？！一大迹象引热议【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220924/1788903.md">“习近平被软禁？今晚北京机场关闭：无飞机✈️进出”Shitao TV - 01 (24/09/22) 海外开始火爆热议：推特置顶 集中3点理由</a></li>
 <li><a href="/bannedvideo/20220924/1788879.md">海量军车入京，习近平多日隐身；中国近万航班取消，孙力军集团判死缓；普京真要动核武，征兵30万俄国人出逃；普京发言人儿子拒应征，小粉红喊为国而战当众出丑。【 #时事金扫描 】</a></li>
-<li><a href="/weiquan/20220924/1788901.md">&#8220;泼墨女&#8221;董瑶琼父亲董建彪昨天惨死狱中</a></li>
 <li><a href="/bannedvideo/20220925/1788987.md">习近平真中招了？外宣报导被疑有诡 ；这些事让中共二十大不会稳【每日头条】</a></li>
+<li><a href="/weiquan/20220924/1788901.md">&#8220;泼墨女&#8221;董瑶琼父亲董建彪昨天惨死狱中</a></li>
 <li><a href="/cbnews/20220925/1789053.md">天亮时分：习近平真出事儿了？！热文：“老同志是定海神针”；习近平上合峰会压迫普京速战速决？谁能阻止普京使用核武器？（政论天下第801集 20220924）</a></li>
 <li><a href="/bannedvideo/20220925/1789049.md">胡温联手抄后路？ 习近平妻女飞美？那家伙被控制了？当局放行“谣言”？宋平“拨乱反正”？前官媒记者做暗示？两喉舌接连反常，高层发生变故？3人罹难8人失踪，偷渡柬埔寨遭遇沉船【新闻看点 李沐阳9.24】</a></li>
 <li><a href="/bannedvideo/20220925/1789092.md">最火爆的政变听床段子来啦！习近平宋平李克强直接交手！普京跪了：智商真感人啊</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/cnnews/20220925/1789109.md">被删江系放风文章：江泽民为首的老同志是党的中流砥柱、定海神针</a></li>
 <li><a href="/cnnews/20220925/1789117.md">“奶茶妹”夫妇美国逛街 刘强东苍老憔悴像父女</a></li>
 <li><a href="/cnnews/20220925/1788934.md">不鸣则已！美国造出0.7nm芯片，EUV光刻机做不到</a></li>
+<li><a href="/bannedvideo/20220925/1789148.md">💥胡锦涛让习近平隐身躲暗S！如今的爆料太意外？宋平真发起“逼宫”吗，将领譁变，尼泊尔媒体都在报；孙力军现在没死，但好不了；大量军车驶向北京；普京被习近平耍了｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20220925/1788991.md">周晓辉：宋平被称“定海神针 ” 中南海出状况？</a></li>
 <li><a href="/topimagenews/20220925/1788960.md">抢人了，中国多个特大城市全面放开落户</a></li>
 <li><a href="/yule/20220925/1788979.md">章泽天疑似怀二胎！挺巨肚陪大19岁老公逛超市，表现亲密恩爱如初</a></li>
-<li><a href="/bannedvideo/20220925/1789148.md">💥胡锦涛让习近平隐身躲暗S！如今的爆料太意外？宋平真发起“逼宫”吗，将领譁变，尼泊尔媒体都在报；孙力军现在没死，但好不了；大量军车驶向北京；普京被习近平耍了｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20220925/1789081.md">【微博精粹】挣钱的红卫兵来了</a></li>
+<li><a href="/ccpdope/20220925/1789164.md">“习近平内部讲话” 全文 内容令人不寒而栗</a></li>
 <li><a href="/topimagenews/20220925/1789093.md">在中国，“死亡交叉”正式来临</a></li>
-<li><a href="/cnnews/20220925/1788926.md">骂遍娱乐圈的“京圈流氓”，怎么没声了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220925/1789213.md" target="_blank">从王岐山戴口罩出席女王葬礼说开去</a></li>
 <li><a href="/cbnews/20220925/1789192.md" target="_blank">俄连死人也想征召 被迫入伍只能“先把自己灌醉”</a></li>
 <li><a href="/cbnews/20220925/1789181.md" target="_blank">掏1万为女儿全班换桌椅 反被骂“很烦这样的”</a></li>
 <li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220923/1788211.md" target="_blank">天亮时分：傅政华被判死缓，政治大风暴将至；离岸人民币跌破7.10，一带一路烧掉8650亿美元，经济大风暴也将降临（政论天下第799集 20220922）</a></li>
 <li><a href="/cbnews/20220923/1788167.md" target="_blank">棒球外交! 秦刚为红雀开球 伯恩斯隔空支持红袜</a></li>
 <li><a href="/cbnews/20220923/1788110.md" target="_blank">21岁单亲妈送外卖 逼哭网友：跟她比自惭形秽</a></li>
-<li><a href="/cbnews/20220923/1788085.md" target="_blank">二十大前点名六野心家 两天判五虎 专家解读</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
 <li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
 <li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 
 </ul>
 </div>
