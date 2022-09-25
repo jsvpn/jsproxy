@@ -10,23 +10,23 @@
 <li><a href="/bannedvideo/20220924/1788861.md">陈破空：出国就出事！习近平白熬三年？意外遭栗战书重伤！刺习大案低调，孙力军和傅政华的重大立功指向谁</a></li>
 <li><a href="/topimagenews/20220925/1789068.md">习近平“命根子”已失？！一大迹象引热议【阿波罗网报道】</a></li>
 <li><a href="/comments/20220924/1788846.md">唐靖远：习缺席重要军方会 央视镜头泄露啥</a></li>
+<li><a href="/bannedvideo/20220924/1788879.md">海量军车入京，习近平多日隐身；中国近万航班取消，孙力军集团判死缓；普京真要动核武，征兵30万俄国人出逃；普京发言人儿子拒应征，小粉红喊为国而战当众出丑。【 #时事金扫描 】</a></li>
 <li><a href="/bannedvideo/20220925/1788987.md">习近平真中招了？外宣报导被疑有诡 ；这些事让中共二十大不会稳【每日头条】</a></li>
 <li><a href="/weiquan/20220924/1788901.md">&#8220;泼墨女&#8221;董瑶琼父亲董建彪昨天惨死狱中</a></li>
-<li><a href="/bannedvideo/20220924/1788879.md">海量军车入京，习近平多日隐身；中国近万航班取消，孙力军集团判死缓；普京真要动核武，征兵30万俄国人出逃；普京发言人儿子拒应征，小粉红喊为国而战当众出丑。【 #时事金扫描 】</a></li>
 <li><a href="/bannedvideo/20220924/1788903.md">“习近平被软禁？今晚北京机场关闭：无飞机✈️进出”Shitao TV - 01 (24/09/22) 海外开始火爆热议：推特置顶 集中3点理由</a></li>
 <li><a href="/cbnews/20220925/1789053.md">天亮时分：习近平真出事儿了？！热文：“老同志是定海神针”；习近平上合峰会压迫普京速战速决？谁能阻止普京使用核武器？（政论天下第801集 20220924）</a></li>
 <li><a href="/bannedvideo/20220925/1789049.md">胡温联手抄后路？ 习近平妻女飞美？那家伙被控制了？当局放行“谣言”？宋平“拨乱反正”？前官媒记者做暗示？两喉舌接连反常，高层发生变故？3人罹难8人失踪，偷渡柬埔寨遭遇沉船【新闻看点 李沐阳9.24】</a></li>
 <li><a href="/bannedvideo/20220925/1788996.md">陈破空：北京政变？盛传习近平出事。栗战书疑遭扣押！人大会现异常。胡温宋曾发挥关键作用？大量军车进京。上海和四川一把手紧急转向！党媒模糊其词。美东9月24日晚8点30、即中港台9月25早8点30</a></li>
-<li><a href="/bannedvideo/20220925/1788956.md">揭㊙️习近平为何神隐？“脚滑”怕曝身体隐疾？三号人物栗战书公开唱反调，或奉命演戏；普京“支持一中”只为骗北京，“核按钮”根本按不动</a></li>
 <li><a href="/bannedvideo/20220925/1789092.md">最火爆的政变听床段子来啦！习近平宋平李克强直接交手！普京跪了：智商真感人啊</a></li>
-<li><a href="/cbnews/20220925/1788923.md">习连续重判对手 危机重重恐超想像</a></li>
+<li><a href="/bannedvideo/20220925/1788956.md">揭㊙️习近平为何神隐？“脚滑”怕曝身体隐疾？三号人物栗战书公开唱反调，或奉命演戏；普京“支持一中”只为骗北京，“核按钮”根本按不动</a></li>
 <li><a href="/bannedvideo/20220925/1788942.md">“习近平被软禁? 只有王沪宁可能是操刀手！”Shitao TV - 04 (24/09/22) 反习保共 此次风波的主线</a></li>
+<li><a href="/cbnews/20220925/1788923.md">习连续重判对手 危机重重恐超想像</a></li>
 <li><a href="/cnnews/20220925/1788934.md">不鸣则已！美国造出0.7nm芯片，EUV光刻机做不到</a></li>
-<li><a href="/topimagenews/20220925/1788960.md">抢人了，中国多个特大城市全面放开落户</a></li>
 <li><a href="/comments/20220925/1788991.md">周晓辉：宋平被称“定海神针 ” 中南海出状况？</a></li>
+<li><a href="/topimagenews/20220925/1788960.md">抢人了，中国多个特大城市全面放开落户</a></li>
+<li><a href="/cnnews/20220925/1789109.md">被删江系放风文章：江泽民为首的老同志是党的中流砥柱、定海神针</a></li>
 <li><a href="/yule/20220925/1788979.md">章泽天疑似怀二胎！挺巨肚陪大19岁老公逛超市，表现亲密恩爱如初</a></li>
 <li><a href="/cnnews/20220925/1789117.md">“奶茶妹”夫妇美国逛街 刘强东苍老憔悴像父女</a></li>
-<li><a href="/cnnews/20220925/1789109.md">被删江系放风文章：江泽民为首的老同志是党的中流砥柱、定海神针</a></li>
 <li><a href="/cnnews/20220925/1788926.md">骂遍娱乐圈的“京圈流氓”，怎么没声了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 <li><a href="/comments/20220925/1789089.md" target="_blank">【杰森视角】普京为何用上百乌克兰战俘交换一个乌克兰籍平民？普京真敢用核武？升级的俄乌战争只有一个未来！习近平很佩服普京！</a></li>
 <li><a href="/cbnews/20220925/1789053.md" target="_blank">天亮时分：习近平真出事儿了？！热文：“老同志是定海神针”；习近平上合峰会压迫普京速战速决？谁能阻止普京使用核武器？（政论天下第801集 20220924）</a></li>
 <li><a href="/cbnews/20220925/1788961.md" target="_blank">军援俄国实锤了？俄军遗留中国炮弹的背后秘辛</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20220923/1788085.md" target="_blank">二十大前点名六野心家 两天判五虎 专家解读</a></li>
 <li><a href="/cbnews/20220923/1788078.md" target="_blank">中共人事工程 3背景3钥匙 终极政治妥协方案</a></li>
 <li><a href="/cbnews/20220923/1788077.md" target="_blank">习连任确实稳了？港媒再爆早前猛料引关注</a></li>
-<li><a href="/cbnews/20220922/1788053.md" target="_blank">二十大前清场：傅政华被判死缓 孙力军团伙要员皆获重判</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 <li><a href="/topimagenews/20220925/1789133.md" target="_blank">金正恩4年前亲笔信被曝光：想直接见川普</a></li>
 <li><a href="/topimagenews/20220925/1789121.md" target="_blank">中国人恐慌！专家不会说的秘密 打科兴疫苗得肺结节热搜破亿</a></li>
 <li><a href="/topimagenews/20220925/1789103.md" target="_blank">俄罗斯下令动员 男女被迫亲吻拥抱哭泣说再见</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220924/1788655.md" target="_blank">憔悴照流出! 大势已去 动员令反曝普京重大弱点</a></li>
 <li><a href="/topimagenews/20220924/1788621.md" target="_blank">被删文：撒马尔罕峰会现端倪 普京的失败是好事</a></li>
 <li><a href="/topimagenews/20220924/1788560.md" target="_blank">养7年母牛突然“向主人下跪”他心软退钱给买家：不卖了</a></li>
-<li><a href="/topimagenews/20220924/1788550.md" target="_blank">救经济、稳就业？上海修法不再全面禁止路边摊</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 <li><a href="/comments/20220925/1789149.md" target="_blank">研究发现：中药黄连，对肺癌有潜在疗效</a></li>
 <li><a href="/comments/20220925/1789147.md" target="_blank">药食同源山茱萸，真正的营养功效和养生价值远未被认识</a></li>
 <li><a href="/comments/20220925/1789146.md" target="_blank">花生&quot;碰上&quot;它，堪比地黄丸，可强壮肾脏</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220925/1789008.md" target="_blank">范畴：台湾的认知罩门-以“中国”为座标</a></li>
 <li><a href="/comments/20220925/1789007.md" target="_blank">一些细微的变化，中国才是这场战争的“晴雨表”</a></li>
 <li><a href="/comments/20220925/1789006.md" target="_blank">病毒到底走了没？哈尔滨疫情再起 民众：怎样才能不上那辆大巴车?</a></li>
-<li><a href="/comments/20220925/1789002.md" target="_blank">党的红人姚明润到了悉尼！ 健康堪忧 体重飙至400斤</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
 
 </ul>
 </div>
