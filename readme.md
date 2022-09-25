@@ -11,21 +11,21 @@
 <li><a href="/topimagenews/20220925/1789068.md">习近平“命根子”已失？！一大迹象引热议【阿波罗网报道】</a></li>
 <li><a href="/comments/20220924/1788846.md">唐靖远：习缺席重要军方会 央视镜头泄露啥</a></li>
 <li><a href="/bannedvideo/20220924/1788879.md">海量军车入京，习近平多日隐身；中国近万航班取消，孙力军集团判死缓；普京真要动核武，征兵30万俄国人出逃；普京发言人儿子拒应征，小粉红喊为国而战当众出丑。【 #时事金扫描 】</a></li>
-<li><a href="/bannedvideo/20220925/1788987.md">习近平真中招了？外宣报导被疑有诡 ；这些事让中共二十大不会稳【每日头条】</a></li>
 <li><a href="/bannedvideo/20220924/1788903.md">“习近平被软禁？今晚北京机场关闭：无飞机✈️进出”Shitao TV - 01 (24/09/22) 海外开始火爆热议：推特置顶 集中3点理由</a></li>
 <li><a href="/weiquan/20220924/1788901.md">&#8220;泼墨女&#8221;董瑶琼父亲董建彪昨天惨死狱中</a></li>
+<li><a href="/bannedvideo/20220925/1788987.md">习近平真中招了？外宣报导被疑有诡 ；这些事让中共二十大不会稳【每日头条】</a></li>
 <li><a href="/cbnews/20220925/1789053.md">天亮时分：习近平真出事儿了？！热文：“老同志是定海神针”；习近平上合峰会压迫普京速战速决？谁能阻止普京使用核武器？（政论天下第801集 20220924）</a></li>
-<li><a href="/bannedvideo/20220925/1789092.md">最火爆的政变听床段子来啦！习近平宋平李克强直接交手！普京跪了：智商真感人啊</a></li>
 <li><a href="/bannedvideo/20220925/1789049.md">胡温联手抄后路？ 习近平妻女飞美？那家伙被控制了？当局放行“谣言”？宋平“拨乱反正”？前官媒记者做暗示？两喉舌接连反常，高层发生变故？3人罹难8人失踪，偷渡柬埔寨遭遇沉船【新闻看点 李沐阳9.24】</a></li>
+<li><a href="/bannedvideo/20220925/1789092.md">最火爆的政变听床段子来啦！习近平宋平李克强直接交手！普京跪了：智商真感人啊</a></li>
 <li><a href="/bannedvideo/20220925/1788996.md">陈破空：北京政变？盛传习近平出事。栗战书疑遭扣押！人大会现异常。胡温宋曾发挥关键作用？大量军车进京。上海和四川一把手紧急转向！党媒模糊其词。美东9月24日晚8点30、即中港台9月25早8点30</a></li>
 <li><a href="/bannedvideo/20220925/1788956.md">揭㊙️习近平为何神隐？“脚滑”怕曝身体隐疾？三号人物栗战书公开唱反调，或奉命演戏；普京“支持一中”只为骗北京，“核按钮”根本按不动</a></li>
 <li><a href="/bannedvideo/20220925/1788942.md">“习近平被软禁? 只有王沪宁可能是操刀手！”Shitao TV - 04 (24/09/22) 反习保共 此次风波的主线</a></li>
 <li><a href="/cbnews/20220925/1788923.md">习连续重判对手 危机重重恐超想像</a></li>
 <li><a href="/cnnews/20220925/1788934.md">不鸣则已！美国造出0.7nm芯片，EUV光刻机做不到</a></li>
 <li><a href="/cnnews/20220925/1789109.md">被删江系放风文章：江泽民为首的老同志是党的中流砥柱、定海神针</a></li>
+<li><a href="/cnnews/20220925/1789117.md">“奶茶妹”夫妇美国逛街 刘强东苍老憔悴像父女</a></li>
 <li><a href="/comments/20220925/1788991.md">周晓辉：宋平被称“定海神针 ” 中南海出状况？</a></li>
 <li><a href="/topimagenews/20220925/1788960.md">抢人了，中国多个特大城市全面放开落户</a></li>
-<li><a href="/cnnews/20220925/1789117.md">“奶茶妹”夫妇美国逛街 刘强东苍老憔悴像父女</a></li>
 <li><a href="/yule/20220925/1788979.md">章泽天疑似怀二胎！挺巨肚陪大19岁老公逛超市，表现亲密恩爱如初</a></li>
 <li><a href="/cnnews/20220925/1788926.md">骂遍娱乐圈的“京圈流氓”，怎么没声了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 
 </ul>
 </div>
