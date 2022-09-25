@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/ssgc/20220924/1788677.md">〖兲朝浮世绘〗习总的热情追捧者也倒戈了？</a></li>
-<li><a href="/topimagenews/20220924/1788655.md">憔悴照流出! 大势已去 动员令反曝普京重大弱点</a></li>
 <li><a href="/topimagenews/20220924/1788777.md">习制定中国2049年前计划 任命胡春华被视为向核心圈子外抛了一块骨头【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220924/1788877.md">独家！习近平真出事了？！深扒13次军改会议 结果在此!【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220924/1788746.md">💥中南海政变真假？军权归党中央？中俄闹翻？俄罗斯两朋友无中共；孙力军供出大老虎被轻判，习近平会动手吗？｜薇羽看世间 第543期 20220923</a></li>
 <li><a href="/bannedvideo/20220924/1788850.md">北京再传政变 80公里军车赶往京畿 习暗示统治危机？【两岸要闻】</a></li>
-<li><a href="/bannedvideo/20220924/1788649.md">颜色革命正在上演，中共忙封锁消息；他突然高调出现，习近平要悬？【每日头条】</a></li>
 <li><a href="/bannedvideo/20220924/1788766.md">党内风向要变？习近平一项重要方针遭否定！中国人要惨了！中共官媒释放信号【国际风云】</a></li>
 <li><a href="/topimagenews/20220924/1788793.md">习带头?中共推进干部能上能下,20大恐掀人事风暴</a></li>
 <li><a href="/bannedvideo/20220924/1788861.md">陈破空：出国就出事！习近平白熬三年？意外遭栗战书重伤！刺习大案低调，孙力军和傅政华的重大立功指向谁</a></li>
+<li><a href="/comments/20220924/1788745.md">中共智库发文否定习近平言论 外界热议</a></li>
 <li><a href="/cbnews/20220924/1788701.md">天亮时分：孙力军也判死缓，习近平神隐，软禁还是憋大招？如果习下李上，是否岁月再度静好？伊朗头巾革命，马斯克打开星链支持（政论天下第800集 20220923）</a></li>
 <li><a href="/comments/20220924/1788846.md">唐靖远：习缺席重要军方会 央视镜头泄露啥</a></li>
-<li><a href="/comments/20220924/1788745.md">中共智库发文否定习近平言论 外界热议</a></li>
 <li><a href="/weiquan/20220924/1788901.md">&#8220;泼墨女&#8221;董瑶琼父亲董建彪昨天惨死狱中</a></li>
 <li><a href="/funmedia/20220924/1788780.md">以色列的美女监狱，关押全世界最美的女犯，狱警：不是来坐牢的</a></li>
 <li><a href="/bannedvideo/20220924/1788879.md">海量军车入京，习近平多日隐身；中国近万航班取消，孙力军集团判死缓；普京真要动核武，征兵30万俄国人出逃；普京发言人儿子拒应征，小粉红喊为国而战当众出丑。【 #时事金扫描 】</a></li>
+<li><a href="/cbnews/20220925/1788923.md">习连续重判对手 危机重重恐超想像</a></li>
 <li><a href="/topimagenews/20220924/1788826.md">又见豆腐渣工程！广东西江大桥坍塌 货车被压</a></li>
 <li><a href="/bannedvideo/20220924/1788903.md">“习近平被软禁？今晚北京机场关闭：无飞机✈️进出”Shitao TV - 01 (24/09/22) 海外开始火爆热议：推特置顶 集中3点理由</a></li>
 <li><a href="/bannedvideo/20220924/1788668.md">🔥倒习派口气大变！发生了什么？中国难民大潮，40多人偷渡柬23人失踪；习近平军委新班子搭成；习回国后已隐身一周，预示更大风暴来临？养7年母牛突然“向主人下跪”；中共喊对台“一国两制”翻车【阿波罗FG】</a></li>
 <li><a href="/cnnews/20220924/1788838.md">乌克兰战俘回家了！4个月炼狱凌虐饿到皮包骨</a></li>
-<li><a href="/cbnews/20220925/1788923.md">习连续重判对手 危机重重恐超想像</a></li>
-<li><a href="/ssgc/20220924/1788666.md">〖微博谈〗检疫合格的牲畜</a></li>
 <li><a href="/lifebaike/20220924/1788801.md">冰箱结冰别敲，用一个空瓶就搞定，五分钟冰块往下掉，太实用了</a></li>
+<li><a href="/ssgc/20220924/1788666.md">〖微博谈〗检疫合格的牲畜</a></li>
+<li><a href="/topimagenews/20220924/1788791.md">欧盟的“背骨仔”又来了！匈牙利:永不同意制裁俄原子能集团和俄气</a></li>
+<li><a href="/cnnews/20220924/1788690.md">成都人到襄阳 那一刻才知道什么叫绝望</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220925/1788988.md" target="_blank">俄新兵：一战的步枪、二战的头盔、露天的营房</a></li>
 <li><a href="/topimagenews/20220925/1788960.md" target="_blank">抢人了，中国多个特大城市全面放开落户</a></li>
 <li><a href="/topimagenews/20220925/1788946.md" target="_blank">川普自曝跟塔利班谈判杀手锏 对方一看就蔫了</a></li>
 <li><a href="/topimagenews/20220924/1788877.md" target="_blank">独家！习近平真出事了？！深扒13次军改会议 结果在此!【阿波罗网报道】</a></li>
@@ -90,13 +91,19 @@
 <li><a href="/topimagenews/20220923/1788381.md" target="_blank">聘金高达18亿人民币！福建豪门联姻 网友：有钱人终成眷属</a></li>
 <li><a href="/topimagenews/20220923/1788360.md" target="_blank">用什么保住人头？傅政华“重大立功” 一下老了20岁【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220923/1788357.md" target="_blank">一石三鸟！美航舰“雷根号”抵韩国釜山率巡洋舰、驱逐舰、核潜舰 威慑中朝俄</a></li>
-<li><a href="/topimagenews/20220923/1788341.md" target="_blank">备战打仗！习近平诡异隐身作出指示【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220925/1789002.md" target="_blank">党的红人姚明润到了悉尼！ 健康堪忧 体重飙至400斤</a></li>
+<li><a href="/comments/20220925/1788995.md" target="_blank">一张照片震惊世界！堪察加半岛的征兵站</a></li>
+<li><a href="/comments/20220925/1788994.md" target="_blank">钟原：李克强再提防“一刀切” 再反对清零？</a></li>
+<li><a href="/comments/20220925/1788993.md" target="_blank">网海拾贝:谁再为中共卖命，傅政华就是他们的下场</a></li>
+<li><a href="/comments/20220925/1788992.md" target="_blank">颜丹：贵阳“以疫谋性”乱象被辟谣说明什么？</a></li>
+<li><a href="/comments/20220925/1788991.md" target="_blank">周晓辉：宋平被称“定海神针 ” 中南海出状况？</a></li>
+<li><a href="/comments/20220925/1788990.md" target="_blank">王友群：孙力军傅政华为什么被判死缓？</a></li>
 <li><a href="/comments/20220925/1788968.md" target="_blank">【独家重磅】李燕铭：江泽民老家逾30名官员二十大前密集落马 江苏帮副部级老虎仇和缪瑞林的搭档退休八年被查 仇和曾陪薄熙来喂海鸥 落马前其秘书谢新松一举一动被监控 谢新松收受七套商铺转给私生子 缪瑞林一罪名罕见 杨卫泽打响发令枪吓到缪瑞林 江泽民江苏帮政变谋刺习近平 习绝地反击（二九）</a></li>
 <li><a href="/comments/20220925/1788967.md" target="_blank">NASA航天器主动撞击小行星 测试如何拯救地球 阻止世界末日</a></li>
 <li><a href="/comments/20220925/1788959.md" target="_blank">欧洲金融市场遭遇“黑色星期五” 经济衰退担忧加剧</a></li>
@@ -115,13 +122,6 @@
 <li><a href="/comments/20220924/1788869.md" target="_blank">香港庆中共国殇影片现戴口罩吹笛子画面 网民傻眼</a></li>
 <li><a href="/comments/20220924/1788868.md" target="_blank">联合国总部外 人权组织向各国官员喊话：中共滚出联合国</a></li>
 <li><a href="/comments/20220924/1788854.md" target="_blank">张建兴：执政以千年计，是中共的妄想</a></li>
-<li><a href="/comments/20220924/1788846.md" target="_blank">唐靖远：习缺席重要军方会 央视镜头泄露啥</a></li>
-<li><a href="/comments/20220924/1788837.md" target="_blank">横河：习连续重判对手 危机重重恐超想像</a></li>
-<li><a href="/comments/20220924/1788836.md" target="_blank">好战派“拱火”力促军事动员，普京骑虎难下</a></li>
-<li><a href="/comments/20220924/1788814.md" target="_blank">研究：睡眠与死亡的关系被发现</a></li>
-<li><a href="/comments/20220924/1788813.md" target="_blank">苹果，也要理性食用</a></li>
-<li><a href="/comments/20220924/1788812.md" target="_blank">十全十美的大众营养食品</a></li>
-<li><a href="/comments/20220924/1788811.md" target="_blank">李时珍称它是血气双补之王，能抗病毒还能逆转血糖</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
 <li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
 <li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
 
 </ul>
 </div>
