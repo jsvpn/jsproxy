@@ -15,19 +15,19 @@
 <li><a href="/bannedvideo/20220924/1788879.md">海量军车入京，习近平多日隐身；中国近万航班取消，孙力军集团判死缓；普京真要动核武，征兵30万俄国人出逃；普京发言人儿子拒应征，小粉红喊为国而战当众出丑。【 #时事金扫描 】</a></li>
 <li><a href="/bannedvideo/20220924/1788903.md">“习近平被软禁？今晚北京机场关闭：无飞机✈️进出”Shitao TV - 01 (24/09/22) 海外开始火爆热议：推特置顶 集中3点理由</a></li>
 <li><a href="/bannedvideo/20220925/1788996.md">陈破空：北京政变？盛传习近平出事。栗战书疑遭扣押！人大会现异常。胡温宋曾发挥关键作用？大量军车进京。上海和四川一把手紧急转向！党媒模糊其词。美东9月24日晚8点30、即中港台9月25早8点30</a></li>
+<li><a href="/bannedvideo/20220925/1789049.md">胡温联手抄后路？ 习近平妻女飞美？那家伙被控制了？当局放行“谣言”？宋平“拨乱反正”？前官媒记者做暗示？两喉舌接连反常，高层发生变故？3人罹难8人失踪，偷渡柬埔寨遭遇沉船【新闻看点 李沐阳9.24】</a></li>
 <li><a href="/cbnews/20220925/1789053.md">天亮时分：习近平真出事儿了？！热文：“老同志是定海神针”；习近平上合峰会压迫普京速战速决？谁能阻止普京使用核武器？（政论天下第801集 20220924）</a></li>
 <li><a href="/bannedvideo/20220925/1788956.md">揭㊙️习近平为何神隐？“脚滑”怕曝身体隐疾？三号人物栗战书公开唱反调，或奉命演戏；普京“支持一中”只为骗北京，“核按钮”根本按不动</a></li>
-<li><a href="/bannedvideo/20220925/1789049.md">胡温联手抄后路？ 习近平妻女飞美？那家伙被控制了？当局放行“谣言”？宋平“拨乱反正”？前官媒记者做暗示？两喉舌接连反常，高层发生变故？3人罹难8人失踪，偷渡柬埔寨遭遇沉船【新闻看点 李沐阳9.24】</a></li>
 <li><a href="/cbnews/20220925/1788923.md">习连续重判对手 危机重重恐超想像</a></li>
 <li><a href="/bannedvideo/20220925/1788942.md">“习近平被软禁? 只有王沪宁可能是操刀手！”Shitao TV - 04 (24/09/22) 反习保共 此次风波的主线</a></li>
 <li><a href="/cnnews/20220925/1788934.md">不鸣则已！美国造出0.7nm芯片，EUV光刻机做不到</a></li>
 <li><a href="/topimagenews/20220925/1788960.md">抢人了，中国多个特大城市全面放开落户</a></li>
+<li><a href="/comments/20220925/1788991.md">周晓辉：宋平被称“定海神针 ” 中南海出状况？</a></li>
 <li><a href="/topimagenews/20220924/1788826.md">又见豆腐渣工程！广东西江大桥坍塌 货车被压</a></li>
 <li><a href="/yule/20220925/1788979.md">章泽天疑似怀二胎！挺巨肚陪大19岁老公逛超市，表现亲密恩爱如初</a></li>
-<li><a href="/comments/20220925/1788991.md">周晓辉：宋平被称“定海神针 ” 中南海出状况？</a></li>
-<li><a href="/cnnews/20220924/1788838.md">乌克兰战俘回家了！4个月炼狱凌虐饿到皮包骨</a></li>
+<li><a href="/bannedvideo/20220925/1789092.md">最火爆的政变听床段子来啦！习近平宋平李克强直接交手！普京跪了：智商真感人啊</a></li>
 <li><a href="/cnnews/20220925/1788926.md">骂遍娱乐圈的“京圈流氓”，怎么没声了</a></li>
-<li><a href="/comments/20220925/1788968.md">【独家重磅】李燕铭：江泽民老家逾30名官员二十大前密集落马 江苏帮副部级老虎仇和缪瑞林的搭档退休八年被查 仇和曾陪薄熙来喂海鸥 落马前其秘书谢新松一举一动被监控 谢新松收受七套商铺转给私生子 缪瑞林一罪名罕见 杨卫泽打响发令枪吓到缪瑞林 江泽民江苏帮政变谋刺习近平 习绝地反击（二九）</a></li>
+<li><a href="/cnnews/20220924/1788838.md">乌克兰战俘回家了！4个月炼狱凌虐饿到皮包骨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220925/1789139.md" target="_blank">这两件事做多了，手上倒刺一直长！还不是缺乏维生素</a></li>
 <li><a href="/comments/20220925/1789134.md" target="_blank">王毅纽约指责美国 余茂春驳斥</a></li>
 <li><a href="/comments/20220925/1789101.md" target="_blank">李燕铭：美核航母时隔5年再度驶入韩国釜山海军作战基地 将同韩军联合军演 美韩海军陆战队将实施联合登陆演练 朝鲜为核武立法 美日韩外长联合声明坚决应对朝鲜核试 朝鲜发射短程弹道导弹挑衅飞行约600公里 全球军事围堵中共之朝鲜半岛战争阴云（二二）</a></li>
 <li><a href="/comments/20220925/1789089.md" target="_blank">【杰森视角】普京为何用上百乌克兰战俘交换一个乌克兰籍平民？普京真敢用核武？升级的俄乌战争只有一个未来！习近平很佩服普京！</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220925/1788992.md" target="_blank">颜丹：贵阳“以疫谋性”乱象被辟谣说明什么？</a></li>
 <li><a href="/comments/20220925/1788991.md" target="_blank">周晓辉：宋平被称“定海神针 ” 中南海出状况？</a></li>
 <li><a href="/comments/20220925/1788990.md" target="_blank">王友群：孙力军傅政华为什么被判死缓？</a></li>
-<li><a href="/comments/20220925/1788968.md" target="_blank">【独家重磅】李燕铭：江泽民老家逾30名官员二十大前密集落马 江苏帮副部级老虎仇和缪瑞林的搭档退休八年被查 仇和曾陪薄熙来喂海鸥 落马前其秘书谢新松一举一动被监控 谢新松收受七套商铺转给私生子 缪瑞林一罪名罕见 杨卫泽打响发令枪吓到缪瑞林 江泽民江苏帮政变谋刺习近平 习绝地反击（二九）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 <li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
 <li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 <li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 <li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
 
 </ul>
 </div>
