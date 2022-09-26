@@ -18,16 +18,16 @@
 <li><a href="/ssgc/20220926/1789476.md">中共公布二十大代表2296人 学者：政治局常委人选已基本确定</a></li>
 <li><a href="/comments/20220926/1789420.md">中共二十大代表名单公布 习将继续执政 一传闻将见分晓</a></li>
 <li><a href="/headline/20220926/1789304.md">中共二十大召开在即 官媒公布2296名与会代表名单</a></li>
-<li><a href="/cnnews/20220926/1789446.md">华春莹“没有美国就活不下去了” 推特两张图惨遭大翻车【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220926/1789540.md">俄罗斯部署战术核武器 美模拟预测:“冲突若升级恐逾九千万人伤亡”</a></li>
+<li><a href="/cnnews/20220926/1789446.md">华春莹“没有美国就活不下去了” 推特两张图惨遭大翻车【阿波罗网报道】</a></li>
 <li><a href="/headline/20220926/1789530.md">【二十大】中南海政变传闻成焦点 官方惧发酵实施舆论维稳</a></li>
 <li><a href="/topimagenews/20220926/1789392.md">【微博精粹】中国疯 他掌握当时全球最高机密</a></li>
 <li><a href="/ssgc/20220926/1789552.md">官媒释不寻常信息 王小洪赵乐际之举解读</a></li>
-<li><a href="/bannedvideo/20220926/1789311.md">🔥这张照片 让习近平觉得尴尬了； 如果普京在乌克兰使用核武器，将会发生什么？金正恩4年前亲笔信被曝光：想直接见川普【阿波罗网TＬ】</a></li>
 <li><a href="/bannedvideo/20220926/1789570.md">官媒逐步去习近平化？习近平从人民网、新华社标题消失到著书立说.</a></li>
-<li><a href="/yule/20220926/1789281.md">67岁林青霞现身模样大变，发福臃肿脸大一圈，身材五五分没了气质</a></li>
+<li><a href="/bannedvideo/20220926/1789311.md">🔥这张照片 让习近平觉得尴尬了； 如果普京在乌克兰使用核武器，将会发生什么？金正恩4年前亲笔信被曝光：想直接见川普【阿波罗网TＬ】</a></li>
 <li><a href="/topimagenews/20220926/1789499.md">他自肥年薪12.6亿元人民币!中国威马电动车去年亏损82亿元人民币 创始人收入受质疑</a></li>
 <li><a href="/cnnews/20220926/1789462.md">河南近百山羊接连跳60米山崖惨死，原因是…..</a></li>
+<li><a href="/topimagenews/20220926/1789326.md">赵战狼引用Bob Dylan弄巧成拙：答案在风中吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220927/1789694.md" target="_blank">深圳人发出怒吼：共产党放屁！集体抗议要求解封与警爆冲突</a></li>
 <li><a href="/comments/20220927/1789685.md" target="_blank">被游民泼粪袭击 洛杉矶业主感到无助</a></li>
 <li><a href="/comments/20220927/1789683.md" target="_blank">专栏 | 劳工通讯：山西凤凰台煤矿顶板事故被困五人全部遇难（三）</a></li>
 <li><a href="/comments/20220927/1789662.md" target="_blank">“王家梁”猛！顶着冲锋枪示威抗议 小区立马解封</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220926/1789496.md" target="_blank">优秀孩子的父母，都避开了这10个坑</a></li>
 <li><a href="/comments/20220926/1789495.md" target="_blank">一味山药 起死回生（1）</a></li>
 <li><a href="/comments/20220926/1789494.md" target="_blank">天气转凉，“秋冻”有度</a></li>
-<li><a href="/comments/20220926/1789493.md" target="_blank">秋分到来，饮食睡眠需调整</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
 <li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 
 </ul>
 </div>
