@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/ccpdope/20220925/1789164.md">“习近平内部讲话” 全文 内容令人不寒而栗</a></li>
-<li><a href="/bannedvideo/20220925/1789148.md">💥胡锦涛让习近平隐身躲暗S！如今的爆料太意外？宋平真发起“逼宫”吗，将领譁变，尼泊尔媒体都在报；孙力军现在没死，但好不了；大量军车驶向北京；普京被习近平耍了｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/bannedvideo/20220925/1789202.md">陈破空：党媒降调习近平！政变续闻：李克强汪洋主政。胡锦涛可能复任军委主席两年。刘源或将复出。王岐山发挥重要作用。二十大党代表出炉！但须审核。直播与互动 美东9月25早8点30、即中港台9月25晚8点30</a></li>
 <li><a href="/bannedvideo/20220925/1789211.md">🔥习近平隐身传言四起 李克强突然打破沉默... 公众号吹捧宋平江泽民被封；俄罗斯下令动员 男女被迫亲吻拥抱哭泣说再见；大批役龄男子逃离俄罗斯 芬兰关闭边境【阿波罗网LS】</a></li>
 <li><a href="/topimagenews/20220926/1789335.md">习近平被软禁传言上推特热搜 源头是他？</a></li>
@@ -17,12 +16,13 @@
 <li><a href="/comments/20220925/1789243.md">要出大事？习近平隐身一周 大量军车开赴北京</a></li>
 <li><a href="/cbnews/20220925/1789213.md">从王岐山戴口罩出席女王葬礼说开去</a></li>
 <li><a href="/cnnews/20220925/1789182.md">没人相信iPhone14会卖不出 大陆黄牛慌了 摆地摊</a></li>
+<li><a href="/cbnews/20220926/1789380.md">天亮时分：习被软禁成推特热词，外国大媒体加入讨论；二十大党代表名单公布，看到“习近平”了吗？欢迎网友现场尖锐问题（政论天下第802集 20220925）</a></li>
 <li><a href="/worldnews/20220926/1789296.md">俄罗斯人真怕了！14公里…边境现惊人一幕</a></li>
 <li><a href="/cnnews/20220925/1789186.md">热议：人大代表提降英语教学比重 教育部回应</a></li>
-<li><a href="/cbnews/20220926/1789380.md">天亮时分：习被软禁成推特热词，外国大媒体加入讨论；二十大党代表名单公布，看到“习近平”了吗？欢迎网友现场尖锐问题（政论天下第802集 20220925）</a></li>
-<li><a href="/headline/20220926/1789304.md">中共二十大召开在即 官媒公布2296名与会代表名单</a></li>
 <li><a href="/cbnews/20220926/1789272.md">90岁作家铁流致信李克强 诉核酸封城之恶</a></li>
+<li><a href="/headline/20220926/1789304.md">中共二十大召开在即 官媒公布2296名与会代表名单</a></li>
 <li><a href="/bannedvideo/20220926/1789334.md">陈破空：北京激斗爆军事行动，突然封锁渤海黄海！张文宏高升成风向标。党媒再次炒作两个确立。俄方指控习近平怂恿普京大征兵。美东9月25日晚8点45、即中港台9月26早8点45</a></li>
+<li><a href="/cbnews/20220926/1789448.md">北京发生军事政变是真的吗？</a></li>
 <li><a href="/cnnews/20220925/1789247.md">海事局突发警告：渤海海峡黄海北部8天禁止进入，“执行军事任务”</a></li>
 <li><a href="/bannedvideo/20220925/1789191.md">20大后有更大政治风暴？孙力军免死，习近平真正目的是这个！中共防控新手段： 画地为牢【两岸要闻】</a></li>
 <li><a href="/yule/20220926/1789281.md">67岁林青霞现身模样大变，发福臃肿脸大一圈，身材五五分没了气质</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220926/1789485.md" target="_blank">普丁核威胁！布林肯：俄罗斯已知道后果很可怕…</a></li>
 <li><a href="/topimagenews/20220926/1789449.md" target="_blank">中国楼市，一个巨大的“10%危机”悄悄浮出水面</a></li>
 <li><a href="/topimagenews/20220926/1789434.md" target="_blank">下完动员令神隐！普丁遭爆逃进“豪华宫殿”享乐</a></li>
 <li><a href="/topimagenews/20220926/1789422.md" target="_blank">义大利新总理梅洛尼欲加强和台合作 中共使馆：坚决反对</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220924/1788877.md" target="_blank">独家！习近平真出事了？！深扒13次军改会议 结果在此!【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220924/1788859.md" target="_blank">中大量企业人才失业 研究生成快递小哥 官方转移话题掩盖经济不景气；</a></li>
 <li><a href="/topimagenews/20220924/1788826.md" target="_blank">又见豆腐渣工程！广东西江大桥坍塌 货车被压</a></li>
-<li><a href="/topimagenews/20220924/1788793.md" target="_blank">习带头?中共推进干部能上能下,20大恐掀人事风暴</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 <li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
 <li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 
 </ul>
 </div>
