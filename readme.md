@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/ccpdope/20220925/1789164.md">“习近平内部讲话” 全文 内容令人不寒而栗</a></li>
 <li><a href="/bannedvideo/20220925/1789202.md">陈破空：党媒降调习近平！政变续闻：李克强汪洋主政。胡锦涛可能复任军委主席两年。刘源或将复出。王岐山发挥重要作用。二十大党代表出炉！但须审核。直播与互动 美东9月25早8点30、即中港台9月25晚8点30</a></li>
 <li><a href="/bannedvideo/20220925/1789211.md">🔥习近平隐身传言四起 李克强突然打破沉默... 公众号吹捧宋平江泽民被封；俄罗斯下令动员 男女被迫亲吻拥抱哭泣说再见；大批役龄男子逃离俄罗斯 芬兰关闭边境【阿波罗网LS】</a></li>
 <li><a href="/topimagenews/20220926/1789335.md">习近平被软禁传言上推特热搜 源头是他？</a></li>
@@ -16,16 +15,17 @@
 <li><a href="/comments/20220925/1789243.md">要出大事？习近平隐身一周 大量军车开赴北京</a></li>
 <li><a href="/cbnews/20220925/1789213.md">从王岐山戴口罩出席女王葬礼说开去</a></li>
 <li><a href="/cnnews/20220925/1789182.md">没人相信iPhone14会卖不出 大陆黄牛慌了 摆地摊</a></li>
-<li><a href="/cbnews/20220926/1789380.md">天亮时分：习被软禁成推特热词，外国大媒体加入讨论；二十大党代表名单公布，看到“习近平”了吗？欢迎网友现场尖锐问题（政论天下第802集 20220925）</a></li>
 <li><a href="/cbnews/20220926/1789448.md">北京发生军事政变是真的吗？</a></li>
+<li><a href="/cbnews/20220926/1789380.md">天亮时分：习被软禁成推特热词，外国大媒体加入讨论；二十大党代表名单公布，看到“习近平”了吗？欢迎网友现场尖锐问题（政论天下第802集 20220925）</a></li>
 <li><a href="/worldnews/20220926/1789296.md">俄罗斯人真怕了！14公里…边境现惊人一幕</a></li>
 <li><a href="/cnnews/20220925/1789186.md">热议：人大代表提降英语教学比重 教育部回应</a></li>
-<li><a href="/cbnews/20220926/1789272.md">90岁作家铁流致信李克强 诉核酸封城之恶</a></li>
 <li><a href="/ssgc/20220926/1789409.md">〖兲朝浮世绘〗老同志成定海神针 可是拿不下习咋办？</a></li>
+<li><a href="/cbnews/20220926/1789272.md">90岁作家铁流致信李克强 诉核酸封城之恶</a></li>
 <li><a href="/bannedvideo/20220926/1789334.md">陈破空：北京激斗爆军事行动，突然封锁渤海黄海！张文宏高升成风向标。党媒再次炒作两个确立。俄方指控习近平怂恿普京大征兵。美东9月25日晚8点45、即中港台9月26早8点45</a></li>
 <li><a href="/headline/20220926/1789304.md">中共二十大召开在即 官媒公布2296名与会代表名单</a></li>
 <li><a href="/cnnews/20220925/1789247.md">海事局突发警告：渤海海峡黄海北部8天禁止进入，“执行军事任务”</a></li>
 <li><a href="/bannedvideo/20220925/1789191.md">20大后有更大政治风暴？孙力军免死，习近平真正目的是这个！中共防控新手段： 画地为牢【两岸要闻】</a></li>
+<li><a href="/topimagenews/20220926/1789449.md">中国楼市，一个巨大的“10%危机”悄悄浮出水面</a></li>
 <li><a href="/yule/20220926/1789281.md">67岁林青霞现身模样大变，发福臃肿脸大一圈，身材五五分没了气质</a></li>
 <li><a href="/topimagenews/20220926/1789326.md">赵战狼引用Bob Dylan弄巧成拙：答案在风中吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
 
 </ul>
 </div>
