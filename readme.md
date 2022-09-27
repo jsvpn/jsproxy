@@ -5,11 +5,10 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/ssgc/20220926/1789552.md">官媒释不寻常信息 王小洪赵乐际之举解读</a></li>
 <li><a href="/bannedvideo/20220926/1789570.md">官媒逐步去习近平化？习近平从人民网、新华社标题消失到著书立说.</a></li>
 <li><a href="/comments/20220927/1789739.md">中共二十大政治局常委人选确定？王沪宁或将出局</a></li>
-<li><a href="/cbnews/20220926/1789635.md">习近平失踪？遭软禁？印媒：应是返国检疫隔离中</a></li>
 <li><a href="/bannedvideo/20220927/1789698.md">上海滩情妇又陷风波 二十大代表名单中有他！【红朝禁闻】</a></li>
+<li><a href="/cbnews/20220926/1789635.md">习近平失踪？遭软禁？印媒：应是返国检疫隔离中</a></li>
 <li><a href="/cbnews/20220927/1789687.md">美专家：四大迹象表明中共开始崩溃</a></li>
 <li><a href="/topimagenews/20220927/1789724.md">全网下架Mate50拆机视频，华为到底在怕什么？</a></li>
 <li><a href="/cnnews/20220927/1789889.md">关键时刻！胡锡进拉大旗反了！公开呼吁…【阿波罗网报道】</a></li>
@@ -21,12 +20,13 @@
 <li><a href="/finance/20220927/1789726.md">不平静，上海的这家外资银行疑似爆雷了？</a></li>
 <li><a href="/cnnews/20220927/1789728.md">多国甩包中国产飞机</a></li>
 <li><a href="/bannedvideo/20220926/1789568.md">陈破空：政变消息传遍国际！德国记者前往北京打探。传言无论虚实反映人心向背！某人应知趣而退。伊朗抗议蔓延全国，这回很不一般</a></li>
+<li><a href="/cbnews/20220927/1789880.md">天亮时分：二十大最大看点，不是习近平是否连任，而是他后继无人；俄乌战争，美国监测战略核武器的飞机升空（政论天下第803集 20220926）</a></li>
 <li><a href="/bannedvideo/20220926/1789558.md">一个让中共胆寒的变化出现了 习真遇政变？他曝内幕【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20220927/1789678.md">秦刚流出神秘视频</a></li>
 <li><a href="/topimagenews/20220927/1789896.md">【微博精粹】要从我们最后一代滑到他们最后一代</a></li>
-<li><a href="/cbnews/20220927/1789880.md">天亮时分：二十大最大看点，不是习近平是否连任，而是他后继无人；俄乌战争，美国监测战略核武器的飞机升空（政论天下第803集 20220926）</a></li>
 <li><a href="/comments/20220927/1789694.md">深圳人发出怒吼：共产党放屁！集体抗议要求解封与警爆冲突</a></li>
 <li><a href="/bannedvideo/20220927/1789750.md">文昭：有烟处必有火！习近平隔离结束、还不露面？中共动乱周期、与华国锋被「天鹅绒政变」模式</a></li>
+<li><a href="/cbnews/20220927/1789923.md">江峰：政变软禁习近平传闻孰真孰假，枪杆子、刀把子、笔杆子是如何失去的？胡锡进也反水不叼盘了【江峰漫谈20220926第553期】</a></li>
 <li><a href="/ssgc/20220927/1789713.md">“习进瓶”? 维尼熊被装饮料瓶 遭中国封杀</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220927/1790033.md" target="_blank">让它去西太平洋！ 美军接收世界最大无人军舰…</a></li>
 <li><a href="/topimagenews/20220927/1790025.md" target="_blank">欧洲引爆“雷曼危机”？德巨头倒台股价崩9成 恐掀全球海啸</a></li>
 <li><a href="/topimagenews/20220927/1790016.md" target="_blank">二十大前股市也得维稳 中共“口头提醒”要求券商避免大规模抛售股票</a></li>
 <li><a href="/topimagenews/20220927/1790008.md" target="_blank">场面壮观！ 安徽城西湖水位降 上万人抢抓鱼 交通大堵塞</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20220926/1789336.md" target="_blank">千年难一遇：步行从湖北趟水过长江可以走到江西九江</a></li>
 <li><a href="/topimagenews/20220926/1789335.md" target="_blank">习近平被软禁传言上推特热搜 源头是他？</a></li>
 <li><a href="/topimagenews/20220926/1789326.md" target="_blank">赵战狼引用Bob Dylan弄巧成拙：答案在风中吗？</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220927/1790038.md" target="_blank">王家梁效应！新疆解封抗议蔓延伊宁 官员群体出动维稳</a></li>
 <li><a href="/comments/20220927/1789990.md" target="_blank">担心乌克兰成台湾抵御中共楷模？乌国会成立友台小组遭中共施压</a></li>
 <li><a href="/comments/20220927/1789989.md" target="_blank">告别脂肪肝，注意这些饮食细节</a></li>
 <li><a href="/comments/20220927/1789988.md" target="_blank">追踪败血症患者配偶发现：出院后23.5％罹精神疾病</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220927/1789841.md" target="_blank">香江水暖鸭先知？明报“转性”作政治豪睹</a></li>
 <li><a href="/comments/20220927/1789838.md" target="_blank">吴崑玉：普京正在修建自己的陵墓 习大却不想入坑</a></li>
 <li><a href="/comments/20220927/1789814.md" target="_blank">岳山：二十大代表名单藏内斗和政治秘密</a></li>
-<li><a href="/comments/20220927/1789813.md" target="_blank">意大利大选出炉 欧洲最右翼政府胜选</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
 <li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
 
 </ul>
 </div>
