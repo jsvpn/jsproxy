@@ -20,14 +20,14 @@
 <li><a href="/comments/20220927/1790042.md">习近平要打“军老虎”？两名将领接连出事</a></li>
 <li><a href="/bannedvideo/20220927/1790029.md">陈破空：党媒惊人预告：中国进入朝鲜模式！党和国家领导人只有他一人！但政变传言声中，他仍未露面！王沪宁突然现身，高喊两个确立。深圳人民起义。直播与互动 美东9月27早8点15、即中港台9月27晚8点15</a></li>
 <li><a href="/bannedvideo/20220928/1790138.md">习近平谣传中露面  从南到北  民怨爆棚  中共胆怯了；二十大顶风操作   高层名单被预判；蓬佩奥直怼中共：台湾本就是个独立国家【环球看点】</a></li>
-<li><a href="/bannedvideo/20220927/1790022.md">深圳市民拿喇叭大骂共产党；深圳沙尾再封控引发抗议 上千民众大喊“解封”；深圳多地封控 打工人跑路不断；西藏封城50余天 隔离条件堪比集中营；订单骤减 工厂濒临破产 老板们焦头烂额</a></li>
 <li><a href="/funmedia/20220928/1790212.md">67岁陈道明极简生活曝光：讨厌一个人，无需翻脸，无需直言</a></li>
 <li><a href="/topimagenews/20220928/1790371.md">习近平将率中共摔成肉泥？反习派敲响丧钟【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20220927/1790022.md">深圳市民拿喇叭大骂共产党；深圳沙尾再封控引发抗议 上千民众大喊“解封”；深圳多地封控 打工人跑路不断；西藏封城50余天 隔离条件堪比集中营；订单骤减 工厂濒临破产 老板们焦头烂额</a></li>
 <li><a href="/topimagenews/20220927/1790016.md">二十大前股市也得维稳 中共“口头提醒”要求券商避免大规模抛售股票</a></li>
-<li><a href="/topimagenews/20220927/1790008.md">场面壮观！ 安徽城西湖水位降 上万人抢抓鱼 交通大堵塞</a></li>
 <li><a href="/ssgc/20220928/1790277.md">〖兲朝浮世绘〗习近平出来报平安了</a></li>
+<li><a href="/topimagenews/20220927/1790008.md">场面壮观！ 安徽城西湖水位降 上万人抢抓鱼 交通大堵塞</a></li>
 <li><a href="/headline/20220927/1790013.md">中国再就俄罗斯在乌克兰占领土地吞并公投发声 微挺乌克兰？</a></li>
-<li><a href="/ssgc/20220928/1790291.md">〖微博谈〗真的很讽刺</a></li>
+<li><a href="/bannedvideo/20220928/1790357.md">多名警察突然闯入会场，将参加会议的两名官员戴上手铐，然后带走。其余的与会官员在惊恐中继续开会。</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220928/1790464.md" target="_blank">话到嘴边却想不起来，真的是健忘吗？</a></li>
+<li><a href="/comments/20220928/1790463.md" target="_blank">国人最缺乏的4种营养素</a></li>
+<li><a href="/comments/20220928/1790462.md" target="_blank">脑中过量的快乐物质，这家人出了5代心理变态男</a></li>
+<li><a href="/comments/20220928/1790459.md" target="_blank">天天洗脚为什么脚还是特别臭？</a></li>
+<li><a href="/comments/20220928/1790457.md" target="_blank">结石多半是“吃”出来的？这4种食物，能不吃就别吃</a></li>
+<li><a href="/comments/20220928/1790456.md" target="_blank">唱歌跑调，可能是这种病，居然可还会遗传</a></li>
 <li><a href="/comments/20220928/1790394.md" target="_blank">传打中国科兴疫苗易患肺结节 专家解读</a></li>
 <li><a href="/comments/20220928/1790393.md" target="_blank">完全不管北京感受 美国罕见就台湾主权表态</a></li>
 <li><a href="/comments/20220928/1790387.md" target="_blank">吹哨人：谷歌帮拜登击败川普、赢得2020年大选</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20220928/1790292.md" target="_blank">川普给11岁女孩的人生建议：不要吸毒，不抽烟，不喝酒</a></li>
 <li><a href="/comments/20220928/1790279.md" target="_blank">黑龙江防疫人员扔粮食被官方通报，网友：“好像知道三年自然灾害怎么回事了”</a></li>
 <li><a href="/comments/20220928/1790278.md" target="_blank">龅牙赵:既不讲科学，又不讲良心</a></li>
-<li><a href="/comments/20220928/1790276.md" target="_blank">报告：中共采用朝鲜的「三代连坐刑罚」对付异己</a></li>
-<li><a href="/comments/20220928/1790270.md" target="_blank">沉雁：与老美的关系，不是你想搞好就能搞好的</a></li>
-<li><a href="/comments/20220928/1790269.md" target="_blank">李濠仲俄罗斯大使连挪威总理也要闪</a></li>
-<li><a href="/comments/20220928/1790268.md" target="_blank">网海拾贝:你们判的这个陈继志是真的陈继志吗？</a></li>
-<li><a href="/comments/20220928/1790267.md" target="_blank">王赫：不杀孙力军释放的三个政治信号</a></li>
-<li><a href="/comments/20220928/1790266.md" target="_blank">周晓辉：军方少将政协委员资格被撤 出何事？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
 <li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 
 </ul>
 </div>
