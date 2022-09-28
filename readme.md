@@ -11,23 +11,23 @@
 <li><a href="/bannedvideo/20220927/1790026.md">软禁？政变？习近平真垮台了？海外疯传习被拿下，七大疑点藏诡异？中亚返国后消失，习为何神隐？（2022.09.27）｜世界的十字路口 唐浩</a></li>
 <li><a href="/bannedvideo/20220927/1790000.md">科学家发现，人在死后很有可能会被传输到另一个世界，经历再次轮回</a></li>
 <li><a href="/topimagenews/20220927/1789896.md">【微博精粹】要从我们最后一代滑到他们最后一代</a></li>
-<li><a href="/cbnews/20220927/1789923.md">江峰：政变软禁习近平传闻孰真孰假，枪杆子、刀把子、笔杆子是如何失去的？胡锡进也反水不叼盘了【江峰漫谈20220926第553期】</a></li>
 <li><a href="/bannedvideo/20220927/1789930.md">9月19日凌晨，北京顺义国际机场附近发生连环大爆炸。爆炸发生后，天空出现很多直升机。</a></li>
+<li><a href="/cbnews/20220927/1789923.md">江峰：政变软禁习近平传闻孰真孰假，枪杆子、刀把子、笔杆子是如何失去的？胡锡进也反水不叼盘了【江峰漫谈20220926第553期】</a></li>
 <li><a href="/bannedvideo/20220927/1790076.md">文睿：习终于出来了，演戏，破绽太多</a></li>
-<li><a href="/bannedvideo/20220927/1790040.md">他们都反了！政变传言中 习其实最担心这个 宋平讲话下场曝光【两岸要闻】</a></li>
 <li><a href="/comments/20220927/1789969.md">莫非真不妙? 港媒掷豪赌影射习</a></li>
+<li><a href="/bannedvideo/20220927/1790040.md">他们都反了！政变传言中 习其实最担心这个 宋平讲话下场曝光【两岸要闻】</a></li>
 <li><a href="/headline/20220927/1790127.md">有传习近平遭软禁 今率众高官露面</a></li>
 <li><a href="/ssgc/20220927/1789913.md">〖兲朝浮世绘〗深圳民众反封控被镇压 就是坐牢也得有个期限呀</a></li>
 <li><a href="/topimagenews/20220927/1790025.md">欧洲引爆“雷曼危机”？德巨头倒台股价崩9成 恐掀全球海啸</a></li>
 <li><a href="/bannedvideo/20220927/1790009.md">一切只是开始！2022年预言成真了？2023年恐将发生5大撼动全球的事件！【地球旅馆】</a></li>
 <li><a href="/bannedvideo/20220927/1790029.md">陈破空：党媒惊人预告：中国进入朝鲜模式！党和国家领导人只有他一人！但政变传言声中，他仍未露面！王沪宁突然现身，高喊两个确立。深圳人民起义。直播与互动 美东9月27早8点15、即中港台9月27晚8点15</a></li>
 <li><a href="/comments/20220927/1790042.md">习近平要打“军老虎”？两名将领接连出事</a></li>
+<li><a href="/bannedvideo/20220928/1790144.md">“高调露面！习近平携常委宣布：中共离不开我习大大！”Shitao TV - 01 (27/09/22) 目标：如胆小-续当总书记 如胆大-党主席+习近平主义</a></li>
 <li><a href="/bannedvideo/20220927/1790022.md">深圳市民拿喇叭大骂共产党；深圳沙尾再封控引发抗议 上千民众大喊“解封”；深圳多地封控 打工人跑路不断；西藏封城50余天 隔离条件堪比集中营；订单骤减 工厂濒临破产 老板们焦头烂额</a></li>
+<li><a href="/bannedvideo/20220928/1790138.md">习近平谣传中露面  从南到北  民怨爆棚  中共胆怯了；二十大顶风操作   高层名单被预判；蓬佩奥直怼中共：台湾本就是个独立国家【环球看点】</a></li>
 <li><a href="/topimagenews/20220927/1790016.md">二十大前股市也得维稳 中共“口头提醒”要求券商避免大规模抛售股票</a></li>
 <li><a href="/topimagenews/20220927/1789903.md">中共大转向！公然对乌克兰示好 普丁这下“灰头土脸”了…</a></li>
-<li><a href="/bannedvideo/20220928/1790144.md">“高调露面！习近平携常委宣布：中共离不开我习大大！”Shitao TV - 01 (27/09/22) 目标：如胆小-续当总书记 如胆大-党主席+习近平主义</a></li>
 <li><a href="/baitai/20220927/1789858.md">习近平下台人心所向</a></li>
-<li><a href="/ssgc/20220927/1789769.md">〖微博谈〗现实很荒诞</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220928/1790270.md" target="_blank">沉雁：与老美的关系，不是你想搞好就能搞好的</a></li>
+<li><a href="/comments/20220928/1790269.md" target="_blank">李濠仲俄罗斯大使连挪威总理也要闪</a></li>
+<li><a href="/comments/20220928/1790268.md" target="_blank">网海拾贝:你们判的这个陈继志是真的陈继志吗？</a></li>
+<li><a href="/comments/20220928/1790267.md" target="_blank">王赫：不杀孙力军释放的三个政治信号</a></li>
+<li><a href="/comments/20220928/1790266.md" target="_blank">周晓辉：军方少将政协委员资格被撤 出何事？</a></li>
 <li><a href="/comments/20220928/1790255.md" target="_blank">中共央行出手干预 人民币汇率继续下跌</a></li>
 <li><a href="/comments/20220928/1790254.md" target="_blank">破传闻 习近平高调现身作《复兴文库》序言 为二十大打气</a></li>
 <li><a href="/comments/20220928/1790245.md" target="_blank">世行降中国经济预期 北京用这招救火</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20220927/1790108.md" target="_blank">不怕中共跳脚！ 安倍国葬以“台湾”唱名 台湾代表团献花画面曝光</a></li>
 <li><a href="/comments/20220927/1790106.md" target="_blank">造反？习近平文胆批文革：“什么都看不见”不能叫领导</a></li>
 <li><a href="/comments/20220927/1790092.md" target="_blank">大撒币吃不消了？中共拟修改「一带一路」</a></li>
-<li><a href="/comments/20220927/1790091.md" target="_blank">古人也做核酸？中国儿童读物《抗疫三千年》封面引网民嘲讽</a></li>
-<li><a href="/comments/20220927/1790090.md" target="_blank">安倍国葬 日政府以「台湾」作国家名称 外交部：中共没理由抗议</a></li>
-<li><a href="/comments/20220927/1790074.md" target="_blank">【财经拆局】金管局的「托市第一击」</a></li>
-<li><a href="/comments/20220927/1790058.md" target="_blank">前美国务卿蓬佩奥二度抵台访问 将会晤副总统赖清德</a></li>
-<li><a href="/comments/20220927/1790052.md" target="_blank">别让“子苓姐”等你太久哟，今秋十月，我们一起去纽约看 #演员梦</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
 <li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
 
 </ul>
 </div>
