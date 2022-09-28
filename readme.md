@@ -10,17 +10,17 @@
 <li><a href="/bannedvideo/20220928/1790478.md">太子党放风 二十大可能这样收场？他：习很危险【两岸要闻】</a></li>
 <li><a href="/funmedia/20220928/1790212.md">67岁陈道明极简生活曝光：讨厌一个人，无需翻脸，无需直言</a></li>
 <li><a href="/bannedvideo/20220928/1790357.md">多名警察突然闯入会场，将参加会议的两名官员戴上手铐，然后带走。其余的与会官员在惊恐中继续开会。</a></li>
-<li><a href="/topimagenews/20220928/1790371.md">习近平将率中共摔成肉泥？反习派敲响丧钟【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20220928/1790277.md">〖兲朝浮世绘〗习近平出来报平安了</a></li>
+<li><a href="/topimagenews/20220928/1790371.md">习近平将率中共摔成肉泥？反习派敲响丧钟【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220928/1790399.md">曾罢黜赵紫阳的中共“深层中央”还能左右政局吗？</a></li>
 <li><a href="/lifebaike/20220928/1790446.md">复印身份证，记得在旁边放上1枚硬币，懂的人不多，幸好知道得早</a></li>
 <li><a href="/ssgc/20220928/1790291.md">〖微博谈〗真的很讽刺</a></li>
 <li><a href="/cbnews/20220928/1790411.md">黑箱里的政变谣言</a></li>
 <li><a href="/topimagenews/20220928/1790347.md">20大前 贪了30亿的他被判死刑</a></li>
 <li><a href="/bannedvideo/20220928/1790305.md">张文宏惊人报告写了啥？快传！不翻墙也可做这事了；军中有变！习引蛇出洞？高层随行独缺谁？深圳人怒骂共产党；产妇婴儿全被拉走！安倍国葬；破亿电影为何下架？飓风袭佛州。【 #晚间新闻 】</a></li>
+<li><a href="/topimagenews/20220928/1790579.md">习近平遭遇舆情超限战? 大数据扒出奇怪现象 【阿波罗网报道】</a></li>
 <li><a href="/bannedvideo/20220928/1790492.md">陈破空：习近平险遭推翻？忽有两名将军受查处！原因神秘。复出后起诉刺习高官，但低调进行。党媒暗指习代表外来政权。直播与互动 美东9月28早9点、即中港台9月28晚9点</a></li>
 <li><a href="/bannedvideo/20220928/1790253.md">🔥绝非耸人听闻！中共“政变”就在发生！敏感时刻，习近平的文胆发文唱反调；日本外相被爆拒绝蔡英文总统赴日吊唁安倍，日本网友愤怒要将其轰下台【阿波罗网AM】</a></li>
-<li><a href="/topimagenews/20220928/1790579.md">习近平遭遇舆情超限战? 大数据扒出奇怪现象 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220928/1790474.md">亚洲金融风暴恐重演？投资教父揪这国是祸首：借出太多钱</a></li>
 <li><a href="/cnnews/20220928/1790376.md">不怕俄罗斯！欧洲老大求到“重量级救星”冬天稳了</a></li>
 <li><a href="/comments/20220928/1790194.md">别被简体中文世界骗了，安倍国葬的亮点出乎意料</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220929/1790666.md" target="_blank">吃不完的菜 这样保存至少能吃半年 其中一种方法很多人不知道</a></li>
+<li><a href="/comments/20220929/1790665.md" target="_blank">加国5条经典RV路线: 开房车游览加拿大</a></li>
 <li><a href="/comments/20220929/1790644.md" target="_blank">专栏 | 中国透视：满城耳语国殇日 ——中共建政73年回首</a></li>
 <li><a href="/comments/20220929/1790640.md" target="_blank">加州新法 使窃取的汽车催化转换器出售更困难</a></li>
 <li><a href="/comments/20220929/1790626.md" target="_blank">专栏 | 劳工通讯：山西凤凰台煤矿顶板事故被困五人全部遇难（四）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220928/1790464.md" target="_blank">话到嘴边却想不起来，真的是健忘吗？</a></li>
 <li><a href="/comments/20220928/1790463.md" target="_blank">国人最缺乏的4种营养素</a></li>
 <li><a href="/comments/20220928/1790462.md" target="_blank">脑中过量的快乐物质，这家人出了5代心理变态男</a></li>
-<li><a href="/comments/20220928/1790459.md" target="_blank">天天洗脚为什么脚还是特别臭？</a></li>
-<li><a href="/comments/20220928/1790457.md" target="_blank">结石多半是“吃”出来的？这4种食物，能不吃就别吃</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
 <li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
 
 </ul>
 </div>
