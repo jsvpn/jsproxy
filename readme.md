@@ -8,21 +8,21 @@
 <li><a href="/lifebaike/20220928/1790230.md">十九大毛新宇出局 爆出毛家被戴绿帽真相</a></li>
 <li><a href="/cbnews/20220928/1790302.md">天亮时分：习近平现身，六常委追随，新称谓暗示习二十大去向；乌克兰被占区公投闹剧结束，俄罗斯再发核武威胁，北约不会退让（政论天下第804集 20220927）</a></li>
 <li><a href="/baitai/20220928/1790170.md">梁京：胡温联手，习近平大势已去，二十大成功有望</a></li>
-<li><a href="/ssgc/20220928/1790157.md">习近平神隐十天后露面 打破中南海政变传闻</a></li>
 <li><a href="/bannedvideo/20220928/1790478.md">太子党放风 二十大可能这样收场？他：习很危险【两岸要闻】</a></li>
+<li><a href="/ssgc/20220928/1790157.md">习近平神隐十天后露面 打破中南海政变传闻</a></li>
 <li><a href="/funmedia/20220928/1790212.md">67岁陈道明极简生活曝光：讨厌一个人，无需翻脸，无需直言</a></li>
 <li><a href="/bannedvideo/20220928/1790357.md">多名警察突然闯入会场，将参加会议的两名官员戴上手铐，然后带走。其余的与会官员在惊恐中继续开会。</a></li>
 <li><a href="/ssgc/20220928/1790277.md">〖兲朝浮世绘〗习近平出来报平安了</a></li>
 <li><a href="/topimagenews/20220928/1790371.md">习近平将率中共摔成肉泥？反习派敲响丧钟【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220928/1790399.md">曾罢黜赵紫阳的中共“深层中央”还能左右政局吗？</a></li>
 <li><a href="/lifebaike/20220928/1790446.md">复印身份证，记得在旁边放上1枚硬币，懂的人不多，幸好知道得早</a></li>
-<li><a href="/cbnews/20220928/1790411.md">黑箱里的政变谣言</a></li>
 <li><a href="/ssgc/20220928/1790291.md">〖微博谈〗真的很讽刺</a></li>
+<li><a href="/cbnews/20220928/1790411.md">黑箱里的政变谣言</a></li>
 <li><a href="/topimagenews/20220928/1790347.md">20大前 贪了30亿的他被判死刑</a></li>
 <li><a href="/bannedvideo/20220928/1790305.md">张文宏惊人报告写了啥？快传！不翻墙也可做这事了；军中有变！习引蛇出洞？高层随行独缺谁？深圳人怒骂共产党；产妇婴儿全被拉走！安倍国葬；破亿电影为何下架？飓风袭佛州。【 #晚间新闻 】</a></li>
 <li><a href="/bannedvideo/20220928/1790253.md">🔥绝非耸人听闻！中共“政变”就在发生！敏感时刻，习近平的文胆发文唱反调；日本外相被爆拒绝蔡英文总统赴日吊唁安倍，日本网友愤怒要将其轰下台【阿波罗网AM】</a></li>
-<li><a href="/comments/20220928/1790194.md">别被简体中文世界骗了，安倍国葬的亮点出乎意料</a></li>
 <li><a href="/topimagenews/20220928/1790474.md">亚洲金融风暴恐重演？投资教父揪这国是祸首：借出太多钱</a></li>
+<li><a href="/comments/20220928/1790194.md">别被简体中文世界骗了，安倍国葬的亮点出乎意料</a></li>
 <li><a href="/cnnews/20220928/1790376.md">不怕俄罗斯！欧洲老大求到“重量级救星”冬天稳了</a></li>
 <li><a href="/bannedvideo/20220928/1790492.md">陈破空：习近平险遭推翻？忽有两名将军受查处！原因神秘。复出后起诉刺习高官，但低调进行。党媒暗指习代表外来政权。直播与互动 美东9月28早9点、即中港台9月28晚9点</a></li>
 <li><a href="/cnnews/20220928/1790231.md">美女间谍让江泽民魂飞魄散 出卖国土</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 <li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 
 </ul>
 </div>
