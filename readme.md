@@ -9,22 +9,22 @@
 <li><a href="/topimagenews/20220929/1790658.md">财政吃紧，海南政府突然宣布：对这个群体大查税</a></li>
 <li><a href="/topimagenews/20220929/1790927.md">绝非耸人听闻！“政变”正在发生</a></li>
 <li><a href="/cnnews/20220929/1790712.md">卸任套现赴美，刘强东时代划上句号，还是发生了</a></li>
-<li><a href="/cnnews/20220929/1790751.md">40%的人离开：深圳正在上演“大撤退”</a></li>
 <li><a href="/topimagenews/20220929/1790721.md">人民日报：敢不敢摘口罩？做堂堂正正的中国人</a></li>
+<li><a href="/cnnews/20220929/1790751.md">40%的人离开：深圳正在上演“大撤退”</a></li>
 <li><a href="/topimagenews/20220929/1790886.md">BBC：中共20大,谁有可能跻身新一届政治局常委</a></li>
 <li><a href="/cnnews/20220929/1790781.md">习近平连任有变数？没做这件事将引爆另一波斗争？</a></li>
 <li><a href="/cbnews/20220929/1790659.md">多人目击山西天空巨型玫瑰云:漂浮一个多小时</a></li>
 <li><a href="/topimagenews/20220929/1790680.md">一听到中共突然对台湾这种“措辞”，就害怕</a></li>
-<li><a href="/cnnews/20220929/1790730.md">被删文 知乎答问：大家感受到现在中国国运在上升吗？</a></li>
 <li><a href="/bannedvideo/20220929/1790993.md">美军潜艇老兵深度奇文，道出北溪管线被炸奥秘：只有一个国家收益。川普夜不能寐，愿意出面斡旋。第三次世界大战一触即发？默克尔罕见露面。美国从俄罗斯撤侨。</a></li>
+<li><a href="/cnnews/20220929/1790730.md">被删文 知乎答问：大家感受到现在中国国运在上升吗？</a></li>
 <li><a href="/cnnews/20220929/1790753.md">张文宏得了个“特等奖”，真讽刺</a></li>
 <li><a href="/bannedvideo/20220929/1790986.md">🔥习近平依然“大势已去”？这事背后水很深；德媒：中共政变谣言的特色；普丁的动员令能打胜仗吗？专家揭其最大问题恐酿“大伤害”；华人美军预备役季充当中共代理人罪名成立【阿波罗网AS】</a></li>
 <li><a href="/ssgc/20220929/1790877.md">〖兲朝浮世绘〗笑了别人四年川建国，要被别人笑十年习加速</a></li>
 <li><a href="/comments/20220929/1790862.md">可怕！比房地产更大的雷可能要来了…</a></li>
 <li><a href="/cnnews/20220929/1790711.md">胡锡进真是“快乐的源泉”！评论区就像大型搞笑现场</a></li>
+<li><a href="/ssgc/20220929/1790998.md">习近平露面 李克强陪演透角力未休</a></li>
 <li><a href="/baitai/20220929/1790842.md">“习下李上”运动，润物无声，功在千秋</a></li>
 <li><a href="/cnnews/20220929/1790824.md">风向真变了 胡锡进公开质疑官媒的疫情调查</a></li>
-<li><a href="/ssgc/20220929/1790998.md">习近平露面 李克强陪演透角力未休</a></li>
 <li><a href="/topimagenews/20220929/1790909.md">“把申请文件拿去烧掉”！ 总理迎合中共 一带一路政策柬埔寨遗“祸害”…</a></li>
 <li><a href="/bannedvideo/20220929/1790646.md">危机已迫近 传普京给习规划下一步 中共军方会和习拼了？【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220929/1790860.md">亚洲这大国“核电复活”！他惊喊：欧洲有救了</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
 <li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
 
 </ul>
 </div>
