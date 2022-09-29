@@ -18,15 +18,15 @@
 <li><a href="/cnnews/20220929/1790730.md">被删文 知乎答问：大家感受到现在中国国运在上升吗？</a></li>
 <li><a href="/bannedvideo/20220929/1790993.md">美军潜艇老兵深度奇文，道出北溪管线被炸奥秘：只有一个国家收益。川普夜不能寐，愿意出面斡旋。第三次世界大战一触即发？默克尔罕见露面。美国从俄罗斯撤侨。</a></li>
 <li><a href="/cnnews/20220929/1790753.md">张文宏得了个“特等奖”，真讽刺</a></li>
+<li><a href="/bannedvideo/20220929/1790986.md">🔥习近平依然“大势已去”？这事背后水很深；德媒：中共政变谣言的特色；普丁的动员令能打胜仗吗？专家揭其最大问题恐酿“大伤害”；华人美军预备役季充当中共代理人罪名成立【阿波罗网AS】</a></li>
 <li><a href="/ssgc/20220929/1790877.md">〖兲朝浮世绘〗笑了别人四年川建国，要被别人笑十年习加速</a></li>
 <li><a href="/comments/20220929/1790862.md">可怕！比房地产更大的雷可能要来了…</a></li>
 <li><a href="/cnnews/20220929/1790711.md">胡锡进真是“快乐的源泉”！评论区就像大型搞笑现场</a></li>
-<li><a href="/bannedvideo/20220929/1790986.md">🔥习近平依然“大势已去”？这事背后水很深；德媒：中共政变谣言的特色；普丁的动员令能打胜仗吗？专家揭其最大问题恐酿“大伤害”；华人美军预备役季充当中共代理人罪名成立【阿波罗网AS】</a></li>
 <li><a href="/baitai/20220929/1790842.md">“习下李上”运动，润物无声，功在千秋</a></li>
 <li><a href="/cnnews/20220929/1790824.md">风向真变了 胡锡进公开质疑官媒的疫情调查</a></li>
 <li><a href="/ssgc/20220929/1790998.md">习近平露面 李克强陪演透角力未休</a></li>
-<li><a href="/bannedvideo/20220929/1790646.md">危机已迫近 传普京给习规划下一步 中共军方会和习拼了？【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220929/1790909.md">“把申请文件拿去烧掉”！ 总理迎合中共 一带一路政策柬埔寨遗“祸害”…</a></li>
+<li><a href="/bannedvideo/20220929/1790646.md">危机已迫近 传普京给习规划下一步 中共军方会和习拼了？【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220929/1790860.md">亚洲这大国“核电复活”！他惊喊：欧洲有救了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220930/1791109.md" target="_blank">【杜耀明评论】感恩痛惜黄金岁月 唏嘘慨叹殖民重临</a></li>
 <li><a href="/comments/20220930/1791107.md" target="_blank">亨廷顿海滩将举办为期三天的太平洋航展</a></li>
 <li><a href="/comments/20220929/1791062.md" target="_blank">李燕铭：李克强学弟陆昊旧部会议间隙被抓 团派副部级高官宋希斌罪名曝光 宋希斌下属密集落马 包括歌手曲婉婷母亲 陆昊二十大前调任智库虚职 仕途走向黯淡 习近平李克强明争暗斗内幕（五三） 习近平清洗黑龙江帮（一） 二十大高层人事大战（五五）</a></li>
 <li><a href="/comments/20220929/1791060.md" target="_blank">时事大家谈：专访傅士卓：习近平改国法毁惯例冲向二十大，中共帮派化有何政治后果？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20220929/1790954.md" target="_blank">秋季饮食吃点酸，增食欲，护肝胆</a></li>
 <li><a href="/comments/20220929/1790953.md" target="_blank">糖尿病风险降低8%，竟与刷牙有关</a></li>
 <li><a href="/comments/20220929/1790914.md" target="_blank">因为对外求救 西藏逾七百人被控造谣挨罚</a></li>
-<li><a href="/comments/20220929/1790913.md" target="_blank">蓬佩奥到台南开闭门密会 展露对台期待</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
 <li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
 
 </ul>
 </div>
