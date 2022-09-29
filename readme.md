@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20220928/1790579.md">习近平遭遇舆情超限战? 大数据扒出奇怪现象 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220928/1790411.md">黑箱里的政变谣言</a></li>
 <li><a href="/cnnews/20220929/1790712.md">卸任套现赴美，刘强东时代划上句号，还是发生了</a></li>
-<li><a href="/bannedvideo/20220928/1790492.md">陈破空：习近平险遭推翻？忽有两名将军受查处！原因神秘。复出后起诉刺习高官，但低调进行。党媒暗指习代表外来政权。直播与互动 美东9月28早9点、即中港台9月28晚9点</a></li>
 <li><a href="/topimagenews/20220929/1790721.md">人民日报：敢不敢摘口罩？做堂堂正正的中国人</a></li>
-<li><a href="/topimagenews/20220928/1790474.md">亚洲金融风暴恐重演？投资教父揪这国是祸首：借出太多钱</a></li>
-<li><a href="/cnnews/20220929/1790608.md">中共20大连任生变？全球疯传习近平“被软禁” 消息来源疑普丁</a></li>
+<li><a href="/bannedvideo/20220928/1790492.md">陈破空：习近平险遭推翻？忽有两名将军受查处！原因神秘。复出后起诉刺习高官，但低调进行。党媒暗指习代表外来政权。直播与互动 美东9月28早9点、即中港台9月28晚9点</a></li>
 <li><a href="/cnnews/20220929/1790751.md">40%的人离开：深圳正在上演“大撤退”</a></li>
+<li><a href="/cnnews/20220929/1790608.md">中共20大连任生变？全球疯传习近平“被软禁” 消息来源疑普丁</a></li>
+<li><a href="/topimagenews/20220928/1790474.md">亚洲金融风暴恐重演？投资教父揪这国是祸首：借出太多钱</a></li>
 <li><a href="/ssgc/20220928/1790510.md">中国急速返贫之后</a></li>
 <li><a href="/baitai/20220928/1790427.md">【404帖子】知乎答问：大家感受到现在中国国运在上升吗？</a></li>
 <li><a href="/topimagenews/20220928/1790519.md">担心到“睡不着” 川普惊曝台湾恐爆第三次世界大战</a></li>
 <li><a href="/topimagenews/20220929/1790680.md">一听到中共突然对台湾这种“措辞”，就害怕</a></li>
+<li><a href="/cnnews/20220929/1790781.md">习近平连任有变数？没做这件事将引爆另一波斗争？</a></li>
 <li><a href="/topimagenews/20220928/1790442.md">普丁狠斩能源命脉！欧洲经济麻烦大了：恐惨过金融海啸</a></li>
 <li><a href="/cbnews/20220929/1790659.md">多人目击山西天空巨型玫瑰云:漂浮一个多小时</a></li>
-<li><a href="/cnnews/20220928/1790447.md">安倍国葬唱名“台湾”献花 引中共不满 日方回应了</a></li>
-<li><a href="/cnnews/20220929/1790781.md">习近平连任有变数？没做这件事将引爆另一波斗争？</a></li>
-<li><a href="/comments/20220928/1790479.md">唐靖远：习现身组团一日游 副国级倾巢出动有何算盘？</a></li>
 <li><a href="/cnnews/20220929/1790711.md">胡锡进真是“快乐的源泉”！评论区就像大型搞笑现场</a></li>
-<li><a href="/baitai/20220929/1790615.md">未普：习近平太不得人心了</a></li>
+<li><a href="/cnnews/20220928/1790447.md">安倍国葬唱名“台湾”献花 引中共不满 日方回应了</a></li>
+<li><a href="/comments/20220928/1790479.md">唐靖远：习现身组团一日游 副国级倾巢出动有何算盘？</a></li>
+<li><a href="/cnnews/20220929/1790730.md">被删文 知乎答问：大家感受到现在中国国运在上升吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 <li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/bannedvideo/20220524/1736830.md" target="_blank">三年大饥荒，实际饿死9600万中国人！</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
 
 </ul>
 </div>
