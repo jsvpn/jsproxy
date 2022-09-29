@@ -12,13 +12,13 @@
 <li><a href="/cnnews/20220929/1790712.md">卸任套现赴美，刘强东时代划上句号，还是发生了</a></li>
 <li><a href="/topimagenews/20220929/1790721.md">人民日报：敢不敢摘口罩？做堂堂正正的中国人</a></li>
 <li><a href="/bannedvideo/20220928/1790492.md">陈破空：习近平险遭推翻？忽有两名将军受查处！原因神秘。复出后起诉刺习高官，但低调进行。党媒暗指习代表外来政权。直播与互动 美东9月28早9点、即中港台9月28晚9点</a></li>
-<li><a href="/cnnews/20220929/1790751.md">40%的人离开：深圳正在上演“大撤退”</a></li>
 <li><a href="/cnnews/20220929/1790608.md">中共20大连任生变？全球疯传习近平“被软禁” 消息来源疑普丁</a></li>
+<li><a href="/cnnews/20220929/1790751.md">40%的人离开：深圳正在上演“大撤退”</a></li>
 <li><a href="/cnnews/20220929/1790781.md">习近平连任有变数？没做这件事将引爆另一波斗争？</a></li>
 <li><a href="/topimagenews/20220928/1790474.md">亚洲金融风暴恐重演？投资教父揪这国是祸首：借出太多钱</a></li>
 <li><a href="/ssgc/20220928/1790510.md">中国急速返贫之后</a></li>
-<li><a href="/topimagenews/20220929/1790680.md">一听到中共突然对台湾这种“措辞”，就害怕</a></li>
 <li><a href="/topimagenews/20220929/1790886.md">BBC：中共20大,谁有可能跻身新一届政治局常委</a></li>
+<li><a href="/topimagenews/20220929/1790680.md">一听到中共突然对台湾这种“措辞”，就害怕</a></li>
 <li><a href="/topimagenews/20220928/1790519.md">担心到“睡不着” 川普惊曝台湾恐爆第三次世界大战</a></li>
 <li><a href="/cbnews/20220929/1790659.md">多人目击山西天空巨型玫瑰云:漂浮一个多小时</a></li>
 <li><a href="/cnnews/20220929/1790730.md">被删文 知乎答问：大家感受到现在中国国运在上升吗？</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/baitai/20220929/1790615.md">未普：习近平太不得人心了</a></li>
 <li><a href="/comments/20220928/1790479.md">唐靖远：习现身组团一日游 副国级倾巢出动有何算盘？</a></li>
 <li><a href="/bannedvideo/20220929/1790646.md">危机已迫近 传普京给习规划下一步 中共军方会和习拼了？【红朝禁闻】</a></li>
-<li><a href="/topimagenews/20220929/1790599.md">长春餐厅起火原因曝光！“瓦斯外泄引爆”酿17死 传2楼遭封死无法逃</a></li>
 <li><a href="/cnnews/20220929/1790753.md">张文宏得了个“特等奖”，真讽刺</a></li>
+<li><a href="/topimagenews/20220929/1790599.md">长春餐厅起火原因曝光！“瓦斯外泄引爆”酿17死 传2楼遭封死无法逃</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
 
 </ul>
 </div>
