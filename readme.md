@@ -10,23 +10,23 @@
 <li><a href="/topimagenews/20220928/1790371.md">习近平将率中共摔成肉泥？反习派敲响丧钟【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220928/1790399.md">曾罢黜赵紫阳的中共“深层中央”还能左右政局吗？</a></li>
 <li><a href="/lifebaike/20220928/1790446.md">复印身份证，记得在旁边放上1枚硬币，懂的人不多，幸好知道得早</a></li>
-<li><a href="/topimagenews/20220928/1790579.md">习近平遭遇舆情超限战? 大数据扒出奇怪现象 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220929/1790658.md">财政吃紧，海南政府突然宣布：对这个群体大查税</a></li>
-<li><a href="/cbnews/20220928/1790411.md">黑箱里的政变谣言</a></li>
+<li><a href="/topimagenews/20220928/1790579.md">习近平遭遇舆情超限战? 大数据扒出奇怪现象 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20220929/1790699.md">杨振宁一家四口的混乱关系，看得我目瞪口呆…</a></li>
-<li><a href="/topimagenews/20220928/1790347.md">20大前 贪了30亿的他被判死刑</a></li>
+<li><a href="/cbnews/20220928/1790411.md">黑箱里的政变谣言</a></li>
 <li><a href="/bannedvideo/20220928/1790492.md">陈破空：习近平险遭推翻？忽有两名将军受查处！原因神秘。复出后起诉刺习高官，但低调进行。党媒暗指习代表外来政权。直播与互动 美东9月28早9点、即中港台9月28晚9点</a></li>
 <li><a href="/topimagenews/20220928/1790474.md">亚洲金融风暴恐重演？投资教父揪这国是祸首：借出太多钱</a></li>
 <li><a href="/cnnews/20220929/1790608.md">中共20大连任生变？全球疯传习近平“被软禁” 消息来源疑普丁</a></li>
 <li><a href="/cnnews/20220928/1790376.md">不怕俄罗斯！欧洲老大求到“重量级救星”冬天稳了</a></li>
 <li><a href="/ssgc/20220928/1790510.md">中国急速返贫之后</a></li>
-<li><a href="/baitai/20220928/1790427.md">【404帖子】知乎答问：大家感受到现在中国国运在上升吗？</a></li>
 <li><a href="/topimagenews/20220928/1790519.md">担心到“睡不着” 川普惊曝台湾恐爆第三次世界大战</a></li>
+<li><a href="/cnnews/20220929/1790712.md">卸任套现赴美，刘强东时代划上句号，还是发生了</a></li>
+<li><a href="/baitai/20220928/1790427.md">【404帖子】知乎答问：大家感受到现在中国国运在上升吗？</a></li>
 <li><a href="/topimagenews/20220928/1790442.md">普丁狠斩能源命脉！欧洲经济麻烦大了：恐惨过金融海啸</a></li>
 <li><a href="/cnnews/20220928/1790447.md">安倍国葬唱名“台湾”献花 引中共不满 日方回应了</a></li>
-<li><a href="/cnnews/20220929/1790712.md">卸任套现赴美，刘强东时代划上句号，还是发生了</a></li>
 <li><a href="/comments/20220928/1790479.md">唐靖远：习现身组团一日游 副国级倾巢出动有何算盘？</a></li>
 <li><a href="/topimagenews/20220929/1790599.md">长春餐厅起火原因曝光！“瓦斯外泄引爆”酿17死 传2楼遭封死无法逃</a></li>
+<li><a href="/topimagenews/20220929/1790680.md">一听到中共突然对台湾这种“措辞”，就害怕</a></li>
 <li><a href="/cnnews/20220928/1790409.md">马斯克帮这位“热衷玄学的华人”成为百亿富豪</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220929/1790847.md" target="_blank">如今的有钱人，都想上天？</a></li>
+<li><a href="/comments/20220929/1790836.md" target="_blank">报告：1/4非法移民未登记 买枪的美国人增多</a></li>
+<li><a href="/comments/20220929/1790832.md" target="_blank">多国呼吁联合国安理会改革 防止北京滥用否决权</a></li>
+<li><a href="/comments/20220929/1790829.md" target="_blank">数十名议员推出众院版《台湾政策法》 重提将台“指定”为“主要非北约盟友”</a></li>
 <li><a href="/comments/20220929/1790822.md" target="_blank">我是麦杰逊:胡锡进真是我快乐的源泉</a></li>
 <li><a href="/comments/20220929/1790821.md" target="_blank">向松祚：向松祚反驳温铁军</a></li>
 <li><a href="/comments/20220929/1790820.md" target="_blank">武书剑：坏消息！现在才明白，自己不过是尘埃</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20220929/1790723.md" target="_blank">林青：联大会议 世界各国不应忘记追责中共</a></li>
 <li><a href="/comments/20220929/1790713.md" target="_blank">雨刮器总出噪音？简单1招：凡士林</a></li>
 <li><a href="/comments/20220929/1790703.md" target="_blank">人民币一举跌破7.2 中共央行急喊话</a></li>
-<li><a href="/comments/20220929/1790702.md" target="_blank">单身女性入住酒店，须知的10个安全提示</a></li>
-<li><a href="/comments/20220929/1790691.md" target="_blank">未保存通讯纪录 华尔街巨头被罚18亿美元</a></li>
-<li><a href="/comments/20220929/1790685.md" target="_blank">恐怖！飓风「伊恩」登陆美国佛州 巨浪滔天 黑云压城</a></li>
-<li><a href="/comments/20220929/1790684.md" target="_blank">WTO警告经济衰退 白宫指美元强势有优势</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 <li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
 
 </ul>
 </div>
