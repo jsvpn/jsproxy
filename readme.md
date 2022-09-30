@@ -14,8 +14,8 @@
 <li><a href="/bannedvideo/20220930/1791117.md">这是下届常委？缺了一个人！习一安排将引爆新一轮危机【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220930/1791350.md">中国几亿人将陷入绝境 习近平剑指“老老虎”？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220930/1791227.md">天亮时分：四省部级官员同日落马，习的清洗才刚刚开始；北溪管道泄露疑云，谁有动机？普京承认伪公投结果，中俄与北约将摊牌（政论天下第805集 20220929）</a></li>
-<li><a href="/cnnews/20220930/1791126.md">加元、人民币暴跌 强势美元酿灾难,揭恐怖下场</a></li>
 <li><a href="/ssgc/20220930/1791196.md">〖兲朝浮世绘〗这帮科学家和官方都是鱼进化的，我们不是</a></li>
+<li><a href="/cnnews/20220930/1791126.md">加元、人民币暴跌 强势美元酿灾难,揭恐怖下场</a></li>
 <li><a href="/cbnews/20220930/1791304.md">郑州大学生串联 抗议运动遍地开花 官方被迫开放</a></li>
 <li><a href="/bannedvideo/20220930/1791445.md">陈破空：七常委到天安门，罕见拒戴口罩！习近平浮肿蹒跚。王岐山果然露面。满城尽是黑衣人！普京同日大动作。谁炸了北溪天然气管道？直播与互动 美东9月30早9点、即中港台9月30晚9点</a></li>
 <li><a href="/topimagenews/20220930/1791313.md">【微博精粹】明知道跳崖一起死 就是没人敢踩刹车</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221001/1791563.md" target="_blank">普京豪赌 火速宣布吞并乌克兰4区 或引火烧身</a></li>
+<li><a href="/comments/20221001/1791562.md" target="_blank">紧急情况下, 怎样快速找到运营正常的加油站？</a></li>
 <li><a href="/comments/20221001/1791555.md" target="_blank">洛杉矶国际机场完成自动人行道的天桥结构</a></li>
 <li><a href="/comments/20220930/1791522.md" target="_blank">头一遭！习率常委天安门广场操练 未戴口罩开启新常态？</a></li>
 <li><a href="/comments/20220930/1791521.md" target="_blank">国际心肺移植学会新政策禁中国论文 美政要积极响应</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220930/1791402.md" target="_blank">“盐多必痴”，重口味的危害并非只有高血压</a></li>
 <li><a href="/comments/20220930/1791401.md" target="_blank">红藜为何这么营养？</a></li>
 <li><a href="/comments/20220930/1791400.md" target="_blank">下班后烦躁、莫名的暴食？ 如何击退「情绪进食」</a></li>
-<li><a href="/comments/20220930/1791370.md" target="_blank">英国高官与中广核官员密会 英媒披露不寻常之处</a></li>
-<li><a href="/comments/20220930/1791349.md" target="_blank">世界第8高峰传悲剧 顶尖女登山家遇难</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
 <li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
 
 </ul>
 </div>
