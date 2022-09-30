@@ -19,15 +19,15 @@
 <li><a href="/cnnews/20220930/1791126.md">加元、人民币暴跌 强势美元酿灾难,揭恐怖下场</a></li>
 <li><a href="/ssgc/20220930/1791196.md">〖兲朝浮世绘〗这帮科学家和官方都是鱼进化的，我们不是</a></li>
 <li><a href="/cbnews/20220930/1791304.md">郑州大学生串联 抗议运动遍地开花 官方被迫开放</a></li>
+<li><a href="/cnnews/20220930/1791425.md">腾讯系宣布“撤离”，这个行业真的凉了？</a></li>
 <li><a href="/lifebaike/20220930/1791165.md">筑在女色上的老巢</a></li>
 <li><a href="/topimagenews/20220930/1791313.md">【微博精粹】明知道跳崖一起死 就是没人敢踩刹车</a></li>
-<li><a href="/cnnews/20220930/1791425.md">腾讯系宣布“撤离”，这个行业真的凉了？</a></li>
+<li><a href="/worldnews/20220930/1791375.md">龙婆预言2022年6灾难！这4项已经成真 还剩2未爆弹</a></li>
 <li><a href="/cnnews/hknews/20220930/1791305.md">女学生陈尸女厕 留纸条称“别随便跟灵界沟通”</a></li>
 <li><a href="/comments/20220929/1791062.md">李燕铭：李克强学弟陆昊旧部会议间隙被抓 团派副部级高官宋希斌罪名曝光 宋希斌下属密集落马 包括歌手曲婉婷母亲 陆昊二十大前调任智库虚职 仕途走向黯淡 习近平李克强明争暗斗内幕（五三） 习近平清洗黑龙江帮（一） 二十大高层人事大战（五五）</a></li>
 <li><a href="/topimagenews/20220930/1791228.md">金正恩准女歌手剪西瓜头 朝鲜恐慌管控流行趋势</a></li>
-<li><a href="/worldnews/20220930/1791375.md">龙婆预言2022年6灾难！这4项已经成真 还剩2未爆弹</a></li>
 <li><a href="/lifebaike/20220930/1791212.md">孩子是否出色与爸爸有关，若爸爸有4个特征，娃会受益一生</a></li>
-<li><a href="/yule/20220930/1791136.md">20多年前陈红在陈凯歌家拍照，气质知性优雅</a></li>
+<li><a href="/cnnews/20220930/1791152.md">遇假期就喊就地过节 中国动态清零让民众气炸</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20220930/1791476.md" target="_blank">国际心肺移植学会禁中国论文 美政要响应</a></li>
 <li><a href="/cbnews/20220930/1791468.md" target="_blank">美发布首份《太平洋伙伴关系战略》 批判中共经济胁迫</a></li>
 <li><a href="/comments/20220930/1791444.md" target="_blank">震撼发现：14万年前的UFO！俄罗斯机密：远离水中蛙人！它们从古代就存在？世界最深湖泊，水下500-700半径UFO一秒内升空，光亮让人类短暂失明！NASA发信号：上行暖流不寻常⋯</a></li>
 <li><a href="/cbnews/20220930/1791368.md" target="_blank">中共二十大人事名单遭外泄?惊传7政治局常委5人被换 汪洋、蔡奇皆out</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20220927/1789923.md" target="_blank">江峰：政变软禁习近平传闻孰真孰假，枪杆子、刀把子、笔杆子是如何失去的？胡锡进也反水不叼盘了【江峰漫谈20220926第553期】</a></li>
 <li><a href="/cbnews/20220927/1789880.md" target="_blank">天亮时分：二十大最大看点，不是习近平是否连任，而是他后继无人；俄乌战争，美国监测战略核武器的飞机升空（政论天下第803集 20220926）</a></li>
 <li><a href="/cbnews/20220927/1789792.md" target="_blank">安全大患！中国电动车行驶中导航弹出广告</a></li>
-<li><a href="/cbnews/20220927/1789791.md" target="_blank">长江流域干旱严重 湖南河流断流总长超千公里</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220930/1791490.md" target="_blank">变本加厉！中共20大前“维稳” 大抓捕逾140万人</a></li>
+<li><a href="/comments/20220930/1791475.md" target="_blank">时事大家谈：二十大前密集宣判六人重刑 是以儆效尤还是展示胜利？</a></li>
 <li><a href="/comments/20220930/1791464.md" target="_blank">行星防御测试“成功” NASA公布飞行器撞击瞬间影像</a></li>
 <li><a href="/comments/20220930/1791444.md" target="_blank">震撼发现：14万年前的UFO！俄罗斯机密：远离水中蛙人！它们从古代就存在？世界最深湖泊，水下500-700半径UFO一秒内升空，光亮让人类短暂失明！NASA发信号：上行暖流不寻常⋯</a></li>
 <li><a href="/comments/20220930/1791421.md" target="_blank">保二十大 维稳力度空前 70天抓捕过百万人</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20220930/1791273.md" target="_blank">犹如末日景象！伊恩飓风袭佛州 数百人不幸遇难</a></li>
 <li><a href="/comments/20220930/1791266.md" target="_blank">昆明九日 2022年竟然还有人过着这样的生活</a></li>
 <li><a href="/comments/20220930/1791265.md" target="_blank">江雪：“U型锁”十年记</a></li>
-<li><a href="/comments/20220930/1791245.md" target="_blank">人民的敌人？中共公安20大前已抓捕140多万人</a></li>
-<li><a href="/comments/20220930/1791235.md" target="_blank">耳熟的套路 看到这种说法每次都想笑</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
 <li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 <li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
 
 </ul>
 </div>
