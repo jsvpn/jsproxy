@@ -8,26 +8,26 @@
 <li><a href="/cbnews/20220930/1791148.md">巧妙反击习近平 宋平这句话有玄机</a></li>
 <li><a href="/topimagenews/20220930/1791303.md">重大发现！中共下一任总理是他？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20220930/1791368.md">中共二十大人事名单遭外泄?惊传7政治局常委5人被换 汪洋、蔡奇皆out</a></li>
-<li><a href="/headline/20220929/1791057.md">陆网民百度搜「梁家河包子」及微信发习帝英女皇图 被警方传唤</a></li>
 <li><a href="/topimagenews/20220930/1791176.md">川普和马斯克同爆 “第三次世界大战”</a></li>
 <li><a href="/topimagenews/20220930/1791336.md">惊爆习近平“提出新时代” 元老集团谋政变？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220930/1791105.md">一场饭局卷入多个政要 刘强东案即将在美开庭</a></li>
 <li><a href="/bannedvideo/20220930/1791117.md">这是下届常委？缺了一个人！习一安排将引爆新一轮危机【红朝禁闻】</a></li>
 <li><a href="/topimagenews/20220930/1791350.md">中国几亿人将陷入绝境 习近平剑指“老老虎”？【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20220929/1791053.md">北溪管线爆炸吵翻天 不妨退一步看 北溪管线共同持有人是谁</a></li>
 <li><a href="/cbnews/20220930/1791227.md">天亮时分：四省部级官员同日落马，习的清洗才刚刚开始；北溪管道泄露疑云，谁有动机？普京承认伪公投结果，中俄与北约将摊牌（政论天下第805集 20220929）</a></li>
+<li><a href="/cnnews/20220930/1791425.md">腾讯系宣布“撤离”，这个行业真的凉了？</a></li>
 <li><a href="/cnnews/20220930/1791126.md">加元、人民币暴跌 强势美元酿灾难,揭恐怖下场</a></li>
 <li><a href="/ssgc/20220930/1791196.md">〖兲朝浮世绘〗这帮科学家和官方都是鱼进化的，我们不是</a></li>
 <li><a href="/cbnews/20220930/1791304.md">郑州大学生串联 抗议运动遍地开花 官方被迫开放</a></li>
-<li><a href="/cnnews/20220930/1791425.md">腾讯系宣布“撤离”，这个行业真的凉了？</a></li>
-<li><a href="/lifebaike/20220930/1791165.md">筑在女色上的老巢</a></li>
 <li><a href="/topimagenews/20220930/1791313.md">【微博精粹】明知道跳崖一起死 就是没人敢踩刹车</a></li>
+<li><a href="/lifebaike/20220930/1791165.md">筑在女色上的老巢</a></li>
 <li><a href="/worldnews/20220930/1791375.md">龙婆预言2022年6灾难！这4项已经成真 还剩2未爆弹</a></li>
 <li><a href="/cnnews/hknews/20220930/1791305.md">女学生陈尸女厕 留纸条称“别随便跟灵界沟通”</a></li>
-<li><a href="/comments/20220929/1791062.md">李燕铭：李克强学弟陆昊旧部会议间隙被抓 团派副部级高官宋希斌罪名曝光 宋希斌下属密集落马 包括歌手曲婉婷母亲 陆昊二十大前调任智库虚职 仕途走向黯淡 习近平李克强明争暗斗内幕（五三） 习近平清洗黑龙江帮（一） 二十大高层人事大战（五五）</a></li>
 <li><a href="/topimagenews/20220930/1791228.md">金正恩准女歌手剪西瓜头 朝鲜恐慌管控流行趋势</a></li>
+<li><a href="/bannedvideo/20220930/1791445.md">陈破空：七常委到天安门，罕见拒戴口罩！习近平浮肿蹒跚。王岐山果然露面。满城尽是黑衣人！普京同日大动作。谁炸了北溪天然气管道？直播与互动 美东9月30早9点、即中港台9月30晚9点</a></li>
 <li><a href="/lifebaike/20220930/1791212.md">孩子是否出色与爸爸有关，若爸爸有4个特征，娃会受益一生</a></li>
 <li><a href="/cnnews/20220930/1791152.md">遇假期就喊就地过节 中国动态清零让民众气炸</a></li>
+<li><a href="/yule/20220930/1791136.md">20多年前陈红在陈凯歌家拍照，气质知性优雅</a></li>
+<li><a href="/ssgc/20220930/1791246.md">〖微博谈〗上面一道令，下面一道坎</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20220930/1791496.md" target="_blank">谁炸了北溪天然气管？前情报头子惊爆手法：俄罗斯干的</a></li>
 <li><a href="/topimagenews/20220930/1791367.md" target="_blank">拦截躲避征召民众！俄罗斯当局在边境设立“兵役办公室”…</a></li>
 <li><a href="/topimagenews/20220930/1791351.md" target="_blank">普亭罕见“承认出错”！坦言部分俄罗斯人士被错误征招</a></li>
 <li><a href="/topimagenews/20220930/1791350.md" target="_blank">中国几亿人将陷入绝境 习近平剑指“老老虎”？【阿波罗网报道】</a></li>
@@ -90,13 +91,16 @@
 <li><a href="/topimagenews/20220929/1790693.md" target="_blank">俄罗斯警告布林肯：此举已接近危险边缘</a></li>
 <li><a href="/topimagenews/20220929/1790680.md" target="_blank">一听到中共突然对台湾这种“措辞”，就害怕</a></li>
 <li><a href="/topimagenews/20220929/1790658.md" target="_blank">财政吃紧，海南政府突然宣布：对这个群体大查税</a></li>
-<li><a href="/topimagenews/20220929/1790600.md" target="_blank">豁出去了！俄罗斯役男滑SUP渡河越境逃亡 传俄国边境开始管制</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20220930/1791504.md" target="_blank">围中态势明显？美国副总统亚洲行释强烈信号</a></li>
+<li><a href="/comments/20220930/1791503.md" target="_blank">田间无闲草 会用都是宝 小院中不要缺了可食可药用的车前草</a></li>
+<li><a href="/comments/20220930/1791493.md" target="_blank">英国女王死亡证明公布 披露驾崩时间及死因</a></li>
+<li><a href="/comments/20220930/1791491.md" target="_blank">习近平“诡异”露面！遭软禁传闻满天飞 外媒分析原因</a></li>
 <li><a href="/comments/20220930/1791490.md" target="_blank">变本加厉！中共20大前“维稳” 大抓捕逾140万人</a></li>
 <li><a href="/comments/20220930/1791475.md" target="_blank">时事大家谈：二十大前密集宣判六人重刑 是以儆效尤还是展示胜利？</a></li>
 <li><a href="/comments/20220930/1791464.md" target="_blank">行星防御测试“成功” NASA公布飞行器撞击瞬间影像</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20220930/1791291.md" target="_blank">【欺世大观】144 冲天坠地 主席“粪霸”互害</a></li>
 <li><a href="/comments/20220930/1791280.md" target="_blank">北溪管道出现第四个泄漏点 北约誓言保卫关键基础设施</a></li>
 <li><a href="/comments/20220930/1791278.md" target="_blank">美国副总统哈里斯在韩朝非军事区谴责朝鲜“残暴独裁”</a></li>
-<li><a href="/comments/20220930/1791274.md" target="_blank">中共党内危机四伏？这件事恐引爆另一波斗争</a></li>
-<li><a href="/comments/20220930/1791273.md" target="_blank">犹如末日景象！伊恩飓风袭佛州 数百人不幸遇难</a></li>
-<li><a href="/comments/20220930/1791266.md" target="_blank">昆明九日 2022年竟然还有人过着这样的生活</a></li>
-<li><a href="/comments/20220930/1791265.md" target="_blank">江雪：“U型锁”十年记</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 <li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
 
 </ul>
 </div>
