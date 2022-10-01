@@ -13,12 +13,12 @@
 <li><a href="/cnnews/20221001/1791539.md">乌东领导人赴莫斯科 他们坐的飞机 让人大吃一惊</a></li>
 <li><a href="/topimagenews/20221001/1791639.md">普京庆祝吞并 前线却传来噩耗</a></li>
 <li><a href="/topimagenews/20220930/1791496.md">谁炸了北溪天然气管？前情报头子惊爆手法：俄罗斯干的</a></li>
-<li><a href="/comments/20220930/1791444.md">震撼发现：14万年前的UFO！俄罗斯机密：远离水中蛙人！它们从古代就存在？世界最深湖泊，水下500-700半径UFO一秒内升空，光亮让人类短暂失明！NASA发信号：上行暖流不寻常⋯</a></li>
 <li><a href="/cbnews/20221001/1791698.md">天亮时分：二十大名单外泄，七常委换掉五人？习近平率全体常委和数百高官天安门献花，释放三重信号；乌克兰申请加入北约，大摊派时刻将至（政论天下第806集 20220930）</a></li>
+<li><a href="/comments/20220930/1791444.md">震撼发现：14万年前的UFO！俄罗斯机密：远离水中蛙人！它们从古代就存在？世界最深湖泊，水下500-700半径UFO一秒内升空，光亮让人类短暂失明！NASA发信号：上行暖流不寻常⋯</a></li>
 <li><a href="/ssgc/20220930/1791474.md">俄罗斯单方宣布吞并乌克兰四州引发国际反弹 中方表态</a></li>
 <li><a href="/topimagenews/20221001/1791792.md">《人民日报》现空前一幕！习近平真的“节节失守”？！【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20221001/1791632.md">华人一家患癌，只因做饭时爱放香料？</a></li>
 <li><a href="/topimagenews/20221001/1791564.md">普丁并乌克兰4州喊停火重回谈判桌！泽伦斯基不甩 正式签署申请紧急加入北约</a></li>
+<li><a href="/cnnews/20221001/1791632.md">华人一家患癌，只因做饭时爱放香料？</a></li>
 <li><a href="/topimagenews/20221001/1791687.md">只是巧合？中俄军舰秀完肌肉返航 出现这一幕</a></li>
 <li><a href="/cnnews/20221001/1791682.md">中国女留学生亮剑 刘强东涉性侵案要迎大结局</a></li>
 <li><a href="/bannedvideo/20221001/1791640.md">🔥结局惊人！中共公安局长送妻女给市委书记 17岁女儿... 习近平连任谁会受益；独特“美元微笑”!人民币狂跌 中共抓狂；英国罕见向中共喊话：不会袖手旁观！</a></li>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221001/1791827.md" target="_blank">我们真的需要一日三餐吗？</a></li>
+<li><a href="/comments/20221001/1791826.md" target="_blank">学化学后，我只用黑色的砂锅</a></li>
+<li><a href="/comments/20221001/1791825.md" target="_blank">法国有一处神奇的泉水能治病，人们都想来喝一口</a></li>
+<li><a href="/comments/20221001/1791824.md" target="_blank">心智训练技术有助大脑保持年轻</a></li>
+<li><a href="/comments/20221001/1791823.md" target="_blank">清代名方：大补元阳、疗诸虚百损</a></li>
 <li><a href="/comments/20221001/1791781.md" target="_blank">【独家重磅】李燕铭：公安部二号人物孙新阳卸职去向不明 传习近平在公安部安插老乡秘查孙力军 孙新阳派系背景复杂 与习家族关系密切还是江派卧底？ 另有重任还是已经出事？ 海南官场大清洗孙新阳同僚下属密集落马 习近平清洗刀把子严防江曾二十大政变（五一） 二十大高层人事大战（五七） 习整肃江泽民东山再起之地（九）</a></li>
 <li><a href="/comments/20221001/1791779.md" target="_blank">河南学潮领袖传被扣留 官方说有「境外反动势力」</a></li>
 <li><a href="/comments/20221001/1791778.md" target="_blank">中共搞鬼？留学生施压阻止黎智英记录片放映</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20221001/1791711.md" target="_blank">魏春亮:戴口罩吃饭的难题，终于解决了</a></li>
 <li><a href="/comments/20221001/1791710.md" target="_blank">白格尔:人民经济=人民没经济</a></li>
 <li><a href="/comments/20221001/1791709.md" target="_blank">高思达：封城与少子化背后，中国房地产崩溃的本质原因</a></li>
-<li><a href="/comments/20221001/1791695.md" target="_blank">海南省财政吃紧 政府开始瞄准这些人</a></li>
-<li><a href="/comments/20221001/1791694.md" target="_blank">涉嫌向俄提供信息 美陆军首名变性军官被抓获</a></li>
-<li><a href="/comments/20221001/1791692.md" target="_blank">兽爷:他说,世界是你们的</a></li>
-<li><a href="/comments/20221001/1791691.md" target="_blank">卓然:孙力军被关到死 正是有习近平特色的中国司法</a></li>
-<li><a href="/comments/20221001/1791690.md" target="_blank">李濠仲：一个把自己演唱会被取消看得比乌克兰被侵略严重的歌手</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
 <li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
 
 </ul>
 </div>
