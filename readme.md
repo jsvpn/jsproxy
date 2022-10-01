@@ -11,18 +11,18 @@
 <li><a href="/cnnews/20221001/1791735.md">网传刘强东性侵女主刘静尧与父亲老师聊天记录流出</a></li>
 <li><a href="/comments/20220930/1791410.md">王丹：二十大后中国走向显露端倪</a></li>
 <li><a href="/cnnews/20221001/1791539.md">乌东领导人赴莫斯科 他们坐的飞机 让人大吃一惊</a></li>
-<li><a href="/topimagenews/20221001/1791639.md">普京庆祝吞并 前线却传来噩耗</a></li>
 <li><a href="/topimagenews/20220930/1791496.md">谁炸了北溪天然气管？前情报头子惊爆手法：俄罗斯干的</a></li>
+<li><a href="/topimagenews/20221001/1791639.md">普京庆祝吞并 前线却传来噩耗</a></li>
 <li><a href="/cbnews/20221001/1791698.md">天亮时分：二十大名单外泄，七常委换掉五人？习近平率全体常委和数百高官天安门献花，释放三重信号；乌克兰申请加入北约，大摊派时刻将至（政论天下第806集 20220930）</a></li>
-<li><a href="/comments/20220930/1791444.md">震撼发现：14万年前的UFO！俄罗斯机密：远离水中蛙人！它们从古代就存在？世界最深湖泊，水下500-700半径UFO一秒内升空，光亮让人类短暂失明！NASA发信号：上行暖流不寻常⋯</a></li>
 <li><a href="/topimagenews/20221001/1791792.md">《人民日报》现空前一幕！习近平真的“节节失守”？！【阿波罗网报道】</a></li>
+<li><a href="/comments/20220930/1791444.md">震撼发现：14万年前的UFO！俄罗斯机密：远离水中蛙人！它们从古代就存在？世界最深湖泊，水下500-700半径UFO一秒内升空，光亮让人类短暂失明！NASA发信号：上行暖流不寻常⋯</a></li>
 <li><a href="/ssgc/20220930/1791474.md">俄罗斯单方宣布吞并乌克兰四州引发国际反弹 中方表态</a></li>
 <li><a href="/topimagenews/20221001/1791564.md">普丁并乌克兰4州喊停火重回谈判桌！泽伦斯基不甩 正式签署申请紧急加入北约</a></li>
 <li><a href="/cnnews/20221001/1791632.md">华人一家患癌，只因做饭时爱放香料？</a></li>
 <li><a href="/topimagenews/20221001/1791687.md">只是巧合？中俄军舰秀完肌肉返航 出现这一幕</a></li>
 <li><a href="/cnnews/20221001/1791682.md">中国女留学生亮剑 刘强东涉性侵案要迎大结局</a></li>
-<li><a href="/bannedvideo/20221001/1791640.md">🔥结局惊人！中共公安局长送妻女给市委书记 17岁女儿... 习近平连任谁会受益；独特“美元微笑”!人民币狂跌 中共抓狂；英国罕见向中共喊话：不会袖手旁观！</a></li>
 <li><a href="/headline/20221001/1791603.md">路透社：北京下令国有银行做好储备以阻止人民币贬值</a></li>
+<li><a href="/bannedvideo/20221001/1791640.md">🔥结局惊人！中共公安局长送妻女给市委书记 17岁女儿... 习近平连任谁会受益；独特“美元微笑”!人民币狂跌 中共抓狂；英国罕见向中共喊话：不会袖手旁观！</a></li>
 <li><a href="/topimagenews/20221001/1791584.md">任仲平上了热搜，这些公号都是谁的“马甲”</a></li>
 <li><a href="/bannedvideo/20220930/1791428.md">习近平再放风11月出席APEC，为何连任还不稳？有人不这么认为……三战近在咫尺！</a></li>
 <li><a href="/bannedvideo/20220930/1791446.md">🔥惊爆习近平“提出新时代” 元老集团谋政变？真要出大事？又一国呼吁在俄公民尽快离境；专家表示：慌了！特鲁多 拜登碰到新对手；贺锦丽访韩DMZ称：美与“北韩”拥有非常坚强的同盟关系【阿波罗网LS】</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221001/1791848.md" target="_blank">至少5人绝望跳楼！西藏极端封控逾50天…</a></li>
 <li><a href="/topimagenews/20221001/1791802.md" target="_blank">中共央行才放话“久赌必输”人民币又大跌 专家警告：大量发行将有通货膨胀</a></li>
 <li><a href="/topimagenews/20221001/1791796.md" target="_blank">北约或派兵进入乌克兰 波兰外长：若俄使用核武</a></li>
 <li><a href="/topimagenews/20221001/1791792.md" target="_blank">《人民日报》现空前一幕！习近平真的“节节失守”？！【阿波罗网报道】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220930/1791228.md" target="_blank">金正恩准女歌手剪西瓜头 朝鲜恐慌管控流行趋势</a></li>
 <li><a href="/topimagenews/20220930/1791176.md" target="_blank">川普和马斯克同爆 “第三次世界大战”</a></li>
 <li><a href="/topimagenews/20220930/1791105.md" target="_blank">一场饭局卷入多个政要 刘强东案即将在美开庭</a></li>
-<li><a href="/topimagenews/20220929/1791005.md" target="_blank">专访蓬佩奥！他吁慎防中共蚕食 做三件事破解台海大战</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
 <li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 <li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
 
 </ul>
 </div>
