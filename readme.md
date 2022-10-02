@@ -7,18 +7,18 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/ssgc/20221001/1791863.md">中共高层亮相庆祝宴为何表情诡异？</a></li>
 <li><a href="/topimagenews/20221001/1791893.md">风向变了！中国城市大洗牌无数城市再难翻身；人民币大跌 人行要国有银行准备抛售美元</a></li>
+<li><a href="/cnnews/20221002/1791929.md">慎入 乌军队被曝撒盐煮俄军人头挨批：纳粹</a></li>
 <li><a href="/bannedvideo/20221001/1791875.md">陈破空：这张照片火了！习李干了：李轻松自信，习怨恨不服。国庆活动，李压倒习！中国人竟然偷渡柬埔寨，沉船11死</a></li>
 <li><a href="/bannedvideo/20221001/1791900.md">🔥李克强霸屏央视新闻联播 大获全胜？压倒习近平？阿波罗网独家数据呈现真相；习近平一百八十度大转弯？他发现国际形势巨变；金融大鳄索罗斯团体获拜登政府巨额合同 助非法移民避驱逐【阿波罗网HS】</a></li>
-<li><a href="/cnnews/20221002/1791929.md">慎入 乌军队被曝撒盐煮俄军人头挨批：纳粹</a></li>
+<li><a href="/comments/20221002/1791959.md">给习近平添堵？十一逾20万人挤满天安门广场</a></li>
 <li><a href="/bannedvideo/20221002/1791972.md">🔥李克强已获外交领导权？真相你想象不到！？中国人渴的没命将不是传说！南昌，截江成湖！铁腕清零 传郑州公安扣留学潮领袖 称有“境外势力”介入【阿波罗网HS】</a></li>
 <li><a href="/cbnews/20221002/1792010.md">“如果你是聪明人的话，尽快把这个视频删掉”</a></li>
-<li><a href="/comments/20221002/1791959.md">给习近平添堵？十一逾20万人挤满天安门广场</a></li>
 <li><a href="/topimagenews/20221002/1791995.md">全球紧盯习近平，他必须立即告诉普京一件事</a></li>
 <li><a href="/topimagenews/20221002/1792046.md">人类要做最坏的打算！北溪管道被炸 对地球影响多可怕？</a></li>
 <li><a href="/topimagenews/20221002/1791933.md">错在这步 普丁3个月内恐“自行下台”俄大咖揭3关键</a></li>
 <li><a href="/bannedvideo/20221002/1791951.md">中国的部分经济数据，让人不寒而栗！</a></li>
-<li><a href="/bannedvideo/20221001/1791894.md">核战争开打？惊现全球毁灭图；马斯克叫板普京能毁核武器；普京正式吞并乌克兰4地区，泽连斯基两大反击；乌“斩首”行动，海马斯灭亲俄首脑；乌军猛攻被吞并地区俄军。【 #时事金扫描 】</a></li>
 <li><a href="/topimagenews/20221002/1792164.md">独家！李克强大获全胜？压倒习近平？【阿波罗网报道】</a></li>
+<li><a href="/bannedvideo/20221001/1791894.md">核战争开打？惊现全球毁灭图；马斯克叫板普京能毁核武器；普京正式吞并乌克兰4地区，泽连斯基两大反击；乌“斩首”行动，海马斯灭亲俄首脑；乌军猛攻被吞并地区俄军。【 #时事金扫描 】</a></li>
 <li><a href="/bannedvideo/20221002/1791932.md">北京，满城尽是黑衣人！二十大前，究竟会发生什么</a></li>
 <li><a href="/cnnews/20221002/1792025.md">一窝蜂买俄罗斯奶粉 脑子真是进水了</a></li>
 <li><a href="/topimagenews/20221002/1792116.md">【微博精粹】共匪死不撒手这张大牌 除非它真死了</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/headline/20221002/1791925.md">中共20大前传中纪委大換血</a></li>
 <li><a href="/ssgc/20221002/1792037.md">〖微博谈〗中国战狼的战果辉煌</a></li>
 <li><a href="/headline/20221002/1791988.md">解放军东部战区司令员换人</a></li>
+<li><a href="/cnnews/20221002/1792150.md">习近平对将军们不放心？ 二十大前解放军东、西部战区司令都换人</a></li>
 <li><a href="/bannedvideo/20221001/1791862.md">他一句话改变一切！普京怎么办？斩首行动是真的 下一章习上场？【两岸要闻】</a></li>
-<li><a href="/ccpdope/20221002/1791952.md">吓死谁！这个新创技术将改变世界格局</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221002/1792193.md" target="_blank">张建兴：谁是中共的掘墓人——十.一祭</a></li>
 <li><a href="/comments/20221002/1792163.md" target="_blank">习近平不放心？二十大前东西战区换将</a></li>
 <li><a href="/comments/20221002/1792159.md" target="_blank">亲历之路: 坏男人变好人 一度迷失 再重归好人</a></li>
 <li><a href="/comments/20221002/1792136.md" target="_blank">楚一丁:党魁们不戴口罩天安门献祭的背后</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221002/1792013.md" target="_blank">颜纯钩: 2027攻台，不是习近平说了算</a></li>
 <li><a href="/comments/20221002/1792004.md" target="_blank">李燕铭：北约批准成立韩国代表部 亚太北约渐成型围堵中共 美核航母参加韩美海军联演 韩美日在朝鲜半岛东部海域举行对朝反潜联演 尹锡悦贺锦丽重申强化美韩同盟关系 黑客大战韩美开展网络安全合作 全球军事围堵中共之朝鲜半岛战争阴云（二三）</a></li>
 <li><a href="/comments/20221002/1791997.md" target="_blank">刘元明：李中堂间接告诉全世界他将裸退？</a></li>
-<li><a href="/comments/20221002/1791996.md" target="_blank">超九成受访者看好健康码？网友：“在党校统计的吧！”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 
 </ul>
 </div>
