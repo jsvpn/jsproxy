@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221001/1791893.md">风向变了！中国城市大洗牌无数城市再难翻身；人民币大跌 人行要国有银行准备抛售美元</a></li>
 <li><a href="/cnnews/20221002/1791929.md">慎入 乌军队被曝撒盐煮俄军人头挨批：纳粹</a></li>
 <li><a href="/bannedvideo/20221001/1791900.md">🔥李克强霸屏央视新闻联播 大获全胜？压倒习近平？阿波罗网独家数据呈现真相；习近平一百八十度大转弯？他发现国际形势巨变；金融大鳄索罗斯团体获拜登政府巨额合同 助非法移民避驱逐【阿波罗网HS】</a></li>
 <li><a href="/topimagenews/20221002/1792164.md">独家！李克强大获全胜？压倒习近平？【阿波罗网报道】</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/bannedvideo/20221002/1791951.md">中国的部分经济数据，让人不寒而栗！</a></li>
 <li><a href="/topimagenews/20221002/1792046.md">人类要做最坏的打算！北溪管道被炸 对地球影响多可怕？</a></li>
 <li><a href="/topimagenews/20221002/1791933.md">错在这步 普丁3个月内恐“自行下台”俄大咖揭3关键</a></li>
-<li><a href="/bannedvideo/20221001/1791894.md">核战争开打？惊现全球毁灭图；马斯克叫板普京能毁核武器；普京正式吞并乌克兰4地区，泽连斯基两大反击；乌“斩首”行动，海马斯灭亲俄首脑；乌军猛攻被吞并地区俄军。【 #时事金扫描 】</a></li>
-<li><a href="/cnnews/20221002/1792025.md">一窝蜂买俄罗斯奶粉 脑子真是进水了</a></li>
-<li><a href="/bannedvideo/20221002/1791932.md">北京，满城尽是黑衣人！二十大前，究竟会发生什么</a></li>
 <li><a href="/topimagenews/20221002/1792116.md">【微博精粹】共匪死不撒手这张大牌 除非它真死了</a></li>
+<li><a href="/bannedvideo/20221002/1791932.md">北京，满城尽是黑衣人！二十大前，究竟会发生什么</a></li>
+<li><a href="/cnnews/20221002/1792025.md">一窝蜂买俄罗斯奶粉 脑子真是进水了</a></li>
 <li><a href="/cnnews/20221002/1792150.md">习近平对将军们不放心？ 二十大前解放军东、西部战区司令都换人</a></li>
+<li><a href="/topimagenews/20221002/1792172.md">刘强东明州性侵案和解告终：双方称“误会”</a></li>
 <li><a href="/ssgc/20221002/1792037.md">〖微博谈〗中国战狼的战果辉煌</a></li>
 <li><a href="/cnnews/20221002/1791928.md">乌克兰申请入会北约秒被拒 白宫1句话又泼冷水</a></li>
-<li><a href="/topimagenews/20221002/1792172.md">刘强东明州性侵案和解告终：双方称“误会”</a></li>
 <li><a href="/headline/20221002/1791925.md">中共20大前传中纪委大換血</a></li>
 <li><a href="/headline/20221002/1791988.md">解放军东部战区司令员换人</a></li>
 <li><a href="/comments/20221002/1791997.md">刘元明：李中堂间接告诉全世界他将裸退？</a></li>
 <li><a href="/ccpdope/20221002/1791952.md">吓死谁！这个新创技术将改变世界格局</a></li>
+<li><a href="/topimagenews/20221002/1792157.md">新闻周刊：普亭放话核攻 拜登考虑“斩首”除掉他</a></li>
+<li><a href="/topimagenews/20221002/1792156.md">“厉害了”！英国物理期刊撤900篇假论文 半数来自这国</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 
 </ul>
 </div>
