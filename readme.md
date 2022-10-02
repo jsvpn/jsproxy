@@ -15,19 +15,19 @@
 <li><a href="/bannedvideo/20221001/1791875.md">陈破空：这张照片火了！习李干了：李轻松自信，习怨恨不服。国庆活动，李压倒习！中国人竟然偷渡柬埔寨，沉船11死</a></li>
 <li><a href="/bannedvideo/20221001/1791900.md">🔥李克强霸屏央视新闻联播 大获全胜？压倒习近平？阿波罗网独家数据呈现真相；习近平一百八十度大转弯？他发现国际形势巨变；金融大鳄索罗斯团体获拜登政府巨额合同 助非法移民避驱逐【阿波罗网HS】</a></li>
 <li><a href="/cnnews/20221002/1791929.md">慎入 乌军队被曝撒盐煮俄军人头挨批：纳粹</a></li>
-<li><a href="/comments/20221001/1791829.md">这血型是“血型之王”！不易心梗、老年痴呆！糖尿病风险也低</a></li>
 <li><a href="/comments/20221002/1791959.md">给习近平添堵？十一逾20万人挤满天安门广场</a></li>
+<li><a href="/comments/20221001/1791829.md">这血型是“血型之王”！不易心梗、老年痴呆！糖尿病风险也低</a></li>
 <li><a href="/topimagenews/20221002/1791933.md">错在这步 普丁3个月内恐“自行下台”俄大咖揭3关键</a></li>
 <li><a href="/ssgc/20221001/1791791.md">国防部发言人再突出党中央透古怪</a></li>
 <li><a href="/cbnews/20221001/1791818.md">挺乌又挺俄 大玩两面手法！中共联合国安理会“入俄公投”表决投弃权票</a></li>
-<li><a href="/bannedvideo/20221001/1791894.md">核战争开打？惊现全球毁灭图；马斯克叫板普京能毁核武器；普京正式吞并乌克兰4地区，泽连斯基两大反击；乌“斩首”行动，海马斯灭亲俄首脑；乌军猛攻被吞并地区俄军。【 #时事金扫描 】</a></li>
 <li><a href="/bannedvideo/20221002/1791951.md">中国的部分经济数据，让人不寒而栗！</a></li>
+<li><a href="/bannedvideo/20221001/1791894.md">核战争开打？惊现全球毁灭图；马斯克叫板普京能毁核武器；普京正式吞并乌克兰4地区，泽连斯基两大反击；乌“斩首”行动，海马斯灭亲俄首脑；乌军猛攻被吞并地区俄军。【 #时事金扫描 】</a></li>
+<li><a href="/bannedvideo/20221002/1791972.md">🔥李克强已获外交领导权？真相你想象不到！？中国人渴的没命将不是传说！南昌，截江成湖！铁腕清零 传郑州公安扣留学潮领袖 称有“境外势力”介入【阿波罗网HS】</a></li>
 <li><a href="/topimagenews/20221001/1791796.md">北约或派兵进入乌克兰 波兰外长：若俄使用核武</a></li>
 <li><a href="/topimagenews/20221001/1791848.md">至少5人绝望跳楼！西藏极端封控逾50天…</a></li>
 <li><a href="/bannedvideo/20221002/1791932.md">北京，满城尽是黑衣人！二十大前，究竟会发生什么</a></li>
-<li><a href="/bannedvideo/20221002/1791972.md">🔥李克强已获外交领导权？真相你想象不到！？中国人渴的没命将不是传说！南昌，截江成湖！铁腕清零 传郑州公安扣留学潮领袖 称有“境外势力”介入【阿波罗网HS】</a></li>
 <li><a href="/cnnews/20221002/1791928.md">乌克兰申请入会北约秒被拒 白宫1句话又泼冷水</a></li>
-<li><a href="/topimagenews/20221001/1791766.md">史无前例 4万中国人将被遣返 这国关闭175家赌场</a></li>
+<li><a href="/topimagenews/20221002/1791995.md">全球紧盯习近平，他必须立即告诉普京一件事</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221002/1792145.md" target="_blank">“还没准备好杀人” 俄27岁男歌手被征召轻生</a></li>
 <li><a href="/topimagenews/20221002/1792116.md" target="_blank">【微博精粹】共匪死不撒手这张大牌 除非它真死了</a></li>
 <li><a href="/topimagenews/20221002/1792077.md" target="_blank">一群经济宠臣 给习近平思想注入经济元素？</a></li>
 <li><a href="/topimagenews/20221002/1792046.md" target="_blank">人类要做最坏的打算！北溪管道被炸 对地球影响多可怕？</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20220930/1791336.md" target="_blank">惊爆习近平“提出新时代” 元老集团谋政变？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20220930/1791335.md" target="_blank">独特“美元微笑”!人民币狂跌 中共党媒控：美国霸权 操纵经济问题</a></li>
 <li><a href="/topimagenews/20220930/1791323.md" target="_blank">金融危机在英国爆开？日本也危险了！嗅到2007开杀前血腥味</a></li>
-<li><a href="/topimagenews/20220930/1791313.md" target="_blank">【微博精粹】明知道跳崖一起死 就是没人敢踩刹车</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
 <li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
 
 </ul>
 </div>
