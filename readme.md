@@ -22,12 +22,12 @@
 <li><a href="/headline/20221002/1791988.md">解放军东部战区司令员换人</a></li>
 <li><a href="/headline/20221002/1792189.md">莫德納拒绝向中国提供疫苗配方</a></li>
 <li><a href="/comments/20221002/1791997.md">刘元明：李中堂间接告诉全世界他将裸退？</a></li>
+<li><a href="/bannedvideo/20221002/1792237.md">🔥大跌眼镜！李克强或增补为军委副主席？刘强东明州案和解告终：双方称“误会”？中共违法抓人 山东业主自发组织业委会选举；英媒:莫德纳拒绝中共让其公布疫苗技术的要求【阿波罗网TS】</a></li>
 <li><a href="/bannedvideo/20221002/1792162.md">害几亿中国人陷绝境！习近平要收拾幕后黑手？传普京3个月内恐下台？俄专家揭3大关键【国际风云】</a></li>
 <li><a href="/topimagenews/20221002/1792157.md">新闻周刊：普亭放话核攻 拜登考虑“斩首”除掉他</a></li>
-<li><a href="/bannedvideo/20221002/1792237.md">🔥大跌眼镜！李克强或增补为军委副主席？刘强东明州案和解告终：双方称“误会”？中共违法抓人 山东业主自发组织业委会选举；英媒:莫德纳拒绝中共让其公布疫苗技术的要求【阿波罗网TS】</a></li>
 <li><a href="/topimagenews/20221002/1792156.md">“厉害了”！英国物理期刊撤900篇假论文 半数来自这国</a></li>
 <li><a href="/lifebaike/20221002/1792170.md">睡觉前，在脚底涂点牙膏，解决了很多人都有的困扰，早知道早受益</a></li>
-<li><a href="/bannedvideo/20221002/1792190.md">【#时事军事 】俄吞并乌领土的宣布，可能解除美国援乌远程武器的禁忌｜#时事军事夏洛山</a></li>
+<li><a href="/bannedvideo/20221002/1792152.md">20221002直播：墙内消息：清零将在11月后大幅放缓？又到国丧日，习近平忽悠四个伟大，李克强一天四提“改革开放”；莱曼大捷！美加支持乌克兰加入北约。（20221002 第960期）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221003/1792263.md" target="_blank">李燕铭：寻求超越中共 韩国力争成为第四大武器出口国 韩国是向北约成员国出口武器的唯一亚洲国家 韩国军工成国家战略产业 连获巨额订单 2022年或超越中共跃升为亚洲最大武器出口国 韩国防务展规模创历届之最 舰载战斗机成亮点 美国买单 韩国将向乌克兰提供韩版海马斯K239型火箭炮 全球军事围堵中共之朝鲜半岛战争阴云（二四）</a></li>
 <li><a href="/comments/20221003/1792253.md" target="_blank">中南海出事？「十一」北京长安街头出现诡异一幕</a></li>
 <li><a href="/comments/20221002/1792228.md" target="_blank">拒绝交出疫苗配方 莫德纳在中国的销售谈判破裂</a></li>
 <li><a href="/comments/20221002/1792217.md" target="_blank">为防疫情外溢北京 内蒙古书记坚持“杀鸡用牛刀 ”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221002/1792124.md" target="_blank">官媒：俄恐垮掉 普京低估乌克兰 付沉重代价</a></li>
 <li><a href="/comments/20221002/1792112.md" target="_blank">【杰森视角】俄国为何要把西方拖入战争？世界走上一条不归路！乌克兰入北约不是作秀！美国直接回应俄核攻击是下策！川普愿做北溪泄漏危机调解人！</a></li>
 <li><a href="/comments/20221002/1792106.md" target="_blank">王友群：江泽民23年前的狂言已被击碎</a></li>
-<li><a href="/comments/20221002/1792105.md" target="_blank">戴着“鸟嘴”式口罩吃饭，网友嘲讽：“防疫乱相之鸟人”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
 
 </ul>
 </div>
