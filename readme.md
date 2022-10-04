@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221004/1792680.md">打俄国还是打中国？ 芬兰宣布即起停用中国银联卡</a></li>
-<li><a href="/topimagenews/20221004/1792745.md">人民币暴跌 人行可能动用最后杀著：资本管制</a></li>
 <li><a href="/topimagenews/20221004/1792850.md">备位习中央太子 习近平二十一大交棒给这样的人？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221004/1792745.md">人民币暴跌 人行可能动用最后杀著：资本管制</a></li>
 <li><a href="/topimagenews/20221004/1792924.md">令人震惊！李克强或增补为军委副主席？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221004/1792946.md">基辛格：空头支票开得太大 习近平后悔了</a></li>
 <li><a href="/cnnews/20221004/1792702.md">她被德国遣返 这给所有离岸爱国者敲响警钟</a></li>
 <li><a href="/comments/20221004/1792976.md">中国大规模地封锁基于TLS的翻墙服务器</a></li>
 <li><a href="/topimagenews/20221004/1792862.md">【微博精粹】疫情三年 有人永远是绿码谜底揭开</a></li>
-<li><a href="/bannedvideo/20221004/1792679.md">习主席的眼皮一直在上下跳动，显示内心惶恐不安</a></li>
 <li><a href="/cbnews/20221004/1792849.md">天亮时分：江泽民露面，释放什么信号？立场大转变，马斯克劝降乌克兰的启示；乌克兰在赫尔松迅速推进（政论天下第809集 20221003）</a></li>
 <li><a href="/bannedvideo/20221004/1792900.md">李克强侮辱习近平？现场照片被曝光！中共党校不装了？明抢国际话语权；</a></li>
 <li><a href="/comments/20221004/1792713.md">【独家重磅】李燕铭：二十大军委副主席与军委委员名单及分工预测 六大指标性因素露端倪 两名上将两名中将或成二十大军委黑马人选 习强化军权为二十大保驾护航 严防江曾政变（二四） 二十大高层人事大战（五九）</a></li>
-<li><a href="/sohnews/20221004/1793016.md">京城爆料太惊人 他能让二十大开不成 习怎么也没料到这局面【两岸要闻】</a></li>
 <li><a href="/ssgc/20221004/1792988.md">中共二十大常委名单版本眼花缭乱 学者：总书记连任年限最受瞩目</a></li>
+<li><a href="/sohnews/20221004/1793016.md">京城爆料太惊人 他能让二十大开不成 习怎么也没料到这局面【两岸要闻】</a></li>
 <li><a href="/cnnews/20221004/1792693.md">中国留学生开保时捷撞死警察 庭上落泪追悔莫及</a></li>
 <li><a href="/ssgc/20221004/1792848.md">〖兲朝浮世绘〗权斗中的大boss露面 江蛤蟆的照片被搬出来了</a></li>
 <li><a href="/cnnews/20221004/1792967.md">张春桥女儿回忆：他预知没好下场处处提防汪东兴</a></li>
 <li><a href="/topimagenews/20221004/1792744.md">Google翻译退出中国！陆网哀号</a></li>
+<li><a href="/cbnews/20221004/1793035.md">《致人民子弟兵的公开信》极简版</a></li>
 <li><a href="/cnnews/20221004/1792757.md">小哥出国见”女友”被海关拦 接下来更精彩</a></li>
 <li><a href="/comments/20221004/1792860.md">乌克兰直击俄罗斯心脏？人设崩塌 普京或迅速下台</a></li>
-<li><a href="/cbnews/20221004/1793035.md">《致人民子弟兵的公开信》极简版</a></li>
 <li><a href="/cnnews/20221004/1792694.md">刚诞生8个月,特斯拉的机器人已经在车厂搬砖了</a></li>
 <li><a href="/bannedvideo/20221004/1792824.md">🔥大逆转！江泽民露面施压习近平？中共20大在即，网络突传江泽民夫妇生日照；中国大陆“酱油一哥”挨批坑同胞！内销含添加剂，卖日本却零添加；十一国殇日，全球61城同步抗议中共暴政</a></li>
+<li><a href="/cnnews/20221004/1792746.md">一种致命新病毒或很快传染人类，成为下个HIV</a></li>
+<li><a href="/cnnews/20221004/1792912.md">中共警告美国 乌克兰加入北约恐有严重后果</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221005/1793134.md" target="_blank">没人够资格! 英智库分析中共二十大总理人选 无人符合这“三大条件”&#8230;..</a></li>
 <li><a href="/cbnews/20221005/1793117.md" target="_blank">从北京国际马拉松变为北京居民马拉松</a></li>
 <li><a href="/cbnews/20221004/1793068.md" target="_blank">约克夏脸巨鼠隔20年现踪 吃天山雪莲维生 全球不到千只</a></li>
 <li><a href="/cbnews/20221004/1793040.md" target="_blank">二十大前话兵变(中共军队将领参考读物)-更新版</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221002/1792194.md" target="_blank">专家谈核战：俄若暗度陈仓，美将明察秋毫</a></li>
 <li><a href="/cbnews/20221002/1792117.md" target="_blank">临20大 北京防疫紧张 8人被刑事调查</a></li>
 <li><a href="/cbnews/20221002/1792115.md" target="_blank">天亮时分：普京庆祝会上的诡异一幕；乌克兰入北约，美国表态；利曼大捷，乌一周内将夺回更多领土；如何客观判断政局的走向？（政论天下第807集 20221001）</a></li>
-<li><a href="/comments/20221002/1792112.md" target="_blank">【杰森视角】俄国为何要把西方拖入战争？世界走上一条不归路！乌克兰入北约不是作秀！美国直接回应俄核攻击是下策！川普愿做北溪泄漏危机调解人！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
 <li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
 
 </ul>
 </div>
