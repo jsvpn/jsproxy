@@ -12,20 +12,20 @@
 <li><a href="/cnnews/20221004/1792702.md">她被德国遣返 这给所有离岸爱国者敲响警钟</a></li>
 <li><a href="/topimagenews/20221004/1792862.md">【微博精粹】疫情三年 有人永远是绿码谜底揭开</a></li>
 <li><a href="/comments/20221004/1792976.md">中国大规模地封锁基于TLS的翻墙服务器</a></li>
-<li><a href="/sohnews/20221004/1793016.md">京城爆料太惊人 他能让二十大开不成 习怎么也没料到这局面【两岸要闻】</a></li>
 <li><a href="/cbnews/20221004/1792849.md">天亮时分：江泽民露面，释放什么信号？立场大转变，马斯克劝降乌克兰的启示；乌克兰在赫尔松迅速推进（政论天下第809集 20221003）</a></li>
+<li><a href="/sohnews/20221004/1793016.md">京城爆料太惊人 他能让二十大开不成 习怎么也没料到这局面【两岸要闻】</a></li>
 <li><a href="/bannedvideo/20221004/1792900.md">李克强侮辱习近平？现场照片被曝光！中共党校不装了？明抢国际话语权；</a></li>
-<li><a href="/ssgc/20221004/1792988.md">中共二十大常委名单版本眼花缭乱 学者：总书记连任年限最受瞩目</a></li>
 <li><a href="/comments/20221004/1792713.md">【独家重磅】李燕铭：二十大军委副主席与军委委员名单及分工预测 六大指标性因素露端倪 两名上将两名中将或成二十大军委黑马人选 习强化军权为二十大保驾护航 严防江曾政变（二四） 二十大高层人事大战（五九）</a></li>
+<li><a href="/ssgc/20221004/1792988.md">中共二十大常委名单版本眼花缭乱 学者：总书记连任年限最受瞩目</a></li>
 <li><a href="/cnnews/20221004/1792693.md">中国留学生开保时捷撞死警察 庭上落泪追悔莫及</a></li>
 <li><a href="/ssgc/20221004/1792848.md">〖兲朝浮世绘〗权斗中的大boss露面 江蛤蟆的照片被搬出来了</a></li>
 <li><a href="/cbnews/20221004/1793035.md">《致人民子弟兵的公开信》极简版</a></li>
 <li><a href="/cnnews/20221004/1792967.md">张春桥女儿回忆：他预知没好下场处处提防汪东兴</a></li>
 <li><a href="/topimagenews/20221004/1792744.md">Google翻译退出中国！陆网哀号</a></li>
-<li><a href="/comments/20221004/1792860.md">乌克兰直击俄罗斯心脏？人设崩塌 普京或迅速下台</a></li>
 <li><a href="/cnnews/20221004/1792757.md">小哥出国见”女友”被海关拦 接下来更精彩</a></li>
-<li><a href="/cnnews/20221004/1792694.md">刚诞生8个月,特斯拉的机器人已经在车厂搬砖了</a></li>
+<li><a href="/comments/20221004/1792860.md">乌克兰直击俄罗斯心脏？人设崩塌 普京或迅速下台</a></li>
 <li><a href="/bannedvideo/20221004/1792824.md">🔥大逆转！江泽民露面施压习近平？中共20大在即，网络突传江泽民夫妇生日照；中国大陆“酱油一哥”挨批坑同胞！内销含添加剂，卖日本却零添加；十一国殇日，全球61城同步抗议中共暴政</a></li>
+<li><a href="/cnnews/20221004/1792694.md">刚诞生8个月,特斯拉的机器人已经在车厂搬砖了</a></li>
 <li><a href="/cnnews/20221004/1792746.md">一种致命新病毒或很快传染人类，成为下个HIV</a></li>
 <li><a href="/sohnews/20221004/1793000.md">郭伯雄心腹，密谋政变！策划中印边境危机，只为搅黄十九大？权力被削，危机逼近，先下手为强？阴谋败露，等待他的是⋯⋯｜ #百年真相</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
 <li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 <li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 
 </ul>
 </div>
