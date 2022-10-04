@@ -9,7 +9,6 @@
 <li><a href="/topimagenews/20221004/1792745.md">人民币暴跌 人行可能动用最后杀著：资本管制</a></li>
 <li><a href="/topimagenews/20221004/1792924.md">令人震惊！李克强或增补为军委副主席？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221004/1792850.md">备位习中央太子 习近平二十一大交棒给这样的人？【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20221003/1792618.md">25年来最严重车祸! 靠iPhone首创功能求救仍全数惨死</a></li>
 <li><a href="/topimagenews/20221004/1792946.md">基辛格：空头支票开得太大 习近平后悔了</a></li>
 <li><a href="/cnnews/20221003/1792642.md">疫情又催生了一个畸形行业？</a></li>
 <li><a href="/cnnews/20221004/1792702.md">她被德国遣返 这给所有离岸爱国者敲响警钟</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/comments/20221003/1792641.md">星链废掉俄罗斯核武，彻底改变未来战争</a></li>
 <li><a href="/topimagenews/20221004/1792744.md">Google翻译退出中国！陆网哀号</a></li>
 <li><a href="/cnnews/20221004/1792757.md">小哥出国见”女友”被海关拦 接下来更精彩</a></li>
-<li><a href="/cnnews/20221004/1792694.md">刚诞生8个月,特斯拉的机器人已经在车厂搬砖了</a></li>
-<li><a href="/topimagenews/20221003/1792613.md">普丁做了1件事惹怒自己人！用215乌克兰战俘换朋友 挨批根本错误</a></li>
-<li><a href="/comments/20221004/1792860.md">乌克兰直击俄罗斯心脏？人设崩塌 普京或迅速下台</a></li>
 <li><a href="/cnnews/20221004/1792967.md">张春桥女儿回忆：他预知没好下场处处提防汪东兴</a></li>
+<li><a href="/ssgc/20221004/1792988.md">中共二十大常委名单版本眼花缭乱 学者：总书记连任年限最受瞩目</a></li>
+<li><a href="/cnnews/20221004/1792694.md">刚诞生8个月,特斯拉的机器人已经在车厂搬砖了</a></li>
+<li><a href="/comments/20221004/1792860.md">乌克兰直击俄罗斯心脏？人设崩塌 普京或迅速下台</a></li>
+<li><a href="/cbnews/20221004/1792700.md">并非川普？美中关系恶化 从他开始</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221004/1793092.md" target="_blank">评论 | 余杰：那些人，生活在猪圈中，却以为是天堂</a></li>
 <li><a href="/comments/20221004/1793073.md" target="_blank">【梁京评论】北方豺狼的末日与中国自救救人的天赐良机</a></li>
 <li><a href="/comments/20221004/1793058.md" target="_blank">美国最佳法学院排名（一）</a></li>
 <li><a href="/comments/20221004/1793049.md" target="_blank">【独家重磅】李燕铭：团派高官嘉兴市委书记张军被异常免职 被除名二十大代表 政治局委员热门人选楼阳生前大管家出事 胡锦涛之子胡海峰接替张军主政丽水市 升官传闻频频落空 习近平清洗浙江帮（十二） 习近平李克强明争暗斗内幕（五四） 二十大高层人事大战（六十）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221004/1792969.md" target="_blank">挑战习近平？李克强“十一”期间一日三次提这四字</a></li>
 <li><a href="/comments/20221004/1792903.md" target="_blank">阜阳封城秘而不宣 大量外地人被请君入瓮</a></li>
 <li><a href="/comments/20221004/1792902.md" target="_blank">5年来首次 朝鲜发射导弹穿越日本领空</a></li>
-<li><a href="/comments/20221004/1792897.md" target="_blank">李克强重提一事 习李关系现诡异？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 
 </ul>
 </div>
