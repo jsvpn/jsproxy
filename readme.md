@@ -14,8 +14,8 @@
 <li><a href="/topimagenews/20221005/1793406.md">20大习家军铺满政治局 福建帮或成政治局席位争夺战大赢家</a></li>
 <li><a href="/topimagenews/20221005/1793492.md">李嘉诚狂卖大陆银行股！美媒揭背后警讯：金融危机蔓延</a></li>
 <li><a href="/cnnews/20221005/1793191.md">惊人内幕：宋庆龄是双料间谍 1930年代即加入中共</a></li>
-<li><a href="/cnnews/20221005/1793381.md">与薄一波联手逼退大佬 江泽民最终自尝苦果</a></li>
 <li><a href="/topimagenews/20221005/1793405.md">揭秘习近平用人最大特点 习家军五大帮派</a></li>
+<li><a href="/cnnews/20221005/1793381.md">与薄一波联手逼退大佬 江泽民最终自尝苦果</a></li>
 <li><a href="/topimagenews/20221005/1793365.md">习近平第三任将收紧权力 中共预后凶险 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221005/1793459.md">习近平为何要在斗争前加上“伟大”两字? 专家：其实是要斗老百姓</a></li>
 <li><a href="/ssgc/20221005/1793261.md">〖微博谈〗必须全盘否定习和中共</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/lifebaike/20221005/1793453.md">为什么老人身上爱长斑？建议：50岁后远离4个习惯，或减轻老年斑</a></li>
 <li><a href="/topimagenews/20221005/1793235.md">公开中国大使馆施压信 前美国务卿蓬佩奥回应呛爆</a></li>
 <li><a href="/sohnews/20221005/1793505.md">陈破空：美国出手，力阻习近平连任！斗争激烈，政治局会议秘而不宣！气氛紧张，封城骤然升级，新疆云南离谱。直播与互动 美东10月5日早9点、即中港台10月5日晚9点</a></li>
-<li><a href="/ssgc/20221005/1793185.md">福布斯：北京低估金融危机 为祸甚于清零防疫</a></li>
 <li><a href="/headline/20221005/1793472.md">【二十大】英国《金融时报》：习近平第三任期是悲剧性错误</a></li>
 <li><a href="/lifebaike/20221005/1793434.md">今天才明白，长期不关机和每天关机一次，对手机有什么影响</a></li>
+<li><a href="/funmedia/20221005/1793368.md">4个笑话，笑到不行了，能忍住不笑的，算我输</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221006/1793651.md" target="_blank">港媒曝二十大修改党章细节 习近平追求长期执政</a></li>
+<li><a href="/comments/20221006/1793650.md" target="_blank">三位科学家共获诺贝尔化学奖 沙普利斯教授两度得奖</a></li>
+<li><a href="/comments/20221006/1793649.md" target="_blank">九层塔手抓饼</a></li>
 <li><a href="/comments/20221006/1793633.md" target="_blank">中共跑步和世界脫鈎！【老北京茶館10/05/2022】</a></li>
 <li><a href="/comments/20221006/1793630.md" target="_blank">感恩节也称「火鸡日」? 感恩节晚餐为什么要吃火鸡？</a></li>
 <li><a href="/comments/20221006/1793612.md" target="_blank">共军炫耀渡轮助攻台？美专家：中共不会成功</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221005/1793490.md" target="_blank">英研究：女生比男生更易晕车，感官讯息不吻合导致</a></li>
 <li><a href="/comments/20221005/1793489.md" target="_blank">精神疾患不宜长期休养</a></li>
 <li><a href="/comments/20221005/1793488.md" target="_blank">一个出乎意料的发现可能阻止癌症复发</a></li>
-<li><a href="/comments/20221005/1793486.md" target="_blank">汪湖：桃花源</a></li>
-<li><a href="/comments/20221005/1793476.md" target="_blank">债台高筑 中国地方政府陷入危机</a></li>
-<li><a href="/comments/20221005/1793475.md" target="_blank">袁红冰：《意境性存在——属於心灵的真实》文学卷   第四篇 「我」意味着什麽——用无尽的柔情抚摸死亡</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
 
 </ul>
 </div>
