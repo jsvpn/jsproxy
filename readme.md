@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221005/1793406.md">20大习家军铺满政治局 福建帮或成政治局席位争夺战大赢家</a></li>
 <li><a href="/topimagenews/20221005/1793492.md">李嘉诚狂卖大陆银行股！美媒揭背后警讯：金融危机蔓延</a></li>
 <li><a href="/cbnews/20221006/1793636.md">女老师因超高颜值爆红，学生应到30人实到300人</a></li>
-<li><a href="/topimagenews/20221005/1793405.md">揭秘习近平用人最大特点 习家军五大帮派</a></li>
 <li><a href="/cbnews/20221005/1793459.md">习近平为何要在斗争前加上“伟大”两字? 专家：其实是要斗老百姓</a></li>
 <li><a href="/topimagenews/20221005/1793421.md">习近平军权的另类风险 军中福建帮坐大福祸难测</a></li>
 <li><a href="/lifebaike/20221005/1793453.md">为什么老人身上爱长斑？建议：50岁后远离4个习惯，或减轻老年斑</a></li>
@@ -18,16 +16,18 @@
 <li><a href="/topimagenews/20221006/1793603.md">战线全面溃败！“俄军迅速从乌南后撤”</a></li>
 <li><a href="/headline/20221005/1793472.md">【二十大】英国《金融时报》：习近平第三任期是悲剧性错误</a></li>
 <li><a href="/lifebaike/20221005/1793434.md">今天才明白，长期不关机和每天关机一次，对手机有什么影响</a></li>
-<li><a href="/topimagenews/20221006/1793744.md">这种天价商品，正在疯狂收割中国人</a></li>
 <li><a href="/topimagenews/20221006/1793766.md">这事水很深！江泽民诡异照片背后鬼影幢幢【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221006/1793744.md">这种天价商品，正在疯狂收割中国人</a></li>
 <li><a href="/health/20221005/1793461.md">一喝水，尿就多，说明肾脏好，还是不好呢？答案很简单</a></li>
 <li><a href="/cnnews/20221005/1793539.md">北溪遭炸4破洞后 俄惊爆美国不演了：干这大事</a></li>
-<li><a href="/sohnews/20221005/1793502.md">人民币大逃杀 习近平强军梦到尽头恐成白日梦。推特上的中国政变 习近平遭软禁登国际焦点 弄假可能成真? 台商难舍中国市场?中共以商逼政 以商促统 台商难再喊和平。</a></li>
-<li><a href="/topimagenews/20221005/1793458.md">台湾第一击定义已经改变 防长邱国正：共机飞越我领空一定会反制</a></li>
+<li><a href="/topimagenews/20221006/1793803.md">民愤将再被点燃！惊曝：二十大后“动态清零”政策不变！【阿波罗网报道】</a></li>
 <li><a href="/comments/20221006/1793651.md">港媒曝二十大修改党章细节 习近平追求长期执政</a></li>
 <li><a href="/cbnews/20221006/1793787.md">过把伟大领袖瘾：网红书记敢玩，威风凛凛像阅兵</a></li>
+<li><a href="/sohnews/20221005/1793502.md">人民币大逃杀 习近平强军梦到尽头恐成白日梦。推特上的中国政变 习近平遭软禁登国际焦点 弄假可能成真? 台商难舍中国市场?中共以商逼政 以商促统 台商难再喊和平。</a></li>
+<li><a href="/topimagenews/20221005/1793458.md">台湾第一击定义已经改变 防长邱国正：共机飞越我领空一定会反制</a></li>
 <li><a href="/worldnews/20221006/1793639.md">把衣柜当厕所…21岁辣妹以这种方式死在酒店房间</a></li>
 <li><a href="/headline/20221006/1793618.md">推特上的中国：习近平30年旧文重见天日，铁腕治理早有迹象？</a></li>
+<li><a href="/cbnews/20221006/1793637.md">慎入：男子拿走蜂王，遭蜂群爬满车窗一路追杀…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221006/1793857.md" target="_blank">中共“幻想”破灭！反中浪潮来了！太平洋岛国等调整对中政策 专家:关键是这个…</a></li>
 <li><a href="/topimagenews/20221006/1793856.md" target="_blank">习近平给了普丁一张“空白支票”！美国前国务卿：中共20大后将向美倾斜</a></li>
 <li><a href="/topimagenews/20221006/1793851.md" target="_blank">俄潜舰出航传将试射“末日鱼雷” 专家:除了核弹头 还要特别小心这个….</a></li>
 <li><a href="/topimagenews/20221006/1793850.md" target="_blank">取代大陆成为世界工厂？李嘉诚积极投资这国 下一步曝光</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221005/1793335.md" target="_blank">忙不择路！俄军坦克消耗太快 俄罗斯挪用出口型T-90S</a></li>
 <li><a href="/topimagenews/20221005/1793308.md" target="_blank">借习近平讲话打击习 反习派警告将“亡党亡国”！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221005/1793290.md" target="_blank">施压习近平？中共20大在即 网络突传江泽民夫妇生日照 大逆转【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221005/1793235.md" target="_blank">公开中国大使馆施压信 前美国务卿蓬佩奥回应呛爆</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 <li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
 
 </ul>
 </div>
