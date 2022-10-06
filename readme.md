@@ -17,17 +17,17 @@
 <li><a href="/sohnews/20221005/1793505.md">陈破空：美国出手，力阻习近平连任！斗争激烈，政治局会议秘而不宣！气氛紧张，封城骤然升级，新疆云南离谱。直播与互动 美东10月5日早9点、即中港台10月5日晚9点</a></li>
 <li><a href="/topimagenews/20221006/1793603.md">战线全面溃败！“俄军迅速从乌南后撤”</a></li>
 <li><a href="/headline/20221005/1793472.md">【二十大】英国《金融时报》：习近平第三任期是悲剧性错误</a></li>
-<li><a href="/lifebaike/20221005/1793434.md">今天才明白，长期不关机和每天关机一次，对手机有什么影响</a></li>
 <li><a href="/cnnews/20221006/1793686.md">云南上演惊人一幕：你拿枪对着中国人民干什么？</a></li>
+<li><a href="/lifebaike/20221005/1793434.md">今天才明白，长期不关机和每天关机一次，对手机有什么影响</a></li>
 <li><a href="/health/20221005/1793461.md">一喝水，尿就多，说明肾脏好，还是不好呢？答案很简单</a></li>
 <li><a href="/cnnews/20221005/1793539.md">北溪遭炸4破洞后 俄惊爆美国不演了：干这大事</a></li>
 <li><a href="/sohnews/20221005/1793502.md">人民币大逃杀 习近平强军梦到尽头恐成白日梦。推特上的中国政变 习近平遭软禁登国际焦点 弄假可能成真? 台商难舍中国市场?中共以商逼政 以商促统 台商难再喊和平。</a></li>
 <li><a href="/topimagenews/20221005/1793458.md">台湾第一击定义已经改变 防长邱国正：共机飞越我领空一定会反制</a></li>
 <li><a href="/worldnews/20221005/1793378.md">惨烈！喜马拉雅山大雪崩 41人登山队遭活埋</a></li>
-<li><a href="/headline/20221006/1793618.md">推特上的中国：习近平30年旧文重见天日，铁腕治理早有迹象？</a></li>
+<li><a href="/comments/20221006/1793651.md">港媒曝二十大修改党章细节 习近平追求长期执政</a></li>
+<li><a href="/topimagenews/20221006/1793766.md">这事水很深！江泽民诡异照片背后鬼影幢幢【阿波罗网报道】</a></li>
 <li><a href="/comments/20221005/1793386.md">张柏芝14岁少女照网疯传 果然从小美到大</a></li>
 <li><a href="/worldnews/20221006/1793639.md">把衣柜当厕所…21岁辣妹以这种方式死在酒店房间</a></li>
-<li><a href="/comments/20221006/1793651.md">港媒曝二十大修改党章细节 习近平追求长期执政</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221006/1793845.md" target="_blank">因为没有食物，没有工资，只配备了陈旧和损坏的武器，俄罗斯预备役军人拒绝前往乌克兰战场！</a></li>
+<li><a href="/comments/20221006/1793844.md" target="_blank">云南西双版纳机场封控，警察持冲锋枪与民众对峙！</a></li>
+<li><a href="/cbnews/20221006/1793843.md" target="_blank">台国安局长照片、收据全外泄 都是华为干的？</a></li>
 <li><a href="/comments/20221006/1793832.md" target="_blank">一辆俄军坦克挂白旗，直接开向乌军，投降了！</a></li>
 <li><a href="/cbnews/20221006/1789259.md" target="_blank">《笑谈风云》系列<两宋繁华》先睹为快｜宋朝的文学</a></li>
 <li><a href="/comments/20221006/1793534.md" target="_blank">视频：一位飞行教练修炼法轮功的故事</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20221004/1793035.md" target="_blank">《致人民子弟兵的公开信》极简版</a></li>
 <li><a href="/cbnews/20221004/1793029.md" target="_blank">液体槽突大喷发！大陆工人冒烟狂奔“衣服被溶光” 网吓：边跑边掉发</a></li>
 <li><a href="/cbnews/20221004/1793028.md" target="_blank">重庆路面突坍塌现“巨型黑洞”！多路人惨遭化粪池吞没 臭臭片曝光</a></li>
-<li><a href="/comments/20221004/1792976.md" target="_blank">中国大规模地封锁基于TLS的翻墙服务器</a></li>
-<li><a href="/cbnews/20221004/1792911.md" target="_blank">中共尴尬！盟友朝鲜力挺俄罗斯 为入俄公投辩护</a></li>
-<li><a href="/cbnews/20221004/1792849.md" target="_blank">天亮时分：江泽民露面，释放什么信号？立场大转变，马斯克劝降乌克兰的启示；乌克兰在赫尔松迅速推进（政论天下第809集 20221003）</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221006/1793845.md" target="_blank">因为没有食物，没有工资，只配备了陈旧和损坏的武器，俄罗斯预备役军人拒绝前往乌克兰战场！</a></li>
+<li><a href="/comments/20221006/1793844.md" target="_blank">云南西双版纳机场封控，警察持冲锋枪与民众对峙！</a></li>
 <li><a href="/comments/20221006/1793832.md" target="_blank">一辆俄军坦克挂白旗，直接开向乌军，投降了！</a></li>
 <li><a href="/comments/20221006/1793534.md" target="_blank">视频：一位飞行教练修炼法轮功的故事</a></li>
 <li><a href="/comments/20221006/1793805.md" target="_blank">楚一丁：墨子与《美国宪法》第二修正案</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221006/1793651.md" target="_blank">港媒曝二十大修改党章细节 习近平追求长期执政</a></li>
 <li><a href="/comments/20221006/1793650.md" target="_blank">三位科学家共获诺贝尔化学奖 沙普利斯教授两度得奖</a></li>
 <li><a href="/comments/20221006/1793649.md" target="_blank">九层塔手抓饼</a></li>
-<li><a href="/comments/20221006/1793633.md" target="_blank">中共跑步和世界脫鈎！【老北京茶館10/05/2022】</a></li>
-<li><a href="/comments/20221006/1793630.md" target="_blank">感恩节也称「火鸡日」? 感恩节晚餐为什么要吃火鸡？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 <li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
 <li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 
 </ul>
 </div>
