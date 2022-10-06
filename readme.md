@@ -7,13 +7,13 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20221006/1793636.md">女老师因超高颜值爆红，学生应到30人实到300人</a></li>
 <li><a href="/topimagenews/20221006/1793635.md">二十大之后，党内这群人会更加依赖习近平</a></li>
-<li><a href="/topimagenews/20221006/1793766.md">这事水很深！江泽民诡异照片背后鬼影幢幢【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221006/1793803.md">民愤将再被点燃！惊曝：二十大后“动态清零”政策不变！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221006/1793766.md">这事水很深！江泽民诡异照片背后鬼影幢幢【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221006/1793686.md">云南上演惊人一幕：你拿枪对着中国人民干什么？</a></li>
-<li><a href="/topimagenews/20221006/1793603.md">战线全面溃败！“俄军迅速从乌南后撤”</a></li>
-<li><a href="/topimagenews/20221006/1793879.md">中国最准分析师、中共国师一致悲观：经济下坠速度 恐快于多数人想像</a></li>
 <li><a href="/topimagenews/20221006/1793744.md">这种天价商品，正在疯狂收割中国人</a></li>
+<li><a href="/topimagenews/20221006/1793879.md">中国最准分析师、中共国师一致悲观：经济下坠速度 恐快于多数人想像</a></li>
 <li><a href="/comments/20221006/1793651.md">港媒曝二十大修改党章细节 习近平追求长期执政</a></li>
+<li><a href="/topimagenews/20221006/1793603.md">战线全面溃败！“俄军迅速从乌南后撤”</a></li>
 <li><a href="/cbnews/20221006/1793787.md">过把伟大领袖瘾：网红书记敢玩，威风凛凛像阅兵</a></li>
 <li><a href="/cnnews/20221006/1793918.md">恐怖血洗市政厅18死 市长身亡 满地遗体惨况曝光</a></li>
 <li><a href="/worldnews/20221006/1793639.md">把衣柜当厕所…21岁辣妹以这种方式死在酒店房间</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/topimagenews/20221006/1793823.md">亲妹妹为中共第一夫人 他是傲啸天际 热血许国的空战英雄</a></li>
 <li><a href="/yule/20221006/1793836.md">范冰冰罕见亮相，外貌变化大，与昔日判若两人</a></li>
 <li><a href="/cbnews/20221006/1793637.md">慎入：男子拿走蜂王，遭蜂群爬满车窗一路追杀…</a></li>
+<li><a href="/topimagenews/20221006/1793936.md">偷大飞机技术 中共遭人赃并获 C919领型号合格证 离安全飞行有多远？</a></li>
 <li><a href="/headline/20221006/1793659.md">中国大使馆致信向蓬佩奥施压，蓬佩奥回应：要我停止讲真相，不可能</a></li>
 <li><a href="/ssgc/20221006/1793795.md">〖微博谈〗中共毫无诚信</a></li>
-<li><a href="/cnnews/20221006/1793624.md">新变种BQ1.1扩散！加拿大进入第8波疫情</a></li>
 <li><a href="/topimagenews/20221006/1793850.md">取代大陆成为世界工厂？李嘉诚积极投资这国 下一步曝光</a></li>
-<li><a href="/comments/20221006/1793852.md">云南西双版纳，警察开始镇压抗议民众，部分民众被警察戴上手铐带走，民众唱国歌团结抗争！</a></li>
+<li><a href="/cnnews/20221006/1793624.md">新变种BQ1.1扩散！加拿大进入第8波疫情</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
 <li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
 
 </ul>
 </div>
