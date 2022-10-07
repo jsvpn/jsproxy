@@ -6,13 +6,12 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20221006/1793918.md">恐怖血洗市政厅18死 市长身亡 满地遗体惨况曝光</a></li>
-<li><a href="/topimagenews/20221006/1793879.md">中国最准分析师、中共国师一致悲观：经济下坠速度 恐快于多数人想像</a></li>
 <li><a href="/cbnews/20221007/1794147.md">习近平李克强要直接动拳头了？</a></li>
 <li><a href="/topimagenews/20221006/1793936.md">偷大飞机技术 中共遭人赃并获 C919领型号合格证 离安全飞行有多远？</a></li>
 <li><a href="/cbnews/20221006/1793974.md">中国COVID-19“吹哨人”李文亮病历曝光 死亡时间可能早于官方公布</a></li>
 <li><a href="/cnnews/20221006/1793908.md">儿外出打工19年没消息 竟是“躺在家中后院”</a></li>
-<li><a href="/cnnews/20221006/1793966.md">乌克兰反攻有多猛？车队遭俄军伏击 双方“激烈交火75秒”画面曝光</a></li>
 <li><a href="/topimagenews/20221007/1794133.md">俄上将放出利曼前线指挥照片 网叹：难怪会输</a></li>
+<li><a href="/cnnews/20221006/1793966.md">乌克兰反攻有多猛？车队遭俄军伏击 双方“激烈交火75秒”画面曝光</a></li>
 <li><a href="/topimagenews/20221006/1793973.md">北朝鲜12架军机升空示威！韩国军方不忍了 派30架战斗机对峙</a></li>
 <li><a href="/cnnews/20221007/1794094.md">终于，他们开始批判杜甫了</a></li>
 <li><a href="/comments/20221007/1794111.md">燕无双：刘强东案，最可耻的人没有爆出来</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/cnnews/20221007/1794122.md">丢脸到国外！北电学生英国当“社牛”博眼球被骂</a></li>
 <li><a href="/headline/20221006/1793981.md">世界再次震惊：新疆两千多万人和各种交通进入“速冻”只为这97个病例</a></li>
 <li><a href="/cnnews/20221007/1794176.md">敏感时刻 王小洪对全体公安“老人”发出“维稳信”【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221006/1793880.md">“普丁大脑”爱女被炸死 美情报单位：乌克兰政府部分人员是幕后黑手</a></li>
 <li><a href="/ssgc/20221007/1794186.md">〖微博谈〗看穿习近平</a></li>
+<li><a href="/topimagenews/20221007/1794257.md">【微博精粹】警告打了三针国产疫苗要跑马拉松的人</a></li>
 <li><a href="/topimagenews/20221007/1794118.md">疯传！俄坦克挂“超巨白旗”狼狈投降画面 曝他称乌军可望夺回克里米亚</a></li>
 <li><a href="/comments/20221007/1794074.md">乌克兰赫尔松州，乌军部队搭乘美式悍马装甲车，突破俄军防线！</a></li>
-<li><a href="/topimagenews/20221007/1794257.md">【微博精粹】警告打了三针国产疫苗要跑马拉松的人</a></li>
 <li><a href="/sohnews/20221006/1793888.md">二十大人事分析：习家军有五大帮派，已经铺满政治局，福建帮成为大赢家。｜薇羽分享  20221005</a></li>
 <li><a href="/lifebaike/20221006/1793923.md">拆二代7年败光千万资产：暴富带给我的只有痛苦</a></li>
 <li><a href="/health/20221006/1793900.md">中国人为什么容易脾虚？看看这个就明白了</a></li>
+<li><a href="/cnnews/20221006/1794002.md">他棒球场下跪求婚！掏“巨大戒指”长发妹变脸 下秒赏巴掌、泼啤酒</a></li>
+<li><a href="/cbnews/20221006/1793892.md">与中共军队走太近 无人机龙头大疆 被美列入黑名单</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
 <li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
 
 </ul>
 </div>
