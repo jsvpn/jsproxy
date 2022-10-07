@@ -13,21 +13,21 @@
 <li><a href="/cnnews/20221007/1794122.md">丢脸到国外！北电学生英国当“社牛”博眼球被骂</a></li>
 <li><a href="/cnnews/20221007/1794302.md">再出重磅信号！江泽民被抛弃？上海帮使出六字战术？【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221007/1794176.md">敏感时刻 王小洪对全体公安“老人”发出“维稳信”【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221007/1794350.md">分析：20大前夕…回顾习近平主政十年处处烂尾 最差前3名排行出炉</a></li>
 <li><a href="/ssgc/20221007/1794186.md">〖微博谈〗看穿习近平</a></li>
 <li><a href="/topimagenews/20221007/1794257.md">【微博精粹】警告打了三针国产疫苗要跑马拉松的人</a></li>
-<li><a href="/cnnews/20221007/1794350.md">分析：20大前夕…回顾习近平主政十年处处烂尾 最差前3名排行出炉</a></li>
+<li><a href="/topimagenews/20221007/1794373.md">习近平最忌惮“他”！谁坐总理大位?学者：习想选“听话”新人</a></li>
 <li><a href="/comments/20221007/1794074.md">乌克兰赫尔松州，乌军部队搭乘美式悍马装甲车，突破俄军防线！</a></li>
 <li><a href="/sohnews/20221007/1794305.md">中国四大银行加速倒闭！！！网点拆除，ATM机集体损坏⋯⋯</a></li>
-<li><a href="/topimagenews/20221007/1794373.md">习近平最忌惮“他”！谁坐总理大位?学者：习想选“听话”新人</a></li>
-<li><a href="/topimagenews/20221007/1794118.md">疯传！俄坦克挂“超巨白旗”狼狈投降画面 曝他称乌军可望夺回克里米亚</a></li>
 <li><a href="/cbnews/20221007/1794342.md">中国作家在微博写“中国最大的问题”遭禁言 原因是“违反社区公约”</a></li>
+<li><a href="/topimagenews/20221007/1794118.md">疯传！俄坦克挂“超巨白旗”狼狈投降画面 曝他称乌军可望夺回克里米亚</a></li>
 <li><a href="/topimagenews/20221007/1794294.md">60年来最危险！拜登警告：“核末日”近在眼前…</a></li>
 <li><a href="/cbnews/20221007/1794286.md">中共恐慌！蓬佩奥:“党不代表中国人民” 专家赞：具有历史大格局</a></li>
 <li><a href="/ssgc/20221007/1794091.md">评论 | 王丹： 孙力军团伙案的诡异之处</a></li>
 <li><a href="/lifebaike/20221007/1794173.md">这3种家丑，宁可烂在肚子里也别说</a></li>
 <li><a href="/ssgc/20221007/1794264.md">〖兲朝浮世绘〗独裁者的字典里没有“民生”这一项</a></li>
 <li><a href="/cnnews/20221007/1794093.md">加州一家4口惨遭绑架撕票... 女婴仅8个月大</a></li>
-<li><a href="/bblog/20221007/1794185.md">〖微历史〗历史啊，千万不要重演</a></li>
+<li><a href="/cbnews/20221007/1794329.md">【街谈巷议】 出租车司机：“资料人人会背，个个要过关” ；“麻城又在演一曲‘三万六’”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221007/1794469.md" target="_blank">防核战 泽伦斯基提“先发制人打击”俄：想挑起三战？</a></li>
 <li><a href="/topimagenews/20221007/1794419.md" target="_blank">iPhone 14“1颗芯片”爆毁灭战 这家陆厂遭拜登痛下杀手</a></li>
 <li><a href="/topimagenews/20221007/1794418.md" target="_blank">德前总理梅克尔：欧洲安全架构唯有俄罗斯共同参与 才能永久和平</a></li>
 <li><a href="/topimagenews/20221007/1794373.md" target="_blank">习近平最忌惮“他”！谁坐总理大位?学者：习想选“听话”新人</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20221006/1793879.md" target="_blank">中国最准分析师、中共国师一致悲观：经济下坠速度 恐快于多数人想像</a></li>
 <li><a href="/topimagenews/20221006/1793857.md" target="_blank">中共“幻想”破灭！反中浪潮来了！太平洋岛国等调整对中政策 专家:关键是这个…</a></li>
 <li><a href="/topimagenews/20221006/1793856.md" target="_blank">习近平给了普丁一张“空白支票”！美国前国务卿：中共20大后将向美倾斜</a></li>
-<li><a href="/topimagenews/20221006/1793851.md" target="_blank">俄潜舰出航传将试射“末日鱼雷” 专家:除了核弹头 还要特别小心这个….</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221007/1794478.md" target="_blank">非法种植大麻 华人交保获释</a></li>
+<li><a href="/comments/20221007/1794477.md" target="_blank">时事大家谈：“台海帮”领军、习近平备战 台防长：越界就打？“入俄公投”挑动两岸神经 “祖国统一”真是历史大势?</a></li>
 <li><a href="/comments/20221007/1794465.md" target="_blank">反制中共 美国防部再将13家中企列入黑名单</a></li>
 <li><a href="/comments/20221007/1794458.md" target="_blank">中國突然提名諾貝爾！評委看呆了！【老北京茶館10/07/2022】</a></li>
 <li><a href="/comments/20221007/1794454.md" target="_blank">网曝俄罗斯士兵投降标准流程 预约避免排队</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221007/1794236.md" target="_blank">郑愚山：与魔鬼打交道的封哥 预言中国很快塌方</a></li>
 <li><a href="/comments/20221007/1794217.md" target="_blank">索罗门等国与美关系转暖 欧亚多国开始抵制中共</a></li>
 <li><a href="/comments/20221007/1794216.md" target="_blank">台国防部长：共军航空器闯领空 等同「第一击」</a></li>
-<li><a href="/comments/20221007/1794215.md" target="_blank">佳士得将拍卖关之琳上亿珠宝 珍品仅冰山一角</a></li>
-<li><a href="/comments/20221007/1794204.md" target="_blank">李濠仲：无须高估“首富”的政治见识</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
 <li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
 
 </ul>
 </div>
