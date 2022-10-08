@@ -10,16 +10,16 @@
 <li><a href="/cnnews/20221008/1794564.md">前尘往事：周恩来右臂受伤致残真相</a></li>
 <li><a href="/comments/20221008/1794587.md">北京展览馆，十一期间有大批军警戒备！原因不明！</a></li>
 <li><a href="/health/20221008/1794700.md">62岁女子坚持每天生吃大蒜灭菌、抗肿瘤，3个月后健康情况如何？</a></li>
-<li><a href="/topimagenews/20221008/1794717.md">怕普京被逼急 俄军接连失利 西方考虑给他台阶下</a></li>
 <li><a href="/cnnews/20221008/1794727.md">王岐山大秘、哥大海归被双开:滥权敛财贪婪无度</a></li>
+<li><a href="/topimagenews/20221008/1794717.md">怕普京被逼急 俄军接连失利 西方考虑给他台阶下</a></li>
 <li><a href="/topimagenews/20221008/1794572.md">俄罗斯新兵闹情绪 普京取消了70岁大寿庆典</a></li>
 <li><a href="/cbnews/20221008/1794639.md">天亮时分：习近平连任的最后变数；台湾变中国特区，马斯克反常表态，乌克兰前线的星链也出问题（政论天下第813集 20221007）</a></li>
 <li><a href="/comments/20221008/1794715.md">天安门广场没有一点节日气氛，一个游人都没有，所有在广场晃的人都是警察！</a></li>
 <li><a href="/topimagenews/20221008/1794750.md">惨成普丁“炮灰”！俄军坦克车队撤退途中遭轰爆…</a></li>
 <li><a href="/headline/20221008/1794579.md">习近平是何人</a></li>
 <li><a href="/cnnews/20221008/1794643.md">姐弟俩被家中宠物狗咬死 这种狗今年至少咬死8人</a></li>
-<li><a href="/cnnews/20221008/1794768.md">普丁生日的“礼物”？克里米亚大桥爆炸 乌克兰高官：这只是开始</a></li>
 <li><a href="/comments/20221008/1794720.md">投诚乌克兰的俄国士兵，因主动移交状况良好的BMP-2战车，而获得35000美金奖励。</a></li>
+<li><a href="/cnnews/20221008/1794768.md">普丁生日的“礼物”？克里米亚大桥爆炸 乌克兰高官：这只是开始</a></li>
 <li><a href="/cnnews/20221008/1794740.md">恐怖！克里米亚大桥惊传爆炸 大火吞噬桥体…</a></li>
 <li><a href="/ssgc/20221008/1794636.md">〖兲朝浮世绘〗给世界指明方向 马斯克这是跟谁学的？</a></li>
 <li><a href="/topimagenews/20221008/1794765.md">美媒：普丁核心圈有异音 拜登纳入每日情报</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221009/1794890.md" target="_blank">首届欧洲政治共同体会议召开 俄罗斯与白俄罗斯未获邀请</a></li>
 <li><a href="/comments/20221009/1794861.md" target="_blank">上千军警排成人墙，在天安门广场上设置了警戒线，如临大敌。情况不明！</a></li>
 <li><a href="/comments/20221009/1794858.md" target="_blank">克里米亚大桥：桥梁爆炸后乌克兰的兴奋和恐惧</a></li>
 <li><a href="/comments/20221009/1794856.md" target="_blank">克里米亚大桥被炸后的景象！</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221008/1794689.md" target="_blank">香港电台主持杰斯被判监32个月</a></li>
 <li><a href="/comments/20221008/1794677.md" target="_blank">改变疫情政策，没有那么容易</a></li>
 <li><a href="/comments/20221008/1794676.md" target="_blank">细听低吟：新冠新节点：为何请回“逃兵”管轶担任病毒研究院院长？</a></li>
-<li><a href="/comments/20221008/1794657.md" target="_blank">仙桃爸：司马南说凡是影响中俄关系的，都应格杀勿论？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
 
 </ul>
 </div>
