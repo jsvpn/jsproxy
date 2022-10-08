@@ -5,27 +5,27 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20221007/1794302.md">再出重磅信号！江泽民被抛弃？上海帮使出六字战术？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221007/1794373.md">习近平最忌惮“他”！谁坐总理大位?学者：习想选“听话”新人</a></li>
 <li><a href="/cnnews/20221008/1794486.md">十一期间，一个横跨网红圈和房产圈的大瓜爆了</a></li>
 <li><a href="/cnnews/20221007/1794350.md">分析：20大前夕…回顾习近平主政十年处处烂尾 最差前3名排行出炉</a></li>
 <li><a href="/sohnews/20221007/1794305.md">中国四大银行加速倒闭！！！网点拆除，ATM机集体损坏⋯⋯</a></li>
 <li><a href="/cbnews/20221007/1794342.md">中国作家在微博写“中国最大的问题”遭禁言 原因是“违反社区公约”</a></li>
 <li><a href="/cbnews/20221007/1794401.md">烟台海滩出现“免费活虾”大婶狂检30斤回家！专家揭反常真相</a></li>
-<li><a href="/cbnews/20221007/1794377.md">灾难！俄军一片混乱，国内挺战人士也看不下去了</a></li>
 <li><a href="/topimagenews/20221008/1794627.md">针对江泽民？新华社突然发布一消息【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20221007/1794377.md">灾难！俄军一片混乱，国内挺战人士也看不下去了</a></li>
 <li><a href="/cnnews/20221008/1794545.md">他徒手掰开原子弹：DNA断裂肌肉溶解 惨成活尸</a></li>
 <li><a href="/cbnews/20221008/1794528.md">中国品质这次真的“坚若磐石” 她6000元买实木椅竟是灌水泥</a></li>
 <li><a href="/cbnews/20221007/1794329.md">【街谈巷议】 出租车司机：“资料人人会背，个个要过关” ；“麻城又在演一曲‘三万六’”</a></li>
-<li><a href="/topimagenews/20221008/1794572.md">俄罗斯新兵闹情绪 普京取消了70岁大寿庆典</a></li>
 <li><a href="/cnnews/20221008/1794564.md">前尘往事：周恩来右臂受伤致残真相</a></li>
+<li><a href="/topimagenews/20221008/1794572.md">俄罗斯新兵闹情绪 普京取消了70岁大寿庆典</a></li>
 <li><a href="/comments/20221008/1794587.md">北京展览馆，十一期间有大批军警戒备！原因不明！</a></li>
-<li><a href="/cbnews/20221007/1794402.md">48岁男炒菜爱放“味精”脑梗塞身亡！医生：比烟酒更伤血管</a></li>
 <li><a href="/cnnews/hknews/20221008/1794520.md">香港180度回转大开国门 CNN : 北京仍需一个窗口来挽救经济危机</a></li>
-<li><a href="/topimagenews/20221007/1794419.md">iPhone 14“1颗芯片”爆毁灭战 这家陆厂遭拜登痛下杀手</a></li>
+<li><a href="/cbnews/20221007/1794402.md">48岁男炒菜爱放“味精”脑梗塞身亡！医生：比烟酒更伤血管</a></li>
+<li><a href="/topimagenews/20221008/1794682.md">中共二十大 高度不满聚焦习近平 中国人都在等…【阿波罗网报道】</a></li>
 <li><a href="/headline/20221008/1794500.md">封城抗疫明年初要变？专家称清零已是政治效忠运动 要变也难</a></li>
-<li><a href="/sohnews/20221007/1794366.md">女王葬礼前夕，伦敦频繁出现UFO，坊间传言再次甚嚣尘上</a></li>
+<li><a href="/topimagenews/20221007/1794419.md">iPhone 14“1颗芯片”爆毁灭战 这家陆厂遭拜登痛下杀手</a></li>
 <li><a href="/lifebaike/20221007/1794382.md">3个女孩围殴保安，保安急眼了还手，结果…</a></li>
+<li><a href="/sohnews/20221007/1794366.md">女王葬礼前夕，伦敦频繁出现UFO，坊间传言再次甚嚣尘上</a></li>
 <li><a href="/sohnews/20221007/1794398.md">微信诡异大转变！中纪委最新会议透露什么信号？他们最怕的是……</a></li>
 <li><a href="/cnnews/20221007/1794363.md">下一场雷曼惨剧？英国经济危险时刻来临：黑天鹅恐引爆</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221008/1794726.md" target="_blank">狠:新疆启用离疆电子证明 接受24小时电子追踪</a></li>
+<li><a href="/cbnews/20221008/1794725.md" target="_blank">江峰：台空军几分钟被灭？马斯克称台湾仿香港成立特别行政区？名媒名人被利用，九合一选举面临中共认知战高潮【江峰漫谈20221007第559期】</a></li>
 <li><a href="/comments/20221008/1794720.md" target="_blank">投诚乌克兰的俄国士兵，因主动移交状况良好的BMP-2战车，而获得35000美金奖励。</a></li>
 <li><a href="/comments/20221008/1794719.md" target="_blank">结束了独裁统治，实现了民主和自由的伊拉克库尔德自治区，其首府埃尔比勒如今变成了这样。</a></li>
 <li><a href="/comments/20221008/1794715.md" target="_blank">天安门广场没有一点节日气氛，一个游人都没有，所有在广场晃的人都是警察！</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20221007/1794293.md" target="_blank">江峰：民族大学违法收缴大学生护照，执行谁的政治任务？诡异：疆、藏、云南边疆少数民族大省疫情少、封控严，深层内幕被揭开【江峰漫谈20221006第558期】</a></li>
 <li><a href="/cbnews/20221007/1794286.md" target="_blank">中共恐慌！蓬佩奥:“党不代表中国人民” 专家赞：具有历史大格局</a></li>
 <li><a href="/cbnews/20221007/1794190.md" target="_blank">天亮时分：美债飙过31万亿，全球经济堪忧；“老领导”来信布局倒习；习近平33年前旧文曝光，“人民经济”论预示计划经济将临？（政论天下第812集 20221006）</a></li>
-<li><a href="/cbnews/20221007/1794147.md" target="_blank">习近平李克强要直接动拳头了？</a></li>
-<li><a href="/comments/20221007/1794074.md" target="_blank">乌克兰赫尔松州，乌军部队搭乘美式悍马装甲车，突破俄军防线！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
 <li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
 
 </ul>
 </div>
