@@ -10,12 +10,12 @@
 <li><a href="/cbnews/20221007/1794401.md">烟台海滩出现“免费活虾”大婶狂检30斤回家！专家揭反常真相</a></li>
 <li><a href="/topimagenews/20221008/1794682.md">中共二十大 高度不满聚焦习近平 中国人都在等…【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221008/1794545.md">他徒手掰开原子弹：DNA断裂肌肉溶解 惨成活尸</a></li>
-<li><a href="/cbnews/20221008/1794528.md">中国品质这次真的“坚若磐石” 她6000元买实木椅竟是灌水泥</a></li>
 <li><a href="/headline/20221008/1794500.md">封城抗疫明年初要变？专家称清零已是政治效忠运动 要变也难</a></li>
+<li><a href="/cbnews/20221008/1794528.md">中国品质这次真的“坚若磐石” 她6000元买实木椅竟是灌水泥</a></li>
+<li><a href="/topimagenews/20221008/1794717.md">怕普京被逼急 俄军接连失利 西方考虑给他台阶下</a></li>
 <li><a href="/comments/20221008/1794587.md">北京展览馆，十一期间有大批军警戒备！原因不明！</a></li>
 <li><a href="/cnnews/20221008/1794564.md">前尘往事：周恩来右臂受伤致残真相</a></li>
 <li><a href="/cnnews/hknews/20221008/1794520.md">香港180度回转大开国门 CNN : 北京仍需一个窗口来挽救经济危机</a></li>
-<li><a href="/topimagenews/20221008/1794717.md">怕普京被逼急 俄军接连失利 西方考虑给他台阶下</a></li>
 <li><a href="/cbnews/20221007/1794402.md">48岁男炒菜爱放“味精”脑梗塞身亡！医生：比烟酒更伤血管</a></li>
 <li><a href="/topimagenews/20221008/1794572.md">俄罗斯新兵闹情绪 普京取消了70岁大寿庆典</a></li>
 <li><a href="/health/20221008/1794700.md">62岁女子坚持每天生吃大蒜灭菌、抗肿瘤，3个月后健康情况如何？</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/sohnews/20221007/1794398.md">微信诡异大转变！中纪委最新会议透露什么信号？他们最怕的是……</a></li>
 <li><a href="/comments/20221008/1794589.md">文昭：48小時內又形勢突變，最危險和跌宕的時刻分分鐘到來！修改黨章內幕流出，這才是真正的「千年大計」？</a></li>
 <li><a href="/headline/20221008/1794579.md">习近平是何人</a></li>
-<li><a href="/cnnews/20221008/1794523.md">纽约市宣布进入无证移民危机紧急状态</a></li>
-<li><a href="/ssgc/20221007/1794399.md">中共二十大前最后的暗箱操作</a></li>
 <li><a href="/cnnews/20221008/1794643.md">姐弟俩被家中宠物狗咬死 这种狗今年至少咬死8人</a></li>
+<li><a href="/ssgc/20221008/1794636.md">〖兲朝浮世绘〗给世界指明方向 马斯克这是跟谁学的？</a></li>
+<li><a href="/cnnews/20221008/1794523.md">纽约市宣布进入无证移民危机紧急状态</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
 <li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
 <li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
 
 </ul>
 </div>
