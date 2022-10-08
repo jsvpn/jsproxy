@@ -15,19 +15,19 @@
 <li><a href="/comments/20221008/1794587.md">北京展览馆，十一期间有大批军警戒备！原因不明！</a></li>
 <li><a href="/cnnews/hknews/20221008/1794520.md">香港180度回转大开国门 CNN : 北京仍需一个窗口来挽救经济危机</a></li>
 <li><a href="/topimagenews/20221008/1794717.md">怕普京被逼急 俄军接连失利 西方考虑给他台阶下</a></li>
-<li><a href="/topimagenews/20221008/1794572.md">俄罗斯新兵闹情绪 普京取消了70岁大寿庆典</a></li>
-<li><a href="/health/20221008/1794700.md">62岁女子坚持每天生吃大蒜灭菌、抗肿瘤，3个月后健康情况如何？</a></li>
 <li><a href="/cnnews/20221008/1794727.md">王岐山大秘、哥大海归被双开:滥权敛财贪婪无度</a></li>
+<li><a href="/health/20221008/1794700.md">62岁女子坚持每天生吃大蒜灭菌、抗肿瘤，3个月后健康情况如何？</a></li>
+<li><a href="/topimagenews/20221008/1794572.md">俄罗斯新兵闹情绪 普京取消了70岁大寿庆典</a></li>
 <li><a href="/cbnews/20221008/1794639.md">天亮时分：习近平连任的最后变数；台湾变中国特区，马斯克反常表态，乌克兰前线的星链也出问题（政论天下第813集 20221007）</a></li>
 <li><a href="/comments/20221008/1794715.md">天安门广场没有一点节日气氛，一个游人都没有，所有在广场晃的人都是警察！</a></li>
 <li><a href="/headline/20221008/1794579.md">习近平是何人</a></li>
+<li><a href="/topimagenews/20221008/1794750.md">惨成普丁“炮灰”！俄军坦克车队撤退途中遭轰爆…</a></li>
 <li><a href="/comments/20221008/1794720.md">投诚乌克兰的俄国士兵，因主动移交状况良好的BMP-2战车，而获得35000美金奖励。</a></li>
 <li><a href="/cnnews/20221008/1794643.md">姐弟俩被家中宠物狗咬死 这种狗今年至少咬死8人</a></li>
 <li><a href="/cnnews/20221008/1794740.md">恐怖！克里米亚大桥惊传爆炸 大火吞噬桥体…</a></li>
 <li><a href="/ssgc/20221008/1794636.md">〖兲朝浮世绘〗给世界指明方向 马斯克这是跟谁学的？</a></li>
 <li><a href="/comments/20221008/1794589.md">文昭：48小時內又形勢突變，最危險和跌宕的時刻分分鐘到來！修改黨章內幕流出，這才是真正的「千年大計」？</a></li>
-<li><a href="/topimagenews/20221008/1794750.md">惨成普丁“炮灰”！俄军坦克车队撤退途中遭轰爆…</a></li>
-<li><a href="/comments/20221008/1794502.md">中国疫情很严重？各地封控规模空前 上海居民被告知“十年不能出门”</a></li>
+<li><a href="/topimagenews/20221008/1794681.md">核末日近了?拜登话音刚落朝鲜核试爆地点地震…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
 
 </ul>
 </div>
