@@ -20,11 +20,11 @@
 <li><a href="/comments/20221008/1794715.md">天安门广场没有一点节日气氛，一个游人都没有，所有在广场晃的人都是警察！</a></li>
 <li><a href="/topimagenews/20221008/1794750.md">惨成普丁“炮灰”！俄军坦克车队撤退途中遭轰爆…</a></li>
 <li><a href="/headline/20221008/1794579.md">习近平是何人</a></li>
-<li><a href="/comments/20221008/1794720.md">投诚乌克兰的俄国士兵，因主动移交状况良好的BMP-2战车，而获得35000美金奖励。</a></li>
 <li><a href="/cnnews/20221008/1794643.md">姐弟俩被家中宠物狗咬死 这种狗今年至少咬死8人</a></li>
 <li><a href="/cnnews/20221008/1794768.md">普丁生日的“礼物”？克里米亚大桥爆炸 乌克兰高官：这只是开始</a></li>
-<li><a href="/ssgc/20221008/1794636.md">〖兲朝浮世绘〗给世界指明方向 马斯克这是跟谁学的？</a></li>
+<li><a href="/comments/20221008/1794720.md">投诚乌克兰的俄国士兵，因主动移交状况良好的BMP-2战车，而获得35000美金奖励。</a></li>
 <li><a href="/cnnews/20221008/1794740.md">恐怖！克里米亚大桥惊传爆炸 大火吞噬桥体…</a></li>
+<li><a href="/ssgc/20221008/1794636.md">〖兲朝浮世绘〗给世界指明方向 马斯克这是跟谁学的？</a></li>
 <li><a href="/comments/20221008/1794589.md">文昭：48小時內又形勢突變，最危險和跌宕的時刻分分鐘到來！修改黨章內幕流出，這才是真正的「千年大計」？</a></li>
 <li><a href="/topimagenews/20221008/1794765.md">美媒：普丁核心圈有异音 拜登纳入每日情报</a></li>
 <li><a href="/topimagenews/20221008/1794681.md">核末日近了?拜登话音刚落朝鲜核试爆地点地震…</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221009/1794861.md" target="_blank">上千军警排成人墙，在天安门广场上设置了警戒线，如临大敌。情况不明！</a></li>
 <li><a href="/comments/20221009/1794856.md" target="_blank">克里米亚大桥被炸后的景象！</a></li>
 <li><a href="/cbnews/20221008/1794783.md" target="_blank">防疫影片 民众用餐戴口罩吃饭！网友嘲讽</a></li>
 <li><a href="/cbnews/20221008/1794726.md" target="_blank">狠:新疆启用离疆电子证明 接受24小时电子追踪</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221007/1794362.md" target="_blank">竞争越来越大！大陆教资报考人数10年翻66倍</a></li>
 <li><a href="/cbnews/20221007/1794329.md" target="_blank">【街谈巷议】 出租车司机：“资料人人会背，个个要过关” ；“麻城又在演一曲‘三万六’”</a></li>
 <li><a href="/cbnews/20221007/1794342.md" target="_blank">中国作家在微博写“中国最大的问题”遭禁言 原因是“违反社区公约”</a></li>
-<li><a href="/cbnews/20221007/1794293.md" target="_blank">江峰：民族大学违法收缴大学生护照，执行谁的政治任务？诡异：疆、藏、云南边疆少数民族大省疫情少、封控严，深层内幕被揭开【江峰漫谈20221006第558期】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221009/1794861.md" target="_blank">上千军警排成人墙，在天安门广场上设置了警戒线，如临大敌。情况不明！</a></li>
 <li><a href="/comments/20221009/1794858.md" target="_blank">克里米亚大桥：桥梁爆炸后乌克兰的兴奋和恐惧</a></li>
 <li><a href="/comments/20221009/1794856.md" target="_blank">克里米亚大桥被炸后的景象！</a></li>
 <li><a href="/comments/20221008/1794821.md" target="_blank">中共教育局鼓励高校开必修课 教学生恋爱经营家庭 评论区炸翻天</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221008/1794677.md" target="_blank">改变疫情政策，没有那么容易</a></li>
 <li><a href="/comments/20221008/1794676.md" target="_blank">细听低吟：新冠新节点：为何请回“逃兵”管轶担任病毒研究院院长？</a></li>
 <li><a href="/comments/20221008/1794657.md" target="_blank">仙桃爸：司马南说凡是影响中俄关系的，都应格杀勿论？</a></li>
-<li><a href="/comments/20221008/1794656.md" target="_blank">小晖：十年前，李承鹏写了这样一篇文章</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
 <li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
 
 </ul>
 </div>
