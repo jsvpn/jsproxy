@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20221008/1794682.md">中共二十大 高度不满聚焦习近平 中国人都在等…【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221008/1794727.md">王岐山大秘、哥大海归被双开:滥权敛财贪婪无度</a></li>
 <li><a href="/health/20221008/1794700.md">62岁女子坚持每天生吃大蒜灭菌、抗肿瘤，3个月后健康情况如何？</a></li>
-<li><a href="/topimagenews/20221008/1794717.md">怕普京被逼急 俄军接连失利 西方考虑给他台阶下</a></li>
 <li><a href="/topimagenews/20221009/1794895.md">疯传钟南山给中央的一封信：要把真话说出来</a></li>
+<li><a href="/topimagenews/20221008/1794717.md">怕普京被逼急 俄军接连失利 西方考虑给他台阶下</a></li>
 <li><a href="/comments/20221008/1794715.md">天安门广场没有一点节日气氛，一个游人都没有，所有在广场晃的人都是警察！</a></li>
 <li><a href="/topimagenews/20221008/1794750.md">惨成普丁“炮灰”！俄军坦克车队撤退途中遭轰爆…</a></li>
 <li><a href="/comments/20221009/1794861.md">上千军警排成人墙，在天安门广场上设置了警戒线，如临大敌。情况不明！</a></li>
 <li><a href="/comments/20221008/1794720.md">投诚乌克兰的俄国士兵，因主动移交状况良好的BMP-2战车，而获得35000美金奖励。</a></li>
 <li><a href="/sohnews/20221008/1794803.md">陈破空：党媒变调！对习近平提法有变，两个确立消失？中纪委极短公报引热议！王岐山大秘遭双开</a></li>
 <li><a href="/cnnews/20221008/1794768.md">普丁生日的“礼物”？克里米亚大桥爆炸 乌克兰高官：这只是开始</a></li>
+<li><a href="/cnnews/20221009/1794893.md">疯传…中国男子全家润美全记录</a></li>
 <li><a href="/topimagenews/20221008/1794765.md">美媒：普丁核心圈有异音 拜登纳入每日情报</a></li>
 <li><a href="/cnnews/20221008/1794740.md">恐怖！克里米亚大桥惊传爆炸 大火吞噬桥体…</a></li>
 <li><a href="/comments/20221009/1794856.md">克里米亚大桥被炸后的景象！</a></li>
 <li><a href="/topimagenews/20221008/1794681.md">核末日近了?拜登话音刚落朝鲜核试爆地点地震…</a></li>
-<li><a href="/cnnews/20221009/1794893.md">疯传…中国男子全家润美全记录</a></li>
+<li><a href="/cnnews/20221009/1794907.md">中国重机女网红爆车祸惨死！逆向冲撞骑士</a></li>
 <li><a href="/comments/20221008/1794778.md">袁红冰谈官场内幕：中国等待一次重大事变（大纪元记者宁海钟、骆亚报导）</a></li>
+<li><a href="/worldnews/20221009/1794881.md">中共最后一任铁道部长盛光祖被逮捕</a></li>
+<li><a href="/topimagenews/20221009/1794874.md">退将1句话曝克里米亚案不单纯</a></li>
 <li><a href="/funmedia/20221008/1794707.md">我见过最顶级的聪明：从不怕欠人情</a></li>
 <li><a href="/sohnews/20221008/1794756.md">文睿：重磅：克里米亚大桥断了，普京快了，习不远了</a></li>
-<li><a href="/cnnews/20221009/1794907.md">中国重机女网红爆车祸惨死！逆向冲撞骑士</a></li>
-<li><a href="/topimagenews/20221009/1794874.md">退将1句话曝克里米亚案不单纯</a></li>
 <li><a href="/comments/20221008/1794811.md">胡锡进嘲笑马斯克 被对方用一句中文回怼</a></li>
-<li><a href="/worldnews/20221009/1794881.md">中共最后一任铁道部长盛光祖被逮捕</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221009/1795024.md" target="_blank">深度！俄乌战争，已转化为美国“根”之战</a></li>
+<li><a href="/comments/20221009/1795023.md" target="_blank">我用两次惨痛的经历帮大家趟雷了：没事不要去江西</a></li>
+<li><a href="/comments/20221009/1795022.md" target="_blank">网络民议：“老板放心，我这里管理最严，会前绝不会出不和谐”</a></li>
+<li><a href="/comments/20221009/1795021.md" target="_blank">刻赤大桥被炸：一场完美的敌后破坏行动</a></li>
 <li><a href="/comments/20221009/1795016.md" target="_blank">【杰森视角】俄乌战争再升级！举棋不定的普京让世界惴惴不安! 习近平两招为自己在中共祖庙塑神坛！普京40岁前的三个经历塑造他的今天！俄军缺人缺到三个兵种混开一辆坦克！马斯克话太多！</a></li>
 <li><a href="/comments/20221009/1795014.md" target="_blank">西坡：新闻死了，不一定是坏事</a></li>
 <li><a href="/comments/20221009/1795001.md" target="_blank">传上海酒吧有人举红码蹦迪 数千人惨变密接</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20221009/1794914.md" target="_blank">周晓辉：中纪委全会最短公报折射中南海不平静</a></li>
 <li><a href="/comments/20221009/1794913.md" target="_blank">高晓松：对中国最好的就是美国，对中国最歧视和凌辱的就是俄国，为什么反美亲俄？</a></li>
 <li><a href="/comments/20221009/1794902.md" target="_blank">外资疯减持 中国债市损失近6000亿</a></li>
-<li><a href="/comments/20221009/1794901.md" target="_blank">旅游购物双断崖 清零捣毁十一</a></li>
-<li><a href="/comments/20221009/1794890.md" target="_blank">首届欧洲政治共同体会议召开 俄罗斯与白俄罗斯未获邀请</a></li>
-<li><a href="/comments/20221009/1794861.md" target="_blank">上千军警排成人墙，在天安门广场上设置了警戒线，如临大敌。情况不明！</a></li>
-<li><a href="/comments/20221009/1794858.md" target="_blank">克里米亚大桥：桥梁爆炸后乌克兰的兴奋和恐惧</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 <li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 <li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
 
 </ul>
 </div>
