@@ -7,26 +7,26 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221009/1794895.md">疯传钟南山给中央的一封信：要把真话说出来</a></li>
 <li><a href="/comments/20221009/1794861.md">上千军警排成人墙，在天安门广场上设置了警戒线，如临大敌。情况不明！</a></li>
-<li><a href="/topimagenews/20221008/1794750.md">惨成普丁“炮灰”！俄军坦克车队撤退途中遭轰爆…</a></li>
-<li><a href="/cnnews/20221009/1794893.md">疯传…中国男子全家润美全记录</a></li>
 <li><a href="/cbnews/20221009/1794929.md">中国官宣：同意上海重庆等城市从事出境游</a></li>
 <li><a href="/cnnews/20221009/1794907.md">中国重机女网红爆车祸惨死！逆向冲撞骑士</a></li>
+<li><a href="/topimagenews/20221008/1794750.md">惨成普丁“炮灰”！俄军坦克车队撤退途中遭轰爆…</a></li>
+<li><a href="/cnnews/20221009/1794893.md">疯传…中国男子全家润美全记录</a></li>
 <li><a href="/sohnews/20221008/1794803.md">陈破空：党媒变调！对习近平提法有变，两个确立消失？中纪委极短公报引热议！王岐山大秘遭双开</a></li>
 <li><a href="/cbnews/20221009/1794972.md">天亮时分：习近平密会江泽民，达成人事折衷方案？普京生日，乌克兰送大礼，刻赤大桥被炸！拜登祭出对中共最严厉的高科技禁令（政论天下第814集 20221008）</a></li>
+<li><a href="/comments/20221009/1794913.md">高晓松：对中国最好的就是美国，对中国最歧视和凌辱的就是俄国，为什么反美亲俄？</a></li>
 <li><a href="/comments/20221008/1794778.md">袁红冰谈官场内幕：中国等待一次重大事变（大纪元记者宁海钟、骆亚报导）</a></li>
 <li><a href="/cnnews/20221008/1794768.md">普丁生日的“礼物”？克里米亚大桥爆炸 乌克兰高官：这只是开始</a></li>
+<li><a href="/yule/20221009/1794941.md">曝中国富豪与日女星发生关系！花钱找人女孩未成年，王思聪躺枪</a></li>
 <li><a href="/topimagenews/20221008/1794765.md">美媒：普丁核心圈有异音 拜登纳入每日情报</a></li>
-<li><a href="/cnnews/20221008/1794740.md">恐怖！克里米亚大桥惊传爆炸 大火吞噬桥体…</a></li>
-<li><a href="/comments/20221009/1794913.md">高晓松：对中国最好的就是美国，对中国最歧视和凌辱的就是俄国，为什么反美亲俄？</a></li>
 <li><a href="/comments/20221009/1794856.md">克里米亚大桥被炸后的景象！</a></li>
 <li><a href="/topimagenews/20221009/1794974.md">给习近平拉清单！反习派大战中宣部！【阿波罗网报道】</a></li>
-<li><a href="/yule/20221009/1794941.md">曝中国富豪与日女星发生关系！花钱找人女孩未成年，王思聪躺枪</a></li>
-<li><a href="/worldnews/20221009/1794881.md">中共最后一任铁道部长盛光祖被逮捕</a></li>
 <li><a href="/topimagenews/20221009/1795035.md">习近平连任与否？这公报藏重大信号！【阿波罗网报道】</a></li>
+<li><a href="/worldnews/20221009/1794881.md">中共最后一任铁道部长盛光祖被逮捕</a></li>
 <li><a href="/topimagenews/20221009/1794874.md">退将1句话曝克里米亚案不单纯</a></li>
-<li><a href="/sohnews/20221008/1794756.md">文睿：重磅：克里米亚大桥断了，普京快了，习不远了</a></li>
 <li><a href="/comments/20221008/1794811.md">胡锡进嘲笑马斯克 被对方用一句中文回怼</a></li>
+<li><a href="/sohnews/20221008/1794756.md">文睿：重磅：克里米亚大桥断了，普京快了，习不远了</a></li>
 <li><a href="/cbnews/20221009/1794866.md">学者：中共20大报告 对国际形势将有这样的判断</a></li>
+<li><a href="/topimagenews/20221009/1795037.md">上千军警排成人墙 天安门广场如临大敌</a></li>
 <li><a href="/worldnews/20221008/1794772.md">克里米亚大桥爆炸 桥面烧断坍塌入海</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221009/1795061.md" target="_blank">疯狂！山西永济市发通告：没疫情也封城</a></li>
+<li><a href="/comments/20221009/1795059.md" target="_blank">【独家重磅】李燕铭：病毒专家吴建国猝死深度黑幕（四） 吴建国离开武汉病毒实验室调往“华侨最高学府” 江泽民叔父江上青曾在此求学 上海帮要员万钢现任董事长 中国最早开办医学院的综合性大学 涉活摘器官 习点江曾死穴清洗江绵恒暗黑帝国（二五） 二十大政变与反政变（五五） 习近平决战江曾（三六）</a></li>
 <li><a href="/comments/20221009/1795056.md" target="_blank">【独家重磅】李燕铭：病毒专家吴建国猝死深度黑幕（三） 吴建国导师中国病毒学“教父”听命江绵恒上海帮组建病毒研究中心 指导的博士生王延轶随后担任武汉病毒所所长 吴建国导师武汉疫情爆发前夕死亡 葬礼高规格举行 习点江曾死穴清洗江绵恒暗黑帝国（二四） 二十大政变与反政变（五四） 习近平决战江曾（三五）</a></li>
 <li><a href="/comments/20221009/1795054.md" target="_blank">杭州一商场突遭封控，顾客仓皇出逃。未能逃脱的顾客，凌晨被拉走异地隔离。</a></li>
 <li><a href="/comments/20221009/1795053.md" target="_blank">【独家重磅】李燕铭：病毒专家吴建国猝死深度黑幕（二） 武汉P4实验室正式运行前后 江绵恒密集空降上海帮马仔接管病毒学国家重点实验室及P4实验室 部署吴建国南下暨南大学组建新的生化政变基地 习点江曾死穴清洗江绵恒暗黑帝国（二三） 二十大政变与反政变（五三） 习近平决战江曾（三四）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221009/1794924.md" target="_blank">恐怖！克里米亚大桥惊传爆炸 烈火吞噬桥体</a></li>
 <li><a href="/comments/20221009/1794923.md" target="_blank">中纪委全会现异常 人事只字未提 赵乐际去向难料</a></li>
 <li><a href="/comments/20221009/1794918.md" target="_blank">叮咚：“核末日”风险陡增，一场复杂游戏实已开场</a></li>
-<li><a href="/comments/20221009/1794917.md" target="_blank">克里米亚大桥被炸：当“坚不可摧”被摧</a></li>
-<li><a href="/comments/20221009/1794916.md" target="_blank">石铭：惨绝人寰的迫害何时了？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 <li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
 
 </ul>
 </div>
