@@ -13,21 +13,21 @@
 <li><a href="/topimagenews/20221010/1795309.md">中国自中共二十大后，习近平的“新同志”们</a></li>
 <li><a href="/cbnews/20221010/1795200.md">中国公务员夫妻耍官威！呛加油站员工“捡破烂的”：我40万表能买你命</a></li>
 <li><a href="/cnnews/20221010/1795283.md">高颜值伴郎抢尽新郎风头，女网友们炸锅了…</a></li>
-<li><a href="/headline/20221009/1795164.md">中共十九届七中全会在北京召开</a></li>
 <li><a href="/topimagenews/20221010/1795199.md">马斯克喊台湾特别行政区 矢板明夫曝特斯拉在上海产量、惊喊“中共出手了”</a></li>
-<li><a href="/topimagenews/20221010/1795349.md">习近平不会容忍 元老干政在中国终结</a></li>
 <li><a href="/cbnews/20221010/1795273.md">中共20大 “三定”之会：班子、旗帜、道路</a></li>
+<li><a href="/topimagenews/20221010/1795349.md">习近平不会容忍 元老干政在中国终结</a></li>
 <li><a href="/cbnews/20221010/1795425.md">新时代新忌讳：变天、呵呵、熊头，全都不能发？</a></li>
 <li><a href="/cnnews/20221009/1795178.md">乌军情报机构：俄警卫军进驻莫斯科 逮捕大批军人</a></li>
 <li><a href="/topimagenews/20221010/1795374.md">中国哭墙：我们究竟还要陪那个小学生演多久…</a></li>
 <li><a href="/ssgc/20221010/1795246.md">〖兲朝浮世绘〗马斯克拍中共马屁拍出一脸马粪</a></li>
 <li><a href="/cnnews/20221010/1795392.md">马云最怕的人：电商之父，为美人放弃3万亿江山</a></li>
 <li><a href="/headline/20221010/1795271.md">习近平王朝登场了？</a></li>
+<li><a href="/topimagenews/20221010/1795458.md">空袭警报响不停！普丁复仇狂轰75枚导弹 泽伦斯基：全国都有死伤</a></li>
+<li><a href="/topimagenews/20221010/1795390.md">遭屏蔽：中国正在全社会发酵“无力感”</a></li>
 <li><a href="/ssgc/20221009/1795167.md">中纪委全会最短公报折射中南海不平静</a></li>
 <li><a href="/cnnews/20221010/1795261.md">四川爸爸走吊桥狂晃，女儿崩溃大哭 下秒突然“消失”</a></li>
-<li><a href="/topimagenews/20221010/1795390.md">遭屏蔽：中国正在全社会发酵“无力感”</a></li>
 <li><a href="/ccpdope/20221010/1795234.md">二十大前 扒扒三呆婊是咋教唆淫乱的</a></li>
-<li><a href="/topimagenews/20221010/1795458.md">空袭警报响不停！普丁复仇狂轰75枚导弹 泽伦斯基：全国都有死伤</a></li>
+<li><a href="/comments/20221010/1795268.md">一个县竟然养了那么多的特警？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221010/1795528.md" target="_blank">上海官方否认“全市停课” 网友眉头一皱“没事别辟谣”</a></li>
 <li><a href="/comments/20221010/1795501.md" target="_blank">一对老人 房子被强拆，大雪天他们只能住茅草棚！ 老太太哭诉说： 冷啊，俺两八九十了，家里的房被村长拔了（强拆），他们不管， 俺两口只能住雪地里，连做饭的地方都没有，他们太厉害了！</a></li>
 <li><a href="/comments/20221010/1795500.md" target="_blank">中共一定要让百姓穷，让百姓卑贱，让百姓时刻陷入绝境，才能使百姓永无安全感，永远惧怕中共的淫威。</a></li>
 <li><a href="/comments/20221010/1795495.md" target="_blank">真正的仙女，竟然长这样？眼睛看到的都不是真的？！空气中也有能量！你知道自己丢失了多少先天能力吗？《给凡妮莎的信》之一。</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221009/1794972.md" target="_blank">天亮时分：习近平密会江泽民，达成人事折衷方案？普京生日，乌克兰送大礼，刻赤大桥被炸！拜登祭出对中共最严厉的高科技禁令（政论天下第814集 20221008）</a></li>
 <li><a href="/cbnews/20221009/1794929.md" target="_blank">中国官宣：同意上海重庆等城市从事出境游</a></li>
 <li><a href="/comments/20221009/1794926.md" target="_blank">中共解放军在湛江海面集结了大批军舰。威慑台湾？</a></li>
-<li><a href="/comments/20221009/1794913.md" target="_blank">高晓松：对中国最好的就是美国，对中国最歧视和凌辱的就是俄国，为什么反美亲俄？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221010/1795516.md" target="_blank">中国问题学者：习近平权力够大 能挺过任何内部风险</a></li>
 <li><a href="/comments/20221010/1795508.md" target="_blank">【杜耀明评论】特首，这三个月你一定睡得很好</a></li>
 <li><a href="/comments/20221010/1795501.md" target="_blank">一对老人 房子被强拆，大雪天他们只能住茅草棚！ 老太太哭诉说： 冷啊，俺两八九十了，家里的房被村长拔了（强拆），他们不管， 俺两口只能住雪地里，连做饭的地方都没有，他们太厉害了！</a></li>
 <li><a href="/comments/20221010/1795500.md" target="_blank">中共一定要让百姓穷，让百姓卑贱，让百姓时刻陷入绝境，才能使百姓永无安全感，永远惧怕中共的淫威。</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221010/1795330.md" target="_blank">【微博精粹】 老板们推出疫情新生意 乙方还是全国韭菜</a></li>
 <li><a href="/comments/20221010/1795319.md" target="_blank">中共二十大后 习近平的新同志们</a></li>
 <li><a href="/comments/20221010/1795318.md" target="_blank">中国何时能再出一个屠呦呦？</a></li>
-<li><a href="/comments/20221010/1795299.md" target="_blank">关于核酸，网友发现了19年前涉及SARS的秘密</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
 <li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 
 </ul>
 </div>
