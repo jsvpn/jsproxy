@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221009/1795035.md">习近平连任与否？这公报藏重大信号！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221009/1795050.md">传普京已决定使用核武器</a></li>
 <li><a href="/cnnews/20221009/1795105.md">部级高官们的“公共情妇”，沟通能力有多强？</a></li>
-<li><a href="/topimagenews/20221009/1795034.md">比“调休”更恶心的事，令全网震怒：滚出中国</a></li>
 <li><a href="/cnnews/20221009/1795055.md">重磅！普京已决定使用核武器 “他想带走世界”【阿波罗网编译报道】</a></li>
 <li><a href="/cnnews/20221009/1795043.md">女贪官密室被查，丈夫演戏？看一半受不了：我走行不？</a></li>
 <li><a href="/topimagenews/20221009/1795037.md">上千军警排成人墙 天安门广场如临大敌</a></li>
@@ -16,18 +14,20 @@
 <li><a href="/sohnews/20221009/1795136.md">陈破空：七中全会登场！政变同时发生？上万军警包围中南海和天安门。会议发极简公报。习王把持局面！山西证实疫情造假。普京将对乌克兰全面宣战？直播与互动 美东10月9日早8点30、即中港台10月9日晚8点30</a></li>
 <li><a href="/health/20221009/1795094.md">上厕所时，大便前头干硬，后头软粘，说明了什么？看完涨知识了</a></li>
 <li><a href="/cnnews/20221009/1795058.md">嘉定某近3000人小区被封控，上海人真的累了…</a></li>
+<li><a href="/topimagenews/20221010/1795252.md">20大在即，“两只灰犀牛”狂奔而来，北京紧张</a></li>
 <li><a href="/comments/20221009/1795142.md">二十大是场大戏 专家分析：习连任意味什么</a></li>
 <li><a href="/ccpdope/20221009/1795051.md">外界首次得知！中共有精通性酷刑的专家</a></li>
-<li><a href="/topimagenews/20221010/1795252.md">20大在即，“两只灰犀牛”狂奔而来，北京紧张</a></li>
 <li><a href="/ssgc/20221009/1795151.md">帮大家趟雷：没事不要去江西</a></li>
 <li><a href="/cnnews/20221010/1795193.md">星链太威！中共怕了？ 马斯克：北京要求别在中国贩售</a></li>
 <li><a href="/comments/20221010/1795210.md">上海人懵了！又开启另一轮疫情封控 狂建方舱</a></li>
 <li><a href="/headline/20221009/1795164.md">中共十九届七中全会在北京召开</a></li>
 <li><a href="/topimagenews/20221010/1795199.md">马斯克喊台湾特别行政区 矢板明夫曝特斯拉在上海产量、惊喊“中共出手了”</a></li>
 <li><a href="/comments/20221009/1795074.md">敏感时刻美对中共出重拳 专家：形同宣战</a></li>
-<li><a href="/cbnews/20221009/1795135.md">只为“保北京”：多地强化疫情封控，引爆民怨</a></li>
 <li><a href="/cbnews/20221010/1795200.md">中国公务员夫妻耍官威！呛加油站员工“捡破烂的”：我40万表能买你命</a></li>
+<li><a href="/topimagenews/20221010/1795272.md">习近平要“解散党”？网友高呼：坚决支持！【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20221009/1795135.md">只为“保北京”：多地强化疫情封控，引爆民怨</a></li>
 <li><a href="/cnnews/20221009/1795178.md">乌军情报机构：俄警卫军进驻莫斯科 逮捕大批军人</a></li>
+<li><a href="/topimagenews/20221009/1795057.md">乌军夜袭精准打击，俄军敌我不分不敢开火</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221010/1795363.md" target="_blank">深圳回迁房曝大骗局：空手套白狼，涉及80多套房</a></li>
 <li><a href="/topimagenews/20221010/1795349.md" target="_blank">习近平不会容忍 元老干政在中国终结</a></li>
 <li><a href="/topimagenews/20221010/1795309.md" target="_blank">中国自中共二十大后，习近平的“新同志”们</a></li>
 <li><a href="/topimagenews/20221010/1795308.md" target="_blank">习近平还能统治多久？</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221008/1794728.md" target="_blank">生活贫困！朝鲜离婚也增加…</a></li>
 <li><a href="/topimagenews/20221008/1794717.md" target="_blank">怕普京被逼急 俄军接连失利 西方考虑给他台阶下</a></li>
 <li><a href="/topimagenews/20221008/1794682.md" target="_blank">中共二十大 高度不满聚焦习近平 中国人都在等…【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221008/1794681.md" target="_blank">核末日近了?拜登话音刚落朝鲜核试爆地点地震…</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
 <li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
 
 </ul>
 </div>
