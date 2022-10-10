@@ -20,14 +20,14 @@
 <li><a href="/topimagenews/20221010/1795390.md">遭屏蔽：中国正在全社会发酵“无力感”</a></li>
 <li><a href="/ssgc/20221010/1795407.md">中共七中全会再议二十大报告 修改党章重新确立习核心地位</a></li>
 <li><a href="/cnnews/20221010/1795392.md">马云最怕的人：电商之父，为美人放弃3万亿江山</a></li>
-<li><a href="/ssgc/20221010/1795246.md">〖兲朝浮世绘〗马斯克拍中共马屁拍出一脸马粪</a></li>
-<li><a href="/comments/20221010/1795428.md">中国房市“十一”下跌 北京狂跌6成 专家：没有救了</a></li>
 <li><a href="/topimagenews/20221010/1795437.md">应对美“雷根号”航母 朝鲜集体升空150架战机示威 韩国紧急出动F-35A</a></li>
+<li><a href="/ssgc/20221010/1795246.md">〖兲朝浮世绘〗马斯克拍中共马屁拍出一脸马粪</a></li>
 <li><a href="/headline/20221010/1795271.md">习近平王朝登场了？</a></li>
+<li><a href="/comments/20221010/1795428.md">中国房市“十一”下跌 北京狂跌6成 专家：没有救了</a></li>
 <li><a href="/topimagenews/20221010/1795308.md">习近平还能统治多久？</a></li>
-<li><a href="/ccpdope/20221010/1795234.md">二十大前 扒扒三呆婊是咋教唆淫乱的</a></li>
-<li><a href="/lifebaike/20221010/1795441.md">抄电表员提醒：家里这4个插头，用完要拔掉，不然每月电费翻倍交</a></li>
 <li><a href="/comments/20221010/1795268.md">一个县竟然养了那么多的特警？</a></li>
+<li><a href="/comments/20221010/1795500.md">中共一定要让百姓穷，让百姓卑贱，让百姓时刻陷入绝境，才能使百姓永无安全感，永远惧怕中共的淫威。</a></li>
+<li><a href="/ccpdope/20221010/1795234.md">二十大前 扒扒三呆婊是咋教唆淫乱的</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221011/1795607.md" target="_blank">习近平如何应对拜登和布林肯释放的善意？</a></li>
 <li><a href="/topimagenews/20221010/1795511.md" target="_blank">普丁发声了! 将联手小弟公开参战 不排除更严厉报复</a></li>
 <li><a href="/topimagenews/20221010/1795458.md" target="_blank">空袭警报响不停！普丁复仇狂轰75枚导弹 泽伦斯基：全国都有死伤</a></li>
 <li><a href="/topimagenews/20221010/1795437.md" target="_blank">应对美“雷根号”航母 朝鲜集体升空150架战机示威 韩国紧急出动F-35A</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20221009/1794974.md" target="_blank">给习近平拉清单！反习派大战中宣部！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221009/1794895.md" target="_blank">疯传钟南山给中央的一封信：要把真话说出来</a></li>
 <li><a href="/topimagenews/20221009/1794874.md" target="_blank">退将1句话曝克里米亚案不单纯</a></li>
-<li><a href="/topimagenews/20221008/1794765.md" target="_blank">美媒：普丁核心圈有异音 拜登纳入每日情报</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221011/1795606.md" target="_blank">网友发现19年前涉及非典疫情的秘密 非典刚发现时 上海第二军医大学举办了一个敏感年会 细思极恐 中南海不可告人的秘密_557</a></li>
+<li><a href="/comments/20221011/1795604.md" target="_blank">分析：二十大政治局委员 习近平的“贴身护卫”</a></li>
 <li><a href="/comments/20221011/1795603.md" target="_blank">值此关键时刻，俄罗斯恐怕“后院失火”</a></li>
 <li><a href="/comments/20221011/1795602.md" target="_blank">北京女博士猛亲64岁院士被曝光，保大还是保小？</a></li>
 <li><a href="/comments/20221011/1795600.md" target="_blank">中国互联网疯传钟南山给中南海的一封信：要把真话说出来 中南海谣言预言_542</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221010/1795450.md" target="_blank">盘点日常膳食中的11种高磷食物</a></li>
 <li><a href="/comments/20221010/1795449.md" target="_blank">它素有定风草的美誉，现代研究发现其功效满满</a></li>
 <li><a href="/comments/20221010/1795448.md" target="_blank">远离十件事，拒绝老年斑年轻化</a></li>
-<li><a href="/comments/20221010/1795447.md" target="_blank">放了支架、装了假牙 能做磁共振检查吗？</a></li>
-<li><a href="/comments/20221010/1795446.md" target="_blank">如果你家的调味品放错地方了！有可能会产生一级致癌物</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 <li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
 
 </ul>
 </div>
