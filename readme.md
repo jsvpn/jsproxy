@@ -16,15 +16,15 @@
 <li><a href="/sohnews/20221011/1795685.md">二十大后习近平盛极而衰，垮台、送命皆有可能！促发巨变的因素全部到齐，天下反习大势将成！ （一平论政2022/10/10)</a></li>
 <li><a href="/cbnews/20221011/1795719.md">天亮时分：二十大前防疫再升级，习近平否定邓小平路线；报复乌克兰，俄军秀出“黔驴”之技；蔡英文国庆演讲，少了一句话（政论天下第815集 20221009）</a></li>
 <li><a href="/topimagenews/20221011/1795802.md">【微博精粹】中国人这么乖 匪20大后升级铁链男女不是梦</a></li>
-<li><a href="/cnnews/20221011/1795622.md">“星链”威力太强大 马斯克爆北京曾要他做保证</a></li>
 <li><a href="/topimagenews/20221011/1795897.md">党媒定调 大陆“动态清零”可持续而且必须坚持</a></li>
-<li><a href="/cbnews/20221011/1795625.md">二十大开幕之际 中共喉舌再挺清零政策</a></li>
-<li><a href="/cbnews/20221011/1795832.md">江峰：万名军警拱卫中南海，二十大如大战在即；全会刚开新华社急发短文‘他还在’，央视不报，军报不提，反了的节奏；前线将军称俄无赢机会，普京撤亲信防长绍伊古，无差异空袭基辅【江峰漫谈20221010第560期】</a></li>
 <li><a href="/health/20221011/1795874.md">肠道“推粪机”已揭晓，香蕉不在榜，建议多吃，大肚腩或离你而去</a></li>
-<li><a href="/topimagenews/20221011/1795607.md">习近平如何应对拜登和布林肯释放的善意？</a></li>
-<li><a href="/ssgc/20221011/1795769.md">〖兲朝浮世绘〗新华社塑造“伟大领袖形象” 习成毛魔翻版</a></li>
-<li><a href="/comments/20221011/1795606.md">网友发现19年前涉及非典疫情的秘密 非典刚发现时 上海第二军医大学举办了一个敏感年会 细思极恐 中南海不可告人的秘密_557</a></li>
+<li><a href="/cnnews/20221011/1795622.md">“星链”威力太强大 马斯克爆北京曾要他做保证</a></li>
+<li><a href="/cbnews/20221011/1795832.md">江峰：万名军警拱卫中南海，二十大如大战在即；全会刚开新华社急发短文‘他还在’，央视不报，军报不提，反了的节奏；前线将军称俄无赢机会，普京撤亲信防长绍伊古，无差异空袭基辅【江峰漫谈20221010第560期】</a></li>
 <li><a href="/comments/20221011/1795829.md">二十大主席团要出手？反习派大战中宣部</a></li>
+<li><a href="/cbnews/20221011/1795625.md">二十大开幕之际 中共喉舌再挺清零政策</a></li>
+<li><a href="/ssgc/20221011/1795769.md">〖兲朝浮世绘〗新华社塑造“伟大领袖形象” 习成毛魔翻版</a></li>
+<li><a href="/topimagenews/20221011/1795607.md">习近平如何应对拜登和布林肯释放的善意？</a></li>
+<li><a href="/comments/20221011/1795606.md">网友发现19年前涉及非典疫情的秘密 非典刚发现时 上海第二军医大学举办了一个敏感年会 细思极恐 中南海不可告人的秘密_557</a></li>
 <li><a href="/comments/20221011/1795677.md">文昭：刺向习近平的最後一把匕首：祸起主席团？还有比清零破坏力更大的风暴要来</a></li>
 <li><a href="/comments/20221011/1795842.md">【独家重磅】李燕铭：胡锦涛伤心地老家官场数十官员被查 习近平二十大前敏感期清洗江绵恒生工基地 国家级医药高新区高管接连被查 李源潮曾作批示 泄露江绵恒通过上海帮江苏帮操控中国医药生工系统黑幕 习点江曾死穴清洗江绵恒暗黑帝国（二六） 习近平决战江曾（三七） 江泽民江苏帮政变谋刺习近平 习绝地反击（三十）</a></li>
 <li><a href="/topimagenews/20221011/1795678.md">小粉红跳脚 中华民国国旗包围中共使馆</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221011/1796007.md" target="_blank">时事大家谈：二十大派系政治难题：三大派系幕后权力角逐？二十大预备会七中全会开幕，主席团常委会为何成看点？&#160;</a></li>
 <li><a href="/comments/20221011/1795978.md" target="_blank">辽宁营口一公职夫妇大耍官威：我这表40万能买你命</a></li>
 <li><a href="/comments/20221011/1795951.md" target="_blank">香港“反送中”理大冲突再有 5人被判非法集结 最重1年半徒刑</a></li>
 <li><a href="/comments/20221011/1795950.md" target="_blank">基辅遭俄军狂轰猛炸 女子街上视讯录下“超近爆炸画面”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221011/1795829.md" target="_blank">二十大主席团要出手？反习派大战中宣部</a></li>
 <li><a href="/comments/20221011/1795823.md" target="_blank">经济学家：美国新车供给缓解 但许多人买不起</a></li>
 <li><a href="/comments/20221011/1795818.md" target="_blank">为二十大铺路 分赃会启动</a></li>
-<li><a href="/comments/20221011/1795816.md" target="_blank">【方菲时间】核战离我们有多远？中国核基地的黑暗秘密；严酷防疫：应该为了“多数人”牺牲“少数人”吗？｜10/09/2022</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
 
 </ul>
 </div>
