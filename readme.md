@@ -26,8 +26,8 @@
 <li><a href="/comments/20221011/1795677.md">文昭：刺向习近平的最後一把匕首：祸起主席团？还有比清零破坏力更大的风暴要来</a></li>
 <li><a href="/ssgc/20221011/1795769.md">〖兲朝浮世绘〗新华社塑造“伟大领袖形象” 习成毛魔翻版</a></li>
 <li><a href="/topimagenews/20221011/1795678.md">小粉红跳脚 中华民国国旗包围中共使馆</a></li>
-<li><a href="/sohnews/20221010/1795505.md">习近平若继续折腾未来最实用建议！基辅被炸大战开始……</a></li>
 <li><a href="/sohnews/20221010/1795496.md">陈破空：七中全会幕后：修改党章爆恶斗！王沪宁图谋改一条，遭反习派抵制。台湾双十好看，压倒中共十一。普京报复，对基辅狂轰滥炸。美东10月10日早8点30、即中港台10月10日晚8点30</a></li>
+<li><a href="/sohnews/20221010/1795505.md">习近平若继续折腾未来最实用建议！基辅被炸大战开始……</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221011/1795919.md" target="_blank">中共官宣：15日开20大首场记者会</a></li>
 <li><a href="/comments/20221011/1795839.md" target="_blank">逢年过节，中共官员开始了“送温暖”的作秀活动，但百姓不再买他们的帐了。</a></li>
 <li><a href="/cbnews/20221011/1795832.md" target="_blank">江峰：万名军警拱卫中南海，二十大如大战在即；全会刚开新华社急发短文‘他还在’，央视不报，军报不提，反了的节奏；前线将军称俄无赢机会，普京撤亲信防长绍伊古，无差异空袭基辅【江峰漫谈20221010第560期】</a></li>
 <li><a href="/cbnews/20221011/1795570.md" target="_blank">新时代的邪恶轴心 | &quot;动物庄园&quot;动画剧场</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/comments/20221010/1795395.md" target="_blank">失业大潮下，济南张庄劳务市场的一条街上，每天几万人都在找工作，就业内卷化。</a></li>
 <li><a href="/cbnews/20221010/1795375.md" target="_blank">阳澄湖大闸蟹20天销量不如去年1天</a></li>
 <li><a href="/cbnews/20221010/1795355.md" target="_blank">习近平真有一个中国梦 世界没有认真对待他？</a></li>
-<li><a href="/cbnews/20221010/1795354.md" target="_blank">全面升级！美军下一代坦克“艾布兰X”亮相…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221011/1795918.md" target="_blank">普丁报复 基辅发电厂遭“核爆级”轰炸 蕈状云窜升惊悚…</a></li>
 <li><a href="/topimagenews/20221011/1795897.md" target="_blank">党媒定调 大陆“动态清零”可持续而且必须坚持</a></li>
 <li><a href="/topimagenews/20221011/1795870.md" target="_blank">欧盟“背骨仔”！匈牙利、塞尔维亚向俄私拉油管 规避欧盟制裁令</a></li>
 <li><a href="/topimagenews/20221011/1795821.md" target="_blank">北韩首次从水下发射场射弹 金正恩：与敌人没什么好谈</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221010/1795199.md" target="_blank">马斯克喊台湾特别行政区 矢板明夫曝特斯拉在上海产量、惊喊“中共出手了”</a></li>
 <li><a href="/topimagenews/20221010/1795198.md" target="_blank">海啸来临！中国芯片产业被美打回“石器时代”</a></li>
 <li><a href="/topimagenews/20221010/1795190.md" target="_blank">克里米亚大桥“卡车炸弹”曝光 车主现身喊冤：不是我开的</a></li>
-<li><a href="/topimagenews/20221009/1795057.md" target="_blank">乌军夜袭精准打击，俄军敌我不分不敢开火</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221011/1795920.md" target="_blank">又有太阳系外访客！ 天文学家发现第二起星际流星撞地球</a></li>
 <li><a href="/comments/20221011/1795886.md" target="_blank">英情报官员：中国科技发展威胁全球安全</a></li>
 <li><a href="/comments/20221011/1795885.md" target="_blank">「寒露」血液循环差 中医教3招活络筋骨</a></li>
 <li><a href="/comments/20221011/1795884.md" target="_blank">决定寿命长短的不是吃和运动，而是这个&#8230;&#8230;</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221011/1795753.md" target="_blank">孙立平：欧洲右翼大抬头 他们反对的核心都是这一个</a></li>
 <li><a href="/comments/20221011/1795744.md" target="_blank">李燕铭：习近平在人民日报出现频率比李克强高七倍 习二十大黄袍加身将建成绝对权力控制体系 修改党章或加入六项内容 习主政十年处处烂尾但权力强大能挺过任何内部风险 分析：习近平是翻版毛泽东 二十大后将一吐怨气更胆大妄为 习近平连任与二十大常委争夺战（七四）</a></li>
 <li><a href="/comments/20221011/1795743.md" target="_blank">评俄乌战争近况 CNN主编：普京陷两难</a></li>
-<li><a href="/comments/20221011/1795742.md" target="_blank">梁朝伟将参演《鱿鱼游戏2》？刘嘉玲IG泄密</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 <li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
 
 </ul>
 </div>
