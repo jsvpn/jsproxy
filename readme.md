@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221010/1795511.md">普丁发声了! 将联手小弟公开参战 不排除更严厉报复</a></li>
 <li><a href="/headline/20221011/1795589.md">中共二十大在即 国务院总理人选恐破惯例</a></li>
-<li><a href="/cbnews/20221010/1795478.md">求购50万件冬装被拒，俄军熬不到明年春天？</a></li>
 <li><a href="/ssgc/20221010/1795518.md">七中全会召开 党媒军报现三大诡异</a></li>
+<li><a href="/cbnews/20221010/1795478.md">求购50万件冬装被拒，俄军熬不到明年春天？</a></li>
 <li><a href="/comments/20221010/1795500.md">中共一定要让百姓穷，让百姓卑贱，让百姓时刻陷入绝境，才能使百姓永无安全感，永远惧怕中共的淫威。</a></li>
 <li><a href="/comments/20221011/1795602.md">北京女博士猛亲64岁院士被曝光，保大还是保小？</a></li>
 <li><a href="/cnnews/20221011/1795648.md">额，又一个专业，今年全军覆没？</a></li>
@@ -16,17 +16,17 @@
 <li><a href="/comments/20221010/1795495.md">真正的仙女，竟然长这样？眼睛看到的都不是真的？！空气中也有能量！你知道自己丢失了多少先天能力吗？《给凡妮莎的信》之一。</a></li>
 <li><a href="/comments/20221011/1795673.md">因为这个？他成为二十大入常大热门人选</a></li>
 <li><a href="/ssgc/20221011/1795688.md">〖微博谈〗皇上十年执政最大的功绩</a></li>
-<li><a href="/sohnews/20221011/1795685.md">二十大后习近平盛极而衰，垮台、送命皆有可能！促发巨变的因素全部到齐，天下反习大势将成！ （一平论政2022/10/10)</a></li>
 <li><a href="/comments/20221011/1795604.md">分析：二十大政治局委员 习近平的“贴身护卫”</a></li>
+<li><a href="/sohnews/20221011/1795685.md">二十大后习近平盛极而衰，垮台、送命皆有可能！促发巨变的因素全部到齐，天下反习大势将成！ （一平论政2022/10/10)</a></li>
 <li><a href="/cbnews/20221011/1795719.md">天亮时分：二十大前防疫再升级，习近平否定邓小平路线；报复乌克兰，俄军秀出“黔驴”之技；蔡英文国庆演讲，少了一句话（政论天下第815集 20221009）</a></li>
-<li><a href="/topimagenews/20221011/1795607.md">习近平如何应对拜登和布林肯释放的善意？</a></li>
-<li><a href="/cnnews/20221011/1795622.md">“星链”威力太强大 马斯克爆北京曾要他做保证</a></li>
 <li><a href="/topimagenews/20221011/1795802.md">【微博精粹】中国人这么乖 匪20大后升级铁链男女不是梦</a></li>
+<li><a href="/cnnews/20221011/1795622.md">“星链”威力太强大 马斯克爆北京曾要他做保证</a></li>
+<li><a href="/topimagenews/20221011/1795607.md">习近平如何应对拜登和布林肯释放的善意？</a></li>
 <li><a href="/cbnews/20221011/1795625.md">二十大开幕之际 中共喉舌再挺清零政策</a></li>
 <li><a href="/comments/20221011/1795606.md">网友发现19年前涉及非典疫情的秘密 非典刚发现时 上海第二军医大学举办了一个敏感年会 细思极恐 中南海不可告人的秘密_557</a></li>
 <li><a href="/comments/20221011/1795677.md">文昭：刺向习近平的最後一把匕首：祸起主席团？还有比清零破坏力更大的风暴要来</a></li>
-<li><a href="/topimagenews/20221011/1795678.md">小粉红跳脚 中华民国国旗包围中共使馆</a></li>
 <li><a href="/ssgc/20221011/1795769.md">〖兲朝浮世绘〗新华社塑造“伟大领袖形象” 习成毛魔翻版</a></li>
+<li><a href="/topimagenews/20221011/1795678.md">小粉红跳脚 中华民国国旗包围中共使馆</a></li>
 <li><a href="/sohnews/20221010/1795505.md">习近平若继续折腾未来最实用建议！基辅被炸大战开始……</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221011/1795897.md" target="_blank">党媒定调 大陆“动态清零”可持续而且必须坚持</a></li>
 <li><a href="/topimagenews/20221011/1795870.md" target="_blank">欧盟“背骨仔”！匈牙利、塞尔维亚向俄私拉油管 规避欧盟制裁令</a></li>
 <li><a href="/topimagenews/20221011/1795821.md" target="_blank">北韩首次从水下发射场射弹 金正恩：与敌人没什么好谈</a></li>
 <li><a href="/topimagenews/20221011/1795802.md" target="_blank">【微博精粹】中国人这么乖 匪20大后升级铁链男女不是梦</a></li>
@@ -90,13 +91,20 @@
 <li><a href="/topimagenews/20221010/1795198.md" target="_blank">海啸来临！中国芯片产业被美打回“石器时代”</a></li>
 <li><a href="/topimagenews/20221010/1795190.md" target="_blank">克里米亚大桥“卡车炸弹”曝光 车主现身喊冤：不是我开的</a></li>
 <li><a href="/topimagenews/20221009/1795057.md" target="_blank">乌军夜袭精准打击，俄军敌我不分不敢开火</a></li>
-<li><a href="/topimagenews/20221009/1795037.md" target="_blank">上千军警排成人墙 天安门广场如临大敌</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221011/1795886.md" target="_blank">英情报官员：中国科技发展威胁全球安全</a></li>
+<li><a href="/comments/20221011/1795885.md" target="_blank">「寒露」血液循环差 中医教3招活络筋骨</a></li>
+<li><a href="/comments/20221011/1795884.md" target="_blank">决定寿命长短的不是吃和运动，而是这个&#8230;&#8230;</a></li>
+<li><a href="/comments/20221011/1795883.md" target="_blank">女性比男性怕冷？ 两大因素是关键</a></li>
+<li><a href="/comments/20221011/1795882.md" target="_blank">小米粥升血糖还是降血糖？</a></li>
+<li><a href="/comments/20221011/1795881.md" target="_blank">宝宝出现这些信号家长要注意：可能是智力发育迟缓</a></li>
+<li><a href="/comments/20221011/1795880.md" target="_blank">老是饿！！ 营养师揭吃不饱的12个原因</a></li>
+<li><a href="/comments/20221011/1795879.md" target="_blank">「麦得饮食」吃出好头脑</a></li>
 <li><a href="/comments/20221011/1795842.md" target="_blank">【独家重磅】李燕铭：胡锦涛伤心地老家官场数十官员被查 习近平二十大前敏感期清洗江绵恒生工基地 国家级医药高新区高管接连被查 李源潮曾作批示 泄露江绵恒通过上海帮江苏帮操控中国医药生工系统黑幕 习点江曾死穴清洗江绵恒暗黑帝国（二六） 习近平决战江曾（三七） 江泽民江苏帮政变谋刺习近平 习绝地反击（三十）</a></li>
 <li><a href="/comments/20221011/1795840.md" target="_blank">诺贝尔奖压轴奖项得主揭晓 经济学奖不是正牌？</a></li>
 <li><a href="/comments/20221011/1795839.md" target="_blank">逢年过节，中共官员开始了“送温暖”的作秀活动，但百姓不再买他们的帐了。</a></li>
@@ -114,14 +122,6 @@
 <li><a href="/comments/20221011/1795744.md" target="_blank">李燕铭：习近平在人民日报出现频率比李克强高七倍 习二十大黄袍加身将建成绝对权力控制体系 修改党章或加入六项内容 习主政十年处处烂尾但权力强大能挺过任何内部风险 分析：习近平是翻版毛泽东 二十大后将一吐怨气更胆大妄为 习近平连任与二十大常委争夺战（七四）</a></li>
 <li><a href="/comments/20221011/1795743.md" target="_blank">评俄乌战争近况 CNN主编：普京陷两难</a></li>
 <li><a href="/comments/20221011/1795742.md" target="_blank">梁朝伟将参演《鱿鱼游戏2》？刘嘉玲IG泄密</a></li>
-<li><a href="/comments/20221011/1795724.md" target="_blank">非农数据爆表、克里米亚炸桥：美国不会罢手</a></li>
-<li><a href="/comments/20221011/1795723.md" target="_blank">九边：绝症之后的纠结</a></li>
-<li><a href="/comments/20221011/1795712.md" target="_blank">白俄与俄罗斯联手 美急召公民从乌撤离</a></li>
-<li><a href="/comments/20221011/1795708.md" target="_blank">魏春亮：弹窗猛于悬崖</a></li>
-<li><a href="/comments/20221011/1795707.md" target="_blank">李濠仲：中共别让布林肯失望了</a></li>
-<li><a href="/comments/20221011/1795706.md" target="_blank">讲个笑话：仗打了七个月，俄军刚想起任命总指挥</a></li>
-<li><a href="/comments/20221011/1795697.md" target="_blank">大陆“十一”假期无奈无聊 破网一日游大开眼界</a></li>
-<li><a href="/comments/20221011/1795696.md" target="_blank">朝俄联手了？韩国突遭腹背攻击引质疑</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
 <li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
 
 </ul>
 </div>
