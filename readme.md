@@ -14,18 +14,18 @@
 <li><a href="/ssgc/20221011/1795688.md">〖微博谈〗皇上十年执政最大的功绩</a></li>
 <li><a href="/comments/20221011/1795604.md">分析：二十大政治局委员 习近平的“贴身护卫”</a></li>
 <li><a href="/sohnews/20221011/1795685.md">二十大后习近平盛极而衰，垮台、送命皆有可能！促发巨变的因素全部到齐，天下反习大势将成！ （一平论政2022/10/10)</a></li>
-<li><a href="/topimagenews/20221011/1795802.md">【微博精粹】中国人这么乖 匪20大后升级铁链男女不是梦</a></li>
 <li><a href="/cbnews/20221011/1795719.md">天亮时分：二十大前防疫再升级，习近平否定邓小平路线；报复乌克兰，俄军秀出“黔驴”之技；蔡英文国庆演讲，少了一句话（政论天下第815集 20221009）</a></li>
+<li><a href="/topimagenews/20221011/1795802.md">【微博精粹】中国人这么乖 匪20大后升级铁链男女不是梦</a></li>
 <li><a href="/cnnews/20221011/1795622.md">“星链”威力太强大 马斯克爆北京曾要他做保证</a></li>
-<li><a href="/cbnews/20221011/1795625.md">二十大开幕之际 中共喉舌再挺清零政策</a></li>
-<li><a href="/topimagenews/20221011/1795607.md">习近平如何应对拜登和布林肯释放的善意？</a></li>
-<li><a href="/cbnews/20221011/1795832.md">江峰：万名军警拱卫中南海，二十大如大战在即；全会刚开新华社急发短文‘他还在’，央视不报，军报不提，反了的节奏；前线将军称俄无赢机会，普京撤亲信防长绍伊古，无差异空袭基辅【江峰漫谈20221010第560期】</a></li>
-<li><a href="/ssgc/20221011/1795769.md">〖兲朝浮世绘〗新华社塑造“伟大领袖形象” 习成毛魔翻版</a></li>
-<li><a href="/comments/20221011/1795829.md">二十大主席团要出手？反习派大战中宣部</a></li>
-<li><a href="/comments/20221011/1795606.md">网友发现19年前涉及非典疫情的秘密 非典刚发现时 上海第二军医大学举办了一个敏感年会 细思极恐 中南海不可告人的秘密_557</a></li>
-<li><a href="/comments/20221011/1795677.md">文昭：刺向习近平的最後一把匕首：祸起主席团？还有比清零破坏力更大的风暴要来</a></li>
 <li><a href="/topimagenews/20221011/1795897.md">党媒定调 大陆“动态清零”可持续而且必须坚持</a></li>
+<li><a href="/cbnews/20221011/1795625.md">二十大开幕之际 中共喉舌再挺清零政策</a></li>
+<li><a href="/cbnews/20221011/1795832.md">江峰：万名军警拱卫中南海，二十大如大战在即；全会刚开新华社急发短文‘他还在’，央视不报，军报不提，反了的节奏；前线将军称俄无赢机会，普京撤亲信防长绍伊古，无差异空袭基辅【江峰漫谈20221010第560期】</a></li>
 <li><a href="/health/20221011/1795874.md">肠道“推粪机”已揭晓，香蕉不在榜，建议多吃，大肚腩或离你而去</a></li>
+<li><a href="/topimagenews/20221011/1795607.md">习近平如何应对拜登和布林肯释放的善意？</a></li>
+<li><a href="/ssgc/20221011/1795769.md">〖兲朝浮世绘〗新华社塑造“伟大领袖形象” 习成毛魔翻版</a></li>
+<li><a href="/comments/20221011/1795606.md">网友发现19年前涉及非典疫情的秘密 非典刚发现时 上海第二军医大学举办了一个敏感年会 细思极恐 中南海不可告人的秘密_557</a></li>
+<li><a href="/comments/20221011/1795829.md">二十大主席团要出手？反习派大战中宣部</a></li>
+<li><a href="/comments/20221011/1795677.md">文昭：刺向习近平的最後一把匕首：祸起主席团？还有比清零破坏力更大的风暴要来</a></li>
 <li><a href="/comments/20221011/1795842.md">【独家重磅】李燕铭：胡锦涛伤心地老家官场数十官员被查 习近平二十大前敏感期清洗江绵恒生工基地 国家级医药高新区高管接连被查 李源潮曾作批示 泄露江绵恒通过上海帮江苏帮操控中国医药生工系统黑幕 习点江曾死穴清洗江绵恒暗黑帝国（二六） 习近平决战江曾（三七） 江泽民江苏帮政变谋刺习近平 习绝地反击（三十）</a></li>
 <li><a href="/topimagenews/20221011/1795678.md">小粉红跳脚 中华民国国旗包围中共使馆</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 <li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 
 </ul>
 </div>
