@@ -17,17 +17,17 @@
 <li><a href="/cbnews/20221012/1796261.md">中共二十大新政局!李克强下台谁将接棒?专家:这4人最有希望…..</a></li>
 <li><a href="/cbnews/20221012/1796196.md">天亮时分：七中全会发生激烈争执，军队表态？摩根大通CEO警告：股市恐再跌20%；中纪委人事移动，王岐山旧部回归（政论天下第817集 20221011）</a></li>
 <li><a href="/topimagenews/20221012/1796093.md">尴尬，西南财大去年解聘今日诺贝尔经济学奖得主</a></li>
-<li><a href="/topimagenews/20221011/1795918.md">普丁报复 基辅发电厂遭“核爆级”轰炸 蕈状云窜升惊悚…</a></li>
 <li><a href="/cnnews/20221012/1796275.md">诡异的低调!以往大张旗鼓 中共七中全会官媒竟不报 只讲这3件事….</a></li>
 <li><a href="/ssgc/20221012/1796242.md">〖兲朝浮世绘〗习近平要玩死上海人</a></li>
 <li><a href="/cbnews/20221012/1796038.md">中共20大前高层再出访 王岐山将赴哈萨克斯坦出席亚信峰会</a></li>
 <li><a href="/sohnews/20221011/1795937.md">陈破空：玄机！王岐山取代习近平？这个行程原本属于习。王亲信悄然获提升。俄罗斯继续狂炸乌克兰！美欧或做强烈反击，正密集协商。美东10月11日早9点、即中港台10月11日晚9点</a></li>
 <li><a href="/cnnews/20221012/1796218.md">华为大佬猝死，给我们提了个大醒</a></li>
-<li><a href="/sohnews/20221012/1796122.md">陈破空：香港有变！习近平在七中全会斗败？党媒捧习出漏洞，或是故意？彭丽媛忽也致贺词，要当江青？美国决向乌克兰提供先进防空系统。直播与互动。美东10月11日晚8点30、即中港台10月12日早8点30</a></li>
 <li><a href="/topimagenews/20221012/1796113.md">过紧日子的，又多了一个？</a></li>
-<li><a href="/cnnews/20221012/1796110.md">命丧文革 三位国民党“投共”上将悲惨结局</a></li>
+<li><a href="/sohnews/20221012/1796122.md">陈破空：香港有变！习近平在七中全会斗败？党媒捧习出漏洞，或是故意？彭丽媛忽也致贺词，要当江青？美国决向乌克兰提供先进防空系统。直播与互动。美东10月11日晚8点30、即中港台10月12日早8点30</a></li>
 <li><a href="/comments/20221012/1796246.md">广东东莞，荷枪实弹的解放军部队频繁在城区内调动！</a></li>
+<li><a href="/cnnews/20221012/1796110.md">命丧文革 三位国民党“投共”上将悲惨结局</a></li>
 <li><a href="/cbnews/20221012/1796082.md">连续被隔离，女孩彻底崩溃：“我才隔离了回来”</a></li>
+<li><a href="/ssgc/20221011/1795947.md">“二十大”中纪委书记是谁？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221012/1796371.md" target="_blank">1366万！这可能是全中国最贵的手机号码</a></li>
 <li><a href="/cbnews/20221012/1796290.md" target="_blank">江峰：俄首富游艇突现香港，曾冒险逃离美国制裁； 李家超遵‘中俄关系无上限’指令，香港将成为俄国逃离国际制裁资产的避风港—死哽啦！【江峰漫谈20221011第561期】</a></li>
 <li><a href="/cbnews/20221012/1796261.md" target="_blank">中共二十大新政局!李克强下台谁将接棒?专家:这4人最有希望…..</a></li>
 <li><a href="/comments/20221012/1796247.md" target="_blank">疫苗、核酸和隔离成了推动中共国GDP增长的新三架马车！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221010/1795562.md" target="_blank">胡佛研究院学者：中“合法”学美技能 再将其武器化</a></li>
 <li><a href="/cbnews/20221010/1795475.md" target="_blank">历史故事：忽然变美的萧耨斤</a></li>
 <li><a href="/cbnews/20221010/1795476.md" target="_blank">元神不灭：阎王殿上的对联</a></li>
-<li><a href="/cbnews/20221010/1795528.md" target="_blank">上海官方否认“全市停课” 网友眉头一皱“没事别辟谣”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221012/1796376.md" target="_blank">袁红冰：《意境性存在——属於心灵的真实》文学卷   第五篇 佛心应如花——审美激情是意境性存在的皇冠</a></li>
 <li><a href="/comments/20221012/1796281.md" target="_blank">出生大陆 长于香港 我这样看中华民国国庆</a></li>
 <li><a href="/comments/20221012/1796253.md" target="_blank">专发国难财的大佬，让美国头疼好多年……</a></li>
 <li><a href="/comments/20221012/1796252.md" target="_blank">“末日将军”苏洛维金：不会开飞机的空天军司令</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221012/1796104.md" target="_blank">王赫：“二十大”中纪委书记是谁？</a></li>
 <li><a href="/comments/20221012/1796103.md" target="_blank">民国再担当一一中共将这样去死之</a></li>
 <li><a href="/comments/20221012/1796079.md" target="_blank">突发！上海女生「被新疆」 ！【老北京茶馆10/11/2022】</a></li>
-<li><a href="/comments/20221012/1796050.md" target="_blank">王友群：曾庆红的折腾与归宿</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 <li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 
 </ul>
 </div>
