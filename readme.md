@@ -10,20 +10,20 @@
 <li><a href="/topimagenews/20221011/1795897.md">党媒定调 大陆“动态清零”可持续而且必须坚持</a></li>
 <li><a href="/comments/20221011/1795829.md">二十大主席团要出手？反习派大战中宣部</a></li>
 <li><a href="/cnnews/20221012/1796072.md">赶紧“黑”下来！加拿大华人社区疯传一条消息</a></li>
-<li><a href="/lifebaike/20221011/1795934.md">叶剑英在政治局会议上揭周恩来的真面孔</a></li>
 <li><a href="/cbnews/20221011/1795832.md">江峰：万名军警拱卫中南海，二十大如大战在即；全会刚开新华社急发短文‘他还在’，央视不报，军报不提，反了的节奏；前线将军称俄无赢机会，普京撤亲信防长绍伊古，无差异空袭基辅【江峰漫谈20221010第560期】</a></li>
-<li><a href="/comments/20221011/1795922.md">倒习？网传“劝退请愿书” 发起“反核酸、反封锁、反倒退”新三反运动</a></li>
+<li><a href="/lifebaike/20221011/1795934.md">叶剑英在政治局会议上揭周恩来的真面孔</a></li>
 <li><a href="/cbnews/20221012/1796137.md">七中全会报道，证实一件事【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221012/1796165.md">七中全会一次吵架小记</a></li>
+<li><a href="/comments/20221011/1795922.md">倒习？网传“劝退请愿书” 发起“反核酸、反封锁、反倒退”新三反运动</a></li>
 <li><a href="/cbnews/20221012/1796067.md">多伦多回国航班全部乘客被撵下飞机</a></li>
 <li><a href="/comments/20221011/1795842.md">【独家重磅】李燕铭：胡锦涛伤心地老家官场数十官员被查 习近平二十大前敏感期清洗江绵恒生工基地 国家级医药高新区高管接连被查 李源潮曾作批示 泄露江绵恒通过上海帮江苏帮操控中国医药生工系统黑幕 习点江曾死穴清洗江绵恒暗黑帝国（二六） 习近平决战江曾（三七） 江泽民江苏帮政变谋刺习近平 习绝地反击（三十）</a></li>
 <li><a href="/cbnews/20221011/1795973.md">深夜突传敲门声求开门 武汉8岁机智童一句吓退对方</a></li>
-<li><a href="/topimagenews/20221011/1795918.md">普丁报复 基辅发电厂遭“核爆级”轰炸 蕈状云窜升惊悚…</a></li>
 <li><a href="/topimagenews/20221012/1796093.md">尴尬，西南财大去年解聘今日诺贝尔经济学奖得主</a></li>
+<li><a href="/topimagenews/20221011/1795918.md">普丁报复 基辅发电厂遭“核爆级”轰炸 蕈状云窜升惊悚…</a></li>
 <li><a href="/lifebaike/20221011/1795875.md">手被502胶水粘住怎么办？别急，只需滴一点，胶水立马融化不伤手</a></li>
-<li><a href="/funmedia/20221011/1795854.md">“有福之人 必有四寡” 四寡指什么？</a></li>
 <li><a href="/topimagenews/20221012/1796136.md">习近平本人要公开宣布一件事？网友：我最瞧不起老东西【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221012/1796147.md">独家！中共军方亮明态度！这些话指向习近平？！【阿波罗网报道】</a></li>
+<li><a href="/funmedia/20221011/1795854.md">“有福之人 必有四寡” 四寡指什么？</a></li>
 <li><a href="/headline/20221011/1795866.md">上海三大水源枯竭致海水倒灌 挖泥船运水入沪 居民囤水</a></li>
 <li><a href="/cbnews/20221012/1796038.md">中共20大前高层再出访 王岐山将赴哈萨克斯坦出席亚信峰会</a></li>
 <li><a href="/sohnews/20221011/1795937.md">陈破空：玄机！王岐山取代习近平？这个行程原本属于习。王亲信悄然获提升。俄罗斯继续狂炸乌克兰！美欧或做强烈反击，正密集协商。美东10月11日早9点、即中港台10月11日晚9点</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221012/1796281.md" target="_blank">出生大陆 长于香港 我这样看中华民国国庆</a></li>
 <li><a href="/comments/20221012/1796253.md" target="_blank">专发国难财的大佬，让美国头疼好多年……</a></li>
 <li><a href="/comments/20221012/1796252.md" target="_blank">“末日将军”苏洛维金：不会开飞机的空天军司令</a></li>
 <li><a href="/comments/20221012/1796251.md" target="_blank">这一波空袭，俄军找回了面子，却输了里子</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221012/1796103.md" target="_blank">民国再担当一一中共将这样去死之</a></li>
 <li><a href="/comments/20221012/1796079.md" target="_blank">突发！上海女生「被新疆」 ！【老北京茶馆10/11/2022】</a></li>
 <li><a href="/comments/20221012/1796050.md" target="_blank">王友群：曾庆红的折腾与归宿</a></li>
-<li><a href="/comments/20221012/1796046.md" target="_blank">李燕铭：王岐山代习出国参加亚信峰会 恐将缺席二十大 江苏帮代表团或趁机反习 王岐山是否破例现身坐镇成悬念 习近平连任与二十大常委争夺战（七四） 江泽民江苏帮政变谋刺习近平 习绝地反击（三一）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
 <li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 
 </ul>
 </div>
