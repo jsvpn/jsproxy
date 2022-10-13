@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221013/1796674.md">BBC：中共20大，两张图看清最高领导层架构</a></li>
 <li><a href="/comments/20221013/1796509.md">二十大前 中共政治局常委传出“四老三新”版本</a></li>
-<li><a href="/comments/20221013/1796758.md">北京，有人桥上挂横幅。一横幅写着：不要核酸要吃饭，不要封锁要自由，不要谎言要尊严，不要文革要改革，不要领袖要选票，不做奴才做公民！另一横幅写着：罢免独裁国贼习近平！</a></li>
 <li><a href="/comments/20221013/1796561.md">最新版版！路透指中共下一任总理或是他</a></li>
+<li><a href="/comments/20221013/1796758.md">北京，有人桥上挂横幅。一横幅写着：不要核酸要吃饭，不要封锁要自由，不要谎言要尊严，不要文革要改革，不要领袖要选票，不做奴才做公民！另一横幅写着：罢免独裁国贼习近平！</a></li>
 <li><a href="/cbnews/20221013/1796628.md">大跌眼镜！习近平“准政变”竟被压制？！【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221013/1796789.md">【图说天朝】北京四通桥出现巨幅抗议标语：罢免独裁国贼习近平</a></li>
-<li><a href="/cbnews/20221013/1796554.md">因武汉疫情丢官的市委书记，被递补为中央委员</a></li>
 <li><a href="/cbnews/20221013/1796800.md">二十大倒数 处境恶化 习近平面临这三项冲击</a></li>
+<li><a href="/cbnews/20221013/1796554.md">因武汉疫情丢官的市委书记，被递补为中央委员</a></li>
 <li><a href="/ssgc/20221013/1796535.md">解读七中全会公报 习近平连任稳当了？</a></li>
-<li><a href="/headline/20221013/1796788.md">北京闹市出现反习反封控、要求民主横额</a></li>
 <li><a href="/cbnews/20221013/1796678.md">夫婿告别式 林彪唯一女儿林豆豆持拐杖现身</a></li>
+<li><a href="/headline/20221013/1796788.md">北京闹市出现反习反封控、要求民主横额</a></li>
 <li><a href="/comments/20221013/1796833.md">二十大前爆示威！北京市四通桥一高架桥悬挂并大喇叭广播反习标语</a></li>
 <li><a href="/comments/20221013/1796734.md">20大将至，深圳的店全部封掉！</a></li>
 <li><a href="/cbnews/20221013/1796651.md">天亮时分：七中全会公报发表，揭盅习近平是否连任；真正的灭顶之灾，美国发大招儿，中共只能闭关锁国（政论天下第818集 20221012）</a></li>
-<li><a href="/cbnews/20221013/1796705.md">吹捧习核心又掩饰其劣迹的七中全会公报</a></li>
 <li><a href="/cnnews/20221013/1796710.md">刚放开国门，中国游客就开始丢人了</a></li>
+<li><a href="/cbnews/20221013/1796705.md">吹捧习核心又掩饰其劣迹的七中全会公报</a></li>
 <li><a href="/cbnews/20221013/1796719.md">女学生在宿舍养小鬼诡异哭嚎鬼影闪现画面曝光</a></li>
 <li><a href="/topimagenews/20221013/1796552.md">普京提出恢复对欧洲供应天然气，这国：想得美</a></li>
 <li><a href="/cnnews/20221013/1796558.md">“狗用后腿走路” 中共的C919客机注定失败</a></li>
 <li><a href="/ssgc/20221013/1796575.md">〖兲朝浮世绘〗高学历有啥用，最后不还是得给我们大专生打工</a></li>
+<li><a href="/comments/20221013/1796890.md">北京海淀，警察收缴挂在桥上的，上书“罢工 罢课 罢免独裁国贼习近平”的横幅！</a></li>
 <li><a href="/comments/20221013/1796519.md">中共二十大敏感期 “国防七子”之一哈工大三名专家十天内接连死亡 哈工大参与研发神舟号系列飞船等军工工程 中共“国防七子”全部被美列入制裁清单 中南海不可告人的秘密_558</a></li>
 <li><a href="/cnnews/20221013/1796521.md">前武汉市委书记马国强递补为中共中央委员</a></li>
-<li><a href="/comments/20221013/1796890.md">北京海淀，警察收缴挂在桥上的，上书“罢工 罢课 罢免独裁国贼习近平”的横幅！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
 <li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
 <li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
 <li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 
 </ul>
 </div>
