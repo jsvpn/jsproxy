@@ -9,18 +9,16 @@
 <li><a href="/cnnews/20221012/1796275.md">诡异的低调!以往大张旗鼓 中共七中全会官媒竟不报 只讲这3件事….</a></li>
 <li><a href="/sohnews/20221012/1796391.md">文睿：七中全会公报来了，核心看点，一起分析</a></li>
 <li><a href="/baitai/20221012/1796322.md">宋永毅 | 习近平的个人崇拜：为什么一个平庸之才可以登峰造极？</a></li>
-<li><a href="/ssgc/20221012/1796242.md">〖兲朝浮世绘〗习近平要玩死上海人</a></li>
 <li><a href="/sohnews/20221012/1796386.md">陈破空：七中全会闭幕，习近平政变成功？但王沪宁遭清君侧！新常委传出两个新版本。党媒惊现李鹏！公报又是作文比赛。美东10月12日早9点、即中港台10月12日晚9点</a></li>
 <li><a href="/topimagenews/20221012/1796362.md">为二十大“充面子”！大陆股市复活 A股全线反弹…</a></li>
 <li><a href="/topimagenews/20221013/1796497.md">中国疯传bilibili“禁止一键三连” 原因竟与习近平有关</a></li>
-<li><a href="/comments/20221012/1796246.md">广东东莞，荷枪实弹的解放军部队频繁在城区内调动！</a></li>
 <li><a href="/topimagenews/20221012/1796346.md">突发！澳洲警方通告寻人！这三人涉及在澳洲首都袭击反共人士并损毁财物，请本人或知情者尽快与警方取得联系！</a></li>
-<li><a href="/cnnews/20221012/1796372.md">骗我们可以 但是能不能长点心</a></li>
 <li><a href="/cbnews/20221012/1796371.md">1366万！这可能是全中国最贵的手机号码</a></li>
-<li><a href="/headline/20221012/1796438.md">【二十大】七中全会全面肯定习五年政绩 「两个确立」「两个维护」料入党章</a></li>
+<li><a href="/cnnews/20221012/1796372.md">骗我们可以 但是能不能长点心</a></li>
 <li><a href="/ssgc/20221013/1796535.md">解读七中全会公报 习近平连任稳当了？</a></li>
-<li><a href="/cnnews/20221012/1796282.md">谁是罪魁祸首？这种衣服千万别买 致癌物超标27倍</a></li>
+<li><a href="/headline/20221012/1796438.md">【二十大】七中全会全面肯定习五年政绩 「两个确立」「两个维护」料入党章</a></li>
 <li><a href="/comments/20221013/1796509.md">二十大前 中共政治局常委传出“四老三新”版本</a></li>
+<li><a href="/cnnews/20221012/1796282.md">谁是罪魁祸首？这种衣服千万别买 致癌物超标27倍</a></li>
 <li><a href="/cnnews/20221013/1796521.md">前武汉市委书记马国强递补为中共中央委员</a></li>
 <li><a href="/headline/20221012/1796368.md">中共二十大报道：习近平“失踪”式统治术的来龙与去脉</a></li>
 <li><a href="/topimagenews/20221012/1796334.md">俄军导弹还够用吗？中媒开始唱衰了</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/comments/20221013/1796519.md">中共二十大敏感期 “国防七子”之一哈工大三名专家十天内接连死亡 哈工大参与研发神舟号系列飞船等军工工程 中共“国防七子”全部被美列入制裁清单 中南海不可告人的秘密_558</a></li>
 <li><a href="/baitai/20221012/1796328.md">党忠阳：十年一觉中国梦，醒了锦涛睡近平――谨以此文祝贺中共十八大胜利召开</a></li>
 <li><a href="/topimagenews/20221013/1796552.md">普京提出恢复对欧洲供应天然气，这国：想得美</a></li>
+<li><a href="/comments/20221013/1796561.md">最新版版！路透指中共下一任总理或是他</a></li>
+<li><a href="/cbnews/20221013/1796554.md">因武汉疫情丢官的市委书记，被递补为中央委员</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221013/1796694.md" target="_blank">俄罗斯轰炸基辅能让乌克兰投降吗？历史说：不能</a></li>
+<li><a href="/comments/20221013/1796693.md" target="_blank">俄对乌平民的袭击是战争性质“深刻变化”</a></li>
+<li><a href="/comments/20221013/1796692.md" target="_blank">不是一些国家选择了躺平，而是只有一个国家在清零</a></li>
 <li><a href="/comments/20221013/1796682.md" target="_blank">李燕铭：七中全会结束港媒放风二十大常委“四老三新” 李克强或全退李强入常没戏 二十大常委人选十大版本一次看清 五人争夺总理各有短板 鹿死谁手还未可知 习近平连任与二十大常委争夺战（七七）</a></li>
 <li><a href="/comments/20221013/1796662.md" target="_blank">公民于平:骗我们时能不能长点心</a></li>
 <li><a href="/comments/20221013/1796627.md" target="_blank">李燕铭：七中全会公报透露习近平连任无悬念 反习势力不敢发动倒习运动的原因曝光 习近平靠12种方式新式极权 11路反习大军被习压制 习近平连任与二十大常委争夺战（七六） 二十大政变与反政变（五七）</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221013/1796509.md" target="_blank">二十大前 中共政治局常委传出“四老三新”版本</a></li>
 <li><a href="/comments/20221012/1796491.md" target="_blank">时事大家谈：推特收购计划重启 马斯克和北京的关系引发担忧？</a></li>
 <li><a href="/comments/20221012/1796490.md" target="_blank">时事大家谈：官媒再挺清零政策 20大后松绑期待落空？</a></li>
-<li><a href="/comments/20221012/1796481.md" target="_blank">时事大家谈：官媒再挺清零政策 20大后松绑期待落空？推特收购计划重启 马斯克和北京的关系引发担忧？</a></li>
-<li><a href="/comments/20221012/1796472.md" target="_blank">专访陈力简（上）：2022中期选举，参议院是关键战场！参选名人异士受瞩目；民调很可能依然误导 ｜方菲访谈 10/12/2022</a></li>
-<li><a href="/comments/20221012/1796336.md" target="_blank">疑似粉红在澳洲首都街头公开攻击反共人士，并涂抹反共标语？征求线索希望采访受害人及知情人士。一些额外的思考</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
 
 </ul>
 </div>
