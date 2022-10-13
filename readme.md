@@ -10,24 +10,24 @@
 <li><a href="/sohnews/20221012/1796386.md">陈破空：七中全会闭幕，习近平政变成功？但王沪宁遭清君侧！新常委传出两个新版本。党媒惊现李鹏！公报又是作文比赛。美东10月12日早9点、即中港台10月12日晚9点</a></li>
 <li><a href="/topimagenews/20221012/1796362.md">为二十大“充面子”！大陆股市复活 A股全线反弹…</a></li>
 <li><a href="/topimagenews/20221013/1796497.md">中国疯传bilibili“禁止一键三连” 原因竟与习近平有关</a></li>
+<li><a href="/topimagenews/20221013/1796674.md">BBC：中共20大，两张图看清最高领导层架构</a></li>
+<li><a href="/cbnews/20221013/1796628.md">大跌眼镜！习近平“准政变”竟被压制？！【阿波罗网报道】</a></li>
 <li><a href="/comments/20221013/1796561.md">最新版版！路透指中共下一任总理或是他</a></li>
 <li><a href="/topimagenews/20221012/1796346.md">突发！澳洲警方通告寻人！这三人涉及在澳洲首都袭击反共人士并损毁财物，请本人或知情者尽快与警方取得联系！</a></li>
-<li><a href="/cbnews/20221013/1796628.md">大跌眼镜！习近平“准政变”竟被压制？！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221013/1796674.md">BBC：中共20大，两张图看清最高领导层架构</a></li>
+<li><a href="/comments/20221013/1796509.md">二十大前 中共政治局常委传出“四老三新”版本</a></li>
 <li><a href="/cbnews/20221012/1796371.md">1366万！这可能是全中国最贵的手机号码</a></li>
 <li><a href="/ssgc/20221013/1796535.md">解读七中全会公报 习近平连任稳当了？</a></li>
-<li><a href="/comments/20221013/1796509.md">二十大前 中共政治局常委传出“四老三新”版本</a></li>
 <li><a href="/headline/20221012/1796438.md">【二十大】七中全会全面肯定习五年政绩 「两个确立」「两个维护」料入党章</a></li>
 <li><a href="/cnnews/20221012/1796372.md">骗我们可以 但是能不能长点心</a></li>
-<li><a href="/topimagenews/20221013/1796552.md">普京提出恢复对欧洲供应天然气，这国：想得美</a></li>
 <li><a href="/cbnews/20221013/1796554.md">因武汉疫情丢官的市委书记，被递补为中央委员</a></li>
+<li><a href="/topimagenews/20221013/1796552.md">普京提出恢复对欧洲供应天然气，这国：想得美</a></li>
 <li><a href="/headline/20221012/1796368.md">中共二十大报道：习近平“失踪”式统治术的来龙与去脉</a></li>
 <li><a href="/cnnews/20221013/1796521.md">前武汉市委书记马国强递补为中共中央委员</a></li>
 <li><a href="/topimagenews/20221012/1796334.md">俄军导弹还够用吗？中媒开始唱衰了</a></li>
 <li><a href="/cnnews/20221013/1796558.md">“狗用后腿走路” 中共的C919客机注定失败</a></li>
 <li><a href="/comments/20221013/1796519.md">中共二十大敏感期 “国防七子”之一哈工大三名专家十天内接连死亡 哈工大参与研发神舟号系列飞船等军工工程 中共“国防七子”全部被美列入制裁清单 中南海不可告人的秘密_558</a></li>
-<li><a href="/sohnews/20221012/1796303.md">💥“四人”竞争李克强位置？七中全会异常低调，或有事未决；俄猛烈轰炸乌克兰，飞弹头上掠过，普京威胁更猛烈报复；英媒指中共若侵占台湾，会铁腕管治；王岐山关键时刻出国，能赶上20大吗｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20221012/1796328.md">党忠阳：十年一觉中国梦，醒了锦涛睡近平――谨以此文祝贺中共十八大胜利召开</a></li>
+<li><a href="/cbnews/20221013/1796678.md">夫婿告别式 林彪唯一女儿林豆豆持拐杖现身</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221013/1796745.md" target="_blank">中国和俄国海军太平洋联合训练舰队，近日驶进美国阿拉斯加近海，直接威胁美国的安全！</a></li>
 <li><a href="/comments/20221013/1796734.md" target="_blank">20大将至，深圳的店全部封掉！</a></li>
 <li><a href="/cbnews/20221013/1796719.md" target="_blank">女学生在宿舍养小鬼诡异哭嚎鬼影闪现画面曝光</a></li>
 <li><a href="/cbnews/20221013/1796705.md" target="_blank">吹捧习核心又掩饰其劣迹的七中全会公报</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20221012/1796081.md" target="_blank">一天内跨季! 中国多地断崖式降温、降雪</a></li>
 <li><a href="/cbnews/20221012/1796067.md" target="_blank">多伦多回国航班全部乘客被撵下飞机</a></li>
 <li><a href="/cbnews/20221012/1796038.md" target="_blank">中共20大前高层再出访 王岐山将赴哈萨克斯坦出席亚信峰会</a></li>
-<li><a href="/cbnews/20221011/1795973.md" target="_blank">深夜突传敲门声求开门 武汉8岁机智童一句吓退对方</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221013/1796746.md" target="_blank">报复乌克兰攻击导弹完全不准? 美媒：俄罗斯连老旧防空、反舰导弹都拿来用</a></li>
 <li><a href="/topimagenews/20221013/1796738.md" target="_blank">流浪街头20年！大学生考上名校“沉迷游戏”…</a></li>
 <li><a href="/topimagenews/20221013/1796735.md" target="_blank">在联大投“弃权”！耿爽对乌俄战争说嘴：称主权、领土完整应得尊重</a></li>
 <li><a href="/topimagenews/20221013/1796704.md" target="_blank">俄罗斯vs.欧洲能源战大逆转？耶鲁大学教授：普丁是唯一输家</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221012/1796092.md" target="_blank">俄官宣Meta是恐怖组织…</a></li>
 <li><a href="/topimagenews/20221012/1796080.md" target="_blank">匈牙利总理：特朗普才是俄乌“和平的希望”</a></li>
 <li><a href="/topimagenews/20221011/1795918.md" target="_blank">普丁报复 基辅发电厂遭“核爆级”轰炸 蕈状云窜升惊悚…</a></li>
-<li><a href="/topimagenews/20221011/1795897.md" target="_blank">党媒定调 大陆“动态清零”可持续而且必须坚持</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221013/1796745.md" target="_blank">中国和俄国海军太平洋联合训练舰队，近日驶进美国阿拉斯加近海，直接威胁美国的安全！</a></li>
 <li><a href="/comments/20221013/1796734.md" target="_blank">20大将至，深圳的店全部封掉！</a></li>
 <li><a href="/comments/20221013/1796707.md" target="_blank">养老金崩盘！不只是在英国这是场席卷全球的危机</a></li>
 <li><a href="/comments/20221013/1796703.md" target="_blank">中共十九届七中全会公报出炉，彻底不要fcae了？党媒连续三天挺习近平清零，二十大後中国人活路在哪？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221013/1796549.md" target="_blank">【袁红冰热点】以俄乌战争为爆发点的这场俄罗斯丶美国包括西方丶乌克兰这三方的大博弈，已进入一个更加激烈阶段。目前来看，谁都不会退让，谁也没有余地退让。所以整个国际社会可能不得不面对一场核战争。</a></li>
 <li><a href="/comments/20221013/1796528.md" target="_blank">专栏 | 劳工通讯：山西凤凰台煤矿顶板事故被困五人全部遇难（八）</a></li>
 <li><a href="/comments/20221013/1796525.md" target="_blank">二十大前习近平军中“打虎”诡秘，涉三大原因</a></li>
-<li><a href="/comments/20221013/1796519.md" target="_blank">中共二十大敏感期 “国防七子”之一哈工大三名专家十天内接连死亡 哈工大参与研发神舟号系列飞船等军工工程 中共“国防七子”全部被美列入制裁清单 中南海不可告人的秘密_558</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
 <li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
 
 </ul>
 </div>
