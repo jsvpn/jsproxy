@@ -27,7 +27,7 @@
 <li><a href="/topimagenews/20221014/1797170.md">为普丁准备后事！美媒点名这5人可能“上位”</a></li>
 <li><a href="/cbnews/20221014/1797072.md">效法毛泽东 习近平正拿出一个秘密“武器”！【阿波罗网报道】</a></li>
 <li><a href="/yule/20221014/1797036.md">为替丈夫还债去拍戏！却和债主生下孩子 如今继承债主百亿家业</a></li>
-<li><a href="/cbnews/20221014/1796996.md">迈向“习帝”之路 动图展示宣传习近平有多拼命</a></li>
+<li><a href="/cnnews/20221014/1797203.md">华裔女首富入狱！曾是李嘉诚投资引路人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221015/1797442.md" target="_blank">中国人民“老朋友”：习近平让中国“动脉堵塞”</a></li>
 <li><a href="/cbnews/20221014/1797347.md" target="_blank">《捍卫战士2》10马赫“暗星”是真的！美军：将在空军基地首度亮相</a></li>
 <li><a href="/comments/20221014/1797290.md" target="_blank">她的前世是 亚特兰蒂斯女祭司，竟然媲美《指环王》中的精灵女王！她说出了“众灵下世”的真实目的，并讲述轮回中 亲眼见证的“末日时刻”！｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20221014/1797261.md" target="_blank">公司董事长举办“元宇宙婚礼”，网友评论太毒舌</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20221013/1796800.md" target="_blank">二十大倒数 处境恶化 习近平面临这三项冲击</a></li>
 <li><a href="/comments/20221013/1796758.md" target="_blank">北京，有人桥上挂横幅。一横幅写着：不要核酸要吃饭，不要封锁要自由，不要谎言要尊严，不要文革要改革，不要领袖要选票，不做奴才做公民！另一横幅写着：罢免独裁国贼习近平！</a></li>
 <li><a href="/comments/20221013/1796745.md" target="_blank">中国和俄国海军太平洋联合训练舰队，近日驶进美国阿拉斯加近海，直接威胁美国的安全！</a></li>
-<li><a href="/comments/20221013/1796734.md" target="_blank">20大将至，深圳的店全部封掉！</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221015/1797441.md" target="_blank">普丁软化宣布4不 不悔、不再猛炸、不再动员、不摧毁乌克兰</a></li>
 <li><a href="/topimagenews/20221014/1797344.md" target="_blank">北京才刚爆“反习”抗议 胡锡进发文“多数人支持共产党”遭网友洗脸</a></li>
 <li><a href="/topimagenews/20221014/1797260.md" target="_blank">一致赞同！欧洲议会：俄罗斯就是“恐怖政权”</a></li>
 <li><a href="/topimagenews/20221014/1797251.md" target="_blank">普丁威胁动核武 欧盟警告：俄军将被彻底歼灭</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221013/1796704.md" target="_blank">俄罗斯vs.欧洲能源战大逆转？耶鲁大学教授：普丁是唯一输家</a></li>
 <li><a href="/topimagenews/20221013/1796675.md" target="_blank">高喊“亮剑”！中共王牌部队在军报表态【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221013/1796674.md" target="_blank">BBC：中共20大，两张图看清最高领导层架构</a></li>
-<li><a href="/topimagenews/20221013/1796653.md" target="_blank">狂挖战壕 俄军这个视频疯传 网友都惊呆了</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221015/1797438.md" target="_blank">北京“四通桥事件”震惊中共高层 急聘人看桥</a></li>
 <li><a href="/comments/20221015/1797437.md" target="_blank">抵抗中共 台湾亿万富翁要创300万平民战士部队</a></li>
 <li><a href="/comments/20221015/1797412.md" target="_blank">李燕铭：二十大前两中将两少将出事 军队暗潮汹涌 军委点名四老虎再提铁帽子王 释放清洗军中反习势力信号剑指江曾 习近平嫡系王牌部队罕见表态呼应能上能下 为习二十大人事布局保驾护航 二十大政治局及军委黑马或不止一人 习强化军权为二十大保驾护航 严防江曾政变（二六） 习近平决战江曾（四十） 二十大政变与反政变（五九） 习近平连任与二十大常委争夺战（七九）</a></li>
 <li><a href="/comments/20221015/1797396.md" target="_blank">【上古神话之一】超能量之神——盘古开天地</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221014/1797147.md" target="_blank">北京四通桥标语火遍全世界！二十大燃点竟是另一位真男儿！习近平遭正面喊停？靠404可以保党吗？</a></li>
 <li><a href="/comments/20221014/1797139.md" target="_blank">【独家重磅】李燕铭：江曾“末日政变”启动 三大反习方案揭秘 二十大习与江曾巅峰对决 反习抗议巨型横幅惊现北京 抗议者被逮捕个人信息曝光 提前在网络发布“倒习攻略” 习近平决战江曾（三九） 二十大政变与反政变（五八） 习近平连任与二十大常委争夺战（七八）</a></li>
 <li><a href="/comments/20221014/1797095.md" target="_blank">倪国荣：这样的作家 比前线备战二等兵还不如</a></li>
-<li><a href="/comments/20221014/1797094.md" target="_blank">发条羊：我在深圳帮父母找工作</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
 <li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 
 </ul>
 </div>
