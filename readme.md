@@ -8,17 +8,16 @@
 <li><a href="/comments/20221013/1796758.md">北京，有人桥上挂横幅。一横幅写着：不要核酸要吃饭，不要封锁要自由，不要谎言要尊严，不要文革要改革，不要领袖要选票，不做奴才做公民！另一横幅写着：罢免独裁国贼习近平！</a></li>
 <li><a href="/baitai/20221013/1796789.md">【图说天朝】北京四通桥出现巨幅抗议标语：罢免独裁国贼习近平</a></li>
 <li><a href="/cbnews/20221013/1796800.md">二十大倒数 处境恶化 习近平面临这三项冲击</a></li>
-<li><a href="/cbnews/20221014/1796950.md">这就是那位孤胆勇士？蔡霞发帖称收到私信</a></li>
 <li><a href="/headline/20221013/1796788.md">北京闹市出现反习反封控、要求民主横额</a></li>
+<li><a href="/cbnews/20221014/1796950.md">这就是那位孤胆勇士？蔡霞发帖称收到私信</a></li>
 <li><a href="/comments/20221013/1796833.md">二十大前爆示威！北京市四通桥一高架桥悬挂并大喇叭广播反习标语</a></li>
-<li><a href="/comments/20221013/1796734.md">20大将至，深圳的店全部封掉！</a></li>
 <li><a href="/cbnews/20221014/1797041.md">以1人之力抗争，网传彭载舟“告全国同胞书”</a></li>
 <li><a href="/comments/20221013/1796890.md">北京海淀，警察收缴挂在桥上的，上书“罢工 罢课 罢免独裁国贼习近平”的横幅！</a></li>
 <li><a href="/comments/20221013/1796888.md">无人机空拍。北京海淀，勇士在桥上挂横幅，上书“罢课 罢工 罢免独裁民贼习近平”等内容。冒烟是在烧东西，可能是为了引起路人注意。大批警察赶过去把人抓走了。</a></li>
 <li><a href="/comments/20221014/1797053.md">北京四通桥上，第一视角观看坦克人彭载舟（彭立发）挂横幅和放狼烟的情景。</a></li>
 <li><a href="/topimagenews/20221014/1797023.md">蹊跷…官媒齐齐发布8月底一次会议 李克强缺席</a></li>
-<li><a href="/sohnews/20221013/1796843.md">陈破空：北京惊现巨幅反习标语！终于有人是男儿。栗战书要与李克强同归于尽？国际舆论：若习近平连任，中国经济溃败！美东10月13日早9点、即中港台10月13日晚9点</a></li>
 <li><a href="/topimagenews/20221014/1797069.md">习近平传闻或成真！中共央视现罕见一幕！【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20221013/1796843.md">陈破空：北京惊现巨幅反习标语！终于有人是男儿。栗战书要与李克强同归于尽？国际舆论：若习近平连任，中国经济溃败！美东10月13日早9点、即中港台10月13日晚9点</a></li>
 <li><a href="/comments/20221013/1796889.md">北京海淀，一勇士在桥上挂上横幅并广播。横幅上书“罢课 罢工 罢免独裁民贼习近平”，“不要核酸要吃饭 不要文革要改革”，“不要封控要自由 不要领袖要选票”。</a></li>
 <li><a href="/topimagenews/20221014/1797067.md">秦鹏：北京反共勇士真实身份曝光</a></li>
 <li><a href="/cbnews/20221014/1797012.md">20大前，北京惊现巨幅标语：罢免独裁国贼习近平</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/headline/20221013/1796828.md">美国禁止其国民任职中国半导体厂 中国各地美籍「海归派」掀离职潮</a></li>
 <li><a href="/health/20221013/1796792.md">为啥中国人常喝热水，胃病高发，但外国人总喝冰水，胃却没事？</a></li>
 <li><a href="/topimagenews/20221013/1796887.md">“还珠格格”王艳2亿美元豪宅遭法拍 老公下落不明</a></li>
-<li><a href="/cnnews/20221013/1796892.md">14岁少女在洛杉矶市公园惨遭恶男持刀绑架性侵全录</a></li>
+<li><a href="/topimagenews/20221014/1797040.md">黄安不忍了！怒怼“大白” 惨遭报警逮人</a></li>
 <li><a href="/ccpdope/20221014/1796972.md">让你直不起腰！老江用一流英文面对小宋丈夫的袭击</a></li>
+<li><a href="/cnnews/20221013/1796892.md">14岁少女在洛杉矶市公园惨遭恶男持刀绑架性侵全录</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221014/1797180.md" target="_blank">辽宁抚顺，大批军车进城！</a></li>
 <li><a href="/cbnews/20221014/1797175.md" target="_blank">江峰：北京中心地段四通桥出现反习标语，反核酸要选票政治民主诉求一步到位！反习勇士究竟是谁？这篇报导看十九届七中全会公报习近平“顺利”接任的险恶前途【江峰漫谈20221013 第562期】</a></li>
 <li><a href="/cbnews/20221014/1797150.md" target="_blank">中共20大前北京疫情升温 媒体也要“清零防疫”</a></li>
 <li><a href="/cbnews/20221014/1797072.md" target="_blank">效法毛泽东 习近平正拿出一个秘密“武器”！【阿波罗网报道】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221013/1796719.md" target="_blank">女学生在宿舍养小鬼诡异哭嚎鬼影闪现画面曝光</a></li>
 <li><a href="/cbnews/20221013/1796705.md" target="_blank">吹捧习核心又掩饰其劣迹的七中全会公报</a></li>
 <li><a href="/cbnews/20221013/1796678.md" target="_blank">夫婿告别式 林彪唯一女儿林豆豆持拐杖现身</a></li>
-<li><a href="/cbnews/20221013/1796651.md" target="_blank">天亮时分：七中全会公报发表，揭盅习近平是否连任；真正的灭顶之灾，美国发大招儿，中共只能闭关锁国（政论天下第818集 20221012）</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221014/1797180.md" target="_blank">辽宁抚顺，大批军车进城！</a></li>
 <li><a href="/comments/20221014/1797166.md" target="_blank">【首发】李德君：江泽民是共产党涂鸦中国法治的罪魁祸首</a></li>
 <li><a href="/comments/20221014/1797165.md" target="_blank">【首发】李德君：江泽民究竟凭什么敢掏空《宪法》？</a></li>
 <li><a href="/comments/20221014/1797152.md" target="_blank">【微博精粹】全人类苦难三年的证据找到了！看谁一键三连</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221013/1796923.md" target="_blank">时事大家谈：二十大官方谜题：江胡一代不会支持习近平终身制？</a></li>
 <li><a href="/comments/20221013/1796893.md" target="_blank">时事大家谈：二十大官方谜题：江胡一代不会支持习近平终身制？二十大民情谜题：如何解读倒习劝退呼声？</a></li>
 <li><a href="/comments/20221013/1796890.md" target="_blank">北京海淀，警察收缴挂在桥上的，上书“罢工 罢课 罢免独裁国贼习近平”的横幅！</a></li>
-<li><a href="/comments/20221013/1796889.md" target="_blank">北京海淀，一勇士在桥上挂上横幅并广播。横幅上书“罢课 罢工 罢免独裁民贼习近平”，“不要核酸要吃饭 不要文革要改革”，“不要封控要自由 不要领袖要选票”。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 
 </ul>
 </div>
