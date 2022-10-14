@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20221014/1797023.md">蹊跷…官媒齐齐发布8月底一次会议 李克强缺席</a></li>
 <li><a href="/topimagenews/20221014/1797148.md">“新坦克人”身份疑曝光！北京挂“罢免习近平”布条遭逮捕…</a></li>
 <li><a href="/comments/20221013/1796884.md">北京四通桥迅速恢复歌舞升平 网友：火星子能燎原 前提是旁边的草易燃</a></li>
-<li><a href="/cnnews/20221014/1797154.md">反对派用这些条件交换胡春华当总理？学者：不要误会习近平在放权</a></li>
 <li><a href="/comments/20221013/1796889.md">北京海淀，一勇士在桥上挂上横幅并广播。横幅上书“罢课 罢工 罢免独裁民贼习近平”，“不要核酸要吃饭 不要文革要改革”，“不要封控要自由 不要领袖要选票”。</a></li>
+<li><a href="/cnnews/20221014/1797154.md">反对派用这些条件交换胡春华当总理？学者：不要误会习近平在放权</a></li>
 <li><a href="/comments/20221014/1797180.md">辽宁抚顺，大批军车进城！</a></li>
 <li><a href="/cbnews/20221014/1797012.md">20大前，北京惊现巨幅标语：罢免独裁国贼习近平</a></li>
-<li><a href="/topimagenews/20221014/1797040.md">黄安不忍了！怒怼“大白” 惨遭报警逮人</a></li>
 <li><a href="/cnnews/20221014/1797198.md">中央军委将换血 习近平续任军委主席握军权</a></li>
+<li><a href="/topimagenews/20221014/1797040.md">黄安不忍了！怒怼“大白” 惨遭报警逮人</a></li>
 <li><a href="/topimagenews/20221013/1796887.md">“还珠格格”王艳2亿美元豪宅遭法拍 老公下落不明</a></li>
 <li><a href="/ccpdope/20221014/1796972.md">让你直不起腰！老江用一流英文面对小宋丈夫的袭击</a></li>
 <li><a href="/topimagenews/20221014/1797170.md">为普丁准备后事！美媒点名这5人可能“上位”</a></li>
 <li><a href="/cnnews/20221013/1796892.md">14岁少女在洛杉矶市公园惨遭恶男持刀绑架性侵全录</a></li>
 <li><a href="/cbnews/20221014/1797065.md">天亮时分：拉横幅倒习，孤胆勇士身份曝光；习近平四面都是敌人，为何却无人能撼动其权位？自下而上结束中共的希望（政论天下第819集 20221013）</a></li>
+<li><a href="/cbnews/20221014/1797072.md">效法毛泽东 习近平正拿出一个秘密“武器”！【阿波罗网报道】</a></li>
 <li><a href="/yule/20221014/1797036.md">为替丈夫还债去拍戏！却和债主生下孩子 如今继承债主百亿家业</a></li>
-<li><a href="/cbnews/20221014/1796996.md">迈向“习帝”之路 动图展示宣传习近平有多拼命</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221014/1797300.md" target="_blank">【文韬政论】习总书记称帝之路的重要关键</a></li>
+<li><a href="/comments/20221014/1797298.md" target="_blank">荷兰女王储被罪犯盯上 紧急从宿舍搬回王宫居住</a></li>
 <li><a href="/comments/20221014/1797297.md" target="_blank">防疫=维稳？ 中共20大前以医生收入广招核酸“大白”</a></li>
 <li><a href="/comments/20221014/1797290.md" target="_blank">她的前世是 亚特兰蒂斯女祭司，竟然媲美《指环王》中的精灵女王！她说出了“众灵下世”的真实目的，并讲述轮回中 亲眼见证的“末日时刻”！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20221014/1797282.md" target="_blank">【陈东音乐】1小时振奋人心、大气、优美及励志纯音乐（曲目取自“侠客行”专辑）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221014/1796992.md" target="_blank">谢金河：美中芯片战争往死里打 已没有回头路</a></li>
 <li><a href="/comments/20221014/1796991.md" target="_blank">美媒：中国参股全球近百港口 掌握商情军情</a></li>
 <li><a href="/comments/20221014/1796980.md" target="_blank">中共十九届七中全会闭幕 学者：习政权怀里抱三个巨大定时炸弹</a></li>
-<li><a href="/comments/20221014/1796957.md" target="_blank">李燕铭：楼市危机冲击二十大 中南海恐慌央行对各大银行紧急下令 38城房价下跌已一年 15重点城市新房成交套数腰斩 深圳公寓6折抛售 北京写字楼空置率上升 多地政府和国企回购商品房 逾30城市实施一人购屋全家帮 19城发放买楼消费券 民众购房意愿难以提振 看涨房价居民占比创2009年以来新低 2022年十大内卷行业：房地产位列第一 中共末日之经济危机（九）</a></li>
-<li><a href="/comments/20221013/1796924.md" target="_blank">时事大家谈：二十大民情谜题：如何解读倒习劝退呼声？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
 <li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
 
 </ul>
 </div>
