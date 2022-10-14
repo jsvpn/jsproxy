@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/baitai/20221013/1796789.md">【图说天朝】北京四通桥出现巨幅抗议标语：罢免独裁国贼习近平</a></li>
-<li><a href="/cbnews/20221013/1796800.md">二十大倒数 处境恶化 习近平面临这三项冲击</a></li>
 <li><a href="/cbnews/20221014/1797041.md">以1人之力抗争，网传彭载舟“告全国同胞书”</a></li>
+<li><a href="/cbnews/20221013/1796800.md">二十大倒数 处境恶化 习近平面临这三项冲击</a></li>
 <li><a href="/cbnews/20221014/1796950.md">这就是那位孤胆勇士？蔡霞发帖称收到私信</a></li>
 <li><a href="/comments/20221013/1796833.md">二十大前爆示威！北京市四通桥一高架桥悬挂并大喇叭广播反习标语</a></li>
 <li><a href="/headline/20221013/1796788.md">北京闹市出现反习反封控、要求民主横额</a></li>
 <li><a href="/comments/20221013/1796890.md">北京海淀，警察收缴挂在桥上的，上书“罢工 罢课 罢免独裁国贼习近平”的横幅！</a></li>
 <li><a href="/comments/20221014/1797053.md">北京四通桥上，第一视角观看坦克人彭载舟（彭立发）挂横幅和放狼烟的情景。</a></li>
-<li><a href="/comments/20221013/1796888.md">无人机空拍。北京海淀，勇士在桥上挂横幅，上书“罢课 罢工 罢免独裁民贼习近平”等内容。冒烟是在烧东西，可能是为了引起路人注意。大批警察赶过去把人抓走了。</a></li>
 <li><a href="/topimagenews/20221014/1797069.md">习近平传闻或成真！中共央视现罕见一幕！【阿波罗网报道】</a></li>
+<li><a href="/comments/20221013/1796888.md">无人机空拍。北京海淀，勇士在桥上挂横幅，上书“罢课 罢工 罢免独裁民贼习近平”等内容。冒烟是在烧东西，可能是为了引起路人注意。大批警察赶过去把人抓走了。</a></li>
 <li><a href="/topimagenews/20221014/1797067.md">秦鹏：北京反共勇士真实身份曝光</a></li>
 <li><a href="/topimagenews/20221014/1797023.md">蹊跷…官媒齐齐发布8月底一次会议 李克强缺席</a></li>
 <li><a href="/sohnews/20221013/1796843.md">陈破空：北京惊现巨幅反习标语！终于有人是男儿。栗战书要与李克强同归于尽？国际舆论：若习近平连任，中国经济溃败！美东10月13日早9点、即中港台10月13日晚9点</a></li>
 <li><a href="/comments/20221013/1796889.md">北京海淀，一勇士在桥上挂上横幅并广播。横幅上书“罢课 罢工 罢免独裁民贼习近平”，“不要核酸要吃饭 不要文革要改革”，“不要封控要自由 不要领袖要选票”。</a></li>
-<li><a href="/cbnews/20221014/1797012.md">20大前，北京惊现巨幅标语：罢免独裁国贼习近平</a></li>
 <li><a href="/comments/20221013/1796884.md">北京四通桥迅速恢复歌舞升平 网友：火星子能燎原 前提是旁边的草易燃</a></li>
+<li><a href="/cbnews/20221014/1797012.md">20大前，北京惊现巨幅标语：罢免独裁国贼习近平</a></li>
+<li><a href="/topimagenews/20221014/1797148.md">“新坦克人”身份疑曝光！北京挂“罢免习近平”布条遭逮捕…</a></li>
 <li><a href="/topimagenews/20221014/1797040.md">黄安不忍了！怒怼“大白” 惨遭报警逮人</a></li>
 <li><a href="/headline/20221013/1796828.md">美国禁止其国民任职中国半导体厂 中国各地美籍「海归派」掀离职潮</a></li>
-<li><a href="/topimagenews/20221014/1797148.md">“新坦克人”身份疑曝光！北京挂“罢免习近平”布条遭逮捕…</a></li>
+<li><a href="/health/20221013/1796792.md">为啥中国人常喝热水，胃病高发，但外国人总喝冰水，胃却没事？</a></li>
 <li><a href="/topimagenews/20221013/1796887.md">“还珠格格”王艳2亿美元豪宅遭法拍 老公下落不明</a></li>
 <li><a href="/ccpdope/20221014/1796972.md">让你直不起腰！老江用一流英文面对小宋丈夫的袭击</a></li>
-<li><a href="/health/20221013/1796792.md">为啥中国人常喝热水，胃病高发，但外国人总喝冰水，胃却没事？</a></li>
-<li><a href="/cnnews/20221013/1796892.md">14岁少女在洛杉矶市公园惨遭恶男持刀绑架性侵全录</a></li>
+<li><a href="/cnnews/20221014/1797154.md">反对派用这些条件交换胡春华当总理？学者：不要误会习近平在放权</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
 
 </ul>
 </div>
