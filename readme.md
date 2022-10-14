@@ -13,21 +13,21 @@
 <li><a href="/topimagenews/20221014/1797148.md">“新坦克人”身份疑曝光！北京挂“罢免习近平”布条遭逮捕…</a></li>
 <li><a href="/baitai/20221014/1797233.md">【图说天朝】北京四通桥事件后，当局紧急部署</a></li>
 <li><a href="/cnnews/20221014/1797154.md">反对派用这些条件交换胡春华当总理？学者：不要误会习近平在放权</a></li>
-<li><a href="/cbnews/20221014/1797012.md">20大前，北京惊现巨幅标语：罢免独裁国贼习近平</a></li>
 <li><a href="/comments/20221014/1797180.md">辽宁抚顺，大批军车进城！</a></li>
+<li><a href="/cbnews/20221014/1797012.md">20大前，北京惊现巨幅标语：罢免独裁国贼习近平</a></li>
 <li><a href="/headline/20221014/1797252.md">【中共官场】七中全会递补中央委员出现异常 原西安书记疑因开罪习无缘顺序晋级</a></li>
 <li><a href="/cnnews/20221014/1797198.md">中央军委将换血 习近平续任军委主席握军权</a></li>
 <li><a href="/topimagenews/20221014/1797040.md">黄安不忍了！怒怼“大白” 惨遭报警逮人</a></li>
 <li><a href="/sohnews/20221014/1797217.md">💥“四通桥”抗议者是孤胆英雄吗？更多身分信息；习连任“临门一脚”，最怕北京出事，彭载舟事件冲击20大，中共史上罕见；拱卫京城的保定“82集团军”表忠，曾亲赴中南海重组中央警卫局｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ccpdope/20221014/1796972.md">让你直不起腰！老江用一流英文面对小宋丈夫的袭击</a></li>
 <li><a href="/sohnews/20221014/1797267.md">疯传普京下台，俄罗斯2次核试验准备失败；动员兵成建制投降，卢甘斯克乌军兵分三路；五十国援乌抗俄决心更坚，交付更多武器和防寒装备；#新冷战情室</a></li>
-<li><a href="/topimagenews/20221014/1797170.md">为普丁准备后事！美媒点名这5人可能“上位”</a></li>
 <li><a href="/headline/20221014/1797264.md">【二十大】传北京雇人看桥每天320元 买布超一米实名制</a></li>
 <li><a href="/cbnews/20221014/1797065.md">天亮时分：拉横幅倒习，孤胆勇士身份曝光；习近平四面都是敌人，为何却无人能撼动其权位？自下而上结束中共的希望（政论天下第819集 20221013）</a></li>
+<li><a href="/topimagenews/20221014/1797170.md">为普丁准备后事！美媒点名这5人可能“上位”</a></li>
 <li><a href="/cbnews/20221014/1797072.md">效法毛泽东 习近平正拿出一个秘密“武器”！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221014/1797344.md">北京才刚爆“反习”抗议 胡锡进发文“多数人支持共产党”遭网友洗脸</a></li>
 <li><a href="/yule/20221014/1797036.md">为替丈夫还债去拍戏！却和债主生下孩子 如今继承债主百亿家业</a></li>
 <li><a href="/cbnews/20221014/1796996.md">迈向“习帝”之路 动图展示宣传习近平有多拼命</a></li>
-<li><a href="/cnnews/20221014/1797203.md">华裔女首富入狱！曾是李嘉诚投资引路人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 
 </ul>
 </div>
