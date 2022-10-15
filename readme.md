@@ -19,15 +19,15 @@
 <li><a href="/headline/20221015/1797498.md">喜迎20大：巴黎街头现标语横幅，呼吁习近平下台</a></li>
 <li><a href="/cbnews/20221015/1797442.md">中国人民“老朋友”：习近平让中国“动脉堵塞”</a></li>
 <li><a href="/cnnews/20221015/1797518.md">习与他的博士论文：代写抄袭疑云 但谁能质疑</a></li>
-<li><a href="/cnnews/20221015/1797568.md">海底捞的现况 是正在发生的中国中产阶级消亡史</a></li>
+<li><a href="/headline/20221015/1797676.md">中共20大闭门会期至22日 法新社罕说中常委7人或9人未定</a></li>
 <li><a href="/sohnews/20221015/1797647.md">💥26岁大陆青年响应彭载舟！凌晨上街贴“倒·共”传单，目前仍无音信🙏；彭载舟被带走前还录了一段影片，他现在人在哪？更多信息传出！老家东北；“重兵”把守四通桥，“看桥人”成热门｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cnnews/20221015/1797568.md">海底捞的现况 是正在发生的中国中产阶级消亡史</a></li>
 <li><a href="/sohnews/20221015/1797501.md">北京勇士震撼！《孤勇者》遭下架，《桥》的主题曲热传</a></li>
 <li><a href="/headline/20221015/1797613.md">中共二十大前夕 美国会情报领袖：习近平第三任期将对美国人有“巨大后果”</a></li>
 <li><a href="/cbnews/20221015/1797638.md">习近平今主持二十大预备会议 各地党代表全数抵京</a></li>
-<li><a href="/topimagenews/20221015/1797583.md">捧得高才跌的狠！反习派拼了！【阿波罗网报道】</a></li>
 <li><a href="/comments/20221015/1797620.md">四通桥勇士标语传遍全世界，党彻底慌了！北京员警这次表现惊艳？习近平二十大遭遇最大难题</a></li>
-<li><a href="/headline/20221015/1797676.md">中共20大闭门会期至22日 法新社罕说中常委7人或9人未定</a></li>
-<li><a href="/cbnews/20221014/1797347.md">《捍卫战士2》10马赫“暗星”是真的！美军：将在空军基地首度亮相</a></li>
+<li><a href="/topimagenews/20221015/1797583.md">捧得高才跌的狠！反习派拼了！【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221015/1797648.md">中共副外长披露孟晚舟回国细节:领导人做拜登工作</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221015/1797732.md" target="_blank">下届中共总书记是他！已经四次验证！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221015/1797643.md" target="_blank">“部分动员令”碰钉子？普丁声称军事动员两周内结束</a></li>
 <li><a href="/topimagenews/20221015/1797634.md" target="_blank">代价高昂！欧洲冬季天然气危机解除…</a></li>
 <li><a href="/topimagenews/20221015/1797623.md" target="_blank">习近平连任不稳？新闻联播现反常？真相惊人！【阿波罗网报道】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221014/1797023.md" target="_blank">蹊跷…官媒齐齐发布8月底一次会议 李克强缺席</a></li>
 <li><a href="/topimagenews/20221013/1796928.md" target="_blank">又探风向？克宫：“特殊军事行动”或可透过协商达标</a></li>
 <li><a href="/topimagenews/20221013/1796887.md" target="_blank">“还珠格格”王艳2亿美元豪宅遭法拍 老公下落不明</a></li>
-<li><a href="/topimagenews/20221013/1796811.md" target="_blank">不愿当普丁炮灰 “新兵”未训练被上前线三天投降</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
 <li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
 
 </ul>
 </div>
