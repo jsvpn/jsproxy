@@ -8,26 +8,26 @@
 <li><a href="/baitai/20221014/1797233.md">【图说天朝】北京四通桥事件后，当局紧急部署</a></li>
 <li><a href="/headline/20221014/1797252.md">【中共官场】七中全会递补中央委员出现异常 原西安书记疑因开罪习无缘顺序晋级</a></li>
 <li><a href="/topimagenews/20221014/1797344.md">北京才刚爆“反习”抗议 胡锡进发文“多数人支持共产党”遭网友洗脸</a></li>
-<li><a href="/sohnews/20221014/1797217.md">💥“四通桥”抗议者是孤胆英雄吗？更多身分信息；习连任“临门一脚”，最怕北京出事，彭载舟事件冲击20大，中共史上罕见；拱卫京城的保定“82集团军”表忠，曾亲赴中南海重组中央警卫局｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20221014/1797351.md">何时恢复正常生活？中国官员给答案 陆网炸锅：死了也都得烧口罩吗</a></li>
 <li><a href="/headline/20221014/1797264.md">【二十大】传北京雇人看桥每天320元 买布超一米实名制</a></li>
-<li><a href="/sohnews/20221014/1797271.md">权倾一时的周永康，一夜倒台，遭满门查抄。他是政变的操盘手，还是中共内斗的“高层炮灰”？他的落马，还与一件事密不可分，中共不敢提！｜ #百年真相</a></li>
 <li><a href="/cbnews/20221015/1797558.md">天亮时分：四通桥事件后，又有习裸退传言，王岐山一句话泄露习真正去向；如何以最小的风险让中国走向自由（政论天下第820集 20221014）</a></li>
+<li><a href="/sohnews/20221014/1797271.md">权倾一时的周永康，一夜倒台，遭满门查抄。他是政变的操盘手，还是中共内斗的“高层炮灰”？他的落马，还与一件事密不可分，中共不敢提！｜ #百年真相</a></li>
 <li><a href="/sohnews/20221014/1797267.md">疯传普京下台，俄罗斯2次核试验准备失败；动员兵成建制投降，卢甘斯克乌军兵分三路；五十国援乌抗俄决心更坚，交付更多武器和防寒装备；#新冷战情室</a></li>
 <li><a href="/topimagenews/20221015/1797441.md">普丁软化宣布4不 不悔、不再猛炸、不再动员、不摧毁乌克兰</a></li>
 <li><a href="/cnnews/20221015/1797508.md">宋庆龄晚年觉醒 三次厌世逃离中国未成被扣留</a></li>
 <li><a href="/cnnews/20221015/1797402.md">中共官宣20大日程 习近平将发表政治报告</a></li>
-<li><a href="/headline/20221014/1797254.md">中共二十大报道：终身制对中国真的很可怕吗？</a></li>
 <li><a href="/topimagenews/20221015/1797623.md">习近平连任不稳？新闻联播现反常？真相惊人！【阿波罗网报道】</a></li>
+<li><a href="/headline/20221014/1797254.md">中共二十大报道：终身制对中国真的很可怕吗？</a></li>
 <li><a href="/headline/20221015/1797479.md">北京横幅抗议事件发酵 “民不畏死，奈何以死惧之”</a></li>
 <li><a href="/topimagenews/20221015/1797598.md">二十大胡锦涛将如何行动？胡春华有望接下总理</a></li>
 <li><a href="/cnnews/20221015/1797518.md">习与他的博士论文：代写抄袭疑云 但谁能质疑</a></li>
 <li><a href="/headline/20221015/1797498.md">喜迎20大：巴黎街头现标语横幅，呼吁习近平下台</a></li>
 <li><a href="/cbnews/20221015/1797442.md">中国人民“老朋友”：习近平让中国“动脉堵塞”</a></li>
 <li><a href="/topimagenews/20221014/1797251.md">普丁威胁动核武 欧盟警告：俄军将被彻底歼灭</a></li>
-<li><a href="/cnnews/20221014/1797218.md">印度神童喊10月有事 乌克兰台湾中国美国吓到 小心4地雷</a></li>
 <li><a href="/cnnews/20221015/1797628.md">胡锦涛儿子随浙江团赴京 满头白发自己拎行李</a></li>
+<li><a href="/cnnews/20221015/1797568.md">海底捞的现况 是正在发生的中国中产阶级消亡史</a></li>
 <li><a href="/cbnews/20221014/1797347.md">《捍卫战士2》10马赫“暗星”是真的！美军：将在空军基地首度亮相</a></li>
+<li><a href="/headline/20221014/1797221.md">香港主流传媒集体失语 二十大前北京现反习横额事件不被报道或被抽起</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
 
 </ul>
 </div>
