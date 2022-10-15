@@ -11,23 +11,23 @@
 <li><a href="/cnnews/20221015/1797628.md">胡锦涛儿子随浙江团赴京 满头白发自己拎行李</a></li>
 <li><a href="/cnnews/20221015/1797402.md">中共官宣20大日程 习近平将发表政治报告</a></li>
 <li><a href="/headline/20221015/1797479.md">北京横幅抗议事件发酵 “民不畏死，奈何以死惧之”</a></li>
-<li><a href="/topimagenews/20221015/1797441.md">普丁软化宣布4不 不悔、不再猛炸、不再动员、不摧毁乌克兰</a></li>
 <li><a href="/topimagenews/20221015/1797598.md">二十大胡锦涛将如何行动？胡春华有望接下总理</a></li>
+<li><a href="/topimagenews/20221015/1797441.md">普丁软化宣布4不 不悔、不再猛炸、不再动员、不摧毁乌克兰</a></li>
 <li><a href="/cnnews/20221015/1797508.md">宋庆龄晚年觉醒 三次厌世逃离中国未成被扣留</a></li>
 <li><a href="/headline/20221015/1797498.md">喜迎20大：巴黎街头现标语横幅，呼吁习近平下台</a></li>
 <li><a href="/headline/20221015/1797676.md">中共20大闭门会期至22日 法新社罕说中常委7人或9人未定</a></li>
-<li><a href="/cnnews/20221015/1797518.md">习与他的博士论文：代写抄袭疑云 但谁能质疑</a></li>
 <li><a href="/cbnews/20221015/1797442.md">中国人民“老朋友”：习近平让中国“动脉堵塞”</a></li>
+<li><a href="/cnnews/20221015/1797518.md">习与他的博士论文：代写抄袭疑云 但谁能质疑</a></li>
 <li><a href="/cnnews/20221015/1797568.md">海底捞的现况 是正在发生的中国中产阶级消亡史</a></li>
 <li><a href="/sohnews/20221015/1797647.md">💥26岁大陆青年响应彭载舟！凌晨上街贴“倒·共”传单，目前仍无音信🙏；彭载舟被带走前还录了一段影片，他现在人在哪？更多信息传出！老家东北；“重兵”把守四通桥，“看桥人”成热门｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/headline/20221015/1797613.md">中共二十大前夕 美国会情报领袖：习近平第三任期将对美国人有“巨大后果”</a></li>
 <li><a href="/sohnews/20221015/1797501.md">北京勇士震撼！《孤勇者》遭下架，《桥》的主题曲热传</a></li>
 <li><a href="/cbnews/20221015/1797638.md">习近平今主持二十大预备会议 各地党代表全数抵京</a></li>
-<li><a href="/comments/20221015/1797620.md">四通桥勇士标语传遍全世界，党彻底慌了！北京员警这次表现惊艳？习近平二十大遭遇最大难题</a></li>
 <li><a href="/topimagenews/20221015/1797583.md">捧得高才跌的狠！反习派拼了！【阿波罗网报道】</a></li>
-<li><a href="/headline/20221015/1797661.md">法媒“妄议”？列习近平7宗错</a></li>
+<li><a href="/comments/20221015/1797620.md">四通桥勇士标语传遍全世界，党彻底慌了！北京员警这次表现惊艳？习近平二十大遭遇最大难题</a></li>
 <li><a href="/headline/20221015/1797690.md">台媒料中共20大政治局大换血 天子近臣入局</a></li>
-<li><a href="/cnnews/20221015/1797648.md">中共副外长披露孟晚舟回国细节:领导人做拜登工作</a></li>
+<li><a href="/headline/20221015/1797661.md">法媒“妄议”？列习近平7宗错</a></li>
+<li><a href="/cnnews/hknews/20221015/1797694.md">新闻自由不再 四通桥反习抗议，港媒全体噤声</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
 <li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 
 </ul>
 </div>
