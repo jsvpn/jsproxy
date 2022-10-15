@@ -19,13 +19,13 @@
 <li><a href="/sohnews/20221015/1797647.md">💥26岁大陆青年响应彭载舟！凌晨上街贴“倒·共”传单，目前仍无音信🙏；彭载舟被带走前还录了一段影片，他现在人在哪？更多信息传出！老家东北；“重兵”把守四通桥，“看桥人”成热门｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20221015/1797568.md">海底捞的现况 是正在发生的中国中产阶级消亡史</a></li>
 <li><a href="/sohnews/20221015/1797501.md">北京勇士震撼！《孤勇者》遭下架，《桥》的主题曲热传</a></li>
-<li><a href="/cnnews/hknews/20221015/1797694.md">新闻自由不再 四通桥反习抗议，港媒全体噤声</a></li>
 <li><a href="/cbnews/20221015/1797638.md">习近平今主持二十大预备会议 各地党代表全数抵京</a></li>
+<li><a href="/cnnews/hknews/20221015/1797694.md">新闻自由不再 四通桥反习抗议，港媒全体噤声</a></li>
 <li><a href="/lifebaike/20221015/1797695.md">大学女助教美到爆红 遭网友揭小三上位黑历史</a></li>
-<li><a href="/topimagenews/20221015/1797583.md">捧得高才跌的狠！反习派拼了！【阿波罗网报道】</a></li>
 <li><a href="/headline/20221015/1797613.md">中共二十大前夕 美国会情报领袖：习近平第三任期将对美国人有“巨大后果”</a></li>
-<li><a href="/comments/20221015/1797620.md">四通桥勇士标语传遍全世界，党彻底慌了！北京员警这次表现惊艳？习近平二十大遭遇最大难题</a></li>
+<li><a href="/topimagenews/20221015/1797583.md">捧得高才跌的狠！反习派拼了！【阿波罗网报道】</a></li>
 <li><a href="/comments/20221015/1797740.md">二十大主席团常委名单出炉 46人非习派占半 前朝元老全部进入</a></li>
+<li><a href="/comments/20221015/1797620.md">四通桥勇士标语传遍全世界，党彻底慌了！北京员警这次表现惊艳？习近平二十大遭遇最大难题</a></li>
 <li><a href="/headline/20221015/1797661.md">法媒“妄议”？列习近平7宗错</a></li>
 <li><a href="/headline/20221015/1797711.md">四通桥人身份被曝光  法国汉学家白夏对此表示钦佩与悲哀</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221016/1797814.md" target="_blank">20大开幕前 北京对台重弹旧调</a></li>
 <li><a href="/comments/20221016/1797804.md" target="_blank">李燕铭：朝鲜夜间发起多点同步挑衅 发射500余枚炮弹 韩国防长要求全军严阵以待 韩军将举行护国军演 美日韩参谋长将会谈 韩国政府时隔五年对朝实施单边制裁 全球军事围堵中共之朝鲜半岛战争阴云（二八）</a></li>
 <li><a href="/comments/20221016/1797802.md" target="_blank">中共政治局换血 天子近臣将入局</a></li>
 <li><a href="/comments/20221016/1797801.md" target="_blank">中共二十大发言人重申台海立场 老调重弹？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221015/1797564.md" target="_blank">王左中右：中文快被笑死了</a></li>
 <li><a href="/comments/20221015/1797563.md" target="_blank">海边的西塞罗：骂杜甫是“唐代公知”的人，是什么人</a></li>
 <li><a href="/comments/20221015/1797562.md" target="_blank">吴奕军:轮到IMF成为“一带一路”冤大头</a></li>
-<li><a href="/comments/20221015/1797545.md" target="_blank">二大爷:向每一个以卵击石的凡人致敬</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
 <li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
 <li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
 
 </ul>
 </div>
