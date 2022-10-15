@@ -5,8 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221014/1797069.md">习近平传闻或成真！中共央视现罕见一幕！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221014/1797067.md">秦鹏：北京反共勇士真实身份曝光</a></li>
 <li><a href="/topimagenews/20221014/1797148.md">“新坦克人”身份疑曝光！北京挂“罢免习近平”布条遭逮捕…</a></li>
 <li><a href="/baitai/20221014/1797233.md">【图说天朝】北京四通桥事件后，当局紧急部署</a></li>
 <li><a href="/comments/20221014/1797180.md">辽宁抚顺，大批军车进城！</a></li>
@@ -18,16 +16,18 @@
 <li><a href="/headline/20221014/1797264.md">【二十大】传北京雇人看桥每天320元 买布超一米实名制</a></li>
 <li><a href="/cnnews/20221014/1797351.md">何时恢复正常生活？中国官员给答案 陆网炸锅：死了也都得烧口罩吗</a></li>
 <li><a href="/sohnews/20221014/1797267.md">疯传普京下台，俄罗斯2次核试验准备失败；动员兵成建制投降，卢甘斯克乌军兵分三路；五十国援乌抗俄决心更坚，交付更多武器和防寒装备；#新冷战情室</a></li>
-<li><a href="/cbnews/20221014/1797065.md">天亮时分：拉横幅倒习，孤胆勇士身份曝光；习近平四面都是敌人，为何却无人能撼动其权位？自下而上结束中共的希望（政论天下第819集 20221013）</a></li>
-<li><a href="/cbnews/20221014/1797072.md">效法毛泽东 习近平正拿出一个秘密“武器”！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221014/1797271.md">权倾一时的周永康，一夜倒台，遭满门查抄。他是政变的操盘手，还是中共内斗的“高层炮灰”？他的落马，还与一件事密不可分，中共不敢提！｜ #百年真相</a></li>
 <li><a href="/topimagenews/20221014/1797170.md">为普丁准备后事！美媒点名这5人可能“上位”</a></li>
 <li><a href="/topimagenews/20221015/1797441.md">普丁软化宣布4不 不悔、不再猛炸、不再动员、不摧毁乌克兰</a></li>
 <li><a href="/headline/20221014/1797254.md">中共二十大报道：终身制对中国真的很可怕吗？</a></li>
-<li><a href="/cbnews/20221014/1797070.md">赵薇突更新Instagram 网惊：要回归？</a></li>
 <li><a href="/cbnews/20221014/1797175.md">江峰：北京中心地段四通桥出现反习标语，反核酸要选票政治民主诉求一步到位！反习勇士究竟是谁？这篇报导看十九届七中全会公报习近平“顺利”接任的险恶前途【江峰漫谈20221013 第562期】</a></li>
 <li><a href="/cnnews/20221015/1797402.md">中共官宣20大日程 习近平将发表政治报告</a></li>
 <li><a href="/cnnews/20221014/1797203.md">华裔女首富入狱！曾是李嘉诚投资引路人</a></li>
+<li><a href="/ssgc/20221014/1797159.md">〖兲朝浮世绘〗帝都人民热情挂条幅：“罢免独裁国贼习近平”</a></li>
+<li><a href="/topimagenews/20221014/1797251.md">普丁威胁动核武 欧盟警告：俄军将被彻底歼灭</a></li>
+<li><a href="/cnnews/20221014/1797218.md">印度神童喊10月有事 乌克兰台湾中国美国吓到 小心4地雷</a></li>
+<li><a href="/cbnews/20221014/1797347.md">《捍卫战士2》10马赫“暗星”是真的！美军：将在空军基地首度亮相</a></li>
+<li><a href="/headline/20221014/1797221.md">香港主流传媒集体失语 二十大前北京现反习横额事件不被报道或被抽起</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221015/1797558.md" target="_blank">天亮时分：四通桥事件后，又有习裸退传言，王岐山一句话泄露习真正去向；如何以最小的风险让中国走向自由（政论天下第820集 20221014）</a></li>
 <li><a href="/comments/20221015/1797512.md" target="_blank">专访陈力简 (下)：州长选战成看点，攸关选举法规；中期选举结果对川普和2024有何影响？通货膨胀将决定中间选民走向 ｜方菲访谈 10/14/2022</a></li>
 <li><a href="/cbnews/20221015/1797462.md" target="_blank">中共20大防疫标准高规格 “时空交错”要居隔</a></li>
 <li><a href="/cbnews/20221015/1797442.md" target="_blank">中国人民“老朋友”：习近平让中国“动脉堵塞”</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221013/1796889.md" target="_blank">北京海淀，一勇士在桥上挂上横幅并广播。横幅上书“罢课 罢工 罢免独裁民贼习近平”，“不要核酸要吃饭 不要文革要改革”，“不要封控要自由 不要领袖要选票”。</a></li>
 <li><a href="/comments/20221013/1796888.md" target="_blank">无人机空拍。北京海淀，勇士在桥上挂横幅，上书“罢课 罢工 罢免独裁民贼习近平”等内容。冒烟是在烧东西，可能是为了引起路人注意。大批警察赶过去把人抓走了。</a></li>
 <li><a href="/cbnews/20221013/1796823.md" target="_blank">牛：西南政法大学在校生起诉学校不正当封校</a></li>
-<li><a href="/cbnews/20221013/1796800.md" target="_blank">二十大倒数 处境恶化 习近平面临这三项冲击</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221015/1797566.md" target="_blank">网络民议：满洲里公安雷霆出击抓获捡垃圾女子一名</a></li>
+<li><a href="/comments/20221015/1797565.md" target="_blank">【404文库】不从｜那个时刻</a></li>
+<li><a href="/comments/20221015/1797564.md" target="_blank">王左中右：中文快被笑死了</a></li>
+<li><a href="/comments/20221015/1797563.md" target="_blank">海边的西塞罗：骂杜甫是“唐代公知”的人，是什么人</a></li>
+<li><a href="/comments/20221015/1797562.md" target="_blank">吴奕军:轮到IMF成为“一带一路”冤大头</a></li>
 <li><a href="/comments/20221015/1797545.md" target="_blank">二大爷:向每一个以卵击石的凡人致敬</a></li>
 <li><a href="/comments/20221015/1797540.md" target="_blank">颜纯钩:清零难清，共存难存，一盘死棋，没有活路</a></li>
 <li><a href="/comments/20221015/1797539.md" target="_blank">何清涟：世界产业金字塔结构的地位重构</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20221015/1797376.md" target="_blank">时事大家谈：二十大前夕北京惊现反习横幅，民怨表面化？</a></li>
 <li><a href="/comments/20221014/1797355.md" target="_blank">【健康养生】一位老中医遗留下的健康养生口诀 写得太好了！一定要收藏</a></li>
 <li><a href="/comments/20221014/1797352.md" target="_blank">时事大家谈：二十大前夕北京惊现反习横幅，民怨表面化？十年折腾怨声四起，习近平为何还能连任？</a></li>
-<li><a href="/comments/20221014/1797345.md" target="_blank">20大招看桥的！北京四通桥反习标语衍生出的新岗位</a></li>
-<li><a href="/comments/20221014/1797328.md" target="_blank">【健康指南】十条中药顺口溜 蕴含健康大道理</a></li>
-<li><a href="/comments/20221014/1797314.md" target="_blank">20大谁将入局？ 中共军委换血过半 福建帮“死忠”将领能否上位</a></li>
-<li><a href="/comments/20221014/1797300.md" target="_blank">【文韬政论】习总书记称帝之路的重要关键</a></li>
-<li><a href="/comments/20221014/1797298.md" target="_blank">荷兰女王储被罪犯盯上 紧急从宿舍搬回王宫居住</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
 <li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 
 </ul>
 </div>
