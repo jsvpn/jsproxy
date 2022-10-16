@@ -5,16 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20221015/1797740.md">二十大主席团常委名单出炉 46人非习派占半 前朝元老全部进入</a></li>
 <li><a href="/cbnews/20221016/1797934.md">四通桥效应扩大！北京再现反习标语这次要招看厕员？</a></li>
-<li><a href="/topimagenews/20221016/1797953.md">中共二十大开幕式 两人不知所踪</a></li>
 <li><a href="/cbnews/20221016/1797774.md">歼灭中共：确认习近平连任 拜登出手两狠招</a></li>
+<li><a href="/topimagenews/20221016/1797953.md">中共二十大开幕式 两人不知所踪</a></li>
 <li><a href="/cbnews/20221016/1797819.md">天亮时分：20大主席团常委名单曝光，习近平成少数派？丁薛祥将入常；黄坤明取代王沪宁？（政论天下第821集 20221015）</a></li>
-<li><a href="/topimagenews/20221016/1798005.md">跟5年前相比 中共二十大报告不敢提这句了</a></li>
 <li><a href="/topimagenews/20221016/1797821.md">习近平自作自受</a></li>
+<li><a href="/topimagenews/20221016/1798005.md">跟5年前相比 中共二十大报告不敢提这句了</a></li>
 <li><a href="/topimagenews/20221016/1797984.md">20大高层洗牌 李克强出路？ 习家班多少人“入常”？</a></li>
 <li><a href="/sohnews/20221016/1797785.md">“绝不下台！习近平刚刚“宣布”自己：20大中共总书记”Shitao TV - 03 (15/10/22) 开幕式与江泽民互动是关键</a></li>
-<li><a href="/headline/20221015/1797744.md">中共20大主席团：江泽民远排第27名后</a></li>
 <li><a href="/topimagenews/20221016/1797966.md">中共20大登场 96岁江泽民缺席 胡锦涛白发现身</a></li>
 <li><a href="/lifebaike/20221016/1797790.md">第一批做近视手术的人，后来怎样了</a></li>
 <li><a href="/cbnews/20221016/1797839.md">江峰：20大几个小时後就要召开，这一群人突然聚在一起开始“妄议中央”！半小时後将转入“妄议”的现场</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/cbnews/20221016/1797982.md">习预计将第3度连任BBC：中共二十大独有“习近平派”</a></li>
 <li><a href="/comments/20221016/1797946.md">【独家重磅】李燕铭：江泽民等五名正国级高官缺席二十大开幕式 前常委罗干出事诡异隐身逾五年 相继缺席十九大与百年党庆 病入膏肓还是出逃国外？两则消息疑泄露内幕 江泽民曾给罗干下达4口头密令 朱镕基训斥罗干 罗干家族敛财恶行曝光 习近平连任与二十大常委争夺战（八二）</a></li>
 <li><a href="/topimagenews/20221016/1797917.md">【微博精粹】四通彭立发秒删 现在要靠小三拯救中国芯了</a></li>
+<li><a href="/topimagenews/20221016/1797874.md">“万能免死牌”！怎么回事，鹅厂食堂都是战略性孕妇？</a></li>
 <li><a href="/comments/20221016/1797793.md">经济寒冬来了，一条街一条街的实体店倒闭转让！</a></li>
+<li><a href="/comments/20221016/1797849.md">【独家重磅】李燕铭：习近平主持二十大预备会议 独坐主席台 六常委台下分两排靠边坐 王岐山缺席 与五年前十九大相比有两个重大不同 释放敏感信号 预示二十大后中南海政治新特征 习近平连任与二十大常委争夺战（八十）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221016/1798098.md" target="_blank">彭载舟中共自选委政治纲领：与中共和解选总书记 一党员一票</a></li>
 <li><a href="/topimagenews/20221016/1798094.md" target="_blank">习近平20大高谈“伟大变革”！CNN记者3句话总结 小粉红全崩溃</a></li>
 <li><a href="/topimagenews/20221016/1798086.md" target="_blank">中共党报欲释放重要信号 却把中共底裤扯掉！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221016/1798005.md" target="_blank">跟5年前相比 中共二十大报告不敢提这句了</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221015/1797634.md" target="_blank">代价高昂！欧洲冬季天然气危机解除…</a></li>
 <li><a href="/topimagenews/20221015/1797623.md" target="_blank">习近平连任不稳？新闻联播现反常？真相惊人！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221015/1797599.md" target="_blank">普丁犯大忌！俄罗斯沦“朝鲜”！普立兹得主：他把自己逼向绝境</a></li>
-<li><a href="/topimagenews/20221015/1797598.md" target="_blank">二十大胡锦涛将如何行动？胡春华有望接下总理</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
 <li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 
 </ul>
 </div>
