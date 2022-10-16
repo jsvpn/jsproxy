@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20221015/1797649.md">20大主席团常务委员会名单通过 估计是这45人</a></li>
 <li><a href="/topimagenews/20221015/1797732.md">下届中共总书记是他！已经四次验证！【阿波罗网报道】</a></li>
 <li><a href="/headline/20221015/1797676.md">中共20大闭门会期至22日 法新社罕说中常委7人或9人未定</a></li>
 <li><a href="/headline/20221015/1797690.md">台媒料中共20大政治局大换血 天子近臣入局</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/lifebaike/20221015/1797695.md">大学女助教美到爆红 遭网友揭小三上位黑历史</a></li>
 <li><a href="/topimagenews/20221016/1797821.md">习近平自作自受</a></li>
 <li><a href="/cbnews/20221016/1797839.md">江峰：20大几个小时後就要召开，这一群人突然聚在一起开始“妄议中央”！半小时後将转入“妄议”的现场</a></li>
+<li><a href="/cbnews/20221016/1797934.md">四通桥效应扩大！北京再现反习标语这次要招看厕员？</a></li>
 <li><a href="/cnnews/hknews/20221015/1797694.md">新闻自由不再 四通桥反习抗议，港媒全体噤声</a></li>
 <li><a href="/cbnews/20221016/1797774.md">歼灭中共：确认习近平连任 拜登出手两狠招</a></li>
 <li><a href="/headline/20221015/1797744.md">中共20大主席团：江泽民远排第27名后</a></li>
-<li><a href="/cbnews/20221016/1797934.md">四通桥效应扩大！北京再现反习标语这次要招看厕员？</a></li>
+<li><a href="/topimagenews/20221016/1797953.md">中共二十大开幕式 两人不知所踪</a></li>
 <li><a href="/lifebaike/20221016/1797790.md">第一批做近视手术的人，后来怎样了</a></li>
 <li><a href="/sohnews/20221016/1797785.md">“绝不下台！习近平刚刚“宣布”自己：20大中共总书记”Shitao TV - 03 (15/10/22) 开幕式与江泽民互动是关键</a></li>
 <li><a href="/cbnews/20221016/1797773.md">急不可耐？习将于20大向美发出这声“怒吼”</a></li>
 <li><a href="/cnnews/20221016/1797813.md">声援彭立发 海外校园标语开花</a></li>
-<li><a href="/topimagenews/20221016/1797953.md">中共二十大开幕式 两人不知所踪</a></li>
 <li><a href="/headline/20221015/1797661.md">法媒“妄议”？列习近平7宗错</a></li>
 <li><a href="/headline/20221015/1797711.md">四通桥人身份被曝光  法国汉学家白夏对此表示钦佩与悲哀</a></li>
-<li><a href="/comments/20221016/1797793.md">经济寒冬来了，一条街一条街的实体店倒闭转让！</a></li>
 <li><a href="/comments/20221016/1797849.md">【独家重磅】李燕铭：习近平主持二十大预备会议 独坐主席台 六常委台下分两排靠边坐 王岐山缺席 与五年前十九大相比有两个重大不同 释放敏感信号 预示二十大后中南海政治新特征 习近平连任与二十大常委争夺战（八十）</a></li>
-<li><a href="/cnnews/20221015/1797648.md">中共副外长披露孟晚舟回国细节:领导人做拜登工作</a></li>
+<li><a href="/comments/20221016/1797793.md">经济寒冬来了，一条街一条街的实体店倒闭转让！</a></li>
+<li><a href="/topimagenews/20221016/1797966.md">中共20大登场 96岁江泽民缺席 胡锦涛白发现身</a></li>
+<li><a href="/topimagenews/20221016/1797874.md">“万能免死牌”！怎么回事，鹅厂食堂都是战略性孕妇？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221016/1797994.md" target="_blank">诺贝尔物理学奖得主眼中的上帝</a></li>
 <li><a href="/topimagenews/20221016/1797985.md" target="_blank">中共二十大开幕式 至少四主席团成员没出现</a></li>
 <li><a href="/topimagenews/20221016/1797984.md" target="_blank">20大高层洗牌 李克强出路？ 习家班多少人“入常”？</a></li>
 <li><a href="/topimagenews/20221016/1797981.md" target="_blank">习掌权10年拼与美“终极一战” 备战态度1979年来首见</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221015/1797585.md" target="_blank">“平民丧命”！“导弹血洗乌克兰”！普丁：不后悔 相信俄军的行动“正确”</a></li>
 <li><a href="/topimagenews/20221015/1797583.md" target="_blank">捧得高才跌的狠！反习派拼了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221015/1797441.md" target="_blank">普丁软化宣布4不 不悔、不再猛炸、不再动员、不摧毁乌克兰</a></li>
-<li><a href="/topimagenews/20221014/1797344.md" target="_blank">北京才刚爆“反习”抗议 胡锡进发文“多数人支持共产党”遭网友洗脸</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
 <li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
 
 </ul>
 </div>
