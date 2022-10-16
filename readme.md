@@ -13,21 +13,21 @@
 <li><a href="/cbnews/20221016/1797774.md">歼灭中共：确认习近平连任 拜登出手两狠招</a></li>
 <li><a href="/topimagenews/20221016/1797821.md">习近平自作自受</a></li>
 <li><a href="/topimagenews/20221016/1797966.md">中共20大登场 96岁江泽民缺席 胡锦涛白发现身</a></li>
-<li><a href="/sohnews/20221016/1797785.md">“绝不下台！习近平刚刚“宣布”自己：20大中共总书记”Shitao TV - 03 (15/10/22) 开幕式与江泽民互动是关键</a></li>
 <li><a href="/headline/20221015/1797744.md">中共20大主席团：江泽民远排第27名后</a></li>
+<li><a href="/sohnews/20221016/1797785.md">“绝不下台！习近平刚刚“宣布”自己：20大中共总书记”Shitao TV - 03 (15/10/22) 开幕式与江泽民互动是关键</a></li>
 <li><a href="/cbnews/20221016/1797839.md">江峰：20大几个小时後就要召开，这一群人突然聚在一起开始“妄议中央”！半小时後将转入“妄议”的现场</a></li>
 <li><a href="/lifebaike/20221016/1797790.md">第一批做近视手术的人，后来怎样了</a></li>
-<li><a href="/topimagenews/20221016/1797963.md">曾被彭帅控性侵爆“玩完就不要了！” 张高丽出席中共20大</a></li>
 <li><a href="/topimagenews/20221016/1797984.md">20大高层洗牌 李克强出路？ 习家班多少人“入常”？</a></li>
+<li><a href="/topimagenews/20221016/1797963.md">曾被彭帅控性侵爆“玩完就不要了！” 张高丽出席中共20大</a></li>
 <li><a href="/topimagenews/20221016/1797985.md">中共二十大开幕式 至少四主席团成员没出现</a></li>
 <li><a href="/cbnews/20221016/1797773.md">急不可耐？习将于20大向美发出这声“怒吼”</a></li>
 <li><a href="/cnnews/20221016/1797813.md">声援彭立发 海外校园标语开花</a></li>
-<li><a href="/comments/20221016/1797946.md">【独家重磅】李燕铭：江泽民等五名正国级高官缺席二十大开幕式 前常委罗干出事诡异隐身逾五年 相继缺席十九大与百年党庆 病入膏肓还是出逃国外？两则消息疑泄露内幕 江泽民曾给罗干下达4口头密令 朱镕基训斥罗干 罗干家族敛财恶行曝光 习近平连任与二十大常委争夺战（八二）</a></li>
 <li><a href="/topimagenews/20221016/1798005.md">跟5年前相比 中共二十大报告不敢提这句了</a></li>
+<li><a href="/comments/20221016/1797946.md">【独家重磅】李燕铭：江泽民等五名正国级高官缺席二十大开幕式 前常委罗干出事诡异隐身逾五年 相继缺席十九大与百年党庆 病入膏肓还是出逃国外？两则消息疑泄露内幕 江泽民曾给罗干下达4口头密令 朱镕基训斥罗干 罗干家族敛财恶行曝光 习近平连任与二十大常委争夺战（八二）</a></li>
+<li><a href="/comments/20221016/1797987.md">江泽民、朱鎔基、罗干、吴邦国缺席二十大 李瑞环独树一帜全场拒绝为习近平鼓掌</a></li>
+<li><a href="/cbnews/20221016/1797982.md">习预计将第3度连任BBC：中共二十大独有“习近平派”</a></li>
 <li><a href="/topimagenews/20221016/1797917.md">【微博精粹】四通彭立发秒删 现在要靠小三拯救中国芯了</a></li>
 <li><a href="/headline/20221015/1797711.md">四通桥人身份被曝光  法国汉学家白夏对此表示钦佩与悲哀</a></li>
-<li><a href="/comments/20221016/1797849.md">【独家重磅】李燕铭：习近平主持二十大预备会议 独坐主席台 六常委台下分两排靠边坐 王岐山缺席 与五年前十九大相比有两个重大不同 释放敏感信号 预示二十大后中南海政治新特征 习近平连任与二十大常委争夺战（八十）</a></li>
-<li><a href="/comments/20221016/1797987.md">江泽民、朱鎔基、罗干、吴邦国缺席二十大 李瑞环独树一帜全场拒绝为习近平鼓掌</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 
 </ul>
 </div>
