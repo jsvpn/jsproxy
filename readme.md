@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221015/1797732.md">下届中共总书记是他！已经四次验证！【阿波罗网报道】</a></li>
 <li><a href="/comments/20221015/1797740.md">二十大主席团常委名单出炉 46人非习派占半 前朝元老全部进入</a></li>
 <li><a href="/cbnews/20221016/1797934.md">四通桥效应扩大！北京再现反习标语这次要招看厕员？</a></li>
 <li><a href="/topimagenews/20221016/1797953.md">中共二十大开幕式 两人不知所踪</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/cbnews/20221016/1797819.md">天亮时分：20大主席团常委名单曝光，习近平成少数派？丁薛祥将入常；黄坤明取代王沪宁？（政论天下第821集 20221015）</a></li>
 <li><a href="/topimagenews/20221016/1797821.md">习近平自作自受</a></li>
 <li><a href="/topimagenews/20221016/1797984.md">20大高层洗牌 李克强出路？ 习家班多少人“入常”？</a></li>
-<li><a href="/topimagenews/20221016/1797966.md">中共20大登场 96岁江泽民缺席 胡锦涛白发现身</a></li>
-<li><a href="/sohnews/20221016/1797785.md">“绝不下台！习近平刚刚“宣布”自己：20大中共总书记”Shitao TV - 03 (15/10/22) 开幕式与江泽民互动是关键</a></li>
-<li><a href="/headline/20221015/1797744.md">中共20大主席团：江泽民远排第27名后</a></li>
 <li><a href="/topimagenews/20221016/1798005.md">跟5年前相比 中共二十大报告不敢提这句了</a></li>
-<li><a href="/cbnews/20221016/1797839.md">江峰：20大几个小时後就要召开，这一群人突然聚在一起开始“妄议中央”！半小时後将转入“妄议”的现场</a></li>
+<li><a href="/sohnews/20221016/1797785.md">“绝不下台！习近平刚刚“宣布”自己：20大中共总书记”Shitao TV - 03 (15/10/22) 开幕式与江泽民互动是关键</a></li>
+<li><a href="/topimagenews/20221016/1797966.md">中共20大登场 96岁江泽民缺席 胡锦涛白发现身</a></li>
+<li><a href="/headline/20221015/1797744.md">中共20大主席团：江泽民远排第27名后</a></li>
 <li><a href="/lifebaike/20221016/1797790.md">第一批做近视手术的人，后来怎样了</a></li>
+<li><a href="/cbnews/20221016/1797839.md">江峰：20大几个小时後就要召开，这一群人突然聚在一起开始“妄议中央”！半小时後将转入“妄议”的现场</a></li>
 <li><a href="/topimagenews/20221016/1797985.md">中共二十大开幕式 至少四主席团成员没出现</a></li>
 <li><a href="/comments/20221016/1797987.md">江泽民、朱鎔基、罗干、吴邦国缺席二十大 李瑞环独树一帜全场拒绝为习近平鼓掌</a></li>
-<li><a href="/topimagenews/20221016/1797963.md">曾被彭帅控性侵爆“玩完就不要了！” 张高丽出席中共20大</a></li>
 <li><a href="/weiquan/20221016/1798021.md">上海大学退休教师顾国平因转发北京四通桥上的倒习标语 被警察带走</a></li>
+<li><a href="/topimagenews/20221016/1797963.md">曾被彭帅控性侵爆“玩完就不要了！” 张高丽出席中共20大</a></li>
 <li><a href="/cbnews/20221016/1797773.md">急不可耐？习将于20大向美发出这声“怒吼”</a></li>
 <li><a href="/cnnews/20221016/1797813.md">声援彭立发 海外校园标语开花</a></li>
-<li><a href="/comments/20221016/1797946.md">【独家重磅】李燕铭：江泽民等五名正国级高官缺席二十大开幕式 前常委罗干出事诡异隐身逾五年 相继缺席十九大与百年党庆 病入膏肓还是出逃国外？两则消息疑泄露内幕 江泽民曾给罗干下达4口头密令 朱镕基训斥罗干 罗干家族敛财恶行曝光 习近平连任与二十大常委争夺战（八二）</a></li>
 <li><a href="/cbnews/20221016/1797982.md">习预计将第3度连任BBC：中共二十大独有“习近平派”</a></li>
+<li><a href="/comments/20221016/1797946.md">【独家重磅】李燕铭：江泽民等五名正国级高官缺席二十大开幕式 前常委罗干出事诡异隐身逾五年 相继缺席十九大与百年党庆 病入膏肓还是出逃国外？两则消息疑泄露内幕 江泽民曾给罗干下达4口头密令 朱镕基训斥罗干 罗干家族敛财恶行曝光 习近平连任与二十大常委争夺战（八二）</a></li>
 <li><a href="/topimagenews/20221016/1797917.md">【微博精粹】四通彭立发秒删 现在要靠小三拯救中国芯了</a></li>
+<li><a href="/comments/20221016/1797793.md">经济寒冬来了，一条街一条街的实体店倒闭转让！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221016/1797952.md" target="_blank">【澳洲首都街头华人青年涂抹标语打人事件调查】专访受害人董女士①：男的女的一起把我打懵了，多亏澳洲人仗义相助；标语被破坏早就不是第一次了</a></li>
 <li><a href="/cbnews/20221016/1798077.md" target="_blank">习近平20大报告直播大家都要看 小学生也不例外 还要家长拍照存证</a></li>
 <li><a href="/cbnews/20221016/1798068.md" target="_blank">美军第7舰队司令：共军难跨海侵台 台海作战无“散兵坑”可躲</a></li>
 <li><a href="/cbnews/20221016/1797982.md" target="_blank">习预计将第3度连任BBC：中共二十大独有“习近平派”</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20221016/1797771.md" target="_blank">韩国落选联合国人权理事会 舆论震惊</a></li>
 <li><a href="/cbnews/20221015/1797638.md" target="_blank">习近平今主持二十大预备会议 各地党代表全数抵京</a></li>
 <li><a href="/cbnews/20221015/1797632.md" target="_blank">江峰：苏州超级计算中心失火疑虚报芯片库存销毁证据；美全面制裁中半导体产业有多致命？ AI、超高音速导弹、太空战全崩盘【江峰漫谈20221014第563期】</a></li>
-<li><a href="/cbnews/20221015/1797600.md" target="_blank">中共二十大明日召开 发言人下午举新闻发报会</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221016/1798086.md" target="_blank">中共党报欲释放重要信号 却把中共底裤扯掉！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221016/1798005.md" target="_blank">跟5年前相比 中共二十大报告不敢提这句了</a></li>
 <li><a href="/topimagenews/20221016/1797994.md" target="_blank">诺贝尔物理学奖得主眼中的上帝</a></li>
 <li><a href="/topimagenews/20221016/1797985.md" target="_blank">中共二十大开幕式 至少四主席团成员没出现</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221015/1797599.md" target="_blank">普丁犯大忌！俄罗斯沦“朝鲜”！普立兹得主：他把自己逼向绝境</a></li>
 <li><a href="/topimagenews/20221015/1797598.md" target="_blank">二十大胡锦涛将如何行动？胡春华有望接下总理</a></li>
 <li><a href="/topimagenews/20221015/1797585.md" target="_blank">“平民丧命”！“导弹血洗乌克兰”！普丁：不后悔 相信俄军的行动“正确”</a></li>
-<li><a href="/topimagenews/20221015/1797583.md" target="_blank">捧得高才跌的狠！反习派拼了！【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 <li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
 <li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 
 </ul>
 </div>
