@@ -16,14 +16,14 @@
 <li><a href="/topimagenews/20221016/1797966.md">中共20大登场 96岁江泽民缺席 胡锦涛白发现身</a></li>
 <li><a href="/sohnews/20221016/1797785.md">“绝不下台！习近平刚刚“宣布”自己：20大中共总书记”Shitao TV - 03 (15/10/22) 开幕式与江泽民互动是关键</a></li>
 <li><a href="/headline/20221015/1797744.md">中共20大主席团：江泽民远排第27名后</a></li>
+<li><a href="/topimagenews/20221016/1798005.md">跟5年前相比 中共二十大报告不敢提这句了</a></li>
 <li><a href="/cbnews/20221016/1797839.md">江峰：20大几个小时後就要召开，这一群人突然聚在一起开始“妄议中央”！半小时後将转入“妄议”的现场</a></li>
 <li><a href="/lifebaike/20221016/1797790.md">第一批做近视手术的人，后来怎样了</a></li>
-<li><a href="/topimagenews/20221016/1798005.md">跟5年前相比 中共二十大报告不敢提这句了</a></li>
 <li><a href="/topimagenews/20221016/1797985.md">中共二十大开幕式 至少四主席团成员没出现</a></li>
-<li><a href="/topimagenews/20221016/1797963.md">曾被彭帅控性侵爆“玩完就不要了！” 张高丽出席中共20大</a></li>
 <li><a href="/comments/20221016/1797987.md">江泽民、朱鎔基、罗干、吴邦国缺席二十大 李瑞环独树一帜全场拒绝为习近平鼓掌</a></li>
-<li><a href="/cbnews/20221016/1797773.md">急不可耐？习将于20大向美发出这声“怒吼”</a></li>
+<li><a href="/topimagenews/20221016/1797963.md">曾被彭帅控性侵爆“玩完就不要了！” 张高丽出席中共20大</a></li>
 <li><a href="/weiquan/20221016/1798021.md">上海大学退休教师顾国平因转发北京四通桥上的倒习标语 被警察带走</a></li>
+<li><a href="/cbnews/20221016/1797773.md">急不可耐？习将于20大向美发出这声“怒吼”</a></li>
 <li><a href="/cnnews/20221016/1797813.md">声援彭立发 海外校园标语开花</a></li>
 <li><a href="/comments/20221016/1797946.md">【独家重磅】李燕铭：江泽民等五名正国级高官缺席二十大开幕式 前常委罗干出事诡异隐身逾五年 相继缺席十九大与百年党庆 病入膏肓还是出逃国外？两则消息疑泄露内幕 江泽民曾给罗干下达4口头密令 朱镕基训斥罗干 罗干家族敛财恶行曝光 习近平连任与二十大常委争夺战（八二）</a></li>
 <li><a href="/cbnews/20221016/1797982.md">习预计将第3度连任BBC：中共二十大独有“习近平派”</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221016/1798077.md" target="_blank">习近平20大报告直播大家都要看 小学生也不例外 还要家长拍照存证</a></li>
 <li><a href="/cbnews/20221016/1798068.md" target="_blank">美军第7舰队司令：共军难跨海侵台 台海作战无“散兵坑”可躲</a></li>
 <li><a href="/cbnews/20221016/1797982.md" target="_blank">习预计将第3度连任BBC：中共二十大独有“习近平派”</a></li>
 <li><a href="/cbnews/20221016/1797967.md" target="_blank">二十大前党媒发文：谋划未来 5 年乃至更长时期</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221015/1797638.md" target="_blank">习近平今主持二十大预备会议 各地党代表全数抵京</a></li>
 <li><a href="/cbnews/20221015/1797632.md" target="_blank">江峰：苏州超级计算中心失火疑虚报芯片库存销毁证据；美全面制裁中半导体产业有多致命？ AI、超高音速导弹、太空战全崩盘【江峰漫谈20221014第563期】</a></li>
 <li><a href="/cbnews/20221015/1797600.md" target="_blank">中共二十大明日召开 发言人下午举新闻发报会</a></li>
-<li><a href="/cbnews/20221015/1797558.md" target="_blank">天亮时分：四通桥事件后，又有习裸退传言，王岐山一句话泄露习真正去向；如何以最小的风险让中国走向自由（政论天下第820集 20221014）</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221016/1798080.md" target="_blank">中国人响应四通桥事件 相关画面疑遭脸书“拒绝推播”</a></li>
 <li><a href="/comments/20221016/1798064.md" target="_blank">四通桥反习抗议事件后二十大揭幕 江泽民等四政治老人缺席</a></li>
 <li><a href="/comments/20221016/1798063.md" target="_blank">习近平称对台不会放弃武力 澳学者:无实际做法 民进党:勿再武吓台湾人</a></li>
 <li><a href="/comments/20221016/1798062.md" target="_blank">慢速深蹲是第一名！每天5分钟瘦下半身 助深眠</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221016/1797921.md" target="_blank">404：莱阳在线：在莱阳作案10余起的“小熊维尼”被逮住了</a></li>
 <li><a href="/comments/20221016/1797920.md" target="_blank">西坡:永远不需要对人性绝望</a></li>
 <li><a href="/comments/20221016/1797908.md" target="_blank">二十大主席团常委名单刚出炉 习对老江一贯眼神都是这样的</a></li>
-<li><a href="/comments/20221016/1797900.md" target="_blank">【杰森视角】重头戏已经结束？二十大是中共历史性仪式！四通桥勇士是孤胆英雄！谁对习近平中美格局观产生过重要影响？习近平陷中共党魁十年魔咒，中国面对两种命运！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 <li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
 
 </ul>
 </div>
