@@ -11,23 +11,23 @@
 <li><a href="/cnnews/20221017/1798148.md">习近平二十大讲话 跟十九大相比有两大变化</a></li>
 <li><a href="/ssgc/20221017/1798273.md">〖兲朝浮世绘〗李瑞环噘嘴拒绝为习近平鼓掌 胡锦涛苦笑 李克强生无可恋</a></li>
 <li><a href="/topimagenews/20221017/1798277.md">最美高官情妇，如何在上海社保大案中翻云覆雨？</a></li>
-<li><a href="/sohnews/20221017/1798116.md">全场唯独李瑞环没有鼓掌，仿佛无视习的存在</a></li>
 <li><a href="/cnnews/20221017/1798383.md">“又出不去了”！中国千万人口城市再“封城”…</a></li>
+<li><a href="/sohnews/20221017/1798116.md">全场唯独李瑞环没有鼓掌，仿佛无视习的存在</a></li>
 <li><a href="/cbnews/20221017/1798134.md">习起草20大报告等同“声明连任”：个人权力扩大</a></li>
+<li><a href="/baitai/20221017/1798338.md">【敏感词库】习近平二十大开幕讲话口误敏感词</a></li>
 <li><a href="/cnnews/20221017/1798298.md">清华天才富豪惨败：资产被查封，100亿灰飞烟灭</a></li>
 <li><a href="/cnnews/20221017/1798170.md">宠物放阳台忘拿进屋，广州女隔天见惊人一幕</a></li>
 <li><a href="/cnnews/20221017/1798106.md">只有简短几句话，习近平承认“这一危机”</a></li>
 <li><a href="/cnnews/20221017/1798285.md">20大首日 习近平“偷工减料” 1动作藏巨大隐患【阿波罗网报道】</a></li>
 <li><a href="/comments/20221017/1798316.md">10月16日夜，成都金牛区两河森林别墅区有20多家遭入室抢劫。经济面临崩溃，社会必将动荡。</a></li>
 <li><a href="/topimagenews/20221017/1798296.md">中共官员的工作与服务：多少人把情话发到工作群？</a></li>
-<li><a href="/baitai/20221017/1798338.md">【敏感词库】习近平二十大开幕讲话口误敏感词</a></li>
-<li><a href="/topimagenews/20221017/1798314.md">习近平读报告 中国人20大打卡 谁都跑不掉【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221017/1798398.md">去菲律宾夜店遭绑架！上海女被关狗笼凌虐20天…男友闻赎金吓呆</a></li>
+<li><a href="/topimagenews/20221017/1798314.md">习近平读报告 中国人20大打卡 谁都跑不掉【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221017/1798171.md">儿子取名“伍拾亿”，没想到安徽妈妈的名字更生猛</a></li>
-<li><a href="/finance/20221017/1798163.md">“华为太子”的白日梦，要被拍醒了</a></li>
 <li><a href="/comments/20221017/1798236.md">顾行长和32位情妇，引多少银行家属去做亲子鉴定</a></li>
+<li><a href="/finance/20221017/1798163.md">“华为太子”的白日梦，要被拍醒了</a></li>
 <li><a href="/sohnews/20221017/1798121.md">“摧毁老人干政 头排2人始终不鼓掌！”Shitao TV - 03 (16/10/22) 毛泽东思想消失“习在党之上 党凌驾中国 中国为世界霸主”风靡社媒</a></li>
-<li><a href="/comments/20221017/1798149.md">上海多区再现疫情 万人怒轰一夜红码</a></li>
+<li><a href="/headline/20221017/1798364.md">二十大报告被捧上天 举国上下一片红 民间反应冷漠</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221017/1798500.md" target="_blank">评论 | 陈光诚：中共“二十大 ”强调 “安全” 保权救党是重点</a></li>
+<li><a href="/comments/20221017/1798499.md" target="_blank">桂民海被绑架七周年 无国界记者组织吁民主国家施压北京放人</a></li>
 <li><a href="/comments/20221017/1798483.md" target="_blank">时事大家谈：中国式现代化：习连任后的中国向何处去？</a></li>
 <li><a href="/comments/20221017/1798482.md" target="_blank">时事大家谈：习近平强力扞卫动态清零，二十大后防疫松绑终成泡影？</a></li>
 <li><a href="/comments/20221017/1798481.md" target="_blank">【练乙铮评论】评价「中共不代表中国」的说法</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221017/1798255.md" target="_blank">被彭帅控性侵 江派常委张高丽高调亮相20大</a></li>
 <li><a href="/comments/20221017/1798254.md" target="_blank">习近平欲比肩毛邓，更应思考邓小平的忧虑</a></li>
 <li><a href="/comments/20221017/1798236.md" target="_blank">顾行长和32位情妇，引多少银行家属去做亲子鉴定</a></li>
-<li><a href="/comments/20221017/1798235.md" target="_blank">恶俗——疫情让日常生活变得无比刺激</a></li>
-<li><a href="/comments/20221017/1798224.md" target="_blank">湖北工业大学副教授汤玲，在图书馆大声接打电话，一男学生劝阻反被指责，并扬言“我告你性骚扰”。大学教授，都这么无耻了吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
 <li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
 <li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
 
 </ul>
 </div>
