@@ -9,23 +9,23 @@
 <li><a href="/weiquan/20221016/1798021.md">上海大学退休教师顾国平因转发北京四通桥上的倒习标语 被警察带走</a></li>
 <li><a href="/topimagenews/20221016/1798094.md">习近平20大高谈“伟大变革”！CNN记者3句话总结 小粉红全崩溃</a></li>
 <li><a href="/lifebaike/20221016/1798046.md">曾红极一时超大落地窗为何会“失宠”？原因很简单，缺点一目了然</a></li>
-<li><a href="/headline/20221016/1798040.md">中共20大： 胡锦涛老矣江泽民无踪 唯习近平还年轻</a></li>
 <li><a href="/cnnews/20221017/1798108.md">和19大相比，20大的习近平真的是“累了”</a></li>
+<li><a href="/headline/20221016/1798040.md">中共20大： 胡锦涛老矣江泽民无踪 唯习近平还年轻</a></li>
 <li><a href="/cnnews/20221017/1798148.md">习近平二十大讲话 跟十九大相比有两大变化</a></li>
 <li><a href="/headline/20221017/1798158.md">二十大：习近平轻扶胡锦涛入坐</a></li>
+<li><a href="/cnnews/20221017/1798279.md">中共主席台上罕见一幕，啥信号？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221016/1798086.md">中共党报欲释放重要信号 却把中共底裤扯掉！【阿波罗网报道】</a></li>
 <li><a href="/headline/20221016/1798014.md">她没消息 张高丽现身20大位置显眼</a></li>
 <li><a href="/sohnews/20221016/1798048.md">陈破空：二十大开幕，习近平暴瘦！胡锦涛苍老，温家宝忧心。江朱缺席，宋平现身！张高丽坐前排。副主席遭隔离。美东10月16日早8点30、即中港台10月16日晚8点30</a></li>
-<li><a href="/cnnews/20221017/1798279.md">中共主席台上罕见一幕，啥信号？【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221017/1798170.md">宠物放阳台忘拿进屋，广州女隔天见惊人一幕</a></li>
 <li><a href="/sohnews/20221016/1798090.md">💥20大会场透露中共现状！习近平入场，竟有一人没鼓掌；“政变”主角都现身，有“政治老人”已经长期不露面；习对台喊话、“清零”何去何从？新常委将揭晓｜新闻拍案惊奇直播 大宇</a></li>
 <li><a href="/cbnews/20221017/1798134.md">习起草20大报告等同“声明连任”：个人权力扩大</a></li>
 <li><a href="/cnnews/20221017/1798106.md">只有简短几句话，习近平承认“这一危机”</a></li>
+<li><a href="/topimagenews/20221017/1798277.md">最美高官情妇，如何在上海社保大案中翻云覆雨？</a></li>
 <li><a href="/headline/20221016/1798010.md">20大开幕之际 北京再现反习反核酸标语 此次在厕所封不封引议论</a></li>
 <li><a href="/sohnews/20221017/1798116.md">全场唯独李瑞环没有鼓掌，仿佛无视习的存在</a></li>
-<li><a href="/cnnews/20221017/1798171.md">儿子取名“伍拾亿”，没想到安徽妈妈的名字更生猛</a></li>
 <li><a href="/topimagenews/20221016/1798098.md">彭载舟中共自选委政治纲领：与中共和解选总书记 一党员一票</a></li>
-<li><a href="/topimagenews/20221017/1798277.md">最美高官情妇，如何在上海社保大案中翻云覆雨？</a></li>
+<li><a href="/cnnews/20221017/1798171.md">儿子取名“伍拾亿”，没想到安徽妈妈的名字更生猛</a></li>
 <li><a href="/comments/20221017/1798149.md">上海多区再现疫情 万人怒轰一夜红码</a></li>
 <li><a href="/sohnews/20221017/1798121.md">“摧毁老人干政 头排2人始终不鼓掌！”Shitao TV - 03 (16/10/22) 毛泽东思想消失“习在党之上 党凌驾中国 中国为世界霸主”风靡社媒</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
 <li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
 
 </ul>
 </div>
