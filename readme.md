@@ -6,16 +6,15 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20221017/1798279.md">中共主席台上罕见一幕，啥信号？【阿波罗网报道】</a></li>
-<li><a href="/headline/20221017/1798158.md">二十大：习近平轻扶胡锦涛入坐</a></li>
 <li><a href="/ssgc/20221017/1798273.md">〖兲朝浮世绘〗李瑞环噘嘴拒绝为习近平鼓掌 胡锦涛苦笑 李克强生无可恋</a></li>
 <li><a href="/cnnews/20221017/1798383.md">“又出不去了”！中国千万人口城市再“封城”…</a></li>
 <li><a href="/topimagenews/20221017/1798277.md">最美高官情妇，如何在上海社保大案中翻云覆雨？</a></li>
 <li><a href="/cnnews/20221017/1798298.md">清华天才富豪惨败：资产被查封，100亿灰飞烟灭</a></li>
 <li><a href="/baitai/20221017/1798338.md">【敏感词库】习近平二十大开幕讲话口误敏感词</a></li>
-<li><a href="/cnnews/20221017/1798398.md">去菲律宾夜店遭绑架！上海女被关狗笼凌虐20天…男友闻赎金吓呆</a></li>
 <li><a href="/cnnews/20221017/1798170.md">宠物放阳台忘拿进屋，广州女隔天见惊人一幕</a></li>
-<li><a href="/cnnews/20221017/1798285.md">20大首日 习近平“偷工减料” 1动作藏巨大隐患【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221017/1798398.md">去菲律宾夜店遭绑架！上海女被关狗笼凌虐20天…男友闻赎金吓呆</a></li>
 <li><a href="/topimagenews/20221017/1798465.md">人民日报放风：习近平将获得连任！【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221017/1798285.md">20大首日 习近平“偷工减料” 1动作藏巨大隐患【阿波罗网报道】</a></li>
 <li><a href="/comments/20221017/1798316.md">10月16日夜，成都金牛区两河森林别墅区有20多家遭入室抢劫。经济面临崩溃，社会必将动荡。</a></li>
 <li><a href="/sohnews/20221017/1798397.md">陈破空：习近平不停咳嗽，麦克风控音。胡春华意外离场。美媒：他暗地整人，包括整王岐山。强迫全国收看。港澳记者突被要求换口罩。美东10月17日早8点30、即中港台10月17日晚8点30</a></li>
 <li><a href="/topimagenews/20221017/1798296.md">中共官员的工作与服务：多少人把情话发到工作群？</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/finance/20221017/1798163.md">“华为太子”的白日梦，要被拍醒了</a></li>
 <li><a href="/comments/20221017/1798261.md">宁波北仑一小区，大批居民奋力冲出小区，封控失控！</a></li>
 <li><a href="/sohnews/20221017/1798187.md">陈破空：二十大主席台：习近平身体不行了？没人想理他。李瑞环拒不鼓掌！有人当场睡着。当天结婚的中国人，过上朝鲜版幸福生活。直播与互动。美东10月16日晚8点30、即中港台10月17日早8点30</a></li>
+<li><a href="/comments/20221017/1798224.md">湖北工业大学副教授汤玲，在图书馆大声接打电话，一男学生劝阻反被指责，并扬言“我告你性骚扰”。大学教授，都这么无耻了吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
 <li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 
 </ul>
 </div>
