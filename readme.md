@@ -5,8 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20221017/1798383.md">“又出不去了”！中国千万人口城市再“封城”…</a></li>
-<li><a href="/lifebaike/20221017/1798378.md">滴滴师傅：为何一到深夜，小姐姐雨后春笋般出现</a></li>
 <li><a href="/cnnews/20221018/1798592.md">中共20大常委新名单 3名“60后”</a></li>
 <li><a href="/cnnews/20221017/1798398.md">去菲律宾夜店遭绑架！上海女被关狗笼凌虐20天…男友闻赎金吓呆</a></li>
 <li><a href="/topimagenews/20221017/1798465.md">人民日报放风：习近平将获得连任！【阿波罗网报道】</a></li>
@@ -18,16 +16,18 @@
 <li><a href="/cbnews/20221018/1798504.md">出生率创历年新低 习近平拟三胎化政策升级</a></li>
 <li><a href="/renquan/20221018/1798598.md">王威因声援四通桥勇士被警方留置</a></li>
 <li><a href="/sohnews/20221018/1798642.md">【直播】党媒报7常委信号异常，李克强出局？两个关键词，习近平未来走向尽在其中；《华日》曝新版常委名单，李强缘何领跑总理职务？</a></li>
+<li><a href="/topimagenews/20221018/1798726.md">此人无法在习近平“王朝”存活太久 习近平与普京的任期【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221018/1798530.md">习近平口述报告，自动剔除一个关键词…</a></li>
 <li><a href="/topimagenews/20221017/1798466.md">即将解封？东方航空宣布10月底陆续恢复多条国际航线</a></li>
-<li><a href="/topimagenews/20221018/1798726.md">此人无法在习近平“王朝”存活太久 习近平与普京的任期【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221018/1798653.md">习近平的连任只会有二个赢家，共产党和美国</a></li>
 <li><a href="/sohnews/20221018/1798704.md">💥中共常委保留4人！3人换下，七人对应的新职位也出炉，最新消息｜新闻拍案惊奇直播 大宇</a></li>
-<li><a href="/cnnews/20221018/1798547.md">网友“怒”了！乌克兰难民后悔选择加拿大</a></li>
 <li><a href="/topimagenews/20221018/1798755.md">二十大 习近平不让元老出席 中共曾下令24小时看守电线杆【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221018/1798653.md">习近平的连任只会有二个赢家，共产党和美国</a></li>
+<li><a href="/cnnews/20221018/1798547.md">网友“怒”了！乌克兰难民后悔选择加拿大</a></li>
+<li><a href="/topimagenews/20221018/1798774.md">重要信号！二十大会场出现一显著变化！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221018/1798584.md">加拿大史上最恶杀人魔:新婚夜,新娘帮他分尸性奴</a></li>
 <li><a href="/cbnews/20221018/1798503.md">中国女星定居大马开设博物馆 展示上千年古董</a></li>
 <li><a href="/topimagenews/20221017/1798429.md">自杀无人机大举入侵基辅街头画面曝！乌军急出这招反击</a></li>
+<li><a href="/cnnews/20221018/1798766.md">新恶梦开始 习近平与接班人之间的斗争【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221018/1798828.md" target="_blank">袁红冰：《意境性存在——属於心灵的真实》文学卷   第六篇 拯救上帝——宇宙真理的终点是心灵的起点</a></li>
 <li><a href="/comments/20221018/1798794.md" target="_blank">【独家重磅】李燕铭：习近平二十大定于一尊 越过江胡直追毛邓 倒习谣言不敌现实 海外反习大V自曝被曾庆红利用 “习下李上”谣言的后台曝光 中共党内现实：“习不下没人敢上” 习近平连任与二十大常委争夺战（八七） 习近平决战江曾（四一） 二十大政变与反政变（六十） 习近平李克强明争暗斗内幕（五五）</a></li>
 <li><a href="/comments/20221018/1798781.md" target="_blank">李燕铭：习近平二十大报告声称打造世界级军队 军委副主席许其亮和张又侠继任者浮现 习近平强军改革面临挑战因将领缺实战经验 东亚紧张局势加剧 中共探测邻国防御能力 习强化军权升级战争风险（二七） 习近平连任与二十大常委争夺战（八六）</a></li>
 <li><a href="/comments/20221018/1798762.md" target="_blank">钟原：政治局常委捧习核心 李克强又例外</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221017/1798420.md" target="_blank">响应北京四通桥勇士抗议 中国“新厕所革命”遍地开花</a></li>
 <li><a href="/comments/20221017/1798419.md" target="_blank">习近平清洗党内所有潜在势力 学者：20大后无人能改变“习路线”</a></li>
 <li><a href="/comments/20221017/1798418.md" target="_blank">疫情压不住！郑州宣布居民不得外出 营业场所暂停经营</a></li>
-<li><a href="/comments/20221017/1798415.md" target="_blank">棉农快被清零了！可惜，棉农自己不知道为什么他们要被清零。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 <li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 <li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
 
 </ul>
 </div>
