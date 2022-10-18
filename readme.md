@@ -13,21 +13,21 @@
 <li><a href="/baitai/20221017/1798338.md">【敏感词库】习近平二十大开幕讲话口误敏感词</a></li>
 <li><a href="/cnnews/20221017/1798398.md">去菲律宾夜店遭绑架！上海女被关狗笼凌虐20天…男友闻赎金吓呆</a></li>
 <li><a href="/lifebaike/20221017/1798378.md">滴滴师傅：为何一到深夜，小姐姐雨后春笋般出现</a></li>
-<li><a href="/topimagenews/20221017/1798465.md">人民日报放风：习近平将获得连任！【阿波罗网报道】</a></li>
 <li><a href="/comments/20221017/1798316.md">10月16日夜，成都金牛区两河森林别墅区有20多家遭入室抢劫。经济面临崩溃，社会必将动荡。</a></li>
+<li><a href="/topimagenews/20221017/1798465.md">人民日报放风：习近平将获得连任！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221017/1798285.md">20大首日 习近平“偷工减料” 1动作藏巨大隐患【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221017/1798296.md">中共官员的工作与服务：多少人把情话发到工作群？</a></li>
 <li><a href="/sohnews/20221017/1798397.md">陈破空：习近平不停咳嗽，麦克风控音。胡春华意外离场。美媒：他暗地整人，包括整王岐山。强迫全国收看。港澳记者突被要求换口罩。美东10月17日早8点30、即中港台10月17日晚8点30</a></li>
 <li><a href="/headline/20221017/1798364.md">二十大报告被捧上天 举国上下一片红 民间反应冷漠</a></li>
 <li><a href="/topimagenews/20221017/1798314.md">习近平读报告 中国人20大打卡 谁都跑不掉【阿波罗网报道】</a></li>
-<li><a href="/comments/20221017/1798236.md">顾行长和32位情妇，引多少银行家属去做亲子鉴定</a></li>
 <li><a href="/comments/20221017/1798368.md">外媒关注中共二十大报告经济退位 大会主席台元老举手投足有玄机</a></li>
 <li><a href="/comments/20221017/1798261.md">宁波北仑一小区，大批居民奋力冲出小区，封控失控！</a></li>
 <li><a href="/sohnews/20221018/1798514.md">这个视频挺有意思，习近平和大家打招呼，可是大家都不理习近平</a></li>
-<li><a href="/comments/20221017/1798224.md">湖北工业大学副教授汤玲，在图书馆大声接打电话，一男学生劝阻反被指责，并扬言“我告你性骚扰”。大学教授，都这么无耻了吗？</a></li>
-<li><a href="/headline/20221017/1798363.md">【二十大】严防学生转发四通桥相片 陆校勒令学生关闭苹果手机Airdrop功能</a></li>
 <li><a href="/topimagenews/20221017/1798310.md">拜登瘫痪大陆芯片业？高阶人才全都跑了：恐彻底崩溃</a></li>
+<li><a href="/headline/20221017/1798363.md">【二十大】严防学生转发四通桥相片 陆校勒令学生关闭苹果手机Airdrop功能</a></li>
+<li><a href="/cbnews/20221018/1798504.md">出生率创历年新低 习近平拟三胎化政策升级</a></li>
 <li><a href="/comments/20221017/1798287.md">【独家重磅】李燕铭：二十大常委难产内幕 二十大高层人事四大定数与三大变数 17人争夺6常委席次？三个指标判定习近平胜败 习近平连任与二十大常委争夺战（八四）</a></li>
+<li><a href="/health/20221017/1798348.md">怎样判断自己感染上了幽门螺杆菌？身体或有6个表现，对照自查下</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221018/1798654.md" target="_blank">英国防部发布威胁警报！警告解放军开出年薪24万英镑招揽英国飞行员</a></li>
+<li><a href="/topimagenews/20221018/1798653.md" target="_blank">习近平的连任只会有二个赢家，共产党和美国</a></li>
 <li><a href="/topimagenews/20221018/1798631.md" target="_blank">敏感词库：习二十大开幕讲话口误</a></li>
 <li><a href="/topimagenews/20221018/1798591.md" target="_blank">俄军双手高举 直接走向乌军投降</a></li>
 <li><a href="/topimagenews/20221017/1798467.md" target="_blank">中共20大 习近平不放弃武统台湾 预告未来世局不太平</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20221016/1797994.md" target="_blank">诺贝尔物理学奖得主眼中的上帝</a></li>
 <li><a href="/topimagenews/20221016/1797985.md" target="_blank">中共二十大开幕式 至少四主席团成员没出现</a></li>
 <li><a href="/topimagenews/20221016/1797984.md" target="_blank">20大高层洗牌 李克强出路？ 习家班多少人“入常”？</a></li>
-<li><a href="/topimagenews/20221016/1797981.md" target="_blank">习掌权10年拼与美“终极一战” 备战态度1979年来首见</a></li>
-<li><a href="/topimagenews/20221016/1797980.md" target="_blank">习近平20大吹捧取得重大经济成果 投资人却对中国市场惨澹前景悲观</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 <li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 
 </ul>
 </div>
