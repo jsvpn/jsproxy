@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20221017/1798465.md">人民日报放风：习近平将获得连任！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221018/1798514.md">这个视频挺有意思，习近平和大家打招呼，可是大家都不理习近平</a></li>
 <li><a href="/topimagenews/20221018/1798631.md">敏感词库：习二十大开幕讲话口误</a></li>
-<li><a href="/topimagenews/20221018/1798706.md">【微博精粹】二十大会场 病毒认识主人</a></li>
 <li><a href="/cbnews/20221018/1798621.md">〖微博谈〗真是一语成谶</a></li>
 <li><a href="/cbnews/20221018/1798504.md">出生率创历年新低 习近平拟三胎化政策升级</a></li>
-<li><a href="/topimagenews/20221018/1798755.md">二十大 习近平不让元老出席 中共曾下令24小时看守电线杆【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221018/1798706.md">【微博精粹】二十大会场 病毒认识主人</a></li>
 <li><a href="/topimagenews/20221018/1798774.md">重要信号！二十大会场出现一显著变化！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221018/1798755.md">二十大 习近平不让元老出席 中共曾下令24小时看守电线杆【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221018/1798766.md">新恶梦开始 习近平与接班人之间的斗争【阿波罗网报道】</a></li>
 <li><a href="/renquan/20221018/1798598.md">王威因声援四通桥勇士被警方留置</a></li>
-<li><a href="/topimagenews/20221018/1798726.md">此人无法在习近平“王朝”存活太久 习近平与普京的任期【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20221018/1798530.md">习近平口述报告，自动剔除一个关键词…</a></li>
 <li><a href="/topimagenews/20221017/1798466.md">即将解封？东方航空宣布10月底陆续恢复多条国际航线</a></li>
 <li><a href="/sohnews/20221018/1798642.md">【直播】党媒报7常委信号异常，李克强出局？两个关键词，习近平未来走向尽在其中；《华日》曝新版常委名单，李强缘何领跑总理职务？</a></li>
+<li><a href="/cnnews/20221018/1798530.md">习近平口述报告，自动剔除一个关键词…</a></li>
+<li><a href="/topimagenews/20221018/1798726.md">此人无法在习近平“王朝”存活太久 习近平与普京的任期【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221018/1798704.md">💥中共常委保留4人！3人换下，七人对应的新职位也出炉，最新消息｜新闻拍案惊奇直播 大宇</a></li>
+<li><a href="/topimagenews/20221018/1798772.md">中国准备应对惊涛骇浪</a></li>
 <li><a href="/ssgc/20221018/1798747.md">《华尔街日报》预测新常委名单:习近平 王沪宁 赵乐际 李强 李希 丁薛祥</a></li>
 <li><a href="/cnnews/20221018/1798547.md">网友“怒”了！乌克兰难民后悔选择加拿大</a></li>
 <li><a href="/topimagenews/20221018/1798653.md">习近平的连任只会有二个赢家，共产党和美国</a></li>
 <li><a href="/cnnews/20221018/1798584.md">加拿大史上最恶杀人魔:新婚夜,新娘帮他分尸性奴</a></li>
-<li><a href="/topimagenews/20221018/1798772.md">中国准备应对惊涛骇浪</a></li>
 <li><a href="/cbnews/20221018/1798503.md">中国女星定居大马开设博物馆 展示上千年古董</a></li>
-<li><a href="/topimagenews/20221017/1798429.md">自杀无人机大举入侵基辅街头画面曝！乌军急出这招反击</a></li>
+<li><a href="/topimagenews/20221018/1798654.md">英国防部发布威胁警报！警告解放军开出年薪24万英镑招揽英国飞行员</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221018/1798872.md" target="_blank">中共常委变5人 美媒曝光名单 汪浩：习派大胜、2027年之前恐攻台</a></li>
 <li><a href="/comments/20221018/1798871.md" target="_blank">效仿四通桥勇士！洛杉矶挂出全繁体“广东独立”标语</a></li>
 <li><a href="/comments/20221018/1798868.md" target="_blank">【财经拆局】「抢人才」本末倒置，「留人才」刻不容缓</a></li>
 <li><a href="/comments/20221018/1798856.md" target="_blank">中国民众被动员看20大 有人积极有人茫然更多人冷漠</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221017/1798499.md" target="_blank">桂民海被绑架七周年 无国界记者组织吁民主国家施压北京放人</a></li>
 <li><a href="/comments/20221017/1798483.md" target="_blank">时事大家谈：中国式现代化：习连任后的中国向何处去？</a></li>
 <li><a href="/comments/20221017/1798482.md" target="_blank">时事大家谈：习近平强力扞卫动态清零，二十大后防疫松绑终成泡影？</a></li>
-<li><a href="/comments/20221017/1798481.md" target="_blank">【练乙铮评论】评价「中共不代表中国」的说法</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 <li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
 
 </ul>
 </div>
