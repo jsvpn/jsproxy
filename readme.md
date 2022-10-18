@@ -15,19 +15,19 @@
 <li><a href="/cbnews/20221018/1798621.md">〖微博谈〗真是一语成谶</a></li>
 <li><a href="/sohnews/20221018/1798704.md">💥中共常委保留4人！3人换下，七人对应的新职位也出炉，最新消息｜新闻拍案惊奇直播 大宇</a></li>
 <li><a href="/topimagenews/20221018/1798706.md">【微博精粹】二十大会场 病毒认识主人</a></li>
-<li><a href="/renquan/20221018/1798598.md">王威因声援四通桥勇士被警方留置</a></li>
 <li><a href="/topimagenews/20221018/1798886.md">金正恩专用列车内部曝光！清凉露肉发豪语：让人民吃狗肉、喝香槟</a></li>
+<li><a href="/renquan/20221018/1798598.md">王威因声援四通桥勇士被警方留置</a></li>
 <li><a href="/cnnews/20221018/1798766.md">新恶梦开始 习近平与接班人之间的斗争【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221018/1798837.md">李克强：“干字当头” 坚定不移推进改革开放</a></li>
 <li><a href="/topimagenews/20221018/1798726.md">此人无法在习近平“王朝”存活太久 习近平与普京的任期【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221018/1798823.md">🧨华日: 知情人泄新常委名单, 胡春华无法入常? 马克思主义重回神坛, 习近平暴远超想像的野心和企图! 民间”天书”预言中共命运和亡党之君, 中共命数将应4个字!【20221018】</a></li>
 <li><a href="/cnnews/20221018/1798839.md">大规模取消考试 中国学生的坎坷留学路</a></li>
-<li><a href="/topimagenews/20221018/1798772.md">中国准备应对惊涛骇浪</a></li>
 <li><a href="/ssgc/20221018/1798747.md">《华尔街日报》预测新常委名单:习近平 王沪宁 赵乐际 李强 李希 丁薛祥</a></li>
+<li><a href="/topimagenews/20221018/1798772.md">中国准备应对惊涛骇浪</a></li>
 <li><a href="/topimagenews/20221018/1798653.md">习近平的连任只会有二个赢家，共产党和美国</a></li>
 <li><a href="/cnnews/20221018/1798838.md">一个大学女老师如此嚣张跋扈 背后有人撑腰？</a></li>
-<li><a href="/cnnews/20221018/1798547.md">网友“怒”了！乌克兰难民后悔选择加拿大</a></li>
 <li><a href="/cnnews/20221018/1798584.md">加拿大史上最恶杀人魔:新婚夜,新娘帮他分尸性奴</a></li>
+<li><a href="/ssgc/20221018/1798864.md">政治局常委捧习核心 李克强又例外</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221019/1799008.md" target="_blank">大梦初醒？德国就中共威胁连发示警</a></li>
+<li><a href="/cbnews/20221019/1799007.md" target="_blank">老公狂喂食！校花暴肥到166公斤 成功减重认不出</a></li>
 <li><a href="/comments/20221019/1798983.md" target="_blank">广州，一名 211硕士自述，现在能有工打都成了一种奢侈！遗憾，她不知道为何企业都活不下去了？为何会有大面积的失业？谁该对此负责？</a></li>
 <li><a href="/cbnews/20221019/1798958.md" target="_blank">广西桂林火烧高速公路气势惊人 仅部分控制</a></li>
 <li><a href="/comments/20221018/1798914.md" target="_blank">上海多个小区又被封了！</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20221017/1798224.md" target="_blank">湖北工业大学副教授汤玲，在图书馆大声接打电话，一男学生劝阻反被指责，并扬言“我告你性骚扰”。大学教授，都这么无耻了吗？</a></li>
 <li><a href="/cbnews/20221017/1798223.md" target="_blank">天亮时分：二十大开幕，习近平作报告自我辩护，释放几个重要信号；江泽民等四常委缺席，坐镇西山军委？王岐山内侄姚庆被捕；反转！马斯克与乌克兰上空的星链（政论天下第822集 20221016）</a></li>
 <li><a href="/comments/20221017/1798194.md" target="_blank">农民卖一小车白菜，要收50元一天的垃圾费！</a></li>
-<li><a href="/comments/20221017/1798164.md" target="_blank">【方菲时间】北京四通桥勇士能否激发蝴蝶效应？习连任民有5怕，路在何方；“芯片神话”被美国制裁打回原型 ｜10/16/2022</a></li>
-<li><a href="/comments/20221017/1798150.md" target="_blank">10月16日，长期受中共当局迫害的王全璋送朋友出门，在小区门口被一群自称“防疫志愿者”的人士拦截，要求登记。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 <li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
 
 </ul>
 </div>
