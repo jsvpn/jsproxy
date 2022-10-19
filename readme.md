@@ -8,26 +8,26 @@
 <li><a href="/comments/20221018/1798872.md">中共常委变5人 美媒曝光名单 汪浩：习派大胜、2027年之前恐攻台</a></li>
 <li><a href="/comments/20221018/1798832.md">造反了！中共20大召开 传北京上海再现反党标语</a></li>
 <li><a href="/topimagenews/20221018/1798774.md">重要信号！二十大会场出现一显著变化！【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20221018/1798766.md">新恶梦开始 习近平与接班人之间的斗争【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221018/1798886.md">金正恩专用列车内部曝光！清凉露肉发豪语：让人民吃狗肉、喝香槟</a></li>
 <li><a href="/cnnews/20221019/1799028.md">淫乱无底线揭秘：高岗腐烂透顶的私生活</a></li>
 <li><a href="/cnnews/20221018/1798837.md">李克强：“干字当头” 坚定不移推进改革开放</a></li>
 <li><a href="/sohnews/20221018/1798823.md">🧨华日: 知情人泄新常委名单, 胡春华无法入常? 马克思主义重回神坛, 习近平暴远超想像的野心和企图! 民间”天书”预言中共命运和亡党之君, 中共命数将应4个字!【20221018】</a></li>
 <li><a href="/sohnews/20221019/1798969.md">“爆炸新闻！李强接替李克强出任总理 挤掉汪洋 胡春华！”《今日点击》 (18/10/22) 新常委名单：李希 丁薛祥 王沪宁 赵乐际</a></li>
 <li><a href="/cnnews/20221018/1798839.md">大规模取消考试 中国学生的坎坷留学路</a></li>
-<li><a href="/topimagenews/20221018/1798772.md">中国准备应对惊涛骇浪</a></li>
 <li><a href="/cbnews/20221019/1799117.md">北京人民大会堂女服务员内幕</a></li>
-<li><a href="/cnnews/20221018/1798838.md">一个大学女老师如此嚣张跋扈 背后有人撑腰？</a></li>
+<li><a href="/topimagenews/20221018/1798772.md">中国准备应对惊涛骇浪</a></li>
 <li><a href="/cnnews/20221019/1799048.md">终于有社区主任不装了</a></li>
+<li><a href="/cnnews/20221018/1798838.md">一个大学女老师如此嚣张跋扈 背后有人撑腰？</a></li>
 <li><a href="/ssgc/20221018/1798864.md">政治局常委捧习核心 李克强又例外</a></li>
 <li><a href="/topimagenews/20221019/1799021.md">这现象表明，俄军陷入山穷水尽地步？</a></li>
 <li><a href="/topimagenews/20221019/1798954.md">富豪注意了！20大推共同富裕 首提“规范财富积累机制”</a></li>
 <li><a href="/cnnews/20221019/1799033.md">二十大：网友刷屏“老母鸡”直播表达抗议</a></li>
-<li><a href="/cbnews/20221019/1799007.md">老公狂喂食！校花暴肥到166公斤 成功减重认不出</a></li>
-<li><a href="/topimagenews/20221018/1798760.md">习近平报告现惊人之语！事关全球未来大势【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221019/1799116.md">习近平被恶心惨了！二十大开幕当天被送”大礼“！【阿波罗网报道】</a></li>
 <li><a href="/comments/20221019/1799074.md">李燕铭：团派三大员李克强汪洋胡春华全军覆没？同日传出三份常委名单 丁薛祥入常最无悬念 习近平属意李强任总理 李希或任中纪委书记 习近平连任与二十大常委争夺战（八八） 习近平李克强明争暗斗内幕（五六）</a></li>
+<li><a href="/topimagenews/20221019/1799116.md">习近平被恶心惨了！二十大开幕当天被送”大礼“！【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20221019/1799007.md">老公狂喂食！校花暴肥到166公斤 成功减重认不出</a></li>
 <li><a href="/sohnews/20221018/1798797.md">科学家称，距地球一百五十亿光年处，发现了一座横跨三十亿光年的宇宙墙，将我们的宇宙与外面的世界分割开来</a></li>
+<li><a href="/cnnews/20221019/1799010.md">润出国 姚明国外晒太阳被偷拍！凳子太小坐下挤得慌</a></li>
+<li><a href="/comments/20221019/1798983.md">广州，一名 211硕士自述，现在能有工打都成了一种奢侈！遗憾，她不知道为何企业都活不下去了？为何会有大面积的失业？谁该对此负责？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 
 </ul>
 </div>
