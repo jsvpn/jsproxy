@@ -16,18 +16,18 @@
 <li><a href="/cnnews/20221018/1798837.md">李克强：“干字当头” 坚定不移推进改革开放</a></li>
 <li><a href="/sohnews/20221018/1798823.md">🧨华日: 知情人泄新常委名单, 胡春华无法入常? 马克思主义重回神坛, 习近平暴远超想像的野心和企图! 民间”天书”预言中共命运和亡党之君, 中共命数将应4个字!【20221018】</a></li>
 <li><a href="/topimagenews/20221018/1798726.md">此人无法在习近平“王朝”存活太久 习近平与普京的任期【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20221019/1798969.md">“爆炸新闻！李强接替李克强出任总理 挤掉汪洋 胡春华！”《今日点击》 (18/10/22) 新常委名单：李希 丁薛祥 王沪宁 赵乐际</a></li>
 <li><a href="/cnnews/20221018/1798839.md">大规模取消考试 中国学生的坎坷留学路</a></li>
 <li><a href="/ssgc/20221018/1798747.md">《华尔街日报》预测新常委名单:习近平 王沪宁 赵乐际 李强 李希 丁薛祥</a></li>
-<li><a href="/topimagenews/20221018/1798772.md">中国准备应对惊涛骇浪</a></li>
-<li><a href="/sohnews/20221019/1798969.md">“爆炸新闻！李强接替李克强出任总理 挤掉汪洋 胡春华！”《今日点击》 (18/10/22) 新常委名单：李希 丁薛祥 王沪宁 赵乐际</a></li>
 <li><a href="/cnnews/20221019/1799028.md">淫乱无底线揭秘：高岗腐烂透顶的私生活</a></li>
+<li><a href="/topimagenews/20221018/1798772.md">中国准备应对惊涛骇浪</a></li>
 <li><a href="/cnnews/20221018/1798838.md">一个大学女老师如此嚣张跋扈 背后有人撑腰？</a></li>
 <li><a href="/ssgc/20221018/1798864.md">政治局常委捧习核心 李克强又例外</a></li>
 <li><a href="/cbnews/20221018/1798705.md">天亮时分：决定习是否连任，军队明确表态；中共驻英国领事馆，将抗议者拖入使馆内殴打；中共推迟发布第三季GDP数据；（政论天下第823集 20221017）</a></li>
-<li><a href="/topimagenews/20221018/1798760.md">习近平报告现惊人之语！事关全球未来大势【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221019/1798954.md">富豪注意了！20大推共同富裕 首提“规范财富积累机制”</a></li>
 <li><a href="/comments/20221018/1798725.md">二十大未结束，习近平借整治王岐山提前高压统治？广州惊现更反动标语！有人做核酸上瘾了</a></li>
-<li><a href="/sohnews/20221018/1798797.md">科学家称，距地球一百五十亿光年处，发现了一座横跨三十亿光年的宇宙墙，将我们的宇宙与外面的世界分割开来</a></li>
+<li><a href="/topimagenews/20221018/1798760.md">习近平报告现惊人之语！事关全球未来大势【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221019/1799021.md">这现象表明，俄军陷入山穷水尽地步？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221019/1799130.md" target="_blank">俄将试射核导弹 中共发布乌克兰紧急撤侨通知</a></li>
 <li><a href="/topimagenews/20221019/1799116.md" target="_blank">习近平被恶心惨了！二十大开幕当天被送”大礼“！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221019/1799021.md" target="_blank">这现象表明，俄军陷入山穷水尽地步？</a></li>
 <li><a href="/topimagenews/20221019/1798955.md" target="_blank">吉儿罕见发飙 痛骂白宫官员 美国左媒曝内幕 想换总统？</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221017/1798465.md" target="_blank">人民日报放风：习近平将获得连任！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221017/1798429.md" target="_blank">自杀无人机大举入侵基辅街头画面曝！乌军急出这招反击</a></li>
 <li><a href="/topimagenews/20221017/1798373.md" target="_blank">乌克兰士兵以“肩扛防空武器”击落俄罗斯“巡弋导弹”</a></li>
-<li><a href="/topimagenews/20221017/1798372.md" target="_blank">美军未来防空与导弹防御主干 雷神LTAMDS低空防卫感测系统 将取代爱国者雷达</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221019/1799135.md" target="_blank">无人机攻乌 俄军突然改变战术原因为何？</a></li>
 <li><a href="/comments/20221019/1799125.md" target="_blank">赵君朔: 中共二十大 最后的粉饰太平</a></li>
 <li><a href="/comments/20221019/1799098.md" target="_blank">李濠仲:习近平第三任起手式 把反对者拖入使馆殴打</a></li>
 <li><a href="/comments/20221019/1799097.md" target="_blank">吴崑玉:习大大的党八股 透露一个不安的灵魂</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221018/1798868.md" target="_blank">【财经拆局】「抢人才」本末倒置，「留人才」刻不容缓</a></li>
 <li><a href="/comments/20221018/1798856.md" target="_blank">中国民众被动员看20大 有人积极有人茫然更多人冷漠</a></li>
 <li><a href="/comments/20221018/1798833.md" target="_blank">二十大内斗中开场 习扶胡锦涛就座 江泽民消失</a></li>
-<li><a href="/comments/20221018/1798832.md" target="_blank">造反了！中共20大召开 传北京上海再现反党标语</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 <li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 
 </ul>
 </div>
