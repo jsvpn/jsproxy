@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20221019/1799116.md">习近平被恶心惨了！二十大开幕当天被送”大礼“！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221019/1799239.md">印度神童最新预言曝光 台湾乌克兰中国美国吓到！小心10、11、12月</a></li>
 <li><a href="/sohnews/20221019/1799128.md">💥胡春华、李克强最终安排均会有意外？李强会成最大黑马？各传媒观点不同，北京内部已定下最高层人事；打港人，英议员吁驱逐中共外交官；中共拟更快“统一”台湾；多地现“四通桥”标语｜新闻拍案惊奇直播 大宇</a></li>
-<li><a href="/cnnews/20221019/1799048.md">终于有社区主任不装了</a></li>
-<li><a href="/ssgc/20221019/1799210.md">中共新常委流传人选不断翻新 王沪宁去留广受关注</a></li>
 <li><a href="/cnnews/20221019/1799312.md">军方对习近平公开表态！严重违纪？【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20221019/1799210.md">中共新常委流传人选不断翻新 王沪宁去留广受关注</a></li>
 <li><a href="/cbnews/20221019/1799115.md">天亮时分：习近平打包提拔亲信，此人排名最关键；习近平是权谋高手，还是对手太烂？朱镕基缺席开幕式有内幕（政论天下第824集 20221018）</a></li>
 <li><a href="/sohnews/20221019/1799272.md">九高官未提“两个确立”,习二十大后大开杀戒？</a></li>
 <li><a href="/renquan/20221019/1799281.md">二十大的召开令人恐惧的安全</a></li>
 <li><a href="/topimagenews/20221019/1799310.md">大事不妙？中国才刚紧急撤侨 普丁宣布“戒严”</a></li>
-<li><a href="/sohnews/20221019/1799282.md">史上最神秘20大 谁上谁下谁决定?谁说了算? 二十大重要吗?习近平连任大秀 中共高层演出剧本早写好。独裁严密监控 会内代表行动受控 全面噤声 确保使命必达。221019</a></li>
 <li><a href="/topimagenews/20221019/1799182.md">为了“习皇帝”画像 中共驻英领事大打出手：“原来是舍身护驾”？</a></li>
+<li><a href="/sohnews/20221019/1799282.md">史上最神秘20大 谁上谁下谁决定?谁说了算? 二十大重要吗?习近平连任大秀 中共高层演出剧本早写好。独裁严密监控 会内代表行动受控 全面噤声 确保使命必达。221019</a></li>
 <li><a href="/topimagenews/20221019/1799130.md">俄将试射核导弹 中共发布乌克兰紧急撤侨通知</a></li>
 <li><a href="/topimagenews/20221019/1799214.md">美国踩爆大陆芯片 他竟买到贵500倍的产品…</a></li>
 <li><a href="/ssgc/20221019/1799152.md">〖兲朝浮世绘〗蓬胖胖又说让中共跳脚的话了</a></li>
+<li><a href="/cbnews/20221020/1799397.md">习近平将执政到2035年？邓小平前翻译：80多岁脑子特别灵活</a></li>
 <li><a href="/headline/20221019/1799246.md">中共二十大报道：四通桥反习抗议事件影响扩大 法律人指彭立发有功无罪</a></li>
 <li><a href="/topimagenews/20221019/1799258.md">“人饿得都快要倒下去了”！ 朝鲜用炮击强调金正恩的领导能力 百姓反应“冷淡”…</a></li>
 <li><a href="/topimagenews/20221019/1799196.md">文革彻底再现！中共外交官曾向英警察大打出手【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20221019/1799040.md">五常委至今未能出席二十大原因剖析（一平论政2022/10/18)</a></li>
 <li><a href="/cnnews/20221019/1799313.md">公司的水有尿味！她看监视器发现“恶心真相”崩溃：害我得性病</a></li>
-<li><a href="/cbnews/20221020/1799397.md">习近平将执政到2035年？邓小平前翻译：80多岁脑子特别灵活</a></li>
+<li><a href="/ssgc/20221019/1799086.md">〖微博谈〗我不能拥有自己的思想吗？</a></li>
+<li><a href="/baitai/20221019/1799206.md">张抗抗：没有春天</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
 <li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
 <li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 
 </ul>
 </div>
