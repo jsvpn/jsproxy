@@ -10,24 +10,24 @@
 <li><a href="/sohnews/20221019/1799272.md">九高官未提“两个确立”,习二十大后大开杀戒？</a></li>
 <li><a href="/renquan/20221019/1799281.md">二十大的召开令人恐惧的安全</a></li>
 <li><a href="/cbnews/20221020/1799397.md">习近平将执政到2035年？邓小平前翻译：80多岁脑子特别灵活</a></li>
-<li><a href="/cnnews/20221020/1799450.md">许世友暴行揭秘 残酷堪比红色高棉</a></li>
 <li><a href="/topimagenews/20221019/1799310.md">大事不妙？中国才刚紧急撤侨 普丁宣布“戒严”</a></li>
+<li><a href="/cnnews/20221020/1799450.md">许世友暴行揭秘 残酷堪比红色高棉</a></li>
 <li><a href="/sohnews/20221019/1799282.md">史上最神秘20大 谁上谁下谁决定?谁说了算? 二十大重要吗?习近平连任大秀 中共高层演出剧本早写好。独裁严密监控 会内代表行动受控 全面噤声 确保使命必达。221019</a></li>
-<li><a href="/topimagenews/20221020/1799463.md">关注：曾受栗战书提拔的他，或任中南海大管家</a></li>
 <li><a href="/topimagenews/20221020/1799516.md">把他的这些话发出来，不能让我一人笑死</a></li>
+<li><a href="/topimagenews/20221020/1799463.md">关注：曾受栗战书提拔的他，或任中南海大管家</a></li>
 <li><a href="/headline/20221019/1799246.md">中共二十大报道：四通桥反习抗议事件影响扩大 法律人指彭立发有功无罪</a></li>
-<li><a href="/cnnews/20221020/1799425.md">港媒：孟祥锋或任中南海大管家 升任中办主任</a></li>
-<li><a href="/topimagenews/20221019/1799214.md">美国踩爆大陆芯片 他竟买到贵500倍的产品…</a></li>
 <li><a href="/topimagenews/20221020/1799515.md">重大变化！二十大报告此处多加了700字！【阿波罗网报道】</a></li>
-<li><a href="/comments/20221020/1799462.md">文昭：中共使馆突发撤侨令，二十大会场外出大事？王岐山的秘密任务有结果了？大海掀翻小池塘、再掀新高潮</a></li>
+<li><a href="/cnnews/20221020/1799425.md">港媒：孟祥锋或任中南海大管家 升任中办主任</a></li>
 <li><a href="/topimagenews/20221020/1799618.md">彭博：胡春华能否接下总理大位,牵动未来中国走向</a></li>
+<li><a href="/comments/20221020/1799462.md">文昭：中共使馆突发撤侨令，二十大会场外出大事？王岐山的秘密任务有结果了？大海掀翻小池塘、再掀新高潮</a></li>
 <li><a href="/topimagenews/20221019/1799258.md">“人饿得都快要倒下去了”！ 朝鲜用炮击强调金正恩的领导能力 百姓反应“冷淡”…</a></li>
 <li><a href="/cnnews/20221019/1799313.md">公司的水有尿味！她看监视器发现“恶心真相”崩溃：害我得性病</a></li>
 <li><a href="/comments/20221020/1799470.md">【独家重磅】李燕铭预测二十大常委名单及分工 细分习近平或胜或妥协或败六大版本及最可能版本 从二十大常委名单洞悉习江胡博弈态势与中南海政局走向 习近平连任与二十大常委争夺战（八九）</a></li>
 <li><a href="/finance/20221020/1799432.md">中共推迟发布经济数据，“是个极糟的失误”</a></li>
 <li><a href="/ssgc/20221020/1799485.md">〖兲朝浮世绘〗除了中国大陆全世界都应该称颂习主席</a></li>
-<li><a href="/cnnews/20221020/1799377.md">美军援乌克兰要变了？共和党领袖：若夺回众院 不会再开空白支票</a></li>
 <li><a href="/cnnews/20221020/1799561.md">白人丑男娶亚裔美女秀恩爱 网:醒醒 她就为绿卡</a></li>
+<li><a href="/cnnews/20221020/1799377.md">美军援乌克兰要变了？共和党领袖：若夺回众院 不会再开空白支票</a></li>
+<li><a href="/cnnews/20221020/1799614.md">习近平的终极挑战 中共公开使用“一尊”称号【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 
 </ul>
 </div>
