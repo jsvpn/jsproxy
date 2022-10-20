@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20221020/1799450.md">许世友暴行揭秘 残酷堪比红色高棉</a></li>
 <li><a href="/topimagenews/20221020/1799618.md">彭博：胡春华能否接下总理大位,牵动未来中国走向</a></li>
-<li><a href="/cnnews/20221020/1799425.md">港媒：孟祥锋或任中南海大管家 升任中办主任</a></li>
 <li><a href="/comments/20221020/1799462.md">文昭：中共使馆突发撤侨令，二十大会场外出大事？王岐山的秘密任务有结果了？大海掀翻小池塘、再掀新高潮</a></li>
 <li><a href="/topimagenews/20221020/1799516.md">把他的这些话发出来，不能让我一人笑死</a></li>
 <li><a href="/ccpdope/20221020/1799734.md">看这张图……党疯了</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/topimagenews/20221020/1799645.md">下个战场在这里！6万赫尔松居民大撤离 美媒:俄将失侵乌“最大奖牌”</a></li>
 <li><a href="/headline/20221020/1799663.md">曼城领馆殴人事件扩大：总领事郑𣌀原终承认扯人头发 惟称这是其责任去维护尊严</a></li>
 <li><a href="/headline/20221020/1799720.md">桂林公安深夜扫黄 检察官跳楼逃离身亡 官方忙封口</a></li>
-<li><a href="/ssgc/20221020/1799640.md">湖北政府紧跟北京指令 重建一千三百余个供销社</a></li>
 <li><a href="/cbnews/20221020/1799691.md">二十大：一场看不见战线的斗争 (戴忠仁/王丹/程晓农）</a></li>
+<li><a href="/ssgc/20221020/1799640.md">湖北政府紧跟北京指令 重建一千三百余个供销社</a></li>
 <li><a href="/finance/20221020/1799432.md">中共推迟发布经济数据，“是个极糟的失误”</a></li>
 <li><a href="/cbnews/20221020/1799638.md">普丁入侵乌克兰失败影响台海 前大使：习近平恐后悔与他合作</a></li>
 <li><a href="/health/20221020/1799701.md">为何脑梗逐年增多？医生：45岁后，这3种事尽量别碰</a></li>
 <li><a href="/cbnews/20221020/1799727.md">澳洲前总理称北京不想保持现状 点出攻台时间点</a></li>
+<li><a href="/topimagenews/20221020/1799589.md">美歼灭战使大陆29座晶圆厂“断手脚”？谢金河发现1事：有救了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221021/1799861.md" target="_blank">上任仅六周 英国首相特拉斯为何辞职</a></li>
 <li><a href="/cbnews/20221021/1799839.md" target="_blank">中使馆2度吁侨民撤离 分析：俄军越受挫 北京处境越难</a></li>
 <li><a href="/cbnews/20221021/1799838.md" target="_blank">婆婆被宾客误认是新娘 网友：逆天颜值太抢风头</a></li>
 <li><a href="/cbnews/20221020/1799782.md" target="_blank">澳洲斐济签署驻军地位协定 制衡中共扩张</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221018/1798835.md" target="_blank">加码、加速！美参院法案对台军援增至百亿美元</a></li>
 <li><a href="/cbnews/20221018/1798754.md" target="_blank">江峰：二十大报告竟无法读全，身体告衰？放松清零无望，台海冲突加剧，习一旦连任局势更乱；首创新词儿“中国式的现代化”，意味深长【江峰漫谈20221017第564期】</a></li>
 <li><a href="/cbnews/20221018/1798450.md" target="_blank">《习近平这十年》之五：失控的外交战狼</a></li>
-<li><a href="/cbnews/20221018/1798705.md" target="_blank">天亮时分：决定习是否连任，军队明确表态；中共驻英国领事馆，将抗议者拖入使馆内殴打；中共推迟发布第三季GDP数据；（政论天下第823集 20221017）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 <li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
