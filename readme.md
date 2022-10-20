@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221020/1799618.md">彭博：胡春华能否接下总理大位,牵动未来中国走向</a></li>
 <li><a href="/topimagenews/20221020/1799516.md">把他的这些话发出来，不能让我一人笑死</a></li>
-<li><a href="/ccpdope/20221020/1799734.md">看这张图……党疯了</a></li>
 <li><a href="/cnnews/20221020/1799614.md">习近平的终极挑战 中共公开使用“一尊”称号【阿波罗网报道】</a></li>
+<li><a href="/ccpdope/20221020/1799734.md">看这张图……党疯了</a></li>
 <li><a href="/topimagenews/20221020/1799515.md">重大变化！二十大报告此处多加了700字！【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221020/1799689.md">旅界｜老外走了，上海宝格丽公寓空了</a></li>
-<li><a href="/ssgc/20221020/1799485.md">〖兲朝浮世绘〗除了中国大陆全世界都应该称颂习主席</a></li>
 <li><a href="/cnnews/20221020/1799561.md">白人丑男娶亚裔美女秀恩爱 网:醒醒 她就为绿卡</a></li>
+<li><a href="/ssgc/20221020/1799485.md">〖兲朝浮世绘〗除了中国大陆全世界都应该称颂习主席</a></li>
 <li><a href="/topimagenews/20221020/1799706.md">二十大带来的不是“希望”！中企股票在港股、美股都暴跌</a></li>
 <li><a href="/topimagenews/20221021/1799825.md">赴美留学生惊见反转！这国超越大陆人数 外媒揭严重后果</a></li>
+<li><a href="/headline/20221020/1799663.md">曼城领馆殴人事件扩大：总领事郑𣌀原终承认扯人头发 惟称这是其责任去维护尊严</a></li>
 <li><a href="/topimagenews/20221020/1799645.md">下个战场在这里！6万赫尔松居民大撤离 美媒:俄将失侵乌“最大奖牌”</a></li>
 <li><a href="/cbnews/20221020/1799691.md">二十大：一场看不见战线的斗争 (戴忠仁/王丹/程晓农）</a></li>
-<li><a href="/headline/20221020/1799663.md">曼城领馆殴人事件扩大：总领事郑𣌀原终承认扯人头发 惟称这是其责任去维护尊严</a></li>
 <li><a href="/headline/20221020/1799720.md">桂林公安深夜扫黄 检察官跳楼逃离身亡 官方忙封口</a></li>
 <li><a href="/ssgc/20221020/1799640.md">湖北政府紧跟北京指令 重建一千三百余个供销社</a></li>
 <li><a href="/cbnews/20221020/1799638.md">普丁入侵乌克兰失败影响台海 前大使：习近平恐后悔与他合作</a></li>
 <li><a href="/health/20221020/1799701.md">为何脑梗逐年增多？医生：45岁后，这3种事尽量别碰</a></li>
 <li><a href="/cbnews/20221020/1799727.md">澳洲前总理称北京不想保持现状 点出攻台时间点</a></li>
+<li><a href="/cbnews/20221021/1799838.md">婆婆被宾客误认是新娘 网友：逆天颜值太抢风头</a></li>
 <li><a href="/comments/20221020/1799541.md">习近平清洗党内所有潜在势力 王岐山受波及</a></li>
 <li><a href="/topimagenews/20221020/1799589.md">美歼灭战使大陆29座晶圆厂“断手脚”？谢金河发现1事：有救了</a></li>
 <li><a href="/headline/20221020/1799670.md">德媒：中国已成为几乎无法估算的风险</a></li>
-<li><a href="/topimagenews/20221020/1799652.md">马斯克又后悔了？掏440亿美元买推特太痛 突喊1句惊人之语</a></li>
-<li><a href="/cnnews/20221020/1799563.md">美国女子患严重性病，竟因清洁工把…塞入水杯</a></li>
+<li><a href="/topimagenews/20221020/1799775.md">史上最短命！英国首相特拉斯宣布辞职 在位仅45天</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221021/1799924.md" target="_blank">评论 | 魏京生：从特色社会主义到中国式现代化</a></li>
 <li><a href="/comments/20221021/1799906.md" target="_blank">快看！席卷全球！【老北京茶馆10/20/2022】</a></li>
 <li><a href="/comments/20221021/1799904.md" target="_blank">李燕铭：中共二十大遭遇八国联军 日本与美英等八国加强军事合作 应对中朝威胁 日本自卫队与美国航母举行为期十天联合训练 日本将向菲律宾交付防空雷达 拟向印度出口隐身天线 监控中共军事动向 全球军事围堵中共之中日战争阴云（二二）</a></li>
 <li><a href="/comments/20221021/1799895.md" target="_blank">中共军事化学家陈冀胜去世 曾主编《中国有毒植物》 中共核武专家军工专家接连死亡 2022年迄今31名两院院士去世 2018年以来已有162名两院院士去世 完整名单揭秘 学者呼吁院士制度改革：去利益化是关键</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221020/1799593.md" target="_blank">屠生 ：一名中国大学生的信：我对中共的怀疑，从这开始</a></li>
 <li><a href="/comments/20221020/1799587.md" target="_blank">【独家重磅】李燕铭：赵乐际弟赵乐秦旧部落马被火速判刑 隐秘牵连原疾控中心主任高福 中共疫苗黑幕曝光 江绵恒暗黑帝国政商网络浮现 或成为习二十大后重点清洗目标 习清洗广西帮围猎郭声琨（十） 习近平追杀赵乐际（十） 习点江曾死穴清洗江绵恒暗黑帝国（二七）</a></li>
 <li><a href="/comments/20221020/1799585.md" target="_blank">普京宣布4俄占区戒严 美国务院：试图强行控制的“绝望策略”</a></li>
-<li><a href="/comments/20221020/1799584.md" target="_blank">解析李家超第一次《施政报告》 矢板明夫叹：对北京全面服从</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
 <li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 <li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 
 </ul>
 </div>
