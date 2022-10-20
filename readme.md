@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20221020/1799516.md">把他的这些话发出来，不能让我一人笑死</a></li>
 <li><a href="/comments/20221020/1799462.md">文昭：中共使馆突发撤侨令，二十大会场外出大事？王岐山的秘密任务有结果了？大海掀翻小池塘、再掀新高潮</a></li>
 <li><a href="/topimagenews/20221020/1799463.md">关注：曾受栗战书提拔的他，或任中南海大管家</a></li>
-<li><a href="/cnnews/20221020/1799614.md">习近平的终极挑战 中共公开使用“一尊”称号【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221020/1799515.md">重大变化！二十大报告此处多加了700字！【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221020/1799614.md">习近平的终极挑战 中共公开使用“一尊”称号【阿波罗网报道】</a></li>
 <li><a href="/comments/20221020/1799470.md">【独家重磅】李燕铭预测二十大常委名单及分工 细分习近平或胜或妥协或败六大版本及最可能版本 从二十大常委名单洞悉习江胡博弈态势与中南海政局走向 习近平连任与二十大常委争夺战（八九）</a></li>
 <li><a href="/ssgc/20221020/1799485.md">〖兲朝浮世绘〗除了中国大陆全世界都应该称颂习主席</a></li>
 <li><a href="/cnnews/20221020/1799561.md">白人丑男娶亚裔美女秀恩爱 网:醒醒 她就为绿卡</a></li>
+<li><a href="/headline/20221020/1799663.md">曼城领馆殴人事件扩大：总领事郑𣌀原终承认扯人头发 惟称这是其责任去维护尊严</a></li>
 <li><a href="/topimagenews/20221020/1799645.md">下个战场在这里！6万赫尔松居民大撤离 美媒:俄将失侵乌“最大奖牌”</a></li>
 <li><a href="/finance/20221020/1799432.md">中共推迟发布经济数据，“是个极糟的失误”</a></li>
 <li><a href="/ssgc/20221020/1799640.md">湖北政府紧跟北京指令 重建一千三百余个供销社</a></li>
 <li><a href="/cnnews/20221020/1799377.md">美军援乌克兰要变了？共和党领袖：若夺回众院 不会再开空白支票</a></li>
-<li><a href="/headline/20221020/1799663.md">曼城领馆殴人事件扩大：总领事郑𣌀原终承认扯人头发 惟称这是其责任去维护尊严</a></li>
 <li><a href="/cbnews/20221020/1799638.md">普丁入侵乌克兰失败影响台海 前大使：习近平恐后悔与他合作</a></li>
+<li><a href="/baitai/20221020/1799689.md">旅界｜老外走了，上海宝格丽公寓空了</a></li>
 <li><a href="/topimagenews/20221020/1799589.md">美歼灭战使大陆29座晶圆厂“断手脚”？谢金河发现1事：有救了</a></li>
-<li><a href="/topimagenews/20221020/1799652.md">马斯克又后悔了？掏440亿美元买推特太痛 突喊1句惊人之语</a></li>
 <li><a href="/cnnews/20221020/1799563.md">美国女子患严重性病，竟因清洁工把…塞入水杯</a></li>
+<li><a href="/topimagenews/20221020/1799652.md">马斯克又后悔了？掏440亿美元买推特太痛 突喊1句惊人之语</a></li>
 <li><a href="/sohnews/20221020/1799392.md">“西方晕菜啦！中共国关闭所有经济数据 包括GDP”《今日点击》 (19/10/22) 纽约时报：谢谢您 习近平！</a></li>
-<li><a href="/comments/20221020/1799541.md">习近平清洗党内所有潜在势力 王岐山受波及</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221020/1799763.md" target="_blank">英国首相特拉斯辞职 执政党保守党将再一次选举党魁</a></li>
 <li><a href="/cbnews/20221020/1799691.md" target="_blank">二十大：一场看不见战线的斗争 (戴忠仁/王丹/程晓农）</a></li>
 <li><a href="/cbnews/20221020/1799727.md" target="_blank">澳洲前总理称北京不想保持现状 点出攻台时间点</a></li>
 <li><a href="/cbnews/20221020/1799638.md" target="_blank">普丁入侵乌克兰失败影响台海 前大使：习近平恐后悔与他合作</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20221018/1798621.md" target="_blank">〖微博谈〗真是一语成谶</a></li>
 <li><a href="/cbnews/20221018/1798524.md" target="_blank">有3例？郑州宣布居民不得外出 全市暂停营业</a></li>
 <li><a href="/cbnews/20221018/1798504.md" target="_blank">出生率创历年新低 习近平拟三胎化政策升级</a></li>
-<li><a href="/cbnews/20221018/1798503.md" target="_blank">中国女星定居大马开设博物馆 展示上千年古董</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221020/1799775.md" target="_blank">史上最短命！英国首相特拉斯宣布辞职 在位仅45天</a></li>
 <li><a href="/topimagenews/20221020/1799706.md" target="_blank">二十大带来的不是“希望”！中企股票在港股、美股都暴跌</a></li>
 <li><a href="/topimagenews/20221020/1799679.md" target="_blank">普丁“困兽犹斗”！俄罗斯入侵占乌四地进入“战时状态” 拜登回应了…</a></li>
 <li><a href="/topimagenews/20221020/1799652.md" target="_blank">马斯克又后悔了？掏440亿美元买推特太痛 突喊1句惊人之语</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221019/1799021.md" target="_blank">这现象表明，俄军陷入山穷水尽地步？</a></li>
 <li><a href="/topimagenews/20221019/1798955.md" target="_blank">吉儿罕见发飙 痛骂白宫官员 美国左媒曝内幕 想换总统？</a></li>
 <li><a href="/topimagenews/20221019/1798954.md" target="_blank">富豪注意了！20大推共同富裕 首提“规范财富积累机制”</a></li>
-<li><a href="/topimagenews/20221018/1798886.md" target="_blank">金正恩专用列车内部曝光！清凉露肉发豪语：让人民吃狗肉、喝香槟</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
 <li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
 
 </ul>
 </div>
