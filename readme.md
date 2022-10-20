@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20221019/1799117.md">北京人民大会堂女服务员内幕</a></li>
-<li><a href="/comments/20221019/1799074.md">李燕铭：团派三大员李克强汪洋胡春华全军覆没？同日传出三份常委名单 丁薛祥入常最无悬念 习近平属意李强任总理 李希或任中纪委书记 习近平连任与二十大常委争夺战（八八） 习近平李克强明争暗斗内幕（五六）</a></li>
 <li><a href="/topimagenews/20221019/1799116.md">习近平被恶心惨了！二十大开幕当天被送”大礼“！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221019/1799239.md">印度神童最新预言曝光 台湾乌克兰中国美国吓到！小心10、11、12月</a></li>
 <li><a href="/sohnews/20221019/1799128.md">💥胡春华、李克强最终安排均会有意外？李强会成最大黑马？各传媒观点不同，北京内部已定下最高层人事；打港人，英议员吁驱逐中共外交官；中共拟更快“统一”台湾；多地现“四通桥”标语｜新闻拍案惊奇直播 大宇</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/topimagenews/20221019/1799310.md">大事不妙？中国才刚紧急撤侨 普丁宣布“戒严”</a></li>
 <li><a href="/topimagenews/20221019/1799182.md">为了“习皇帝”画像 中共驻英领事大打出手：“原来是舍身护驾”？</a></li>
 <li><a href="/sohnews/20221019/1799282.md">史上最神秘20大 谁上谁下谁决定?谁说了算? 二十大重要吗?习近平连任大秀 中共高层演出剧本早写好。独裁严密监控 会内代表行动受控 全面噤声 确保使命必达。221019</a></li>
-<li><a href="/topimagenews/20221019/1799130.md">俄将试射核导弹 中共发布乌克兰紧急撤侨通知</a></li>
 <li><a href="/cbnews/20221020/1799397.md">习近平将执政到2035年？邓小平前翻译：80多岁脑子特别灵活</a></li>
+<li><a href="/topimagenews/20221019/1799130.md">俄将试射核导弹 中共发布乌克兰紧急撤侨通知</a></li>
 <li><a href="/topimagenews/20221019/1799214.md">美国踩爆大陆芯片 他竟买到贵500倍的产品…</a></li>
 <li><a href="/ssgc/20221019/1799152.md">〖兲朝浮世绘〗蓬胖胖又说让中共跳脚的话了</a></li>
 <li><a href="/headline/20221019/1799246.md">中共二十大报道：四通桥反习抗议事件影响扩大 法律人指彭立发有功无罪</a></li>
 <li><a href="/topimagenews/20221019/1799258.md">“人饿得都快要倒下去了”！ 朝鲜用炮击强调金正恩的领导能力 百姓反应“冷淡”…</a></li>
+<li><a href="/cnnews/20221020/1799450.md">许世友暴行揭秘 残酷堪比红色高棉</a></li>
 <li><a href="/topimagenews/20221019/1799196.md">文革彻底再现！中共外交官曾向英警察大打出手【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221019/1799313.md">公司的水有尿味！她看监视器发现“恶心真相”崩溃：害我得性病</a></li>
-<li><a href="/baitai/20221019/1799206.md">张抗抗：没有春天</a></li>
 <li><a href="/ssgc/20221019/1799086.md">〖微博谈〗我不能拥有自己的思想吗？</a></li>
+<li><a href="/baitai/20221019/1799206.md">张抗抗：没有春天</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221020/1799500.md" target="_blank">惠虎宇：疫情文革 二十大前习近平的政治布局</a></li>
+<li><a href="/comments/20221020/1799499.md" target="_blank">许小存：中共最大的奥秘——腐败</a></li>
+<li><a href="/comments/20221020/1799498.md" target="_blank">钟剑华：“中领馆打人事件”是有计划的袭击</a></li>
+<li><a href="/comments/20221020/1799497.md" target="_blank">党媒喊坚持“动态清零”，网民讽“一百年不动摇”</a></li>
+<li><a href="/comments/20221020/1799496.md" target="_blank">王友琴：2022年诺贝尔和平奖有感</a></li>
+<li><a href="/comments/20221020/1799495.md" target="_blank">王赫：“二十大”报告经济政策解读</a></li>
 <li><a href="/comments/20221020/1799470.md" target="_blank">【独家重磅】李燕铭预测二十大常委名单及分工 细分习近平或胜或妥协或败六大版本及最可能版本 从二十大常委名单洞悉习江胡博弈态势与中南海政局走向 习近平连任与二十大常委争夺战（八九）</a></li>
 <li><a href="/comments/20221020/1799462.md" target="_blank">文昭：中共使馆突发撤侨令，二十大会场外出大事？王岐山的秘密任务有结果了？大海掀翻小池塘、再掀新高潮</a></li>
 <li><a href="/comments/20221020/1799453.md" target="_blank">变态辣椒：中国梦与中国吼</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20221019/1799098.md" target="_blank">李濠仲:习近平第三任起手式 把反对者拖入使馆殴打</a></li>
 <li><a href="/comments/20221019/1799097.md" target="_blank">吴崑玉:习大大的党八股 透露一个不安的灵魂</a></li>
 <li><a href="/comments/20221019/1799096.md" target="_blank">苏晓康:这个政权危了</a></li>
-<li><a href="/comments/20221019/1799074.md" target="_blank">李燕铭：团派三大员李克强汪洋胡春华全军覆没？同日传出三份常委名单 丁薛祥入常最无悬念 习近平属意李强任总理 李希或任中纪委书记 习近平连任与二十大常委争夺战（八八） 习近平李克强明争暗斗内幕（五六）</a></li>
-<li><a href="/comments/20221019/1799046.md" target="_blank">周晓辉：许其亮说了啥 军网央视新华网不同调</a></li>
-<li><a href="/comments/20221019/1799045.md" target="_blank">唐付民：自由，该如何认定？ </a></li>
-<li><a href="/comments/20221019/1799044.md" target="_blank">网海拾贝:彭载舟：一个划时代的政治信号</a></li>
-<li><a href="/comments/20221019/1799043.md" target="_blank">听党史专家司马璐揭秘中共：毛泽东与刘少奇</a></li>
-<li><a href="/comments/20221019/1799042.md" target="_blank">周晓辉：二十大报告透视出 中共恐惧垮台</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 <li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 
 </ul>
 </div>
