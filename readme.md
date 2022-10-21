@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/ccpdope/20221020/1799734.md">看这张图……党疯了</a></li>
 <li><a href="/topimagenews/20221021/1799936.md">习近平“首席智囊“发出重大信号！一场政治大风暴即将降临！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221021/1799825.md">赴美留学生惊见反转！这国超越大陆人数 外媒揭严重后果</a></li>
 <li><a href="/cbnews/20221020/1799691.md">二十大：一场看不见战线的斗争 (戴忠仁/王丹/程晓农）</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/ssgc/20221021/1800028.md">〖兲朝浮世绘〗太监护主子立功了，以后会官运亨通飞黄腾达？</a></li>
 <li><a href="/topimagenews/20221020/1799775.md">史上最短命！英国首相特拉斯宣布辞职 在位仅45天</a></li>
 <li><a href="/ssgc/20221021/1799935.md">〖微博谈〗二十大真是有魔性</a></li>
-<li><a href="/topimagenews/20221020/1799798.md">前世是被烧死的女人！5岁男童曝“惊人细节” 妈毛骨悚然</a></li>
 <li><a href="/cnnews/20221021/1800024.md">很多人不知道，二十大报告暗藏一大危险方向！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221021/1800043.md">习近平对决世界 20大上提出的唯一新词【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221020/1799798.md">前世是被烧死的女人！5岁男童曝“惊人细节” 妈毛骨悚然</a></li>
 <li><a href="/comments/20221021/1800056.md">【独家重磅】李燕铭：副国级高官杨传堂拒绝捧习？二十大下团新华社报导异常仅一句话 杨传堂隐身逾一年露面政协常委会但未再现身交通运输部 副国级高官杨传堂出事内幕（八）</a></li>
 <li><a href="/cnnews/20221021/1799998.md">她13岁上北大，28岁嫁给53岁哈佛教授，如今…</a></li>
 <li><a href="/cnnews/20221021/1799880.md">苹果深夜改正“重大错误”，仍被果粉疯狂吐槽…</a></li>
-<li><a href="/cnnews/20221021/1799901.md">强奸？自愿？发小透露当初我父亲告诉他的沈崇事件</a></li>
 <li><a href="/yule/20221021/1799980.md">潘石屹辞职后现身美国！参加上流人士聚会，与人交流脸上堆满笑容</a></li>
+<li><a href="/cnnews/20221021/1799901.md">强奸？自愿？发小透露当初我父亲告诉他的沈崇事件</a></li>
 <li><a href="/topimagenews/20221021/1800023.md">【微博精粹】习总应虚心向外相学习怎样对待中国人民</a></li>
+<li><a href="/headline/20221020/1799779.md">彭博社：中国考虑放宽入境隔离限制 缩短隔离天数</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221021/1800162.md" target="_blank">太过扎心！直击中国盛世蝼蚁生活；9百中国富豪移民爱尔兰；彭博预测衰退百分百；</a></li>
 <li><a href="/topimagenews/20221021/1800119.md" target="_blank">期中选举 民主党候选人不敢邀拜登助选…</a></li>
 <li><a href="/topimagenews/20221021/1800083.md" target="_blank">美炸死陆芯片业？惊爆这1家向北京求救：有危险了</a></li>
 <li><a href="/topimagenews/20221021/1800051.md" target="_blank">魔鬼的工具!承认监控摄像头可“抓出”新疆、藏族人中企:非商业用途</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221019/1799334.md" target="_blank">乌克兰多个城市遭巡弋导弹攻击 文尼察电厂被击中</a></li>
 <li><a href="/topimagenews/20221019/1799333.md" target="_blank">以色列前总理警告：提供武器给乌克兰 最终恐落入伊朗手中</a></li>
 <li><a href="/topimagenews/20221019/1799310.md" target="_blank">大事不妙？中国才刚紧急撤侨 普丁宣布“戒严”</a></li>
-<li><a href="/topimagenews/20221019/1799264.md" target="_blank">普丁赌博！俄罗斯动员兵缺少训练 阵亡家属愤怒“被当炮灰”…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221021/1800159.md" target="_blank">我又回来了？外媒曝约翰逊考虑再次角逐英首相</a></li>
 <li><a href="/comments/20221021/1800158.md" target="_blank">铁链女翻版？传广东清远男白天公园性侵 受害者：13岁就帮他生小孩</a></li>
 <li><a href="/comments/20221021/1800140.md" target="_blank">打击“猎狐行动” 美起诉7名中国人涉骚扰、威胁美公民</a></li>
 <li><a href="/comments/20221021/1800056.md" target="_blank">【独家重磅】李燕铭：副国级高官杨传堂拒绝捧习？二十大下团新华社报导异常仅一句话 杨传堂隐身逾一年露面政协常委会但未再现身交通运输部 副国级高官杨传堂出事内幕（八）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221020/1799791.md" target="_blank">时事大家谈：习近平连任时刻，为何西方有舆论预言习政权脆断？</a></li>
 <li><a href="/comments/20221020/1799790.md" target="_blank">时事大家谈：蓬佩奥又发视频，为何称中共为流氓政府？</a></li>
 <li><a href="/comments/20221020/1799789.md" target="_blank">时事大家谈：习近平连任时刻，为何西方有舆论预言习政权脆断？蓬佩奥又发视频，为何称中共为流氓政府？</a></li>
-<li><a href="/comments/20221020/1799744.md" target="_blank">一天两检 “喉咙起茧” 郑州广州清零无极限</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
 <li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 
 </ul>
 </div>
