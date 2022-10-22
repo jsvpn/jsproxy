@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20221022/1800250.md">中共23日开一中全会 台媒抢先爆出总书记等名单</a></li>
 <li><a href="/ssgc/20221021/1800106.md">中共通过“两委”名单草案 分析:新常委只是习近平办事班子</a></li>
 <li><a href="/ssgc/20221021/1800028.md">〖兲朝浮世绘〗太监护主子立功了，以后会官运亨通飞黄腾达？</a></li>
-<li><a href="/sohnews/20221021/1800154.md">陈破空：三份名单出炉，习派全程控场！突出习一人，但他仍然紧张！王沪宁三朝国师，陪跑还是分手？彭勇士开创抗争新模式。直播与互动。美东10月21日早9点、即中港台10月21日晚9点</a></li>
 <li><a href="/cbnews/20221022/1800354.md">中共二十大今闭幕 几大问题将见分晓</a></li>
+<li><a href="/sohnews/20221021/1800154.md">陈破空：三份名单出炉，习派全程控场！突出习一人，但他仍然紧张！王沪宁三朝国师，陪跑还是分手？彭勇士开创抗争新模式。直播与互动。美东10月21日早9点、即中港台10月21日晚9点</a></li>
 <li><a href="/comments/20221021/1800056.md">【独家重磅】李燕铭：副国级高官杨传堂拒绝捧习？二十大下团新华社报导异常仅一句话 杨传堂隐身逾一年露面政协常委会但未再现身交通运输部 副国级高官杨传堂出事内幕（八）</a></li>
 <li><a href="/topimagenews/20221021/1800162.md">太过扎心！直击中国盛世蝼蚁生活；9百中国富豪移民爱尔兰；彭博预测衰退百分百；</a></li>
 <li><a href="/topimagenews/20221021/1800043.md">习近平对决世界 20大上提出的唯一新词【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221021/1800183.md">5度登央视封“最美节目”！知名舞蹈家惊传坠楼身亡 享年44岁</a></li>
-<li><a href="/cnnews/20221021/1800024.md">很多人不知道，二十大报告暗藏一大危险方向！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221021/1800083.md">美炸死陆芯片业？惊爆这1家向北京求救：有危险了</a></li>
 <li><a href="/cbnews/20221021/1800120.md">重磅：美国拟将这两大领域纳入对中共限制令</a></li>
 <li><a href="/cnnews/20221021/1800185.md">飞机上绝不该做5件事！空姐曝厕所“暗黑内幕”：小心地板的水</a></li>
-<li><a href="/topimagenews/20221021/1800023.md">【微博精粹】习总应虚心向外相学习怎样对待中国人民</a></li>
 <li><a href="/comments/20221022/1800255.md">李燕铭：李克强汪洋极可能同时裸退 胡春华晋升常委机会渺茫 李强将循特殊路线晋升政治局常委接任总理 陈敏尔或转任上海市委书记 王沪宁去留难料传任人大委员长 中共二十大前人事猜谜 消息来得慢名单大不同 内幕揭秘 习近平连任与二十大常委争夺战（九十）</a></li>
+<li><a href="/topimagenews/20221022/1800369.md">习近平容的下李克强吗? 外媒预测：团派一个不留</a></li>
 <li><a href="/headline/20221021/1800039.md">中共二十大报道：专访谢淑丽：除非习近平分享权力，中国未来五年“不会很好”</a></li>
 <li><a href="/comments/20221021/1800158.md">铁链女翻版？传广东清远男白天公园性侵 受害者：13岁就帮他生小孩</a></li>
 <li><a href="/lifebaike/20221021/1800084.md">为什么停止吃米和面后，体重就立刻降下来了？医生告诉你实情</a></li>
-<li><a href="/cnnews/20221021/1800150.md">首尔大学设习近平图书室，“历史的污点”</a></li>
-<li><a href="/cnnews/20221021/1800053.md">热搜：女子1.5万买房，1000元请保姆，月入过万</a></li>
-<li><a href="/ssgc/20221021/1800165.md">两件事发生 中共面临“惊涛骇浪”</a></li>
 <li><a href="/topimagenews/20221022/1800321.md">中国热传404文 暗指习芯片战略最终落败？</a></li>
-<li><a href="/topimagenews/20221022/1800369.md">习近平容的下李克强吗? 外媒预测：团派一个不留</a></li>
+<li><a href="/cnnews/20221021/1800150.md">首尔大学设习近平图书室，“历史的污点”</a></li>
+<li><a href="/lifebaike/20221022/1800269.md">一到凌晨3、4点自然醒，再难入睡是为什么？提醒：或是这4种原因</a></li>
+<li><a href="/finance/20221022/1800293.md">很明显，银行现在也开始着急了</a></li>
+<li><a href="/ssgc/20221021/1800165.md">两件事发生 中共面临“惊涛骇浪”</a></li>
+<li><a href="/cnnews/20221021/1800053.md">热搜：女子1.5万买房，1000元请保姆，月入过万</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221022/1800454.md" target="_blank">二十大入常名单你们都没猜对！《红楼梦》判词惊悚预言二十大结局</a></li>
 <li><a href="/comments/20221022/1800445.md" target="_blank">北游:心灵鸡汤原本是美帝的，到中国就变味了</a></li>
 <li><a href="/comments/20221022/1800444.md" target="_blank">如松：普京捅了马蜂窝</a></li>
 <li><a href="/comments/20221022/1800443.md" target="_blank">长平观察：四通桥上的“二十大”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221022/1800364.md" target="_blank">文昭：美高官连发警告：中共攻台提前！红叶枫时人也疯，反习派改踩油门？</a></li>
 <li><a href="/comments/20221022/1800358.md" target="_blank">钟原：江、曾派又放风 习阵营会上当吗？</a></li>
 <li><a href="/comments/20221022/1800357.md" target="_blank">听党史专家司马璐揭秘中共：毛泽东</a></li>
-<li><a href="/comments/20221022/1800356.md" target="_blank">王赫：“二十大”常委名单预测</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 <li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
 
 </ul>
 </div>
