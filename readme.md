@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20221022/1800354.md">中共二十大今闭幕 几大问题将见分晓</a></li>
 <li><a href="/topimagenews/20221022/1800369.md">习近平容的下李克强吗? 外媒预测：团派一个不留</a></li>
 <li><a href="/comments/20221022/1800255.md">李燕铭：李克强汪洋极可能同时裸退 胡春华晋升常委机会渺茫 李强将循特殊路线晋升政治局常委接任总理 陈敏尔或转任上海市委书记 王沪宁去留难料传任人大委员长 中共二十大前人事猜谜 消息来得慢名单大不同 内幕揭秘 习近平连任与二十大常委争夺战（九十）</a></li>
-<li><a href="/topimagenews/20221022/1800511.md">突发！20届中央委员产生 胡锦涛突然起身离场</a></li>
 <li><a href="/sohnews/20221022/1800522.md">“20大突发新闻：闭幕式伊始 胡锦涛被强行离场 习近平成为“唯一的总书记””ShitaoTV - 01 (22/10/22) 被故意导演 王沪宁互动泄阴谋</a></li>
-<li><a href="/topimagenews/20221021/1800183.md">5度登央视封“最美节目”！知名舞蹈家惊传坠楼身亡 享年44岁</a></li>
+<li><a href="/topimagenews/20221022/1800511.md">突发！20届中央委员产生 胡锦涛突然起身离场</a></li>
+<li><a href="/ssgc/20221022/1800528.md">胡锦涛动作显示不自愿地被带离场</a></li>
 <li><a href="/comments/20221022/1800318.md">李燕铭：台媒抢报二十大政治局常委与委员名单 大逆转！团派三大员李克强汪洋胡春华皆入常任要职 陈敏尔任中纪委书记 多人黑马出任直辖市书记 习近平连任与二十大常委争夺战（九一）</a></li>
 <li><a href="/ssgc/20221022/1800519.md">中央委员名单出炉 不见李克强汪洋栗战书韩正 王沪宁赵乐际留任</a></li>
-<li><a href="/cnnews/20221022/1800477.md">大换血？20大今日闭幕 上百名中央委员可能被换</a></li>
+<li><a href="/topimagenews/20221021/1800183.md">5度登央视封“最美节目”！知名舞蹈家惊传坠楼身亡 享年44岁</a></li>
 <li><a href="/comments/20221022/1800356.md">王赫：“二十大”常委名单预测</a></li>
-<li><a href="/cbnews/20221022/1800504.md">二十大闭幕式 新一届中委和中纪委已“选举”产生</a></li>
-<li><a href="/ssgc/20221022/1800528.md">胡锦涛动作显示不自愿地被带离场</a></li>
+<li><a href="/cnnews/20221022/1800477.md">大换血？20大今日闭幕 上百名中央委员可能被换</a></li>
 <li><a href="/sohnews/20221022/1800518.md">💥王沪宁新职务出炉！20大政治局完整25人名单；外泄名单暴露习的接班人？胡春华vs陈敏尔，或恰似习近平与李克强当年；新常委亮相前，还会有意外吗｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cbnews/20221022/1800504.md">二十大闭幕式 新一届中委和中纪委已“选举”产生</a></li>
+<li><a href="/sohnews/20221022/1800559.md">胡锦涛被带离会场最清楚画面：当众枭首，传世四边。中华人民第二共和国的覆灭？</a></li>
 <li><a href="/topimagenews/20221022/1800516.md">习近平地位确立！中共二十大通过党章修正案 “两个确立”写入党章</a></li>
 <li><a href="/cnnews/20221022/1800526.md">他预计将出任中纪委书记 升任政治局常委</a></li>
 <li><a href="/topimagenews/20221022/1800525.md">李克强栗战书汪洋及韩正不入中委 料有4名新常委</a></li>
-<li><a href="/sohnews/20221022/1800559.md">胡锦涛被带离会场最清楚画面：当众枭首，传世四边。中华人民第二共和国的覆灭？</a></li>
-<li><a href="/headline/20221022/1800502.md">中共二十大22日闭幕 新常委人选将是预示习近平真正权力的标志</a></li>
 <li><a href="/topimagenews/20221022/1800544.md">11人留任14人不在名单 政治局委员过半新脸孔</a></li>
+<li><a href="/headline/20221022/1800502.md">中共二十大22日闭幕 新常委人选将是预示习近平真正权力的标志</a></li>
 <li><a href="/cnnews/20221021/1800185.md">飞机上绝不该做5件事！空姐曝厕所“暗黑内幕”：小心地板的水</a></li>
-<li><a href="/topimagenews/20221022/1800524.md">李克强不在中委名单 卸任常委裸退已成定局</a></li>
+<li><a href="/sohnews/20221022/1800575.md">胡锦涛从会场被拖走细节曝光！中国将面临巨变⋯⋯</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221022/1800687.md" target="_blank">中共政治局12人获留任中央委员 “习家军”占10人</a></li>
 <li><a href="/comments/20221022/1800671.md" target="_blank">李克强等5大财官失势 经济领导层将风云变</a></li>
 <li><a href="/comments/20221022/1800638.md" target="_blank">它是“秋果之王”！每天几个，补肾、健脾、强筋骨</a></li>
 <li><a href="/comments/20221022/1800637.md" target="_blank">辣椒“辣味”从哪里来的？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221022/1800614.md" target="_blank">北美精品时装店中喝咖啡？值得推荐的休闲体验</a></li>
 <li><a href="/comments/20221022/1800613.md" target="_blank">美国电动车Q3销量创新高 特斯拉产量猛增54%</a></li>
 <li><a href="/comments/20221022/1800597.md" target="_blank">习近平三连任总书记军委主席 已成定局</a></li>
-<li><a href="/comments/20221022/1800595.md" target="_blank">楚一丁：川普改变了共和党</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 
 </ul>
 </div>
