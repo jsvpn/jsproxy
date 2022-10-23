@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20221022/1800590.md">奇观！胡锦涛被带离会场活活逼疯了中共文宣，推特假账号疯狂刷屏</a></li>
 <li><a href="/cnnews/20221023/1800768.md">胡锦涛被架影片疯传全球 还有一张照片也被翻出</a></li>
 <li><a href="/cbnews/20221022/1800683.md">天亮时分：突发！胡锦涛被强行带离会场；团派团灭，李克强汪洋出局；党章修正案是看点（政论天下第827集 20221022）</a></li>
 <li><a href="/cbnews/20221023/1800772.md">你相信胡锦涛只是错拿习近平文件？</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/topimagenews/20221023/1800790.md">胡锦涛二十大闭幕式上遭架走 外媒疯狂分析背后原因</a></li>
 <li><a href="/cbnews/20221023/1800911.md">胡锦涛二十大闭幕被劝离场 学者解析内幕</a></li>
 <li><a href="/topimagenews/20221023/1800929.md">胡锦涛“被请离”中共20大！矢板明夫：防范胡在表决时不举手</a></li>
-<li><a href="/topimagenews/20221022/1800586.md">日媒解读中央委员名单 李克强“完全引退”象征“习1强时代”</a></li>
 <li><a href="/cnnews/20221023/1800955.md">二十大闭幕式上特殊一幕！宋平竟然...【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221023/1800825.md">习近平愚弄元老，最后一刻才摊牌：李克强汪洋出局！胡锦涛被赶出会场！ （一平论政2022/10/22)</a></li>
 <li><a href="/topimagenews/20221023/1800805.md">习一锅端！邓小平心血全破功 反对派心灰意冷</a></li>
 <li><a href="/cbnews/20221023/1800830.md">中共新一届七常委明亮相 防疫加码三天五检</a></li>
 <li><a href="/topimagenews/20221023/1800928.md">习近平使出帝王心术下狠招【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221023/1800840.md">20大闭幕式惊奇！胡锦涛被离席 李克强、汪洋恐遭清算</a></li>
 <li><a href="/cnnews/20221023/1800800.md">胡锦涛被离场引诸多猜测 新华社英文推特回应</a></li>
+<li><a href="/topimagenews/20221023/1800840.md">20大闭幕式惊奇！胡锦涛被离席 李克强、汪洋恐遭清算</a></li>
 <li><a href="/comments/20221023/1800906.md">胡锦涛被突然带离会场 另一张照片被翻出 令人不寒而栗</a></li>
-<li><a href="/cbnews/20221023/1800930.md">中共20届一中全会 新一届领导班子今12时亮相</a></li>
 <li><a href="/baitai/20221023/1800821.md">出了大事？胡锦涛遭强制离场透中共高层秘密</a></li>
-<li><a href="/comments/20221022/1800671.md">李克强等5大财官失势 经济领导层将风云变</a></li>
+<li><a href="/cbnews/20221023/1800930.md">中共20届一中全会 新一届领导班子今12时亮相</a></li>
 <li><a href="/cbnews/20221023/1800980.md">20大常委：温和派出局 “习掌权超过毛邓”</a></li>
+<li><a href="/comments/20221022/1800671.md">李克强等5大财官失势 经济领导层将风云变</a></li>
+<li><a href="/topimagenews/20221023/1801003.md">竟是习大秘随扈！起底架走胡锦涛的工作人员身份 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221023/1800829.md">财经网美：中共名单华丽到全剩习大大狗腿子</a></li>
+<li><a href="/sohnews/20221022/1800733.md">突发！胡锦涛在二十大上到底想干啥，结果被强行“带走‘？到底是谁坑了李克强，汪洋的离开说明了什么？请看【李军访谈20221022第77集】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221023/1801081.md" target="_blank">新晋四常委十九大时就埋线 习近平牢抓北上广</a></li>
+<li><a href="/comments/20221023/1801079.md" target="_blank">中共“太子党”李小鹏布小林均落选中委</a></li>
 <li><a href="/comments/20221023/1801050.md" target="_blank">胡锦涛被带离场更多细节 劝离人员身份曝光</a></li>
 <li><a href="/comments/20221023/1801048.md" target="_blank">二十大确立习“人民领袖”地位 分析 : 习近平成为 “21世纪毛泽东”</a></li>
 <li><a href="/comments/20221023/1801015.md" target="_blank">【独家重磅】李燕铭准确预测二十大军委副主席及委员名单与分工 72岁张又侠留任政治局委员晋升军委第一副主席 原东部战区司令何卫东入局晋升军委副主席 装备发展部部长李尚福黑马出任国防部长 原陆军司令刘振立任联合参谋部参谋长 苗华张升民留任政治部主任与军纪委书记 习强化军权升级战争风险（二八） 习近平连任与二十大常委争夺战（九六）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221023/1800908.md" target="_blank">缺弹药缺兵力缺装备 俄快弃守赫尔松</a></li>
 <li><a href="/comments/20221023/1800907.md" target="_blank">胡锦涛“被离场” 学者：释放“团派”被歼灭讯号</a></li>
 <li><a href="/comments/20221023/1800906.md" target="_blank">胡锦涛被突然带离会场 另一张照片被翻出 令人不寒而栗</a></li>
-<li><a href="/comments/20221023/1800903.md" target="_blank">铁头功社:杭州年轻人扎堆进寺庙</a></li>
-<li><a href="/comments/20221023/1800898.md" target="_blank">中共二十大正上演终局之战！胡锦涛被当众架出会场背后发生了什么？李强能否破格成为总理？会不会打台湾？中国下一步会发生什么？江峰、章天亮、方伟、唐靖远、吴嘉隆等大咖同台直播 ，共同关注解读！【时事大聚焦】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 <li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 <li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
 
 </ul>
 </div>
