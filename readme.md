@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20221023/1800929.md">胡锦涛“被请离”中共20大！矢板明夫：防范胡在表决时不举手</a></li>
 <li><a href="/topimagenews/20221023/1801034.md">赵立坚推文下 满腔怒火的留言涌泉爆发</a></li>
 <li><a href="/topimagenews/20221023/1801003.md">竟是习大秘随扈！起底架走胡锦涛的工作人员身份 【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20221023/1801107.md">二十大后习近平“一派独大” 他揭斗争内幕：结局难以想像</a></li>
 <li><a href="/sohnews/20221023/1801099.md">胡锦涛被带走前发生的事，栗战书是第一当事人。补充一些其他信息</a></li>
+<li><a href="/cbnews/20221023/1801107.md">二十大后习近平“一派独大” 他揭斗争内幕：结局难以想像</a></li>
 <li><a href="/topimagenews/20221023/1800928.md">习近平使出帝王心术下狠招【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221023/1801014.md">中共二十大政治局常委出炉 专家解读</a></li>
-<li><a href="/topimagenews/20221023/1800840.md">20大闭幕式惊奇！胡锦涛被离席 李克强、汪洋恐遭清算</a></li>
-<li><a href="/cbnews/20221023/1800980.md">20大常委：温和派出局 “习掌权超过毛邓”</a></li>
 <li><a href="/comments/20221023/1800906.md">胡锦涛被突然带离会场 另一张照片被翻出 令人不寒而栗</a></li>
 <li><a href="/comments/20221023/1800961.md">【杰森视角】习近平为何有意羞辱恩人胡锦涛？胡锦涛被拖下主席台是划时代事件！习近平破格留任张又侠有两个原因！习氏王朝的出路在哪里？什么会促使习近平在任内发动战争？如何评估中国军队战力？</a></li>
+<li><a href="/cbnews/20221023/1800980.md">20大常委：温和派出局 “习掌权超过毛邓”</a></li>
 <li><a href="/topimagenews/20221023/1801116.md">习近平几乎称帝 朝代该叫什么？乡民笑推“1答案”酸爆</a></li>
+<li><a href="/cnnews/20221024/1801186.md">韩国记者曝：习近平等7常委亮相时，气氛瞬间凝结…</a></li>
 <li><a href="/cbnews/20221023/1800930.md">中共20届一中全会 新一届领导班子今12时亮相</a></li>
 <li><a href="/topimagenews/20221023/1801002.md">快讯！新一届中共常委亮相 李强第二 胡春华落选</a></li>
 <li><a href="/cbnews/20221023/1801020.md">清理“低端人口”引民怨 蔡奇入常令外界意外</a></li>
-<li><a href="/cbnews/20221023/1801019.md">“大内总管”丁薛祥入常 辅佐习10多年</a></li>
 <li><a href="/cbnews/20221023/1801162.md">胡锦涛不满习近平被请出门？分析胡“被离场”原因</a></li>
-<li><a href="/cnnews/20221024/1801186.md">韩国记者曝：习近平等7常委亮相时，气氛瞬间凝结…</a></li>
+<li><a href="/cbnews/20221023/1801019.md">“大内总管”丁薛祥入常 辅佐习10多年</a></li>
 <li><a href="/topimagenews/20221023/1800959.md">72岁的张又侠续任中委 习张世代交好 是习的铁杆兄弟</a></li>
+<li><a href="/cbnews/20221023/1801022.md">中共新一届中央军委 2位打过仗、2位出身闽系</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
 <li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
 <li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 
 </ul>
 </div>
