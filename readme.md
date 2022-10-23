@@ -12,8 +12,8 @@
 <li><a href="/sohnews/20221023/1801111.md">陈破空：惊人细节：胡锦涛原打算振臂一呼！二十大开砸了！习近平并非赢家。习家军塞爆常委会。王沪宁意外遭架空。陈敏尔失意。宋平疑遭下药。直播与互动。美东10月23日早8点30、即中港台10月23日晚8点30</a></li>
 <li><a href="/topimagenews/20221023/1800929.md">胡锦涛“被请离”中共20大！矢板明夫：防范胡在表决时不举手</a></li>
 <li><a href="/topimagenews/20221023/1801003.md">竟是习大秘随扈！起底架走胡锦涛的工作人员身份 【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20221023/1800830.md">中共新一届七常委明亮相 防疫加码三天五检</a></li>
 <li><a href="/topimagenews/20221023/1801034.md">赵立坚推文下 满腔怒火的留言涌泉爆发</a></li>
+<li><a href="/cbnews/20221023/1800830.md">中共新一届七常委明亮相 防疫加码三天五检</a></li>
 <li><a href="/cbnews/20221023/1801107.md">二十大后习近平“一派独大” 他揭斗争内幕：结局难以想像</a></li>
 <li><a href="/sohnews/20221023/1801099.md">胡锦涛被带走前发生的事，栗战书是第一当事人。补充一些其他信息</a></li>
 <li><a href="/topimagenews/20221023/1800928.md">习近平使出帝王心术下狠招【阿波罗网报道】</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/comments/20221023/1800906.md">胡锦涛被突然带离会场 另一张照片被翻出 令人不寒而栗</a></li>
 <li><a href="/comments/20221023/1800961.md">【杰森视角】习近平为何有意羞辱恩人胡锦涛？胡锦涛被拖下主席台是划时代事件！习近平破格留任张又侠有两个原因！习氏王朝的出路在哪里？什么会促使习近平在任内发动战争？如何评估中国军队战力？</a></li>
 <li><a href="/topimagenews/20221023/1801116.md">习近平几乎称帝 朝代该叫什么？乡民笑推“1答案”酸爆</a></li>
-<li><a href="/baitai/20221023/1800821.md">出了大事？胡锦涛遭强制离场透中共高层秘密</a></li>
 <li><a href="/cbnews/20221023/1800930.md">中共20届一中全会 新一届领导班子今12时亮相</a></li>
 <li><a href="/topimagenews/20221023/1801002.md">快讯！新一届中共常委亮相 李强第二 胡春华落选</a></li>
 <li><a href="/cbnews/20221023/1801020.md">清理“低端人口”引民怨 蔡奇入常令外界意外</a></li>
 <li><a href="/cbnews/20221023/1801019.md">“大内总管”丁薛祥入常 辅佐习10多年</a></li>
+<li><a href="/topimagenews/20221023/1800829.md">财经网美：中共名单华丽到全剩习大大狗腿子</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
 <li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
 <li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 <li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
 
 </ul>
 </div>
