@@ -7,19 +7,17 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20221023/1800825.md">习近平愚弄元老，最后一刻才摊牌：李克强汪洋出局！胡锦涛被赶出会场！ （一平论政2022/10/22)</a></li>
 <li><a href="/cbnews/20221023/1800911.md">胡锦涛二十大闭幕被劝离场 学者解析内幕</a></li>
-<li><a href="/topimagenews/20221023/1800805.md">习一锅端！邓小平心血全破功 反对派心灰意冷</a></li>
 <li><a href="/cnnews/20221023/1800955.md">二十大闭幕式上特殊一幕！宋平竟然...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221023/1801004.md">惊人！前太子胡春华落选24人政治局委员会</a></li>
 <li><a href="/sohnews/20221023/1801111.md">陈破空：惊人细节：胡锦涛原打算振臂一呼！二十大开砸了！习近平并非赢家。习家军塞爆常委会。王沪宁意外遭架空。陈敏尔失意。宋平疑遭下药。直播与互动。美东10月23日早8点30、即中港台10月23日晚8点30</a></li>
 <li><a href="/topimagenews/20221023/1800929.md">胡锦涛“被请离”中共20大！矢板明夫：防范胡在表决时不举手</a></li>
 <li><a href="/cbnews/20221023/1800830.md">中共新一届七常委明亮相 防疫加码三天五检</a></li>
-<li><a href="/topimagenews/20221023/1801003.md">竟是习大秘随扈！起底架走胡锦涛的工作人员身份 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221023/1801107.md">二十大后习近平“一派独大” 他揭斗争内幕：结局难以想像</a></li>
+<li><a href="/topimagenews/20221023/1801003.md">竟是习大秘随扈！起底架走胡锦涛的工作人员身份 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221023/1801034.md">赵立坚推文下 满腔怒火的留言涌泉爆发</a></li>
 <li><a href="/sohnews/20221023/1801099.md">胡锦涛被带走前发生的事，栗战书是第一当事人。补充一些其他信息</a></li>
 <li><a href="/topimagenews/20221023/1800928.md">习近平使出帝王心术下狠招【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221023/1801014.md">中共二十大政治局常委出炉 专家解读</a></li>
-<li><a href="/cnnews/20221023/1800800.md">胡锦涛被离场引诸多猜测 新华社英文推特回应</a></li>
 <li><a href="/topimagenews/20221023/1800840.md">20大闭幕式惊奇！胡锦涛被离席 李克强、汪洋恐遭清算</a></li>
 <li><a href="/cbnews/20221023/1800980.md">20大常委：温和派出局 “习掌权超过毛邓”</a></li>
 <li><a href="/comments/20221023/1800906.md">胡锦涛被突然带离会场 另一张照片被翻出 令人不寒而栗</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/topimagenews/20221023/1801116.md">习近平几乎称帝 朝代该叫什么？乡民笑推“1答案”酸爆</a></li>
 <li><a href="/cbnews/20221023/1800930.md">中共20届一中全会 新一届领导班子今12时亮相</a></li>
 <li><a href="/topimagenews/20221023/1801002.md">快讯！新一届中共常委亮相 李强第二 胡春华落选</a></li>
+<li><a href="/cbnews/20221023/1801020.md">清理“低端人口”引民怨 蔡奇入常令外界意外</a></li>
+<li><a href="/cbnews/20221023/1801019.md">“大内总管”丁薛祥入常 辅佐习10多年</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221024/1801232.md" target="_blank">时事大家谈：“习家军”高歌猛进，“团派”黯然离场，中共内斗之果对中国意味着什么？</a></li>
 <li><a href="/comments/20221024/1801226.md" target="_blank">【独家重磅】李燕铭：中纪委第一副书记刘金国未进政治局 中纪委书记李希权力加强或兼任国家监委主任 习近平十九大钳制架空中纪委书记赵乐际权力内幕曝光 习近平连任与二十大常委争夺战（九八） 二十大高层人事大战（六二）</a></li>
 <li><a href="/comments/20221024/1801207.md" target="_blank">美国当谢习近平，全球笑看习家军</a></li>
 <li><a href="/comments/20221024/1801203.md" target="_blank">中共新常委7人职位大解析</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221023/1800970.md" target="_blank">英媒：胡锦涛“被离场”引起全球关注官方回应来</a></li>
 <li><a href="/comments/20221023/1800965.md" target="_blank">加工业部长:价值观相近国家应相互依赖 与中共国要脱钩</a></li>
 <li><a href="/comments/20221023/1800964.md" target="_blank">秦鹏：胡锦涛被带离 李汪退休 政局大变</a></li>
-<li><a href="/comments/20221023/1800961.md" target="_blank">【杰森视角】习近平为何有意羞辱恩人胡锦涛？胡锦涛被拖下主席台是划时代事件！习近平破格留任张又侠有两个原因！习氏王朝的出路在哪里？什么会促使习近平在任内发动战争？如何评估中国军队战力？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
 <li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
 
 </ul>
 </div>
