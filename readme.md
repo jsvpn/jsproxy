@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20221023/1800768.md">胡锦涛被架影片疯传全球 还有一张照片也被翻出</a></li>
-<li><a href="/cbnews/20221022/1800683.md">天亮时分：突发！胡锦涛被强行带离会场；团派团灭，李克强汪洋出局；党章修正案是看点（政论天下第827集 20221022）</a></li>
 <li><a href="/cbnews/20221023/1800772.md">你相信胡锦涛只是错拿习近平文件？</a></li>
 <li><a href="/topimagenews/20221022/1800732.md">中共新一届最高领导层 政治局常委亮相时间曝光</a></li>
 <li><a href="/baitai/20221023/1800796.md">架着胡锦涛离场人员身份爆光 胡海峰遭全网封杀</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cnnews/20221023/1800955.md">二十大闭幕式上特殊一幕！宋平竟然...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221023/1800929.md">胡锦涛“被请离”中共20大！矢板明夫：防范胡在表决时不举手</a></li>
 <li><a href="/cbnews/20221023/1800830.md">中共新一届七常委明亮相 防疫加码三天五检</a></li>
-<li><a href="/topimagenews/20221023/1801003.md">竟是习大秘随扈！起底架走胡锦涛的工作人员身份 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221023/1801004.md">惊人！前太子胡春华落选24人政治局委员会</a></li>
+<li><a href="/topimagenews/20221023/1801003.md">竟是习大秘随扈！起底架走胡锦涛的工作人员身份 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221023/1800800.md">胡锦涛被离场引诸多猜测 新华社英文推特回应</a></li>
 <li><a href="/topimagenews/20221023/1800928.md">习近平使出帝王心术下狠招【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221023/1800840.md">20大闭幕式惊奇！胡锦涛被离席 李克强、汪洋恐遭清算</a></li>
-<li><a href="/baitai/20221023/1800821.md">出了大事？胡锦涛遭强制离场透中共高层秘密</a></li>
 <li><a href="/comments/20221023/1800906.md">胡锦涛被突然带离会场 另一张照片被翻出 令人不寒而栗</a></li>
+<li><a href="/baitai/20221023/1800821.md">出了大事？胡锦涛遭强制离场透中共高层秘密</a></li>
+<li><a href="/cbnews/20221023/1801014.md">中共二十大政治局常委出炉 专家解读</a></li>
 <li><a href="/cbnews/20221023/1800980.md">20大常委：温和派出局 “习掌权超过毛邓”</a></li>
 <li><a href="/cbnews/20221023/1800930.md">中共20届一中全会 新一届领导班子今12时亮相</a></li>
-<li><a href="/cbnews/20221023/1801014.md">中共二十大政治局常委出炉 专家解读</a></li>
 <li><a href="/topimagenews/20221023/1801002.md">快讯！新一届中共常委亮相 李强第二 胡春华落选</a></li>
+<li><a href="/comments/20221023/1800961.md">【杰森视角】习近平为何有意羞辱恩人胡锦涛？胡锦涛被拖下主席台是划时代事件！习近平破格留任张又侠有两个原因！习氏王朝的出路在哪里？什么会促使习近平在任内发动战争？如何评估中国军队战力？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221023/1801131.md" target="_blank">中共选出24名政治局委员 13名新人 胡春华出局</a></li>
+<li><a href="/comments/20221023/1801127.md" target="_blank">别忘记备战！吕秋远：台湾中国两个皇帝，天壤之别、不胜唏嘘</a></li>
 <li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
 <li><a href="/comments/20221023/1801081.md" target="_blank">新晋四常委十九大时就埋线 习近平牢抓北上广</a></li>
 <li><a href="/comments/20221023/1801079.md" target="_blank">中共“太子党”李小鹏布小林均落选中委</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221023/1800934.md" target="_blank">阿里巴巴马云遭整肃 民营企业家20大集体失声</a></li>
 <li><a href="/comments/20221023/1800933.md" target="_blank">绝不让自己习惯杀戮！泽连斯基：我努力保持自己的人性</a></li>
 <li><a href="/comments/20221023/1800913.md" target="_blank">乌凌翔:“国内造不出境外买不到” 20大后中共如何破局</a></li>
-<li><a href="/comments/20221023/1800908.md" target="_blank">缺弹药缺兵力缺装备 俄快弃守赫尔松</a></li>
-<li><a href="/comments/20221023/1800907.md" target="_blank">胡锦涛“被离场” 学者：释放“团派”被歼灭讯号</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 <li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
 
 </ul>
 </div>
