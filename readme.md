@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20221023/1801111.md">陈破空：惊人细节：胡锦涛原打算振臂一呼！二十大开砸了！习近平并非赢家。习家军塞爆常委会。王沪宁意外遭架空。陈敏尔失意。宋平疑遭下药。直播与互动。美东10月23日早8点30、即中港台10月23日晚8点30</a></li>
 <li><a href="/sohnews/20221023/1801099.md">胡锦涛被带走前发生的事，栗战书是第一当事人。补充一些其他信息</a></li>
-<li><a href="/topimagenews/20221023/1801034.md">赵立坚推文下 满腔怒火的留言涌泉爆发</a></li>
 <li><a href="/cbnews/20221023/1801107.md">二十大后习近平“一派独大” 他揭斗争内幕：结局难以想像</a></li>
 <li><a href="/cnnews/20221024/1801186.md">韩国记者曝：习近平等7常委亮相时，气氛瞬间凝结…</a></li>
 <li><a href="/topimagenews/20221024/1801271.md">胡锦涛为何被架走！外媒拍事发前4诡异照片：与红色资料夹有关</a></li>
@@ -20,7 +19,6 @@
 <li><a href="/ccpdope/20221023/1801080.md">习说人话不办人事 造出二十大常委名单</a></li>
 <li><a href="/topimagenews/20221024/1801201.md">中共20大打破6潜规则 “山头”只剩习近平</a></li>
 <li><a href="/baitai/20221023/1801052.md">林保华：胡锦涛被架走不是健康原因（附美国之音报道）</a></li>
-<li><a href="/topimagenews/20221023/1801033.md">未来将是动荡时代？ 习近平没提这两句传统惯例口号</a></li>
 <li><a href="/cbnews/20221024/1801257.md">习近平全面掌权 关键团队确立 3个特点</a></li>
 <li><a href="/sohnews/20221023/1801063.md">七常委出炉一人未料到,习党内为何无对手？他将万劫不复！</a></li>
 <li><a href="/topimagenews/20221023/1801160.md">中共政治局新委员最老72岁、最年轻58岁 台湾须警惕他</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/baitai/20221023/1801062.md">习近平权力超越毛泽东？胡锦涛都懵了？专家：「习天下」形成</a></li>
 <li><a href="/ssgc/20221024/1801252.md">〖兲朝浮世绘〗胡锦涛被架出二十大会场 习近平的傲慢举世无双</a></li>
 <li><a href="/baitai/20221023/1801150.md">反习近平连任？上海女勇士大街上打横幅声援彭载舟</a></li>
+<li><a href="/comments/20221023/1801079.md">中共“太子党”李小鹏布小林均落选中委</a></li>
+<li><a href="/sohnews/20221023/1801077.md">中共各派别无选择，只能“反习毁党”！ 二十大战役习近平赢了，但战争才开始！（一平论政2022/10/22)</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221024/1801432.md" target="_blank">就怕万一…中共20大最大国安危机</a></li>
 <li><a href="/topimagenews/20221024/1801424.md" target="_blank">普丁已准备好牺牲2000万士兵 俄军战败即他的末日</a></li>
 <li><a href="/topimagenews/20221024/1801397.md" target="_blank">“对台工作”3巨头 习近平主导王沪宁、王毅左右手</a></li>
 <li><a href="/topimagenews/20221024/1801382.md" target="_blank">印度神童示警全球爆发4危机 未来20年最严峻</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221023/1801000.md" target="_blank">中共二十大 新一届七人政治局常委亮相</a></li>
 <li><a href="/topimagenews/20221023/1800979.md" target="_blank">新两委人事“诞生记” 官媒：习2年前就开始统筹</a></li>
 <li><a href="/topimagenews/20221023/1800959.md" target="_blank">72岁的张又侠续任中委 习张世代交好 是习的铁杆兄弟</a></li>
-<li><a href="/topimagenews/20221023/1800929.md" target="_blank">胡锦涛“被请离”中共20大！矢板明夫：防范胡在表决时不举手</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221024/1801434.md" target="_blank">美媒：为什么我们应该绝对支持习主席无限坐庄？</a></li>
 <li><a href="/comments/20221024/1801425.md" target="_blank">中共高层大洗牌后，谁会对习近平说“不”？</a></li>
 <li><a href="/comments/20221024/1801346.md" target="_blank">【悲戚强文】10年吃屎、百毒不侵</a></li>
 <li><a href="/comments/20221024/1801338.md" target="_blank">【独家重磅】二十大政治局常委与政治局委员分工预测 老将石泰峰黑马入局出任中南海要职 国安部长陈文清黑马入局分工或破常规 中办主任与上海书记重中之重谁将接任？习近平连任与二十大常委争夺战（九九） 二十大高层人事大战（六三）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221023/1801168.md" target="_blank">李燕铭：胡锦涛被强行带离二十大闭幕会后再缺席新一届高层集体露面 内幕解读 儿子胡海峰仕途停滞未当选候补中委 李克强汪洋卸职 曾经的太子胡春华出局 中南海内斗最新现实：团派“团灭” 习近平连任与二十大常委争夺战（九七） 习近平李克强明争暗斗内幕（五八）</a></li>
 <li><a href="/comments/20221023/1801167.md" target="_blank">10/23 【时事大家谈】中共新常委亮相，揭示中国政治形势 ；“习家军”高歌猛进，“团派”黯然离场，中共内斗之果对中国意味着什么？</a></li>
 <li><a href="/comments/20221023/1801131.md" target="_blank">中共选出24名政治局委员 13名新人 胡春华出局</a></li>
-<li><a href="/comments/20221023/1801127.md" target="_blank">别忘记备战！吕秋远：台湾中国两个皇帝，天壤之别、不胜唏嘘</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
 
 </ul>
 </div>
