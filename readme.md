@@ -10,15 +10,15 @@
 <li><a href="/baitai/20221024/1801245.md">「最危险的人」留任常委 习一手好牌打的稀烂？</a></li>
 <li><a href="/sohnews/20221024/1801287.md">外媒公布新照片，复盘胡锦涛被赶出来龙去脉！全国官员怒了：习近平做官做人都不合格！ （一平论政2022/10/23)</a></li>
 <li><a href="/baitai/20221024/1801213.md">胡锦涛被强制带离与他有关？胡春华既未「入常」而且「出局」</a></li>
-<li><a href="/topimagenews/20221024/1801374.md">二十大主席台上毛骨悚然画面！习近平刹车系统全无【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221024/1801377.md">除胡锦涛外 另一中共元老也曝诡异一幕</a></li>
+<li><a href="/topimagenews/20221024/1801374.md">二十大主席台上毛骨悚然画面！习近平刹车系统全无【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221024/1801257.md">习近平全面掌权 关键团队确立 3个特点</a></li>
 <li><a href="/headline/20221024/1801482.md">网民热议习近平李强2005年旧照</a></li>
 <li><a href="/sohnews/20221024/1801464.md">💥架走胡锦涛的“孔绍逊”是中办纪委书记！胡锦涛还有新画面；陈全国落榜，习军队布局牵连台海；王毅秦刚或将高升，新七常委职务会如何定位？（更正：06:33 是西语ABC 不是美国）｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ssgc/20221024/1801252.md">〖兲朝浮世绘〗胡锦涛被架出二十大会场 习近平的傲慢举世无双</a></li>
+<li><a href="/topimagenews/20221024/1801575.md">胡锦涛画面全毁了！2008北京奥运遭剪掉 任内重大政绩全消失</a></li>
 <li><a href="/sohnews/20221024/1801415.md">带走胡锦涛的人是他的亲孙子？名侦探奶爸手把手教你鉴别孙子</a></li>
 <li><a href="/cbnews/20221024/1801299.md">天亮时分：习家军一统天下，但物极必反；蔡奇成为最大黑马的启示；胡锦涛被强行架出会场，与邓小平时代的终结 （政论天下第829集 20221023）</a></li>
-<li><a href="/topimagenews/20221024/1801575.md">胡锦涛画面全毁了！2008北京奥运遭剪掉 任内重大政绩全消失</a></li>
 <li><a href="/topimagenews/20221024/1801432.md">就怕万一…中共20大最大国安危机</a></li>
 <li><a href="/cbnews/20221024/1801455.md">政治局新常委出炉 专家盘点“习家党”9大特点 中国寒冬即将到来</a></li>
 <li><a href="/comments/20221024/1801503.md">诡异！胡锦涛被架走前 发生这一幕 栗战书现场指挥</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221025/1801681.md" target="_blank">【独家重磅】李燕铭：李克强遭打压 栗战书被凸显 新华网报导重大异常 栗战书拥习二十大连任重大立功 或接替王岐山任国家副主席 习近平连任与二十大常委争夺战（101） 习近平李克强明争暗斗内幕（六十）</a></li>
+<li><a href="/comments/20221025/1801678.md" target="_blank">评论 | 胡平：习近平不点名批判邓、江、胡</a></li>
 <li><a href="/comments/20221025/1801672.md" target="_blank">七常委全是“狠角色” 专家：二十大后在向末路狂奔</a></li>
 <li><a href="/comments/20221025/1801669.md" target="_blank">时事大家谈：专访蔡霞: 习近平如何将中共返祖为“黑手党”？</a></li>
 <li><a href="/comments/20221025/1801663.md" target="_blank">【独家重磅】李燕铭：李克强公开反习？被剥夺露脸机会？央视新闻联播重大异常 中央军委国务院全国人大全国政协党组学习二十大 央视报导唯独李克强国务院没有现场画面 隐情揭秘 习近平连任与二十大常委争夺战（100） 习近平李克强明争暗斗内幕（五九）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221024/1801503.md" target="_blank">诡异！胡锦涛被架走前 发生这一幕 栗战书现场指挥</a></li>
 <li><a href="/comments/20221024/1801434.md" target="_blank">美媒：为什么我们应该绝对支持习主席无限坐庄？</a></li>
 <li><a href="/comments/20221024/1801425.md" target="_blank">中共高层大洗牌后，谁会对习近平说“不”？</a></li>
-<li><a href="/comments/20221024/1801346.md" target="_blank">【悲戚强文】10年吃屎、百毒不侵</a></li>
-<li><a href="/comments/20221024/1801338.md" target="_blank">【独家重磅】二十大政治局常委与政治局委员分工预测 老将石泰峰黑马入局出任中南海要职 国安部长陈文清黑马入局分工或破常规 中办主任与上海书记重中之重谁将接任？习近平连任与二十大常委争夺战（九九） 二十大高层人事大战（六三）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 <li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
 
 </ul>
 </div>
