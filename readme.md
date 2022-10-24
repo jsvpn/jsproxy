@@ -20,10 +20,10 @@
 <li><a href="/ssgc/20221024/1801252.md">〖兲朝浮世绘〗胡锦涛被架出二十大会场 习近平的傲慢举世无双</a></li>
 <li><a href="/cbnews/20221024/1801299.md">天亮时分：习家军一统天下，但物极必反；蔡奇成为最大黑马的启示；胡锦涛被强行架出会场，与邓小平时代的终结 （政论天下第829集 20221023）</a></li>
 <li><a href="/baitai/20221023/1801150.md">反习近平连任？上海女勇士大街上打横幅声援彭载舟</a></li>
-<li><a href="/topimagenews/20221024/1801285.md">羞辱+威慑：习近平架走胡锦涛这招，金三用过</a></li>
 <li><a href="/cnnews/20221024/1801402.md">上海：一家人感染艾滋，丈夫知真相后捅妻十几刀</a></li>
-<li><a href="/cnnews/20221024/1801259.md">中共二十大结局揭晓，微博热搜词竟是“完蛋”</a></li>
+<li><a href="/topimagenews/20221024/1801285.md">羞辱+威慑：习近平架走胡锦涛这招，金三用过</a></li>
 <li><a href="/topimagenews/20221024/1801432.md">就怕万一…中共20大最大国安危机</a></li>
+<li><a href="/cnnews/20221024/1801259.md">中共二十大结局揭晓，微博热搜词竟是“完蛋”</a></li>
 <li><a href="/cbnews/20221023/1801163.md">“北大神童”李书磊入局 将任中宣部长</a></li>
 <li><a href="/baitai/20221023/1801175.md">惊爆二十大常委名单一周前已经出炉「此画面让人毛骨悚然」</a></li>
 <li><a href="/sohnews/20221024/1801258.md">二十大上一个非常意外的现象就是习近平“清洗”了“团派”，其实从十八大大以来，团派一直和习近平“合作”的比较顺利，那么为啥习近平这次要突然清洗团派呢？【李军访谈 20221023第80期】</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221024/1801586.md" target="_blank">新常委名单发布次日 港股暴跌</a></li>
 <li><a href="/comments/20221024/1801553.md" target="_blank">赶紧调整！你的身体，竟可以改变这些！别错过细节！所有的巧合，都是安排好的？谁安排的？灵性思维和科学世界，其实是通的！《给凡妮莎的信》之二。</a></li>
 <li><a href="/cbnews/20221024/1801536.md" target="_blank">20大胡锦涛被架走！习近平18大新当总书记…</a></li>
 <li><a href="/cbnews/20221024/1801535.md" target="_blank">新调查：中共若武力犯台 多国民意愿支援台湾</a></li>
@@ -59,13 +60,15 @@
 <li><a href="/cbnews/20221023/1801020.md" target="_blank">清理“低端人口”引民怨 蔡奇入常令外界意外</a></li>
 <li><a href="/cbnews/20221023/1801019.md" target="_blank">“大内总管”丁薛祥入常 辅佐习10多年</a></li>
 <li><a href="/cbnews/20221023/1801014.md" target="_blank">中共二十大政治局常委出炉 专家解读</a></li>
-<li><a href="/cbnews/20221023/1801012.md" target="_blank">习近平将更加专制、独权 胡锦涛遭架离中共20大会场</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221024/1801576.md" target="_blank">多金学霸！新任英相苏纳克“超狂背景曝光” 英国首位印度裔首相</a></li>
+<li><a href="/topimagenews/20221024/1801575.md" target="_blank">胡锦涛画面全毁了！2008北京奥运遭剪掉 任内重大政绩全消失</a></li>
+<li><a href="/topimagenews/20221024/1801574.md" target="_blank">南北朝鲜互开火示警！船舰越界爆冲突 北朝鲜连射10炮弹</a></li>
 <li><a href="/topimagenews/20221024/1801547.md" target="_blank">一盆冷水透心凉 习近平20大报告中的经济政策；中国猪肉一级预警，意味着什么？</a></li>
 <li><a href="/topimagenews/20221024/1801432.md" target="_blank">就怕万一…中共20大最大国安危机</a></li>
 <li><a href="/topimagenews/20221024/1801424.md" target="_blank">普丁已准备好牺牲2000万士兵 俄军战败即他的末日</a></li>
@@ -88,15 +91,14 @@
 <li><a href="/topimagenews/20221023/1801018.md" target="_blank">刘昆、郭树清、易纲没入中委 财金系统大换班</a></li>
 <li><a href="/topimagenews/20221023/1801004.md" target="_blank">惊人！前太子胡春华落选24人政治局委员会</a></li>
 <li><a href="/topimagenews/20221023/1801003.md" target="_blank">竟是习大秘随扈！起底架走胡锦涛的工作人员身份 【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221023/1801002.md" target="_blank">快讯！新一届中共常委亮相 李强第二 胡春华落选</a></li>
-<li><a href="/topimagenews/20221023/1801000.md" target="_blank">中共二十大 新一届七人政治局常委亮相</a></li>
-<li><a href="/topimagenews/20221023/1800979.md" target="_blank">新两委人事“诞生记” 官媒：习2年前就开始统筹</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221024/1801582.md" target="_blank">【杜耀明评论】「中华民族伟大复兴」必定是人类的奇迹？</a></li>
+<li><a href="/comments/20221024/1801579.md" target="_blank">胡锦涛被逐真相曝！港作家4张图解析：习家军“中国梦”再无制衡力量</a></li>
 <li><a href="/comments/20221024/1801563.md" target="_blank">美学者：习近平未来5年攻台机率极高 恐成现代史最惨烈战争</a></li>
 <li><a href="/comments/20221024/1801562.md" target="_blank">才和朝鲜爆冲突 韩国与美展开海上军演</a></li>
 <li><a href="/comments/20221024/1801561.md" target="_blank">二十大政治局委员变24人 近20年首无女性入局</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221024/1801263.md" target="_blank">【中共二十大】强力封杀也难挡 反习抗议遍地开花</a></li>
 <li><a href="/comments/20221024/1801262.md" target="_blank">背后利益庞杂！北约官员：马斯克恐与中共绕台军演难脱干系</a></li>
 <li><a href="/comments/20221024/1801261.md" target="_blank">跟对主子 “搞封城”李强可望接总理</a></li>
-<li><a href="/comments/20221024/1801232.md" target="_blank">时事大家谈：“习家军”高歌猛进，“团派”黯然离场，中共内斗之果对中国意味着什么？</a></li>
-<li><a href="/comments/20221024/1801226.md" target="_blank">【独家重磅】李燕铭：中纪委第一副书记刘金国未进政治局 中纪委书记李希权力加强或兼任国家监委主任 习近平十九大钳制架空中纪委书记赵乐际权力内幕曝光 习近平连任与二十大常委争夺战（九八） 二十大高层人事大战（六二）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
 <li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
 
 </ul>
 </div>
