@@ -12,8 +12,8 @@
 <li><a href="/sohnews/20221024/1801464.md">💥架走胡锦涛的“孔绍逊”是中办纪委书记！胡锦涛还有新画面；陈全国落榜，习军队布局牵连台海；王毅秦刚或将高升，新七常委职务会如何定位？（更正：06:33 是西语ABC 不是美国）｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20221024/1801415.md">带走胡锦涛的人是他的亲孙子？名侦探奶爸手把手教你鉴别孙子</a></li>
 <li><a href="/topimagenews/20221024/1801591.md">胡锦涛20大被架走！习近平18大“卑躬屈膝” 对照令人毛骨悚然</a></li>
-<li><a href="/comments/20221024/1801503.md">诡异！胡锦涛被架走前 发生这一幕 栗战书现场指挥</a></li>
 <li><a href="/topimagenews/20221025/1801729.md">胡锦涛被离场 原来如此【阿波罗网报道】</a></li>
+<li><a href="/comments/20221024/1801503.md">诡异！胡锦涛被架走前 发生这一幕 栗战书现场指挥</a></li>
 <li><a href="/topimagenews/20221024/1801432.md">就怕万一…中共20大最大国安危机</a></li>
 <li><a href="/cbnews/20221024/1801455.md">政治局新常委出炉 专家盘点“习家党”9大特点 中国寒冬即将到来</a></li>
 <li><a href="/sohnews/20221024/1801651.md">胡锦涛在会场被激怒，更多真相来了！！！</a></li>
@@ -22,10 +22,10 @@
 <li><a href="/cnnews/20221024/1801402.md">上海：一家人感染艾滋，丈夫知真相后捅妻十几刀</a></li>
 <li><a href="/cbnews/20221024/1801536.md">20大胡锦涛被架走！习近平18大新当总书记…</a></li>
 <li><a href="/topimagenews/20221024/1801547.md">一盆冷水透心凉 习近平20大报告中的经济政策；中国猪肉一级预警，意味着什么？</a></li>
+<li><a href="/cbnews/20221025/1801803.md">吃干抹净！胡春华祝习连任辛酸画面流出</a></li>
 <li><a href="/cbnews/20221024/1801592.md">传胡锦涛、江泽民百度“被消失”！全网热议 经证实纯属虚构</a></li>
 <li><a href="/headline/20221024/1801646.md">李克强最快表态 维护习核心 栗战书汪洋紧随</a></li>
 <li><a href="/sohnews/20221024/1801453.md">天谴！中国大局已定港股夺路狂奔，恒生指数恰好跌回香港回归前，一天狂泻近7%！</a></li>
-<li><a href="/cbnews/20221025/1801803.md">吃干抹净！胡春华祝习连任辛酸画面流出</a></li>
 <li><a href="/cnnews/20221024/1801417.md">习近平，并非一个历史的偶然失误</a></li>
 <li><a href="/cnnews/20221024/1801375.md">急了！上海前首富甩卖160亿资产，谁接盘了？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221025/1801891.md" target="_blank">习近平率二十大常委现身後中共大清洗，胡春华成被清洗第一人？胡海峰会安全吗？胡锡进紧张啥？</a></li>
 <li><a href="/comments/20221025/1801852.md" target="_blank">惠虎宇：二十大后的新时代 只剩了枪口和刺刀</a></li>
 <li><a href="/comments/20221025/1801851.md" target="_blank">李木通：习帝登基成事实美中进入准战争状态</a></li>
 <li><a href="/comments/20221025/1801843.md" target="_blank">李福钟：习近平打算带中国往哪里去？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221024/1801596.md" target="_blank">中共20大“英国记者”见这幕吓傻：像临时演员！惊曝倒退30年</a></li>
 <li><a href="/comments/20221024/1801595.md" target="_blank">习近平3连任！专家忧：台海冲突恐爆近代最惨烈战争、每天死伤数千</a></li>
 <li><a href="/comments/20221024/1801594.md" target="_blank">习近平近乎称帝 华尔街日报曝他“大胆下一步”：恐将夺取台湾</a></li>
-<li><a href="/comments/20221024/1801587.md" target="_blank">习皇“登基”港股暴跌 财经专家疾呼“真的快逃”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
