@@ -6,16 +6,13 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20221025/1801803.md">吃干抹净！胡春华祝习连任辛酸画面流出</a></li>
-<li><a href="/sohnews/20221025/1801747.md">“罪名已定！出现2份-阴阳政治局名单 胡春华-引爆点”ShitaoTV - 03 (24/10/22)胡锦涛官方资讯早大规模删除</a></li>
 <li><a href="/topimagenews/20221025/1801881.md">习近平将掌控中国到这时？ 提拔习明泽为联络美国的台面下渠道【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221025/1801833.md">新加坡亚洲新闻台拍到的更多胡锦涛，栗战书，习近平和王沪宁的交互画面</a></li>
 <li><a href="/comments/20221025/1801777.md">视频：胡锦涛被强行带走前视频曝光</a></li>
-<li><a href="/comments/20221025/1801749.md">文昭：胡锦涛被强制带离必有後震；第20届中央政治局名单埋巨雷，随时引爆！「二胡」大凶</a></li>
 <li><a href="/baitai/20221025/1802050.md">胡锦涛再传新消息 习近平全胜曝光中共秘密</a></li>
 <li><a href="/cbnews/20221025/1801931.md">江峰：二十大权斗惨烈：关键在这份名单！胡待外国记者入场发难实则未遂政变；同赵紫阳待遇，中央《求是》杂志胡锦涛文档全销，胡春华政治局除名，对团派清算已经开始！【江峰漫谈20221024第567期】</a></li>
 <li><a href="/sohnews/20221025/1801814.md">胡锦涛事件杀伤力巨大！二十大习近平遭遇三大意外！ （一平论政2022/10/24)</a></li>
 <li><a href="/baitai/20221025/1802090.md">出啥事了？河南突发多次巨响 传三架军机空中混战 一架被击落</a></li>
-<li><a href="/sohnews/20221025/1801751.md">疑似栗战书得到秘密指令：别让胡锦涛看到文件！猜测：王沪宁授意，习栗演双簧羞辱胡锦涛？一片哀鸿下，默默抗争层出不穷！完蛋了被禁，二十大后新增敏感词！【新闻最嘲点 姜光宇】2022.1024</a></li>
 <li><a href="/topimagenews/20221025/1802011.md">准80后村支书跻身中央候补委员 原来是习近平精准扶贫村</a></li>
 <li><a href="/sohnews/20221025/1802045.md">陈破空：惊传胡锦涛遭软禁！张家口冬奥宾馆。一个团的兵力把守。其子胡海峰，相关消息混乱：有说遭扣押，有说返回浙江？上海惊现大规模封关，闭关锁国开始。直播与互动。美东10月25日早9点、即中港台10月25日晚9点</a></li>
 <li><a href="/cbnews/20221025/1801840.md">天亮时分：胡被架离会场前的惊人视频流出，难道是为了胡春华？异常！政治局委员少一人，胡春华的三个去向；说说网暴（政论天下第830集 20221024）</a></li>
@@ -28,6 +25,9 @@
 <li><a href="/headline/20221025/1801975.md">胡锦涛遭架离 谁才是幕后策划？</a></li>
 <li><a href="/baitai/20221025/1801912.md">是最后一届？这届七常委合影现诡异现象，这三人组合将加速毁灭中国</a></li>
 <li><a href="/ssgc/20221025/1801766.md">〖兲朝浮世绘〗胡锦涛被清零为啥呢？</a></li>
+<li><a href="/comments/20221025/1802037.md">胡春华落选后对着习拍掌欢笑 分析：或退居二线</a></li>
+<li><a href="/sohnews/20221025/1801771.md">陈破空：重磅音影：栗战书现场掉包。王沪宁连喊不要翻开！习近平当场喊来特工架走胡锦涛。三人合谋作案，录像为证。港股暴跌！中概股雪崩。直播与互动。美东10月24日晚8点30、即中港台10月25日早8点30</a></li>
+<li><a href="/cnnews/20221025/1802015.md">抖音失宠？年轻人最爱App是它</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 
 </ul>
 </div>
