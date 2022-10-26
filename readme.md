@@ -7,26 +7,26 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221025/1801881.md">习近平将掌控中国到这时？ 提拔习明泽为联络美国的台面下渠道【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221025/1801833.md">新加坡亚洲新闻台拍到的更多胡锦涛，栗战书，习近平和王沪宁的交互画面</a></li>
-<li><a href="/baitai/20221025/1802090.md">出啥事了？河南突发多次巨响 传三架军机空中混战 一架被击落</a></li>
 <li><a href="/baitai/20221025/1802050.md">胡锦涛再传新消息 习近平全胜曝光中共秘密</a></li>
+<li><a href="/baitai/20221025/1802090.md">出啥事了？河南突发多次巨响 传三架军机空中混战 一架被击落</a></li>
 <li><a href="/cbnews/20221025/1801931.md">江峰：二十大权斗惨烈：关键在这份名单！胡待外国记者入场发难实则未遂政变；同赵紫阳待遇，中央《求是》杂志胡锦涛文档全销，胡春华政治局除名，对团派清算已经开始！【江峰漫谈20221024第567期】</a></li>
 <li><a href="/topimagenews/20221025/1802011.md">准80后村支书跻身中央候补委员 原来是习近平精准扶贫村</a></li>
 <li><a href="/sohnews/20221025/1802045.md">陈破空：惊传胡锦涛遭软禁！张家口冬奥宾馆。一个团的兵力把守。其子胡海峰，相关消息混乱：有说遭扣押，有说返回浙江？上海惊现大规模封关，闭关锁国开始。直播与互动。美东10月25日早9点、即中港台10月25日晚9点</a></li>
-<li><a href="/cbnews/20221025/1801840.md">天亮时分：胡被架离会场前的惊人视频流出，难道是为了胡春华？异常！政治局委员少一人，胡春华的三个去向；说说网暴（政论天下第830集 20221024）</a></li>
 <li><a href="/worldnews/20221025/1801936.md">胡锦涛被“请”离场三分钟完整视频流出</a></li>
 <li><a href="/topimagenews/20221025/1802044.md">习近平将如何“规范财富”? 二十大闭幕，市场派出局，寒冬降临；</a></li>
 <li><a href="/headline/20221025/1802001.md">20大非习派灭团派 官媒夜称高风亮节主动提退</a></li>
 <li><a href="/topimagenews/20221025/1802106.md">二十大闭幕当天，一重要信号出现！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221025/1801880.md">【微博精粹】习近平新班子 需要符合“六皮”精神</a></li>
 <li><a href="/cnnews/20221025/1801978.md">习近平独裁带衰中国富豪 财产一天蒸发90亿美元</a></li>
+<li><a href="/comments/20221026/1802179.md">专访余茂春：胡锦涛事件凸显中共内部斗争残酷；习连任与否美国对华政策都有一大转变；蓬佩奥系列视频直指中共根本问题 ｜ 10/25/2022</a></li>
 <li><a href="/headline/20221025/1801975.md">胡锦涛遭架离 谁才是幕后策划？</a></li>
 <li><a href="/baitai/20221025/1801912.md">是最后一届？这届七常委合影现诡异现象，这三人组合将加速毁灭中国</a></li>
-<li><a href="/comments/20221026/1802179.md">专访余茂春：胡锦涛事件凸显中共内部斗争残酷；习连任与否美国对华政策都有一大转变；蓬佩奥系列视频直指中共根本问题 ｜ 10/25/2022</a></li>
 <li><a href="/comments/20221025/1802037.md">胡春华落选后对着习拍掌欢笑 分析：或退居二线</a></li>
 <li><a href="/headline/20221025/1802116.md">台媒称20大闭幕式上胡锦涛可能急了：“怎么跟我事先讲的不一样? ！”</a></li>
 <li><a href="/cnnews/20221025/1802015.md">抖音失宠？年轻人最爱App是它</a></li>
 <li><a href="/topimagenews/20221026/1802143.md">中共新常委蔡奇“访台网志”火速被下架 学者：不能传达错误消息</a></li>
 <li><a href="/ccpdope/20221026/1802135.md">惊人细节流出！栗战书现场调包 王沪宁连喊不要翻开</a></li>
+<li><a href="/topimagenews/20221026/1802182.md">他曝：习把自己当皇帝 下次看到胡锦涛恐是葬礼</a></li>
 <li><a href="/cbnews/20221026/1802144.md">中国何时终结动态清零政策？要关注这3个信号</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221026/1802305.md" target="_blank">李燕铭：中共二十大前夕朝鲜挑衅韩国6天共发射910发炮弹 韩美陆军火线联合举行渡河军演 美智库研判朝鲜年内或试射新型潜射弹道导弹 韩联参内部报告朝鲜5年后将拥有200枚核武器 韩军将打造加强版远程炮拦截系统反制朝军射弹 韩空军将推进高超音速空地导弹项目 韩海军拟缩编舰队新设无人战斗力司令部 全球军事围堵中共之朝鲜半岛战争阴云（三十）</a></li>
+<li><a href="/comments/20221026/1802301.md" target="_blank">立此存照：2022年10月24日各大主流报纸头版汇总</a></li>
+<li><a href="/comments/20221026/1802300.md" target="_blank">康正果：胡锦涛被带离会场值不值得同情 不要传播猜想</a></li>
+<li><a href="/comments/20221026/1802299.md" target="_blank">习近平赢麻了，那么是谁输了？</a></li>
 <li><a href="/comments/20221026/1802242.md" target="_blank">嬿婷：80后影迷谈电影《长春》观后感</a></li>
 <li><a href="/comments/20221026/1802241.md" target="_blank">千百度：二十大新一届中共常委的“梦幻组合”</a></li>
 <li><a href="/comments/20221026/1802240.md" target="_blank">王赫：中共新常委名单与习近平的用意</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20221025/1802029.md" target="_blank">杨威：白宫先下手 美国政府早知二十大内幕？</a></li>
 <li><a href="/comments/20221025/1802028.md" target="_blank">赵培：网络公知“习下李上”民主运动始末</a></li>
 <li><a href="/comments/20221025/1802006.md" target="_blank">袁红冰：《意境性存在——属於心灵的真实》文学卷   第七篇 爱是心灵唯美的祈盼和献祭——追寻生命神圣感和忠实於心灵的生活方式</a></li>
-<li><a href="/comments/20221025/1801891.md" target="_blank">习近平率二十大常委现身後中共大清洗，胡春华成被清洗第一人？胡海峰会安全吗？胡锡进紧张啥？</a></li>
-<li><a href="/comments/20221025/1801852.md" target="_blank">惠虎宇：二十大后的新时代 只剩了枪口和刺刀</a></li>
-<li><a href="/comments/20221025/1801851.md" target="_blank">李木通：习帝登基成事实美中进入准战争状态</a></li>
-<li><a href="/comments/20221025/1801843.md" target="_blank">李福钟：习近平打算带中国往哪里去？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
 
 </ul>
 </div>
