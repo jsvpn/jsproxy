@@ -8,26 +8,26 @@
 <li><a href="/sohnews/20221026/1802289.md">只有唇语能解胡锦涛之谜，习近平本来有两次机会，给中国这朝起名字，战狼外交再造假，中国人已经在等待，二十大原来耗费这么多（小木谈天第295期 20221025）</a></li>
 <li><a href="/topimagenews/20221026/1802348.md">李强刚进常委，上海帮马上变脸【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221026/1802202.md">五颗新星冉冉升起 可能接替习近平</a></li>
-<li><a href="/comments/20221026/1802179.md">专访余茂春：胡锦涛事件凸显中共内部斗争残酷；习连任与否美国对华政策都有一大转变；蓬佩奥系列视频直指中共根本问题 ｜ 10/25/2022</a></li>
 <li><a href="/sohnews/20221026/1802314.md">担心胡锦涛事件传染，习近平给委员敲槌；李汪出局有原因，官媒泄不拥护习？启动火灾逃生计画，富豪加速逃离；曝光3桩谍案，美起诉13华人【新闻看点 李沐阳10.25】</a></li>
+<li><a href="/comments/20221026/1802179.md">专访余茂春：胡锦涛事件凸显中共内部斗争残酷；习连任与否美国对华政策都有一大转变；蓬佩奥系列视频直指中共根本问题 ｜ 10/25/2022</a></li>
 <li><a href="/sohnews/20221026/1802350.md">“习近平够狠！胡锦涛之子胡海峰 已痛失官位！”ShitaoTV - 08 (25/10/22) 浙江丽水市委书记 官位被删除-只剩市长</a></li>
 <li><a href="/topimagenews/20221026/1802182.md">他曝：习把自己当皇帝 下次看到胡锦涛恐是葬礼</a></li>
 <li><a href="/baitai/20221026/1802196.md">习罕见举动传危险信号 真正斗争将会出现</a></li>
 <li><a href="/baitai/20221026/1802233.md">胡春华祝习连任辛酸画面流出 他悬了？</a></li>
-<li><a href="/ccpdope/20221026/1802427.md">江峰评论胡锦涛被驱离现场的一个亮点</a></li>
 <li><a href="/sohnews/20221026/1802484.md">陈破空：多省巨响！惊传战机开火内战，或因胡锦涛事件？各地封城加剧。党媒重提上山下乡，城市青年或遭再次下放。直播与互动。美东10月26日早9点、即中港台10月26日晚9点</a></li>
+<li><a href="/ccpdope/20221026/1802427.md">江峰评论胡锦涛被驱离现场的一个亮点</a></li>
 <li><a href="/sohnews/20221026/1802219.md">【直播】老胡祸延小胡？胡海峰简历下架之谜；“废太子”推倒多米诺，胡春华势危的两个理由；股市暴跌“送礼”，“泰坦尼克时刻”到来！</a></li>
 <li><a href="/topimagenews/20221026/1802220.md">香港黑帮大佬，大战美国巨头</a></li>
 <li><a href="/comments/20221026/1802370.md">中共二十大后数月的人事尴尬</a></li>
 <li><a href="/cbnews/20221026/1802333.md">习近平落入“毛泽东陷阱” 中国人民将付出更惨重代价？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221026/1802313.md">曝习近平37年统一台湾大计：先分化 直攻首都</a></li>
-<li><a href="/ssgc/20221026/1802235.md">〖兲朝浮世绘〗全国人民等着 他会给你们一个惊喜的</a></li>
+<li><a href="/headline/20221026/1802473.md">【习胡互动】求是网抹去胡锦涛搜寻纪录 评论：对老胡不是好事</a></li>
 <li><a href="/baitai/20221026/1802387.md">河南再出事？开封两次巨响 空中战斗机呼啸</a></li>
 <li><a href="/finance/20221026/1802448.md">传富士康郑州园区2万人确诊、主管冷血 鸿海驳斥：只有少数不影响营运</a></li>
-<li><a href="/headline/20221026/1802473.md">【习胡互动】求是网抹去胡锦涛搜寻纪录 评论：对老胡不是好事</a></li>
-<li><a href="/baitai/20221026/1802388.md">港媒曝中共统战部长 中央人事再破两大先例</a></li>
+<li><a href="/ssgc/20221026/1802235.md">〖兲朝浮世绘〗全国人民等着 他会给你们一个惊喜的</a></li>
 <li><a href="/cbnews/20221026/1802377.md">江峰：为什麽二十大 新常委 比毛时代危害更大？对台战争危险剧增，解读新中央军委的台海 帮，台湾取胜三表达两关键；美军：准备今晚就开战【江峰漫谈20221025第568期】</a></li>
 <li><a href="/cnnews/20221026/1802193.md">iOS 16.1 正式版发布，史诗级更新来了</a></li>
+<li><a href="/baitai/20221026/1802388.md">港媒曝中共统战部长 中央人事再破两大先例</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 
 </ul>
 </div>
