@@ -14,11 +14,9 @@
 <li><a href="/sohnews/20221026/1802350.md">“习近平够狠！胡锦涛之子胡海峰 已痛失官位！”ShitaoTV - 08 (25/10/22) 浙江丽水市委书记 官位被删除-只剩市长</a></li>
 <li><a href="/baitai/20221026/1802196.md">习罕见举动传危险信号 真正斗争将会出现</a></li>
 <li><a href="/baitai/20221026/1802233.md">胡春华祝习连任辛酸画面流出 他悬了？</a></li>
-<li><a href="/cbnews/20221026/1802144.md">中国何时终结动态清零政策？要关注这3个信号</a></li>
 <li><a href="/ccpdope/20221026/1802427.md">江峰评论胡锦涛被驱离现场的一个亮点</a></li>
-<li><a href="/sohnews/20221026/1802219.md">【直播】老胡祸延小胡？胡海峰简历下架之谜；“废太子”推倒多米诺，胡春华势危的两个理由；股市暴跌“送礼”，“泰坦尼克时刻”到来！</a></li>
-<li><a href="/topimagenews/20221026/1802143.md">中共新常委蔡奇“访台网志”火速被下架 学者：不能传达错误消息</a></li>
 <li><a href="/sohnews/20221026/1802484.md">陈破空：多省巨响！惊传战机开火内战，或因胡锦涛事件？各地封城加剧。党媒重提上山下乡，城市青年或遭再次下放。直播与互动。美东10月26日早9点、即中港台10月26日晚9点</a></li>
+<li><a href="/sohnews/20221026/1802219.md">【直播】老胡祸延小胡？胡海峰简历下架之谜；“废太子”推倒多米诺，胡春华势危的两个理由；股市暴跌“送礼”，“泰坦尼克时刻”到来！</a></li>
 <li><a href="/topimagenews/20221026/1802220.md">香港黑帮大佬，大战美国巨头</a></li>
 <li><a href="/comments/20221026/1802370.md">中共二十大后数月的人事尴尬</a></li>
 <li><a href="/cbnews/20221026/1802333.md">习近平落入“毛泽东陷阱” 中国人民将付出更惨重代价？【阿波罗网报道】</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/baitai/20221026/1802387.md">河南再出事？开封两次巨响 空中战斗机呼啸</a></li>
 <li><a href="/cnnews/20221026/1802193.md">iOS 16.1 正式版发布，史诗级更新来了</a></li>
 <li><a href="/finance/20221026/1802448.md">传富士康郑州园区2万人确诊、主管冷血 鸿海驳斥：只有少数不影响营运</a></li>
+<li><a href="/cbnews/20221026/1802377.md">江峰：为什麽二十大 新常委 比毛时代危害更大？对台战争危险剧增，解读新中央军委的台海 帮，台湾取胜三表达两关键；美军：准备今晚就开战【江峰漫谈20221025第568期】</a></li>
 <li><a href="/baitai/20221026/1802388.md">港媒曝中共统战部长 中央人事再破两大先例</a></li>
+<li><a href="/ssgc/20221026/1802285.md">〖微博谈〗人心可以麻木，资本必须跑路</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221027/1802598.md" target="_blank">不只爱尔兰、西班牙 荷兰也要查中国“挂羊头卖狗肉”海外警察局</a></li>
+<li><a href="/cbnews/20221027/1802597.md" target="_blank">深圳女子理发店剪刘海，照镜子之后报警了…</a></li>
+<li><a href="/cbnews/20221027/1802596.md" target="_blank">东莞女子为感谢月嫂豪送三室一厅新房，网友炸锅</a></li>
 <li><a href="/cbnews/20221027/1802581.md" target="_blank">翻文档起争执？胡锦涛20大提早离场“较早画面”曝光</a></li>
 <li><a href="/cbnews/20221027/1802580.md" target="_blank">江峰：公民vs政客之战【中期选举-峰伟谈】</a></li>
 <li><a href="/cbnews/20221026/1802571.md" target="_blank">大陆称安排每周676航班飞两岸 陆委会：未经两岸协商</a></li>
@@ -57,15 +60,13 @@
 <li><a href="/comments/20221025/1801777.md" target="_blank">视频：胡锦涛被强行带走前视频曝光</a></li>
 <li><a href="/cbnews/20221025/1801701.md" target="_blank">34年闺蜜竟是双胞胎姊妹 悲惨身世曝光</a></li>
 <li><a href="/cbnews/20221025/1801700.md" target="_blank">广州一中学少女遭男同学集体性霸凌 网友超激愤</a></li>
-<li><a href="/cbnews/20221024/1801609.md" target="_blank">英国保守党选出新党魁 苏纳克将出任首相</a></li>
-<li><a href="/cbnews/20221024/1801592.md" target="_blank">传胡锦涛、江泽民百度“被消失”！全网热议 经证实纯属虚构</a></li>
-<li><a href="/cbnews/20221024/1801586.md" target="_blank">新常委名单发布次日 港股暴跌</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221027/1802595.md" target="_blank">国家队托汇人民币劲弹 传富豪照卖产套现走资</a></li>
 <li><a href="/topimagenews/20221026/1802570.md" target="_blank">中共二十大领导层人事 党内元老已不再获咨询</a></li>
 <li><a href="/topimagenews/20221026/1802536.md" target="_blank">拜登恐遭弹劾！认了国会可能让给共和党 白宫派他迎战“秋后算账”</a></li>
 <li><a href="/topimagenews/20221026/1802535.md" target="_blank">清零悲歌！中国男17楼垂降“绳断”坠楼亡 只为逃封控买物资</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221025/1801908.md" target="_blank">美国轰炸大陆芯片不手软 他曝“无法避免”…</a></li>
 <li><a href="/topimagenews/20221025/1801881.md" target="_blank">习近平将掌控中国到这时？ 提拔习明泽为联络美国的台面下渠道【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221025/1801880.md" target="_blank">【微博精粹】习近平新班子 需要符合“六皮”精神</a></li>
-<li><a href="/comments/20221025/1801777.md" target="_blank">视频：胡锦涛被强行带走前视频曝光</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 
 </ul>
 </div>
