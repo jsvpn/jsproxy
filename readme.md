@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221026/1802348.md">李强刚进常委，上海帮马上变脸【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221026/1802289.md">只有唇语能解胡锦涛之谜，习近平本来有两次机会，给中国这朝起名字，战狼外交再造假，中国人已经在等待，二十大原来耗费这么多（小木谈天第295期 20221025）</a></li>
-<li><a href="/headline/20221025/1802116.md">台媒称20大闭幕式上胡锦涛可能急了：“怎么跟我事先讲的不一样? ！”</a></li>
 <li><a href="/ssgc/20221026/1802202.md">五颗新星冉冉升起 可能接替习近平</a></li>
 <li><a href="/comments/20221026/1802179.md">专访余茂春：胡锦涛事件凸显中共内部斗争残酷；习连任与否美国对华政策都有一大转变；蓬佩奥系列视频直指中共根本问题 ｜ 10/25/2022</a></li>
 <li><a href="/sohnews/20221026/1802314.md">担心胡锦涛事件传染，习近平给委员敲槌；李汪出局有原因，官媒泄不拥护习？启动火灾逃生计画，富豪加速逃离；曝光3桩谍案，美起诉13华人【新闻看点 李沐阳10.25】</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/baitai/20221026/1802196.md">习罕见举动传危险信号 真正斗争将会出现</a></li>
 <li><a href="/baitai/20221026/1802233.md">胡春华祝习连任辛酸画面流出 他悬了？</a></li>
 <li><a href="/cbnews/20221026/1802144.md">中国何时终结动态清零政策？要关注这3个信号</a></li>
-<li><a href="/topimagenews/20221026/1802143.md">中共新常委蔡奇“访台网志”火速被下架 学者：不能传达错误消息</a></li>
-<li><a href="/sohnews/20221026/1802219.md">【直播】老胡祸延小胡？胡海峰简历下架之谜；“废太子”推倒多米诺，胡春华势危的两个理由；股市暴跌“送礼”，“泰坦尼克时刻”到来！</a></li>
-<li><a href="/comments/20221026/1802137.md">胡锦涛下次看到恐是“葬礼！”他爆内幕：习近平把自己当皇帝</a></li>
-<li><a href="/topimagenews/20221026/1802220.md">香港黑帮大佬，大战美国巨头</a></li>
 <li><a href="/ccpdope/20221026/1802427.md">江峰评论胡锦涛被驱离现场的一个亮点</a></li>
+<li><a href="/sohnews/20221026/1802219.md">【直播】老胡祸延小胡？胡海峰简历下架之谜；“废太子”推倒多米诺，胡春华势危的两个理由；股市暴跌“送礼”，“泰坦尼克时刻”到来！</a></li>
+<li><a href="/topimagenews/20221026/1802143.md">中共新常委蔡奇“访台网志”火速被下架 学者：不能传达错误消息</a></li>
+<li><a href="/topimagenews/20221026/1802220.md">香港黑帮大佬，大战美国巨头</a></li>
+<li><a href="/comments/20221026/1802137.md">胡锦涛下次看到恐是“葬礼！”他爆内幕：习近平把自己当皇帝</a></li>
 <li><a href="/cbnews/20221026/1802333.md">习近平落入“毛泽东陷阱” 中国人民将付出更惨重代价？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221026/1802313.md">曝习近平37年统一台湾大计：先分化 直攻首都</a></li>
 <li><a href="/comments/20221026/1802370.md">中共二十大后数月的人事尴尬</a></li>
+<li><a href="/topimagenews/20221026/1802313.md">曝习近平37年统一台湾大计：先分化 直攻首都</a></li>
 <li><a href="/ssgc/20221026/1802235.md">〖兲朝浮世绘〗全国人民等着 他会给你们一个惊喜的</a></li>
 <li><a href="/cnnews/20221026/1802193.md">iOS 16.1 正式版发布，史诗级更新来了</a></li>
 <li><a href="/baitai/20221026/1802387.md">河南再出事？开封两次巨响 空中战斗机呼啸</a></li>
+<li><a href="/sohnews/20221026/1802484.md">陈破空：多省巨响！惊传战机开火内战，或因胡锦涛事件？各地封城加剧。党媒重提上山下乡，城市青年或遭再次下放。直播与互动。美东10月26日早9点、即中港台10月26日晚9点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221026/1802565.md" target="_blank">江峰：什麽是好的国家体制？不让我们的政治变成暴民政治，或是少数人奴役人民的机器。人民的二次权力，第一次把他选进去，第二次把他拉下来【缔造美国第二集20221026】</a></li>
 <li><a href="/cbnews/20221026/1802377.md" target="_blank">江峰：为什麽二十大 新常委 比毛时代危害更大？对台战争危险剧增，解读新中央军委的台海 帮，台湾取胜三表达两关键；美军：准备今晚就开战【江峰漫谈20221025第568期】</a></li>
 <li><a href="/cbnews/20221026/1802368.md" target="_blank">导弹飞越台湾就是他搞的！连跳三级上位：台海战争风险增加</a></li>
 <li><a href="/cbnews/20221026/1802333.md" target="_blank">习近平落入“毛泽东陷阱” 中国人民将付出更惨重代价？【阿波罗网报道】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221024/1801553.md" target="_blank">赶紧调整！你的身体，竟可以改变这些！别错过细节！所有的巧合，都是安排好的？谁安排的？灵性思维和科学世界，其实是通的！《给凡妮莎的信》之二。</a></li>
 <li><a href="/cbnews/20221024/1801536.md" target="_blank">20大胡锦涛被架走！习近平18大新当总书记…</a></li>
 <li><a href="/cbnews/20221024/1801535.md" target="_blank">新调查：中共若武力犯台 多国民意愿支援台湾</a></li>
-<li><a href="/cbnews/20221024/1801456.md" target="_blank">印度退将看穿习近平“套路” 投书建议推动边界解决或“实控线”划定</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221026/1802560.md" target="_blank">时事大家谈：习近平“规范财富”是要“劫富济贫”吗？</a></li>
 <li><a href="/comments/20221026/1802547.md" target="_blank">时事大家谈：习近平“规范财富”是要“劫富济贫”吗？高喊“自立自强” 美中加速脱钩？&#160;</a></li>
 <li><a href="/comments/20221026/1802503.md" target="_blank">中共总领事称胡锦涛重回会场 西媒斥其造谣</a></li>
 <li><a href="/comments/20221026/1802496.md" target="_blank">【梁京评论】习近平的小朝廷能撑到几时？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221026/1802204.md" target="_blank">【袁红冰热点】内幕（首发）：胡锦涛被带离是习近平事先特意安排好的。据党内传出的信息：会议前，丁薛祥就传达了一个命令：在会议召开期间，无论出现什么情况，在习近平站立起来之前，任何人都不得站立起来……</a></li>
 <li><a href="/comments/20221026/1802197.md" target="_blank">大使馆撤侨，信党性命不保！ 【老北京茶馆10/25/2022】</a></li>
 <li><a href="/comments/20221026/1802179.md" target="_blank">专访余茂春：胡锦涛事件凸显中共内部斗争残酷；习连任与否美国对华政策都有一大转变；蓬佩奥系列视频直指中共根本问题 ｜ 10/25/2022</a></li>
-<li><a href="/comments/20221026/1802169.md" target="_blank">独裁者政变：习近平亲启了中共“自毁程式”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
 <li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 
 </ul>
 </div>
