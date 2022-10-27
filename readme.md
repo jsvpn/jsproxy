@@ -12,22 +12,22 @@
 <li><a href="/ccpdope/20221026/1802427.md">江峰评论胡锦涛被驱离现场的一个亮点</a></li>
 <li><a href="/sohnews/20221026/1802484.md">陈破空：多省巨响！惊传战机开火内战，或因胡锦涛事件？各地封城加剧。党媒重提上山下乡，城市青年或遭再次下放。直播与互动。美东10月26日早9点、即中港台10月26日晚9点</a></li>
 <li><a href="/comments/20221026/1802370.md">中共二十大后数月的人事尴尬</a></li>
-<li><a href="/cbnews/20221026/1802333.md">习近平落入“毛泽东陷阱” 中国人民将付出更惨重代价？【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221027/1802587.md">“第三段视频爆光！胡锦涛在之前闭门会议上 挑战了习近平？”ShitaoTV - 07 (22/10/22) 网传：习近平贴身保镳 办了胡锦涛</a></li>
-<li><a href="/ssgc/20221026/1802235.md">〖兲朝浮世绘〗全国人民等着 他会给你们一个惊喜的</a></li>
+<li><a href="/cbnews/20221026/1802333.md">习近平落入“毛泽东陷阱” 中国人民将付出更惨重代价？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221026/1802313.md">曝习近平37年统一台湾大计：先分化 直攻首都</a></li>
-<li><a href="/headline/20221026/1802473.md">【习胡互动】求是网抹去胡锦涛搜寻纪录 评论：对老胡不是好事</a></li>
 <li><a href="/baitai/20221026/1802387.md">河南再出事？开封两次巨响 空中战斗机呼啸</a></li>
+<li><a href="/headline/20221026/1802473.md">【习胡互动】求是网抹去胡锦涛搜寻纪录 评论：对老胡不是好事</a></li>
 <li><a href="/finance/20221026/1802448.md">传富士康郑州园区2万人确诊、主管冷血 鸿海驳斥：只有少数不影响营运</a></li>
 <li><a href="/comments/20221026/1802487.md">五张照片泄露胡锦涛二十大被架走内幕</a></li>
+<li><a href="/baitai/20221026/1802498.md">中国疫情大爆发惊现新症状</a></li>
 <li><a href="/baitai/20221026/1802388.md">港媒曝中共统战部长 中央人事再破两大先例</a></li>
 <li><a href="/cbnews/20221026/1802377.md">江峰：为什麽二十大 新常委 比毛时代危害更大？对台战争危险剧增，解读新中央军委的台海 帮，台湾取胜三表达两关键；美军：准备今晚就开战【江峰漫谈20221025第568期】</a></li>
-<li><a href="/baitai/20221026/1802498.md">中国疫情大爆发惊现新症状</a></li>
+<li><a href="/cnnews/20221027/1802631.md">中共党章全文发布：未写入“两个确立”，但有…</a></li>
 <li><a href="/cbnews/20221027/1802581.md">翻文档起争执？胡锦涛20大提早离场“较早画面”曝光</a></li>
+<li><a href="/sohnews/20221027/1802604.md">“内幕消息：习近平最后一刻撕毁与胡锦涛的协议”ShitaoTV - 03 (25/10/22) 汪洋 胡春华被故意挤走 李克强干预失败</a></li>
 <li><a href="/ssgc/20221026/1802285.md">〖微博谈〗人心可以麻木，资本必须跑路</a></li>
 <li><a href="/yule/20221026/1802482.md">67岁陈道明久违现身,头发全白模样憔悴</a></li>
 <li><a href="/comments/20221026/1802503.md">中共总领事称胡锦涛重回会场 西媒斥其造谣</a></li>
-<li><a href="/headline/20221026/1802467.md">美国空军报告公开中共火箭军所有基地坐标 评论：「这样水平怎武统台湾？」</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221027/1802704.md" target="_blank">武德山：为什么要倾听法轮功真相？</a></li>
+<li><a href="/comments/20221027/1802703.md" target="_blank">陆客：路与选择——中国人的出路不在二十大</a></li>
+<li><a href="/comments/20221027/1802702.md" target="_blank">郑存柱：致中国共青团全体团员的公开信</a></li>
+<li><a href="/comments/20221027/1802701.md" target="_blank">杨宁：二十大结果让人惊恐 股市暴跌资产急抛</a></li>
+<li><a href="/comments/20221027/1802700.md" target="_blank">网海拾贝:习近平羞辱胡锦涛与毛泽东羞辱刘少奇</a></li>
+<li><a href="/comments/20221027/1802699.md" target="_blank">王赫：“二十大”的诅咒</a></li>
 <li><a href="/comments/20221027/1802691.md" target="_blank">关键选战：2022美国中期选举系列特别节目（一）</a></li>
 <li><a href="/comments/20221027/1802689.md" target="_blank">文昭：胡锦涛被带走又出新证据分析；习近平的新政治局一人使命特殊，或带来逼近极限的加速</a></li>
 <li><a href="/comments/20221027/1802676.md" target="_blank">独排众议！德总理访中前批准中企入股汉堡港 朝野炮轰太天真</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20221026/1802318.md" target="_blank">真叫卢俊：很明显，银行现在也开始着急了</a></li>
 <li><a href="/comments/20221026/1802317.md" target="_blank">子非鱼：降价也卖不动！全国库存第一城，躺平了</a></li>
 <li><a href="/comments/20221026/1802305.md" target="_blank">李燕铭：中共二十大前夕朝鲜挑衅韩国6天共发射910发炮弹 韩美陆军火线联合举行渡河军演 美智库研判朝鲜年内或试射新型潜射弹道导弹 韩联参内部报告朝鲜5年后将拥有200枚核武器 韩军将打造加强版远程炮拦截系统反制朝军射弹 韩空军将推进高超音速空地导弹项目 韩海军拟缩编舰队新设无人战斗力司令部 全球军事围堵中共之朝鲜半岛战争阴云（三十）</a></li>
-<li><a href="/comments/20221026/1802301.md" target="_blank">立此存照：2022年10月24日各大主流报纸头版汇总</a></li>
-<li><a href="/comments/20221026/1802300.md" target="_blank">康正果：胡锦涛被带离会场值不值得同情 不要传播猜想</a></li>
-<li><a href="/comments/20221026/1802299.md" target="_blank">习近平赢麻了，那么是谁输了？</a></li>
-<li><a href="/comments/20221026/1802242.md" target="_blank">嬿婷：80后影迷谈电影《长春》观后感</a></li>
-<li><a href="/comments/20221026/1802241.md" target="_blank">千百度：二十大新一届中共常委的“梦幻组合”</a></li>
-<li><a href="/comments/20221026/1802240.md" target="_blank">王赫：中共新常委名单与习近平的用意</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 <li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
 <li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
 
 </ul>
 </div>
