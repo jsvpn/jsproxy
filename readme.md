@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20221026/1802484.md">陈破空：多省巨响！惊传战机开火内战，或因胡锦涛事件？各地封城加剧。党媒重提上山下乡，城市青年或遭再次下放。直播与互动。美东10月26日早9点、即中港台10月26日晚9点</a></li>
 <li><a href="/ccpdope/20221026/1802427.md">江峰评论胡锦涛被驱离现场的一个亮点</a></li>
-<li><a href="/cnnews/20221027/1802631.md">中共党章全文发布：未写入“两个确立”，但有…</a></li>
 <li><a href="/cnnews/20221027/1802690.md">大清洗？习首开政治局会议强调斗争 胡锦涛儿子表态【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221027/1802587.md">“第三段视频爆光！胡锦涛在之前闭门会议上 挑战了习近平？”ShitaoTV - 07 (22/10/22) 网传：习近平贴身保镳 办了胡锦涛</a></li>
+<li><a href="/cnnews/20221027/1802631.md">中共党章全文发布：未写入“两个确立”，但有…</a></li>
 <li><a href="/cbnews/20221027/1802645.md">担心胡锦涛事件蔓延？习近平急忙敲打高官</a></li>
 <li><a href="/baitai/20221026/1802387.md">河南再出事？开封两次巨响 空中战斗机呼啸</a></li>
 <li><a href="/comments/20221026/1802487.md">五张照片泄露胡锦涛二十大被架走内幕</a></li>
+<li><a href="/cbnews/20221027/1802741.md">天亮时分：“两个确立”未入党章，胡锦涛儿子露面，透露什么信号？王岐山秘书被抓；第一财经社论预示房价大跌和房地产税开征（政论天下第832集 20221026）</a></li>
 <li><a href="/sohnews/20221027/1802604.md">“内幕消息：习近平最后一刻撕毁与胡锦涛的协议”ShitaoTV - 03 (25/10/22) 汪洋 胡春华被故意挤走 李克强干预失败</a></li>
 <li><a href="/baitai/20221026/1802498.md">中国疫情大爆发惊现新症状</a></li>
-<li><a href="/cbnews/20221027/1802741.md">天亮时分：“两个确立”未入党章，胡锦涛儿子露面，透露什么信号？王岐山秘书被抓；第一财经社论预示房价大跌和房地产税开征（政论天下第832集 20221026）</a></li>
 <li><a href="/headline/20221026/1802473.md">【习胡互动】求是网抹去胡锦涛搜寻纪录 评论：对老胡不是好事</a></li>
-<li><a href="/finance/20221026/1802448.md">传富士康郑州园区2万人确诊、主管冷血 鸿海驳斥：只有少数不影响营运</a></li>
 <li><a href="/baitai/20221026/1802388.md">港媒曝中共统战部长 中央人事再破两大先例</a></li>
+<li><a href="/finance/20221026/1802448.md">传富士康郑州园区2万人确诊、主管冷血 鸿海驳斥：只有少数不影响营运</a></li>
 <li><a href="/topimagenews/20221027/1802628.md">川普惊曝：美国有普京、习近平都不知的强大武器</a></li>
 <li><a href="/cbnews/20221027/1802611.md">这两家航空公司突发通知：取消168个航班</a></li>
 <li><a href="/cbnews/20221027/1802581.md">翻文档起争执？胡锦涛20大提早离场“较早画面”曝光</a></li>
-<li><a href="/cbnews/20221026/1802377.md">江峰：为什麽二十大 新常委 比毛时代危害更大？对台战争危险剧增，解读新中央军委的台海 帮，台湾取胜三表达两关键；美军：准备今晚就开战【江峰漫谈20221025第568期】</a></li>
 <li><a href="/comments/20221027/1802689.md">文昭：胡锦涛被带走又出新证据分析；习近平的新政治局一人使命特殊，或带来逼近极限的加速</a></li>
 <li><a href="/comments/20221026/1802503.md">中共总领事称胡锦涛重回会场 西媒斥其造谣</a></li>
 <li><a href="/topimagenews/20221026/1802570.md">中共二十大领导层人事 党内元老已不再获咨询</a></li>
+<li><a href="/sohnews/20221027/1802693.md">他们最想删的画面：人大代表热泪盈眶，坚决拥护总书记独裁，希望总书记永远做下去！欧洲顶级律师透露：中共富豪家族秘密指令“快跑”！村长一步登天，当上中央委员！【新闻最嘲点 姜光宇】2022.1026</a></li>
 <li><a href="/yule/20221026/1802482.md">67岁陈道明久违现身,头发全白模样憔悴</a></li>
-<li><a href="/headline/20221026/1802467.md">美国空军报告公开中共火箭军所有基地坐标 评论：「这样水平怎武统台湾？」</a></li>
+<li><a href="/cbnews/20221027/1802597.md">深圳女子理发店剪刘海，照镜子之后报警了…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 <li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 
 </ul>
 </div>
