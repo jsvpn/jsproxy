@@ -16,18 +16,18 @@
 <li><a href="/comments/20221027/1802689.md">文昭：胡锦涛被带走又出新证据分析；习近平的新政治局一人使命特殊，或带来逼近极限的加速</a></li>
 <li><a href="/topimagenews/20221027/1802628.md">川普惊曝：美国有普京、习近平都不知的强大武器</a></li>
 <li><a href="/cnnews/20221027/1802854.md">我们老大刚被架走了！习近平召告天下“团派”灭 二十大派系赤裸裸公开狠斗</a></li>
-<li><a href="/cbnews/20221027/1802581.md">翻文档起争执？胡锦涛20大提早离场“较早画面”曝光</a></li>
 <li><a href="/sohnews/20221027/1802928.md">💥李克强汪洋向习“主动请辞”？！党媒赞高风亮节，或揭示“架走胡”答案；中国多地传不明“爆炸”巨响；习近平敢武力入侵台湾吗；美报告深度曝光中共“火箭军”秘密；马斯克进推特总部｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cbnews/20221027/1802581.md">翻文档起争执？胡锦涛20大提早离场“较早画面”曝光</a></li>
 <li><a href="/sohnews/20221027/1802761.md">🔥🔥紧急事件：中共军变❓❗习近平位置还没坐稳 有人不服了❗战机激战大半个中国❗【黄标】</a></li>
 <li><a href="/baitai/20221027/1802710.md">习近平铁令曝光 中共自毁程序已开启</a></li>
 <li><a href="/sohnews/20221027/1802693.md">他们最想删的画面：人大代表热泪盈眶，坚决拥护总书记独裁，希望总书记永远做下去！欧洲顶级律师透露：中共富豪家族秘密指令“快跑”！村长一步登天，当上中央委员！【新闻最嘲点 姜光宇】2022.1026</a></li>
 <li><a href="/sohnews/20221027/1802732.md">💥胡锦涛下落不明？传言全家被抓。高官叛逃？还是军队反水？河南驻马店三架战机追逐。习近平三连任，中国富豪启动逃生计画；金三胖助习大哥上位。不祥之兆！江山整没了。｜薇羽看世间 第559期</a></li>
 <li><a href="/topimagenews/20221026/1802570.md">中共二十大领导层人事 党内元老已不再获咨询</a></li>
-<li><a href="/cbnews/20221027/1802597.md">深圳女子理发店剪刘海，照镜子之后报警了…</a></li>
 <li><a href="/topimagenews/20221027/1802978.md">习并非历史偶然失误；习近平爆雷班子要拖垮中国经济 一个时代结束；</a></li>
+<li><a href="/cbnews/20221027/1802597.md">深圳女子理发店剪刘海，照镜子之后报警了…</a></li>
 <li><a href="/cnnews/20221027/1802913.md">英国新首相上任就出招 要关闭全英31所孔子学院</a></li>
 <li><a href="/baitai/20221027/1802861.md">习得绝对权威 中国将出现大规模公开镇压？二十大刚过中国富豪计划大逃亡</a></li>
-<li><a href="/topimagenews/20221027/1802595.md">国家队托汇人民币劲弹 传富豪照卖产套现走资</a></li>
+<li><a href="/baitai/20221027/1802883.md">民变在酝酿 拉萨爆大规模抗议 内蒙工大学生怒怼视频爆红</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221027/1803078.md" target="_blank">“党将不党”！习近平首席智囊再出惊人之语！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221027/1803077.md" target="_blank">江苏护士车震医师人夫 元配到医院拉横幅“提亲纳妾”</a></li>
 <li><a href="/topimagenews/20221027/1803047.md" target="_blank">美B2隐形轰炸机待命！于北辰：掌握火箭军发射井跟导弹车地点</a></li>
 <li><a href="/topimagenews/20221027/1803046.md" target="_blank">中国梦还是帝王梦？习近平专权十年“10大变化” 驯服边境、压制异议</a></li>
 <li><a href="/topimagenews/20221027/1802978.md" target="_blank">习并非历史偶然失误；习近平爆雷班子要拖垮中国经济 一个时代结束；</a></li>
@@ -89,14 +91,14 @@
 <li><a href="/topimagenews/20221026/1802378.md" target="_blank">芯片业逃命！美制裁开杀戒 他考虑卖厂房、设备撤出大陆</a></li>
 <li><a href="/topimagenews/20221026/1802357.md" target="_blank">民主党中期选举不妙：拜登民调跌到39%</a></li>
 <li><a href="/topimagenews/20221026/1802348.md" target="_blank">李强刚进常委，上海帮马上变脸【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221026/1802313.md" target="_blank">曝习近平37年统一台湾大计：先分化 直攻首都</a></li>
-<li><a href="/topimagenews/20221026/1802220.md" target="_blank">香港黑帮大佬，大战美国巨头</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221027/1803074.md" target="_blank">时事大家谈：习天下重臣就位，他们如何解习之忧？</a></li>
+<li><a href="/comments/20221027/1803073.md" target="_blank">时事大家谈：中共治国路向再转移，经济不再是中心？</a></li>
 <li><a href="/comments/20221027/1803057.md" target="_blank">时事大家谈：中共治国路向再转移，经济不再是中心？习天下重臣就位，他们如何解习之忧？</a></li>
 <li><a href="/comments/20221027/1803033.md" target="_blank">二十大人事密码 盘点6常委与习近平的关系</a></li>
 <li><a href="/comments/20221027/1803032.md" target="_blank">福州变相封城 36所大学封闭 全市公开场所关停</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221027/1802770.md" target="_blank">胡锦涛一句气话，习近平将计就计？二十大卡位内幕曝光！李克强汪洋胡春华被迫表忠，新班子见面会藏大凶</a></li>
 <li><a href="/comments/20221027/1802704.md" target="_blank">武德山：为什么要倾听法轮功真相？</a></li>
 <li><a href="/comments/20221027/1802703.md" target="_blank">陆客：路与选择——中国人的出路不在二十大</a></li>
-<li><a href="/comments/20221027/1802702.md" target="_blank">郑存柱：致中国共青团全体团员的公开信</a></li>
-<li><a href="/comments/20221027/1802701.md" target="_blank">杨宁：二十大结果让人惊恐 股市暴跌资产急抛</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
 
 </ul>
 </div>
