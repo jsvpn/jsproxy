@@ -11,23 +11,23 @@
 <li><a href="/sohnews/20221027/1802604.md">“内幕消息：习近平最后一刻撕毁与胡锦涛的协议”ShitaoTV - 03 (25/10/22) 汪洋 胡春华被故意挤走 李克强干预失败</a></li>
 <li><a href="/cnnews/20221027/1802631.md">中共党章全文发布：未写入“两个确立”，但有…</a></li>
 <li><a href="/cbnews/20221027/1802645.md">担心胡锦涛事件蔓延？习近平急忙敲打高官</a></li>
-<li><a href="/baitai/20221026/1802498.md">中国疫情大爆发惊现新症状</a></li>
 <li><a href="/cbnews/20221027/1802611.md">这两家航空公司突发通知：取消168个航班</a></li>
 <li><a href="/comments/20221027/1802770.md">胡锦涛一句气话，习近平将计就计？二十大卡位内幕曝光！李克强汪洋胡春华被迫表忠，新班子见面会藏大凶</a></li>
 <li><a href="/topimagenews/20221027/1802628.md">川普惊曝：美国有普京、习近平都不知的强大武器</a></li>
-<li><a href="/cnnews/20221027/1802854.md">我们老大刚被架走了！习近平召告天下“团派”灭 二十大派系赤裸裸公开狠斗</a></li>
 <li><a href="/comments/20221027/1802689.md">文昭：胡锦涛被带走又出新证据分析；习近平的新政治局一人使命特殊，或带来逼近极限的加速</a></li>
+<li><a href="/cnnews/20221027/1802854.md">我们老大刚被架走了！习近平召告天下“团派”灭 二十大派系赤裸裸公开狠斗</a></li>
 <li><a href="/cbnews/20221027/1802581.md">翻文档起争执？胡锦涛20大提早离场“较早画面”曝光</a></li>
 <li><a href="/sohnews/20221027/1802761.md">🔥🔥紧急事件：中共军变❓❗习近平位置还没坐稳 有人不服了❗战机激战大半个中国❗【黄标】</a></li>
 <li><a href="/baitai/20221027/1802710.md">习近平铁令曝光 中共自毁程序已开启</a></li>
 <li><a href="/sohnews/20221027/1802693.md">他们最想删的画面：人大代表热泪盈眶，坚决拥护总书记独裁，希望总书记永远做下去！欧洲顶级律师透露：中共富豪家族秘密指令“快跑”！村长一步登天，当上中央委员！【新闻最嘲点 姜光宇】2022.1026</a></li>
 <li><a href="/topimagenews/20221026/1802570.md">中共二十大领导层人事 党内元老已不再获咨询</a></li>
+<li><a href="/sohnews/20221027/1802732.md">💥胡锦涛下落不明？传言全家被抓。高官叛逃？还是军队反水？河南驻马店三架战机追逐。习近平三连任，中国富豪启动逃生计画；金三胖助习大哥上位。不祥之兆！江山整没了。｜薇羽看世间 第559期</a></li>
 <li><a href="/comments/20221026/1802503.md">中共总领事称胡锦涛重回会场 西媒斥其造谣</a></li>
 <li><a href="/cbnews/20221027/1802597.md">深圳女子理发店剪刘海，照镜子之后报警了…</a></li>
-<li><a href="/sohnews/20221027/1802732.md">💥胡锦涛下落不明？传言全家被抓。高官叛逃？还是军队反水？河南驻马店三架战机追逐。习近平三连任，中国富豪启动逃生计画；金三胖助习大哥上位。不祥之兆！江山整没了。｜薇羽看世间 第559期</a></li>
 <li><a href="/topimagenews/20221027/1802595.md">国家队托汇人民币劲弹 传富豪照卖产套现走资</a></li>
 <li><a href="/topimagenews/20221026/1802535.md">清零悲歌！中国男17楼垂降“绳断”坠楼亡 只为逃封控买物资</a></li>
 <li><a href="/cnnews/20221027/1802647.md">习近平和普京可能在偷笑：她就是个傻瓜</a></li>
+<li><a href="/baitai/20221027/1802861.md">习得绝对权威 中国将出现大规模公开镇压？二十大刚过中国富豪计划大逃亡</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 
 </ul>
 </div>
