@@ -19,15 +19,15 @@
 <li><a href="/baitai/20221027/1802861.md">习得绝对权威 中国将出现大规模公开镇压？二十大刚过中国富豪计划大逃亡</a></li>
 <li><a href="/sohnews/20221028/1803114.md">“秘密协议是真！习近平用‘两个确立’换掉李克强-汪洋-胡春华：出局！”ShitaoTV - 03 (27/10/22) 逐胡春华出政治局-爆点！</a></li>
 <li><a href="/topimagenews/20221027/1803077.md">江苏护士车震医师人夫 元配到医院拉横幅“提亲纳妾”</a></li>
-<li><a href="/baitai/20221027/1802883.md">民变在酝酿 拉萨爆大规模抗议 内蒙工大学生怒怼视频爆红</a></li>
 <li><a href="/cnnews/20221027/1803052.md">重大信息露出！习近平打破一个“大规矩”【阿波罗网报道】</a></li>
+<li><a href="/baitai/20221027/1802883.md">民变在酝酿 拉萨爆大规模抗议 内蒙工大学生怒怼视频爆红</a></li>
 <li><a href="/sohnews/20221028/1803117.md">震惊全球！主席台政变完整版，胡锦涛揭穿习派舞弊。中国最大丑闻</a></li>
 <li><a href="/ssgc/20221027/1802827.md">〖兲朝浮世绘〗加上“腊肉蛋炒饭”和“麻辣田鸡”，这条街就齐活了</a></li>
 <li><a href="/cnnews/20221027/1802809.md">北京985大学6个金融女，毕业15年后的真实人生…</a></li>
 <li><a href="/weiquan/20221027/1803005.md">上海公民顾国平其因在推特上转贴四通桥勇士彭载舟文图被警方带走后已获释</a></li>
 <li><a href="/topimagenews/20221027/1802969.md">美媒：秦刚或将出任中共外交部长 战狼外交政策更加强硬</a></li>
-<li><a href="/comments/20221027/1802991.md">藏人有血性！疫情封控2个半月 拉萨爆发大规模抗议❗️</a></li>
 <li><a href="/cbnews/20221027/1803060.md">石泰峰出任中央统战部长 45年来第3位政治局委员兼任</a></li>
+<li><a href="/comments/20221027/1802991.md">藏人有血性！疫情封控2个半月 拉萨爆发大规模抗议❗️</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221028/1803296.md" target="_blank">台湾上报社评：共产党的民族大义是假的 只有权力是真的</a></li>
 <li><a href="/comments/20221028/1803268.md" target="_blank">杨乃悟：遍插茱萸少十一人 世界杯中国队缺席</a></li>
 <li><a href="/comments/20221028/1803248.md" target="_blank">【独家重磅】李燕铭：习近平与元老二十大搏杀内幕揭秘 习与王岐山等30人谈话主导二十大高层人事 江胡等元老被排除在外 中办警告元老不得妄议习中央大政方针 两个敏感时间点泄露习废除七上八下潜规则秘辛 元老反扑抵制“两个确立”等三称号写入新版党章 二十大后习江斗升级 中共二十大团派团灭内幕（十） 习近平连任与二十大常委争夺战（104） 习近平李克强明争暗斗内幕（六三） 习近平决战江曾（四二）</a></li>
 <li><a href="/comments/20221028/1803214.md" target="_blank">巧合到底是怎么发生的呢？你生命中有没有遇到一些巧合改变了你的命运？ #short #未解之谜 #扶摇</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221027/1802832.md" target="_blank">屠生：我的觉醒之路生理、物质疾苦</a></li>
 <li><a href="/comments/20221027/1802822.md" target="_blank">和现在象不象 作家刘鹗眼中的晚清残局</a></li>
 <li><a href="/comments/20221027/1802821.md" target="_blank">曹晋华:既无“善意”也无“法治”的中共，更需要警惕</a></li>
-<li><a href="/comments/20221027/1802808.md" target="_blank">出黑河记 黑河疯成记录</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
 <li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
 
 </ul>
 </div>
