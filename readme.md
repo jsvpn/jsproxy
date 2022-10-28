@@ -9,25 +9,25 @@
 <li><a href="/comments/20221027/1802992.md">习近平遇元老抵制？二十大党章修改现意外</a></li>
 <li><a href="/topimagenews/20221027/1802978.md">习并非历史偶然失误；习近平爆雷班子要拖垮中国经济 一个时代结束；</a></li>
 <li><a href="/sohnews/20221027/1802988.md">陈破空：排名不正常，习班子疑因谁当老二爆争吵？遮掩丑闻，党媒让胡锦涛父子同日显名。直播与互动。美东10月27日早9点、即中港台10月27日晚9点</a></li>
-<li><a href="/sohnews/20221028/1803114.md">“秘密协议是真！习近平用‘两个确立’换掉李克强-汪洋-胡春华：出局！”ShitaoTV - 03 (27/10/22) 逐胡春华出政治局-爆点！</a></li>
 <li><a href="/cbnews/20221028/1803111.md">中共内部大清洗即将开始</a></li>
+<li><a href="/sohnews/20221028/1803114.md">“秘密协议是真！习近平用‘两个确立’换掉李克强-汪洋-胡春华：出局！”ShitaoTV - 03 (27/10/22) 逐胡春华出政治局-爆点！</a></li>
 <li><a href="/topimagenews/20221027/1803078.md">“党将不党”！习近平首席智囊再出惊人之语！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221027/1802981.md">习近平王朝命运，难逃三种结局？历代预言成真，习是末代皇帝？美掀底中共火箭军基地，盘算什么？北京2023年出兵台海有难度？（2022.10.27）｜世界的十字路口 唐浩</a></li>
 <li><a href="/comments/20221027/1802990.md">习近平突向美国示好：愿同美方合作</a></li>
 <li><a href="/headline/20221028/1803197.md">习近平率常委赴延安朝圣用意何在</a></li>
 <li><a href="/topimagenews/20221027/1803077.md">江苏护士车震医师人夫 元配到医院拉横幅“提亲纳妾”</a></li>
 <li><a href="/topimagenews/20221028/1803205.md">刷爆朋友圈！社论翻译成人话就是：房子，该降价就降价吧</a></li>
-<li><a href="/baitai/20221028/1803164.md">社论敲丧钟 中国房地产完了 未来将尸横遍野</a></li>
 <li><a href="/cnnews/20221027/1803052.md">重大信息露出！习近平打破一个“大规矩”【阿波罗网报道】</a></li>
+<li><a href="/baitai/20221028/1803164.md">社论敲丧钟 中国房地产完了 未来将尸横遍野</a></li>
 <li><a href="/sohnews/20221028/1803117.md">震惊全球！主席台政变完整版，胡锦涛揭穿习派舞弊。中国最大丑闻</a></li>
-<li><a href="/headline/20221028/1803175.md">专访高文谦: 习近平的麻烦才刚刚开始</a></li>
-<li><a href="/sohnews/20221028/1803168.md">房峰辉在关键时刻给习近平搅局 #shorts</a></li>
 <li><a href="/cbnews/20221028/1803338.md">江峰：拜延安开启党内清洗，习近平率新科常委犯下大忌：不是革命圣地麽，毛泽东为何余生不回访？西藏警民对抗，颜色革命总是从中央集权薄弱矛盾深重边远之地开始【江峰漫谈20221027第569期】</a></li>
-<li><a href="/yule/20221028/1803245.md">曝冯小刚夫妇定居美国，穿搭随意豪宅会客，购买两套别墅价值上亿</a></li>
+<li><a href="/sohnews/20221028/1803168.md">房峰辉在关键时刻给习近平搅局 #shorts</a></li>
+<li><a href="/headline/20221028/1803175.md">专访高文谦: 习近平的麻烦才刚刚开始</a></li>
 <li><a href="/topimagenews/20221028/1803318.md">二十大后，美国揭穿中共“老底”，警告习近平</a></li>
+<li><a href="/yule/20221028/1803245.md">曝冯小刚夫妇定居美国，穿搭随意豪宅会客，购买两套别墅价值上亿</a></li>
 <li><a href="/cbnews/20221027/1803060.md">石泰峰出任中央统战部长 45年来第3位政治局委员兼任</a></li>
+<li><a href="/cnnews/20221028/1803369.md">网曝冯小刚夫妇定居美国 徐帆豪宅门口热情送客</a></li>
 <li><a href="/weiquan/20221027/1803005.md">上海公民顾国平其因在推特上转贴四通桥勇士彭载舟文图被警方带走后已获释</a></li>
-<li><a href="/cbnews/20221028/1803251.md">天亮时分：习近平回延安，不祥之兆；普京模拟发动核打击，美国也不忍了；中共股市汇市爆发，警惕诱多陷阱；马斯克完成推特收购（政论天下第833集 20221027）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
 <li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 
 </ul>
 </div>
