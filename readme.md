@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20221028/1803205.md">刷爆朋友圈！社论翻译成人话就是：房子，该降价就降价吧</a></li>
 <li><a href="/cbnews/20221028/1803338.md">江峰：拜延安开启党内清洗，习近平率新科常委犯下大忌：不是革命圣地麽，毛泽东为何余生不回访？西藏警民对抗，颜色革命总是从中央集权薄弱矛盾深重边远之地开始【江峰漫谈20221027第569期】</a></li>
 <li><a href="/baitai/20221028/1803164.md">社论敲丧钟 中国房地产完了 未来将尸横遍野</a></li>
-<li><a href="/cnnews/20221027/1803052.md">重大信息露出！习近平打破一个“大规矩”【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221028/1803318.md">二十大后，美国揭穿中共“老底”，警告习近平</a></li>
 <li><a href="/headline/20221028/1803175.md">专访高文谦: 习近平的麻烦才刚刚开始</a></li>
-<li><a href="/cnnews/20221028/1803369.md">网曝冯小刚夫妇定居美国 徐帆豪宅门口热情送客</a></li>
+<li><a href="/topimagenews/20221028/1803318.md">二十大后，美国揭穿中共“老底”，警告习近平</a></li>
 <li><a href="/sohnews/20221028/1803168.md">房峰辉在关键时刻给习近平搅局 #shorts</a></li>
+<li><a href="/cnnews/20221028/1803369.md">网曝冯小刚夫妇定居美国 徐帆豪宅门口热情送客</a></li>
 <li><a href="/cnnews/20221028/1803354.md">这协议一旦达成 中国恐成大输家</a></li>
+<li><a href="/topimagenews/20221028/1803436.md">“领会总书记的要求…” 章子怡勇当表忠第一人</a></li>
 <li><a href="/cbnews/20221027/1803060.md">石泰峰出任中央统战部长 45年来第3位政治局委员兼任</a></li>
 <li><a href="/baitai/20221028/1803393.md">这人猛！北京过街天桥上手撕「习近平」</a></li>
 <li><a href="/topimagenews/20221028/1803339.md">【微博精粹】20大前抢着表忠 20大后赛着骗包帝</a></li>
 <li><a href="/yule/20221028/1803245.md">曝冯小刚夫妇定居美国，穿搭随意豪宅会客，购买两套别墅价值上亿</a></li>
-<li><a href="/cbnews/20221028/1803251.md">天亮时分：习近平回延安，不祥之兆；普京模拟发动核打击，美国也不忍了；中共股市汇市爆发，警惕诱多陷阱；马斯克完成推特收购（政论天下第833集 20221027）</a></li>
 <li><a href="/sohnews/20221028/1803370.md">“最新视频爆光！习近平亲自下令 栗战书惹祸 王沪宁一再插话”ShitaoTV - 04 (24/10/22)</a></li>
-<li><a href="/topimagenews/20221028/1803436.md">“领会总书记的要求…” 章子怡勇当表忠第一人</a></li>
+<li><a href="/cbnews/20221028/1803251.md">天亮时分：习近平回延安，不祥之兆；普京模拟发动核打击，美国也不忍了；中共股市汇市爆发，警惕诱多陷阱；马斯克完成推特收购（政论天下第833集 20221027）</a></li>
 <li><a href="/comments/20221028/1803359.md">习近平开高端人口第一枪：延安整风又回来啦！中低端现举报亲人、批斗老师，毛路线全面降临？</a></li>
+<li><a href="/yule/20221028/1803240.md">李宇春患不死癌症流泪称：我的财富除了交治疗费已别无他用</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
 <li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 
 </ul>
 </div>
