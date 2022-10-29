@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20221028/1803485.md">马斯克为何抱北京大腿？专家曝1惊人内幕</a></li>
 <li><a href="/headline/20221028/1803490.md">传拉萨13岁女童隔离点被轮奸 网络封锁消息禁讨论</a></li>
 <li><a href="/cbnews/20221028/1803591.md">习近平率常委延安“朝圣” 强调这事让人闻之色变</a></li>
-<li><a href="/cbnews/20221029/1803705.md">二十大：解读政治局24人名单背后六种政治意涵</a></li>
-<li><a href="/ssgc/20221028/1803536.md">胡锦涛这个启示录</a></li>
 <li><a href="/topimagenews/20221029/1803841.md">上海3000万豪宅的业主快要急疯了</a></li>
+<li><a href="/ssgc/20221028/1803536.md">胡锦涛这个启示录</a></li>
+<li><a href="/cbnews/20221029/1803705.md">二十大：解读政治局24人名单背后六种政治意涵</a></li>
 <li><a href="/cnnews/20221029/1803743.md">彭丽媛：为习近平铺设权力之路的著名歌唱家</a></li>
 <li><a href="/baitai/20221028/1803575.md">胡锦涛被逐事件解析</a></li>
 <li><a href="/sohnews/20221029/1803661.md">“20大 习近平“个人愿望”全落空！恨死胡锦涛 ⋯⋯”ShitaoTV - 03 (28/10/22) 仅仅是人马到位</a></li>
 <li><a href="/cbnews/20221029/1803630.md">中共中宣部前部长黄坤明 传将空降广东省委书记</a></li>
 <li><a href="/cnnews/20221029/1803758.md">党的铁拳好快！他大赞中国防疫 隔天惊搭“隔离死亡列车”崩溃了</a></li>
+<li><a href="/topimagenews/20221029/1803860.md">又“润”一个，中国地产界女首富离职 定居美国</a></li>
 <li><a href="/sohnews/20221029/1803651.md">胡锦涛离场前的最后时刻</a></li>
 <li><a href="/cbnews/20221029/1803704.md">四通桥事件启发下，反习行动在中国境内外蔓延</a></li>
-<li><a href="/topimagenews/20221029/1803860.md">又“润”一个，中国地产界女首富离职 定居美国</a></li>
-<li><a href="/sohnews/20221028/1803513.md">二十大后股汇双杀，“习家军全面上位”震惊市场？动态清零、“共同富裕”将持续，“改革开放”已终结！外资大撤退、富人忙逃亡；习近平大权在握，中共末路狂奔？【#蔚然财商天下】2022.10.28</a></li>
 <li><a href="/cbnews/20221029/1803807.md">天亮时分：团派危险！习近平将发动路线斗争；冯小刚也润了，中国不缺明白人；马斯克三大动作，川普推特账号周一复活（政论天下第834集 20221028）</a></li>
+<li><a href="/yule/20221029/1803817.md">美国豪宅曝光后，冯小刚微博“出事”了</a></li>
+<li><a href="/sohnews/20221028/1803513.md">二十大后股汇双杀，“习家军全面上位”震惊市场？动态清零、“共同富裕”将持续，“改革开放”已终结！外资大撤退、富人忙逃亡；习近平大权在握，中共末路狂奔？【#蔚然财商天下】2022.10.28</a></li>
 <li><a href="/sohnews/20221028/1803411.md">💥中使馆骂街！美提制裁“习近平”法案，不得入境；六常委“表忠事蹟”一览！胡锦涛父子露面？28城2亿人遭封控，拉萨爆抗议；马斯克正式入主推特，立即开掉原CEO｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20221028/1803444.md">【404文库】澎湃新闻｜中国政法大学赵宏教授：常态化核酸检测的法律问题</a></li>
-<li><a href="/sohnews/20221028/1803441.md">今年最赚钱的三家公司让人惊掉下巴⋯⋯</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
 <li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
 <li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
 
 </ul>
 </div>
