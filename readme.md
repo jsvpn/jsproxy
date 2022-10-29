@@ -7,16 +7,15 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221029/1803841.md">上海3000万豪宅的业主快要急疯了</a></li>
 <li><a href="/topimagenews/20221029/1803860.md">又“润”一个，中国地产界女首富离职 定居美国</a></li>
-<li><a href="/cnnews/20221029/1803743.md">彭丽媛：为习近平铺设权力之路的著名歌唱家</a></li>
 <li><a href="/topimagenews/20221029/1803897.md">习三任中共总书记 这部短影片一天下架</a></li>
 <li><a href="/cnnews/20221029/1803948.md">瘆人！NASA从62万公里外拍到地球图像 让人害怕</a></li>
-<li><a href="/cbnews/20221029/1803807.md">天亮时分：团派危险！习近平将发动路线斗争；冯小刚也润了，中国不缺明白人；马斯克三大动作，川普推特账号周一复活（政论天下第834集 20221028）</a></li>
 <li><a href="/cnnews/20221029/1803758.md">党的铁拳好快！他大赞中国防疫 隔天惊搭“隔离死亡列车”崩溃了</a></li>
+<li><a href="/cbnews/20221029/1803807.md">天亮时分：团派危险！习近平将发动路线斗争；冯小刚也润了，中国不缺明白人；马斯克三大动作，川普推特账号周一复活（政论天下第834集 20221028）</a></li>
 <li><a href="/cbnews/20221029/1803972.md">逐帧分解胡锦涛在二十大闭幕会上的中途离场</a></li>
 <li><a href="/yule/20221029/1803817.md">美国豪宅曝光后，冯小刚微博“出事”了</a></li>
 <li><a href="/topimagenews/20221029/1803942.md">大陆学生感谢政府赞防疫 被转移到党的“死亡列车”后崩溃开骂了...</a></li>
-<li><a href="/sohnews/20221029/1803839.md">为什么党内精英斗不过小学毕业生习近平？关键在一个战略失误。反攻马上开始，习家惊人丑闻将曝光！ （一平论政2022/10/28)</a></li>
 <li><a href="/topimagenews/20221029/1804051.md">李强成热门目标，党内攻击开始了【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20221029/1803839.md">为什么党内精英斗不过小学毕业生习近平？关键在一个战略失误。反攻马上开始，习家惊人丑闻将曝光！ （一平论政2022/10/28)</a></li>
 <li><a href="/cbnews/20221029/1803985.md">没完没了，中国出现防疫收紧新迹象</a></li>
 <li><a href="/yule/20221029/1803889.md">冯小刚被爆长居美国，细看资产，才明白他当年那句“我花不完”</a></li>
 <li><a href="/baitai/20221029/1804017.md">习近平想要谁的命？郑州官场要躺平</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/comments/20221029/1803845.md">专家：胡锦涛被带走 岂止是对胡一人的羞辱</a></li>
 <li><a href="/topimagenews/20221029/1803941.md">英伟达不卖中国GPU，车圈为什么先慌了？</a></li>
 <li><a href="/cbnews/20221029/1803855.md">中共七常委赴延安拜毛 专家：党内清洗信号</a></li>
+<li><a href="/cnnews/20221029/1803815.md">中国67岁婆婆意外生娃！3年后现况曝光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 <li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
 
 </ul>
 </div>
