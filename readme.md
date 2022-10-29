@@ -12,8 +12,8 @@
 <li><a href="/cbnews/20221029/1803705.md">二十大：解读政治局24人名单背后六种政治意涵</a></li>
 <li><a href="/ssgc/20221028/1803536.md">胡锦涛这个启示录</a></li>
 <li><a href="/sohnews/20221029/1803661.md">“20大 习近平“个人愿望”全落空！恨死胡锦涛 ⋯⋯”ShitaoTV - 03 (28/10/22) 仅仅是人马到位</a></li>
-<li><a href="/cnnews/20221029/1803743.md">彭丽媛：为习近平铺设权力之路的著名歌唱家</a></li>
 <li><a href="/topimagenews/20221029/1803860.md">又“润”一个，中国地产界女首富离职 定居美国</a></li>
+<li><a href="/cnnews/20221029/1803743.md">彭丽媛：为习近平铺设权力之路的著名歌唱家</a></li>
 <li><a href="/baitai/20221028/1803575.md">胡锦涛被逐事件解析</a></li>
 <li><a href="/topimagenews/20221029/1803897.md">习三任中共总书记 这部短影片一天下架</a></li>
 <li><a href="/cbnews/20221029/1803630.md">中共中宣部前部长黄坤明 传将空降广东省委书记</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/sohnews/20221029/1803651.md">胡锦涛离场前的最后时刻</a></li>
 <li><a href="/cbnews/20221029/1803704.md">四通桥事件启发下，反习行动在中国境内外蔓延</a></li>
 <li><a href="/sohnews/20221029/1803839.md">为什么党内精英斗不过小学毕业生习近平？关键在一个战略失误。反攻马上开始，习家惊人丑闻将曝光！ （一平论政2022/10/28)</a></li>
-<li><a href="/cnnews/20221029/1803816.md">国内一篇被封禁的文章:疫情文学，泪中带笑</a></li>
 <li><a href="/yule/20221029/1803889.md">冯小刚被爆长居美国，细看资产，才明白他当年那句“我花不完”</a></li>
-<li><a href="/sohnews/20221028/1803513.md">二十大后股汇双杀，“习家军全面上位”震惊市场？动态清零、“共同富裕”将持续，“改革开放”已终结！外资大撤退、富人忙逃亡；习近平大权在握，中共末路狂奔？【#蔚然财商天下】2022.10.28</a></li>
+<li><a href="/cnnews/20221029/1803816.md">国内一篇被封禁的文章:疫情文学，泪中带笑</a></li>
 <li><a href="/baitai/20221029/1803895.md">二十大后地方大调整 五大政治高地换人</a></li>
 <li><a href="/cnnews/20221029/1803815.md">中国67岁婆婆意外生娃！3年后现况曝光</a></li>
+<li><a href="/ssgc/20221029/1803872.md">〖兲朝浮世绘〗春江水暖鸭先知，他们都先跑了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221029/1803985.md" target="_blank">没完没了，中国出现防疫收紧新迹象</a></li>
 <li><a href="/cbnews/20221029/1803972.md" target="_blank">逐帧分解胡锦涛在二十大闭幕会上的中途离场</a></li>
 <li><a href="/cbnews/20221029/1803901.md" target="_blank">江峰：美降低率先使用核武门槛；中共导弹部队从基地到混於市区的军工基地坐标被美国公开，暗示精准打击；怂了还是疯了？习近平突向美释善意，驻英公使辱英与流亡港人是农夫与蛇【江峰漫谈20221028第570期】</a></li>
 <li><a href="/cbnews/20221029/1803887.md" target="_blank">北京防疫政策复杂 德总理访华只是一日游</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221028/1803111.md" target="_blank">中共内部大清洗即将开始</a></li>
 <li><a href="/cbnews/20221028/1803091.md" target="_blank">中共20大后，这些国家的元首将陆续来访</a></li>
 <li><a href="/cbnews/20221028/1803088.md" target="_blank">中国跨境航班30日起大幅增加 上海—台北航线遭热搜</a></li>
-<li><a href="/cbnews/20221027/1803087.md" target="_blank">江峰：中国奇蹟与德国复兴的畸形繁荣，是中共的壮大和纳粹的兴盛，带来的是民族的毁灭。美国是怎样在发展中避免极权制度养成？【缔造美国第三集20221027】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221029/1803990.md" target="_blank">习近平握大权后中共怎么走？华邮分析：三件事为优先事项</a></li>
+<li><a href="/comments/20221029/1803987.md" target="_blank">茅台不如乓乓响</a></li>
+<li><a href="/comments/20221029/1803986.md" target="_blank">才吃几天饱饭，就撑成这样</a></li>
 <li><a href="/comments/20221029/1803964.md" target="_blank">中国民族主义教父也叹：中国的民族主义走得太远</a></li>
 <li><a href="/comments/20221029/1803945.md" target="_blank">习近平堵死了自己的路</a></li>
 <li><a href="/comments/20221029/1803888.md" target="_blank">英煤：民族主义崛起下弄潮的“爱国”网红</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221029/1803811.md" target="_blank">李濠仲:习近平和普京可能在偷笑：她就是个傻瓜</a></li>
 <li><a href="/comments/20221029/1803787.md" target="_blank">【独家重磅】李燕铭：陈希罕见卸而不退陪同习近平离京考察 一天赶场上海广东两地以中组部长身份宣布两政治局委员履新 69岁陈希或继续担任副国级高职 习近平人事布局屡破常规 陈吉宁任上海书记黄坤明任广东书记 何立峰尹力任副总理几无悬念 陈敏尔张国清任副总理或北京书记 袁家军刘国中或分担天津重庆书记 李鸿忠仕途去向变数多 二十大高层人事大战（六五）</a></li>
 <li><a href="/comments/20221029/1803762.md" target="_blank">文昭：房市大屠杀、整风2.0即将到来！准备好了吗？习近平延安打卡，李强暗示急转弯，彻底贯彻时代开始</a></li>
-<li><a href="/comments/20221029/1803739.md" target="_blank">吴惠林：“讲清楚、说明白”</a></li>
-<li><a href="/comments/20221029/1803738.md" target="_blank">钟原：中共政治局常委去延安透不祥之兆</a></li>
-<li><a href="/comments/20221029/1803737.md" target="_blank">王赫： “二十大”后中共的第一场外交戏</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 <li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 
 </ul>
 </div>
