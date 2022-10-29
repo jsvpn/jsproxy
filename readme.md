@@ -20,10 +20,10 @@
 <li><a href="/baitai/20221028/1803575.md">胡锦涛被逐事件解析</a></li>
 <li><a href="/cbnews/20221029/1803630.md">中共中宣部前部长黄坤明 传将空降广东省委书记</a></li>
 <li><a href="/cnnews/20221029/1803758.md">党的铁拳好快！他大赞中国防疫 隔天惊搭“隔离死亡列车”崩溃了</a></li>
-<li><a href="/cbnews/20221029/1803807.md">天亮时分：团派危险！习近平将发动路线斗争；冯小刚也润了，中国不缺明白人；马斯克三大动作，川普推特账号周一复活（政论天下第834集 20221028）</a></li>
-<li><a href="/sohnews/20221029/1803651.md">胡锦涛离场前的最后时刻</a></li>
-<li><a href="/yule/20221029/1803817.md">美国豪宅曝光后，冯小刚微博“出事”了</a></li>
 <li><a href="/topimagenews/20221029/1803897.md">习三任中共总书记 这部短影片一天下架</a></li>
+<li><a href="/cbnews/20221029/1803807.md">天亮时分：团派危险！习近平将发动路线斗争；冯小刚也润了，中国不缺明白人；马斯克三大动作，川普推特账号周一复活（政论天下第834集 20221028）</a></li>
+<li><a href="/yule/20221029/1803817.md">美国豪宅曝光后，冯小刚微博“出事”了</a></li>
+<li><a href="/sohnews/20221029/1803651.md">胡锦涛离场前的最后时刻</a></li>
 <li><a href="/cbnews/20221029/1803704.md">四通桥事件启发下，反习行动在中国境内外蔓延</a></li>
 <li><a href="/sohnews/20221029/1803839.md">为什么党内精英斗不过小学毕业生习近平？关键在一个战略失误。反攻马上开始，习家惊人丑闻将曝光！ （一平论政2022/10/28)</a></li>
 <li><a href="/cnnews/20221029/1803816.md">国内一篇被封禁的文章:疫情文学，泪中带笑</a></li>
@@ -66,6 +66,9 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221029/1803943.md" target="_blank">无奈的事实：过去7年，中国国内芯片自给率没啥增长</a></li>
+<li><a href="/topimagenews/20221029/1803942.md" target="_blank">大陆学生感谢政府赞防疫 被转移到党的“死亡列车”后崩溃开骂了&#8230;</a></li>
+<li><a href="/topimagenews/20221029/1803941.md" target="_blank">英伟达不卖中国GPU，车圈为什么先慌了？</a></li>
 <li><a href="/topimagenews/20221029/1803897.md" target="_blank">习三任中共总书记 这部短影片一天下架</a></li>
 <li><a href="/topimagenews/20221029/1803860.md" target="_blank">又“润”一个，中国地产界女首富离职 定居美国</a></li>
 <li><a href="/topimagenews/20221029/1803859.md" target="_blank">共和党再曝银行纪录 华企转千万入拜登家人账户</a></li>
@@ -88,15 +91,13 @@
 <li><a href="/topimagenews/20221027/1803078.md" target="_blank">“党将不党”！习近平首席智囊再出惊人之语！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221027/1803077.md" target="_blank">江苏护士车震医师人夫 元配到医院拉横幅“提亲纳妾”</a></li>
 <li><a href="/topimagenews/20221027/1803047.md" target="_blank">美B2隐形轰炸机待命！于北辰：掌握火箭军发射井跟导弹车地点</a></li>
-<li><a href="/topimagenews/20221027/1803046.md" target="_blank">中国梦还是帝王梦？习近平专权十年“10大变化” 驯服边境、压制异议</a></li>
-<li><a href="/topimagenews/20221027/1802978.md" target="_blank">习并非历史偶然失误；习近平爆雷班子要拖垮中国经济 一个时代结束；</a></li>
-<li><a href="/topimagenews/20221027/1802969.md" target="_blank">美媒：秦刚或将出任中共外交部长 战狼外交政策更加强硬</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221029/1803945.md" target="_blank">习近平堵死了自己的路</a></li>
 <li><a href="/comments/20221029/1803888.md" target="_blank">英煤：民族主义崛起下弄潮的“爱国”网红</a></li>
 <li><a href="/comments/20221029/1803882.md" target="_blank">【独家重磅】李燕铭：陈文清已任政法委书记 王小洪或任中办主任 掌控两大精锐安保部队成为习贴身带刀侍卫 习近平二十大后首次离京考察 丁薛祥罕见以政治局常委兼中办主任身份陪同 中南海高层人事重大变动 存在一种可能：丁薛祥以政治局常委身份继续兼任中办主任 国务院常务副总理不再入常 二十大高层人事大战（六六） 习近平连任与二十大常委争夺战（105）</a></li>
 <li><a href="/comments/20221029/1803877.md" target="_blank">残酷现实：不计成本，我们也造不出B2隐形轰炸机</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221029/1803738.md" target="_blank">钟原：中共政治局常委去延安透不祥之兆</a></li>
 <li><a href="/comments/20221029/1803737.md" target="_blank">王赫： “二十大”后中共的第一场外交戏</a></li>
 <li><a href="/comments/20221029/1803736.md" target="_blank">周晓辉：习率新常委膜拜延安与毛 大凶之兆</a></li>
-<li><a href="/comments/20221029/1803732.md" target="_blank">关键选战（二）：共和党参院选情看涨！红色浪潮真的会来？华裔母亲全力投入中期选举，分享经验｜中期选举特别直播（二）｜方菲时间 10/28/2022</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
 <li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 
 </ul>
 </div>
