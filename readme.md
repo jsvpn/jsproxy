@@ -12,8 +12,8 @@
 <li><a href="/cbnews/20221029/1803985.md">没完没了，中国出现防疫收紧新迹象</a></li>
 <li><a href="/topimagenews/20221030/1804086.md">越来越明显的信号，你读懂了吗</a></li>
 <li><a href="/sohnews/20221029/1804012.md">陈破空：曾准确预报新常委，美媒又接到习派放风：李克强曾力推汪洋或胡春华。习近平挽回局面的最后机会：让团派接任副主席</a></li>
-<li><a href="/sohnews/20221029/1803971.md">习近平二十大风光难久，“刺客之王”密谋新风暴？卧底怂恿出兵台湾，习政权一夕翻覆？五大凶险，斗习新武器？（2022.10.29）｜世界的十字路口 唐浩</a></li>
 <li><a href="/topimagenews/20221030/1804255.md">河南应该是出了大事件 比起1942年的逃荒…</a></li>
+<li><a href="/sohnews/20221029/1803971.md">习近平二十大风光难久，“刺客之王”密谋新风暴？卧底怂恿出兵台湾，习政权一夕翻覆？五大凶险，斗习新武器？（2022.10.29）｜世界的十字路口 唐浩</a></li>
 <li><a href="/topimagenews/20221030/1804108.md">现场路面排满尸体！狂欢变惨剧 韩国踩踏事件增至120死100伤</a></li>
 <li><a href="/baitai/20221030/1804095.md">陈吉宁拿下重磅权位 未来会坐最危险位置？</a></li>
 <li><a href="/cnnews/20221030/1804267.md">韩国首尔梨泰院踩踏事故现场实录</a></li>
@@ -22,8 +22,8 @@
 <li><a href="/yule/20221030/1804072.md">李玟删光《中国好声音》所有微博，发藏头诗暗讽</a></li>
 <li><a href="/cnnews/20221030/1804153.md">中国“润学”火红 精英出走 留下贫穷愚昧和暴政</a></li>
 <li><a href="/cbnews/20221029/1804037.md">日媒：追求毛泽东的绝对权威 习近平必打此牌</a></li>
-<li><a href="/baitai/20221030/1804078.md">习率六常委赴延安期间 中国多地爆发抗争</a></li>
 <li><a href="/cbnews/20221030/1804109.md">突发，南京金盛百货商场大火 官方连夜通报进展</a></li>
+<li><a href="/baitai/20221030/1804078.md">习率六常委赴延安期间 中国多地爆发抗争</a></li>
 <li><a href="/comments/20221030/1804137.md">冯小刚夫妇逃出来了 再不跑 死定了</a></li>
 <li><a href="/cnnews/20221029/1803975.md">时隔20年，那位要开发朝鲜特区的中国首富怎样了</a></li>
 <li><a href="/cbnews/20221030/1804231.md">天亮时分：习近平身边的两面人；华日长篇解密高层决策内幕，习近平亲自挑选两名加拿大人为人质；孟晚舟事件始末与各方得失（政论天下第835集 20221029）</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221030/1804324.md" target="_blank">郑州派工作组进驻富士康 员工喊：闭环十几天了</a></li>
 <li><a href="/cbnews/20221030/1804261.md" target="_blank">韩国万圣节活动酿惨剧 至少151死 含中国人</a></li>
 <li><a href="/cbnews/20221030/1804232.md" target="_blank">北京的造谣机器惊人扩张</a></li>
 <li><a href="/cbnews/20221030/1804231.md" target="_blank">天亮时分：习近平身边的两面人；华日长篇解密高层决策内幕，习近平亲自挑选两名加拿大人为人质；孟晚舟事件始末与各方得失（政论天下第835集 20221029）</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221029/1803630.md" target="_blank">中共中宣部前部长黄坤明 传将空降广东省委书记</a></li>
 <li><a href="/cbnews/20221029/1803629.md" target="_blank">江峰：中共只把制度优劣的表面叫人讨论，却不计美国制度的最高准则在造物主的自然法的本质：对错是造物主定下，而不是任何一个独裁者或政党【缔造美国第四集20221028】</a></li>
 <li><a href="/cbnews/20221028/1803610.md" target="_blank">从“1割皇帝”到“习1强”透视习近平如何集权定于一尊</a></li>
-<li><a href="/cbnews/20221028/1803591.md" target="_blank">习近平率常委延安“朝圣” 强调这事让人闻之色变</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
 
 </ul>
 </div>
