@@ -8,10 +8,10 @@
 <li><a href="/topimagenews/20221029/1804051.md">李强成热门目标，党内攻击开始了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221030/1804124.md">决战！将发生在下周？</a></li>
 <li><a href="/baitai/20221029/1804017.md">习近平想要谁的命？郑州官场要躺平</a></li>
-<li><a href="/topimagenews/20221030/1804255.md">河南应该是出了大事件 比起1942年的逃荒…</a></li>
 <li><a href="/topimagenews/20221030/1804086.md">越来越明显的信号，你读懂了吗</a></li>
-<li><a href="/cnnews/20221030/1804267.md">韩国首尔梨泰院踩踏事故现场实录</a></li>
+<li><a href="/topimagenews/20221030/1804255.md">河南应该是出了大事件 比起1942年的逃荒…</a></li>
 <li><a href="/baitai/20221030/1804095.md">陈吉宁拿下重磅权位 未来会坐最危险位置？</a></li>
+<li><a href="/cnnews/20221030/1804267.md">韩国首尔梨泰院踩踏事故现场实录</a></li>
 <li><a href="/topimagenews/20221030/1804108.md">现场路面排满尸体！狂欢变惨剧 韩国踩踏事件增至120死100伤</a></li>
 <li><a href="/topimagenews/20221030/1804217.md">【微博精粹】我从来没见过比中共国对中国人更狠的国家</a></li>
 <li><a href="/topimagenews/20221029/1804030.md">习近平赴延安 曾被这一幕震撼【阿波罗网报道】</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221030/1804345.md" target="_blank">韩国踩踏事故死者升至153人 含4名中国人</a></li>
 <li><a href="/cbnews/20221030/1804324.md" target="_blank">郑州派工作组进驻富士康 员工喊：闭环十几天了</a></li>
 <li><a href="/cbnews/20221030/1804261.md" target="_blank">韩国万圣节活动酿惨剧 至少151死 含中国人</a></li>
 <li><a href="/cbnews/20221030/1804232.md" target="_blank">北京的造谣机器惊人扩张</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221029/1803666.md" target="_blank">大脑皮层的作用或许和我们想的不一样…… #未解之谜  #short  #扶摇</a></li>
 <li><a href="/cbnews/20221029/1803630.md" target="_blank">中共中宣部前部长黄坤明 传将空降广东省委书记</a></li>
 <li><a href="/cbnews/20221029/1803629.md" target="_blank">江峰：中共只把制度优劣的表面叫人讨论，却不计美国制度的最高准则在造物主的自然法的本质：对错是造物主定下，而不是任何一个独裁者或政党【缔造美国第四集20221028】</a></li>
-<li><a href="/cbnews/20221028/1803610.md" target="_blank">从“1割皇帝”到“习1强”透视习近平如何集权定于一尊</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221030/1804347.md" target="_blank">习家军再掌重权！中共政法委秘书长陈一新任国家安全部长</a></li>
 <li><a href="/comments/20221030/1804249.md" target="_blank">冯小刚徐帆之後，徐峥陶虹也现身境外！高端人口陆续离境，谁提前泄露习第三任期前景资讯？</a></li>
 <li><a href="/comments/20221030/1804241.md" target="_blank">你兽爷:融创这一年</a></li>
 <li><a href="/comments/20221030/1804240.md" target="_blank">无相君：睡在桥洞里的骑手</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221029/1804016.md" target="_blank">空中惊魂！搭载英国王后卡米拉班机遭“鸟击” 机头凹陷</a></li>
 <li><a href="/comments/20221029/1803991.md" target="_blank">李白、苏轼也做核酸？ 中国洗脑儿童《背古诗做核酸》被骂爆</a></li>
 <li><a href="/comments/20221029/1803990.md" target="_blank">习近平握大权后中共怎么走？华邮分析：三件事为优先事项</a></li>
-<li><a href="/comments/20221029/1803987.md" target="_blank">茅台不如乓乓响</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 <li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
 <li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 
 </ul>
 </div>
