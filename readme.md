@@ -9,8 +9,8 @@
 <li><a href="/topimagenews/20221030/1804255.md">河南应该是出了大事件 比起1942年的逃荒…</a></li>
 <li><a href="/cnnews/20221030/1804267.md">韩国首尔梨泰院踩踏事故现场实录</a></li>
 <li><a href="/topimagenews/20221030/1804217.md">【微博精粹】我从来没见过比中共国对中国人更狠的国家</a></li>
-<li><a href="/cnnews/20221030/1804153.md">中国“润学”火红 精英出走 留下贫穷愚昧和暴政</a></li>
 <li><a href="/comments/20221030/1804137.md">冯小刚夫妇逃出来了 再不跑 死定了</a></li>
+<li><a href="/cnnews/20221030/1804153.md">中国“润学”火红 精英出走 留下贫穷愚昧和暴政</a></li>
 <li><a href="/topimagenews/20221030/1804272.md">梨泰院失踪人数再飙3580起 7小时暴增13倍</a></li>
 <li><a href="/cbnews/20221030/1804324.md">郑州派工作组进驻富士康 员工喊：闭环十几天了</a></li>
 <li><a href="/comments/20221030/1804249.md">冯小刚徐帆之後，徐峥陶虹也现身境外！高端人口陆续离境，谁提前泄露习第三任期前景资讯？</a></li>
@@ -21,12 +21,12 @@
 <li><a href="/sohnews/20221030/1804346.md">十分蹊跷！《华尔街日报》敏感时期释放重磅文章，揭开在孟晚舟事件中，中共囚犯交换内幕。精彩故事的背后，华日究竟什么用意？</a></li>
 <li><a href="/sohnews/20221030/1804273.md">💥习近平之外最有实权的人！陈文清手握中纪委、国安部“两个刀把子”，成“安保沙皇”；20大刚结束就抓了两个高官；陈文清背景复杂，与周永康马建都有交集；回顾延安整风，2.0快来了？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20221030/1804131.md">岳山：蔡奇受宠登场 王沪宁老巢凋零</a></li>
-<li><a href="/cbnews/20221030/1804232.md">北京的造谣机器惊人扩张</a></li>
 <li><a href="/yule/20221030/1804258.md">东方卫视美女主持陈蓉，因丑闻被迫转幕后</a></li>
+<li><a href="/cbnews/20221030/1804232.md">北京的造谣机器惊人扩张</a></li>
 <li><a href="/topimagenews/20221030/1804254.md">韩国梨泰院失踪人数飙到2249人 家属接殡仪馆电话</a></li>
 <li><a href="/cnnews/20221030/1804257.md">遇上人踩人怎自救？医警告2件事千万不能做</a></li>
-<li><a href="/sohnews/20221030/1804326.md">男子进店讨吃的，老板慷慨赠予他蛋糕和水，走出门后男子嚎啕大哭 。25日，浙江湖州⋯⋯</a></li>
 <li><a href="/baitai/20221030/1804371.md">郑州富士康暴动 员工大逃亡 传特警军队接管</a></li>
+<li><a href="/sohnews/20221030/1804326.md">男子进店讨吃的，老板慷慨赠予他蛋糕和水，走出门后男子嚎啕大哭 。25日，浙江湖州⋯⋯</a></li>
 <li><a href="/cnnews/20221030/1804172.md">mRNA白打了？流感疫苗防新冠重症效力竟达90％</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221031/1804449.md" target="_blank">牛顿错了？中外联合新发现挑战万有引力定律</a></li>
 <li><a href="/topimagenews/20221031/1804441.md" target="_blank">胡锦涛被驱离会场难以谢幕 习近平自己未来将如何？</a></li>
 <li><a href="/topimagenews/20221031/1804410.md" target="_blank">见南韩踩踏悲剧 微博“见1事”大惊：国外没有疫情吗？</a></li>
 <li><a href="/topimagenews/20221031/1804388.md" target="_blank">梨泰院伤亡再升级：154人丧生，逾4100人失联</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221029/1803842.md" target="_blank">陪伴成都20多年！伊藤撤离，以后我们砸什么</a></li>
 <li><a href="/topimagenews/20221029/1803841.md" target="_blank">上海3000万豪宅的业主快要急疯了</a></li>
 <li><a href="/topimagenews/20221029/1803734.md" target="_blank">龌龊邪恶 中共高层这样物色女人</a></li>
-<li><a href="/topimagenews/20221028/1803609.md" target="_blank">胡锦涛疑案更多真相！习近平最担心的来了！【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
 
 </ul>
 </div>
