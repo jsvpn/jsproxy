@@ -6,18 +6,17 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221031/1804537.md">重磅！习近平没念这400字！二十大报告藏着个大秘密！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221031/1804441.md">胡锦涛被驱离会场难以谢幕 习近平自己未来将如何？</a></li>
 <li><a href="/cbnews/20221031/1804506.md">习近平彭丽媛的神秘媒人曝光！中国第一家庭竟由罪犯帮忙建立！预告两件大事（终局风云之一，2022/10/30)</a></li>
 <li><a href="/topimagenews/20221031/1804481.md">我把定位改到郑州富士康，看到…</a></li>
 <li><a href="/cnnews/20221031/1804579.md">传3万特警军队接管富士康 网友流泪了：看到员工大逃亡视频【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221031/1804450.md">富士康员工徒步大逃离：大家装傻，老胡也在插葱</a></li>
 <li><a href="/cnnews/20221031/1804513.md">印度神童最新预言吓坏全球 台湾韩国乌克兰紧张 小心12个未爆弹</a></li>
-<li><a href="/cnnews/20221031/1804511.md">小学生作文《我的小姨》火了！全是科技与狠活…</a></li>
 <li><a href="/sohnews/20221031/1804491.md">刚刚连任的习近平不但没有“人逢喜事精神爽”，反而是“祸事连连”，我们就从四个方面来说说习近平身处的“四面楚歌” 【李军访谈20221030第85期】【周一纽约时间早9点播出】</a></li>
+<li><a href="/cnnews/20221031/1804511.md">小学生作文《我的小姨》火了！全是科技与狠活…</a></li>
 <li><a href="/cnnews/20221031/1804603.md">上海代做核酸的人，越来越离谱了</a></li>
 <li><a href="/sohnews/20221031/1804702.md">习近平终极目标在富士康诡异大逃亡中显现！富士康们将被“赶走”供销社已经来了……</a></li>
-<li><a href="/headline/20221031/1804580.md">中共20大报道：胡锦涛离席曝光黑幕 习近平被指实质“政变”</a></li>
 <li><a href="/comments/20221031/1804694.md">王丹：也谈习近平的身体与心理健康问题</a></li>
+<li><a href="/headline/20221031/1804580.md">中共20大报道：胡锦涛离席曝光黑幕 习近平被指实质“政变”</a></li>
 <li><a href="/baitai/20221031/1804795.md">知情人爆富士康大逃亡内幕 网传郭台铭强硬回应</a></li>
 <li><a href="/worldnews/20221031/1804459.md">“遇难者衣服被挤掉，一丝不挂，让人难受…”</a></li>
 <li><a href="/baitai/20221031/1804493.md">我的关于胡锦涛离席的版本</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20221031/1804457.md">去鹤岗躺平：1.5万买房，2022年的一场“新骗局”</a></li>
 <li><a href="/baitai/20221031/1804596.md">武汉怎么了？大批军队突然进驻</a></li>
 <li><a href="/topimagenews/20221031/1804497.md">印度神童最新预言曝光 台湾乌克兰英国中国吓到 小心11件事</a></li>
+<li><a href="/cbnews/20221031/1804523.md">天亮时分：万名富士康员工反抗清零田间暴走，习近平在红旗渠发表杀气腾腾的讲话；招收25,000国税公务员，中共要干什么？（政论天下第836集 20221030）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221101/1804907.md" target="_blank">习氏一言堂 连这神秘的谏言武器也不再精彩</a></li>
 <li><a href="/cbnews/20221101/1804876.md" target="_blank">华府忧心：这可能是习时代最危险的特征</a></li>
 <li><a href="/cbnews/20221101/1804828.md" target="_blank">泰国外交部称习近平将出席APEC峰会 普亭尚未答复</a></li>
 <li><a href="/cbnews/20221031/1804812.md" target="_blank">疫情烧！富士康员工只能徒步大逃亡 矢板明夫：健康码已成维稳工具</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20221030/1804231.md" target="_blank">天亮时分：习近平身边的两面人；华日长篇解密高层决策内幕，习近平亲自挑选两名加拿大人为人质；孟晚舟事件始末与各方得失（政论天下第835集 20221029）</a></li>
 <li><a href="/comments/20221030/1804219.md" target="_blank">【杰森视角】两个年轻才俊演绎润和不润的故事！习近平想和美国示好？他在谋划暴力治党？习近平对台湾痴迷和偏执！对整风运动的赞扬让人毛骨悚然！习近平访问延安后去的地方针对中国年轻人？</a></li>
 <li><a href="/cbnews/20221030/1804213.md" target="_blank">称舰队遭袭 俄暂停粮食出口协议 英国驳斥</a></li>
-<li><a href="/cbnews/20221030/1804212.md" target="_blank">韩国万圣节活动酿踩踏惨剧 至少149人死</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221101/1804906.md" target="_blank">再有两艺人遇难，啦啦队队长也在其中</a></li>
 <li><a href="/topimagenews/20221101/1804892.md" target="_blank">西方支援的防空网建功?俄再对乌发射50枚导弹44个被击落</a></li>
 <li><a href="/topimagenews/20221101/1804839.md" target="_blank">白宫恐转否决模式 拜登面临弹劾危机</a></li>
 <li><a href="/topimagenews/20221101/1804838.md" target="_blank">内蒙的李少莉局长火了 耳钉妆容发型还有励志的故事 一夜之间还大了两岁</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221031/1804410.md" target="_blank">见南韩踩踏悲剧 微博“见1事”大惊：国外没有疫情吗？</a></li>
 <li><a href="/topimagenews/20221031/1804388.md" target="_blank">梨泰院伤亡再升级：154人丧生，逾4100人失联</a></li>
 <li><a href="/topimagenews/20221030/1804272.md" target="_blank">梨泰院失踪人数再飙3580起 7小时暴增13倍</a></li>
-<li><a href="/topimagenews/20221030/1804255.md" target="_blank">河南应该是出了大事件 比起1942年的逃荒…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221101/1804905.md" target="_blank">文昭：习近平喊：社会主义拿命换！军车进城和万人暴走，最糟有多糟、有多快？</a></li>
 <li><a href="/comments/20221101/1804866.md" target="_blank">万圣节，一尊和锦涛同志都火了！【老北京茶馆10/31/2022】</a></li>
 <li><a href="/comments/20221101/1804833.md" target="_blank">怒！乌警方在俄占领区发现千具尸体 27个酷刑室</a></li>
 <li><a href="/comments/20221101/1804832.md" target="_blank">数万捷克人表达对乌克兰的支持</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221031/1804507.md" target="_blank">蔡霞：我为什么对中共绝望？【长文慎入】</a></li>
 <li><a href="/comments/20221031/1804490.md" target="_blank">三朝奸臣 王沪宁不倒之谜</a></li>
 <li><a href="/comments/20221031/1804489.md" target="_blank">龅牙赵：那个可以自由自在跑马拉松的年份已经过去快三年了</a></li>
-<li><a href="/comments/20221031/1804420.md" target="_blank">【方菲时间】推特易主，马斯克会在压力下搞折衷吗？对胡锦涛事件的两种分析；“饥饿游戏”中独裁者说的一句话，今天的中国人可以借鉴</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 
 </ul>
 </div>
