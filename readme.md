@@ -11,12 +11,10 @@
 <li><a href="/topimagenews/20221031/1804441.md">胡锦涛被驱离会场难以谢幕 习近平自己未来将如何？</a></li>
 <li><a href="/cbnews/20221031/1804506.md">习近平彭丽媛的神秘媒人曝光！中国第一家庭竟由罪犯帮忙建立！预告两件大事（终局风云之一，2022/10/30)</a></li>
 <li><a href="/topimagenews/20221031/1804481.md">我把定位改到郑州富士康，看到…</a></li>
-<li><a href="/yule/20221031/1804415.md">71岁富豪王石吃露天大排档，与娇妻田朴珺秀恩爱，全程热聊无代沟</a></li>
 <li><a href="/headline/20221031/1804429.md">越共总书记阮富仲访华   遭中方冷遇？</a></li>
 <li><a href="/cnnews/20221031/1804579.md">传3万特警军队接管富士康 网友流泪了：看到员工大逃亡视频【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221031/1804450.md">富士康员工徒步大逃离：大家装傻，老胡也在插葱</a></li>
 <li><a href="/cnnews/20221031/1804513.md">印度神童最新预言吓坏全球 台湾韩国乌克兰紧张 小心12个未爆弹</a></li>
-<li><a href="/yule/20221031/1804413.md">61岁费翔现身英国牛津大学，满脸黑胡渣帅气迷人，独居国外住别墅</a></li>
 <li><a href="/sohnews/20221031/1804491.md">刚刚连任的习近平不但没有“人逢喜事精神爽”，反而是“祸事连连”，我们就从四个方面来说说习近平身处的“四面楚歌” 【李军访谈20221030第85期】【周一纽约时间早9点播出】</a></li>
 <li><a href="/cnnews/20221031/1804511.md">小学生作文《我的小姨》火了！全是科技与狠活…</a></li>
 <li><a href="/cnnews/20221031/1804603.md">上海代做核酸的人，越来越离谱了</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/ssgc/20221031/1804613.md">二十大后各地供销社快速崛起 北京供销总社招公务员要求严</a></li>
 <li><a href="/topimagenews/20221031/1804610.md">“最新大师”：疫情再过十年，除了中国全球都要趴下</a></li>
 <li><a href="/topimagenews/20221031/1804627.md">普丁要输了？欧盟不怕能源危机 反杀俄罗斯靠这个…</a></li>
+<li><a href="/headline/20221031/1804628.md">习近平重塑供销社体系 赋予战备功能图避制裁</a></li>
+<li><a href="/topimagenews/20221031/1804457.md">去鹤岗躺平：1.5万买房，2022年的一场“新骗局”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221101/1804866.md" target="_blank">万圣节，一尊和锦涛同志都火了！【老北京茶馆10/31/2022】</a></li>
 <li><a href="/comments/20221101/1804833.md" target="_blank">怒！乌警方在俄占领区发现千具尸体 27个酷刑室</a></li>
 <li><a href="/comments/20221101/1804832.md" target="_blank">数万捷克人表达对乌克兰的支持</a></li>
 <li><a href="/comments/20221101/1804820.md" target="_blank">时事大家谈：改革派团灭，李、汪、胡为何破例出局？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221031/1804490.md" target="_blank">三朝奸臣 王沪宁不倒之谜</a></li>
 <li><a href="/comments/20221031/1804489.md" target="_blank">龅牙赵：那个可以自由自在跑马拉松的年份已经过去快三年了</a></li>
 <li><a href="/comments/20221031/1804420.md" target="_blank">【方菲时间】推特易主，马斯克会在压力下搞折衷吗？对胡锦涛事件的两种分析；“饥饿游戏”中独裁者说的一句话，今天的中国人可以借鉴</a></li>
-<li><a href="/comments/20221031/1804379.md" target="_blank">美国众议院议长佩洛西家遭歹徒闯入 丈夫被打伤 嫌犯进门狂呼“南希在哪里”？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
 
 </ul>
 </div>
