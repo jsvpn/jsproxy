@@ -12,22 +12,22 @@
 <li><a href="/cbnews/20221030/1804324.md">郑州派工作组进驻富士康 员工喊：闭环十几天了</a></li>
 <li><a href="/topimagenews/20221030/1804272.md">梨泰院失踪人数再飙3580起 7小时暴增13倍</a></li>
 <li><a href="/cbnews/20221030/1804231.md">天亮时分：习近平身边的两面人；华日长篇解密高层决策内幕，习近平亲自挑选两名加拿大人为人质；孟晚舟事件始末与各方得失（政论天下第835集 20221029）</a></li>
-<li><a href="/cbnews/20221030/1804363.md">习精心挑选政治局人选 或酿更大内斗</a></li>
 <li><a href="/baitai/20221030/1804297.md">蔡霞：我为什么对中共绝望？</a></li>
+<li><a href="/cbnews/20221030/1804363.md">习精心挑选政治局人选 或酿更大内斗</a></li>
 <li><a href="/sohnews/20221030/1804340.md">陈破空：二十大政变，早有迹象可循。胡锦涛变身打假英雄！投下一声惊雷。习近平精于权谋，但不懂政治：不留余地，不计后果</a></li>
 <li><a href="/sohnews/20221030/1804346.md">十分蹊跷！《华尔街日报》敏感时期释放重磅文章，揭开在孟晚舟事件中，中共囚犯交换内幕。精彩故事的背后，华日究竟什么用意？</a></li>
 <li><a href="/sohnews/20221030/1804273.md">💥习近平之外最有实权的人！陈文清手握中纪委、国安部“两个刀把子”，成“安保沙皇”；20大刚结束就抓了两个高官；陈文清背景复杂，与周永康马建都有交集；回顾延安整风，2.0快来了？｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cbnews/20221031/1804421.md">郑州富士康党委书记发文引发争议，本人回应了</a></li>
 <li><a href="/yule/20221030/1804258.md">东方卫视美女主持陈蓉，因丑闻被迫转幕后</a></li>
 <li><a href="/cbnews/20221030/1804232.md">北京的造谣机器惊人扩张</a></li>
 <li><a href="/topimagenews/20221030/1804254.md">韩国梨泰院失踪人数飙到2249人 家属接殡仪馆电话</a></li>
 <li><a href="/cnnews/20221030/1804257.md">遇上人踩人怎自救？医警告2件事千万不能做</a></li>
-<li><a href="/cbnews/20221031/1804421.md">郑州富士康党委书记发文引发争议，本人回应了</a></li>
 <li><a href="/baitai/20221030/1804371.md">郑州富士康暴动 员工大逃亡 传特警军队接管</a></li>
 <li><a href="/sohnews/20221030/1804326.md">男子进店讨吃的，老板慷慨赠予他蛋糕和水，走出门后男子嚎啕大哭 。25日，浙江湖州⋯⋯</a></li>
-<li><a href="/cnnews/20221030/1804172.md">mRNA白打了？流感疫苗防新冠重症效力竟达90％</a></li>
 <li><a href="/baitai/20221030/1804201.md">中共20大以后习近平将会干什么？</a></li>
-<li><a href="/cnnews/20221030/1804174.md">网友辩“润”冯小刚 持绿卡中国赚钱美国生活</a></li>
+<li><a href="/cnnews/20221031/1804428.md">习近平被点中要害！另一场文革正在进行【阿波罗网报道】</a></li>
 <li><a href="/comments/20221030/1804187.md">旧文重发：习近平2016年就已决定李强是总理接班人 干20年</a></li>
+<li><a href="/topimagenews/20221031/1804388.md">梨泰院伤亡再升级：154人丧生，逾4100人失联</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
 <li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
 
 </ul>
 </div>
