@@ -12,22 +12,22 @@
 <li><a href="/sohnews/20221030/1804340.md">陈破空：二十大政变，早有迹象可循。胡锦涛变身打假英雄！投下一声惊雷。习近平精于权谋，但不懂政治：不留余地，不计后果</a></li>
 <li><a href="/topimagenews/20221031/1804441.md">胡锦涛被驱离会场难以谢幕 习近平自己未来将如何？</a></li>
 <li><a href="/topimagenews/20221031/1804537.md">重磅！习近平没念这400字！二十大报告藏着个大秘密！【阿波罗网报道】</a></li>
-<li><a href="/baitai/20221030/1804371.md">郑州富士康暴动 员工大逃亡 传特警军队接管</a></li>
 <li><a href="/cbnews/20221031/1804506.md">习近平彭丽媛的神秘媒人曝光！中国第一家庭竟由罪犯帮忙建立！预告两件大事（终局风云之一，2022/10/30)</a></li>
+<li><a href="/baitai/20221030/1804371.md">郑州富士康暴动 员工大逃亡 传特警军队接管</a></li>
 <li><a href="/topimagenews/20221031/1804481.md">我把定位改到郑州富士康，看到…</a></li>
-<li><a href="/topimagenews/20221031/1804450.md">富士康员工徒步大逃离：大家装傻，老胡也在插葱</a></li>
-<li><a href="/yule/20221031/1804415.md">71岁富豪王石吃露天大排档，与娇妻田朴珺秀恩爱，全程热聊无代沟</a></li>
-<li><a href="/headline/20221031/1804429.md">越共总书记阮富仲访华   遭中方冷遇？</a></li>
 <li><a href="/cnnews/20221031/1804579.md">传3万特警军队接管富士康 网友流泪了：看到员工大逃亡视频【阿波罗网报道】</a></li>
-<li><a href="/yule/20221031/1804413.md">61岁费翔现身英国牛津大学，满脸黑胡渣帅气迷人，独居国外住别墅</a></li>
+<li><a href="/yule/20221031/1804415.md">71岁富豪王石吃露天大排档，与娇妻田朴珺秀恩爱，全程热聊无代沟</a></li>
+<li><a href="/topimagenews/20221031/1804450.md">富士康员工徒步大逃离：大家装傻，老胡也在插葱</a></li>
+<li><a href="/headline/20221031/1804429.md">越共总书记阮富仲访华   遭中方冷遇？</a></li>
 <li><a href="/cnnews/20221031/1804513.md">印度神童最新预言吓坏全球 台湾韩国乌克兰紧张 小心12个未爆弹</a></li>
+<li><a href="/yule/20221031/1804413.md">61岁费翔现身英国牛津大学，满脸黑胡渣帅气迷人，独居国外住别墅</a></li>
 <li><a href="/cnnews/20221031/1804511.md">小学生作文《我的小姨》火了！全是科技与狠活…</a></li>
 <li><a href="/sohnews/20221031/1804491.md">刚刚连任的习近平不但没有“人逢喜事精神爽”，反而是“祸事连连”，我们就从四个方面来说说习近平身处的“四面楚歌” 【李军访谈20221030第85期】【周一纽约时间早9点播出】</a></li>
 <li><a href="/topimagenews/20221031/1804388.md">梨泰院伤亡再升级：154人丧生，逾4100人失联</a></li>
 <li><a href="/comments/20221031/1804378.md">赵克志郭声琨卸任政法委 分析：难逃被查</a></li>
-<li><a href="/topimagenews/20221031/1804457.md">去鹤岗躺平：1.5万买房，2022年的一场“新骗局”</a></li>
 <li><a href="/worldnews/20221031/1804459.md">“遇难者衣服被挤掉，一丝不挂，让人难受…”</a></li>
-<li><a href="/topimagenews/20221031/1804497.md">印度神童最新预言曝光 台湾乌克兰英国中国吓到 小心11件事</a></li>
+<li><a href="/topimagenews/20221031/1804457.md">去鹤岗躺平：1.5万买房，2022年的一场“新骗局”</a></li>
+<li><a href="/cnnews/20221031/1804603.md">上海代做核酸的人，越来越离谱了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
 <li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
 
 </ul>
 </div>
