@@ -13,21 +13,21 @@
 <li><a href="/cbnews/20221031/1804506.md">习近平彭丽媛的神秘媒人曝光！中国第一家庭竟由罪犯帮忙建立！预告两件大事（终局风云之一，2022/10/30)</a></li>
 <li><a href="/baitai/20221030/1804371.md">郑州富士康暴动 员工大逃亡 传特警军队接管</a></li>
 <li><a href="/topimagenews/20221031/1804481.md">我把定位改到郑州富士康，看到…</a></li>
-<li><a href="/cnnews/20221031/1804579.md">传3万特警军队接管富士康 网友流泪了：看到员工大逃亡视频【阿波罗网报道】</a></li>
 <li><a href="/yule/20221031/1804415.md">71岁富豪王石吃露天大排档，与娇妻田朴珺秀恩爱，全程热聊无代沟</a></li>
-<li><a href="/topimagenews/20221031/1804450.md">富士康员工徒步大逃离：大家装傻，老胡也在插葱</a></li>
 <li><a href="/headline/20221031/1804429.md">越共总书记阮富仲访华   遭中方冷遇？</a></li>
-<li><a href="/cnnews/20221031/1804513.md">印度神童最新预言吓坏全球 台湾韩国乌克兰紧张 小心12个未爆弹</a></li>
+<li><a href="/cnnews/20221031/1804579.md">传3万特警军队接管富士康 网友流泪了：看到员工大逃亡视频【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221031/1804450.md">富士康员工徒步大逃离：大家装傻，老胡也在插葱</a></li>
 <li><a href="/yule/20221031/1804413.md">61岁费翔现身英国牛津大学，满脸黑胡渣帅气迷人，独居国外住别墅</a></li>
-<li><a href="/sohnews/20221031/1804491.md">刚刚连任的习近平不但没有“人逢喜事精神爽”，反而是“祸事连连”，我们就从四个方面来说说习近平身处的“四面楚歌” 【李军访谈20221030第85期】【周一纽约时间早9点播出】</a></li>
+<li><a href="/cnnews/20221031/1804513.md">印度神童最新预言吓坏全球 台湾韩国乌克兰紧张 小心12个未爆弹</a></li>
 <li><a href="/cnnews/20221031/1804511.md">小学生作文《我的小姨》火了！全是科技与狠活…</a></li>
+<li><a href="/sohnews/20221031/1804491.md">刚刚连任的习近平不但没有“人逢喜事精神爽”，反而是“祸事连连”，我们就从四个方面来说说习近平身处的“四面楚歌” 【李军访谈20221030第85期】【周一纽约时间早9点播出】</a></li>
 <li><a href="/cnnews/20221031/1804603.md">上海代做核酸的人，越来越离谱了</a></li>
-<li><a href="/topimagenews/20221031/1804388.md">梨泰院伤亡再升级：154人丧生，逾4100人失联</a></li>
 <li><a href="/comments/20221031/1804378.md">赵克志郭声琨卸任政法委 分析：难逃被查</a></li>
+<li><a href="/topimagenews/20221031/1804388.md">梨泰院伤亡再升级：154人丧生，逾4100人失联</a></li>
 <li><a href="/worldnews/20221031/1804459.md">“遇难者衣服被挤掉，一丝不挂，让人难受…”</a></li>
+<li><a href="/headline/20221031/1804580.md">中共20大报道：胡锦涛离席曝光黑幕 习近平被指实质“政变”</a></li>
 <li><a href="/baitai/20221031/1804493.md">我的关于胡锦涛离席的版本</a></li>
 <li><a href="/topimagenews/20221031/1804457.md">去鹤岗躺平：1.5万买房，2022年的一场“新骗局”</a></li>
-<li><a href="/headline/20221031/1804580.md">中共20大报道：胡锦涛离席曝光黑幕 习近平被指实质“政变”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221031/1804722.md" target="_blank">俄军发动新一轮空袭 基辅等城市断水断电</a></li>
 <li><a href="/comments/20221031/1804710.md" target="_blank">看完这集，就能改写人生了！缺失这东西，神却让他活得这么好？怎样的一念，才能成为神的恩典？科学家至今不敢面对的一位天才！</a></li>
 <li><a href="/cbnews/20221031/1804506.md" target="_blank">习近平彭丽媛的神秘媒人曝光！中国第一家庭竟由罪犯帮忙建立！预告两件大事（终局风云之一，2022/10/30)</a></li>
 <li><a href="/comments/20221031/1804597.md" target="_blank">为何说只有孙中山真正继承了中华道统？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221029/1803953.md" target="_blank">听母亲讲故事（三）：一张断绝关系的声明告示救了家人的命</a></li>
 <li><a href="/cbnews/20221029/1803985.md" target="_blank">没完没了，中国出现防疫收紧新迹象</a></li>
 <li><a href="/cbnews/20221029/1803972.md" target="_blank">逐帧分解胡锦涛在二十大闭幕会上的中途离场</a></li>
-<li><a href="/cbnews/20221029/1803901.md" target="_blank">江峰：美降低率先使用核武门槛；中共导弹部队从基地到混於市区的军工基地坐标被美国公开，暗示精准打击；怂了还是疯了？习近平突向美释善意，驻英公使辱英与流亡港人是农夫与蛇【江峰漫谈20221028第570期】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221031/1804719.md" target="_blank">【练乙铮评论】流亡港人的最大隐忧：自己断子绝孙（海外香港社群论丛之一）</a></li>
 <li><a href="/comments/20221031/1804710.md" target="_blank">看完这集，就能改写人生了！缺失这东西，神却让他活得这么好？怎样的一念，才能成为神的恩典？科学家至今不敢面对的一位天才！</a></li>
 <li><a href="/comments/20221031/1804694.md" target="_blank">王丹：也谈习近平的身体与心理健康问题</a></li>
 <li><a href="/comments/20221031/1804692.md" target="_blank">习近平回延安，这份“真爱”有多真？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221030/1804241.md" target="_blank">你兽爷:融创这一年</a></li>
 <li><a href="/comments/20221030/1804240.md" target="_blank">无相君：睡在桥洞里的骑手</a></li>
 <li><a href="/comments/20221030/1804239.md" target="_blank">中国的锐实力及其对民主的威胁</a></li>
-<li><a href="/comments/20221030/1804238.md" target="_blank">未央:中国为何没有伊朗式的反极权社会运动</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
 <li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 <li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 <li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
 
 </ul>
 </div>
