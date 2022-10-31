@@ -23,11 +23,11 @@
 <li><a href="/headline/20221031/1804580.md">中共20大报道：胡锦涛离席曝光黑幕 习近平被指实质“政变”</a></li>
 <li><a href="/worldnews/20221031/1804459.md">“遇难者衣服被挤掉，一丝不挂，让人难受…”</a></li>
 <li><a href="/baitai/20221031/1804493.md">我的关于胡锦涛离席的版本</a></li>
-<li><a href="/topimagenews/20221031/1804388.md">梨泰院伤亡再升级：154人丧生，逾4100人失联</a></li>
+<li><a href="/comments/20221031/1804694.md">王丹：也谈习近平的身体与心理健康问题</a></li>
 <li><a href="/ssgc/20221031/1804613.md">二十大后各地供销社快速崛起 北京供销总社招公务员要求严</a></li>
+<li><a href="/sohnews/20221031/1804702.md">习近平终极目标在富士康诡异大逃亡中显现！富士康们将被“赶走”供销社已经来了……</a></li>
 <li><a href="/headline/20221031/1804628.md">习近平重塑供销社体系 赋予战备功能图避制裁</a></li>
 <li><a href="/topimagenews/20221031/1804610.md">“最新大师”：疫情再过十年，除了中国全球都要趴下</a></li>
-<li><a href="/comments/20221031/1804694.md">王丹：也谈习近平的身体与心理健康问题</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221101/1804839.md" target="_blank">白宫恐转否决模式 拜登面临弹劾危机</a></li>
+<li><a href="/topimagenews/20221101/1804838.md" target="_blank">内蒙的李少莉局长火了 耳钉妆容发型还有励志的故事 一夜之间还大了两岁</a></li>
 <li><a href="/topimagenews/20221031/1804627.md" target="_blank">普丁要输了？欧盟不怕能源危机 反杀俄罗斯靠这个…</a></li>
 <li><a href="/topimagenews/20221031/1804610.md" target="_blank">“最新大师”：疫情再过十年，除了中国全球都要趴下</a></li>
 <li><a href="/topimagenews/20221031/1804602.md" target="_blank">郑州到底发生了什么？几个女人拎着行李 不走大路</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20221030/1804272.md" target="_blank">梨泰院失踪人数再飙3580起 7小时暴增13倍</a></li>
 <li><a href="/topimagenews/20221030/1804255.md" target="_blank">河南应该是出了大事件 比起1942年的逃荒…</a></li>
 <li><a href="/topimagenews/20221030/1804254.md" target="_blank">韩国梨泰院失踪人数飙到2249人 家属接殡仪馆电话</a></li>
-<li><a href="/topimagenews/20221030/1804217.md" target="_blank">【微博精粹】我从来没见过比中共国对中国人更狠的国家</a></li>
-<li><a href="/topimagenews/20221030/1804124.md" target="_blank">决战！将发生在下周？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221101/1804833.md" target="_blank">怒！乌警方在俄占领区发现千具尸体 27个酷刑室</a></li>
 <li><a href="/comments/20221101/1804832.md" target="_blank">数万捷克人表达对乌克兰的支持</a></li>
 <li><a href="/comments/20221101/1804820.md" target="_blank">时事大家谈：改革派团灭，李、汪、胡为何破例出局？</a></li>
 <li><a href="/comments/20221031/1804806.md" target="_blank">【世界变局】万圣节成索命鬼节 四大惨案震惊世界 韩国首尔梨泰院踩踏事故已造成至少154人死亡网传有人故意投毒 中国驻韩大使馆有敏感动作 印度百年吊桥重新开放五天后突然断裂导致死亡人数超140人 美国大规模枪击案造成13人死亡62人受伤 索马里首都汽车爆炸案导致至少100人死亡300人受伤</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221031/1804489.md" target="_blank">龅牙赵：那个可以自由自在跑马拉松的年份已经过去快三年了</a></li>
 <li><a href="/comments/20221031/1804420.md" target="_blank">【方菲时间】推特易主，马斯克会在压力下搞折衷吗？对胡锦涛事件的两种分析；“饥饿游戏”中独裁者说的一句话，今天的中国人可以借鉴</a></li>
 <li><a href="/comments/20221031/1804379.md" target="_blank">美国众议院议长佩洛西家遭歹徒闯入 丈夫被打伤 嫌犯进门狂呼“南希在哪里”？</a></li>
-<li><a href="/comments/20221031/1804378.md" target="_blank">赵克志郭声琨卸任政法委 分析：难逃被查</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
 
 </ul>
 </div>
