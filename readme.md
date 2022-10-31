@@ -13,8 +13,8 @@
 <li><a href="/topimagenews/20221031/1804481.md">我把定位改到郑州富士康，看到…</a></li>
 <li><a href="/yule/20221031/1804415.md">71岁富豪王石吃露天大排档，与娇妻田朴珺秀恩爱，全程热聊无代沟</a></li>
 <li><a href="/headline/20221031/1804429.md">越共总书记阮富仲访华   遭中方冷遇？</a></li>
-<li><a href="/cnnews/20221031/1804579.md">传3万特警军队接管富士康 网友流泪了：看到员工大逃亡视频【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221031/1804450.md">富士康员工徒步大逃离：大家装傻，老胡也在插葱</a></li>
+<li><a href="/cnnews/20221031/1804579.md">传3万特警军队接管富士康 网友流泪了：看到员工大逃亡视频【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221031/1804513.md">印度神童最新预言吓坏全球 台湾韩国乌克兰紧张 小心12个未爆弹</a></li>
 <li><a href="/yule/20221031/1804413.md">61岁费翔现身英国牛津大学，满脸黑胡渣帅气迷人，独居国外住别墅</a></li>
 <li><a href="/cnnews/20221031/1804511.md">小学生作文《我的小姨》火了！全是科技与狠活…</a></li>
@@ -25,8 +25,8 @@
 <li><a href="/worldnews/20221031/1804459.md">“遇难者衣服被挤掉，一丝不挂，让人难受…”</a></li>
 <li><a href="/baitai/20221031/1804493.md">我的关于胡锦涛离席的版本</a></li>
 <li><a href="/topimagenews/20221031/1804388.md">梨泰院伤亡再升级：154人丧生，逾4100人失联</a></li>
+<li><a href="/headline/20221031/1804628.md">习近平重塑供销社体系 赋予战备功能图避制裁</a></li>
 <li><a href="/topimagenews/20221031/1804610.md">“最新大师”：疫情再过十年，除了中国全球都要趴下</a></li>
-<li><a href="/topimagenews/20221031/1804457.md">去鹤岗躺平：1.5万买房，2022年的一场“新骗局”</a></li>
 <li><a href="/ssgc/20221031/1804613.md">二十大后各地供销社快速崛起 北京供销总社招公务员要求严</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221031/1804812.md" target="_blank">疫情烧！富士康员工只能徒步大逃亡 矢板明夫：健康码已成维稳工具</a></li>
+<li><a href="/cbnews/20221031/1804811.md" target="_blank">郑州疫情大爆发！机场取消665班次近100％ 还有3地相同处境</a></li>
 <li><a href="/cbnews/20221031/1804751.md" target="_blank">华府忧：拜登面临“不可测”的习近平时代</a></li>
 <li><a href="/cbnews/20221031/1804749.md" target="_blank">惨！上海迪士尼紧急关闭 在园游客需核酸阴性才能离开</a></li>
 <li><a href="/cbnews/20221031/1804722.md" target="_blank">俄军发动新一轮空袭 基辅等城市断水断电</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20221030/1804212.md" target="_blank">韩国万圣节活动酿踩踏惨剧 至少149人死</a></li>
 <li><a href="/cbnews/20221030/1804109.md" target="_blank">突发，南京金盛百货商场大火 官方连夜通报进展</a></li>
 <li><a href="/cbnews/20221030/1804060.md" target="_blank">肖尔茨访华肩负“不可能完成的任务”</a></li>
-<li><a href="/cbnews/20221029/1804037.md" target="_blank">日媒：追求毛泽东的绝对权威 习近平必打此牌</a></li>
-<li><a href="/cbnews/20221029/1803953.md" target="_blank">听母亲讲故事（三）：一张断绝关系的声明告示救了家人的命</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221031/1804806.md" target="_blank">【世界变局】万圣节成索命鬼节 四大惨案震惊世界 韩国首尔梨泰院踩踏事故已造成至少154人死亡网传有人故意投毒 中国驻韩大使馆有敏感动作 印度百年吊桥重新开放五天后突然断裂导致死亡人数超140人 美国大规模枪击案造成13人死亡62人受伤 索马里首都汽车爆炸案导致至少100人死亡300人受伤</a></li>
+<li><a href="/comments/20221031/1804801.md" target="_blank">时事大家谈：7常委朝拜延安，习近平效仿毛泽东？改革派团灭，李、汪、胡为何破例出局？</a></li>
 <li><a href="/comments/20221031/1804786.md" target="_blank">聚焦维吾尔 | 伊利夏提：新疆警察档案 — 维吾尔种族灭绝的刽子手集团—兵团</a></li>
 <li><a href="/comments/20221031/1804719.md" target="_blank">【练乙铮评论】流亡港人的最大隐忧：自己断子绝孙（海外香港社群论丛之一）</a></li>
 <li><a href="/comments/20221031/1804710.md" target="_blank">看完这集，就能改写人生了！缺失这东西，神却让他活得这么好？怎样的一念，才能成为神的恩典？科学家至今不敢面对的一位天才！</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221031/1804378.md" target="_blank">赵克志郭声琨卸任政法委 分析：难逃被查</a></li>
 <li><a href="/comments/20221030/1804347.md" target="_blank">习家军再掌重权！中共政法委秘书长陈一新任国家安全部长</a></li>
 <li><a href="/comments/20221030/1804249.md" target="_blank">冯小刚徐帆之後，徐峥陶虹也现身境外！高端人口陆续离境，谁提前泄露习第三任期前景资讯？</a></li>
-<li><a href="/comments/20221030/1804241.md" target="_blank">你兽爷:融创这一年</a></li>
-<li><a href="/comments/20221030/1804240.md" target="_blank">无相君：睡在桥洞里的骑手</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 <li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 
 </ul>
 </div>
