@@ -13,8 +13,8 @@
 <li><a href="/topimagenews/20221101/1805071.md">独家！习近平频频隐身 谜底揭晓！【阿波罗网报道】</a></li>
 <li><a href="/comments/20221101/1805210.md">接下来习近平会做什么事？中国老百姓可以做哪些事？</a></li>
 <li><a href="/sohnews/20221101/1805120.md">💥国务院正副总理全体出局！还谁懂经济？李克强有一作用，李强比不了；王岐山鲜为人知的故事，他卸任副主席，两个热门接班人选；富士康万人集体出走，严重内幕或被掩藏｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/weiquan/20221101/1805048.md">北京四通桥勇士彭立发先生的简历</a></li>
 <li><a href="/cnnews/20221101/1805027.md">东莞美女人妻市场炒米粉！绝美妆容爆红一晚卖200碗吸42万粉丝</a></li>
+<li><a href="/weiquan/20221101/1805048.md">北京四通桥勇士彭立发先生的简历</a></li>
 <li><a href="/topimagenews/20221101/1805041.md">【微博精粹】官方哀鸣：富士康可以离开郑州 但郑州真的离不开富士康</a></li>
 <li><a href="/headline/20221101/1805144.md">胡锦涛被离场 前中共老干部公开要求“学弟”习近平说明</a></li>
 <li><a href="/sohnews/20221101/1805179.md">💣中共将建数倍于阿里巴巴的全国供销系统, 招聘几十万售货员, 工资高过卖房还有事业编! 习天下“战争领导班子”恐铲除中产阶级, 讨好底层农民, 一切为了备战打仗!【20221101】</a></li>
@@ -22,11 +22,11 @@
 <li><a href="/comments/20221101/1805195.md">陈敏尔失常 胡春华出局 接班人“魔咒”再现？</a></li>
 <li><a href="/topimagenews/20221101/1805054.md">江绵恒是怎样成为“中国第一贪”的</a></li>
 <li><a href="/cbnews/20221101/1804907.md">习氏一言堂 连这神秘的谏言武器也不再精彩</a></li>
-<li><a href="/cbnews/20221101/1805056.md">习近平这番言论，暗藏可怕政治信号【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221101/1805230.md">又“润”一个 中国地产界女首富离职 定居美国；上海3000万豪宅业主快要急疯；</a></li>
-<li><a href="/cnnews/20221101/1804872.md">谁做的…中共应急管理部门官网被黑</a></li>
+<li><a href="/cbnews/20221101/1805056.md">习近平这番言论，暗藏可怕政治信号【阿波罗网报道】</a></li>
 <li><a href="/headline/20221101/1805236.md">新端倪？陆股港股大涨 疯传中国高层研讨清零松绑</a></li>
 <li><a href="/comments/20221101/1804866.md">万圣节，一尊和锦涛同志都火了！【老北京茶馆10/31/2022】</a></li>
+<li><a href="/cnnews/20221101/1804872.md">谁做的…中共应急管理部门官网被黑</a></li>
 <li><a href="/cnnews/20221101/1804993.md">中国女首富近日辞职润了 带双胞胎儿子定居美国</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 <li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 
 </ul>
 </div>
