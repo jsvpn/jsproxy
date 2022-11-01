@@ -5,13 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221101/1804916.md">胡锦涛为何被退场 毛泽东秘书女儿披露惊人内幕【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221101/1804921.md">“秘密协议是真！习近平用‘两个确立’换掉李克强-汪洋-胡春华：出局！”ShitaoTV - 03 (28/10/22) 逐胡春华出政治局-爆点！</a></li>
 <li><a href="/sohnews/20221101/1804964.md">李希入常让不少人意外，他与习近平没有工作交集，却成为中纪委书记。他与习究竟是什么关系，他的当选将意味着什么？揭开李希鲜为人知的其人其实。</a></li>
 <li><a href="/topimagenews/20221101/1805071.md">独家！习近平频频隐身 谜底揭晓！【阿波罗网报道】</a></li>
-<li><a href="/comments/20221101/1805210.md">接下来习近平会做什么事？中国老百姓可以做哪些事？</a></li>
 <li><a href="/sohnews/20221101/1805120.md">💥国务院正副总理全体出局！还谁懂经济？李克强有一作用，李强比不了；王岐山鲜为人知的故事，他卸任副主席，两个热门接班人选；富士康万人集体出走，严重内幕或被掩藏｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20221101/1805027.md">东莞美女人妻市场炒米粉！绝美妆容爆红一晚卖200碗吸42万粉丝</a></li>
+<li><a href="/comments/20221101/1805210.md">接下来习近平会做什么事？中国老百姓可以做哪些事？</a></li>
 <li><a href="/topimagenews/20221101/1805041.md">【微博精粹】官方哀鸣：富士康可以离开郑州 但郑州真的离不开富士康</a></li>
 <li><a href="/weiquan/20221101/1805048.md">北京四通桥勇士彭立发先生的简历</a></li>
 <li><a href="/headline/20221101/1805144.md">胡锦涛被离场 前中共老干部公开要求“学弟”习近平说明</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20221101/1804924.md">小小孩看的不一样？浙江3岁女儿深夜指墙上风景画说“孩子” 老母吓出冷汗</a></li>
 <li><a href="/topimagenews/20221101/1805055.md">三大民族罪人之一，死了！【阿波罗网报道】</a></li>
 <li><a href="/health/20221101/1805173.md">断食2天可以重启人体免疫系统？研究公布结论，越早了解越好</a></li>
+<li><a href="/ssgc/20221101/1805032.md">〖兲朝浮世绘〗一线明星云集争相表忠心，都怕不跟党走没饭吃</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221102/1805447.md" target="_blank">前中共组织部官员阎淮为胡锦涛安危致习近平的公开信</a></li>
 <li><a href="/cbnews/20221102/1805395.md" target="_blank">传红二代马晓力批评习近平</a></li>
 <li><a href="/cbnews/20221102/1805388.md" target="_blank">能见到胡锦涛吗？德国总理北京行亚历山大 到处都是批评声</a></li>
 <li><a href="/cbnews/20221102/1805369.md" target="_blank">越共总书记阮富仲见习近平 越南官媒通稿有猫腻</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221031/1804506.md" target="_blank">习近平彭丽媛的神秘媒人曝光！中国第一家庭竟由罪犯帮忙建立！预告两件大事（终局风云之一，2022/10/30)</a></li>
 <li><a href="/comments/20221031/1804597.md" target="_blank">为何说只有孙中山真正继承了中华道统？</a></li>
 <li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/cbnews/20221031/1804539.md" target="_blank">吓阻中共攻台！美军拟在澳部署六架可携带核子武器的B-52战略轰炸机…</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221102/1805448.md" target="_blank">《燕铭时评》通告：按年度订阅会员将获15%优惠</a></li>
 <li><a href="/comments/20221102/1805393.md" target="_blank">玻璃心获奖，黄明志妙语酸党！ 【老北京茶馆11/01/2022】</a></li>
 <li><a href="/comments/20221102/1805357.md" target="_blank">【独家重磅】李燕铭：五名军工背景省委书记二十大入局 独缺江绵恒马仔张庆伟 内幕揭秘 李燕铭提前一年准确预测江派接班人选张庆伟梦断二十大 张庆伟顶风作案 黑龙江五虎公开叫板习近平 习近平三亲信接力清洗 张庆伟被调虎离山搭档下属密集被查 习近平决战江曾（四三） 二十大高层人事大战（六八） 习近平清洗黑龙江帮（二） 习近平清洗湖南帮（一）</a></li>
 <li><a href="/comments/20221102/1805356.md" target="_blank">掌管中共高层生死大权 中南海新管家至今成谜</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221101/1805087.md" target="_blank">亲共男毁坏香港法轮功真相点 法官判罪名成立</a></li>
 <li><a href="/comments/20221101/1805086.md" target="_blank">印度断桥事件酿至少141死 营运单位9名职员被捕</a></li>
 <li><a href="/comments/20221101/1805067.md" target="_blank">一名亿万富翁因乌战自动放弃俄罗斯国籍</a></li>
-<li><a href="/comments/20221101/1805065.md" target="_blank">法国政要支持法轮功 总理表示已经关注</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 <li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 
 </ul>
 </div>
