@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20221101/1805120.md">💥国务院正副总理全体出局！还谁懂经济？李克强有一作用，李强比不了；王岐山鲜为人知的故事，他卸任副主席，两个热门接班人选；富士康万人集体出走，严重内幕或被掩藏｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20221101/1805071.md">独家！习近平频频隐身 谜底揭晓！【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20221101/1805027.md">东莞美女人妻市场炒米粉！绝美妆容爆红一晚卖200碗吸42万粉丝</a></li>
 <li><a href="/comments/20221101/1805210.md">接下来习近平会做什么事？中国老百姓可以做哪些事？</a></li>
 <li><a href="/weiquan/20221101/1805048.md">北京四通桥勇士彭立发先生的简历</a></li>
 <li><a href="/topimagenews/20221101/1805041.md">【微博精粹】官方哀鸣：富士康可以离开郑州 但郑州真的离不开富士康</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/cbnews/20221101/1805056.md">习近平这番言论，暗藏可怕政治信号【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221101/1805171.md">为孩子买奶粉！ 河北男硬闯清零路障 拿菜刀要跟警察拼命…</a></li>
 <li><a href="/cbnews/20221102/1805358.md">习班子要统一台湾？ 美学者：高层非全鹰派 何卫东已知共军面临挑战</a></li>
-<li><a href="/cbnews/20221101/1805092.md">江峰：富士康万人大逃难源於这个传闻？与1942大逃荒差异太大了！习近平封自己当总理？二十大霜降日新科政治局常委露面与三大自然现象竟不谋而合【江峰漫谈20221031第571期】</a></li>
 <li><a href="/cnnews/20221102/1805345.md">知名美女科学家颜宁辞普林斯顿大学教职 返国创立深圳医学科学院</a></li>
-<li><a href="/cbnews/20221102/1805369.md">越共总书记阮富仲见习近平 越南官媒通稿有猫腻</a></li>
-<li><a href="/topimagenews/20221101/1805055.md">三大民族罪人之一，死了！【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20221101/1805092.md">江峰：富士康万人大逃难源於这个传闻？与1942大逃荒差异太大了！习近平封自己当总理？二十大霜降日新科政治局常委露面与三大自然现象竟不谋而合【江峰漫谈20221031第571期】</a></li>
 <li><a href="/cbnews/20221102/1805447.md">前中共组织部官员阎淮为胡锦涛安危致习近平的公开信</a></li>
+<li><a href="/cbnews/20221102/1805369.md">越共总书记阮富仲见习近平 越南官媒通稿有猫腻</a></li>
+<li><a href="/cnnews/20221102/1805390.md">梨泰院失踪暴增4100人！网红找到原因了</a></li>
+<li><a href="/topimagenews/20221101/1805055.md">三大民族罪人之一，死了！【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20221102/1805388.md">能见到胡锦涛吗？德国总理北京行亚历山大 到处都是批评声</a></li>
 <li><a href="/health/20221101/1805173.md">断食2天可以重启人体免疫系统？研究公布结论，越早了解越好</a></li>
-<li><a href="/ssgc/20221101/1805032.md">〖兲朝浮世绘〗一线明星云集争相表忠心，都怕不跟党走没饭吃</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221102/1805569.md" target="_blank">维舟：富士康事件：他们经历的，我们也可能经历</a></li>
+<li><a href="/comments/20221102/1805568.md" target="_blank">不垄断，国企一定亏；一垄断，百姓肯定亏</a></li>
+<li><a href="/comments/20221102/1805567.md" target="_blank">广宇：简析“按劳分配”</a></li>
+<li><a href="/comments/20221102/1805566.md" target="_blank">新时代知青：我的民智开启之路</a></li>
+<li><a href="/comments/20221102/1805565.md" target="_blank">意料之中的宿命</a></li>
 <li><a href="/comments/20221102/1805538.md" target="_blank">流马：买奶粉的男人</a></li>
 <li><a href="/comments/20221102/1805537.md" target="_blank">敏敏郡主：公号还能写多久？</a></li>
 <li><a href="/comments/20221102/1805504.md" target="_blank">西坡: 有些奶粉，需要持刀购买</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20221102/1805351.md" target="_blank">时事大家谈：“四通桥”横幅蔓延海外 “厕所革命”遍地开花</a></li>
 <li><a href="/comments/20221102/1805350.md" target="_blank">时事大家谈：郑州疫情扩散 富士康员工“大逃亡”</a></li>
 <li><a href="/comments/20221102/1805324.md" target="_blank">周星驰悼梨泰院事故死难者 引“粉红”们不满</a></li>
-<li><a href="/comments/20221102/1805323.md" target="_blank">习近平加速团队形成 中国或将大乱到大治</a></li>
-<li><a href="/comments/20221102/1805322.md" target="_blank">冯小刚证实8月已赴美：送孩子上学</a></li>
-<li><a href="/comments/20221102/1805321.md" target="_blank">孟晚舟被捕内幕曝光 习近平下令抓人换囚</a></li>
-<li><a href="/comments/20221101/1805314.md" target="_blank">时事大家谈：郑州疫情扩散 富士康员工“大逃亡”；“四通桥”横幅蔓延海外 “厕所革命”遍地开花</a></li>
-<li><a href="/comments/20221101/1805295.md" target="_blank">【直播】第六届新唐人国际钢琴大赛</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
 <li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
 
 </ul>
 </div>
