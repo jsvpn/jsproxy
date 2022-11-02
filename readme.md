@@ -11,23 +11,23 @@
 <li><a href="/comments/20221101/1805210.md">接下来习近平会做什么事？中国老百姓可以做哪些事？</a></li>
 <li><a href="/weiquan/20221101/1805048.md">北京四通桥勇士彭立发先生的简历</a></li>
 <li><a href="/topimagenews/20221101/1805041.md">【微博精粹】官方哀鸣：富士康可以离开郑州 但郑州真的离不开富士康</a></li>
-<li><a href="/headline/20221101/1805144.md">胡锦涛被离场 前中共老干部公开要求“学弟”习近平说明</a></li>
 <li><a href="/sohnews/20221101/1805179.md">💣中共将建数倍于阿里巴巴的全国供销系统, 招聘几十万售货员, 工资高过卖房还有事业编! 习天下“战争领导班子”恐铲除中产阶级, 讨好底层农民, 一切为了备战打仗!【20221101】</a></li>
+<li><a href="/headline/20221101/1805144.md">胡锦涛被离场 前中共老干部公开要求“学弟”习近平说明</a></li>
 <li><a href="/comments/20221101/1805195.md">陈敏尔失常 胡春华出局 接班人“魔咒”再现？</a></li>
+<li><a href="/cbnews/20221102/1805395.md">传红二代马晓力批评习近平</a></li>
 <li><a href="/topimagenews/20221101/1805054.md">江绵恒是怎样成为“中国第一贪”的</a></li>
 <li><a href="/topimagenews/20221101/1805230.md">又“润”一个 中国地产界女首富离职 定居美国；上海3000万豪宅业主快要急疯；</a></li>
-<li><a href="/cbnews/20221102/1805395.md">传红二代马晓力批评习近平</a></li>
 <li><a href="/headline/20221101/1805236.md">新端倪？陆股港股大涨 疯传中国高层研讨清零松绑</a></li>
 <li><a href="/cbnews/20221101/1805056.md">习近平这番言论，暗藏可怕政治信号【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20221101/1804993.md">中国女首富近日辞职润了 带双胞胎儿子定居美国</a></li>
 <li><a href="/topimagenews/20221101/1805171.md">为孩子买奶粉！ 河北男硬闯清零路障 拿菜刀要跟警察拼命…</a></li>
 <li><a href="/cbnews/20221101/1805092.md">江峰：富士康万人大逃难源於这个传闻？与1942大逃荒差异太大了！习近平封自己当总理？二十大霜降日新科政治局常委露面与三大自然现象竟不谋而合【江峰漫谈20221031第571期】</a></li>
 <li><a href="/cbnews/20221102/1805358.md">习班子要统一台湾？ 美学者：高层非全鹰派 何卫东已知共军面临挑战</a></li>
 <li><a href="/cnnews/20221102/1805345.md">知名美女科学家颜宁辞普林斯顿大学教职 返国创立深圳医学科学院</a></li>
 <li><a href="/topimagenews/20221101/1805055.md">三大民族罪人之一，死了！【阿波罗网报道】</a></li>
-<li><a href="/health/20221101/1805173.md">断食2天可以重启人体免疫系统？研究公布结论，越早了解越好</a></li>
 <li><a href="/cbnews/20221102/1805369.md">越共总书记阮富仲见习近平 越南官媒通稿有猫腻</a></li>
+<li><a href="/health/20221101/1805173.md">断食2天可以重启人体免疫系统？研究公布结论，越早了解越好</a></li>
 <li><a href="/ssgc/20221101/1805032.md">〖兲朝浮世绘〗一线明星云集争相表忠心，都怕不跟党走没饭吃</a></li>
+<li><a href="/cbnews/20221101/1805022.md">天亮时分：富士康万人逃离后，武汉郑州出现军车；供销社覆盖95%乡镇，中共清零民间供应链；美国最高法院重审平权法案（政论天下第837集 20221031）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221102/1805538.md" target="_blank">流马：买奶粉的男人</a></li>
+<li><a href="/comments/20221102/1805537.md" target="_blank">敏敏郡主：公号还能写多久？</a></li>
 <li><a href="/comments/20221102/1805504.md" target="_blank">西坡: 有些奶粉，需要持刀购买</a></li>
 <li><a href="/comments/20221102/1805503.md" target="_blank">赢是梦 输吃草 中共内代价是韭菜</a></li>
 <li><a href="/comments/20221102/1805502.md" target="_blank">宏大叙事过剩之下，看到消解苦难的亮光</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221102/1805321.md" target="_blank">孟晚舟被捕内幕曝光 习近平下令抓人换囚</a></li>
 <li><a href="/comments/20221101/1805314.md" target="_blank">时事大家谈：郑州疫情扩散 富士康员工“大逃亡”；“四通桥”横幅蔓延海外 “厕所革命”遍地开花</a></li>
 <li><a href="/comments/20221101/1805295.md" target="_blank">【直播】第六届新唐人国际钢琴大赛</a></li>
-<li><a href="/comments/20221101/1805233.md" target="_blank">富士康郑州厂大逃亡 路透：恐冲击高达3成iPhone产量</a></li>
-<li><a href="/comments/20221101/1805222.md" target="_blank">【财经拆局】容许散户参与虚拟货币交易 为货币双轨制铺路？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
 
 </ul>
 </div>
