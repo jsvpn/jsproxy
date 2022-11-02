@@ -5,9 +5,7 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20221102/1805238.md">郑州卫健委造反了，说新冠肺炎没什么大不了？传王沪宁受命研究放弃清零，三月解封？别让中共跑了！</a></li>
 <li><a href="/topimagenews/20221102/1805471.md">两条重磅消息悄无声息登上热搜 房产税来了</a></li>
-<li><a href="/cbnews/20221102/1805447.md">前中共组织部官员阎淮为胡锦涛安危致习近平的公开信</a></li>
 <li><a href="/topimagenews/20221102/1805472.md">释放关键信号：20大后，习近平要开始全面反制？</a></li>
 <li><a href="/comments/20221102/1805624.md">10月30日，中共解放军大部队进入武汉！</a></li>
 <li><a href="/headline/20221102/1805712.md">20大后胡春华首次露面</a></li>
@@ -19,15 +17,17 @@
 <li><a href="/comments/20221102/1805627.md">郑州富士康员工暴动并大逃亡后，中共大批军队进入郑州！</a></li>
 <li><a href="/cbnews/20221102/1805616.md">围着习近平拍马屁！黄坤明上任先干这件事【阿波罗网报道】</a></li>
 <li><a href="/yule/20221102/1805708.md">冯小刚亲自辟谣 可问题是…</a></li>
-<li><a href="/comments/20221102/1805620.md">兰州封城，一名三岁小孩煤气中毒，3小时等不到救护车而死亡。愤怒的居民开始抗议，不到10分钟，大批特警警察到场镇压！</a></li>
 <li><a href="/cnnews/20221102/1805603.md">胡耀邦究竟是怎样被迫辞职的？</a></li>
+<li><a href="/comments/20221102/1805620.md">兰州封城，一名三岁小孩煤气中毒，3小时等不到救护车而死亡。愤怒的居民开始抗议，不到10分钟，大批特警警察到场镇压！</a></li>
+<li><a href="/cnnews/20221103/1805850.md">要过苦日子了！中国财政部要盘活40兆资产 叫事业单位筹钱养活自己</a></li>
 <li><a href="/renquan/20221102/1805526.md">郑州富士康员工网爆突围大逃亡起因</a></li>
 <li><a href="/comments/20221102/1805621.md">失业大潮中的失业者！</a></li>
 <li><a href="/baitai/20221102/1805682.md">武汉疫情升温 民疯狂抢购深夜逃离 多地再现人道灾难</a></li>
 <li><a href="/ssgc/20221102/1805575.md">中共解体可能在极短时间内发生</a></li>
 <li><a href="/topimagenews/20221102/1805619.md">美投重磅炸弹 中芯7奈米惊人下场：10年废了…</a></li>
 <li><a href="/ssgc/20221102/1805634.md">中国各地建食堂 两年后推广 计划经济模式实现战略目标</a></li>
-<li><a href="/cnnews/20221103/1805850.md">要过苦日子了！中国财政部要盘活40兆资产 叫事业单位筹钱养活自己</a></li>
+<li><a href="/cbnews/20221103/1805858.md">南院“欺负”北院!“党中央政治菜鸟”李强接总理 外商纷纷开始“润”</a></li>
+<li><a href="/ssgc/20221102/1805488.md">〖微博谈〗牲口般的国度</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221103/1805952.md" target="_blank">文昭：文昭谈古论今订阅100万致谢，兼论油管自媒体江湖</a></li>
+<li><a href="/comments/20221103/1805943.md" target="_blank">被制裁央企包揽多项港府工程 外资资讯安全或更难受保障</a></li>
+<li><a href="/comments/20221103/1805942.md" target="_blank">港“国际金融领袖投资峰会”8号风球下进行 嘉宾阵容逊新加坡“金融科技节”</a></li>
+<li><a href="/comments/20221103/1805941.md" target="_blank">英国将阻击中国渗透：关孔子学院 、调查海外警局、解除“姊妹城市”关系</a></li>
+<li><a href="/comments/20221103/1805940.md" target="_blank">胡春华二十大后首亮相</a></li>
 <li><a href="/comments/20221103/1805917.md" target="_blank">美国中期选举前大动作 商谈治理“假讯息”被曝光</a></li>
 <li><a href="/comments/20221103/1805894.md" target="_blank">李飞飞惨了！【老北京茶馆11/02/2022】</a></li>
 <li><a href="/comments/20221103/1805867.md" target="_blank">郑州富士康，持续有大量员工大逃亡，公司宣称加钱也留不住人。</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20221102/1805621.md" target="_blank">失业大潮中的失业者！</a></li>
 <li><a href="/comments/20221102/1805620.md" target="_blank">兰州封城，一名三岁小孩煤气中毒，3小时等不到救护车而死亡。愤怒的居民开始抗议，不到10分钟，大批特警警察到场镇压！</a></li>
 <li><a href="/comments/20221102/1805607.md" target="_blank">“刀郎”奶爸驾车闯关被抓捕，原因只为婴儿奶粉？习近平三孩政策催生电话来了：你准备哪天怀孕？</a></li>
-<li><a href="/comments/20221102/1805599.md" target="_blank">李燕铭：中共二十大后系列经济数据公布哀鸿遍野 2296只股票基金99%惨赔 券商净利暴跌 公募基金巨亏 外商及港澳台商投资企业利润大跌 钢铁业利润大降七成 汽车旺季销售走跌 中共末日之经济危机（十）</a></li>
-<li><a href="/comments/20221102/1805569.md" target="_blank">维舟：富士康事件：他们经历的，我们也可能经历</a></li>
-<li><a href="/comments/20221102/1805568.md" target="_blank">不垄断，国企一定亏；一垄断，百姓肯定亏</a></li>
-<li><a href="/comments/20221102/1805567.md" target="_blank">广宇：简析“按劳分配”</a></li>
-<li><a href="/comments/20221102/1805566.md" target="_blank">新时代知青：我的民智开启之路</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
 
 </ul>
 </div>
