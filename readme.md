@@ -8,26 +8,26 @@
 <li><a href="/sohnews/20221101/1805120.md">💥国务院正副总理全体出局！还谁懂经济？李克强有一作用，李强比不了；王岐山鲜为人知的故事，他卸任副主席，两个热门接班人选；富士康万人集体出走，严重内幕或被掩藏｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20221101/1805071.md">独家！习近平频频隐身 谜底揭晓！【阿波罗网报道】</a></li>
 <li><a href="/comments/20221101/1805210.md">接下来习近平会做什么事？中国老百姓可以做哪些事？</a></li>
-<li><a href="/weiquan/20221101/1805048.md">北京四通桥勇士彭立发先生的简历</a></li>
 <li><a href="/sohnews/20221101/1805179.md">💣中共将建数倍于阿里巴巴的全国供销系统, 招聘几十万售货员, 工资高过卖房还有事业编! 习天下“战争领导班子”恐铲除中产阶级, 讨好底层农民, 一切为了备战打仗!【20221101】</a></li>
-<li><a href="/headline/20221101/1805144.md">胡锦涛被离场 前中共老干部公开要求“学弟”习近平说明</a></li>
 <li><a href="/cbnews/20221102/1805395.md">传红二代马晓力批评习近平</a></li>
+<li><a href="/headline/20221101/1805144.md">胡锦涛被离场 前中共老干部公开要求“学弟”习近平说明</a></li>
 <li><a href="/comments/20221101/1805195.md">陈敏尔失常 胡春华出局 接班人“魔咒”再现？</a></li>
-<li><a href="/topimagenews/20221101/1805054.md">江绵恒是怎样成为“中国第一贪”的</a></li>
 <li><a href="/topimagenews/20221101/1805230.md">又“润”一个 中国地产界女首富离职 定居美国；上海3000万豪宅业主快要急疯；</a></li>
 <li><a href="/headline/20221101/1805236.md">新端倪？陆股港股大涨 疯传中国高层研讨清零松绑</a></li>
-<li><a href="/cbnews/20221101/1805056.md">习近平这番言论，暗藏可怕政治信号【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221101/1805171.md">为孩子买奶粉！ 河北男硬闯清零路障 拿菜刀要跟警察拼命…</a></li>
-<li><a href="/cbnews/20221102/1805358.md">习班子要统一台湾？ 美学者：高层非全鹰派 何卫东已知共军面临挑战</a></li>
 <li><a href="/cbnews/20221102/1805447.md">前中共组织部官员阎淮为胡锦涛安危致习近平的公开信</a></li>
+<li><a href="/cbnews/20221102/1805358.md">习班子要统一台湾？ 美学者：高层非全鹰派 何卫东已知共军面临挑战</a></li>
+<li><a href="/topimagenews/20221101/1805171.md">为孩子买奶粉！ 河北男硬闯清零路障 拿菜刀要跟警察拼命…</a></li>
 <li><a href="/cnnews/20221102/1805345.md">知名美女科学家颜宁辞普林斯顿大学教职 返国创立深圳医学科学院</a></li>
+<li><a href="/topimagenews/20221102/1805471.md">两条重磅消息悄无声息登上热搜 房产税来了</a></li>
 <li><a href="/cbnews/20221101/1805092.md">江峰：富士康万人大逃难源於这个传闻？与1942大逃荒差异太大了！习近平封自己当总理？二十大霜降日新科政治局常委露面与三大自然现象竟不谋而合【江峰漫谈20221031第571期】</a></li>
 <li><a href="/cbnews/20221102/1805369.md">越共总书记阮富仲见习近平 越南官媒通稿有猫腻</a></li>
 <li><a href="/cnnews/20221102/1805390.md">梨泰院失踪暴增4100人！网红找到原因了</a></li>
-<li><a href="/topimagenews/20221101/1805055.md">三大民族罪人之一，死了！【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20221102/1805238.md">郑州卫健委造反了，说新冠肺炎没什么大不了？传王沪宁受命研究放弃清零，三月解封？别让中共跑了！</a></li>
 <li><a href="/cbnews/20221102/1805388.md">能见到胡锦涛吗？德国总理北京行亚历山大 到处都是批评声</a></li>
-<li><a href="/topimagenews/20221102/1805471.md">两条重磅消息悄无声息登上热搜 房产税来了</a></li>
+<li><a href="/comments/20221102/1805323.md">习近平加速团队形成 中国或将大乱到大治</a></li>
 <li><a href="/health/20221101/1805173.md">断食2天可以重启人体免疫系统？研究公布结论，越早了解越好</a></li>
+<li><a href="/finance/20221102/1805330.md">北京传来“风声” 中港股市急升</a></li>
+<li><a href="/baitai/20221102/1805405.md">富士康传令人担忧消息 事件或成转折点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221102/1805599.md" target="_blank">李燕铭：中共二十大后系列经济数据公布哀鸿遍野 2296只股票基金99%惨赔 券商净利暴跌 公募基金巨亏 外商及港澳台商投资企业利润大跌 钢铁业利润大降七成 汽车旺季销售走跌 中共末日之经济危机（十）</a></li>
 <li><a href="/comments/20221102/1805569.md" target="_blank">维舟：富士康事件：他们经历的，我们也可能经历</a></li>
 <li><a href="/comments/20221102/1805568.md" target="_blank">不垄断，国企一定亏；一垄断，百姓肯定亏</a></li>
 <li><a href="/comments/20221102/1805567.md" target="_blank">广宇：简析“按劳分配”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221102/1805353.md" target="_blank">新唐人钢琴大赛指定曲目 选手赞“这是圣歌！”</a></li>
 <li><a href="/comments/20221102/1805351.md" target="_blank">时事大家谈：“四通桥”横幅蔓延海外 “厕所革命”遍地开花</a></li>
 <li><a href="/comments/20221102/1805350.md" target="_blank">时事大家谈：郑州疫情扩散 富士康员工“大逃亡”</a></li>
-<li><a href="/comments/20221102/1805324.md" target="_blank">周星驰悼梨泰院事故死难者 引“粉红”们不满</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
 <li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 
 </ul>
 </div>
