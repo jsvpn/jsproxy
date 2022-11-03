@@ -9,7 +9,6 @@
 <li><a href="/headline/20221102/1805712.md">20大后胡春华首次露面</a></li>
 <li><a href="/topimagenews/20221102/1805618.md">败退！江派大笔杆子突然宣布搁笔！【阿波罗网报道】</a></li>
 <li><a href="/comments/20221102/1805640.md">北上广的实体店，成片的关店！</a></li>
-<li><a href="/topimagenews/20221102/1805554.md">克宫情报外泄 普丁浑身颤抖问题大了</a></li>
 <li><a href="/sohnews/20221102/1805644.md">💥红二代说胡锦涛是“两面人”！谈他为何被架走；武汉现“出城潮”；冯小刚辟谣，但人真在美国；陆媒谈富士康事件内幕；中共官媒为韩国“操碎了心”；兰州“清零”又出事，医护未到警察已到｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20221102/1805614.md">江峰：供销社兴旺、国营食堂回归，上山下乡和旧版人民币作废在路上— 托克维尔评查理十世：“以为自己是真神，选择的理念，推行的政策，无一不是发霉的旧货。”【江峰漫谈20221101第572期】</a></li>
 <li><a href="/sohnews/20221103/1805877.md">“供销社之后：很快发行新货币！一把毁掉所有有钱人 ⋯ ！”ShitaoTV - 01 (02/11/22) 佐证20大习近平所为：中共国经济已崩毁！</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/ssgc/20221102/1805634.md">中国各地建食堂 两年后推广 计划经济模式实现战略目标</a></li>
 <li><a href="/topimagenews/20221103/1805871.md">推特公司门口，他们被解雇抱纸箱离开，结果…</a></li>
 <li><a href="/cbnews/20221103/1805857.md">吃了熊心豹子胆？ 再度跟习近平清零唱反调 胡锡进：超长封控不科学</a></li>
+<li><a href="/cbnews/20221103/1805895.md">中共军委发文：听习主席指挥、对习主席负责…</a></li>
 <li><a href="/headline/20221102/1805709.md">【公私合营】国家市场监管总局批准中国联通与腾讯设立「混改新公司」</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221103/1806071.md" target="_blank">长平观察：“内参”治了一个什么国？</a></li>
 <li><a href="/comments/20221103/1806034.md" target="_blank">为儿子讨公道：我是兰州封控小区3岁男童因煤气中毒身亡事件孩子的家属</a></li>
 <li><a href="/comments/20221103/1806032.md" target="_blank">兰州七里河事件，能否拿出“梨泰院事件五问”那种态度</a></li>
 <li><a href="/comments/20221103/1806031.md" target="_blank">张机:弱弱地问一下，新疆什么时候才可以…</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221103/1805942.md" target="_blank">港“国际金融领袖投资峰会”8号风球下进行 嘉宾阵容逊新加坡“金融科技节”</a></li>
 <li><a href="/comments/20221103/1805941.md" target="_blank">英国将阻击中国渗透：关孔子学院 、调查海外警局、解除“姊妹城市”关系</a></li>
 <li><a href="/comments/20221103/1805940.md" target="_blank">胡春华二十大后首亮相</a></li>
-<li><a href="/comments/20221103/1805917.md" target="_blank">美国中期选举前大动作 商谈治理“假讯息”被曝光</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 <li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
 
 </ul>
 </div>
