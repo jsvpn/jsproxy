@@ -14,20 +14,20 @@
 <li><a href="/comments/20221103/1805960.md">袁斌：胡海峰的仕途到头了</a></li>
 <li><a href="/topimagenews/20221103/1806114.md">跌破眼镜 上海帮和之江新军失意二十大</a></li>
 <li><a href="/cnnews/20221103/1806007.md">戴3万耳钉的女官员被换，换上来的这个也“吓人”</a></li>
-<li><a href="/topimagenews/20221103/1806015.md">堪称史诗级大片：当富士康汹涌人潮遇上大白军团</a></li>
 <li><a href="/cbnews/20221103/1805859.md">战友、旧部下纷被“剪裙边”! 王歧山恐“裸退” 谁来接“礼仪性”副主席？</a></li>
+<li><a href="/topimagenews/20221103/1806015.md">堪称史诗级大片：当富士康汹涌人潮遇上大白军团</a></li>
 <li><a href="/ssgc/20221103/1805970.md">〖兲朝浮世绘〗习帝就是想把海外的中国人都管起来</a></li>
 <li><a href="/topimagenews/20221103/1805871.md">推特公司门口，他们被解雇抱纸箱离开，结果…</a></li>
+<li><a href="/baitai/20221103/1806151.md">国家副主席都没好下场 未来他最可能接任</a></li>
 <li><a href="/cbnews/20221103/1805846.md">被认出来了：这个中国外交官是个“惯犯”</a></li>
 <li><a href="/baitai/20221103/1805918.md">灾难性预警！这一幕又重现中国 经济学家撰文警告</a></li>
 <li><a href="/ssgc/20221103/1806129.md">胡海峰的仕途到头了</a></li>
-<li><a href="/baitai/20221103/1806151.md">国家副主席都没好下场 未来他最可能接任</a></li>
 <li><a href="/topimagenews/20221103/1806016.md">习近平“内参”治国？治了个什么国？</a></li>
 <li><a href="/topimagenews/20221102/1805749.md">“拿普丁换台湾”俄罗斯棋王分析俄乌与台海 爆习近平这一步棋</a></li>
 <li><a href="/baitai/20221102/1805802.md">润出中国 这招实在高 政治后果随时爆发</a></li>
 <li><a href="/topimagenews/20221102/1805778.md">北溪“凶手”超大咖？俄媒爆猛料：她发送给美国3字神秘讯息</a></li>
 <li><a href="/comments/20221103/1806086.md">何与怀：一个关于习近平的令人笑不出的笑话</a></li>
-<li><a href="/sohnews/20221103/1805951.md">陈破空：惊爆！习近平向拜登提秘密交易：用普京换台湾！颜宁高调离美返中，她的未来是受迫害。直播与互动。美东11月2日晚8点30、即中港台11月3日早8点30</a></li>
+<li><a href="/topimagenews/20221103/1806099.md">习近平紧追毛泽东？专家：毛聪明得多，习很脆弱</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221103/1806263.md" target="_blank">王沪宁与习近平联手与西方对赌未来10年！他们会赢吗</a></li>
 <li><a href="/comments/20221103/1806250.md" target="_blank">中共再度打压演艺圈 矢板明夫：已进入疯狂模式</a></li>
 <li><a href="/comments/20221103/1806249.md" target="_blank">美媒揭华为孟晚舟换囚秘辛 习近平曾下达100多道指令</a></li>
 <li><a href="/comments/20221103/1806247.md" target="_blank">中国民企收归国有？腾讯被国企合营了</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221103/1805962.md" target="_blank">钟原：中共高层尴尬接替 富士康事件谁收场</a></li>
 <li><a href="/comments/20221103/1805961.md" target="_blank">王友群：中共惧怕的电影《长春》好评如潮</a></li>
 <li><a href="/comments/20221103/1805960.md" target="_blank">袁斌：胡海峰的仕途到头了</a></li>
-<li><a href="/comments/20221103/1805959.md" target="_blank">张菁：中共曾批国民党“一党独裁 遍地是灾”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
 <li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
 
 </ul>
 </div>
