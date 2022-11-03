@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20221103/1805877.md">“供销社之后：很快发行新货币！一把毁掉所有有钱人 ⋯ ！”ShitaoTV - 01 (02/11/22) 佐证20大习近平所为：中共国经济已崩毁！</a></li>
 <li><a href="/cbnews/20221103/1805975.md">天亮时分：松绑清零政策？股市闻声暴涨，卫健委表态；习近平用普京换台湾？美联储再升息75点，终端利率前景模糊（政论天下第838集 20221102）</a></li>
 <li><a href="/cbnews/20221103/1805895.md">中共军委发文：听习主席指挥、对习主席负责…</a></li>
 <li><a href="/comments/20221103/1805960.md">袁斌：胡海峰的仕途到头了</a></li>
@@ -14,9 +13,8 @@
 <li><a href="/topimagenews/20221103/1806015.md">堪称史诗级大片：当富士康汹涌人潮遇上大白军团</a></li>
 <li><a href="/cnnews/20221103/1806233.md">震惊！中国股票基金99%惨赔仅1%获利；曝中共刚给中国人挖1大坑；</a></li>
 <li><a href="/ssgc/20221103/1805970.md">〖兲朝浮世绘〗习帝就是想把海外的中国人都管起来</a></li>
-<li><a href="/topimagenews/20221103/1806222.md">建议撤军议和！土耳其总统传向普丁直言：俄罗斯无法避免战败的结局</a></li>
 <li><a href="/baitai/20221103/1806151.md">国家副主席都没好下场 未来他最可能接任</a></li>
-<li><a href="/topimagenews/20221103/1805871.md">推特公司门口，他们被解雇抱纸箱离开，结果…</a></li>
+<li><a href="/topimagenews/20221103/1806222.md">建议撤军议和！土耳其总统传向普丁直言：俄罗斯无法避免战败的结局</a></li>
 <li><a href="/ssgc/20221103/1806129.md">胡海峰的仕途到头了</a></li>
 <li><a href="/baitai/20221103/1805918.md">灾难性预警！这一幕又重现中国 经济学家撰文警告</a></li>
 <li><a href="/finance/20221103/1806191.md">撑不住了 iPhone可能要破天荒降价</a></li>
@@ -24,10 +22,12 @@
 <li><a href="/topimagenews/20221103/1806016.md">习近平“内参”治国？治了个什么国？</a></li>
 <li><a href="/comments/20221103/1806086.md">何与怀：一个关于习近平的令人笑不出的笑话</a></li>
 <li><a href="/topimagenews/20221103/1806099.md">习近平紧追毛泽东？专家：毛聪明得多，习很脆弱</a></li>
+<li><a href="/ssgc/20221103/1806262.md">胡春华与胡海峰的表忠说明了什么？</a></li>
 <li><a href="/sohnews/20221103/1805951.md">陈破空：惊爆！习近平向拜登提秘密交易：用普京换台湾！颜宁高调离美返中，她的未来是受迫害。直播与互动。美东11月2日晚8点30、即中港台11月3日早8点30</a></li>
 <li><a href="/cbnews/20221103/1806230.md">多地回应乘火车飞机不再查核酸 其实不是那回事</a></li>
 <li><a href="/topimagenews/20221103/1806065.md">北京裸辞，去海外当蓝领，老板开飞机来接我</a></li>
-<li><a href="/ssgc/20221103/1806262.md">胡春华与胡海峰的表忠说明了什么？</a></li>
+<li><a href="/headline/20221103/1806234.md">卫健委召开直属机关党员干部大会 表明「毫不动摇坚持动态清零」</a></li>
+<li><a href="/topimagenews/20221103/1806115.md">北京租金高到连马斯克都怕了？特斯拉关闭大陆首家旗舰店</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
 <li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 
 </ul>
 </div>
