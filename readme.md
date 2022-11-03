@@ -15,19 +15,19 @@
 <li><a href="/comments/20221102/1805627.md">郑州富士康员工暴动并大逃亡后，中共大批军队进入郑州！</a></li>
 <li><a href="/cnnews/20221103/1805850.md">要过苦日子了！中国财政部要盘活40兆资产 叫事业单位筹钱养活自己</a></li>
 <li><a href="/cbnews/20221102/1805616.md">围着习近平拍马屁！黄坤明上任先干这件事【阿波罗网报道】</a></li>
-<li><a href="/yule/20221102/1805708.md">冯小刚亲自辟谣 可问题是…</a></li>
-<li><a href="/cnnews/20221102/1805603.md">胡耀邦究竟是怎样被迫辞职的？</a></li>
-<li><a href="/comments/20221102/1805620.md">兰州封城，一名三岁小孩煤气中毒，3小时等不到救护车而死亡。愤怒的居民开始抗议，不到10分钟，大批特警警察到场镇压！</a></li>
 <li><a href="/sohnews/20221103/1805877.md">“供销社之后：很快发行新货币！一把毁掉所有有钱人 ⋯ ！”ShitaoTV - 01 (02/11/22) 佐证20大习近平所为：中共国经济已崩毁！</a></li>
+<li><a href="/yule/20221102/1805708.md">冯小刚亲自辟谣 可问题是…</a></li>
 <li><a href="/cbnews/20221103/1805858.md">南院“欺负”北院!“党中央政治菜鸟”李强接总理 外商纷纷开始“润”</a></li>
+<li><a href="/comments/20221102/1805620.md">兰州封城，一名三岁小孩煤气中毒，3小时等不到救护车而死亡。愤怒的居民开始抗议，不到10分钟，大批特警警察到场镇压！</a></li>
+<li><a href="/cnnews/20221102/1805603.md">胡耀邦究竟是怎样被迫辞职的？</a></li>
 <li><a href="/renquan/20221102/1805526.md">郑州富士康员工网爆突围大逃亡起因</a></li>
 <li><a href="/comments/20221102/1805621.md">失业大潮中的失业者！</a></li>
 <li><a href="/baitai/20221102/1805682.md">武汉疫情升温 民疯狂抢购深夜逃离 多地再现人道灾难</a></li>
 <li><a href="/ssgc/20221102/1805575.md">中共解体可能在极短时间内发生</a></li>
 <li><a href="/topimagenews/20221102/1805619.md">美投重磅炸弹 中芯7奈米惊人下场：10年废了…</a></li>
 <li><a href="/ssgc/20221102/1805634.md">中国各地建食堂 两年后推广 计划经济模式实现战略目标</a></li>
-<li><a href="/ssgc/20221102/1805488.md">〖微博谈〗牲口般的国度</a></li>
 <li><a href="/headline/20221102/1805709.md">【公私合营】国家市场监管总局批准中国联通与腾讯设立「混改新公司」</a></li>
+<li><a href="/headline/20221102/1805718.md">颜宁高调离美 或掀20大后留洋中国科学家回归爱国潮？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221103/1805998.md" target="_blank">林保华：习近平无后台湾有韧性</a></li>
 <li><a href="/comments/20221103/1805981.md" target="_blank">李木通:内部不团结才是台湾国防的大破口</a></li>
 <li><a href="/comments/20221103/1805980.md" target="_blank">中国式现代化：习近平来真的了</a></li>
 <li><a href="/comments/20221103/1805979.md" target="_blank">吴侃：防疫成为一切借口</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221103/1805840.md" target="_blank">2022年中共国六大末日乱象 中共丢失一批又一批小粉红和5毛党 中共崩塌应该是两三年内可以看得到的大概率事件 中南海不可告人的秘密_560</a></li>
 <li><a href="/comments/20221103/1805835.md" target="_blank">时事大家谈：红二代致习近平公开信 要求澄清胡离席真相</a></li>
 <li><a href="/comments/20221103/1805834.md" target="_blank">时事大家谈：多国调查中国“海外警局” “长臂执法”引发担忧</a></li>
-<li><a href="/comments/20221102/1805818.md" target="_blank">时事大家谈：红二代致习近平公开信 要求澄清胡离席真相；多国调查中国“海外警局” “长臂执法”引发担忧</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
 <li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
 
 </ul>
 </div>
