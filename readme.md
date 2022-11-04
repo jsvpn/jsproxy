@@ -11,23 +11,23 @@
 <li><a href="/cbnews/20221104/1806488.md">天亮时分：三个证据，习近平走回文革面临极大阻力；胡锦涛和团派将以分裂党的名义被清算？（政论天下第839集 20221103）</a></li>
 <li><a href="/comments/20221104/1806411.md">李克强、汪洋二十大破例出局 专家揭内幕</a></li>
 <li><a href="/topimagenews/20221104/1806396.md">云南有了第一家国营食堂，中国网友们却很清醒</a></li>
-<li><a href="/comments/20221104/1806370.md">【独家重磅】李燕铭：胡海峰态度陡变公开反习？宣讲二十大不提习近平 70后接班梯队成形 胡海峰掉队仕途前景黯淡 中共二十大团派团灭内幕（十一） 二十大高层人事大战（六九）</a></li>
 <li><a href="/cbnews/20221104/1805598.md">明年三月反习大决战，体制内人人都要站队！远华特大走私案，习近平家族是主谋和获益者！ （终局风云02，2022/11/1)</a></li>
-<li><a href="/topimagenews/20221104/1806371.md">翻车现场：北京一男子致14亿人受长期管控</a></li>
 <li><a href="/topimagenews/20221104/1806498.md">深挖中共二把手李强 两种特性 另一面</a></li>
 <li><a href="/cbnews/20221104/1806059.md">中国第十一次大乱世即将到来！润不了的必须掌握这个生存策略（一平论政2022/11/2)</a></li>
 <li><a href="/cbnews/20221104/1806424.md">油锅反射露馅 正妹网红“本尊”曝光 网友大崩溃</a></li>
 <li><a href="/baitai/20221104/1806614.md">王小洪要再挑重担？丁薛祥发文 让人冒冷汗</a></li>
-<li><a href="/comments/20221104/1806372.md">西藏年轻网红歌手伊西曲措发布视频，披露拉萨封城管控真相！</a></li>
 <li><a href="/topimagenews/20221104/1806759.md">中共正妹干部突请辞！自爆跟“11人啪啪”含长官 网叹：为上位惨沦公车</a></li>
 <li><a href="/ssgc/20221104/1806566.md">〖兲朝浮世绘〗大家都知道“北京一男子”指的是谁</a></li>
 <li><a href="/topimagenews/20221104/1806547.md">小民之心：富士康到底藏着啥秘密</a></li>
 <li><a href="/comments/20221104/1806640.md">11月2日，上海华为研发中心200多名员工被多辆公交车拉走隔离！</a></li>
 <li><a href="/topimagenews/20221104/1806442.md">一分钟内下注同一号码两次中9.29亿 中国彩券得主遭质疑作弊</a></li>
+<li><a href="/comments/20221104/1806752.md">深圳南山区南山村封控，居民集体冲卡后，与大批警察对峙！</a></li>
 <li><a href="/cnnews/20221104/1806536.md">我在隔离集装箱当“公主”入住照震惊朋友圈</a></li>
 <li><a href="/baitai/20221104/1806439.md">之江新军失意？李强曾和他明争暗斗 习家军终将分化？</a></li>
 <li><a href="/topimagenews/20221104/1806586.md">【微博精粹】该极端时要极端</a></li>
-<li><a href="/comments/20221104/1806752.md">深圳南山区南山村封控，居民集体冲卡后，与大批警察对峙！</a></li>
+<li><a href="/ssgc/20221104/1806524.md">〖微博谈〗生活已经黄了</a></li>
+<li><a href="/yule/20221104/1806400.md">43岁秦岚火上热搜！网：怪不得能当“绿茶鼻祖” 动图/图集</a></li>
+<li><a href="/cnnews/20221104/1806445.md">现在俄罗斯人如何评价列宁？太惊人了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221105/1806836.md" target="_blank">【爱赏唐诗】羌笛何须怨杨柳 为何春风不度玉门关</a></li>
 <li><a href="/comments/20221104/1806802.md" target="_blank">时事大家谈：习近平对台政策面临艰难选择 会否铤而走险？</a></li>
 <li><a href="/comments/20221104/1806801.md" target="_blank">专栏 | 劳工通讯：广东省珠海市睿康医疗科技公司女工产假期间遭恶意拖欠工资</a></li>
 <li><a href="/comments/20221104/1806790.md" target="_blank">时事大家谈：德国总理朔尔茨访华 会不会步入北京的战略陷阱？&#160;</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221104/1806372.md" target="_blank">西藏年轻网红歌手伊西曲措发布视频，披露拉萨封城管控真相！</a></li>
 <li><a href="/comments/20221104/1806370.md" target="_blank">【独家重磅】李燕铭：胡海峰态度陡变公开反习？宣讲二十大不提习近平 70后接班梯队成形 胡海峰掉队仕途前景黯淡 中共二十大团派团灭内幕（十一） 二十大高层人事大战（六九）</a></li>
 <li><a href="/comments/20221104/1806363.md" target="_blank">进了供销社，感觉像进了历史博物馆！</a></li>
-<li><a href="/comments/20221103/1806332.md" target="_blank">时事大家谈：李强上位，和习近平将是怎样的君相关系？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
 <li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 
 </ul>
 </div>
