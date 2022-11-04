@@ -16,18 +16,18 @@
 <li><a href="/ssgc/20221104/1806566.md">〖兲朝浮世绘〗大家都知道“北京一男子”指的是谁</a></li>
 <li><a href="/topimagenews/20221104/1806547.md">小民之心：富士康到底藏着啥秘密</a></li>
 <li><a href="/comments/20221104/1806640.md">11月2日，上海华为研发中心200多名员工被多辆公交车拉走隔离！</a></li>
-<li><a href="/cnnews/20221104/1806536.md">我在隔离集装箱当“公主”入住照震惊朋友圈</a></li>
 <li><a href="/cbnews/20221105/1806808.md">中国前首席防疫学者：动态清零政策将有重大改变</a></li>
+<li><a href="/cnnews/20221104/1806536.md">我在隔离集装箱当“公主”入住照震惊朋友圈</a></li>
 <li><a href="/comments/20221104/1806753.md">郑州， 居民聚集小区门口抗议，要求解封！</a></li>
 <li><a href="/topimagenews/20221104/1806586.md">【微博精粹】该极端时要极端</a></li>
 <li><a href="/sohnews/20221104/1806741.md">陈破空：德国总理访中，习近平竟然叫不出他的名字！有没有问到胡锦涛？他很喜欢孟晚舟？一百次地设法营救。直播与互动。美东11月4日早9点、即中港台11月4日晚9点</a></li>
 <li><a href="/ssgc/20221104/1806524.md">〖微博谈〗生活已经黄了</a></li>
+<li><a href="/cnnews/20221105/1806813.md">诡异！她杭州地铁学狗趴“主人任务？” 结果下指令的竟是大学老师</a></li>
+<li><a href="/headline/20221104/1806743.md">【公私合营】刘强东套现离场 新希望集团被「混改」</a></li>
 <li><a href="/comments/20221104/1806495.md">一文看懂大食堂和供销社！热传文：《某胖：他们究竟想干什么？》</a></li>
 <li><a href="/yule/20221104/1806702.md">关之琳60岁真实状态现形 路边滑手机女子竟是“香江第一美人”</a></li>
+<li><a href="/cbnews/20221105/1806829.md">毕业之旅？中共宣布总理李克强即将出访</a></li>
 <li><a href="/lifebaike/20221104/1806674.md">人体的最佳状态是阴在上阳在下，可惜现代人都颠倒了</a></li>
-<li><a href="/headline/20221104/1806743.md">【公私合营】刘强东套现离场 新希望集团被「混改」</a></li>
-<li><a href="/topimagenews/20221104/1806639.md">俄军的重大失败！乌克兰有望收复战略重镇赫尔松…</a></li>
-<li><a href="/cnnews/20221105/1806813.md">诡异！她杭州地铁学狗趴“主人任务？” 结果下指令的竟是大学老师</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221105/1806960.md" target="_blank">习近平为什么一直要连任?</a></li>
+<li><a href="/comments/20221105/1806958.md" target="_blank">周晓辉：习政权是稳固还是相当脆弱？</a></li>
+<li><a href="/comments/20221105/1806957.md" target="_blank">千百度：兰州3岁男孩纯粹是死于煤气中毒吗？</a></li>
+<li><a href="/comments/20221105/1806956.md" target="_blank">广宇：从核酸测试的中外差别谈起</a></li>
+<li><a href="/comments/20221105/1806955.md" target="_blank">听党史专家司马璐揭秘中共：台共与台独</a></li>
+<li><a href="/comments/20221105/1806953.md" target="_blank">文昭：原首席专家放话：中国清零政策马上要改！「习牌二极管」承受严酷考验，放宽清零背後的激烈较量</a></li>
 <li><a href="/comments/20221105/1806944.md" target="_blank">颜丹：逃离富士康人潮不断 重金难留是何因？</a></li>
 <li><a href="/comments/20221105/1806943.md" target="_blank">王赫：供销社并非合作经济，只是中共的锁链</a></li>
 <li><a href="/comments/20221105/1806927.md" target="_blank">关键选战（四）：川普可能在11月14号宣布参选？拜登说中期选举结果可能几天后才出，啥意思？预告选举夜直播 ｜中期选举直播特别节目（四）｜ 11/04/2022</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20221104/1806753.md" target="_blank">郑州， 居民聚集小区门口抗议，要求解封！</a></li>
 <li><a href="/comments/20221104/1806752.md" target="_blank">深圳南山区南山村封控，居民集体冲卡后，与大批警察对峙！</a></li>
 <li><a href="/comments/20221104/1806742.md" target="_blank">中企租用码头难逃俄炮击 乌克兰外交部：1.7万吨葵花油全毁</a></li>
-<li><a href="/comments/20221104/1806728.md" target="_blank">少数人知道的！用这两个颜色，就能练出艺术、易理、谋略、智慧⋯⋯揭开木强者的真面目！流传的另一部“孙子兵法”？</a></li>
-<li><a href="/comments/20221104/1806640.md" target="_blank">11月2日，上海华为研发中心200多名员工被多辆公交车拉走隔离！</a></li>
-<li><a href="/comments/20221104/1806631.md" target="_blank">大庆市萨尔图区九区批发市场被封控，商户只能在严寒中游击卖菜，非常凄惨。11月3日，商户聚集抗议，当局则派出大批警察镇压。</a></li>
-<li><a href="/comments/20221104/1806567.md" target="_blank">【独家重磅】李燕铭：习近平推动供销社大食堂死灰复燃 背后不可告人的八大秘密 二十大后习近平步步惊心 将自身置于九死一生绝境 中共末日疯狂中启动程序性解体 惊涛骇浪将一波接一波 习近平决战江曾（四四） 中南海政变与反政变（六一） 习江钱袋子争夺战（二一）</a></li>
-<li><a href="/comments/20221104/1806559.md" target="_blank">沉雁：叶落深秋天渐寒，归去来兮衣可单？——评颜宁事件</a></li>
-<li><a href="/comments/20221104/1806532.md" target="_blank">【欺世大观】151 中国要变天 共军须反叛</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
 <li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
 
 </ul>
 </div>
