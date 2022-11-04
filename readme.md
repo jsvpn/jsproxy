@@ -16,17 +16,17 @@
 <li><a href="/topimagenews/20221104/1806498.md">深挖中共二把手李强 两种特性 另一面</a></li>
 <li><a href="/cbnews/20221104/1806424.md">油锅反射露馅 正妹网红“本尊”曝光 网友大崩溃</a></li>
 <li><a href="/cbnews/20221104/1805598.md">明年三月反习大决战，体制内人人都要站队！远华特大走私案，习近平家族是主谋和获益者！ （终局风云02，2022/11/1)</a></li>
-<li><a href="/comments/20221104/1806363.md">进了供销社，感觉像进了历史博物馆！</a></li>
 <li><a href="/cbnews/20221104/1806059.md">中国第十一次大乱世即将到来！润不了的必须掌握这个生存策略（一平论政2022/11/2)</a></li>
+<li><a href="/comments/20221104/1806363.md">进了供销社，感觉像进了历史博物馆！</a></li>
 <li><a href="/baitai/20221104/1806614.md">王小洪要再挑重担？丁薛祥发文 让人冒冷汗</a></li>
 <li><a href="/comments/20221104/1806372.md">西藏年轻网红歌手伊西曲措发布视频，披露拉萨封城管控真相！</a></li>
 <li><a href="/comments/20221103/1806283.md">团派团灭了！李克强汪洋够惨，胡锦涛儿子也够惨，但最惨是他</a></li>
 <li><a href="/topimagenews/20221104/1806547.md">小民之心：富士康到底藏着啥秘密</a></li>
-<li><a href="/topimagenews/20221104/1806442.md">一分钟内下注同一号码两次中9.29亿 中国彩券得主遭质疑作弊</a></li>
 <li><a href="/ssgc/20221104/1806566.md">〖兲朝浮世绘〗大家都知道“北京一男子”指的是谁</a></li>
+<li><a href="/topimagenews/20221104/1806442.md">一分钟内下注同一号码两次中9.29亿 中国彩券得主遭质疑作弊</a></li>
 <li><a href="/cnnews/20221104/1806536.md">我在隔离集装箱当“公主”入住照震惊朋友圈</a></li>
-<li><a href="/sohnews/20221104/1806364.md">“涛哥话音未落⋯ 腾讯-京东-阿里巴巴同时宣布：被公私合营”《今日点击》 (03/11/22) 习近平早阴谋 下手贼快！</a></li>
 <li><a href="/baitai/20221104/1806439.md">之江新军失意？李强曾和他明争暗斗 习家军终将分化？</a></li>
+<li><a href="/sohnews/20221104/1806364.md">“涛哥话音未落⋯ 腾讯-京东-阿里巴巴同时宣布：被公私合营”《今日点击》 (03/11/22) 习近平早阴谋 下手贼快！</a></li>
 <li><a href="/topimagenews/20221104/1806586.md">【微博精粹】该极端时要极端</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221104/1806742.md" target="_blank">中企租用码头难逃俄炮击 乌克兰外交部：1.7万吨葵花油全毁</a></li>
 <li><a href="/comments/20221104/1806728.md" target="_blank">少数人知道的！用这两个颜色，就能练出艺术、易理、谋略、智慧⋯⋯揭开木强者的真面目！流传的另一部“孙子兵法”？</a></li>
 <li><a href="/comments/20221104/1806640.md" target="_blank">11月2日，上海华为研发中心200多名员工被多辆公交车拉走隔离！</a></li>
 <li><a href="/comments/20221104/1806631.md" target="_blank">大庆市萨尔图区九区批发市场被封控，商户只能在严寒中游击卖菜，非常凄惨。11月3日，商户聚集抗议，当局则派出大批警察镇压。</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221103/1806276.md" target="_blank">【未普评论】藉「小院高墙」，二十大后美中加速科技脱钩</a></li>
 <li><a href="/comments/20221103/1806263.md" target="_blank">王沪宁与习近平联手与西方对赌未来10年！他们会赢吗</a></li>
 <li><a href="/comments/20221103/1806250.md" target="_blank">中共再度打压演艺圈 矢板明夫：已进入疯狂模式</a></li>
-<li><a href="/comments/20221103/1806249.md" target="_blank">美媒揭华为孟晚舟换囚秘辛 习近平曾下达100多道指令</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 <li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 
 </ul>
 </div>
