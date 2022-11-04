@@ -10,8 +10,8 @@
 <li><a href="/topimagenews/20221104/1806606.md">丁薛祥6千字长文 发空前信号！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221104/1806488.md">天亮时分：三个证据，习近平走回文革面临极大阻力；胡锦涛和团派将以分裂党的名义被清算？（政论天下第839集 20221103）</a></li>
 <li><a href="/topimagenews/20221104/1806396.md">云南有了第一家国营食堂，中国网友们却很清醒</a></li>
-<li><a href="/comments/20221104/1806411.md">李克强、汪洋二十大破例出局 专家揭内幕</a></li>
 <li><a href="/comments/20221104/1806370.md">【独家重磅】李燕铭：胡海峰态度陡变公开反习？宣讲二十大不提习近平 70后接班梯队成形 胡海峰掉队仕途前景黯淡 中共二十大团派团灭内幕（十一） 二十大高层人事大战（六九）</a></li>
+<li><a href="/comments/20221104/1806411.md">李克强、汪洋二十大破例出局 专家揭内幕</a></li>
 <li><a href="/cbnews/20221104/1805598.md">明年三月反习大决战，体制内人人都要站队！远华特大走私案，习近平家族是主谋和获益者！ （终局风云02，2022/11/1)</a></li>
 <li><a href="/topimagenews/20221104/1806371.md">翻车现场：北京一男子致14亿人受长期管控</a></li>
 <li><a href="/topimagenews/20221104/1806498.md">深挖中共二把手李强 两种特性 另一面</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/topimagenews/20221104/1806442.md">一分钟内下注同一号码两次中9.29亿 中国彩券得主遭质疑作弊</a></li>
 <li><a href="/cnnews/20221104/1806536.md">我在隔离集装箱当“公主”入住照震惊朋友圈</a></li>
 <li><a href="/baitai/20221104/1806439.md">之江新军失意？李强曾和他明争暗斗 习家军终将分化？</a></li>
+<li><a href="/topimagenews/20221104/1806759.md">中共正妹干部突请辞！自爆跟“11人啪啪”含长官 网叹：为上位惨沦公车</a></li>
 <li><a href="/topimagenews/20221104/1806586.md">【微博精粹】该极端时要极端</a></li>
-<li><a href="/sohnews/20221104/1806364.md">“涛哥话音未落⋯ 腾讯-京东-阿里巴巴同时宣布：被公私合营”《今日点击》 (03/11/22) 习近平早阴谋 下手贼快！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221105/1806809.md" target="_blank">G7外长：台海问题须和平解决 中应避免威胁或使用武力</a></li>
+<li><a href="/cbnews/20221105/1806808.md" target="_blank">中国前首席防疫学者：动态清零政策将有重大改变</a></li>
 <li><a href="/comments/20221104/1806753.md" target="_blank">郑州， 居民聚集小区门口抗议，要求解封！</a></li>
 <li><a href="/comments/20221104/1806752.md" target="_blank">深圳南山区南山村封控，居民集体冲卡后，与大批警察对峙！</a></li>
 <li><a href="/comments/20221104/1806728.md" target="_blank">少数人知道的！用这两个颜色，就能练出艺术、易理、谋略、智慧⋯⋯揭开木强者的真面目！流传的另一部“孙子兵法”？</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20221103/1806017.md" target="_blank">图片疯传：地铁吃个香蕉，大妈穿成这样也是拼了</a></li>
 <li><a href="/cbnews/20221103/1805975.md" target="_blank">天亮时分：松绑清零政策？股市闻声暴涨，卫健委表态；习近平用普京换台湾？美联储再升息75点，终端利率前景模糊（政论天下第838集 20221102）</a></li>
 <li><a href="/comments/20221103/1805967.md" target="_blank">司机送货到工厂，因为在车上吃了一碗方便面，就被以没戴口罩的名义罚款2000元。</a></li>
-<li><a href="/comments/20221103/1805966.md" target="_blank">关键选战（三）：关键州选战白热化，公民对决政客；惊爆美国安局联手高科技平台审查内容，会影响选举吗？华人义工谈为何全力参与助选｜中期选举特别直播（三）｜方菲时间 11/02/2022</a></li>
-<li><a href="/cbnews/20221103/1805939.md" target="_blank">最悲金句“疫情三年就是他的一生” 封控害死3岁童！兰州警说谎被揭直接镇压</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 
 </ul>
 </div>
