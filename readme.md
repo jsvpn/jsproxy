@@ -16,18 +16,18 @@
 <li><a href="/cbnews/20221105/1807095.md">江峰：防疫放松不再清零？要百姓的命还是习近平的命？曾光、王沪宁“放开派”的双簧，丁薛祥与卫健委坚持斗争的真实【江峰漫谈20221104第573期】</a></li>
 <li><a href="/cnnews/20221105/1807085.md">王岐山危险了？老部下、海归央行副行长被查</a></li>
 <li><a href="/comments/20221105/1807140.md">某胖悲言：凛冬已至，唯苟活而不可乱说</a></li>
-<li><a href="/comments/20221105/1807106.md">建立影子政府，为填补中共崩溃后的权力真空做准备</a></li>
 <li><a href="/comments/20221105/1806977.md">郑州，居民无法忍受长期封城，冲大门要求解封！</a></li>
+<li><a href="/comments/20221105/1807106.md">建立影子政府，为填补中共崩溃后的权力真空做准备</a></li>
 <li><a href="/cbnews/20221105/1807089.md">中纪委排名最末 习第3任期全是自己人不打贪了?</a></li>
 <li><a href="/cnnews/20221105/1806999.md">冯小刚到美不再低调 门口四辆豪车 每辆价值百万</a></li>
 <li><a href="/topimagenews/20221105/1807016.md">《你个骗子》，这首歌怒骂中共新闻联播</a></li>
 <li><a href="/comments/20221105/1807005.md">勇敢美丽的女孩开喷，自己听吧！</a></li>
-<li><a href="/comments/20221105/1807132.md">张建兴：灭团派，兑现陈云所言，习党缩短灭亡时间</a></li>
 <li><a href="/sohnews/20221105/1807175.md">陈破空：惊传孔某将遭灭口！强行架走胡锦涛幕后，中办是高危职业。土共火箭失控坠毁，西班牙机场紧急关闭！俄乌激战赫尔松，乌军步步进逼</a></li>
+<li><a href="/comments/20221105/1807132.md">张建兴：灭团派，兑现陈云所言，习党缩短灭亡时间</a></li>
 <li><a href="/ssgc/20221105/1807063.md">〖兲朝浮世绘〗中共打算放松变态防疫了？</a></li>
 <li><a href="/headline/20221105/1807159.md">中国卫建委宣布坚持“动态清零”总方针不动摇</a></li>
-<li><a href="/headline/20221105/1806942.md">路透社：中国前首席疾管官员称 清零政策即将改变</a></li>
-<li><a href="/baitai/20221105/1807029.md">发布军委主席负责制，意味着习近平准备要干大事</a></li>
+<li><a href="/baitai/20221105/1807182.md">习究竟要干什么？背后目标很恐怖</a></li>
+<li><a href="/headline/20221105/1807168.md">中国人行副行长范一飞违纪被查 中媒：在工作单位突被带走</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221106/1807234.md" target="_blank">呼和浩特一位女副局长，带3万元的耳钉上电视，被炒上了热搜。这位人民公仆委屈吗？</a></li>
 <li><a href="/cbnews/20221105/1807095.md" target="_blank">江峰：防疫放松不再清零？要百姓的命还是习近平的命？曾光、王沪宁“放开派”的双簧，丁薛祥与卫健委坚持斗争的真实【江峰漫谈20221104第573期】</a></li>
 <li><a href="/cbnews/20221105/1807089.md" target="_blank">中纪委排名最末 习第3任期全是自己人不打贪了?</a></li>
 <li><a href="/cbnews/20221105/1807044.md" target="_blank">习近平被连浇两盆冷水！【阿波罗网报道】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221104/1806488.md" target="_blank">天亮时分：三个证据，习近平走回文革面临极大阻力；胡锦涛和团派将以分裂党的名义被清算？（政论天下第839集 20221103）</a></li>
 <li><a href="/cbnews/20221104/1806424.md" target="_blank">油锅反射露馅 正妹网红“本尊”曝光 网友大崩溃</a></li>
 <li><a href="/cbnews/20221104/1806397.md" target="_blank">中共火箭军基地资讯被美曝光！ 专家 : 台湾雄二E可进行“源头打击”</a></li>
-<li><a href="/comments/20221104/1806372.md" target="_blank">西藏年轻网红歌手伊西曲措发布视频，披露拉萨封城管控真相！</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221106/1807234.md" target="_blank">呼和浩特一位女副局长，带3万元的耳钉上电视，被炒上了热搜。这位人民公仆委屈吗？</a></li>
 <li><a href="/comments/20221105/1807186.md" target="_blank">门被焊死！中国呼和浩特妇人坠楼 女儿急求救身陷封控引公愤</a></li>
 <li><a href="/comments/20221105/1807140.md" target="_blank">某胖悲言：凛冬已至，唯苟活而不可乱说</a></li>
 <li><a href="/comments/20221105/1807132.md" target="_blank">张建兴：灭团派，兑现陈云所言，习党缩短灭亡时间</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221105/1806953.md" target="_blank">文昭：原首席专家放话：中国清零政策马上要改！「习牌二极管」承受严酷考验，放宽清零背後的激烈较量</a></li>
 <li><a href="/comments/20221105/1806944.md" target="_blank">颜丹：逃离富士康人潮不断 重金难留是何因？</a></li>
 <li><a href="/comments/20221105/1806943.md" target="_blank">王赫：供销社并非合作经济，只是中共的锁链</a></li>
-<li><a href="/comments/20221105/1806927.md" target="_blank">关键选战（四）：川普可能在11月14号宣布参选？拜登说中期选举结果可能几天后才出，啥意思？预告选举夜直播 ｜中期选举直播特别节目（四）｜ 11/04/2022</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
 <li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
 
 </ul>
 </div>
