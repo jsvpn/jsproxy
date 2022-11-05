@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221105/1806926.md">火箭般蹿升：中共政治局有位“特殊人物”</a></li>
 <li><a href="/cnnews/20221105/1806998.md">突发:清零要变?国务院联防联控机制召开发布会</a></li>
-<li><a href="/cnnews/20221105/1806880.md">惊爆：新冠后遗症谎言正被戳穿！我们都被骗了吗</a></li>
 <li><a href="/sohnews/20221105/1807007.md">远华案差点让习家灭顶，多亏两个大佬出手相救！习近平家族财富的来源；远华集团的双重身份！ 派系高层发出呼吁，官民合作除习救国！（终局风云3，2022/11/4)</a></li>
+<li><a href="/cnnews/20221105/1806880.md">惊爆：新冠后遗症谎言正被戳穿！我们都被骗了吗</a></li>
 <li><a href="/cbnews/20221105/1807044.md">习近平被连浇两盆冷水！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221105/1807031.md">天亮时分：多迹象显示，动态清零真要放松了；华日：李强的真面目；中共真没钱了，要盘活事业单位资产，对百姓生活有何冲击？（政论天下第840集 20221104）</a></li>
 <li><a href="/cnnews/20221105/1806980.md">肖尔茨北京一日游：未与习握手 抵返大费周章</a></li>
@@ -20,9 +20,9 @@
 <li><a href="/comments/20221105/1807106.md">建立影子政府，为填补中共崩溃后的权力真空做准备</a></li>
 <li><a href="/cbnews/20221105/1807089.md">中纪委排名最末 习第3任期全是自己人不打贪了?</a></li>
 <li><a href="/cnnews/20221105/1806999.md">冯小刚到美不再低调 门口四辆豪车 每辆价值百万</a></li>
+<li><a href="/sohnews/20221105/1807175.md">陈破空：惊传孔某将遭灭口！强行架走胡锦涛幕后，中办是高危职业。土共火箭失控坠毁，西班牙机场紧急关闭！俄乌激战赫尔松，乌军步步进逼</a></li>
 <li><a href="/topimagenews/20221105/1807016.md">《你个骗子》，这首歌怒骂中共新闻联播</a></li>
 <li><a href="/comments/20221105/1807005.md">勇敢美丽的女孩开喷，自己听吧！</a></li>
-<li><a href="/sohnews/20221105/1807175.md">陈破空：惊传孔某将遭灭口！强行架走胡锦涛幕后，中办是高危职业。土共火箭失控坠毁，西班牙机场紧急关闭！俄乌激战赫尔松，乌军步步进逼</a></li>
 <li><a href="/baitai/20221105/1807182.md">习究竟要干什么？背后目标很恐怖</a></li>
 <li><a href="/headline/20221105/1807159.md">中国卫建委宣布坚持“动态清零”总方针不动摇</a></li>
 <li><a href="/comments/20221105/1807132.md">张建兴：灭团派，兑现陈云所言，习党缩短灭亡时间</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221106/1807243.md" target="_blank">“肖尔茨访华给中共带来巨大信心”</a></li>
+<li><a href="/cbnews/20221106/1807242.md" target="_blank">中国暗黑小学惊爆学生“割同学JJ”引众怒</a></li>
 <li><a href="/comments/20221106/1807234.md" target="_blank">呼和浩特一位女副局长，带3万元的耳钉上电视，被炒上了热搜。这位人民公仆委屈吗？</a></li>
 <li><a href="/cbnews/20221105/1807095.md" target="_blank">江峰：防疫放松不再清零？要百姓的命还是习近平的命？曾光、王沪宁“放开派”的双簧，丁薛祥与卫健委坚持斗争的真实【江峰漫谈20221104第573期】</a></li>
 <li><a href="/cbnews/20221105/1807089.md" target="_blank">中纪委排名最末 习第3任期全是自己人不打贪了?</a></li>
@@ -58,14 +60,13 @@
 <li><a href="/comments/20221104/1806631.md" target="_blank">大庆市萨尔图区九区批发市场被封控，商户只能在严寒中游击卖菜，非常凄惨。11月3日，商户聚集抗议，当局则派出大批警察镇压。</a></li>
 <li><a href="/cbnews/20221104/1806616.md" target="_blank">郑州当局：富士康园区无重症 民众斥言论不实</a></li>
 <li><a href="/cbnews/20221104/1806488.md" target="_blank">天亮时分：三个证据，习近平走回文革面临极大阻力；胡锦涛和团派将以分裂党的名义被清算？（政论天下第839集 20221103）</a></li>
-<li><a href="/cbnews/20221104/1806424.md" target="_blank">油锅反射露馅 正妹网红“本尊”曝光 网友大崩溃</a></li>
-<li><a href="/cbnews/20221104/1806397.md" target="_blank">中共火箭军基地资讯被美曝光！ 专家 : 台湾雄二E可进行“源头打击”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221106/1807241.md" target="_blank">期中选举后 北京开始美国梦魇</a></li>
 <li><a href="/topimagenews/20221105/1807145.md" target="_blank">佩洛西丈夫疑似与劫匪有同性恋私情? 左翼NBC重磅报道 已删</a></li>
 <li><a href="/topimagenews/20221105/1807125.md" target="_blank">马斯克收购推特 拜登在背后开一枪…</a></li>
 <li><a href="/topimagenews/20221105/1807055.md" target="_blank">还有脸说？普丁“民族统一日”演说强调：平民不该遭受轰炸、攻击</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221103/1806320.md" target="_blank">俄占领军主动放弃刻松？ 政府大楼已取下俄罗斯国旗</a></li>
 <li><a href="/topimagenews/20221103/1806302.md" target="_blank">天降死神，末敏弹来了！精准穿甲弹从天而降 俄军坦克粉身碎骨</a></li>
 <li><a href="/topimagenews/20221103/1806222.md" target="_blank">建议撤军议和！土耳其总统传向普丁直言：俄罗斯无法避免战败的结局</a></li>
-<li><a href="/topimagenews/20221103/1806175.md" target="_blank">拜登期中考惨了 共和党可望拿下参众两院&#8230;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
 <li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
 
 </ul>
 </div>
