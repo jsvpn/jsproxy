@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20221105/1807007.md">远华案差点让习家灭顶，多亏两个大佬出手相救！习近平家族财富的来源；远华集团的双重身份！ 派系高层发出呼吁，官民合作除习救国！（终局风云3，2022/11/4)</a></li>
 <li><a href="/cbnews/20221105/1807044.md">习近平被连浇两盆冷水！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221105/1807031.md">天亮时分：多迹象显示，动态清零真要放松了；华日：李强的真面目；中共真没钱了，要盘活事业单位资产，对百姓生活有何冲击？（政论天下第840集 20221104）</a></li>
-<li><a href="/cnnews/20221105/1806980.md">肖尔茨北京一日游：未与习握手 抵返大费周章</a></li>
 <li><a href="/cbnews/20221105/1807095.md">江峰：防疫放松不再清零？要百姓的命还是习近平的命？曾光、王沪宁“放开派”的双簧，丁薛祥与卫健委坚持斗争的真实【江峰漫谈20221104第573期】</a></li>
 <li><a href="/cnnews/20221105/1807085.md">王岐山危险了？老部下、海归央行副行长被查</a></li>
 <li><a href="/comments/20221105/1807140.md">某胖悲言：凛冬已至，唯苟活而不可乱说</a></li>
 <li><a href="/cbnews/20221105/1807089.md">中纪委排名最末 习第3任期全是自己人不打贪了?</a></li>
-<li><a href="/sohnews/20221105/1807175.md">陈破空：惊传孔某将遭灭口！强行架走胡锦涛幕后，中办是高危职业。土共火箭失控坠毁，西班牙机场紧急关闭！俄乌激战赫尔松，乌军步步进逼</a></li>
 <li><a href="/comments/20221105/1807106.md">建立影子政府，为填补中共崩溃后的权力真空做准备</a></li>
+<li><a href="/sohnews/20221105/1807175.md">陈破空：惊传孔某将遭灭口！强行架走胡锦涛幕后，中办是高危职业。土共火箭失控坠毁，西班牙机场紧急关闭！俄乌激战赫尔松，乌军步步进逼</a></li>
 <li><a href="/baitai/20221105/1807182.md">习究竟要干什么？背后目标很恐怖</a></li>
 <li><a href="/cnnews/20221105/1806999.md">冯小刚到美不再低调 门口四辆豪车 每辆价值百万</a></li>
 <li><a href="/comments/20221105/1807005.md">勇敢美丽的女孩开喷，自己听吧！</a></li>
 <li><a href="/topimagenews/20221105/1807016.md">《你个骗子》，这首歌怒骂中共新闻联播</a></li>
 <li><a href="/baitai/20221105/1807157.md">天道和圣｜陶斯亮：弹窗</a></li>
-<li><a href="/headline/20221105/1807159.md">中国卫建委宣布坚持“动态清零”总方针不动摇</a></li>
 <li><a href="/comments/20221105/1807132.md">张建兴：灭团派，兑现陈云所言，习党缩短灭亡时间</a></li>
+<li><a href="/headline/20221105/1807159.md">中国卫建委宣布坚持“动态清零”总方针不动摇</a></li>
 <li><a href="/headline/20221105/1807168.md">中国人行副行长范一飞违纪被查 中媒：在工作单位突被带走</a></li>
 <li><a href="/ssgc/20221105/1807063.md">〖兲朝浮世绘〗中共打算放松变态防疫了？</a></li>
 <li><a href="/baitai/20221105/1807029.md">发布军委主席负责制，意味着习近平准备要干大事</a></li>
-<li><a href="/sohnews/20221106/1807249.md">“突发！乌鲁木齐全城通知：各家各户储备3-5个月物资-米 面 油 土豆⋯⋯”ShitaoTV - 04 (05/11/22) 黄安发推大骂习近平：有病！</a></li>
 <li><a href="/lifebaike/20221106/1807245.md">注意！从加拿大回国要求又变了 11月10日生效</a></li>
+<li><a href="/sohnews/20221106/1807249.md">“突发！乌鲁木齐全城通知：各家各户储备3-5个月物资-米 面 油 土豆⋯⋯”ShitaoTV - 04 (05/11/22) 黄安发推大骂习近平：有病！</a></li>
+<li><a href="/baitai/20221106/1807257.md">胡锦涛真出事？学者：习要清洗的目标在这里</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221106/1807308.md" target="_blank">游乐园设施突“天女散花” 16岁少年喷飞肺重创</a></li>
 <li><a href="/comments/20221106/1807256.md" target="_blank">【方菲时间】特别采访：澳洲华人回国投资被骗，损失上亿；父亲举报反被关押；黑恶势力的保护伞就是党</a></li>
 <li><a href="/cbnews/20221106/1807243.md" target="_blank">“肖尔茨访华给中共带来巨大信心”</a></li>
 <li><a href="/cbnews/20221106/1807242.md" target="_blank">中国暗黑小学惊爆学生“割同学JJ”引众怒</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221104/1806640.md" target="_blank">11月2日，上海华为研发中心200多名员工被多辆公交车拉走隔离！</a></li>
 <li><a href="/cbnews/20221104/1806059.md" target="_blank">中国第十一次大乱世即将到来！润不了的必须掌握这个生存策略（一平论政2022/11/2)</a></li>
 <li><a href="/comments/20221104/1806631.md" target="_blank">大庆市萨尔图区九区批发市场被封控，商户只能在严寒中游击卖菜，非常凄惨。11月3日，商户聚集抗议，当局则派出大批警察镇压。</a></li>
-<li><a href="/cbnews/20221104/1806616.md" target="_blank">郑州当局：富士康园区无重症 民众斥言论不实</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221106/1807313.md" target="_blank">陶斯亮:终于被弹窗了</a></li>
+<li><a href="/comments/20221106/1807312.md" target="_blank">防疫乱象 新疆的朋友可以说一说</a></li>
+<li><a href="/comments/20221106/1807311.md" target="_blank">防疫坠楼死 三问呼和浩特</a></li>
+<li><a href="/comments/20221106/1807306.md" target="_blank">朱镕基坚持温家宝为继任总理人选 自曝违心将徐匡迪调离上海 曾反对提拔黄菊陈至立顶撞江泽民却终屈从 中南海不可告人的秘密_562</a></li>
 <li><a href="/comments/20221106/1807297.md" target="_blank">颜纯钩:取法乎下得乎其劣，以朝为师难得善终</a></li>
 <li><a href="/comments/20221106/1807296.md" target="_blank">颜丹：内蒙一女子坠亡 “排除他杀”惹众怒</a></li>
 <li><a href="/comments/20221106/1807295.md" target="_blank">项云：胡锦涛二十大会上的处境让世界见证大陆人权状态</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20221105/1807033.md" target="_blank">洪博学:面对历史烂账</a></li>
 <li><a href="/comments/20221105/1807018.md" target="_blank">杨宏基: 集团对抗模式开启 金正恩向中俄购买双保险</a></li>
 <li><a href="/comments/20221105/1807017.md" target="_blank">欧洲正被小个子统治 苏纳克1米67：讲台亮了</a></li>
-<li><a href="/comments/20221105/1807005.md" target="_blank">勇敢美丽的女孩开喷，自己听吧！</a></li>
-<li><a href="/comments/20221105/1806997.md" target="_blank">石山:富士康逃出一个新中国？</a></li>
-<li><a href="/comments/20221105/1806996.md" target="_blank">林保华:习近平要继承延安什么样内斗？</a></li>
-<li><a href="/comments/20221105/1806977.md" target="_blank">郑州，居民无法忍受长期封城，冲大门要求解封！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 <li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
 
 </ul>
 </div>
