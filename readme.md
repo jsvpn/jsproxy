@@ -12,22 +12,22 @@
 <li><a href="/sohnews/20221106/1807249.md">“突发！乌鲁木齐全城通知：各家各户储备3-5个月物资-米 面 油 土豆⋯⋯”ShitaoTV - 04 (05/11/22) 黄安发推大骂习近平：有病！</a></li>
 <li><a href="/cnnews/20221106/1807268.md">日媒警告：习近平恐成“暴走皇帝”</a></li>
 <li><a href="/baitai/20221105/1807157.md">天道和圣｜陶斯亮：弹窗</a></li>
-<li><a href="/comments/20221105/1807132.md">张建兴：灭团派，兑现陈云所言，习党缩短灭亡时间</a></li>
 <li><a href="/topimagenews/20221106/1807254.md">中疾控未点名北京过度防疫 知名女太子党发文怒批</a></li>
 <li><a href="/comments/20221106/1807306.md">朱镕基坚持温家宝为继任总理人选 自曝违心将徐匡迪调离上海 曾反对提拔黄菊陈至立顶撞江泽民却终屈从 中南海不可告人的秘密_562</a></li>
 <li><a href="/lifebaike/20221106/1807245.md">注意！从加拿大回国要求又变了 11月10日生效</a></li>
+<li><a href="/sohnews/20221106/1807344.md">政治局高官荒淫生活，有一个后宫和两大妓院！“三朝帝师”本来面目，书生靠什么当上常委？（2019/12/22）</a></li>
 <li><a href="/headline/20221105/1807159.md">中国卫建委宣布坚持“动态清零”总方针不动摇</a></li>
 <li><a href="/topimagenews/20221106/1807273.md">中国电动汽车在国外很受欢迎？别再自娱自乐了</a></li>
 <li><a href="/headline/20221105/1807168.md">中国人行副行长范一飞违纪被查 中媒：在工作单位突被带走</a></li>
-<li><a href="/sohnews/20221106/1807344.md">政治局高官荒淫生活，有一个后宫和两大妓院！“三朝帝师”本来面目，书生靠什么当上常委？（2019/12/22）</a></li>
 <li><a href="/cnnews/20221106/1807240.md">最近正能量圈这是怎么了？</a></li>
 <li><a href="/comments/20221106/1807429.md">上海市共和新路，大白游行示威，讨要血汗钱！</a></li>
-<li><a href="/baitai/20221105/1807195.md">自爆和11名领导发生不正当关系 共青团安徽省委女干部已停职</a></li>
 <li><a href="/topimagenews/20221106/1807383.md">【微博精粹】仇恨富人 鄙视穷人 唯独对折腾他们人毕恭毕敬</a></li>
+<li><a href="/baitai/20221105/1807195.md">自爆和11名领导发生不正当关系 共青团安徽省委女干部已停职</a></li>
 <li><a href="/topimagenews/20221106/1807241.md">期中选举后 北京开始美国梦魇</a></li>
+<li><a href="/topimagenews/20221106/1807442.md">传胡锦涛事件定性 习近平下重手？【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221106/1807259.md">陕西医科生绘器官结构解剖图 精致画作震惊网民</a></li>
 <li><a href="/cnnews/20221106/1807239.md">快检查手机！5款APP会偷钱 下载人数破万</a></li>
-<li><a href="/sohnews/20221106/1807228.md">“无人关注！习近平拜访殷墟：商朝灭亡 周易产生之地”ShitaoTV - 01 (05/11/22) 明确背叛：马克思主义不是“习氏政权”的祖宗</a></li>
+<li><a href="/cbnews/20221106/1807443.md">身在墙内她买了这些东西 网友看了吓得一激灵</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
 <li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 <li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
 
 </ul>
 </div>
