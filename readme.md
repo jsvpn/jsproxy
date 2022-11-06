@@ -11,21 +11,21 @@
 <li><a href="/topimagenews/20221106/1807442.md">传胡锦涛事件定性 习近平下重手？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221106/1807254.md">中疾控未点名北京过度防疫 知名女太子党发文怒批</a></li>
 <li><a href="/comments/20221106/1807306.md">朱镕基坚持温家宝为继任总理人选 自曝违心将徐匡迪调离上海 曾反对提拔黄菊陈至立顶撞江泽民却终屈从 中南海不可告人的秘密_562</a></li>
-<li><a href="/lifebaike/20221106/1807245.md">注意！从加拿大回国要求又变了 11月10日生效</a></li>
 <li><a href="/sohnews/20221106/1807344.md">政治局高官荒淫生活，有一个后宫和两大妓院！“三朝帝师”本来面目，书生靠什么当上常委？（2019/12/22）</a></li>
+<li><a href="/lifebaike/20221106/1807245.md">注意！从加拿大回国要求又变了 11月10日生效</a></li>
 <li><a href="/comments/20221106/1807429.md">上海市共和新路，大白游行示威，讨要血汗钱！</a></li>
 <li><a href="/topimagenews/20221106/1807273.md">中国电动汽车在国外很受欢迎？别再自娱自乐了</a></li>
 <li><a href="/cbnews/20221106/1807443.md">身在墙内她买了这些东西 网友看了吓得一激灵</a></li>
 <li><a href="/cnnews/20221106/1807240.md">最近正能量圈这是怎么了？</a></li>
-<li><a href="/topimagenews/20221106/1807383.md">【微博精粹】仇恨富人 鄙视穷人 唯独对折腾他们人毕恭毕敬</a></li>
 <li><a href="/sohnews/20221106/1807475.md">💥王岐山“财务总管”被查！他本人缺席上海重要会议，李强代为出席；中共地方跟中央出现矛盾，清零争议越来越大；清零政策到底会不会松绑？习当局为何传出自相矛盾的声音；各地频传封控悲歌｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/topimagenews/20221106/1807383.md">【微博精粹】仇恨富人 鄙视穷人 唯独对折腾他们人毕恭毕敬</a></li>
 <li><a href="/weiquan/20221106/1807521.md">20大习近平连任后 邯郸警方立即抓捕了20大前发联名发表公开信呼吁呼吁坚决抵制&#8220;个人崇拜&#8221;的三名中共老党员田奇庄&#12289;董洪义&#12289;马贵会</a></li>
 <li><a href="/cbnews/20221106/1807449.md">两个世界：单日确诊暴增 北京却马拉松2万人开跑</a></li>
 <li><a href="/comments/20221106/1807420.md">武汉面临再次封城，市民连夜开车外逃，其他市民半夜抢菜。</a></li>
+<li><a href="/baitai/20221106/1807476.md">清零清痛了 大粉红们也反水了</a></li>
 <li><a href="/topimagenews/20221106/1807241.md">期中选举后 北京开始美国梦魇</a></li>
 <li><a href="/cnnews/20221106/1807259.md">陕西医科生绘器官结构解剖图 精致画作震惊网民</a></li>
 <li><a href="/cnnews/20221106/1807239.md">快检查手机！5款APP会偷钱 下载人数破万</a></li>
-<li><a href="/baitai/20221106/1807476.md">清零清痛了 大粉红们也反水了</a></li>
 <li><a href="/cnnews/20221106/1807403.md">传奇女知青：与毛握过手 叛逃苏联 辨认过林彪尸体 当过克格勃</a></li>
 <li><a href="/sohnews/20221106/1807228.md">“无人关注！习近平拜访殷墟：商朝灭亡 周易产生之地”ShitaoTV - 01 (05/11/22) 明确背叛：马克思主义不是“习氏政权”的祖宗</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
 <li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 
 </ul>
 </div>
