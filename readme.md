@@ -11,23 +11,23 @@
 <li><a href="/cnnews/20221105/1807085.md">王岐山危险了？老部下、海归央行副行长被查</a></li>
 <li><a href="/cbnews/20221105/1807095.md">江峰：防疫放松不再清零？要百姓的命还是习近平的命？曾光、王沪宁“放开派”的双簧，丁薛祥与卫健委坚持斗争的真实【江峰漫谈20221104第573期】</a></li>
 <li><a href="/comments/20221105/1807140.md">某胖悲言：凛冬已至，唯苟活而不可乱说</a></li>
-<li><a href="/cbnews/20221105/1807089.md">中纪委排名最末 习第3任期全是自己人不打贪了?</a></li>
 <li><a href="/sohnews/20221105/1807175.md">陈破空：惊传孔某将遭灭口！强行架走胡锦涛幕后，中办是高危职业。土共火箭失控坠毁，西班牙机场紧急关闭！俄乌激战赫尔松，乌军步步进逼</a></li>
+<li><a href="/cbnews/20221105/1807089.md">中纪委排名最末 习第3任期全是自己人不打贪了?</a></li>
 <li><a href="/comments/20221105/1807106.md">建立影子政府，为填补中共崩溃后的权力真空做准备</a></li>
 <li><a href="/baitai/20221105/1807182.md">习究竟要干什么？背后目标很恐怖</a></li>
-<li><a href="/topimagenews/20221105/1807016.md">《你个骗子》，这首歌怒骂中共新闻联播</a></li>
 <li><a href="/baitai/20221105/1807157.md">天道和圣｜陶斯亮：弹窗</a></li>
+<li><a href="/sohnews/20221106/1807249.md">“突发！乌鲁木齐全城通知：各家各户储备3-5个月物资-米 面 油 土豆⋯⋯”ShitaoTV - 04 (05/11/22) 黄安发推大骂习近平：有病！</a></li>
+<li><a href="/baitai/20221106/1807257.md">胡锦涛真出事？学者：习要清洗的目标在这里</a></li>
 <li><a href="/comments/20221105/1807132.md">张建兴：灭团派，兑现陈云所言，习党缩短灭亡时间</a></li>
 <li><a href="/headline/20221105/1807159.md">中国卫建委宣布坚持“动态清零”总方针不动摇</a></li>
 <li><a href="/headline/20221105/1807168.md">中国人行副行长范一飞违纪被查 中媒：在工作单位突被带走</a></li>
 <li><a href="/ssgc/20221105/1807063.md">〖兲朝浮世绘〗中共打算放松变态防疫了？</a></li>
-<li><a href="/sohnews/20221106/1807249.md">“突发！乌鲁木齐全城通知：各家各户储备3-5个月物资-米 面 油 土豆⋯⋯”ShitaoTV - 04 (05/11/22) 黄安发推大骂习近平：有病！</a></li>
-<li><a href="/baitai/20221106/1807257.md">胡锦涛真出事？学者：习要清洗的目标在这里</a></li>
-<li><a href="/lifebaike/20221106/1807245.md">注意！从加拿大回国要求又变了 11月10日生效</a></li>
-<li><a href="/baitai/20221105/1807029.md">发布军委主席负责制，意味着习近平准备要干大事</a></li>
 <li><a href="/topimagenews/20221106/1807254.md">中疾控未点名北京过度防疫 知名女太子党发文怒批</a></li>
+<li><a href="/lifebaike/20221106/1807245.md">注意！从加拿大回国要求又变了 11月10日生效</a></li>
 <li><a href="/cnnews/20221106/1807268.md">日媒警告：习近平恐成“暴走皇帝”</a></li>
 <li><a href="/cnnews/20221106/1807240.md">最近正能量圈这是怎么了？</a></li>
+<li><a href="/baitai/20221105/1807195.md">自爆和11名领导发生不正当关系 共青团安徽省委女干部已停职</a></li>
+<li><a href="/topimagenews/20221105/1807145.md">佩洛西丈夫疑似与劫匪有同性恋私情? 左翼NBC重磅报道 已删</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221106/1807343.md" target="_blank">呼和浩特，凌晨4点敲门做核酸！</a></li>
 <li><a href="/cbnews/20221106/1807308.md" target="_blank">游乐园设施突“天女散花” 16岁少年喷飞肺重创</a></li>
 <li><a href="/comments/20221106/1807256.md" target="_blank">【方菲时间】特别采访：澳洲华人回国投资被骗，损失上亿；父亲举报反被关押；黑恶势力的保护伞就是党</a></li>
 <li><a href="/cbnews/20221106/1807243.md" target="_blank">“肖尔茨访华给中共带来巨大信心”</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221104/1805598.md" target="_blank">明年三月反习大决战，体制内人人都要站队！远华特大走私案，习近平家族是主谋和获益者！ （终局风云02，2022/11/1)</a></li>
 <li><a href="/comments/20221104/1806640.md" target="_blank">11月2日，上海华为研发中心200多名员工被多辆公交车拉走隔离！</a></li>
 <li><a href="/cbnews/20221104/1806059.md" target="_blank">中国第十一次大乱世即将到来！润不了的必须掌握这个生存策略（一平论政2022/11/2)</a></li>
-<li><a href="/comments/20221104/1806631.md" target="_blank">大庆市萨尔图区九区批发市场被封控，商户只能在严寒中游击卖菜，非常凄惨。11月3日，商户聚集抗议，当局则派出大批警察镇压。</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221106/1807343.md" target="_blank">呼和浩特，凌晨4点敲门做核酸！</a></li>
+<li><a href="/comments/20221106/1807338.md" target="_blank">美女干部自爆与11男发生性关系 当局急封锁言论</a></li>
+<li><a href="/comments/20221106/1807336.md" target="_blank">开玩笑吗？俄军士兵拿出“弓箭”射击 画面曝光</a></li>
+<li><a href="/comments/20221106/1807333.md" target="_blank">内蒙古封城妇人坠楼 媒体罕见批评：生命至上了吗？</a></li>
+<li><a href="/comments/20221106/1807332.md" target="_blank">佩洛西的丈夫疑似与劫匪有私情？NBC重磅报道 已被删</a></li>
+<li><a href="/comments/20221106/1807331.md" target="_blank">李强进博会高调捧习 王岐山未现身</a></li>
 <li><a href="/comments/20221106/1807313.md" target="_blank">陶斯亮:终于被弹窗了</a></li>
 <li><a href="/comments/20221106/1807312.md" target="_blank">防疫乱象 新疆的朋友可以说一说</a></li>
 <li><a href="/comments/20221106/1807311.md" target="_blank">防疫坠楼死 三问呼和浩特</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20221105/1807106.md" target="_blank">建立影子政府，为填补中共崩溃后的权力真空做准备</a></li>
 <li><a href="/comments/20221105/1807079.md" target="_blank">新帝号“北京一男子”取代“人民领袖”，扯上毕福剑？神秘录音放风动态清零结束，总加速师指挥给羊戴口罩</a></li>
 <li><a href="/comments/20221105/1807059.md" target="_blank">王友群：陈文清与周永康等前任会不同吗？</a></li>
-<li><a href="/comments/20221105/1807048.md" target="_blank">郑州富士康外地员工徒步返乡，高速路上遇特警人墙</a></li>
-<li><a href="/comments/20221105/1807047.md" target="_blank">林奇:一个人的独立宣言</a></li>
-<li><a href="/comments/20221105/1807046.md" target="_blank">无相君:鄂尔多斯“通告”刷屏，打了谁的脸？</a></li>
-<li><a href="/comments/20221105/1807033.md" target="_blank">洪博学:面对历史烂账</a></li>
-<li><a href="/comments/20221105/1807018.md" target="_blank">杨宏基: 集团对抗模式开启 金正恩向中俄购买双保险</a></li>
-<li><a href="/comments/20221105/1807017.md" target="_blank">欧洲正被小个子统治 苏纳克1米67：讲台亮了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
 
 </ul>
 </div>
