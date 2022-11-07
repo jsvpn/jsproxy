@@ -15,19 +15,19 @@
 <li><a href="/weiquan/20221106/1807572.md">因在中共二十大前夕发文呼吁&#8220;修改党章&#12289;党政分离 防杜个人崇拜&#8221; 而遭抓捕的河北邯郸三位老党员田奇庄&#12289;董洪义&#12289;马贵全案情的进一步通报</a></li>
 <li><a href="/cnnews/20221107/1807610.md">河南女教师猝死背后，真相让人不寒而栗</a></li>
 <li><a href="/sohnews/20221107/1807770.md">习近平一天撒近四千亿，应该是破纪录了！是谁想清零要松动？极端组织为什么开始攻击马斯克？请看【李军访谈20221106第88期】纽约时间早8点播出</a></li>
-<li><a href="/yule/20221107/1807677.md">姚明现身上海做核酸 发福近500斤 发飙吓坏路人</a></li>
 <li><a href="/baitai/20221107/1807592.md">红二代遭弹窗怒批北京过度防疫 意外掀中共贵族生活一角</a></li>
+<li><a href="/yule/20221107/1807677.md">姚明现身上海做核酸 发福近500斤 发飙吓坏路人</a></li>
 <li><a href="/ssgc/20221107/1807731.md">〖兲朝浮世绘〗暗喻习近平是猪 中共退休官员一言尽毀余生</a></li>
 <li><a href="/cnnews/20221107/1807676.md">超猛女护士一席话呛爆俄军，惨遭公开处决并挂尸</a></li>
-<li><a href="/cbnews/20221107/1807643.md">面对习近平连任 海内外中国人作何反应？</a></li>
 <li><a href="/cbnews/20221107/1807705.md">天亮时分：别克汽车广告辱习；党内的两个秘闻；为何习近平注定是中共的最后一代（政论天下第842集 20221106）</a></li>
+<li><a href="/cbnews/20221107/1807643.md">面对习近平连任 海内外中国人作何反应？</a></li>
 <li><a href="/baitai/20221107/1807777.md">二十大果真是一次政变？四通创办人曝习惊人目的</a></li>
 <li><a href="/topimagenews/20221107/1807756.md">【微博精粹】把门打开</a></li>
+<li><a href="/cnnews/20221107/1807886.md">突发！内蒙高院党委书记、院长被逮捕</a></li>
 <li><a href="/comments/20221107/1807607.md">【方菲时间】“北京一男子”要把14亿人带入共产主义？供销社和大食堂，曾经带给中国什么样的灾难？11月8日晚直击美中期选举关键时刻！｜11/06/2022</a></li>
 <li><a href="/topimagenews/20221107/1807775.md">印度神童警告血月亮有凶兆 台湾中国韩国小心4件事</a></li>
+<li><a href="/cnnews/20221107/1807887.md">乌克兰击落俄军无人机，拆解后惊见…</a></li>
 <li><a href="/cnnews/20221107/1807614.md">五常的救护车，救了兰州的救护车</a></li>
-<li><a href="/comments/20221107/1807772.md">11月4日，广州市海珠区五花城，居民聚集抗议封控，推倒封控围栏，自行解封。</a></li>
-<li><a href="/cnnews/20221107/1807886.md">突发！内蒙高院党委书记、院长被逮捕</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221107/1807949.md" target="_blank">矢板明夫：朝鲜频射导弹背后是中共 有两目的</a></li>
 <li><a href="/cbnews/20221107/1807942.md" target="_blank">中国10月进出口意外萎缩 表现远逊于预期</a></li>
 <li><a href="/comments/20221107/1807941.md" target="_blank">电话录音：一女子希望购买出疆证。对方说：一般人8000，通过他的关系3000搞定，但希望女子事成之后陪他睡4次。</a></li>
 <li><a href="/comments/20221107/1807940.md" target="_blank">一群大白被仍在一辆公交车上，挨冻6个小时！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221106/1807429.md" target="_blank">上海市共和新路，大白游行示威，讨要血汗钱！</a></li>
 <li><a href="/comments/20221106/1807420.md" target="_blank">武汉面临再次封城，市民连夜开车外逃，其他市民半夜抢菜。</a></li>
 <li><a href="/comments/20221106/1807393.md" target="_blank">【杰森视角】一张截图创造4500亿美元的价值！投资人以非理性方式玩“金融进谏”？德国总理进京朝觐见习近平有深意！ 中国已无自下而上的信息流和影响传递！呼和浩特女孩哭喊：把门打开！</a></li>
-<li><a href="/cbnews/20221106/1807382.md" target="_blank">天亮时分：习近平对普京发出警告；美国中期选举最令人担心的是什么？（政论天下第841集 20221105）</a></li>
 
 </ul>
 </div>
@@ -83,7 +83,7 @@
 <li><a href="/topimagenews/20221106/1807448.md" target="_blank">澳洲狙击手“忍者”战死乌东 最后贴文曝</a></li>
 <li><a href="/topimagenews/20221106/1807447.md" target="_blank">兵家必争之地：3位总统今天齐聚宾州</a></li>
 <li><a href="/topimagenews/20221106/1807442.md" target="_blank">传胡锦涛事件定性 习近平下重手？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221106/1807383.md" target="_blank">【微博精粹】仇恨富人 鄙视穷人 唯独对折腾他们人毕恭毕敬</a></li>
+<li><a href="/topimagenews/20221106/1807383.md" target="_blank">【微博精粹】二十大后眼花缭乱：延安窑洞＋红旗渠</a></li>
 <li><a href="/topimagenews/20221106/1807327.md" target="_blank">和谈？美劝泽伦斯基不坚持普亭下台 盟友出现“乌克兰疲劳”？</a></li>
 <li><a href="/topimagenews/20221106/1807283.md" target="_blank">普京认了要他们快逃 俄官员看刻松前线不妙</a></li>
 <li><a href="/topimagenews/20221106/1807273.md" target="_blank">中国电动汽车在国外很受欢迎？别再自娱自乐了</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
 
 </ul>
 </div>
