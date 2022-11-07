@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/weiquan/20221106/1807521.md">20大习近平连任后 邯郸警方立即抓捕了20大前发联名发表公开信呼吁呼吁坚决抵制&#8220;个人崇拜&#8221;的三名中共老党员田奇庄&#12289;董洪义&#12289;马贵会</a></li>
 <li><a href="/comments/20221106/1807524.md">岳山：胡锦涛二十大离场事件牵出中办内斗</a></li>
 <li><a href="/topimagenews/20221107/1807599.md">新华社删诋毁习近平！中共纪检高官惨被痛骂：内鬼</a></li>
 <li><a href="/headline/20221106/1807541.md">中国官员遭开除党籍 罪名罕见：诋毁国家领导人</a></li>
 <li><a href="/topimagenews/20221107/1807608.md">被速删的知名女太子党《弹窗》全文</a></li>
 <li><a href="/cnnews/20221107/1807767.md">厉害了：1分钟“啪啪”1140下，男子破世界纪录</a></li>
-<li><a href="/topimagenews/20221107/1807706.md">宋文笛：陈吉宁担任下届总理的4种渊源 丁薛祥任副手？</a></li>
 <li><a href="/sohnews/20221107/1807586.md">“爆棚传言！胡锦涛被定性：分裂党中央 干扰20大！”《今日点击》 (06/11/22) 破坏“两个确立 两个维护” 团派遭灭顶</a></li>
+<li><a href="/topimagenews/20221107/1807706.md">宋文笛：陈吉宁担任下届总理的4种渊源 丁薛祥任副手？</a></li>
 <li><a href="/sohnews/20221107/1807590.md">“习动作贼快！抖音快手被央视系统 “公私合营” 剥夺股权独立！”ShitaoTV - 02 (06/11/22) 一票否决！</a></li>
 <li><a href="/topimagenews/20221107/1807611.md">美国向乌提供里程碑级军援：俄罗斯再无胜算？</a></li>
 <li><a href="/weiquan/20221106/1807572.md">因在中共二十大前夕发文呼吁&#8220;修改党章&#12289;党政分离 防杜个人崇拜&#8221; 而遭抓捕的河北邯郸三位老党员田奇庄&#12289;董洪义&#12289;马贵全案情的进一步通报</a></li>
 <li><a href="/cnnews/20221107/1807610.md">河南女教师猝死背后，真相让人不寒而栗</a></li>
-<li><a href="/yule/20221107/1807677.md">姚明现身上海做核酸 发福近500斤 发飙吓坏路人</a></li>
-<li><a href="/cnnews/20221107/1807676.md">超猛女护士一席话呛爆俄军，惨遭公开处决并挂尸</a></li>
-<li><a href="/ssgc/20221107/1807731.md">〖兲朝浮世绘〗暗喻习近平是猪 中共退休官员一言尽毀余生</a></li>
-<li><a href="/baitai/20221107/1807592.md">红二代遭弹窗怒批北京过度防疫 意外掀中共贵族生活一角</a></li>
 <li><a href="/sohnews/20221107/1807770.md">习近平一天撒近四千亿，应该是破纪录了！是谁想清零要松动？极端组织为什么开始攻击马斯克？请看【李军访谈20221106第88期】纽约时间早8点播出</a></li>
+<li><a href="/yule/20221107/1807677.md">姚明现身上海做核酸 发福近500斤 发飙吓坏路人</a></li>
+<li><a href="/ssgc/20221107/1807731.md">〖兲朝浮世绘〗暗喻习近平是猪 中共退休官员一言尽毀余生</a></li>
+<li><a href="/cnnews/20221107/1807676.md">超猛女护士一席话呛爆俄军，惨遭公开处决并挂尸</a></li>
+<li><a href="/baitai/20221107/1807592.md">红二代遭弹窗怒批北京过度防疫 意外掀中共贵族生活一角</a></li>
 <li><a href="/cbnews/20221107/1807643.md">面对习近平连任 海内外中国人作何反应？</a></li>
 <li><a href="/cbnews/20221107/1807705.md">天亮时分：别克汽车广告辱习；党内的两个秘闻；为何习近平注定是中共的最后一代（政论天下第842集 20221106）</a></li>
-<li><a href="/comments/20221107/1807607.md">【方菲时间】“北京一男子”要把14亿人带入共产主义？供销社和大食堂，曾经带给中国什么样的灾难？11月8日晚直击美中期选举关键时刻！｜11/06/2022</a></li>
 <li><a href="/topimagenews/20221107/1807756.md">【微博精粹】把门打开</a></li>
+<li><a href="/comments/20221107/1807607.md">【方菲时间】“北京一男子”要把14亿人带入共产主义？供销社和大食堂，曾经带给中国什么样的灾难？11月8日晚直击美中期选举关键时刻！｜11/06/2022</a></li>
 <li><a href="/topimagenews/20221107/1807775.md">印度神童警告血月亮有凶兆 台湾中国韩国小心4件事</a></li>
 <li><a href="/cnnews/20221107/1807614.md">五常的救护车，救了兰州的救护车</a></li>
+<li><a href="/baitai/20221107/1807777.md">二十大果真是一次政变？四通创办人曝习惊人目的</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
 <li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
 
 </ul>
 </div>
