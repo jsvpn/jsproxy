@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221107/1807599.md">新华社删诋毁习近平！中共纪检高官惨被痛骂：内鬼</a></li>
 <li><a href="/topimagenews/20221107/1807608.md">被速删的知名女太子党《弹窗》全文</a></li>
-<li><a href="/sohnews/20221107/1807586.md">“爆棚传言！胡锦涛被定性：分裂党中央 干扰20大！”《今日点击》 (06/11/22) 破坏“两个确立 两个维护” 团派遭灭顶</a></li>
 <li><a href="/sohnews/20221107/1807590.md">“习动作贼快！抖音快手被央视系统 “公私合营” 剥夺股权独立！”ShitaoTV - 02 (06/11/22) 一票否决！</a></li>
-<li><a href="/topimagenews/20221107/1807706.md">宋文笛：陈吉宁担任下届总理的4种渊源 丁薛祥任副手？</a></li>
 <li><a href="/cnnews/20221107/1807767.md">厉害了：1分钟“啪啪”1140下，男子破世界纪录</a></li>
-<li><a href="/yule/20221107/1807677.md">姚明现身上海做核酸 发福近500斤 发飙吓坏路人</a></li>
+<li><a href="/topimagenews/20221107/1807706.md">宋文笛：陈吉宁担任下届总理的4种渊源 丁薛祥任副手？</a></li>
 <li><a href="/cnnews/20221107/1807886.md">突发！内蒙高院党委书记、院长被逮捕</a></li>
+<li><a href="/yule/20221107/1807677.md">姚明现身上海做核酸 发福近500斤 发飙吓坏路人</a></li>
 <li><a href="/topimagenews/20221107/1807611.md">美国向乌提供里程碑级军援：俄罗斯再无胜算？</a></li>
 <li><a href="/baitai/20221107/1807592.md">红二代遭弹窗怒批北京过度防疫 意外掀中共贵族生活一角</a></li>
-<li><a href="/cnnews/20221107/1807610.md">河南女教师猝死背后，真相让人不寒而栗</a></li>
 <li><a href="/cnnews/20221107/1807887.md">乌克兰击落俄军无人机，拆解后惊见…</a></li>
+<li><a href="/cnnews/20221107/1807610.md">河南女教师猝死背后，真相让人不寒而栗</a></li>
 <li><a href="/sohnews/20221107/1807770.md">习近平一天撒近四千亿，应该是破纪录了！是谁想清零要松动？极端组织为什么开始攻击马斯克？请看【李军访谈20221106第88期】纽约时间早8点播出</a></li>
 <li><a href="/topimagenews/20221107/1807915.md">中国大润潮 大亨纷纷跳船 刘强东套现离境；突破美国禁令 中共还剩9个月？</a></li>
 <li><a href="/ssgc/20221107/1807731.md">〖兲朝浮世绘〗暗喻习近平是猪 中共退休官员一言尽毀余生</a></li>
 <li><a href="/cnnews/20221107/1807676.md">超猛女护士一席话呛爆俄军，惨遭公开处决并挂尸</a></li>
+<li><a href="/comments/20221107/1807941.md">电话录音：一女子希望购买出疆证。对方说：一般人8000，通过他的关系3000搞定，但希望女子事成之后陪他睡4次。</a></li>
 <li><a href="/cbnews/20221107/1807705.md">天亮时分：别克汽车广告辱习；党内的两个秘闻；为何习近平注定是中共的最后一代（政论天下第842集 20221106）</a></li>
 <li><a href="/baitai/20221107/1807777.md">二十大果真是一次政变？四通创办人曝习惊人目的</a></li>
 <li><a href="/cbnews/20221107/1807643.md">面对习近平连任 海内外中国人作何反应？</a></li>
-<li><a href="/comments/20221107/1807941.md">电话录音：一女子希望购买出疆证。对方说：一般人8000，通过他的关系3000搞定，但希望女子事成之后陪他睡4次。</a></li>
+<li><a href="/cbnews/20221107/1807881.md">郑州官员哭诉：我错过女儿成人礼…网友怒了</a></li>
 <li><a href="/topimagenews/20221107/1807756.md">【微博精粹】把门打开</a></li>
 <li><a href="/topimagenews/20221107/1807775.md">印度神童警告血月亮有凶兆 台湾中国韩国小心4件事</a></li>
-<li><a href="/cbnews/20221107/1807881.md">郑州官员哭诉：我错过女儿成人礼…网友怒了</a></li>
+<li><a href="/comments/20221107/1807607.md">【方菲时间】“北京一男子”要把14亿人带入共产主义？供销社和大食堂，曾经带给中国什么样的灾难？11月8日晚直击美中期选举关键时刻！｜11/06/2022</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221108/1808033.md" target="_blank">中国“清零”政策胡锡进不乐观：北京难做到 其他城市更不可能</a></li>
 <li><a href="/cbnews/20221107/1807949.md" target="_blank">矢板明夫：朝鲜频射导弹背后是中共 有两目的</a></li>
 <li><a href="/cbnews/20221107/1807942.md" target="_blank">中国10月进出口意外萎缩 表现远逊于预期</a></li>
 <li><a href="/comments/20221107/1807941.md" target="_blank">电话录音：一女子希望购买出疆证。对方说：一般人8000，通过他的关系3000搞定，但希望女子事成之后陪他睡4次。</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221106/1807443.md" target="_blank">身在墙内她买了这些东西 网友看了吓得一激灵</a></li>
 <li><a href="/comments/20221106/1807429.md" target="_blank">上海市共和新路，大白游行示威，讨要血汗钱！</a></li>
 <li><a href="/comments/20221106/1807420.md" target="_blank">武汉面临再次封城，市民连夜开车外逃，其他市民半夜抢菜。</a></li>
-<li><a href="/comments/20221106/1807393.md" target="_blank">【杰森视角】一张截图创造4500亿美元的价值！投资人以非理性方式玩“金融进谏”？德国总理进京朝觐见习近平有深意！ 中国已无自下而上的信息流和影响传递！呼和浩特女孩哭喊：把门打开！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 <li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
 
 </ul>
 </div>
