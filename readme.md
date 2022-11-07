@@ -13,20 +13,20 @@
 <li><a href="/sohnews/20221106/1807475.md">💥王岐山“财务总管”被查！他本人缺席上海重要会议，李强代为出席；中共地方跟中央出现矛盾，清零争议越来越大；清零政策到底会不会松绑？习当局为何传出自相矛盾的声音；各地频传封控悲歌｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20221106/1807383.md">【微博精粹】仇恨富人 鄙视穷人 唯独对折腾他们人毕恭毕敬</a></li>
 <li><a href="/cbnews/20221106/1807449.md">两个世界：单日确诊暴增 北京却马拉松2万人开跑</a></li>
-<li><a href="/comments/20221106/1807420.md">武汉面临再次封城，市民连夜开车外逃，其他市民半夜抢菜。</a></li>
 <li><a href="/topimagenews/20221107/1807599.md">新华社删诋毁习近平！中共纪检高官惨被痛骂：内鬼</a></li>
+<li><a href="/comments/20221106/1807420.md">武汉面临再次封城，市民连夜开车外逃，其他市民半夜抢菜。</a></li>
 <li><a href="/comments/20221106/1807524.md">岳山：胡锦涛二十大离场事件牵出中办内斗</a></li>
 <li><a href="/baitai/20221106/1807476.md">清零清痛了 大粉红们也反水了</a></li>
 <li><a href="/headline/20221106/1807541.md">中国官员遭开除党籍 罪名罕见：诋毁国家领导人</a></li>
 <li><a href="/cnnews/20221106/1807403.md">传奇女知青：与毛握过手 叛逃苏联 辨认过林彪尸体 当过克格勃</a></li>
-<li><a href="/cbnews/20221106/1807382.md">天亮时分：习近平对普京发出警告；美国中期选举最令人担心的是什么？（政论天下第841集 20221105）</a></li>
 <li><a href="/topimagenews/20221107/1807608.md">被速删的知名女太子党《弹窗》全文</a></li>
-<li><a href="/weiquan/20221106/1807572.md">因在中共二十大前夕发文呼吁&#8220;修改党章&#12289;党政分离 防杜个人崇拜&#8221; 而遭抓捕的河北邯郸三位老党员田奇庄&#12289;董洪义&#12289;马贵全案情的进一步通报</a></li>
+<li><a href="/cbnews/20221106/1807382.md">天亮时分：习近平对普京发出警告；美国中期选举最令人担心的是什么？（政论天下第841集 20221105）</a></li>
 <li><a href="/sohnews/20221107/1807590.md">“习动作贼快！抖音快手被央视系统 “公私合营” 剥夺股权独立！”ShitaoTV - 02 (06/11/22) 一票否决！</a></li>
-<li><a href="/topimagenews/20221106/1807448.md">澳洲狙击手“忍者”战死乌东 最后贴文曝</a></li>
+<li><a href="/weiquan/20221106/1807572.md">因在中共二十大前夕发文呼吁&#8220;修改党章&#12289;党政分离 防杜个人崇拜&#8221; 而遭抓捕的河北邯郸三位老党员田奇庄&#12289;董洪义&#12289;马贵全案情的进一步通报</a></li>
 <li><a href="/cnnews/20221106/1807450.md">快讯！美国大规模枪击至少10人中弹 狂开40枪</a></li>
+<li><a href="/topimagenews/20221106/1807448.md">澳洲狙击手“忍者”战死乌东 最后贴文曝</a></li>
 <li><a href="/baitai/20221106/1807460.md">毕汝谐：习近平是山寨版毛泽东</a></li>
-<li><a href="/yule/20221106/1807456.md">金马影帝去世后400万遗产留给保姆 保姆近况曝光</a></li>
+<li><a href="/baitai/20221107/1807592.md">红二代遭弹窗怒批北京过度防疫 意外掀中共贵族生活一角</a></li>
 <li><a href="/sohnews/20221107/1807586.md">“爆棚传言！胡锦涛被定性：分裂党中央 干扰20大！”《今日点击》 (06/11/22) 破坏“两个确立 两个维护” 团派遭灭顶</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221107/1807697.md" target="_blank">变化万千的围棋之术，为何帝王将相都对它情有独钟？ #未解之谜 #扶摇 #shorts</a></li>
 <li><a href="/cbnews/20221107/1807643.md" target="_blank">面对习近平连任 海内外中国人作何反应？</a></li>
 <li><a href="/cbnews/20221107/1807626.md" target="_blank">文摘三则：周星驰“关心祖国”，政府批了吗？</a></li>
 <li><a href="/comments/20221107/1807607.md" target="_blank">【方菲时间】“北京一男子”要把14亿人带入共产主义？供销社和大食堂，曾经带给中国什么样的灾难？11月8日晚直击美中期选举关键时刻！｜11/06/2022</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221105/1806927.md" target="_blank">关键选战（四）：川普可能在11月14号宣布参选？拜登说中期选举结果可能几天后才出，啥意思？预告选举夜直播 ｜中期选举直播特别节目（四）｜ 11/04/2022</a></li>
 <li><a href="/cbnews/20221105/1806830.md" target="_blank">双方释出连串正面信息 拜习峰会渐成形</a></li>
 <li><a href="/cbnews/20221105/1806829.md" target="_blank">毕业之旅？中共宣布总理李克强即将出访</a></li>
-<li><a href="/cbnews/20221105/1806828.md" target="_blank">mRNA疫苗首获准在中国大陆使用，却有一条件</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221107/1807697.md" target="_blank">变化万千的围棋之术，为何帝王将相都对它情有独钟？ #未解之谜 #扶摇 #shorts</a></li>
+<li><a href="/comments/20221107/1807694.md" target="_blank">以“抗疫”为名？可一切离“病毒”越来越远了</a></li>
+<li><a href="/comments/20221107/1807693.md" target="_blank">逼死严凤英、挤走马兰内幕：文化圈两大败笔</a></li>
+<li><a href="/comments/20221107/1807692.md" target="_blank">俄罗斯为何没有全面动员？从“历史怨恨”说起</a></li>
 <li><a href="/comments/20221107/1807607.md" target="_blank">【方菲时间】“北京一男子”要把14亿人带入共产主义？供销社和大食堂，曾经带给中国什么样的灾难？11月8日晚直击美中期选举关键时刻！｜11/06/2022</a></li>
 <li><a href="/comments/20221107/1807583.md" target="_blank">李燕铭：二十大后第二虎 原应急部部长黄明下属张福生落马 副军职张福生曾在北京卫戍区警卫师及公安部任职 周永康落马前后 黄明多次被中纪委约谈一度被吓得半死 六名“610”头目相继落马 黄明面临调查 习近平清洗刀把子（五三） 江泽民江苏帮政变谋刺习近平 习绝地反击（三二）</a></li>
 <li><a href="/comments/20221106/1807566.md" target="_blank">新世纪影视又一钜作!《演员梦》悉尼首映 原大陆媒体人：圣洁之作</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20221106/1807395.md" target="_blank">【独家重磅】李燕铭：二十大后首虎范一飞落马深度内幕（二） 范一飞任职建行28年 曾任王岐山财务大总管 与先行落马的王岐山秘书田惠宇有交集 范一飞上司建行行长王雪冰落马 朱镕基自责用人不当 范一飞上司建行行长张恩照落马 江泽民吴邦国黄菊陈良宇等上海帮大佬是张恩照铁哥们 习江钱袋子争夺战（二三） 习近平决战江曾（四六）</a></li>
 <li><a href="/comments/20221106/1807393.md" target="_blank">【杰森视角】一张截图创造4500亿美元的价值！投资人以非理性方式玩“金融进谏”？德国总理进京朝觐见习近平有深意！ 中国已无自下而上的信息流和影响传递！呼和浩特女孩哭喊：把门打开！</a></li>
 <li><a href="/comments/20221106/1807379.md" target="_blank">分析：习近平“准备打仗” 二十大组建战时内阁</a></li>
-<li><a href="/comments/20221106/1807378.md" target="_blank">分析：李强、蔡奇入常 中国社会将更加紧张</a></li>
-<li><a href="/comments/20221106/1807376.md" target="_blank">【独家重磅】李燕铭：二十大后首虎范一飞落马深度内幕（一） 央行副行长范一飞被抓细节曝光 中纪委火线发文释放重磅信号 习近平二十大上一句话宣示决战江曾 清洗行动直逼江曾权贵集团核心利益圈 习江钱袋子争夺战（二二） 习近平决战江曾（四五）</a></li>
-<li><a href="/comments/20221106/1807370.md" target="_blank">是谁骗了苏联大学生让他们相信苏联科技已超美</a></li>
-<li><a href="/comments/20221106/1807369.md" target="_blank">管见：逆历史潮流而动的中共二十大</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
 <li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
 
 </ul>
 </div>
