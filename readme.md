@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20221108/1808302.md">习近平独揽大权 这都不顾及了</a></li>
 <li><a href="/cbnews/20221108/1808126.md">天亮时分：人心思“润”，所有富商扔掉行李冲上飞机；华日：中共考虑放松管控，但时间表不明朗；马斯克发推：号召投票给共和党（政论天下第843集 20221107）</a></li>
 <li><a href="/topimagenews/20221108/1808314.md">习近平御用？开望而生畏新职业：令官员“面红耳赤、汗水淋漓”【阿波罗网报道】</a></li>
-<li><a href="/comments/20221108/1808058.md">11月7日，上海人民公园要封园，游客疯狂外逃。</a></li>
 <li><a href="/comments/20221108/1808225.md">遍地“蔡锷”起，坐看习近平如何被“清零”（美国看客）</a></li>
 <li><a href="/topimagenews/20221108/1808084.md">一年多五次暂停 百余天静默 我离倾家荡产仅一米</a></li>
 <li><a href="/cnnews/20221108/1808100.md">心脏装6个支架的王石：日本看病实录,发人深思</a></li>
-<li><a href="/cnnews/20221108/1808219.md">富二代喝下1400瓶核辐射水，下巴整个融化</a></li>
 <li><a href="/ssgc/20221108/1808445.md">刚掌中纪委 李希为何抛出反习案？</a></li>
+<li><a href="/cnnews/20221108/1808219.md">富二代喝下1400瓶核辐射水，下巴整个融化</a></li>
 <li><a href="/cnnews/20221108/1808320.md">中共最高层考虑逐步退出动态清零 但无时间表</a></li>
-<li><a href="/cnnews/20221108/1808325.md">左派大变脸</a></li>
 <li><a href="/topimagenews/20221108/1808484.md">南京大学惊爆党委副书记性侵女学生 她哀求放过我！被反呛“不是处女了别装清纯”</a></li>
+<li><a href="/cnnews/20221108/1808325.md">左派大变脸</a></li>
 <li><a href="/comments/20221108/1808290.md">习近平众叛亲离 他知道退一步就是万丈深渊</a></li>
 <li><a href="/cbnews/20221108/1808286.md">张庭违法传销案大反转 爆河北官方“造假证据”</a></li>
 <li><a href="/baitai/20221108/1808355.md">“金税四期”雁过拔毛征税 上海商户收现金躲避 专家：堵死中国百姓所有出路</a></li>
 <li><a href="/cnnews/20221108/1808210.md">浙江的服装业老板们恐怕等不到旺季了</a></li>
+<li><a href="/funmedia/20221108/1808404.md">听“供销社”里的对话 我忍不住笑了</a></li>
 <li><a href="/lifebaike/20221108/1808209.md">男性的鼻毛为何会“窜”出来？鼻毛旺盛代表了什么？早知道早受益</a></li>
 <li><a href="/ssgc/20221108/1808136.md">〖微博谈〗新冠像一个智商筛选器</a></li>
-<li><a href="/funmedia/20221108/1808404.md">听“供销社”里的对话 我忍不住笑了</a></li>
+<li><a href="/ssgc/20221108/1808335.md">华尔街日报：中国考虑逐步退出动态清零</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221109/1808568.md" target="_blank">实体店没有人，没有生意，惨不忍睹！</a></li>
 <li><a href="/comments/20221109/1808564.md" target="_blank">北京，防疫部门领导批刁民：哪儿那么多废话啊？让你回家就回家。和谐社会时间太长了，大家伙都他妈不知道自己姓什么了。</a></li>
 <li><a href="/comments/20221109/1808563.md" target="_blank">比监狱还残忍！整栋楼的大门用铁链锁上，40多天只允许下楼20分钟。</a></li>
 <li><a href="/cbnews/20221109/1808539.md" target="_blank">救护车坐地起价 哈尔滨病危妇到家2分钟就去世</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221107/1807771.md" target="_blank">11月4日，重庆渝北区博园小区，业主聚集抗议封控，与大批警察对峙，并推开小区大门。</a></li>
 <li><a href="/cbnews/20221107/1807735.md" target="_blank">罕见榫卯结构！安徽黄山干旱致千年石坝露出水面…</a></li>
 <li><a href="/comments/20221107/1807721.md" target="_blank">两权之争——“选择权”和“生存权”#未解之谜 #扶摇 #shorts</a></li>
-<li><a href="/comments/20221107/1807720.md" target="_blank">日本漫画书《我所看见的未来》被称作最准的预言漫画，一度在日本引发抢购潮，在拍卖市场甚至叫价到10万日元一本，到底有着怎样的预言呢？ #shorts #未解之谜 #扶摇</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221109/1808568.md" target="_blank">实体店没有人，没有生意，惨不忍睹！</a></li>
 <li><a href="/comments/20221109/1808564.md" target="_blank">北京，防疫部门领导批刁民：哪儿那么多废话啊？让你回家就回家。和谐社会时间太长了，大家伙都他妈不知道自己姓什么了。</a></li>
 <li><a href="/comments/20221109/1808563.md" target="_blank">比监狱还残忍！整栋楼的大门用铁链锁上，40多天只允许下楼20分钟。</a></li>
 <li><a href="/comments/20221109/1808548.md" target="_blank">南京大学党委副书记性侵女学生致怀孕流产 辱骂国家领导人习近平及彭丽媛 细节曝光 举报信被发送至全国所有985高校 网络疯传 江泽民与南京大学不为人知的渊源揭秘 中南海不可告人的秘密_563</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221108/1808248.md" target="_blank">【首发】李德君：二问习近平，凭什么【新时代】</a></li>
 <li><a href="/comments/20221108/1808225.md" target="_blank">遍地“蔡锷”起，坐看习近平如何被“清零”（美国看客）</a></li>
 <li><a href="/comments/20221108/1808218.md" target="_blank">李濠仲：一支触动人心的征兵“反战”广告</a></li>
-<li><a href="/comments/20221108/1808206.md" target="_blank">北京人：每一场出差都是离家出走</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 
 </ul>
 </div>
