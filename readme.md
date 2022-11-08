@@ -27,7 +27,7 @@
 <li><a href="/topimagenews/20221107/1807848.md">普丁搞残俄罗斯？致命错误让IFrame爆掉 惨况曝光完蛋了</a></li>
 <li><a href="/ssgc/20221107/1807931.md">习近平新政：最高要求是活下去</a></li>
 <li><a href="/comments/20221107/1807940.md">一群大白被仍在一辆公交车上，挨冻6个小时！</a></li>
-<li><a href="/comments/20221107/1807779.md">11月4日，深圳南山区南山村封控，居民聚集抗议要求解封，大批警察到场镇压！</a></li>
+<li><a href="/topimagenews/20221108/1808084.md">一年多五次暂停 百余天静默 我离倾家荡产仅一米</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221108/1808249.md" target="_blank">【微博精粹】我拿着棉签 终于理解了习主席</a></li>
+<li><a href="/comments/20221108/1808248.md" target="_blank">【首发】李德君：二问习近平，凭什么【新时代】</a></li>
+<li><a href="/comments/20221108/1808225.md" target="_blank">遍地“蔡锷”起，坐看习近平如何被“清零”（美国看客）</a></li>
 <li><a href="/comments/20221108/1808218.md" target="_blank">李濠仲：一支触动人心的征兵“反战”广告</a></li>
 <li><a href="/comments/20221108/1808206.md" target="_blank">北京人：每一场出差都是离家出走</a></li>
 <li><a href="/comments/20221108/1808188.md" target="_blank">李燕铭：习近平二十大后重点打虎目标浮现 12副部级39厅局级高官两周内被密集查处 李克强汪洋胡春华主政地及曾庆红郭声琨老巢被重点清洗 金融系统与北京官场震荡不已 习近平决战江曾（四八） 习近平李克强明争暗斗内幕（六五） 中共二十大团派团灭内幕（十三）</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221107/1807928.md" target="_blank">【杜耀明评论】大权在握又束手无策，是新香港的三大管治本色之一</a></li>
 <li><a href="/comments/20221107/1807920.md" target="_blank">末日博士最新预言，躲避危机有祕诀！动荡年代，教你如何看好荷包！纾困方案也救不了的通货膨胀和房产断供潮，一次看懂次贷危机！</a></li>
 <li><a href="/comments/20221107/1807779.md" target="_blank">11月4日，深圳南山区南山村封控，居民聚集抗议要求解封，大批警察到场镇压！</a></li>
-<li><a href="/comments/20221107/1807778.md" target="_blank">【独家重磅】李燕铭：习近平清洗李克强家族钱袋子 引爆微商银行窝案阻击李克强 微商银行三任董事长相继落马 首任董事长发表反习言论获刑12年 李克强兄弟姐妹深度卷入微商银行窝案 习江钱袋子争夺战（二五） 习近平李克强明争暗斗内幕（六四） 习清洗安徽帮暗战两党魁五常委（七） 中共二十大团派团灭内幕（十二）</a></li>
-<li><a href="/comments/20221107/1807773.md" target="_blank">11月5日，郑州龙湖镇正商小区，为抗议取暖费涨价，小区业主集会抗议，当局派大批警察镇压。</a></li>
-<li><a href="/comments/20221107/1807772.md" target="_blank">11月4日，广州市海珠区五花城，居民聚集抗议封控，推倒封控围栏，自行解封。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 <li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 <li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 
 </ul>
 </div>
