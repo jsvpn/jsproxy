@@ -13,21 +13,21 @@
 <li><a href="/cbnews/20221108/1808126.md">天亮时分：人心思“润”，所有富商扔掉行李冲上飞机；华日：中共考虑放松管控，但时间表不明朗；马斯克发推：号召投票给共和党（政论天下第843集 20221107）</a></li>
 <li><a href="/topimagenews/20221108/1808314.md">习近平御用？开望而生畏新职业：令官员“面红耳赤、汗水淋漓”【阿波罗网报道】</a></li>
 <li><a href="/comments/20221108/1808058.md">11月7日，上海人民公园要封园，游客疯狂外逃。</a></li>
-<li><a href="/topimagenews/20221108/1808084.md">一年多五次暂停 百余天静默 我离倾家荡产仅一米</a></li>
 <li><a href="/comments/20221108/1808225.md">遍地“蔡锷”起，坐看习近平如何被“清零”（美国看客）</a></li>
+<li><a href="/topimagenews/20221108/1808084.md">一年多五次暂停 百余天静默 我离倾家荡产仅一米</a></li>
 <li><a href="/cnnews/20221108/1808100.md">心脏装6个支架的王石：日本看病实录,发人深思</a></li>
 <li><a href="/cnnews/20221108/1808219.md">富二代喝下1400瓶核辐射水，下巴整个融化</a></li>
 <li><a href="/cnnews/20221108/1808320.md">中共最高层考虑逐步退出动态清零 但无时间表</a></li>
 <li><a href="/cnnews/20221108/1808325.md">左派大变脸</a></li>
 <li><a href="/comments/20221108/1808290.md">习近平众叛亲离 他知道退一步就是万丈深渊</a></li>
-<li><a href="/cnnews/20221108/1808210.md">浙江的服装业老板们恐怕等不到旺季了</a></li>
 <li><a href="/baitai/20221108/1808355.md">“金税四期”雁过拔毛征税 上海商户收现金躲避 专家：堵死中国百姓所有出路</a></li>
+<li><a href="/ssgc/20221108/1808445.md">刚掌中纪委 李希为何抛出反习案？</a></li>
+<li><a href="/cnnews/20221108/1808210.md">浙江的服装业老板们恐怕等不到旺季了</a></li>
 <li><a href="/cbnews/20221108/1808286.md">张庭违法传销案大反转 爆河北官方“造假证据”</a></li>
 <li><a href="/lifebaike/20221108/1808209.md">男性的鼻毛为何会“窜”出来？鼻毛旺盛代表了什么？早知道早受益</a></li>
 <li><a href="/ssgc/20221108/1808136.md">〖微博谈〗新冠像一个智商筛选器</a></li>
+<li><a href="/topimagenews/20221108/1808484.md">南京大学惊爆党委副书记性侵女学生 她哀求放过我！被反呛“不是处女了别装清纯”</a></li>
 <li><a href="/ssgc/20221108/1808335.md">华尔街日报：中国考虑逐步退出动态清零</a></li>
-<li><a href="/ssgc/20221108/1808445.md">刚掌中纪委 李希为何抛出反习案？</a></li>
-<li><a href="/comments/20221108/1808282.md">【独家重磅】李燕铭：习近平清洗邓朴方独立王国 太子党分裂与内斗公开化 邓小平家族密谋推翻习近平？习火线反击 二十大前后多省市残联被巡视 五名残联官员相继落马 习近平与太子党恩怨情仇（九） 中南海政变与反政变（六二）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
 <li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
 
 </ul>
 </div>
