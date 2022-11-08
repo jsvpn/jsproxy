@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/baitai/20221108/1808082.md">中共军队异常表态 谁触动习最大心病？</a></li>
 <li><a href="/comments/20221108/1808258.md">一名勇敢的警察占了出来，公开反对中共国的信息封锁政策。</a></li>
 <li><a href="/ssgc/20221108/1808150.md">〖兲朝浮世绘〗秦皇岛出现全国疫情最大狗血剧情 病毒干到官员老巢</a></li>
 <li><a href="/topimagenews/20221108/1808302.md">习近平独揽大权 这都不顾及了</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/ssgc/20221108/1808136.md">〖微博谈〗新冠像一个智商筛选器</a></li>
 <li><a href="/ssgc/20221108/1808335.md">华尔街日报：中国考虑逐步退出动态清零</a></li>
 <li><a href="/comments/20221108/1808282.md">【独家重磅】李燕铭：习近平清洗邓朴方独立王国 太子党分裂与内斗公开化 邓小平家族密谋推翻习近平？习火线反击 二十大前后多省市残联被巡视 五名残联官员相继落马 习近平与太子党恩怨情仇（九） 中南海政变与反政变（六二）</a></li>
+<li><a href="/sohnews/20221108/1808147.md">🔥🔥五大极凶天象❗习近平命不久矣❗中国人大祸临头❗有一破解之法❗</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221109/1808600.md" target="_blank">吃了冰箱里的变质食品 他全身和血液都成蓝黑色</a></li>
 <li><a href="/cbnews/20221109/1808580.md" target="_blank">天亮时分：2022年美国中期选举 全程报导</a></li>
 <li><a href="/cbnews/20221109/1808579.md" target="_blank">江峰：2022年美国中期选举 全程报导</a></li>
 <li><a href="/comments/20221109/1808568.md" target="_blank">实体店没有人，没有生意，惨不忍睹！</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/comments/20221107/1807779.md" target="_blank">11月4日，深圳南山区南山村封控，居民聚集抗议要求解封，大批警察到场镇压！</a></li>
 <li><a href="/comments/20221107/1807773.md" target="_blank">11月5日，郑州龙湖镇正商小区，为抗议取暖费涨价，小区业主集会抗议，当局派大批警察镇压。</a></li>
 <li><a href="/comments/20221107/1807772.md" target="_blank">11月4日，广州市海珠区五花城，居民聚集抗议封控，推倒封控围栏，自行解封。</a></li>
-<li><a href="/comments/20221107/1807771.md" target="_blank">11月4日，重庆渝北区博园小区，业主聚集抗议封控，与大批警察对峙，并推开小区大门。</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221109/1808599.md" target="_blank">习年底访沙特？一问题引世界关注</a></li>
+<li><a href="/topimagenews/20221109/1808598.md" target="_blank">反讽：她一个人网暴了整个互联网 刘红英书记甩锅上级？</a></li>
 <li><a href="/topimagenews/20221109/1808514.md" target="_blank">选前之夜最后造势 川普骂弹劾他两次的裴洛西“畜牲”</a></li>
 <li><a href="/topimagenews/20221108/1808499.md" target="_blank">俄500新兵只分到3把铲挖战壕 敌机来袭长官先落跑</a></li>
 <li><a href="/topimagenews/20221108/1808484.md" target="_blank">南京大学惊爆党委副书记性侵女学生 她哀求放过我！被反呛“不是处女了别装清纯”</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20221107/1807775.md" target="_blank">印度神童警告血月亮有凶兆 台湾中国韩国小心4件事</a></li>
 <li><a href="/topimagenews/20221107/1807774.md" target="_blank">月扛7000元房贷！陆男缴完头期款“没钱装潢了”…</a></li>
 <li><a href="/topimagenews/20221107/1807756.md" target="_blank">【微博精粹】把门打开</a></li>
-<li><a href="/topimagenews/20221107/1807755.md" target="_blank">男女棋手对弈：他崩溃自扇巴掌，她淡定吃香蕉</a></li>
-<li><a href="/topimagenews/20221107/1807706.md" target="_blank">宋文笛：陈吉宁担任下届总理的4种渊源 丁薛祥任副手？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 <li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
 
 </ul>
 </div>
