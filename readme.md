@@ -5,12 +5,11 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20221107/1807767.md">厉害了：1分钟“啪啪”1140下，男子破世界纪录</a></li>
 <li><a href="/sohnews/20221107/1807770.md">习近平一天撒近四千亿，应该是破纪录了！是谁想清零要松动？极端组织为什么开始攻击马斯克？请看【李军访谈20221106第88期】纽约时间早8点播出</a></li>
 <li><a href="/cnnews/20221107/1807886.md">突发！内蒙高院党委书记、院长被逮捕</a></li>
-<li><a href="/cnnews/20221107/1807887.md">乌克兰击落俄军无人机，拆解后惊见…</a></li>
-<li><a href="/topimagenews/20221107/1807915.md">中国大润潮 大亨纷纷跳船 刘强东套现离境；突破美国禁令 中共还剩9个月？</a></li>
 <li><a href="/baitai/20221107/1807777.md">二十大果真是一次政变？四通创办人曝习惊人目的</a></li>
+<li><a href="/topimagenews/20221107/1807915.md">中国大润潮 大亨纷纷跳船 刘强东套现离境；突破美国禁令 中共还剩9个月？</a></li>
+<li><a href="/cnnews/20221107/1807887.md">乌克兰击落俄军无人机，拆解后惊见…</a></li>
 <li><a href="/comments/20221107/1807941.md">电话录音：一女子希望购买出疆证。对方说：一般人8000，通过他的关系3000搞定，但希望女子事成之后陪他睡4次。</a></li>
 <li><a href="/cnnews/20221108/1808063.md">绝对是今天中国全大陆最火 刘红英这事正爆出更多后续</a></li>
 <li><a href="/baitai/20221107/1807930.md">日媒曝习秘设接班人</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/comments/20221107/1807772.md">11月4日，广州市海珠区五花城，居民聚集抗议封控，推倒封控围栏，自行解封。</a></li>
 <li><a href="/comments/20221108/1808058.md">11月7日，上海人民公园要封园，游客疯狂外逃。</a></li>
 <li><a href="/ssgc/20221107/1807935.md">“免做核酸人群”让中国人情何以堪</a></li>
+<li><a href="/topimagenews/20221108/1808084.md">一年多五次暂停 百余天静默 我离倾家荡产仅一米</a></li>
+<li><a href="/baitai/20221108/1808082.md">中共军队异常表态 谁触动习最大心病？</a></li>
 <li><a href="/topimagenews/20221107/1807848.md">普丁搞残俄罗斯？致命错误让IFrame爆掉 惨况曝光完蛋了</a></li>
 <li><a href="/comments/20221107/1807920.md">末日博士最新预言，躲避危机有祕诀！动荡年代，教你如何看好荷包！纾困方案也救不了的通货膨胀和房产断供潮，一次看懂次贷危机！</a></li>
-<li><a href="/topimagenews/20221108/1808084.md">一年多五次暂停 百余天静默 我离倾家荡产仅一米</a></li>
 <li><a href="/ssgc/20221107/1807931.md">习近平新政：最高要求是活下去</a></li>
 <li><a href="/comments/20221107/1807940.md">一群大白被仍在一辆公交车上，挨冻6个小时！</a></li>
-<li><a href="/baitai/20221108/1808082.md">中共军队异常表态 谁触动习最大心病？</a></li>
+<li><a href="/cnnews/20221108/1808100.md">心脏装6个支架的王石：日本看病实录,发人深思</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221108/1808270.md" target="_blank">【直播预告】国会之争！美国中期选举特别报导</a></li>
+<li><a href="/comments/20221108/1808269.md" target="_blank">二十大传递信号 中国富商：“大家赶快一起逃”</a></li>
+<li><a href="/comments/20221108/1808267.md" target="_blank">二十大前联署反对个人崇拜 中共三党员遭抓捕</a></li>
 <li><a href="/comments/20221108/1808258.md" target="_blank">一名勇敢的警察占了出来，公开反对中共国的信息封锁政策。</a></li>
 <li><a href="/comments/20221108/1808249.md" target="_blank">【微博精粹】我拿着棉签 终于理解了习主席</a></li>
 <li><a href="/comments/20221108/1808248.md" target="_blank">【首发】李德君：二问习近平，凭什么【新时代】</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221107/1808002.md" target="_blank">时事大家谈：动态清零步入穷途末路，习近平仍不回头？供销社大食堂公私合营：习近平加速计划经济？</a></li>
 <li><a href="/comments/20221107/1807973.md" target="_blank">【沈旭晖评论】中共二十大后「拯救香港」，只会加速「新香港」移民潮</a></li>
 <li><a href="/comments/20221107/1807941.md" target="_blank">电话录音：一女子希望购买出疆证。对方说：一般人8000，通过他的关系3000搞定，但希望女子事成之后陪他睡4次。</a></li>
-<li><a href="/comments/20221107/1807940.md" target="_blank">一群大白被仍在一辆公交车上，挨冻6个小时！</a></li>
-<li><a href="/comments/20221107/1807928.md" target="_blank">【杜耀明评论】大权在握又束手无策，是新香港的三大管治本色之一</a></li>
-<li><a href="/comments/20221107/1807920.md" target="_blank">末日博士最新预言，躲避危机有祕诀！动荡年代，教你如何看好荷包！纾困方案也救不了的通货膨胀和房产断供潮，一次看懂次贷危机！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
 <li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
 
 </ul>
 </div>
