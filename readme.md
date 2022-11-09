@@ -8,11 +8,10 @@
 <li><a href="/comments/20221108/1808258.md">一名勇敢的警察占了出来，公开反对中共国的信息封锁政策。</a></li>
 <li><a href="/topimagenews/20221108/1808302.md">习近平独揽大权 这都不顾及了</a></li>
 <li><a href="/topimagenews/20221108/1808314.md">习近平御用？开望而生畏新职业：令官员“面红耳赤、汗水淋漓”【阿波罗网报道】</a></li>
-<li><a href="/comments/20221108/1808225.md">遍地“蔡锷”起，坐看习近平如何被“清零”（美国看客）</a></li>
 <li><a href="/topimagenews/20221108/1808484.md">南京大学惊爆党委副书记性侵女学生 她哀求放过我！被反呛“不是处女了别装清纯”</a></li>
 <li><a href="/ssgc/20221108/1808445.md">刚掌中纪委 李希为何抛出反习案？</a></li>
-<li><a href="/cnnews/20221108/1808320.md">中共最高层考虑逐步退出动态清零 但无时间表</a></li>
 <li><a href="/cnnews/20221108/1808325.md">左派大变脸</a></li>
+<li><a href="/cnnews/20221108/1808320.md">中共最高层考虑逐步退出动态清零 但无时间表</a></li>
 <li><a href="/comments/20221108/1808290.md">习近平众叛亲离 他知道退一步就是万丈深渊</a></li>
 <li><a href="/comments/20221109/1808564.md">北京，防疫部门领导批刁民：哪儿那么多废话啊？让你回家就回家。和谐社会时间太长了，大家伙都他妈不知道自己姓什么了。</a></li>
 <li><a href="/cbnews/20221108/1808286.md">张庭违法传销案大反转 爆河北官方“造假证据”</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/ssgc/20221108/1808335.md">华尔街日报：中国考虑逐步退出动态清零</a></li>
 <li><a href="/baitai/20221109/1808573.md">“成人礼”再发酵！涉事女书记揭中共官宣老底</a></li>
 <li><a href="/lifebaike/20221108/1808333.md">建议：这5种家电正在被淘汰，别再买了，都是花钱买教训</a></li>
-<li><a href="/baitai/20221108/1808233.md">清零忍无可忍习近平众叛亲离</a></li>
 <li><a href="/baitai/20221108/1808443.md">事越闹越大 这事成全中国最火</a></li>
-<li><a href="/funmedia/20221108/1808246.md">一妇人在杀鸡前的晚上喂鸡，不经意地说：快吃吧，这是你最后一顿，结果…</a></li>
+<li><a href="/cnnews/20221109/1808604.md">哪怕赔上亿也要解雇印裔高管：马斯克为何不忍了</a></li>
 <li><a href="/comments/20221109/1808568.md">实体店没有人，没有生意，惨不忍睹！</a></li>
-<li><a href="/comments/20221108/1808249.md">【微博精粹】我拿着棉签 终于理解了习主席</a></li>
+<li><a href="/topimagenews/20221108/1808338.md">美最狠禁令发酵！陆芯片业惊见警讯：2大指标狂下滑</a></li>
+<li><a href="/cbnews/20221108/1808294.md">江峰：“一把坐上就不想下来的椅子”别克广告说谁呢？有感於此红色大V反水；北上广港面子挂不住了，跑完马拉松再查？秋後算账，广州封城惊恐逃难；央媒记者遭封堵【江峰漫谈20221107第574期】</a></li>
+<li><a href="/sohnews/20221108/1808429.md">陈破空：迹象！习近平将对王岐山下手？两人都未出席峰会。又一王亲信被查。新林彪事件将爆发？封城加火灾，中国人跳楼成风。美东11月8日早8点、即中港台11月8日晚9点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221109/1808759.md" target="_blank">宋国诚:中共即将到来的第一危机美中进入“核对抗”</a></li>
+<li><a href="/comments/20221109/1808758.md" target="_blank">王五四：社区女书记的眼泪</a></li>
+<li><a href="/comments/20221109/1808757.md" target="_blank">文庙：美国核武器上膛与中共20大习政变</a></li>
 <li><a href="/comments/20221109/1808741.md" target="_blank">王克斌：一尊形成的历史原因</a></li>
 <li><a href="/comments/20221109/1808740.md" target="_blank">异闻观止: 时评：任何磨难都不是放弃生命的理由</a></li>
 <li><a href="/comments/20221109/1808739.md" target="_blank">技术大院: 我们离病毒越来越远了</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221108/1808495.md" target="_blank">李燕铭：李克强下属薄熙来搭档刘国强被判死缓终身监禁 受贿3.5亿交代数千万企图蒙混过关 花费巨资跑官买官被骗 曾因致214人死亡爆炸案受过处分 习近平清洗辽宁帮剑指李姓两常委（十一） 习近平李克强明争暗斗内幕（六六）</a></li>
 <li><a href="/comments/20221108/1808494.md" target="_blank">时事大家谈：美国中期选举投票日 两党决战参众两院；国会两党势力新格局 如何影响美国政策走向？&#160;</a></li>
 <li><a href="/comments/20221108/1808489.md" target="_blank">评论 | 傅申奇：不意外和意外</a></li>
-<li><a href="/comments/20221108/1808440.md" target="_blank">【财经拆局】市场误读加息讯号，楼市跌浪杀埋身</a></li>
-<li><a href="/comments/20221108/1808438.md" target="_blank">中国亿万富豪财富 20年来最大缩水 碧桂园控股杨惠妍位列榜首</a></li>
-<li><a href="/comments/20221108/1808426.md" target="_blank">不演了！瓦格那集团创办人：我们确实干预美国大选</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
 
 </ul>
 </div>
