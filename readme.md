@@ -13,19 +13,19 @@
 <li><a href="/cnnews/20221108/1808320.md">中共最高层考虑逐步退出动态清零 但无时间表</a></li>
 <li><a href="/comments/20221108/1808290.md">习近平众叛亲离 他知道退一步就是万丈深渊</a></li>
 <li><a href="/comments/20221109/1808564.md">北京，防疫部门领导批刁民：哪儿那么多废话啊？让你回家就回家。和谐社会时间太长了，大家伙都他妈不知道自己姓什么了。</a></li>
-<li><a href="/cbnews/20221108/1808286.md">张庭违法传销案大反转 爆河北官方“造假证据”</a></li>
 <li><a href="/baitai/20221108/1808355.md">“金税四期”雁过拔毛征税 上海商户收现金躲避 专家：堵死中国百姓所有出路</a></li>
 <li><a href="/funmedia/20221108/1808404.md">听“供销社”里的对话 我忍不住笑了</a></li>
-<li><a href="/comments/20221108/1808282.md">【独家重磅】李燕铭：习近平清洗邓朴方独立王国 太子党分裂与内斗公开化 邓小平家族密谋推翻习近平？习火线反击 二十大前后多省市残联被巡视 五名残联官员相继落马 习近平与太子党恩怨情仇（九） 中南海政变与反政变（六二）</a></li>
 <li><a href="/cnnews/20221109/1808604.md">哪怕赔上亿也要解雇印裔高管：马斯克为何不忍了</a></li>
 <li><a href="/headline/20221108/1808477.md">习近平为什么看中了丁薛祥？</a></li>
-<li><a href="/ssgc/20221108/1808335.md">华尔街日报：中国考虑逐步退出动态清零</a></li>
 <li><a href="/baitai/20221109/1808573.md">“成人礼”再发酵！涉事女书记揭中共官宣老底</a></li>
+<li><a href="/ssgc/20221108/1808335.md">华尔街日报：中国考虑逐步退出动态清零</a></li>
 <li><a href="/lifebaike/20221108/1808333.md">建议：这5种家电正在被淘汰，别再买了，都是花钱买教训</a></li>
 <li><a href="/comments/20221109/1808568.md">实体店没有人，没有生意，惨不忍睹！</a></li>
+<li><a href="/cnnews/20221109/1808623.md">重大进步！列宁当俄奸被编入教材</a></li>
 <li><a href="/baitai/20221108/1808443.md">事越闹越大 这事成全中国最火</a></li>
 <li><a href="/cbnews/20221108/1808294.md">江峰：“一把坐上就不想下来的椅子”别克广告说谁呢？有感於此红色大V反水；北上广港面子挂不住了，跑完马拉松再查？秋後算账，广州封城惊恐逃难；央媒记者遭封堵【江峰漫谈20221107第574期】</a></li>
 <li><a href="/topimagenews/20221108/1808338.md">美最狠禁令发酵！陆芯片业惊见警讯：2大指标狂下滑</a></li>
+<li><a href="/cnnews/20221109/1808592.md">习视察联合作战指挥中心：全部精力聚焦打仗</a></li>
 <li><a href="/sohnews/20221108/1808429.md">陈破空：迹象！习近平将对王岐山下手？两人都未出席峰会。又一王亲信被查。新林彪事件将爆发？封城加火灾，中国人跳楼成风。美东11月8日早8点、即中港台11月8日晚9点</a></li>
 <li><a href="/topimagenews/20221108/1808326.md">山东大白又打人！拽人出来痛殴、踹头！黑衣男帮腔甩巴掌</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221109/1808799.md" target="_blank">拜登再战2024？66％美国人拒绝？…</a></li>
 <li><a href="/topimagenews/20221109/1808772.md" target="_blank">侵乌俄军惨状：路边“整排坟堆”绵延数公里！500动员兵上前线5天死光</a></li>
 <li><a href="/topimagenews/20221109/1808731.md" target="_blank">美中期选举最新开票情况</a></li>
 <li><a href="/topimagenews/20221109/1808685.md" target="_blank">汇款回中国账户遭冻结 女子：父手术费没着落</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221107/1807990.md" target="_blank">装的！乌克兰曝俄军没从赫松撤退</a></li>
 <li><a href="/topimagenews/20221107/1807915.md" target="_blank">中国大润潮 大亨纷纷跳船 刘强东套现离境；突破美国禁令 中共还剩9个月？</a></li>
 <li><a href="/topimagenews/20221107/1807897.md" target="_blank">艺高胆大！美B-1B轰炸机特技“侧翻滚” 空前绝后…</a></li>
-<li><a href="/topimagenews/20221107/1807875.md" target="_blank">普丁官方推特“蓝勾勾”被移除 网友：难道普丁忘记缴钱吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 <li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
 <li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
 <li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
