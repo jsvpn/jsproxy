@@ -8,7 +8,6 @@
 <li><a href="/topimagenews/20221108/1808484.md">南京大学惊爆党委副书记性侵女学生 她哀求放过我！被反呛“不是处女了别装清纯”</a></li>
 <li><a href="/ssgc/20221108/1808445.md">刚掌中纪委 李希为何抛出反习案？</a></li>
 <li><a href="/cnnews/20221108/1808325.md">左派大变脸</a></li>
-<li><a href="/cnnews/20221108/1808320.md">中共最高层考虑逐步退出动态清零 但无时间表</a></li>
 <li><a href="/comments/20221109/1808564.md">北京，防疫部门领导批刁民：哪儿那么多废话啊？让你回家就回家。和谐社会时间太长了，大家伙都他妈不知道自己姓什么了。</a></li>
 <li><a href="/baitai/20221108/1808355.md">“金税四期”雁过拔毛征税 上海商户收现金躲避 专家：堵死中国百姓所有出路</a></li>
 <li><a href="/funmedia/20221108/1808404.md">听“供销社”里的对话 我忍不住笑了</a></li>
@@ -16,17 +15,18 @@
 <li><a href="/cnnews/20221109/1808604.md">哪怕赔上亿也要解雇印裔高管：马斯克为何不忍了</a></li>
 <li><a href="/cnnews/20221109/1808623.md">重大进步！列宁当俄奸被编入教材</a></li>
 <li><a href="/ssgc/20221108/1808335.md">华尔街日报：中国考虑逐步退出动态清零</a></li>
-<li><a href="/baitai/20221109/1808573.md">“成人礼”再发酵！涉事女书记揭中共官宣老底</a></li>
 <li><a href="/topimagenews/20221109/1808731.md">美中期选举最新开票情况</a></li>
+<li><a href="/baitai/20221109/1808573.md">“成人礼”再发酵！涉事女书记揭中共官宣老底</a></li>
 <li><a href="/lifebaike/20221108/1808333.md">建议：这5种家电正在被淘汰，别再买了，都是花钱买教训</a></li>
 <li><a href="/comments/20221109/1808568.md">实体店没有人，没有生意，惨不忍睹！</a></li>
 <li><a href="/baitai/20221108/1808443.md">事越闹越大 这事成全中国最火</a></li>
 <li><a href="/topimagenews/20221108/1808338.md">美最狠禁令发酵！陆芯片业惊见警讯：2大指标狂下滑</a></li>
 <li><a href="/sohnews/20221108/1808429.md">陈破空：迹象！习近平将对王岐山下手？两人都未出席峰会。又一王亲信被查。新林彪事件将爆发？封城加火灾，中国人跳楼成风。美东11月8日早8点、即中港台11月8日晚9点</a></li>
-<li><a href="/cnnews/20221109/1808592.md">习视察联合作战指挥中心：全部精力聚焦打仗</a></li>
-<li><a href="/topimagenews/20221109/1808598.md">反讽：她一个人网暴了整个互联网 刘红英书记甩锅上级？</a></li>
 <li><a href="/topimagenews/20221108/1808326.md">山东大白又打人！拽人出来痛殴、踹头！黑衣男帮腔甩巴掌</a></li>
+<li><a href="/topimagenews/20221109/1808598.md">反讽：她一个人网暴了整个互联网 刘红英书记甩锅上级？</a></li>
+<li><a href="/cnnews/20221109/1808592.md">习视察联合作战指挥中心：全部精力聚焦打仗</a></li>
 <li><a href="/finance/20221109/1808601.md">不玩了 又一美国巨头退出中国</a></li>
+<li><a href="/topimagenews/20221109/1808685.md">汇款回中国账户遭冻结 女子：父手术费没着落</a></li>
 <li><a href="/sohnews/20221109/1808636.md">大敌当前要开战？习做全军总动员；内部遇重大问题？习目光瞄准了他；共和党已做好计画 关键就看一点【新闻看点 李沐阳11.8】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221109/1808801.md" target="_blank">中共找上门了！我的反共履历和最劲爆的视频。中国变局的明确信号。（一平论政2022/11/8)</a></li>
 <li><a href="/cbnews/20221109/1808748.md" target="_blank">天亮时分：2022 Election Trailer</a></li>
 <li><a href="/comments/20221109/1808626.md" target="_blank">错过女儿18岁成人礼的刘红英书记出来讲话了！</a></li>
 <li><a href="/cbnews/20221109/1808600.md" target="_blank">吃了冰箱里的变质食品 他全身和血液都成蓝黑色</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/comments/20221107/1807940.md" target="_blank">一群大白被仍在一辆公交车上，挨冻6个小时！</a></li>
 <li><a href="/comments/20221107/1807920.md" target="_blank">末日博士最新预言，躲避危机有祕诀！动荡年代，教你如何看好荷包！纾困方案也救不了的通货膨胀和房产断供潮，一次看懂次贷危机！</a></li>
 <li><a href="/cbnews/20221107/1807881.md" target="_blank">郑州官员哭诉：我错过女儿成人礼…网友怒了</a></li>
-<li><a href="/comments/20221107/1807779.md" target="_blank">11月4日，深圳南山区南山村封控，居民聚集抗议要求解封，大批警察到场镇压！</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221109/1808849.md" target="_blank">开始了：纽约投票站因管道炸弹威胁暂时关闭</a></li>
 <li><a href="/topimagenews/20221109/1808840.md" target="_blank">小心血月亮凶兆余威 印度神童警告4件事 台湾美国中国韩国吓到</a></li>
 <li><a href="/topimagenews/20221109/1808809.md" target="_blank">将中国推向战争？习近平一身军装视察军委指挥中心鲜明表态【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221109/1808799.md" target="_blank">拜登再战2024？66％美国人拒绝？…</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221108/1808084.md" target="_blank">一年多五次暂停 百余天静默 我离倾家荡产仅一米</a></li>
 <li><a href="/topimagenews/20221108/1808021.md" target="_blank">中国式防疫封控！妇女坠楼延误抢救丧命 当地10多党工被抓包饮酒作乐</a></li>
 <li><a href="/topimagenews/20221107/1807991.md" target="_blank">普丁搞残俄罗斯？致命错误让经济爆掉 惨况曝光完蛋了</a></li>
-<li><a href="/topimagenews/20221107/1807990.md" target="_blank">装的！乌克兰曝俄军没从赫松撤退</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221109/1808801.md" target="_blank">中共找上门了！我的反共履历和最劲爆的视频。中国变局的明确信号。（一平论政2022/11/8)</a></li>
 <li><a href="/comments/20221109/1808786.md" target="_blank">【美国中期选】拜登认众院难保 共和党乐观变天</a></li>
 <li><a href="/comments/20221109/1808785.md" target="_blank">MAGA派选将声势浩大 点亮川普重返白宫之路</a></li>
 <li><a href="/comments/20221109/1808782.md" target="_blank">拜登出席G20、东协峰会重点一次看 可能与习近平单独会面</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221109/1808626.md" target="_blank">错过女儿18岁成人礼的刘红英书记出来讲话了！</a></li>
 <li><a href="/comments/20221109/1808568.md" target="_blank">实体店没有人，没有生意，惨不忍睹！</a></li>
 <li><a href="/comments/20221109/1808564.md" target="_blank">北京，防疫部门领导批刁民：哪儿那么多废话啊？让你回家就回家。和谐社会时间太长了，大家伙都他妈不知道自己姓什么了。</a></li>
-<li><a href="/comments/20221109/1808563.md" target="_blank">比监狱还残忍！整栋楼的大门用铁链锁上，40多天只允许下楼20分钟。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
 <li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
 
 </ul>
 </div>
