@@ -5,11 +5,11 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221109/1808868.md">郑州再出大事！数万学生集体冲岗离校【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221109/1808981.md">日媒曝中共20大前总书记胡锦涛“被离席”秘辛 隔壁栗战书讲了这句话</a></li>
+<li><a href="/topimagenews/20221109/1808868.md">郑州再出大事！数万学生集体冲岗离校【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221109/1808623.md">重大进步！列宁当俄奸被编入教材</a></li>
-<li><a href="/finance/20221109/1808601.md">不玩了 又一美国巨头退出中国</a></li>
 <li><a href="/topimagenews/20221109/1808867.md">刚刚更新：美中期选举最新开票情况</a></li>
+<li><a href="/finance/20221109/1808601.md">不玩了 又一美国巨头退出中国</a></li>
 <li><a href="/cnnews/20221109/1808604.md">哪怕赔上亿也要解雇印裔高管：马斯克为何不忍了</a></li>
 <li><a href="/cnnews/20221109/1808743.md">诡异！刘亚洲弟弟网站发文：国家要警惕太监化【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221109/1808731.md">美中期选举最新开票情况</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/topimagenews/20221109/1808685.md">汇款回中国账户遭冻结 女子：父手术费没着落</a></li>
 <li><a href="/comments/20221109/1808801.md">中共找上门了！我的反共履历和最劲爆的视频。中国变局的明确信号。（一平论政2022/11/8)</a></li>
 <li><a href="/cnnews/20221109/1808742.md">许其亮发6千字长文，曝出中共9字原则【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221109/1809003.md">iPhone越用越耗电、网速还变慢！“1功能”快关掉</a></li>
 <li><a href="/sohnews/20221109/1808636.md">大敌当前要开战？习做全军总动员；内部遇重大问题？习目光瞄准了他；共和党已做好计画 关键就看一点【新闻看点 李沐阳11.8】</a></li>
 <li><a href="/topimagenews/20221109/1808598.md">反讽：她一个人网暴了整个互联网 刘红英书记甩锅上级？</a></li>
-<li><a href="/cnnews/20221109/1809003.md">iPhone越用越耗电、网速还变慢！“1功能”快关掉</a></li>
 <li><a href="/comments/20221109/1808668.md">因严重诋毁习近平遭吊打，正厅级党官给一尊起了什麽绰号？红二代呼唤美国民主获蓬佩奥力挺，赵立坚又气炸</a></li>
-<li><a href="/cnnews/20221109/1808592.md">习视察联合作战指挥中心：全部精力聚焦打仗</a></li>
 <li><a href="/cnnews/20221109/1808695.md">中共元老万里次子万仲翔逝世</a></li>
 <li><a href="/worldnews/20221109/1808861.md">朝鲜依然执行“公开处决”…百姓因恐惧而颤栗</a></li>
+<li><a href="/ssgc/20221109/1808764.md">〖兲朝浮世绘〗新时代新任务全面加强练兵备战，习胖真的要打台湾了？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221110/1809136.md" target="_blank">习近平清零进退两难 体制内“集体倒戈”</a></li>
 <li><a href="/comments/20221110/1809122.md" target="_blank">李燕铭：农夫山泉钟睒睒蝉联中国首富 地产大佬纷纷跌落百富榜 恒大许家印跌落百名开外 碧桂园杨惠妍财富蒸发千亿 31个二线城市过半新房价格下跌 三线城市更是房价下跌重灾区 香港地产商地位凸显 李嘉诚超过马云马化腾百富榜排名第四 习江钱袋子争夺战（二六） 中共末日之经济危机（十一）</a></li>
 <li><a href="/comments/20221110/1809118.md" target="_blank">俄军赫尔松失守 正大溃撤</a></li>
 <li><a href="/comments/20221110/1809093.md" target="_blank">“凤凰”飞来百亿美元 台积电料在美扩容</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221109/1808782.md" target="_blank">拜登出席G20、东协峰会重点一次看 可能与习近平单独会面</a></li>
 <li><a href="/comments/20221109/1808781.md" target="_blank">中共“海外警察”被荷兰警方拘捕 舆论一片叫好</a></li>
 <li><a href="/comments/20221109/1808780.md" target="_blank">岳山：刚掌中纪委 李希为何抛出反习案？</a></li>
-<li><a href="/comments/20221109/1808759.md" target="_blank">宋国诚:中共即将到来的第一危机美中进入“核对抗”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
 <li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
 <li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
 
 </ul>
 </div>
