@@ -17,17 +17,17 @@
 <li><a href="/comments/20221109/1808568.md">实体店没有人，没有生意，惨不忍睹！</a></li>
 <li><a href="/cnnews/20221109/1808743.md">诡异！刘亚洲弟弟网站发文：国家要警惕太监化【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221109/1808809.md">将中国推向战争？习近平一身军装视察军委指挥中心鲜明表态【阿波罗网报道】</a></li>
-<li><a href="/finance/20221109/1808601.md">不玩了 又一美国巨头退出中国</a></li>
-<li><a href="/topimagenews/20221109/1808772.md">侵乌俄军惨状：路边“整排坟堆”绵延数公里！500动员兵上前线5天死光</a></li>
 <li><a href="/topimagenews/20221109/1808868.md">郑州再出大事！数万学生集体冲岗离校【阿波罗网报道】</a></li>
+<li><a href="/finance/20221109/1808601.md">不玩了 又一美国巨头退出中国</a></li>
+<li><a href="/topimagenews/20221109/1808867.md">刚刚更新：美中期选举最新开票情况</a></li>
+<li><a href="/topimagenews/20221109/1808772.md">侵乌俄军惨状：路边“整排坟堆”绵延数公里！500动员兵上前线5天死光</a></li>
 <li><a href="/topimagenews/20221109/1808685.md">汇款回中国账户遭冻结 女子：父手术费没着落</a></li>
 <li><a href="/sohnews/20221108/1808429.md">陈破空：迹象！习近平将对王岐山下手？两人都未出席峰会。又一王亲信被查。新林彪事件将爆发？封城加火灾，中国人跳楼成风。美东11月8日早8点、即中港台11月8日晚9点</a></li>
-<li><a href="/topimagenews/20221109/1808867.md">刚刚更新：美中期选举最新开票情况</a></li>
 <li><a href="/cnnews/20221109/1808742.md">许其亮发6千字长文，曝出中共9字原则【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221109/1808598.md">反讽：她一个人网暴了整个互联网 刘红英书记甩锅上级？</a></li>
 <li><a href="/headline/20221109/1808669.md">习近平不动摇 中国动摇了</a></li>
+<li><a href="/topimagenews/20221109/1808598.md">反讽：她一个人网暴了整个互联网 刘红英书记甩锅上级？</a></li>
+<li><a href="/comments/20221109/1808563.md">比监狱还残忍！整栋楼的大门用铁链锁上，40多天只允许下楼20分钟。</a></li>
 <li><a href="/cnnews/20221109/1808592.md">习视察联合作战指挥中心：全部精力聚焦打仗</a></li>
-<li><a href="/sohnews/20221109/1808636.md">大敌当前要开战？习做全军总动员；内部遇重大问题？习目光瞄准了他；共和党已做好计画 关键就看一点【新闻看点 李沐阳11.8】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221109/1808941.md" target="_blank">疫情下精神苦闷 中国大学生流行养“纸盒狗”</a></li>
+<li><a href="/comments/20221109/1808935.md" target="_blank">杨威：美国选举日习杀气腾腾高调备战 针对谁？</a></li>
 <li><a href="/comments/20221109/1808917.md" target="_blank">袁红冰：《意境性存在——属於心灵的真实》哲学卷    序曲：寻找属於自由人的生命哲理和信仰</a></li>
 <li><a href="/comments/20221109/1808916.md" target="_blank">袁红冰：《意境性存在——属於心灵的真实》哲学卷    卷首语</a></li>
 <li><a href="/comments/20221109/1808909.md" target="_blank">张建兴：拿命换？反习派输在哪？     </a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221109/1808668.md" target="_blank">因严重诋毁习近平遭吊打，正厅级党官给一尊起了什麽绰号？红二代呼唤美国民主获蓬佩奥力挺，赵立坚又气炸</a></li>
 <li><a href="/comments/20221109/1808652.md" target="_blank">袁斌：五常黑司机谋财害命为何不怕报应？</a></li>
 <li><a href="/comments/20221109/1808651.md" target="_blank">网海拾贝:胡锦涛会成为第二个赵紫阳吗？</a></li>
-<li><a href="/comments/20221109/1808650.md" target="_blank">王友群：公安部长王小洪会重蹈历史覆辙吗？</a></li>
-<li><a href="/comments/20221109/1808628.md" target="_blank">中共二十大后官员淫乱丑闻密集爆发 共青团安徽省委美女高官吴方媛在政府群中自爆和11人多次发生性关系 秦皇岛疾控女官员偷情染疫导致市政府被封 呼和浩特封城防疫期间数名男女官员搂抱饮酒作乐 南京大学党委副书记性侵女学生致怀孕流产细节曝光 举报信被发送至全国所有985高校 中南海不可告人的秘密_564</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
 <li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
 <li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
 
 </ul>
 </div>
