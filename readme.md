@@ -6,14 +6,14 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20221110/1809182.md">快讯！德国政府突然变卦，中德关系“退回原点”</a></li>
-<li><a href="/cnnews/20221109/1809003.md">iPhone越用越耗电、网速还变慢！“1功能”快关掉</a></li>
 <li><a href="/comments/20221110/1809136.md">习近平清零进退两难 体制内“集体倒戈”</a></li>
+<li><a href="/cnnews/20221109/1809003.md">iPhone越用越耗电、网速还变慢！“1功能”快关掉</a></li>
 <li><a href="/ccpdope/20221109/1809010.md">两奇闻规定！张高丽反对只和老婆上床</a></li>
 <li><a href="/comments/20221110/1809181.md">厦门红楼顶级服务：国安“燕子”搞定三种人；台湾有一名流接受招待；习近平常去视察，酒后直奔总统套房；除习救国第一战役（2022/11/9,终局风云4）</a></li>
 <li><a href="/baitai/20221110/1809134.md">中国人开始起义 未来局势三走向 其中一项吓倒习近平</a></li>
 <li><a href="/baitai/20221110/1809156.md">1900万人口的广州逃不掉了 打工民众：再下去肯定有暴乱；郑州再出大事？这回是数万学生；大快人心！中共「海外警察」被荷兰警方拘捕【环球看点】</a></li>
-<li><a href="/topimagenews/20221110/1809107.md">更新！美参院开票情况：共和党48席 民主党46席</a></li>
 <li><a href="/comments/20221110/1809212.md">周晓辉：从李克强栗战书的两个举策 看形势不妙</a></li>
+<li><a href="/topimagenews/20221110/1809107.md">更新！美参院开票情况：共和党48席 民主党46席</a></li>
 <li><a href="/sohnews/20221110/1809088.md">二十大研讨会，开放杂志总编金钟：胡锦涛事件可以跟林彪事件相比</a></li>
 <li><a href="/ssgc/20221110/1809264.md">中国即将到来的第一危机</a></li>
 <li><a href="/comments/20221110/1809369.md">呼和浩特，百姓大逃亡！</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/topimagenews/20221110/1809381.md">期中选举后暴怒尖叫超失态？川普回应了</a></li>
 <li><a href="/topimagenews/20221110/1809372.md">前中共总书记赵紫阳政治秘书鲍彤9日离世 曾曝重大内幕【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221110/1809232.md">〖兲朝浮世绘〗脚走不动了，也要坚持为人民服务</a></li>
+<li><a href="/cnnews/20221110/1809444.md">太大牌 中国官员竟直接将黑头车开上高铁月台</a></li>
 <li><a href="/ssgc/20221110/1809376.md">中国明年将对高收入高净值人士展开税务稽查</a></li>
 <li><a href="/cnnews/20221110/1809314.md">惊天一战 华人首富精准伏击 币圈马斯克身家清零</a></li>
-<li><a href="/yule/20221110/1809090.md">男方是渣男？知名博主曝景甜和张继科分手隐情</a></li>
+<li><a href="/comments/20221110/1809397.md">胡锦涛“被离场”新细节曝光 唇语专家解读栗战书对他说这句…</a></li>
 <li><a href="/baitai/20221110/1809157.md">丁薛祥「长袖善舞」 专家曝他获习青睐的秘密</a></li>
-<li><a href="/cnnews/20221110/1809444.md">太大牌 中国官员竟直接将黑头车开上高铁月台</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 
 </ul>
 </div>
