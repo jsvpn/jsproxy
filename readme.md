@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221110/1809453.md">可怕：北京等中国多地考点传出陆续取消出国考试</a></li>
 <li><a href="/baitai/20221110/1809507.md">胡锦涛风波 最关键细节曝光</a></li>
 <li><a href="/comments/20221111/1809652.md">广州海珠桥封城，警察开枪！</a></li>
 <li><a href="/comments/20221110/1809479.md">新疆封城将近100天了。这是要逼死百姓吗？</a></li>
 <li><a href="/ssgc/20221110/1809508.md">习近平会对胡锦涛和王岐山下手吗？</a></li>
 <li><a href="/finance/20221111/1809655.md">大佬都离场，今年双11晚会冷到冰点</a></li>
 <li><a href="/comments/20221110/1809492.md">郑州黄河科技学院两万名学生，冲破学校封锁线，疯狂大逃亡。</a></li>
-<li><a href="/headline/20221110/1809457.md">传有移民顾问被请「饮茶」 「整顿移民公司」帖文致人心惶惶</a></li>
 <li><a href="/topimagenews/20221111/1809643.md">真正考验普京的时候到了！关键时刻 伊朗为何突然怂了？</a></li>
+<li><a href="/baitai/20221111/1809821.md">中共二次抄家来了？双高人士高危</a></li>
 <li><a href="/topimagenews/20221111/1809759.md">一篇旧闻 精准说明中国当下最大的恶</a></li>
 <li><a href="/sohnews/20221111/1809755.md">习近平对防疫提出了新的要求，看样子以后因为清零倒霉的不只是老百姓了。美国中期选举结果还是没有出来，到底出了啥问题？德国禁止中国企业收购芯片企业【李军访谈 20221110第90期】</a></li>
-<li><a href="/baitai/20221111/1809821.md">中共二次抄家来了？双高人士高危</a></li>
 <li><a href="/cnnews/20221111/1809674.md">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/topimagenews/20221111/1809580.md">威斯康辛州强生逆转战局 增添共和党掌参院希望</a></li>
-<li><a href="/cnnews/20221111/1809773.md">iPhone15 4大新设计曝光 或是近年来变化最大一代</a></li>
 <li><a href="/yule/20221111/1809658.md">因“流氓案”远走美国的龚雪，67岁近况曝光</a></li>
+<li><a href="/cnnews/20221111/1809773.md">iPhone15 4大新设计曝光 或是近年来变化最大一代</a></li>
+<li><a href="/topimagenews/20221111/1809580.md">威斯康辛州强生逆转战局 增添共和党掌参院希望</a></li>
 <li><a href="/comments/20221110/1809493.md">10月10日凌晨，郑州煤矿机械制造技工学校学生，翻墙大逃亡。</a></li>
 <li><a href="/funmedia/20221110/1809472.md">大陆女子半夜狂喊不要 住户目睹这一幕傻眼</a></li>
 <li><a href="/cnnews/20221111/1809646.md">科学家剖开巨蟒拖出完整鳄鱼 震撼片引千万点击</a></li>
 <li><a href="/topimagenews/20221111/1809813.md">突发！上海地铁11号线猛烈打火、冒烟 冲上热搜第一【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221111/1809662.md">评论 | 胡平：骑虎难下的动态清零</a></li>
 <li><a href="/ssgc/20221111/1809807.md">〖兲朝浮世绘〗共军攻打台湾，大陆民众会不会给中华民国的军队捐款？</a></li>
+<li><a href="/yule/20221111/1809806.md">黄晓明首透露离婚婚姻，无力回天，杨颖曾后悔要复合被拒绝</a></li>
 <li><a href="/lishi/20221111/1809681.md">毛泽东的“泳池伴侣”</a></li>
+<li><a href="/headline/20221111/1809575.md">快讯：美国总统拜登将于下周一同中国国家主席习近平见面</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221111/1809941.md" target="_blank">中国缩短入境隔离两天 由“7+3”改“5+3”</a></li>
 <li><a href="/cbnews/20221111/1809833.md" target="_blank">江峰：《华日》“传谣”？习政治局强调清零不变！毛不死文革不止应验在习近平的封城清零上？ 2025电子健康码，全国人手一副电子镣铐，锁定银行账号！【江峰漫谈20221110第575期】</a></li>
 <li><a href="/comments/20221111/1809795.md" target="_blank">【精华版重播】直击2022中期选举夜：美国价值之争！经济，教育，犯罪：问题在哪里？方菲李正谈投票 ｜11/10/2022</a></li>
 <li><a href="/cbnews/20221111/1809758.md" target="_blank">天亮时分：宾州议员，去世也能当选?!唇语专家解密胡锦涛离场原因；政治局常委会，要求优化疫情防控，放不放松清零？（政论天下第845集 20221110）</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221109/1808801.md" target="_blank">中共找上门了！我的反共履历和最劲爆的视频。中国变局的明确信号。（一平论政2022/11/8)</a></li>
 <li><a href="/cbnews/20221109/1808748.md" target="_blank">天亮时分：2022 Election Trailer</a></li>
 <li><a href="/comments/20221109/1808626.md" target="_blank">错过女儿18岁成人礼的刘红英书记出来讲话了！</a></li>
-<li><a href="/cbnews/20221109/1808600.md" target="_blank">吃了冰箱里的变质食品 他全身和血液都成蓝黑色</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 <li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 
 </ul>
 </div>
