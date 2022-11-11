@@ -11,17 +11,17 @@
 <li><a href="/baitai/20221111/1809976.md">来不及了 中国移民留学同传糟糕消息</a></li>
 <li><a href="/cnnews/20221111/1809773.md">iPhone15 4大新设计曝光 或是近年来变化最大一代</a></li>
 <li><a href="/headline/20221111/1809870.md">中国确诊人数破万 国务院却放松防疫措施</a></li>
-<li><a href="/topimagenews/20221111/1809974.md">中国大陆知名主持人赵普发声 质疑防疫带来的次生灾难【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221111/1809890.md">奥斯维辛集中营？郑州在建世界最大规模方舱准备投入使用【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20221111/1809962.md">惊爆！汇款回中国账户遭中共冻结；中共公布立法草案，删关键表述；</a></li>
+<li><a href="/topimagenews/20221111/1809974.md">中国大陆知名主持人赵普发声 质疑防疫带来的次生灾难【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221111/1809923.md">中共对高净值人员查税 专家：控制前所未见骇人听闻</a></li>
+<li><a href="/cnnews/20221111/1809962.md">惊爆！汇款回中国账户遭中共冻结；中共公布立法草案，删关键表述；</a></li>
 <li><a href="/headline/20221111/1809894.md">中国海关严查出境旅客去向 移民顾问微信群遭解散引忧虑</a></li>
 <li><a href="/cbnews/20221111/1809833.md">江峰：《华日》“传谣”？习政治局强调清零不变！毛不死文革不止应验在习近平的封城清零上？ 2025电子健康码，全国人手一副电子镣铐，锁定银行账号！【江峰漫谈20221110第575期】</a></li>
 <li><a href="/cnnews/20221111/1810031.md">鲁夫真人版！伸缩自如12.7公分“超大根” 23岁男自豪：比赛没输过</a></li>
 <li><a href="/comments/20221111/1810001.md">新疆被封控近100天。书记：我也三个月没回家，也很累！民众：你有工资！我们吃什么？</a></li>
 <li><a href="/ssgc/20221111/1809807.md">〖兲朝浮世绘〗共军攻打台湾，大陆民众会不会给中华民国的军队捐款？</a></li>
-<li><a href="/topimagenews/20221111/1809813.md">突发！上海地铁11号线猛烈打火、冒烟 冲上热搜第一【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221111/1809823.md">印度神童喊最后2个月有事 小心4个地雷 台湾中国美国吓到</a></li>
+<li><a href="/topimagenews/20221111/1809813.md">突发！上海地铁11号线猛烈打火、冒烟 冲上热搜第一【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221111/1809879.md">润学大师李嘉诚 大谈“跑路”根源所在！【阿波罗网报道】</a></li>
 <li><a href="/yule/20221111/1809806.md">黄晓明首透露离婚婚姻，无力回天，杨颖曾后悔要复合被拒绝</a></li>
 <li><a href="/topimagenews/20221111/1809814.md">【微博精粹】领导的决定正确你支持 那不能叫忠诚</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 <li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
 
 </ul>
 </div>
