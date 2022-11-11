@@ -8,7 +8,6 @@
 <li><a href="/cnnews/20221110/1809444.md">太大牌 中国官员竟直接将黑头车开上高铁月台</a></li>
 <li><a href="/topimagenews/20221110/1809453.md">可怕：北京等中国多地考点传出陆续取消出国考试</a></li>
 <li><a href="/comments/20221110/1809369.md">呼和浩特，百姓大逃亡！</a></li>
-<li><a href="/topimagenews/20221110/1809365.md">美共和党要赢 习近平慌了？【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221110/1809507.md">胡锦涛风波 最关键细节曝光</a></li>
 <li><a href="/comments/20221111/1809652.md">广州海珠桥封城，警察开枪！</a></li>
 <li><a href="/comments/20221110/1809397.md">胡锦涛“被离场”新细节曝光 唇语专家解读栗战书对他说这句…</a></li>
@@ -17,16 +16,17 @@
 <li><a href="/topimagenews/20221110/1809372.md">前中共总书记赵紫阳政治秘书鲍彤9日离世 曾曝重大内幕【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221110/1809376.md">中国明年将对高收入高净值人士展开税务稽查</a></li>
 <li><a href="/ssgc/20221110/1809508.md">习近平会对胡锦涛和王岐山下手吗？</a></li>
-<li><a href="/topimagenews/20221111/1809643.md">真正考验普京的时候到了！关键时刻 伊朗为何突然怂了？</a></li>
 <li><a href="/finance/20221111/1809655.md">大佬都离场，今年双11晚会冷到冰点</a></li>
+<li><a href="/topimagenews/20221111/1809643.md">真正考验普京的时候到了！关键时刻 伊朗为何突然怂了？</a></li>
 <li><a href="/cbnews/20221110/1809401.md">赵紫阳秘书鲍彤逝世 软禁一生的罪犯编号8901</a></li>
-<li><a href="/headline/20221110/1809457.md">传有移民顾问被请「饮茶」 「整顿移民公司」帖文致人心惶惶</a></li>
 <li><a href="/comments/20221110/1809492.md">郑州黄河科技学院两万名学生，冲破学校封锁线，疯狂大逃亡。</a></li>
+<li><a href="/headline/20221110/1809457.md">传有移民顾问被请「饮茶」 「整顿移民公司」帖文致人心惶惶</a></li>
 <li><a href="/topimagenews/20221110/1809442.md">血月亮凶兆成真 印度神童警告４件事 尼泊尔台湾中国美国吓到</a></li>
 <li><a href="/topimagenews/20221111/1809580.md">威斯康辛州强生逆转战局 增添共和党掌参院希望</a></li>
+<li><a href="/cnnews/20221111/1809674.md">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
 <li><a href="/headline/20221110/1809447.md">中共以大数据稽查富人税务 资本家外逃需缴「买命钱」</a></li>
-<li><a href="/funmedia/20221110/1809472.md">大陆女子半夜狂喊不要 住户目睹这一幕傻眼</a></li>
 <li><a href="/comments/20221110/1809493.md">10月10日凌晨，郑州煤矿机械制造技工学校学生，翻墙大逃亡。</a></li>
+<li><a href="/funmedia/20221110/1809472.md">大陆女子半夜狂喊不要 住户目睹这一幕傻眼</a></li>
 <li><a href="/topimagenews/20221110/1809380.md">美众议院要变天?他将成下任议长，乌克兰惨了?</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221111/1809833.md" target="_blank">江峰：《华日》“传谣”？习政治局强调清零不变！毛不死文革不止应验在习近平的封城清零上？ 2025电子健康码，全国人手一副电子镣铐，锁定银行账号！【江峰漫谈20221110第575期】</a></li>
 <li><a href="/comments/20221111/1809795.md" target="_blank">【精华版重播】直击2022中期选举夜：美国价值之争！经济，教育，犯罪：问题在哪里？方菲李正谈投票 ｜11/10/2022</a></li>
 <li><a href="/cbnews/20221111/1809758.md" target="_blank">天亮时分：宾州议员，去世也能当选?!唇语专家解密胡锦涛离场原因；政治局常委会，要求优化疫情防控，放不放松清零？（政论天下第845集 20221110）</a></li>
 <li><a href="/comments/20221111/1809728.md" target="_blank">鄂尔多斯市政府发布公告，在遇到危急情况之时，市民有权突破防疫封锁，实施“紧急避险”。在黑暗中，仍有人性，仍有一丝光亮！</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20221109/1808748.md" target="_blank">天亮时分：2022 Election Trailer</a></li>
 <li><a href="/comments/20221109/1808626.md" target="_blank">错过女儿18岁成人礼的刘红英书记出来讲话了！</a></li>
 <li><a href="/cbnews/20221109/1808600.md" target="_blank">吃了冰箱里的变质食品 他全身和血液都成蓝黑色</a></li>
-<li><a href="/cbnews/20221109/1808580.md" target="_blank">天亮时分：2022年美国中期选举 全程报导</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221111/1809834.md" target="_blank">美中期选举诡异大片 宾州去世民主党州议员再次被选上【阿波罗网翻译报道】</a></li>
 <li><a href="/topimagenews/20221111/1809823.md" target="_blank">印度神童喊最后2个月有事 小心4个地雷 台湾中国美国吓到</a></li>
 <li><a href="/topimagenews/20221111/1809814.md" target="_blank">【微博精粹】领导的决定正确你支持 那不能叫忠诚</a></li>
 <li><a href="/topimagenews/20221111/1809813.md" target="_blank">突发！上海地铁11号线猛烈打火、冒烟 冲上热搜第一【阿波罗网报道】</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221110/1809107.md" target="_blank">更新！美参院开票情况：共和党48席 民主党46席</a></li>
 <li><a href="/topimagenews/20221110/1809086.md" target="_blank">美国期中选举各投票站状况频传！川普批：选举诈欺重现？</a></li>
 <li><a href="/topimagenews/20221110/1809061.md" target="_blank">俄罗斯宣布“从赫尔松撤退” 亲俄赫尔松副州长也意外丧生</a></li>
-<li><a href="/topimagenews/20221109/1808981.md" target="_blank">日媒曝中共20大前总书记胡锦涛“被离席”秘辛 隔壁栗战书讲了这句话</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221111/1809832.md" target="_blank">李燕铭：中国南方夏秋冬连旱 江西重庆等六省区市部分地区特旱 江西遭遇61年来最严重干旱 鄱阳湖水位再创新低 浙江金华市区可供水已不足70天 湖南特大水文干旱占全省面积68% 南方立冬后经历同期少见高温 多省蚊虫回归 中共末日之生态危机（六）</a></li>
 <li><a href="/comments/20221111/1809817.md" target="_blank">鲍彤再看六四：我是如何被抓进秦城的</a></li>
 <li><a href="/comments/20221111/1809815.md" target="_blank">李南央：鲍彤再看六四</a></li>
 <li><a href="/comments/20221111/1809803.md" target="_blank">中国富人狂逃，稽查行动紧追；郑州为富士康抓壮丁、吹哨人刘书记“轻微感冒”干趴习近平动态清零</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221110/1809493.md" target="_blank">10月10日凌晨，郑州煤矿机械制造技工学校学生，翻墙大逃亡。</a></li>
 <li><a href="/comments/20221110/1809492.md" target="_blank">郑州黄河科技学院两万名学生，冲破学校封锁线，疯狂大逃亡。</a></li>
 <li><a href="/comments/20221110/1809484.md" target="_blank">郑州航院近3万师生被封校内缺物资 急发公开信求援</a></li>
-<li><a href="/comments/20221110/1809479.md" target="_blank">新疆封城将近100天了。这是要逼死百姓吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 
 </ul>
 </div>
