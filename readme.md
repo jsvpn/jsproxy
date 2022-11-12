@@ -9,10 +9,9 @@
 <li><a href="/headline/20221111/1809870.md">中国确诊人数破万 国务院却放松防疫措施</a></li>
 <li><a href="/topimagenews/20221111/1809974.md">中国大陆知名主持人赵普发声 质疑防疫带来的次生灾难【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221111/1809962.md">惊爆！汇款回中国账户遭中共冻结；中共公布立法草案，删关键表述；</a></li>
-<li><a href="/baitai/20221111/1809923.md">中共对高净值人员查税 专家：控制前所未见骇人听闻</a></li>
 <li><a href="/baitai/20221112/1810151.md">官媒罕见公布中南海密会 七常委就清零表态</a></li>
+<li><a href="/baitai/20221111/1809923.md">中共对高净值人员查税 专家：控制前所未见骇人听闻</a></li>
 <li><a href="/topimagenews/20221111/1809890.md">奥斯维辛集中营？郑州在建世界最大规模方舱准备投入使用【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20221111/1809833.md">江峰：《华日》“传谣”？习政治局强调清零不变！毛不死文革不止应验在习近平的封城清零上？ 2025电子健康码，全国人手一副电子镣铐，锁定银行账号！【江峰漫谈20221110第575期】</a></li>
 <li><a href="/headline/20221111/1809894.md">中国海关严查出境旅客去向 移民顾问微信群遭解散引忧虑</a></li>
 <li><a href="/comments/20221111/1810001.md">新疆被封控近100天。书记：我也三个月没回家，也很累！民众：你有工资！我们吃什么？</a></li>
 <li><a href="/cnnews/20221111/1810031.md">鲁夫真人版！伸缩自如12.7公分“超大根” 23岁男自豪：比赛没输过</a></li>
@@ -22,9 +21,10 @@
 <li><a href="/topimagenews/20221111/1809845.md">普丁“打什么算盘”？不去G20、撤军赫尔松、女战狼称“准备谈判”</a></li>
 <li><a href="/ssgc/20221112/1810117.md">专栏 | 夜话中南海："符合年龄"但却落选二十届中委的人大副委员长和政协副主席们</a></li>
 <li><a href="/cnnews/20221112/1810096.md">受不了郑州清零封控了! 路透：富士康计划在印度 iPhone 工厂增员4倍</a></li>
-<li><a href="/cnnews/20221111/1810014.md">工人刚到职9天！跌进1093度熔炉“瞬间焚化” 制造商惨了</a></li>
 <li><a href="/sohnews/20221111/1809889.md">💥中共要对“出国者”收税！并瞄准财产千万以上的“高净值人群”；中共新立法撤销“改革开放”，清洗讯号？中宣部又号召知识分子提意见；大陆接连传出移民仲介“被找麻烦”｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cnnews/20221111/1810014.md">工人刚到职9天！跌进1093度熔炉“瞬间焚化” 制造商惨了</a></li>
 <li><a href="/cnnews/20221112/1810134.md">诡异！一架神秘飞机在多伦多上空盘绕4个多小时</a></li>
+<li><a href="/lifebaike/20221112/1810154.md">浙大研究：每天多吃一个蛋，心脏病和癌症死亡风险会升高？真的吗</a></li>
 <li><a href="/baitai/20221112/1810124.md">六神磊磊读金庸｜​全网都知道了，他们县里还在核实</a></li>
 <li><a href="/headline/20221111/1809932.md">中国取消航班熔断并缩短密接隔离 股市反弹惟网民仍忧「清零」不改</a></li>
 <li><a href="/topimagenews/20221111/1810042.md">刻松喜迎光复高挂乌克兰国旗 俄军全撤留下“临别赠礼”</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221112/1810326.md" target="_blank">台湾海军和中共国海军，在台湾海峡对峙！</a></li>
 <li><a href="/cbnews/20221112/1809805.md" target="_blank">赫尔松俄军极可能被全歼；俄国有个政治传统让普京不敢去G20；过几天会出现倒习契机，就看大佬们有没有出息！ （一平论政2022/11/10)</a></li>
 <li><a href="/comments/20221112/1810280.md" target="_blank">11月12日，重庆的医院强制病人出院，为配合封城腾地方。</a></li>
 <li><a href="/comments/20221112/1810262.md" target="_blank">11月11日，连云港职业技术学院一名学生生病，请假外出看病，但学校不批，该学生死在宿舍。家属到学校门口哭诉。</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221110/1809401.md" target="_blank">赵紫阳秘书鲍彤逝世 软禁一生的罪犯编号8901</a></li>
 <li><a href="/comments/20221110/1809369.md" target="_blank">呼和浩特，百姓大逃亡！</a></li>
 <li><a href="/cbnews/20221110/1809275.md" target="_blank">清零？中国疫情急速升温 单日新增破8000人</a></li>
-<li><a href="/cbnews/20221110/1809274.md" target="_blank">天亮时分：中共成立专门监视机构，富人一个都别跑；中期选举深度分析，共和党为何未迎来红色海啸；俄罗斯溃败，被迫撤出赫尔松（政论天下第844集 20221109）</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221112/1810326.md" target="_blank">台湾海军和中共国海军，在台湾海峡对峙！</a></li>
 <li><a href="/comments/20221112/1809902.md" target="_blank">美国的医、药体系何以沦为谋财害命+反人类的魔鬼体系？ — 曾节明</a></li>
 <li><a href="/comments/20221112/1810300.md" target="_blank">俄珠海航展宣传片：俄机击毁解放军军舰</a></li>
 <li><a href="/comments/20221112/1810299.md" target="_blank">太惨了！中国电影为何成了牛逼吹破的笑话</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221112/1810110.md" target="_blank">【独家重磅】李燕铭：胡锦涛因不满胡春华出局而被架离二十大闭幕会？大反转！胡春华因胡锦涛被架离会场而主动退出政治局 大胡小胡二十大双双惊魂 胡锦涛被架离会场另有原因 内幕揭秘 习近平李克强明争暗斗内幕（六八） 中共二十大团派团灭内幕（十五） 习近平连任与二十大常委争夺战（109）</a></li>
 <li><a href="/comments/20221112/1810102.md" target="_blank">德国接连阻止中企收购两家半导体企业</a></li>
 <li><a href="/comments/20221112/1810072.md" target="_blank">中国富豪整体财富大“缩水” 马化腾、马云一年财富减近半</a></li>
-<li><a href="/comments/20221112/1810069.md" target="_blank">苛政之下大学生流行“深夜爬行” 消极对抗仍被约谈警告</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
 <li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
 <li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 
 </ul>
 </div>
