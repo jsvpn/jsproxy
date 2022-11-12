@@ -8,9 +8,8 @@
 <li><a href="/baitai/20221111/1809976.md">来不及了 中国移民留学同传糟糕消息</a></li>
 <li><a href="/topimagenews/20221111/1809974.md">中国大陆知名主持人赵普发声 质疑防疫带来的次生灾难【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221111/1809962.md">惊爆！汇款回中国账户遭中共冻结；中共公布立法草案，删关键表述；</a></li>
-<li><a href="/baitai/20221112/1810151.md">官媒罕见公布中南海密会 七常委就清零表态</a></li>
 <li><a href="/baitai/20221111/1809923.md">中共对高净值人员查税 专家：控制前所未见骇人听闻</a></li>
-<li><a href="/topimagenews/20221111/1809890.md">奥斯维辛集中营？郑州在建世界最大规模方舱准备投入使用【阿波罗网报道】</a></li>
+<li><a href="/baitai/20221112/1810151.md">官媒罕见公布中南海密会 七常委就清零表态</a></li>
 <li><a href="/cnnews/20221111/1810031.md">鲁夫真人版！伸缩自如12.7公分“超大根” 23岁男自豪：比赛没输过</a></li>
 <li><a href="/headline/20221111/1809894.md">中国海关严查出境旅客去向 移民顾问微信群遭解散引忧虑</a></li>
 <li><a href="/comments/20221111/1810001.md">新疆被封控近100天。书记：我也三个月没回家，也很累！民众：你有工资！我们吃什么？</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/topimagenews/20221112/1810089.md">俄战斗机击毁解放军052D军舰 俄珠海航展宣传片</a></li>
 <li><a href="/lifebaike/20221112/1810177.md">刘伯温预言二十大惊人一幕及其后果</a></li>
 <li><a href="/ssgc/20221112/1810117.md">专栏 | 夜话中南海："符合年龄"但却落选二十届中委的人大副委员长和政协副主席们</a></li>
-<li><a href="/cnnews/20221112/1810096.md">受不了郑州清零封控了! 路透：富士康计划在印度 iPhone 工厂增员4倍</a></li>
-<li><a href="/sohnews/20221111/1809889.md">💥中共要对“出国者”收税！并瞄准财产千万以上的“高净值人群”；中共新立法撤销“改革开放”，清洗讯号？中宣部又号召知识分子提意见；大陆接连传出移民仲介“被找麻烦”｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ssgc/20221112/1810276.md">〖兲朝浮世绘〗王岐山危矣</a></li>
-<li><a href="/cnnews/20221111/1810014.md">工人刚到职9天！跌进1093度熔炉“瞬间焚化” 制造商惨了</a></li>
-<li><a href="/cnnews/20221112/1810134.md">诡异！一架神秘飞机在多伦多上空盘绕4个多小时</a></li>
-<li><a href="/lifebaike/20221112/1810154.md">浙大研究：每天多吃一个蛋，心脏病和癌症死亡风险会升高？真的吗</a></li>
+<li><a href="/cnnews/20221112/1810096.md">受不了郑州清零封控了! 路透：富士康计划在印度 iPhone 工厂增员4倍</a></li>
 <li><a href="/cbnews/20221112/1809805.md">赫尔松俄军极可能被全歼；俄国有个政治传统让普京不敢去G20；过几天会出现倒习契机，就看大佬们有没有出息！ （一平论政2022/11/10)</a></li>
+<li><a href="/cbnews/20221112/1810241.md">天亮时分：政治局通过20条决定，防疫收官时刻将至，还能走回头路吗？拜登减免学贷被判违宪；乌克兰光复赫尔松市（政论天下第846集 20221111）</a></li>
+<li><a href="/cnnews/20221111/1810014.md">工人刚到职9天！跌进1093度熔炉“瞬间焚化” 制造商惨了</a></li>
+<li><a href="/lifebaike/20221112/1810154.md">浙大研究：每天多吃一个蛋，心脏病和癌症死亡风险会升高？真的吗</a></li>
+<li><a href="/cnnews/20221112/1810134.md">诡异！一架神秘飞机在多伦多上空盘绕4个多小时</a></li>
 <li><a href="/headline/20221111/1809932.md">中国取消航班熔断并缩短密接隔离 股市反弹惟网民仍忧「清零」不改</a></li>
 <li><a href="/baitai/20221112/1810124.md">六神磊磊读金庸｜​全网都知道了，他们县里还在核实</a></li>
-<li><a href="/cbnews/20221112/1810241.md">天亮时分：政治局通过20条决定，防疫收官时刻将至，还能走回头路吗？拜登减免学贷被判违宪；乌克兰光复赫尔松市（政论天下第846集 20221111）</a></li>
+<li><a href="/ssgc/20221111/1810021.md">金税四期紧箍咒起 金税五期登峰造极</a></li>
+<li><a href="/topimagenews/20221111/1810042.md">刻松喜迎光复高挂乌克兰国旗 俄军全撤留下“临别赠礼”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221112/1810357.md" target="_blank">普京白忙了！一文看懂乌克兰收复赫尔松有多重要</a></li>
 <li><a href="/topimagenews/20221112/1810354.md" target="_blank">乌克兰证实“无人自杀快艇”存在！泽连斯基要组建“这支”特殊舰队</a></li>
 <li><a href="/topimagenews/20221112/1810315.md" target="_blank">参院最新开票情况 共和党48席民主党47席</a></li>
 <li><a href="/topimagenews/20221112/1810289.md" target="_blank">重大胜利!俄军自赫尔松市全面撤出 BBC：市政府升起乌克兰国旗</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221110/1809452.md" target="_blank">“下乡抓壮丁”？河南乡镇收“军书”一村一个助富士康招工</a></li>
 <li><a href="/topimagenews/20221110/1809451.md" target="_blank">海外并购悲歌：这家中企硬撑16年，亏了上千亿；浙江服装业老板们恐等不到旺季了；</a></li>
 <li><a href="/topimagenews/20221110/1809442.md" target="_blank">血月亮凶兆成真 印度神童警告４件事 尼泊尔台湾中国美国吓到</a></li>
-<li><a href="/topimagenews/20221110/1809412.md" target="_blank">强硬“清零”工厂关门 中国大陆PPI两年来首降</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 <li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 
 </ul>
 </div>
