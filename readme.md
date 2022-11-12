@@ -14,10 +14,10 @@
 <li><a href="/cnnews/20221111/1809962.md">惊爆！汇款回中国账户遭中共冻结；中共公布立法草案，删关键表述；</a></li>
 <li><a href="/cbnews/20221111/1809833.md">江峰：《华日》“传谣”？习政治局强调清零不变！毛不死文革不止应验在习近平的封城清零上？ 2025电子健康码，全国人手一副电子镣铐，锁定银行账号！【江峰漫谈20221110第575期】</a></li>
 <li><a href="/headline/20221111/1809894.md">中国海关严查出境旅客去向 移民顾问微信群遭解散引忧虑</a></li>
+<li><a href="/baitai/20221112/1810151.md">官媒罕见公布中南海密会 七常委就清零表态</a></li>
 <li><a href="/cnnews/20221111/1810031.md">鲁夫真人版！伸缩自如12.7公分“超大根” 23岁男自豪：比赛没输过</a></li>
 <li><a href="/comments/20221111/1810001.md">新疆被封控近100天。书记：我也三个月没回家，也很累！民众：你有工资！我们吃什么？</a></li>
 <li><a href="/ssgc/20221111/1809807.md">〖兲朝浮世绘〗共军攻打台湾，大陆民众会不会给中华民国的军队捐款？</a></li>
-<li><a href="/baitai/20221112/1810151.md">官媒罕见公布中南海密会 七常委就清零表态</a></li>
 <li><a href="/topimagenews/20221111/1809823.md">印度神童喊最后2个月有事 小心4个地雷 台湾中国美国吓到</a></li>
 <li><a href="/topimagenews/20221112/1810089.md">俄战斗机击毁解放军052D军舰 俄珠海航展宣传片</a></li>
 <li><a href="/topimagenews/20221111/1809813.md">突发！上海地铁11号线猛烈打火、冒烟 冲上热搜第一【阿波罗网报道】</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221112/1810280.md" target="_blank">11月12日，重庆的医院强制病人出院，为配合封城腾地方。</a></li>
 <li><a href="/comments/20221112/1810262.md" target="_blank">11月11日，连云港职业技术学院一名学生生病，请假外出看病，但学校不批，该学生死在宿舍。家属到学校门口哭诉。</a></li>
 <li><a href="/cbnews/20221112/1810241.md" target="_blank">天亮时分：政治局通过20条决定，防疫收官时刻将至，还能走回头路吗？拜登减免学贷被判违宪；乌克兰光复赫尔松市（政论天下第846集 20221111）</a></li>
 <li><a href="/cbnews/20221112/1810190.md" target="_blank">广州全市疫情升温 海珠区封控 民众抢购物资</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20221110/1809275.md" target="_blank">清零？中国疫情急速升温 单日新增破8000人</a></li>
 <li><a href="/cbnews/20221110/1809274.md" target="_blank">天亮时分：中共成立专门监视机构，富人一个都别跑；中期选举深度分析，共和党为何未迎来红色海啸；俄罗斯溃败，被迫撤出赫尔松（政论天下第844集 20221109）</a></li>
 <li><a href="/comments/20221110/1809181.md" target="_blank">厦门红楼顶级服务：国安“燕子”搞定三种人；台湾有一名流接受招待；习近平常去视察，酒后直奔总统套房；除习救国第一战役（2022/11/9,终局风云4）</a></li>
-<li><a href="/cbnews/20221110/1809182.md" target="_blank">快讯！德国政府突然变卦，中德关系“退回原点”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221112/1810289.md" target="_blank">重大胜利!俄军自赫尔松市全面撤出 BBC：市政府升起乌克兰国旗</a></li>
 <li><a href="/topimagenews/20221112/1810089.md" target="_blank">俄战斗机击毁解放军052D军舰 俄珠海航展宣传片</a></li>
 <li><a href="/topimagenews/20221111/1810042.md" target="_blank">刻松喜迎光复高挂乌克兰国旗 俄军全撤留下“临别赠礼”</a></li>
 <li><a href="/topimagenews/20221111/1810024.md" target="_blank">FTX集团在美申请破产保护，CEO离职，比特币跌穿1.7万美元</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221110/1809412.md" target="_blank">强硬“清零”工厂关门 中国大陆PPI两年来首降</a></li>
 <li><a href="/topimagenews/20221110/1809381.md" target="_blank">期中选举后暴怒尖叫超失态？川普回应了</a></li>
 <li><a href="/topimagenews/20221110/1809380.md" target="_blank">美众议院要变天?他将成下任议长，乌克兰惨了?</a></li>
-<li><a href="/topimagenews/20221110/1809372.md" target="_blank">前中共总书记赵紫阳政治秘书鲍彤9日离世 曾曝重大内幕【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221112/1810280.md" target="_blank">11月12日，重庆的医院强制病人出院，为配合封城腾地方。</a></li>
 <li><a href="/comments/20221112/1810264.md" target="_blank">德煤：双十一购物节正在变得像光棍一样“冷清”</a></li>
 <li><a href="/comments/20221112/1810262.md" target="_blank">11月11日，连云港职业技术学院一名学生生病，请假外出看病，但学校不批，该学生死在宿舍。家属到学校门口哭诉。</a></li>
 <li><a href="/comments/20221112/1810249.md" target="_blank">一群拿着铁饭碗的人，让没有饭碗的人再坚持坚持，可拿什么坚持呢？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221112/1810068.md" target="_blank">香港《国歌法》首案 记者涉播国歌时挥“港英旗”囚3月</a></li>
 <li><a href="/comments/20221112/1810061.md" target="_blank">时事大家谈：专访严歌苓：一个比小说更荒诞的中国？</a></li>
 <li><a href="/comments/20221111/1810016.md" target="_blank">时事大家谈：专访严歌苓：一个比小说更荒诞的中国？回首芳华 焉识来时路？</a></li>
-<li><a href="/comments/20221111/1810001.md" target="_blank">新疆被封控近100天。书记：我也三个月没回家，也很累！民众：你有工资！我们吃什么？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
 
 </ul>
 </div>
