@@ -9,20 +9,20 @@
 <li><a href="/headline/20221111/1809870.md">中国确诊人数破万 国务院却放松防疫措施</a></li>
 <li><a href="/topimagenews/20221111/1809974.md">中国大陆知名主持人赵普发声 质疑防疫带来的次生灾难【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221111/1809962.md">惊爆！汇款回中国账户遭中共冻结；中共公布立法草案，删关键表述；</a></li>
-<li><a href="/baitai/20221112/1810151.md">官媒罕见公布中南海密会 七常委就清零表态</a></li>
 <li><a href="/baitai/20221111/1809923.md">中共对高净值人员查税 专家：控制前所未见骇人听闻</a></li>
+<li><a href="/baitai/20221112/1810151.md">官媒罕见公布中南海密会 七常委就清零表态</a></li>
 <li><a href="/topimagenews/20221111/1809890.md">奥斯维辛集中营？郑州在建世界最大规模方舱准备投入使用【阿波罗网报道】</a></li>
 <li><a href="/headline/20221111/1809894.md">中国海关严查出境旅客去向 移民顾问微信群遭解散引忧虑</a></li>
+<li><a href="/comments/20221112/1810165.md">钟原：习近平下最严“清零令” 李克强变看客</a></li>
 <li><a href="/comments/20221111/1810001.md">新疆被封控近100天。书记：我也三个月没回家，也很累！民众：你有工资！我们吃什么？</a></li>
 <li><a href="/cnnews/20221111/1810031.md">鲁夫真人版！伸缩自如12.7公分“超大根” 23岁男自豪：比赛没输过</a></li>
-<li><a href="/comments/20221112/1810165.md">钟原：习近平下最严“清零令” 李克强变看客</a></li>
 <li><a href="/topimagenews/20221112/1810089.md">俄战斗机击毁解放军052D军舰 俄珠海航展宣传片</a></li>
 <li><a href="/topimagenews/20221111/1809879.md">润学大师李嘉诚 大谈“跑路”根源所在！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221111/1809845.md">普丁“打什么算盘”？不去G20、撤军赫尔松、女战狼称“准备谈判”</a></li>
 <li><a href="/ssgc/20221112/1810117.md">专栏 | 夜话中南海："符合年龄"但却落选二十届中委的人大副委员长和政协副主席们</a></li>
 <li><a href="/cnnews/20221112/1810096.md">受不了郑州清零封控了! 路透：富士康计划在印度 iPhone 工厂增员4倍</a></li>
 <li><a href="/sohnews/20221111/1809889.md">💥中共要对“出国者”收税！并瞄准财产千万以上的“高净值人群”；中共新立法撤销“改革开放”，清洗讯号？中宣部又号召知识分子提意见；大陆接连传出移民仲介“被找麻烦”｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20221111/1810014.md">工人刚到职9天！跌进1093度熔炉“瞬间焚化” 制造商惨了</a></li>
+<li><a href="/lifebaike/20221112/1810177.md">刘伯温预言二十大惊人一幕及其后果</a></li>
 <li><a href="/cnnews/20221112/1810134.md">诡异！一架神秘飞机在多伦多上空盘绕4个多小时</a></li>
 <li><a href="/lifebaike/20221112/1810154.md">浙大研究：每天多吃一个蛋，心脏病和癌症死亡风险会升高？真的吗</a></li>
 <li><a href="/baitai/20221112/1810124.md">六神磊磊读金庸｜​全网都知道了，他们县里还在核实</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221112/1810334.md" target="_blank">陆男午觉醒来变成“阿凡达” 头痛呕吐 医曝“吃2食物”中毒了</a></li>
 <li><a href="/comments/20221112/1810326.md" target="_blank">台湾海军和中共国海军，在台湾海峡对峙！</a></li>
 <li><a href="/cbnews/20221112/1809805.md" target="_blank">赫尔松俄军极可能被全歼；俄国有个政治传统让普京不敢去G20；过几天会出现倒习契机，就看大佬们有没有出息！ （一平论政2022/11/10)</a></li>
 <li><a href="/comments/20221112/1810280.md" target="_blank">11月12日，重庆的医院强制病人出院，为配合封城腾地方。</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221110/1809479.md" target="_blank">新疆封城将近100天了。这是要逼死百姓吗？</a></li>
 <li><a href="/cbnews/20221110/1809401.md" target="_blank">赵紫阳秘书鲍彤逝世 软禁一生的罪犯编号8901</a></li>
 <li><a href="/comments/20221110/1809369.md" target="_blank">呼和浩特，百姓大逃亡！</a></li>
-<li><a href="/cbnews/20221110/1809275.md" target="_blank">清零？中国疫情急速升温 单日新增破8000人</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
 
 </ul>
 </div>
