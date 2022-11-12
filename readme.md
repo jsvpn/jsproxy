@@ -13,17 +13,17 @@
 <li><a href="/cbnews/20221112/1809805.md">赫尔松俄军极可能被全歼；俄国有个政治传统让普京不敢去G20；过几天会出现倒习契机，就看大佬们有没有出息！ （一平论政2022/11/10)</a></li>
 <li><a href="/cbnews/20221112/1810241.md">天亮时分：政治局通过20条决定，防疫收官时刻将至，还能走回头路吗？拜登减免学贷被判违宪；乌克兰光复赫尔松市（政论天下第846集 20221111）</a></li>
 <li><a href="/renquan/20221112/1810448.md">重庆市民自发静默7天</a></li>
-<li><a href="/topimagenews/20221112/1810357.md">普京白忙了！一文看懂乌克兰收复赫尔松有多重要</a></li>
 <li><a href="/cnnews/20221112/1810316.md">要卖上海豪宅 李立群坚决不回大陆拍戏了</a></li>
+<li><a href="/topimagenews/20221112/1810357.md">普京白忙了！一文看懂乌克兰收复赫尔松有多重要</a></li>
+<li><a href="/baitai/20221112/1810431.md">习近平试图稍微放松清零 没想到中国人崩溃了</a></li>
 <li><a href="/sohnews/20221112/1810402.md">拜习会前夕，中共清零封城要松绑？前天坚持清零，隔天宣布松绑，习近平打什么算盘？（2022.11.12）｜世界的十字路口 唐浩</a></li>
 <li><a href="/cnnews/20221112/1810317.md">川普新女婿身价不凡 白宫下跪献百万钻戒求婚</a></li>
-<li><a href="/baitai/20221112/1810431.md">习近平试图稍微放松清零 没想到中国人崩溃了</a></li>
 <li><a href="/comments/20221112/1810326.md">台湾海军和中共国海军，在台湾海峡对峙！</a></li>
 <li><a href="/lifebaike/20221112/1810154.md">浙大研究：每天多吃一个蛋，心脏病和癌症死亡风险会升高？真的吗</a></li>
 <li><a href="/cnnews/20221112/1810307.md">崩了 爆老党员愤怒:再不解封就开瓦斯炸楼</a></li>
 <li><a href="/cbnews/20221112/1810340.md">江峰：20项防疫新规貌似放松实则纠偏，目的减少社会面反弹更加长期坚持清零；各地永固型大规模方舱，揭动态清零实质：与美国长期对抗！润者，请快走一步！【江峰漫谈20221111第576期】</a></li>
-<li><a href="/cnnews/20221112/1810134.md">诡异！一架神秘飞机在多伦多上空盘绕4个多小时</a></li>
 <li><a href="/sohnews/20221112/1810405.md">内外一起处理!习近平新一波整肃大内斗是为准备外斗? 独裁者悲歌!君权臣弱 自古中共领导人 重用无能者。习近平紧握刀把子 警察头子齐聚中央。2022.11.12</a></li>
+<li><a href="/cnnews/20221112/1810134.md">诡异！一架神秘飞机在多伦多上空盘绕4个多小时</a></li>
 <li><a href="/baitai/20221112/1810406.md">【红朝观察】广州爆疫 孙春兰躺平 留苏男接手？</a></li>
 <li><a href="/sohnews/20221112/1810339.md">💥惊动当局！北京上海大学生集体趴地上“爬”，多高校建“爬爬群”；大学宿舍里还养“纸狗”、出门遛“纸狗”，学生怎么了？中共调整“清零”，广州北京照样封，2025的管控规划都有了！｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20221112/1810390.md">提醒中年人：若出现这4个征兆，你血糖已经很高了</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221113/1810510.md" target="_blank">株洲，特警开装甲车上街，武装巡逻！</a></li>
 <li><a href="/cbnews/20221113/1810471.md" target="_blank">习近平下令聚焦打仗 专家解读背后用意</a></li>
 <li><a href="/cbnews/20221113/1810470.md" target="_blank">深圳大学封控女员工跳楼身亡 学生质疑涉压榨</a></li>
 <li><a href="/cbnews/20221112/1810364.md" target="_blank">古代科技：定时鸣响的“石头”</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221111/1809652.md" target="_blank">广州海珠桥封城，警察开枪！</a></li>
 <li><a href="/cbnews/20221111/1809632.md" target="_blank">鲍彤过世六四一代纷悼念 友人忧当局严控告别式</a></li>
 <li><a href="/cbnews/20221111/1809581.md" target="_blank">疫情反复 浙江宁波突然宣布暂停跨省旅游活动</a></li>
-<li><a href="/comments/20221110/1809493.md" target="_blank">10月10日凌晨，郑州煤矿机械制造技工学校学生，翻墙大逃亡。</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221113/1810510.md" target="_blank">株洲，特警开装甲车上街，武装巡逻！</a></li>
 <li><a href="/comments/20221113/1810499.md" target="_blank">【独家重磅】李燕铭：习近平二十大全面阻击江派 重点锁定上海帮江苏帮江西帮 八名江派地方大佬无缘晋升政治局 江绵恒心腹马仔与韩正两旧部梦断二十大 江泽民家族失势或成习二十大后清洗目标 习近平决战江曾（五一） 习近平连任与二十大常委争夺战（111） 二十大高层人事大战（七一）</a></li>
 <li><a href="/comments/20221112/1810410.md" target="_blank">唐靖远：重磅20条防疫松绑？到底砸了谁</a></li>
 <li><a href="/comments/20221112/1810338.md" target="_blank">李燕铭：日本密集动作改进武器备战中俄 设新机构推进尖端技术军事化 拟增强新宙斯盾舰机动能力并搭载战斧巡航导弹应对台海危机 改良防空导弹应对中俄高超音速武器 研制新型轮式战车满足离岛作战需求 全球军事围堵中共之中日战争阴云（二四）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221112/1810166.md" target="_blank">周晓辉：习“清零令”下被迫松动 甩锅地方当局</a></li>
 <li><a href="/comments/20221112/1810165.md" target="_blank">钟原：习近平下最严“清零令” 李克强变看客</a></li>
 <li><a href="/comments/20221112/1810164.md" target="_blank">王友群：百年中共史上第一次大规模杀人</a></li>
-<li><a href="/comments/20221112/1810118.md" target="_blank">专栏 | 劳工通讯：河南郑州怀孕待产女工产假问题（二）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 <li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 
 </ul>
 </div>
