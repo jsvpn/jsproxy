@@ -16,16 +16,16 @@
 <li><a href="/topimagenews/20221113/1810657.md">乌克兰打脸中共！俄军刚入侵时避见 中共大使如今问“约吗”</a></li>
 <li><a href="/sohnews/20221113/1810609.md">中国足坛炸锅，李铁被带走调查；网传纪委要介入，知情人爆李铁问题；美中冲突风险增加，拜登给习划红线；朝鲜再成习筹码，白宫不报希望；大三角平衡延续？拜习会难有突破【新闻看点 李沐阳11.12】</a></li>
 <li><a href="/lifebaike/20221113/1810690.md">千万人死于吃错饭，柳叶刀：中国是错误饮食重灾区，改正3个习惯</a></li>
-<li><a href="/ssgc/20221113/1810611.md">〖微博谈〗不如直接更名为习近平大学更好</a></li>
 <li><a href="/cbnews/20221113/1810539.md">天亮时分：这刀扎心，拜登见习之前出大招；“普京的大脑”暗示：普京应下台并以惨烈方式谢罪；各地“自发静默”？（政论天下第847集 20221112）</a></li>
+<li><a href="/ssgc/20221113/1810611.md">〖微博谈〗不如直接更名为习近平大学更好</a></li>
 <li><a href="/sohnews/20221113/1810731.md">陈破空：传王沪宁负责解封？正苦思宣传技巧。广州人民起义，冲垮围栏，怒砸核算点。美国民主党保住参议院。直播与互动。美东11月13日早8点、即中港台11月13日晚9点</a></li>
+<li><a href="/weiquan/20221113/1810729.md">因在中共二十大前夕发文呼吁&#8220;修改党章&#12289;党政分离 防杜个人崇拜&#8221; 而遭抓捕的河北公民董洪义的案情及简历</a></li>
+<li><a href="/baitai/20221113/1810740.md">余茂春： 中共高层没人相信这战略</a></li>
 <li><a href="/comments/20221113/1810586.md">习近平不动摇，中国动摇了</a></li>
 <li><a href="/cnnews/20221113/1810597.md">连吃40天烤鸡 他曝身体惊人变化</a></li>
-<li><a href="/weiquan/20221113/1810729.md">因在中共二十大前夕发文呼吁&#8220;修改党章&#12289;党政分离 防杜个人崇拜&#8221; 而遭抓捕的河北公民董洪义的案情及简历</a></li>
 <li><a href="/headline/20221113/1810702.md">中国国足前主帅李铁遭突袭带走调查</a></li>
-<li><a href="/cnnews/20221113/1810546.md">履历被当面撕毁大陆女遭遇人生耻辱时刻 公司回应了</a></li>
 <li><a href="/comments/20221113/1810737.md">前福建省委书记尹力接替蔡奇执掌北京 技术官僚上位</a></li>
-<li><a href="/baitai/20221113/1810740.md">余茂春： 中共高层没人相信这战略</a></li>
+<li><a href="/cnnews/20221113/1810546.md">履历被当面撕毁大陆女遭遇人生耻辱时刻 公司回应了</a></li>
 <li><a href="/cnnews/20221113/1810554.md">突发！加币突然暴涨 兑人民币汇率已近5.5</a></li>
 <li><a href="/baitai/20221113/1810667.md">南昌高铁西站剧烈爆炸引发大火 民众四散奔逃</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221114/1810803.md" target="_blank">美国跨性别男性赢选美后冠 网友炸锅了</a></li>
 <li><a href="/topimagenews/20221114/1810788.md" target="_blank">网红盘跳楼，学区房哭晕在厕所！抄底时机到了？</a></li>
 <li><a href="/topimagenews/20221113/1810657.md" target="_blank">乌克兰打脸中共！俄军刚入侵时避见 中共大使如今问“约吗”</a></li>
 <li><a href="/topimagenews/20221113/1810647.md" target="_blank">【微博精粹】死了1.5万人 伊朗女学生还在街上 中国男人忘了点什么</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221111/1809813.md" target="_blank">突发！上海地铁11号线猛烈打火、冒烟 冲上热搜第一【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221111/1809804.md" target="_blank">与华为合作喊卡！德对中国投资政策大转弯</a></li>
 <li><a href="/topimagenews/20221111/1809789.md" target="_blank">陆女冥思苦想！新生女儿成了“陈皮话梅糖”…</a></li>
-<li><a href="/topimagenews/20221111/1809788.md" target="_blank">俄军撤离赫尔松拖延战事 待西方迫乌和谈？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221114/1810808.md" target="_blank">李燕铭：彭丽媛山东老乡尹力爆冷出任北京市委书记内幕 陈希副手周祖翼空降任福建省委书记派系背景复杂 陈希卸而不退一天赶场两地宣布重大人事任命 陈敏尔张国清大概率出任副总理 李鸿忠也可能任副总理 习近平连任与二十大常委争夺战（112） 二十大高层人事大战（七二） 习近平清洗北京帮（十一） 习近平清洗福建帮（一） 第九常委彭丽媛（二）</a></li>
 <li><a href="/comments/20221114/1810789.md" target="_blank">赫尔松大撤退之后：留给乌军的时间不多了？</a></li>
 <li><a href="/comments/20221113/1810737.md" target="_blank">前福建省委书记尹力接替蔡奇执掌北京 技术官僚上位</a></li>
 <li><a href="/comments/20221113/1810717.md" target="_blank">张俊华：习近平经济学能奏效吗？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221113/1810588.md" target="_blank">石铭：从刘红霞被迫害致死说起</a></li>
 <li><a href="/comments/20221113/1810587.md" target="_blank">秦时：习新政三大战略走向</a></li>
 <li><a href="/comments/20221113/1810586.md" target="_blank">习近平不动摇，中国动摇了</a></li>
-<li><a href="/comments/20221113/1810585.md" target="_blank">王赫：拜习会可能会相互交底，但不会摊牌</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
 <li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
 <li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 
 </ul>
 </div>
