@@ -9,16 +9,16 @@
 <li><a href="/renquan/20221112/1810448.md">重庆市民自发静默7天</a></li>
 <li><a href="/cnnews/20221112/1810316.md">要卖上海豪宅 李立群坚决不回大陆拍戏了</a></li>
 <li><a href="/topimagenews/20221112/1810357.md">普京白忙了！一文看懂乌克兰收复赫尔松有多重要</a></li>
+<li><a href="/baitai/20221113/1810541.md">不只政治局名单 连中央军委也被做手脚？</a></li>
 <li><a href="/sohnews/20221112/1810402.md">拜习会前夕，中共清零封城要松绑？前天坚持清零，隔天宣布松绑，习近平打什么算盘？（2022.11.12）｜世界的十字路口 唐浩</a></li>
 <li><a href="/cnnews/20221112/1810317.md">川普新女婿身价不凡 白宫下跪献百万钻戒求婚</a></li>
 <li><a href="/comments/20221112/1810326.md">台湾海军和中共国海军，在台湾海峡对峙！</a></li>
 <li><a href="/topimagenews/20221113/1810506.md">为何被封? 重庆当局一举让这话题上热搜 市民自发静默7天，不给政府添乱</a></li>
-<li><a href="/baitai/20221113/1810541.md">不只政治局名单 连中央军委也被做手脚？</a></li>
+<li><a href="/cnnews/20221113/1810536.md">韩第一夫人闪耀亮相柬埔寨，真给老公长脸</a></li>
 <li><a href="/cbnews/20221112/1810340.md">江峰：20项防疫新规貌似放松实则纠偏，目的减少社会面反弹更加长期坚持清零；各地永固型大规模方舱，揭动态清零实质：与美国长期对抗！润者，请快走一步！【江峰漫谈20221111第576期】</a></li>
 <li><a href="/baitai/20221112/1810406.md">【红朝观察】广州爆疫 孙春兰躺平 留苏男接手？</a></li>
-<li><a href="/cnnews/20221113/1810536.md">韩第一夫人闪耀亮相柬埔寨，真给老公长脸</a></li>
-<li><a href="/sohnews/20221112/1810339.md">💥惊动当局！北京上海大学生集体趴地上“爬”，多高校建“爬爬群”；大学宿舍里还养“纸狗”、出门遛“纸狗”，学生怎么了？中共调整“清零”，广州北京照样封，2025的管控规划都有了！｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20221113/1810547.md">网爆中国前国足主帅李铁被带走调查</a></li>
+<li><a href="/sohnews/20221112/1810339.md">💥惊动当局！北京上海大学生集体趴地上“爬”，多高校建“爬爬群”；大学宿舍里还养“纸狗”、出门遛“纸狗”，学生怎么了？中共调整“清零”，广州北京照样封，2025的管控规划都有了！｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20221112/1810405.md">内外一起处理!习近平新一波整肃大内斗是为准备外斗? 独裁者悲歌!君权臣弱 自古中共领导人 重用无能者。习近平紧握刀把子 警察头子齐聚中央。2022.11.12</a></li>
 <li><a href="/cnnews/20221113/1810507.md">川普最大劲敌有个美女老婆 背后助夫进军白宫</a></li>
 <li><a href="/baitai/20221112/1810390.md">提醒中年人：若出现这4个征兆，你血糖已经很高了</a></li>
@@ -26,7 +26,7 @@
 <li><a href="/sohnews/20221112/1810345.md">上海帮 黄菊 #百年真相 #shorts</a></li>
 <li><a href="/ssgc/20221112/1810447.md">一条人命换来了深圳大学的解封</a></li>
 <li><a href="/yule/20221112/1810401.md">坐稳豪门后，甘比这脸变得可真快</a></li>
-<li><a href="/baitai/20221112/1810384.md">惊人发现：让你少得病的秘密竟是...</a></li>
+<li><a href="/cbnews/20221113/1810539.md">天亮时分：这刀扎心，拜登见习之前出大招；“普京的大脑”暗示：普京应下台并以惨烈方式谢罪；各地“自发静默”？（政论天下第847集 20221112）</a></li>
 <li><a href="/comments/20221113/1810510.md">株洲，特警开装甲车上街，武装巡逻！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
 <li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
 
 </ul>
 </div>
