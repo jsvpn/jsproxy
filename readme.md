@@ -6,9 +6,9 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20221113/1810774.md">五天三“虎”落马 分析：习近平清洗加速</a></li>
-<li><a href="/sohnews/20221113/1810731.md">陈破空：传王沪宁负责解封？正苦思宣传技巧。广州人民起义，冲垮围栏，怒砸核算点。美国民主党保住参议院。直播与互动。美东11月13日早8点、即中港台11月13日晚9点</a></li>
 <li><a href="/baitai/20221114/1810805.md">新市委书记上任 北京疫情封控立马升级 居民崩溃</a></li>
 <li><a href="/baitai/20221113/1810766.md">彭立发勇士有消息了</a></li>
+<li><a href="/sohnews/20221113/1810731.md">陈破空：传王沪宁负责解封？正苦思宣传技巧。广州人民起义，冲垮围栏，怒砸核算点。美国民主党保住参议院。直播与互动。美东11月13日早8点、即中港台11月13日晚9点</a></li>
 <li><a href="/baitai/20221113/1810740.md">余茂春： 中共高层没人相信这战略</a></li>
 <li><a href="/comments/20221114/1810808.md">李燕铭：彭丽媛山东老乡尹力爆冷出任北京市委书记内幕 陈希副手周祖翼空降任福建省委书记派系背景复杂 陈希卸而不退一天赶场两地宣布重大人事任命 陈敏尔张国清大概率出任副总理 李鸿忠也可能任副总理 习近平连任与二十大常委争夺战（112） 二十大高层人事大战（七二） 习近平清洗北京帮（十一） 习近平清洗福建帮（一） 第九常委彭丽媛（二）</a></li>
 <li><a href="/cnnews/20221114/1810888.md">美知名网红全裸戏水不听劝 被关男监1天后悔</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/topimagenews/20221114/1810788.md">网红盘跳楼，学区房哭晕在厕所！抄底时机到了？</a></li>
 <li><a href="/cnnews/20221114/1810797.md">南京医生殴打幼童和老人又反转了？真相更气人…集/视频</a></li>
 <li><a href="/cbnews/20221114/1810944.md">天亮时分：人民日报不再提“动态清零”；共和党失去参议院，最重要的原因及反击措施（政论天下第848集 20221113）</a></li>
-<li><a href="/ssgc/20221113/1810753.md">习李出访会外宾 为何不怕感染</a></li>
 <li><a href="/cnnews/20221114/1810890.md">内循环全面开始?中国发展最快的城市已转到内陆</a></li>
+<li><a href="/ssgc/20221113/1810753.md">习李出访会外宾 为何不怕感染</a></li>
 <li><a href="/comments/20221114/1810953.md">广州封城，大街两侧都是隔离墙！</a></li>
 <li><a href="/comments/20221114/1810826.md">太原，一名勇敢的女士拆除封控墙铁皮后，被警察抓走！</a></li>
 <li><a href="/finance/20221114/1810813.md">广发银行原董事长董建岳被带走，是什么信号？</a></li>
 <li><a href="/topimagenews/20221114/1810803.md">美国跨性别男性赢选美后冠 网友炸锅了</a></li>
 <li><a href="/topimagenews/20221114/1810821.md">“中国球员也是人”，这已经要拉横幅强调了？</a></li>
-<li><a href="/comments/20221113/1810706.md">美国期中选举民主党拿下参院！众院204:211共和党领先</a></li>
+<li><a href="/baitai/20221114/1810804.md">战狼男星金鸡典礼手机成焦点 网轰「真虚伪」</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
 <li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
 
 </ul>
 </div>
