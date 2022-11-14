@@ -11,8 +11,8 @@
 <li><a href="/comments/20221114/1810808.md">李燕铭：彭丽媛山东老乡尹力爆冷出任北京市委书记内幕 陈希副手周祖翼空降任福建省委书记派系背景复杂 陈希卸而不退一天赶场两地宣布重大人事任命 陈敏尔张国清大概率出任副总理 李鸿忠也可能任副总理 习近平连任与二十大常委争夺战（112） 二十大高层人事大战（七二） 习近平清洗北京帮（十一） 习近平清洗福建帮（一） 第九常委彭丽媛（二）</a></li>
 <li><a href="/baitai/20221113/1810740.md">余茂春： 中共高层没人相信这战略</a></li>
 <li><a href="/cbnews/20221114/1810924.md">新一届政治局委员的职务变数和丑闻</a></li>
-<li><a href="/comments/20221113/1810737.md">前福建省委书记尹力接替蔡奇执掌北京 技术官僚上位</a></li>
 <li><a href="/topimagenews/20221114/1810901.md">杜政：习家军新版内斗，或将“灭共”</a></li>
+<li><a href="/comments/20221113/1810737.md">前福建省委书记尹力接替蔡奇执掌北京 技术官僚上位</a></li>
 <li><a href="/cnnews/20221114/1810888.md">美知名网红全裸戏水不听劝 被关男监1天后悔</a></li>
 <li><a href="/topimagenews/20221114/1810848.md">中共“史诗级”房产救市：强推“16条”</a></li>
 <li><a href="/topimagenews/20221114/1810788.md">网红盘跳楼，学区房哭晕在厕所！抄底时机到了？</a></li>
@@ -20,13 +20,13 @@
 <li><a href="/cnnews/20221114/1810797.md">南京医生殴打幼童和老人又反转了？真相更气人…集/视频</a></li>
 <li><a href="/comments/20221114/1810953.md">广州封城，大街两侧都是隔离墙！</a></li>
 <li><a href="/cbnews/20221114/1810944.md">天亮时分：人民日报不再提“动态清零”；共和党失去参议院，最重要的原因及反击措施（政论天下第848集 20221113）</a></li>
-<li><a href="/cnnews/20221114/1810890.md">内循环全面开始?中国发展最快的城市已转到内陆</a></li>
 <li><a href="/ssgc/20221113/1810753.md">习李出访会外宾 为何不怕感染</a></li>
+<li><a href="/cnnews/20221114/1810890.md">内循环全面开始?中国发展最快的城市已转到内陆</a></li>
 <li><a href="/finance/20221114/1810813.md">广发银行原董事长董建岳被带走，是什么信号？</a></li>
 <li><a href="/comments/20221114/1810826.md">太原，一名勇敢的女士拆除封控墙铁皮后，被警察抓走！</a></li>
 <li><a href="/ssgc/20221114/1810937.md">〖兲朝浮世绘〗各高校开始互相传染狗爬 中共严阵以待</a></li>
-<li><a href="/topimagenews/20221114/1810803.md">美国跨性别男性赢选美后冠 网友炸锅了</a></li>
 <li><a href="/topimagenews/20221114/1810981.md">拜习会即将登场，“达这成果就成功”</a></li>
+<li><a href="/topimagenews/20221114/1810803.md">美国跨性别男性赢选美后冠 网友炸锅了</a></li>
 <li><a href="/topimagenews/20221114/1810821.md">“中国球员也是人”，这已经要拉横幅强调了？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
 <li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
 
 </ul>
 </div>
