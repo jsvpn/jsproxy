@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20221114/1810924.md">新一届政治局委员的职务变数和丑闻</a></li>
 <li><a href="/cnnews/20221114/1810888.md">美知名网红全裸戏水不听劝 被关男监1天后悔</a></li>
-<li><a href="/topimagenews/20221114/1810848.md">中共“史诗级”房产救市：强推“16条”</a></li>
 <li><a href="/topimagenews/20221114/1810901.md">杜政：习家军新版内斗，或将“灭共”</a></li>
 <li><a href="/topimagenews/20221114/1811007.md">习近平连出重拳 “反腐沙皇”王岐山悬了？【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221114/1811090.md">陈破空：大事！北京盛传江泽民去世？网信办突发紧急应急响应。震动！韩国播出中国国歌：《愿荣光归香港》！直播与互动。美东11月13日晚8点30、即中港台11月14日早9点30</a></li>
@@ -15,8 +14,8 @@
 <li><a href="/cbnews/20221114/1810944.md">天亮时分：人民日报不再提“动态清零”；共和党失去参议院，最重要的原因及反击措施（政论天下第848集 20221113）</a></li>
 <li><a href="/comments/20221114/1810953.md">广州封城，大街两侧都是隔离墙！</a></li>
 <li><a href="/cnnews/20221114/1811068.md">刘书记疯了？为何泄密 “它就是一个轻微感冒”</a></li>
-<li><a href="/cnnews/20221114/1811070.md">陕西男子连杀7人！原因曝光令人感叹：就为这？</a></li>
 <li><a href="/cnnews/20221114/1810890.md">内循环全面开始?中国发展最快的城市已转到内陆</a></li>
+<li><a href="/cnnews/20221114/1811070.md">陕西男子连杀7人！原因曝光令人感叹：就为这？</a></li>
 <li><a href="/topimagenews/20221114/1811026.md">响彻世界！《愿荣光归香港》被当作国歌播放！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221114/1811092.md">郭台铭跑路！富士康印度扩4倍；中共放宽防疫释强烈信号；</a></li>
 <li><a href="/cnnews/20221114/1811011.md">警察自杀了…梨泰院惨案的后续，令人脊背发凉</a></li>
@@ -26,6 +25,7 @@
 <li><a href="/baitai/20221114/1810976.md">眼看就要崩盘 习近平发出楼市“松绑”信号 一些新提法引人关注</a></li>
 <li><a href="/comments/20221114/1810990.md">李燕铭：习二十大后重点清洗李克强主政地 打虎干将刘奇凡重磅表态释放大清洗信号 辽宁四名副部级高官被密集查处一人死缓终身监禁 近十名厅官密集被查 辽宁省公安厅四任厅长七名副厅长先后落马 习近平李克强明争暗斗内幕（七十） 习近平清洗辽宁帮剑指李姓两常委（十二）</a></li>
 <li><a href="/cbnews/20221114/1811057.md">所有中国人，都将被戴上一副功能完备的“手铐”</a></li>
+<li><a href="/cnnews/20221115/1811258.md">参加G20 习近平自带“防弹大车队”让人惊呆</a></li>
 <li><a href="/topimagenews/20221114/1810980.md">川普挽小女儿走婚礼红毯，与美艳前妻世纪同框</a></li>
 <li><a href="/cnnews/20221114/1810951.md">亚裔男洛杉矶地铁被2非裔暴打跪地求饶，因为…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 
 </ul>
 </div>
