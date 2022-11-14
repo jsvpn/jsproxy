@@ -12,8 +12,8 @@
 <li><a href="/topimagenews/20221114/1811007.md">习近平连出重拳 “反腐沙皇”王岐山悬了？【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221114/1811090.md">陈破空：大事！北京盛传江泽民去世？网信办突发紧急应急响应。震动！韩国播出中国国歌：《愿荣光归香港》！直播与互动。美东11月13日晚8点30、即中港台11月14日早9点30</a></li>
 <li><a href="/cnnews/20221114/1811069.md">江泽民为何对陈希同痛下杀手？</a></li>
-<li><a href="/comments/20221114/1810953.md">广州封城，大街两侧都是隔离墙！</a></li>
 <li><a href="/cbnews/20221114/1810944.md">天亮时分：人民日报不再提“动态清零”；共和党失去参议院，最重要的原因及反击措施（政论天下第848集 20221113）</a></li>
+<li><a href="/comments/20221114/1810953.md">广州封城，大街两侧都是隔离墙！</a></li>
 <li><a href="/cnnews/20221114/1811068.md">刘书记疯了？为何泄密 “它就是一个轻微感冒”</a></li>
 <li><a href="/cnnews/20221114/1811070.md">陕西男子连杀7人！原因曝光令人感叹：就为这？</a></li>
 <li><a href="/cnnews/20221114/1810890.md">内循环全面开始?中国发展最快的城市已转到内陆</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/ssgc/20221114/1810937.md">〖兲朝浮世绘〗各高校开始互相传染狗爬 中共严阵以待</a></li>
 <li><a href="/comments/20221114/1810990.md">李燕铭：习二十大后重点清洗李克强主政地 打虎干将刘奇凡重磅表态释放大清洗信号 辽宁四名副部级高官被密集查处一人死缓终身监禁 近十名厅官密集被查 辽宁省公安厅四任厅长七名副厅长先后落马 习近平李克强明争暗斗内幕（七十） 习近平清洗辽宁帮剑指李姓两常委（十二）</a></li>
 <li><a href="/topimagenews/20221114/1811121.md">特斯拉煞车失灵 广东高速狂奔撞死2人 特斯拉官方回应了</a></li>
-<li><a href="/finance/20221114/1810813.md">广发银行原董事长董建岳被带走，是什么信号？</a></li>
 <li><a href="/baitai/20221114/1810976.md">眼看就要崩盘 习近平发出楼市“松绑”信号 一些新提法引人关注</a></li>
 <li><a href="/cbnews/20221114/1811057.md">所有中国人，都将被戴上一副功能完备的“手铐”</a></li>
+<li><a href="/topimagenews/20221114/1810980.md">川普挽小女儿走婚礼红毯，与美艳前妻世纪同框</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221115/1811280.md" target="_blank">蛰伏3年 习近平带着一份糟糕的成绩单重现国际</a></li>
 <li><a href="/topimagenews/20221115/1811238.md" target="_blank">“拜习会”场外上演动作片 美国女记者遭中方拉扯</a></li>
 <li><a href="/topimagenews/20221115/1811222.md" target="_blank">“爱国战狼”吴京代言国产手机 被抓包拿iPhone冲热搜</a></li>
 <li><a href="/topimagenews/20221114/1811180.md" target="_blank">美国表态了 拜登：我不认为中共短期内会入侵台湾</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221114/1810788.md" target="_blank">网红盘跳楼，学区房哭晕在厕所！抄底时机到了？</a></li>
 <li><a href="/topimagenews/20221113/1810657.md" target="_blank">乌克兰打脸中共！俄军刚入侵时避见 中共大使如今问“约吗”</a></li>
 <li><a href="/topimagenews/20221113/1810647.md" target="_blank">【微博精粹】死了1.5万人 伊朗女学生还在街上 中国男人忘了点什么</a></li>
-<li><a href="/topimagenews/20221113/1810629.md" target="_blank">硅谷圣他克拉拉县：女子在山谷中发现一袋选票</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 <li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
 
 </ul>
 </div>
