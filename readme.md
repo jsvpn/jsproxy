@@ -5,17 +5,16 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/lifebaike/20221113/1810690.md">千万人死于吃错饭，柳叶刀：中国是错误饮食重灾区，改正3个习惯</a></li>
 <li><a href="/cbnews/20221113/1810774.md">五天三“虎”落马 分析：习近平清洗加速</a></li>
 <li><a href="/sohnews/20221113/1810731.md">陈破空：传王沪宁负责解封？正苦思宣传技巧。广州人民起义，冲垮围栏，怒砸核算点。美国民主党保住参议院。直播与互动。美东11月13日早8点、即中港台11月13日晚9点</a></li>
 <li><a href="/baitai/20221114/1810805.md">新市委书记上任 北京疫情封控立马升级 居民崩溃</a></li>
 <li><a href="/baitai/20221113/1810766.md">彭立发勇士有消息了</a></li>
 <li><a href="/baitai/20221113/1810740.md">余茂春： 中共高层没人相信这战略</a></li>
+<li><a href="/comments/20221114/1810808.md">李燕铭：彭丽媛山东老乡尹力爆冷出任北京市委书记内幕 陈希副手周祖翼空降任福建省委书记派系背景复杂 陈希卸而不退一天赶场两地宣布重大人事任命 陈敏尔张国清大概率出任副总理 李鸿忠也可能任副总理 习近平连任与二十大常委争夺战（112） 二十大高层人事大战（七二） 习近平清洗北京帮（十一） 习近平清洗福建帮（一） 第九常委彭丽媛（二）</a></li>
 <li><a href="/cnnews/20221114/1810888.md">美知名网红全裸戏水不听劝 被关男监1天后悔</a></li>
 <li><a href="/comments/20221113/1810737.md">前福建省委书记尹力接替蔡奇执掌北京 技术官僚上位</a></li>
-<li><a href="/comments/20221114/1810808.md">李燕铭：彭丽媛山东老乡尹力爆冷出任北京市委书记内幕 陈希副手周祖翼空降任福建省委书记派系背景复杂 陈希卸而不退一天赶场两地宣布重大人事任命 陈敏尔张国清大概率出任副总理 李鸿忠也可能任副总理 习近平连任与二十大常委争夺战（112） 二十大高层人事大战（七二） 习近平清洗北京帮（十一） 习近平清洗福建帮（一） 第九常委彭丽媛（二）</a></li>
-<li><a href="/topimagenews/20221114/1810848.md">中共“史诗级”房产救市：强推“16条”</a></li>
 <li><a href="/topimagenews/20221114/1810901.md">杜政：习家军新版内斗，或将“灭共”</a></li>
+<li><a href="/topimagenews/20221114/1810848.md">中共“史诗级”房产救市：强推“16条”</a></li>
 <li><a href="/cbnews/20221114/1810924.md">新一届政治局委员的职务变数和丑闻</a></li>
 <li><a href="/weiquan/20221113/1810729.md">因在中共二十大前夕发文呼吁&#8220;修改党章&#12289;党政分离 防杜个人崇拜&#8221; 而遭抓捕的河北公民董洪义的案情及简历</a></li>
 <li><a href="/topimagenews/20221114/1810788.md">网红盘跳楼，学区房哭晕在厕所！抄底时机到了？</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/lifebaike/20221113/1810696.md">核桃是高血压的“加速器”？医生：稳定血压，尽量少吃“2红2白”</a></li>
 <li><a href="/ssgc/20221113/1810753.md">习李出访会外宾 为何不怕感染</a></li>
 <li><a href="/cnnews/20221114/1810890.md">内循环全面开始?中国发展最快的城市已转到内陆</a></li>
+<li><a href="/cbnews/20221114/1810944.md">天亮时分：人民日报不再提“动态清零”；共和党失去参议院，最重要的原因及反击措施（政论天下第848集 20221113）</a></li>
 <li><a href="/finance/20221114/1810813.md">广发银行原董事长董建岳被带走，是什么信号？</a></li>
 <li><a href="/comments/20221114/1810826.md">太原，一名勇敢的女士拆除封控墙铁皮后，被警察抓走！</a></li>
 <li><a href="/topimagenews/20221114/1810803.md">美国跨性别男性赢选美后冠 网友炸锅了</a></li>
-<li><a href="/cbnews/20221114/1810944.md">天亮时分：人民日报不再提“动态清零”；共和党失去参议院，最重要的原因及反击措施（政论天下第848集 20221113）</a></li>
+<li><a href="/comments/20221114/1810953.md">广州封城，大街两侧都是隔离墙！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221114/1811026.md" target="_blank">响彻世界！《愿荣光归香港》被当作国歌播放！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221114/1811021.md" target="_blank">大陆芯片业被推向绝望边缘？这类公司最惨：等不到救命钱</a></li>
 <li><a href="/topimagenews/20221114/1811007.md" target="_blank">习近平连出重拳 “反腐沙皇”王岐山悬了？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221114/1810993.md" target="_blank">警告女婿最好照顾好女儿！川普携小女儿慢舞！奢华婚礼曝光 …</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221112/1810426.md" target="_blank">拒作证美国会大厦案 川普反告特别委员会传票侵权</a></li>
 <li><a href="/topimagenews/20221112/1810357.md" target="_blank">普京白忙了！一文看懂乌克兰收复赫尔松有多重要</a></li>
 <li><a href="/topimagenews/20221112/1810354.md" target="_blank">乌克兰证实“无人自杀快艇”存在！泽连斯基要组建“这支”特殊舰队</a></li>
-<li><a href="/topimagenews/20221112/1810315.md" target="_blank">参院最新开票情况 共和党48席民主党47席</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
 <li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
 <li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
 
 </ul>
 </div>
