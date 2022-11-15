@@ -12,22 +12,22 @@
 <li><a href="/cnnews/20221115/1811291.md">石家庄突然宣布全面解封 结果出现这一幕…</a></li>
 <li><a href="/comments/20221115/1811506.md">广州海珠，民众的大规模暴动被镇压后，大批警察占领了街头！</a></li>
 <li><a href="/topimagenews/20221115/1811450.md">习近平变脸了！拜习握手…. 一男子大声“提醒”【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221115/1811238.md">“拜习会”场外上演动作片 美国女记者遭中方拉扯</a></li>
 <li><a href="/sohnews/20221115/1811352.md">陈破空：国内爆料：韩正突遭软禁！他的大批亲信被查。拜登受辱？习近平特工在印尼上演强行架走！南京站起火。美东11月14日晚8点、即中港台11月15日早9点</a></li>
 <li><a href="/topimagenews/20221115/1811402.md">出大事了？人民日报不提”动态清零“ 【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20221115/1811240.md">20大后人事调动 满朝尽是习家军</a></li>
 <li><a href="/comments/20221115/1811313.md">广州封城，居民唱歌抗议！</a></li>
 <li><a href="/topimagenews/20221115/1811492.md">被封内幕 习近平令中国电影业一朝回到江青时代</a></li>
 <li><a href="/cbnews/20221115/1811505.md">江峰：广州海珠区暴动！清零-放宽-清零，人民日报一日一变！官员混乱，习过不去的坎：清零反，放宽也反！习拜会美驻华使馆先扯“红线”；各地停核酸，石家庄重庆居民自我封城？ 【江峰漫谈20221114第577期】</a></li>
-<li><a href="/cnnews/20221115/1811391.md">19次！华男给议员提供特殊服务 连夜逃离美国</a></li>
 <li><a href="/comments/20221115/1811565.md">拜习会先礼后兵 习近平“亲信中亲信”丁薛祥参与闭门会议</a></li>
+<li><a href="/cnnews/20221115/1811391.md">19次！华男给议员提供特殊服务 连夜逃离美国</a></li>
 <li><a href="/sohnews/20221115/1811563.md">🔥石家庄又传紧急通知: 还得全员核酸! 两天之内封了解, 解了又封, 背后发生了什么? 深夜爬行运动风靡中国高校, “境外势力”是怎么让大学生们爱上爬行的?【20221115】#动态清零</a></li>
 <li><a href="/topimagenews/20221115/1811280.md">蛰伏3年 习近平带着一份糟糕的成绩单重现国际</a></li>
 <li><a href="/topimagenews/20221115/1811491.md">浙江大妈吃面被陌生男狂盯 提醒“脑内长肿瘤”检查结果傻了…医揭3病征</a></li>
 <li><a href="/sohnews/20221115/1811409.md">广州海珠区爆动背后的逻辑：两个最脆弱群体的底层互害激化。清零等于清除“低端人口”</a></li>
 <li><a href="/cnnews/20221115/1811467.md">八大不同！拜习会难达共识 中共通稿长很多最关键的就是这一点…</a></li>
 <li><a href="/ssgc/20221115/1811358.md">〖微博谈〗习近平一贯善于对美国总统当面撒谎</a></li>
+<li><a href="/sohnews/20221115/1811570.md">行业大佬被“请喝茶”，中共要对移民行业动手了？“双高人群”被紧盯，中国人移民更难了！凡有“恶意出国”倾向，有“仇国仇党”情绪的，不准出境？【#蔚然财商天下】 2022.11.15</a></li>
 <li><a href="/topimagenews/20221115/1811299.md">俄神童自称“被火星派来”救地球！医师妈信了曝儿出生惊恐1幕</a></li>
+<li><a href="/ssgc/20221115/1811478.md">〖兲朝浮世绘〗习帝再次为美国指明了方向</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
 <li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
 
 </ul>
 </div>
