@@ -11,20 +11,20 @@
 <li><a href="/comments/20221115/1811373.md">广州海珠，居民发动大规模反封控暴动，当局出动大批特警前往镇压！</a></li>
 <li><a href="/cnnews/20221114/1811068.md">刘书记疯了？为何泄密 “它就是一个轻微感冒”</a></li>
 <li><a href="/cnnews/20221115/1811291.md">石家庄突然宣布全面解封 结果出现这一幕…</a></li>
+<li><a href="/cnnews/20221115/1811410.md">拜习握手…. 一男子大声“提醒”习近平</a></li>
 <li><a href="/sohnews/20221115/1811249.md">“再次爆传！江泽民挂了！习近平确立公布时间”ShitaoTV - 01 (14/11/22) 爆料者13日三次推文确认：一位巨大人物 崩了！</a></li>
 <li><a href="/cnnews/20221114/1811070.md">陕西男子连杀7人！原因曝光令人感叹：就为这？</a></li>
-<li><a href="/cnnews/20221115/1811410.md">拜习握手…. 一男子大声“提醒”习近平</a></li>
 <li><a href="/topimagenews/20221114/1811092.md">郭台铭跑路！富士康印度扩4倍；中共放宽防疫释强烈信号；</a></li>
 <li><a href="/topimagenews/20221115/1811238.md">“拜习会”场外上演动作片 美国女记者遭中方拉扯</a></li>
-<li><a href="/topimagenews/20221114/1811026.md">响彻世界！《愿荣光归香港》被当作国歌播放！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221115/1811450.md">习近平变脸了！拜习握手…. 一男子大声“提醒”【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221114/1811026.md">响彻世界！《愿荣光归香港》被当作国歌播放！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221114/1811121.md">特斯拉煞车失灵 广东高速狂奔撞死2人 特斯拉官方回应了</a></li>
 <li><a href="/ssgc/20221114/1811113.md">中国即将到来的第二危机</a></li>
+<li><a href="/topimagenews/20221115/1811402.md">出大事了？人民日报不提”动态清零“ 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221115/1811240.md">20大后人事调动 满朝尽是习家军</a></li>
 <li><a href="/sohnews/20221115/1811352.md">陈破空：国内爆料：韩正突遭软禁！他的大批亲信被查。拜登受辱？习近平特工在印尼上演强行架走！南京站起火。美东11月14日晚8点、即中港台11月15日早9点</a></li>
-<li><a href="/cbnews/20221114/1811057.md">所有中国人，都将被戴上一副功能完备的“手铐”</a></li>
 <li><a href="/comments/20221115/1811313.md">广州封城，居民唱歌抗议！</a></li>
-<li><a href="/topimagenews/20221115/1811402.md">出大事了？人民日报不提”动态清零“ 【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20221114/1811057.md">所有中国人，都将被戴上一副功能完备的“手铐”</a></li>
 <li><a href="/topimagenews/20221115/1811280.md">蛰伏3年 习近平带着一份糟糕的成绩单重现国际</a></li>
 <li><a href="/ssgc/20221114/1811100.md">习近平帝国崩解的缺口</a></li>
 <li><a href="/topimagenews/20221114/1811180.md">美国表态了 拜登：我不认为中共短期内会入侵台湾</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
 <li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
 
 </ul>
 </div>
