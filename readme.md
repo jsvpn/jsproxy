@@ -16,8 +16,8 @@
 <li><a href="/cbnews/20221116/1811866.md">专栏 | 夜话中南海：三个总理"候选人"，谁的可能性最大？</a></li>
 <li><a href="/finance/20221116/1811740.md">王健林悬了？广发银行原董事长董建岳被带走，是什么信号？</a></li>
 <li><a href="/cbnews/20221116/1812255.md">英国宣布苏纳克习近平会晤取消 中共低调回应</a></li>
-<li><a href="/sohnews/20221116/1811705.md">广东海珠人民抗议，推倒围栏、警车，当局暴力镇压。</a></li>
 <li><a href="/sohnews/20221116/1811718.md">“NEWSMAX宣布：成功获得众议院第218席位 共和党夺权成功！”ShitaoTV - 02 (16/11/22) 麦肯锡将出任众议院议长！</a></li>
+<li><a href="/sohnews/20221116/1811705.md">广东海珠人民抗议，推倒围栏、警车，当局暴力镇压。</a></li>
 <li><a href="/cbnews/20221116/1811723.md">全球关注拜习开场握手8秒 拜登手臂“拢了拢”习近平</a></li>
 <li><a href="/cbnews/20221116/1811722.md">拜习会情势不利习近平 中方有求于美方</a></li>
 <li><a href="/funmedia/20221116/1811739.md">夫妻缘分是有定数的，迈过这2道坎就是一辈子，否则早晚散伙</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/funmedia/20221116/1811738.md">2022最新句子！能忍住不笑算你厉害</a></li>
 <li><a href="/lifebaike/20221116/1811801.md">叶剑英曾在政治局会议曝一惊人密谋</a></li>
 <li><a href="/sohnews/20221116/1811653.md">这脑洞够大：大学生集体狗爬是境外势力的阴谋？民主党第二大金主-加密货币平台FTX破产，牵出民主党竞选资金利益链！FTX破产，援助乌克兰的上亿美元凭空消失！【新闻最嘲点 姜光宇】2022.1115</a></li>
+<li><a href="/comments/20221116/1812185.md">美方首度承认破解唇语！胡～真被玩了</a></li>
 <li><a href="/cbnews/20221116/1811727.md">WSJ：拜习会登场前 习近平花数小时修改台湾谈话论点</a></li>
-<li><a href="/sohnews/20221116/1811660.md">🔥🔥汤加刚爆发大地震❗另一地方上百万人受灾600多人死亡❗皆与这个天象有关❓这天象还会带来时代的终结❓</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221117/1812396.md" target="_blank">中美关系长期难有交集，但会因这事引发冲突</a></li>
+<li><a href="/cbnews/20221117/1812395.md" target="_blank">现场视频：宿舍被100公斤大鳄鱼入侵，是啥场面？</a></li>
 <li><a href="/comments/20221117/1812376.md" target="_blank">郑州大学学生抗议封校，校领导不敢跟学生对话！</a></li>
 <li><a href="/comments/20221117/1812365.md" target="_blank">郑州大学的抗议学生进入了学校的行政楼，教师和领导都惊慌逃走，学生们在行政大厅中，公开宣读了4项诉求！</a></li>
 <li><a href="/comments/20221117/1812359.md" target="_blank">G20大会上，习近平指责特鲁多：我们讨论的一切都泄露给报纸了，那不合适。如果你有诚意，咱们就进行交流，否则就不好说了。</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20221116/1812180.md" target="_blank">江峰：一定要看到10’58”！二十大权斗关键在这份名单！胡待外国记者入场发难挫习政变；赵紫阳待遇，中央《求是》杂志胡锦涛文档全销，胡春华政治局除名，对团派清算已经开始！【江峰漫谈20221024第567期】</a></li>
 <li><a href="/cbnews/20221116/1812011.md" target="_blank">李克强已卸三职 退休前出访谈“改革”</a></li>
 <li><a href="/cbnews/20221116/1812010.md" target="_blank">一天发射导弹花七千万美元 朝鲜人愤怒</a></li>
-<li><a href="/cbnews/20221116/1811868.md" target="_blank">专栏 | 夜话中南海：陈文清的&#8221;入局&#8221;与习近平的&#8221;警察治党&#8221;</a></li>
-<li><a href="/cbnews/20221116/1811867.md" target="_blank">专栏 | 夜话中南海：&#8221;躺平&#8221;是李克强和汪洋最不坏的选择</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221117/1812388.md" target="_blank">评论 | 胡平：混合所有制经济是公私合营吗？</a></li>
 <li><a href="/comments/20221117/1812376.md" target="_blank">郑州大学学生抗议封校，校领导不敢跟学生对话！</a></li>
 <li><a href="/comments/20221117/1812365.md" target="_blank">郑州大学的抗议学生进入了学校的行政楼，教师和领导都惊慌逃走，学生们在行政大厅中，公开宣读了4项诉求！</a></li>
 <li><a href="/comments/20221117/1812364.md" target="_blank">俄军自赫尔松撤退后，他们好好上了一课</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221116/1812064.md" target="_blank">【独家重磅】李燕铭：李克强被隐秘牵连 辽阳窝案发酵逾十高官被查 两名副部级高官及其大秘落马 河北省長王正普高危 王正普曾任孙政才财务大管家与胡春华下属 习近平李克强明争暗斗内幕（七一） 习近平清洗辽宁帮剑指李姓两常委（十三）</a></li>
 <li><a href="/comments/20221116/1812063.md" target="_blank">李燕铭：四直辖市100高官密集落马（持续更新） 习近平二十大后清洗直辖市 上海天津两高官同日落马 北京四高官相继落马 北京领衔直辖市打虎 北京35高官天津31高官重庆19高官上海15高官落马</a></li>
 <li><a href="/comments/20221116/1812062.md" target="_blank">李燕铭：钟睒睒蝉联中国首富 地产大佬纷纷跌落百富榜 恒大许家印跌落百名开外 碧桂园杨惠妍财富蒸发千亿 31个二线城市过半新房价格下跌 三线城市更是房价下跌重灾区 香港地产商地位凸显 李嘉诚超过马云马化腾百富榜排名第四 习江钱袋子争夺战（二六） 中共末日之经济危机（十一）</a></li>
-<li><a href="/comments/20221116/1811997.md" target="_blank">重返月球！NASA火箭终于升空 阿提密斯1号探月任务启程</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 
 </ul>
 </div>
