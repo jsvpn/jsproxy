@@ -9,7 +9,6 @@
 <li><a href="/cnnews/20221115/1811410.md">拜习握手…. 一男子大声“提醒”习近平</a></li>
 <li><a href="/comments/20221115/1811506.md">广州海珠，民众的大规模暴动被镇压后，大批警察占领了街头！</a></li>
 <li><a href="/topimagenews/20221115/1811450.md">习近平变脸了！拜习握手…. 一男子大声“提醒”【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20221115/1811352.md">陈破空：国内爆料：韩正突遭软禁！他的大批亲信被查。拜登受辱？习近平特工在印尼上演强行架走！南京站起火。美东11月14日晚8点、即中港台11月15日早9点</a></li>
 <li><a href="/topimagenews/20221115/1811402.md">出大事了？人民日报不提”动态清零“ 【阿波罗网报道】</a></li>
 <li><a href="/comments/20221116/1811610.md">广州爆大规模暴动 遭开枪镇压 有人中弹血流满地</a></li>
 <li><a href="/topimagenews/20221115/1811492.md">被封内幕 习近平令中国电影业一朝回到江青时代</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/cnnews/20221115/1811467.md">八大不同！拜习会难达共识 中共通稿长很多最关键的就是这一点…</a></li>
 <li><a href="/sohnews/20221115/1811570.md">行业大佬被“请喝茶”，中共要对移民行业动手了？“双高人群”被紧盯，中国人移民更难了！凡有“恶意出国”倾向，有“仇国仇党”情绪的，不准出境？【#蔚然财商天下】 2022.11.15</a></li>
 <li><a href="/ssgc/20221115/1811358.md">〖微博谈〗习近平一贯善于对美国总统当面撒谎</a></li>
-<li><a href="/ssgc/20221115/1811478.md">〖兲朝浮世绘〗习帝再次为美国指明了方向</a></li>
-<li><a href="/sohnews/20221115/1811540.md">💥“拜习会”动粗！美国女人被习的随扈拖拽推搡；中共有正国级人物挂了？余茂春：美对台政策一直是战略清晰，毛、邓、习都知道，北京备战重点就是美国；“拜习会”戴口罩，中共给美国难堪？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20221115/1811591.md">11月15日广州海珠，居民发动大规模反封控暴动，当局出动大批特警</a></li>
-<li><a href="/baitai/20221115/1811470.md">港媒放风 陈敏尔新职曝光？中组部长是他？</a></li>
+<li><a href="/ssgc/20221115/1811478.md">〖兲朝浮世绘〗习帝再次为美国指明了方向</a></li>
 <li><a href="/topimagenews/20221115/1811493.md">拜登不给活路！大陆芯片业遭重创 还有1个地雷快爆开</a></li>
+<li><a href="/sohnews/20221115/1811540.md">💥“拜习会”动粗！美国女人被习的随扈拖拽推搡；中共有正国级人物挂了？余茂春：美对台政策一直是战略清晰，毛、邓、习都知道，北京备战重点就是美国；“拜习会”戴口罩，中共给美国难堪？｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/baitai/20221115/1811470.md">港媒放风 陈敏尔新职曝光？中组部长是他？</a></li>
 <li><a href="/cbnews/20221115/1811463.md">天亮时分：拜习会，四大分歧无解，“打台湾”与“习下李上”的谣言；人民日报再提“动态清零”，左右互搏的结果是什么？（政论天下第849集 20221114）</a></li>
+<li><a href="/comments/20221115/1811566.md">山东泰安发生银行抢劫案！大批武警、狙击手出动 抢匪疑遭击毙</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
 <li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
 <li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 
 </ul>
 </div>
