@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20221115/1811410.md">拜习握手…. 一男子大声“提醒”习近平</a></li>
 <li><a href="/comments/20221115/1811506.md">广州海珠，民众的大规模暴动被镇压后，大批警察占领了街头！</a></li>
 <li><a href="/topimagenews/20221115/1811450.md">习近平变脸了！拜习握手…. 一男子大声“提醒”【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221115/1811402.md">出大事了？人民日报不提”动态清零“ 【阿波罗网报道】</a></li>
 <li><a href="/comments/20221116/1811610.md">广州爆大规模暴动 遭开枪镇压 有人中弹血流满地</a></li>
 <li><a href="/topimagenews/20221115/1811492.md">被封内幕 习近平令中国电影业一朝回到江青时代</a></li>
 <li><a href="/cbnews/20221115/1811505.md">江峰：广州海珠区暴动！清零-放宽-清零，人民日报一日一变！官员混乱，习过不去的坎：清零反，放宽也反！习拜会美驻华使馆先扯“红线”；各地停核酸，石家庄重庆居民自我封城？ 【江峰漫谈20221114第577期】</a></li>
@@ -16,18 +14,20 @@
 <li><a href="/comments/20221115/1811565.md">拜习会先礼后兵 习近平“亲信中亲信”丁薛祥参与闭门会议</a></li>
 <li><a href="/topimagenews/20221115/1811491.md">浙江大妈吃面被陌生男狂盯 提醒“脑内长肿瘤”检查结果傻了…医揭3病征</a></li>
 <li><a href="/sohnews/20221115/1811409.md">广州海珠区爆动背后的逻辑：两个最脆弱群体的底层互害激化。清零等于清除“低端人口”</a></li>
+<li><a href="/ssgc/20221115/1811478.md">〖兲朝浮世绘〗习帝再次为美国指明了方向</a></li>
+<li><a href="/topimagenews/20221115/1811493.md">拜登不给活路！大陆芯片业遭重创 还有1个地雷快爆开</a></li>
+<li><a href="/sohnews/20221116/1811620.md">彭斯狙击失败。川普今晚重大宣布。猫腻太大，亚利桑那州将重新计票。共和党州长候选人莱克用一个单词表达愤怒。共和党料将以微弱优势拿下联邦众议院。</a></li>
+<li><a href="/sohnews/20221115/1811591.md">11月15日广州海珠，居民发动大规模反封控暴动，当局出动大批特警</a></li>
 <li><a href="/cnnews/20221115/1811467.md">八大不同！拜习会难达共识 中共通稿长很多最关键的就是这一点…</a></li>
 <li><a href="/sohnews/20221115/1811570.md">行业大佬被“请喝茶”，中共要对移民行业动手了？“双高人群”被紧盯，中国人移民更难了！凡有“恶意出国”倾向，有“仇国仇党”情绪的，不准出境？【#蔚然财商天下】 2022.11.15</a></li>
-<li><a href="/ssgc/20221115/1811478.md">〖兲朝浮世绘〗习帝再次为美国指明了方向</a></li>
-<li><a href="/sohnews/20221115/1811591.md">11月15日广州海珠，居民发动大规模反封控暴动，当局出动大批特警</a></li>
-<li><a href="/sohnews/20221116/1811620.md">彭斯狙击失败。川普今晚重大宣布。猫腻太大，亚利桑那州将重新计票。共和党州长候选人莱克用一个单词表达愤怒。共和党料将以微弱优势拿下联邦众议院。</a></li>
-<li><a href="/topimagenews/20221115/1811493.md">拜登不给活路！大陆芯片业遭重创 还有1个地雷快爆开</a></li>
 <li><a href="/sohnews/20221115/1811540.md">💥“拜习会”动粗！美国女人被习的随扈拖拽推搡；中共有正国级人物挂了？余茂春：美对台政策一直是战略清晰，毛、邓、习都知道，北京备战重点就是美国；“拜习会”戴口罩，中共给美国难堪？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20221115/1811470.md">港媒放风 陈敏尔新职曝光？中组部长是他？</a></li>
 <li><a href="/cbnews/20221115/1811463.md">天亮时分：拜习会，四大分歧无解，“打台湾”与“习下李上”的谣言；人民日报再提“动态清零”，左右互搏的结果是什么？（政论天下第849集 20221114）</a></li>
 <li><a href="/sohnews/20221115/1811578.md">陈破空：广州起义吓坏习家军！中国爆发石家庄综合症。党媒改编拜习会，美国大使馆发稿正视听。直播与互动。美东11月15日早8点30、即中港台11月15日晚9点30</a></li>
 <li><a href="/comments/20221115/1811566.md">山东泰安发生银行抢劫案！大批武警、狙击手出动 抢匪疑遭击毙</a></li>
 <li><a href="/cnnews/20221115/1811482.md">林彪批文件真相：最高机密签字竟都是秘书代笔</a></li>
+<li><a href="/comments/20221116/1811616.md">官媒吹捧数字人民币 网文称微信支付、支付宝将被取消</a></li>
+<li><a href="/sohnews/20221115/1811423.md">有大事发生？网信办发紧急通知；愿荣光响彻赛场，中共轻描淡写？低级职员低级错？故意羞辱中共；拜习会难有突破，中共人员场外动手；中共不怀好意，日本随时准备开战【新闻看点 李沐阳11.14】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
 <li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 
 </ul>
 </div>
