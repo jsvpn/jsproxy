@@ -14,20 +14,20 @@
 <li><a href="/comments/20221115/1811565.md">拜习会先礼后兵 习近平“亲信中亲信”丁薛祥参与闭门会议</a></li>
 <li><a href="/sohnews/20221115/1811409.md">广州海珠区爆动背后的逻辑：两个最脆弱群体的底层互害激化。清零等于清除“低端人口”</a></li>
 <li><a href="/topimagenews/20221115/1811493.md">拜登不给活路！大陆芯片业遭重创 还有1个地雷快爆开</a></li>
+<li><a href="/sohnews/20221116/1811645.md">【直播】广州海珠区暴动冲卡！高层下发紧急通知；“20条”靠边站，头号党媒强硬发声；俄导弹攻击波兰，北约紧急调查，战争升级？！</a></li>
 <li><a href="/sohnews/20221116/1811620.md">彭斯狙击失败。川普今晚重大宣布。猫腻太大，亚利桑那州将重新计票。共和党州长候选人莱克用一个单词表达愤怒。共和党料将以微弱优势拿下联邦众议院。</a></li>
 <li><a href="/sohnews/20221115/1811591.md">11月15日广州海珠，居民发动大规模反封控暴动，当局出动大批特警</a></li>
 <li><a href="/sohnews/20221115/1811570.md">行业大佬被“请喝茶”，中共要对移民行业动手了？“双高人群”被紧盯，中国人移民更难了！凡有“恶意出国”倾向，有“仇国仇党”情绪的，不准出境？【#蔚然财商天下】 2022.11.15</a></li>
-<li><a href="/sohnews/20221116/1811645.md">【直播】广州海珠区暴动冲卡！高层下发紧急通知；“20条”靠边站，头号党媒强硬发声；俄导弹攻击波兰，北约紧急调查，战争升级？！</a></li>
 <li><a href="/sohnews/20221115/1811540.md">💥“拜习会”动粗！美国女人被习的随扈拖拽推搡；中共有正国级人物挂了？余茂春：美对台政策一直是战略清晰，毛、邓、习都知道，北京备战重点就是美国；“拜习会”戴口罩，中共给美国难堪？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20221115/1811578.md">陈破空：广州起义吓坏习家军！中国爆发石家庄综合症。党媒改编拜习会，美国大使馆发稿正视听。直播与互动。美东11月15日早8点30、即中港台11月15日晚9点30</a></li>
 <li><a href="/comments/20221115/1811566.md">山东泰安发生银行抢劫案！大批武警、狙击手出动 抢匪疑遭击毙</a></li>
 <li><a href="/comments/20221116/1811616.md">官媒吹捧数字人民币 网文称微信支付、支付宝将被取消</a></li>
-<li><a href="/cnnews/20221115/1811482.md">林彪批文件真相：最高机密签字竟都是秘书代笔</a></li>
 <li><a href="/sohnews/20221116/1811637.md">红英是谁？这是真火了呀！！</a></li>
-<li><a href="/lifebaike/20221115/1811536.md">寿命“藏”在脸上？长寿者脸上有4个特征</a></li>
 <li><a href="/comments/20221116/1811663.md">“解封解封解封” 广州民众上街抗议、隔离墙如骨牌倒</a></li>
+<li><a href="/lifebaike/20221115/1811536.md">寿命“藏”在脸上？长寿者脸上有4个特征</a></li>
 <li><a href="/sohnews/20221116/1811630.md">“报应！资助民主党数千万后 几小时内数十亿 熔化啦⋯⋯”ShitaoTV - 02 (15/11/22) 20位亿万富翁被🔥钱 中国人干的？</a></li>
 <li><a href="/baitai/20221115/1811556.md">旧闻评论｜你瞅见石家庄传来的信号了？</a></li>
+<li><a href="/lifebaike/20221115/1811535.md">人到中年，建议：常吃4种“高叶酸”食物，增强免疫，强健体格</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
 <li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
 
 </ul>
 </div>
