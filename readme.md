@@ -20,13 +20,13 @@
 <li><a href="/comments/20221116/1811617.md">赵紫阳秘书鲍彤告别式 胡德华等红二代送花圈</a></li>
 <li><a href="/comments/20221116/1811618.md">湖南株洲封城 装甲车管控居民区 舆论哗然</a></li>
 <li><a href="/sohnews/20221116/1811718.md">“NEWSMAX宣布：成功获得众议院第218席位 共和党夺权成功！”ShitaoTV - 02 (16/11/22) 麦肯锡将出任众议院议长！</a></li>
-<li><a href="/sohnews/20221116/1811630.md">“报应！资助民主党数千万后 几小时内数十亿 熔化啦⋯⋯”ShitaoTV - 02 (15/11/22) 20位亿万富翁被🔥钱 中国人干的？</a></li>
-<li><a href="/sohnews/20221116/1811668.md">陈破空：轻松回顾：胡锦涛生平集锦。二十大于无声处听惊雷。江泽民备受争议的经典演出</a></li>
-<li><a href="/cbnews/20221116/1811722.md">拜习会情势不利习近平 中方有求于美方</a></li>
 <li><a href="/cbnews/20221116/1811866.md">专栏 | 夜话中南海：三个总理"候选人"，谁的可能性最大？</a></li>
 <li><a href="/finance/20221116/1811740.md">王健林悬了？广发银行原董事长董建岳被带走，是什么信号？</a></li>
+<li><a href="/cbnews/20221116/1811722.md">拜习会情势不利习近平 中方有求于美方</a></li>
 <li><a href="/cbnews/20221116/1811723.md">全球关注拜习开场握手8秒 拜登手臂“拢了拢”习近平</a></li>
 <li><a href="/cbnews/20221116/1812011.md">李克强已卸三职 退休前出访谈“改革”</a></li>
+<li><a href="/sohnews/20221116/1811630.md">“报应！资助民主党数千万后 几小时内数十亿 熔化啦⋯⋯”ShitaoTV - 02 (15/11/22) 20位亿万富翁被🔥钱 中国人干的？</a></li>
+<li><a href="/sohnews/20221116/1811668.md">陈破空：轻松回顾：胡锦涛生平集锦。二十大于无声处听惊雷。江泽民备受争议的经典演出</a></li>
 <li><a href="/funmedia/20221116/1811739.md">夫妻缘分是有定数的，迈过这2道坎就是一辈子，否则早晚散伙</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,20 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221116/1812255.md" target="_blank">英国宣布苏纳克习近平会晤取消 中共低调回应</a></li>
+<li><a href="/cbnews/20221116/1812203.md" target="_blank">天亮时分：川普宣布参选2024；百亿身家，五日破产；俄导弹击中波兰，会爆发三战吗？大裁员与萧条会让社会更左转（政论天下第850集 20221115）天亮时分</a></li>
+<li><a href="/cbnews/20221116/1812202.md" target="_blank">天亮时分：拜习会，四大分歧无解，“打台湾”与“习下李上”的谣言；人民日报再提“动态清零”，左右互搏的结果是什麽？（政论天下第849集 20221114）天亮时分</a></li>
+<li><a href="/cbnews/20221116/1812201.md" target="_blank">天亮时分：人民日报不再提“动态清零”；共和党失去参议院，最重要的原因及反击措施（政论天下第848集 20221113）天亮时分</a></li>
+<li><a href="/cbnews/20221116/1812200.md" target="_blank">天亮时分：这刀扎心，拜登见习之前出大招；“普京的大脑”暗示：普京应下台并以惨烈方式谢罪；各地“自发静默”？（政论天下第847集 20221112）天亮时分</a></li>
+<li><a href="/cbnews/20221116/1812199.md" target="_blank">天亮时分：宾州议员，去世也能当选?!唇语专家解密胡锦涛离场原因；政治局常委会，要求优化疫情防控，放不放松清零？（政论天下第845集 20221110）天亮时分</a></li>
+<li><a href="/cbnews/20221116/1812198.md" target="_blank">天亮时分：中共成立专门监视机构，富人一个都别跑；中期选举深度分析，共和党为何未迎来红色海啸；俄罗斯溃败，被迫撤出赫尔松（政论天下第844集 20221109）天亮时分</a></li>
+<li><a href="/cbnews/20221116/1812197.md" target="_blank">天亮时分：人心思“润”，所有富商扔掉行李冲上飞机；华日：中共考虑放松管控，但时间表不明朗；马斯克发推：号召投票给共和党（政论天下第843集 20221107）天亮时分</a></li>
+<li><a href="/cbnews/20221116/1812196.md" target="_blank">天亮时分：别克汽车广告辱习；党内的两个秘闻；为何习近平注定是中共的最後一代（政论天下第842集 20221106）天亮时分</a></li>
+<li><a href="/cbnews/20221116/1812195.md" target="_blank">天亮时分：习近平对普京发出警告；美国中期选举最令人担心的是什麽？（政论天下第841集 20221105）天亮时分</a></li>
+<li><a href="/cbnews/20221116/1812194.md" target="_blank">天亮时分：多迹像显示，动态清零真要放松了；华日：李强的真面目；中共真没钱了，要盘活事业单位资产，对百姓生活有何冲击？（政论天下第840集 20221104）天亮时分</a></li>
+<li><a href="/cbnews/20221116/1812193.md" target="_blank">天亮时分：三个证据，习近平走回文革面临极大阻力；胡锦涛和团派将以分裂党的名义被清算？（政论天下第839集 20221103）天亮时分</a></li>
+<li><a href="/cbnews/20221116/1812191.md" target="_blank">美国思想领袖：前美国空军首席软件官尼古拉斯·夏兰：美国需赢得中共人工智能之战！为何说中共现在在人工智能发展方面领先美国？人工智能为何？它在军事行动中能起到何种作用？（试阅片）| 大纪元</a></li>
+<li><a href="/cbnews/20221116/1812190.md" target="_blank">美国思想领袖：知名脱北女子朴妍美：共产暴政和西方文明的自毁！美国会变得像朝鲜一样？90年代的朝鲜大饥荒，逃往中国是为了找到食物，但却有更恐怖的事情等着她？（试阅影片）| 大纪元</a></li>
 <li><a href="/cbnews/20221116/1812182.md" target="_blank">江峰：俄导弹袭击波兰，G20北约领袖紧急圆桌会议，预加入战团？川普再战2024将掀红海啸；泽连斯基和平建议前三项是谁定的？【江峰漫谈20221115第578期】</a></li>
 <li><a href="/cbnews/20221116/1812181.md" target="_blank">江峰：防疫放松不再清零？谁真谁假？王沪宁筹备重启开放委员会，防疫首席科学家曾光放风清零放松；丁薛祥要坚持真理跟党内外敌人斗争，国家卫健委要坚持清零总方针【江峰漫谈20221104第573期】</a></li>
 <li><a href="/cbnews/20221116/1812180.md" target="_blank">江峰：一定要看到10’58”！二十大权斗关键在这份名单！胡待外国记者入场发难挫习政变；赵紫阳待遇，中央《求是》杂志胡锦涛文档全销，胡春华政治局除名，对团派清算已经开始！【江峰漫谈20221024第567期】</a></li>
@@ -46,26 +60,15 @@
 <li><a href="/cbnews/20221116/1811865.md" target="_blank">专栏 | 夜话中南海：二十大上现任省委书记中的可能&#8221;入局&#8221;者</a></li>
 <li><a href="/cbnews/20221116/1811728.md" target="_blank">民船运军车！中共加紧对台演训…</a></li>
 <li><a href="/cbnews/20221116/1811727.md" target="_blank">WSJ：拜习会登场前 习近平花数小时修改台湾谈话论点</a></li>
-<li><a href="/cbnews/20221116/1811726.md" target="_blank">拜登在这问题上警告习近平，中共没敢报道【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20221116/1811725.md" target="_blank">对习近平很不满！胡春华人民日报撰文，出现明显变化【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20221116/1811724.md" target="_blank">拜习3.5小时峰会 漏了一个该谈未谈的重要议题</a></li>
-<li><a href="/cbnews/20221116/1811723.md" target="_blank">全球关注拜习开场握手8秒 拜登手臂“拢了拢”习近平</a></li>
-<li><a href="/cbnews/20221116/1811722.md" target="_blank">拜习会情势不利习近平 中方有求于美方</a></li>
-<li><a href="/cbnews/20221116/1811721.md" target="_blank">若中共发动武力夺台 英相苏纳克：英国随时准备支持台湾</a></li>
-<li><a href="/comments/20221115/1811506.md" target="_blank">广州海珠，民众的大规模暴动被镇压后，大批警察占领了街头！</a></li>
-<li><a href="/cbnews/20221115/1811505.md" target="_blank">江峰：广州海珠区暴动！清零-放宽-清零，人民日报一日一变！官员混乱，习过不去的坎：清零反，放宽也反！习拜会美驻华使馆先扯“红线”；各地停核酸，石家庄重庆居民自我封城？ 【江峰漫谈20221114第577期】</a></li>
-<li><a href="/cbnews/20221115/1811463.md" target="_blank">天亮时分：拜习会，四大分歧无解，“打台湾”与“习下李上”的谣言；人民日报再提“动态清零”，左右互搏的结果是什么？（政论天下第849集 20221114）</a></li>
-<li><a href="/comments/20221115/1811373.md" target="_blank">广州海珠，居民发动大规模反封控暴动，当局出动大批特警前往镇压！</a></li>
-<li><a href="/comments/20221115/1811313.md" target="_blank">广州封城，居民唱歌抗议！</a></li>
-<li><a href="/cbnews/20221115/1811240.md" target="_blank">20大后人事调动 满朝尽是习家军</a></li>
-<li><a href="/cbnews/20221115/1811239.md" target="_blank">拜习会后美中关系解冻迹象 白宫：预计布林肯明年初访中</a></li>
-<li><a href="/cbnews/20221115/1811231.md" target="_blank">湖南防疫人员阻民众出行被砍 装甲特警车武装巡逻</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221116/1812252.md" target="_blank">FTX帝国垮台风暴蔓延！BlockFi计划裁员并准备声请破产</a></li>
+<li><a href="/topimagenews/20221116/1812251.md" target="_blank">再战2024川普坦言老婆大人在白宫不开心 爆儿子猛料</a></li>
+<li><a href="/topimagenews/20221116/1812250.md" target="_blank">遭导弹轰炸2死！波兰总统发声 可能乌克兰发射“非蓄意攻击”</a></li>
 <li><a href="/topimagenews/20221115/1811493.md" target="_blank">拜登不给活路！大陆芯片业遭重创 还有1个地雷快爆开</a></li>
 <li><a href="/topimagenews/20221115/1811492.md" target="_blank">被封内幕 习近平令中国电影业一朝回到江青时代</a></li>
 <li><a href="/topimagenews/20221115/1811491.md" target="_blank">浙江大妈吃面被陌生男狂盯 提醒“脑内长肿瘤”检查结果傻了…医揭3病征</a></li>
@@ -88,15 +91,17 @@
 <li><a href="/topimagenews/20221114/1810959.md" target="_blank">普丁真的惨了？美国超狠制裁不收手 大咖1句话暗藏玄机</a></li>
 <li><a href="/topimagenews/20221114/1810947.md" target="_blank">克里米亚已在海马斯射程范围内 乌克兰将进入“战役的决定性阶段”</a></li>
 <li><a href="/topimagenews/20221114/1810932.md" target="_blank">大陆芯片业惊爆倒闭潮 专家曝明年会更糟糕！…</a></li>
-<li><a href="/topimagenews/20221114/1810916.md" target="_blank">火速武装台湾！中共威胁升高 美国会寻求空前军援…</a></li>
-<li><a href="/topimagenews/20221114/1810915.md" target="_blank">宋国诚：中国即将到来的第二危机──经济寒冬冰霜雪降</a></li>
-<li><a href="/topimagenews/20221114/1810901.md" target="_blank">杜政：习家军新版内斗，或将“灭共”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221116/1812208.md" target="_blank">文昭：拜习首会；冬日爆雷在眼前；石家庄打响「共存」第一枪？移民公司被整、润路要断？</a></li>
+<li><a href="/comments/20221116/1812207.md" target="_blank">文昭：「防疫新20条」出台，眼下要发生什麽？架走胡锦涛的内幕被破译，「莽娃」养成手册</a></li>
+<li><a href="/comments/20221116/1812206.md" target="_blank">文昭：层层加码迅速「逼反」！北京上演「弹窗」大战，红二代、央媒记者也冲塔！加码背後有密码</a></li>
+<li><a href="/comments/20221116/1812205.md" target="_blank">文昭：较量激烈！原首席专家：中国清零政策马上要改！「习牌二极管」承受逼宫严酷考验</a></li>
+<li><a href="/comments/20221116/1812204.md" target="_blank">文昭：美高官连发警告：2024前或攻台发生！反习派的最後一击竟然是这样</a></li>
 <li><a href="/comments/20221116/1812189.md" target="_blank">尬！习近平发错彩信了</a></li>
 <li><a href="/comments/20221116/1812187.md" target="_blank">石家庄人抵制放开，习傻了！吴京自甘代言苹果手机辱华，拜习会前赵立坚駡美国！普京大败遭致命威胁</a></li>
 <li><a href="/comments/20221116/1812186.md" target="_blank">习近平20条装怂，地方党官集体崩溃！官场惊现刘书记三宗罪；李克强润境外看热闹，刘鹤急啥？</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20221116/1811869.md" target="_blank">【财经拆局】中国梦破碎：向后大跃进，富人逃出中国</a></li>
 <li><a href="/comments/20221116/1811853.md" target="_blank">评论 | 何清涟：&#8221;习近平思想&#8221;将中国导向何方？</a></li>
 <li><a href="/comments/20221116/1811852.md" target="_blank">评论 | 沈旭晖：橘越淮而枳：国际金融领袖从&#8221;新香港&#8221;金融领袖峰会观察到的八大奇景</a></li>
-<li><a href="/comments/20221116/1811851.md" target="_blank">评论 | 沈旭晖：&#8221;新香港&#8221;国际金融领袖峰会：&#8221;说好新香港故事&#8221;为何只有反效果？</a></li>
-<li><a href="/comments/20221116/1811798.md" target="_blank">钟原：习近平G20峰会说实话“日子不好过”</a></li>
-<li><a href="/comments/20221116/1811797.md" target="_blank">河浪武史：从FTX破产看加密货币的过去与将来</a></li>
-<li><a href="/comments/20221116/1811796.md" target="_blank">去深圳当老师的高材生们 后悔了吗</a></li>
-<li><a href="/comments/20221116/1811795.md" target="_blank">留几手：被你们整不会了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
 <li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
 <li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
 
 </ul>
 </div>
