@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20221116/1812011.md">李克强已卸三职 退休前出访谈“改革”</a></li>
 <li><a href="/cnnews/hknews/20221116/1811749.md">中共新人事大警讯！他忧习近平的一念之间</a></li>
 <li><a href="/cbnews/20221116/1811866.md">专栏 | 夜话中南海：三个总理"候选人"，谁的可能性最大？</a></li>
-<li><a href="/finance/20221116/1811740.md">王健林悬了？广发银行原董事长董建岳被带走，是什么信号？</a></li>
 <li><a href="/comments/20221117/1812359.md">G20大会上，习近平指责特鲁多：我们讨论的一切都泄露给报纸了，那不合适。如果你有诚意，咱们就进行交流，否则就不好说了。</a></li>
+<li><a href="/finance/20221116/1811740.md">王健林悬了？广发银行原董事长董建岳被带走，是什么信号？</a></li>
 <li><a href="/cnnews/20221117/1812470.md">习近平怒了威胁特鲁多 王毅厉声训斥加拿大记者</a></li>
 <li><a href="/cbnews/20221116/1812255.md">英国宣布苏纳克习近平会晤取消 中共低调回应</a></li>
 <li><a href="/cbnews/20221116/1812193.md">天亮时分：三个证据，习近平走回文革面临极大阻力；胡锦涛和团派将以分裂党的名义被清算？（政论天下第839集 20221103）天亮时分</a></li>
 <li><a href="/comments/20221117/1812365.md">郑州大学的抗议学生进入了学校的行政楼，教师和领导都惊慌逃走，学生们在行政大厅中，公开宣读了4项诉求！</a></li>
-<li><a href="/sohnews/20221116/1811718.md">“NEWSMAX宣布：成功获得众议院第218席位 共和党夺权成功！”ShitaoTV - 02 (16/11/22) 麦肯锡将出任众议院议长！</a></li>
 <li><a href="/topimagenews/20221117/1812468.md">突发:中国更新人才储备标准,留学生被嫌弃了?</a></li>
 <li><a href="/comments/20221116/1812185.md">美方首度承认破解唇语！胡～真被玩了</a></li>
 <li><a href="/cbnews/20221116/1811723.md">全球关注拜习开场握手8秒 拜登手臂“拢了拢”习近平</a></li>
 <li><a href="/funmedia/20221116/1811739.md">夫妻缘分是有定数的，迈过这2道坎就是一辈子，否则早晚散伙</a></li>
+<li><a href="/cbnews/20221117/1812601.md">日媒曝胡锦涛“被离席”秘辛 隔壁栗战书讲了这句话</a></li>
 <li><a href="/cbnews/20221116/1811722.md">拜习会情势不利习近平 中方有求于美方</a></li>
 <li><a href="/headline/20221117/1812415.md">G20 习近平的风光和意外</a></li>
-<li><a href="/cbnews/20221117/1812601.md">日媒曝胡锦涛“被离席”秘辛 隔壁栗战书讲了这句话</a></li>
 <li><a href="/headline/20221117/1812335.md">习近平不满特鲁多&quot;泄漏&quot;两人前一天&quot;私下对话&quot;</a></li>
 <li><a href="/funmedia/20221116/1811738.md">2022最新句子！能忍住不笑算你厉害</a></li>
 <li><a href="/lifebaike/20221116/1811801.md">叶剑英曾在政治局会议曝一惊人密谋</a></li>
 <li><a href="/topimagenews/20221117/1812480.md">还有一人是男儿！“冲出去，和他们干”！【阿波罗网报道】</a></li>
+<li><a href="/lifebaike/20221117/1812495.md">高血压的“元凶”已发现，并非食盐，了解后，尽量少往嘴里塞</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221117/1812661.md" target="_blank">李燕铭：中国楼市告急！全线城市一二手房价均环比下跌 八年来首次 深圳标志性楼盘跌破政府指导线 北京二手房挂牌量超十万套 三四线城市出现恐慌性卖楼 业内人士分析中共楼市托底失败三大原因 三类楼市主体将成为最大受害者 中国超40%家庭面临三大难题 中共末日之经济危机（十二）</a></li>
 <li><a href="/comments/20221117/1812454.md" target="_blank">习近平面斥加拿大总理特鲁多不诚心，解读名场面细节</a></li>
 <li><a href="/comments/20221117/1812609.md" target="_blank">广州海珠，民众大规模包东北镇压后，特警突击队的大部队开始在街上进行武装巡逻！</a></li>
 <li><a href="/comments/20221117/1812593.md" target="_blank">习近平在G20当面教训加拿大总理特鲁多，总战狼御驾亲征？大学生热学狗爬，党接班人苦练跪着前进基本功？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221117/1812431.md" target="_blank">【大咖围炉话中美】习近平教育特鲁多；拜登说习近平不想“立即”打台湾，大家可以安心了吗？川普能回归白宫吗？ ｜方菲时间｜11/16/2022</a></li>
 <li><a href="/comments/20221117/1812388.md" target="_blank">评论 | 胡平：混合所有制经济是公私合营吗？</a></li>
 <li><a href="/comments/20221117/1812376.md" target="_blank">郑州大学学生抗议封校，校领导不敢跟学生对话！</a></li>
-<li><a href="/comments/20221117/1812365.md" target="_blank">郑州大学的抗议学生进入了学校的行政楼，教师和领导都惊慌逃走，学生们在行政大厅中，公开宣读了4项诉求！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 <li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
 <li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
 <li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
 
 </ul>
 </div>
