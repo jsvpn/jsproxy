@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20221116/1812011.md">李克强已卸三职 退休前出访谈“改革”</a></li>
-<li><a href="/cnnews/hknews/20221116/1811749.md">中共新人事大警讯！他忧习近平的一念之间</a></li>
 <li><a href="/cbnews/20221116/1811866.md">专栏 | 夜话中南海：三个总理"候选人"，谁的可能性最大？</a></li>
 <li><a href="/comments/20221117/1812359.md">G20大会上，习近平指责特鲁多：我们讨论的一切都泄露给报纸了，那不合适。如果你有诚意，咱们就进行交流，否则就不好说了。</a></li>
 <li><a href="/cnnews/20221117/1812470.md">习近平怒了威胁特鲁多 王毅厉声训斥加拿大记者</a></li>
 <li><a href="/cbnews/20221116/1812255.md">英国宣布苏纳克习近平会晤取消 中共低调回应</a></li>
 <li><a href="/cbnews/20221116/1812193.md">天亮时分：三个证据，习近平走回文革面临极大阻力；胡锦涛和团派将以分裂党的名义被清算？（政论天下第839集 20221103）天亮时分</a></li>
 <li><a href="/comments/20221117/1812365.md">郑州大学的抗议学生进入了学校的行政楼，教师和领导都惊慌逃走，学生们在行政大厅中，公开宣读了4项诉求！</a></li>
-<li><a href="/topimagenews/20221117/1812468.md">突发:中国更新人才储备标准,留学生被嫌弃了?</a></li>
 <li><a href="/comments/20221116/1812185.md">美方首度承认破解唇语！胡～真被玩了</a></li>
+<li><a href="/topimagenews/20221117/1812468.md">突发:中国更新人才储备标准,留学生被嫌弃了?</a></li>
 <li><a href="/cbnews/20221117/1812601.md">日媒曝胡锦涛“被离席”秘辛 隔壁栗战书讲了这句话</a></li>
 <li><a href="/headline/20221117/1812415.md">G20 习近平的风光和意外</a></li>
 <li><a href="/headline/20221117/1812335.md">习近平不满特鲁多&quot;泄漏&quot;两人前一天&quot;私下对话&quot;</a></li>
-<li><a href="/lifebaike/20221116/1811801.md">叶剑英曾在政治局会议曝一惊人密谋</a></li>
 <li><a href="/comments/20221117/1812609.md">广州海珠，民众大规模包东北镇压后，特警突击队的大部队开始在街上进行武装巡逻！</a></li>
+<li><a href="/lifebaike/20221116/1811801.md">叶剑英曾在政治局会议曝一惊人密谋</a></li>
 <li><a href="/topimagenews/20221117/1812480.md">还有一人是男儿！“冲出去，和他们干”！【阿波罗网报道】</a></li>
-<li><a href="/lifebaike/20221117/1812495.md">高血压的“元凶”已发现，并非食盐，了解后，尽量少往嘴里塞</a></li>
-<li><a href="/comments/20221116/1812189.md">尬！习近平发错彩信了</a></li>
 <li><a href="/cnnews/20221117/1812594.md">像做梦一样 石家庄昨天又上演了一幕精彩戏码</a></li>
+<li><a href="/comments/20221116/1812189.md">尬！习近平发错彩信了</a></li>
+<li><a href="/lifebaike/20221117/1812495.md">高血压的“元凶”已发现，并非食盐，了解后，尽量少往嘴里塞</a></li>
 <li><a href="/cbnews/20221116/1811867.md">专栏 | 夜话中南海："躺平"是李克强和汪洋最不坏的选择</a></li>
 <li><a href="/cnnews/20221117/1812371.md">亚马逊裁员1万人，资遣费金额曝光，全网酸</a></li>
 <li><a href="/cnnews/20221117/1812430.md">揭秘最美军统女特务 牵出江泽民父亲</a></li>
 <li><a href="/cbnews/20221116/1812181.md">江峰：防疫放松不再清零？谁真谁假？王沪宁筹备重启开放委员会，防疫首席科学家曾光放风清零放松；丁薛祥要坚持真理跟党内外敌人斗争，国家卫健委要坚持清零总方针【江峰漫谈20221104第573期】</a></li>
+<li><a href="/ssgc/20221116/1812006.md">〖兲朝浮世绘〗有好疫苗也不给你用 韭菜们的健康安危并未被中共放在心上</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221117/1812684.md" target="_blank">杜鲁道当面回击习近平 中国翻译不敢翻</a></li>
 <li><a href="/topimagenews/20221117/1812564.md" target="_blank">俄外长被抓包用iPhone、Apple Watch机密遭外泄？结果出乎意料</a></li>
 <li><a href="/topimagenews/20221117/1812535.md" target="_blank">中共犯台后果“战略崩溃” 美军事首长：将重蹈普丁覆辙</a></li>
 <li><a href="/topimagenews/20221117/1812519.md" target="_blank">主宰地球展开角力？拜习会体现了一个欧洲忽视的事实</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221114/1811026.md" target="_blank">响彻世界！《愿荣光归香港》被当作国歌播放！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221114/1811021.md" target="_blank">大陆芯片业被推向绝望边缘？这类公司最惨：等不到救命钱</a></li>
 <li><a href="/topimagenews/20221114/1811007.md" target="_blank">习近平连出重拳 “反腐沙皇”王岐山悬了？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221114/1810993.md" target="_blank">警告女婿最好照顾好女儿！川普携小女儿慢舞！奢华婚礼曝光 …</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 
 </ul>
 </div>
