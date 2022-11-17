@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20221116/1811725.md">对习近平很不满！胡春华人民日报撰文，出现明显变化【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221116/1811726.md">拜登在这问题上警告习近平，中共没敢报道【阿波罗网报道】</a></li>
-<li><a href="/cnnews/hknews/20221116/1811749.md">中共新人事大警讯！他忧习近平的一念之间</a></li>
 <li><a href="/cbnews/20221116/1812011.md">李克强已卸三职 退休前出访谈“改革”</a></li>
+<li><a href="/cnnews/hknews/20221116/1811749.md">中共新人事大警讯！他忧习近平的一念之间</a></li>
 <li><a href="/comments/20221117/1812359.md">G20大会上，习近平指责特鲁多：我们讨论的一切都泄露给报纸了，那不合适。如果你有诚意，咱们就进行交流，否则就不好说了。</a></li>
 <li><a href="/cbnews/20221116/1811866.md">专栏 | 夜话中南海：三个总理"候选人"，谁的可能性最大？</a></li>
 <li><a href="/finance/20221116/1811740.md">王健林悬了？广发银行原董事长董建岳被带走，是什么信号？</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/funmedia/20221116/1811738.md">2022最新句子！能忍住不笑算你厉害</a></li>
 <li><a href="/lifebaike/20221116/1811801.md">叶剑英曾在政治局会议曝一惊人密谋</a></li>
 <li><a href="/comments/20221116/1812189.md">尬！习近平发错彩信了</a></li>
+<li><a href="/cnnews/20221117/1812470.md">习近平怒了威胁特鲁多 王毅厉声训斥加拿大记者</a></li>
 <li><a href="/cbnews/20221116/1811727.md">WSJ：拜习会登场前 习近平花数小时修改台湾谈话论点</a></li>
 <li><a href="/cbnews/20221116/1811867.md">专栏 | 夜话中南海："躺平"是李克强和汪洋最不坏的选择</a></li>
-<li><a href="/cbnews/20221116/1812181.md">江峰：防疫放松不再清零？谁真谁假？王沪宁筹备重启开放委员会，防疫首席科学家曾光放风清零放松；丁薛祥要坚持真理跟党内外敌人斗争，国家卫健委要坚持清零总方针【江峰漫谈20221104第573期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221117/1812579.md" target="_blank">维舟:写作是最小单位的自由</a></li>
+<li><a href="/comments/20221117/1812578.md" target="_blank">医学界:1.7万人的“新冠经历”上热搜我们还需要害怕新冠吗？</a></li>
+<li><a href="/comments/20221117/1812577.md" target="_blank">徐鹏1：它其实就是一个轻微感冒</a></li>
 <li><a href="/comments/20221117/1812542.md" target="_blank">柳絮:兰州某些官员，很坏</a></li>
 <li><a href="/comments/20221117/1812541.md" target="_blank">乐尚嘉：只要允许批评，民粹未尝不可—读《民粹时代是邪恶的存在，还是改革的希望？》</a></li>
 <li><a href="/comments/20221117/1812530.md" target="_blank">【独家重磅】李燕铭：团派国务院系统副部级高官纪国刚落马 二十大后第四虎 纪国刚与李克强五重隐秘关联揭秘 牵连五名副国级高官含三名副总理及政治局委员陈全国 纪国刚曾任元老宋平姚依林下属 仕途获江泽民心腹曾培炎及江亲家回良玉大秘提拔 习近平决战江曾（五三） 中共二十大团派团灭内幕（十七） 习近平李克强明争暗斗内幕（七二） 习近平清洗西藏帮（二）</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221117/1812364.md" target="_blank">俄军自赫尔松撤退后，他们好好上了一课</a></li>
 <li><a href="/comments/20221117/1812359.md" target="_blank">G20大会上，习近平指责特鲁多：我们讨论的一切都泄露给报纸了，那不合适。如果你有诚意，咱们就进行交流，否则就不好说了。</a></li>
 <li><a href="/comments/20221117/1812347.md" target="_blank">时事大家谈：北约调查波兰遭受导弹袭击</a></li>
-<li><a href="/comments/20221117/1812315.md" target="_blank">时事大家谈：G20澳总理会晤习近平 外交博弈谁胜一筹？中日首脑会晤 如何影响日本对华姿态？ &#160;</a></li>
-<li><a href="/comments/20221117/1812311.md" target="_blank">【梁京评论】拜习会与世界局势</a></li>
-<li><a href="/comments/20221116/1812271.md" target="_blank">时事大家谈：北约调查波兰遭受导弹袭击；G20澳总理会晤习近平 外交博弈谁胜一筹？中日首脑会晤 如何影响日本对华姿态？ &#160;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
 <li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
 <li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 
 </ul>
 </div>
