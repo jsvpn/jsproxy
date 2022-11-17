@@ -7,8 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/comments/20221117/1812359.md">G20大会上，习近平指责特鲁多：我们讨论的一切都泄露给报纸了，那不合适。如果你有诚意，咱们就进行交流，否则就不好说了。</a></li>
 <li><a href="/cnnews/20221117/1812470.md">习近平怒了威胁特鲁多 王毅厉声训斥加拿大记者</a></li>
-<li><a href="/cbnews/20221116/1812255.md">英国宣布苏纳克习近平会晤取消 中共低调回应</a></li>
-<li><a href="/cbnews/20221116/1812193.md">天亮时分：三个证据，习近平走回文革面临极大阻力；胡锦涛和团派将以分裂党的名义被清算？（政论天下第839集 20221103）天亮时分</a></li>
 <li><a href="/topimagenews/20221117/1812684.md">杜鲁道当面回击习近平 中国翻译不敢翻</a></li>
 <li><a href="/cbnews/20221117/1812601.md">日媒曝胡锦涛“被离席”秘辛 隔壁栗战书讲了这句话</a></li>
 <li><a href="/comments/20221117/1812365.md">郑州大学的抗议学生进入了学校的行政楼，教师和领导都惊慌逃走，学生们在行政大厅中，公开宣读了4项诉求！</a></li>
@@ -25,9 +23,11 @@
 <li><a href="/cbnews/20221117/1812600.md">郑州再出大事！数万学生集体冲岗离校/视频【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221117/1812584.md">〖兲朝浮世绘〗习近平在G20上豪横训斥加拿大总理小土豆</a></li>
 <li><a href="/cnnews/20221117/1812430.md">揭秘最美军统女特务 牵出江泽民父亲</a></li>
-<li><a href="/cnnews/20221117/1812627.md">贝索斯：先别忙着买电视和新车 最难日子在后头</a></li>
+<li><a href="/topimagenews/20221117/1812732.md">央行发文16条：证明楼市已糟到了什么地步；疯！河南派基层干部去富士康务工；</a></li>
 <li><a href="/cbnews/20221117/1812568.md">习对台布局持续数十年，内应遍及台湾。阻止两岸战争，只有一个办法！（终局风云6，2022/11/16)</a></li>
+<li><a href="/cnnews/20221117/1812627.md">贝索斯：先别忙着买电视和新车 最难日子在后头</a></li>
 <li><a href="/cbnews/20221117/1812486.md">特鲁多的“严重关切”，碰上习近平的“不好说了”</a></li>
+<li><a href="/baitai/20221117/1812381.md">习近平变次密接？细节透露中方软化立场</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221117/1812804.md" target="_blank">时事大家谈：石家庄现象：中国防疫政策为何朝令夕改？习近平的烦恼：动态清零如何体面退场？</a></li>
 <li><a href="/comments/20221117/1812768.md" target="_blank">【未普评论】拜习二人按既定剧本演出</a></li>
 <li><a href="/comments/20221117/1812747.md" target="_blank">习近平不爽杜鲁多外泄对谈内容？ 中共外交部：没有</a></li>
 <li><a href="/comments/20221117/1812746.md" target="_blank">NASA重返月球！猎户座太空船“最后加入成员”曝光</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221117/1812447.md" target="_blank">周晓辉：外国领导人对习直言 党媒避而不报</a></li>
 <li><a href="/comments/20221117/1812446.md" target="_blank">周晓辉：柬埔寨首相确诊 习近平为何不担心？</a></li>
 <li><a href="/comments/20221117/1812445.md" target="_blank">王友群：中共惧怕的电影《长春》又有新消息</a></li>
-<li><a href="/comments/20221117/1812440.md" target="_blank">文昭：中国正式进入动乱时代：「优化」引发混乱和反转；年底要关注这些引爆点！治好精神内耗的习二舅</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 
 </ul>
 </div>
