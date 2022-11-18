@@ -18,15 +18,15 @@
 <li><a href="/topimagenews/20221118/1813051.md">人民日报连发五篇文章，释放了什么信号？【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221118/1812919.md">习近平赴曼谷参加APEC 泰国年轻人上街抗议</a></li>
 <li><a href="/topimagenews/20221118/1813105.md">习近平怨怼特鲁多 加拿大炸翻天 吁政府强硬对中共</a></li>
-<li><a href="/cnnews/20221118/1812933.md">川普要再次参选 中共老朋友共和党大金主发话了</a></li>
+<li><a href="/headline/20221118/1813165.md">泰总理欲与习握手碰钉 场面尴尬只能摸鼻</a></li>
 <li><a href="/cnnews/20221118/1813120.md">胡耀邦长子 指出“供销社”最致命的危险是...【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221118/1812933.md">川普要再次参选 中共老朋友共和党大金主发话了</a></li>
 <li><a href="/topimagenews/20221118/1813078.md">【微博精粹】一件非常小的事终会引起一场时代洪流</a></li>
 <li><a href="/cbnews/20221118/1812978.md">习近平指责特鲁多 他千字分析：像国中女生吵架</a></li>
-<li><a href="/headline/20221118/1813165.md">泰总理欲与习握手碰钉 场面尴尬只能摸鼻</a></li>
-<li><a href="/comments/20221118/1813093.md">【独家重磅】李燕铭：彭丽媛二十大后政治地位突升享正国级待遇 三天两度登上央视新闻联播 排名超越王岐山形同第八常委 二十大前央视关于彭丽媛报道曾现异常一幕 习近平连任与二十大常委争夺战（112） 第八常委彭丽媛（三）</a></li>
-<li><a href="/topimagenews/20221118/1812850.md">想引爆第三次世界大战？泽伦斯基挨批说谎被骂翻</a></li>
-<li><a href="/cnnews/20221118/1813074.md">澳前总理陆克文：中国以蟹行方式退出防疫清零</a></li>
 <li><a href="/cnnews/20221118/1813172.md">被围观的石家庄：当大型试验进行到第四天</a></li>
+<li><a href="/comments/20221118/1813093.md">【独家重磅】李燕铭：彭丽媛二十大后政治地位突升享正国级待遇 三天两度登上央视新闻联播 排名超越王岐山形同第八常委 二十大前央视关于彭丽媛报道曾现异常一幕 习近平连任与二十大常委争夺战（112） 第八常委彭丽媛（三）</a></li>
+<li><a href="/cnnews/20221118/1813074.md">澳前总理陆克文：中国以蟹行方式退出防疫清零</a></li>
+<li><a href="/topimagenews/20221118/1813104.md">要出大事？推特：所有办公大楼暂时关闭至21日</a></li>
 <li><a href="/cbnews/20221118/1813099.md">江峰：FBI抓他的时候为何笑出声来？习家军新贵航天系的娇宠—商飞919项目中，有多少偷来的东西？贼王之一，国安处长徐延军美国坐牢20年【江峰漫谈 20221117 第580期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221119/1813303.md" target="_blank">马斯克贴“推特葬礼”照和骷髅头图 他到底想说什么？</a></li>
+<li><a href="/topimagenews/20221119/1813287.md" target="_blank">中国债市大跌投资人疯狂赎回 传有基金经理人下跪哀求不要赎回</a></li>
 <li><a href="/topimagenews/20221118/1813261.md" target="_blank">全球经济快崩溃？3大强国同时惊见1现象：火车头失去引擎</a></li>
 <li><a href="/topimagenews/20221118/1813239.md" target="_blank">导弹误射波兰乌拟参与调查 泽伦斯基态度急转弯</a></li>
 <li><a href="/topimagenews/20221118/1813238.md" target="_blank">中国正妹“没戴口罩”被逼下跪示众！多男当街扑倒她⋯捆绑手脚</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20221117/1812535.md" target="_blank">中共犯台后果“战略崩溃” 美军事首长：将重蹈普丁覆辙</a></li>
 <li><a href="/topimagenews/20221117/1812519.md" target="_blank">主宰地球展开角力？拜习会体现了一个欧洲忽视的事实</a></li>
 <li><a href="/topimagenews/20221117/1812480.md" target="_blank">还有一人是男儿！“冲出去，和他们干”！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221117/1812468.md" target="_blank">突发:中国更新人才储备标准,留学生被嫌弃了?</a></li>
-<li><a href="/topimagenews/20221116/1812252.md" target="_blank">FTX帝国垮台风暴蔓延！BlockFi计划裁员并准备声请破产</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
 
 </ul>
 </div>
