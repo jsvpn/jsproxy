@@ -9,9 +9,9 @@
 <li><a href="/topimagenews/20221118/1812878.md">习近平想对全球干啥？他一语道破天机</a></li>
 <li><a href="/baitai/20221118/1812943.md">央行文件预告重大危机 中共在玩史诗级赌博</a></li>
 <li><a href="/comments/20221118/1812939.md">金铁霖去世 李谷一发文悼念前夫 彭丽媛宋祖英罕见消声 金铁霖：彭丽媛是我最好的学生 金铁霖对宋祖英说：你可以下台了 金铁霖抱江泽民姘头宋祖英大腿 江泽民失势宋祖英处处受冷落羞辱 金铁霖是军中妖姬汤灿背后神秘男人 汤灿与薄周政变圈内众多高官有染 中南海不可告人的秘密_565</a></li>
-<li><a href="/topimagenews/20221118/1813061.md">习近平后悔了吗？面斥特鲁多 中共外交部如此回应【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221118/1812907.md">特鲁多被习近平“教训” 告诉了我们什么</a></li>
 <li><a href="/baitai/20221117/1812778.md">中国陷混乱 学者：只剩一条逃亡路</a></li>
+<li><a href="/topimagenews/20221118/1813061.md">习近平后悔了吗？面斥特鲁多 中共外交部如此回应【阿波罗网报道】</a></li>
 <li><a href="/headline/20221118/1812913.md">中国全网审查与特鲁多相关内容，禁止提及他与习近平在G20的交谈</a></li>
 <li><a href="/topimagenews/20221118/1813149.md">中国12月起全开放?国务院要求不再封城、不再核酸?大陆学者先贴文、后否认…</a></li>
 <li><a href="/topimagenews/20221118/1813105.md">习近平怨怼特鲁多 加拿大炸翻天 吁政府强硬对中共</a></li>
@@ -19,14 +19,14 @@
 <li><a href="/cnnews/20221118/1812933.md">川普要再次参选 中共老朋友共和党大金主发话了</a></li>
 <li><a href="/topimagenews/20221118/1813078.md">【微博精粹】一件非常小的事终会引起一场时代洪流</a></li>
 <li><a href="/topimagenews/20221118/1813051.md">人民日报连发五篇文章，释放了什么信号？【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20221118/1812978.md">习近平指责特鲁多 他千字分析：像国中女生吵架</a></li>
 <li><a href="/ssgc/20221118/1812919.md">习近平赴曼谷参加APEC 泰国年轻人上街抗议</a></li>
+<li><a href="/cbnews/20221118/1812978.md">习近平指责特鲁多 他千字分析：像国中女生吵架</a></li>
 <li><a href="/cnnews/20221118/1813074.md">澳前总理陆克文：中国以蟹行方式退出防疫清零</a></li>
-<li><a href="/topimagenews/20221118/1812850.md">想引爆第三次世界大战？泽伦斯基挨批说谎被骂翻</a></li>
 <li><a href="/cnnews/20221118/1813112.md">中共国重大消息 传北京到西藏铁路坍塌【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221118/1812850.md">想引爆第三次世界大战？泽伦斯基挨批说谎被骂翻</a></li>
 <li><a href="/comments/20221118/1813093.md">【独家重磅】李燕铭：彭丽媛二十大后政治地位突升享正国级待遇 三天两度登上央视新闻联播 排名超越王岐山形同第八常委 二十大前央视关于彭丽媛报道曾现异常一幕 习近平连任与二十大常委争夺战（112） 第八常委彭丽媛（三）</a></li>
+<li><a href="/topimagenews/20221118/1813104.md">要出大事？推特：所有办公大楼暂时关闭至21日</a></li>
 <li><a href="/ssgc/20221117/1812807.md">一场大雪扯掉新能源汽车的“遮羞布”</a></li>
-<li><a href="/sports/20221118/1812940.md">前国足主帅李铁失联已一周 更多细节曝光</a></li>
 <li><a href="/cbnews/20221118/1813099.md">江峰：FBI抓他的时候为何笑出声来？习家军新贵航天系的娇宠—商飞919项目中，有多少偷来的东西？贼王之一，国安处长徐延军美国坐牢20年【江峰漫谈 20221117 第580期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
 
 </ul>
 </div>
