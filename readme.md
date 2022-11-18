@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20221117/1812684.md">杜鲁道当面回击习近平 中国翻译不敢翻</a></li>
 <li><a href="/topimagenews/20221117/1812732.md">央行发文16条：证明楼市已糟到了什么地步；疯！河南派基层干部去富士康务工；</a></li>
 <li><a href="/topimagenews/20221118/1812878.md">习近平想对全球干啥？他一语道破天机</a></li>
-<li><a href="/cnnews/20221117/1812733.md">“这家伙的这里比我脑袋还大”！拜登G20峰会大惊奇…</a></li>
 <li><a href="/topimagenews/20221118/1813003.md">据说这是俄军撤退时的照片，震撼世人…..</a></li>
+<li><a href="/cnnews/20221117/1812733.md">“这家伙的这里比我脑袋还大”！拜登G20峰会大惊奇…</a></li>
 <li><a href="/cnnews/20221117/1812702.md">狂欢后爬进垃圾桶 19岁主唱被扔垃圾车碾碎亡</a></li>
 <li><a href="/sohnews/20221117/1812754.md">石家庄爆火！市民惊呼“快受不了了”，魔幻一幕上演……</a></li>
 <li><a href="/comments/20221118/1812939.md">金铁霖去世 李谷一发文悼念前夫 彭丽媛宋祖英罕见消声 金铁霖：彭丽媛是我最好的学生 金铁霖对宋祖英说：你可以下台了 金铁霖抱江泽民姘头宋祖英大腿 江泽民失势宋祖英处处受冷落羞辱 金铁霖是军中妖姬汤灿背后神秘男人 汤灿与薄周政变圈内众多高官有染 中南海不可告人的秘密_565</a></li>
-<li><a href="/cbnews/20221117/1812568.md">习对台布局持续数十年，内应遍及台湾。阻止两岸战争，只有一个办法！（终局风云6，2022/11/16)</a></li>
 <li><a href="/baitai/20221118/1812943.md">央行文件预告重大危机 中共在玩史诗级赌博</a></li>
+<li><a href="/lifebaike/20221117/1812654.md">为何中国痛风者越来越多？“祸根”是豆制品？医生：4物嘴下留情</a></li>
 <li><a href="/headline/20221118/1812913.md">中国全网审查与特鲁多相关内容，禁止提及他与习近平在G20的交谈</a></li>
 <li><a href="/cbnews/20221118/1812907.md">特鲁多被习近平“教训” 告诉了我们什么</a></li>
-<li><a href="/lifebaike/20221117/1812654.md">为何中国痛风者越来越多？“祸根”是豆制品？医生：4物嘴下留情</a></li>
 <li><a href="/sohnews/20221117/1812670.md">💥情报！中共大规模调查加拿大官员，人数惊人！习G20一趟，成功得罪“英美加”三国领导人，完美示范战狼外交；他与特鲁多在“小屋”关门谈话，三年没见，有啥要事？｜新闻拍案惊人 大宇</a></li>
-<li><a href="/cnnews/20221118/1812933.md">川普要再次参选 中共老朋友共和党大金主发话了</a></li>
 <li><a href="/baitai/20221117/1812778.md">中国陷混乱 学者：只剩一条逃亡路</a></li>
+<li><a href="/cnnews/20221118/1812933.md">川普要再次参选 中共老朋友共和党大金主发话了</a></li>
 <li><a href="/baitai/20221117/1812715.md">体内有癌，皮肤先知！出现4个变化，多半是癌上身</a></li>
+<li><a href="/topimagenews/20221118/1813061.md">习近平后悔了吗？面斥特鲁多 中共外交部如此回应【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221118/1812919.md">习近平赴曼谷参加APEC 泰国年轻人上街抗议</a></li>
 <li><a href="/topimagenews/20221118/1812850.md">想引爆第三次世界大战？泽伦斯基挨批说谎被骂翻</a></li>
+<li><a href="/cbnews/20221118/1812978.md">习近平指责特鲁多 他千字分析：像国中女生吵架</a></li>
 <li><a href="/sohnews/20221118/1812865.md">“共和党夺得众议院后 川普遭遇“巨大的人世凄凉””《今日点击》 (17/11/22) 习近平训斥特鲁多 中外火爆评价对立</a></li>
 <li><a href="/ssgc/20221117/1812807.md">一场大雪扯掉新能源汽车的“遮羞布”</a></li>
-<li><a href="/topimagenews/20221118/1813061.md">习近平后悔了吗？面斥特鲁多 中共外交部如此回应【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20221117/1812763.md">陈破空：习近平抵泰国，惊现人妖夹道。京藏铁路轰然垮塌！英国果断取消中国收购。共和党赢得众议院。直播与互动。美东11月17日早8点30、即中港台11月17日晚9点30</a></li>
+<li><a href="/sports/20221118/1812940.md">前国足主帅李铁失联已一周 更多细节曝光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
 <li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 
 </ul>
 </div>
