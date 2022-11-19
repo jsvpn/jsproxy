@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20221119/1813371.md">就是他! 引发习近平恐吓特鲁多 加国知名华人超市老板被指为中共代理人</a></li>
 <li><a href="/cbnews/20221119/1813466.md">接连让德、加、泰国总理难堪 习现在目中无人？</a></li>
 <li><a href="/topimagenews/20221119/1813287.md">中国债市大跌投资人疯狂赎回 传有基金经理人下跪哀求不要赎回</a></li>
-<li><a href="/topimagenews/20221119/1813391.md">习近平诡计被看穿!在G20选择性会面欧洲领导人欧媒:试图分化欧盟</a></li>
 <li><a href="/topimagenews/20221119/1813481.md">习近平贴身智囊：挽狂澜于既倒，扶大厦之将倾【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221119/1813391.md">习近平诡计被看穿!在G20选择性会面欧洲领导人欧媒:试图分化欧盟</a></li>
 <li><a href="/cnnews/20221119/1813540.md">说了什么？贺锦丽、习近平被拍到APEC场边寒暄</a></li>
 <li><a href="/topimagenews/20221119/1813372.md">2022年中国汽车行业“打脸”报告 苦日子又来了</a></li>
+<li><a href="/comments/20221119/1813539.md">彭丽媛组建“粉红兵团”，助习夺权不择手段！重新解读江宋关系和汤灿角色！ （终局风云2022/11/18)</a></li>
 <li><a href="/cbnews/20221119/1813326.md">中国式防疫？直播谈疫情五分钟“被断播” 黄安怒谯：原来不说就等于没有</a></li>
 <li><a href="/cbnews/20221119/1813538.md">天亮时分：接连让多国元首难堪，习近平误会了君子；“大国者下流”，才是大国外交的真谛（政论天下第853集 20221118）</a></li>
 <li><a href="/cnnews/20221119/1813384.md">中国前公安失联 女儿在渥太华哭求中越政府</a></li>
-<li><a href="/comments/20221119/1813539.md">彭丽媛组建“粉红兵团”，助习夺权不择手段！重新解读江宋关系和汤灿角色！ （终局风云2022/11/18)</a></li>
 <li><a href="/cnnews/20221119/1813454.md">哈尔滨男子为母猪接生结果自己死了 父崩溃</a></li>
 <li><a href="/comments/20221119/1813509.md">突发！中堂密接！一尊次密！送方舱不？</a></li>
-<li><a href="/cnnews/20221119/1813364.md">传普丁早存了“落跑钱”123亿英镑家产藏在中非 瓦格纳佣兵严格看守</a></li>
 <li><a href="/ssgc/20221119/1813537.md">〖兲朝浮世绘〗习帝非常不尊重东道主泰国总理 这也太傲慢无礼了</a></li>
+<li><a href="/cnnews/20221119/1813364.md">传普丁早存了“落跑钱”123亿英镑家产藏在中非 瓦格纳佣兵严格看守</a></li>
+<li><a href="/topimagenews/20221119/1813600.md">内蒙古羊群“顺时针转圈圈”逾10天 网友惊：世界末日要来了吗？</a></li>
 <li><a href="/topimagenews/20221118/1813239.md">导弹误射波兰乌拟参与调查 泽伦斯基态度急转弯</a></li>
 <li><a href="/sohnews/20221119/1813491.md">习近平发飙两大细节错读，翻译很冤枉，习近平训斥特鲁多不简单，澳洲总理也被辱，为何不理美国泄露信息，习近平忽略泰国总理的手，广州女子跪街侮辱性极强（小木谈天第303期 20221118）</a></li>
 <li><a href="/lifebaike/20221119/1813467.md">古代打仗禁吃羊肉 走50步后恍然大悟</a></li>
 <li><a href="/topimagenews/20221118/1813261.md">全球经济快崩溃？3大强国同时惊见1现象：火车头失去引擎</a></li>
-<li><a href="/topimagenews/20221119/1813600.md">内蒙古羊群“顺时针转圈圈”逾10天 网友惊：世界末日要来了吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 <li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
 <li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
 
 </ul>
 </div>
