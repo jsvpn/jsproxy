@@ -8,14 +8,13 @@
 <li><a href="/topimagenews/20221118/1813149.md">中国12月起全开放?国务院要求不再封城、不再核酸?大陆学者先贴文、后否认…</a></li>
 <li><a href="/headline/20221118/1813165.md">泰总理欲与习握手碰钉 场面尴尬只能摸鼻</a></li>
 <li><a href="/topimagenews/20221119/1813430.md">北朝鲜第一千金首曝光！金正恩牵女儿视察发射导弹 模样像老爸翻版</a></li>
-<li><a href="/cnnews/20221118/1813120.md">胡耀邦长子 指出“供销社”最致命的危险是...【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221118/1813172.md">被围观的石家庄：当大型试验进行到第四天</a></li>
 <li><a href="/cnnews/20221119/1813329.md">习APEC再遇特鲁多！他被夹中间做缓冲 习急叫翻译</a></li>
 <li><a href="/topimagenews/20221118/1813238.md">中国正妹“没戴口罩”被逼下跪示众！多男当街扑倒她⋯捆绑手脚</a></li>
 <li><a href="/topimagenews/20221119/1813371.md">就是他! 引发习近平恐吓特鲁多 加国知名华人超市老板被指为中共代理人</a></li>
+<li><a href="/cbnews/20221119/1813466.md">接连让德、加、泰国总理难堪 习现在目中无人？</a></li>
 <li><a href="/topimagenews/20221119/1813287.md">中国债市大跌投资人疯狂赎回 传有基金经理人下跪哀求不要赎回</a></li>
 <li><a href="/topimagenews/20221119/1813391.md">习近平诡计被看穿!在G20选择性会面欧洲领导人欧媒:试图分化欧盟</a></li>
-<li><a href="/cbnews/20221119/1813466.md">接连让德、加、泰国总理难堪 习现在目中无人？</a></li>
 <li><a href="/topimagenews/20221119/1813481.md">习近平贴身智囊：挽狂澜于既倒，扶大厦之将倾【阿波罗网报道】</a></li>
 <li><a href="/headline/20221118/1813166.md">中国公安大摇大摆在所罗门群岛街头出现</a></li>
 <li><a href="/cbnews/20221118/1813178.md">俄军赫尔松大撤退 普京与军方关系紧张</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/cnnews/20221119/1813384.md">中国前公安失联 女儿在渥太华哭求中越政府</a></li>
 <li><a href="/cbnews/20221119/1813326.md">中国式防疫？直播谈疫情五分钟“被断播” 黄安怒谯：原来不说就等于没有</a></li>
 <li><a href="/topimagenews/20221118/1813239.md">导弹误射波兰乌拟参与调查 泽伦斯基态度急转弯</a></li>
+<li><a href="/cnnews/20221119/1813454.md">哈尔滨男子为母猪接生结果自己死了 父崩溃</a></li>
 <li><a href="/cnnews/20221119/1813364.md">传普丁早存了“落跑钱”123亿英镑家产藏在中非 瓦格纳佣兵严格看守</a></li>
 <li><a href="/ssgc/20221118/1813206.md">G20转场APEC 习近平变调再碰钉子</a></li>
 <li><a href="/cnnews/20221118/1813179.md">25位中纪委发文 反腐对准一把手、蝇贪与灯下黑</a></li>
-<li><a href="/cnnews/20221119/1813454.md">哈尔滨男子为母猪接生结果自己死了 父崩溃</a></li>
+<li><a href="/ssgc/20221118/1813144.md">独家专访李明哲 揭露中国高官入狱心声 “最后一次为共产党奉献”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 <li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
 
 </ul>
 </div>
