@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20221119/1813371.md">就是他! 引发习近平恐吓特鲁多 加国知名华人超市老板被指为中共代理人</a></li>
 <li><a href="/cbnews/20221119/1813466.md">接连让德、加、泰国总理难堪 习现在目中无人？</a></li>
 <li><a href="/topimagenews/20221119/1813287.md">中国债市大跌投资人疯狂赎回 传有基金经理人下跪哀求不要赎回</a></li>
-<li><a href="/topimagenews/20221119/1813391.md">习近平诡计被看穿!在G20选择性会面欧洲领导人欧媒:试图分化欧盟</a></li>
 <li><a href="/topimagenews/20221119/1813481.md">习近平贴身智囊：挽狂澜于既倒，扶大厦之将倾【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221119/1813391.md">习近平诡计被看穿!在G20选择性会面欧洲领导人欧媒:试图分化欧盟</a></li>
 <li><a href="/headline/20221118/1813166.md">中国公安大摇大摆在所罗门群岛街头出现</a></li>
 <li><a href="/cbnews/20221118/1813178.md">俄军赫尔松大撤退 普京与军方关系紧张</a></li>
 <li><a href="/sohnews/20221118/1813175.md">薄周阴谋、罢免公开信⋯⋯上台十年，习近平经历了哪些“政变”危机？江、曾“血债帮”捣鬼不断，还有三大隐患，也令习睡不安然；派系激战，一个妥协，埋下“定时炸弹”。｜ #百年真相</a></li>
 <li><a href="/topimagenews/20221119/1813372.md">2022年中国汽车行业“打脸”报告 苦日子又来了</a></li>
-<li><a href="/cnnews/20221119/1813384.md">中国前公安失联 女儿在渥太华哭求中越政府</a></li>
 <li><a href="/cbnews/20221119/1813326.md">中国式防疫？直播谈疫情五分钟“被断播” 黄安怒谯：原来不说就等于没有</a></li>
+<li><a href="/cnnews/20221119/1813384.md">中国前公安失联 女儿在渥太华哭求中越政府</a></li>
 <li><a href="/cnnews/20221119/1813454.md">哈尔滨男子为母猪接生结果自己死了 父崩溃</a></li>
 <li><a href="/topimagenews/20221118/1813239.md">导弹误射波兰乌拟参与调查 泽伦斯基态度急转弯</a></li>
 <li><a href="/cnnews/20221119/1813364.md">传普丁早存了“落跑钱”123亿英镑家产藏在中非 瓦格纳佣兵严格看守</a></li>
 <li><a href="/ssgc/20221118/1813206.md">G20转场APEC 习近平变调再碰钉子</a></li>
 <li><a href="/cnnews/20221118/1813179.md">25位中纪委发文 反腐对准一把手、蝇贪与灯下黑</a></li>
-<li><a href="/comments/20221118/1813192.md">一眼看透未来！中国的拉马努金！数学家的预言 更惊人！这么精准？逼孙权掘地三尺⋯</a></li>
+<li><a href="/cnnews/20221119/1813540.md">说了什么？贺锦丽、习近平被拍到APEC场边寒暄</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221119/1813182.md" target="_blank">澳洲工党总理献上舔共大礼：不支持台湾加入CPTPP，因为台湾不是独立国家。未来两年半台湾不用指望澳洲了</a></li>
+<li><a href="/comments/20221119/1813549.md" target="_blank">加拿大时评人林雯：习近平之所以跟特鲁多发飙，是因为加拿大捅了中共的痔疮&#8230;</a></li>
 <li><a href="/comments/20221119/1813534.md" target="_blank">木蹊: 在付国豪短暂的生命中，胡锡进仅出现了一次</a></li>
 <li><a href="/comments/20221119/1813533.md" target="_blank">觅真：从两起残酷迫害案例看中共的邪恶至极</a></li>
 <li><a href="/comments/20221119/1813532.md" target="_blank">爱子亡于谁手</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221119/1813280.md" target="_blank">时事大家谈：习近平怒怼特鲁多&#160;引发国际风波？</a></li>
 <li><a href="/comments/20221119/1813279.md" target="_blank">时事大家谈：习亲上阵峰会外交&#160;能突破“天下围中”？</a></li>
 <li><a href="/comments/20221119/1813274.md" target="_blank">中国全网审查与特鲁多相关内容 禁提他与习近平在G20交谈</a></li>
-<li><a href="/comments/20221118/1813252.md" target="_blank">时事大家谈：习近平怒怼特鲁多&#160;引发国际风波？习亲上阵峰会外交&#160;能突破“天下围中”？</a></li>
-<li><a href="/comments/20221118/1813212.md" target="_blank">中国防疫乱象不断 广州2女因“没戴口罩”遭绑跪地</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 
 </ul>
 </div>
