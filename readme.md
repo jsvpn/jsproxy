@@ -9,13 +9,13 @@
 <li><a href="/topimagenews/20221119/1813371.md">就是他! 引发习近平恐吓特鲁多 加国知名华人超市老板被指为中共代理人</a></li>
 <li><a href="/cbnews/20221119/1813466.md">接连让德、加、泰国总理难堪 习现在目中无人？</a></li>
 <li><a href="/topimagenews/20221119/1813481.md">习近平贴身智囊：挽狂澜于既倒，扶大厦之将倾【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221119/1813391.md">习近平诡计被看穿!在G20选择性会面欧洲领导人欧媒:试图分化欧盟</a></li>
 <li><a href="/comments/20221119/1813539.md">彭丽媛组建“粉红兵团”，助习夺权不择手段！重新解读江宋关系和汤灿角色！ （终局风云2022/11/18)</a></li>
+<li><a href="/topimagenews/20221119/1813391.md">习近平诡计被看穿!在G20选择性会面欧洲领导人欧媒:试图分化欧盟</a></li>
 <li><a href="/cnnews/20221119/1813621.md">美水球教练水下性侵女生 池边家长竟也没发现</a></li>
 <li><a href="/topimagenews/20221119/1813372.md">2022年中国汽车行业“打脸”报告 苦日子又来了</a></li>
 <li><a href="/cnnews/20221119/1813540.md">说了什么？贺锦丽、习近平被拍到APEC场边寒暄</a></li>
-<li><a href="/cbnews/20221119/1813614.md">新冠口服药被要求下架 专家：绝不应让全民吃</a></li>
 <li><a href="/cbnews/20221119/1813538.md">天亮时分：接连让多国元首难堪，习近平误会了君子；“大国者下流”，才是大国外交的真谛（政论天下第853集 20221118）</a></li>
+<li><a href="/cbnews/20221119/1813614.md">新冠口服药被要求下架 专家：绝不应让全民吃</a></li>
 <li><a href="/topimagenews/20221119/1813600.md">内蒙古羊群“顺时针转圈圈”逾10天 网友惊：世界末日要来了吗？</a></li>
 <li><a href="/cnnews/20221119/1813384.md">中国前公安失联 女儿在渥太华哭求中越政府</a></li>
 <li><a href="/comments/20221119/1813509.md">突发！中堂密接！一尊次密！送方舱不？</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/sohnews/20221119/1813578.md">香港橄榄球队又粗大事了：这次国歌放对了，但《愿荣光归香港》再次乱入 😂🤣。官民围绕香港国歌展开了激烈争夺战！</a></li>
 <li><a href="/sohnews/20221119/1813625.md">陈破空：金正恩接班人露面，是个女的！惊传习近平也有一个？男的。全网疯传因不戴口罩而被那样的女子特别照。直播与互动。美东11月19日早8点、即中港台11月19日晚9点</a></li>
 <li><a href="/cnnews/20221119/1813364.md">传普丁早存了“落跑钱”123亿英镑家产藏在中非 瓦格纳佣兵严格看守</a></li>
-<li><a href="/sohnews/20221119/1813491.md">习近平发飙两大细节错读，翻译很冤枉，习近平训斥特鲁多不简单，澳洲总理也被辱，为何不理美国泄露信息，习近平忽略泰国总理的手，广州女子跪街侮辱性极强（小木谈天第303期 20221118）</a></li>
 <li><a href="/sohnews/20221119/1813632.md">张文宏频繁发声释全面开放信号！阿兹夫定片有何猫腻？百万中资散布涉台假消息被抓！</a></li>
+<li><a href="/sohnews/20221119/1813491.md">习近平发飙两大细节错读，翻译很冤枉，习近平训斥特鲁多不简单，澳洲总理也被辱，为何不理美国泄露信息，习近平忽略泰国总理的手，广州女子跪街侮辱性极强（小木谈天第303期 20221118）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221120/1813714.md" target="_blank">长沙18岁女孩天生“阴阳眼” 右眼蓝色瞳孔引热议</a></li>
 <li><a href="/comments/20221120/1813704.md" target="_blank">精子危机影响人类传代？研究：过去45年全球男性平均精子浓度下降51.6% 平均精子数量下降62.3%</a></li>
 <li><a href="/comments/20221120/1813693.md" target="_blank">李燕铭：2022年第24虎 辽宁帮团派高官孙国相落马内幕揭秘 孙国相与李克强多重关联 是李克强心腹陈政高校友 孙国相曾说“对待老百姓一定要铁石心肠，管杀不管埋” 两任共青团辽宁省委书记被查 辽宁四名省部级高官三个月内相继落马 习近平清洗辽宁帮 剑指李姓两常委（五） 习近平李克强明争暗斗内幕（十二）</a></li>
 <li><a href="/comments/20221120/1813685.md" target="_blank">【独家重磅】李燕铭：公安部国安部高官刘彦平涉政变反习 面临死缓终身监禁 官方首次披露刘彦平是孙力军政治团伙一员 官方通报现罕见细节 暗示刘彦平涉活摘器官 习近平清洗刀把子严防江曾二十大政变（四四） 公安部副部长孙力军政变反习内幕（十一） 习近平火线反击江曾政变（四五）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221119/1813451.md" target="_blank">文昭：习近平「巡幸滋事」，泰国APEC、印尼G20频发尴尬和事故，幕後黑手暴露了</a></li>
 <li><a href="/comments/20221119/1813431.md" target="_blank">金钟：毛泽东要将台湾交给美国代管——文革后期的台湾问题</a></li>
 <li><a href="/comments/20221119/1813423.md" target="_blank">网海拾贝：美国办外交，中共做战狼</a></li>
-<li><a href="/comments/20221119/1813422.md" target="_blank">王赫：“金融十六条”能不能救中国楼市？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 <li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克是火星民族的代表</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 <li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 
 </ul>
 </div>
