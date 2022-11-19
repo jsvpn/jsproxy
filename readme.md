@@ -10,23 +10,23 @@
 <li><a href="/topimagenews/20221119/1813371.md">就是他! 引发习近平恐吓特鲁多 加国知名华人超市老板被指为中共代理人</a></li>
 <li><a href="/cbnews/20221119/1813466.md">接连让德、加、泰国总理难堪 习现在目中无人？</a></li>
 <li><a href="/topimagenews/20221119/1813481.md">习近平贴身智囊：挽狂澜于既倒，扶大厦之将倾【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221119/1813391.md">习近平诡计被看穿!在G20选择性会面欧洲领导人欧媒:试图分化欧盟</a></li>
 <li><a href="/comments/20221119/1813539.md">彭丽媛组建“粉红兵团”，助习夺权不择手段！重新解读江宋关系和汤灿角色！ （终局风云2022/11/18)</a></li>
+<li><a href="/topimagenews/20221119/1813391.md">习近平诡计被看穿!在G20选择性会面欧洲领导人欧媒:试图分化欧盟</a></li>
 <li><a href="/topimagenews/20221119/1813372.md">2022年中国汽车行业“打脸”报告 苦日子又来了</a></li>
-<li><a href="/cbnews/20221119/1813326.md">中国式防疫？直播谈疫情五分钟“被断播” 黄安怒谯：原来不说就等于没有</a></li>
 <li><a href="/cnnews/20221119/1813621.md">美水球教练水下性侵女生 池边家长竟也没发现</a></li>
+<li><a href="/cbnews/20221119/1813326.md">中国式防疫？直播谈疫情五分钟“被断播” 黄安怒谯：原来不说就等于没有</a></li>
 <li><a href="/cnnews/20221119/1813540.md">说了什么？贺锦丽、习近平被拍到APEC场边寒暄</a></li>
-<li><a href="/cbnews/20221119/1813538.md">天亮时分：接连让多国元首难堪，习近平误会了君子；“大国者下流”，才是大国外交的真谛（政论天下第853集 20221118）</a></li>
-<li><a href="/topimagenews/20221119/1813600.md">内蒙古羊群“顺时针转圈圈”逾10天 网友惊：世界末日要来了吗？</a></li>
 <li><a href="/cbnews/20221119/1813614.md">新冠口服药被要求下架 专家：绝不应让全民吃</a></li>
+<li><a href="/topimagenews/20221119/1813600.md">内蒙古羊群“顺时针转圈圈”逾10天 网友惊：世界末日要来了吗？</a></li>
+<li><a href="/cbnews/20221119/1813538.md">天亮时分：接连让多国元首难堪，习近平误会了君子；“大国者下流”，才是大国外交的真谛（政论天下第853集 20221118）</a></li>
 <li><a href="/cnnews/20221119/1813384.md">中国前公安失联 女儿在渥太华哭求中越政府</a></li>
-<li><a href="/cnnews/20221119/1813454.md">哈尔滨男子为母猪接生结果自己死了 父崩溃</a></li>
 <li><a href="/comments/20221119/1813509.md">突发！中堂密接！一尊次密！送方舱不？</a></li>
+<li><a href="/cnnews/20221119/1813454.md">哈尔滨男子为母猪接生结果自己死了 父崩溃</a></li>
 <li><a href="/comments/20221119/1813549.md">加拿大时评人林雯：习近平之所以跟特鲁多发飙，是因为加拿大捅了中共的痔疮...</a></li>
 <li><a href="/ssgc/20221119/1813537.md">〖兲朝浮世绘〗习帝非常不尊重东道主泰国总理 这也太傲慢无礼了</a></li>
 <li><a href="/cnnews/20221119/1813364.md">传普丁早存了“落跑钱”123亿英镑家产藏在中非 瓦格纳佣兵严格看守</a></li>
-<li><a href="/headline/20221119/1813564.md">330亿元青藏铁路断了？格桑坚参：可能性很大</a></li>
 <li><a href="/sohnews/20221119/1813578.md">香港橄榄球队又粗大事了：这次国歌放对了，但《愿荣光归香港》再次乱入 😂🤣。官民围绕香港国歌展开了激烈争夺战！</a></li>
+<li><a href="/headline/20221119/1813564.md">330亿元青藏铁路断了？格桑坚参：可能性很大</a></li>
 <li><a href="/sohnews/20221119/1813491.md">习近平发飙两大细节错读，翻译很冤枉，习近平训斥特鲁多不简单，澳洲总理也被辱，为何不理美国泄露信息，习近平忽略泰国总理的手，广州女子跪街侮辱性极强（小木谈天第303期 20221118）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
 <li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
 
 </ul>
 </div>
