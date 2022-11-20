@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20221120/1813723.md">习近平的朋友圈：仿若速配相亲？</a></li>
 <li><a href="/topimagenews/20221120/1813861.md">【微博精粹】不要XX要自由 这是拉横幅上天的节奏啊</a></li>
 <li><a href="/yule/20221120/1813734.md">还记得《武林外传》中莫小贝吗？30岁近照曝光，最丑童星变这样了</a></li>
 <li><a href="/topimagenews/20221120/1813807.md">突然通知 吃完赶紧走 北京直击：吃一半被请出</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/topimagenews/20221120/1813806.md">郑州真是天天上头条，条条不重样…</a></li>
 <li><a href="/topimagenews/20221120/1813889.md">北京网友冲卡成功取药 传朝阳医疗系统崩溃【阿波罗网报道】</a></li>
 <li><a href="/yule/20221120/1813942.md">年过半百的小陶虹 “急功近利”终于付出代价</a></li>
-<li><a href="/baitai/20221120/1813725.md">针对全体中共党员 美议员提重磅法案</a></li>
 <li><a href="/sohnews/20221120/1813900.md">💥最近中国各地频现少年丢失案！多做过体检，还有被“配血型”；“Potato”成敏感词；公职招聘拒绝留学生；传习明泽担任美中“暗线”，会成为接班人？习有儿子吗｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20221120/1813928.md">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
 <li><a href="/cbnews/20221120/1813887.md">被习近平责怪泄密 特鲁多的回应释放一信号</a></li>
 <li><a href="/ssgc/20221120/1813874.md">〖微博谈〗红朝的回光返照</a></li>
 <li><a href="/topimagenews/20221120/1813877.md">很多人不知道！习近平演讲中 这一关键词是什么意思【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221120/1813959.md">陈破空：美中随时开战！各自透露对方大动作。胡锡进泄漏付国豪神秘亡。赵立坚写打油诗翻车。直播与互动。美东11月20日早8点、即中港台11月20日晚9点</a></li>
-<li><a href="/comments/20221120/1813888.md">习近平战狼外交再玩“架出胡锦涛”戏码，G20、APEC外国元首多人受害！俄罗斯军机突炸中共军舰？</a></li>
 <li><a href="/lifebaike/20221120/1813793.md">蒙娜丽莎一直在微笑？倒过来看，会改变你的三观</a></li>
+<li><a href="/comments/20221120/1813888.md">习近平战狼外交再玩“架出胡锦涛”戏码，G20、APEC外国元首多人受害！俄罗斯军机突炸中共军舰？</a></li>
 <li><a href="/ssgc/20221120/1813963.md">珠海攻击台湾两次</a></li>
 <li><a href="/sohnews/20221120/1813803.md">陈破空：胡锦涛离场事件，日媒错读唇语！拿胡春华说事，淡化二十大政变，是习派的障眼法。主席台上，只有三个人异常活跃！偷换的名单，除名了李克强和汪洋</a></li>
 <li><a href="/topimagenews/20221120/1813783.md">金氏家族政权第4代？金正恩选这时曝光爱女藏内幕</a></li>
 <li><a href="/topimagenews/20221120/1813909.md">传普京将颁布“动员令+戒严令”征召规模更大</a></li>
 <li><a href="/lifebaike/20221120/1813923.md">把锅盖倒扣在锅上，太聪明了，我也是刚知道，解决好多人的难题</a></li>
 <li><a href="/funmedia/20221120/1813864.md">“爹”和“爸”有啥区别？二字拆开才明白，难怪古人称父亲为爹爹</a></li>
+<li><a href="/headline/20221120/1813966.md">武汉又要封城？网传21日起全市静默5天</a></li>
+<li><a href="/cnnews/20221120/1813895.md">川普推特复活 隔22个月解禁“粉丝数狂飙”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 
 </ul>
 </div>
