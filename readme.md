@@ -9,8 +9,8 @@
 <li><a href="/sohnews/20221120/1813705.md">上海市突然发布新规，禁止海归考选调生进入体制内工作</a></li>
 <li><a href="/cnnews/20221120/1813723.md">习近平的朋友圈：仿若速配相亲？</a></li>
 <li><a href="/topimagenews/20221120/1813861.md">【微博精粹】不要XX要自由 这是拉横幅上天的节奏啊</a></li>
-<li><a href="/topimagenews/20221120/1813807.md">突然通知 吃完赶紧走 北京直击：吃一半被请出</a></li>
 <li><a href="/yule/20221120/1813734.md">还记得《武林外传》中莫小贝吗？30岁近照曝光，最丑童星变这样了</a></li>
+<li><a href="/topimagenews/20221120/1813807.md">突然通知 吃完赶紧走 北京直击：吃一半被请出</a></li>
 <li><a href="/cbnews/20221120/1813828.md">嘲讽习近平“蟹行”走出动态清零？李强敢说这些话吗？【阿波罗网报道】</a></li>
 <li><a href="/yule/20221120/1813707.md">61岁刘德华背大包独自坐高铁 对座椅狂喷酒精</a></li>
 <li><a href="/topimagenews/20221120/1813806.md">郑州真是天天上头条，条条不重样…</a></li>
@@ -18,14 +18,14 @@
 <li><a href="/topimagenews/20221120/1813889.md">北京网友冲卡成功取药 传朝阳医疗系统崩溃【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221120/1813725.md">针对全体中共党员 美议员提重磅法案</a></li>
 <li><a href="/ssgc/20221120/1813874.md">〖微博谈〗红朝的回光返照</a></li>
+<li><a href="/comments/20221120/1813928.md">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
 <li><a href="/cbnews/20221120/1813887.md">被习近平责怪泄密 特鲁多的回应释放一信号</a></li>
 <li><a href="/sohnews/20221120/1813900.md">💥最近中国各地频现少年丢失案！多做过体检，还有被“配血型”；“Potato”成敏感词；公职招聘拒绝留学生；传习明泽担任美中“暗线”，会成为接班人？习有儿子吗｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20221120/1813877.md">很多人不知道！习近平演讲中 这一关键词是什么意思【阿波罗网报道】</a></li>
-<li><a href="/comments/20221120/1813928.md">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/yule/20221120/1813942.md">年过半百的小陶虹 “急功近利”终于付出代价</a></li>
 <li><a href="/lifebaike/20221120/1813793.md">蒙娜丽莎一直在微笑？倒过来看，会改变你的三观</a></li>
 <li><a href="/comments/20221120/1813888.md">习近平战狼外交再玩“架出胡锦涛”戏码，G20、APEC外国元首多人受害！俄罗斯军机突炸中共军舰？</a></li>
 <li><a href="/sohnews/20221120/1813803.md">陈破空：胡锦涛离场事件，日媒错读唇语！拿胡春华说事，淡化二十大政变，是习派的障眼法。主席台上，只有三个人异常活跃！偷换的名单，除名了李克强和汪洋</a></li>
-<li><a href="/yule/20221120/1813942.md">年过半百的小陶虹 “急功近利”终于付出代价</a></li>
 <li><a href="/topimagenews/20221120/1813783.md">金氏家族政权第4代？金正恩选这时曝光爱女藏内幕</a></li>
 <li><a href="/topimagenews/20221120/1813721.md">川普强势回应美司法部：“我不打算再经历了”【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 <li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 
 </ul>
 </div>
