@@ -14,13 +14,13 @@
 <li><a href="/cnnews/20221120/1813699.md">Google“流氓”竟出现习近平恶搞照 网笑喷</a></li>
 <li><a href="/comments/20221119/1813549.md">加拿大时评人林雯：习近平之所以跟特鲁多发飙，是因为加拿大捅了中共的痔疮...</a></li>
 <li><a href="/ssgc/20221119/1813537.md">〖兲朝浮世绘〗习帝非常不尊重东道主泰国总理 这也太傲慢无礼了</a></li>
-<li><a href="/sohnews/20221120/1813705.md">上海市突然发布新规，禁止海归考选调生进入体制内工作</a></li>
-<li><a href="/sohnews/20221119/1813625.md">陈破空：金正恩接班人露面，是个女的！惊传习近平也有一个？男的。全网疯传因不戴口罩而被那样的女子特别照。直播与互动。美东11月19日早8点、即中港台11月19日晚9点</a></li>
 <li><a href="/cnnews/20221120/1813723.md">习近平的朋友圈：仿若速配相亲？</a></li>
+<li><a href="/sohnews/20221119/1813625.md">陈破空：金正恩接班人露面，是个女的！惊传习近平也有一个？男的。全网疯传因不戴口罩而被那样的女子特别照。直播与互动。美东11月19日早8点、即中港台11月19日晚9点</a></li>
+<li><a href="/sohnews/20221120/1813705.md">上海市突然发布新规，禁止海归考选调生进入体制内工作</a></li>
 <li><a href="/headline/20221119/1813564.md">330亿元青藏铁路断了？格桑坚参：可能性很大</a></li>
 <li><a href="/sohnews/20221119/1813578.md">香港橄榄球队又粗大事了：这次国歌放对了，但《愿荣光归香港》再次乱入 😂🤣。官民围绕香港国歌展开了激烈争夺战！</a></li>
-<li><a href="/weiquan/20221119/1813667.md">江西省上饶市铅山县致远中学15岁高一男生胡鑫宇失踪一个多月 引发国内全网关注 大陆近年来大量失踪青少年或与器官移植犯罪相关联</a></li>
 <li><a href="/sohnews/20221119/1813632.md">张文宏频繁发声释全面开放信号！阿兹夫定片有何猫腻？百万中资散布涉台假消息被抓！</a></li>
+<li><a href="/weiquan/20221119/1813667.md">江西省上饶市铅山县致远中学15岁高一男生胡鑫宇失踪一个多月 引发国内全网关注 大陆近年来大量失踪青少年或与器官移植犯罪相关联</a></li>
 <li><a href="/cnnews/20221119/1813618.md">上千中国理财产品跌破净值 各银行子公司“露面”喊话</a></li>
 <li><a href="/sohnews/20221119/1813562.md">💥泰总理巴育受辱！轻易别跟习合影；习罕见戴上眼镜；首次！美国引渡“共谍”，判20年；海外“公安局”达54个，FBI调查；广州女遭綑绑下跪，只因没戴口罩；特鲁多与习再见面，好尴尬｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/funmedia/20221119/1813548.md">外出住酒店，为什么要拔掉电视插头？看完涨知识，都该学一学</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221120/1813861.md" target="_blank">【微博精粹】不要XX要自由 这是拉横幅上天的节奏啊</a></li>
 <li><a href="/topimagenews/20221120/1813807.md" target="_blank">突然通知 吃完赶紧走 北京直击：吃一半被请出</a></li>
 <li><a href="/topimagenews/20221120/1813806.md" target="_blank">郑州真是天天上头条，条条不重样…</a></li>
 <li><a href="/topimagenews/20221120/1813783.md" target="_blank">金氏家族政权第4代？金正恩选这时曝光爱女藏内幕</a></li>
@@ -90,13 +91,16 @@
 <li><a href="/topimagenews/20221118/1813149.md" target="_blank">中国12月起全开放?国务院要求不再封城、不再核酸?大陆学者先贴文、后否认…</a></li>
 <li><a href="/topimagenews/20221118/1813105.md" target="_blank">习近平怨怼特鲁多 加拿大炸翻天 吁政府强硬对中共</a></li>
 <li><a href="/topimagenews/20221118/1813104.md" target="_blank">要出大事？推特：所有办公大楼暂时关闭至21日</a></li>
-<li><a href="/topimagenews/20221118/1813078.md" target="_blank">【微博精粹】一件非常小的事终会引起一场时代洪流</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221120/1813870.md" target="_blank">刘淇昆：论习近平在G20峰会上卷入的两起外交事件</a></li>
+<li><a href="/comments/20221120/1813869.md" target="_blank">维舟：恐惧或愤怒，你总得选一个才能活下去</a></li>
+<li><a href="/comments/20221120/1813868.md" target="_blank">西坡:请不要再给市民写信了</a></li>
+<li><a href="/comments/20221120/1813867.md" target="_blank">孙旭阳:伤害广州，还是广州伤害？</a></li>
 <li><a href="/comments/20221120/1813849.md" target="_blank">林保华：经济发展辉煌台湾厚植国力</a></li>
 <li><a href="/comments/20221120/1813848.md" target="_blank">王维洛:红旗渠失败原因的分析</a></li>
 <li><a href="/comments/20221120/1813816.md" target="_blank">疫情升温 广州管控不人道 北京吁居家 山西大厂现疫情</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20221119/1813638.md" target="_blank">APEC领袖夫人们访博物馆 台湾张淑芬同框彭丽媛：打招呼当然是有的</a></li>
 <li><a href="/comments/20221119/1813616.md" target="_blank">G20巴厘岛开会众生相：亲疏远近全在小会</a></li>
 <li><a href="/comments/20221119/1813611.md" target="_blank">躲猫喵: 想要牢牢记住这一切</a></li>
-<li><a href="/comments/20221119/1813610.md" target="_blank">周晓辉：习率新常委膜拜延安与毛 实属大凶之兆</a></li>
-<li><a href="/comments/20221119/1813539.md" target="_blank">彭丽媛组建“粉红兵团”，助习夺权不择手段！重新解读江宋关系和汤灿角色！ （终局风云2022/11/18)</a></li>
-<li><a href="/comments/20221119/1813182.md" target="_blank">澳洲工党总理献上舔共大礼：不支持台湾加入CPTPP，因为台湾不是独立国家。未来两年半台湾不用指望澳洲了</a></li>
-<li><a href="/comments/20221119/1813549.md" target="_blank">加拿大时评人林雯：习近平之所以跟特鲁多发飙，是因为加拿大捅了中共的痔疮&#8230;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 
 </ul>
 </div>
