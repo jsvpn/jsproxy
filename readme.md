@@ -5,11 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20221121/1814033.md">习近平“动态清零”遭打脸 石家庄解封四天奇迹发生了</a></li>
-<li><a href="/topimagenews/20221121/1814030.md">美移民局打脸冯裤子？记录显示同名京籍二人移民</a></li>
 <li><a href="/comments/20221121/1814110.md">这是颜宁归国真正的内幕？涉嫌~~？</a></li>
 <li><a href="/topimagenews/20221121/1814203.md">习近平气门暴露了！这一圈“大国外交”转下来有多惨【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20221121/1814032.md">狗血淋头：华为最近被网友用“脏话”骂惨了</a></li>
 <li><a href="/cnnews/20221121/1814185.md">大半夜了 上海突发通知…【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221121/1814072.md">谎言正在被戳穿，我们究竟被疫情“骗”了多久？</a></li>
 <li><a href="/cnnews/20221121/1814039.md">新疆社区书记“泄密”：让你阴就阴，让你阳就阳</a></li>
@@ -28,6 +25,9 @@
 <li><a href="/baitai/20221121/1814173.md">中共政法头子发话 释放两大信号</a></li>
 <li><a href="/topimagenews/20221121/1814282.md">德部长要中共付钱！不承认中共这地位；月活司机达到60多万人 货拉拉陷全国停运风波</a></li>
 <li><a href="/topimagenews/20221121/1814187.md">单日新增2万例 武汉传言封城 民众疯抢卖场痛骂:把人心态搞崩</a></li>
+<li><a href="/ssgc/20221121/1814147.md">〖兲朝浮世绘〗死亡是人类最后的公平 但是器官移植打破了这个公平</a></li>
+<li><a href="/topimagenews/20221121/1814037.md">中芯国际要“挥刀自宫”？ 因应美国芯片禁令</a></li>
+<li><a href="/cnnews/20221121/1814216.md">拜登往死里打 大陆芯片业开倒车？揭残酷真相：龙头厂完了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221122/1814431.md" target="_blank">拜习峰会无效 中美经济关系持续恶化</a></li>
 <li><a href="/cbnews/20221122/1814419.md" target="_blank">联邦大选候选人是否收受中国资金？特鲁多回应</a></li>
 <li><a href="/comments/20221121/1814281.md" target="_blank">克服自己的这个意念，而后听天命！藏传佛教的独特占卜术！请神灵护佑、觉者相助，需要这么做！</a></li>
 <li><a href="/cbnews/20221121/1814102.md" target="_blank">天亮时分：12月反攻克里米亚，俄乌战争明年春天结束；中国各地少年失踪事件频发；川普的沉默推特困局（政论天下第855集 20221120）</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221119/1813326.md" target="_blank">中国式防疫？直播谈疫情五分钟“被断播” 黄安怒谯：原来不说就等于没有</a></li>
 <li><a href="/cbnews/20221119/1813305.md" target="_blank">渔民捞上“超巨东坡肉”放半年增胖5kg 专家：是肉灵芝</a></li>
 <li><a href="/cbnews/20221118/1813249.md" target="_blank">大陆跨省游取消“熔断”景区与旅行社防疫新要求来了</a></li>
-<li><a href="/comments/20221118/1813192.md" target="_blank">一眼看透未来！中国的拉马努金！数学家的预言 更惊人！这么精准？逼孙权掘地三尺⋯</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221122/1814430.md" target="_blank">公主来了！宇宙无敌那种 【老北京茶馆11/21/2022】</a></li>
 <li><a href="/comments/20221122/1814365.md" target="_blank">时事大家谈：习近平进退两难，清零或成最大烂尾工程？</a></li>
 <li><a href="/comments/20221122/1814364.md" target="_blank">时事大家谈：广州跪地女：视觉冲击为何如此强烈？</a></li>
 <li><a href="/comments/20221122/1814355.md" target="_blank">美媒：中美竞争下习近平提拔大批科技专业人士进入中共领导层</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221121/1814085.md" target="_blank">【首发】李德君：三问习近平凭什么相信王沪宁的歪理邪说</a></li>
 <li><a href="/comments/20221121/1814073.md" target="_blank">海口一副区长疑与女局长爆丑闻 现场被打视频曝光</a></li>
 <li><a href="/comments/20221121/1814013.md" target="_blank">李燕铭：习近平清洗四川帮（一） 副国级高官刘奇葆大秘王铭晖落马 罪名曝光 王铭晖下属公安局正副局长内讧 王铭晖被副局长妻子微博举报 王铭晖先后担任曾庆红心腹马仔王东明与彭清华的大管家 隐秘关联政法委书记郭声琨 习近平拿下王铭晖 剑指多名江派国级高官 两省区官场震动</a></li>
-<li><a href="/comments/20221121/1814010.md" target="_blank">【独家重磅】李燕铭：习清洗江曾政变集团河北帮钱袋子 三银行高管接连落马 江绵恒马仔张庆伟二十大入局受阻处境高危 团派副部级高官被贬任闲职 周永康大秘被火速查办 习北戴河会后杀回马枪河北高官纷纷投案 习近平清洗河北帮（十六） 习江钱袋子争夺战（二九） 习近平决战江曾（五五） 中南海政变与反政变（六四）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
 <li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 
 </ul>
 </div>
