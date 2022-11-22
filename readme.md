@@ -20,13 +20,13 @@
 <li><a href="/yule/20221121/1814240.md">汪小菲发飙怒骂大S：我X不想再给你全家付电费了</a></li>
 <li><a href="/sohnews/20221121/1814288.md">陈破空：不得了！习近平和彭丽媛均成密接者！在泰国欢饮，为她庆生。却把中国老百姓都关起来。石家庄解封曝光大秘密。直播与互动。美东11月21日早8点30、即中港台11月21日晚9点30</a></li>
 <li><a href="/sohnews/20221122/1814460.md">陈破空：快讯：太原突发大爆炸！习氏夫妇回国，各地封城升级！指责石家庄犯错。北京上海加码。胡锡进被封，网民围观。新疆大妈嘶喊。美东11月21日晚8点、即中港台11月22日早9点</a></li>
-<li><a href="/ssgc/20221121/1814223.md">中国吹捧卡塔尔世界杯中国元素无所不在 遭媒体吐槽“除了球场上”</a></li>
 <li><a href="/baitai/20221122/1814406.md">北京新增近千病例 胡锡进被封在家 承认疫情恐失控</a></li>
-<li><a href="/topimagenews/20221122/1814491.md">民主党惨了！纽约23亚裔选区全倒戈….</a></li>
 <li><a href="/sohnews/20221122/1814440.md">大陆青少年失踪，民众直指被活摘器官，有一办法可证实，当局绝不会用，芳芳男友有望被踢出国会委员会，大多数被封推特帐号已恢复，川普会回推特吗｜横河观点  11.21.2022</a></li>
+<li><a href="/topimagenews/20221122/1814491.md">民主党惨了！纽约23亚裔选区全倒戈….</a></li>
 <li><a href="/yule/20221122/1814423.md">中国女歌手左眼遭刺瞎又染毒失婚 近照曝光</a></li>
-<li><a href="/cnnews/20221122/1814420.md">多名加华人痛苦亲历，高烧到抽搐+全身骨头疼炸</a></li>
+<li><a href="/cnnews/20221122/1814608.md">胡锦涛之女为何“润”入美国隐居？</a></li>
 <li><a href="/cbnews/20221122/1814571.md">天亮时分：APEC归来，习近平将再失踪五天；明年中美关系更恶化，两件事很关键；大规模提拔技术官僚，习真要尊重科学了吗？（政论天下第856集 20221121）</a></li>
+<li><a href="/cnnews/20221122/1814420.md">多名加华人痛苦亲历，高烧到抽搐+全身骨头疼炸</a></li>
 <li><a href="/baitai/20221121/1814245.md">为什么出海的船员渴死，也不喝海水？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221122/1814663.md" target="_blank">别人世界杯，我们世界悲</a></li>
 <li><a href="/comments/20221122/1814636.md" target="_blank">乌军第80空突旅杀俘事件始末</a></li>
 <li><a href="/comments/20221122/1814591.md" target="_blank">【微博精粹】卡塔尔世界杯 穷尽想象也写不出这样的中国情节</a></li>
 <li><a href="/comments/20221122/1814559.md" target="_blank">【重磅】刘军宁：一个思想个体户的文艺复兴</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221121/1814302.md" target="_blank">中国广州疫情升温 全市11区不同程度管控</a></li>
 <li><a href="/comments/20221121/1814301.md" target="_blank">规模5.6地震袭印尼！房屋倒成一片 已知至少56死、逾700伤</a></li>
 <li><a href="/comments/20221121/1814300.md" target="_blank">驻卡塔尔大使吹嘘中国元素照亮世足杯 球迷：中国队在哪里？</a></li>
-<li><a href="/comments/20221121/1814281.md" target="_blank">克服自己的这个意念，而后听天命！藏传佛教的独特占卜术！请神灵护佑、觉者相助，需要这么做！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 
 </ul>
 </div>
