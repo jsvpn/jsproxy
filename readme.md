@@ -17,13 +17,13 @@
 <li><a href="/comments/20221122/1814438.md">【短视频】一个老头出国旅游感染了病毒，结果。。。</a></li>
 <li><a href="/cbnews/20221122/1814571.md">天亮时分：APEC归来，习近平将再失踪五天；明年中美关系更恶化，两件事很关键；大规模提拔技术官僚，习真要尊重科学了吗？（政论天下第856集 20221121）</a></li>
 <li><a href="/topimagenews/20221122/1814446.md">这步大棋下得好！世界知名投资家大赞</a></li>
-<li><a href="/baitai/20221122/1814588.md">太原军工厂剧烈爆炸 蘑菇云似原子弹 居民房受损</a></li>
 <li><a href="/sohnews/20221122/1814460.md">陈破空：快讯：太原突发大爆炸！习氏夫妇回国，各地封城升级！指责石家庄犯错。北京上海加码。胡锡进被封，网民围观。新疆大妈嘶喊。美东11月21日晚8点、即中港台11月22日早9点</a></li>
+<li><a href="/baitai/20221122/1814588.md">太原军工厂剧烈爆炸 蘑菇云似原子弹 居民房受损</a></li>
 <li><a href="/topimagenews/20221122/1814491.md">民主党惨了！纽约23亚裔选区全倒戈….</a></li>
+<li><a href="/cbnews/20221122/1814610.md">江峰：武汉失踪少年遗体禁止家人认领，公安在怕什麽？ 《器官移植法案》近期出台，多起失踪案肇因？卡塔尔世界盃的黑暗，中国足球上不去的深层原因：只有君王没有苍生的罪恶国度【江峰漫谈20221121第582期】</a></li>
 <li><a href="/sohnews/20221122/1814440.md">大陆青少年失踪，民众直指被活摘器官，有一办法可证实，当局绝不会用，芳芳男友有望被踢出国会委员会，大多数被封推特帐号已恢复，川普会回推特吗｜横河观点  11.21.2022</a></li>
 <li><a href="/baitai/20221122/1814406.md">北京新增近千病例 胡锡进被封在家 承认疫情恐失控</a></li>
 <li><a href="/yule/20221122/1814423.md">中国女歌手左眼遭刺瞎又染毒失婚 近照曝光</a></li>
-<li><a href="/cbnews/20221122/1814610.md">江峰：武汉失踪少年遗体禁止家人认领，公安在怕什麽？ 《器官移植法案》近期出台，多起失踪案肇因？卡塔尔世界盃的黑暗，中国足球上不去的深层原因：只有君王没有苍生的罪恶国度【江峰漫谈20221121第582期】</a></li>
 <li><a href="/ssgc/20221122/1814589.md">〖兲朝浮世绘〗胡锡进也被封在家里了 还达到了“纵做鬼亦幸福”的境界</a></li>
 <li><a href="/cnnews/20221122/1814420.md">多名加华人痛苦亲历，高烧到抽搐+全身骨头疼炸</a></li>
 <li><a href="/cbnews/20221122/1814431.md">拜习峰会无效 中美经济关系持续恶化</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221122/1814769.md" target="_blank">炮轰习近平，“这次换届是典型的暗箱操作”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221122/1814691.md" target="_blank">美制抗雷装甲车MaxxPro果然强悍 乌克兰士兵幸存</a></li>
 <li><a href="/topimagenews/20221122/1814653.md" target="_blank">俄军撤离赫尔松 “末日将军”成普京的替死鬼？</a></li>
 <li><a href="/topimagenews/20221122/1814652.md" target="_blank">习有解决台湾问题“慎重的”时间表</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221121/1814025.md" target="_blank">卡塔尔收买世界杯球迷发“五毛帖”？事实核查结果来了</a></li>
 <li><a href="/topimagenews/20221120/1813912.md" target="_blank">加密货币交易所FTX去年募资130亿 近100亿进创办人私人金库</a></li>
 <li><a href="/topimagenews/20221120/1813909.md" target="_blank">传普京将颁布“动员令+戒严令”征召规模更大</a></li>
-<li><a href="/topimagenews/20221120/1813889.md" target="_blank">北京网友冲卡成功取药 传朝阳医疗系统崩溃【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221122/1814772.md" target="_blank">时事大家谈：习近平会张忠谋 “芯片”真能护台？大熊猫团团病逝 两岸还能&quot;团圆&quot;？</a></li>
 <li><a href="/comments/20221122/1814732.md" target="_blank">新影片上传咯⬇️欢迎大家follow我的Instagram: fuyao_wjzm</a></li>
 <li><a href="/comments/20221122/1814726.md" target="_blank">【财经拆局】「欲哭无泪 」——十四年来最大跌市，蚀让盘增加，楼市恐愈卖愈平</a></li>
 <li><a href="/comments/20221122/1814697.md" target="_blank">史无前例被孤立 普京怎样接下烫手山芋成悬念</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221121/1814335.md" target="_blank">曾与习近平等多国领导人会晤 香港特首APEC峰会结束后检测呈阳性</a></li>
 <li><a href="/comments/20221121/1814334.md" target="_blank">西藏日喀则市委原常委姚常雨被查 曾在新疆湖南西藏三地任职【落马官员背景揭秘】</a></li>
 <li><a href="/comments/20221121/1814333.md" target="_blank">时事大家谈：广州跪地女：视觉冲击为何如此强烈？习近平进退两难，清零或成最大烂尾工程？</a></li>
-<li><a href="/comments/20221121/1814310.md" target="_blank">李燕铭：习近平清洗宁夏帮（一） 曾庆红副省部级旧部姜志刚被诡异免职 隐身逾一年去向成谜 与北京三名落马老虎有仕途交集 姜志刚前大管家被查 罪名曝光 牵连宁夏多名省部级高官</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 <li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
 <li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 
 </ul>
 </div>
