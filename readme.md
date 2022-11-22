@@ -5,18 +5,16 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221121/1814203.md">习近平气门暴露了！这一圈“大国外交”转下来有多惨【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221121/1814293.md">习近平陷入危险 四大危机同时降临中国</a></li>
-<li><a href="/topimagenews/20221122/1814387.md">中国学者：我们的手段快清零了.....</a></li>
 <li><a href="/cnnews/20221122/1814483.md">中共官媒大内宣翻车？海军妹子“饰3角”被抓包</a></li>
-<li><a href="/cnnews/20221121/1814303.md">习近平、王毅有感染新冠风险，和习挽手的李家超已确诊【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221122/1814387.md">中国学者：我们的手段快清零了.....</a></li>
 <li><a href="/sohnews/20221122/1814396.md">“突发！APEC会议休息室：习近平与蔡英文代表相互问候”ShitaoTV - 02 (21 /11/22) 台积电创办人张忠谋：奇怪祝贺语 解谜台积电</a></li>
+<li><a href="/cnnews/20221121/1814303.md">习近平、王毅有感染新冠风险，和习挽手的李家超已确诊【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221122/1814389.md">北京再变空城惊人一幕 网笑称满街都是“守门员” 火锅店店员寒风中摆摊叫卖</a></li>
 <li><a href="/topimagenews/20221121/1814282.md">德部长要中共付钱！不承认中共这地位；月活司机达到60多万人 货拉拉陷全国停运风波</a></li>
 <li><a href="/yule/20221122/1814392.md">汪小菲连发15文：小S嗑药，老公到处找姑娘</a></li>
 <li><a href="/cnnews/20221122/1814422.md">1.6万亿的卡塔尔世界杯 有多壕气就有多血腥</a></li>
 <li><a href="/comments/20221122/1814438.md">【短视频】一个老头出国旅游感染了病毒，结果。。。</a></li>
-<li><a href="/yule/20221121/1814204.md">不满4亿豪宅被睡！汪小菲月扛“百万房贷”不忍暗谯：你个窝囊废</a></li>
 <li><a href="/topimagenews/20221122/1814446.md">这步大棋下得好！世界知名投资家大赞</a></li>
 <li><a href="/cnnews/20221121/1814216.md">拜登往死里打 大陆芯片业开倒车？揭残酷真相：龙头厂完了</a></li>
 <li><a href="/yule/20221122/1814393.md">大S回应汪小菲连番指控 亲揭一年前离婚真正原因</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/sohnews/20221122/1814460.md">陈破空：快讯：太原突发大爆炸！习氏夫妇回国，各地封城升级！指责石家庄犯错。北京上海加码。胡锡进被封，网民围观。新疆大妈嘶喊。美东11月21日晚8点、即中港台11月22日早9点</a></li>
 <li><a href="/yule/20221122/1814423.md">中国女歌手左眼遭刺瞎又染毒失婚 近照曝光</a></li>
 <li><a href="/sohnews/20221122/1814440.md">大陆青少年失踪，民众直指被活摘器官，有一办法可证实，当局绝不会用，芳芳男友有望被踢出国会委员会，大多数被封推特帐号已恢复，川普会回推特吗｜横河观点  11.21.2022</a></li>
+<li><a href="/topimagenews/20221122/1814491.md">民主党惨了！纽约23亚裔选区全倒戈….</a></li>
 <li><a href="/cnnews/20221122/1814420.md">多名加华人痛苦亲历，高烧到抽搐+全身骨头疼炸</a></li>
+<li><a href="/baitai/20221121/1814245.md">为什么出海的船员渴死，也不喝海水？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221122/1814636.md" target="_blank">乌军第80空突旅杀俘事件始末</a></li>
 <li><a href="/comments/20221122/1814591.md" target="_blank">【微博精粹】卡塔尔世界杯 穷尽想象也写不出这样的中国情节</a></li>
 <li><a href="/comments/20221122/1814559.md" target="_blank">【重磅】刘军宁：一个思想个体户的文艺复兴</a></li>
 <li><a href="/comments/20221122/1814558.md" target="_blank">⬇️⬇️⬇️看我们的最新影片💓💓Instagram：fuyao_wjzm</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221121/1814301.md" target="_blank">规模5.6地震袭印尼！房屋倒成一片 已知至少56死、逾700伤</a></li>
 <li><a href="/comments/20221121/1814300.md" target="_blank">驻卡塔尔大使吹嘘中国元素照亮世足杯 球迷：中国队在哪里？</a></li>
 <li><a href="/comments/20221121/1814281.md" target="_blank">克服自己的这个意念，而后听天命！藏传佛教的独特占卜术！请神灵护佑、觉者相助，需要这么做！</a></li>
-<li><a href="/comments/20221121/1814264.md" target="_blank">俄乌之间的事情本来清清楚楚：从苏联解体说起</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
 
 </ul>
 </div>
