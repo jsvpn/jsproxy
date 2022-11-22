@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20221121/1814110.md">这是颜宁归国真正的内幕？涉嫌~~？</a></li>
 <li><a href="/cnnews/20221121/1814185.md">大半夜了 上海突发通知…【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221121/1814203.md">习近平气门暴露了！这一圈“大国外交”转下来有多惨【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221121/1814152.md">【微博精粹】千万别让卫健委看到这幅古人“做核酸”壁画</a></li>
 <li><a href="/topimagenews/20221121/1814188.md">疯传！乌军近距离处决11名俄士兵，血腥现场曝光</a></li>
+<li><a href="/topimagenews/20221121/1814152.md">【微博精粹】千万别让卫健委看到这幅古人“做核酸”壁画</a></li>
 <li><a href="/comments/20221121/1814183.md">习近平与他穿“情侣装” 出席晚宴 风头盖过彭丽媛</a></li>
 <li><a href="/baitai/20221121/1814293.md">习近平陷入危险 四大危机同时降临中国</a></li>
 <li><a href="/topimagenews/20221121/1814145.md">全球“百万人亡”？盲眼龙婆预言2023世界面临5大灾难</a></li>
-<li><a href="/topimagenews/20221121/1814103.md">触目惊心：中国核酸利益链，黑心的只是商家？</a></li>
-<li><a href="/topimagenews/20221121/1814104.md">房市螺旋式下跌恐继续！中国富豪急于套现逃离…</a></li>
 <li><a href="/topimagenews/20221122/1814387.md">中国学者：我们的手段快清零了.....</a></li>
 <li><a href="/sohnews/20221122/1814396.md">“突发！APEC会议休息室：习近平与蔡英文代表相互问候”ShitaoTV - 02 (21 /11/22) 台积电创办人张忠谋：奇怪祝贺语 解谜台积电</a></li>
 <li><a href="/cnnews/20221121/1814169.md">第一夫人曝光拜登庆80大寿照片，原来他好这口…</a></li>
 <li><a href="/topimagenews/20221122/1814389.md">北京再变空城惊人一幕 网笑称满街都是“守门员” 火锅店店员寒风中摆摊叫卖</a></li>
+<li><a href="/cnnews/20221121/1814303.md">习近平、王毅有感染新冠风险，和习挽手的李家超已确诊【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221121/1814173.md">中共政法头子发话 释放两大信号</a></li>
 <li><a href="/topimagenews/20221121/1814282.md">德部长要中共付钱！不承认中共这地位；月活司机达到60多万人 货拉拉陷全国停运风波</a></li>
-<li><a href="/cnnews/20221121/1814303.md">习近平、王毅有感染新冠风险，和习挽手的李家超已确诊【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221121/1814187.md">单日新增2万例 武汉传言封城 民众疯抢卖场痛骂:把人心态搞崩</a></li>
 <li><a href="/ssgc/20221121/1814147.md">〖兲朝浮世绘〗死亡是人类最后的公平 但是器官移植打破了这个公平</a></li>
 <li><a href="/yule/20221122/1814392.md">汪小菲连发15文：小S嗑药，老公到处找姑娘</a></li>
 <li><a href="/cnnews/20221121/1814216.md">拜登往死里打 大陆芯片业开倒车？揭残酷真相：龙头厂完了</a></li>
 <li><a href="/yule/20221121/1814204.md">不满4亿豪宅被睡！汪小菲月扛“百万房贷”不忍暗谯：你个窝囊废</a></li>
 <li><a href="/ssgc/20221121/1814223.md">中国吹捧卡塔尔世界杯中国元素无所不在 遭媒体吐槽“除了球场上”</a></li>
+<li><a href="/cnnews/20221121/1814132.md">周末大屠杀：4名大学生遭数十刀捅死，震惊全美</a></li>
+<li><a href="/yule/20221121/1814240.md">汪小菲发飙怒骂大S：我X不想再给你全家付电费了</a></li>
+<li><a href="/cnnews/20221121/1814192.md">更令人期待！iPhone15“机身外观会大改”2变化提前曝光了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221122/1814542.md" target="_blank">金 钟：毛泽东要将台湾交给美国代管</a></li>
+<li><a href="/comments/20221122/1814540.md" target="_blank">习近平回国防控紧急升级，石家庄遭政变式封城！赵立坚歪诗火了！离奇泄露党惊天黑幕</a></li>
 <li><a href="/comments/20221122/1814531.md" target="_blank">陶杰：美国在指挥泽连斯基</a></li>
 <li><a href="/comments/20221122/1814530.md" target="_blank">人大学者：中共控制台湾的手段快要用尽了</a></li>
 <li><a href="/comments/20221122/1814529.md" target="_blank">为什么习近平会欺负特鲁多却奉承阿尔巴尼斯？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221121/1814239.md" target="_blank">习近平的帝王学</a></li>
 <li><a href="/comments/20221121/1814184.md" target="_blank">世足开幕战 东道主卡塔尔输厄瓜多尔</a></li>
 <li><a href="/comments/20221121/1814183.md" target="_blank">习近平与他穿“情侣装” 出席晚宴 风头盖过彭丽媛</a></li>
-<li><a href="/comments/20221121/1814130.md" target="_blank">燕大校长：拱手白送名校 不润害死自己</a></li>
-<li><a href="/comments/20221121/1814111.md" target="_blank">宋国诚：中美峰会：相逢一笑“添”恩仇</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
 <li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 
 </ul>
 </div>
