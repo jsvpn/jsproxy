@@ -13,21 +13,21 @@
 <li><a href="/baitai/20221122/1814773.md">习坚持清零背后藏重大目的 学者：会坚持到这个时候</a></li>
 <li><a href="/cbnews/20221122/1814610.md">江峰：武汉失踪少年遗体禁止家人认领，公安在怕什麽？ 《器官移植法案》近期出台，多起失踪案肇因？卡塔尔世界盃的黑暗，中国足球上不去的深层原因：只有君王没有苍生的罪恶国度【江峰漫谈20221121第582期】</a></li>
 <li><a href="/topimagenews/20221122/1814792.md">“闭关锁国”再掀波澜！直接否定邓小平？【阿波罗网报道】</a></li>
-<li><a href="/comments/20221122/1814783.md">李燕铭：李克强触动政治红线 习近平回京强硬反击 河南安阳大火38死​习作指示李克强异常隐身 李克强离任前连喊改革开放与习背道而驰 李克强南下拜祭邓小平 习北上纪念内战 习近平李克强明争暗斗内幕（七三） 习近平连任与二十大常委争夺战（113）</a></li>
 <li><a href="/ssgc/20221122/1814589.md">〖兲朝浮世绘〗胡锡进也被封在家里了 还达到了“纵做鬼亦幸福”的境界</a></li>
+<li><a href="/comments/20221122/1814783.md">李燕铭：李克强触动政治红线 习近平回京强硬反击 河南安阳大火38死​习作指示李克强异常隐身 李克强离任前连喊改革开放与习背道而驰 李克强南下拜祭邓小平 习北上纪念内战 习近平李克强明争暗斗内幕（七三） 习近平连任与二十大常委争夺战（113）</a></li>
 <li><a href="/topimagenews/20221122/1814613.md">广州男外出买药遭跪压 网友怒：以防疫为名把老百姓当牲畜驯服</a></li>
-<li><a href="/topimagenews/20221122/1814652.md">习有解决台湾问题“慎重的”时间表</a></li>
 <li><a href="/sohnews/20221123/1814824.md">“北京全面爆发⋯ 将以“辉煌”的方式结束！”《今日点击》 (22/11/22) 蔡英文惊叹演讲 直言习近平（见👇视频连结）</a></li>
+<li><a href="/topimagenews/20221122/1814652.md">习有解决台湾问题“慎重的”时间表</a></li>
 <li><a href="/baitai/20221122/1814670.md">“3分钟定律”改变无数人</a></li>
-<li><a href="/comments/20221122/1814540.md">习近平回国防控紧急升级，石家庄遭政变式封城！赵立坚歪诗火了！离奇泄露党惊天黑幕</a></li>
-<li><a href="/cnnews/20221123/1814828.md">习近平连怼多国领导人 落入外交重围</a></li>
-<li><a href="/topimagenews/20221123/1814860.md">吓阻习近平 美智库报告开列详尽“清单”</a></li>
 <li><a href="/cnnews/20221123/1814873.md">“蓝马甲事件”延烧 新疆、陕西纷喊不是我</a></li>
+<li><a href="/topimagenews/20221123/1814860.md">吓阻习近平 美智库报告开列详尽“清单”</a></li>
+<li><a href="/cnnews/20221123/1814828.md">习近平连怼多国领导人 落入外交重围</a></li>
 <li><a href="/lifebaike/20221122/1814656.md">常言道：老泄残精，人穷寿尽，是啥意思？年过50，把好三关更健康</a></li>
 <li><a href="/comments/20221122/1814591.md">【微博精粹】卡塔尔世界杯 穷尽想象也写不出这样的中国情节</a></li>
-<li><a href="/ssgc/20221122/1814741.md">习近平密接后将迎古共书记说明什么？</a></li>
 <li><a href="/cnnews/20221123/1814872.md">大鹅得知要被宰！躲桌旁“哭泣” 主人收刀</a></li>
+<li><a href="/ssgc/20221122/1814741.md">习近平密接后将迎古共书记说明什么？</a></li>
 <li><a href="/baitai/20221123/1814832.md">中南海也静默了？北京新病例暴增逾千 社区交叉感染失控</a></li>
+<li><a href="/baitai/20221123/1814886.md">天津银行行长出事 一场大风暴将再度上演</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221123/1814980.md" target="_blank">刘书庆：俄罗斯战败的世界史意义</a></li>
+<li><a href="/comments/20221123/1814979.md" target="_blank">项栋梁：很遗憾，你们想要的新冠特效药可能永远都不会出现</a></li>
+<li><a href="/comments/20221123/1814978.md" target="_blank">九边：亚洲“社交狂魔”是怎么混到人见人烦的？</a></li>
+<li><a href="/comments/20221123/1814977.md" target="_blank">有竹不倒: 特效药下市也算一种提醒…</a></li>
 <li><a href="/comments/20221123/1814953.md" target="_blank">苏晓康：重新诠释“劣根性”</a></li>
 <li><a href="/comments/20221123/1814923.md" target="_blank">专访蔡霞(上)：中共严控社会但无法完全回到毛时代；供销社和公共食堂背后意图？亲历朝鲜令人震惊的贫穷 ｜#方菲时间 11/22/2022</a></li>
 <li><a href="/comments/20221123/1814906.md" target="_blank">木蹊说：可以不报道，但请不要乱改编</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20221122/1814783.md" target="_blank">李燕铭：李克强触动政治红线 习近平回京强硬反击 河南安阳大火38死​习作指示李克强异常隐身 李克强离任前连喊改革开放与习背道而驰 李克强南下拜祭邓小平 习北上纪念内战 习近平李克强明争暗斗内幕（七三） 习近平连任与二十大常委争夺战（113）</a></li>
 <li><a href="/comments/20221122/1814782.md" target="_blank">麦卡锡：若当选议长 将阻中共在美设警务站</a></li>
 <li><a href="/comments/20221122/1814779.md" target="_blank">内幕：习近平派秘密小组赴美 表诚意避免脱轨</a></li>
-<li><a href="/comments/20221122/1814778.md" target="_blank">不一样的时空！世界杯万人欢聚不戴口罩 引中国民众反思</a></li>
-<li><a href="/comments/20221122/1814776.md" target="_blank">习近平保党反遭“劫持”？美国会披露习集权之路</a></li>
-<li><a href="/comments/20221122/1814772.md" target="_blank">时事大家谈：习近平会张忠谋 “芯片”真能护台？大熊猫团团病逝 两岸还能&quot;团圆&quot;？</a></li>
-<li><a href="/comments/20221122/1814732.md" target="_blank">新影片上传咯⬇️欢迎大家follow我的Instagram: fuyao_wjzm</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 <li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
 <li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
 
 </ul>
 </div>
