@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221122/1814769.md">炮轰习近平，“这次换届是典型的暗箱操作”【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221122/1814773.md">习坚持清零背后藏重大目的 学者：会坚持到这个时候</a></li>
+<li><a href="/topimagenews/20221122/1814769.md">炮轰习近平，“这次换届是典型的暗箱操作”【阿波罗网报道】</a></li>
 <li><a href="/comments/20221122/1814783.md">李燕铭：李克强触动政治红线 习近平回京强硬反击 河南安阳大火38死​习作指示李克强异常隐身 李克强离任前连喊改革开放与习背道而驰 李克强南下拜祭邓小平 习北上纪念内战 习近平李克强明争暗斗内幕（七三） 习近平连任与二十大常委争夺战（113）</a></li>
 <li><a href="/topimagenews/20221122/1814792.md">“闭关锁国”再掀波澜！直接否定邓小平？【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221123/1814873.md">“蓝马甲事件”延烧 新疆、陕西纷喊不是我</a></li>
 <li><a href="/baitai/20221123/1814886.md">天津银行行长出事 一场大风暴将再度上演</a></li>
 <li><a href="/sohnews/20221123/1814824.md">“北京全面爆发⋯ 将以“辉煌”的方式结束！”《今日点击》 (22/11/22) 蔡英文惊叹演讲 直言习近平（见👇视频连结）</a></li>
 <li><a href="/topimagenews/20221123/1814860.md">吓阻习近平 美智库报告开列详尽“清单”</a></li>
-<li><a href="/baitai/20221122/1814670.md">“3分钟定律”改变无数人</a></li>
-<li><a href="/topimagenews/20221122/1814652.md">习有解决台湾问题“慎重的”时间表</a></li>
 <li><a href="/topimagenews/20221123/1814871.md">细思极恐！563例肝移植器官来源不能说明！中国医学专家论文被撤</a></li>
+<li><a href="/baitai/20221122/1814670.md">“3分钟定律”改变无数人</a></li>
 <li><a href="/cnnews/20221123/1814872.md">大鹅得知要被宰！躲桌旁“哭泣” 主人收刀</a></li>
 <li><a href="/cnnews/20221123/1814828.md">习近平连怼多国领导人 落入外交重围</a></li>
-<li><a href="/lifebaike/20221122/1814656.md">常言道：老泄残精，人穷寿尽，是啥意思？年过50，把好三关更健康</a></li>
 <li><a href="/comments/20221123/1814923.md">专访蔡霞(上)：中共严控社会但无法完全回到毛时代；供销社和公共食堂背后意图？亲历朝鲜令人震惊的贫穷 ｜#方菲时间 11/22/2022</a></li>
-<li><a href="/baitai/20221123/1814832.md">中南海也静默了？北京新病例暴增逾千 社区交叉感染失控</a></li>
 <li><a href="/ssgc/20221122/1814741.md">习近平密接后将迎古共书记说明什么？</a></li>
-<li><a href="/baitai/20221123/1814887.md">习二十大「赢者通吃」赵紫阳前智囊揭背后两个原因</a></li>
+<li><a href="/baitai/20221123/1814832.md">中南海也静默了？北京新病例暴增逾千 社区交叉感染失控</a></li>
 <li><a href="/baitai/20221123/1814986.md">郑州富士康暴动 警察发射催泪瓦斯 员工用石块回击</a></li>
+<li><a href="/baitai/20221123/1814887.md">习二十大「赢者通吃」赵紫阳前智囊揭背后两个原因</a></li>
 <li><a href="/cbnews/20221123/1814948.md">〖微博谈〗以韭菜之身意淫镰刀之爽利</a></li>
 <li><a href="/cnnews/20221123/1814938.md">亚裔妹纸独坐飞机竟被赶下机 这个理由 全网吵翻</a></li>
 <li><a href="/comments/20221123/1814864.md">李铁出事内幕？世界杯带货小哥爆…… 【老北京茶馆11/22/2022】</a></li>
 <li><a href="/sohnews/20221123/1814844.md">“世界杯有麻烦？以色列军事最高情报将领：伊朗可能发动袭击！”ShitaoTV - 04 (22 /11/22) 阿根廷输了</a></li>
+<li><a href="/baitai/20221123/1814851.md">【红朝观察】「政治冷宫」供销社与习近平秘书</a></li>
+<li><a href="/baitai/20221122/1814672.md">哈佛教授：简单做一事缓解失眠</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221123/1815074.md" target="_blank">大陆境内抵沪0＋5？上海：未满5天禁入公共场所</a></li>
 <li><a href="/topimagenews/20221123/1815060.md" target="_blank">北京首都机场紧急通知：明起须附48小时内“核酸阴”证明才准进</a></li>
 <li><a href="/topimagenews/20221123/1815057.md" target="_blank">警棍、防暴盾牌出动！富士康员工与中共警察对峙…</a></li>
 <li><a href="/topimagenews/20221123/1815049.md" target="_blank">习近平杀鸡儆猴 中南海都静默了？【阿波罗网报道】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221121/1814187.md" target="_blank">单日新增2万例 武汉传言封城 民众疯抢卖场痛骂:把人心态搞崩</a></li>
 <li><a href="/topimagenews/20221121/1814182.md" target="_blank">保障金正恩安全 朝鲜加强监视百姓力度…</a></li>
 <li><a href="/topimagenews/20221121/1814152.md" target="_blank">【微博精粹】千万别让卫健委看到这幅古人“做核酸”壁画</a></li>
-<li><a href="/topimagenews/20221121/1814145.md" target="_blank">全球“百万人亡”？盲眼龙婆预言2023世界面临5大灾难</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 <li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
 
 </ul>
 </div>
