@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221123/1815049.md">习近平杀鸡儆猴 中南海都静默了？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221123/1815057.md">警棍、防暴盾牌出动！富士康员工与中共警察对峙…</a></li>
 <li><a href="/topimagenews/20221123/1815042.md">骂习近平“偏执”?大外宣要造反？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221123/1815057.md">警棍、防暴盾牌出动！富士康员工与中共警察对峙…</a></li>
 <li><a href="/topimagenews/20221123/1815138.md">习近平欲摆脱美中脱钩梦魇，可能正在考虑这政策；习近平可用经济手段清零中...</a></li>
 <li><a href="/sohnews/20221123/1815030.md">身上“零件”没了！湖北发现失踪少年遗体；多省爆少年密集“蒸发”，公安出奇沉默；中共清零风怎么了？地方按“文件”放松，中央派“专员”收紧；中共党官最知体制内幕，胡锦涛公主润出中国 ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/headline/20221123/1815104.md">【铁腕清零】内地网上疯传「十问」文章质问当局10条防疫问题 要求正面回应</a></li>
@@ -21,12 +21,12 @@
 <li><a href="/comments/20221124/1815270.md">评论｜刘青：习近平一代为何异常凶残</a></li>
 <li><a href="/comments/20221124/1815257.md">中国防疫引恐慌！传武警入富士康镇压 郑州市府：不再招聘外省人</a></li>
 <li><a href="/sohnews/20221124/1815245.md">再曝发冲突，大批特警已到达富士康！国内各媒体已开始封号、限流。</a></li>
+<li><a href="/cnnews/20221124/1815423.md">习李不同调硬碰硬 国务院连发4文件 石家庄挨批</a></li>
 <li><a href="/lifebaike/20221123/1815076.md">脑梗的“源头”或被揪出，肥肉未上榜，第一名深受很多老年人喜欢</a></li>
 <li><a href="/sohnews/20221124/1815237.md">“即时突发！郑州富士康员工 今晚爆发大冲突⋯⋯！”《今日点击》 (23/11/22) 推翻警车 厂区纵火 警民铁棍冲突 ⋯⋯ 厂方刚刚投降🏳️？</a></li>
-<li><a href="/sohnews/20221123/1815153.md">陈破空：郑州爆发起义！富士康园区激烈战斗！三万军警弹压，十万工人反攻。美国苹果公司震动！宣布iPhone14延期。直播与互动。美东11月23日早8点30、即中港台11月23日晚9点30</a></li>
 <li><a href="/comments/20221124/1815309.md">惊呆！习教训小土豆之前，还发生过这一段…… 【老北京茶馆11/23/2022】</a></li>
+<li><a href="/sohnews/20221123/1815153.md">陈破空：郑州爆发起义！富士康园区激烈战斗！三万军警弹压，十万工人反攻。美国苹果公司震动！宣布iPhone14延期。直播与互动。美东11月23日早8点30、即中港台11月23日晚9点30</a></li>
 <li><a href="/yule/20221124/1815284.md">大S汪小菲销毁竟非千万床垫！真实价格曝光“连床王零头都不到”</a></li>
-<li><a href="/comments/20221123/1815023.md">宋国诚: 中国即将到来的第三重危机</a></li>
 <li><a href="/topimagenews/20221123/1815060.md">北京首都机场紧急通知：明起须附48小时内“核酸阴”证明才准进</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221124/1815477.md" target="_blank">郑州富士康江山反了！成了火焰山；世界盃赛场狂喊中国队？习近平指挥打江山，遭《十问》破局</a></li>
+<li><a href="/comments/20221124/1815473.md" target="_blank">男子隐居森林32年无水电自称啥都不缺</a></li>
+<li><a href="/comments/20221124/1815472.md" target="_blank">觅真:请不要落入践踏宪法和法律的陷阱</a></li>
+<li><a href="/comments/20221124/1815471.md" target="_blank">从内部文件冒充司法依据看中共反法治</a></li>
 <li><a href="/comments/20221124/1815461.md" target="_blank">频繁假阳性，发国难财的黑心公司该管管了</a></li>
 <li><a href="/comments/20221124/1815447.md" target="_blank">伊朗来信：一场选择自由的革命正席卷伊朗</a></li>
 <li><a href="/comments/20221124/1815422.md" target="_blank">记海珠短暂的“五口通商”时代</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20221124/1815257.md" target="_blank">中国防疫引恐慌！传武警入富士康镇压 郑州市府：不再招聘外省人</a></li>
 <li><a href="/comments/20221123/1815225.md" target="_blank">时事大家谈：“不动摇不走样”：中国疫情防控为何骤然收紧？</a></li>
 <li><a href="/comments/20221123/1815213.md" target="_blank">时事大家谈：疫情民生两重天：世界杯给中国人什么启示？</a></li>
-<li><a href="/comments/20221123/1815212.md" target="_blank">时事大家谈：疫情民生两重天：世界杯给中国人什么启示？“不动摇不走样”：中国疫情防控为何骤然收紧？</a></li>
-<li><a href="/comments/20221123/1815210.md" target="_blank">【梁京评论】2023的全球噩梦：普习再联手</a></li>
-<li><a href="/comments/20221123/1815172.md" target="_blank">程翔: 艺术创新不能凌历史事实 —- 谈《忧郁之岛》引起的争论</a></li>
-<li><a href="/comments/20221123/1815156.md" target="_blank">忆李怡 – 程翔</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
 
 </ul>
 </div>
