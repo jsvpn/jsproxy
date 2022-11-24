@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20221124/1815459.md">富士康满脸鲜血的工人受伤躺地 鸿海的声明泄露了…</a></li>
 <li><a href="/comments/20221124/1815270.md">评论｜刘青：习近平一代为何异常凶残</a></li>
 <li><a href="/renquan/20221124/1815331.md">郑州富士康再起群体事件</a></li>
-<li><a href="/comments/20221124/1815257.md">中国防疫引恐慌！传武警入富士康镇压 郑州市府：不再招聘外省人</a></li>
 <li><a href="/sohnews/20221124/1815534.md">文睿：网上炸了，北京站闭站；朝鲜日报：中国要失控</a></li>
-<li><a href="/comments/20221124/1815309.md">惊呆！习教训小土豆之前，还发生过这一段…… 【老北京茶馆11/23/2022】</a></li>
 <li><a href="/comments/20221124/1815552.md">富士康抗议由郭台铭故意激起；不让撤出中国他会引爆更大民变！ （一平论政2022/11/23)</a></li>
+<li><a href="/comments/20221124/1815309.md">惊呆！习教训小土豆之前，还发生过这一段…… 【老北京茶馆11/23/2022】</a></li>
 <li><a href="/cnnews/20221124/1815314.md">死于“三个自信”齐奥塞斯库9天赴黄泉</a></li>
 <li><a href="/topimagenews/20221124/1815487.md">中共野心惊人！竟然公开声称...【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221124/1815515.md">💥十几人被打S！富士康闹大了，好多人要赶紧走；大批警车入夜集结；河南密集出事，习近平下重话狠敲河南官场；富士康“纳新”，好多是退伍兵；世界杯德国又爆冷，日本大逆转｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20221124/1815404.md">抽空结个婚？江苏新娘坐礼车竟“拿手机谈公事” 新郎：习惯了</a></li>
 <li><a href="/cnnews/20221124/1815553.md">扼腕！广州一名新冠患者自杀，入方舱不到48小时</a></li>
+<li><a href="/baitai/20221124/1815598.md">南北抗争同步爆发 中共已无力解决</a></li>
 <li><a href="/sohnews/20221124/1815276.md">昨天的香港，今天的富士康，明天的全中国</a></li>
+<li><a href="/topimagenews/20221124/1815642.md">高喊“放开”！上海帮拉拢民意，大战习近平【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221124/1815480.md">〖兲朝浮世绘〗今年河南真是太热闹了，头条都上了好几次了</a></li>
 <li><a href="/topimagenews/20221124/1815412.md">北京居委会警告：别出行政区，出去就回不来了</a></li>
 <li><a href="/ssgc/20221124/1815504.md">李克强主持会议抓经济 未提防疫</a></li>
 <li><a href="/ssgc/20221124/1815361.md">〖微博谈〗工人运动要登场？</a></li>
-<li><a href="/baitai/20221124/1815598.md">南北抗争同步爆发 中共已无力解决</a></li>
-<li><a href="/topimagenews/20221124/1815642.md">高喊“放开”！上海帮拉拢民意，大战习近平【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221124/1815542.md">怀孕被逼做这事，她把“婴尸”送夫家，公婆崩溃</a></li>
 <li><a href="/yule/20221124/1815284.md">大S汪小菲销毁竟非千万床垫！真实价格曝光“连床王零头都不到”</a></li>
+<li><a href="/baitai/20221124/1815311.md">迫在眉睫的危机？中国日新增病例近3万 专家担心数位暴政即将到来</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221125/1815693.md" target="_blank">冲突画面曝光！郑州富士康乌合之众抗争 “大白特警”钻洞逃</a></li>
+<li><a href="/comments/20221125/1815692.md" target="_blank">俄军损失惨重 邻近乌克兰边境惊见“战车坟场”</a></li>
+<li><a href="/comments/20221125/1815691.md" target="_blank">千年假金币竟是真品！研究还找回“消失的古罗马皇帝”</a></li>
+<li><a href="/comments/20221125/1815689.md" target="_blank">欧盟高层下月初与习近平会面 讨论全球挑战</a></li>
 <li><a href="/comments/20221125/1815688.md" target="_blank">李克强“降准”话音刚落 官方急抛救地产16条</a></li>
 <li><a href="/comments/20221125/1815663.md" target="_blank">【感恩节特供】一生必看一次的视频：万物、爱、感恩……</a></li>
 <li><a href="/comments/20221124/1815648.md" target="_blank">时事大家谈：富士康暴动事件: 中国网格化管理变成纸老虎？从广州到曼彻斯特：为何习时代的中国暴力遍地？</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20221124/1815420.md" target="_blank">云梦公子: 疫情及防疫十问</a></li>
 <li><a href="/comments/20221124/1815374.md" target="_blank">钟原：外行领导和腐败 中国足球梦断世界杯</a></li>
 <li><a href="/comments/20221124/1815373.md" target="_blank">周晓辉：台湾上校承诺投降中共被起诉透信号</a></li>
-<li><a href="/comments/20221124/1815372.md" target="_blank">颜丹：卡塔尔世界杯为何让中国人“燃”不起来？</a></li>
-<li><a href="/comments/20221124/1815367.md" target="_blank">活在不同星球？中国网传“十问”质疑“清零” 官方全网封杀灭火</a></li>
-<li><a href="/comments/20221124/1815366.md" target="_blank">蚂蚁集团据报将被当局重罚10亿美元</a></li>
-<li><a href="/comments/20221124/1815365.md" target="_blank">文昭：郑州富士康员工大暴动！清零以来最大民变、仍在发展！中国成「囚徒困境」超级真人秀</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 <li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 
 </ul>
 </div>
