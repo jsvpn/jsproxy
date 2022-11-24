@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/baitai/20221124/1815287.md">习近平震怒 大火烧向河南官场 楼阳生仕途生悬念</a></li>
 <li><a href="/cnnews/20221124/1815423.md">习李不同调硬碰硬 国务院连发4文件 石家庄挨批</a></li>
-<li><a href="/topimagenews/20221124/1815459.md">富士康满脸鲜血的工人受伤躺地 鸿海的声明泄露了…</a></li>
 <li><a href="/sohnews/20221124/1815245.md">再曝发冲突，大批特警已到达富士康！国内各媒体已开始封号、限流。</a></li>
+<li><a href="/topimagenews/20221124/1815459.md">富士康满脸鲜血的工人受伤躺地 鸿海的声明泄露了…</a></li>
 <li><a href="/renquan/20221124/1815331.md">郑州富士康再起群体事件</a></li>
-<li><a href="/comments/20221124/1815257.md">中国防疫引恐慌！传武警入富士康镇压 郑州市府：不再招聘外省人</a></li>
 <li><a href="/comments/20221124/1815270.md">评论｜刘青：习近平一代为何异常凶残</a></li>
+<li><a href="/comments/20221124/1815257.md">中国防疫引恐慌！传武警入富士康镇压 郑州市府：不再招聘外省人</a></li>
 <li><a href="/sohnews/20221124/1815237.md">“即时突发！郑州富士康员工 今晚爆发大冲突⋯⋯！”《今日点击》 (23/11/22) 推翻警车 厂区纵火 警民铁棍冲突 ⋯⋯ 厂方刚刚投降🏳️？</a></li>
 <li><a href="/comments/20221124/1815309.md">惊呆！习教训小土豆之前，还发生过这一段…… 【老北京茶馆11/23/2022】</a></li>
 <li><a href="/topimagenews/20221124/1815487.md">中共野心惊人！竟然公开声称...【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221124/1815314.md">死于“三个自信”齐奥塞斯库9天赴黄泉</a></li>
 <li><a href="/sohnews/20221124/1815515.md">💥十几人被打S！富士康闹大了，好多人要赶紧走；大批警车入夜集结；河南密集出事，习近平下重话狠敲河南官场；富士康“纳新”，好多是退伍兵；世界杯德国又爆冷，日本大逆转｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/sohnews/20221124/1815534.md">文睿：网上炸了，北京站闭站；朝鲜日报：中国要失控</a></li>
 <li><a href="/cnnews/20221124/1815404.md">抽空结个婚？江苏新娘坐礼车竟“拿手机谈公事” 新郎：习惯了</a></li>
 <li><a href="/sohnews/20221124/1815276.md">昨天的香港，今天的富士康，明天的全中国</a></li>
-<li><a href="/sohnews/20221124/1815534.md">文睿：网上炸了，北京站闭站；朝鲜日报：中国要失控</a></li>
 <li><a href="/ssgc/20221124/1815480.md">〖兲朝浮世绘〗今年河南真是太热闹了，头条都上了好几次了</a></li>
 <li><a href="/ssgc/20221124/1815361.md">〖微博谈〗工人运动要登场？</a></li>
-<li><a href="/yule/20221124/1815284.md">大S汪小菲销毁竟非千万床垫！真实价格曝光“连床王零头都不到”</a></li>
 <li><a href="/topimagenews/20221124/1815412.md">北京居委会警告：别出行政区，出去就回不来了</a></li>
+<li><a href="/yule/20221124/1815284.md">大S汪小菲销毁竟非千万床垫！真实价格曝光“连床王零头都不到”</a></li>
+<li><a href="/ssgc/20221124/1815504.md">李克强主持会议抓经济 未提防疫</a></li>
 <li><a href="/cbnews/20221124/1815304.md">绝无仅有：他与320匹狼同吃同住，7年后成“狼王”</a></li>
 <li><a href="/baitai/20221124/1815311.md">迫在眉睫的危机？中国日新增病例近3万 专家担心数位暴政即将到来</a></li>
 <li><a href="/ssgc/20221124/1815301.md">从大逃亡到大暴动 "富士康2.0"第二晚骚乱难平</a></li>
-<li><a href="/ssgc/20221124/1815504.md">李克强主持会议抓经济 未提防疫</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221124/1815624.md" target="_blank">时事大家谈：富士康暴动事件: 中国网格化管理变成纸老虎？从广州到曼彻斯特：为何习时代的中国暴力遍地？习近平找华尔街帮忙游说，北京幕后外交图什么？&#160;</a></li>
+<li><a href="/comments/20221124/1815620.md" target="_blank">【文韬政论】二十大后习总书记「强国梦」与「中国梦」的延续</a></li>
 <li><a href="/comments/20221124/1815587.md" target="_blank">【未普评论】谈美国对华战略大辩论</a></li>
 <li><a href="/comments/20221124/1815552.md" target="_blank">富士康抗议由郭台铭故意激起；不让撤出中国他会引爆更大民变！ （一平论政2022/11/23)</a></li>
 <li><a href="/comments/20221124/1815568.md" target="_blank">法轮功奇迹：股骨头坏死神奇康复案例（2）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221124/1815358.md" target="_blank">【围炉夜话11/23】富士康大暴动，清零3年的怒火爆发了？美媒曝美中私下“接触”；川普会重回推特吗？｜11/23/2022</a></li>
 <li><a href="/comments/20221124/1815342.md" target="_blank">欢迎去看最新影片👏🏻👏🏻神祕藏区故事🌸🌸🌸关注我的IG：fuyao_wjzm</a></li>
 <li><a href="/comments/20221124/1815309.md" target="_blank">惊呆！习教训小土豆之前，还发生过这一段…… 【老北京茶馆11/23/2022】</a></li>
-<li><a href="/comments/20221124/1815308.md" target="_blank">【独家重磅】李燕铭：习二十大后清洗行动升级 直逼江泽民核心罪恶 山东中医药大学原党委书记潍坊医学院原院长于富华落马 深涉活摘器官黑幕 潍坊医学院特聘武警总医院院长及北京协和医学院肺移植专家 山东中医药大学附属医院特聘济南军区总医院肾移植专家 细思极恐！习点江曾死穴清洗江绵恒暗黑帝国（二九） 习近平清洗山东帮（九）</a></li>
-<li><a href="/comments/20221124/1815270.md" target="_blank">评论｜刘青：习近平一代为何异常凶残</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
 <li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
 
 </ul>
 </div>
