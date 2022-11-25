@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20221125/1815860.md">20221125直播：天安门肃杀照片全球疯传，北京正在慢慢封闭，来自上海的内部消息；还在抓经济，李克强最后的悲鸣；普京的问题是：没有退路。（20221125 第1014期）</a></li>
 <li><a href="/topimagenews/20221125/1815910.md">【微博精粹】共产党最害怕的学生运动不见了 更害怕的工人运动来了</a></li>
 <li><a href="/comments/20221125/1815900.md">“后党”已经成型还在壮大，彭丽媛曾表示要学习吕后或武则天！习家军必然分裂，宫斗内战皆有可能！ （终局风云8，2022/11/24)</a></li>
-<li><a href="/cnnews/20221125/1815763.md">惹怒江泽民 刘华清最疼幺女儿媳被串起来打</a></li>
 <li><a href="/topimagenews/20221125/1816038.md">抗议成功！网友：小区楼下要安铁皮，我冲锋了！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221126/1816095.md">中国清零之乱酝酿政治危机？ 收场仅剩一条路</a></li>
 <li><a href="/renquan/20221125/1815978.md">伊朗队的抗议行动在中国激起巨大波澜</a></li>
 <li><a href="/topimagenews/20221125/1815858.md">中组部部长陈希发文：要重用这样的人【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221125/1815871.md">胡锡进被封在家 评论区全是这样的声音…..</a></li>
-<li><a href="/topimagenews/20221125/1815815.md">重庆一勇士当街怒吼：不自由和穷我们全占了！成为今日金句【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221126/1816114.md">网传大量视频乌市人民上街包围政府 传火灾实际死亡44人 多视频</a></li>
+<li><a href="/topimagenews/20221125/1815815.md">重庆一勇士当街怒吼：不自由和穷我们全占了！成为今日金句【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221125/1815792.md">🔥🔥大暴动❗中共调动20辆军车镇压富士康❗场面凄惨❗</a></li>
 <li><a href="/cbnews/20221125/1815995.md">富士康从“大逃疫”到“大抗议”</a></li>
-<li><a href="/topimagenews/20221125/1815911.md">大陆智能手机黄金年代结束？小米暴亏逾14亿元民币 揭背后致命伤</a></li>
 <li><a href="/topimagenews/20221126/1816113.md">新疆大火 国内被删热文：路是通的，他们不跑</a></li>
+<li><a href="/topimagenews/20221126/1816126.md">场面如推倒柏林墙！乌鲁木齐民众推开铁门 自行解封了！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221125/1815911.md">大陆智能手机黄金年代结束？小米暴亏逾14亿元民币 揭背后致命伤</a></li>
 <li><a href="/sohnews/20221125/1816043.md">中共转播世界怀，用人脸识别戴口罩！为了掩盖中国以外国家对病毒的开放，中共永远只会用欺骗来解决问题。</a></li>
 <li><a href="/sohnews/20221125/1815908.md">郑州又出事？火车过境要求关窗帘；富士康人又遭背后下手；日增超3万例！北京下令：全国建方舱；广东每个县都在建；重庆出了“陈胜吴广”，当众演讲揭黑幕！世界杯阿根廷险被逼平，C罗出风波｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20221125/1815801.md">普京手背出现“诡异紫斑” 紧抓桌沿双脚颤抖</a></li>
 <li><a href="/topimagenews/20221125/1815990.md">明年经济稳衰？美国“超大咖”给最后警告：小心了</a></li>
 <li><a href="/renquan/20221125/1816050.md">乌市疫情封控区火灾 通稿称10人死亡</a></li>
-<li><a href="/topimagenews/20221125/1815827.md">普丁气炸摔笔？CSTO成员国喊停战、拒签文件 对俄罗斯失去信心</a></li>
 <li><a href="/cbnews/20221125/1815909.md">江峰：1.2亿中国人感染的病毒，每年夺走27万中国人性命，比新冠厉害多了，为什麽不清零？ ！有多少人知道一个美国人拯救了所有的九零後零零後？【江峰漫谈20221124第584期】</a></li>
+<li><a href="/topimagenews/20221125/1815827.md">普丁气炸摔笔？CSTO成员国喊停战、拒签文件 对俄罗斯失去信心</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221126/1816172.md" target="_blank">二十条出台后，防疫不是宽了，是更严了</a></li>
 <li><a href="/comments/20221126/1816115.md" target="_blank">李燕铭：吉林省政协原副主席张晓霈主动投案 二十大后第五虎 四任吉林市委书记相继落马 张晓霈逾十同事或下属先行被查 五名厅官半个月内相继主动投案 中纪委重磅发文：零容忍决不是一句空话 主动投案才是唯一出路 习近平清洗吉林帮（八）</a></li>
 <li><a href="/comments/20221126/1816107.md" target="_blank">专家评拜习会结局：相逢一笑“添”恩仇</a></li>
 <li><a href="/comments/20221126/1816105.md" target="_blank">新疆高楼火灾19人死伤 防疫栅栏疑堵住消防车</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221125/1815663.md" target="_blank">【感恩节特供】一生必看一次的视频：万物、爱、感恩……</a></li>
 <li><a href="/comments/20221124/1815648.md" target="_blank">时事大家谈：富士康暴动事件: 中国网格化管理变成纸老虎？从广州到曼彻斯特：为何习时代的中国暴力遍地？</a></li>
 <li><a href="/comments/20221124/1815632.md" target="_blank">时事大家谈：习近平找华尔街帮忙游说，北京幕后外交图什么？&#160;</a></li>
-<li><a href="/comments/20221124/1815624.md" target="_blank">时事大家谈：富士康暴动事件: 中国网格化管理变成纸老虎？从广州到曼彻斯特：为何习时代的中国暴力遍地？习近平找华尔街帮忙游说，北京幕后外交图什么？&#160;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
 
 </ul>
 </div>
