@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221126/1816126.md">场面如推倒柏林墙！乌鲁木齐民众推开铁门 自行解封了！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221126/1816174.md">习近平幕后外交：派团暗访美 秘密做了这2大让步</a></li>
 <li><a href="/cnnews/20221126/1816247.md">新疆老百姓抗议 武警连夜进场镇压</a></li>
 <li><a href="/cbnews/20221126/1816237.md">天亮时分：新疆大火，打响全民反抗第一枪，重庆也暴动；中共可能的应对和我们可能的反制策略（政论天下第859集 20221125）</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/topimagenews/20221126/1816329.md">魏京生：现在已至十字路口 这着火点，或被点燃【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221126/1816159.md">河北新娘出嫁 “乌克兰8美”走红毯新郎看呆</a></li>
 <li><a href="/cbnews/20221126/1816129.md">一场火灾的启示：能够想到的坏事都会发生</a></li>
+<li><a href="/topimagenews/20221126/1816485.md">今日最火视频 万人露脸实名合唱《国际歌》反抗中共暴政【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221126/1816157.md">新冠真的可怕吗？来自北京望京确诊者的公开信</a></li>
 <li><a href="/sohnews/20221126/1816415.md">陈破空：乌鲁木齐人民获胜！官府罕见败退。抗议波及全国各地。台湾中期选举，陆续开票中。习近平违规接待古巴主席。直播与互动。美东11月26日早8点、即中港台11月26日晚9点</a></li>
-<li><a href="/topimagenews/20221126/1816485.md">今日最火视频 万人露脸实名合唱《国际歌》反抗中共暴政【阿波罗网报道】</a></li>
-<li><a href="/baitai/20221126/1816125.md">疫情恶化民怨沸腾 习面临考验 专家担心或发生二次天安门事件</a></li>
 <li><a href="/ssgc/20221126/1816175.md">专栏 | 夜话中南海：习近平终于彻底剿灭了中央政法委里的“孙立军政治团伙”</a></li>
+<li><a href="/topimagenews/20221127/1816490.md">“不自由 毋宁死”中国大陆多所大学院校同时发出怒吼 【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221126/1816332.md">富士康风波没结束 或成中共垮台第一击</a></li>
 <li><a href="/cnnews/20221126/1816325.md">广东验核酸酿推挤踩踏 传多人被踩断手脚最小3岁</a></li>
 <li><a href="/cnnews/20221126/1816258.md">暴利引杀机!4华人赴美“种大麻”遭行刑式处决内行曝:黑吃黑是家常便饭</a></li>
 <li><a href="/headline/20221126/1816226.md">社媒不停删，网民不断发：乌鲁木齐致命大火引众怒</a></li>
 <li><a href="/cbnews/20221126/1816279.md">江峰：新疆两场火： 克拉玛依“ 让领导先走”，乌鲁木齐“领导不让你走”！重庆超人哥民众出手搭救；北京小区抗争後解封； 成都民众自行解封。全国抗议奋起，民进党退【江峰漫谈 20221125第585期】</a></li>
+<li><a href="/sohnews/20221126/1816432.md">18分钟273个高风险区“清零”！全国各地众高喊“解封”……如何安全智慧抗争？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221127/1816537.md" target="_blank">【独家重磅】李燕铭：国足主帅李铁落马深度内幕（三） 新任国家体育总局局长中央委员高志丹释放足坛大清洗信号 李铁应声被抓 足协原副主席落马 多省体育局官员被查 薄熙来是足坛由来已久的黑老大 操控地下赌球产业 聂卫平轰中国足球：扫黑应把足协全拿下 习清洗文宣系统争夺笔杆子（二六）</a></li>
 <li><a href="/comments/20221127/1816529.md" target="_blank">李燕铭：国足主帅李铁落马深度内幕（二） 李铁落马通告有玄机 留下四大悬念 足协内部下达封口令 前国脚爆料：足协一些人已经睡不着了！足坛面临新一轮清洗风暴 足协主席陈戌源或是背后大鱼 习清洗文宣系统争夺笔杆子（二五）</a></li>
 <li><a href="/comments/20221127/1816528.md" target="_blank">防疫外交有成就民进党却大败 这就是为什么？ “他”败选最遗憾</a></li>
 <li><a href="/comments/20221127/1816526.md" target="_blank">李燕铭：国足主帅李铁落马深度内幕（一） 李铁众目睽睽之下被带走 祸起3000万年薪被武汉举报 球迷列李铁六大罪状 杨晨李毅被约谈 李铁商业版图曝光 李铁在美国购买超级豪宅 妻女已移民美国 习清洗文宣系统争夺笔杆子（二四）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221126/1816172.md" target="_blank">二十条出台后，防疫不是宽了，是更严了</a></li>
 <li><a href="/comments/20221126/1816115.md" target="_blank">李燕铭：吉林省政协原副主席张晓霈主动投案 二十大后第五虎 四任吉林市委书记相继落马 张晓霈逾十同事或下属先行被查 五名厅官半个月内相继主动投案 中纪委重磅发文：零容忍决不是一句空话 主动投案才是唯一出路 习近平清洗吉林帮（八）</a></li>
 <li><a href="/comments/20221126/1816107.md" target="_blank">专家评拜习会结局：相逢一笑“添”恩仇</a></li>
-<li><a href="/comments/20221126/1816105.md" target="_blank">新疆高楼火灾19人死伤 防疫栅栏疑堵住消防车</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
 <li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 
 </ul>
 </div>
