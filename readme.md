@@ -11,23 +11,23 @@
 <li><a href="/comments/20221125/1815900.md">“后党”已经成型还在壮大，彭丽媛曾表示要学习吕后或武则天！习家军必然分裂，宫斗内战皆有可能！ （终局风云8，2022/11/24)</a></li>
 <li><a href="/topimagenews/20221126/1816114.md">网传大量视频乌市人民上街包围政府 传火灾实际死亡44人 多视频</a></li>
 <li><a href="/cbnews/20221126/1816095.md">中国清零之乱酝酿政治危机？ 收场仅剩一条路</a></li>
-<li><a href="/topimagenews/20221125/1816038.md">抗议成功！网友：小区楼下要安铁皮，我冲锋了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221126/1816113.md">新疆大火 国内被删热文：路是通的，他们不跑</a></li>
-<li><a href="/topimagenews/20221125/1815858.md">中组部部长陈希发文：要重用这样的人【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221126/1816126.md">场面如推倒柏林墙！乌鲁木齐民众推开铁门 自行解封了！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221125/1816038.md">抗议成功！网友：小区楼下要安铁皮，我冲锋了！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221125/1815871.md">胡锡进被封在家 评论区全是这样的声音…..</a></li>
+<li><a href="/topimagenews/20221125/1815858.md">中组部部长陈希发文：要重用这样的人【阿波罗网报道】</a></li>
 <li><a href="/renquan/20221125/1815978.md">伊朗队的抗议行动在中国激起巨大波澜</a></li>
 <li><a href="/topimagenews/20221125/1815815.md">重庆一勇士当街怒吼：不自由和穷我们全占了！成为今日金句【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221125/1815995.md">富士康从“大逃疫”到“大抗议”</a></li>
+<li><a href="/topimagenews/20221126/1816118.md">吓得门卫无人敢动！成都人一把撕开封控带，集体冲出大门【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221125/1815911.md">大陆智能手机黄金年代结束？小米暴亏逾14亿元民币 揭背后致命伤</a></li>
 <li><a href="/sohnews/20221125/1816043.md">中共转播世界怀，用人脸识别戴口罩！为了掩盖中国以外国家对病毒的开放，中共永远只会用欺骗来解决问题。</a></li>
-<li><a href="/topimagenews/20221126/1816118.md">吓得门卫无人敢动！成都人一把撕开封控带，集体冲出大门【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221125/1815908.md">郑州又出事？火车过境要求关窗帘；富士康人又遭背后下手；日增超3万例！北京下令：全国建方舱；广东每个县都在建；重庆出了“陈胜吴广”，当众演讲揭黑幕！世界杯阿根廷险被逼平，C罗出风波｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20221125/1815990.md">明年经济稳衰？美国“超大咖”给最后警告：小心了</a></li>
-<li><a href="/topimagenews/20221125/1815801.md">普京手背出现“诡异紫斑” 紧抓桌沿双脚颤抖</a></li>
-<li><a href="/renquan/20221125/1816050.md">乌市疫情封控区火灾 通稿称10人死亡</a></li>
 <li><a href="/baitai/20221126/1816089.md">新疆人怒了！多个小区居民集体暴动要求解封</a></li>
+<li><a href="/renquan/20221125/1816050.md">乌市疫情封控区火灾 通稿称10人死亡</a></li>
 <li><a href="/cbnews/20221125/1815909.md">江峰：1.2亿中国人感染的病毒，每年夺走27万中国人性命，比新冠厉害多了，为什麽不清零？ ！有多少人知道一个美国人拯救了所有的九零後零零後？【江峰漫谈20221124第584期】</a></li>
+<li><a href="/topimagenews/20221126/1816121.md">习密接未满隔离期即见古巴共党头目 专家析清零防疫实质</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 <li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 
 </ul>
 </div>
