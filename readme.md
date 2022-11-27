@@ -7,18 +7,18 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221127/1816542.md">上海乌鲁木齐路学生和市民怒吼：共产党下台！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221127/1816539.md">上海民众高喊“共产党下台” “习近平下台”</a></li>
-<li><a href="/baitai/20221127/1816592.md">上海人猛！千人闹市高喊「共产党下台 习近平下台」</a></li>
 <li><a href="/topimagenews/20221127/1816632.md">北京大妈：我要找习近平，我找习近平！【阿波罗网报道】</a></li>
+<li><a href="/baitai/20221127/1816592.md">上海人猛！千人闹市高喊「共产党下台 习近平下台」</a></li>
 <li><a href="/cnnews/20221127/1816691.md">南京有学校保护学生 不让警察抓人</a></li>
 <li><a href="/topimagenews/20221127/1816552.md">星星之火正在燎原 更多大学雄起 反抗中共暴政【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221127/1816679.md">更震撼人心的消息今早传来！中国人迎来光明的时刻终将到来</a></li>
 <li><a href="/cbnews/20221127/1816621.md">天亮时分：出大事儿！上海喊出打倒共产党和打倒习近平的口号；各地抗争此起彼伏，中共准备镇压；民众最佳策略，与摊牌最好时机（政论天下第860集 20221126）</a></li>
 <li><a href="/sohnews/20221127/1816692.md">文睿：清华大学，白纸革命，真的有希望了</a></li>
-<li><a href="/topimagenews/20221127/1816595.md">西北政法大学一名学生背挂标语板被带走</a></li>
 <li><a href="/topimagenews/20221127/1816703.md">上写神秘方程！清华大学举纸抗议，碾压无数中共官员智商【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221127/1816745.md">武汉雄起！万人上街游行 反抗中共暴政【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20221127/1816568.md">上海人高喊共产党、习近平下台，11月26日晚，他们在上海市乌鲁木齐路，悼念24日的乌鲁木齐火灾死难者 #习近平 #共产党 #乌鲁木齐 #上海</a></li>
+<li><a href="/topimagenews/20221127/1816595.md">西北政法大学一名学生背挂标语板被带走</a></li>
 <li><a href="/topimagenews/20221127/1816688.md">华中科技大学公开信：关于封校和社会封控的宣言</a></li>
+<li><a href="/sohnews/20221127/1816568.md">上海人高喊共产党、习近平下台，11月26日晚，他们在上海市乌鲁木齐路，悼念24日的乌鲁木齐火灾死难者 #习近平 #共产党 #乌鲁木齐 #上海</a></li>
 <li><a href="/cnnews/20221127/1816687.md">清华大学雄起 举白纸 唱《义勇军进行曲》抗议中共暴政【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221127/1816628.md">民变悄悄出现在北京 习近平站在十字路口</a></li>
 <li><a href="/cnnews/20221127/1816754.md">昨天有抗议民众被抓 上海人民再次聚集乌鲁木齐路 高呼放人！【阿波罗网报道】</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
 <li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
 
 </ul>
 </div>
