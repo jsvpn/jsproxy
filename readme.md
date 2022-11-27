@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221127/1816542.md">上海乌鲁木齐路学生和市民怒吼：共产党下台！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221127/1816539.md">上海民众高喊“共产党下台” “习近平下台”</a></li>
-<li><a href="/topimagenews/20221126/1816485.md">今日最火视频 万人露脸实名合唱《国际歌》反抗中共暴政【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221127/1816490.md">“不自由 毋宁死”中国大陆多所大学院校同时发出怒吼 【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221127/1816592.md">上海人猛！千人闹市高喊「共产党下台 习近平下台」</a></li>
-<li><a href="/cnnews/20221127/1816691.md">南京有学校保护学生 不让警察抓人</a></li>
 <li><a href="/topimagenews/20221127/1816632.md">北京大妈：我要找习近平，我找习近平！【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221127/1816691.md">南京有学校保护学生 不让警察抓人</a></li>
 <li><a href="/topimagenews/20221127/1816552.md">星星之火正在燎原 更多大学雄起 反抗中共暴政【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221127/1816525.md">北京人也反了！数十个小区居民冲卡自行解封</a></li>
 <li><a href="/topimagenews/20221127/1816679.md">更震撼人心的消息今早传来！中国人迎来光明的时刻终将到来</a></li>
 <li><a href="/cbnews/20221127/1816621.md">天亮时分：出大事儿！上海喊出打倒共产党和打倒习近平的口号；各地抗争此起彼伏，中共准备镇压；民众最佳策略，与摊牌最好时机（政论天下第860集 20221126）</a></li>
 <li><a href="/topimagenews/20221127/1816595.md">西北政法大学一名学生背挂标语板被带走</a></li>
 <li><a href="/sohnews/20221127/1816692.md">文睿：清华大学，白纸革命，真的有希望了</a></li>
-<li><a href="/sohnews/20221127/1816568.md">上海人高喊共产党、习近平下台，11月26日晚，他们在上海市乌鲁木齐路，悼念24日的乌鲁木齐火灾死难者 #习近平 #共产党 #乌鲁木齐 #上海</a></li>
 <li><a href="/topimagenews/20221127/1816703.md">上写神秘方程！清华大学举纸抗议，碾压无数中共官员智商【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20221127/1816568.md">上海人高喊共产党、习近平下台，11月26日晚，他们在上海市乌鲁木齐路，悼念24日的乌鲁木齐火灾死难者 #习近平 #共产党 #乌鲁木齐 #上海</a></li>
 <li><a href="/topimagenews/20221127/1816688.md">华中科技大学公开信：关于封校和社会封控的宣言</a></li>
-<li><a href="/cnnews/20221127/1816685.md">太精彩了！大陆民众慷慨陈词：这是谁的所作所为？！【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221127/1816628.md">民变悄悄出现在北京 习近平站在十字路口</a></li>
 <li><a href="/cnnews/20221127/1816687.md">清华大学雄起 举白纸 唱《义勇军进行曲》抗议中共暴政【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20221127/1816624.md">文睿：“共产党下台”疯传，人民日报发警告，习要大动干戈</a></li>
+<li><a href="/cnnews/20221127/1816685.md">太精彩了！大陆民众慷慨陈词：这是谁的所作所为？！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221127/1816502.md">全国人民齐动手，自行解封！党官无言以对，他们都想反习</a></li>
-<li><a href="/cnnews/20221127/1816546.md">习近平正与世界拼权力</a></li>
+<li><a href="/sohnews/20221127/1816624.md">文睿：“共产党下台”疯传，人民日报发警告，习要大动干戈</a></li>
 <li><a href="/cnnews/20221127/1816745.md">武汉雄起！万人上街游行 反抗中共暴政【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221127/1816546.md">习近平正与世界拼权力</a></li>
+<li><a href="/topimagenews/20221127/1816658.md">【微博精粹】中国人一次次坚持对匪说“不” 就是现在要做的最重要的事</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221127/1816792.md" target="_blank">李燕铭：政治局委员刘国中传候任副总理 曾与栗战书共事 之江新军赵一德接替刘国中升任陕西省委书记 赵一德曾与之江新军五名国级高官共事 二十大高层人事大战（七三） 习近平清洗陕西帮（一）</a></li>
 <li><a href="/comments/20221127/1816777.md" target="_blank">上海今夜注定不宁静！警察暴力抓捕声援乌鲁木齐的民众</a></li>
 <li><a href="/comments/20221127/1816764.md" target="_blank">悼乌鲁木齐火灾 中国多所大学掀抗议潮 包括习近平母校清华</a></li>
 <li><a href="/comments/20221127/1816753.md" target="_blank">德语媒体：不惜代价遏制中国的美国</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221127/1816584.md" target="_blank">颜丹：新疆再现“平庸之恶” 堪比纳粹看守</a></li>
 <li><a href="/comments/20221127/1816583.md" target="_blank">李明：疫情使中共走向终结</a></li>
 <li><a href="/comments/20221127/1816582.md" target="_blank">袁斌：当越来越多中国人喊出“打倒共产党”时</a></li>
-<li><a href="/comments/20221127/1816581.md" target="_blank">秦时：清零让中共陷四大危机 政治风险走高</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
 <li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 
 </ul>
 </div>
