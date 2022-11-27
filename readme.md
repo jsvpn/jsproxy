@@ -18,16 +18,16 @@
 <li><a href="/sohnews/20221126/1816415.md">陈破空：乌鲁木齐人民获胜！官府罕见败退。抗议波及全国各地。台湾中期选举，陆续开票中。习近平违规接待古巴主席。直播与互动。美东11月26日早8点、即中港台11月26日晚9点</a></li>
 <li><a href="/baitai/20221127/1816525.md">北京人也反了！数十个小区居民冲卡自行解封</a></li>
 <li><a href="/baitai/20221126/1816332.md">富士康风波没结束 或成中共垮台第一击</a></li>
-<li><a href="/cnnews/20221126/1816325.md">广东验核酸酿推挤踩踏 传多人被踩断手脚最小3岁</a></li>
-<li><a href="/headline/20221126/1816462.md">乌鲁木齐大火后 中国多所大学传声援与抗议活动</a></li>
 <li><a href="/topimagenews/20221127/1816595.md">西北政法大学一名学生背挂标语板被带走</a></li>
-<li><a href="/cnnews/20221127/1816546.md">习近平正与世界拼权力</a></li>
 <li><a href="/sohnews/20221127/1816568.md">上海人高喊共产党、习近平下台，11月26日晚，他们在上海市乌鲁木齐路，悼念24日的乌鲁木齐火灾死难者 #习近平 #共产党 #乌鲁木齐 #上海</a></li>
-<li><a href="/sohnews/20221126/1816432.md">18分钟273个高风险区“清零”！全国各地众高喊“解封”……如何安全智慧抗争？</a></li>
+<li><a href="/cnnews/20221126/1816325.md">广东验核酸酿推挤踩踏 传多人被踩断手脚最小3岁</a></li>
+<li><a href="/cnnews/20221127/1816546.md">习近平正与世界拼权力</a></li>
+<li><a href="/headline/20221126/1816462.md">乌鲁木齐大火后 中国多所大学传声援与抗议活动</a></li>
 <li><a href="/baitai/20221127/1816592.md">上海人猛！千人闹市高喊「共产党下台 习近平下台」</a></li>
-<li><a href="/sohnews/20221127/1816502.md">全国人民齐动手，自行解封！党官无言以对，他们都想反习</a></li>
-<li><a href="/comments/20221127/1816522.md">专访蔡霞(下)：中国会变成西朝鲜？残酷的现实会让很多人醒过来；中共不敢放权的一个重要原因 ｜方菲时间 11/26/2022</a></li>
 <li><a href="/cbnews/20221127/1816621.md">天亮时分：出大事儿！上海喊出打倒共产党和打倒习近平的口号；各地抗争此起彼伏，中共准备镇压；民众最佳策略，与摊牌最好时机（政论天下第860集 20221126）</a></li>
+<li><a href="/sohnews/20221127/1816502.md">全国人民齐动手，自行解封！党官无言以对，他们都想反习</a></li>
+<li><a href="/sohnews/20221126/1816432.md">18分钟273个高风险区“清零”！全国各地众高喊“解封”……如何安全智慧抗争？</a></li>
+<li><a href="/topimagenews/20221127/1816632.md">北京大妈：我要找习近平，我找习近平！【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221127/1816679.md" target="_blank">更震撼人心的消息今早传来！中国人迎来光明的时刻终将到来</a></li>
 <li><a href="/topimagenews/20221127/1816658.md" target="_blank">【微博精粹】中国人一次次坚持对匪说“不” 就是现在要做的最重要的事</a></li>
 <li><a href="/topimagenews/20221127/1816641.md" target="_blank">2024谁主沉浮？蔡英文辞党主席 蒋介石孙子赢台北【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221127/1816632.md" target="_blank">北京大妈：我要找习近平，我找习近平！【阿波罗网报道】</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221125/1816038.md" target="_blank">抗议成功！网友：小区楼下要安铁皮，我冲锋了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221125/1815990.md" target="_blank">明年经济稳衰？美国“超大咖”给最后警告：小心了</a></li>
 <li><a href="/topimagenews/20221125/1815911.md" target="_blank">大陆智能手机黄金年代结束？小米暴亏逾14亿元民币 揭背后致命伤</a></li>
-<li><a href="/topimagenews/20221125/1815910.md" target="_blank">【微博精粹】共产党最害怕的学生运动不见了 更害怕的工人运动来了</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221127/1816678.md" target="_blank">李燕铭：上海街头高喊共产党下台 重庆超人哥高喊不自由毋宁死 北京民众迫使当局提前解除封控 乌鲁木齐民众冲向市政府 兰州民众冲卡掀翻核酸检测亭 广州海珠区民众推翻警车 郑州爆发六四以来最大规模抗争运动 中国密集爆发群起抗议 中国几十所高校一夜同时怒吼 年轻人敢于更公开地反抗中共 中共末日危机之全民反共（二）</a></li>
 <li><a href="/comments/20221127/1816674.md" target="_blank">【杰森视角】50多所大学加入全民抗争！上海人当街喊出：“习近平下台！” 新疆建设兵团连兴社区事件激发全国行动响应！中共以何种模式解体？中共政策在瓦解自身权力体系！ 北京警察告诉业主：有人拦你就报警！</a></li>
 <li><a href="/comments/20221127/1816672.md" target="_blank">王友群：正告海外中共特务 勿走害人害己的绝路</a></li>
 <li><a href="/comments/20221127/1816662.md" target="_blank">朝阳区一小区：被活活烫死的两个女生</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221127/1816578.md" target="_blank">网友：封了一百多天等来的不是自由，是大火是浓烟</a></li>
 <li><a href="/comments/20221127/1816548.md" target="_blank">周小平国骂胡锡进！党的好日子来了……</a></li>
 <li><a href="/comments/20221127/1816537.md" target="_blank">【独家重磅】李燕铭：国足主帅李铁落马深度内幕（三） 新任国家体育总局局长中央委员高志丹释放足坛大清洗信号 李铁应声被抓 足协原副主席落马 多省体育局官员被查 薄熙来是足坛由来已久的黑老大 操控地下赌球产业 聂卫平轰中国足球：扫黑应把足协全拿下 习清洗文宣系统争夺笔杆子（二六）</a></li>
-<li><a href="/comments/20221127/1816529.md" target="_blank">李燕铭：国足主帅李铁落马深度内幕（二） 李铁落马通告有玄机 留下四大悬念 足协内部下达封口令 前国脚爆料：足协一些人已经睡不着了！足坛面临新一轮清洗风暴 足协主席陈戌源或是背后大鱼 习清洗文宣系统争夺笔杆子（二五）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 <li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 
 </ul>
 </div>
