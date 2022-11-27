@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20221127/1816632.md">北京大妈：我要找习近平，我找习近平！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221127/1816552.md">星星之火正在燎原 更多大学雄起 反抗中共暴政【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221127/1816621.md">天亮时分：出大事儿！上海喊出打倒共产党和打倒习近平的口号；各地抗争此起彼伏，中共准备镇压；民众最佳策略，与摊牌最好时机（政论天下第860集 20221126）</a></li>
-<li><a href="/topimagenews/20221127/1816595.md">西北政法大学一名学生背挂标语板被带走</a></li>
 <li><a href="/baitai/20221127/1816525.md">北京人也反了！数十个小区居民冲卡自行解封</a></li>
+<li><a href="/topimagenews/20221127/1816595.md">西北政法大学一名学生背挂标语板被带走</a></li>
 <li><a href="/sohnews/20221126/1816415.md">陈破空：乌鲁木齐人民获胜！官府罕见败退。抗议波及全国各地。台湾中期选举，陆续开票中。习近平违规接待古巴主席。直播与互动。美东11月26日早8点、即中港台11月26日晚9点</a></li>
 <li><a href="/sohnews/20221127/1816568.md">上海人高喊共产党、习近平下台，11月26日晚，他们在上海市乌鲁木齐路，悼念24日的乌鲁木齐火灾死难者 #习近平 #共产党 #乌鲁木齐 #上海</a></li>
 <li><a href="/headline/20221126/1816462.md">乌鲁木齐大火后 中国多所大学传声援与抗议活动</a></li>
 <li><a href="/baitai/20221127/1816628.md">民变悄悄出现在北京 习近平站在十字路口</a></li>
+<li><a href="/topimagenews/20221127/1816679.md">更震撼人心的消息今早传来！中国人迎来光明的时刻终将到来</a></li>
 <li><a href="/sohnews/20221127/1816502.md">全国人民齐动手，自行解封！党官无言以对，他们都想反习</a></li>
 <li><a href="/sohnews/20221127/1816624.md">文睿：“共产党下台”疯传，人民日报发警告，习要大动干戈</a></li>
-<li><a href="/cnnews/20221127/1816546.md">习近平正与世界拼权力</a></li>
-<li><a href="/topimagenews/20221127/1816679.md">更震撼人心的消息今早传来！中国人迎来光明的时刻终将到来</a></li>
-<li><a href="/sohnews/20221126/1816432.md">18分钟273个高风险区“清零”！全国各地众高喊“解封”……如何安全智慧抗争？</a></li>
-<li><a href="/comments/20221127/1816522.md">专访蔡霞(下)：中国会变成西朝鲜？残酷的现实会让很多人醒过来；中共不敢放权的一个重要原因 ｜方菲时间 11/26/2022</a></li>
 <li><a href="/cnnews/20221127/1816691.md">南京有学校保护学生 不让警察抓人</a></li>
+<li><a href="/cnnews/20221127/1816546.md">习近平正与世界拼权力</a></li>
+<li><a href="/comments/20221127/1816522.md">专访蔡霞(下)：中国会变成西朝鲜？残酷的现实会让很多人醒过来；中共不敢放权的一个重要原因 ｜方菲时间 11/26/2022</a></li>
+<li><a href="/sohnews/20221126/1816432.md">18分钟273个高风险区“清零”！全国各地众高喊“解封”……如何安全智慧抗争？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cnnews/20220808/1768770.md" target="_blank">江泽民目空一切 却低估了此人的政治能量</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20221126/1816237.md" target="_blank">天亮时分：新疆大火，打响全民反抗第一枪，重庆也暴动；中共可能的应对和我们可能的反制策略（政论天下第859集 20221125）</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 
 </ul>
 </div>
