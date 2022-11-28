@@ -19,13 +19,13 @@
 <li><a href="/baitai/20221127/1816755.md">要变天？这一幕让中共恐惧 抓了2车人</a></li>
 <li><a href="/baitai/20221127/1816718.md">研创：事情正在发生变化 习近平坐在火山口</a></li>
 <li><a href="/topimagenews/20221127/1816658.md">【微博精粹】中国人一次次坚持对匪说“不” 就是现在要做的最重要的事</a></li>
+<li><a href="/cnnews/20221128/1816844.md">抗议正在全中国蔓延 103所高校爆发了…【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221127/1816697.md">💥中国正发生什么？！迄今最全整理：全国城市、大学生反清零，上海人高呼共党下台；“不自由毋宁死”响彻校园；北京几十小区居民自行解封；火灾激怒乌鲁木齐，全市游行；台湾两党选民谈观点｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20221127/1816674.md">【杰森视角】50多所大学加入全民抗争！上海人当街喊出：“习近平下台！” 新疆建设兵团连兴社区事件激发全国行动响应！中共以何种模式解体？中共政策在瓦解自身权力体系！ 北京警察告诉业主：有人拦你就报警！</a></li>
+<li><a href="/cnnews/20221128/1816815.md">避免示威聚集 上海警方拆“乌鲁木齐中路”路牌</a></li>
 <li><a href="/topimagenews/20221128/1816802.md">北京奋起抗暴 振臂高呼：不要核酸要自由！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221127/1816695.md">北京律师：请国家卫健委立即修改2020年第1号公告</a></li>
 <li><a href="/baitai/20221127/1816693.md">学潮前奏？中国多所大学聚众哀悼、抗议</a></li>
-<li><a href="/cnnews/20221128/1816815.md">避免示威聚集 上海警方拆“乌鲁木齐中路”路牌</a></li>
-<li><a href="/cnnews/20221128/1816844.md">抗议正在全中国蔓延 103所高校爆发了…【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221127/1816762.md">事情正在发生变化 习近平坐在火山口</a></li>
 <li><a href="/headline/20221127/1816747.md">上海市民悼念新疆遇难者喊习近平和共产党下台 多省市民众呼应</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221128/1816932.md" target="_blank">大陆芯片业孤立无援？外媒爆美断供后求助日企供货被拒</a></li>
 <li><a href="/topimagenews/20221128/1816913.md" target="_blank">中国各地反封控遭武警殴打拖行带走！ 老人叹：我们30年前就这样</a></li>
 <li><a href="/topimagenews/20221128/1816879.md" target="_blank">中国各地抗议！武汉女大生当街“遭3公安押走” 现场画面曝</a></li>
 <li><a href="/topimagenews/20221128/1816878.md" target="_blank">中国抗议急速蔓延！王丹：若中共敢开枪必定被推翻</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20221126/1816329.md" target="_blank">魏京生：现在已至十字路口 这着火点，或被点燃【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221126/1816320.md" target="_blank">乌鲁木齐宣布要解封？中国网友大战官媒！屡删屡发【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221126/1816318.md" target="_blank">俄乌战争还要再打 明年经济重演2009！专家：普丁生死存亡</a></li>
-<li><a href="/topimagenews/20221126/1816254.md" target="_blank">习近平企图一箭四雕 中共重判吴亦凡13年罚6亿 陆网炸锅【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221128/1816935.md" target="_blank">齐家贞：重庆来的“犯人小姐” 史诗般的动人故事</a></li>
+<li><a href="/comments/20221128/1816925.md" target="_blank">【实况】乌鲁木齐超人哥</a></li>
 <li><a href="/comments/20221128/1816923.md" target="_blank">李燕铭：历史性时刻！逾百所高校发动白纸革命 习近平母校清华大学学生集聚高呼民主法治 北京市民振臂高呼解封全中国 上海市民再聚乌鲁木齐路 武汉万人示威与上千警察对峙 成都近万人怒吼反对独裁 抗议活动剑指共产党 习近平进退失据陷两难 中共末日危机之全民反共（三）</a></li>
 <li><a href="/comments/20221128/1816920.md" target="_blank">新婚夜丈夫坐床边狂哭，原因让妻子大傻眼</a></li>
 <li><a href="/comments/20221128/1816919.md" target="_blank">当局心惊！中国民众抗议的新符号横空出世</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221127/1816655.md" target="_blank">最火视频！ 上海民众直接飙出了 “共产党下台！” 警察围堵 双方暴发冲突</a></li>
 <li><a href="/comments/20221127/1816654.md" target="_blank">网传北京社区工作者威胁居民：他的软肋是儿子</a></li>
 <li><a href="/comments/20221127/1816653.md" target="_blank">新疆大火幸存者披露：门被防疫锁死 无法逃生</a></li>
-<li><a href="/comments/20221127/1816652.md" target="_blank">郑州清零竟夜袭徐州警车开道巴士载870人丢包</a></li>
-<li><a href="/comments/20221127/1816651.md" target="_blank">湖南增加蓝色健康码 民众：层层加码限制</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 <li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
 <li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
 
 </ul>
 </div>
