@@ -13,21 +13,21 @@
 <li><a href="/cnnews/20221127/1816687.md">清华大学雄起 举白纸 唱《义勇军进行曲》抗议中共暴政【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221128/1816827.md">同行不散！北京抗议者高喊：不会走，我们都在</a></li>
 <li><a href="/cnnews/20221127/1816754.md">昨天有抗议民众被抓 上海人民再次聚集乌鲁木齐路 高呼放人！【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20221127/1816685.md">太精彩了！大陆民众慷慨陈词：这是谁的所作所为？！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221128/1816844.md">抗议正在全中国蔓延 103所高校爆发了…【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221127/1816770.md">成都人民怒吼：要人权要自由 反对独裁！【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221127/1816755.md">要变天？这一幕让中共恐惧 抓了2车人</a></li>
-<li><a href="/baitai/20221127/1816718.md">研创：事情正在发生变化 习近平坐在火山口</a></li>
 <li><a href="/cnnews/20221128/1816847.md">新疆爆警民冲突 新疆书记马兴瑞：要严打滋事者</a></li>
+<li><a href="/baitai/20221127/1816718.md">研创：事情正在发生变化 习近平坐在火山口</a></li>
 <li><a href="/cbnews/20221128/1816864.md">天亮时分：白纸革命席卷全国，仿佛“八九”再现，中共疑似在武汉开枪；呼吁军警，当镇压的枪械发到你们手中的时候，请调转枪口（政论天下第861集 20221127）</a></li>
-<li><a href="/sohnews/20221127/1816697.md">💥中国正发生什么？！迄今最全整理：全国城市、大学生反清零，上海人高呼共党下台；“不自由毋宁死”响彻校园；北京几十小区居民自行解封；火灾激怒乌鲁木齐，全市游行；台湾两党选民谈观点｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/cnnews/20221128/1816815.md">避免示威聚集 上海警方拆“乌鲁木齐中路”路牌</a></li>
 <li><a href="/cnnews/20221128/1816904.md">武汉，惊传枪声！改变世界的大事发生？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221128/1816802.md">北京奋起抗暴 振臂高呼：不要核酸要自由！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221128/1816878.md">中国抗议急速蔓延！王丹：若中共敢开枪必定被推翻</a></li>
-<li><a href="/topimagenews/20221128/1816822.md">见血才停！富士康大规模抗争 大白持棍包围狂扁</a></li>
-<li><a href="/cnnews/20221127/1816695.md">北京律师：请国家卫健委立即修改2020年第1号公告</a></li>
+<li><a href="/sohnews/20221127/1816697.md">💥中国正发生什么？！迄今最全整理：全国城市、大学生反清零，上海人高呼共党下台；“不自由毋宁死”响彻校园；北京几十小区居民自行解封；火灾激怒乌鲁木齐，全市游行；台湾两党选民谈观点｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cnnews/20221128/1816892.md">不要封控要自由！医曝上海复旦大学一张照片超震撼</a></li>
+<li><a href="/cnnews/20221128/1816815.md">避免示威聚集 上海警方拆“乌鲁木齐中路”路牌</a></li>
 <li><a href="/headline/20221128/1816836.md">中国多地抗议封控之际 央视删除世界杯球迷不戴口罩画面</a></li>
+<li><a href="/topimagenews/20221128/1816802.md">北京奋起抗暴 振臂高呼：不要核酸要自由！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221128/1816822.md">见血才停！富士康大规模抗争 大白持棍包围狂扁</a></li>
+<li><a href="/cbnews/20221128/1816914.md">北京清华大学生要求民主法治，1989年以来罕见</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221128/1816997.md" target="_blank">六四后最大抗议 外媒：“白纸革命”敲响“清零”政策丧钟</a></li>
 <li><a href="/topimagenews/20221128/1816987.md" target="_blank">白纸革命延烧 上海文具商传暂停销售A4白纸 澄清：正常贩售</a></li>
 <li><a href="/topimagenews/20221128/1816984.md" target="_blank">俄国会领袖：乌克兰前线 俄军士兵样样都缺 还得自己花钱买</a></li>
 <li><a href="/topimagenews/20221128/1816961.md" target="_blank">手眼通天！拥有35家核酸公司的张珊珊是谁?</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221127/1816539.md" target="_blank">上海民众高喊“共产党下台” “习近平下台”</a></li>
 <li><a href="/topimagenews/20221127/1816527.md" target="_blank">马斯克要公开Twitter封杀“拜家子”丑闻的内幕</a></li>
 <li><a href="/topimagenews/20221127/1816490.md" target="_blank">“不自由 毋宁死”中国大陆多所大学院校同时发出怒吼 【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221126/1816485.md" target="_blank">今日最火视频 万人露脸实名合唱《国际歌》反抗中共暴政【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
 <li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 
 </ul>
 </div>
