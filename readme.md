@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221128/1816827.md">同行不散！北京抗议者高喊：不会走，我们都在</a></li>
 <li><a href="/cnnews/20221128/1816844.md">抗议正在全中国蔓延 103所高校爆发了…【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221128/1816961.md">手眼通天！拥有35家核酸公司的张珊珊是谁?</a></li>
 <li><a href="/cnnews/20221128/1816892.md">不要封控要自由！医曝上海复旦大学一张照片超震撼</a></li>
+<li><a href="/topimagenews/20221128/1816961.md">手眼通天！拥有35家核酸公司的张珊珊是谁?</a></li>
 <li><a href="/cnnews/20221128/1816904.md">武汉，惊传枪声！改变世界的大事发生？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221128/1816864.md">天亮时分：白纸革命席卷全国，仿佛“八九”再现，中共疑似在武汉开枪；呼吁军警，当镇压的枪械发到你们手中的时候，请调转枪口（政论天下第861集 20221127）</a></li>
 <li><a href="/topimagenews/20221127/1816770.md">成都人民怒吼：要人权要自由 反对独裁！【阿波罗网报道】</a></li>
@@ -19,11 +19,11 @@
 <li><a href="/topimagenews/20221128/1817017.md">下手真狠！上海警察抓人最新视频曝光【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221128/1816879.md">中国各地抗议！武汉女大生当街“遭3公安押走” 现场画面曝</a></li>
 <li><a href="/headline/20221128/1816836.md">中国多地抗议封控之际 央视删除世界杯球迷不戴口罩画面</a></li>
-<li><a href="/cnnews/20221128/1816815.md">避免示威聚集 上海警方拆“乌鲁木齐中路”路牌</a></li>
+<li><a href="/cbnews/20221128/1817031.md">“白纸革命”吓坏中共 “国家公务员考试”紧急叫停…</a></li>
 <li><a href="/topimagenews/20221128/1816946.md">白纸革命遍地开花！上海勇哥冲第一线吼公安“为什么要站在人民的对立面”</a></li>
+<li><a href="/cnnews/20221128/1816815.md">避免示威聚集 上海警方拆“乌鲁木齐中路”路牌</a></li>
 <li><a href="/topimagenews/20221128/1816913.md">中国各地反封控遭武警殴打拖行带走！ 老人叹：我们30年前就这样</a></li>
 <li><a href="/topimagenews/20221128/1816822.md">见血才停！富士康大规模抗争 大白持棍包围狂扁</a></li>
-<li><a href="/cbnews/20221128/1817031.md">“白纸革命”吓坏中共 “国家公务员考试”紧急叫停…</a></li>
 <li><a href="/cbnews/20221128/1816880.md">中国多地爆抗争！《CNN》：现在是中国的历史性时刻</a></li>
 <li><a href="/topimagenews/20221128/1816802.md">北京奋起抗暴 振臂高呼：不要核酸要自由！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221128/1816867.md">习近平外交失去关系建构机会</a></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221128/1817117.md" target="_blank">【白纸革命】不只上海！ 中国曾发生抗议地区警力大增 香港居然也······</a></li>
+<li><a href="/comments/20221128/1817116.md" target="_blank">【白纸革命】藉自媒体背书 官方定调境外势力煽动的“颜色革命”</a></li>
+<li><a href="/comments/20221128/1817115.md" target="_blank">又一封控悲剧！广东财经大学女学生坠楼 单亲妈妈讨要真相却遭殴</a></li>
 <li><a href="/comments/20221128/1817109.md" target="_blank">【杜耀明评论】改善民生小修小补 「官商勾结」大步复常</a></li>
 <li><a href="/comments/20221128/1817086.md" target="_blank">怪象频出！洞庭湖底 惊现高层次密码？巨大古代河图洛书？燕尾铁枷，再度出世，镇湖之宝 解千年未解之谜！</a></li>
 <li><a href="/comments/20221128/1817081.md" target="_blank">王五四：谢谢，那些正常的年轻人</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221127/1816792.md" target="_blank">李燕铭：政治局委员刘国中传候任副总理 曾与栗战书共事 之江新军赵一德接替刘国中升任陕西省委书记 赵一德曾与之江新军五名国级高官共事 二十大高层人事大战（七三） 习近平清洗陕西帮（一）</a></li>
 <li><a href="/comments/20221127/1816777.md" target="_blank">上海今夜注定不宁静！警察暴力抓捕声援乌鲁木齐的民众</a></li>
 <li><a href="/comments/20221127/1816764.md" target="_blank">悼乌鲁木齐火灾 中国多所大学掀抗议潮 包括习近平母校清华</a></li>
-<li><a href="/comments/20221127/1816753.md" target="_blank">德语媒体：不惜代价遏制中国的美国</a></li>
-<li><a href="/comments/20221127/1816752.md" target="_blank">秦晋：乌鲁木齐大火烧出了中共即将崩塌的景象</a></li>
-<li><a href="/comments/20221127/1816690.md" target="_blank">如何应对中共警方传唤？孩子们，不要怕 被封号热文</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
 <li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
 
 </ul>
 </div>
