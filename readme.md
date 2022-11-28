@@ -6,11 +6,9 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20221128/1816892.md">不要封控要自由！医曝上海复旦大学一张照片超震撼</a></li>
-<li><a href="/cnnews/20221128/1816844.md">抗议正在全中国蔓延 103所高校爆发了…【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221128/1816961.md">手眼通天！拥有35家核酸公司的张珊珊是谁?</a></li>
 <li><a href="/cnnews/20221128/1816904.md">武汉，惊传枪声！改变世界的大事发生？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221128/1816864.md">天亮时分：白纸革命席卷全国，仿佛“八九”再现，中共疑似在武汉开枪；呼吁军警，当镇压的枪械发到你们手中的时候，请调转枪口（政论天下第861集 20221127）</a></li>
-<li><a href="/cnnews/20221128/1816847.md">新疆爆警民冲突 新疆书记马兴瑞：要严打滋事者</a></li>
 <li><a href="/cbnews/20221128/1816914.md">北京清华大学生要求民主法治，1989年以来罕见</a></li>
 <li><a href="/topimagenews/20221128/1817017.md">下手真狠！上海警察抓人最新视频曝光【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221128/1816915.md">【最新惊爆】武汉，惊传枪声！民众慌忙逃离…</a></li>
@@ -25,9 +23,11 @@
 <li><a href="/topimagenews/20221128/1816913.md">中国各地反封控遭武警殴打拖行带走！ 老人叹：我们30年前就这样</a></li>
 <li><a href="/lifebaike/20221128/1816991.md">北京大兴大屠杀</a></li>
 <li><a href="/cbnews/20221128/1816880.md">中国多地爆抗争！《CNN》：现在是中国的历史性时刻</a></li>
+<li><a href="/topimagenews/20221128/1817150.md">中国民怨炸锅 陆女飙骂镇压警：一年领24万，灵魂就被买通了？</a></li>
 <li><a href="/topimagenews/20221128/1816997.md">六四后最大抗议 外媒：“白纸革命”敲响“清零”政策丧钟</a></li>
 <li><a href="/cbnews/20221128/1816867.md">习近平外交失去关系建构机会</a></li>
-<li><a href="/topimagenews/20221128/1817150.md">中国民怨炸锅 陆女飙骂镇压警：一年领24万，灵魂就被买通了？</a></li>
+<li><a href="/headline/20221128/1817070.md">学生抗议潮 教育部严防境外势力介入   高校开紧急会议防串联</a></li>
+<li><a href="/topimagenews/20221128/1817030.md">中国新六四！乌鲁木齐一把火烧出全民觉醒 专家:抗共有这8大趋势…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221129/1817292.md" target="_blank">习近平的统治地位已经开始动摇</a></li>
 <li><a href="/topimagenews/20221129/1817192.md" target="_blank">北京市井小民加入“白纸运动”：我不要每天麻木过日子</a></li>
 <li><a href="/topimagenews/20221129/1817180.md" target="_blank">陆央视删世足赛观众无口罩画面引爆热议 网民：这是同一星球吗？</a></li>
 <li><a href="/topimagenews/20221128/1817171.md" target="_blank">抗议过度封控 大陆民众以代号与VPN突破网络封锁</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221127/1816770.md" target="_blank">成都人民怒吼：要人权要自由 反对独裁！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221127/1816703.md" target="_blank">上写神秘方程！清华大学举纸抗议，碾压无数中共官员智商【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221127/1816688.md" target="_blank">华中科技大学公开信：关于封校和社会封控的宣言</a></li>
-<li><a href="/topimagenews/20221127/1816679.md" target="_blank">更震撼人心的消息今早传来！中国人迎来光明的时刻终将到来</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 <li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
 <li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 
 </ul>
 </div>
