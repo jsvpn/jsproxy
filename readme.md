@@ -19,12 +19,12 @@
 <li><a href="/cbnews/20221128/1817031.md">“白纸革命”吓坏中共 “国家公务员考试”紧急叫停…</a></li>
 <li><a href="/topimagenews/20221128/1816879.md">中国各地抗议！武汉女大生当街“遭3公安押走” 现场画面曝</a></li>
 <li><a href="/topimagenews/20221128/1817072.md">北京惊传民众“踹烂核酸站”：我们要解封</a></li>
-<li><a href="/headline/20221128/1816836.md">中国多地抗议封控之际 央视删除世界杯球迷不戴口罩画面</a></li>
 <li><a href="/headline/20221128/1817063.md">北京示威被指「有境外势力」 群众：「是马克思和恩格斯吗？」</a></li>
-<li><a href="/topimagenews/20221128/1816946.md">白纸革命遍地开花！上海勇哥冲第一线吼公安“为什么要站在人民的对立面”</a></li>
+<li><a href="/headline/20221128/1816836.md">中国多地抗议封控之际 央视删除世界杯球迷不戴口罩画面</a></li>
 <li><a href="/cnnews/20221128/1817076.md">悲痛！从方舱出来后，兰州大学女教师跳楼身亡</a></li>
-<li><a href="/topimagenews/20221128/1816913.md">中国各地反封控遭武警殴打拖行带走！ 老人叹：我们30年前就这样</a></li>
+<li><a href="/topimagenews/20221128/1816946.md">白纸革命遍地开花！上海勇哥冲第一线吼公安“为什么要站在人民的对立面”</a></li>
 <li><a href="/sohnews/20221128/1817078.md">🔥抗争进入第四天, 北京四通桥人山人海“要自由”! 高校开始维稳, 开通“返乡专线”, 四川严防聚集抗议升级! 中国新篇章的序曲已经奏响, 抗共运动绵延不绝, 全民觉醒将成必然!【20221128】</a></li>
+<li><a href="/topimagenews/20221128/1816913.md">中国各地反封控遭武警殴打拖行带走！ 老人叹：我们30年前就这样</a></li>
 <li><a href="/lifebaike/20221128/1816991.md">北京大兴大屠杀</a></li>
 <li><a href="/topimagenews/20221128/1816822.md">见血才停！富士康大规模抗争 大白持棍包围狂扁</a></li>
 <li><a href="/cbnews/20221128/1816880.md">中国多地爆抗争！《CNN》：现在是中国的历史性时刻</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221129/1817253.md" target="_blank">李燕铭：白纸革命迅速传遍世界 中共推特灌爆色情广告掩盖 白宫声明：每个人都有和平抗议权利 德国总统：理解中国抗议者 联合国急促中国尊重和平抗议权利 中共逮捕英国记者遭强烈抗议 中共末日危机之全民反共（六）</a></li>
+<li><a href="/comments/20221129/1817245.md" target="_blank">习有多少坚持 权威就有多少受损</a></li>
 <li><a href="/comments/20221129/1817237.md" target="_blank">李燕铭：习近平十年来最大危机 权威遭遇罕见挑战 面临羞辱性撤退 白纸革命让习面临三难选择 中共迅速镇压白纸革命 北京可乐瓶抗议胎死腹中 消息人士：中共教育部紧急召集高校开会防学生串联 中共末日危机之全民反共（五）</a></li>
 <li><a href="/comments/20221129/1817199.md" target="_blank">李燕铭：习近平一人独尊后首个严重考验 白纸运动矛头指向习近平 出现政治诉求 稍一不慎就是六四翻版 学者分析白纸运动的成因以及后续可能发展 中共末日危机之全民反共（四）</a></li>
 <li><a href="/comments/20221129/1817197.md" target="_blank">时事大家谈: 解封呐喊变政治诉求，习近平跌下神坛</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221128/1816895.md" target="_blank">【实况】烽火连城！四通桥口号响彻中国</a></li>
 <li><a href="/comments/20221128/1816886.md" target="_blank">【首发】李德君：四问习近平：重建供销社是搞社会主义吗？</a></li>
 <li><a href="/comments/20221128/1816876.md" target="_blank">华中科技大学同济医学院学生公开信：关于封校和社会封控的宣言</a></li>
-<li><a href="/comments/20221128/1816849.md" target="_blank">独裁政权正在动摇 ！法媒： 中国人首次喊出“习近平，下台！”</a></li>
-<li><a href="/comments/20221128/1816848.md" target="_blank">巴黎悼念乌鲁木齐火灾死难者</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
 <li><a href="/cbnews/20221126/1816237.md" target="_blank">天亮时分：新疆大火，打响全民反抗第一枪，重庆也暴动；中共可能的应对和我们可能的反制策略（政论天下第859集 20221125）</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
 <li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
 
 </ul>
 </div>
