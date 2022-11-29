@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20221128/1817031.md">“白纸革命”吓坏中共 “国家公务员考试”紧急叫停…</a></li>
 <li><a href="/sohnews/20221128/1817078.md">🔥抗争进入第四天, 北京四通桥人山人海“要自由”! 高校开始维稳, 开通“返乡专线”, 四川严防聚集抗议升级! 中国新篇章的序曲已经奏响, 抗共运动绵延不绝, 全民觉醒将成必然!【20221128】</a></li>
-<li><a href="/topimagenews/20221129/1817292.md">习近平的统治地位已经开始动摇</a></li>
 <li><a href="/headline/20221128/1817063.md">北京示威被指「有境外势力」 群众：「是马克思和恩格斯吗？」</a></li>
+<li><a href="/topimagenews/20221129/1817292.md">习近平的统治地位已经开始动摇</a></li>
 <li><a href="/topimagenews/20221128/1817072.md">北京惊传民众“踹烂核酸站”：我们要解封</a></li>
 <li><a href="/cnnews/20221128/1817076.md">悲痛！从方舱出来后，兰州大学女教师跳楼身亡</a></li>
 <li><a href="/topimagenews/20221128/1817150.md">中国民怨炸锅 陆女飙骂镇压警：一年领24万，灵魂就被买通了？</a></li>
@@ -17,17 +17,17 @@
 <li><a href="/renquan/20221129/1817277.md">年终报道：大规模抗议下习近平还在找清零退路，“但中国已经快没时间了” </a></li>
 <li><a href="/headline/20221128/1817070.md">学生抗议潮 教育部严防境外势力介入   高校开紧急会议防串联</a></li>
 <li><a href="/cnnews/20221129/1817211.md">彭博：中共面临天安门事变来最大挑战 习近平没剩多少选择</a></li>
-<li><a href="/cbnews/20221128/1817151.md">中国这波抗争有多难得？外媒1句话形容：愤怒多到无法镇压</a></li>
 <li><a href="/topimagenews/20221128/1817030.md">中国新六四！乌鲁木齐一把火烧出全民觉醒 专家:抗共有这8大趋势…</a></li>
-<li><a href="/cbnews/20221129/1817244.md">中国这波抗争有多难得？外媒记者“1句话”形容</a></li>
+<li><a href="/cbnews/20221128/1817151.md">中国这波抗争有多难得？外媒1句话形容：愤怒多到无法镇压</a></li>
 <li><a href="/sohnews/20221128/1817047.md">💥上海抓300人？！武汉开Q了吗；北京、上海、武汉、成都等，均爆万人集会游行，大批公安清˘场，抗议烽火燃遍全中国；103所高校学生在行动，清华千人集会喊民主；媒体称“白纸革命”｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cbnews/20221129/1817244.md">中国这波抗争有多难得？外媒记者“1句话”形容</a></li>
 <li><a href="/comments/20221128/1817075.md">这是凌晨四点零八分的中国</a></li>
 <li><a href="/baitai/20221129/1817279.md">「白纸革命」还将延续？专家预计习近平或被迫公开面对</a></li>
 <li><a href="/topimagenews/20221129/1817180.md">陆央视删世足赛观众无口罩画面引爆热议 网民：这是同一星球吗？</a></li>
+<li><a href="/topimagenews/20221129/1817415.md">大陆影后发文疑挺白纸革命 悲叹：什么也做不了，只能在家中跺脚掉眼泪</a></li>
 <li><a href="/cnnews/20221128/1817044.md">马斯克给特斯拉员工的内部邮件，火了</a></li>
 <li><a href="/cbnews/20221129/1817266.md">各省抗争烽火？中共官员：疏导取代驱离，原则走向放宽</a></li>
 <li><a href="/cbnews/20221128/1817079.md">乌鲁木齐疫情竟“神奇一夜清零” ？民众不买帐</a></li>
-<li><a href="/topimagenews/20221129/1817415.md">大陆影后发文疑挺白纸革命 悲叹：什么也做不了，只能在家中跺脚掉眼泪</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
 <li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 
 </ul>
 </div>
