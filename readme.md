@@ -20,14 +20,14 @@
 <li><a href="/cbnews/20221128/1817151.md">中国这波抗争有多难得？外媒1句话形容：愤怒多到无法镇压</a></li>
 <li><a href="/cbnews/20221129/1817244.md">中国这波抗争有多难得？外媒记者“1句话”形容</a></li>
 <li><a href="/sohnews/20221128/1817047.md">💥上海抓300人？！武汉开Q了吗；北京、上海、武汉、成都等，均爆万人集会游行，大批公安清˘场，抗议烽火燃遍全中国；103所高校学生在行动，清华千人集会喊民主；媒体称“白纸革命”｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/baitai/20221129/1817279.md">「白纸革命」还将延续？专家预计习近平或被迫公开面对</a></li>
-<li><a href="/comments/20221128/1817075.md">这是凌晨四点零八分的中国</a></li>
-<li><a href="/topimagenews/20221129/1817180.md">陆央视删世足赛观众无口罩画面引爆热议 网民：这是同一星球吗？</a></li>
 <li><a href="/topimagenews/20221129/1817394.md">参加“白纸革命”无罪 ? 网曝武警拘留细节</a></li>
+<li><a href="/baitai/20221129/1817279.md">「白纸革命」还将延续？专家预计习近平或被迫公开面对</a></li>
+<li><a href="/topimagenews/20221129/1817180.md">陆央视删世足赛观众无口罩画面引爆热议 网民：这是同一星球吗？</a></li>
+<li><a href="/comments/20221128/1817075.md">这是凌晨四点零八分的中国</a></li>
 <li><a href="/cbnews/20221129/1817266.md">各省抗争烽火？中共官员：疏导取代驱离，原则走向放宽</a></li>
-<li><a href="/cnnews/20221128/1817044.md">马斯克给特斯拉员工的内部邮件，火了</a></li>
-<li><a href="/cbnews/20221128/1817079.md">乌鲁木齐疫情竟“神奇一夜清零” ？民众不买帐</a></li>
 <li><a href="/cbnews/20221129/1817428.md">关注白纸运动 又一国领袖表态</a></li>
+<li><a href="/cbnews/20221128/1817079.md">乌鲁木齐疫情竟“神奇一夜清零” ？民众不买帐</a></li>
+<li><a href="/cbnews/20221129/1817182.md">美驻华使团发布声明：鼓励当地美国公民存药物、瓶装水和食物</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221129/1817507.md" target="_blank">美国看客：街头抗议者应该建立联系，形成组织，迎接民主机遇</a></li>
 <li><a href="/comments/20221129/1817460.md" target="_blank">“白纸革命”英雄勇做出头鸟！大陆各地勇士接力，精致利己时代已过去</a></li>
 <li><a href="/comments/20221129/1817429.md" target="_blank">【首播】李德君：供销社6.26万亿销售总额是诌出来的假业绩</a></li>
 <li><a href="/comments/20221129/1817417.md" target="_blank">海外民运人士发布《告栗战书、李克强、汪洋公开信》</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221128/1817086.md" target="_blank">怪象频出！洞庭湖底 惊现高层次密码？巨大古代河图洛书？燕尾铁枷，再度出世，镇湖之宝 解千年未解之谜！</a></li>
 <li><a href="/comments/20221128/1817081.md" target="_blank">王五四：谢谢，那些正常的年轻人</a></li>
 <li><a href="/comments/20221128/1817075.md" target="_blank">这是凌晨四点零八分的中国</a></li>
-<li><a href="/comments/20221128/1816986.md" target="_blank">李燕铭：政治局委员张国清候任副总理 国资委主任郝鹏被调虎离山转任辽宁省委书记 郝鹏搭档肖亚庆落马 11个省级国资委主任被查 习家军龚堂华接任驻国资委纪检组长 国资委系统面临新一轮清洗风暴 二十大高层人事大战（七四） 辽宁帮覆灭记（十四） 习家军接掌国务院（二）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
 
 </ul>
 </div>
