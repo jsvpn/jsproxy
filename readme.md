@@ -12,11 +12,9 @@
 <li><a href="/headline/20221128/1817063.md">北京示威被指「有境外势力」 群众：「是马克思和恩格斯吗？」</a></li>
 <li><a href="/cnnews/20221128/1817076.md">悲痛！从方舱出来后，兰州大学女教师跳楼身亡</a></li>
 <li><a href="/topimagenews/20221129/1817292.md">习近平的统治地位已经开始动摇</a></li>
-<li><a href="/lifebaike/20221128/1816991.md">北京大兴大屠杀</a></li>
 <li><a href="/topimagenews/20221128/1817150.md">中国民怨炸锅 陆女飙骂镇压警：一年领24万，灵魂就被买通了？</a></li>
 <li><a href="/cbnews/20221128/1817172.md">上海男手举“你知道我要说什么”秒被逮 国际律师怒了</a></li>
 <li><a href="/topimagenews/20221129/1817192.md">北京市井小民加入“白纸运动”：我不要每天麻木过日子</a></li>
-<li><a href="/topimagenews/20221128/1816997.md">六四后最大抗议 外媒：“白纸革命”敲响“清零”政策丧钟</a></li>
 <li><a href="/renquan/20221129/1817277.md">年终报道：大规模抗议下习近平还在找清零退路，“但中国已经快没时间了” </a></li>
 <li><a href="/headline/20221128/1817070.md">学生抗议潮 教育部严防境外势力介入   高校开紧急会议防串联</a></li>
 <li><a href="/cnnews/20221129/1817211.md">彭博：中共面临天安门事变来最大挑战 习近平没剩多少选择</a></li>
@@ -26,8 +24,10 @@
 <li><a href="/sohnews/20221128/1817047.md">💥上海抓300人？！武汉开Q了吗；北京、上海、武汉、成都等，均爆万人集会游行，大批公安清˘场，抗议烽火燃遍全中国；103所高校学生在行动，清华千人集会喊民主；媒体称“白纸革命”｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20221128/1817075.md">这是凌晨四点零八分的中国</a></li>
 <li><a href="/topimagenews/20221129/1817180.md">陆央视删世足赛观众无口罩画面引爆热议 网民：这是同一星球吗？</a></li>
+<li><a href="/baitai/20221129/1817279.md">「白纸革命」还将延续？专家预计习近平或被迫公开面对</a></li>
 <li><a href="/cnnews/20221128/1816999.md">曾骂香港抗争者“废青” 她忏悔：是我跪了太久</a></li>
 <li><a href="/cnnews/20221128/1817044.md">马斯克给特斯拉员工的内部邮件，火了</a></li>
+<li><a href="/cbnews/20221128/1817079.md">乌鲁木齐疫情竟“神奇一夜清零” ？民众不买帐</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221129/1817459.md" target="_blank">江峰：《乌鲁木齐中路》献给乌鲁木齐大火中，及无数‘动态清零“政策下次生灾难中的逝者，献给六四以来规模最大的全国性集会抗议活动&#8212;-白纸革命。大雄词曲，授权播出初版，原版静待大雄频道播出。</a></li>
 <li><a href="/cbnews/20221129/1817428.md" target="_blank">关注白纸运动 又一国领袖表态</a></li>
 <li><a href="/cbnews/20221129/1817369.md" target="_blank">天亮时分：习近平权威严重受损，白纸革命敲响中共丧钟？美国和联合国机构发声；高校提前放假；推荐吉恩·夏普的《从独裁到民主》（政论天下第862集 20221128）</a></li>
 <li><a href="/cbnews/20221129/1817310.md" target="_blank">苏纳克：英中关系黄金时代已结束 北京对英国价值观和利益构成系统性挑战</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221128/1816915.md" target="_blank">【最新惊爆】武汉，惊传枪声！民众慌忙逃离…</a></li>
 <li><a href="/cbnews/20221128/1816914.md" target="_blank">北京清华大学生要求民主法治，1989年以来罕见</a></li>
 <li><a href="/cbnews/20221128/1816880.md" target="_blank">中国多地爆抗争！《CNN》：现在是中国的历史性时刻</a></li>
-<li><a href="/cbnews/20221128/1816867.md" target="_blank">习近平外交失去关系建构机会</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221129/1817460.md" target="_blank">“白纸革命”英雄勇做出头鸟！大陆各地勇士接力，精致利己时代已过去</a></li>
 <li><a href="/comments/20221129/1817429.md" target="_blank">【首播】李德君：供销社6.26万亿销售总额是诌出来的假业绩</a></li>
 <li><a href="/comments/20221129/1817417.md" target="_blank">海外民运人士发布《告栗战书、李克强、汪洋公开信》</a></li>
 <li><a href="/comments/20221129/1817409.md" target="_blank">从冇胆争自由到打倒共产党 距离有多远？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221128/1817081.md" target="_blank">王五四：谢谢，那些正常的年轻人</a></li>
 <li><a href="/comments/20221128/1817075.md" target="_blank">这是凌晨四点零八分的中国</a></li>
 <li><a href="/comments/20221128/1816986.md" target="_blank">李燕铭：政治局委员张国清候任副总理 国资委主任郝鹏被调虎离山转任辽宁省委书记 郝鹏搭档肖亚庆落马 11个省级国资委主任被查 习家军龚堂华接任驻国资委纪检组长 国资委系统面临新一轮清洗风暴 二十大高层人事大战（七四） 辽宁帮覆灭记（十四） 习家军接掌国务院（二）</a></li>
-<li><a href="/comments/20221128/1816959.md" target="_blank">【实况】上海英雄</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 <li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
 <li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
 
 </ul>
 </div>
