@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221129/1817292.md">习近平的统治地位已经开始动摇</a></li>
-<li><a href="/topimagenews/20221128/1817150.md">中国民怨炸锅 陆女飙骂镇压警：一年领24万，灵魂就被买通了？</a></li>
 <li><a href="/cbnews/20221128/1817172.md">上海男手举“你知道我要说什么”秒被逮 国际律师怒了</a></li>
 <li><a href="/cnnews/20221129/1817211.md">彭博：中共面临天安门事变来最大挑战 习近平没剩多少选择</a></li>
 <li><a href="/renquan/20221129/1817277.md">年终报道：大规模抗议下习近平还在找清零退路，“但中国已经快没时间了” </a></li>
@@ -14,7 +13,6 @@
 <li><a href="/cbnews/20221129/1817491.md">真敢说！央视前名嘴站出来</a></li>
 <li><a href="/topimagenews/20221129/1817490.md">要放开？中共国务院即将开记者会 传王沪宁为习近平制定退出方案</a></li>
 <li><a href="/topimagenews/20221129/1817415.md">大陆影后发文疑挺白纸革命 悲叹：什么也做不了，只能在家中跺脚掉眼泪</a></li>
-<li><a href="/cbnews/20221128/1817151.md">中国这波抗争有多难得？外媒1句话形容：愤怒多到无法镇压</a></li>
 <li><a href="/baitai/20221129/1817279.md">「白纸革命」还将延续？专家预计习近平或被迫公开面对</a></li>
 <li><a href="/cbnews/20221129/1817244.md">中国这波抗争有多难得？外媒记者“1句话”形容</a></li>
 <li><a href="/cbnews/20221129/1817428.md">关注白纸运动 又一国领袖表态</a></li>
@@ -22,12 +20,14 @@
 <li><a href="/topimagenews/20221129/1817180.md">陆央视删世足赛观众无口罩画面引爆热议 网民：这是同一星球吗？</a></li>
 <li><a href="/cbnews/20221129/1817465.md">调往南京或上海？徐州街道夜间出现多辆装甲车…</a></li>
 <li><a href="/baitai/20221129/1817412.md">北京紧急开会防学生串联 分析：习如镇压或一夜倒台</a></li>
+<li><a href="/sohnews/20221129/1817512.md">网传内部消息“出境出不去,处置不力一撸到底！”.护照被剪女网红崩溃痛哭！官媒继续喊口号……</a></li>
 <li><a href="/cbnews/20221129/1817266.md">各省抗争烽火？中共官员：疏导取代驱离，原则走向放宽</a></li>
 <li><a href="/topimagenews/20221129/1817442.md">【微博精粹】白纸革命学生：你说的境外势力，是马克思和恩格斯吗</a></li>
 <li><a href="/topimagenews/20221129/1817441.md">习近平被嘲笑！“梦游着掉入塔西佗陷阱”？【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20221129/1817512.md">网传内部消息“出境出不去,处置不力一撸到底！”.护照被剪女网红崩溃痛哭！官媒继续喊口号……</a></li>
+<li><a href="/topimagenews/20221129/1817495.md">向香港道歉！中国人喊“3年前还没醒悟”：现在看上海青年感同深受</a></li>
 <li><a href="/cbnews/20221129/1817182.md">美驻华使团发布声明：鼓励当地美国公民存药物、瓶装水和食物</a></li>
 <li><a href="/comments/20221129/1817417.md">海外民运人士发布《告栗战书、李克强、汪洋公开信》</a></li>
+<li><a href="/sohnews/20221129/1817534.md">失控！公海上空开火，中共军机击落英属香港客机；英美震怒，谁成中共替罪羊？事发当天，毛给周恩来密令，党媒发文造势，一切只是巧合？！｜ #百年真相</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
 <li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 
 </ul>
 </div>
