@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221129/1817292.md">习近平的统治地位已经开始动摇</a></li>
-<li><a href="/cbnews/20221128/1817172.md">上海男手举“你知道我要说什么”秒被逮 国际律师怒了</a></li>
 <li><a href="/cnnews/20221129/1817211.md">彭博：中共面临天安门事变来最大挑战 习近平没剩多少选择</a></li>
 <li><a href="/renquan/20221129/1817277.md">年终报道：大规模抗议下习近平还在找清零退路，“但中国已经快没时间了” </a></li>
 <li><a href="/topimagenews/20221129/1817192.md">北京市井小民加入“白纸运动”：我不要每天麻木过日子</a></li>
@@ -14,8 +13,8 @@
 <li><a href="/topimagenews/20221129/1817490.md">要放开？中共国务院即将开记者会 传王沪宁为习近平制定退出方案</a></li>
 <li><a href="/topimagenews/20221129/1817415.md">大陆影后发文疑挺白纸革命 悲叹：什么也做不了，只能在家中跺脚掉眼泪</a></li>
 <li><a href="/baitai/20221129/1817279.md">「白纸革命」还将延续？专家预计习近平或被迫公开面对</a></li>
-<li><a href="/cbnews/20221129/1817244.md">中国这波抗争有多难得？外媒记者“1句话”形容</a></li>
 <li><a href="/cbnews/20221129/1817428.md">关注白纸运动 又一国领袖表态</a></li>
+<li><a href="/cbnews/20221129/1817244.md">中国这波抗争有多难得？外媒记者“1句话”形容</a></li>
 <li><a href="/topimagenews/20221129/1817394.md">参加“白纸革命”无罪 ? 网曝武警拘留细节</a></li>
 <li><a href="/topimagenews/20221129/1817180.md">陆央视删世足赛观众无口罩画面引爆热议 网民：这是同一星球吗？</a></li>
 <li><a href="/cbnews/20221129/1817465.md">调往南京或上海？徐州街道夜间出现多辆装甲车…</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/topimagenews/20221129/1817441.md">习近平被嘲笑！“梦游着掉入塔西佗陷阱”？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221129/1817495.md">向香港道歉！中国人喊“3年前还没醒悟”：现在看上海青年感同深受</a></li>
 <li><a href="/cbnews/20221129/1817182.md">美驻华使团发布声明：鼓励当地美国公民存药物、瓶装水和食物</a></li>
-<li><a href="/comments/20221129/1817417.md">海外民运人士发布《告栗战书、李克强、汪洋公开信》</a></li>
 <li><a href="/sohnews/20221129/1817534.md">失控！公海上空开火，中共军机击落英属香港客机；英美震怒，谁成中共替罪羊？事发当天，毛给周恩来密令，党媒发文造势，一切只是巧合？！｜ #百年真相</a></li>
+<li><a href="/comments/20221129/1817417.md">海外民运人士发布《告栗战书、李克强、汪洋公开信》</a></li>
+<li><a href="/cbnews/20221129/1817369.md">天亮时分：习近平权威严重受损，白纸革命敲响中共丧钟？美国和联合国机构发声；高校提前放假；推荐吉恩·夏普的《从独裁到民主》（政论天下第862集 20221128）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221129/1817626.md" target="_blank">11/29 【时事大家谈】“白纸革命”蔓延 习近平如何应对执政10年来最大危机？台湾九合一选举执政党惨败 “抗中保台”牌为何失灵？</a></li>
 <li><a href="/comments/20221129/1817593.md" target="_blank">【白纸革命】秋后算账！ 路透：中国当局开始调查白纸运动参加者</a></li>
 <li><a href="/comments/20221129/1817592.md" target="_blank">【白纸革命】严防抗议串连 中国多所高校开始疏散学生返乡</a></li>
 <li><a href="/comments/20221129/1817591.md" target="_blank">BBC驻中记者遭警殴打逮捕 中方：避免他在人群感染 英国召见中国大使抗议</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221129/1817257.md" target="_blank">这一刻，底线被击穿了</a></li>
 <li><a href="/comments/20221129/1817253.md" target="_blank">李燕铭：白纸革命迅速传遍世界 中共推特灌爆色情广告掩盖 白宫声明：每个人都有和平抗议权利 德国总统：理解中国抗议者 联合国急促中国尊重和平抗议权利 中共逮捕英国记者遭强烈抗议 中共末日危机之全民反共（六）</a></li>
 <li><a href="/comments/20221129/1817245.md" target="_blank">习有多少坚持 权威就有多少受损</a></li>
-<li><a href="/comments/20221129/1817237.md" target="_blank">李燕铭：习近平十年来最大危机 权威遭遇罕见挑战 面临羞辱性撤退 白纸革命让习面临三难选择 中共迅速镇压白纸革命 北京可乐瓶抗议胎死腹中 消息人士：中共教育部紧急召集高校开会防学生串联 中共末日危机之全民反共（五）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 <li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
 <li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 
 </ul>
 </div>
