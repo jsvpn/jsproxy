@@ -16,18 +16,18 @@
 <li><a href="/cbnews/20221129/1817465.md">调往南京或上海？徐州街道夜间出现多辆装甲车…</a></li>
 <li><a href="/comments/20221129/1817560.md">疑似中共战狼赵立坚妻子微博被扒 记录疫情期间的精彩生活</a></li>
 <li><a href="/sohnews/20221129/1817013.md">习近平无力调动军队镇压！反习派将会成立新政党！一个亘古不变的造反秘诀（颜色革命基本法01，2022/11/27)</a></li>
+<li><a href="/topimagenews/20221130/1817681.md">空欢喜！中共国务院防疫记者会开完 央视直播拍到有记者只写一行字</a></li>
 <li><a href="/cbnews/20221129/1817523.md">风向变了 官媒称 “新冠像感冒” 胡锡进暗示</a></li>
 <li><a href="/topimagenews/20221130/1817632.md">白纸革命中国遍地开花 他拿白纸写“7字箴言”警方缩手</a></li>
 <li><a href="/topimagenews/20221129/1817495.md">向香港道歉！中国人喊“3年前还没醒悟”：现在看上海青年感同深受</a></li>
-<li><a href="/topimagenews/20221130/1817681.md">空欢喜！中共国务院防疫记者会开完 央视直播拍到有记者只写一行字</a></li>
 <li><a href="/topimagenews/20221129/1817441.md">习近平被嘲笑！“梦游着掉入塔西佗陷阱”？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221129/1817442.md">【微博精粹】白纸革命学生：你说的境外势力，是马克思和恩格斯吗</a></li>
 <li><a href="/cnnews/20221129/1817540.md">网民热议：境外势力在放假 境外势力不加班</a></li>
 <li><a href="/comments/20221129/1817417.md">海外民运人士发布《告栗战书、李克强、汪洋公开信》</a></li>
 <li><a href="/cbnews/20221129/1816668.md">乌鲁木齐及郑州两地百姓上街，地方官员被迫退让！中共为什么没派军队镇压抗议民众？中共维稳的死穴，及民间抗争的短板！ （一平论政2022/11/26)</a></li>
-<li><a href="/cbnews/20221129/1817369.md">天亮时分：习近平权威严重受损，白纸革命敲响中共丧钟？美国和联合国机构发声；高校提前放假；推荐吉恩·夏普的《从独裁到民主》（政论天下第862集 20221128）</a></li>
-<li><a href="/cbnews/20221129/1817476.md">收买人心都没钱了！? 乌鲁木齐：给低收入群众300元一次性补助</a></li>
 <li><a href="/topimagenews/20221130/1817690.md">聚焦山东济南 民众与大白发生激烈冲突 场面火爆【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20221129/1817369.md">天亮时分：习近平权威严重受损，白纸革命敲响中共丧钟？美国和联合国机构发声；高校提前放假；推荐吉恩·夏普的《从独裁到民主》（政论天下第862集 20221128）</a></li>
+<li><a href="/topimagenews/20221130/1817734.md">全网在找的张珊珊靠山是谁？答案来了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221130/1817803.md" target="_blank">台湾密切关注中国“白纸革命” 防习武力攻台转移内部冲突</a></li>
+<li><a href="/comments/20221130/1817802.md" target="_blank">【白纸革命】港中大及中环百人悼乌市火灾 港生：同临极权需声援</a></li>
+<li><a href="/comments/20221130/1817800.md" target="_blank">中国国企遭英逐出核电厂计划 英传召中共大使抗议暴力对待记者</a></li>
+<li><a href="/comments/20221130/1817799.md" target="_blank">中国留学生在纽约哥大举行大型集会声援中国抗议者 规模堪比33年前抗议六四镇压</a></li>
+<li><a href="/comments/20221130/1817798.md" target="_blank">习近平红铁拳砸向“白纸运动”？</a></li>
 <li><a href="/comments/20221130/1817793.md" target="_blank">一位曾骂香港抗争者“废青”的小粉红的忏悔</a></li>
 <li><a href="/comments/20221130/1817792.md" target="_blank">袁斌：从“罢免习近平”到“共产党下台”</a></li>
 <li><a href="/comments/20221130/1817791.md" target="_blank">周晓辉：土耳其哀悼新疆伤亡者 北京很难堪</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20221129/1817558.md" target="_blank">【白纸革命】中国称境外势力介入 网友：境外势力在放感恩节假</a></li>
 <li><a href="/comments/20221129/1817539.md" target="_blank">汪园斐：赵紫阳下台的根本原因并非“六四”</a></li>
 <li><a href="/comments/20221129/1817538.md" target="_blank">王赫：中国社会正面临大变局</a></li>
-<li><a href="/comments/20221129/1817524.md" target="_blank">生关死劫当下 无论如何要站在鸡蛋一边</a></li>
-<li><a href="/comments/20221129/1817507.md" target="_blank">美国看客：街头抗议者应该建立联系，形成组织，迎接民主机遇</a></li>
-<li><a href="/comments/20221129/1817460.md" target="_blank">“白纸革命”英雄勇做出头鸟！大陆各地勇士接力，精致利己时代已过去</a></li>
-<li><a href="/comments/20221129/1817429.md" target="_blank">【首播】李德君：供销社6.26万亿销售总额是诌出来的假业绩</a></li>
-<li><a href="/comments/20221129/1817417.md" target="_blank">海外民运人士发布《告栗战书、李克强、汪洋公开信》</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
 <li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
 <li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
 
 </ul>
 </div>
