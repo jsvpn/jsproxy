@@ -9,22 +9,22 @@
 <li><a href="/topimagenews/20221130/1817681.md">空欢喜！中共国务院防疫记者会开完 央视直播拍到有记者只写一行字</a></li>
 <li><a href="/topimagenews/20221130/1817632.md">白纸革命中国遍地开花 他拿白纸写“7字箴言”警方缩手</a></li>
 <li><a href="/topimagenews/20221130/1817690.md">聚焦山东济南 民众与大白发生激烈冲突 场面火爆【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20221130/1817742.md">武汉人齐上包围警察！把人救出来</a></li>
 <li><a href="/baitai/20221130/1817769.md">中共高层传出可怕消息 亲历者讲述心路历程</a></li>
+<li><a href="/cbnews/20221130/1817742.md">武汉人齐上包围警察！把人救出来</a></li>
 <li><a href="/topimagenews/20221130/1817956.md">重要信号！中共要找替罪羊了？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221130/1817683.md">浙江省官宣“人民至上不是防疫至上” 冲微博热搜第一！乡民惊：公然造反不要命了？</a></li>
 <li><a href="/cbnews/20221130/1817875.md">中共查手机抓人 胡叼盘又跳出来</a></li>
-<li><a href="/cbnews/20221129/1816668.md">乌鲁木齐及郑州两地百姓上街，地方官员被迫退让！中共为什么没派军队镇压抗议民众？中共维稳的死穴，及民间抗争的短板！ （一平论政2022/11/26)</a></li>
 <li><a href="/sohnews/20221130/1817948.md">突发！网传六万多名上海警察的个人信息。反对极端，但极权社会没有人是安全的</a></li>
 <li><a href="/topimagenews/20221130/1817682.md">骨牌式摔车现场！ 多名北朝鲜军人与金正恩合照时从导弹发射车上摔落</a></li>
-<li><a href="/topimagenews/20221130/1817949.md">胡锡进带风向大翻车！评论区炸锅【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221130/1817971.md">网传再封城 广州现逃亡潮 道路拥挤 火车站人满为患【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221130/1817949.md">胡锡进带风向大翻车！评论区炸锅【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221130/1817992.md">江泽民在上海逝世 享年96岁</a></li>
+<li><a href="/comments/20221130/1818012.md">历史重演？江泽民病逝有胡耀邦之死既视感 网：下一个六四要来了…</a></li>
 <li><a href="/sohnews/20221130/1817888.md">新常委，是一帮什么人？王沪宁继续夹着尾巴做人，狡猾得很</a></li>
 <li><a href="/cbnews/20221130/1817645.md">白纸革命狂烧！他曝维尼“真实片段”神预言 网笑翻：是纸禁城</a></li>
-<li><a href="/topimagenews/20221130/1817896.md">惊恐之夜！上海男被押走前高喊“自由”！震撼…</a></li>
-<li><a href="/comments/20221130/1818012.md">历史重演？江泽民病逝有胡耀邦之死既视感 网：下一个六四要来了…</a></li>
 <li><a href="/baitai/20221130/1817967.md">中共动手 网民：中国真要变天</a></li>
+<li><a href="/topimagenews/20221130/1817896.md">惊恐之夜！上海男被押走前高喊“自由”！震撼…</a></li>
+<li><a href="/topimagenews/20221130/1818027.md">江泽民“紧盯美女”！让中共外交部也跳脚…</a></li>
 <li><a href="/cnnews/20221130/1817755.md">北京大白被抓走! 警察站在人民一边 怼居委会不许封门【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221130/1817639.md">“白纸革命！中南海公开撕裂第一战役：江曾-反习势力大战习近平！”《今日点击》 (29/11/22) 利用乌市大火与民间破顶怨气 “六四重演 大量视频”</a></li>
 <li><a href="/topimagenews/20221130/1817885.md">“学校赶我回家”？学生连夜出广州 挤爆国道、露宿车站 “全域封控”？…</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221130/1818087.md" target="_blank">【梁京评论】中国的「白纸革命」与习近平的「昂纳克时刻」</a></li>
 <li><a href="/comments/20221130/1818069.md" target="_blank">CNN：郑州今解封 为苹果、富士康解套</a></li>
 <li><a href="/comments/20221130/1818051.md" target="_blank">江泽民早就走了？中国媒体人半月前贴文“江水东流去”</a></li>
 <li><a href="/comments/20221130/1818050.md" target="_blank">抗争奏效？ 广州多区宣布解除临时管控区</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221130/1817882.md" target="_blank">李燕铭：新疆阿勒泰零下48.6℃ 牲畜冻伤人员被困 七人遇难 中国超20省份“速冻” 河北将现零下30℃低温 中共末日之生态危机（七）</a></li>
 <li><a href="/comments/20221130/1817842.md" target="_blank">广州群众连夜出逃 国道、车站塞爆 学生被赶出学校</a></li>
 <li><a href="/comments/20221130/1817826.md" target="_blank">当今在中国发生的事是民众的自我觉醒和救赎；“共产党下台”是人民发自内心的怒吼；是时候全民不合作了！｜11/29/2022【方菲时间】</a></li>
-<li><a href="/comments/20221130/1817803.md" target="_blank">台湾密切关注中国“白纸革命” 防习武力攻台转移内部冲突</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
