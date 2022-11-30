@@ -7,13 +7,13 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/baitai/20221130/1817769.md">中共高层传出可怕消息 亲历者讲述心路历程</a></li>
 <li><a href="/topimagenews/20221130/1817956.md">重要信号！中共要找替罪羊了？【阿波罗网报道】</a></li>
-<li><a href="/comments/20221130/1818012.md">历史重演？江泽民病逝有胡耀邦之死既视感 网：下一个六四要来了…</a></li>
 <li><a href="/sohnews/20221130/1817948.md">突发！网传六万多名上海警察的个人信息。反对极端，但极权社会没有人是安全的</a></li>
+<li><a href="/comments/20221130/1818012.md">历史重演？江泽民病逝有胡耀邦之死既视感 网：下一个六四要来了…</a></li>
 <li><a href="/cbnews/20221130/1817875.md">中共查手机抓人 胡叼盘又跳出来</a></li>
 <li><a href="/topimagenews/20221130/1818027.md">江泽民“紧盯美女”！让中共外交部也跳脚…</a></li>
+<li><a href="/sohnews/20221130/1817888.md">新常委，是一帮什么人？王沪宁继续夹着尾巴做人，狡猾得很</a></li>
 <li><a href="/ssgc/20221130/1817992.md">江泽民在上海逝世 享年96岁</a></li>
 <li><a href="/topimagenews/20221130/1817971.md">网传再封城 广州现逃亡潮 道路拥挤 火车站人满为患【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20221130/1817888.md">新常委，是一帮什么人？王沪宁继续夹着尾巴做人，狡猾得很</a></li>
 <li><a href="/topimagenews/20221130/1817949.md">胡锡进带风向大翻车！评论区炸锅【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221130/1818022.md">💥江泽民真死了！官媒发丧；全面封控60天？变本加厉，上海内部文件外泄；粉红向香港人道歉，王婆中环遭袭击；全球响应白纸革命！政法委表态露狰狞；习近平软硬兼施；中国抗争一定注意一点｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20221130/1817621.md">中国抗议还在持续，革命已成定局。中国有史以来最完美革命的发动者，留下颠覆政权的无上心法。 （精选回放，2022/11/29)</a></li>
@@ -23,8 +23,8 @@
 <li><a href="/comments/20221130/1818051.md">江泽民早就走了？中国媒体人半月前贴文“江水东流去”</a></li>
 <li><a href="/cbnews/20221130/1818052.md">天亮时分：江泽民死了；曾庆红危了；盘点江两大政治遗产（政论天下第864集 20221130）</a></li>
 <li><a href="/topimagenews/20221130/1817896.md">惊恐之夜！上海男被押走前高喊“自由”！震撼…</a></li>
-<li><a href="/cnnews/20221130/1817755.md">北京大白被抓走! 警察站在人民一边 怼居委会不许封门【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221130/1817995.md">广州民众抗议取得初步胜利 多区解除封控制 抗争是唯一出路【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221130/1817755.md">北京大白被抓走! 警察站在人民一边 怼居委会不许封门【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221130/1818085.md">江泽民整肃媒体登权力最高峰 “六四天安门”成了最暗黑一段</a></li>
 <li><a href="/cbnews/20221130/1817895.md">江峰：核酸乱象是清零失败替罪羊？张姗姗神秘背景。白纸革命潮退？解封还是更紧？会有清算吗？【江峰漫谈20221129第588期】</a></li>
 <li><a href="/topimagenews/20221130/1817885.md">“学校赶我回家”？学生连夜出广州 挤爆国道、露宿车站 “全域封控”？…</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221201/1818268.md" target="_blank">【方菲时间】正值白纸革命，江泽民死了还被利用一把？江时代比习时代好？下一步中国会发生什么？</a></li>
+<li><a href="/cbnews/20221201/1818265.md" target="_blank">天亮时分：正值白纸革命，江泽民死了还被利用一把？江时代比习时代好？下一步中国会发生什麽？</a></li>
 <li><a href="/cbnews/20221201/1818204.md" target="_blank">培养“党的接班人”？ 郑州招募少年当防疫人员</a></li>
 <li><a href="/cbnews/20221201/1818203.md" target="_blank">火了！中国这个城市被指“病毒绕着走”</a></li>
 <li><a href="/cbnews/20221201/1818191.md" target="_blank">权威认证！美国防部报告 列出中共对台4大可能军事行动</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20221130/1817691.md" target="_blank">亲共台媒：全球关注！中国：封控要“快封快解、应解尽解”</a></li>
 <li><a href="/cbnews/20221130/1817645.md" target="_blank">白纸革命狂烧！他曝维尼“真实片段”神预言 网笑翻：是纸禁城</a></li>
 <li><a href="/cbnews/20221130/1817644.md" target="_blank">中国餐馆老板“起床门口被封”气愤大骂 人民叹吃都成问题</a></li>
-<li><a href="/cbnews/20221129/1816668.md" target="_blank">乌鲁木齐及郑州两地百姓上街，地方官员被迫退让！中共为什么没派军队镇压抗议民众？中共维稳的死穴，及民间抗争的短板！ （一平论政2022/11/26)</a></li>
-<li><a href="/cbnews/20221129/1817523.md" target="_blank">风向变了 官媒称 “新冠像感冒” 胡锡进暗示</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221201/1818268.md" target="_blank">【方菲时间】正值白纸革命，江泽民死了还被利用一把？江时代比习时代好？下一步中国会发生什么？</a></li>
 <li><a href="/comments/20221201/1818212.md" target="_blank">震撼！白纸登上世界大媒体头条</a></li>
 <li><a href="/comments/20221201/1818202.md" target="_blank">【独家重磅】李燕铭：江泽民被定时死亡 白纸革命革去江命敲响中共丧钟 李燕铭半个月前梦见江泽民已死 半个月前中共中央网信办发出紧急通知启动网络应急响应 百度接通知做好置灰准备 中国巨变在即！ 习近平决战江曾（五七） 中共末日危机之全民反共（九）</a></li>
 <li><a href="/comments/20221201/1818184.md" target="_blank">评论 | 余杰：从学生审讯老师到学生打死老师，仅一步之遥</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221130/1817906.md" target="_blank">王大卫与社会诗歌：我深爱着我脚下的这片土地，这正是我落泪的原因</a></li>
 <li><a href="/comments/20221130/1817905.md" target="_blank">胡金周司马，共同铸造了一个思想闭环</a></li>
 <li><a href="/comments/20221130/1817904.md" target="_blank">被污名化的海外防疫</a></li>
-<li><a href="/comments/20221130/1817902.md" target="_blank">廖亦武：白纸革命：蝴蝶拍打了翅膀</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
 <li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
 
 </ul>
 </div>
