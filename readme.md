@@ -11,8 +11,8 @@
 <li><a href="/sohnews/20221201/1818415.md">江泽民死亡，胡锦涛独缺治丧委员会？胡锦涛两次戏弄江泽民，让江悔之莫及，并确保习近平登上大位。</a></li>
 <li><a href="/cbnews/20221201/1818181.md">火速跟进！继广州之后 上海24处疫情高风险区“12月1日零时起”解除管控</a></li>
 <li><a href="/cbnews/20221201/1818180.md">江泽民风流私生活传言不断 与宋祖英关系暧昧受关注</a></li>
-<li><a href="/cnnews/20221201/1818483.md">白纸革命后 烧方舱行动开始了 有燎原之势【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221201/1818345.md">赵立坚国内做战狼 老婆国外偷着乐 两口子赢麻了</a></li>
+<li><a href="/cnnews/20221201/1818483.md">白纸革命后 烧方舱行动开始了 有燎原之势【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221201/1818226.md">中国全网黑白…网友吓坏以为手机中毒：太阴间了</a></li>
 <li><a href="/topimagenews/20221201/1818348.md">李锐曾曝出内幕 江泽民因一句话恨死这个中共总书记</a></li>
 <li><a href="/cbnews/20221201/1818274.md">江峰：江泽民按需死亡？乌鲁木齐头七敏感日，对人民的祭奠被引流为对党魁的悼念。江泽民比习近平好麽？中共纸牌屋，爆料习近平的升迁之路就是江曾打造，习之恶如何传承江之坏【江峰漫谈20221130第589期】</a></li>
@@ -23,8 +23,8 @@
 <li><a href="/comments/20221201/1818303.md">【独家重磅】李燕铭：江泽民病亡 新华社罕见通报其死亡惨状 泄露惊人黑幕 近一个月大量青少年失踪 两大传闻细思极恐 习近平决战江曾（五八） 中共末日危机之全民反共（十）</a></li>
 <li><a href="/sohnews/20221201/1818486.md">🔥江泽民早死了？秘不发丧还是刚刚拔管？习近平憋大招对付白纸革命。日本留学生集会高呼共产党下台！｜薇羽看世间 第575期 20221130</a></li>
 <li><a href="/finance/20221201/1818266.md">消息宣布后，人民币大涨近650点</a></li>
-<li><a href="/comments/20221201/1818202.md">【独家重磅】李燕铭：江泽民被定时死亡 白纸革命革去江命敲响中共丧钟 李燕铭半个月前梦见江泽民已死 半个月前中共中央网信办发出紧急通知启动网络应急响应 百度接通知做好置灰准备 中国巨变在即！ 习近平决战江曾（五七） 中共末日危机之全民反共（九）</a></li>
 <li><a href="/cnnews/20221201/1818385.md">挑战习近平？白宫宣布：拜登将亲赴台积电</a></li>
+<li><a href="/comments/20221201/1818202.md">【独家重磅】李燕铭：江泽民被定时死亡 白纸革命革去江命敲响中共丧钟 李燕铭半个月前梦见江泽民已死 半个月前中共中央网信办发出紧急通知启动网络应急响应 百度接通知做好置灰准备 中国巨变在即！ 习近平决战江曾（五七） 中共末日危机之全民反共（九）</a></li>
 <li><a href="/cnnews/20221201/1818234.md">华尔街预测失误了</a></li>
 <li><a href="/sohnews/20221201/1818481.md">文睿：又一大信号，中共断粮了；朝鲜日报：中国楼市跌落，进入战斗状态</a></li>
 <li><a href="/baitai/20221201/1818240.md">江死讯会成为下个爆点？明年一危机或降临</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221202/1818624.md" target="_blank">时事大家谈: 微妙时刻江泽民逝世,十六年掌权如何盖棺论定？</a></li>
+<li><a href="/comments/20221202/1818623.md" target="_blank">时事大家谈: 白纸风暴撼动稳定大局？政法委下令秋后算帐？</a></li>
 <li><a href="/comments/20221201/1818589.md" target="_blank">逆民意而行？山东省今年拟砸230亿重金建方舱医院</a></li>
 <li><a href="/comments/20221201/1818588.md" target="_blank">江泽民死亡 法轮功人权律师团发五点声明</a></li>
 <li><a href="/comments/20221201/1818559.md" target="_blank">江泽民病死上海！ 有人发现惊人的“千年轮回”巧合</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221201/1818358.md" target="_blank">俄乌战争影响邻近国家忧出现动荡 北约出面给予安抚</a></li>
 <li><a href="/comments/20221201/1818320.md" target="_blank">袁斌:“受够了”的中国人</a></li>
 <li><a href="/comments/20221201/1818317.md" target="_blank">文昭：江泽民确认死亡！江习对比；江按需而死？中共释矛盾信号，要抓实锤的「境外势力」？</a></li>
-<li><a href="/comments/20221201/1818314.md" target="_blank">通告：江泽民死 普天同庆！《燕铭时评》限时公开铂金钻石会员专享两篇独家重磅文章 披露江泽民死亡内幕</a></li>
-<li><a href="/comments/20221201/1818307.md" target="_blank">【白纸革命】黑色幽默爆棚！他2字评价中国人抗争让网友笑了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
 <li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20221126/1816237.md" target="_blank">天亮时分：新疆大火，打响全民反抗第一枪，重庆也暴动；中共可能的应对和我们可能的反制策略（政论天下第859集 20221125）</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
 <li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
 
 </ul>
 </div>
