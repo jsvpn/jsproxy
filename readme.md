@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221130/1817956.md">重要信号！中共要找替罪羊了？【阿波罗网报道】</a></li>
-<li><a href="/comments/20221130/1818012.md">历史重演？江泽民病逝有胡耀邦之死既视感 网：下一个六四要来了…</a></li>
 <li><a href="/sohnews/20221130/1817948.md">突发！网传六万多名上海警察的个人信息。反对极端，但极权社会没有人是安全的</a></li>
+<li><a href="/comments/20221130/1818012.md">历史重演？江泽民病逝有胡耀邦之死既视感 网：下一个六四要来了…</a></li>
 <li><a href="/cbnews/20221130/1817875.md">中共查手机抓人 胡叼盘又跳出来</a></li>
 <li><a href="/sohnews/20221130/1817888.md">新常委，是一帮什么人？王沪宁继续夹着尾巴做人，狡猾得很</a></li>
 <li><a href="/topimagenews/20221130/1818027.md">江泽民“紧盯美女”！让中共外交部也跳脚…</a></li>
 <li><a href="/topimagenews/20221130/1817971.md">网传再封城 广州现逃亡潮 道路拥挤 火车站人满为患【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221130/1817992.md">江泽民在上海逝世 享年96岁</a></li>
-<li><a href="/topimagenews/20221130/1817949.md">胡锡进带风向大翻车！评论区炸锅【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221130/1818022.md">💥江泽民真死了！官媒发丧；全面封控60天？变本加厉，上海内部文件外泄；粉红向香港人道歉，王婆中环遭袭击；全球响应白纸革命！政法委表态露狰狞；习近平软硬兼施；中国抗争一定注意一点｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/topimagenews/20221130/1817949.md">胡锡进带风向大翻车！评论区炸锅【阿波罗网报道】</a></li>
 <li><a href="/comments/20221130/1817621.md">中国抗议还在持续，革命已成定局。中国有史以来最完美革命的发动者，留下颠覆政权的无上心法。 （精选回放，2022/11/29)</a></li>
 <li><a href="/sohnews/20221130/1818064.md">江泽民“真”死了！广州突然解封,网信办内部消息被披露,网友爆料⋯⋯</a></li>
 <li><a href="/headline/20221130/1818035.md">江泽民逝世享年96岁 传解放军所有战区提高戒备</a></li>
 <li><a href="/baitai/20221130/1817967.md">中共动手 网民：中国真要变天</a></li>
 <li><a href="/cbnews/20221130/1818052.md">天亮时分：江泽民死了；曾庆红危了；盘点江两大政治遗产（政论天下第864集 20221130）</a></li>
 <li><a href="/comments/20221130/1818051.md">江泽民早就走了？中国媒体人半月前贴文“江水东流去”</a></li>
-<li><a href="/topimagenews/20221130/1817896.md">惊恐之夜！上海男被押走前高喊“自由”！震撼…</a></li>
 <li><a href="/sohnews/20221201/1818182.md">习近平自己删除了自己的视频</a></li>
-<li><a href="/topimagenews/20221130/1818085.md">江泽民整肃媒体登权力最高峰 “六四天安门”成了最暗黑一段</a></li>
-<li><a href="/topimagenews/20221130/1817995.md">广州民众抗议取得初步胜利 多区解除封控制 抗争是唯一出路【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20221201/1818181.md">火速跟进！继广州之后 上海24处疫情高风险区“12月1日零时起”解除管控</a></li>
-<li><a href="/cbnews/20221130/1818074.md">江泽民死亡 其政治诈骗丑闻再被翻出</a></li>
+<li><a href="/topimagenews/20221130/1817896.md">惊恐之夜！上海男被押走前高喊“自由”！震撼…</a></li>
 <li><a href="/topimagenews/20221201/1818255.md">热传：上海人被捕释放后，详述全部经历</a></li>
+<li><a href="/topimagenews/20221130/1818085.md">江泽民整肃媒体登权力最高峰 “六四天安门”成了最暗黑一段</a></li>
+<li><a href="/cbnews/20221201/1818181.md">火速跟进！继广州之后 上海24处疫情高风险区“12月1日零时起”解除管控</a></li>
+<li><a href="/topimagenews/20221130/1817995.md">广州民众抗议取得初步胜利 多区解除封控制 抗争是唯一出路【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20221130/1818074.md">江泽民死亡 其政治诈骗丑闻再被翻出</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221201/1818380.md" target="_blank">【小土豆复仇，开始反共！】</a></li>
+<li><a href="/comments/20221201/1818363.md" target="_blank">对白纸革命的冷漠只是一种政治幼稚病</a></li>
+<li><a href="/comments/20221201/1818362.md" target="_blank">不在清零中爆发，就在清零中灭亡</a></li>
+<li><a href="/comments/20221201/1818361.md" target="_blank">江泽民带头淫乱 盘点其秘书歌手主播情妇</a></li>
+<li><a href="/comments/20221201/1818360.md" target="_blank">江泽民死因曝光 党媒提政治风波 各种丑闻被翻出</a></li>
 <li><a href="/comments/20221201/1818358.md" target="_blank">俄乌战争影响邻近国家忧出现动荡 北约出面给予安抚</a></li>
 <li><a href="/comments/20221201/1818320.md" target="_blank">袁斌:“受够了”的中国人</a></li>
 <li><a href="/comments/20221201/1818317.md" target="_blank">文昭：江泽民确认死亡！江习对比；江按需而死？中共释矛盾信号，要抓实锤的「境外势力」？</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20221201/1818155.md" target="_blank">11/30 【时事大家谈】前中国领导人江泽民逝世 如何评价他的一生？新疆大火点爆民愤 逼迫政府放弃封控？白纸、方程式抗争 中国年轻人仍是希望火种</a></li>
 <li><a href="/comments/20221130/1818121.md" target="_blank">江泽民病亡！中共喉舌“黑白一片” 治丧委员会都有哪些大佬？</a></li>
 <li><a href="/comments/20221130/1818109.md" target="_blank">结束了，这段没带走……</a></li>
-<li><a href="/comments/20221130/1818087.md" target="_blank">【梁京评论】中国的「白纸革命」与习近平的「昂纳克时刻」</a></li>
-<li><a href="/comments/20221130/1818069.md" target="_blank">CNN：郑州今解封 为苹果、富士康解套</a></li>
-<li><a href="/comments/20221130/1818051.md" target="_blank">江泽民早就走了？中国媒体人半月前贴文“江水东流去”</a></li>
-<li><a href="/comments/20221130/1818050.md" target="_blank">抗争奏效？ 广州多区宣布解除临时管控区</a></li>
-<li><a href="/comments/20221130/1817621.md" target="_blank">中国抗议还在持续，革命已成定局。中国有史以来最完美革命的发动者，留下颠覆政权的无上心法。 （精选回放，2022/11/29)</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/cbnews/20221126/1816237.md" target="_blank">天亮时分：新疆大火，打响全民反抗第一枪，重庆也暴动；中共可能的应对和我们可能的反制策略（政论天下第859集 20221125）</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
 <li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
 <li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 
 </ul>
 </div>
