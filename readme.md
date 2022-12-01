@@ -15,19 +15,19 @@
 <li><a href="/ssgc/20221130/1817992.md">江泽民在上海逝世 享年96岁</a></li>
 <li><a href="/topimagenews/20221130/1817949.md">胡锡进带风向大翻车！评论区炸锅【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221130/1818022.md">💥江泽民真死了！官媒发丧；全面封控60天？变本加厉，上海内部文件外泄；粉红向香港人道歉，王婆中环遭袭击；全球响应白纸革命！政法委表态露狰狞；习近平软硬兼施；中国抗争一定注意一点｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/comments/20221130/1817621.md">中国抗议还在持续，革命已成定局。中国有史以来最完美革命的发动者，留下颠覆政权的无上心法。 （精选回放，2022/11/29)</a></li>
 <li><a href="/sohnews/20221130/1818064.md">江泽民“真”死了！广州突然解封,网信办内部消息被披露,网友爆料⋯⋯</a></li>
+<li><a href="/comments/20221130/1817621.md">中国抗议还在持续，革命已成定局。中国有史以来最完美革命的发动者，留下颠覆政权的无上心法。 （精选回放，2022/11/29)</a></li>
 <li><a href="/headline/20221130/1818035.md">江泽民逝世享年96岁 传解放军所有战区提高戒备</a></li>
 <li><a href="/baitai/20221130/1817967.md">中共动手 网民：中国真要变天</a></li>
 <li><a href="/cbnews/20221130/1818052.md">天亮时分：江泽民死了；曾庆红危了；盘点江两大政治遗产（政论天下第864集 20221130）</a></li>
 <li><a href="/comments/20221130/1818051.md">江泽民早就走了？中国媒体人半月前贴文“江水东流去”</a></li>
 <li><a href="/topimagenews/20221130/1817896.md">惊恐之夜！上海男被押走前高喊“自由”！震撼…</a></li>
+<li><a href="/sohnews/20221201/1818182.md">习近平自己删除了自己的视频</a></li>
 <li><a href="/topimagenews/20221130/1817995.md">广州民众抗议取得初步胜利 多区解除封控制 抗争是唯一出路【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221130/1818085.md">江泽民整肃媒体登权力最高峰 “六四天安门”成了最暗黑一段</a></li>
-<li><a href="/cbnews/20221130/1817895.md">江峰：核酸乱象是清零失败替罪羊？张姗姗神秘背景。白纸革命潮退？解封还是更紧？会有清算吗？【江峰漫谈20221129第588期】</a></li>
 <li><a href="/cbnews/20221130/1818074.md">江泽民死亡 其政治诈骗丑闻再被翻出</a></li>
-<li><a href="/topimagenews/20221130/1817885.md">“学校赶我回家”？学生连夜出广州 挤爆国道、露宿车站 “全域封控”？…</a></li>
-<li><a href="/sohnews/20221201/1818182.md">习近平自己删除了自己的视频</a></li>
+<li><a href="/cbnews/20221130/1817895.md">江峰：核酸乱象是清零失败替罪羊？张姗姗神秘背景。白纸革命潮退？解封还是更紧？会有清算吗？【江峰漫谈20221129第588期】</a></li>
+<li><a href="/cbnews/20221201/1818181.md">火速跟进！继广州之后 上海24处疫情高风险区“12月1日零时起”解除管控</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221201/1818303.md" target="_blank">【独家重磅】李燕铭：江泽民病亡 新华社罕见通报其死亡惨状 泄露惊人黑幕 近一个月大量青少年失踪 两大传闻细思极恐 习近平决战江曾（五八） 中共末日危机之全民反共（十）</a></li>
 <li><a href="/comments/20221201/1818294.md" target="_blank">王赫：中共“保交楼”陷入泥潭？</a></li>
 <li><a href="/comments/20221201/1818293.md" target="_blank">【特稿】江泽民死了</a></li>
 <li><a href="/comments/20221201/1818292.md" target="_blank">杨威：“共产党下台”到临界点 世界醒了吗？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221130/1817942.md" target="_blank">李燕铭：习近平绝对权力受到挑战 六四以来最大挑战 白纸革命使习困境加剧 习必须在两三天内做出选择 民运人士联署致栗战书李克强汪洋公开信 要求习近平下台 诺贝尔奖得主：独裁政权不认错 中国输掉抗疫之战 中共末日危机之全民反共（八）</a></li>
 <li><a href="/comments/20221130/1817941.md" target="_blank">李燕铭：中共政法委下令打击白纸革命 搜追抗议者 大城巿公安倾巢而出 上海乌鲁木齐路100米内12警车 学者担心中共当局趁势上新疆化管控 民运人士喊话中国军警别让六四屠城重演 中共末日危机之全民反共（七）</a></li>
 <li><a href="/comments/20221130/1817916.md" target="_blank">白纸安全妙招来了！多位小粉红感人忏悔，港人震撼回应！赵立坚“境外势力”甩锅没戏？</a></li>
-<li><a href="/comments/20221130/1817909.md" target="_blank">波兰国防部：华沙被卷入战争的可能性极高</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 <li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
 <li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 
 </ul>
 </div>
