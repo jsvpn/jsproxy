@@ -19,15 +19,15 @@
 <li><a href="/cbnews/20221201/1818274.md">江峰：江泽民按需死亡？乌鲁木齐头七敏感日，对人民的祭奠被引流为对党魁的悼念。江泽民比习近平好麽？中共纸牌屋，爆料习近平的升迁之路就是江曾打造，习之恶如何传承江之坏【江峰漫谈20221130第589期】</a></li>
 <li><a href="/cnnews/20221201/1818437.md">整治翻墙工具？网信办内部密会被曝光！【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221201/1818484.md">江泽民病逝前四天病情急转直下 上海市民目送江泽民灵车经过</a></li>
-<li><a href="/comments/20221201/1818303.md">【独家重磅】李燕铭：江泽民病亡 新华社罕见通报其死亡惨状 泄露惊人黑幕 近一个月大量青少年失踪 两大传闻细思极恐 习近平决战江曾（五八） 中共末日危机之全民反共（十）</a></li>
 <li><a href="/sohnews/20221201/1818487.md">💥习让江死，江不得不死？习恨透的“江泽民起家真相”！江之死与白纸革命；正确认识江及其时代；习一度代表红二代清理江派遗产；江的另类政治遗产；江干得最坏的事｜新闻拍案惊奇 大宇｜【时事大聚焦】访谈精华</a></li>
+<li><a href="/comments/20221201/1818303.md">【独家重磅】李燕铭：江泽民病亡 新华社罕见通报其死亡惨状 泄露惊人黑幕 近一个月大量青少年失踪 两大传闻细思极恐 习近平决战江曾（五八） 中共末日危机之全民反共（十）</a></li>
 <li><a href="/cnnews/20221201/1818461.md">快讯！著名黑客组织：我们已经黑进了中国政府网站【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221201/1818147.md">“江贼早死啦 习近平故意拖至今日”ShitaoTV - 01 (30 /11/22) 数万字的告同胞书：等同江贼-中共的灭绝书</a></li>
 <li><a href="/finance/20221201/1818266.md">消息宣布后，人民币大涨近650点</a></li>
-<li><a href="/cnnews/20221201/1818234.md">华尔街预测失误了</a></li>
-<li><a href="/cnnews/20221201/1818385.md">挑战习近平？白宫宣布：拜登将亲赴台积电</a></li>
-<li><a href="/comments/20221201/1818202.md">【独家重磅】李燕铭：江泽民被定时死亡 白纸革命革去江命敲响中共丧钟 李燕铭半个月前梦见江泽民已死 半个月前中共中央网信办发出紧急通知启动网络应急响应 百度接通知做好置灰准备 中国巨变在即！ 习近平决战江曾（五七） 中共末日危机之全民反共（九）</a></li>
 <li><a href="/sohnews/20221201/1818486.md">🔥江泽民早死了？秘不发丧还是刚刚拔管？习近平憋大招对付白纸革命。日本留学生集会高呼共产党下台！｜薇羽看世间 第575期 20221130</a></li>
+<li><a href="/comments/20221201/1818202.md">【独家重磅】李燕铭：江泽民被定时死亡 白纸革命革去江命敲响中共丧钟 李燕铭半个月前梦见江泽民已死 半个月前中共中央网信办发出紧急通知启动网络应急响应 百度接通知做好置灰准备 中国巨变在即！ 习近平决战江曾（五七） 中共末日危机之全民反共（九）</a></li>
+<li><a href="/cnnews/20221201/1818385.md">挑战习近平？白宫宣布：拜登将亲赴台积电</a></li>
+<li><a href="/cnnews/20221201/1818234.md">华尔街预测失误了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
 <li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 
 </ul>
 </div>
