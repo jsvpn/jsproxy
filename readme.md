@@ -23,11 +23,11 @@
 <li><a href="/finance/20221201/1818266.md">消息宣布后，人民币大涨近650点</a></li>
 <li><a href="/cnnews/20221201/1818385.md">挑战习近平？白宫宣布：拜登将亲赴台积电</a></li>
 <li><a href="/cnnews/20221201/1818234.md">华尔街预测失误了</a></li>
+<li><a href="/comments/20221201/1818559.md">江泽民病死上海！ 有人发现惊人的“千年轮回”巧合</a></li>
 <li><a href="/sohnews/20221201/1818481.md">文睿：又一大信号，中共断粮了；朝鲜日报：中国楼市跌落，进入战斗状态</a></li>
 <li><a href="/baitai/20221201/1818240.md">江死讯会成为下个爆点？明年一危机或降临</a></li>
 <li><a href="/topimagenews/20221201/1818514.md">中国发生白 纸 革 命 投资者大受鼓舞；中国房价大降仍无人接盘：炒房客也扛不住了</a></li>
 <li><a href="/baitai/20221201/1818374.md">网疯传成龙挺白纸革命 「倒戈」真相曝光</a></li>
-<li><a href="/comments/20221201/1818559.md">江泽民病死上海！ 有人发现惊人的“千年轮回”巧合</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221202/1818676.md" target="_blank">“白纸运动”民众被抓 多位律师提供援助遭辱骂、威胁</a></li>
+<li><a href="/comments/20221202/1818675.md" target="_blank">【白纸革命】德国使馆声援？微博PO白纸被下架</a></li>
+<li><a href="/comments/20221202/1818674.md" target="_blank">上海27岁抗议者被捕后下落不明 引发担忧</a></li>
+<li><a href="/comments/20221202/1818673.md" target="_blank">江泽民死亡破例不开遗体告别式 网传死于17天前</a></li>
+<li><a href="/comments/20221202/1818672.md" target="_blank">【大纪元特稿】江泽民死了</a></li>
 <li><a href="/comments/20221202/1818671.md" target="_blank">港府人大释法延审黎智英 外聘律师签证遭卡</a></li>
 <li><a href="/comments/20221202/1818657.md" target="_blank">布林肯：北约忧中国“不透明”军事扩张、暗助俄罗斯</a></li>
 <li><a href="/comments/20221202/1818650.md" target="_blank">评论 | 余杰：健康码是中国的第五大发明（简体版）</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20221201/1818416.md" target="_blank">雷斯林raist：2022年，让人恶心</a></li>
 <li><a href="/comments/20221201/1818399.md" target="_blank">轶民：从1958年看2022年 大饥荒离我们有多远？</a></li>
 <li><a href="/comments/20221201/1818396.md" target="_blank">杨炼 阿湛 柳建树：白纸诗抄</a></li>
-<li><a href="/comments/20221201/1818395.md" target="_blank">维舟：“境外势力”的幻影</a></li>
-<li><a href="/comments/20221201/1818380.md" target="_blank">【小土豆复仇，开始反共！】</a></li>
-<li><a href="/comments/20221201/1818363.md" target="_blank">对白纸革命的冷漠只是一种政治幼稚病</a></li>
-<li><a href="/comments/20221201/1818362.md" target="_blank">不在清零中爆发，就在清零中灭亡</a></li>
-<li><a href="/comments/20221201/1818361.md" target="_blank">江泽民带头淫乱 盘点其秘书歌手主播情妇</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 <li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 <li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 
 </ul>
 </div>
