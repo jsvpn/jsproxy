@@ -12,22 +12,22 @@
 <li><a href="/cbnews/20221201/1818181.md">火速跟进！继广州之后 上海24处疫情高风险区“12月1日零时起”解除管控</a></li>
 <li><a href="/topimagenews/20221201/1818345.md">赵立坚国内做战狼 老婆国外偷着乐 两口子赢麻了</a></li>
 <li><a href="/cbnews/20221201/1818180.md">江泽民风流私生活传言不断 与宋祖英关系暧昧受关注</a></li>
-<li><a href="/topimagenews/20221201/1818348.md">李锐曾曝出内幕 江泽民因一句话恨死这个中共总书记</a></li>
 <li><a href="/cnnews/20221201/1818226.md">中国全网黑白…网友吓坏以为手机中毒：太阴间了</a></li>
+<li><a href="/topimagenews/20221201/1818348.md">李锐曾曝出内幕 江泽民因一句话恨死这个中共总书记</a></li>
 <li><a href="/cbnews/20221130/1818074.md">江泽民死亡 其政治诈骗丑闻再被翻出</a></li>
 <li><a href="/cbnews/20221201/1818150.md">中国封控人民怎么买菜？1夸张画面流出…众人看怒：把人民当成猪？</a></li>
 <li><a href="/cnnews/20221201/1818437.md">整治翻墙工具？网信办内部密会被曝光！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221130/1818085.md">江泽民整肃媒体登权力最高峰 “六四天安门”成了最暗黑一段</a></li>
-<li><a href="/cbnews/20221201/1818274.md">江峰：江泽民按需死亡？乌鲁木齐头七敏感日，对人民的祭奠被引流为对党魁的悼念。江泽民比习近平好麽？中共纸牌屋，爆料习近平的升迁之路就是江曾打造，习之恶如何传承江之坏【江峰漫谈20221130第589期】</a></li>
-<li><a href="/finance/20221201/1818266.md">消息宣布后，人民币大涨近650点</a></li>
-<li><a href="/sohnews/20221201/1818147.md">“江贼早死啦 习近平故意拖至今日”ShitaoTV - 01 (30 /11/22) 数万字的告同胞书：等同江贼-中共的灭绝书</a></li>
-<li><a href="/comments/20221201/1818303.md">【独家重磅】李燕铭：江泽民病亡 新华社罕见通报其死亡惨状 泄露惊人黑幕 近一个月大量青少年失踪 两大传闻细思极恐 习近平决战江曾（五八） 中共末日危机之全民反共（十）</a></li>
-<li><a href="/cnnews/20221201/1818234.md">华尔街预测失误了</a></li>
-<li><a href="/comments/20221201/1818202.md">【独家重磅】李燕铭：江泽民被定时死亡 白纸革命革去江命敲响中共丧钟 李燕铭半个月前梦见江泽民已死 半个月前中共中央网信办发出紧急通知启动网络应急响应 百度接通知做好置灰准备 中国巨变在即！ 习近平决战江曾（五七） 中共末日危机之全民反共（九）</a></li>
-<li><a href="/cnnews/20221201/1818385.md">挑战习近平？白宫宣布：拜登将亲赴台积电</a></li>
 <li><a href="/cnnews/20221201/1818483.md">白纸革命后 烧方舱行动开始了 有燎原之势【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20221201/1818267.md">心碎：11月30日，兰州榆中县第一中学18岁女学生</a></li>
+<li><a href="/cbnews/20221201/1818274.md">江峰：江泽民按需死亡？乌鲁木齐头七敏感日，对人民的祭奠被引流为对党魁的悼念。江泽民比习近平好麽？中共纸牌屋，爆料习近平的升迁之路就是江曾打造，习之恶如何传承江之坏【江峰漫谈20221130第589期】</a></li>
+<li><a href="/comments/20221201/1818303.md">【独家重磅】李燕铭：江泽民病亡 新华社罕见通报其死亡惨状 泄露惊人黑幕 近一个月大量青少年失踪 两大传闻细思极恐 习近平决战江曾（五八） 中共末日危机之全民反共（十）</a></li>
+<li><a href="/sohnews/20221201/1818147.md">“江贼早死啦 习近平故意拖至今日”ShitaoTV - 01 (30 /11/22) 数万字的告同胞书：等同江贼-中共的灭绝书</a></li>
+<li><a href="/finance/20221201/1818266.md">消息宣布后，人民币大涨近650点</a></li>
+<li><a href="/comments/20221201/1818202.md">【独家重磅】李燕铭：江泽民被定时死亡 白纸革命革去江命敲响中共丧钟 李燕铭半个月前梦见江泽民已死 半个月前中共中央网信办发出紧急通知启动网络应急响应 百度接通知做好置灰准备 中国巨变在即！ 习近平决战江曾（五七） 中共末日危机之全民反共（九）</a></li>
+<li><a href="/cnnews/20221201/1818234.md">华尔街预测失误了</a></li>
+<li><a href="/cnnews/20221201/1818385.md">挑战习近平？白宫宣布：拜登将亲赴台积电</a></li>
 <li><a href="/baitai/20221201/1818240.md">江死讯会成为下个爆点？明年一危机或降临</a></li>
+<li><a href="/cnnews/20221201/1818267.md">心碎：11月30日，兰州榆中县第一中学18岁女学生</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221201/1818541.md" target="_blank">转弯了？ 中国“封控先锋”孙春兰只字未提“动态清零”</a></li>
 <li><a href="/comments/20221201/1818451.md" target="_blank">【独家重磅】李燕铭：江泽民死亡 江家白手套布局跑路 医药界阿里巴巴药明康德创始人李革赵宁夫妇密集减持套现数十亿 已入美籍 与江泽民家族及周永康李克强隐秘关系揭秘 习近平决战江曾（五九） 习近平李克强明争暗斗内幕（七四）</a></li>
 <li><a href="/comments/20221201/1818425.md" target="_blank">英媒：北京四通桥事件催生美国年轻华人政治表达</a></li>
 <li><a href="/comments/20221201/1818417.md" target="_blank">曲卫国：强烈呼吁上海政府紧急叫停警察随意检查公民手机的做法</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221201/1818291.md" target="_blank">王友群：将江泽民押上法律的审判台</a></li>
 <li><a href="/comments/20221201/1818277.md" target="_blank">正值白纸革命，江泽民死了还被利用一把？江时代比习时代好？下一步中国会发生什麽？</a></li>
 <li><a href="/comments/20221201/1818268.md" target="_blank">【方菲时间】正值白纸革命，江泽民死了还被利用一把？江时代比习时代好？下一步中国会发生什么？</a></li>
-<li><a href="/comments/20221201/1818212.md" target="_blank">震撼！白纸登上世界大媒体头条</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
 <li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
 
 </ul>
 </div>
