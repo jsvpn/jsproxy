@@ -23,10 +23,10 @@
 <li><a href="/ssgc/20221202/1818872.md">〖兲朝浮世绘〗广州用数据证明中共错了</a></li>
 <li><a href="/cnnews/20221202/1818788.md">东京 万万没想到 白纸革命抗议人数 远超六四</a></li>
 <li><a href="/comments/20221202/1818882.md">江泽民愣是没挡住白纸舆情！习近平彻底准备先认怂了！秋後算帐，算学生还是江派？</a></li>
-<li><a href="/cnnews/20221202/1818839.md">中共红三代发声：历史的主体是人民！【阿波罗网报道】</a></li>
-<li><a href="/baitai/20221201/1818553.md">资深记者：不祥之兆 习政敌遇历史性机会</a></li>
 <li><a href="/topimagenews/20221202/1818666.md">央视转播世足赛画面一片黑白 中国网友急跳脚</a></li>
+<li><a href="/cnnews/20221202/1818839.md">中共红三代发声：历史的主体是人民！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221202/1818845.md">【微博精粹】蛤蟆：始于64，终于A4</a></li>
+<li><a href="/comments/20221202/1818891.md">习近平四天遭遇两大挫败，重现1962年政局！反习派有灭顶危机，中国与台湾都在危险中（一平论政2022/12/1)</a></li>
 <li><a href="/cbnews/20221202/1818798.md">江峰：不提清零，全国解封？孙春兰连开两会称新冠变种低致病性；中共方舱续建，暴行继续，解封为进一步对抗白纸革命镇压管控做缓冲【江峰漫谈20221201】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221202/1818981.md" target="_blank">追查国际公告：彻底清算审判江泽民反人类罪</a></li>
 <li><a href="/comments/20221202/1818961.md" target="_blank">邪恶的蜥蜴人，还在地球上？！特洛伊战败希腊 逃至另外空间！宇宙中巨大爆炸，是因为⋯</a></li>
 <li><a href="/comments/20221202/1818937.md" target="_blank">北明：为法轮功正名</a></li>
 <li><a href="/cbnews/20221202/1818928.md" target="_blank">中国各地渐推“阳性居隔” 不用邻居签名同意</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221201/1818204.md" target="_blank">培养“党的接班人”？ 郑州招募少年当防疫人员</a></li>
 <li><a href="/cbnews/20221201/1818203.md" target="_blank">火了！中国这个城市被指“病毒绕着走”</a></li>
 <li><a href="/cbnews/20221201/1818191.md" target="_blank">权威认证！美国防部报告 列出中共对台4大可能军事行动</a></li>
-<li><a href="/cbnews/20221201/1818181.md" target="_blank">火速跟进！继广州之后 上海24处疫情高风险区“12月1日零时起”解除管控</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221202/1818978.md" target="_blank">【杜耀明评论】人民怒火挡不住，一党专政到尽头？</a></li>
 <li><a href="/comments/20221202/1818961.md" target="_blank">邪恶的蜥蜴人，还在地球上？！特洛伊战败希腊 逃至另外空间！宇宙中巨大爆炸，是因为⋯</a></li>
 <li><a href="/comments/20221202/1818891.md" target="_blank">习近平四天遭遇两大挫败，重现1962年政局！反习派有灭顶危机，中国与台湾都在危险中（一平论政2022/12/1)</a></li>
 <li><a href="/comments/20221202/1818884.md" target="_blank">法轮功奇迹：红斑狼疮神奇康复案例（2）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221202/1818623.md" target="_blank">时事大家谈: 白纸风暴撼动稳定大局？政法委下令秋后算帐？</a></li>
 <li><a href="/comments/20221201/1818589.md" target="_blank">逆民意而行？山东省今年拟砸230亿重金建方舱医院</a></li>
 <li><a href="/comments/20221201/1818588.md" target="_blank">江泽民死亡 法轮功人权律师团发五点声明</a></li>
-<li><a href="/comments/20221201/1818559.md" target="_blank">江泽民病死上海！ 有人发现惊人的“千年轮回”巧合</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
 <li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20221126/1816237.md" target="_blank">天亮时分：新疆大火，打响全民反抗第一枪，重庆也暴动；中共可能的应对和我们可能的反制策略（政论天下第859集 20221125）</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 
 </ul>
 </div>
