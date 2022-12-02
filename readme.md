@@ -12,8 +12,8 @@
 <li><a href="/comments/20221202/1818673.md">江泽民死亡破例不开遗体告别式 网传死于17天前</a></li>
 <li><a href="/cnnews/20221202/1818702.md">紧急关注！传南京传媒学院女生李康梦被捕失联</a></li>
 <li><a href="/sohnews/20221202/1818641.md">“江贼尸体溃败 太快啦！化妆师“无以回春””ShitaoTV - 01 (01 /12/22) 腐败治国让许多中共国民称道-大难必临头！</a></li>
-<li><a href="/renquan/20221202/1818716.md">前美国驻华大使洛徳: 习近平拒绝了江泽民尝试过的某些发展方向</a></li>
 <li><a href="/comments/20221202/1818891.md">习近平四天遭遇两大挫败，重现1962年政局！反习派有灭顶危机，中国与台湾都在危险中（一平论政2022/12/1)</a></li>
+<li><a href="/renquan/20221202/1818716.md">前美国驻华大使洛徳: 习近平拒绝了江泽民尝试过的某些发展方向</a></li>
 <li><a href="/yule/20221202/1818832.md">“Angelababy”消失了！惊被用2字取代 网疯猜“可怕内幕”</a></li>
 <li><a href="/topimagenews/20221202/1818870.md">江泽民逝世 普京第一时间发声 高度评价背后的惊天丑闻【阿波罗网报道】</a></li>
 <li><a href="/comments/20221202/1818876.md">【独家重磅】李燕铭：习近平取消江泽民遗体告别式 四大内幕揭秘 李鹏遗体告别式曾现重大异常 习近平决战江曾（六十）</a></li>
@@ -22,8 +22,8 @@
 <li><a href="/ssgc/20221202/1818872.md">〖兲朝浮世绘〗广州用数据证明中共错了</a></li>
 <li><a href="/comments/20221202/1818882.md">江泽民愣是没挡住白纸舆情！习近平彻底准备先认怂了！秋後算帐，算学生还是江派？</a></li>
 <li><a href="/cnnews/20221202/1818788.md">东京 万万没想到 白纸革命抗议人数 远超六四</a></li>
-<li><a href="/cnnews/20221202/1818839.md">中共红三代发声：历史的主体是人民！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221202/1818923.md">多地防疫放开 富士康事件谜底在这？</a></li>
+<li><a href="/cnnews/20221202/1818839.md">中共红三代发声：历史的主体是人民！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221202/1818666.md">央视转播世足赛画面一片黑白 中国网友急跳脚</a></li>
 <li><a href="/topimagenews/20221202/1818845.md">【微博精粹】蛤蟆：始于64，终于A4</a></li>
 <li><a href="/cbnews/20221202/1818798.md">江峰：不提清零，全国解封？孙春兰连开两会称新冠变种低致病性；中共方舱续建，暴行继续，解封为进一步对抗白纸革命镇压管控做缓冲【江峰漫谈20221201】</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
 <li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 <li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
 
 </ul>
 </div>
