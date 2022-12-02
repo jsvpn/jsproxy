@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221202/1818694.md">突发 传中共中央下达秘密文件 称中国将推行的新型防疫模式</a></li>
-<li><a href="/comments/20221201/1818559.md">江泽民病死上海！ 有人发现惊人的“千年轮回”巧合</a></li>
 <li><a href="/topimagenews/20221202/1818718.md">带头高喊“习近平下台”的上海青年，现在怎样了</a></li>
 <li><a href="/cbnews/20221202/1818773.md">天亮时分：什么信号？江遗体告别被取消，胡锦涛将很快现身？几个误读和迷思，江派之后并无团派和习派；新冠疫情大面积解封在即（政论天下第865集 20221201）</a></li>
 <li><a href="/topimagenews/20221202/1818659.md">习将放手整肃江派人马？ 他曝习已坐在火山口上</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/topimagenews/20221201/1818580.md">曾到过美军“51区”！前CIA探员临死前认了 见过活生生的外星人夫妇</a></li>
 <li><a href="/sohnews/20221202/1818641.md">“江贼尸体溃败 太快啦！化妆师“无以回春””ShitaoTV - 01 (01 /12/22) 腐败治国让许多中共国民称道-大难必临头！</a></li>
 <li><a href="/yule/20221202/1818832.md">“Angelababy”消失了！惊被用2字取代 网疯猜“可怕内幕”</a></li>
-<li><a href="/topimagenews/20221202/1818870.md">江泽民逝世 普京第一时间发声 高度评价背后的惊天丑闻【阿波罗网报道】</a></li>
 <li><a href="/renquan/20221202/1818716.md">前美国驻华大使洛徳: 习近平拒绝了江泽民尝试过的某些发展方向</a></li>
+<li><a href="/topimagenews/20221202/1818870.md">江泽民逝世 普京第一时间发声 高度评价背后的惊天丑闻【阿波罗网报道】</a></li>
 <li><a href="/renquan/20221201/1818591.md">白纸革命被抓捕者信息收集</a></li>
 <li><a href="/comments/20221202/1818876.md">【独家重磅】李燕铭：习近平取消江泽民遗体告别式 四大内幕揭秘 李鹏遗体告别式曾现重大异常 习近平决战江曾（六十）</a></li>
 <li><a href="/sohnews/20221202/1818813.md">新节日诞生，宋祖英庆祝守寡？江泽民未得善终？知情人透两大秘密？江多次换器官，青少年失踪之迷？将整肃江氏家族？马云低调住日本；确信有“习江斗”，习近平并不风光【新闻看点 李沐阳12.1】</a></li>
+<li><a href="/comments/20221202/1818891.md">习近平四天遭遇两大挫败，重现1962年政局！反习派有灭顶危机，中国与台湾都在危险中（一平论政2022/12/1)</a></li>
 <li><a href="/ssgc/20221202/1818872.md">〖兲朝浮世绘〗广州用数据证明中共错了</a></li>
 <li><a href="/cnnews/20221202/1818788.md">东京 万万没想到 白纸革命抗议人数 远超六四</a></li>
 <li><a href="/comments/20221202/1818882.md">江泽民愣是没挡住白纸舆情！习近平彻底准备先认怂了！秋後算帐，算学生还是江派？</a></li>
-<li><a href="/topimagenews/20221202/1818666.md">央视转播世足赛画面一片黑白 中国网友急跳脚</a></li>
 <li><a href="/cnnews/20221202/1818839.md">中共红三代发声：历史的主体是人民！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221202/1818666.md">央视转播世足赛画面一片黑白 中国网友急跳脚</a></li>
 <li><a href="/topimagenews/20221202/1818845.md">【微博精粹】蛤蟆：始于64，终于A4</a></li>
-<li><a href="/comments/20221202/1818891.md">习近平四天遭遇两大挫败，重现1962年政局！反习派有灭顶危机，中国与台湾都在危险中（一平论政2022/12/1)</a></li>
 <li><a href="/cbnews/20221202/1818798.md">江峰：不提清零，全国解封？孙春兰连开两会称新冠变种低致病性；中共方舱续建，暴行继续，解封为进一步对抗白纸革命镇压管控做缓冲【江峰漫谈20221201】</a></li>
+<li><a href="/cnnews/20221202/1818930.md">你说解封了有人会失落吗？有，而且还很多</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221202/1818985.md" target="_blank">又有造假？桂林大学生没做核酸 仍出现检测结果</a></li>
+<li><a href="/comments/20221202/1818984.md" target="_blank">中国驻英大使馆申请迁移被拒 伦敦市议会︰考量安全和自由</a></li>
+<li><a href="/comments/20221202/1818983.md" target="_blank">佛奇：中国封控严苛、国产疫苗不很有效 应提供民众高效疫苗</a></li>
 <li><a href="/comments/20221202/1818978.md" target="_blank">【杜耀明评论】人民怒火挡不住，一党专政到尽头？</a></li>
 <li><a href="/comments/20221202/1818961.md" target="_blank">邪恶的蜥蜴人，还在地球上？！特洛伊战败希腊 逃至另外空间！宇宙中巨大爆炸，是因为⋯</a></li>
 <li><a href="/comments/20221202/1818891.md" target="_blank">习近平四天遭遇两大挫败，重现1962年政局！反习派有灭顶危机，中国与台湾都在危险中（一平论政2022/12/1)</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221202/1818650.md" target="_blank">评论 | 余杰：健康码是中国的第五大发明（简体版）</a></li>
 <li><a href="/comments/20221202/1818638.md" target="_blank">赵匡胤千里送京娘 “今宵一死酬公子，彼此清名天地知。”</a></li>
 <li><a href="/comments/20221202/1818624.md" target="_blank">时事大家谈: 微妙时刻江泽民逝世,十六年掌权如何盖棺论定？</a></li>
-<li><a href="/comments/20221202/1818623.md" target="_blank">时事大家谈: 白纸风暴撼动稳定大局？政法委下令秋后算帐？</a></li>
-<li><a href="/comments/20221201/1818589.md" target="_blank">逆民意而行？山东省今年拟砸230亿重金建方舱医院</a></li>
-<li><a href="/comments/20221201/1818588.md" target="_blank">江泽民死亡 法轮功人权律师团发五点声明</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20221126/1816237.md" target="_blank">天亮时分：新疆大火，打响全民反抗第一枪，重庆也暴动；中共可能的应对和我们可能的反制策略（政论天下第859集 20221125）</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 <li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 <li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 
 </ul>
 </div>
