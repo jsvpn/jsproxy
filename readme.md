@@ -11,20 +11,20 @@
 <li><a href="/cbnews/20221202/1818773.md">天亮时分：什么信号？江遗体告别被取消，胡锦涛将很快现身？几个误读和迷思，江派之后并无团派和习派；新冠疫情大面积解封在即（政论天下第865集 20221201）</a></li>
 <li><a href="/topimagenews/20221202/1818659.md">习将放手整肃江派人马？ 他曝习已坐在火山口上</a></li>
 <li><a href="/cnnews/20221202/1818702.md">紧急关注！传南京传媒学院女生李康梦被捕失联</a></li>
-<li><a href="/topimagenews/20221201/1818580.md">曾到过美军“51区”！前CIA探员临死前认了 见过活生生的外星人夫妇</a></li>
 <li><a href="/comments/20221202/1818673.md">江泽民死亡破例不开遗体告别式 网传死于17天前</a></li>
+<li><a href="/topimagenews/20221201/1818580.md">曾到过美军“51区”！前CIA探员临死前认了 见过活生生的外星人夫妇</a></li>
 <li><a href="/sohnews/20221202/1818641.md">“江贼尸体溃败 太快啦！化妆师“无以回春””ShitaoTV - 01 (01 /12/22) 腐败治国让许多中共国民称道-大难必临头！</a></li>
 <li><a href="/yule/20221202/1818832.md">“Angelababy”消失了！惊被用2字取代 网疯猜“可怕内幕”</a></li>
 <li><a href="/topimagenews/20221202/1818870.md">江泽民逝世 普京第一时间发声 高度评价背后的惊天丑闻【阿波罗网报道】</a></li>
-<li><a href="/renquan/20221201/1818591.md">白纸革命被抓捕者信息收集</a></li>
 <li><a href="/renquan/20221202/1818716.md">前美国驻华大使洛徳: 习近平拒绝了江泽民尝试过的某些发展方向</a></li>
+<li><a href="/renquan/20221201/1818591.md">白纸革命被抓捕者信息收集</a></li>
 <li><a href="/comments/20221202/1818876.md">【独家重磅】李燕铭：习近平取消江泽民遗体告别式 四大内幕揭秘 李鹏遗体告别式曾现重大异常 习近平决战江曾（六十）</a></li>
 <li><a href="/sohnews/20221202/1818813.md">新节日诞生，宋祖英庆祝守寡？江泽民未得善终？知情人透两大秘密？江多次换器官，青少年失踪之迷？将整肃江氏家族？马云低调住日本；确信有“习江斗”，习近平并不风光【新闻看点 李沐阳12.1】</a></li>
 <li><a href="/ssgc/20221202/1818872.md">〖兲朝浮世绘〗广州用数据证明中共错了</a></li>
 <li><a href="/cnnews/20221202/1818788.md">东京 万万没想到 白纸革命抗议人数 远超六四</a></li>
+<li><a href="/comments/20221202/1818882.md">江泽民愣是没挡住白纸舆情！习近平彻底准备先认怂了！秋後算帐，算学生还是江派？</a></li>
 <li><a href="/cnnews/20221202/1818839.md">中共红三代发声：历史的主体是人民！【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221201/1818553.md">资深记者：不祥之兆 习政敌遇历史性机会</a></li>
-<li><a href="/comments/20221202/1818882.md">江泽民愣是没挡住白纸舆情！习近平彻底准备先认怂了！秋後算帐，算学生还是江派？</a></li>
 <li><a href="/topimagenews/20221202/1818666.md">央视转播世足赛画面一片黑白 中国网友急跳脚</a></li>
 <li><a href="/topimagenews/20221202/1818845.md">【微博精粹】蛤蟆：始于64，终于A4</a></li>
 <li><a href="/cbnews/20221202/1818798.md">江峰：不提清零，全国解封？孙春兰连开两会称新冠变种低致病性；中共方舱续建，暴行继续，解封为进一步对抗白纸革命镇压管控做缓冲【江峰漫谈20221201】</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 <li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
 <li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 
 </ul>
 </div>
