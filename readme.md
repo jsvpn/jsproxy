@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221203/1819157.md">石家庄传来，疑似“内部会议”被曝光</a></li>
 <li><a href="/cbnews/20221203/1819251.md">天亮时分：习近平对白纸革命的首次表态，托克维尔预言正在实现；“精准防疫”变“精准镇压”？美参议院发布最严厉的警告；（政论天下第866集 20221202）</a></li>
 <li><a href="/baitai/20221203/1819245.md">习不举行江泽民遗体告别仪式 专家解析原因</a></li>
 <li><a href="/cbnews/20221203/1819217.md">全网疯传：许家印从高楼一跃而下【阿波罗网报道】</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/topimagenews/20221203/1819302.md">江泽民挂掉 美英印政府不睬 其它国家在联合国姿态各异【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221203/1819373.md">城市疫情将大爆发，乡村政权会先瓦解</a></li>
 <li><a href="/topimagenews/20221203/1819264.md">普丁突蹦这句话 日媒大惊…</a></li>
-<li><a href="/cbnews/20221203/1819352.md">紧急通知：大纽约地区声援白纸革命！将冒雨大游行（如果下雨的话）12/3 周六</a></li>
 <li><a href="/ssgc/20221203/1819262.md">〖兲朝浮世绘〗今日最强音：没有人民的拥护，你算个什么东西？</a></li>
+<li><a href="/cbnews/20221203/1819352.md">紧急通知：大纽约地区声援白纸革命！将冒雨大游行（如果下雨的话）12/3 周六</a></li>
 <li><a href="/baitai/20221203/1819382.md">习痛失两大政权根基 帕克再预告中共垮台</a></li>
-<li><a href="/yule/20221203/1819358.md">张兰曝大S天价电费原因 网友实地考察发现真相</a></li>
 <li><a href="/sohnews/20221203/1819209.md">陈破空：罕见！习近平对外宾承认：大学生是抗议主流！江讣告照抄邓讣告，重大段落暗示习退位？秋后算账埋火种。盛传许家印跳楼？直播与互动。美东12月2日晚8点、即中港台12月3日早9点</a></li>
+<li><a href="/yule/20221203/1819358.md">张兰曝大S天价电费原因 网友实地考察发现真相</a></li>
 <li><a href="/topimagenews/20221203/1819295.md">冲破封锁线!大白落跑 北京、武汉民众强行撬开铁门自行解封</a></li>
 <li><a href="/topimagenews/20221203/1819408.md">江泽民之死 会演变为另一场六四吗？【阿波罗网报道】</a></li>
 <li><a href="/headline/20221203/1819188.md">推特上的中国：“白纸运动”起效果？习近平据报首度承认疫情导致了抗议</a></li>
 <li><a href="/lifebaike/20221203/1819319.md">“淫太过，必有祸”：此3欲，若太过，易招祸患</a></li>
+<li><a href="/weiquan/20221204/1819417.md">因在北京八个核酸亭上写了&#8220;三&#8221;&#8220;年&#8221;&#8220;了&#8221;&#8220;我&#8221;&#8220;已&#8221;&#8220;麻&#8221;&#8220;木&#8221;&#8220;了&#8221;而遭刑事拘留的中央美术学院毕业生张东辉的案情通报</a></li>
 <li><a href="/health/20221203/1819323.md">研究癌症几十年，5位院士给出“抗癌处方”，简单却很少人知道</a></li>
 <li><a href="/sohnews/20221203/1819185.md">“突发！马斯克宣布美东时间晚5点 现场公布亨特拜登电脑盘所有资料！”ShitaoTV - 01 (02 /12/22) 现场答疑（请上推特跟踪马斯克帐号）</a></li>
 <li><a href="/worldnews/20221203/1819277.md">普京惊传摔下楼梯大小便失禁 莫斯科急了</a></li>
-<li><a href="/weiquan/20221204/1819417.md">因在北京八个核酸亭上写了&#8220;三&#8221;&#8220;年&#8221;&#8220;了&#8221;&#8220;我&#8221;&#8220;已&#8221;&#8220;麻&#8221;&#8220;木&#8221;&#8220;了&#8221;而遭刑事拘留的中央美术学院毕业生张东辉的案情通报</a></li>
 <li><a href="/cnnews/20221203/1819282.md">iOS16.1.2正式版史诗级优化，续航性能太强</a></li>
 <li><a href="/cnnews/20221203/1819174.md">中国女骑士重摔躺地 颤抖求救被往来人车当空气</a></li>
+<li><a href="/ssgc/20221203/1819210.md">〖微博谈〗这不就点点头的事儿</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 <li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
 
 </ul>
 </div>
