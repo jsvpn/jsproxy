@@ -8,26 +8,26 @@
 <li><a href="/comments/20221202/1818891.md">习近平四天遭遇两大挫败，重现1962年政局！反习派有灭顶危机，中国与台湾都在危险中（一平论政2022/12/1)</a></li>
 <li><a href="/topimagenews/20221203/1819100.md">许家印跳楼？事件反转反转再反转….</a></li>
 <li><a href="/topimagenews/20221203/1819157.md">石家庄传来，疑似“内部会议”被曝光</a></li>
-<li><a href="/cnnews/20221202/1818930.md">你说解封了有人会失落吗？有，而且还很多</a></li>
 <li><a href="/ssgc/20221202/1819011.md">习近平说：抗议主流是对疫情不满的学生</a></li>
 <li><a href="/topimagenews/20221203/1819088.md">一招能避开 中共警方利用手机讯号逮捕示威者 网传新措施</a></li>
 <li><a href="/cbnews/20221203/1819217.md">全网疯传：许家印从高楼一跃而下【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20221202/1818982.md">习近平应该不只看到了“白纸”</a></li>
 <li><a href="/sohnews/20221202/1818963.md">习近平怂了？孙春兰不提“动态清零”官媒大转向…… 新华社连发评论“快封快解、应解尽解”科学防控.</a></li>
+<li><a href="/ssgc/20221202/1818982.md">习近平应该不只看到了“白纸”</a></li>
 <li><a href="/cbnews/20221203/1819251.md">天亮时分：习近平对白纸革命的首次表态，托克维尔预言正在实现；“精准防疫”变“精准镇压”？美参议院发布最严厉的警告；（政论天下第866集 20221202）</a></li>
 <li><a href="/headline/20221202/1818944.md">欧洲理事会主席访华提「白纸运动」 习近平充耳不闻吹捧「社会稳定」</a></li>
 <li><a href="/sohnews/20221203/1819142.md">【直播】习近平给白纸运动定性！被捕者信息流出，“白纸第一人”与“共产党下台”第一人身份曝光；许家印传跳楼出事，公安发布罕见3个字</a></li>
 <li><a href="/cnnews/20221203/1819040.md">传普丁上楼梯“尾椎着地”惨摔狂滑7阶 医检查见这幕秒停手</a></li>
 <li><a href="/baitai/20221202/1818974.md">白纸革命引发锁国？百万网红机场哭诉护照被注销</a></li>
 <li><a href="/baitai/20221203/1819245.md">习不举行江泽民遗体告别仪式 专家解析原因</a></li>
-<li><a href="/baitai/20221202/1818988.md">中共表面解封 背后暗涌不断 风暴恐怕才刚开始</a></li>
 <li><a href="/topimagenews/20221203/1819264.md">普丁突蹦这句话 日媒大惊…</a></li>
+<li><a href="/baitai/20221202/1818988.md">中共表面解封 背后暗涌不断 风暴恐怕才刚开始</a></li>
 <li><a href="/topimagenews/20221203/1819099.md">中共警方追查抗议者搞砸：很多人反而更坚强 多细节曝光中共如何用手机追捕示威者</a></li>
 <li><a href="/topimagenews/20221203/1819101.md">“核酸女王”张姗姗员工领12万工资画面曝光？</a></li>
+<li><a href="/topimagenews/20221203/1819302.md">江泽民挂掉 美英印政府不睬 其它国家在联合国姿态各异【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221203/1819209.md">陈破空：罕见！习近平对外宾承认：大学生是抗议主流！江讣告照抄邓讣告，重大段落暗示习退位？秋后算账埋火种。盛传许家印跳楼？直播与互动。美东12月2日晚8点、即中港台12月3日早9点</a></li>
 <li><a href="/cnnews/20221203/1819062.md">侠盗现身？ 运平壤200公斤黄金遭抢 北朝鲜边境拉紧报</a></li>
-<li><a href="/topimagenews/20221203/1819302.md">江泽民挂掉 美英印政府不睬 其它国家在联合国姿态各异【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221203/1819262.md">〖兲朝浮世绘〗今日最强音：没有人民的拥护，你算个什么东西？</a></li>
+<li><a href="/headline/20221203/1819188.md">推特上的中国：“白纸运动”起效果？习近平据报首度承认疫情导致了抗议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
 <li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 <li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 
 </ul>
 </div>
