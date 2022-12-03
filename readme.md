@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/yule/20221202/1818832.md">“Angelababy”消失了！惊被用2字取代 网疯猜“可怕内幕”</a></li>
 <li><a href="/comments/20221202/1818891.md">习近平四天遭遇两大挫败，重现1962年政局！反习派有灭顶危机，中国与台湾都在危险中（一平论政2022/12/1)</a></li>
-<li><a href="/topimagenews/20221202/1818870.md">江泽民逝世 普京第一时间发声 高度评价背后的惊天丑闻【阿波罗网报道】</a></li>
+<li><a href="/yule/20221202/1818832.md">“Angelababy”消失了！惊被用2字取代 网疯猜“可怕内幕”</a></li>
 <li><a href="/comments/20221202/1818876.md">【独家重磅】李燕铭：习近平取消江泽民遗体告别式 四大内幕揭秘 李鹏遗体告别式曾现重大异常 习近平决战江曾（六十）</a></li>
+<li><a href="/topimagenews/20221202/1818870.md">江泽民逝世 普京第一时间发声 高度评价背后的惊天丑闻【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221202/1818813.md">新节日诞生，宋祖英庆祝守寡？江泽民未得善终？知情人透两大秘密？江多次换器官，青少年失踪之迷？将整肃江氏家族？马云低调住日本；确信有“习江斗”，习近平并不风光【新闻看点 李沐阳12.1】</a></li>
 <li><a href="/topimagenews/20221203/1819100.md">许家印跳楼？事件反转反转再反转….</a></li>
 <li><a href="/comments/20221202/1818882.md">江泽民愣是没挡住白纸舆情！习近平彻底准备先认怂了！秋後算帐，算学生还是江派？</a></li>
 <li><a href="/cnnews/20221202/1818930.md">你说解封了有人会失落吗？有，而且还很多</a></li>
 <li><a href="/ssgc/20221202/1818872.md">〖兲朝浮世绘〗广州用数据证明中共错了</a></li>
-<li><a href="/cbnews/20221202/1818923.md">多地防疫放开 富士康事件谜底在这？</a></li>
 <li><a href="/topimagenews/20221203/1819088.md">一招能避开 中共警方利用手机讯号逮捕示威者 网传新措施</a></li>
 <li><a href="/topimagenews/20221203/1819157.md">石家庄传来，疑似“内部会议”被曝光</a></li>
+<li><a href="/cbnews/20221202/1818923.md">多地防疫放开 富士康事件谜底在这？</a></li>
 <li><a href="/cnnews/20221202/1818839.md">中共红三代发声：历史的主体是人民！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221202/1818845.md">【微博精粹】蛤蟆：始于64，终于A4</a></li>
 <li><a href="/ssgc/20221202/1819011.md">习近平说：抗议主流是对疫情不满的学生</a></li>
-<li><a href="/cbnews/20221202/1818798.md">江峰：不提清零，全国解封？孙春兰连开两会称新冠变种低致病性；中共方舱续建，暴行继续，解封为进一步对抗白纸革命镇压管控做缓冲【江峰漫谈20221201】</a></li>
-<li><a href="/sohnews/20221202/1818963.md">习近平怂了？孙春兰不提“动态清零”官媒大转向…… 新华社连发评论“快封快解、应解尽解”科学防控.</a></li>
+<li><a href="/topimagenews/20221202/1818845.md">【微博精粹】蛤蟆：始于64，终于A4</a></li>
 <li><a href="/ssgc/20221202/1818982.md">习近平应该不只看到了“白纸”</a></li>
+<li><a href="/sohnews/20221202/1818963.md">习近平怂了？孙春兰不提“动态清零”官媒大转向…… 新华社连发评论“快封快解、应解尽解”科学防控.</a></li>
 <li><a href="/headline/20221202/1818944.md">欧洲理事会主席访华提「白纸运动」 习近平充耳不闻吹捧「社会稳定」</a></li>
 <li><a href="/cnnews/20221203/1819040.md">传普丁上楼梯“尾椎着地”惨摔狂滑7阶 医检查见这幕秒停手</a></li>
 <li><a href="/topimagenews/20221202/1818835.md">北京“大白”罢工高喊“还钱”，中共恶斗暗流涌动【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221202/1818877.md">“华为第二”太强被锁定？惨遭美国狙击！公开悲剧现况</a></li>
 <li><a href="/baitai/20221202/1818974.md">白纸革命引发锁国？百万网红机场哭诉护照被注销</a></li>
+<li><a href="/baitai/20221202/1818988.md">中共表面解封 背后暗涌不断 风暴恐怕才刚开始</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221203/1819251.md" target="_blank">天亮时分：习近平对白纸革命的首次表态，托克维尔预言正在实现；“精准防疫”变“精准镇压”？美参议院发布最严厉的警告；（政论天下第866集 20221202）</a></li>
+<li><a href="/cbnews/20221203/1819237.md" target="_blank">1天5次！桂林大批高校生凭空多出核酸记录…</a></li>
 <li><a href="/cbnews/20221203/1819236.md" target="_blank">江峰：穗公安官方微博突冒许家印三字，炸乱网络引各式猜想，临时工又成替罪羊；大陆陷混乱，方舱按需定点清零，各地拆核酸点，却要求24小时核酸，健康码将成永无解封的镣铐【江峰漫谈20221202第591期】</a></li>
 <li><a href="/cbnews/20221203/1819227.md" target="_blank">风向已变？陆媒称新冠无后遗症 有方舱放人</a></li>
 <li><a href="/cbnews/20221203/1819217.md" target="_blank">全网疯传：许家印从高楼一跃而下【阿波罗网报道】</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20221202/1818660.md" target="_blank">他在大陆工厂流水线“勒杀同事” 比凶手更可怕的是大家都冷眼旁观</a></li>
 <li><a href="/cbnews/20221201/1818379.md" target="_blank">白纸运动 声震海外：海外声援中国国内抗议者视频集锦</a></li>
 <li><a href="/cbnews/20221201/1818594.md" target="_blank">美曝共军两栖作战未达侵台能力！于北辰：除非习近平发疯进犯</a></li>
-<li><a href="/cbnews/20221201/1818581.md" target="_blank">乌鲁木齐市大火后！西安市再传严重火警 酿3死7伤</a></li>
-<li><a href="/cbnews/20221201/1818506.md" target="_blank">风向大变 人民日报：无证据表明新冠有后遗症</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221203/1819242.md" target="_blank">王五四:瑟瑟发抖时，不要赞美任何一片雪花</a></li>
+<li><a href="/comments/20221203/1819241.md" target="_blank">蓝橡树:“海归废物”真实心声</a></li>
+<li><a href="/comments/20221203/1819240.md" target="_blank">李濠仲:习近平应该不只看到了“白纸”</a></li>
 <li><a href="/comments/20221203/1819213.md" target="_blank">美法元首联合声明：重视台海 关切中国挑战</a></li>
 <li><a href="/comments/20221203/1819212.md" target="_blank">声援中国民众 骇客组织展开“白纸”行动</a></li>
 <li><a href="/comments/20221203/1819184.md" target="_blank">文昭：清零政策即将大转弯、白纸革命初战告捷？一段「越纠越左」的往事、道路为何锁死</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221202/1818961.md" target="_blank">邪恶的蜥蜴人，还在地球上？！特洛伊战败希腊 逃至另外空间！宇宙中巨大爆炸，是因为⋯</a></li>
 <li><a href="/comments/20221202/1818891.md" target="_blank">习近平四天遭遇两大挫败，重现1962年政局！反习派有灭顶危机，中国与台湾都在危险中（一平论政2022/12/1)</a></li>
 <li><a href="/comments/20221202/1818884.md" target="_blank">法轮功奇迹：红斑狼疮神奇康复案例（2）</a></li>
-<li><a href="/comments/20221202/1818937.md" target="_blank">北明：为法轮功正名</a></li>
-<li><a href="/comments/20221202/1818882.md" target="_blank">江泽民愣是没挡住白纸舆情！习近平彻底准备先认怂了！秋後算帐，算学生还是江派？</a></li>
-<li><a href="/comments/20221202/1818876.md" target="_blank">【独家重磅】李燕铭：习近平取消江泽民遗体告别式 四大内幕揭秘 李鹏遗体告别式曾现重大异常 习近平决战江曾（六十）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 <li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
 
 </ul>
 </div>
