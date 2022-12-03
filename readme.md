@@ -10,14 +10,14 @@
 <li><a href="/ssgc/20221202/1819011.md">习近平说：抗议主流是对疫情不满的学生</a></li>
 <li><a href="/topimagenews/20221203/1819088.md">一招能避开 中共警方利用手机讯号逮捕示威者 网传新措施</a></li>
 <li><a href="/cbnews/20221203/1819217.md">全网疯传：许家印从高楼一跃而下【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20221202/1818982.md">习近平应该不只看到了“白纸”</a></li>
 <li><a href="/sohnews/20221202/1818963.md">习近平怂了？孙春兰不提“动态清零”官媒大转向…… 新华社连发评论“快封快解、应解尽解”科学防控.</a></li>
+<li><a href="/ssgc/20221202/1818982.md">习近平应该不只看到了“白纸”</a></li>
 <li><a href="/sohnews/20221203/1819142.md">【直播】习近平给白纸运动定性！被捕者信息流出，“白纸第一人”与“共产党下台”第一人身份曝光；许家印传跳楼出事，公安发布罕见3个字</a></li>
 <li><a href="/cbnews/20221203/1819251.md">天亮时分：习近平对白纸革命的首次表态，托克维尔预言正在实现；“精准防疫”变“精准镇压”？美参议院发布最严厉的警告；（政论天下第866集 20221202）</a></li>
 <li><a href="/cnnews/20221203/1819040.md">传普丁上楼梯“尾椎着地”惨摔狂滑7阶 医检查见这幕秒停手</a></li>
 <li><a href="/baitai/20221202/1818974.md">白纸革命引发锁国？百万网红机场哭诉护照被注销</a></li>
-<li><a href="/baitai/20221203/1819245.md">习不举行江泽民遗体告别仪式 专家解析原因</a></li>
 <li><a href="/topimagenews/20221203/1819302.md">江泽民挂掉 美英印政府不睬 其它国家在联合国姿态各异【阿波罗网报道】</a></li>
+<li><a href="/baitai/20221203/1819245.md">习不举行江泽民遗体告别仪式 专家解析原因</a></li>
 <li><a href="/baitai/20221202/1818988.md">中共表面解封 背后暗涌不断 风暴恐怕才刚开始</a></li>
 <li><a href="/topimagenews/20221203/1819264.md">普丁突蹦这句话 日媒大惊…</a></li>
 <li><a href="/topimagenews/20221203/1819099.md">中共警方追查抗议者搞砸：很多人反而更坚强 多细节曝光中共如何用手机追捕示威者</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221203/1819368.md" target="_blank">袁斌：江泽民为何屡次传出死讯？</a></li>
 <li><a href="/comments/20221203/1819299.md" target="_blank">【独家重磅】李燕铭：江泽民死亡敏感期 习近平空降非常人物近距离监控江绵恒 剥夺江绵恒与高层互动露脸机会 习清洗江绵恒及其独立王国 江绵恒或不久卸任上海科技大学校长 接替人选浮现 习近平决战江曾（六一） 习清洗江绵恒暗黑帝国（三十）</a></li>
 <li><a href="/comments/20221203/1819285.md" target="_blank">地球上目前最冷的10个地方，9个在加拿大！这份保命指南请收好</a></li>
 <li><a href="/comments/20221203/1819279.md" target="_blank">阿钟 笑蜀 吾爱西东：白纸诗抄</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221203/1819064.md" target="_blank">时事大家谈: 习近平“十宗罪” 颠覆国家政权的究竟是谁？</a></li>
 <li><a href="/comments/20221203/1819023.md" target="_blank">评论 | 何清涟：江泽民时代的三个关键词之二：开放</a></li>
 <li><a href="/comments/20221202/1819005.md" target="_blank">12/2 【时事大家谈】习近平“十宗罪” 颠覆国家政权的究竟是谁？纸包不住火 “白纸风暴”揭开中共重重黑幕？</a></li>
-<li><a href="/comments/20221202/1818985.md" target="_blank">又有造假？桂林大学生没做核酸 仍出现检测结果</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
 <li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
 
 </ul>
 </div>
