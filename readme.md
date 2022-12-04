@@ -17,12 +17,12 @@
 <li><a href="/ssgc/20221204/1819483.md">〖微博谈〗一货不如一货</a></li>
 <li><a href="/cnnews/20221204/1819582.md">邓小平这段历史被公然篡改！想干啥？【阿波罗网报道】</a></li>
 <li><a href="/worldnews/20221204/1819602.md">金正恩公开处决3高中生 罪名是观看散播韩流节目</a></li>
-<li><a href="/cnnews/20221204/1819531.md">繁华落幕，马云这半年</a></li>
 <li><a href="/sohnews/20221204/1819657.md">陈破空：王岐山亲信呼吁重回改革开放。党内惊人泄密！中印冲突，中方伤亡惨重。中方进贡五十亿用作战争赔偿，印度才收兵。直播与互动。美东12月4日早8点、即中港台12月4日晚9点</a></li>
+<li><a href="/cnnews/20221204/1819531.md">繁华落幕，马云这半年</a></li>
 <li><a href="/lifebaike/20221204/1819622.md">曾红极一时的微波炉，为何如今被日趋"冷落"？主要因为这4个缺点</a></li>
 <li><a href="/ccpdope/20221204/1819591.md">长孙江志成露面 江泽民一称号成笑话</a></li>
-<li><a href="/baitai/20221204/1819444.md">小笑话：江魔头问高僧会哪天死？高僧这样说</a></li>
 <li><a href="/cbnews/20221204/1819662.md">张文宏谈中国疫情：关键不在核酸清零</a></li>
+<li><a href="/baitai/20221204/1819444.md">小笑话：江魔头问高僧会哪天死？高僧这样说</a></li>
 <li><a href="/cnnews/20221204/1819501.md">大反转！iPhone12iP升级iPhone16.2b 优化难以置信</a></li>
 <li><a href="/lifebaike/20221204/1819623.md">汽车长时间“停放”，需要隔3天启动一次？内行：都是吃饱了撑的</a></li>
 <li><a href="/comments/20221204/1819568.md">【杰森视角】中国防疫政策一片混沌！北京走在群体免疫的道路上！外媒透露习近平生活在超现实泡泡中！中国防疫引入动态随机算法！执行“方舱清零”是让方舱未来承担更重要角色？</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221205/1819718.md" target="_blank">山东大雪天强制做核酸惹议 官媒微博删文</a></li>
 <li><a href="/comments/20221205/1819717.md" target="_blank">中国10天3起重大火灾 至少20人死亡</a></li>
 <li><a href="/comments/20221205/1819697.md" target="_blank">武汉大学爆发大规模抗议 学生要求自由返乡</a></li>
 <li><a href="/comments/20221204/1819670.md" target="_blank">江蛤蟆死了 没有遗体告别 网民庆祝</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221204/1819511.md" target="_blank">蔡嘉凌:在中国有真正自由之前台湾不可能无忧无虑</a></li>
 <li><a href="/comments/20221204/1819485.md" target="_blank">无根之风:我们都在一条“海盗船”上</a></li>
 <li><a href="/comments/20221204/1819484.md" target="_blank">雨村：把核酸进行到底</a></li>
-<li><a href="/comments/20221204/1819481.md" target="_blank">项云：中共一贯敌视欺压人民，终酿人民觉醒反抗</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 <li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
 <li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 
 </ul>
 </div>
