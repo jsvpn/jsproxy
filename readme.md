@@ -5,15 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cbnews/20221203/1819251.md">天亮时分：习近平对白纸革命的首次表态，托克维尔预言正在实现；“精准防疫”变“精准镇压”？美参议院发布最严厉的警告；（政论天下第866集 20221202）</a></li>
-<li><a href="/baitai/20221203/1819245.md">习不举行江泽民遗体告别仪式 专家解析原因</a></li>
 <li><a href="/sohnews/20221203/1819321.md">💥江死亡的真实日期！他还有个儿子，名字响当当；江死亡地点就在乌鲁木齐中路旁边？江泽民生前出国，被有关机构盯上，牵出他黑历史：到农村躲半年！江到底是谁的儿子？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20221203/1819302.md">江泽民挂掉 美英印政府不睬 其它国家在联合国姿态各异【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221203/1819373.md">城市疫情将大爆发，乡村政权会先瓦解</a></li>
 <li><a href="/topimagenews/20221203/1819264.md">普丁突蹦这句话 日媒大惊…</a></li>
 <li><a href="/ssgc/20221203/1819262.md">〖兲朝浮世绘〗今日最强音：没有人民的拥护，你算个什么东西？</a></li>
-<li><a href="/cbnews/20221203/1819352.md">紧急通知：大纽约地区声援白纸革命！将冒雨大游行（如果下雨的话）12/3 周六</a></li>
 <li><a href="/topimagenews/20221204/1819441.md">WSJ：中国政府已错失最佳时机</a></li>
+<li><a href="/cbnews/20221203/1819352.md">紧急通知：大纽约地区声援白纸革命！将冒雨大游行（如果下雨的话）12/3 周六</a></li>
 <li><a href="/baitai/20221203/1819382.md">习痛失两大政权根基 帕克再预告中共垮台</a></li>
 <li><a href="/yule/20221203/1819358.md">张兰曝大S天价电费原因 网友实地考察发现真相</a></li>
 <li><a href="/comments/20221204/1819443.md">高度挫折与绝望：中国即将迎来社会内战 极有可能颠覆政权</a></li>
@@ -25,9 +23,11 @@
 <li><a href="/worldnews/20221203/1819277.md">普京惊传摔下楼梯大小便失禁 莫斯科急了</a></li>
 <li><a href="/cnnews/20221203/1819282.md">iOS16.1.2正式版史诗级优化，续航性能太强</a></li>
 <li><a href="/sohnews/20221203/1819360.md">中国多地解封，真要开放还是暗藏凶机？搞穷人民富中共，动态清零藏两千年权力密术？清零为何注定让中共走向衰败？（2022.12.3）｜世界的十字路口 唐浩</a></li>
+<li><a href="/topimagenews/20221204/1819456.md">普京亲签战前文件外泄 曝攻乌4大剧本错在这</a></li>
 <li><a href="/baitai/20221203/1819334.md">首次登月宇航员：在月球上被不明飞行物跟踪监视</a></li>
 <li><a href="/comments/20221203/1819299.md">【独家重磅】李燕铭：江泽民死亡敏感期 习近平空降非常人物近距离监控江绵恒 剥夺江绵恒与高层互动露脸机会 习清洗江绵恒及其独立王国 江绵恒或不久卸任上海科技大学校长 接替人选浮现 习近平决战江曾（六一） 习清洗江绵恒暗黑帝国（三十）</a></li>
 <li><a href="/cbnews/20221203/1819371.md">北京等市松绑？民众仍大排长队做核酸检测</a></li>
+<li><a href="/baitai/20221203/1819335.md">欧盟理事会主席访华两手空空？ 米歇尔与习近平“各说各话”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221204/1819539.md" target="_blank">周遭人“应阳尽阳” 河北保定摆烂躺平防疫惹议</a></li>
 <li><a href="/cbnews/20221204/1819523.md" target="_blank">天亮时分：秘密文件曝光：普京的失算将习近平拖下水；苹果准备撤出中国，预示着白纸革命的未来；马斯克打响对左派的战争（政论天下第867集 20221203）</a></li>
 <li><a href="/cbnews/20221204/1819503.md" target="_blank">中共多地一把手部署镇压 分析：惧民意汇聚</a></li>
 <li><a href="/cbnews/20221203/1819371.md" target="_blank">北京等市松绑？民众仍大排长队做核酸检测</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221202/1818861.md" target="_blank">广州部分区域恢复堂食 民众排队喝早茶</a></li>
 <li><a href="/cbnews/20221202/1818821.md" target="_blank">俄外长控北约在南海煽动紧张局势 风险波及俄国</a></li>
 <li><a href="/cbnews/20221202/1818798.md" target="_blank">江峰：不提清零，全国解封？孙春兰连开两会称新冠变种低致病性；中共方舱续建，暴行继续，解封为进一步对抗白纸革命镇压管控做缓冲【江峰漫谈20221201】</a></li>
-<li><a href="/cbnews/20221202/1818773.md" target="_blank">天亮时分：什么信号？江遗体告别被取消，胡锦涛将很快现身？几个误读和迷思，江派之后并无团派和习派；新冠疫情大面积解封在即（政论天下第865集 20221201）</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221204/1819530.md" target="_blank">济南家长拦阻孩子送方舱 山东小区解封3小时又封</a></li>
+<li><a href="/comments/20221204/1819529.md" target="_blank">专家：习近平第一次面临真正的挑战</a></li>
 <li><a href="/comments/20221204/1819528.md" target="_blank">习近平首次谈“白纸革命” 承认疫情导致学生抗议</a></li>
 <li><a href="/comments/20221204/1819514.md" target="_blank">西坡:车辆转弯，请站稳扶好</a></li>
 <li><a href="/comments/20221204/1819513.md" target="_blank">劳阿毛:坚决不走爱咋咋地</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221203/1819269.md" target="_blank">竹不倒:难道这就是传说中的“反败为胜”？</a></li>
 <li><a href="/comments/20221203/1819268.md" target="_blank">《如果你不愿走在前面》——南京传媒学院声援“白纸革命”抗议歌曲</a></li>
 <li><a href="/comments/20221203/1819242.md" target="_blank">王五四:瑟瑟发抖时，不要赞美任何一片雪花</a></li>
-<li><a href="/comments/20221203/1819241.md" target="_blank">蓝橡树:“海归废物”真实心声</a></li>
-<li><a href="/comments/20221203/1819240.md" target="_blank">李濠仲:习近平应该不只看到了“白纸”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 
 </ul>
 </div>
