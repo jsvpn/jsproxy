@@ -5,24 +5,24 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/baitai/20221203/1819382.md">习痛失两大政权根基 帕克再预告中共垮台</a></li>
 <li><a href="/topimagenews/20221204/1819441.md">WSJ：中国政府已错失最佳时机</a></li>
 <li><a href="/comments/20221204/1819443.md">高度挫折与绝望：中国即将迎来社会内战 极有可能颠覆政权</a></li>
 <li><a href="/topimagenews/20221204/1819524.md">明年起，部分中国人的“紧日子”开始了</a></li>
 <li><a href="/weiquan/20221204/1819417.md">因在北京八个核酸亭上写了&#8220;三&#8221;&#8220;年&#8221;&#8220;了&#8221;&#8220;我&#8221;&#8220;已&#8221;&#8220;麻&#8221;&#8220;木&#8221;&#8220;了&#8221;而遭刑事拘留的中央美术学院毕业生张东辉的案情通报</a></li>
-<li><a href="/cnnews/20221204/1819500.md">“清零”骑虎难下？习近平正在巧妙的寻找台阶</a></li>
 <li><a href="/cnnews/20221204/1819554.md">真要放开了吗？习近平和共产党到底要干什么</a></li>
+<li><a href="/cnnews/20221204/1819500.md">“清零”骑虎难下？习近平正在巧妙的寻找台阶</a></li>
 <li><a href="/topimagenews/20221203/1819408.md">江泽民之死 会演变为另一场六四吗？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221204/1819503.md">中共多地一把手部署镇压 分析：惧民意汇聚</a></li>
 <li><a href="/cbnews/20221204/1819523.md">天亮时分：秘密文件曝光：普京的失算将习近平拖下水；苹果准备撤出中国，预示着白纸革命的未来；马斯克打响对左派的战争（政论天下第867集 20221203）</a></li>
 <li><a href="/topimagenews/20221204/1819456.md">普京亲签战前文件外泄 曝攻乌4大剧本错在这</a></li>
-<li><a href="/cnnews/20221204/1819582.md">邓小平这段历史被公然篡改！想干啥？【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221204/1819483.md">〖微博谈〗一货不如一货</a></li>
+<li><a href="/cnnews/20221204/1819582.md">邓小平这段历史被公然篡改！想干啥？【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221204/1819531.md">繁华落幕，马云这半年</a></li>
 <li><a href="/sohnews/20221203/1819416.md">一张照片看哭中国 上海父亲背女儿欲哭无泪；全民反抗 各城市封控大对比；中共对抗争英雄大抓捕；德秘密报告泄露中共攻台时间点；美军公布台海大杀器 神秘“突袭者”</a></li>
+<li><a href="/worldnews/20221204/1819602.md">金正恩公开处决3高中生 罪名是观看散播韩流节目</a></li>
 <li><a href="/baitai/20221204/1819444.md">小笑话：江魔头问高僧会哪天死？高僧这样说</a></li>
 <li><a href="/cnnews/20221204/1819501.md">大反转！iPhone12iP升级iPhone16.2b 优化难以置信</a></li>
-<li><a href="/worldnews/20221204/1819602.md">金正恩公开处决3高中生 罪名是观看散播韩流节目</a></li>
+<li><a href="/cbnews/20221204/1819655.md">读者来信：江泽民死前谈条件 心虚怕被清算</a></li>
 <li><a href="/ccpdope/20221204/1819591.md">长孙江志成露面 江泽民一称号成笑话</a></li>
 <li><a href="/cbnews/20221204/1819539.md">周遭人“应阳尽阳” 河北保定摆烂躺平防疫惹议</a></li>
 <li><a href="/comments/20221204/1819568.md">【杰森视角】中国防疫政策一片混沌！北京走在群体免疫的道路上！外媒透露习近平生活在超现实泡泡中！中国防疫引入动态随机算法！执行“方舱清零”是让方舱未来承担更重要角色？</a></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221204/1819670.md" target="_blank">江蛤蟆死了 没有遗体告别 网民庆祝</a></li>
+<li><a href="/comments/20221204/1819669.md" target="_blank">青少年频繁失踪案 麦塔斯：掩盖了中共深度参与摘取良心犯器官的罪恶</a></li>
+<li><a href="/comments/20221204/1819667.md" target="_blank">“白纸革命”最大推手 李老师突发“不自杀声明”</a></li>
 <li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
 <li><a href="/comments/20221204/1819573.md" target="_blank">美媒：中国政府已错失最佳时机</a></li>
 <li><a href="/comments/20221204/1819568.md" target="_blank">【杰森视角】中国防疫政策一片混沌！北京走在群体免疫的道路上！外媒透露习近平生活在超现实泡泡中！中国防疫引入动态随机算法！执行“方舱清零”是让方舱未来承担更重要角色？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221204/1819481.md" target="_blank">项云：中共一贯敌视欺压人民，终酿人民觉醒反抗</a></li>
 <li><a href="/comments/20221204/1819480.md" target="_blank">文启明：为什么说江泽民是败坏中国人道德的祸首？</a></li>
 <li><a href="/comments/20221204/1819477.md" target="_blank">文韬：江泽民之死，预示正义审判即将上演</a></li>
-<li><a href="/comments/20221204/1819476.md" target="_blank">周晓辉：三次遭江派暗杀的胡锦涛六日会露面吗？</a></li>
-<li><a href="/comments/20221204/1819443.md" target="_blank">高度挫折与绝望：中国即将迎来社会内战 极有可能颠覆政权</a></li>
-<li><a href="/comments/20221204/1819434.md" target="_blank">李燕铭：江泽民死亡上海帮式微 习近平或很快整肃江泽民家族 江泽民孙江志成孙女江志云现身 遗孀王冶坪向习近平“告饶”画面曝光 天灭中共在即 习近平面临生死抉择关键时刻 习近平决战江曾（六二）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
 <li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 
 </ul>
 </div>
