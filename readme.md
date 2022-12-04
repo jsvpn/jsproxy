@@ -10,8 +10,8 @@
 <li><a href="/topimagenews/20221204/1819441.md">WSJ：中国政府已错失最佳时机</a></li>
 <li><a href="/comments/20221204/1819443.md">高度挫折与绝望：中国即将迎来社会内战 极有可能颠覆政权</a></li>
 <li><a href="/yule/20221203/1819358.md">张兰曝大S天价电费原因 网友实地考察发现真相</a></li>
-<li><a href="/cbnews/20221203/1819352.md">紧急通知：大纽约地区声援白纸革命！将冒雨大游行（如果下雨的话）12/3 周六</a></li>
 <li><a href="/topimagenews/20221204/1819524.md">明年起，部分中国人的“紧日子”开始了</a></li>
+<li><a href="/cbnews/20221203/1819352.md">紧急通知：大纽约地区声援白纸革命！将冒雨大游行（如果下雨的话）12/3 周六</a></li>
 <li><a href="/weiquan/20221204/1819417.md">因在北京八个核酸亭上写了&#8220;三&#8221;&#8220;年&#8221;&#8220;了&#8221;&#8220;我&#8221;&#8220;已&#8221;&#8220;麻&#8221;&#8220;木&#8221;&#8220;了&#8221;而遭刑事拘留的中央美术学院毕业生张东辉的案情通报</a></li>
 <li><a href="/cnnews/20221204/1819500.md">“清零”骑虎难下？习近平正在巧妙的寻找台阶</a></li>
 <li><a href="/cnnews/20221204/1819554.md">真要放开了吗？习近平和共产党到底要干什么</a></li>
@@ -22,10 +22,10 @@
 <li><a href="/sohnews/20221203/1819360.md">中国多地解封，真要开放还是暗藏凶机？搞穷人民富中共，动态清零藏两千年权力密术？清零为何注定让中共走向衰败？（2022.12.3）｜世界的十字路口 唐浩</a></li>
 <li><a href="/ssgc/20221204/1819483.md">〖微博谈〗一货不如一货</a></li>
 <li><a href="/cnnews/20221204/1819531.md">繁华落幕，马云这半年</a></li>
-<li><a href="/cnnews/20221204/1819501.md">大反转！iPhone12iP升级iPhone16.2b 优化难以置信</a></li>
-<li><a href="/baitai/20221204/1819444.md">小笑话：江魔头问高僧会哪天死？高僧这样说</a></li>
-<li><a href="/cbnews/20221203/1819371.md">北京等市松绑？民众仍大排长队做核酸检测</a></li>
 <li><a href="/cnnews/20221204/1819582.md">邓小平这段历史被公然篡改！想干啥？【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221204/1819501.md">大反转！iPhone12iP升级iPhone16.2b 优化难以置信</a></li>
+<li><a href="/cbnews/20221203/1819371.md">北京等市松绑？民众仍大排长队做核酸检测</a></li>
+<li><a href="/baitai/20221204/1819444.md">小笑话：江魔头问高僧会哪天死？高僧这样说</a></li>
 <li><a href="/sohnews/20221203/1819416.md">一张照片看哭中国 上海父亲背女儿欲哭无泪；全民反抗 各城市封控大对比；中共对抗争英雄大抓捕；德秘密报告泄露中共攻台时间点；美军公布台海大杀器 神秘“突袭者”</a></li>
 <li><a href="/topimagenews/20221203/1819375.md">中芯本土化惨败 非美产线这水准 专家1句狠吐槽；国资平台高管频出事</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
 
 </ul>
 </div>
