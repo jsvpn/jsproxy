@@ -6,10 +6,8 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20221205/1819743.md">中共领导层的大麻烦才刚刚开始</a></li>
-<li><a href="/comments/20221204/1819667.md">“白纸革命”最大推手 李老师突发“不自杀声明”</a></li>
 <li><a href="/sohnews/20221205/1819722.md">陈破空特约评论：政变当天，胡锦涛质问的偷换名单，非关胡春华，实关李克强汪洋</a></li>
 <li><a href="/topimagenews/20221205/1819735.md">李承鹏：我想 你们给这个国家留点碧莲 也是应该的</a></li>
-<li><a href="/baitai/20221204/1819673.md">习给自己挖大坑 痛失执政根基</a></li>
 <li><a href="/cnnews/20221205/1819757.md">女子在方舱被队长性骚扰：《丰乳肥臀》情节再现</a></li>
 <li><a href="/cnnews/20221205/1819774.md">“我每天昧着良心上班”：离职大白曝光核酸丑闻</a></li>
 <li><a href="/cnnews/20221205/1819844.md">男老师发短信给14岁女学生：“一晚换一支iphone”</a></li>
@@ -19,15 +17,17 @@
 <li><a href="/finance/20221205/1819776.md">中小企业成片死掉，中国庙里的和尚都急了…</a></li>
 <li><a href="/comments/20221205/1819697.md">武汉大学爆发大规模抗议 学生要求自由返乡</a></li>
 <li><a href="/topimagenews/20221205/1819922.md">俄境内恩格斯空军基地发生大爆炸 俄军20架轰炸机才刚曝光就GG了</a></li>
-<li><a href="/topimagenews/20221205/1819763.md">一首歌突然火了！《乌鲁木齐东》 重温《独角戏》</a></li>
-<li><a href="/yule/20221204/1819671.md">大S回复爆料汪小菲婚内出轨得性病评论 称张兰…</a></li>
-<li><a href="/topimagenews/20221205/1819833.md">真讽刺！32年前这番话，宛如一记响亮的耳光！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221205/1819898.md">火灾酿5死2伤 投资人民币150亿元光伏晶硅项目烧个精光? 上机数控:不承担损失</a></li>
+<li><a href="/topimagenews/20221205/1819763.md">一首歌突然火了！《乌鲁木齐东》 重温《独角戏》</a></li>
+<li><a href="/topimagenews/20221205/1819833.md">真讽刺！32年前这番话，宛如一记响亮的耳光！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221204/1819690.md">中共宣称乌鲁木齐火灾“住户大门没有封闭” 中国网友狂留言“？”</a></li>
 <li><a href="/topimagenews/20221205/1819853.md">以色列驻上海总领事无症状确诊被关医院：像坐牢</a></li>
 <li><a href="/ssgc/20221205/1819818.md">〖微博谈〗还是认清现实吧</a></li>
 <li><a href="/sohnews/20221205/1819766.md">【直播】放松是骗局？各地抓人信息混乱，武汉又曝大学生抗争；“白纸第一人”真正身份是她？如何对付查手机？马斯克大招强震，美国风暴将至</a></li>
 <li><a href="/comments/20221205/1819831.md">宣布变乙类？习近平拐弯认怂，一线城市放与封互搏，大衰褪来了！党精准报复白纸英雄，党再倒车？</a></li>
+<li><a href="/topimagenews/20221205/1819769.md">中国的“人人都难”：到底是什么让我们这么难？</a></li>
+<li><a href="/topimagenews/20221205/1819742.md">白纸运动，送给习近平的圣诞礼物</a></li>
+<li><a href="/sohnews/20221205/1819729.md">武汉大学，此时此刻，口号：过程公开，信息透明</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221205/1819959.md" target="_blank">《法新社》评2023年十大风云人物 蔡英文上榜</a></li>
 <li><a href="/comments/20221205/1819955.md" target="_blank">终于看到了！NASA韦伯望远镜拍到了原始星系，最前沿科学家找到宇宙极深处惊人证据！</a></li>
 <li><a href="/comments/20221205/1819948.md" target="_blank">白纸运动：转瞬即逝的反抗？</a></li>
 <li><a href="/comments/20221205/1819934.md" target="_blank">中国可预见的未来 一现象制造一种不祥预感</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221204/1819561.md" target="_blank">老外拆解新款iPad10后：建议别买</a></li>
 <li><a href="/comments/20221204/1819553.md" target="_blank">译丛:中国法律的全球野心</a></li>
 <li><a href="/comments/20221204/1819552.md" target="_blank">六神磊磊：不是为了自己</a></li>
-<li><a href="/comments/20221204/1819551.md" target="_blank">西坡：人们怀念的，是满怀希望的那种感觉</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
 <li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 
 </ul>
 </div>
