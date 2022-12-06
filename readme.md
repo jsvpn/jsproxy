@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20221206/1820094.md">胡锦涛送别江泽民画面曝光 二十大之后首次露脸</a></li>
 <li><a href="/baitai/20221206/1820090.md">江泽民进火葬场 胡锦涛再次现身 全程有“保镖”陪护</a></li>
-<li><a href="/ssgc/20221205/1819998.md">习近平周身蚁语无伦次，李家超不识相添烦添乱</a></li>
 <li><a href="/cbnews/20221206/1820101.md">松绑防疫管控 传中国6日有如下大动作</a></li>
 <li><a href="/baitai/20221206/1820110.md">袁红冰曝曾庆红借机发难 令习近平震怒</a></li>
 <li><a href="/topimagenews/20221206/1820043.md">路透独家：中国最快周三再提10松绑措施 传染病防控明年1月可望降级</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cbnews/20221206/1820248.md">天亮时分：江泽民火化，胡锦涛露面；中共明天将大幅放松防疫措施，调降新冠病毒类别；普京无牌可打，无路可退（政论天下第869集 20221205）</a></li>
 <li><a href="/comments/20221206/1820127.md">江泽民死保“龙脉” 导致五千人死亡内幕</a></li>
 <li><a href="/cbnews/20221206/1820102.md">避而不谈1问题！习只是暂时软化 不可能放弃清零</a></li>
+<li><a href="/topimagenews/20221206/1820314.md">南京工业大学学生集会要求解封控 高喊:“动手就是第二个富士康”</a></li>
 <li><a href="/cnnews/20221206/1820261.md">陈希同曾联合7省委向邓举报江泽民</a></li>
 <li><a href="/comments/20221205/1820027.md">时事大家谈：讣告规格堪比毛邓，江泽民为何极尽哀荣？</a></li>
 <li><a href="/topimagenews/20221206/1820257.md">网络炸锅！方舟子质疑白纸革命关键人物 遭网友齐喷【阿波罗网报道】</a></li>
 <li><a href="/headline/20221206/1820276.md">中共为江泽民开追悼会 习近平提及1989年“严重政治风波”被指对“白纸运动”发出警告</a></li>
-<li><a href="/topimagenews/20221206/1820314.md">南京工业大学学生集会要求解封控 高喊:“动手就是第二个富士康”</a></li>
 <li><a href="/sohnews/20221206/1820256.md">文睿：习出现三大异常，胡锦涛现身，时局到了临界点，明天和意外谁先到？</a></li>
 <li><a href="/topimagenews/20221206/1820148.md">白纸运动令习近平沮丧 中共政权倒台的大戏已揭开了帷幕</a></li>
 <li><a href="/cbnews/20221206/1820281.md">王丹爆江泽民称“女大学生遭性侵”罪有应得…</a></li>
 <li><a href="/sohnews/20221206/1820147.md">陈破空：终于，习近平和胡锦涛并排亮相！弥补二十大裂痕？显然特意安排。其他政治老人并未现身。伊朗当局取消道德警察，人民抗争初步获胜。直播与互动。美东12月5日晚8点、即中港台12月6日早9点</a></li>
 <li><a href="/headline/20221206/1820165.md">中共高层送别江泽民，前总书记胡锦涛露面</a></li>
 <li><a href="/ssgc/20221206/1820050.md">〖兲朝浮世绘〗大国骗局：猫自己要吃辣椒</a></li>
+<li><a href="/cnnews/20221205/1820022.md">京城四少全出事… 破产、坐牢、离婚 轮到汪小菲挨告</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 <li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
 
 </ul>
 </div>
