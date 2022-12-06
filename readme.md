@@ -16,18 +16,18 @@
 <li><a href="/topimagenews/20221206/1820314.md">南京工业大学学生集会要求解封控 高喊:“动手就是第二个富士康”</a></li>
 <li><a href="/comments/20221206/1820127.md">江泽民死保“龙脉” 导致五千人死亡内幕</a></li>
 <li><a href="/cbnews/20221206/1820102.md">避而不谈1问题！习只是暂时软化 不可能放弃清零</a></li>
-<li><a href="/headline/20221206/1820276.md">中共为江泽民开追悼会 习近平提及1989年“严重政治风波”被指对“白纸运动”发出警告</a></li>
-<li><a href="/cnnews/20221206/1820261.md">陈希同曾联合7省委向邓举报江泽民</a></li>
-<li><a href="/topimagenews/20221206/1820257.md">网络炸锅！方舟子质疑白纸革命关键人物 遭网友齐喷【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221206/1820381.md">江泽民上海去世“为何移到北京追悼？” 习近平曝“1原因”怕惨了</a></li>
+<li><a href="/headline/20221206/1820276.md">中共为江泽民开追悼会 习近平提及1989年“严重政治风波”被指对“白纸运动”发出警告</a></li>
+<li><a href="/topimagenews/20221206/1820257.md">网络炸锅！方舟子质疑白纸革命关键人物 遭网友齐喷【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221206/1820261.md">陈希同曾联合7省委向邓举报江泽民</a></li>
 <li><a href="/sohnews/20221206/1820256.md">文睿：习出现三大异常，胡锦涛现身，时局到了临界点，明天和意外谁先到？</a></li>
-<li><a href="/sohnews/20221206/1820324.md">💰中共不日将出台“新10条”防疫措施!中央地方核酸方舱如何环环相套, 构建庞大防疫经济体? 地方财政岌岌可危, 哪来的230亿建方舱?! 3年疫情, 中国的医疗资源居然倒退了!【20221206】</a></li>
 <li><a href="/baitai/20221206/1820364.md">江泽民告别式几大看点 学者析习近平下一步</a></li>
+<li><a href="/sohnews/20221206/1820324.md">💰中共不日将出台“新10条”防疫措施!中央地方核酸方舱如何环环相套, 构建庞大防疫经济体? 地方财政岌岌可危, 哪来的230亿建方舱?! 3年疫情, 中国的医疗资源居然倒退了!【20221206】</a></li>
 <li><a href="/cbnews/20221206/1820281.md">王丹爆江泽民称“女大学生遭性侵”罪有应得…</a></li>
 <li><a href="/topimagenews/20221206/1820148.md">白纸运动令习近平沮丧 中共政权倒台的大戏已揭开了帷幕</a></li>
+<li><a href="/comments/20221206/1820350.md">网曝中国防控突松绑真相︰地方财政1分钱都拿不出来 全是欠条</a></li>
 <li><a href="/topimagenews/20221206/1820250.md">【微博精粹】中共主要的炮灰来源</a></li>
 <li><a href="/sohnews/20221206/1820347.md">陈破空：习近平读悼词，毫无感情，主要宣传自己。告别式胡锦涛受特工监视。追悼会只有江派政治老人出席，但党媒不报名字。改革派政治老人集体缺席。直播与互动。美东12月6日早8点30、即中港台12月6日晚9点30</a></li>
-<li><a href="/comments/20221206/1820350.md">网曝中国防控突松绑真相︰地方财政1分钱都拿不出来 全是欠条</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221207/1820473.md" target="_blank">〈走主佛指的路〉 作者：楚天秋</a></li>
 <li><a href="/comments/20221206/1820403.md" target="_blank">时事大家谈：北京边妥协边镇压 美国情报评估习近平大劫未过？中国六学者呼喊救经济 经济受伤有多严重?</a></li>
 <li><a href="/comments/20221206/1820360.md" target="_blank">【财经拆局】封闭与重启之间：抗疫大失败恐让中国别无选择</a></li>
 <li><a href="/comments/20221206/1820352.md" target="_blank">北京今起有条件取消阴性证明 网批︰虚假松绑欺骗全世界</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221205/1819948.md" target="_blank">白纸运动：转瞬即逝的反抗？</a></li>
 <li><a href="/comments/20221205/1819934.md" target="_blank">中国可预见的未来 一现象制造一种不祥预感</a></li>
 <li><a href="/comments/20221205/1819931.md" target="_blank">中国防疫放松是骗局？秋后算账升级</a></li>
-<li><a href="/comments/20221205/1819925.md" target="_blank">“境外势力”八问</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 
 </ul>
 </div>
