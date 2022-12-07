@@ -17,10 +17,10 @@
 <li><a href="/cnnews/20221207/1820505.md">揭秘江泽民一个女死对头被关秦城监狱内幕</a></li>
 <li><a href="/topimagenews/20221206/1820407.md">华尔街日报：共青团罕见称减少封控是针对抗议的回应</a></li>
 <li><a href="/sohnews/20221206/1820347.md">陈破空：习近平读悼词，毫无感情，主要宣传自己。告别式胡锦涛受特工监视。追悼会只有江派政治老人出席，但党媒不报名字。改革派政治老人集体缺席。直播与互动。美东12月6日早8点30、即中港台12月6日晚9点30</a></li>
-<li><a href="/sohnews/20221207/1820661.md">文睿：快讯：政治局召开会议，习近平真急了</a></li>
 <li><a href="/cnnews/20221207/1820529.md">渣打警告，明年恐有8大意外情况</a></li>
-<li><a href="/sohnews/20221207/1820585.md">拥抱江绵恒，习江两家不寻常？王安顺再被免职，辽宁厅官私藏弹药；江泽民是导火索；毁掉一国两制，江遗祸习近平；【新闻看点 李沐阳12.6】</a></li>
+<li><a href="/sohnews/20221207/1820661.md">文睿：快讯：政治局召开会议，习近平真急了</a></li>
 <li><a href="/baitai/20221207/1820625.md">习近平为何突然礼遇胡锦涛</a></li>
+<li><a href="/sohnews/20221207/1820585.md">拥抱江绵恒，习江两家不寻常？王安顺再被免职，辽宁厅官私藏弹药；江泽民是导火索；毁掉一国两制，江遗祸习近平；【新闻看点 李沐阳12.6】</a></li>
 <li><a href="/cnnews/20221207/1820498.md">要禁止电动汽车使用 全球首个“限制令”?</a></li>
 <li><a href="/comments/20221207/1820516.md">钟原：江出殡仪式大变 高官百态透露了啥？</a></li>
 <li><a href="/comments/20221207/1820629.md">江泽民出殡出状况：习近平强制江晒日光，习与江绵恒飙戏，胡锦涛不痴呆！党防控新十条，知情人爆财政一分钱都没有了</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221207/1820732.md" target="_blank">受油价高涨影响 一代空中女王波音747将停产</a></li>
 <li><a href="/comments/20221207/1820680.md" target="_blank">【独家重磅】李燕铭：江泽民实际死亡时间曝光 习近平滞后十多天择时官宣江死 先行布局习家军接管上海清洗震慑上海帮 上海文宣系统三高管落马 上海政商圈多名实控人被判无期徒刑 牵连江家看门人上海帮大佬韩正 习近平决战江曾（六三） 习近平清洗江泽民老巢（二三）</a></li>
 <li><a href="/comments/20221207/1820636.md" target="_blank">7万亿巨头紧急限制赎回发生什么?</a></li>
 <li><a href="/comments/20221207/1820634.md" target="_blank">23年美中很可能开战引爆点不是台湾</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221207/1820473.md" target="_blank">〈走主佛指的路〉 作者：楚天秋</a></li>
 <li><a href="/comments/20221206/1820403.md" target="_blank">时事大家谈：北京边妥协边镇压 美国情报评估习近平大劫未过？中国六学者呼喊救经济 经济受伤有多严重?</a></li>
 <li><a href="/comments/20221206/1820360.md" target="_blank">【财经拆局】封闭与重启之间：抗疫大失败恐让中国别无选择</a></li>
-<li><a href="/comments/20221206/1820352.md" target="_blank">北京今起有条件取消阴性证明 网批︰虚假松绑欺骗全世界</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
 <li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 <li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 
 </ul>
 </div>
