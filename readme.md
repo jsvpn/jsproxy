@@ -18,16 +18,16 @@
 <li><a href="/comments/20221206/1820350.md">网曝中国防控突松绑真相︰地方财政1分钱都拿不出来 全是欠条</a></li>
 <li><a href="/topimagenews/20221206/1820250.md">【微博精粹】中共主要的炮灰来源</a></li>
 <li><a href="/ssgc/20221206/1820389.md">江出殡仪式大变 高官百态透露了啥？</a></li>
-<li><a href="/sohnews/20221206/1820347.md">陈破空：习近平读悼词，毫无感情，主要宣传自己。告别式胡锦涛受特工监视。追悼会只有江派政治老人出席，但党媒不报名字。改革派政治老人集体缺席。直播与互动。美东12月6日早8点30、即中港台12月6日晚9点30</a></li>
 <li><a href="/cnnews/20221207/1820508.md">网传中共“广西王”之孙在方舱死亡</a></li>
+<li><a href="/sohnews/20221206/1820347.md">陈破空：习近平读悼词，毫无感情，主要宣传自己。告别式胡锦涛受特工监视。追悼会只有江派政治老人出席，但党媒不报名字。改革派政治老人集体缺席。直播与互动。美东12月6日早8点30、即中港台12月6日晚9点30</a></li>
 <li><a href="/topimagenews/20221206/1820407.md">华尔街日报：共青团罕见称减少封控是针对抗议的回应</a></li>
 <li><a href="/headline/20221206/1820337.md">习近平致悼词高度赞扬江泽民 全国停止娱乐一天规格超越邓小平</a></li>
 <li><a href="/ssgc/20221207/1820443.md">〖兲朝浮世绘〗邓死江致悼词假装泣不成声 江死习说不怕鬼斗志昂扬</a></li>
 <li><a href="/baitai/20221206/1820277.md">【404文库】爆角资讯｜广州某公职人员透露放开真相：财政真没钱了，到处是欠条</a></li>
 <li><a href="/topimagenews/20221206/1820380.md">被外星人绑走60次 男亲揭“首次接触”全过程：基地在各地深海</a></li>
 <li><a href="/comments/20221206/1820349.md">原周永康 曾庆红亲信 前北京市长王安顺被免职</a></li>
-<li><a href="/topimagenews/20221206/1820222.md">利好不断 中国房价止跌反弹？真是想多了</a></li>
 <li><a href="/cnnews/20221207/1820505.md">揭秘江泽民一个女死对头被关秦城监狱内幕</a></li>
+<li><a href="/topimagenews/20221206/1820222.md">利好不断 中国房价止跌反弹？真是想多了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221207/1820607.md" target="_blank">起底“神药”连花清瘟背后的吊诡实验</a></li>
+<li><a href="/comments/20221207/1820605.md" target="_blank">华裔女子举枪自尽被杀猪盘坑杀600多万</a></li>
+<li><a href="/comments/20221207/1820604.md" target="_blank">一夜巨变大白:倒楣的都是我们怎么办</a></li>
 <li><a href="/comments/20221207/1820588.md" target="_blank">陶杰：“试问谁未发声”？</a></li>
 <li><a href="/comments/20221207/1820587.md" target="_blank">丁香医生：新冠病毒真的变弱了吗？</a></li>
 <li><a href="/comments/20221207/1820586.md" target="_blank">一周前ta们进看守所时，全成都还在核酸</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221206/1820349.md" target="_blank">原周永康 曾庆红亲信 前北京市长王安顺被免职</a></li>
 <li><a href="/comments/20221206/1820326.md" target="_blank">白纸革命令中共恐慌 北京亮马桥、四通桥戒备森严</a></li>
 <li><a href="/comments/20221206/1820229.md" target="_blank">宋国诚：中国即将到来的第五危机——社会内战</a></li>
-<li><a href="/comments/20221206/1820228.md" target="_blank">胡平：习一尊该下神台了</a></li>
-<li><a href="/comments/20221206/1820227.md" target="_blank">习近平周身蚁语无伦次 李家超不识相添烦添乱</a></li>
-<li><a href="/comments/20221206/1820215.md" target="_blank">龅牙赵：关于核酸检测的那些记忆</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
 <li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
 
 </ul>
 </div>
