@@ -12,22 +12,22 @@
 <li><a href="/comments/20221208/1821023.md">12月6日晚，浙江大学上万学生聚集抗议！</a></li>
 <li><a href="/comments/20221208/1820899.md">上海，警察上门警告一老人，指控其转发”不实信息“。老人称，已做好了坐牢的准备。</a></li>
 <li><a href="/headline/20221207/1820795.md">传原中国副总理长女手持菜刀抵制极端防疫</a></li>
-<li><a href="/topimagenews/20221208/1820871.md">空前耻辱! 俄首都旁机场被炸 普京严重内伤 美国给他留面子?</a></li>
 <li><a href="/cnnews/20221208/1820839.md">习近平在铤而走险</a></li>
+<li><a href="/topimagenews/20221208/1820871.md">空前耻辱! 俄首都旁机场被炸 普京严重内伤 美国给他留面子?</a></li>
 <li><a href="/topimagenews/20221207/1820799.md">中共三地人事调动！易炼红任浙江省委书记</a></li>
 <li><a href="/topimagenews/20221207/1820721.md">一度销声匿迹！马云再卸任浙商总会会长…</a></li>
 <li><a href="/comments/20221208/1820965.md">文昭：习近平杀心涌动，「防疫新十条」和中断的政治局会议同时登场，有重大信号！生活离恢复正常有多远？</a></li>
 <li><a href="/cnnews/20221208/1820952.md">2022年12月7日，李文亮医生的评论区</a></li>
 <li><a href="/comments/20221208/1821047.md">新十条砸向大白，集体疯了！清零派紧急删除自己言论，河南老乡控诉江泽民李克强？</a></li>
+<li><a href="/comments/20221208/1821088.md">陈敏尔卸任重庆市委书记</a></li>
+<li><a href="/cbnews/20221208/1821070.md">习近平出访沙特没戴口罩 向美国发出强烈信号</a></li>
 <li><a href="/comments/20221208/1820942.md">【独家重磅】李燕铭：江泽民官宣死亡当天 江绵恒马仔高福再被异常免职 习近平改变战略应对江曾集团生化政变 由被动防守转向主动出击 清零政策转向深度内幕揭秘 习近平决战江曾（六四） 习清洗江绵恒暗黑帝国（三一）</a></li>
 <li><a href="/sohnews/20221208/1820928.md">从防控二十条到新十条出笼，发生了什么，缺了最关键的什么，清零放弃了没有？｜横河观点  12.07.2022</a></li>
 <li><a href="/cbnews/20221208/1820835.md">上海商场4楼玻璃空桥“缺一块” 他讲电话边走路坠洞摔死</a></li>
 <li><a href="/sohnews/20221207/1820743.md">陈破空：超规格悼念江泽民幕后，习近平羞辱所有政治老人！官媒承认封控败于白纸革命。红三代亡于方舱。红二代操刀自卫！白卫兵集体威胁跳楼讨薪。美东12月6日早8点30、即中港台12月6日晚9点30</a></li>
-<li><a href="/comments/20221208/1821088.md">陈敏尔卸任重庆市委书记</a></li>
-<li><a href="/cbnews/20221208/1821070.md">习近平出访沙特没戴口罩 向美国发出强烈信号</a></li>
 <li><a href="/ssgc/20221208/1820857.md">〖兲朝浮世绘〗放开了闹剧也快结束了 经济已经清零</a></li>
 <li><a href="/baitai/20221207/1820739.md">【朋友圈】国家疾控中心原副主任冯子健：很多人都会经历一次感染，我们要面对这样的现实</a></li>
-<li><a href="/baitai/20221207/1820716.md">人体有个“止咳开关”！没事按一按，咳嗽好得快</a></li>
+<li><a href="/comments/20221208/1821004.md">12月6日晚.，南京工业大学数千学生聚集抗议！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
 
 </ul>
 </div>
