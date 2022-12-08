@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20221207/1820784.md">马云定居日本半年！爆“手握1证”特殊身份出境 连中国当局都不敢拦…</a></li>
-<li><a href="/cnnews/20221208/1820839.md">习近平在铤而走险</a></li>
 <li><a href="/comments/20221208/1821023.md">12月6日晚，浙江大学上万学生聚集抗议！</a></li>
+<li><a href="/cnnews/20221208/1820839.md">习近平在铤而走险</a></li>
 <li><a href="/comments/20221208/1820899.md">上海，警察上门警告一老人，指控其转发”不实信息“。老人称，已做好了坐牢的准备。</a></li>
 <li><a href="/headline/20221207/1820795.md">传原中国副总理长女手持菜刀抵制极端防疫</a></li>
 <li><a href="/topimagenews/20221208/1820871.md">空前耻辱! 俄首都旁机场被炸 普京严重内伤 美国给他留面子?</a></li>
 <li><a href="/topimagenews/20221207/1820799.md">中共三地人事调动！易炼红任浙江省委书记</a></li>
 <li><a href="/comments/20221208/1820965.md">文昭：习近平杀心涌动，「防疫新十条」和中断的政治局会议同时登场，有重大信号！生活离恢复正常有多远？</a></li>
-<li><a href="/comments/20221208/1821088.md">陈敏尔卸任重庆市委书记</a></li>
 <li><a href="/cnnews/20221208/1820952.md">2022年12月7日，李文亮医生的评论区</a></li>
-<li><a href="/comments/20221208/1821047.md">新十条砸向大白，集体疯了！清零派紧急删除自己言论，河南老乡控诉江泽民李克强？</a></li>
 <li><a href="/sohnews/20221208/1820928.md">从防控二十条到新十条出笼，发生了什么，缺了最关键的什么，清零放弃了没有？｜横河观点  12.07.2022</a></li>
-<li><a href="/cbnews/20221208/1820835.md">上海商场4楼玻璃空桥“缺一块” 他讲电话边走路坠洞摔死</a></li>
+<li><a href="/comments/20221208/1821088.md">陈敏尔卸任重庆市委书记</a></li>
+<li><a href="/comments/20221208/1821047.md">新十条砸向大白，集体疯了！清零派紧急删除自己言论，河南老乡控诉江泽民李克强？</a></li>
 <li><a href="/cbnews/20221208/1821070.md">习近平出访沙特没戴口罩 向美国发出强烈信号</a></li>
-<li><a href="/comments/20221208/1820942.md">【独家重磅】李燕铭：江泽民官宣死亡当天 江绵恒马仔高福再被异常免职 习近平改变战略应对江曾集团生化政变 由被动防守转向主动出击 清零政策转向深度内幕揭秘 习近平决战江曾（六四） 习清洗江绵恒暗黑帝国（三一）</a></li>
+<li><a href="/cbnews/20221208/1820835.md">上海商场4楼玻璃空桥“缺一块” 他讲电话边走路坠洞摔死</a></li>
 <li><a href="/ssgc/20221208/1820857.md">〖兲朝浮世绘〗放开了闹剧也快结束了 经济已经清零</a></li>
-<li><a href="/topimagenews/20221208/1821100.md">印度神童警告2023小心6件事 中国美国台湾乌克兰吓到</a></li>
-<li><a href="/comments/20221208/1821085.md">12月7日夜，成都体育学院大批学生集会抗议！</a></li>
-<li><a href="/comments/20221208/1821004.md">12月6日晚.，南京工业大学数千学生聚集抗议！</a></li>
+<li><a href="/comments/20221208/1820942.md">【独家重磅】李燕铭：江泽民官宣死亡当天 江绵恒马仔高福再被异常免职 习近平改变战略应对江曾集团生化政变 由被动防守转向主动出击 清零政策转向深度内幕揭秘 习近平决战江曾（六四） 习清洗江绵恒暗黑帝国（三一）</a></li>
 <li><a href="/cnnews/20221208/1821176.md">暗骂习近平，亲王岐山财媒吁重回改革开放；中国600万人恐集体返贫；</a></li>
-<li><a href="/ssgc/20221208/1821067.md">〖微博谈〗这是外力下的全面崩溃</a></li>
+<li><a href="/comments/20221208/1821085.md">12月7日夜，成都体育学院大批学生集会抗议！</a></li>
+<li><a href="/topimagenews/20221208/1821100.md">印度神童警告2023小心6件事 中国美国台湾乌克兰吓到</a></li>
+<li><a href="/comments/20221208/1821004.md">12月6日晚.，南京工业大学数千学生聚集抗议！</a></li>
+<li><a href="/cnnews/20221208/1821184.md">百万网红直播时被当街刺杀，万没想到凶手竟是…</a></li>
 <li><a href="/cbnews/20221208/1821080.md">全面放开？传中国明年3月部分地区开放旅客入境</a></li>
-<li><a href="/ssgc/20221208/1820932.md">三年时间 够认清有些砖家的嘴脸了</a></li>
+<li><a href="/ssgc/20221208/1821067.md">〖微博谈〗这是外力下的全面崩溃</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221208/1821236.md" target="_blank">“严惩不贷！”习近平罕见撂下重话！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221208/1821131.md" target="_blank">乌市封城逾百日，一老板曝经济惨况；马斯克：感谢广告商重返推特；房产负债如癌末</a></li>
 <li><a href="/topimagenews/20221208/1821100.md" target="_blank">印度神童警告2023小心6件事 中国美国台湾乌克兰吓到</a></li>
 <li><a href="/topimagenews/20221208/1821087.md" target="_blank">朝鲜再现悲剧 遭受饥饿的一家三口死亡…</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20221206/1820222.md" target="_blank">利好不断 中国房价止跌反弹？真是想多了</a></li>
 <li><a href="/topimagenews/20221206/1820210.md" target="_blank">中共爆染指53国设102秘密警察站 意大利最多</a></li>
 <li><a href="/topimagenews/20221206/1820156.md" target="_blank">徐晓冬、梁宏达似遇到麻烦！徐晓冬发出神秘图片【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221206/1820148.md" target="_blank">白纸运动令习近平沮丧 中共政权倒台的大戏已揭开了帷幕</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221208/1821218.md" target="_blank">10人混1管令检测异常大增 北京人如今闻核酸色变</a></li>
+<li><a href="/comments/20221208/1821217.md" target="_blank">中国防疫大松绑 李文亮微博成网友哭墙</a></li>
 <li><a href="/comments/20221208/1821202.md" target="_blank">【文韬政论】白纸运动与江泽民的「死得合时」</a></li>
 <li><a href="/comments/20221208/1821201.md" target="_blank">【未普评论】抬高江泽民，习为自己挖陷阱？</a></li>
 <li><a href="/comments/20221208/1821199.md" target="_blank">“TikTok是披着羊皮的狼”美印第安纳州提告 德州跟进封杀</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221208/1821006.md" target="_blank">留几手:三年时间 够认清有些砖家的嘴脸了</a></li>
 <li><a href="/comments/20221208/1821005.md" target="_blank">一名勇敢的女士，怒斥警察和防疫人员违法限制百姓出行自由！</a></li>
 <li><a href="/comments/20221208/1821004.md" target="_blank">12月6日晚.，南京工业大学数千学生聚集抗议！</a></li>
-<li><a href="/comments/20221208/1820975.md" target="_blank">颜纯钩: 服从就永不超生 反抗能否极泰来</a></li>
-<li><a href="/comments/20221208/1820974.md" target="_blank">颜丹：大陆为什么出现“假解封”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
 <li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
 
 </ul>
 </div>
