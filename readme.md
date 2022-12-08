@@ -10,11 +10,10 @@
 <li><a href="/baitai/20221207/1820625.md">习近平为何突然礼遇胡锦涛</a></li>
 <li><a href="/cnnews/20221207/1820612.md">哇！习近平当众自己打脸！悼词谁写的？【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221207/1820585.md">拥抱江绵恒，习江两家不寻常？王安顺再被免职，辽宁厅官私藏弹药；江泽民是导火索；毁掉一国两制，江遗祸习近平；【新闻看点 李沐阳12.6】</a></li>
-<li><a href="/cnnews/20221207/1820529.md">渣打警告，明年恐有8大意外情况</a></li>
 <li><a href="/sohnews/20221207/1820661.md">文睿：快讯：政治局召开会议，习近平真急了</a></li>
 <li><a href="/topimagenews/20221207/1820720.md">白白浪费3年 中国疫苗几乎不防感染！防疫大官清华演讲吐露惊人真心话</a></li>
-<li><a href="/comments/20221207/1820680.md">【独家重磅】李燕铭：江泽民实际死亡时间曝光 习近平滞后十多天择时官宣江死 先行布局习家军接管上海清洗震慑上海帮 上海文宣系统三高管落马 上海政商圈多名实控人被判无期徒刑 牵连江家看门人上海帮大佬韩正 习近平决战江曾（六三） 习近平清洗江泽民老巢（二三）</a></li>
 <li><a href="/comments/20221207/1820629.md">江泽民出殡出状况：习近平强制江晒日光，习与江绵恒飙戏，胡锦涛不痴呆！党防控新十条，知情人爆财政一分钱都没有了</a></li>
+<li><a href="/comments/20221207/1820680.md">【独家重磅】李燕铭：江泽民实际死亡时间曝光 习近平滞后十多天择时官宣江死 先行布局习家军接管上海清洗震慑上海帮 上海文宣系统三高管落马 上海政商圈多名实控人被判无期徒刑 牵连江家看门人上海帮大佬韩正 习近平决战江曾（六三） 习近平清洗江泽民老巢（二三）</a></li>
 <li><a href="/sohnews/20221207/1820722.md">公职人员透露开放真相“比白纸更严重”！新十条出台清零失败喜大普奔……</a></li>
 <li><a href="/renquan/20221207/1820719.md">709特大事件真相</a></li>
 <li><a href="/sohnews/20221207/1820693.md">文睿：快讯：防控“新十条”来了，中国走入巨变前夜</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/cnnews/20221207/1820784.md">马云定居日本半年！爆“手握1证”特殊身份出境 连中国当局都不敢拦…</a></li>
 <li><a href="/topimagenews/20221207/1820799.md">中共三地人事调动！易炼红任浙江省委书记</a></li>
 <li><a href="/headline/20221207/1820707.md">动态清零政策大转弯 北京“重磅”推出松绑新十条</a></li>
+<li><a href="/headline/20221207/1820795.md">传原中国副总理长女手持菜刀抵制极端防疫</a></li>
 <li><a href="/baitai/20221207/1820739.md">【朋友圈】国家疾控中心原副主任冯子健：很多人都会经历一次感染，我们要面对这样的现实</a></li>
 <li><a href="/sohnews/20221207/1820743.md">陈破空：超规格悼念江泽民幕后，习近平羞辱所有政治老人！官媒承认封控败于白纸革命。红三代亡于方舱。红二代操刀自卫！白卫兵集体威胁跳楼讨薪。美东12月6日早8点30、即中港台12月6日晚9点30</a></li>
-<li><a href="/headline/20221207/1820795.md">传原中国副总理长女手持菜刀抵制极端防疫</a></li>
 <li><a href="/ssgc/20221207/1820542.md">〖微博谈〗党国的韭菜</a></li>
+<li><a href="/cbnews/20221208/1820835.md">上海商场4楼玻璃空桥“缺一块” 他讲电话边走路坠洞摔死</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221208/1820942.md" target="_blank">【独家重磅】李燕铭：江泽民官宣死亡当天 江绵恒马仔高福再被异常免职 习近平改变战略应对江曾集团生化政变 由被动防守转向主动出击 清零政策转向深度内幕揭秘 习近平决战江曾（六四） 习清洗江绵恒暗黑帝国（三一）</a></li>
 <li><a href="/comments/20221208/1820935.md" target="_blank">【围炉夜话12/07】中国防疫真放开了？白纸革命会平息吗？马斯克释放“推特文件”，怪兽出笼掀风暴 ｜ 12/07/2022</a></li>
 <li><a href="/comments/20221208/1820902.md" target="_blank">12月4日晚，武汉大学上千学生聚集在校部大楼前抗议！</a></li>
 <li><a href="/comments/20221208/1820899.md" target="_blank">上海，警察上门警告一老人，指控其转发”不实信息“。老人称，已做好了坐牢的准备。</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221207/1820568.md" target="_blank">广州某公职人员透露放开真相：财政真没钱了，到处是欠条</a></li>
 <li><a href="/comments/20221207/1820567.md" target="_blank">抗争与维稳两股力量在新时代再次对撞，强弱难易之势已然逆转</a></li>
 <li><a href="/comments/20221207/1820557.md" target="_blank">沈向阳：我们一家六口这样渡过阳性的日子</a></li>
-<li><a href="/comments/20221207/1820556.md" target="_blank">颜纯钩:我的乐观：中共没有那么强大，中国人没有那么怯懦</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 <li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
 
 </ul>
 </div>
