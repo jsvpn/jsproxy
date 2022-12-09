@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20221208/1821246.md">网友怒了！白纸革命关键人物身份被恶意曝光！【阿波罗网报道】</a></li>
 <li><a href="/comments/20221208/1821088.md">陈敏尔卸任重庆市委书记</a></li>
 <li><a href="/sohnews/20221208/1821165.md">💥老和尚说江泽民之死！习近平推出新十条，放宽可没那么容易，背后三点真相，第三点最为关键；习看到江被抬出的一刻，表情很有戏；李铁“被现身”，涉打假球，或牵出更多人；世界杯八强产生｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/topimagenews/20221208/1821236.md">“严惩不贷！”习近平罕见撂下重话！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221208/1821197.md">陈破空：陈敏尔遭降级，都是想当接班人惹的祸！李鸿忠去哪？习家军内讧。白纸革命参与者遭报复。香港国歌响彻国际赛场。美东12月8日早8点30、即中港台12月8日晚9点30</a></li>
 <li><a href="/cnnews/20221208/1821185.md">中国突然放宽防疫 外媒示警:今冬恐百万人身亡</a></li>
-<li><a href="/topimagenews/20221208/1821236.md">“严惩不贷！”习近平罕见撂下重话！【阿波罗网报道】</a></li>
-<li><a href="/comments/20221208/1821085.md">12月7日夜，成都体育学院大批学生集会抗议！</a></li>
 <li><a href="/sohnews/20221208/1821182.md">核酸机密外泄，清零是骗局？新十条松绑，动态清零退场？中共频频让步，白纸运动胜利？清零埋四大地雷，随时反噬共产党？（2022.12.8）｜世界的十字路口 唐浩</a></li>
 <li><a href="/topimagenews/20221208/1821100.md">印度神童警告2023小心6件事 中国美国台湾乌克兰吓到</a></li>
 <li><a href="/cnnews/20221208/1821247.md">推特惊见“蓝勾勾”习近平！全球网友：主席你怎么翻墙了</a></li>
-<li><a href="/cbnews/20221208/1821080.md">全面放开？传中国明年3月部分地区开放旅客入境</a></li>
 <li><a href="/cbnews/20221208/1821149.md">弃共想“润”了 中国民众1天搜寻“移民”超过1亿次</a></li>
 <li><a href="/topimagenews/20221208/1821131.md">乌市封城逾百日，一老板曝经济惨况；马斯克：感谢广告商重返推特；房产负债如癌末</a></li>
 <li><a href="/cnnews/20221208/1821166.md">风向逆转 张文宏：得了新冠中共病毒99.5％不必去医院</a></li>
-<li><a href="/topimagenews/20221208/1821087.md">朝鲜再现悲剧 遭受饥饿的一家三口死亡…</a></li>
 <li><a href="/lifebaike/20221208/1821125.md">方便面全是防腐剂，需32天才解毒？医生：少碰这7种垃圾食品</a></li>
 <li><a href="/sohnews/20221208/1821109.md">文睿：习方寸大乱，疯传：财政一分钱都拿不出来了</a></li>
 <li><a href="/cbnews/20221208/1821089.md">不提清零 网友：“感谢白纸革命 境外势力渗透高层”</a></li>
-<li><a href="/cbnews/20221208/1821086.md">天亮时分：防疫新十条结束清零，习近平权力受挑战？莫斯科附近机场被炸，各方沉默；中共要和沙特建立战略伙伴关系（政论天下第871集 20221207）</a></li>
 <li><a href="/sohnews/20221208/1821152.md">选择性披露，泄露了需要让对手知道的B-21的关键能力，又好像什么也没说｜【#时事军事】#时事军事夏洛山</a></li>
+<li><a href="/topimagenews/20221209/1821382.md">各地大白跳楼讨薪 民众称：恶有恶报【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221208/1821183.md">川普集团被定罪之后 伊万卡老公也被盯上了</a></li>
+<li><a href="/topimagenews/20221209/1821402.md">评论区爆了：伤太深！中国有公司表示：永不录用大白</a></li>
+<li><a href="/finance/20221208/1821238.md">李强即将登场？中国经济操盘手是谁还很难说</a></li>
+<li><a href="/baitai/20221208/1821118.md">中共大挑战恐在清零后 专家：放松管控只是权宜之计</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221209/1821498.md" target="_blank">病毒不听话！习近平的“亲自部署”以失败告终</a></li>
 <li><a href="/comments/20221209/1821488.md" target="_blank">专访李南央(上)：白纸革命是六四升华，唤醒民众自由感；中共不会真正退让，但民心不灭；中共选人体制：没有最坏，只有更坏 ｜#方菲时间 12/08/2022</a></li>
 <li><a href="/comments/20221209/1821486.md" target="_blank">雷磊：抗原阳了，我悬着的心终于落地</a></li>
 <li><a href="/comments/20221209/1821485.md" target="_blank">吴尊友、梁万年欠全国人民一个道歉</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221208/1821088.md" target="_blank">陈敏尔卸任重庆市委书记</a></li>
 <li><a href="/comments/20221208/1821085.md" target="_blank">12月7日夜，成都体育学院大批学生集会抗议！</a></li>
 <li><a href="/comments/20221208/1821073.md" target="_blank">英媒：习近平访问沙特：分别想得到什么？</a></li>
-<li><a href="/comments/20221208/1821072.md" target="_blank">多伦多男子陷入加密货币投资骗局损失5万</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 
 </ul>
 </div>
