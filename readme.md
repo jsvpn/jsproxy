@@ -8,8 +8,8 @@
 <li><a href="/cnnews/20221208/1821176.md">暗骂习近平，亲王岐山财媒吁重回改革开放；中国600万人恐集体返贫；</a></li>
 <li><a href="/cnnews/20221208/1821184.md">百万网红直播时被当街刺杀，万没想到凶手竟是…</a></li>
 <li><a href="/topimagenews/20221208/1821246.md">网友怒了！白纸革命关键人物身份被恶意曝光！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221208/1821236.md">“严惩不贷！”习近平罕见撂下重话！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221208/1821165.md">💥老和尚说江泽民之死！习近平推出新十条，放宽可没那么容易，背后三点真相，第三点最为关键；习看到江被抬出的一刻，表情很有戏；李铁“被现身”，涉打假球，或牵出更多人；世界杯八强产生｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/topimagenews/20221208/1821236.md">“严惩不贷！”习近平罕见撂下重话！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221208/1821197.md">陈破空：陈敏尔遭降级，都是想当接班人惹的祸！李鸿忠去哪？习家军内讧。白纸革命参与者遭报复。香港国歌响彻国际赛场。美东12月8日早8点30、即中港台12月8日晚9点30</a></li>
 <li><a href="/cnnews/20221208/1821185.md">中国突然放宽防疫 外媒示警:今冬恐百万人身亡</a></li>
 <li><a href="/sohnews/20221208/1821182.md">核酸机密外泄，清零是骗局？新十条松绑，动态清零退场？中共频频让步，白纸运动胜利？清零埋四大地雷，随时反噬共产党？（2022.12.8）｜世界的十字路口 唐浩</a></li>
@@ -19,15 +19,15 @@
 <li><a href="/topimagenews/20221209/1821402.md">评论区爆了：伤太深！中国有公司表示：永不录用大白</a></li>
 <li><a href="/topimagenews/20221209/1821382.md">各地大白跳楼讨薪 民众称：恶有恶报【阿波罗网报道】</a></li>
 <li><a href="/comments/20221209/1821473.md">馅饼砸中李克强！最後任期大胜习近平？一尊指挥三年後抄答案交卷遭舆论爆笑，窜访沙特躲口水？</a></li>
+<li><a href="/sohnews/20221209/1821396.md">🔥🔥他要篡位❓密谋武装反习❗暗杀习近平❓中共党媒刚刚爆出惊人消息❗</a></li>
 <li><a href="/cnnews/20221208/1821166.md">风向逆转 张文宏：得了新冠中共病毒99.5％不必去医院</a></li>
 <li><a href="/comments/20221209/1821379.md">习近平自作自受，拜登终于正面迎战</a></li>
-<li><a href="/sohnews/20221209/1821396.md">🔥🔥他要篡位❓密谋武装反习❗暗杀习近平❓中共党媒刚刚爆出惊人消息❗</a></li>
 <li><a href="/cnnews/20221209/1821374.md">越来越勇敢 安徽医科大学生们高呼口号聚集抗议【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221209/1821462.md">警告！高达90%的中国人将感染新冠 3件事需做好</a></li>
+<li><a href="/cnnews/20221209/1821480.md">乌克兰29岁亲俄美女议员遭火炮轰毙 惨死街头</a></li>
 <li><a href="/cnnews/20221208/1821183.md">川普集团被定罪之后 伊万卡老公也被盯上了</a></li>
 <li><a href="/sohnews/20221208/1821152.md">选择性披露，泄露了需要让对手知道的B-21的关键能力，又好像什么也没说｜【#时事军事】#时事军事夏洛山</a></li>
 <li><a href="/topimagenews/20221209/1821477.md">外媒爆北京让步求生 大陆龙头厂逃死劫</a></li>
-<li><a href="/finance/20221208/1821238.md">李强即将登场？中国经济操盘手是谁还很难说</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
 
 </ul>
 </div>
