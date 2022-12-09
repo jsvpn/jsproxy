@@ -20,13 +20,13 @@
 <li><a href="/topimagenews/20221209/1821382.md">各地大白跳楼讨薪 民众称：恶有恶报【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221209/1821402.md">评论区爆了：伤太深！中国有公司表示：永不录用大白</a></li>
 <li><a href="/cnnews/20221208/1821166.md">风向逆转 张文宏：得了新冠中共病毒99.5％不必去医院</a></li>
-<li><a href="/comments/20221209/1821379.md">习近平自作自受，拜登终于正面迎战</a></li>
-<li><a href="/lifebaike/20221208/1821125.md">方便面全是防腐剂，需32天才解毒？医生：少碰这7种垃圾食品</a></li>
 <li><a href="/comments/20221209/1821473.md">馅饼砸中李克强！最後任期大胜习近平？一尊指挥三年後抄答案交卷遭舆论爆笑，窜访沙特躲口水？</a></li>
-<li><a href="/cnnews/20221209/1821374.md">越来越勇敢 安徽医科大学生们高呼口号聚集抗议【阿波罗网报道】</a></li>
+<li><a href="/comments/20221209/1821379.md">习近平自作自受，拜登终于正面迎战</a></li>
 <li><a href="/sohnews/20221209/1821396.md">🔥🔥他要篡位❓密谋武装反习❗暗杀习近平❓中共党媒刚刚爆出惊人消息❗</a></li>
+<li><a href="/cnnews/20221209/1821374.md">越来越勇敢 安徽医科大学生们高呼口号聚集抗议【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221208/1821183.md">川普集团被定罪之后 伊万卡老公也被盯上了</a></li>
 <li><a href="/sohnews/20221208/1821152.md">选择性披露，泄露了需要让对手知道的B-21的关键能力，又好像什么也没说｜【#时事军事】#时事军事夏洛山</a></li>
+<li><a href="/cnnews/20221209/1821462.md">警告！高达90%的中国人将感染新冠 3件事需做好</a></li>
 <li><a href="/finance/20221208/1821238.md">李强即将登场？中国经济操盘手是谁还很难说</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221209/1821534.md" target="_blank">河南开封，叶婷的父亲被打死后，叶婷被警察抓走。事情在网络上发酵后，警察用私家车偷偷将叶婷送回，但叶婷已经变得精神失常了。家属拒绝接受。</a></li>
+<li><a href="/cbnews/20221209/1821532.md" target="_blank">清零病毒失败 清零中共可期</a></li>
 <li><a href="/comments/20221209/1821488.md" target="_blank">专访李南央(上)：白纸革命是六四升华，唤醒民众自由感；中共不会真正退让，但民心不灭；中共选人体制：没有最坏，只有更坏 ｜#方菲时间 12/08/2022</a></li>
 <li><a href="/cbnews/20221209/1821481.md" target="_blank">江峰：从二十条到新十条，从清零到放开是怎样坐上过山车的？为何放开了，移民话题亿次热搜？ ”国家不管了，自求多福吧？“危险的潜台词：仓促的放开将迎来冬季灾难？【江峰漫谈20221208第593期】</a></li>
 <li><a href="/cbnews/20221209/1821446.md" target="_blank">天亮时分：郭台铭一封信解封？各地疫情大爆发，重回动态清零？政治局决议全面深化改革开放；美通过国防授权法，大规模军援台湾（政论天下第872集 20221208）</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20221208/1820863.md" target="_blank">山东95后大美女做花饽饽美上热搜 网友：太精致舍不得吃</a></li>
 <li><a href="/cbnews/20221208/1820852.md" target="_blank">中国疾控专家警告 压制的代价 将使新冠疫情拖得更长</a></li>
 <li><a href="/cbnews/20221208/1820835.md" target="_blank">上海商场4楼玻璃空桥“缺一块” 他讲电话边走路坠洞摔死</a></li>
-<li><a href="/cbnews/20221207/1820800.md" target="_blank">大陆舆论氛围改变 “我终于敢承认自己阳过了”</a></li>
-<li><a href="/cbnews/20221207/1820631.md" target="_blank">赵紫阳披露的杨尚昆兄弟失势内幕</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221209/1821534.md" target="_blank">河南开封，叶婷的父亲被打死后，叶婷被警察抓走。事情在网络上发酵后，警察用私家车偷偷将叶婷送回，但叶婷已经变得精神失常了。家属拒绝接受。</a></li>
 <li><a href="/comments/20221209/1821521.md" target="_blank">【独家重磅】李燕铭：江泽民丧礼习近平拥抱江绵恒 “温柔三刀”捅向江绵恒“心脏” 抄底江绵恒独立王国 江绵恒两马仔敏感时刻被免职 前车之鉴：习近平万众瞩目与江派接班人选孙政才握手 一年后孙政才被抓进秦城监狱 习近平决战江曾（六六） 习清洗江绵恒暗黑帝国（三二）</a></li>
 <li><a href="/comments/20221209/1821500.md" target="_blank">大变局到来 胡锦涛溯源12死魁 欺世大观-155</a></li>
 <li><a href="/comments/20221209/1821499.md" target="_blank">洪博学：贫穷是独裁者乐土</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221208/1821199.md" target="_blank">“TikTok是披着羊皮的狼”美印第安纳州提告 德州跟进封杀</a></li>
 <li><a href="/comments/20221208/1821190.md" target="_blank">满大街找病人的时代结束了 折腾3年疫情总算开始</a></li>
 <li><a href="/comments/20221208/1821091.md" target="_blank">中国只让外籍人士打BNT 德国传进口科兴“仅给中国人打”</a></li>
-<li><a href="/comments/20221208/1821090.md" target="_blank">杠上中央？河南官方文章批封控层层加码 速删文</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
 <li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/cbnews/20221126/1816237.md" target="_blank">天亮时分：新疆大火，打响全民反抗第一枪，重庆也暴动；中共可能的应对和我们可能的反制策略（政论天下第859集 20221125）</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
 
 </ul>
 </div>
