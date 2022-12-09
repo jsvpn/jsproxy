@@ -19,13 +19,13 @@
 <li><a href="/topimagenews/20221209/1821529.md">战况不妙！传普京将启“B计划”逃离俄罗斯…</a></li>
 <li><a href="/topimagenews/20221209/1821580.md">中国“白纸示威”刺激朝鲜百姓：我们也应该像中国人那样…</a></li>
 <li><a href="/cnnews/20221209/1821480.md">乌克兰29岁亲俄美女议员遭火炮轰毙 惨死街头</a></li>
-<li><a href="/comments/20221209/1821534.md">河南开封，叶婷的父亲被打死后，叶婷被警察抓走。事情在网络上发酵后，警察用私家车偷偷将叶婷送回，但叶婷已经变得精神失常了。家属拒绝接受。</a></li>
 <li><a href="/topimagenews/20221209/1821477.md">外媒爆北京让步求生 大陆龙头厂逃死劫</a></li>
-<li><a href="/comments/20221209/1821500.md">大变局到来 胡锦涛溯源12死魁 欺世大观-155</a></li>
+<li><a href="/comments/20221209/1821534.md">河南开封，叶婷的父亲被打死后，叶婷被警察抓走。事情在网络上发酵后，警察用私家车偷偷将叶婷送回，但叶婷已经变得精神失常了。家属拒绝接受。</a></li>
 <li><a href="/cbnews/20221209/1821586.md">中国疫情全剧终？陆网激动哭 他叹：不值得</a></li>
+<li><a href="/comments/20221209/1821500.md">大变局到来 胡锦涛溯源12死魁 欺世大观-155</a></li>
 <li><a href="/topimagenews/20221209/1821528.md">多黑暗！河南女实名举报父亲被打死 被抓 放出时已被弄疯【阿波罗网报道】</a></li>
-<li><a href="/baitai/20221209/1821359.md">陈敏尔任天津「一把手」 符合专家预测 5年后「更上层楼」？</a></li>
 <li><a href="/baitai/20221209/1821622.md">北京传大爆发 美国顶级专家发警告</a></li>
+<li><a href="/baitai/20221209/1821359.md">陈敏尔任天津「一把手」 符合专家预测 5年后「更上层楼」？</a></li>
 <li><a href="/health/20221209/1821408.md">猪身上的7个部位，医生建议少吃，大肠排最后，榜首多数人爱吃</a></li>
 <li><a href="/topimagenews/20221209/1821507.md">【微博精粹】不感恩这些白纸英雄 就不配获得自由</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221210/1821721.md" target="_blank">江西上饶失踪学生胡鑫宇案 办案警察称受到威胁【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221209/1821648.md" target="_blank">反习派公开宣告习近平“动态清零”彻底失败！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221209/1821626.md" target="_blank">中共“无孔不入地满世界去钻空子”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221209/1821580.md" target="_blank">中国“白纸示威”刺激朝鲜百姓：我们也应该像中国人那样…</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221208/1821000.md" target="_blank">乌俄战争以来最残酷绞肉机全速运转 俄乌双方死伤惨重</a></li>
 <li><a href="/topimagenews/20221208/1820871.md" target="_blank">空前耻辱! 俄首都旁机场被炸 普京严重内伤 美国给他留面子?</a></li>
 <li><a href="/topimagenews/20221208/1820823.md" target="_blank">中国防疫大松绑！跨区移动免阴性证明 轻症居隔5天快封快解</a></li>
-<li><a href="/topimagenews/20221208/1820822.md" target="_blank">北京防疫松绑！宣布“境内抵京免3天3检” 进返京不查核酸健康码</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221210/1821720.md" target="_blank">美国最新制裁将摧毁中国芯片产业 卡住中国芯片的竟然是华人！全球十大芯片设计厂商中有八家CEO或创始人为华人 美国敦促盟友日本荷兰限制对华芯片出口 中共召集芯片公司紧急开会 全球反共世界变局（十三）</a></li>
 <li><a href="/comments/20221210/1821694.md" target="_blank">时事大家谈：拜登第七度对台军售 台积电芯片换导弹？</a></li>
 <li><a href="/comments/20221209/1821652.md" target="_blank">时事大家谈：拜登第七度对台军售 台积电芯片换导弹？美公布中共军力报告 解放军攻台四剧本？</a></li>
 <li><a href="/comments/20221209/1821616.md" target="_blank">中国防控政策松绑 “大白”失业纷纷上街讨薪水</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221208/1821243.md" target="_blank">时事大家谈：“白纸运动”明火熄灭，暗流依然涌动？习近平推崇江泽民：看似继往开来实则背离其道？</a></li>
 <li><a href="/comments/20221208/1821095.md" target="_blank">习近平借疫情设下伏击圈，体制内外反对派有被全歼危险！二十大后反习派决定瓦解中共，但斗争策略还需改进（一平论政2022/12/7)</a></li>
 <li><a href="/comments/20221208/1821218.md" target="_blank">10人混1管令检测异常大增 北京人如今闻核酸色变</a></li>
-<li><a href="/comments/20221208/1821217.md" target="_blank">中国防疫大松绑 李文亮微博成网友哭墙</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 <li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
 
 </ul>
 </div>
