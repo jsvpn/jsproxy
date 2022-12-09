@@ -13,18 +13,18 @@
 <li><a href="/sohnews/20221209/1821396.md">🔥🔥他要篡位❓密谋武装反习❗暗杀习近平❓中共党媒刚刚爆出惊人消息❗</a></li>
 <li><a href="/comments/20221209/1821379.md">习近平自作自受，拜登终于正面迎战</a></li>
 <li><a href="/cnnews/20221209/1821462.md">警告！高达90%的中国人将感染新冠 3件事需做好</a></li>
-<li><a href="/cnnews/20221209/1821374.md">越来越勇敢 安徽医科大学生们高呼口号聚集抗议【阿波罗网报道】</a></li>
 <li><a href="/yule/20221209/1821325.md">又一女星正式官宣离婚！他俩婚礼曾经轰动整个娱乐圈</a></li>
+<li><a href="/cnnews/20221209/1821374.md">越来越勇敢 安徽医科大学生们高呼口号聚集抗议【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221209/1821529.md">战况不妙！传普京将启“B计划”逃离俄罗斯…</a></li>
-<li><a href="/cnnews/20221209/1821480.md">乌克兰29岁亲俄美女议员遭火炮轰毙 惨死街头</a></li>
-<li><a href="/topimagenews/20221209/1821580.md">中国“白纸示威”刺激朝鲜百姓：我们也应该像中国人那样…</a></li>
 <li><a href="/comments/20221209/1821608.md">200万美国人亲睹巨大飞行物在天空停留1.5小时，雪茄型UFO环绕左右！耗尽美2军舰弹药，毫发无伤⋯</a></li>
+<li><a href="/topimagenews/20221209/1821580.md">中国“白纸示威”刺激朝鲜百姓：我们也应该像中国人那样…</a></li>
+<li><a href="/cnnews/20221209/1821480.md">乌克兰29岁亲俄美女议员遭火炮轰毙 惨死街头</a></li>
 <li><a href="/comments/20221209/1821534.md">河南开封，叶婷的父亲被打死后，叶婷被警察抓走。事情在网络上发酵后，警察用私家车偷偷将叶婷送回，但叶婷已经变得精神失常了。家属拒绝接受。</a></li>
 <li><a href="/topimagenews/20221209/1821477.md">外媒爆北京让步求生 大陆龙头厂逃死劫</a></li>
 <li><a href="/comments/20221209/1821500.md">大变局到来 胡锦涛溯源12死魁 欺世大观-155</a></li>
 <li><a href="/topimagenews/20221209/1821528.md">多黑暗！河南女实名举报父亲被打死 被抓 放出时已被弄疯【阿波罗网报道】</a></li>
-<li><a href="/baitai/20221209/1821359.md">陈敏尔任天津「一把手」 符合专家预测 5年后「更上层楼」？</a></li>
 <li><a href="/cbnews/20221209/1821586.md">中国疫情全剧终？陆网激动哭 他叹：不值得</a></li>
+<li><a href="/baitai/20221209/1821359.md">陈敏尔任天津「一把手」 符合专家预测 5年后「更上层楼」？</a></li>
 <li><a href="/health/20221209/1821408.md">猪身上的7个部位，医生建议少吃，大肠排最后，榜首多数人爱吃</a></li>
 <li><a href="/topimagenews/20221209/1821507.md">【微博精粹】不感恩这些白纸英雄 就不配获得自由</a></li>
 <li><a href="/baitai/20221209/1821440.md">北京疫情告急？「大白」或成维稳对象 </a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221210/1821694.md" target="_blank">时事大家谈：拜登第七度对台军售 台积电芯片换导弹？</a></li>
 <li><a href="/comments/20221209/1821652.md" target="_blank">时事大家谈：拜登第七度对台军售 台积电芯片换导弹？美公布中共军力报告 解放军攻台四剧本？</a></li>
 <li><a href="/comments/20221209/1821616.md" target="_blank">中国防控政策松绑 “大白”失业纷纷上街讨薪水</a></li>
 <li><a href="/comments/20221209/1821545.md" target="_blank">中华五千文明探讨：鬼谷子神断探秘</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221208/1821095.md" target="_blank">习近平借疫情设下伏击圈，体制内外反对派有被全歼危险！二十大后反习派决定瓦解中共，但斗争策略还需改进（一平论政2022/12/7)</a></li>
 <li><a href="/comments/20221208/1821218.md" target="_blank">10人混1管令检测异常大增 北京人如今闻核酸色变</a></li>
 <li><a href="/comments/20221208/1821217.md" target="_blank">中国防疫大松绑 李文亮微博成网友哭墙</a></li>
-<li><a href="/comments/20221208/1821202.md" target="_blank">【文韬政论】白纸运动与江泽民的「死得合时」</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 
 </ul>
 </div>
