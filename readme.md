@@ -8,12 +8,11 @@
 <li><a href="/comments/20221209/1821608.md">200万美国人亲睹巨大飞行物在天空停留1.5小时，雪茄型UFO环绕左右！耗尽美2军舰弹药，毫发无伤⋯</a></li>
 <li><a href="/baitai/20221209/1821622.md">北京传大爆发 美国顶级专家发警告</a></li>
 <li><a href="/sohnews/20221210/1821723.md">江泽民的退休生活，细节惊人！</a></li>
-<li><a href="/topimagenews/20221209/1821580.md">中国“白纸示威”刺激朝鲜百姓：我们也应该像中国人那样…</a></li>
 <li><a href="/topimagenews/20221209/1821648.md">反习派公开宣告习近平“动态清零”彻底失败！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221209/1821586.md">中国疫情全剧终？陆网激动哭 他叹：不值得</a></li>
 <li><a href="/cnnews/20221210/1821768.md">68岁董明珠暴瘦成锥子脸 模样大变认不出</a></li>
-<li><a href="/comments/20221210/1821845.md">中共高层密集调整 4名副总理浮出</a></li>
 <li><a href="/topimagenews/20221210/1821721.md">江西上饶失踪学生胡鑫宇案 办案警察称受到威胁【阿波罗网报道】</a></li>
+<li><a href="/comments/20221210/1821845.md">中共高层密集调整 4名副总理浮出</a></li>
 <li><a href="/cnnews/20221210/1821769.md">曾预言911、戴安娜之死 灵媒预言世界杯冠军归属</a></li>
 <li><a href="/cnnews/20221210/1821773.md">大难临头各自飞，李铁进“囚”，妻离子散</a></li>
 <li><a href="/cbnews/20221209/1821593.md">沙地高调接待习近平 无视美国警告和华为签协议</a></li>
@@ -23,10 +22,11 @@
 <li><a href="/sohnews/20221210/1821879.md">江泽民被施极刑？将清洗江曾家族？曾庆红身体出状况；叶婷案再度反转？凶手妻旧文被晒；叶婷释放视频曝光，叶家拦车要说法【新闻看点 李沐阳12.9】</a></li>
 <li><a href="/cnnews/20221209/1821596.md">方舱升级！中共防疫自打脸 官方数据能让几人相信</a></li>
 <li><a href="/baitai/20221210/1821781.md">胡锡进终于说真话了？学者揭中共解封三大顾虑</a></li>
+<li><a href="/ssgc/20221210/1821815.md">〖微博谈〗请务必提前规划</a></li>
 <li><a href="/topimagenews/20221210/1821765.md">中国新十条 你最想知道的几个“确定与不确定”</a></li>
+<li><a href="/cbnews/20221210/1821870.md">习近平自嗨“外交成功” 他捅破：两边互相利用</a></li>
 <li><a href="/comments/20221210/1821829.md">文昭：刚放开，中国疫情井喷式爆发！为何「宽严皆误」？今冬或有百万人丧生</a></li>
 <li><a href="/sohnews/20221210/1821821.md">🔥🔥中共疫情大爆发❗医疗系统大崩溃 预测将死尸遍地❗三年清零终归零 白遭三年罪❗</a></li>
-<li><a href="/ssgc/20221210/1821815.md">〖微博谈〗请务必提前规划</a></li>
 <li><a href="/headline/20221209/1821599.md">【珍惜生命】著名记者及抑郁症救助发起人张进自杀身亡</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221210/1821993.md" target="_blank">成都隔离酒店好忙 深夜发通知入境隔离5＋3变5天</a></li>
 <li><a href="/cbnews/20221210/1821990.md" target="_blank">北京大松绑 快筛阳性自行在家隔离免上报</a></li>
 <li><a href="/comments/20221210/1821972.md" target="_blank">李克强带国际货币组织人员游览黄山，受到游客欢迎。</a></li>
 <li><a href="/cbnews/20221210/1821929.md" target="_blank">天亮时分：传普京已为战败流亡做准备；中共放开新冠后刺激经济；民主党参议员退党；马斯克连发三重炮，成为左派最痛恨的人（政论天下第873集 20221209）</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221208/1821270.md" target="_blank">上海9日起密闭娱乐餐饮服务场所不再查验核酸阴性证明</a></li>
 <li><a href="/cbnews/20221208/1821261.md" target="_blank">日本将拥有“反击能力” 美军陆战队司令伯格乐见其成</a></li>
 <li><a href="/cbnews/20221208/1821149.md" target="_blank">弃共想“润”了 中国民众1天搜寻“移民”超过1亿次</a></li>
-<li><a href="/cbnews/20221208/1821089.md" target="_blank">不提清零 网友：“感谢白纸革命 境外势力渗透高层”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 <li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
 <li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 
 </ul>
 </div>
