@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20221209/1821473.md">馅饼砸中李克强！最後任期大胜习近平？一尊指挥三年後抄答案交卷遭舆论爆笑，窜访沙特躲口水？</a></li>
 <li><a href="/sohnews/20221209/1821542.md">沙特说习近平S.B.！中国翻墙人数惊人？！大陆“积压病患”已挤爆医院，多地阳性暴增，确诊医护继续上班，重症病床严重不足；习近平“清零”突然转向必有内幕；胡锡进每天做“俯卧撑”自救｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20221209/1821608.md">200万美国人亲睹巨大飞行物在天空停留1.5小时，雪茄型UFO环绕左右！耗尽美2军舰弹药，毫发无伤⋯</a></li>
 <li><a href="/topimagenews/20221209/1821529.md">战况不妙！传普京将启“B计划”逃离俄罗斯…</a></li>
 <li><a href="/baitai/20221209/1821622.md">北京传大爆发 美国顶级专家发警告</a></li>
 <li><a href="/topimagenews/20221209/1821580.md">中国“白纸示威”刺激朝鲜百姓：我们也应该像中国人那样…</a></li>
 <li><a href="/sohnews/20221210/1821723.md">江泽民的退休生活，细节惊人！</a></li>
-<li><a href="/cnnews/20221209/1821480.md">乌克兰29岁亲俄美女议员遭火炮轰毙 惨死街头</a></li>
-<li><a href="/topimagenews/20221209/1821648.md">反习派公开宣告习近平“动态清零”彻底失败！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221209/1821586.md">中国疫情全剧终？陆网激动哭 他叹：不值得</a></li>
-<li><a href="/topimagenews/20221209/1821477.md">外媒爆北京让步求生 大陆龙头厂逃死劫</a></li>
-<li><a href="/topimagenews/20221210/1821721.md">江西上饶失踪学生胡鑫宇案 办案警察称受到威胁【阿波罗网报道】</a></li>
-<li><a href="/comments/20221209/1821534.md">河南开封，叶婷的父亲被打死后，叶婷被警察抓走。事情在网络上发酵后，警察用私家车偷偷将叶婷送回，但叶婷已经变得精神失常了。家属拒绝接受。</a></li>
+<li><a href="/topimagenews/20221209/1821648.md">反习派公开宣告习近平“动态清零”彻底失败！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221210/1821768.md">68岁董明珠暴瘦成锥子脸 模样大变认不出</a></li>
+<li><a href="/comments/20221209/1821534.md">河南开封，叶婷的父亲被打死后，叶婷被警察抓走。事情在网络上发酵后，警察用私家车偷偷将叶婷送回，但叶婷已经变得精神失常了。家属拒绝接受。</a></li>
+<li><a href="/topimagenews/20221210/1821721.md">江西上饶失踪学生胡鑫宇案 办案警察称受到威胁【阿波罗网报道】</a></li>
 <li><a href="/comments/20221209/1821500.md">大变局到来 胡锦涛溯源12死魁 欺世大观-155</a></li>
 <li><a href="/topimagenews/20221209/1821528.md">多黑暗！河南女实名举报父亲被打死 被抓 放出时已被弄疯【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221209/1821593.md">沙地高调接待习近平 无视美国警告和华为签协议</a></li>
-<li><a href="/topimagenews/20221209/1821507.md">【微博精粹】不感恩这些白纸英雄 就不配获得自由</a></li>
 <li><a href="/cnnews/20221210/1821769.md">曾预言911、戴安娜之死 灵媒预言世界杯冠军归属</a></li>
 <li><a href="/comments/20221210/1821752.md">成都女生的演讲：我们为自己而战！为子孙后代而战！为了中国的未来，我们要坚持到底！</a></li>
+<li><a href="/topimagenews/20221209/1821507.md">【微博精粹】不感恩这些白纸英雄 就不配获得自由</a></li>
+<li><a href="/comments/20221210/1821761.md">看一次笑一次！300亿美刀换来SB博士学位</a></li>
 <li><a href="/cnnews/20221209/1821596.md">方舱升级！中共防疫自打脸 官方数据能让几人相信</a></li>
 <li><a href="/baitai/20221210/1821729.md">前中共疾控中心主任高福再被免一职 分析：其背后势力或成清洗目标</a></li>
 <li><a href="/cnnews/20221210/1821773.md">大难临头各自飞，李铁进“囚”，妻离子散</a></li>
+<li><a href="/comments/20221209/1821521.md">【独家重磅】李燕铭：江泽民丧礼习近平拥抱江绵恒 “温柔三刀”捅向江绵恒“心脏” 抄底江绵恒独立王国 江绵恒两马仔敏感时刻被免职 前车之鉴：习近平万众瞩目与江派接班人选孙政才握手 一年后孙政才被抓进秦城监狱 习近平决战江曾（六六） 习清洗江绵恒暗黑帝国（三二）</a></li>
+<li><a href="/sohnews/20221209/1821589.md">清零是天意？ BBC无意中给出了2023经济大萧条的预言？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221210/1821901.md" target="_blank">解封稳经济？专家：中国经济将长期下行</a></li>
 <li><a href="/cbnews/20221210/1821870.md" target="_blank">习近平自嗨“外交成功” 他捅破：两边互相利用</a></li>
 <li><a href="/cbnews/20221210/1821828.md" target="_blank">江峰：台湾国高中用《小红书》的巨大危险，美国已经动手清除中共抖音等社交平台，台湾在等什麽？不顾国内满街灾民，去给满街超跑的沙特撒币！习近平中东之行为何注定要失败？【江峰漫谈20221209第594期】</a></li>
 <li><a href="/comments/20221210/1821752.md" target="_blank">成都女生的演讲：我们为自己而战！为子孙后代而战！为了中国的未来，我们要坚持到底！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221208/1821086.md" target="_blank">天亮时分：防疫新十条结束清零，习近平权力受挑战？莫斯科附近机场被炸，各方沉默；中共要和沙特建立战略伙伴关系（政论天下第871集 20221207）</a></li>
 <li><a href="/comments/20221208/1821085.md" target="_blank">12月7日夜，成都体育学院大批学生集会抗议！</a></li>
 <li><a href="/cbnews/20221208/1821080.md" target="_blank">全面放开？传中国明年3月部分地区开放旅客入境</a></li>
-<li><a href="/cbnews/20221208/1821070.md" target="_blank">习近平出访沙特没戴口罩 向美国发出强烈信号</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221210/1821908.md" target="_blank">西坡：越保护，越恐惧</a></li>
+<li><a href="/comments/20221210/1821907.md" target="_blank">老鱼君：一夜之间，砖家们全变异了</a></li>
+<li><a href="/comments/20221210/1821906.md" target="_blank">苏暁康：腐败的奇迹 一个京剧二丑的腐败时代</a></li>
+<li><a href="/comments/20221210/1821892.md" target="_blank">廖亦武：白纸革命-历史将记住这前所未有的怒吼</a></li>
 <li><a href="/comments/20221210/1821891.md" target="_blank">赖怡忠：全球化已死与 台湾在新冷战结构下的挑战</a></li>
 <li><a href="/comments/20221210/1821890.md" target="_blank">高思达：白纸革命后，中国政府暂停清零后续危机</a></li>
 <li><a href="/comments/20221210/1821889.md" target="_blank">王春山：“假领头”下，路在何方</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20221210/1821752.md" target="_blank">成都女生的演讲：我们为自己而战！为子孙后代而战！为了中国的未来，我们要坚持到底！</a></li>
 <li><a href="/comments/20221210/1821720.md" target="_blank">美国最新制裁将摧毁中国芯片产业 卡住中国芯片的竟然是华人！全球十大芯片设计厂商中有八家CEO或创始人为华人 美国敦促盟友日本荷兰限制对华芯片出口 中共召集芯片公司紧急开会 全球反共世界变局（十三）</a></li>
 <li><a href="/comments/20221210/1821694.md" target="_blank">时事大家谈：拜登第七度对台军售 台积电芯片换导弹？</a></li>
-<li><a href="/comments/20221209/1821652.md" target="_blank">时事大家谈：拜登第七度对台军售 台积电芯片换导弹？美公布中共军力报告 解放军攻台四剧本？</a></li>
-<li><a href="/comments/20221209/1821616.md" target="_blank">中国防控政策松绑 “大白”失业纷纷上街讨薪水</a></li>
-<li><a href="/comments/20221209/1821545.md" target="_blank">中华五千文明探讨：鬼谷子神断探秘</a></li>
-<li><a href="/comments/20221209/1821608.md" target="_blank">200万美国人亲睹巨大飞行物在天空停留1.5小时，雪茄型UFO环绕左右！耗尽美2军舰弹药，毫发无伤⋯</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
 
 </ul>
 </div>
