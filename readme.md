@@ -15,19 +15,19 @@
 <li><a href="/comments/20221210/1822014.md">从清零到放开 一夜之间中国砖家们全变异了</a></li>
 <li><a href="/sohnews/20221211/1822106.md">李克强忽然上黄山，带着大队人马，告别时刻？</a></li>
 <li><a href="/weiquan/20221210/1822053.md">因抗议过度防疫而遭刑事拘留的中央美院毕业生张东辉因检察院撤诉而无罪获释</a></li>
-<li><a href="/cnnews/20221211/1822102.md">写下“三年了，我已麻木”的年轻人终于出来了</a></li>
 <li><a href="/comments/20221211/1822127.md">民众怒斥：哪来的境外势力？</a></li>
+<li><a href="/cnnews/20221211/1822102.md">写下“三年了，我已麻木”的年轻人终于出来了</a></li>
 <li><a href="/comments/20221211/1822111.md">勇敢的年轻人公开演讲：共产党才是真正的境外势力！</a></li>
 <li><a href="/cnnews/20221210/1821962.md">Costco一部门取消 提前9分钟通知 1800人失业</a></li>
 <li><a href="/comments/20221210/1822005.md">马斯克“推特文件”第三集：封杀唐纳德.川普</a></li>
+<li><a href="/comments/20221211/1822128.md">三因素决定中国十年内必有大变</a></li>
 <li><a href="/cbnews/20221210/1821929.md">天亮时分：传普京已为战败流亡做准备；中共放开新冠后刺激经济；民主党参议员退党；马斯克连发三重炮，成为左派最痛恨的人（政论天下第873集 20221209）</a></li>
 <li><a href="/cbnews/20221210/1822010.md">锺南山：少数人发烧可能是双重感染</a></li>
 <li><a href="/sohnews/20221210/1822021.md">江泽民逝世 他如何改造 中共的政治基础?又为当今习近平政治带来什么？谁说台商都舔共?台商也有蓝绿政党倾向之分。中国台商逃命潮 不了解中共不要进中国。2022.12.10</a></li>
-<li><a href="/comments/20221211/1822128.md">三因素决定中国十年内必有大变</a></li>
+<li><a href="/headline/20221211/1822130.md">李克强兴致勃勃游黄山 官媒避谈亲民作风</a></li>
+<li><a href="/comments/20221211/1822132.md">李燕铭：上海楼市价格破防 “不灭神话”破灭 杭州楼市跌落神坛房价五连跌 重庆二手房挂牌量全国第一 万亿GDP大城全面取消限购 一线城市豪宅现抛售潮价格跌跌不休 楼市击鼓传花游戏难以为继 中共末日之经济危机（十三）</a></li>
 <li><a href="/sohnews/20221210/1822063.md">北京感染大爆发，胡锡进怼官方；专家透露疫苗不管用 将传染10亿人；普京逃亡计划 目的地中国被弃；爱国者导弹援台 中共另类黑手侵入。｜ #时事金扫描 12/10/2022</a></li>
 <li><a href="/funmedia/20221210/1821957.md">为什么越来越多人自驾游喜欢床车，而房车却被冷落了？</a></li>
-<li><a href="/headline/20221211/1822130.md">李克强兴致勃勃游黄山 官媒避谈亲民作风</a></li>
-<li><a href="/ssgc/20221210/1822032.md">中国接种疫苗次数越多感染率越高？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,9 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221211/1822240.md" target="_blank">暗讽习近平是小妾！习近平政敌四次强调一句话【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221211/1822239.md" target="_blank">触目惊心！为什么发热门诊会挤兑？看这些横幅就懂了</a></li>
+<li><a href="/topimagenews/20221211/1822238.md" target="_blank">新岁吹寒风：中国社会承受力的豪赌实验</a></li>
 <li><a href="/topimagenews/20221211/1822194.md" target="_blank">牛！凭开源情报，破中共军事秘密，他让专家惊呼！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221211/1822122.md" target="_blank">福建厦门强拆 逼死两条人命 一喝农药一跳楼【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221210/1821977.md" target="_blank">陆女在家仅穿内衣 惊遭“大白”强行破门拖走…</a></li>
@@ -88,15 +91,13 @@
 <li><a href="/topimagenews/20221209/1821448.md" target="_blank">中国新十条刚上路 网红 : 现在北京疫情大爆发</a></li>
 <li><a href="/topimagenews/20221209/1821447.md" target="_blank">涨价！“政府在哪”?荆门市燃气遭垄断 计程司机联合抗议…</a></li>
 <li><a href="/topimagenews/20221209/1821402.md" target="_blank">评论区爆了：伤太深！中国有公司表示：永不录用大白</a></li>
-<li><a href="/topimagenews/20221209/1821382.md" target="_blank">各地大白跳楼讨薪 民众称：恶有恶报【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221209/1821301.md" target="_blank">华尔街日报：郭台铭的一封信 促成中国松绑防疫措施</a></li>
-<li><a href="/topimagenews/20221209/1821295.md" target="_blank">纽时上海分社长：松绑防疫后 中国经济面临2大挑战</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221211/1822242.md" target="_blank">浮蚁：新冠疫情封控横幅大杂烩</a></li>
 <li><a href="/comments/20221211/1822231.md" target="_blank">事过留痕，我们只能勇敢</a></li>
 <li><a href="/comments/20221211/1822230.md" target="_blank">金钟：A4白纸为江泽民送终——评中共权力世袭制</a></li>
 <li><a href="/comments/20221211/1822222.md" target="_blank">杨宁： 江泽民死了 央视名嘴罗京在无生之门的前车之鉴</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221211/1822127.md" target="_blank">民众怒斥：哪来的境外势力？</a></li>
 <li><a href="/comments/20221211/1822111.md" target="_blank">勇敢的年轻人公开演讲：共产党才是真正的境外势力！</a></li>
 <li><a href="/comments/20221210/1822058.md" target="_blank">疫情趋势随官方态度而定 北京疫情通报格式也改变</a></li>
-<li><a href="/comments/20221210/1822056.md" target="_blank">【白纸革命】中国抗争讯息传递推手 “李老师”受访吐心声</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cbnews/20221126/1816237.md" target="_blank">天亮时分：新疆大火，打响全民反抗第一枪，重庆也暴动；中共可能的应对和我们可能的反制策略（政论天下第859集 20221125）</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
 
 </ul>
 </div>
