@@ -13,21 +13,21 @@
 <li><a href="/cnnews/20221210/1822012.md">徐麟任贵州省委书记 贵州成中国政坛高地</a></li>
 <li><a href="/cbnews/20221210/1821870.md">习近平自嗨“外交成功” 他捅破：两边互相利用</a></li>
 <li><a href="/baitai/20221210/1821970.md">习近平访沙特重头戏登场 矢板明夫：真相没那么简单</a></li>
+<li><a href="/sohnews/20221211/1822109.md">又涌现青年勇士，高呼：中国不要皇帝！共产党才是真正的境外势力</a></li>
 <li><a href="/sohnews/20221210/1822035.md">陈破空：访问沙特，习近平艰难下飞机。北京不再公布疫情数据，西安病床爆满。段子满天飞 。美国制裁中共在西藏的一把手。参议院戏剧性变两党平局。美东12月10日早8点、即中港台12月10日晚9点</a></li>
+<li><a href="/sohnews/20221211/1822106.md">李克强忽然上黄山，带着大队人马，告别时刻？</a></li>
 <li><a href="/comments/20221210/1822014.md">从清零到放开 一夜之间中国砖家们全变异了</a></li>
 <li><a href="/weiquan/20221210/1822053.md">因抗议过度防疫而遭刑事拘留的中央美院毕业生张东辉因检察院撤诉而无罪获释</a></li>
 <li><a href="/topimagenews/20221210/1821886.md">美官员：战狼外交适得其反中共将开始与美恢复正常外交</a></li>
-<li><a href="/sohnews/20221211/1822109.md">又涌现青年勇士，高呼：中国不要皇帝！共产党才是真正的境外势力</a></li>
-<li><a href="/sohnews/20221211/1822106.md">李克强忽然上黄山，带着大队人马，告别时刻？</a></li>
 <li><a href="/cnnews/20221211/1822102.md">写下“三年了，我已麻木”的年轻人终于出来了</a></li>
 <li><a href="/comments/20221210/1822005.md">马斯克“推特文件”第三集：封杀唐纳德.川普</a></li>
 <li><a href="/cbnews/20221210/1821929.md">天亮时分：传普京已为战败流亡做准备；中共放开新冠后刺激经济；民主党参议员退党；马斯克连发三重炮，成为左派最痛恨的人（政论天下第873集 20221209）</a></li>
 <li><a href="/cnnews/20221210/1821962.md">Costco一部门取消 提前9分钟通知 1800人失业</a></li>
+<li><a href="/comments/20221211/1822111.md">勇敢的年轻人公开演讲：共产党才是真正的境外势力！</a></li>
 <li><a href="/sohnews/20221210/1822021.md">江泽民逝世 他如何改造 中共的政治基础?又为当今习近平政治带来什么？谁说台商都舔共?台商也有蓝绿政党倾向之分。中国台商逃命潮 不了解中共不要进中国。2022.12.10</a></li>
 <li><a href="/cbnews/20221210/1822010.md">锺南山：少数人发烧可能是双重感染</a></li>
 <li><a href="/cbnews/20221210/1821901.md">解封稳经济？专家：中国经济将长期下行</a></li>
 <li><a href="/funmedia/20221210/1821957.md">为什么越来越多人自驾游喜欢床车，而房车却被冷落了？</a></li>
-<li><a href="/ssgc/20221210/1822032.md">中国接种疫苗次数越多感染率越高？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221211/1822168.md" target="_blank">刘庆彬：土耳其封锁海峡打破普京幻想 普京布局只剩中国</a></li>
+<li><a href="/comments/20221211/1822167.md" target="_blank">重启之后，我们靠什么再次追上世界之潮？</a></li>
+<li><a href="/comments/20221211/1822166.md" target="_blank">陈杰：写给辽宁省葫芦岛市市长何志勇的一封求救信</a></li>
+<li><a href="/comments/20221211/1822165.md" target="_blank">网海拾贝：清零嘎然而止是因为财政没钱了</a></li>
+<li><a href="/comments/20221211/1822164.md" target="_blank">楚一丁：50颗星的平等 与5颗星的不平等</a></li>
+<li><a href="/comments/20221211/1822161.md" target="_blank">马斯克“推特文件”第二集：Twitter的秘密黑名单</a></li>
 <li><a href="/comments/20221211/1822155.md" target="_blank">王赫：中共荒唐的投资数据</a></li>
 <li><a href="/comments/20221211/1822154.md" target="_blank">邓英士：中国足球的春天</a></li>
 <li><a href="/comments/20221211/1822153.md" target="_blank">利健：“西安事变”86周年 反思历史罪人张学良</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20221210/1821972.md" target="_blank">李克强带国际货币组织人员游览黄山，受到游客欢迎。</a></li>
 <li><a href="/comments/20221210/1821934.md" target="_blank">钟艺璇:漂在北上广的老年父母</a></li>
 <li><a href="/comments/20221210/1821933.md" target="_blank">卢诗翰:“从来不晚”是一碗很好的鸡汤</a></li>
-<li><a href="/comments/20221210/1821908.md" target="_blank">西坡：越保护，越恐惧</a></li>
-<li><a href="/comments/20221210/1821907.md" target="_blank">老鱼君：一夜之间，砖家们全变异了</a></li>
-<li><a href="/comments/20221210/1821906.md" target="_blank">苏暁康：腐败的奇迹 一个京剧二丑的腐败时代</a></li>
-<li><a href="/comments/20221210/1821892.md" target="_blank">廖亦武：白纸革命-历史将记住这前所未有的怒吼</a></li>
-<li><a href="/comments/20221210/1821891.md" target="_blank">赖怡忠：全球化已死与 台湾在新冷战结构下的挑战</a></li>
-<li><a href="/comments/20221210/1821890.md" target="_blank">高思达：白纸革命后，中国政府暂停清零后续危机</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
 <li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 
 </ul>
 </div>
