@@ -9,14 +9,13 @@
 <li><a href="/sohnews/20221210/1822035.md">陈破空：访问沙特，习近平艰难下飞机。北京不再公布疫情数据，西安病床爆满。段子满天飞 。美国制裁中共在西藏的一把手。参议院戏剧性变两党平局。美东12月10日早8点、即中港台12月10日晚9点</a></li>
 <li><a href="/sohnews/20221211/1822106.md">李克强忽然上黄山，带着大队人马，告别时刻？</a></li>
 <li><a href="/weiquan/20221210/1822053.md">因抗议过度防疫而遭刑事拘留的中央美院毕业生张东辉因检察院撤诉而无罪获释</a></li>
-<li><a href="/comments/20221210/1822014.md">从清零到放开 一夜之间中国砖家们全变异了</a></li>
 <li><a href="/comments/20221211/1822111.md">勇敢的年轻人公开演讲：共产党才是真正的境外势力！</a></li>
 <li><a href="/yule/20221211/1822187.md">上海第一美女：当初非豪门不嫁 如今熔化在蓝天</a></li>
 <li><a href="/cbnews/20221211/1822229.md">天亮时分：新冠惊涛骇浪将至？李克强游黄山，又遭官媒封杀；中共反复强调开放，还能回到从前吗？这步棋必须走（政论天下第874集 20221210）</a></li>
 <li><a href="/comments/20221211/1822127.md">民众怒斥：哪来的境外势力？</a></li>
 <li><a href="/topimagenews/20221211/1822240.md">暗讽习近平是小妾！习近平政敌四次强调一句话【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20221211/1822102.md">写下“三年了，我已麻木”的年轻人终于出来了</a></li>
 <li><a href="/topimagenews/20221211/1822239.md">触目惊心！为什么发热门诊会挤兑？看这些横幅就懂了</a></li>
+<li><a href="/cnnews/20221211/1822102.md">写下“三年了，我已麻木”的年轻人终于出来了</a></li>
 <li><a href="/comments/20221211/1822128.md">三因素决定中国十年内必有大变</a></li>
 <li><a href="/topimagenews/20221211/1822247.md">【微博精粹】昨天穿个和服都抓 今天居然腆着碧莲去日本抢单</a></li>
 <li><a href="/baitai/20221211/1822142.md">惊传秋后算账开始 中央调查组进驻南京传媒学院</a></li>
@@ -24,6 +23,7 @@
 <li><a href="/comments/20221211/1822150.md">小区业主们和警察论执法，警察非常尴尬！</a></li>
 <li><a href="/headline/20221211/1822130.md">李克强兴致勃勃游黄山 官媒避谈亲民作风</a></li>
 <li><a href="/comments/20221211/1822132.md">李燕铭：上海楼市价格破防 “不灭神话”破灭 杭州楼市跌落神坛房价五连跌 重庆二手房挂牌量全国第一 万亿GDP大城全面取消限购 一线城市豪宅现抛售潮价格跌跌不休 楼市击鼓传花游戏难以为继 中共末日之经济危机（十三）</a></li>
+<li><a href="/cbnews/20221211/1822263.md">习近平被迫急转弯·分析：未来麻烦或更多</a></li>
 <li><a href="/lifebaike/20221211/1822181.md">男人开始衰老时，有4个“丑态”，如果一个不占，提前恭喜你</a></li>
 <li><a href="/sohnews/20221210/1822063.md">北京感染大爆发，胡锡进怼官方；专家透露疫苗不管用 将传染10亿人；普京逃亡计划 目的地中国被弃；爱国者导弹援台 中共另类黑手侵入。｜ #时事金扫描 12/10/2022</a></li>
 <li><a href="/sohnews/20221210/1822021.md">江泽民逝世 他如何改造 中共的政治基础?又为当今习近平政治带来什么？谁说台商都舔共?台商也有蓝绿政党倾向之分。中国台商逃命潮 不了解中共不要进中国。2022.12.10</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221211/1822322.md" target="_blank">美国制裁迫害法轮功的中共官员</a></li>
 <li><a href="/comments/20221211/1822289.md" target="_blank">12月10日晚，重庆医科大学学生聚集抗议！</a></li>
 <li><a href="/cbnews/20221211/1822276.md" target="_blank">习近平被迫急转弯 分析：未来麻烦或更多</a></li>
 <li><a href="/cbnews/20221211/1822263.md" target="_blank">习近平被迫急转弯·分析：未来麻烦或更多</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221209/1821608.md" target="_blank">200万美国人亲睹巨大飞行物在天空停留1.5小时，雪茄型UFO环绕左右！耗尽美2军舰弹药，毫发无伤⋯</a></li>
 <li><a href="/cbnews/20221209/1821594.md" target="_blank">习高调访中东日会6政要 外媒：意图挫败西方</a></li>
 <li><a href="/cbnews/20221209/1821593.md" target="_blank">沙地高调接待习近平 无视美国警告和华为签协议</a></li>
-<li><a href="/cbnews/20221209/1821586.md" target="_blank">中国疫情全剧终？陆网激动哭 他叹：不值得</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221211/1822323.md" target="_blank">一场混乱、令人困惑的赌博：中国如何逆转清零</a></li>
 <li><a href="/comments/20221211/1822289.md" target="_blank">12月10日晚，重庆医科大学学生聚集抗议！</a></li>
 <li><a href="/comments/20221211/1822255.md" target="_blank">【杰森视角】来年两百万中国人将死于新冠？台湾解封模式为何完胜香港模式？乌克兰战争进入地狱模式！12月解封对中国人伤害最大！3年等来的还是一个无准备解封！普京考虑用核武先发制人的战略！</a></li>
 <li><a href="/comments/20221211/1822249.md" target="_blank">热帖：是时候重新评价美国的抗疫经验了</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221211/1822150.md" target="_blank">小区业主们和警察论执法，警察非常尴尬！</a></li>
 <li><a href="/comments/20221211/1822135.md" target="_blank">【方菲时间】专访李南央：白纸革命是六四的升华</a></li>
 <li><a href="/comments/20221211/1822132.md" target="_blank">李燕铭：上海楼市价格破防 “不灭神话”破灭 杭州楼市跌落神坛房价五连跌 重庆二手房挂牌量全国第一 万亿GDP大城全面取消限购 一线城市豪宅现抛售潮价格跌跌不休 楼市击鼓传花游戏难以为继 中共末日之经济危机（十三）</a></li>
-<li><a href="/comments/20221211/1822128.md" target="_blank">三因素决定中国十年内必有大变</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
 <li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 
 </ul>
 </div>
