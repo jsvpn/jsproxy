@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20221211/1822329.md">陈破空：江泽民骨灰撒了，这么做的第三人。蔡奇要当接班人？重庆爆发学潮。白纸革命传到朝鲜，人们惊讶议论。31国谴责金正恩。美东12月11日早8点、即中港台12月11日晚9点</a></li>
 <li><a href="/topimagenews/20221212/1822470.md">说来就来，反习派的第二步开始了！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221212/1822428.md">偷拍的朝鲜纪录片：每个镜头，都是对人性的犯罪</a></li>
 <li><a href="/comments/20221212/1822414.md">12月11日晚，四川大学华西医学院学生聚集游行示威！</a></li>
+<li><a href="/topimagenews/20221212/1822428.md">偷拍的朝鲜纪录片：每个镜头，都是对人性的犯罪</a></li>
 <li><a href="/sohnews/20221211/1822342.md">出国抢单透露的秘密，上海置地广场关闭，上海人26年集体回忆，新10条太随意欠中国人一个交代，商场空置率高倒闭多，外商的集体回忆（小木谈天第310期 20221211）</a></li>
 <li><a href="/ssgc/20221212/1822404.md">〖兲朝浮世绘〗年轻的王储并没有冲动 这次的沙特访问烂尾了</a></li>
 <li><a href="/baitai/20221212/1822388.md">北京人真的怕了！医院爆满 街上比封控时还寂静</a></li>
@@ -17,16 +17,16 @@
 <li><a href="/weiquan/20221211/1822352.md">江西南昌画家萧亮因画了四通桥勇士彭立发的画像并在推特上发布被逮捕</a></li>
 <li><a href="/cbnews/20221212/1822451.md">天亮时分：行程卡下线，然后呢？习近平未能签署人民币买石油协定，沙特之行烂尾而归；特邀方伟共话马斯克曝光的推特黑幕（政论天下第875集 20221211）</a></li>
 <li><a href="/cbnews/20221212/1822400.md">“焦虑主妇”取得台湾籍回中国注销却卡关崩溃哭喊“好想回台湾！”</a></li>
-<li><a href="/comments/20221212/1822377.md">王岐山亮相外滩峰会 曾遭习近平敲打</a></li>
 <li><a href="/cbnews/20221212/1822393.md">大陆新一波疫情 张文宏：约三四周达高峰 延续三个月至半年</a></li>
+<li><a href="/comments/20221212/1822377.md">王岐山亮相外滩峰会 曾遭习近平敲打</a></li>
 <li><a href="/baitai/20221212/1822463.md">外媒旧事重提 王沪宁在胡锦涛离场事件中很关键？</a></li>
 <li><a href="/health/20221212/1822452.md">如果男人雄性荷尔蒙很高，身体就有3个特点，希望你都有</a></li>
 <li><a href="/cnnews/20221212/1822445.md">这不是段子 事实正在发生：他们一齐住进ICU</a></li>
+<li><a href="/topimagenews/20221212/1822532.md">白纸革命蔓延！四川大学又爆示威…</a></li>
 <li><a href="/comments/20221212/1822513.md">【微博精粹】卸磨杀驴 抓大白开始了</a></li>
 <li><a href="/headline/20221211/1822325.md">抗疫神器：黄桃罐头+N95口罩 中国民众疯囤货</a></li>
-<li><a href="/topimagenews/20221212/1822532.md">白纸革命蔓延！四川大学又爆示威…</a></li>
-<li><a href="/cnnews/20221212/1822485.md">直指这些人！习近平整肃目标明确了【阿波罗网报道】</a></li>
 <li><a href="/comments/20221211/1822347.md">上海第一美女：当初非豪门不嫁 如今走上绝路</a></li>
+<li><a href="/cnnews/20221212/1822485.md">直指这些人！习近平整肃目标明确了【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221212/1822433.md">陈破空：习派对外媒放风：强行架离胡，王沪宁是主谋！北京沦陷，社区人员全阳！保定全城发烧。习近平访问中东，伊朗召见中国大使严正抗议。直播与互动。美东12月11日晚8点、即中港台12月12日早9点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
 <li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
 
 </ul>
 </div>
