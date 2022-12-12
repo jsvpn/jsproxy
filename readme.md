@@ -16,18 +16,18 @@
 <li><a href="/topimagenews/20221212/1822542.md">北京感染者症状比广州更严重…</a></li>
 <li><a href="/baitai/20221212/1822463.md">外媒旧事重提 王沪宁在胡锦涛离场事件中很关键？</a></li>
 <li><a href="/topimagenews/20221212/1822532.md">白纸革命蔓延！四川大学又爆示威…</a></li>
-<li><a href="/sohnews/20221212/1822614.md">江泽民骨灰盒前放了本书，内容很讽刺！中共“周刘邓江”骨灰撒江海，有内部规矩？党媒说江“唯物”才撒骨灰，胡说！北欧海盗的“海葬”并非撒灰；四川重庆再爆大学生示威｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20221212/1822629.md">网传老江真正死因！美女记者因特殊待遇被口诛笔伐.指桑骂槐？“他毫无临床经验却指导全国抗疫！”</a></li>
+<li><a href="/sohnews/20221212/1822614.md">江泽民骨灰盒前放了本书，内容很讽刺！中共“周刘邓江”骨灰撒江海，有内部规矩？党媒说江“唯物”才撒骨灰，胡说！北欧海盗的“海葬”并非撒灰；四川重庆再爆大学生示威｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20221212/1822513.md">【微博精粹】卸磨杀驴 抓大白开始了</a></li>
-<li><a href="/ssgc/20221212/1822534.md">习近平中东行 党媒现难言之隐</a></li>
 <li><a href="/topimagenews/20221212/1822575.md">3千度高温战场成“人间炼狱”！俄军再用铝热弹袭乌军阵地…</a></li>
+<li><a href="/ssgc/20221212/1822534.md">习近平中东行 党媒现难言之隐</a></li>
 <li><a href="/health/20221212/1822452.md">如果男人雄性荷尔蒙很高，身体就有3个特点，希望你都有</a></li>
 <li><a href="/cnnews/20221212/1822638.md">章莹颖遇害绝密细节首次被披露 2次错过救命机会</a></li>
-<li><a href="/cnnews/20221212/1822445.md">这不是段子 事实正在发生：他们一齐住进ICU</a></li>
 <li><a href="/sohnews/20221212/1822554.md">中共取消清零，精准防疫还没开始，专家们就开始说在一、二月会迎来感染高峰？从零到亿似乎只是一个月的事，这是啥情况？防疫似乎在走向另一个极端 ，民众该咋办？【李军访谈20221212第106期】</a></li>
+<li><a href="/cnnews/20221212/1822445.md">这不是段子 事实正在发生：他们一齐住进ICU</a></li>
 <li><a href="/cnnews/20221212/1822485.md">直指这些人！习近平整肃目标明确了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221212/1822533.md">国库没钱 中共财政部发7500亿特别国债；政治局强调稳经济 算盘难打响；</a></li>
-<li><a href="/comments/20221212/1822555.md">11月28日晚，杭州警察在街上到处抓人！</a></li>
+<li><a href="/baitai/20221212/1822649.md">中共解封做错两件事 学者揭后果</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
 
 </ul>
 </div>
