@@ -10,7 +10,6 @@
 <li><a href="/topimagenews/20221214/1823486.md">疫情凶猛 北京遗体爆量！官方：2小时内联系殡仪馆 就地火化 港澳台人比照办理</a></li>
 <li><a href="/cnnews/20221214/1823436.md">郭伯雄被抄财产258亿 12情妇每月生活费20万</a></li>
 <li><a href="/cbnews/20221214/1823372.md">奇文：三年闹剧戛然而止 该算账了</a></li>
-<li><a href="/cnnews/20221214/1823246.md">比胡鑫宇失踪案更可怕：四川15岁少女疑被性侵致死</a></li>
 <li><a href="/cnnews/20221214/1823409.md">又一个餐饮巨头败退中国</a></li>
 <li><a href="/cnnews/20221214/1823360.md">中国央行一举动告诉你情况有多糟</a></li>
 <li><a href="/sohnews/20221214/1823516.md">💥爆料: 是李强谏言放弃清零?! 明年2会党内将有大清剿! 中国病例暴增,冲击医疗资源, 规培生被强制带病工作, 华西医院惊现研究生阳了过劳死! 白纸运动2.0正酝酿, 医学生成抗议主体!</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/topimagenews/20221214/1823472.md">外媒揭中印肉搏战流血内幕 曝共军大陆边界盖房铺路</a></li>
 <li><a href="/cnnews/20221214/1823361.md">中共急了！经济彻底熄火！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221214/1823452.md">沈阳变“全阳”市？疫情大扩散 盛京医院被人潮挤爆…</a></li>
+<li><a href="/comments/20221215/1823624.md">政策大调整，个人所得税由之前的1%调整为差额的20%。</a></li>
 <li><a href="/sohnews/20221214/1823511.md">习近平沙特之行，送去300亿美元投资，换回一个名誉博士，却惹怒伊朗抗议中国，要支持台湾独立？石油人民币结算，为何6年谈不拢？沙特使用人民币，面临什么最大风险？【#蔚然财商天下】 2022.12.14</a></li>
 <li><a href="/comments/20221214/1823303.md">网海拾贝：习近平突然180度转弯的五大原因</a></li>
 <li><a href="/comments/20221214/1823412.md">北京阳人最牛段子！习近平访沙特大败而归？江泽民骨灰撒入长江污水口！诡异仪式背後的暗战</a></li>
-<li><a href="/comments/20221215/1823624.md">政策大调整，个人所得税由之前的1%调整为差额的20%。</a></li>
-<li><a href="/sohnews/20221214/1823539.md">陈破空：玄机！习近平忽然同意解封，因他自己阳了！内部出了问题？中印冲突，解放军怂样震惊国人。美东12月14日早8点30、即中港台12月14日晚9点30</a></li>
 <li><a href="/yule/20221214/1823410.md">赵薇倒下后，她彻底翻身</a></li>
-<li><a href="/cbnews/20221214/1823348.md">天亮时分：两大传闻不利曾庆红，家族企业总裁被“喝茶”；疫情凶猛，中央经济工作会议突遭取消；俄乌战争的不对称性完全逆转（政论天下第877集 20221213）</a></li>
 <li><a href="/sohnews/20221214/1823370.md">重症致死率惊人？地狱犬已广泛传播，救护车排到4千多号，个个医护烧39度；殡仪馆遗体积存，急诊室与尸共处；喀布尔饭店遭袭，中共讳莫如深；中共支持塔利班，党员成被攻击对象【新闻看点 李沐阳12.13】</a></li>
+<li><a href="/sohnews/20221214/1823539.md">陈破空：玄机！习近平忽然同意解封，因他自己阳了！内部出了问题？中印冲突，解放军怂样震惊国人。美东12月14日早8点30、即中港台12月14日晚9点30</a></li>
+<li><a href="/cbnews/20221214/1823348.md">天亮时分：两大传闻不利曾庆红，家族企业总裁被“喝茶”；疫情凶猛，中央经济工作会议突遭取消；俄乌战争的不对称性完全逆转（政论天下第877集 20221213）</a></li>
+<li><a href="/ssgc/20221214/1823319.md">〖微博谈〗彷佛六零年大饥荒再现</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
 <li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
 
 </ul>
 </div>
