@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20221213/1823011.md">中国恐在几个月内瘫痪 习近平没有B计划 传北京太平间爆满【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221213/1822969.md">爆炸性传闻：曾庆红家族企业总裁，被请去“喝茶”！【阿波罗网报道]</a></li>
 <li><a href="/topimagenews/20221213/1823072.md">习近平传确诊！爆APEC遭港特首传染 法媒曝中国封控松绑原因</a></li>
-<li><a href="/topimagenews/20221213/1822972.md">中印边境再冲突 300多共军企图占据控制线山顶 遭挫败多伤</a></li>
 <li><a href="/cbnews/20221214/1823179.md">广东网美主播惨遭“割乳断舌先奸后杀” 凶嫌落网竟是抖内大金主</a></li>
 <li><a href="/sohnews/20221213/1823059.md">🚨习近平中东行一无所获, 胡春华紧急赴伊朗擦屁股! 中共欲用人民币结算石油的幕后布局, 收割国际财富救经济! 人民币真实汇率早破33, 中共如何窃取国人10万亿?【20221213】#中国经济2023</a></li>
 <li><a href="/topimagenews/20221213/1823006.md">北京医护成重灾区 ！海淀医院“全体药师带病上岗” 网曝:北大医院护工也全确诊</a></li>
 <li><a href="/comments/20221213/1823078.md">习近平提议人民币买油气 遭沙特阿拉伯打脸</a></li>
 <li><a href="/cnnews/20221214/1823226.md">网传视频：边境冲突 解放军战斗值远远不如印军</a></li>
-<li><a href="/cbnews/20221213/1822971.md">江峰：北京广州感染人数骤升内幕：欺瞒与甩锅；谁在唱颂歌：习比毛纠错能力强、江比习有才华？秋後清算以及新的封控准备正在展开【江峰漫谈20221212第595期】</a></li>
 <li><a href="/cnnews/20221213/1823139.md">习近平传确诊！爆APEC遭港特首传染 法媒曝中共封控松绑原因</a></li>
 <li><a href="/sohnews/20221213/1823057.md">中共二十大，习一举打破八项常规；出于什么原因？将得罪哪些人？有什么后果？｜ #百年真相</a></li>
 <li><a href="/cbnews/20221213/1823026.md">中印边界再爆流血冲突 印度战机多次紧急升空</a></li>
+<li><a href="/cbnews/20221214/1823233.md">山东走回头路重拾48小时核酸 中国错失开放时机?</a></li>
 <li><a href="/baitai/20221214/1823185.md">李强代表国务院谈经济 分析：中国经济将无可避免迎来一盘更烂的帐</a></li>
 <li><a href="/sohnews/20221214/1823162.md">习近平为保一家老小的性命安全，一意孤行三连任 #百年真相  #shorts</a></li>
-<li><a href="/cbnews/20221214/1823233.md">山东走回头路重拾48小时核酸 中国错失开放时机?</a></li>
 <li><a href="/sohnews/20221213/1822996.md">文睿：人民日报，突然刊发长文，经济出事儿了</a></li>
 <li><a href="/cnnews/20221213/1823007.md">官方加强监控止不住 广西、福州大学又爆抗议</a></li>
+<li><a href="/cnnews/20221214/1823239.md">少一“克”差很大！李克强“被躺平”</a></li>
 <li><a href="/yule/20221214/1823227.md">成龙深夜悄悄进入钟楚红房间 钟楚红给了一巴掌</a></li>
 <li><a href="/topimagenews/20221213/1823010.md">下单潮变退单潮！卖不动的“双十二” 平台没促销 货也送不出去</a></li>
-<li><a href="/cnnews/20221214/1823239.md">少一“克”差很大！李克强“被躺平”</a></li>
 <li><a href="/cnnews/20221214/1823246.md">比胡鑫宇失踪案更可怕：四川15岁少女疑被性侵致死</a></li>
 <li><a href="/topimagenews/20221213/1823073.md">视频下的温暖瞬间 一个个善意的相助 犹如黑夜中的光【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221213/1823053.md">坦克大对决！乌克兰T-64“一枪解决”俄罗斯T-72主力战车</a></li>
+<li><a href="/cbnews/20221213/1822982.md">永远不要在别人说这4件事时“多嘴”</a></li>
+<li><a href="/lifebaike/20221214/1823234.md">秦始皇女儿大墓现场令人揪心，胡亥真够狠</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221214/1823412.md" target="_blank">北京阳人最牛段子！习近平访沙特大败而归？江泽民骨灰撒入长江污水口！诡异仪式背後的暗战</a></li>
 <li><a href="/comments/20221214/1823407.md" target="_blank">竹不倒：连花清瘟19年，没有错过任何一次灾难</a></li>
 <li><a href="/comments/20221214/1823406.md" target="_blank">训练解放军驾机降落航母？美退役飞官遭4罪起诉</a></li>
 <li><a href="/comments/20221214/1823404.md" target="_blank">【独家重磅】李燕铭：江泽民追悼会当天 习近平紧急召开政治局会议 释放清洗江曾权贵利益集团信号 官媒密集造势：查处权势人物已成为当务之急！清洗江泽民家族箭在弦上 曾庆红取代江泽民被习阵营重点锁定 习近平决战江曾（六八）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221214/1823288.md" target="_blank">利健：中共邪党罪恶史</a></li>
 <li><a href="/comments/20221214/1823269.md" target="_blank">偷拍的朝鲜纪录片 导演用镜头记录下了一个比地狱更可怕的地方 每个镜头都是对人性的犯罪</a></li>
 <li><a href="/comments/20221214/1823255.md" target="_blank">【方菲时间】海外留学生为什么参与声援“白纸革命”；推特文件第5季：永久封杀川普的犯罪现场 ｜12/13/2022</a></li>
-<li><a href="/comments/20221214/1823249.md" target="_blank">评论 | 胡平：习近平为何急转弯？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
 <li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 
 </ul>
 </div>
