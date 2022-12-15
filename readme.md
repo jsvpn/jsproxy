@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221214/1823486.md">疫情凶猛 北京遗体爆量！官方：2小时内联系殡仪馆 就地火化 港澳台人比照办理</a></li>
 <li><a href="/sohnews/20221214/1823516.md">💥爆料: 是李强谏言放弃清零?! 明年2会党内将有大清剿! 中国病例暴增,冲击医疗资源, 规培生被强制带病工作, 华西医院惊现研究生阳了过劳死! 白纸运动2.0正酝酿, 医学生成抗议主体!</a></li>
 <li><a href="/comments/20221215/1823624.md">政策大调整，个人所得税由之前的1%调整为差额的20%。</a></li>
 <li><a href="/topimagenews/20221215/1823711.md">残忍！金正恩处决姑父内幕曝：处决前先做一事…</a></li>
 <li><a href="/topimagenews/20221214/1823494.md">“印度棒打共军”!中共入侵边界线遭挥棒赶出 印媒:还俘虏12人</a></li>
 <li><a href="/topimagenews/20221215/1823712.md">所谓“看到了吧？这就是要放开的代价。”</a></li>
 <li><a href="/topimagenews/20221215/1823700.md">啥意思？广州美领馆常规移民签证下周起暂停</a></li>
-<li><a href="/sohnews/20221214/1823511.md">习近平沙特之行，送去300亿美元投资，换回一个名誉博士，却惹怒伊朗抗议中国，要支持台湾独立？石油人民币结算，为何6年谈不拢？沙特使用人民币，面临什么最大风险？【#蔚然财商天下】 2022.12.14</a></li>
 <li><a href="/topimagenews/20221215/1823788.md">新冠肺炎真相，人民日报说露馅了！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221215/1823635.md">河南郑州一名男子用挖机乱砸行人车辆 被警察击毙【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20221214/1823511.md">习近平沙特之行，送去300亿美元投资，换回一个名誉博士，却惹怒伊朗抗议中国，要支持台湾独立？石油人民币结算，为何6年谈不拢？沙特使用人民币，面临什么最大风险？【#蔚然财商天下】 2022.12.14</a></li>
 <li><a href="/sohnews/20221214/1823539.md">陈破空：玄机！习近平忽然同意解封，因他自己阳了！内部出了问题？中印冲突，解放军怂样震惊国人。美东12月14日早8点30、即中港台12月14日晚9点30</a></li>
+<li><a href="/topimagenews/20221215/1823635.md">河南郑州一名男子用挖机乱砸行人车辆 被警察击毙【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221215/1823693.md">陈敏尔天津上任先做两件事 分析指或有特殊目的</a></li>
 <li><a href="/cnnews/20221215/1823689.md">为什么新冠变异毒株要被叫做“地狱犬”？</a></li>
 <li><a href="/cbnews/20221214/1823507.md">普京闭门想出最后绝招 亲密盟友情急自找退路</a></li>
 <li><a href="/topimagenews/20221214/1823514.md">恐慌！中国女确诊发烧狂吞药 …</a></li>
 <li><a href="/topimagenews/20221215/1823805.md">北京浩劫刚开始 八宝山殡仪馆前车子排到长安街</a></li>
-<li><a href="/baitai/20221215/1823705.md">中共清零政策转变太突然 法国汉学家疑中南海内部有事</a></li>
 <li><a href="/baitai/20221214/1823552.md">赊刀人11月重出江湖 留下两句话示人</a></li>
-<li><a href="/cbnews/20221215/1823820.md">〖微博谈〗人家是问过领导的</a></li>
-<li><a href="/baitai/20221215/1823669.md">习近平派“出局”的胡春华访问伊朗 中伊关系出现裂痕？</a></li>
 <li><a href="/cnnews/20221215/1823795.md">抢购一幕再现 澳洲已经开始 北美快了吗？</a></li>
+<li><a href="/cbnews/20221215/1823820.md">〖微博谈〗人家是问过领导的</a></li>
+<li><a href="/baitai/20221215/1823705.md">中共清零政策转变太突然 法国汉学家疑中南海内部有事</a></li>
+<li><a href="/baitai/20221215/1823669.md">习近平派“出局”的胡春华访问伊朗 中伊关系出现裂痕？</a></li>
+<li><a href="/sohnews/20221215/1823856.md">“重磅突发！孙春兰宣布：放弃全国疫情追踪——中共国大劫时辰到！”ShitaoTV - 06 (14 /12/22) 更承认：北京大爆发无力回转</a></li>
+<li><a href="/sohnews/20221215/1823819.md">北京内部录音泄真相，中共内部有事？一定要算六笔帐；习布局官媒造势，清理江派箭在弦上？习近平以退为进，传明年两会后动手？【新闻看点 李沐阳12.14】</a></li>
 <li><a href="/sohnews/20221215/1823631.md">这个国家还能要点碧莲吗？这个民族还能少点恐惧不？</a></li>
-<li><a href="/sohnews/20221214/1823529.md">白纸革命撼动习政权?以退为进 更恐怖的还在后面!第三次世界大战 毛泽东没发动世界大战能力 但习近平有! 2022.12.14 @democraticTaiwanChannel</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221215/1823926.md" target="_blank">雷曼兄弟事件前兆？外媒揭美国银行巨头惨况</a></li>
 <li><a href="/topimagenews/20221215/1823921.md" target="_blank">马斯克怎么了！这3天狂卖特斯拉股票套现千亿救推特？</a></li>
 <li><a href="/topimagenews/20221215/1823883.md" target="_blank">山东“封路”检查健康码 民众居家隔离却突然被带进方舱…</a></li>
 <li><a href="/topimagenews/20221215/1823864.md" target="_blank">藏720亿美元未爆弹！大陆经济爆出1警讯</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221213/1823053.md" target="_blank">坦克大对决！乌克兰T-64“一枪解决”俄罗斯T-72主力战车</a></li>
 <li><a href="/topimagenews/20221213/1823010.md" target="_blank">下单潮变退单潮！卖不动的“双十二” 平台没促销 货也送不出去</a></li>
 <li><a href="/topimagenews/20221213/1823006.md" target="_blank">北京医护成重灾区 ！海淀医院“全体药师带病上岗” 网曝:北大医院护工也全确诊</a></li>
-<li><a href="/topimagenews/20221213/1822997.md" target="_blank">俄军面临战败！俄国“战神”亲赴战场前线 回国吐真言</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
 <li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
 <li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
 
 </ul>
 </div>
