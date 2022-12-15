@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20221214/1823333.md">北京，在火化场门前排队的车辆！</a></li>
 <li><a href="/topimagenews/20221214/1823386.md">最高检发文！中共又要抢“资本家”的钱了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221214/1823486.md">疫情凶猛 北京遗体爆量！官方：2小时内联系殡仪馆 就地火化 港澳台人比照办理</a></li>
 <li><a href="/cnnews/20221214/1823436.md">郭伯雄被抄财产258亿 12情妇每月生活费20万</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20221214/1823348.md">天亮时分：两大传闻不利曾庆红，家族企业总裁被“喝茶”；疫情凶猛，中央经济工作会议突遭取消；俄乌战争的不对称性完全逆转（政论天下第877集 20221213）</a></li>
 <li><a href="/cbnews/20221214/1823507.md">普京闭门想出最后绝招 亲密盟友情急自找退路</a></li>
 <li><a href="/cbnews/20221214/1823418.md">江峰：习亲自出马也输！石油人民币不敌美国一条核聚变新闻；驳斥囤积黄桃罐头荒谬专家未解其中奥妙， 连花清瘟无效反害人为何旺销？好疫苗特效药哪儿去了【江峰漫谈20221213第596期】</a></li>
+<li><a href="/topimagenews/20221214/1823514.md">恐慌！中国女确诊发烧狂吞药 …</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221215/1823788.md" target="_blank">新冠肺炎真相，人民日报说露馅了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221215/1823712.md" target="_blank">所谓“看到了吧？这就是要放开的代价。”</a></li>
 <li><a href="/topimagenews/20221215/1823711.md" target="_blank">残忍！金正恩处决姑父内幕曝：处决前先做一事…</a></li>
 <li><a href="/topimagenews/20221215/1823700.md" target="_blank">啥意思？广州美领馆常规移民签证下周起暂停</a></li>
@@ -90,13 +91,16 @@
 <li><a href="/topimagenews/20221213/1822969.md" target="_blank">爆炸性传闻：曾庆红家族企业总裁，被请去“喝茶”！【阿波罗网报道]</a></li>
 <li><a href="/topimagenews/20221213/1822956.md" target="_blank">印度神童警告2023小心6个未爆弹 台湾中国乌克兰美国吓到</a></li>
 <li><a href="/topimagenews/20221213/1822955.md" target="_blank">【微博精粹】昨天崛起的核酸资本家跑了 今日卖药资本家又崛起了</a></li>
-<li><a href="/topimagenews/20221213/1822788.md" target="_blank">中国进入全面返贫时代 习近平政权受到冲击</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221215/1823793.md" target="_blank">胜败兵家常事，亲美抗中才能保台</a></li>
+<li><a href="/comments/20221215/1823792.md" target="_blank">河森堡:一种残酷的价值观</a></li>
+<li><a href="/comments/20221215/1823791.md" target="_blank">李濠仲：中共国禁台湾产品 往台积电、2024想就对了</a></li>
+<li><a href="/comments/20221215/1823790.md" target="_blank">宋国诚:中共国即将到来的第七危机——“后习时代”的跛脚政治</a></li>
 <li><a href="/comments/20221215/1823757.md" target="_blank">中共像个下山劫一把就跑的土匪</a></li>
 <li><a href="/comments/20221215/1823756.md" target="_blank">周晓辉：胡春华赴伊朗灭火 北京再撒币罔顾民生</a></li>
 <li><a href="/comments/20221215/1823755.md" target="_blank">李明：“白纸革命”掀起推翻中共的浪潮</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20221214/1823406.md" target="_blank">训练解放军驾机降落航母？美退役飞官遭4罪起诉</a></li>
 <li><a href="/comments/20221214/1823404.md" target="_blank">【独家重磅】李燕铭：江泽民追悼会当天 习近平紧急召开政治局会议 释放清洗江曾权贵利益集团信号 官媒密集造势：查处权势人物已成为当务之急！清洗江泽民家族箭在弦上 曾庆红取代江泽民被习阵营重点锁定 习近平决战江曾（六八）</a></li>
 <li><a href="/comments/20221214/1823390.md" target="_blank">公民于平:不小心真相了</a></li>
-<li><a href="/comments/20221214/1823389.md" target="_blank">慧超:走向“后疫情时代”的必由之路</a></li>
-<li><a href="/comments/20221214/1823382.md" target="_blank">江泽民不留骨灰 另有原因</a></li>
-<li><a href="/comments/20221214/1823341.md" target="_blank">谷歌搜香港国歌显示“荣光” 港府要求更改被拒</a></li>
-<li><a href="/comments/20221214/1823339.md" target="_blank">习近平急转弯 专家：没有准备 解封或酿更大恶果</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 <li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
 
 </ul>
 </div>
