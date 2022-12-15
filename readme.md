@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221214/1823386.md">最高检发文！中共又要抢“资本家”的钱了【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221214/1823486.md">疫情凶猛 北京遗体爆量！官方：2小时内联系殡仪馆 就地火化 港澳台人比照办理</a></li>
 <li><a href="/cnnews/20221214/1823436.md">郭伯雄被抄财产258亿 12情妇每月生活费20万</a></li>
+<li><a href="/topimagenews/20221214/1823486.md">疫情凶猛 北京遗体爆量！官方：2小时内联系殡仪馆 就地火化 港澳台人比照办理</a></li>
 <li><a href="/cnnews/20221214/1823409.md">又一个餐饮巨头败退中国</a></li>
 <li><a href="/sohnews/20221214/1823516.md">💥爆料: 是李强谏言放弃清零?! 明年2会党内将有大清剿! 中国病例暴增,冲击医疗资源, 规培生被强制带病工作, 华西医院惊现研究生阳了过劳死! 白纸运动2.0正酝酿, 医学生成抗议主体!</a></li>
 <li><a href="/comments/20221215/1823624.md">政策大调整，个人所得税由之前的1%调整为差额的20%。</a></li>
 <li><a href="/topimagenews/20221214/1823494.md">“印度棒打共军”!中共入侵边界线遭挥棒赶出 印媒:还俘虏12人</a></li>
-<li><a href="/topimagenews/20221214/1823472.md">外媒揭中印肉搏战流血内幕 曝共军大陆边界盖房铺路</a></li>
 <li><a href="/topimagenews/20221215/1823711.md">残忍！金正恩处决姑父内幕曝：处决前先做一事…</a></li>
+<li><a href="/topimagenews/20221214/1823472.md">外媒揭中印肉搏战流血内幕 曝共军大陆边界盖房铺路</a></li>
 <li><a href="/cnnews/20221214/1823452.md">沈阳变“全阳”市？疫情大扩散 盛京医院被人潮挤爆…</a></li>
 <li><a href="/sohnews/20221214/1823511.md">习近平沙特之行，送去300亿美元投资，换回一个名誉博士，却惹怒伊朗抗议中国，要支持台湾独立？石油人民币结算，为何6年谈不拢？沙特使用人民币，面临什么最大风险？【#蔚然财商天下】 2022.12.14</a></li>
 <li><a href="/topimagenews/20221215/1823635.md">河南郑州一名男子用挖机乱砸行人车辆 被警察击毙【阿波罗网报道】</a></li>
 <li><a href="/comments/20221214/1823412.md">北京阳人最牛段子！习近平访沙特大败而归？江泽民骨灰撒入长江污水口！诡异仪式背後的暗战</a></li>
-<li><a href="/sohnews/20221214/1823539.md">陈破空：玄机！习近平忽然同意解封，因他自己阳了！内部出了问题？中印冲突，解放军怂样震惊国人。美东12月14日早8点30、即中港台12月14日晚9点30</a></li>
 <li><a href="/topimagenews/20221215/1823712.md">所谓“看到了吧？这就是要放开的代价。”</a></li>
+<li><a href="/topimagenews/20221215/1823700.md">啥意思？广州美领馆常规移民签证下周起暂停</a></li>
+<li><a href="/cnnews/20221215/1823689.md">为什么新冠变异毒株要被叫做“地狱犬”？</a></li>
+<li><a href="/sohnews/20221214/1823539.md">陈破空：玄机！习近平忽然同意解封，因他自己阳了！内部出了问题？中印冲突，解放军怂样震惊国人。美东12月14日早8点30、即中港台12月14日晚9点30</a></li>
 <li><a href="/yule/20221214/1823410.md">赵薇倒下后，她彻底翻身</a></li>
 <li><a href="/cbnews/20221214/1823507.md">普京闭门想出最后绝招 亲密盟友情急自找退路</a></li>
 <li><a href="/topimagenews/20221214/1823514.md">恐慌！中国女确诊发烧狂吞药 …</a></li>
+<li><a href="/baitai/20221215/1823693.md">陈敏尔天津上任先做两件事 分析指或有特殊目的</a></li>
 <li><a href="/cbnews/20221214/1823418.md">江峰：习亲自出马也输！石油人民币不敌美国一条核聚变新闻；驳斥囤积黄桃罐头荒谬专家未解其中奥妙， 连花清瘟无效反害人为何旺销？好疫苗特效药哪儿去了【江峰漫谈20221213第596期】</a></li>
-<li><a href="/cnnews/20221215/1823689.md">为什么新冠变异毒株要被叫做“地狱犬”？</a></li>
-<li><a href="/ssgc/20221214/1823385.md">〖兲朝浮世绘〗封控是为了确保连任，放开是为了确保党苟延残喘</a></li>
-<li><a href="/topimagenews/20221215/1823700.md">啥意思？广州美领馆常规移民签证下周起暂停</a></li>
 <li><a href="/cnnews/20221214/1823451.md">小区“保安”又变回保安了</a></li>
+<li><a href="/baitai/20221214/1823552.md">赊刀人11月重出江湖 留下两句话示人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221215/1823843.md" target="_blank">习近平的“清零”政策将健康危机变成了政治危机</a></li>
+<li><a href="/comments/20221215/1823842.md" target="_blank">八筒哦:2022年度汉字：囤</a></li>
+<li><a href="/comments/20221215/1823838.md" target="_blank">驻英战狼围殴港人掀波 中国召回6名涉案外交官</a></li>
+<li><a href="/comments/20221215/1823835.md" target="_blank">美参议院提出议案禁止华为等中企使用美国金融系统</a></li>
+<li><a href="/comments/20221215/1823834.md" target="_blank">北京疫情大爆发 医院挤爆 火葬场大排长龙</a></li>
 <li><a href="/comments/20221215/1823833.md" target="_blank">医院人满为患 北京百岁老人重病无床位</a></li>
 <li><a href="/comments/20221215/1823826.md" target="_blank">大都市的现状！</a></li>
 <li><a href="/comments/20221215/1823821.md" target="_blank">江泽民死亡第二天 美电台名主持邀法轮功学员讲述中共迫害真相 美国制裁迫害法轮功的中共官员级别越来越高 英国勋爵谴责中共活摘器官罪行 新西兰召开研讨会呼吁制止中共活摘器官罪行 瑞士人权组织递交签名要求联邦政府制止中共迫害 印度学校数千名学生集体学炼法轮功 老师惊叹不可思议一幕 全球反共世界变局（十四）</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20221214/1823601.md" target="_blank">时事大家谈：中国疫情恐海啸式爆发 重蹈香港覆辙？</a></li>
 <li><a href="/comments/20221214/1823600.md" target="_blank">时事大家谈：中国感染浪潮来袭 奥密克戎可能突变？</a></li>
 <li><a href="/comments/20221214/1823580.md" target="_blank">时事大家谈：中国感染浪潮来袭 奥密克戎可能突变？中国疫情恐海啸式爆发 重蹈香港覆辙？</a></li>
-<li><a href="/comments/20221214/1823577.md" target="_blank">【梁京评论】2022：新文化世代的政治元年</a></li>
-<li><a href="/comments/20221214/1823459.md" target="_blank">习近平的跛脚政治 中共即将到来的一大危机</a></li>
-<li><a href="/comments/20221214/1823426.md" target="_blank">【独家重磅】李燕铭：江泽民死亡 曾宝宝花样年不利消息密集传出 多个时间点敏感关联 泄露曾庆红成为习近平重点清洗目标 花样年至暗时刻 两次被申请清盘 总裁潘军传失联 退地罚款高达6.5亿元 习近平追杀曾宝宝围剿曾庆红（十） 习近平决战江曾（六九）</a></li>
-<li><a href="/comments/20221214/1823412.md" target="_blank">北京阳人最牛段子！习近平访沙特大败而归？江泽民骨灰撒入长江污水口！诡异仪式背後的暗战</a></li>
-<li><a href="/comments/20221214/1823407.md" target="_blank">竹不倒：连花清瘟19年，没有错过任何一次灾难</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
 <li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
 
 </ul>
 </div>
