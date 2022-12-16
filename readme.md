@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20221215/1823909.md">20岁嫩妹网红远嫁非洲生女 揭3女共侍1夫真相</a></li>
 <li><a href="/baitai/20221215/1823994.md">局势有变？孙春兰赴北京 法专家：中南海内部有事</a></li>
+<li><a href="/cnnews/20221215/1823909.md">20岁嫩妹网红远嫁非洲生女 揭3女共侍1夫真相</a></li>
 <li><a href="/cnnews/20221216/1824074.md">习近平得扛下所有！中国疫情爆炸 高官表现诡异</a></li>
 <li><a href="/ssgc/20221215/1823996.md">大雪崩即将发生</a></li>
 <li><a href="/cnnews/20221215/1823943.md">中国没钱付退休金？中共国务院渐进式延迟“退休年龄”</a></li>
 <li><a href="/baitai/20221216/1824148.md">美媒曝习近平对清华一份报告怒批「一派胡言」</a></li>
 <li><a href="/ssgc/20221215/1823988.md">高官集体沉默 中共疫情卡夫卡式荒诞</a></li>
 <li><a href="/topimagenews/20221216/1824109.md">今天，网友们都在围观一位微博大V</a></li>
-<li><a href="/topimagenews/20221215/1823961.md">共军弱爆！刚被印军棍棒暴打回家 中媒还嘴硬：远程火箭弹涵盖印度机场</a></li>
 <li><a href="/topimagenews/20221216/1824189.md">枪杆子不听中共指挥了？几十年未见信号出现！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221215/1823961.md">共军弱爆！刚被印军棍棒暴打回家 中媒还嘴硬：远程火箭弹涵盖印度机场</a></li>
 <li><a href="/sohnews/20221215/1823982.md">陈破空：不寻常，胡春华或出任副主席？战狼外交崩溃！驻英外交官逃回。台湾首度宣布，导弹覆盖北京。普京狂炸基辅，但所有无人机遭击落。华为抖音连遭打击</a></li>
 <li><a href="/comments/20221216/1824092.md">广西，银行没钱了，自己的钱都取不出来了！</a></li>
 <li><a href="/health/20221215/1823940.md">中国癌症高发，是蚝油惹的祸吗？厨房里的这3种调味品，都不致癌</a></li>
+<li><a href="/topimagenews/20221216/1824235.md">中央军委发通知！文革一幕再现【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221216/1824116.md">疫情正向县城蔓延，击中中国防疫软肋</a></li>
 <li><a href="/topimagenews/20221216/1824108.md">美共和党调查确认新冠病毒与武汉实验室外泄有关</a></li>
 <li><a href="/yule/20221215/1823911.md">吴宗宪当众不断抚摸女儿孕肚，遭女儿数次拒绝</a></li>
 <li><a href="/cnnews/20221215/1823899.md">香港最新研究：大陆或将有200万人死于新冠</a></li>
-<li><a href="/topimagenews/20221216/1824235.md">中央军委发通知！文革一幕再现【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221216/1824140.md">习近平御用特务“袈裟卫”！花和尚学诚与习家关系极深！习家军选拔标准很邪门！蔡奇拜会台湾方丈有玄机！ （终局风云11，2022/12/14)</a></li>
 <li><a href="/cnnews/20221215/1823908.md">白宫表态：若北京要求 美国将对华提供抗疫援助</a></li>
 <li><a href="/topimagenews/20221216/1824058.md">美驻北京使馆：全面暂停常规签证服务</a></li>
 <li><a href="/sohnews/20221216/1824066.md">中国人有一个张文宏医生不听，到处抢购什么莲花清瘟</a></li>
-<li><a href="/sohnews/20221216/1824126.md">中国真正的首富是谁？倚仗“第一贪”家族，江泽民孙子江志成暗建金融帝国 #百年真相  #shorts</a></li>
+<li><a href="/baitai/20221216/1824188.md">“习近平签署了人民币国际化的死刑令”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221216/1824310.md" target="_blank">胡锡进也叛变了？还向美国装可怜 竟批北京人为什么不能默默去死？</a></li>
 <li><a href="/topimagenews/20221216/1824302.md" target="_blank">下个疫情爆点在“山东”专家:下月将现首波感染高峰</a></li>
 <li><a href="/topimagenews/20221216/1824301.md" target="_blank">花旗宣布“逐步关闭大陆个人银行业务”未来聚焦企业和机构业务</a></li>
 <li><a href="/topimagenews/20221216/1824287.md" target="_blank">【微博精粹】帝都1周22万阳 三毒齐发不是梦</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221215/1823788.md" target="_blank">新冠肺炎真相，人民日报说露馅了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221215/1823712.md" target="_blank">所谓“看到了吧？这就是要放开的代价。”</a></li>
 <li><a href="/topimagenews/20221215/1823711.md" target="_blank">残忍！金正恩处决姑父内幕曝：处决前先做一事…</a></li>
-<li><a href="/topimagenews/20221215/1823700.md" target="_blank">啥意思？广州美领馆常规移民签证下周起暂停</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
 <li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 
 </ul>
 </div>
