@@ -16,18 +16,18 @@
 <li><a href="/sohnews/20221215/1823982.md">陈破空：不寻常，胡春华或出任副主席？战狼外交崩溃！驻英外交官逃回。台湾首度宣布，导弹覆盖北京。普京狂炸基辅，但所有无人机遭击落。华为抖音连遭打击</a></li>
 <li><a href="/comments/20221216/1824092.md">广西，银行没钱了，自己的钱都取不出来了！</a></li>
 <li><a href="/topimagenews/20221216/1824277.md">震惊:疫情升温之际,北大清华33名老教授密集去世</a></li>
-<li><a href="/cnnews/20221216/1824116.md">疫情正向县城蔓延，击中中国防疫软肋</a></li>
 <li><a href="/cbnews/20221216/1824297.md">江峰：“习被传染後轻松恢复 ，决定放弃清零”，传言在给独裁者洗地；北京暴增重症火葬场预约已爆，神秘病例与病症还有多少隐瞒？【江峰漫谈20221215第597期】</a></li>
+<li><a href="/cnnews/20221216/1824116.md">疫情正向县城蔓延，击中中国防疫软肋</a></li>
 <li><a href="/topimagenews/20221216/1824108.md">美共和党调查确认新冠病毒与武汉实验室外泄有关</a></li>
 <li><a href="/cnnews/20221216/1824251.md">全球著名景区发现一具中国女尸，吊死在树上</a></li>
 <li><a href="/sohnews/20221216/1824140.md">习近平御用特务“袈裟卫”！花和尚学诚与习家关系极深！习家军选拔标准很邪门！蔡奇拜会台湾方丈有玄机！ （终局风云11，2022/12/14)</a></li>
 <li><a href="/baitai/20221216/1824188.md">“习近平签署了人民币国际化的死刑令”</a></li>
 <li><a href="/topimagenews/20221216/1824287.md">【微博精粹】帝都1周22万阳 三毒齐发不是梦</a></li>
 <li><a href="/yule/20221216/1824283.md">知名男星被曝塌房，比吴亦凡还严重，5个线索指向华晨宇</a></li>
+<li><a href="/topimagenews/20221216/1824310.md">胡锡进也叛变了？还向美国装可怜 竟批北京人为什么不能默默去死？</a></li>
 <li><a href="/sohnews/20221216/1824066.md">中国人有一个张文宏医生不听，到处抢购什么莲花清瘟</a></li>
 <li><a href="/ssgc/20221216/1824181.md">〖微博谈〗以后不要再做无谓的梦了</a></li>
-<li><a href="/ssgc/20221216/1824226.md">〖兲朝浮世绘〗杭州疑似有陨石落下，皇帝危矣？</a></li>
-<li><a href="/topimagenews/20221216/1824058.md">美驻北京使馆：全面暂停常规签证服务</a></li>
+<li><a href="/sohnews/20221216/1824126.md">中国真正的首富是谁？倚仗“第一贪”家族，江泽民孙子江志成暗建金融帝国 #百年真相  #shorts</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221216/1824398.md" target="_blank">大疫三年，无法忘怀的四位医生</a></li>
 <li><a href="/comments/20221216/1824393.md" target="_blank">与神同在的真实感受！大难不死，灵魂回到肉体 复活之后，他看见圣洁的耀眼金光⋯女子车祸，去了死后世界，却被祖母送回⋯</a></li>
 <li><a href="/cbnews/20221216/1824333.md" target="_blank">“我怎么成了这样！” 31岁女子一觉醒来惊叫</a></li>
 <li><a href="/cbnews/20221216/1824332.md" target="_blank">实拍:北京火葬场大爆满 殡葬业者:冰柜全塞满</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221214/1823387.md" target="_blank">“金刚芭比”伴娘比新娘抢眼 真实身份遭起底</a></li>
 <li><a href="/cbnews/20221214/1823372.md" target="_blank">奇文：三年闹剧戛然而止 该算账了</a></li>
 <li><a href="/cbnews/20221214/1823348.md" target="_blank">天亮时分：两大传闻不利曾庆红，家族企业总裁被“喝茶”；疫情凶猛，中央经济工作会议突遭取消；俄乌战争的不对称性完全逆转（政论天下第877集 20221213）</a></li>
-<li><a href="/comments/20221214/1823333.md" target="_blank">北京，在火化场门前排队的车辆！</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221216/1824408.md" target="_blank">“老胡”阳了！胡锡进确诊竟说：这下“踏实”了</a></li>
 <li><a href="/comments/20221216/1824393.md" target="_blank">与神同在的真实感受！大难不死，灵魂回到肉体 复活之后，他看见圣洁的耀眼金光⋯女子车祸，去了死后世界，却被祖母送回⋯</a></li>
 <li><a href="/comments/20221216/1824316.md" target="_blank">【独家重磅】李燕铭：七大证据 中共放松清零前疫情已大爆发！死亡人数恐破百万！美国驻华使领馆紧急叫停签证业务 大批国家突然关闭在华签证中心 细思极恐！中国社会极度危机 中南海或巨变 中共政权随时可能崩溃！中共末日危机之中共病毒亡共（一）</a></li>
 <li><a href="/comments/20221216/1824298.md" target="_blank">躺平式放开失控，中南海出事？伊朗怒了！习近平紧急派胡春华撒币买消停</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221215/1823992.md" target="_blank">讨薪无果 郑州民工开挖土机上街砸车 遭公安开枪击毙</a></li>
 <li><a href="/comments/20221215/1823991.md" target="_blank">“打人领事溜回国”是中英套好招？纽时：符合英国对中政策调整</a></li>
 <li><a href="/comments/20221215/1823989.md" target="_blank">【未普评论】重塑世界秩序，习近平迫不及待重返全球舞台中心</a></li>
-<li><a href="/comments/20221215/1823889.md" target="_blank">李燕铭：王小洪亲信林锐履新中央统战部副部长 习近平清洗曾庆红特务系统又一动作 林锐前任侍俊发迹于共青团 受周永康孟建柱郭声琨提拔 能否平安着陆还是未知数 习近平清洗曾庆红特务系统（三） 二十大高层人事大战（七五）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
 <li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
 <li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 <li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
 
 </ul>
 </div>
