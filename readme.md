@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20221215/1823909.md">20岁嫩妹网红远嫁非洲生女 揭3女共侍1夫真相</a></li>
 <li><a href="/baitai/20221215/1823994.md">局势有变？孙春兰赴北京 法专家：中南海内部有事</a></li>
 <li><a href="/cnnews/20221216/1824074.md">习近平得扛下所有！中国疫情爆炸 高官表现诡异</a></li>
 <li><a href="/ssgc/20221215/1823996.md">大雪崩即将发生</a></li>
 <li><a href="/cnnews/20221215/1823943.md">中国没钱付退休金？中共国务院渐进式延迟“退休年龄”</a></li>
 <li><a href="/baitai/20221216/1824148.md">美媒曝习近平对清华一份报告怒批「一派胡言」</a></li>
-<li><a href="/ssgc/20221215/1823988.md">高官集体沉默 中共疫情卡夫卡式荒诞</a></li>
 <li><a href="/topimagenews/20221216/1824189.md">枪杆子不听中共指挥了？几十年未见信号出现！【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20221215/1823988.md">高官集体沉默 中共疫情卡夫卡式荒诞</a></li>
 <li><a href="/topimagenews/20221216/1824109.md">今天，网友们都在围观一位微博大V</a></li>
 <li><a href="/topimagenews/20221215/1823961.md">共军弱爆！刚被印军棍棒暴打回家 中媒还嘴硬：远程火箭弹涵盖印度机场</a></li>
 <li><a href="/sohnews/20221215/1823982.md">陈破空：不寻常，胡春华或出任副主席？战狼外交崩溃！驻英外交官逃回。台湾首度宣布，导弹覆盖北京。普京狂炸基辅，但所有无人机遭击落。华为抖音连遭打击</a></li>
-<li><a href="/comments/20221216/1824092.md">广西，银行没钱了，自己的钱都取不出来了！</a></li>
 <li><a href="/topimagenews/20221216/1824235.md">中央军委发通知！文革一幕再现【阿波罗网报道】</a></li>
+<li><a href="/comments/20221216/1824092.md">广西，银行没钱了，自己的钱都取不出来了！</a></li>
 <li><a href="/health/20221215/1823940.md">中国癌症高发，是蚝油惹的祸吗？厨房里的这3种调味品，都不致癌</a></li>
-<li><a href="/yule/20221215/1823911.md">吴宗宪当众不断抚摸女儿孕肚，遭女儿数次拒绝</a></li>
 <li><a href="/cnnews/20221216/1824116.md">疫情正向县城蔓延，击中中国防疫软肋</a></li>
 <li><a href="/topimagenews/20221216/1824108.md">美共和党调查确认新冠病毒与武汉实验室外泄有关</a></li>
 <li><a href="/sohnews/20221216/1824140.md">习近平御用特务“袈裟卫”！花和尚学诚与习家关系极深！习家军选拔标准很邪门！蔡奇拜会台湾方丈有玄机！ （终局风云11，2022/12/14)</a></li>
-<li><a href="/cnnews/20221215/1823908.md">白宫表态：若北京要求 美国将对华提供抗疫援助</a></li>
 <li><a href="/baitai/20221216/1824188.md">“习近平签署了人民币国际化的死刑令”</a></li>
-<li><a href="/topimagenews/20221216/1824058.md">美驻北京使馆：全面暂停常规签证服务</a></li>
-<li><a href="/sohnews/20221216/1824066.md">中国人有一个张文宏医生不听，到处抢购什么莲花清瘟</a></li>
 <li><a href="/topimagenews/20221216/1824277.md">震惊:疫情升温之际,北大清华33名老教授密集去世</a></li>
+<li><a href="/topimagenews/20221216/1824058.md">美驻北京使馆：全面暂停常规签证服务</a></li>
+<li><a href="/cnnews/20221216/1824251.md">全球著名景区发现一具中国女尸，吊死在树上</a></li>
+<li><a href="/sohnews/20221216/1824066.md">中国人有一个张文宏医生不听，到处抢购什么莲花清瘟</a></li>
+<li><a href="/sohnews/20221216/1824126.md">中国真正的首富是谁？倚仗“第一贪”家族，江泽民孙子江志成暗建金融帝国 #百年真相  #shorts</a></li>
+<li><a href="/ssgc/20221216/1824181.md">〖微博谈〗以后不要再做无谓的梦了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221216/1824322.md" target="_blank">石家庄沦陷 火葬场也要排队 医院挤爆只能躺担架</a></li>
 <li><a href="/topimagenews/20221216/1824310.md" target="_blank">胡锡进也叛变了？还向美国装可怜 竟批北京人为什么不能默默去死？</a></li>
 <li><a href="/topimagenews/20221216/1824302.md" target="_blank">下个疫情爆点在“山东”专家:下月将现首波感染高峰</a></li>
 <li><a href="/topimagenews/20221216/1824301.md" target="_blank">花旗宣布“逐步关闭大陆个人银行业务”未来聚焦企业和机构业务</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221215/1823805.md" target="_blank">北京浩劫刚开始 八宝山殡仪馆前车子排到长安街</a></li>
 <li><a href="/topimagenews/20221215/1823788.md" target="_blank">新冠肺炎真相，人民日报说露馅了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221215/1823712.md" target="_blank">所谓“看到了吧？这就是要放开的代价。”</a></li>
-<li><a href="/topimagenews/20221215/1823711.md" target="_blank">残忍！金正恩处决姑父内幕曝：处决前先做一事…</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 <li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
 <li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
 
 </ul>
 </div>
