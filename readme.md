@@ -12,21 +12,21 @@
 <li><a href="/cnnews/20221215/1823943.md">中国没钱付退休金？中共国务院渐进式延迟“退休年龄”</a></li>
 <li><a href="/topimagenews/20221216/1824109.md">今天，网友们都在围观一位微博大V</a></li>
 <li><a href="/ssgc/20221215/1823996.md">大雪崩即将发生</a></li>
-<li><a href="/topimagenews/20221215/1823961.md">共军弱爆！刚被印军棍棒暴打回家 中媒还嘴硬：远程火箭弹涵盖印度机场</a></li>
 <li><a href="/ssgc/20221215/1823988.md">高官集体沉默 中共疫情卡夫卡式荒诞</a></li>
+<li><a href="/topimagenews/20221215/1823961.md">共军弱爆！刚被印军棍棒暴打回家 中媒还嘴硬：远程火箭弹涵盖印度机场</a></li>
 <li><a href="/baitai/20221216/1824148.md">美媒曝习近平对清华一份报告怒批「一派胡言」</a></li>
 <li><a href="/comments/20221216/1824092.md">广西，银行没钱了，自己的钱都取不出来了！</a></li>
-<li><a href="/topimagenews/20221215/1823883.md">山东“封路”检查健康码 民众居家隔离却突然被带进方舱…</a></li>
 <li><a href="/sohnews/20221215/1823982.md">陈破空：不寻常，胡春华或出任副主席？战狼外交崩溃！驻英外交官逃回。台湾首度宣布，导弹覆盖北京。普京狂炸基辅，但所有无人机遭击落。华为抖音连遭打击</a></li>
-<li><a href="/cnnews/20221216/1824116.md">疫情正向县城蔓延，击中中国防疫软肋</a></li>
+<li><a href="/topimagenews/20221215/1823883.md">山东“封路”检查健康码 民众居家隔离却突然被带进方舱…</a></li>
 <li><a href="/health/20221215/1823940.md">中国癌症高发，是蚝油惹的祸吗？厨房里的这3种调味品，都不致癌</a></li>
+<li><a href="/cnnews/20221216/1824116.md">疫情正向县城蔓延，击中中国防疫软肋</a></li>
+<li><a href="/topimagenews/20221216/1824189.md">枪杆子不听中共指挥了？几十年未见信号出现！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221216/1824108.md">美共和党调查确认新冠病毒与武汉实验室外泄有关</a></li>
 <li><a href="/yule/20221215/1823911.md">吴宗宪当众不断抚摸女儿孕肚，遭女儿数次拒绝</a></li>
 <li><a href="/cnnews/20221215/1823899.md">香港最新研究：大陆或将有200万人死于新冠</a></li>
-<li><a href="/topimagenews/20221216/1824189.md">枪杆子不听中共指挥了？几十年未见信号出现！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221215/1823908.md">白宫表态：若北京要求 美国将对华提供抗疫援助</a></li>
-<li><a href="/topimagenews/20221216/1824058.md">美驻北京使馆：全面暂停常规签证服务</a></li>
 <li><a href="/sohnews/20221216/1824140.md">习近平御用特务“袈裟卫”！花和尚学诚与习家关系极深！习家军选拔标准很邪门！蔡奇拜会台湾方丈有玄机！ （终局风云11，2022/12/14)</a></li>
+<li><a href="/topimagenews/20221216/1824058.md">美驻北京使馆：全面暂停常规签证服务</a></li>
 <li><a href="/sohnews/20221216/1824066.md">中国人有一个张文宏医生不听，到处抢购什么莲花清瘟</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221216/1824297.md" target="_blank">江峰：“习被传染後轻松恢复 ，决定放弃清零”，传言在给独裁者洗地；北京暴增重症火葬场预约已爆，神秘病例与病症还有多少隐瞒？【江峰漫谈20221215第597期】</a></li>
 <li><a href="/cbnews/20221216/1824278.md" target="_blank">疫情大爆发 北京宛如空城 “阳”速惊人</a></li>
 <li><a href="/cbnews/20221216/1824233.md" target="_blank">天亮时分：三大反常政策预示，中共执政危机迫在眉睫；如果应对失败，中共可能会转向另一场政治运动；川普放了什么大招？（政论天下第879集 20221215）</a></li>
 <li><a href="/comments/20221216/1824153.md" target="_blank">【方菲时间】海外留学生：愤怒让我勇敢，不再沉默；小粉红也是受害者；在海外感受到个体的被尊重和自由，有责任为国内人发声 ｜ 专访蒋佳冀 ｜12/15/2022</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221214/1823321.md" target="_blank">12月12日晚，昆明医科大学学生聚集抗议，警察在抗议现场抓人。</a></li>
 <li><a href="/comments/20221214/1823255.md" target="_blank">【方菲时间】海外留学生为什么参与声援“白纸革命”；推特文件第5季：永久封杀川普的犯罪现场 ｜12/13/2022</a></li>
 <li><a href="/cbnews/20221214/1823233.md" target="_blank">山东走回头路重拾48小时核酸 中国错失开放时机?</a></li>
-<li><a href="/cbnews/20221214/1823179.md" target="_blank">广东网美主播惨遭“割乳断舌先奸后杀” 凶嫌落网竟是抖内大金主</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221216/1824298.md" target="_blank">躺平式放开失控，中南海出事？伊朗怒了！习近平紧急派胡春华撒币买消停</a></li>
 <li><a href="/comments/20221216/1824266.md" target="_blank">医院拒绝使用未接种疫苗者的血液导致婴儿死亡</a></li>
 <li><a href="/comments/20221216/1824259.md" target="_blank">又一名爱普斯坦性爱岛的受害者法庭证词被公布</a></li>
 <li><a href="/comments/20221216/1824254.md" target="_blank">mRNA技术创始人马龙博士：为啥打疫苗反而容易重复感染新冠</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221215/1823889.md" target="_blank">李燕铭：王小洪亲信林锐履新中央统战部副部长 习近平清洗曾庆红特务系统又一动作 林锐前任侍俊发迹于共青团 受周永康孟建柱郭声琨提拔 能否平安着陆还是未知数 习近平清洗曾庆红特务系统（三） 二十大高层人事大战（七五）</a></li>
 <li><a href="/comments/20221215/1823874.md" target="_blank">北京考全阳，中南海惊驾！习近平报复性放开後，清华北大带头，全北京殡仪馆麻了</a></li>
 <li><a href="/comments/20221215/1823857.md" target="_blank">李有甫：邪恶之首江泽民死入无间地狱</a></li>
-<li><a href="/comments/20221215/1823855.md" target="_blank">在中共国，80%的穷人养活了20%的富人。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
 <li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20221126/1816237.md" target="_blank">天亮时分：新疆大火，打响全民反抗第一枪，重庆也暴动；中共可能的应对和我们可能的反制策略（政论天下第859集 20221125）</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
 <li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 <li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 
 </ul>
 </div>
