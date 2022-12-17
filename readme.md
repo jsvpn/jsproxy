@@ -12,15 +12,14 @@
 <li><a href="/ssgc/20221217/1824566.md">〖兲朝浮世绘〗习总加速师想刹车了？</a></li>
 <li><a href="/comments/20221216/1824457.md">云南瑞丽，封控三年，做了1000多次核酸。边界线上设了三道铁丝网，街上没有人，只有狗。</a></li>
 <li><a href="/topimagenews/20221217/1824499.md">被删:海归自曝做忽悠爱党国自媒体生意 年收入百万 针对中年小粉红</a></li>
-<li><a href="/comments/20221217/1824491.md">【短视频】中共解封的根本原因。。。</a></li>
 <li><a href="/cbnews/20221217/1824716.md">上海疫情扩散 地铁乘客猝死多发</a></li>
+<li><a href="/comments/20221217/1824491.md">【短视频】中共解封的根本原因。。。</a></li>
 <li><a href="/topimagenews/20221217/1824563.md">五毛心惊 八大中共喉舌结局悲惨</a></li>
-<li><a href="/cnnews/20221216/1824381.md">iOS 16.2正式版发布，重磅新功能都在这</a></li>
+<li><a href="/cbnews/20221217/1824729.md">江峰：国务院没上过一天班，李强做经济工作总结！教培老师不用带货了？中央经济工作会议试图复活三大清算产业，中央真没钱了？关键是新权贵可以参与资本分配了【江峰漫谈20221216第598期】</a></li>
 <li><a href="/weiquan/20221217/1824471.md">南开大学女教师吴亚楠副教授因支持在乌鲁木齐大火后抗议的学生而被强制送精神病院</a></li>
+<li><a href="/topimagenews/20221217/1824730.md">全网怒轰中共战狼 中国大流行病已超出预料【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221217/1824586.md">美帝才没躺平：最新的国家防疫计划让民众安心</a></li>
 <li><a href="/comments/20221217/1824666.md">李清晨:张文宏教授推荐发热时服用维生素 C，这个错误我在14年前也犯过</a></li>
-<li><a href="/cbnews/20221217/1824729.md">江峰：国务院没上过一天班，李强做经济工作总结！教培老师不用带货了？中央经济工作会议试图复活三大清算产业，中央真没钱了？关键是新权贵可以参与资本分配了【江峰漫谈20221216第598期】</a></li>
-<li><a href="/topimagenews/20221217/1824730.md">全网怒轰中共战狼 中国大流行病已超出预料【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221217/1824511.md">撑不住了！沃尔玛、家乐福、宜家等不到解封就关门</a></li>
 <li><a href="/cbnews/20221217/1824611.md">疫情煞不住 上海唱空城</a></li>
 <li><a href="/topimagenews/20221217/1824688.md">美国又出手毁了“大陆骄傲” 结局曝光：重演华为悲剧</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/sohnews/20221216/1824405.md">他穿越到2137，看到最惨未来景象，所有海岸线沉入海底，地球人口仅剩3亿</a></li>
 <li><a href="/cnnews/20221217/1824500.md">点火成功！美可控核聚变背后的华裔女科学家</a></li>
 <li><a href="/cnnews/20221217/1824615.md">“它”在加国高校泛滥：留学生用了就要驱逐出境</a></li>
+<li><a href="/baitai/20221217/1824638.md">世卫泄中国疫情真相 北京感染真实数字曝光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221217/1824808.md" target="_blank">诺贝尔级丑闻 今年诺奖得主遭多名学生控性骚扰</a></li>
 <li><a href="/cbnews/20221217/1824803.md" target="_blank">湖南女子收到自己酒店内私密照，还被勒索十万</a></li>
 <li><a href="/cbnews/20221217/1824802.md" target="_blank">湖南一学校因防疫不力 班主任被立案调查</a></li>
 <li><a href="/cbnews/20221217/1824731.md" target="_blank">中国各地寒流来袭 这里出现零下45度低温</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221216/1824297.md" target="_blank">江峰：“习被传染後轻松恢复 ，决定放弃清零”，传言在给独裁者洗地；北京暴增重症火葬场预约已爆，神秘病例与病症还有多少隐瞒？【江峰漫谈20221215第597期】</a></li>
 <li><a href="/cbnews/20221216/1824278.md" target="_blank">疫情大爆发 北京宛如空城 “阳”速惊人</a></li>
 <li><a href="/cbnews/20221216/1824233.md" target="_blank">天亮时分：三大反常政策预示，中共执政危机迫在眉睫；如果应对失败，中共可能会转向另一场政治运动；川普放了什么大招？（政论天下第879集 20221215）</a></li>
-<li><a href="/comments/20221216/1824153.md" target="_blank">【方菲时间】海外留学生：愤怒让我勇敢，不再沉默；小粉红也是受害者；在海外感受到个体的被尊重和自由，有责任为国内人发声 ｜ 专访蒋佳冀 ｜12/15/2022</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
 
 </ul>
 </div>
