@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221216/1824235.md">中央军委发通知！文革一幕再现【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221216/1824297.md">江峰：“习被传染後轻松恢复 ，决定放弃清零”，传言在给独裁者洗地；北京暴增重症火葬场预约已爆，神秘病例与病症还有多少隐瞒？【江峰漫谈20221215第597期】</a></li>
 <li><a href="/topimagenews/20221216/1824277.md">震惊:疫情升温之际,北大清华33名老教授密集去世</a></li>
-<li><a href="/cnnews/20221216/1824251.md">全球著名景区发现一具中国女尸，吊死在树上</a></li>
 <li><a href="/topimagenews/20221216/1824310.md">胡锡进也叛变了？还向美国装可怜 竟批北京人为什么不能默默去死？</a></li>
 <li><a href="/yule/20221216/1824283.md">知名男星被曝塌房，比吴亦凡还严重，5个线索指向华晨宇</a></li>
 <li><a href="/sohnews/20221216/1824406.md">陈破空：惊传习近平等人离京避难！高层会议停摆。党报被证实高级黑，诱使网民痛骂他！美国等多国停止对中国人签证</a></li>
@@ -21,13 +19,15 @@
 <li><a href="/headline/20221217/1824524.md">北京两名知名记者感染病毒死亡，突然松绑引起死亡激增</a></li>
 <li><a href="/topimagenews/20221216/1824330.md">全国支援北京？长沙传每日6万确诊 医疗量能崩溃 根本自顾不暇…</a></li>
 <li><a href="/comments/20221216/1824457.md">云南瑞丽，封控三年，做了1000多次核酸。边界线上设了三道铁丝网，街上没有人，只有狗。</a></li>
-<li><a href="/topimagenews/20221216/1824234.md">宋国诚：中国即将到来的第七危机</a></li>
-<li><a href="/cbnews/20221216/1824233.md">天亮时分：三大反常政策预示，中共执政危机迫在眉睫；如果应对失败，中共可能会转向另一场政治运动；川普放了什么大招？（政论天下第879集 20221215）</a></li>
 <li><a href="/comments/20221217/1824491.md">【短视频】中共解封的根本原因。。。</a></li>
 <li><a href="/cnnews/20221216/1824376.md">荒诞一幕：他提着900万现金，去工厂里抢抗原</a></li>
-<li><a href="/weiquan/20221217/1824471.md">南开大学女教师吴亚楠副教授因支持在乌鲁木齐大火后抗议的学生而被强制送精神病院</a></li>
 <li><a href="/cnnews/20221216/1824381.md">iOS 16.2正式版发布，重磅新功能都在这</a></li>
+<li><a href="/weiquan/20221217/1824471.md">南开大学女教师吴亚楠副教授因支持在乌鲁木齐大火后抗议的学生而被强制送精神病院</a></li>
 <li><a href="/cbnews/20221216/1824278.md">疫情大爆发 北京宛如空城 “阳”速惊人</a></li>
+<li><a href="/topimagenews/20221216/1824339.md">普丁亲访白俄罗斯 俄乌战事将现重大转折？…</a></li>
+<li><a href="/topimagenews/20221216/1824302.md">下个疫情爆点在“山东”专家:下月将现首波感染高峰</a></li>
+<li><a href="/sohnews/20221216/1824405.md">他穿越到2137，看到最惨未来景象，所有海岸线沉入海底，地球人口仅剩3亿</a></li>
+<li><a href="/topimagenews/20221217/1824563.md">五毛心惊 八大中共喉舌结局悲惨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221217/1824678.md" target="_blank">天亮时分：日本军费翻倍，视中共为最大威胁；中央经济工作会议后，习近平四项标志性政策被推翻；马斯克团灭左媒记者推特账户（政论天下第880集 20221216）</a></li>
 <li><a href="/cbnews/20221217/1824651.md" target="_blank">胡锡进染疫确诊！网友乐坏了！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221217/1824633.md" target="_blank">中国必须注意疫情两大指标 否则会走回头路</a></li>
 <li><a href="/comments/20221217/1824618.md" target="_blank">【#短视频】李南央：年轻人为什么站出来。。。</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/cbnews/20221215/1823922.md" target="_blank">中共官方疫情数据失真，不透明性引发外界担忧</a></li>
 <li><a href="/comments/20221215/1823855.md" target="_blank">在中共国，80%的穷人养活了20%的富人。</a></li>
 <li><a href="/comments/20221215/1823826.md" target="_blank">大都市的现状！</a></li>
-<li><a href="/cbnews/20221215/1823820.md" target="_blank">〖微博谈〗人家是问过领导的</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221217/1824680.md" target="_blank">宿敌狠插一刀！中共地缘政治又有新麻烦</a></li>
+<li><a href="/topimagenews/20221217/1824679.md" target="_blank">重磅！二十大最大人事内幕曝光！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221217/1824664.md" target="_blank">中共隐匿疫情2大绝招 消灭不了这个病就消灭这个病名</a></li>
 <li><a href="/topimagenews/20221217/1824641.md" target="_blank">危及重症抢救！中国多地血库全面告急</a></li>
 <li><a href="/topimagenews/20221217/1824632.md" target="_blank">泽连斯基的海景豪宅没了 被俄占克里米亚政府充公</a></li>
@@ -89,14 +91,16 @@
 <li><a href="/topimagenews/20221216/1824109.md" target="_blank">今天，网友们都在围观一位微博大V</a></li>
 <li><a href="/topimagenews/20221216/1824108.md" target="_blank">美共和党调查确认新冠病毒与武汉实验室外泄有关</a></li>
 <li><a href="/topimagenews/20221216/1824058.md" target="_blank">美驻北京使馆：全面暂停常规签证服务</a></li>
-<li><a href="/topimagenews/20221216/1824057.md" target="_blank">在岸人民币明显下跌，中国数据超预期疲软</a></li>
-<li><a href="/topimagenews/20221215/1824008.md" target="_blank">“把捂在人们嘴上的那只手去掉！它就叫共产党！”【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221217/1824669.md" target="_blank">洪广玉：记忆不容篡改：放开是因为防不住，不是因为谁的鼓吹</a></li>
+<li><a href="/comments/20221217/1824668.md" target="_blank">范畴：中国分裂线——洗脑后的系统崩塌</a></li>
+<li><a href="/comments/20221217/1824667.md" target="_blank">周世锋：709特大抓捕事件真相</a></li>
+<li><a href="/comments/20221217/1824666.md" target="_blank">李清晨:张文宏教授推荐发热时服用维生素 C，这个错误我在14年前也犯过</a></li>
 <li><a href="/comments/20221217/1824655.md" target="_blank">高越:500万考研人在漂流</a></li>
 <li><a href="/comments/20221217/1824646.md" target="_blank">还记得李光满吗？他又出来丢人现眼了</a></li>
 <li><a href="/comments/20221217/1824618.md" target="_blank">【#短视频】李南央：年轻人为什么站出来。。。</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20221216/1824408.md" target="_blank">“老胡”阳了！胡锡进确诊竟说：这下“踏实”了</a></li>
 <li><a href="/comments/20221216/1824393.md" target="_blank">与神同在的真实感受！大难不死，灵魂回到肉体 复活之后，他看见圣洁的耀眼金光⋯女子车祸，去了死后世界，却被祖母送回⋯</a></li>
 <li><a href="/comments/20221216/1824316.md" target="_blank">【独家重磅】李燕铭：七大证据 中共放松清零前疫情已大爆发！死亡人数恐破百万！美国驻华使领馆紧急叫停签证业务 大批国家突然关闭在华签证中心 细思极恐！中国社会极度危机 中南海或巨变 中共政权随时可能崩溃！中共末日危机之中共病毒亡共（一）</a></li>
-<li><a href="/comments/20221216/1824298.md" target="_blank">躺平式放开失控，中南海出事？伊朗怒了！习近平紧急派胡春华撒币买消停</a></li>
-<li><a href="/comments/20221216/1824266.md" target="_blank">医院拒绝使用未接种疫苗者的血液导致婴儿死亡</a></li>
-<li><a href="/comments/20221216/1824259.md" target="_blank">又一名爱普斯坦性爱岛的受害者法庭证词被公布</a></li>
-<li><a href="/comments/20221216/1824254.md" target="_blank">mRNA技术创始人马龙博士：为啥打疫苗反而容易重复感染新冠</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 <li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 
 </ul>
 </div>
