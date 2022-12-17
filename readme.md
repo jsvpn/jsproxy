@@ -20,13 +20,13 @@
 <li><a href="/yule/20221216/1824356.md">接连交往杨幂秦岚 33岁魏大勋惊人背景曝光</a></li>
 <li><a href="/topimagenews/20221216/1824322.md">石家庄沦陷 火葬场也要排队 医院挤爆只能躺担架</a></li>
 <li><a href="/ssgc/20221216/1824226.md">〖兲朝浮世绘〗杭州疑似有陨石落下，皇帝危矣？</a></li>
-<li><a href="/ssgc/20221216/1824181.md">〖微博谈〗以后不要再做无谓的梦了</a></li>
 <li><a href="/topimagenews/20221216/1824330.md">全国支援北京？长沙传每日6万确诊 医疗量能崩溃 根本自顾不暇…</a></li>
+<li><a href="/topimagenews/20221217/1824499.md">被删:海归自曝做忽悠爱党国自媒体生意 年收入百万 针对中年小粉红</a></li>
 <li><a href="/topimagenews/20221216/1824234.md">宋国诚：中国即将到来的第七危机</a></li>
 <li><a href="/comments/20221216/1824457.md">云南瑞丽，封控三年，做了1000多次核酸。边界线上设了三道铁丝网，街上没有人，只有狗。</a></li>
 <li><a href="/cbnews/20221216/1824233.md">天亮时分：三大反常政策预示，中共执政危机迫在眉睫；如果应对失败，中共可能会转向另一场政治运动；川普放了什么大招？（政论天下第879集 20221215）</a></li>
 <li><a href="/cnnews/20221216/1824376.md">荒诞一幕：他提着900万现金，去工厂里抢抗原</a></li>
-<li><a href="/topimagenews/20221217/1824499.md">被删:海归自曝做忽悠爱党国自媒体生意 年收入百万 针对中年小粉红</a></li>
+<li><a href="/comments/20221217/1824491.md">【短视频】中共解封的根本原因。。。</a></li>
 <li><a href="/weiquan/20221217/1824471.md">南开大学女教师吴亚楠副教授因支持在乌鲁木齐大火后抗议的学生而被强制送精神病院</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221217/1824618.md" target="_blank">【#短视频】李南央：年轻人为什么站出来。。。</a></li>
+<li><a href="/cbnews/20221217/1824612.md" target="_blank">加拿大也要禁TikTok？特鲁多称正关注其安全性</a></li>
+<li><a href="/cbnews/20221217/1824611.md" target="_blank">疫情煞不住 上海唱空城</a></li>
 <li><a href="/cbnews/20221217/1824516.md" target="_blank">疫情激增 捐血锐减 中国多地血库告急</a></li>
 <li><a href="/comments/20221217/1824491.md" target="_blank">【短视频】中共解封的根本原因。。。</a></li>
 <li><a href="/cbnews/20221216/1824465.md" target="_blank">夫妻捡女弃婴！长大带回男友竟是“失散多年亲儿” 网惊：比中乐透开心</a></li>
@@ -57,9 +60,6 @@
 <li><a href="/cbnews/20221215/1823820.md" target="_blank">〖微博谈〗人家是问过领导的</a></li>
 <li><a href="/cbnews/20221215/1823803.md" target="_blank">天亮时分：新冠变种“地狱犬”病毒出现，可不可怕？国会两党要禁抖音，能成功吗？中共招回曼城打人外交官（政论天下第878集 20221214）</a></li>
 <li><a href="/comments/20221215/1823698.md" target="_blank">【围炉夜话12/14】中国防疫大转弯后翻车？ ｜ 14/07/2022</a></li>
-<li><a href="/comments/20221215/1823624.md" target="_blank">政策大调整，个人所得税由之前的1%调整为差额的20%。</a></li>
-<li><a href="/cbnews/20221214/1823507.md" target="_blank">普京闭门想出最后绝招 亲密盟友情急自找退路</a></li>
-<li><a href="/cbnews/20221214/1823445.md" target="_blank">曝中共攻台尖刀部队5年扩增2倍</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221217/1824618.md" target="_blank">【#短视频】李南央：年轻人为什么站出来。。。</a></li>
+<li><a href="/comments/20221217/1824610.md" target="_blank">文昭：重磅，中央经济工作会议再现大反转！一二三城市房价齐跌，麻烦大；地狱犬病毒杀到？</a></li>
 <li><a href="/comments/20221217/1824577.md" target="_blank">真相从谎言中浮现</a></li>
 <li><a href="/comments/20221217/1824576.md" target="_blank">王赫：漫谈美国的终极使命</a></li>
 <li><a href="/comments/20221217/1824575.md" target="_blank">张乐：觉醒的民众不再恐惧欣然退团</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221216/1824254.md" target="_blank">mRNA技术创始人马龙博士：为啥打疫苗反而容易重复感染新冠</a></li>
 <li><a href="/comments/20221216/1824256.md" target="_blank">李燕铭：中国最冷小镇零下42.2℃ 山西最低气温跌至零下20℃ 北京零下10℃阵风7级 上海30年同期最冷 降温雨雪大风齐袭江苏 一周内三股寒潮接力席卷中国 东海南海阵风10级 中共末日之生态危机（九）</a></li>
 <li><a href="/comments/20221216/1824244.md" target="_blank">【欺世大观】157 国军海军司令叛变 愧对林则徐</a></li>
-<li><a href="/comments/20221216/1824243.md" target="_blank">中国可以对我不仁台湾不必对它不义</a></li>
-<li><a href="/comments/20221216/1824242.md" target="_blank">李濠仲：中国禁台湾产品 往台积电、2024想就对了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 <li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
 
 </ul>
 </div>
