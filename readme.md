@@ -19,15 +19,15 @@
 <li><a href="/cnnews/20221218/1824930.md">热帖：某人偏执而任性的放开</a></li>
 <li><a href="/cbnews/20221218/1824996.md">天亮时分：放大招！中情局搜集中共高层贪腐证据和财产状况；美国务院成立中国办公室应对中共；马斯克解封推特账号（政论天下第881集 20221217）</a></li>
 <li><a href="/comments/20221218/1824906.md">【独家重磅】李燕铭：江曾势力渗透军队阴谋策动武装政变！江泽民死后 军方八大异常动作 几十年未见信号出现 军委及战区兵种70余名高级将领连开6天会议 习近平亲自审定会议方案 军报再次警告谁也不是铁帽子王 习强化军权内防政变对外备战（三一） 中南海政变与反政变（六七） 习近平决战江曾（七一）</a></li>
-<li><a href="/topimagenews/20221218/1824999.md">【微博精粹】长脑子！警惕病毒和发第二波国难财的前后夹击</a></li>
-<li><a href="/topimagenews/20221218/1824979.md">作为全球最大退烧药生产国，为什么中国还缺药</a></li>
-<li><a href="/sohnews/20221217/1824826.md">陈破空：美媒爆料：中办收集专家意见，习近平竟批下这四个字！习派：引进辉瑞是新的鸦片战争！日本大规模扩军，中共发抖，美台欢迎</a></li>
 <li><a href="/cbnews/20221218/1825051.md">阳性期间出现身上痒，千万别不当回事</a></li>
-<li><a href="/lishi/20221218/1824904.md">民国“企业大王”误信中共 两子自杀</a></li>
+<li><a href="/topimagenews/20221218/1824999.md">【微博精粹】长脑子！警惕病毒和发第二波国难财的前后夹击</a></li>
+<li><a href="/sohnews/20221217/1824826.md">陈破空：美媒爆料：中办收集专家意见，习近平竟批下这四个字！习派：引进辉瑞是新的鸦片战争！日本大规模扩军，中共发抖，美台欢迎</a></li>
+<li><a href="/topimagenews/20221218/1824979.md">作为全球最大退烧药生产国，为什么中国还缺药</a></li>
 <li><a href="/sohnews/20221217/1824845.md">胡锡进染疫，司马南喊有人放毒；鈡南山：感染一次等于打一次疫苗；连花清瘟被专家指绝不能吃；北京八宝山殡仪馆外排长龙；美使馆停签证，暗藏玄机。｜ #时事金扫描 12/17/2022</a></li>
+<li><a href="/lishi/20221218/1824904.md">民国“企业大王”误信中共 两子自杀</a></li>
 <li><a href="/cnnews/20221218/1825025.md">记忆不容篡改 放开是因为防不住 不是因为躺匪</a></li>
-<li><a href="/ssgc/20221217/1824821.md">江泽民之死与中共之将亡</a></li>
 <li><a href="/cbnews/20221218/1825033.md">6位北漂独居感染者:不敢接父母视频，高烧到…</a></li>
+<li><a href="/ssgc/20221217/1824821.md">江泽民之死与中共之将亡</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221218/1825111.md" target="_blank">中国抢药潮 东北因为这个原因登上热搜</a></li>
+<li><a href="/comments/20221218/1825108.md" target="_blank">北大退休教授怒批七人帮，并质问：一个文盲群体能统治我们的国家吗？</a></li>
 <li><a href="/comments/20221218/1825067.md" target="_blank">山东威海，12月17日，暴风雪中测核酸。</a></li>
 <li><a href="/comments/20221218/1825065.md" target="_blank">北京八宝山，大批汽车排队等待进火葬场！</a></li>
 <li><a href="/cbnews/20221218/1825051.md" target="_blank">阳性期间出现身上痒，千万别不当回事</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20221217/1824678.md" target="_blank">天亮时分：日本军费翻倍，视中共为最大威胁；中央经济工作会议后，习近平四项标志性政策被推翻；马斯克团灭左媒记者推特账户（政论天下第880集 20221216）</a></li>
 <li><a href="/cbnews/20221217/1824651.md" target="_blank">胡锡进染疫确诊！网友乐坏了！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221217/1824633.md" target="_blank">中国必须注意疫情两大指标 否则会走回头路</a></li>
-<li><a href="/comments/20221217/1824618.md" target="_blank">【#短视频】李南央：年轻人为什么站出来。。。</a></li>
-<li><a href="/cbnews/20221217/1824612.md" target="_blank">加拿大也要禁TikTok？特鲁多称正关注其安全性</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221218/1825108.md" target="_blank">北大退休教授怒批七人帮，并质问：一个文盲群体能统治我们的国家吗？</a></li>
 <li><a href="/comments/20221218/1825067.md" target="_blank">山东威海，12月17日，暴风雪中测核酸。</a></li>
 <li><a href="/comments/20221218/1825065.md" target="_blank">北京八宝山，大批汽车排队等待进火葬场！</a></li>
 <li><a href="/comments/20221218/1825020.md" target="_blank">八筒哦：吴专家赢麻了</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221218/1824905.md" target="_blank">小吴坑爹，老吴曝光！咋整？</a></li>
 <li><a href="/comments/20221218/1824879.md" target="_blank">美国人视中共为敌民意之高出乎意料 两国关系已难回头</a></li>
 <li><a href="/comments/20221217/1824705.md" target="_blank">秦时：2022年中共外交十大丑闻</a></li>
-<li><a href="/comments/20221217/1824704.md" target="_blank">钟原：中共经济会议急“修正”二十大报告</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
 <li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
 <li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 
 </ul>
 </div>
