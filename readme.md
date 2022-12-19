@@ -9,16 +9,16 @@
 <li><a href="/comments/20221219/1825208.md">珠海口岸，民众大规模逃离国境！</a></li>
 <li><a href="/cnnews/20221219/1825368.md">我在私人飞机当空姐，很多秘密不可说</a></li>
 <li><a href="/cbnews/20221219/1825277.md">天亮时分：两个关于胡锦涛儿子和江泽民孙子的谣言；马斯克发出民调，决定是否担任推特CEO；布洛芬发明人，医者仁心（政论天下第882集 20221218）</a></li>
-<li><a href="/topimagenews/20221219/1825292.md">【微博精粹】2022年底 送给粉红一族的最强段子</a></li>
 <li><a href="/topimagenews/20221219/1825372.md">4.2亿人确诊?中国疫情海啸才刚开始 美机构预测：1/3人口会被感染</a></li>
+<li><a href="/topimagenews/20221219/1825292.md">【微博精粹】2022年底 送给粉红一族的最强段子</a></li>
 <li><a href="/topimagenews/20221219/1825448.md">习近平开经济会议为啥大转弯？党媒罕见报喉舌记者没了！抛售紫光！郭台铭看衰中国芯片</a></li>
 <li><a href="/topimagenews/20221219/1825236.md">张文宏最新发声，含蓄否定“动态清零”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221219/1825283.md">印度神童最新预言曝光 台湾中国乌克兰震惊！小心12、1、2月</a></li>
 <li><a href="/ssgc/20221219/1825210.md">〖兲朝浮世绘〗美国要帮中国抗疫，被中共拒绝</a></li>
 <li><a href="/cnnews/20221219/1825392.md">保护好自己和家人 北京美女：生与死只是1秒钟的时间</a></li>
 <li><a href="/comments/20221219/1825276.md">习近平李强刘鹤烙饼！党求教培等三产业拉内需，俞敏洪开骂？人民自嘲式辱党成时尚？</a></li>
-<li><a href="/topimagenews/20221219/1825215.md">被曝光：战争开始前，俄军一个荒唐+恶心的计划</a></li>
 <li><a href="/topimagenews/20221219/1825373.md">中国爆遗体烧不完！北京今却通报“2例死亡” 大陆网友酸：笑掉大牙</a></li>
+<li><a href="/topimagenews/20221219/1825215.md">被曝光：战争开始前，俄军一个荒唐+恶心的计划</a></li>
 <li><a href="/cnnews/20221219/1825393.md">重磅快讯！普京下周宣布“重大国防消息”</a></li>
 <li><a href="/comments/20221219/1825441.md">红旗下的誓言 ——我们未被告知的秘密</a></li>
 <li><a href="/topimagenews/20221219/1825388.md">中国疫情爆发大缺药！直击退烧药“优先”送北京 网友怒：我们的命不是命</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/sports/20221219/1825358.md">亲自承认了！夺冠后梅西首度发声</a></li>
 <li><a href="/cnnews/20221219/1825300.md">“行程码”退场后，另一批发“国难财”的来了</a></li>
 <li><a href="/cnnews/20221219/1825350.md">业内人士：中国高净值人群移民前，要注意这件事</a></li>
-<li><a href="/sohnews/20221219/1825202.md">🔥胡锡进不小心说实话了！热帖：某人偏执而任性的放开；作为全球最大退烧药生产国，为什么中国还缺药</a></li>
+<li><a href="/worldnews/20221219/1825364.md">战争输了，普京政治生命进入倒数…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
 
 </ul>
 </div>
