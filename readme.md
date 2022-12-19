@@ -16,16 +16,16 @@
 <li><a href="/cnnews/20221218/1825072.md">北京明年夺台？CIA局长曝“诚实答案”</a></li>
 <li><a href="/cnnews/20221218/1825073.md">时间表来了！中国三阶段恢复国内航空</a></li>
 <li><a href="/sohnews/20221218/1825109.md">陈破空：党媒报胡锦涛之子升官，习当局紧急辟谣！北京殡葬暴增5倍。南京每天32万人染疫。中共正式拒绝美国援助，宣称中国有一大优势。直播与互动。美东12月18日早8点、即中港台12月18日晚9点</a></li>
+<li><a href="/topimagenews/20221219/1825325.md">“成都不雅聊天”背后 女副区长涉3个男人复杂关系曝光</a></li>
 <li><a href="/lishi/20221219/1825196.md">碰见她，稳重了一辈子的北大校长立刻就崩溃了</a></li>
 <li><a href="/cnnews/20221219/1825182.md">布洛芬的发明人是真的药神</a></li>
 <li><a href="/cnnews/20221219/1825163.md">中国的印钞机也躺平了？</a></li>
-<li><a href="/topimagenews/20221219/1825325.md">“成都不雅聊天”背后 女副区长涉3个男人复杂关系曝光</a></li>
 <li><a href="/comments/20221218/1825065.md">北京八宝山，大批汽车排队等待进火葬场！</a></li>
 <li><a href="/topimagenews/20221219/1825215.md">被曝光：战争开始前，俄军一个荒唐+恶心的计划</a></li>
 <li><a href="/cnnews/20221219/1825183.md">别人都可控核聚变了，你还在抢连花清瘟？</a></li>
 <li><a href="/topimagenews/20221219/1825166.md">习近平把伊朗人惹翻：“中国唯利是图，漠视伊朗”</a></li>
-<li><a href="/cnnews/20221219/1825157.md">北京新冠患者女儿哭诉 送父亲去医院治疗的过程 太恐怖了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221219/1825236.md">张文宏最新发声，含蓄否定“动态清零”【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221219/1825157.md">北京新冠患者女儿哭诉 送父亲去医院治疗的过程 太恐怖了【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221219/1825277.md">天亮时分：两个关于胡锦涛儿子和江泽民孙子的谣言；马斯克发出民调，决定是否担任推特CEO；布洛芬发明人，医者仁心（政论天下第882集 20221218）</a></li>
 <li><a href="/ssgc/20221219/1825210.md">〖兲朝浮世绘〗美国要帮中国抗疫，被中共拒绝</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221219/1825365.md" target="_blank">疫情三年，测的不仅是核酸更是每个人的智商</a></li>
 <li><a href="/comments/20221219/1825314.md" target="_blank">俄罗斯炮击赫尔松，加强对乌克兰南部更广泛的攻击</a></li>
 <li><a href="/comments/20221219/1825295.md" target="_blank">也是一种传承：又嫖又赌的茅台董事长“们”</a></li>
 <li><a href="/comments/20221219/1825281.md" target="_blank">诳骗学生拿手戏 推演学运倾国府 【欺世大观】159</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221218/1825009.md" target="_blank">【杰森视角】卫健委“疫情通报”显示中共权力系统出现危机！习近平嫡系人马劝他悠着点？中国人是阳的太快还是太慢？习近平在两周内颠覆了他过去3年的4项关键政策！中国经济状况糟的超出你我想像！</a></li>
 <li><a href="/comments/20221218/1825001.md" target="_blank">德媒：告别“清零”：民间吁反思官媒唱赞歌</a></li>
 <li><a href="/comments/20221218/1824985.md" target="_blank">美煤：“清零”三年：中国人的集体创伤和一个永不道歉的政府</a></li>
-<li><a href="/comments/20221218/1824984.md" target="_blank">国民党卖台求荣还要走多远？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
 
 </ul>
 </div>
