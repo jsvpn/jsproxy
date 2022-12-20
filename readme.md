@@ -17,9 +17,8 @@
 <li><a href="/comments/20221219/1825441.md">红旗下的誓言 ——我们未被告知的秘密</a></li>
 <li><a href="/topimagenews/20221219/1825388.md">中国疫情爆发大缺药！直击退烧药“优先”送北京 网友怒：我们的命不是命</a></li>
 <li><a href="/sports/20221219/1825358.md">亲自承认了！夺冠后梅西首度发声</a></li>
-<li><a href="/cnnews/20221219/1825347.md">中共放弃清零感染激增，这件事令北京头疼</a></li>
-<li><a href="/sohnews/20221220/1825563.md">“中共国之谜！封城下都是无症状 解封后99.9%都是高烧重症：为什么？”ShitaoTV - 01 (19 /12/22) 预计4.2亿人染疫 年底见海啸 过年为真相！</a></li>
 <li><a href="/topimagenews/20221220/1825712.md">穿帮了！中共最高层开会，泄露大秘密！【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20221220/1825563.md">“中共国之谜！封城下都是无症状 解封后99.9%都是高烧重症：为什么？”ShitaoTV - 01 (19 /12/22) 预计4.2亿人染疫 年底见海啸 过年为真相！</a></li>
 <li><a href="/cnnews/20221220/1825622.md">爆满！北京门头沟区殡葬管理人员的语音聊天记录</a></li>
 <li><a href="/comments/20221220/1825572.md">北京，医疗资源崩溃！</a></li>
 <li><a href="/worldnews/20221219/1825364.md">战争输了，普京政治生命进入倒数…</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/cnnews/20221219/1825418.md">疫情对中国乡村的冲击，才刚刚开始</a></li>
 <li><a href="/cnnews/20221219/1825350.md">业内人士：中国高净值人群移民前，要注意这件事</a></li>
 <li><a href="/topimagenews/20221220/1825532.md">英媒：估计北京有半数人感染新冠 工商业供应链近乎停摆</a></li>
+<li><a href="/topimagenews/20221220/1825739.md">回应白纸革命？中共重要会议，出现特殊表述！【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221219/1825470.md">北京教授私信曝真实忧虑 专家预估中国疫情趋势</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221220/1825813.md" target="_blank">厉害了？中共连创“世界第一” 这记录不好打破【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221220/1825808.md" target="_blank">中国少年校园失踪引发信任危机 家属宁倾家荡产悬赏不信警方调查</a></li>
 <li><a href="/topimagenews/20221220/1825803.md" target="_blank">惊揭黑幕：中国人为什么买不到药？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221220/1825795.md" target="_blank">尸体多到要轮流冷冻!每日量爆增5倍 河北殡仪馆应付不来穷则变出新招</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221219/1825252.md" target="_blank">有用的药卖2元被罚1.33亿，没用的药卖百元没事</a></li>
 <li><a href="/topimagenews/20221219/1825251.md" target="_blank">俄罗斯精英部队在乌克兰近乎“全军覆没”</a></li>
 <li><a href="/topimagenews/20221219/1825236.md" target="_blank">张文宏最新发声，含蓄否定“动态清零”【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221219/1825225.md" target="_blank">人民币结算石油？没有造出永动机，中共又输一场</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221220/1825815.md" target="_blank">李燕铭：美国务院：全球关注中国染疫死亡人数 美国智库：中国本轮疫情将是一场海啸 四份报告预测：死亡人数将超过100万 中共专家警告：疫情三波高峰 严防死亡堤坝破溃 中共末日之病毒亡共（二）</a></li>
 <li><a href="/comments/20221220/1825798.md" target="_blank">北京大妞替父仗义执言！丢命人数秘密流出，党甩锅美国遭朝阳群众逼问：谁指挥的？</a></li>
 <li><a href="/comments/20221220/1825777.md" target="_blank">【微博精粹】有人提供“独家秘方”</a></li>
 <li><a href="/comments/20221220/1825697.md" target="_blank">【重磅醒脑】有关方面能回答这14个问题 真相就会大白于天下</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221219/1825442.md" target="_blank">耶稣转生成现代人？凯西解读：耶稣神祕的前半生！30岁前去印度埃及取经？！第一个看见耶稣复活之人；女门徒抹大拉的前世轮回。师徒齐转生！</a></li>
 <li><a href="/comments/20221219/1825438.md" target="_blank">病情日记：草根哀嚎，特权狂欢</a></li>
 <li><a href="/comments/20221219/1825417.md" target="_blank">直指某人：知乎热帖“如何看待国家放开管控？”</a></li>
-<li><a href="/comments/20221219/1825399.md" target="_blank">疫情之下，部分中国人的巨婴心态</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
 
 </ul>
 </div>
