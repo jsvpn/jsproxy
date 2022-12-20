@@ -12,18 +12,18 @@
 <li><a href="/topimagenews/20221219/1825292.md">【微博精粹】2022年底 送给粉红一族的最强段子</a></li>
 <li><a href="/topimagenews/20221219/1825448.md">习近平开经济会议为啥大转弯？党媒罕见报喉舌记者没了！抛售紫光！郭台铭看衰中国芯片</a></li>
 <li><a href="/topimagenews/20221219/1825283.md">印度神童最新预言曝光 台湾中国乌克兰震惊！小心12、1、2月</a></li>
-<li><a href="/topimagenews/20221219/1825236.md">张文宏最新发声，含蓄否定“动态清零”【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221219/1825392.md">保护好自己和家人 北京美女：生与死只是1秒钟的时间</a></li>
 <li><a href="/comments/20221219/1825276.md">习近平李强刘鹤烙饼！党求教培等三产业拉内需，俞敏洪开骂？人民自嘲式辱党成时尚？</a></li>
 <li><a href="/topimagenews/20221219/1825373.md">中国爆遗体烧不完！北京今却通报“2例死亡” 大陆网友酸：笑掉大牙</a></li>
+<li><a href="/comments/20221220/1825571.md">深圳，核子华曦基因公司被警察查抄！</a></li>
 <li><a href="/cnnews/20221219/1825393.md">重磅快讯！普京下周宣布“重大国防消息”</a></li>
 <li><a href="/comments/20221219/1825441.md">红旗下的誓言 ——我们未被告知的秘密</a></li>
 <li><a href="/topimagenews/20221219/1825388.md">中国疫情爆发大缺药！直击退烧药“优先”送北京 网友怒：我们的命不是命</a></li>
-<li><a href="/comments/20221220/1825571.md">深圳，核子华曦基因公司被警察查抄！</a></li>
 <li><a href="/comments/20221219/1825270.md">又辱习总了？中国医院防疫文章插图惹网友热议</a></li>
 <li><a href="/cnnews/20221219/1825347.md">中共放弃清零感染激增，这件事令北京头疼</a></li>
 <li><a href="/sports/20221219/1825358.md">亲自承认了！夺冠后梅西首度发声</a></li>
 <li><a href="/cnnews/20221219/1825300.md">“行程码”退场后，另一批发“国难财”的来了</a></li>
+<li><a href="/sohnews/20221220/1825563.md">“中共国之谜！封城下都是无症状 解封后99.9%都是高烧重症：为什么？”ShitaoTV - 01 (19 /12/22) 预计4.2亿人染疫 年底见海啸 过年为真相！</a></li>
 <li><a href="/cnnews/20221219/1825350.md">业内人士：中国高净值人群移民前，要注意这件事</a></li>
 <li><a href="/worldnews/20221219/1825364.md">战争输了，普京政治生命进入倒数…</a></li>
 <li><a href="/cnnews/20221219/1825418.md">疫情对中国乡村的冲击，才刚刚开始</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221220/1825688.md" target="_blank">珠海要求退烧药拆零卖 苛刻但可行</a></li>
 <li><a href="/cbnews/20221220/1825608.md" target="_blank">新十条已失败，中国正向“阴性清零”冲刺？</a></li>
 <li><a href="/comments/20221220/1825572.md" target="_blank">北京，医疗资源崩溃！</a></li>
 <li><a href="/comments/20221220/1825571.md" target="_blank">深圳，核子华曦基因公司被警察查抄！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221218/1825067.md" target="_blank">山东威海，12月17日，暴风雪中测核酸。</a></li>
 <li><a href="/comments/20221218/1825065.md" target="_blank">北京八宝山，大批汽车排队等待进火葬场！</a></li>
 <li><a href="/cbnews/20221218/1825051.md" target="_blank">阳性期间出现身上痒，千万别不当回事</a></li>
-<li><a href="/cbnews/20221218/1825050.md" target="_blank">1瓶3000？一人在天津儿童医院门口兜售美林被抓</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 
 </ul>
 </div>
