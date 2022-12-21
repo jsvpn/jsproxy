@@ -18,12 +18,12 @@
 <li><a href="/topimagenews/20221220/1825713.md">热闹了！中国人围观：”2股境外势力左右中共政策”？</a></li>
 <li><a href="/health/20221220/1825695.md">感染新冠病毒后不能用布洛芬退热？医生告诉你实情</a></li>
 <li><a href="/cnnews/20221220/1825756.md">为了打倒刘少奇 毛做了极其细致周密的准备</a></li>
-<li><a href="/topimagenews/20221220/1825803.md">惊揭黑幕：中国人为什么买不到药？【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20221220/1825839.md">“榜一大哥”打赏近10亿 原来暗地这勾当</a></li>
-<li><a href="/cnnews/20221220/1825856.md">华人注意：多伦多新增回国航班 13万人挤爆机场</a></li>
 <li><a href="/topimagenews/20221221/1826049.md">胡锡进泄密急删文 事后该贴文已被下架</a></li>
-<li><a href="/topimagenews/20221220/1825765.md">中共怕国际知道自己忘恩负义 刻意淡化歼-15战机由来</a></li>
+<li><a href="/cbnews/20221220/1825839.md">“榜一大哥”打赏近10亿 原来暗地这勾当</a></li>
+<li><a href="/topimagenews/20221220/1825803.md">惊揭黑幕：中国人为什么买不到药？【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221220/1825856.md">华人注意：多伦多新增回国航班 13万人挤爆机场</a></li>
 <li><a href="/cbnews/20221220/1825802.md">江峰：从清零到“全阳”，看不懂的收放自如；布洛芬生产被国家徵收，卫健委提前囤货，能救命的退烧药被谁拿走了？民航总局突然逆势增加航班要干什麽！【江峰漫谈20221219第599期】</a></li>
+<li><a href="/topimagenews/20221220/1825765.md">中共怕国际知道自己忘恩负义 刻意淡化歼-15战机由来</a></li>
 <li><a href="/topimagenews/20221220/1825813.md">厉害了？中共连创“世界第一” 这记录不好打破【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221221/1825991.md">中宣部撤稿…习几番折腾 人民币国际化之路更远</a></li>
 <li><a href="/headline/20221220/1825879.md">《外交事务》：习随时发动战争转内部矛盾</a></li>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221221/1826120.md" target="_blank">龅牙赵：我愿称他为“原地调头王”</a></li>
+<li><a href="/comments/20221221/1826119.md" target="_blank">洪博学:和中保台是假议题</a></li>
+<li><a href="/comments/20221221/1826118.md" target="_blank">宋国诚：中共国即将到来的第八危机——塔西陀陷阱</a></li>
+<li><a href="/comments/20221221/1826117.md" target="_blank">周晓辉：北京疫情为何重于广州？</a></li>
 <li><a href="/comments/20221221/1826102.md" target="_blank">刘晓：从夏朝“启”始“桀”终说朝代存亡天定</a></li>
 <li><a href="/comments/20221221/1826075.md" target="_blank">【方菲时间】北京似2020武汉再现！疫情为何如此凶猛？政法系高官惊人爆料：放开前早已爆发；中共称只死2人 ｜12/20/2022</a></li>
 <li><a href="/comments/20221221/1826038.md" target="_blank">德媒看中国：央视新闻里，疫情并未发生</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20221220/1825666.md" target="_blank">连花清瘟是DU药？听医院内部录音……</a></li>
 <li><a href="/comments/20221220/1825655.md" target="_blank">文昭：一把梭了！北京的疫情损失有多惨？习近平一键三连式溃退，最後能押什麽宝？</a></li>
 <li><a href="/comments/20221220/1825592.md" target="_blank">江苏女染疫“一夜白头” 天津男舌头牙齿变黑</a></li>
-<li><a href="/comments/20221220/1825590.md" target="_blank">习近平政策大转弯 浙江书记视察阿里巴巴释信号</a></li>
-<li><a href="/comments/20221220/1825589.md" target="_blank">退烧药、血液优先供北京 网民：我们的命不是命？</a></li>
-<li><a href="/comments/20221220/1825585.md" target="_blank">钟南山呆在中国为院士 呆在新加坡成犯人</a></li>
-<li><a href="/comments/20221220/1825573.md" target="_blank">从“阳过的不要”到“阳过的优先” 中国学校招聘条件遭吐槽</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
 <li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 
 </ul>
 </div>
