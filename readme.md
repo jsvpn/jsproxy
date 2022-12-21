@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20221220/1825864.md">周恩来和毛泽东令人胆寒的三句话</a></li>
 <li><a href="/cnnews/20221221/1825990.md">大上海的最后一块遮羞布被扯掉了</a></li>
 <li><a href="/topimagenews/20221221/1826147.md">中国没“国家军队”了？！解放军新兵授衔口号变了</a></li>
 <li><a href="/topimagenews/20221221/1826049.md">胡锡进泄密急删文 事后该贴文已被下架</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/comments/20221221/1826034.md">逼迫习近平认错，中共会出现“七千人大会”吗？</a></li>
 <li><a href="/cnnews/20221221/1825991.md">中宣部撤稿…习几番折腾 人民币国际化之路更远</a></li>
 <li><a href="/baitai/20221221/1826059.md">内斗传闻不断 中南海重要会议众多高官缺席引猜测</a></li>
-<li><a href="/baitai/20221221/1826069.md">亡党在即 习近平又一次180度政策大转弯</a></li>
 <li><a href="/headline/20221220/1825879.md">《外交事务》：习随时发动战争转内部矛盾</a></li>
+<li><a href="/baitai/20221221/1826069.md">亡党在即 习近平又一次180度政策大转弯</a></li>
 <li><a href="/sports/20221221/1825989.md">梅西进球无效？外媒爆延长赛破门违规铁证 国际足总这样说</a></li>
-<li><a href="/topimagenews/20221221/1826203.md">不比不知道！中共葫芦里卖的什么药，这下有数了！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221221/1826192.md">天亮时分：异常！众多高官缺席中南海重要会议；习近平困境中自我否定两大政策；泽伦斯基突访华盛顿；马斯克要辞去推特CEO？（政论天下第884集 20221220）</a></li>
+<li><a href="/topimagenews/20221221/1826203.md">不比不知道！中共葫芦里卖的什么药，这下有数了！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20221220/1825905.md">陈破空：半数高官染疫？高层会议罕见大批缺席。胡锡进泄密遭删除，赵立坚老婆买不到退烧药。武汉家家染疫，发烧门诊排队到天桥。直播与互动。美东12月20日早8点30、即中港台12月20日晚9点30</a></li>
 <li><a href="/yule/20221221/1826040.md">疯狂收割女星后 他皈依佛门 如今被曝欠薪躲债？</a></li>
-<li><a href="/topimagenews/20221221/1826076.md">中国疯抢退烧药！战狼赵立坚太太也求药 台大仁医曝惨况“一瓶15元飙涨至4500”</a></li>
 <li><a href="/cnnews/20221221/1826187.md">被抓住！中共国家卫健委公开造假！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20221221/1826076.md">中国疯抢退烧药！战狼赵立坚太太也求药 台大仁医曝惨况“一瓶15元飙涨至4500”</a></li>
 <li><a href="/comments/20221221/1826002.md">中国人为何买不到退烧药 内部消息揭惊人黑幕</a></li>
 <li><a href="/sohnews/20221221/1826015.md">“北京惨状！每日死亡4000人 最终出现‘非典3.0’”ShitaoTV - 04 (20 /12/22) 老教授死前大骂习近平 垂杨柳医院死活杂居</a></li>
 <li><a href="/comments/20221221/1826075.md">【方菲时间】北京似2020武汉再现！疫情为何如此凶猛？政法系高官惊人爆料：放开前早已爆发；中共称只死2人 ｜12/20/2022</a></li>
 <li><a href="/ssgc/20221221/1826112.md">〖微博谈〗咱不懂经济，但懂人情世故</a></li>
 <li><a href="/cnnews/20221221/1826209.md">这条曲线赴美的路，也要被堵了？</a></li>
-<li><a href="/cbnews/20221220/1825956.md">莱特希泽：不能回避真相 美中经济应逐步脱钩</a></li>
+<li><a href="/topimagenews/20221221/1826234.md">脸上挂不住了 金与正拿生命作赌注</a></li>
+<li><a href="/cnnews/20221221/1826051.md">温哥华机场沦陷：数百名乘客被困机舱12小时</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221221/1826302.md" target="_blank">抗击瘟疫 中美制度之争决出胜负</a></li>
 <li><a href="/comments/20221221/1826290.md" target="_blank">过去三年有多少人被无声无息灭绝 吴尊友给谁下套</a></li>
 <li><a href="/comments/20221221/1826253.md" target="_blank">习近平防疫为何急转弯？经济稳定得住？ （戴忠仁/ 程晓农 / 胡平）</a></li>
 <li><a href="/comments/20221221/1826231.md" target="_blank">李燕铭：中共病毒超自然神秘因素浮现！科幻作家韩松微博记录十日阳性感受：感觉有条蛇在肺部！染疫者“生蛇”比率增5倍！江苏女染疫一夜白头 天津男染疫舌头牙齿变黑 中共末日之病毒亡共（三）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221221/1826102.md" target="_blank">刘晓：从夏朝“启”始“桀”终说朝代存亡天定</a></li>
 <li><a href="/comments/20221221/1826075.md" target="_blank">【方菲时间】北京似2020武汉再现！疫情为何如此凶猛？政法系高官惊人爆料：放开前早已爆发；中共称只死2人 ｜12/20/2022</a></li>
 <li><a href="/comments/20221221/1826038.md" target="_blank">德媒看中国：央视新闻里，疫情并未发生</a></li>
-<li><a href="/comments/20221221/1826034.md" target="_blank">逼迫习近平认错，中共会出现“七千人大会”吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
 <li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
 
 </ul>
 </div>
