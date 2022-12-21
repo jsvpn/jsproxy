@@ -6,25 +6,25 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221221/1826147.md">中国没“国家军队”了？！解放军新兵授衔口号变了</a></li>
-<li><a href="/baitai/20221221/1826059.md">内斗传闻不断 中南海重要会议众多高官缺席引猜测</a></li>
 <li><a href="/baitai/20221221/1826069.md">亡党在即 习近平又一次180度政策大转弯</a></li>
 <li><a href="/cbnews/20221221/1826192.md">天亮时分：异常！众多高官缺席中南海重要会议；习近平困境中自我否定两大政策；泽伦斯基突访华盛顿；马斯克要辞去推特CEO？（政论天下第884集 20221220）</a></li>
 <li><a href="/topimagenews/20221221/1826203.md">不比不知道！中共葫芦里卖的什么药，这下有数了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221221/1826234.md">脸上挂不住了 金与正拿生命作赌注</a></li>
 <li><a href="/comments/20221221/1826228.md">习近平已方寸大乱 “收放自如”的背后…</a></li>
 <li><a href="/cnnews/20221221/1826187.md">被抓住！中共国家卫健委公开造假！【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20221221/1826340.md">北京疫情不寻常? COVID19尚未结束 又有COVID22 ?重回三年前 同样春节前解封 中共故技重施 盖牌+隐瞒数据!多国开始停办签证 台湾还在吵重启小三通? 2022.12.21</a></li>
 <li><a href="/sohnews/20221221/1826352.md">文睿：真服了，习近平又出昏招，非要玩儿死自己吗？</a></li>
 <li><a href="/cnnews/20221221/1826209.md">这条曲线赴美的路，也要被堵了？</a></li>
+<li><a href="/sohnews/20221221/1826340.md">北京疫情不寻常? COVID19尚未结束 又有COVID22 ?重回三年前 同样春节前解封 中共故技重施 盖牌+隐瞒数据!多国开始停办签证 台湾还在吵重启小三通? 2022.12.21</a></li>
 <li><a href="/cnnews/20221221/1826239.md">美国早已算到 北京不敢猛烈报复</a></li>
-<li><a href="/topimagenews/20221221/1826076.md">中国疯抢退烧药！战狼赵立坚太太也求药 台大仁医曝惨况“一瓶15元飙涨至4500”</a></li>
 <li><a href="/comments/20221221/1826075.md">【方菲时间】北京似2020武汉再现！疫情为何如此凶猛？政法系高官惊人爆料：放开前早已爆发；中共称只死2人 ｜12/20/2022</a></li>
+<li><a href="/topimagenews/20221221/1826076.md">中国疯抢退烧药！战狼赵立坚太太也求药 台大仁医曝惨况“一瓶15元飙涨至4500”</a></li>
 <li><a href="/lifebaike/20221221/1826270.md">身体免疫力强大的人，通常有6个特征，建议对照自测一下</a></li>
 <li><a href="/ssgc/20221221/1826112.md">〖微博谈〗咱不懂经济，但懂人情世故</a></li>
-<li><a href="/sohnews/20221221/1826211.md">“昨天（19日）叶剑英孙女婿等 多个名人离世！”ShitaoTV - 07 (20 /12/22) 天津 济南视频流出 ⋯⋯</a></li>
 <li><a href="/topimagenews/20221221/1826402.md">医院塞满尸袋！中国多位知名人士“因病过世” 讣闻接不完</a></li>
-<li><a href="/topimagenews/20221221/1826300.md">实锤！马斯克称机器人动手脚 有民意调查公司证实了</a></li>
+<li><a href="/sohnews/20221221/1826211.md">“昨天（19日）叶剑英孙女婿等 多个名人离世！”ShitaoTV - 07 (20 /12/22) 天津 济南视频流出 ⋯⋯</a></li>
+<li><a href="/sohnews/20221221/1826391.md">习近平差点出事，中国出现异常症状，奇葩的死亡判断标准，运动式阴性清零，数据造假危害世界，为什么买不到药（小木谈天第313期 20221221）</a></li>
 <li><a href="/cnnews/20221221/1826276.md">中国明年放宽入境隔离 1月3日改“0+3”</a></li>
+<li><a href="/topimagenews/20221221/1826300.md">实锤！马斯克称机器人动手脚 有民意调查公司证实了</a></li>
 <li><a href="/cnnews/20221221/1826283.md">丰田汽车掌门人又一次语出惊人</a></li>
 <li><a href="/ssgc/20221221/1826215.md">〖兲朝浮世绘〗管你是官是民 都不会被中共体制放过</a></li>
 <li><a href="/cbnews/20221221/1826301.md">中国工厂的状况简直一团糟</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221222/1826522.md" target="_blank">好险！一尊逃过一劫</a></li>
 <li><a href="/comments/20221222/1826467.md" target="_blank">【梁京评论】2022：中国与世界关系的重大转折点（上）</a></li>
 <li><a href="/comments/20221222/1826452.md" target="_blank">李燕铭：中共教育部副部长郑富芝被免职 曾任习近平副手陈宝生助理 陈宝生郑富芝改8年抗战为14年删改文革定性 引发批判浪潮 教育部教材色情插图频频引发舆论争议 细思极恐 文宣系统大清洗（二七）</a></li>
 <li><a href="/comments/20221222/1826445.md" target="_blank">时事大家谈：疫情下的焦虑和乱象 解封好像一场赌博？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221221/1826171.md" target="_blank">加拿大高校录取花样太多！网友怒骂：就是歧视亚裔</a></li>
 <li><a href="/comments/20221221/1826162.md" target="_blank">专家：90天内中国将有60%、全世界有10%人口感染新冠，并有数百万人染疫亡</a></li>
 <li><a href="/comments/20221221/1826161.md" target="_blank">中国一带一路出包！印尼高铁造价逾2000亿 试车竟脱轨酿2死4伤</a></li>
-<li><a href="/comments/20221221/1826160.md" target="_blank">富士康员工染疫仍被迫上班 网：真正要打BNT的在这……</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 <li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
 <li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 
 </ul>
 </div>
