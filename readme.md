@@ -12,20 +12,20 @@
 <li><a href="/comments/20221221/1826228.md">习近平已方寸大乱 “收放自如”的背后…</a></li>
 <li><a href="/cnnews/20221221/1826187.md">被抓住！中共国家卫健委公开造假！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221221/1826209.md">这条曲线赴美的路，也要被堵了？</a></li>
+<li><a href="/sohnews/20221221/1826340.md">北京疫情不寻常? COVID19尚未结束 又有COVID22 ?重回三年前 同样春节前解封 中共故技重施 盖牌+隐瞒数据!多国开始停办签证 台湾还在吵重启小三通? 2022.12.21</a></li>
 <li><a href="/cnnews/20221221/1826239.md">美国早已算到 北京不敢猛烈报复</a></li>
 <li><a href="/sohnews/20221221/1826352.md">文睿：真服了，习近平又出昏招，非要玩儿死自己吗？</a></li>
-<li><a href="/sohnews/20221221/1826340.md">北京疫情不寻常? COVID19尚未结束 又有COVID22 ?重回三年前 同样春节前解封 中共故技重施 盖牌+隐瞒数据!多国开始停办签证 台湾还在吵重启小三通? 2022.12.21</a></li>
 <li><a href="/topimagenews/20221221/1826402.md">医院塞满尸袋！中国多位知名人士“因病过世” 讣闻接不完</a></li>
 <li><a href="/lifebaike/20221221/1826270.md">身体免疫力强大的人，通常有6个特征，建议对照自测一下</a></li>
 <li><a href="/ssgc/20221221/1826112.md">〖微博谈〗咱不懂经济，但懂人情世故</a></li>
 <li><a href="/sohnews/20221221/1826391.md">习近平差点出事，中国出现异常症状，奇葩的死亡判断标准，运动式阴性清零，数据造假危害世界，为什么买不到药（小木谈天第313期 20221221）</a></li>
 <li><a href="/sohnews/20221221/1826211.md">“昨天（19日）叶剑英孙女婿等 多个名人离世！”ShitaoTV - 07 (20 /12/22) 天津 济南视频流出 ⋯⋯</a></li>
 <li><a href="/cbnews/20221221/1826301.md">中国工厂的状况简直一团糟</a></li>
+<li><a href="/topimagenews/20221221/1826403.md">日圆急升！“黑田时代”将告终 谢金河：亚洲的巨变才正要开始</a></li>
 <li><a href="/cnnews/20221221/1826276.md">中国明年放宽入境隔离 1月3日改“0+3”</a></li>
 <li><a href="/topimagenews/20221221/1826300.md">实锤！马斯克称机器人动手脚 有民意调查公司证实了</a></li>
-<li><a href="/cnnews/20221221/1826283.md">丰田汽车掌门人又一次语出惊人</a></li>
 <li><a href="/ssgc/20221221/1826215.md">〖兲朝浮世绘〗管你是官是民 都不会被中共体制放过</a></li>
-<li><a href="/topimagenews/20221221/1826403.md">日圆急升！“黑田时代”将告终 谢金河：亚洲的巨变才正要开始</a></li>
+<li><a href="/cnnews/20221221/1826283.md">丰田汽车掌门人又一次语出惊人</a></li>
 <li><a href="/cnnews/20221221/1826312.md">UFO？疑似解放军平流层飞艇南海现身</a></li>
 <li><a href="/comments/20221221/1826317.md">蔡奇丢给尹力的乱摊子</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221222/1826556.md" target="_blank">江峰：北京大批中共高干染疫，301军队总医院也爆棚，中南海沦陷！ 俄乌两国领袖突访各自最大盟友 密函说了啥？三大迹象表明俄乌停战在即【江峰漫谈20221221第600期】</a></li>
 <li><a href="/comments/20221222/1826544.md" target="_blank">【围炉夜话12/21】北京病毒变异了吗？为什么买不到退烧药？｜ 12/21/2022</a></li>
 <li><a href="/cbnews/20221222/1826504.md" target="_blank">从比“清零”到比“放开”，中国现状令人担忧</a></li>
 <li><a href="/cbnews/20221222/1826503.md" target="_blank">解封了，正常生活却没有回来</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221220/1825572.md" target="_blank">北京，医疗资源崩溃！</a></li>
 <li><a href="/comments/20221220/1825571.md" target="_blank">深圳，核子华曦基因公司被警察查抄！</a></li>
 <li><a href="/cbnews/20221220/1825549.md" target="_blank">美NDAA跨部会小组 将拟结盟反制中共策略 日德压力变大</a></li>
-<li><a href="/cbnews/20221220/1825528.md" target="_blank">大陆拼全面恢复客运 不再查核酸</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221222/1826562.md" target="_blank">周晓辉：北京书记尹力防疫仓促变脸说明两件事</a></li>
+<li><a href="/comments/20221222/1826561.md" target="_blank">王赫：从印尼新刑法禁止宣传马列主义谈起</a></li>
+<li><a href="/comments/20221222/1826560.md" target="_blank">钟原：北京疫情到底从何时爆发的？</a></li>
+<li><a href="/comments/20221222/1826557.md" target="_blank">文昭：物流瘫痪、工厂缺勤率达85%！全国大停摆，强制重启消费是什麽後果？算一算「吹牛税」</a></li>
 <li><a href="/comments/20221222/1826544.md" target="_blank">【围炉夜话12/21】北京病毒变异了吗？为什么买不到退烧药？｜ 12/21/2022</a></li>
 <li><a href="/comments/20221222/1826522.md" target="_blank">好险！一尊逃过一劫</a></li>
 <li><a href="/comments/20221222/1826467.md" target="_blank">【梁京评论】2022：中国与世界关系的重大转折点（上）</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20221221/1826194.md" target="_blank">钟山：白纸运动伴随大规模快速精准抓捕，凸显数字极权正在升级</a></li>
 <li><a href="/comments/20221221/1826184.md" target="_blank">广宇：专制集权政府也需要政策透明</a></li>
 <li><a href="/comments/20221221/1826174.md" target="_blank">觅真：曝光辽宁法院迫害法轮功的酷吏吴廷飞</a></li>
-<li><a href="/comments/20221221/1826173.md" target="_blank">湘雅附二医院医学专硕学生游行抗议要求返乡 学校领导却直接下线结束会议</a></li>
-<li><a href="/comments/20221221/1826172.md" target="_blank">打疫苗绑定养老金，坏透顶的胁迫治理思维</a></li>
-<li><a href="/comments/20221221/1826171.md" target="_blank">加拿大高校录取花样太多！网友怒骂：就是歧视亚裔</a></li>
-<li><a href="/comments/20221221/1826162.md" target="_blank">专家：90天内中国将有60%、全世界有10%人口感染新冠，并有数百万人染疫亡</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
 <li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
 
 </ul>
 </div>
