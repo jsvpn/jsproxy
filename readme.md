@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20221222/1826577.md">赵立坚老婆抱怨“发烧买不到药”，结果惨了</a></li>
-<li><a href="/cbnews/20221222/1826556.md">江峰：北京大批中共高干染疫，301军队总医院也爆棚，中南海沦陷！ 俄乌两国领袖突访各自最大盟友 密函说了啥？三大迹象表明俄乌停战在即【江峰漫谈20221221第600期】</a></li>
 <li><a href="/comments/20221222/1826754.md">沈阳老军医指证中共活摘器官集中营（1）</a></li>
 <li><a href="/sohnews/20221222/1826703.md">中南海高官出事？传王沪宁赵乐际染疫；胡锡进自感不妙，湖南组援京医疗队 ；今冬4亿人染疫？北京名人集中去世；北京流行新病毒？中共再次投毒？再拒美医疗援助，赵立坚买不到药【新闻看点 李沐阳12.21】</a></li>
 <li><a href="/cnnews/20221222/1826855.md">习近平再被追责！第三步来了…【阿波罗网报道】</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/cbnews/20221222/1826869.md">中国12月总计感染达2.48亿-国家卫建委会议纪要</a></li>
 <li><a href="/cnnews/20221222/1826654.md">张文宏也阳了？</a></li>
 <li><a href="/comments/20221222/1826750.md">疫情海啸 “7000人大会”逼宫习近平? 专家说…</a></li>
-<li><a href="/comments/20221222/1826562.md">周晓辉：北京书记尹力防疫仓促变脸说明两件事</a></li>
 <li><a href="/ssgc/20221222/1826661.md">〖兲朝浮世绘〗收中共官员及为中共站台的中共病毒终于还是拦不住了</a></li>
 <li><a href="/comments/20221222/1826783.md">热帖：不要再问，为什么没有准备好再放开</a></li>
 <li><a href="/cnnews/20221222/1826590.md">他强拉梅西合影，乱亲大力神杯…网友怒了</a></li>
+<li><a href="/baitai/20221222/1826691.md">传有中共「大人物」住进301 美再喊话愿助中国抗疫</a></li>
+<li><a href="/cbnews/20221222/1826773.md">北京惨况曝光：还有气息叫不到救护车，只能等死</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221223/1827038.md" target="_blank">医疗系统崩溃，病人处境艰难！</a></li>
 <li><a href="/cbnews/20221223/1826987.md" target="_blank">被中国舍弃的棋子？习近平为何背信伊朗联手沙特</a></li>
 <li><a href="/cbnews/20221223/1826938.md" target="_blank">一众高官缺席中共中央经济会议 染疫或为主因</a></li>
 <li><a href="/cbnews/20221222/1826915.md" target="_blank">北京成为中国首个大规模感染“超大战场” 急诊处处咳嗽声</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221222/1826602.md" target="_blank">〖微博谈〗就是单纯的倒霉</a></li>
 <li><a href="/cbnews/20221222/1826577.md" target="_blank">赵立坚老婆抱怨“发烧买不到药”，结果惨了</a></li>
 <li><a href="/cbnews/20221222/1826556.md" target="_blank">江峰：北京大批中共高干染疫，301军队总医院也爆棚，中南海沦陷！ 俄乌两国领袖突访各自最大盟友 密函说了啥？三大迹象表明俄乌停战在即【江峰漫谈20221221第600期】</a></li>
-<li><a href="/comments/20221222/1826544.md" target="_blank">【围炉夜话12/21】北京病毒变异了吗？为什么买不到退烧药？｜ 12/21/2022</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221223/1827038.md" target="_blank">医疗系统崩溃，病人处境艰难！</a></li>
 <li><a href="/comments/20221223/1826979.md" target="_blank">习：德国的 miao，我们不要</a></li>
 <li><a href="/comments/20221223/1826922.md" target="_blank">时事大家谈：攸关习近平疫情叙事，中共操纵新冠死亡数字？</a></li>
 <li><a href="/comments/20221223/1826921.md" target="_blank">时事大家谈：“国家最终选择实事求是”：胡锡进微博泄露天机？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221222/1826696.md" target="_blank">王友群：北京疫情大爆发大量高官已死亡？</a></li>
 <li><a href="/comments/20221222/1826695.md" target="_blank">八筒哦：没有选择，都是借口</a></li>
 <li><a href="/comments/20221222/1826686.md" target="_blank">为什么我们买不到退烧药？</a></li>
-<li><a href="/comments/20221222/1826685.md" target="_blank">六神磊磊读金庸：这几年疫情下来的一点点体会</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 <li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
 
 </ul>
 </div>
