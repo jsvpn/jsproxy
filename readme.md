@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20221224/1827435.md">他的猝然离世，让“阳康”们震惊 新冠专治各种不服</a></li>
 <li><a href="/cnnews/20221224/1827514.md">中国网络流传凶残霸凌女学生影片</a></li>
 <li><a href="/cbnews/20221224/1827556.md">天亮时分：习近平母亲病逝；网传王沪宁赵乐际染疫，众多高官躺倒，中共政权可能突然脆断；江泽民之死是否标志一个时代的结束？（政论天下第887集 20221223）</a></li>
 <li><a href="/baitai/20221224/1827476.md">习心腹军委副主席张又侠亲自指挥行动？江志成悬了；看不到未来 中国人找到偷渡美国之路【环球看点】</a></li>
@@ -16,8 +15,8 @@
 <li><a href="/cnnews/20221224/1827503.md">39岁川大校友染疫去世 死前手握连花清瘟胶囊</a></li>
 <li><a href="/cnnews/20221224/1827703.md">李克强开会提防疫和经济 或再卷入权争？腾讯诸多业务表现差 马化腾语出惊人爆缘由；</a></li>
 <li><a href="/topimagenews/20221224/1827637.md">中国确诊激增 英媒：恐现“末日变种”病毒株使全球退回疫情爆发原点</a></li>
-<li><a href="/sohnews/20221224/1827458.md">【直播】传习母齐心染病去世，301官网异常，还有哪些异常迹象？京西宾馆诡异亮灯，中共高层紧急密会；殡葬高峰到将至，“白肺”频现，奥密克戎为何变强？2022.12.23</a></li>
 <li><a href="/sohnews/20221224/1827696.md">CNN拍到集装箱堆满遗体，打脸中共？病毒锁定中共官员党员？中共最高层染疫？疫情海啸有解方？掩盖疫情，数据压缩一万倍？（2022.12.24）｜世界的十字路口 唐浩</a></li>
+<li><a href="/sohnews/20221224/1827458.md">【直播】传习母齐心染病去世，301官网异常，还有哪些异常迹象？京西宾馆诡异亮灯，中共高层紧急密会；殡葬高峰到将至，“白肺”频现，奥密克戎为何变强？2022.12.23</a></li>
 <li><a href="/cnnews/20221224/1827468.md">死在美国52位中国富二代 竟藏怎样秘密？</a></li>
 <li><a href="/topimagenews/20221224/1827623.md">疫苗真有问题？打三针科兴、国药,确诊生不如死</a></li>
 <li><a href="/sohnews/20221224/1827446.md">“满屏盛传：皇太后驾崩了 ⋯⋯”ShitaoTV - 04 (23 /12/22) 最新情况：301医院页面 全黑屏了！</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20221224/1827682.md">诺奖得主:经济达到临界点 中国将迎来惨败前景</a></li>
 <li><a href="/cbnews/20221224/1827648.md">中国疫情暴冲 专家：恐引发“末日变种”病毒株</a></li>
 <li><a href="/cnnews/20221224/1827683.md">32岁博士染新冠后独自隔离 高热昏厥去世</a></li>
+<li><a href="/cbnews/20221224/1827594.md">退烧药寄回国被海关扣了！华人代购还能啥招？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221225/1827795.md" target="_blank">网海拾贝:昔日强建方舱，今日抢建火化炉</a></li>
+<li><a href="/comments/20221225/1827794.md" target="_blank">颜丹：人性之恶为何会伴随疫情大爆发？</a></li>
+<li><a href="/comments/20221225/1827793.md" target="_blank">沈舟：中共忽演练同时与美日台对战 犯大忌</a></li>
+<li><a href="/comments/20221225/1827792.md" target="_blank">周晓辉：北京疫情现五大现象 背后有密码</a></li>
+<li><a href="/comments/20221225/1827791.md" target="_blank">田云：2022疫情海啸重击中共 跟党走没出路</a></li>
 <li><a href="/comments/20221224/1827736.md" target="_blank">美记者直击：北京近郊病患塞爆医院 火葬场加班也烧不完</a></li>
 <li><a href="/comments/20221224/1827716.md" target="_blank">无法预约运尸车 北京民众只能开私家车运抵八宝山公墓</a></li>
 <li><a href="/comments/20221224/1827664.md" target="_blank">李燕铭：瘟疫重创中南海高官发源地 动摇中共统治根基 清华数十教授密集病亡 示警习近平 中共数十正国级副国级高官出自清华 中共操控清华深度内幕揭秘 清华与中共政权统治体系紧密交织 中共末日之病毒亡共（六）</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20221224/1827483.md" target="_blank">王友群：再谈我为什么退出中国共产党？</a></li>
 <li><a href="/comments/20221224/1827482.md" target="_blank">心升：历史的教训——感悟中共运动因果律</a></li>
 <li><a href="/comments/20221224/1827481.md" target="_blank">一言：这些年我们经历了什么？</a></li>
-<li><a href="/comments/20221224/1827473.md" target="_blank">王赫：当前疫情的危险和中共的谎言</a></li>
-<li><a href="/comments/20221224/1827471.md" target="_blank">恶意提问！</a></li>
-<li><a href="/comments/20221224/1827421.md" target="_blank">如兵荒马乱岁月 中国2022 三十年来最难过一年</a></li>
-<li><a href="/comments/20221224/1827393.md" target="_blank">李燕铭：江泽民死 天灭中共大戏上演！瘟疫重创北京大学深藏玄机 北大是中共发源地与接班人基地 北大与团派关联密切 李克强胡春华陆昊三任团中央第一书记都出自北大 二十大团派团灭中共断后 中共二十大团派团灭内幕（十八） 中共末日之病毒亡共（五）</a></li>
-<li><a href="/comments/20221224/1827383.md" target="_blank">时事大家谈：北京再三拒绝美国防疫援助制度自信还是一尊面子？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
 <li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
 <li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
 
 </ul>
 </div>
