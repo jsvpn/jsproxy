@@ -14,8 +14,8 @@
 <li><a href="/topimagenews/20221223/1827159.md">【微博精粹】党员和领导要做领头“阳” “老同志”横竖躲不过了</a></li>
 <li><a href="/cnnews/20221223/1827212.md">这个专家太无耻了</a></li>
 <li><a href="/topimagenews/20221223/1827218.md">揭缺退烧药内幕 中国药企人士曝罪魁；习近平力挺民营经济，各界心寒反应冷淡；</a></li>
-<li><a href="/topimagenews/20221223/1827319.md">科兴不能再用了！ 中国专家：“灭活疫苗”第4剂一定得换</a></li>
 <li><a href="/cnnews/20221224/1827435.md">他的猝然离世，让“阳康”们震惊 新冠专治各种不服</a></li>
+<li><a href="/topimagenews/20221223/1827319.md">科兴不能再用了！ 中国专家：“灭活疫苗”第4剂一定得换</a></li>
 <li><a href="/cnnews/20221223/1827224.md">发个高烧就喊救命 什么才是无症状、重症和轻症</a></li>
 <li><a href="/cnnews/20221223/1827189.md">骂她私生活混乱，是人们最大的无知</a></li>
 <li><a href="/cnnews/20221223/1827183.md">全羊了：事情的转折出现在上海疫情的处置失当</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/topimagenews/20221223/1827339.md">胡锡进：我的情况不太好！网友乐坏了！【阿波罗网报道】</a></li>
 <li><a href="/headline/20221223/1827351.md">习近平见港特首不再坐「龙椅」 全场只李家超打鲜色领呔</a></li>
 <li><a href="/cbnews/20221223/1827320.md">火化炉全烧坏！中国石家庄殡仪馆扛不住：不收遗体了</a></li>
-<li><a href="/finance/20221223/1827166.md">上海全城沦陷 第一波开始爆发 餐饮实体全军覆没 快递堆积如山</a></li>
 <li><a href="/headline/20221224/1827388.md">专访孔杰荣教授：习近平失去了中国百姓的尊重</a></li>
-<li><a href="/cbnews/20221223/1827110.md">放开后搭乘飞机，半个客舱都在咳</a></li>
+<li><a href="/sohnews/20221224/1827432.md">“习近平傻了？突然进攻推特：北京正在恢复中⋯⋯”ShitaoTV - 03 (23 /12/22) 奥密克戎变脸“非典-SARS 3.0” 全国人民傻眼</a></li>
+<li><a href="/finance/20221223/1827166.md">上海全城沦陷 第一波开始爆发 餐饮实体全军覆没 快递堆积如山</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221224/1827530.md" target="_blank">专访程晓农（上）：2022北京病毒，放开前就已爆发；疫情从北向南蔓延，传播速度与死亡率超过奥米克隆；中央经济会议粉饰太平，房地产是救不活的死骆驼 ｜#方菲时间 12/23/2022</a></li>
 <li><a href="/cbnews/20221224/1827502.md" target="_blank">中国老年新冠患者激增 外媒目睹年长者奄奄一息</a></li>
 <li><a href="/cbnews/20221224/1827497.md" target="_blank">天亮时分：中国疫情大爆发，为什麽如此凶猛？中共党员高官密集S亡，背後有什麽真相？中国人该如何自救？</a></li>
 <li><a href="/comments/20221224/1827471.md" target="_blank">恶意提问！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221222/1826904.md" target="_blank">美华裔专家：预估90天内中国60％人口染疫 病死或达数百万</a></li>
 <li><a href="/cbnews/20221222/1826869.md" target="_blank">中国12月总计感染达2.48亿-国家卫建委会议纪要</a></li>
 <li><a href="/comments/20221222/1826774.md" target="_blank">沈阳老军医指证中共活摘器官集中营（7）关注境外器官移植代理机构</a></li>
-<li><a href="/cbnews/20221222/1826773.md" target="_blank">北京惨况曝光：还有气息叫不到救护车，只能等死</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221224/1827533.md" target="_blank">【疫情大爆发】京大量疫死当局急扩建火化炉 境外寄大陆物资遭截</a></li>
+<li><a href="/comments/20221224/1827530.md" target="_blank">专访程晓农（上）：2022北京病毒，放开前就已爆发；疫情从北向南蔓延，传播速度与死亡率超过奥米克隆；中央经济会议粉饰太平，房地产是救不活的死骆驼 ｜#方菲时间 12/23/2022</a></li>
+<li><a href="/comments/20221224/1827525.md" target="_blank">韩笑：摆脱洗脑控制 甘肃公务员顽固党粉退党了</a></li>
 <li><a href="/comments/20221224/1827501.md" target="_blank">文昭：怪象频现，习近平或将经历最大最後的烂尾！美媒称中国噩梦或称为世界性灾难</a></li>
 <li><a href="/comments/20221224/1827495.md" target="_blank">中国疫情大爆发，为什麽如此凶猛？中共党员高官密集S亡，背後有什麽真相？中国人该如何自救？｜ 老北京茶馆</a></li>
 <li><a href="/comments/20221224/1827483.md" target="_blank">王友群：再谈我为什么退出中国共产党？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221223/1827087.md" target="_blank">习近平就地躺平 仅有一个</a></li>
 <li><a href="/comments/20221223/1827086.md" target="_blank">八筒哦：没有选择 都是借口</a></li>
 <li><a href="/comments/20221223/1827079.md" target="_blank">【大纪元特稿】中国疫情爆发 李洪志大师：瘟疫淘汰邪党份子</a></li>
-<li><a href="/comments/20221223/1827038.md" target="_blank">医疗系统崩溃，病人处境艰难！</a></li>
-<li><a href="/comments/20221223/1826979.md" target="_blank">习：德国的 miao，我们不要</a></li>
-<li><a href="/comments/20221223/1826922.md" target="_blank">时事大家谈：攸关习近平疫情叙事，中共操纵新冠死亡数字？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 
 </ul>
 </div>
