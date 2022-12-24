@@ -15,9 +15,9 @@
 <li><a href="/baitai/20221224/1827445.md">上海百姓：这个现象很奇怪 学者警告最艰难时刻还没来</a></li>
 <li><a href="/ssgc/20221224/1827452.md">〖兲朝浮世绘〗习近平太傲慢酿大祸 德美两国欲救中国人习死活不让</a></li>
 <li><a href="/cnnews/20221224/1827503.md">39岁川大校友染疫去世 死前手握连花清瘟胶囊</a></li>
+<li><a href="/cnnews/20221224/1827703.md">李克强开会提防疫和经济 或再卷入权争？腾讯诸多业务表现差 马化腾语出惊人爆缘由；</a></li>
 <li><a href="/topimagenews/20221224/1827637.md">中国确诊激增 英媒：恐现“末日变种”病毒株使全球退回疫情爆发原点</a></li>
 <li><a href="/sohnews/20221224/1827458.md">【直播】传习母齐心染病去世，301官网异常，还有哪些异常迹象？京西宾馆诡异亮灯，中共高层紧急密会；殡葬高峰到将至，“白肺”频现，奥密克戎为何变强？2022.12.23</a></li>
-<li><a href="/cnnews/20221224/1827703.md">李克强开会提防疫和经济 或再卷入权争？腾讯诸多业务表现差 马化腾语出惊人爆缘由；</a></li>
 <li><a href="/sohnews/20221224/1827696.md">CNN拍到集装箱堆满遗体，打脸中共？病毒锁定中共官员党员？中共最高层染疫？疫情海啸有解方？掩盖疫情，数据压缩一万倍？（2022.12.24）｜世界的十字路口 唐浩</a></li>
 <li><a href="/cnnews/20221224/1827468.md">死在美国52位中国富二代 竟藏怎样秘密？</a></li>
 <li><a href="/topimagenews/20221224/1827623.md">疫苗真有问题？打三针科兴、国药,确诊生不如死</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/cbnews/20221224/1827497.md">天亮时分：中国疫情大爆发，为什麽如此凶猛？中共党员高官密集S亡，背後有什麽真相？中国人该如何自救？</a></li>
 <li><a href="/sohnews/20221224/1827520.md">陈破空：京西宾馆突然亮灯！有高层人物走了？内传他精神不稳定。各市毒株不同太诡异！各省殡仪馆排长龙。北京私立医院床位每天1万5</a></li>
 <li><a href="/cnnews/20221224/1827602.md">警报！餐饮人最黑暗时刻，开始了…..</a></li>
-<li><a href="/sohnews/20221224/1827433.md">“最可怕的现状！没人知道北京病毒 到底是什么？”ShitaoTV - 02 (23 /12/22) 已近3亿人染疫 明春是高峰 习近平“杀掉”中共政权的老人基础</a></li>
+<li><a href="/sohnews/20221224/1827702.md">💥白肺重现，不是奥密克戎？中共专家学者密集离世，病毒长眼了？上海小区内火化，重现印度点火？习母齐心“离世谣言”疯传。｜薇羽看世间 第583期 20221224</a></li>
 <li><a href="/cbnews/20221224/1827648.md">中国疫情暴冲 专家：恐引发“末日变种”病毒株</a></li>
-<li><a href="/cnnews/20221224/1827682.md">诺奖得主:经济达到临界点 中国将迎来惨败前景</a></li>
+<li><a href="/sohnews/20221224/1827433.md">“最可怕的现状！没人知道北京病毒 到底是什么？”ShitaoTV - 02 (23 /12/22) 已近3亿人染疫 明春是高峰 习近平“杀掉”中共政权的老人基础</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
 <li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
 
 </ul>
 </div>
