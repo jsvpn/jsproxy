@@ -19,15 +19,15 @@
 <li><a href="/cnnews/20221223/1827224.md">发个高烧就喊救命 什么才是无症状、重症和轻症</a></li>
 <li><a href="/cnnews/20221223/1827189.md">骂她私生活混乱，是人们最大的无知</a></li>
 <li><a href="/cnnews/20221223/1827183.md">全羊了：事情的转折出现在上海疫情的处置失当</a></li>
-<li><a href="/cbnews/20221223/1827106.md">中共文件泄染疫人数爆增2.48亿 专家揭秘</a></li>
 <li><a href="/sohnews/20221223/1827282.md">习近平已经发出大清洗信号！ 毛泽东用一篇短文启动文革，刘少奇死到临头还浑然不知！（一平论政2022/12/23)</a></li>
 <li><a href="/cnnews/20221223/1827185.md">陈浩民阳了 意外暴露长沙两套豪宅 一个箱子25万</a></li>
 <li><a href="/topimagenews/20221223/1827339.md">胡锡进：我的情况不太好！网友乐坏了！【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20221224/1827432.md">“习近平傻了？突然进攻推特：北京正在恢复中⋯⋯”ShitaoTV - 03 (23 /12/22) 奥密克戎变脸“非典-SARS 3.0” 全国人民傻眼</a></li>
 <li><a href="/headline/20221223/1827351.md">习近平见港特首不再坐「龙椅」 全场只李家超打鲜色领呔</a></li>
 <li><a href="/cbnews/20221223/1827320.md">火化炉全烧坏！中国石家庄殡仪馆扛不住：不收遗体了</a></li>
 <li><a href="/headline/20221224/1827388.md">专访孔杰荣教授：习近平失去了中国百姓的尊重</a></li>
-<li><a href="/sohnews/20221224/1827432.md">“习近平傻了？突然进攻推特：北京正在恢复中⋯⋯”ShitaoTV - 03 (23 /12/22) 奥密克戎变脸“非典-SARS 3.0” 全国人民傻眼</a></li>
 <li><a href="/finance/20221223/1827166.md">上海全城沦陷 第一波开始爆发 餐饮实体全军覆没 快递堆积如山</a></li>
+<li><a href="/cbnews/20221223/1827110.md">放开后搭乘飞机，半个客舱都在咳</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221224/1827557.md" target="_blank">北京殡仪馆爆满 遗体被迫送外省火化</a></li>
+<li><a href="/cbnews/20221224/1827556.md" target="_blank">天亮时分：习近平母亲病逝；网传王沪宁赵乐际染疫，众多高官躺倒，中共政权可能突然脆断；江泽民之死是否标志一个时代的结束？（政论天下第887集 20221223）</a></li>
 <li><a href="/comments/20221224/1827530.md" target="_blank">专访程晓农（上）：2022北京病毒，放开前就已爆发；疫情从北向南蔓延，传播速度与死亡率超过奥米克隆；中央经济会议粉饰太平，房地产是救不活的死骆驼 ｜#方菲时间 12/23/2022</a></li>
 <li><a href="/cbnews/20221224/1827502.md" target="_blank">中国老年新冠患者激增 外媒目睹年长者奄奄一息</a></li>
 <li><a href="/cbnews/20221224/1827497.md" target="_blank">天亮时分：中国疫情大爆发，为什麽如此凶猛？中共党员高官密集S亡，背後有什麽真相？中国人该如何自救？</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20221222/1826915.md" target="_blank">北京成为中国首个大规模感染“超大战场” 急诊处处咳嗽声</a></li>
 <li><a href="/cbnews/20221222/1826914.md" target="_blank">病倒一片 陆多地公共机构严重减员 相继暂停业务办理</a></li>
 <li><a href="/cbnews/20221222/1826904.md" target="_blank">美华裔专家：预估90天内中国60％人口染疫 病死或达数百万</a></li>
-<li><a href="/cbnews/20221222/1826869.md" target="_blank">中国12月总计感染达2.48亿-国家卫建委会议纪要</a></li>
-<li><a href="/comments/20221222/1826774.md" target="_blank">沈阳老军医指证中共活摘器官集中营（7）关注境外器官移植代理机构</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221224/1827555.md" target="_blank">习近平母亲齐心提前了？墙内外传大消息，党国形势不妙，谁能避开？</a></li>
+<li><a href="/comments/20221224/1827543.md" target="_blank">洪博学：习近平的因果循环：成也新冠 败也新冠</a></li>
+<li><a href="/comments/20221224/1827542.md" target="_blank">大纪元：大疫灭中共 人在险路上 别陪红魔灭</a></li>
+<li><a href="/comments/20221224/1827534.md" target="_blank">习近平见港特首不再坐“龙椅” 全场只李家超打鲜色领呔</a></li>
 <li><a href="/comments/20221224/1827533.md" target="_blank">【疫情大爆发】京大量疫死当局急扩建火化炉 境外寄大陆物资遭截</a></li>
 <li><a href="/comments/20221224/1827530.md" target="_blank">专访程晓农（上）：2022北京病毒，放开前就已爆发；疫情从北向南蔓延，传播速度与死亡率超过奥米克隆；中央经济会议粉饰太平，房地产是救不活的死骆驼 ｜#方菲时间 12/23/2022</a></li>
 <li><a href="/comments/20221224/1827525.md" target="_blank">韩笑：摆脱洗脑控制 甘肃公务员顽固党粉退党了</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20221223/1827132.md" target="_blank">河北疾控人员：中国Omicron和Delta正交叉感染</a></li>
 <li><a href="/comments/20221223/1827131.md" target="_blank">中国疫情失控 演艺界多位名人去世</a></li>
 <li><a href="/comments/20221223/1827118.md" target="_blank">【欺世大观】155 红片《洪湖赤卫队》 真相骇人听闻</a></li>
-<li><a href="/comments/20221223/1827117.md" target="_blank">习近平就地躺平 只因口袋没钱了</a></li>
-<li><a href="/comments/20221223/1827087.md" target="_blank">习近平就地躺平 仅有一个</a></li>
-<li><a href="/comments/20221223/1827086.md" target="_blank">八筒哦：没有选择 都是借口</a></li>
-<li><a href="/comments/20221223/1827079.md" target="_blank">【大纪元特稿】中国疫情爆发 李洪志大师：瘟疫淘汰邪党份子</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 <li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
 <li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 
 </ul>
 </div>
