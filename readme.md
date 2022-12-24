@@ -8,7 +8,6 @@
 <li><a href="/cnnews/20221224/1827514.md">中国网络流传凶残霸凌女学生影片</a></li>
 <li><a href="/cbnews/20221224/1827556.md">天亮时分：习近平母亲病逝；网传王沪宁赵乐际染疫，众多高官躺倒，中共政权可能突然脆断；江泽民之死是否标志一个时代的结束？（政论天下第887集 20221223）</a></li>
 <li><a href="/comments/20221224/1827555.md">习近平母亲齐心提前了？墙内外传大消息，党国形势不妙，谁能避开？</a></li>
-<li><a href="/baitai/20221224/1827476.md">习心腹军委副主席张又侠亲自指挥行动？江志成悬了；看不到未来 中国人找到偷渡美国之路【环球看点】</a></li>
 <li><a href="/baitai/20221224/1827621.md">传江泽民孙子被捕 跟疫情有关</a></li>
 <li><a href="/cnnews/20221224/1827503.md">39岁川大校友染疫去世 死前手握连花清瘟胶囊</a></li>
 <li><a href="/cnnews/20221224/1827703.md">李克强开会提防疫和经济 或再卷入权争？腾讯诸多业务表现差 马化腾语出惊人爆缘由；</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/sohnews/20221224/1827696.md">CNN拍到集装箱堆满遗体，打脸中共？病毒锁定中共官员党员？中共最高层染疫？疫情海啸有解方？掩盖疫情，数据压缩一万倍？（2022.12.24）｜世界的十字路口 唐浩</a></li>
 <li><a href="/topimagenews/20221224/1827623.md">疫苗真有问题？打三针科兴、国药,确诊生不如死</a></li>
 <li><a href="/cbnews/20221224/1827497.md">天亮时分：中国疫情大爆发，为什麽如此凶猛？中共党员高官密集S亡，背後有什麽真相？中国人该如何自救？</a></li>
-<li><a href="/sohnews/20221224/1827702.md">💥白肺重现，不是奥密克戎？中共专家学者密集离世，病毒长眼了？上海小区内火化，重现印度点火？习母齐心“离世谣言”疯传。｜薇羽看世间 第583期 20221224</a></li>
 <li><a href="/cnnews/20221224/1827602.md">警报！餐饮人最黑暗时刻，开始了…..</a></li>
+<li><a href="/sohnews/20221224/1827702.md">💥白肺重现，不是奥密克戎？中共专家学者密集离世，病毒长眼了？上海小区内火化，重现印度点火？习母齐心“离世谣言”疯传。｜薇羽看世间 第583期 20221224</a></li>
 <li><a href="/sohnews/20221224/1827520.md">陈破空：京西宾馆突然亮灯！有高层人物走了？内传他精神不稳定。各市毒株不同太诡异！各省殡仪馆排长龙。北京私立医院床位每天1万5</a></li>
 <li><a href="/cnnews/20221224/1827682.md">诺奖得主:经济达到临界点 中国将迎来惨败前景</a></li>
-<li><a href="/cbnews/20221224/1827648.md">中国疫情暴冲 专家：恐引发“末日变种”病毒株</a></li>
 <li><a href="/cbnews/20221224/1827594.md">退烧药寄回国被海关扣了！华人代购还能啥招？</a></li>
+<li><a href="/cbnews/20221224/1827648.md">中国疫情暴冲 专家：恐引发“末日变种”病毒株</a></li>
 <li><a href="/cnnews/20221224/1827683.md">32岁博士染新冠后独自隔离 高热昏厥去世</a></li>
 <li><a href="/sohnews/20221224/1827743.md">解放军总医院网址变黑白色，京西宾馆亮灯；中国一天新增感染超3600万，25天2.5亿人染疫；中国4大直辖市火葬场恐怖直击；中国疫情现灵魂拷问，一文完美解释天机。</a></li>
-<li><a href="/cbnews/20221224/1827582.md">国师胡鞍钢岳父死于新冠，他还认为我们全面超美</a></li>
 <li><a href="/sohnews/20221224/1827729.md">习近平走戈巴契夫老路 宣读中共死亡通知书!中共突袭式解封 不只白纸运动 还有..北京疫情猛 世卫爆解封前早有中共到底隐瞒多久?2022.12.24 @democraticTaiwanChannel</a></li>
+<li><a href="/cbnews/20221224/1827582.md">国师胡鞍钢岳父死于新冠，他还认为我们全面超美</a></li>
 <li><a href="/cnnews/20221224/1827504.md">疫情下的真实农村：一家一家的发烧，排队输液</a></li>
 <li><a href="/sohnews/20221224/1827566.md">京城2地3大异常 习近平母亲离世？</a></li>
+<li><a href="/comments/20221224/1827501.md">文昭：怪象频现，习近平或将经历最大最後的烂尾！美媒称中国噩梦或称为世界性灾难</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
 <li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 
 </ul>
 </div>
