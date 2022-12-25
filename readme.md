@@ -11,23 +11,23 @@
 <li><a href="/sohnews/20221224/1827696.md">CNN拍到集装箱堆满遗体，打脸中共？病毒锁定中共官员党员？中共最高层染疫？疫情海啸有解方？掩盖疫情，数据压缩一万倍？（2022.12.24）｜世界的十字路口 唐浩</a></li>
 <li><a href="/topimagenews/20221224/1827623.md">疫苗真有问题？打三针科兴、国药,确诊生不如死</a></li>
 <li><a href="/topimagenews/20221225/1827780.md">北京一家医院一夜10几人过世！外籍记者曝“秘密任务”</a></li>
-<li><a href="/cnnews/20221224/1827602.md">警报！餐饮人最黑暗时刻，开始了…..</a></li>
 <li><a href="/sohnews/20221224/1827702.md">💥白肺重现，不是奥密克戎？中共专家学者密集离世，病毒长眼了？上海小区内火化，重现印度点火？习母齐心“离世谣言”疯传。｜薇羽看世间 第583期 20221224</a></li>
 <li><a href="/cnnews/20221224/1827682.md">诺奖得主:经济达到临界点 中国将迎来惨败前景</a></li>
 <li><a href="/sohnews/20221224/1827753.md">习近平母亲走了？手拿连花清瘟去世，北京去世天津火化，党员要做领头阳，药品优先给北京，中共接班人危机，危机生存的方法（小木谈天第315期 20221224）</a></li>
 <li><a href="/cbnews/20221224/1827648.md">中国疫情暴冲 专家：恐引发“末日变种”病毒株</a></li>
 <li><a href="/topimagenews/20221225/1827783.md">拜瘟神！敬畏奥密克戎 中国网友们开始了</a></li>
-<li><a href="/cbnews/20221224/1827594.md">退烧药寄回国被海关扣了！华人代购还能啥招？</a></li>
-<li><a href="/sohnews/20221224/1827729.md">习近平走戈巴契夫老路 宣读中共死亡通知书!中共突袭式解封 不只白纸运动 还有..北京疫情猛 世卫爆解封前早有中共到底隐瞒多久?2022.12.24 @democraticTaiwanChannel</a></li>
 <li><a href="/sohnews/20221224/1827743.md">解放军总医院网址变黑白色，京西宾馆亮灯；中国一天新增感染超3600万，25天2.5亿人染疫；中国4大直辖市火葬场恐怖直击；中国疫情现灵魂拷问，一文完美解释天机。</a></li>
-<li><a href="/cnnews/20221224/1827683.md">32岁博士染新冠后独自隔离 高热昏厥去世</a></li>
+<li><a href="/sohnews/20221224/1827729.md">习近平走戈巴契夫老路 宣读中共死亡通知书!中共突袭式解封 不只白纸运动 还有..北京疫情猛 世卫爆解封前早有中共到底隐瞒多久?2022.12.24 @democraticTaiwanChannel</a></li>
 <li><a href="/topimagenews/20221225/1827812.md">泽连斯基正式加冕 美通过关键修正案 美国人解脱 俄罗斯寡头惨</a></li>
-<li><a href="/sohnews/20221225/1827778.md">“重磅！5名医生对话 来自东部战区-南京中医医院-湘潭：传染超强 重症发烧”ShitaoTV - 01 (24 /12/22) 微博微信置顶：肺炎</a></li>
+<li><a href="/cnnews/20221224/1827683.md">32岁博士染新冠后独自隔离 高热昏厥去世</a></li>
 <li><a href="/yule/20221225/1827809.md">范冰冰飞日本求复出 “近况照”粉丝认不出：像阿达一族</a></li>
+<li><a href="/comments/20221225/1827792.md">周晓辉：北京疫情现五大现象 背后有密码</a></li>
+<li><a href="/sohnews/20221225/1827778.md">“重磅！5名医生对话 来自东部战区-南京中医医院-湘潭：传染超强 重症发烧”ShitaoTV - 01 (24 /12/22) 微博微信置顶：肺炎</a></li>
 <li><a href="/topimagenews/20221225/1827785.md">明年，中国经济领头羊将被他俩取代</a></li>
 <li><a href="/baitai/20221224/1827721.md">傻眼！陆媒竟发文称「中国染疫速度全球第一」 网民：这也能拿来炫耀？</a></li>
-<li><a href="/comments/20221225/1827792.md">周晓辉：北京疫情现五大现象 背后有密码</a></li>
 <li><a href="/finance/20221224/1827685.md">中国经济动荡不稳 习近平政策大转弯的真相是…</a></li>
+<li><a href="/cnnews/20221225/1827781.md">中国单亲妈妈发高烧1岁宝宝喂水 监控拍下</a></li>
+<li><a href="/cbnews/20221224/1827606.md">胡锡进确诊连烧5天 网友回：谢谢国家保护3年</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221225/1827918.md" target="_blank">【杰森视角】 你笑中共数据荒唐，中共笑你中招！北京目前每周比往年多火化12000人！“快速过峰”思路下，躺平的干部是好干部！习近平要求疫情为他明年的新政开道！卫健委两套数据为何相差1万倍？</a></li>
 <li><a href="/cbnews/20221225/1827905.md" target="_blank">北京居民爆料：北京自来水检测阳性</a></li>
 <li><a href="/cbnews/20221225/1827891.md" target="_blank">天亮时分：习近平丢失了龙椅，李强挑战习近平，独裁者示弱的危险；两天内八名院士去世，包括推荐双黄连抗疫的蒋华良（政论天下第888集 20221224）</a></li>
 <li><a href="/cbnews/20221225/1827846.md" target="_blank">中共数据造假！青岛和国家卫健委”打起来了“【阿波罗网报道】</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20221223/1827201.md" target="_blank">俄防长宣布大扩军 俄军总兵力将增加到150万</a></li>
 <li><a href="/cbnews/20221223/1827191.md" target="_blank">神韵2023全球演出在即 规模历年之最</a></li>
 <li><a href="/cbnews/20221223/1827187.md" target="_blank">中国疫情爆发 李洪志大师：瘟疫淘汰邪党份子</a></li>
-<li><a href="/cbnews/20221223/1827171.md" target="_blank">江峰：德国、美国疫苗被拒，中共称制度优势药品充足，大饥荒拒外援悲剧重现！德国疫苗用作对台湾统战武器，内幕惊人【江峰漫谈20221222第601期】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221225/1827921.md" target="_blank">网炸锅！“牛逼中国没有疫情了”！中共官方宣布“不再发布每日疫情资讯”</a></li>
 <li><a href="/topimagenews/20221225/1827911.md" target="_blank">【微博精粹】阴的伟大 阳的光荣</a></li>
 <li><a href="/topimagenews/20221225/1827812.md" target="_blank">泽连斯基正式加冕 美通过关键修正案 美国人解脱 俄罗斯寡头惨</a></li>
 <li><a href="/topimagenews/20221225/1827785.md" target="_blank">明年，中国经济领头羊将被他俩取代</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221223/1826964.md" target="_blank">战狼赵立坚疑染疫 妻子发文抱怨买不到药好无助</a></li>
 <li><a href="/topimagenews/20221222/1826851.md" target="_blank">涉及白纸革命？习近平讲话，点名”青少年、网民等重点群体“【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221222/1826763.md" target="_blank">美国全力封杀中国发展芯片 锁定明日新星</a></li>
-<li><a href="/topimagenews/20221222/1826755.md" target="_blank">细思极恐！中国疫情恶化 王丹：重症很多、死亡惊人…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221225/1827918.md" target="_blank">【杰森视角】 你笑中共数据荒唐，中共笑你中招！北京目前每周比往年多火化12000人！“快速过峰”思路下，躺平的干部是好干部！习近平要求疫情为他明年的新政开道！卫健委两套数据为何相差1万倍？</a></li>
 <li><a href="/comments/20221225/1827914.md" target="_blank">墨獠：中共国政治笑话29则</a></li>
 <li><a href="/comments/20221225/1827913.md" target="_blank">白纸诗抄再续</a></li>
 <li><a href="/comments/20221225/1827912.md" target="_blank">某胖:着急了，但根本问题没触及</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221224/1827716.md" target="_blank">无法预约运尸车 北京民众只能开私家车运抵八宝山公墓</a></li>
 <li><a href="/comments/20221224/1827664.md" target="_blank">李燕铭：瘟疫重创中南海高官发源地 动摇中共统治根基 清华数十教授密集病亡 示警习近平 中共数十正国级副国级高官出自清华 中共操控清华深度内幕揭秘 清华与中共政权统治体系紧密交织 中共末日之病毒亡共（六）</a></li>
 <li><a href="/comments/20221224/1827598.md" target="_blank">德媒：世卫最新报告缺乏中国医院数据引发外界关注</a></li>
-<li><a href="/comments/20221224/1827586.md" target="_blank">虎年笔记：清零烂尾了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
 <li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
 
 </ul>
 </div>
