@@ -9,10 +9,8 @@
 <li><a href="/sohnews/20221225/1827845.md">🔥🔥中共高层组团死亡❗中共不敢发讣告❗安静得如同末日来临❗大劫之前 赶紧选择保命❗</a></li>
 <li><a href="/topimagenews/20221225/1827936.md">英媒：习近平搞砸一切！中国疫情失控 企业停摆 恐冲击全球</a></li>
 <li><a href="/baitai/20221225/1827880.md">习 近 平 究 竟 想 干 什 么 ？</a></li>
-<li><a href="/yule/20221225/1827809.md">范冰冰飞日本求复出 “近况照”粉丝认不出：像阿达一族</a></li>
 <li><a href="/cnnews/20221225/1827938.md">多人感染后成重症 一个共同细节 让医生紧急呼吁</a></li>
 <li><a href="/cbnews/20221225/1827905.md">北京居民爆料：北京自来水检测阳性</a></li>
-<li><a href="/topimagenews/20221225/1827812.md">泽连斯基正式加冕 美通过关键修正案 美国人解脱 俄罗斯寡头惨</a></li>
 <li><a href="/baitai/20221225/1827965.md">广州也沦陷！老医生：30年来从未如此惨烈</a></li>
 <li><a href="/topimagenews/20221225/1827999.md">陆网狂猜疫情攻陷央视！主播康辉罕见“连续6天”坐镇主播台</a></li>
 <li><a href="/topimagenews/20221225/1827921.md">网炸锅！“牛逼中国没有疫情了”！中共官方宣布“不再发布每日疫情资讯”</a></li>
@@ -22,12 +20,14 @@
 <li><a href="/sohnews/20221225/1827855.md">北京将全城尽染？没到最可怕的时候？京重症危重症超6成，急救车排成大队；上海染疫超千万，河南已超6千万？【新闻看点 李沐阳12.24】</a></li>
 <li><a href="/cbnews/20221225/1827994.md">为什么不出门也感染？味觉、嗅觉几天能恢复？</a></li>
 <li><a href="/sohnews/20221225/1827870.md">陈破空：中南海染疫，果然倒下一个常委！老胡送药给赵妻？司马南染疫后狂抄狂念佛经。美国再三表示援救中国，土共竟用这两招回应</a></li>
+<li><a href="/baitai/20221225/1828030.md">有意辟谣习近平母亲去世？官媒报导提及齐心的名字</a></li>
 <li><a href="/cbnews/20221225/1827947.md">北京疫情大爆发！急诊每晚死数10人 中共官员：感染高峰将持续3个月</a></li>
 <li><a href="/cnnews/20221225/1827939.md">“今早不用照顾我妈了”…悲曝北京惨况：还有气息叫不到救护车</a></li>
-<li><a href="/baitai/20221225/1828030.md">有意辟谣习近平母亲去世？官媒报导提及齐心的名字</a></li>
 <li><a href="/cnnews/20221225/1827944.md">一个河南的小村庄 沉默地熬过了这场疫情</a></li>
 <li><a href="/topimagenews/20221225/1827911.md">【微博精粹】阴的伟大 阳的光荣</a></li>
 <li><a href="/health/20221225/1827967.md">阳性转阴后，多久才不传染人？牙刷、毛巾会引起二次感染吗？</a></li>
+<li><a href="/sohnews/20221225/1828019.md">陈破空：疫情冲高，撂倒两名政治局常委！北京市委书记发烧，见一事嚎啕大哭！多名驻中大使染疫亡。当局停止发布疫情信息</a></li>
+<li><a href="/cnnews/20221225/1827963.md">美国候机室这一幕太狂 男自备充气床 千人热议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
 
 </ul>
 </div>
