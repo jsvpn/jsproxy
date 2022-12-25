@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20221224/1827703.md">李克强开会提防疫和经济 或再卷入权争？腾讯诸多业务表现差 马化腾语出惊人爆缘由；</a></li>
 <li><a href="/sohnews/20221224/1827753.md">习近平母亲走了？手拿连花清瘟去世，北京去世天津火化，党员要做领头阳，药品优先给北京，中共接班人危机，危机生存的方法（小木谈天第315期 20221224）</a></li>
-<li><a href="/sohnews/20221224/1827696.md">CNN拍到集装箱堆满遗体，打脸中共？病毒锁定中共官员党员？中共最高层染疫？疫情海啸有解方？掩盖疫情，数据压缩一万倍？（2022.12.24）｜世界的十字路口 唐浩</a></li>
 <li><a href="/topimagenews/20221225/1827780.md">北京一家医院一夜10几人过世！外籍记者曝“秘密任务”</a></li>
 <li><a href="/cbnews/20221225/1827891.md">天亮时分：习近平丢失了龙椅，李强挑战习近平，独裁者示弱的危险；两天内八名院士去世，包括推荐双黄连抗疫的蒋华良（政论天下第888集 20221224）</a></li>
 <li><a href="/sohnews/20221224/1827743.md">解放军总医院网址变黑白色，京西宾馆亮灯；中国一天新增感染超3600万，25天2.5亿人染疫；中国4大直辖市火葬场恐怖直击；中国疫情现灵魂拷问，一文完美解释天机。</a></li>
@@ -15,8 +14,8 @@
 <li><a href="/topimagenews/20221225/1827936.md">英媒：习近平搞砸一切！中国疫情失控 企业停摆 恐冲击全球</a></li>
 <li><a href="/baitai/20221225/1827880.md">习 近 平 究 竟 想 干 什 么 ？</a></li>
 <li><a href="/sohnews/20221224/1827729.md">习近平走戈巴契夫老路 宣读中共死亡通知书!中共突袭式解封 不只白纸运动 还有..北京疫情猛 世卫爆解封前早有中共到底隐瞒多久?2022.12.24 @democraticTaiwanChannel</a></li>
-<li><a href="/sohnews/20221225/1827845.md">🔥🔥中共高层组团死亡❗中共不敢发讣告❗安静得如同末日来临❗大劫之前 赶紧选择保命❗</a></li>
 <li><a href="/yule/20221225/1827809.md">范冰冰飞日本求复出 “近况照”粉丝认不出：像阿达一族</a></li>
+<li><a href="/sohnews/20221225/1827845.md">🔥🔥中共高层组团死亡❗中共不敢发讣告❗安静得如同末日来临❗大劫之前 赶紧选择保命❗</a></li>
 <li><a href="/topimagenews/20221225/1827783.md">拜瘟神！敬畏奥密克戎 中国网友们开始了</a></li>
 <li><a href="/cbnews/20221225/1827905.md">北京居民爆料：北京自来水检测阳性</a></li>
 <li><a href="/topimagenews/20221225/1827812.md">泽连斯基正式加冕 美通过关键修正案 美国人解脱 俄罗斯寡头惨</a></li>
@@ -25,9 +24,10 @@
 <li><a href="/topimagenews/20221225/1827785.md">明年，中国经济领头羊将被他俩取代</a></li>
 <li><a href="/comments/20221225/1827792.md">周晓辉：北京疫情现五大现象 背后有密码</a></li>
 <li><a href="/sohnews/20221225/1827778.md">“重磅！5名医生对话 来自东部战区-南京中医医院-湘潭：传染超强 重症发烧”ShitaoTV - 01 (24 /12/22) 微博微信置顶：肺炎</a></li>
-<li><a href="/baitai/20221224/1827721.md">傻眼！陆媒竟发文称「中国染疫速度全球第一」 网民：这也能拿来炫耀？</a></li>
 <li><a href="/cnnews/20221225/1827938.md">多人感染后成重症 一个共同细节 让医生紧急呼吁</a></li>
+<li><a href="/baitai/20221224/1827721.md">傻眼！陆媒竟发文称「中国染疫速度全球第一」 网民：这也能拿来炫耀？</a></li>
 <li><a href="/sohnews/20221225/1827855.md">北京将全城尽染？没到最可怕的时候？京重症危重症超6成，急救车排成大队；上海染疫超千万，河南已超6千万？【新闻看点 李沐阳12.24】</a></li>
+<li><a href="/sohnews/20221225/1827803.md">“英媒断定：习近平正在创造‘末日病毒’”ShitaoTV - 05 (24 /12/22) 全球无人可幸免</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221225/1827995.md" target="_blank">金融时报：中国20天就有2.5亿人确诊</a></li>
+<li><a href="/cbnews/20221225/1827994.md" target="_blank">为什么不出门也感染？味觉、嗅觉几天能恢复？</a></li>
 <li><a href="/cbnews/20221225/1827947.md" target="_blank">北京疫情大爆发！急诊每晚死数10人 中共官员：感染高峰将持续3个月</a></li>
 <li><a href="/cbnews/20221225/1827942.md" target="_blank">现役10种最受欢迎战斗机 第1名毫不意外</a></li>
 <li><a href="/comments/20221225/1827918.md" target="_blank">【杰森视角】 你笑中共数据荒唐，中共笑你中招！北京目前每周比往年多火化12000人！“快速过峰”思路下，躺平的干部是好干部！习近平要求疫情为他明年的新政开道！卫健委两套数据为何相差1万倍？</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20221224/1827471.md" target="_blank">恶意提问！</a></li>
 <li><a href="/cbnews/20221224/1827384.md" target="_blank">推特档案(7)：FBI“抹杀”亨特电脑信息</a></li>
 <li><a href="/cbnews/20221223/1827320.md" target="_blank">火化炉全烧坏！中国石家庄殡仪馆扛不住：不收遗体了</a></li>
-<li><a href="/comments/20221223/1827274.md" target="_blank">吃糖吃了8000年！到底好不好？人为什么会一直想吃糖？！</a></li>
-<li><a href="/cbnews/20221223/1827201.md" target="_blank">俄防长宣布大扩军 俄军总兵力将增加到150万</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 <li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
 <li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
 
 </ul>
 </div>
