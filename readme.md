@@ -14,18 +14,18 @@
 <li><a href="/cbnews/20221225/1827891.md">天亮时分：习近平丢失了龙椅，李强挑战习近平，独裁者示弱的危险；两天内八名院士去世，包括推荐双黄连抗疫的蒋华良（政论天下第888集 20221224）</a></li>
 <li><a href="/cnnews/20221224/1827682.md">诺奖得主:经济达到临界点 中国将迎来惨败前景</a></li>
 <li><a href="/baitai/20221225/1827880.md">习 近 平 究 竟 想 干 什 么 ？</a></li>
-<li><a href="/sohnews/20221225/1827845.md">🔥🔥中共高层组团死亡❗中共不敢发讣告❗安静得如同末日来临❗大劫之前 赶紧选择保命❗</a></li>
 <li><a href="/sohnews/20221224/1827729.md">习近平走戈巴契夫老路 宣读中共死亡通知书!中共突袭式解封 不只白纸运动 还有..北京疫情猛 世卫爆解封前早有中共到底隐瞒多久?2022.12.24 @democraticTaiwanChannel</a></li>
+<li><a href="/sohnews/20221225/1827845.md">🔥🔥中共高层组团死亡❗中共不敢发讣告❗安静得如同末日来临❗大劫之前 赶紧选择保命❗</a></li>
 <li><a href="/yule/20221225/1827809.md">范冰冰飞日本求复出 “近况照”粉丝认不出：像阿达一族</a></li>
-<li><a href="/topimagenews/20221225/1827812.md">泽连斯基正式加冕 美通过关键修正案 美国人解脱 俄罗斯寡头惨</a></li>
 <li><a href="/topimagenews/20221225/1827783.md">拜瘟神！敬畏奥密克戎 中国网友们开始了</a></li>
-<li><a href="/cnnews/20221224/1827683.md">32岁博士染新冠后独自隔离 高热昏厥去世</a></li>
+<li><a href="/topimagenews/20221225/1827812.md">泽连斯基正式加冕 美通过关键修正案 美国人解脱 俄罗斯寡头惨</a></li>
 <li><a href="/cbnews/20221225/1827905.md">北京居民爆料：北京自来水检测阳性</a></li>
+<li><a href="/cnnews/20221224/1827683.md">32岁博士染新冠后独自隔离 高热昏厥去世</a></li>
+<li><a href="/topimagenews/20221225/1827936.md">英媒：习近平搞砸一切！中国疫情失控 企业停摆 恐冲击全球</a></li>
 <li><a href="/comments/20221225/1827792.md">周晓辉：北京疫情现五大现象 背后有密码</a></li>
+<li><a href="/cbnews/20221225/1827846.md">中共数据造假！青岛和国家卫健委”打起来了“【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221225/1827785.md">明年，中国经济领头羊将被他俩取代</a></li>
 <li><a href="/sohnews/20221225/1827778.md">“重磅！5名医生对话 来自东部战区-南京中医医院-湘潭：传染超强 重症发烧”ShitaoTV - 01 (24 /12/22) 微博微信置顶：肺炎</a></li>
-<li><a href="/cbnews/20221225/1827846.md">中共数据造假！青岛和国家卫健委”打起来了“【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221225/1827936.md">英媒：习近平搞砸一切！中国疫情失控 企业停摆 恐冲击全球</a></li>
 <li><a href="/baitai/20221224/1827721.md">傻眼！陆媒竟发文称「中国染疫速度全球第一」 网民：这也能拿来炫耀？</a></li>
 <li><a href="/sohnews/20221225/1827855.md">北京将全城尽染？没到最可怕的时候？京重症危重症超6成，急救车排成大队；上海染疫超千万，河南已超6千万？【新闻看点 李沐阳12.24】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 <li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
 <li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
 <li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
 
 </ul>
 </div>
