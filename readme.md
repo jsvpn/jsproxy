@@ -11,23 +11,23 @@
 <li><a href="/cbnews/20221225/1827891.md">天亮时分：习近平丢失了龙椅，李强挑战习近平，独裁者示弱的危险；两天内八名院士去世，包括推荐双黄连抗疫的蒋华良（政论天下第888集 20221224）</a></li>
 <li><a href="/topimagenews/20221225/1827936.md">英媒：习近平搞砸一切！中国疫情失控 企业停摆 恐冲击全球</a></li>
 <li><a href="/sohnews/20221224/1827729.md">习近平走戈巴契夫老路 宣读中共死亡通知书!中共突袭式解封 不只白纸运动 还有..北京疫情猛 世卫爆解封前早有中共到底隐瞒多久?2022.12.24 @democraticTaiwanChannel</a></li>
-<li><a href="/baitai/20221225/1827880.md">习 近 平 究 竟 想 干 什 么 ？</a></li>
 <li><a href="/sohnews/20221225/1827845.md">🔥🔥中共高层组团死亡❗中共不敢发讣告❗安静得如同末日来临❗大劫之前 赶紧选择保命❗</a></li>
+<li><a href="/baitai/20221225/1827880.md">习 近 平 究 竟 想 干 什 么 ？</a></li>
 <li><a href="/yule/20221225/1827809.md">范冰冰飞日本求复出 “近况照”粉丝认不出：像阿达一族</a></li>
 <li><a href="/topimagenews/20221225/1827783.md">拜瘟神！敬畏奥密克戎 中国网友们开始了</a></li>
+<li><a href="/sohnews/20221225/1827778.md">“重磅！5名医生对话 来自东部战区-南京中医医院-湘潭：传染超强 重症发烧”ShitaoTV - 01 (24 /12/22) 微博微信置顶：肺炎</a></li>
 <li><a href="/cbnews/20221225/1827905.md">北京居民爆料：北京自来水检测阳性</a></li>
 <li><a href="/topimagenews/20221225/1827812.md">泽连斯基正式加冕 美通过关键修正案 美国人解脱 俄罗斯寡头惨</a></li>
 <li><a href="/topimagenews/20221225/1827785.md">明年，中国经济领头羊将被他俩取代</a></li>
-<li><a href="/sohnews/20221225/1827778.md">“重磅！5名医生对话 来自东部战区-南京中医医院-湘潭：传染超强 重症发烧”ShitaoTV - 01 (24 /12/22) 微博微信置顶：肺炎</a></li>
 <li><a href="/cnnews/20221225/1827938.md">多人感染后成重症 一个共同细节 让医生紧急呼吁</a></li>
 <li><a href="/topimagenews/20221225/1827921.md">网炸锅！“牛逼中国没有疫情了”！中共官方宣布“不再发布每日疫情资讯”</a></li>
 <li><a href="/cbnews/20221225/1827846.md">中共数据造假！青岛和国家卫健委”打起来了“【阿波罗网报道】</a></li>
 <li><a href="/comments/20221225/1827792.md">周晓辉：北京疫情现五大现象 背后有密码</a></li>
 <li><a href="/sohnews/20221225/1827855.md">北京将全城尽染？没到最可怕的时候？京重症危重症超6成，急救车排成大队；上海染疫超千万，河南已超6千万？【新闻看点 李沐阳12.24】</a></li>
-<li><a href="/baitai/20221224/1827721.md">傻眼！陆媒竟发文称「中国染疫速度全球第一」 网民：这也能拿来炫耀？</a></li>
 <li><a href="/cnnews/20221225/1827956.md">上海两千万人静默三个月的代价，白白浪费了</a></li>
-<li><a href="/sohnews/20221225/1827803.md">“英媒断定：习近平正在创造‘末日病毒’”ShitaoTV - 05 (24 /12/22) 全球无人可幸免</a></li>
 <li><a href="/sohnews/20221225/1827870.md">陈破空：中南海染疫，果然倒下一个常委！老胡送药给赵妻？司马南染疫后狂抄狂念佛经。美国再三表示援救中国，土共竟用这两招回应</a></li>
+<li><a href="/sohnews/20221225/1827803.md">“英媒断定：习近平正在创造‘末日病毒’”ShitaoTV - 05 (24 /12/22) 全球无人可幸免</a></li>
+<li><a href="/cnnews/20221225/1827781.md">中国单亲妈妈发高烧1岁宝宝喂水 监控拍下</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
 
 </ul>
 </div>
