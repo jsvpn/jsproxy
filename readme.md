@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cbnews/20221225/1827891.md">天亮时分：习近平丢失了龙椅，李强挑战习近平，独裁者示弱的危险；两天内八名院士去世，包括推荐双黄连抗疫的蒋华良（政论天下第888集 20221224）</a></li>
 <li><a href="/topimagenews/20221225/1827936.md">英媒：习近平搞砸一切！中国疫情失控 企业停摆 恐冲击全球</a></li>
 <li><a href="/cnnews/20221225/1827938.md">多人感染后成重症 一个共同细节 让医生紧急呼吁</a></li>
 <li><a href="/baitai/20221225/1827965.md">广州也沦陷！老医生：30年来从未如此惨烈</a></li>
@@ -14,19 +13,20 @@
 <li><a href="/topimagenews/20221225/1827921.md">网炸锅！“牛逼中国没有疫情了”！中共官方宣布“不再发布每日疫情资讯”</a></li>
 <li><a href="/cbnews/20221225/1828024.md">鲍彤女儿：京西宾馆突然亮灯 传301医院堵路</a></li>
 <li><a href="/cnnews/20221225/1827956.md">上海两千万人静默三个月的代价，白白浪费了</a></li>
+<li><a href="/sohnews/20221226/1828054.md">“网传：朱镕基昨日离世 齐心病逝被辟谣”ShitaoTV - 01 (25 /12/22) 盛传郑州 成都 北京已开始人头簇拥⋯⋯没事儿啦？</a></li>
 <li><a href="/baitai/20221225/1828030.md">有意辟谣习近平母亲去世？官媒报导提及齐心的名字</a></li>
 <li><a href="/cbnews/20221225/1827994.md">为什么不出门也感染？味觉、嗅觉几天能恢复？</a></li>
-<li><a href="/sohnews/20221226/1828054.md">“网传：朱镕基昨日离世 齐心病逝被辟谣”ShitaoTV - 01 (25 /12/22) 盛传郑州 成都 北京已开始人头簇拥⋯⋯没事儿啦？</a></li>
 <li><a href="/topimagenews/20221226/1828075.md">我们身边到底会死多少人？14亿人民才发现集体被忽悠了</a></li>
-<li><a href="/cnnews/20221225/1827939.md">“今早不用照顾我妈了”…悲曝北京惨况：还有气息叫不到救护车</a></li>
-<li><a href="/cbnews/20221225/1827947.md">北京疫情大爆发！急诊每晚死数10人 中共官员：感染高峰将持续3个月</a></li>
-<li><a href="/topimagenews/20221225/1827911.md">【微博精粹】阴的伟大 阳的光荣</a></li>
 <li><a href="/cnnews/20221226/1828079.md">12月“阳”的这批人，产生了“怪怪”的后遗症…</a></li>
-<li><a href="/cnnews/20221225/1827944.md">一个河南的小村庄 沉默地熬过了这场疫情</a></li>
+<li><a href="/cnnews/20221225/1827939.md">“今早不用照顾我妈了”…悲曝北京惨况：还有气息叫不到救护车</a></li>
+<li><a href="/topimagenews/20221226/1828085.md">中共大变脸！民企心寒：经济差了叫我企业家，经济好了叫我资本家</a></li>
+<li><a href="/cbnews/20221225/1827947.md">北京疫情大爆发！急诊每晚死数10人 中共官员：感染高峰将持续3个月</a></li>
 <li><a href="/comments/20221226/1828051.md">北京第二外国语学院持续封控，部分师生聚集抗议后，宣布自行解封！</a></li>
+<li><a href="/topimagenews/20221225/1827911.md">【微博精粹】阴的伟大 阳的光荣</a></li>
+<li><a href="/cnnews/20221225/1827944.md">一个河南的小村庄 沉默地熬过了这场疫情</a></li>
 <li><a href="/sohnews/20221225/1828019.md">陈破空：疫情冲高，撂倒两名政治局常委！北京市委书记发烧，见一事嚎啕大哭！多名驻中大使染疫亡。当局停止发布疫情信息</a></li>
+<li><a href="/cnnews/20221226/1828081.md">今年的圣诞节、咋没人抵制了？</a></li>
 <li><a href="/comments/20221226/1828052.md">中国某县城医院的现状！</a></li>
-<li><a href="/health/20221225/1827967.md">阳性转阴后，多久才不传染人？牙刷、毛巾会引起二次感染吗？</a></li>
 <li><a href="/ssgc/20221225/1828020.md">希望你永远听不懂 “9 号再来”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221226/1828135.md" target="_blank">晋鸥：不平凡的回国之路</a></li>
+<li><a href="/comments/20221226/1828134.md" target="_blank">亦宛然：疫情大爆发中的祖国家人们安好否？</a></li>
 <li><a href="/comments/20221226/1828120.md" target="_blank">王枻坤：人已转阴，药还没到</a></li>
 <li><a href="/comments/20221226/1828119.md" target="_blank">饶毅又怼张文宏，聊聊他俩到底谁更“专业”</a></li>
 <li><a href="/comments/20221226/1828118.md" target="_blank">攻击张文宏的这篇文章，为什么最后攻击的却是他自己？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221225/1827837.md" target="_blank">李医生时至今日 才懂那时您的无奈和绝望</a></li>
 <li><a href="/comments/20221225/1827836.md" target="_blank">左拾遗：南昌女子公开露面回应：看到警方通报，我觉得很可笑</a></li>
 <li><a href="/comments/20221225/1827835.md" target="_blank">维舟:为什么有必要警惕饶毅们</a></li>
-<li><a href="/comments/20221225/1827831.md" target="_blank">贾斯柏·贝克新著：福奇阻挠对病毒起源调查</a></li>
-<li><a href="/comments/20221225/1827830.md" target="_blank">林保华:防疫失控：轻伤不下火线，党魁却躺平</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
 <li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 
 </ul>
 </div>
