@@ -16,17 +16,17 @@
 <li><a href="/sohnews/20221226/1828259.md">胡习同行告别江，仇人相见，分外眼红</a></li>
 <li><a href="/topimagenews/20221226/1828178.md">印度神童最新预言曝光 台湾中国美国世界吓到 小心1、2月</a></li>
 <li><a href="/sohnews/20221226/1828090.md">🔥🔥中国现致命新病毒，医生警告：更猛的死亡潮即将到来❗如何保命❓</a></li>
-<li><a href="/topimagenews/20221226/1828276.md">赵立坚确诊 胡锡进送药？他说送4颗、她说收4颗！“邻居送药”引爆“绿帽说”</a></li>
-<li><a href="/sohnews/20221226/1828155.md">陈破空：惊传朱镕基染疫离世？果如此，胡温危矣！五万人潮追悼江泽民，原是习近平下的一盘大棋？习派为习母辟谣，暗示皇太后待遇</a></li>
 <li><a href="/topimagenews/20221226/1828374.md">又一个中共常委缺席会议！真出事了？【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20221226/1828155.md">陈破空：惊传朱镕基染疫离世？果如此，胡温危矣！五万人潮追悼江泽民，原是习近平下的一盘大棋？习派为习母辟谣，暗示皇太后待遇</a></li>
+<li><a href="/topimagenews/20221226/1828276.md">赵立坚确诊 胡锡进送药？他说送4颗、她说收4颗！“邻居送药”引爆“绿帽说”</a></li>
 <li><a href="/cbnews/20221226/1828116.md">大逆转? 敏感时刻！传习近平母亲离世 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221226/1828121.md">扩散快速！已占全美病例18%，美国拉响警报</a></li>
 <li><a href="/topimagenews/20221226/1828210.md">警告：与逝者告别时“太靠近”恐酿人命，网吓疯</a></li>
 <li><a href="/cnnews/hknews/20221226/1828224.md">大陆女自曝：嫁港公务员“太香” 褔利好到惊人</a></li>
 <li><a href="/sohnews/20221226/1828254.md">防火墙之父“方滨兴”染疫！心跳加速；李强、李克强，两个指挥部！习近平之母新消息；带货争议药物“双黄连”，蒋华良亡；中共卫健委宣布停止公布每日疫情讯息，为何？长春殡仪爆满，浙江爆发</a></li>
+<li><a href="/cbnews/20221226/1828355.md">“不再清零后”习近平首度发声 强调开展爱国卫生运动</a></li>
 <li><a href="/topimagenews/20221226/1828250.md">疫情大爆发！浙江医院惊现喜报：热烈庆祝疫情急诊200万人…</a></li>
 <li><a href="/topimagenews/20221226/1828063.md">华女回国入境“落地就阳”，隔离+治疗花费过万 当局闷声发大财</a></li>
-<li><a href="/cbnews/20221226/1828355.md">“不再清零后”习近平首度发声 强调开展爱国卫生运动</a></li>
 <li><a href="/cbnews/20221226/1828196.md">上海女在餐点备注“阳了没饭吃”！外送竟多出4颗退烧药激动喊：超感动</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221227/1828454.md" target="_blank">殡仪馆外抬尸体的人流！</a></li>
 <li><a href="/cbnews/20221227/1828442.md" target="_blank">中国人学习“与病毒共存” 北京上海地铁满是通勤族、市集乐园涌人潮</a></li>
 <li><a href="/cbnews/20221226/1828355.md" target="_blank">“不再清零后”习近平首度发声 强调开展爱国卫生运动</a></li>
 <li><a href="/cbnews/20221226/1828354.md" target="_blank">大水冲翻龙王庙 陆官方学术网络数据库违反反垄断法遭重罚</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221225/1827905.md" target="_blank">北京居民爆料：北京自来水检测阳性</a></li>
 <li><a href="/cbnews/20221225/1827891.md" target="_blank">天亮时分：习近平丢失了龙椅，李强挑战习近平，独裁者示弱的危险；两天内八名院士去世，包括推荐双黄连抗疫的蒋华良（政论天下第888集 20221224）</a></li>
 <li><a href="/cbnews/20221225/1827846.md" target="_blank">中共数据造假！青岛和国家卫健委”打起来了“【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20221224/1827665.md" target="_blank">辽宁舰军演2天起降180次 日出动准航母监控</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221227/1828454.md" target="_blank">殡仪馆外抬尸体的人流！</a></li>
 <li><a href="/comments/20221226/1828402.md" target="_blank">时事大家谈：中国疫情黑洞深不可测，世界担心再受殃及？</a></li>
 <li><a href="/comments/20221226/1828400.md" target="_blank">时事大家谈：从亲自到甩手，习近平清零溃败如何向国人交代？</a></li>
 <li><a href="/comments/20221226/1828385.md" target="_blank">12/26 【时事大家谈】从亲自到甩手，习近平清零溃败如何向国人交代？中国疫情黑洞深不可测，世界担心再度受到冲击？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221226/1828119.md" target="_blank">饶毅又怼张文宏，聊聊他俩到底谁更“专业”</a></li>
 <li><a href="/comments/20221226/1828118.md" target="_blank">攻击张文宏的这篇文章，为什么最后攻击的却是他自己？</a></li>
 <li><a href="/comments/20221226/1828091.md" target="_blank">李燕铭：瘟疫横扫中共文艺圈 周恩来江泽民重点扶植的北京人艺噩耗连连 北京人艺表演艺术家郑榕病亡 曾多次扮演中共领导人董必武 北京人艺导演蓝天野病亡 曾为中共地下党员 北京人艺院长中共党员任鸣病亡 中共末日之病毒亡共（七）</a></li>
-<li><a href="/comments/20221226/1828088.md" target="_blank">专访程晓农（下）：被中共打压产业已难起死回生；政策推动下，中国经济早已向悬崖狂奔；下一个最可怕的危机即将到来 ｜#方菲时间 12/25/2022</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
 <li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开中共肺炎的妙招（修订版）</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
 
 </ul>
 </div>
