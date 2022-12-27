@@ -13,12 +13,11 @@
 <li><a href="/sohnews/20221227/1828451.md">各位请看，习近平脱稿讲话是个什么样子</a></li>
 <li><a href="/cbnews/20221226/1828355.md">“不再清零后”习近平首度发声 强调开展爱国卫生运动</a></li>
 <li><a href="/cnnews/20221227/1828475.md">扫地机器人泄露户主不雅照片 谁干的? iRobot回应</a></li>
-<li><a href="/baitai/20221227/1828503.md">中国网民：这消息让我瑟瑟发抖</a></li>
 <li><a href="/topimagenews/20221226/1828276.md">赵立坚确诊 胡锡进送药？他说送4颗、她说收4颗！“邻居送药”引爆“绿帽说”</a></li>
+<li><a href="/baitai/20221227/1828503.md">中国网民：这消息让我瑟瑟发抖</a></li>
 <li><a href="/comments/20221227/1828460.md">村长用大喇叭怒斥当局的防疫政策！</a></li>
 <li><a href="/topimagenews/20221227/1828570.md">忍无可忍：戳穿6个一直愚弄老百姓的新冠真相</a></li>
 <li><a href="/comments/20221226/1828318.md">最著名占星家珍妮·迪克逊看到真相！预言都被证实！天意难违，美国总统的家族之谜。</a></li>
-<li><a href="/cnnews/hknews/20221226/1828224.md">大陆女自曝：嫁港公务员“太香” 褔利好到惊人</a></li>
 <li><a href="/comments/20221227/1828454.md">殡仪馆外抬尸体的人流！</a></li>
 <li><a href="/cnnews/20221227/1828484.md">这是红二十五军后代发的退群声明</a></li>
 <li><a href="/sohnews/20221226/1828254.md">防火墙之父“方滨兴”染疫！心跳加速；李强、李克强，两个指挥部！习近平之母新消息；带货争议药物“双黄连”，蒋华良亡；中共卫健委宣布停止公布每日疫情讯息，为何？长春殡仪爆满，浙江爆发</a></li>
@@ -27,7 +26,8 @@
 <li><a href="/topimagenews/20221226/1828250.md">疫情大爆发！浙江医院惊现喜报：热烈庆祝疫情急诊200万人…</a></li>
 <li><a href="/sohnews/20221227/1828462.md">“攻陷常委！习近平首次回应：中共北京大爆发！”ShitaoTV - 02 (26 /12/22) 赵乐际很可能中招儿甚或重症 王沪宁李希先后中招儿</a></li>
 <li><a href="/lifebaike/20221226/1828281.md">“阳康”以后要注意什么？牢记1不做、2不忘、3不碰、4要吃</a></li>
-<li><a href="/cnnews/20221226/1828228.md">俄瓦格纳集团崩溃中！整团佣兵集体投降 俄军弃守阵地遭长官爆打</a></li>
+<li><a href="/topimagenews/20221227/1828548.md">习近平：大学生到乡 企业家入乡 能人回乡…</a></li>
+<li><a href="/cnnews/20221227/1828625.md">中国政治笑话29则</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221227/1828690.md" target="_blank">2022牵动世界的五大军事热点</a></li>
 <li><a href="/cbnews/20221227/1828663.md" target="_blank">大爆发中 中共政策大转向！关键时刻 推动全世界走进炼狱【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221227/1828656.md" target="_blank">中国正逐渐与病毒共存 疫情峰值仍未到</a></li>
 <li><a href="/cbnews/20221227/1828654.md" target="_blank">中国宣布取消入境隔离措施 将“新冠肺炎”更名为“新冠感染”</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20221226/1828195.md" target="_blank">21岁准新娘高烧“诊所连打3针”…抽搐口吐白沫亡！家属泪讨真相</a></li>
 <li><a href="/cbnews/20221226/1828128.md" target="_blank">天亮时分：病毒攻陷央视？六天没换主播；三十一年前的今天，发生了一件震动世界的大事；港媒辟谣：习的母亲齐心未死；（政论天下第889集 20221225）</a></li>
 <li><a href="/cbnews/20221226/1828116.md" target="_blank">大逆转? 敏感时刻！传习近平母亲离世 【阿波罗网报道】</a></li>
-<li><a href="/comments/20221226/1828088.md" target="_blank">专访程晓农（下）：被中共打压产业已难起死回生；政策推动下，中国经济早已向悬崖狂奔；下一个最可怕的危机即将到来 ｜#方菲时间 12/25/2022</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221227/1828692.md" target="_blank">中共疫情蔓延之际开放国境 多国设入境管制应对</a></li>
 <li><a href="/topimagenews/20221227/1828675.md" target="_blank">中国将放开出境 北京立刻出现这一幕…</a></li>
 <li><a href="/topimagenews/20221227/1828674.md" target="_blank">就中国经济，摩根与世界银行谁在胡扯？中共解封拼经济难如愿；</a></li>
 <li><a href="/topimagenews/20221227/1828655.md" target="_blank">小米大裁员5000人 震撼科技业 联发科、鸿海、大立光、友达遭重击</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20221226/1828075.md" target="_blank">我们身边到底会死多少人？14亿人民才发现集体被忽悠了</a></li>
 <li><a href="/topimagenews/20221226/1828067.md" target="_blank">中共国邪性 东北老板免费发退烧药，药被抢却无人帮忙：被气哭</a></li>
 <li><a href="/topimagenews/20221226/1828063.md" target="_blank">华女回国入境“落地就阳”，隔离+治疗花费过万 当局闷声发大财</a></li>
-<li><a href="/topimagenews/20221225/1827999.md" target="_blank">陆网狂猜疫情攻陷央视！主播康辉罕见“连续6天”坐镇主播台</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 <li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
 
 </ul>
 </div>
