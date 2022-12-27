@@ -14,18 +14,18 @@
 <li><a href="/sohnews/20221226/1828155.md">陈破空：惊传朱镕基染疫离世？果如此，胡温危矣！五万人潮追悼江泽民，原是习近平下的一盘大棋？习派为习母辟谣，暗示皇太后待遇</a></li>
 <li><a href="/topimagenews/20221226/1828276.md">赵立坚确诊 胡锡进送药？他说送4颗、她说收4颗！“邻居送药”引爆“绿帽说”</a></li>
 <li><a href="/sohnews/20221227/1828451.md">各位请看，习近平脱稿讲话是个什么样子</a></li>
-<li><a href="/cbnews/20221226/1828355.md">“不再清零后”习近平首度发声 强调开展爱国卫生运动</a></li>
 <li><a href="/comments/20221227/1828460.md">村长用大喇叭怒斥当局的防疫政策！</a></li>
+<li><a href="/cbnews/20221226/1828355.md">“不再清零后”习近平首度发声 强调开展爱国卫生运动</a></li>
 <li><a href="/sohnews/20221226/1828377.md">陈破空：果真有大人物死亡？外交部发言人强烈暗示！彭丽媛恩师染疫亡。快讯：广东惊天巨响！华春莹矫情遭围剿</a></li>
 <li><a href="/topimagenews/20221226/1828210.md">警告：与逝者告别时“太靠近”恐酿人命，网吓疯</a></li>
 <li><a href="/cnnews/hknews/20221226/1828224.md">大陆女自曝：嫁港公务员“太香” 褔利好到惊人</a></li>
-<li><a href="/comments/20221226/1828318.md">最著名占星家珍妮·迪克逊看到真相！预言都被证实！天意难违，美国总统的家族之谜。</a></li>
-<li><a href="/sohnews/20221226/1828254.md">防火墙之父“方滨兴”染疫！心跳加速；李强、李克强，两个指挥部！习近平之母新消息；带货争议药物“双黄连”，蒋华良亡；中共卫健委宣布停止公布每日疫情讯息，为何？长春殡仪爆满，浙江爆发</a></li>
-<li><a href="/comments/20221227/1828454.md">殡仪馆外抬尸体的人流！</a></li>
-<li><a href="/topimagenews/20221227/1828432.md">不用隔离了 “入境中国”最新规则公布：仍须48小时前阴性证明</a></li>
 <li><a href="/cnnews/20221227/1828475.md">扫地机器人泄露户主不雅照片 谁干的? iRobot回应</a></li>
-<li><a href="/cnnews/20221226/1828267.md">马克龙辞职,英国反悔脱欧…2023会有哪些黑天鹅</a></li>
+<li><a href="/comments/20221226/1828318.md">最著名占星家珍妮·迪克逊看到真相！预言都被证实！天意难违，美国总统的家族之谜。</a></li>
+<li><a href="/comments/20221227/1828454.md">殡仪馆外抬尸体的人流！</a></li>
+<li><a href="/sohnews/20221226/1828254.md">防火墙之父“方滨兴”染疫！心跳加速；李强、李克强，两个指挥部！习近平之母新消息；带货争议药物“双黄连”，蒋华良亡；中共卫健委宣布停止公布每日疫情讯息，为何？长春殡仪爆满，浙江爆发</a></li>
+<li><a href="/topimagenews/20221227/1828432.md">不用隔离了 “入境中国”最新规则公布：仍须48小时前阴性证明</a></li>
 <li><a href="/topimagenews/20221226/1828250.md">疫情大爆发！浙江医院惊现喜报：热烈庆祝疫情急诊200万人…</a></li>
+<li><a href="/cnnews/20221226/1828267.md">马克龙辞职,英国反悔脱欧…2023会有哪些黑天鹅</a></li>
 <li><a href="/cnnews/20221226/1828219.md">俄罗斯经济快垮了？当地人揭1现象激增：恐迎失落10年</a></li>
 <li><a href="/cbnews/20221226/1828196.md">上海女在餐点备注“阳了没饭吃”！外送竟多出4颗退烧药激动喊：超感动</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221227/1828593.md" target="_blank">一边天堂 一边地狱！广州音乐会爆满 殡仪馆也是</a></li>
 <li><a href="/cbnews/20221227/1828547.md" target="_blank">江峰：解封後的中国，为何与世界完全不同？江峰、章天亮、方伟、李沐阳、唐靖远同台直播，有什麽不同见解？</a></li>
 <li><a href="/comments/20221227/1828524.md" target="_blank">解封后的中国，为何与世界完全不同？江峰、章天亮、方伟、李沐阳、唐靖远同台直播，有什么不同见解？｜#时事大聚焦 12/26/2022</a></li>
 <li><a href="/cbnews/20221227/1828521.md" target="_blank">天亮时分：解封後的中国，为何与世界完全不同？江峰、章天亮、方伟、李沐阳、唐靖远同台直播，有什麽不同见解？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221225/1828031.md" target="_blank">病毒卷土重来回到2019？ 大陆医护纷贴图展示“白肺”</a></li>
 <li><a href="/cbnews/20221225/1828024.md" target="_blank">鲍彤女儿：京西宾馆突然亮灯 传301医院堵路</a></li>
 <li><a href="/cbnews/20221225/1827995.md" target="_blank">金融时报：中国20天就有2.5亿人确诊</a></li>
-<li><a href="/cbnews/20221225/1827994.md" target="_blank">为什么不出门也感染？味觉、嗅觉几天能恢复？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221227/1828603.md" target="_blank">【欺世大观】161 性乱 从进化论开始</a></li>
+<li><a href="/comments/20221227/1828602.md" target="_blank">杨宪宏：泽伦斯基站在美国国会 接下来可能是台湾立法院长游锡堃</a></li>
 <li><a href="/comments/20221227/1828541.md" target="_blank">文昭：坏了，一尊要亲自撸农业了！立春三连锤，病与饿有个约会？战天斗地骚操作的一个经典案例</a></li>
 <li><a href="/comments/20221227/1828526.md" target="_blank">恐龙吃哺乳动物 科学家找到最早的证据</a></li>
 <li><a href="/comments/20221227/1828524.md" target="_blank">解封后的中国，为何与世界完全不同？江峰、章天亮、方伟、李沐阳、唐靖远同台直播，有什么不同见解？｜#时事大聚焦 12/26/2022</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20221226/1828334.md" target="_blank">新冠病毒性肺炎为什么用抗艾滋药物？</a></li>
 <li><a href="/comments/20221226/1828318.md" target="_blank">最著名占星家珍妮·迪克逊看到真相！预言都被证实！天意难违，美国总统的家族之谜。</a></li>
 <li><a href="/comments/20221226/1828308.md" target="_blank">无神论的中共为什么需要人发誓？</a></li>
-<li><a href="/comments/20221226/1828304.md" target="_blank">朝鲜无人机飞临首尔！南韩战机升空应对坠毁</a></li>
-<li><a href="/comments/20221226/1828303.md" target="_blank">出现新变异病毒还是原始毒株重现？ 中国医护纷贴恐怖“白肺”照</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
 <li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
 
 </ul>
 </div>
