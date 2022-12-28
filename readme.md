@@ -10,24 +10,24 @@
 <li><a href="/cnnews/20221228/1828926.md">好消息：美签下周恢复 入境隔离取消 坏消息是…</a></li>
 <li><a href="/headline/20221228/1828903.md">习近平再提毛式政治口号救经济 学者：异想天开无操作性</a></li>
 <li><a href="/topimagenews/20221227/1828846.md">闻所未闻！大陆企业竟然放假450天！【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20221228/1829078.md">“细思惊恐！国药与科兴董事长死了 核酸董事长死了 双黄连特效药创作者死了”ShitaoTV - 04 (27 /12/22) 网传已死亡80万-尸体绵延大江南北</a></li>
 <li><a href="/comments/20221228/1829068.md">石正丽研究员有麻烦了！微信未删文章</a></li>
+<li><a href="/sohnews/20221228/1829078.md">“细思惊恐！国药与科兴董事长死了 核酸董事长死了 双黄连特效药创作者死了”ShitaoTV - 04 (27 /12/22) 网传已死亡80万-尸体绵延大江南北</a></li>
 <li><a href="/comments/20221228/1828963.md">白纸革命！勇敢的上海年轻人高呼：习近平，下台！</a></li>
 <li><a href="/sohnews/20221228/1828959.md">越辟越真，煞费苦心证明齐心健在！朱镕基赵乐际出事概率大！玉泉营冻肉冷库塞满1.5万具！1月8日正式放开，中共要向全球散毒！小小病毒尚无可奈何，况与天地斗乎？【新闻最嘲点 姜光宇】2022.1227</a></li>
-<li><a href="/sohnews/20221228/1828882.md">“习近平功成名就-退了！王沪宁始终如一-主导中共病毒：善始善终！”ShitaoTV - 02 (27 /12/22) 官方无病毒死亡之秘诀原因！</a></li>
 <li><a href="/cbnews/20221228/1829170.md">中共政治局生活会 3人蹊跷缺席</a></li>
+<li><a href="/sohnews/20221228/1828882.md">“习近平功成名就-退了！王沪宁始终如一-主导中共病毒：善始善终！”ShitaoTV - 02 (27 /12/22) 官方无病毒死亡之秘诀原因！</a></li>
 <li><a href="/comments/20221228/1828916.md">校外培训大变天，外挂翻身再无可能！</a></li>
 <li><a href="/topimagenews/20221228/1829123.md">红二代忍无可忍！炮轰司马南，保护张文宏【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221228/1829063.md">天亮时分：李强接手，李克强淡出，赵乐际和李希怕是阳了；习近平如何得罪所有人？为什么阴谋论会有市场？（政论天下第891集 20221227）</a></li>
 <li><a href="/ssgc/20221228/1829089.md">〖兲朝浮世绘〗北京死人太多烧不过来，已经把尸体混在一起烧了</a></li>
-<li><a href="/topimagenews/20221228/1829108.md">科兴三针防御率竟然只有8%？中共官媒紧急这样“辟谣”…</a></li>
 <li><a href="/baitai/20221228/1828914.md">纽约时报：“新冠清零”一夜消失，过去三年的牺牲是为了什么？</a></li>
+<li><a href="/topimagenews/20221228/1829108.md">科兴三针防御率竟然只有8%？中共官媒紧急这样“辟谣”…</a></li>
 <li><a href="/cnnews/20221228/1829125.md">死伤惨重 侵乌俄军“跪地投降”！俄官媒呼吁：不要再打巴赫穆特了</a></li>
+<li><a href="/topimagenews/20221228/1829159.md">中共地方政府破产了？讨薪风潮各地涌起成人民最新运动</a></li>
 <li><a href="/sohnews/20221228/1829007.md">陈破空：消息混乱，王沪宁真的躺平了？华春莹炫耀灭绝计划成功！汪文斌强求日本无条件接纳中国人。赵立坚边发烧边战狼。宋丹丹大骂政府无能</a></li>
 <li><a href="/topimagenews/20221228/1829001.md">人类不能白白遭这场灾难 连病毒来源都没弄清</a></li>
 <li><a href="/cbnews/20221228/1828894.md">这照片最近在中国到处可见! 大“白肺”惊人 医师 : 罹患者性命堪忧</a></li>
-<li><a href="/topimagenews/20221228/1829093.md">华为“天才少年”被爆离职原因曝 欸…200万年薪也留不住</a></li>
-<li><a href="/cnnews/20221228/1829111.md">马云早“润”了！大陆动荡不安 有钱人都往这国“润”….</a></li>
+<li><a href="/lifebaike/20221228/1829124.md">政治局传言：毛泽东是被害死的</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221228/1829274.md" target="_blank">通膨、病毒与枪炮 威胁2023年全球市场的五种情境</a></li>
 <li><a href="/topimagenews/20221228/1829234.md" target="_blank">中国大妈带2公斤肉干遭拦！大闹日本机场</a></li>
 <li><a href="/topimagenews/20221228/1829220.md" target="_blank">不爽被精美PPT唬弄！陆电商巨头老板暴怒：中高层全面砍薪；震撼科技业！小米大裁员</a></li>
 <li><a href="/topimagenews/20221228/1829169.md" target="_blank">殡仪馆已成“国家机密”？卫健委称未出现大面积重症死亡</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221227/1828655.md" target="_blank">小米大裁员5000人 震撼科技业 联发科、鸿海、大立光、友达遭重击</a></li>
 <li><a href="/topimagenews/20221227/1828631.md" target="_blank">【微博精粹】伟大祖国距超级坟场 一步之遥</a></li>
 <li><a href="/topimagenews/20221227/1828570.md" target="_blank">忍无可忍：戳穿6个一直愚弄老百姓的新冠真相</a></li>
-<li><a href="/topimagenews/20221227/1828548.md" target="_blank">习近平：大学生到乡 企业家入乡 能人回乡…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221228/1829281.md" target="_blank">【梁京评论】2022：中国与世界关系的重大转折点（下）</a></li>
 <li><a href="/comments/20221228/1829247.md" target="_blank">呼叫“党员”支援“收尸”！上海疫情爆发 国营公墓业务超负荷</a></li>
 <li><a href="/comments/20221228/1829228.md" target="_blank">多国严防中国人入境 澳洲团体吁熔断航班 中外交部竟要他国“适度防疫”</a></li>
 <li><a href="/comments/20221228/1829198.md" target="_blank">惊悚画面曝！中国河南严重连环车祸 百辆车追撞堆叠</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221228/1828946.md" target="_blank">夏林：回顾2022年 意外大事层出 掀起波澜惊涛</a></li>
 <li><a href="/comments/20221228/1828945.md" target="_blank">川人：大疫凶险，为何“退党”是避疫良方？</a></li>
 <li><a href="/comments/20221228/1828944.md" target="_blank">周晓辉：世贸研究界泰斗薛荣久离世 曾公开撒谎</a></li>
-<li><a href="/comments/20221228/1828943.md" target="_blank">周晓辉：面对世卫与世界担忧 北京三举动透心虚</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密：克格勃特异功能超常现象研究档案</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 
 </ul>
 </div>
