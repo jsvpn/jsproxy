@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20221227/1828570.md">忍无可忍：戳穿6个一直愚弄老百姓的新冠真相</a></li>
-<li><a href="/cnnews/20221227/1828527.md">朝阳医院心脏中心副主任刘兴鹏大夫发了一点感想</a></li>
 <li><a href="/topimagenews/20221227/1828675.md">中国将放开出境 北京立刻出现这一幕…</a></li>
 <li><a href="/cnnews/20221227/1828647.md">薄一波始乱终弃 薄熙来亲妈原来是…</a></li>
 <li><a href="/cnnews/20221227/1828625.md">中国政治笑话29则</a></li>
@@ -16,16 +15,17 @@
 <li><a href="/topimagenews/20221227/1828631.md">【微博精粹】伟大祖国距超级坟场 一步之遥</a></li>
 <li><a href="/topimagenews/20221227/1828846.md">闻所未闻！大陆企业竟然放假450天！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221227/1828706.md">中国恢复出境旅游、机票搜索暴增850% 网吓：中国大妈要报复世界了</a></li>
-<li><a href="/cnnews/20221227/1828736.md">都是阳性 为什么症状这么不一样？</a></li>
 <li><a href="/cbnews/20221227/1828827.md">中国解封挑战重重！李强出头接管防疫 任领导小组组长</a></li>
+<li><a href="/cnnews/20221227/1828736.md">都是阳性 为什么症状这么不一样？</a></li>
+<li><a href="/sohnews/20221228/1828895.md">示威游行开始了，形势严峻！！</a></li>
 <li><a href="/cbnews/20221227/1828593.md">一边天堂 一边地狱！广州音乐会爆满 殡仪馆也是</a></li>
 <li><a href="/ssgc/20221227/1828567.md">〖微博谈〗还有人说领袖不懂经济吗？</a></li>
 <li><a href="/topimagenews/20221227/1828692.md">中共疫情蔓延之际开放国境 多国设入境管制应对</a></li>
 <li><a href="/baitai/20221227/1828800.md">再有名人离开 朋友圈传吓人消息</a></li>
 <li><a href="/comments/20221227/1828662.md">放开出境旅游，应跑尽跑？习近平下大棋，朱熔基王沪宁和青壮年都成目标，人定胜天变拉清单</a></li>
 <li><a href="/cnnews/20221227/1828657.md">抢购辉瑞新冠药 章泽天发朋友圈教“网购攻略”</a></li>
-<li><a href="/sohnews/20221228/1828895.md">示威游行开始了，形势严峻！！</a></li>
 <li><a href="/ssgc/20221227/1828642.md">〖兲朝浮世绘〗中俄父子情深 人民领袖再次大撒币</a></li>
+<li><a href="/topimagenews/20221228/1828940.md">火葬场全瘫痪 传“宋丹丹”发飙 直接指责政府不作为</a></li>
 <li><a href="/cbnews/20221227/1828629.md">天亮时分：躲避瘟疫的另类方法；习近平的豪赌，新冠改名去掉“肺炎”，1月8日全面放开出入境；习近平到底在想什么（政论天下第890集 20221226）</a></li>
 <li><a href="/baitai/20221227/1828786.md">运动抗癌实锤！柳叶刀证实这3种运动性价比最高</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221228/1828963.md" target="_blank">白纸革命！勇敢的上海年轻人高呼：习近平，下台！</a></li>
 <li><a href="/cbnews/20221228/1828923.md" target="_blank">章泽天朋友圈发买药攻略：可以搜索京东健康</a></li>
 <li><a href="/comments/20221228/1828916.md" target="_blank">校外培训大变天，外挂翻身再无可能！</a></li>
 <li><a href="/cbnews/20221228/1828894.md" target="_blank">这照片最近在中国到处可见! 大“白肺”惊人 医师 : 罹患者性命堪忧</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221227/1828454.md" target="_blank">殡仪馆外抬尸体的人流！</a></li>
 <li><a href="/cbnews/20221227/1828442.md" target="_blank">中国人学习“与病毒共存” 北京上海地铁满是通勤族、市集乐园涌人潮</a></li>
 <li><a href="/cbnews/20221226/1828355.md" target="_blank">“不再清零后”习近平首度发声 强调开展爱国卫生运动</a></li>
-<li><a href="/cbnews/20221226/1828354.md" target="_blank">大水冲翻龙王庙 陆官方学术网络数据库违反反垄断法遭重罚</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221228/1828963.md" target="_blank">白纸革命！勇敢的上海年轻人高呼：习近平，下台！</a></li>
 <li><a href="/comments/20221228/1828947.md" target="_blank">李正宽：疫情海啸下 中共名人扎堆离世的背后</a></li>
 <li><a href="/comments/20221228/1828946.md" target="_blank">夏林：回顾2022年 意外大事层出 掀起波澜惊涛</a></li>
 <li><a href="/comments/20221228/1828945.md" target="_blank">川人：大疫凶险，为何“退党”是避疫良方？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221227/1828524.md" target="_blank">解封后的中国，为何与世界完全不同？江峰、章天亮、方伟、李沐阳、唐靖远同台直播，有什么不同见解？｜#时事大聚焦 12/26/2022</a></li>
 <li><a href="/comments/20221227/1828517.md" target="_blank">罕见奇观 泰恩河布满一圈圈的“冰煎饼”</a></li>
 <li><a href="/comments/20221227/1828516.md" target="_blank">研究：增加饮食中蛋白质可能有助女性控制体重</a></li>
-<li><a href="/comments/20221227/1828514.md" target="_blank">【二十四节气】贺冬至节俗 展现天人合一的内涵</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 <li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
 
 </ul>
 </div>
