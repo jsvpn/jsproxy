@@ -20,8 +20,8 @@
 <li><a href="/cnnews/20221228/1829245.md">中国兔年新邮引热议 网友感受“强烈妖气”：手拿死亡笔记本？</a></li>
 <li><a href="/sohnews/20221228/1829168.md">中共急切否定“白肺”来源？！全网质疑声一片；上海再要党员支援前线，这次却是墓地；全国白肺患者普遍，无论年龄；三名中共高官缺席会议，王沪宁咋了？中共突然放宽出境政策，国际被吓到</a></li>
 <li><a href="/topimagenews/20221228/1829093.md">华为“天才少年”被爆离职原因曝 欸…200万年薪也留不住</a></li>
-<li><a href="/topimagenews/20221228/1829001.md">人类不能白白遭这场灾难 连病毒来源都没弄清</a></li>
 <li><a href="/cnnews/20221228/1829111.md">马云早“润”了！大陆动荡不安 有钱人都往这国“润”….</a></li>
+<li><a href="/topimagenews/20221228/1829001.md">人类不能白白遭这场灾难 连病毒来源都没弄清</a></li>
 <li><a href="/sohnews/20221228/1829007.md">陈破空：消息混乱，王沪宁真的躺平了？华春莹炫耀灭绝计划成功！汪文斌强求日本无条件接纳中国人。赵立坚边发烧边战狼。宋丹丹大骂政府无能</a></li>
 <li><a href="/cbnews/20221228/1829129.md">惊悚画面曝光！河南百车连环车祸</a></li>
 <li><a href="/topimagenews/20221228/1829169.md">殡仪馆已成“国家机密”？卫健委称未出现大面积重症死亡</a></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221229/1829414.md" target="_blank">中国明年1/8解封“各国都怕”？医提3点看法</a></li>
+<li><a href="/comments/20221229/1829413.md" target="_blank">这次疫情不是有计划放开，而是突然溃败</a></li>
+<li><a href="/comments/20221229/1829412.md" target="_blank">李正宽：中共斗天“战疫” 下场几何？</a></li>
 <li><a href="/comments/20221229/1829407.md" target="_blank">袁斌：这次疫情北京到底死了多少人？</a></li>
 <li><a href="/comments/20221229/1829398.md" target="_blank">【围炉夜话12/28】换个角度看大疫： 为什么？怎么办？｜ 12/28/2022</a></li>
 <li><a href="/comments/20221229/1829393.md" target="_blank">换个角度看大疫： 为什麽？怎麽办？｜ 老北京茶馆</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221228/1829046.md" target="_blank">宅大医：从辉瑞新冠药Paxlovid看高端医疗的阶层流动</a></li>
 <li><a href="/comments/20221228/1829045.md" target="_blank">维舟:神化张文宏的，其实是他的反对者们</a></li>
 <li><a href="/comments/20221228/1829033.md" target="_blank">【台海局势】因应中共威胁 台兵役从4个月延长至一年</a></li>
-<li><a href="/comments/20221228/1829032.md" target="_blank">莫叔::殡仪馆现状</a></li>
-<li><a href="/comments/20221228/1829031.md" target="_blank">美媒：“新冠清零”一夜消失，过去三年的牺牲是为了什么？</a></li>
-<li><a href="/comments/20221228/1828987.md" target="_blank">刘树鹏:人类不能白白遭受这场灾难</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 <li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
 
 </ul>
 </div>
