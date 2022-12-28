@@ -9,25 +9,25 @@
 <li><a href="/cnnews/20221227/1828647.md">薄一波始乱终弃 薄熙来亲妈原来是…</a></li>
 <li><a href="/cnnews/20221227/1828738.md">2022年终大总结 太精辟了</a></li>
 <li><a href="/cbnews/20221227/1828741.md">中共官方“躺平”有阴谋?专家:让老人大量病死趁机解决医保与养老金破产</a></li>
-<li><a href="/topimagenews/20221227/1828631.md">【微博精粹】伟大祖国距超级坟场 一步之遥</a></li>
 <li><a href="/sohnews/20221228/1828895.md">示威游行开始了，形势严峻！！</a></li>
 <li><a href="/topimagenews/20221228/1828940.md">火葬场全瘫痪 传“宋丹丹”发飙 直接指责政府不作为</a></li>
-<li><a href="/topimagenews/20221227/1828846.md">闻所未闻！大陆企业竟然放假450天！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221227/1828827.md">中国解封挑战重重！李强出头接管防疫 任领导小组组长</a></li>
-<li><a href="/topimagenews/20221227/1828706.md">中国恢复出境旅游、机票搜索暴增850% 网吓：中国大妈要报复世界了</a></li>
+<li><a href="/topimagenews/20221227/1828846.md">闻所未闻！大陆企业竟然放假450天！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221228/1828926.md">好消息：美签下周恢复 入境隔离取消 坏消息是…</a></li>
+<li><a href="/topimagenews/20221227/1828706.md">中国恢复出境旅游、机票搜索暴增850% 网吓：中国大妈要报复世界了</a></li>
 <li><a href="/cnnews/20221227/1828736.md">都是阳性 为什么症状这么不一样？</a></li>
+<li><a href="/baitai/20221227/1828800.md">再有名人离开 朋友圈传吓人消息</a></li>
 <li><a href="/topimagenews/20221227/1828692.md">中共疫情蔓延之际开放国境 多国设入境管制应对</a></li>
 <li><a href="/headline/20221228/1828903.md">习近平再提毛式政治口号救经济 学者：异想天开无操作性</a></li>
-<li><a href="/baitai/20221227/1828800.md">再有名人离开 朋友圈传吓人消息</a></li>
 <li><a href="/comments/20221227/1828662.md">放开出境旅游，应跑尽跑？习近平下大棋，朱熔基王沪宁和青壮年都成目标，人定胜天变拉清单</a></li>
 <li><a href="/cnnews/20221227/1828657.md">抢购辉瑞新冠药 章泽天发朋友圈教“网购攻略”</a></li>
 <li><a href="/comments/20221228/1828916.md">校外培训大变天，外挂翻身再无可能！</a></li>
 <li><a href="/ssgc/20221227/1828642.md">〖兲朝浮世绘〗中俄父子情深 人民领袖再次大撒币</a></li>
-<li><a href="/cbnews/20221227/1828629.md">天亮时分：躲避瘟疫的另类方法；习近平的豪赌，新冠改名去掉“肺炎”，1月8日全面放开出入境；习近平到底在想什么（政论天下第890集 20221226）</a></li>
 <li><a href="/baitai/20221227/1828786.md">运动抗癌实锤！柳叶刀证实这3种运动性价比最高</a></li>
-<li><a href="/topimagenews/20221227/1828733.md">战事不利 俄军出动“毁灭型喷火系统”…</a></li>
+<li><a href="/baitai/20221228/1828914.md">纽约时报：“新冠清零”一夜消失，过去三年的牺牲是为了什么？</a></li>
 <li><a href="/sohnews/20221228/1828882.md">“习近平功成名就-退了！王沪宁始终如一-主导中共病毒：善始善终！”ShitaoTV - 02 (27 /12/22) 官方无病毒死亡之秘诀原因！</a></li>
+<li><a href="/topimagenews/20221227/1828733.md">战事不利 俄军出动“毁灭型喷火系统”…</a></li>
+<li><a href="/topimagenews/20221227/1828826.md">大陆快被超车？亚洲下个大国 竟变全球钢铁救世主</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221228/1829079.md" target="_blank">一夜回到解放前？中国防疫全面放开“极端解封”乱象</a></li>
 <li><a href="/cbnews/20221228/1829063.md" target="_blank">天亮时分：李强接手，李克强淡出，赵乐际和李希怕是阳了；习近平如何得罪所有人？为什么阴谋论会有市场？（政论天下第891集 20221227）</a></li>
 <li><a href="/comments/20221228/1828963.md" target="_blank">白纸革命！勇敢的上海年轻人高呼：习近平，下台！</a></li>
 <li><a href="/cbnews/20221228/1828923.md" target="_blank">章泽天朋友圈发买药攻略：可以搜索京东健康</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20221227/1828461.md" target="_blank">凌晨2点，殡仪馆外送尸体的车排成了长龙。</a></li>
 <li><a href="/comments/20221227/1828460.md" target="_blank">村长用大喇叭怒斥当局的防疫政策！</a></li>
 <li><a href="/comments/20221227/1828454.md" target="_blank">殡仪馆外抬尸体的人流！</a></li>
-<li><a href="/cbnews/20221227/1828442.md" target="_blank">中国人学习“与病毒共存” 北京上海地铁满是通勤族、市集乐园涌人潮</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221228/1829068.md" target="_blank">石正丽研究员有麻烦了！微信未删文章</a></li>
+<li><a href="/comments/20221228/1829067.md" target="_blank">所有人全阳一遍！并不代表疫情就结束了</a></li>
+<li><a href="/comments/20221228/1829066.md" target="_blank">中共开放边境目的极不单纯</a></li>
 <li><a href="/comments/20221228/1829065.md" target="_blank">生命的自主权：2022年告诉我的事</a></li>
 <li><a href="/comments/20221228/1829047.md" target="_blank">三年疫情创造或涉及的246个名词</a></li>
 <li><a href="/comments/20221228/1829046.md" target="_blank">宅大医：从辉瑞新冠药Paxlovid看高端医疗的阶层流动</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20221228/1828877.md" target="_blank">时事大家谈：中国对余茂春秋后算账，北京为何耿耿于怀？</a></li>
 <li><a href="/comments/20221227/1828850.md" target="_blank">时事大家谈： 中国卫健委突然停发疫情信息，造假难为干脆躺平？</a></li>
 <li><a href="/comments/20221227/1828831.md" target="_blank">12/27【时事大家谈】中国卫健委突然停发疫情信息，造假难为干脆躺平？中国对余茂春秋后算账，北京为何耿耿于怀？</a></li>
-<li><a href="/comments/20221227/1828810.md" target="_blank">【财经拆局】「躺平」之后，重拾「初心」</a></li>
-<li><a href="/comments/20221227/1828672.md" target="_blank">李燕铭：瘟疫攻陷中南海 两常委逾十副国级正部级高官缺席高层会议 301医院异常封路四个方向戒备森严 京西宾馆诡异亮灯 八宝山殡仪馆遗体爆满 政法高官曝大量退休高官死亡 官方罕见为习近平母亲齐心辟谣 中共末日之病毒亡共（八）</a></li>
-<li><a href="/comments/20221227/1828665.md" target="_blank">饶毅张文宏之争究竟谁在拱火? 背后问题是什么?</a></li>
 
 </ul>
 </div>
@@ -129,30 +129,30 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
 <li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 
 </ul>
