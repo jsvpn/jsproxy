@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20221228/1828940.md">火葬场全瘫痪 传“宋丹丹”发飙 直接指责政府不作为</a></li>
 <li><a href="/sohnews/20221228/1829078.md">“细思惊恐！国药与科兴董事长死了 核酸董事长死了 双黄连特效药创作者死了”ShitaoTV - 04 (27 /12/22) 网传已死亡80万-尸体绵延大江南北</a></li>
 <li><a href="/comments/20221228/1829068.md">石正丽研究员有麻烦了！微信未删文章</a></li>
 <li><a href="/comments/20221228/1828963.md">白纸革命！勇敢的上海年轻人高呼：习近平，下台！</a></li>
@@ -13,8 +12,8 @@
 <li><a href="/cbnews/20221228/1829170.md">中共政治局生活会 3人蹊跷缺席</a></li>
 <li><a href="/topimagenews/20221228/1829123.md">红二代忍无可忍！炮轰司马南，保护张文宏【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221228/1829063.md">天亮时分：李强接手，李克强淡出，赵乐际和李希怕是阳了；习近平如何得罪所有人？为什么阴谋论会有市场？（政论天下第891集 20221227）</a></li>
-<li><a href="/topimagenews/20221228/1829159.md">中共地方政府破产了？讨薪风潮各地涌起成人民最新运动</a></li>
 <li><a href="/ssgc/20221228/1829089.md">〖兲朝浮世绘〗北京死人太多烧不过来，已经把尸体混在一起烧了</a></li>
+<li><a href="/topimagenews/20221228/1829159.md">中共地方政府破产了？讨薪风潮各地涌起成人民最新运动</a></li>
 <li><a href="/topimagenews/20221228/1829108.md">科兴三针防御率竟然只有8%？中共官媒紧急这样“辟谣”…</a></li>
 <li><a href="/cnnews/20221228/1829125.md">死伤惨重 侵乌俄军“跪地投降”！俄官媒呼吁：不要再打巴赫穆特了</a></li>
 <li><a href="/lifebaike/20221228/1829124.md">政治局传言：毛泽东是被害死的</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20221228/1829169.md">殡仪馆已成“国家机密”？卫健委称未出现大面积重症死亡</a></li>
 <li><a href="/health/20221228/1829149.md">研究发现维生素D与死亡率关系，维生素D浓度高，死亡风险下降？</a></li>
 <li><a href="/cnnews/20221228/1829200.md">人事异动 宋涛出任中共中央台办、中共国台办主任</a></li>
+<li><a href="/cnnews/20221228/1829087.md">汪东兴与林彪的关系 真相令人惊讶</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221229/1829405.md" target="_blank">2025年台海爆发血战？兵推中共攻台的D-Day</a></li>
 <li><a href="/topimagenews/20221229/1829348.md" target="_blank">手拿死亡笔记本？中共年度中国兔被指有“强烈妖气”</a></li>
 <li><a href="/topimagenews/20221228/1829274.md" target="_blank">通膨、病毒与枪炮 威胁2023年全球市场的五种情境</a></li>
 <li><a href="/topimagenews/20221228/1829234.md" target="_blank">中国大妈带2公斤肉干遭拦！大闹日本机场</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20221227/1828675.md" target="_blank">中国将放开出境 北京立刻出现这一幕…</a></li>
 <li><a href="/topimagenews/20221227/1828674.md" target="_blank">就中国经济，摩根与世界银行谁在胡扯？中共解封拼经济难如愿；</a></li>
 <li><a href="/topimagenews/20221227/1828655.md" target="_blank">小米大裁员5000人 震撼科技业 联发科、鸿海、大立光、友达遭重击</a></li>
-<li><a href="/topimagenews/20221227/1828631.md" target="_blank">【微博精粹】伟大祖国距超级坟场 一步之遥</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221229/1829407.md" target="_blank">袁斌：这次疫情北京到底死了多少人？</a></li>
 <li><a href="/comments/20221229/1829398.md" target="_blank">【围炉夜话12/28】换个角度看大疫： 为什么？怎么办？｜ 12/28/2022</a></li>
 <li><a href="/comments/20221229/1829393.md" target="_blank">换个角度看大疫： 为什麽？怎麽办？｜ 老北京茶馆</a></li>
 <li><a href="/comments/20221229/1829366.md" target="_blank">令人惊叹、迷人的澳洲海姆斯（Hyams Beach)白沙滩</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221228/1829032.md" target="_blank">莫叔::殡仪馆现状</a></li>
 <li><a href="/comments/20221228/1829031.md" target="_blank">美媒：“新冠清零”一夜消失，过去三年的牺牲是为了什么？</a></li>
 <li><a href="/comments/20221228/1828987.md" target="_blank">刘树鹏:人类不能白白遭受这场灾难</a></li>
-<li><a href="/comments/20221228/1828986.md" target="_blank">中共是中国人痛苦的根源</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 
 </ul>
 </div>
