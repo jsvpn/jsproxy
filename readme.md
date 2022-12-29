@@ -9,19 +9,19 @@
 <li><a href="/cbnews/20221229/1829376.md">中国知名主持人疑染疫病逝，生前一夜白头</a></li>
 <li><a href="/cbnews/20221229/1829544.md">江峰：李克强、汪洋被一一训诫；自己高举自己的思想！中共中央政治局民主生活会荒唐一幕； 俄乌休战，传闻还是现实，普京的退路在哪儿？【江峰漫谈20221228第605期】</a></li>
 <li><a href="/cnnews/20221228/1829245.md">中国兔年新邮引热议 网友感受“强烈妖气”：手拿死亡笔记本？</a></li>
+<li><a href="/ssgc/20221229/1829380.md">评论 | 胡平：习近平为什么要撒弥天大谎？</a></li>
 <li><a href="/cnnews/20221229/1829352.md">惊了：他用手机扫“老虎身上条纹”，竟扫出了…</a></li>
 <li><a href="/topimagenews/20221229/1829428.md">罕见！中共军方竟高喊“断脉”、“拔根”【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20221229/1829380.md">评论 | 胡平：习近平为什么要撒弥天大谎？</a></li>
 <li><a href="/sohnews/20221228/1829237.md">陈破空：政治局开会，习近平不认错！反而叫大家表忠。太子党怒了！这回骂习的，是前委员长儿媳。三名习家军染疫缺会</a></li>
 <li><a href="/baitai/20221229/1829357.md">又一惊人之举？习近平打破多项惯例 启用宋涛任国台办主任</a></li>
-<li><a href="/cnnews/20221228/1829200.md">人事异动 宋涛出任中共中央台办、中共国台办主任</a></li>
 <li><a href="/sohnews/20221229/1829362.md">“惊叹网论！习近平罕见天才政治家 毫无畏惧摧毁中共国”ShitaoTV - 04 (28 /12/22) 特点共同齐名者：拜登 普京</a></li>
+<li><a href="/cnnews/20221228/1829200.md">人事异动 宋涛出任中共中央台办、中共国台办主任</a></li>
 <li><a href="/cnnews/20221229/1829485.md">中国强迫女留学生做肛拭子 还要别国无条件开放?</a></li>
 <li><a href="/sohnews/20221228/1829300.md">“习近平太狂妄还是太傻叉？等同宣告：病毒海啸3年之巅 解封等同屠杀”《今日点击》 (28/12/22) 习近平之举：中共就是中国人的地狱犬</a></li>
 <li><a href="/comments/20221229/1829512.md">葛优急疯了！习近平大开国门催润，美国义大利日本彻底急了！金三胖稳获冠军，谁是亚军</a></li>
 <li><a href="/topimagenews/20221229/1829496.md">人民日报总结“12句话记住2022” 评论区炸了</a></li>
-<li><a href="/cnnews/20221229/1829386.md">每天取消2千架次…乘客怒了：再不坐这航司飞机</a></li>
 <li><a href="/cbnews/20221229/1829383.md">咳嗽发热硬扛成白肺 医生警告：这几种情况别扛</a></li>
+<li><a href="/cnnews/20221229/1829386.md">每天取消2千架次…乘客怒了：再不坐这航司飞机</a></li>
 <li><a href="/topimagenews/20221229/1829348.md">手拿死亡笔记本？中共年度中国兔被指有“强烈妖气”</a></li>
 <li><a href="/topimagenews/20221229/1829475.md">殡仪馆成国家机密 电视台傻傻跑去报，结果…</a></li>
 <li><a href="/sohnews/20221229/1829371.md">第二波大流行要来了！</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
 
 </ul>
 </div>
