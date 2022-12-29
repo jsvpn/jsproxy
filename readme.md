@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cbnews/20221228/1829170.md">中共政治局生活会 3人蹊跷缺席</a></li>
 <li><a href="/cbnews/20221229/1829377.md">惊传！原人大委员长儿媳讽习近平：他抓啥啥完蛋</a></li>
 <li><a href="/cbnews/20221229/1829376.md">中国知名主持人疑染疫病逝，生前一夜白头</a></li>
-<li><a href="/sohnews/20221228/1829168.md">中共急切否定“白肺”来源？！全网质疑声一片；上海再要党员支援前线，这次却是墓地；全国白肺患者普遍，无论年龄；三名中共高官缺席会议，王沪宁咋了？中共突然放宽出境政策，国际被吓到</a></li>
-<li><a href="/cnnews/20221228/1829245.md">中国兔年新邮引热议 网友感受“强烈妖气”：手拿死亡笔记本？</a></li>
 <li><a href="/cbnews/20221229/1829544.md">江峰：李克强、汪洋被一一训诫；自己高举自己的思想！中共中央政治局民主生活会荒唐一幕； 俄乌休战，传闻还是现实，普京的退路在哪儿？【江峰漫谈20221228第605期】</a></li>
-<li><a href="/topimagenews/20221229/1829428.md">罕见！中共军方竟高喊“断脉”、“拔根”【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20221228/1829245.md">中国兔年新邮引热议 网友感受“强烈妖气”：手拿死亡笔记本？</a></li>
 <li><a href="/cnnews/20221229/1829352.md">惊了：他用手机扫“老虎身上条纹”，竟扫出了…</a></li>
+<li><a href="/topimagenews/20221229/1829428.md">罕见！中共军方竟高喊“断脉”、“拔根”【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20221229/1829380.md">评论 | 胡平：习近平为什么要撒弥天大谎？</a></li>
 <li><a href="/sohnews/20221228/1829237.md">陈破空：政治局开会，习近平不认错！反而叫大家表忠。太子党怒了！这回骂习的，是前委员长儿媳。三名习家军染疫缺会</a></li>
 <li><a href="/baitai/20221229/1829357.md">又一惊人之举？习近平打破多项惯例 启用宋涛任国台办主任</a></li>
-<li><a href="/topimagenews/20221228/1829169.md">殡仪馆已成“国家机密”？卫健委称未出现大面积重症死亡</a></li>
 <li><a href="/cnnews/20221228/1829200.md">人事异动 宋涛出任中共中央台办、中共国台办主任</a></li>
-<li><a href="/sohnews/20221229/1829362.md">“惊叹网论！习近平罕见天才政治家 毫无畏惧摧毁中共国”ShitaoTV - 04 (28 /12/22) 特点共同齐名者：拜登 普京</a></li>
 <li><a href="/cnnews/20221229/1829485.md">中国强迫女留学生做肛拭子 还要别国无条件开放?</a></li>
+<li><a href="/sohnews/20221229/1829362.md">“惊叹网论！习近平罕见天才政治家 毫无畏惧摧毁中共国”ShitaoTV - 04 (28 /12/22) 特点共同齐名者：拜登 普京</a></li>
 <li><a href="/sohnews/20221228/1829300.md">“习近平太狂妄还是太傻叉？等同宣告：病毒海啸3年之巅 解封等同屠杀”《今日点击》 (28/12/22) 习近平之举：中共就是中国人的地狱犬</a></li>
+<li><a href="/topimagenews/20221229/1829496.md">人民日报总结“12句话记住2022” 评论区炸了</a></li>
 <li><a href="/cnnews/20221229/1829386.md">每天取消2千架次…乘客怒了：再不坐这航司飞机</a></li>
 <li><a href="/cbnews/20221229/1829383.md">咳嗽发热硬扛成白肺 医生警告：这几种情况别扛</a></li>
 <li><a href="/topimagenews/20221229/1829348.md">手拿死亡笔记本？中共年度中国兔被指有“强烈妖气”</a></li>
-<li><a href="/topimagenews/20221229/1829496.md">人民日报总结“12句话记住2022” 评论区炸了</a></li>
 <li><a href="/topimagenews/20221229/1829475.md">殡仪馆成国家机密 电视台傻傻跑去报，结果…</a></li>
 <li><a href="/sohnews/20221229/1829371.md">第二波大流行要来了！</a></li>
+<li><a href="/comments/20221229/1829512.md">葛优急疯了！习近平大开国门催润，美国义大利日本彻底急了！金三胖稳获冠军，谁是亚军</a></li>
 <li><a href="/cnnews/20221229/1829464.md">华为天才少年离职发表声明 他的视频全是“卧槽”</a></li>
+<li><a href="/topimagenews/20221228/1829220.md">不爽被精美PPT唬弄！陆电商巨头老板暴怒：中高层全面砍薪；震撼科技业！小米大裁员</a></li>
+<li><a href="/cnnews/20221229/1829509.md">打破中共官场多项惯例，他接任国台办主任</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221229/1829640.md" target="_blank">不给普丁面子！送出8枚金戒指 只有这国领导人肯戴上…</a></li>
+<li><a href="/topimagenews/20221229/1829639.md" target="_blank">俄军的灾难要来了！美援乌武器又升级 全天候、高精准 这炸弹“猴塞雷”</a></li>
 <li><a href="/topimagenews/20221229/1829514.md" target="_blank">陆人妻确诊遭公婆逼“离婚”…</a></li>
 <li><a href="/topimagenews/20221229/1829497.md" target="_blank">华为又吹漏了：瓦解拜登防线？外媒：被美国掐死</a></li>
 <li><a href="/topimagenews/20221229/1829496.md" target="_blank">人民日报总结“12句话记住2022” 评论区炸了</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20221228/1828978.md" target="_blank">普京心腹、前俄罗斯总统预言“美国爆发内战” 他们将重划欧洲</a></li>
 <li><a href="/topimagenews/20221228/1828940.md" target="_blank">火葬场全瘫痪 传“宋丹丹”发飙 直接指责政府不作为</a></li>
 <li><a href="/topimagenews/20221228/1828918.md" target="_blank">预防台湾有事 日本将在与那国岛部署地对空飞弹</a></li>
-<li><a href="/topimagenews/20221227/1828846.md" target="_blank">闻所未闻！大陆企业竟然放假450天！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221227/1828826.md" target="_blank">大陆快被超车？亚洲下个大国 竟变全球钢铁救世主</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
 <li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
 
 </ul>
 </div>
