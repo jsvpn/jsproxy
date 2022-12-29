@@ -10,24 +10,24 @@
 <li><a href="/cbnews/20221229/1829544.md">江峰：李克强、汪洋被一一训诫；自己高举自己的思想！中共中央政治局民主生活会荒唐一幕； 俄乌休战，传闻还是现实，普京的退路在哪儿？【江峰漫谈20221228第605期】</a></li>
 <li><a href="/ssgc/20221229/1829380.md">评论 | 胡平：习近平为什么要撒弥天大谎？</a></li>
 <li><a href="/topimagenews/20221229/1829428.md">罕见！中共军方竟高喊“断脉”、“拔根”【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20221229/1829362.md">“惊叹网论！习近平罕见天才政治家 毫无畏惧摧毁中共国”ShitaoTV - 04 (28 /12/22) 特点共同齐名者：拜登 普京</a></li>
 <li><a href="/cbnews/20221229/1829383.md">咳嗽发热硬扛成白肺 医生警告：这几种情况别扛</a></li>
 <li><a href="/cnnews/20221229/1829699.md">这个前中共常委大事不妙？手下发出特殊信号！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221229/1829485.md">中国强迫女留学生做肛拭子 还要别国无条件开放?</a></li>
 <li><a href="/cbnews/20221229/1829652.md">疫情大爆发中共“盖牌” 社会恐慌！中共官媒怒骂：请拿数据来安民心</a></li>
 <li><a href="/topimagenews/20221229/1829640.md">不给普丁面子！送出8枚金戒指 只有这国领导人肯戴上…</a></li>
+<li><a href="/topimagenews/20221229/1829693.md">习近平贴身智囊撰文，释放重要信号！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20221229/1829577.md">樊登父亲因新冠去世，他写了一篇文章把人看哭了</a></li>
 <li><a href="/sohnews/20221229/1829657.md">齐心搞定习仲勋的招数，堪称教科书级别小三上位秘笈。当年延安高干的换妻潮，至今还在影响中国人命运。 （终局风云12, 2022/12/29)</a></li>
-<li><a href="/topimagenews/20221229/1829693.md">习近平贴身智囊撰文，释放重要信号！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221229/1829496.md">人民日报总结“12句话记住2022” 评论区炸了</a></li>
-<li><a href="/cbnews/20221229/1829628.md">明星叹殡仪馆火化排大队 北京网友揭疫情惨况</a></li>
 <li><a href="/comments/20221229/1829512.md">葛优急疯了！习近平大开国门催润，美国义大利日本彻底急了！金三胖稳获冠军，谁是亚军</a></li>
+<li><a href="/cbnews/20221229/1829628.md">明星叹殡仪馆火化排大队 北京网友揭疫情惨况</a></li>
 <li><a href="/topimagenews/20221229/1829475.md">殡仪馆成国家机密 电视台傻傻跑去报，结果…</a></li>
 <li><a href="/cnnews/20221229/1829386.md">每天取消2千架次…乘客怒了：再不坐这航司飞机</a></li>
 <li><a href="/sohnews/20221229/1829371.md">第二波大流行要来了！</a></li>
 <li><a href="/cnnews/20221229/1829696.md">最年轻局委李干杰卸任山东书记 新职呼之欲出</a></li>
 <li><a href="/cnnews/20221229/1829464.md">华为天才少年离职发表声明 他的视频全是“卧槽”</a></li>
 <li><a href="/ssgc/20221229/1829540.md">〖兲朝浮世绘〗中共跟三年前一样往境外放毒</a></li>
+<li><a href="/cnnews/20221229/1829509.md">打破中共官场多项惯例，他接任国台办主任</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 
 </ul>
 </div>
