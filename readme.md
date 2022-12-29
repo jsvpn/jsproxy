@@ -5,8 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cbnews/20221229/1829377.md">惊传！原人大委员长儿媳讽习近平：他抓啥啥完蛋</a></li>
-<li><a href="/cbnews/20221229/1829376.md">中国知名主持人疑染疫病逝，生前一夜白头</a></li>
 <li><a href="/cbnews/20221229/1829544.md">江峰：李克强、汪洋被一一训诫；自己高举自己的思想！中共中央政治局民主生活会荒唐一幕； 俄乌休战，传闻还是现实，普京的退路在哪儿？【江峰漫谈20221228第605期】</a></li>
 <li><a href="/ssgc/20221229/1829380.md">评论 | 胡平：习近平为什么要撒弥天大谎？</a></li>
 <li><a href="/topimagenews/20221229/1829428.md">罕见！中共军方竟高喊“断脉”、“拔根”【阿波罗网报道】</a></li>
@@ -15,19 +13,21 @@
 <li><a href="/cnnews/20221229/1829485.md">中国强迫女留学生做肛拭子 还要别国无条件开放?</a></li>
 <li><a href="/cbnews/20221229/1829652.md">疫情大爆发中共“盖牌” 社会恐慌！中共官媒怒骂：请拿数据来安民心</a></li>
 <li><a href="/topimagenews/20221229/1829693.md">习近平贴身智囊撰文，释放重要信号！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20221229/1829640.md">不给普丁面子！送出8枚金戒指 只有这国领导人肯戴上…</a></li>
 <li><a href="/cnnews/20221229/1829577.md">樊登父亲因新冠去世，他写了一篇文章把人看哭了</a></li>
-<li><a href="/sohnews/20221229/1829657.md">齐心搞定习仲勋的招数，堪称教科书级别小三上位秘笈。当年延安高干的换妻潮，至今还在影响中国人命运。 （终局风云12, 2022/12/29)</a></li>
+<li><a href="/topimagenews/20221229/1829640.md">不给普丁面子！送出8枚金戒指 只有这国领导人肯戴上…</a></li>
 <li><a href="/comments/20221229/1829512.md">葛优急疯了！习近平大开国门催润，美国义大利日本彻底急了！金三胖稳获冠军，谁是亚军</a></li>
+<li><a href="/sohnews/20221229/1829657.md">齐心搞定习仲勋的招数，堪称教科书级别小三上位秘笈。当年延安高干的换妻潮，至今还在影响中国人命运。 （终局风云12, 2022/12/29)</a></li>
 <li><a href="/topimagenews/20221229/1829496.md">人民日报总结“12句话记住2022” 评论区炸了</a></li>
 <li><a href="/cbnews/20221229/1829628.md">明星叹殡仪馆火化排大队 北京网友揭疫情惨况</a></li>
 <li><a href="/topimagenews/20221229/1829475.md">殡仪馆成国家机密 电视台傻傻跑去报，结果…</a></li>
 <li><a href="/cnnews/20221229/1829386.md">每天取消2千架次…乘客怒了：再不坐这航司飞机</a></li>
-<li><a href="/sohnews/20221229/1829371.md">第二波大流行要来了！</a></li>
 <li><a href="/cnnews/20221229/1829696.md">最年轻局委李干杰卸任山东书记 新职呼之欲出</a></li>
 <li><a href="/cnnews/20221229/1829464.md">华为天才少年离职发表声明 他的视频全是“卧槽”</a></li>
 <li><a href="/ssgc/20221229/1829540.md">〖兲朝浮世绘〗中共跟三年前一样往境外放毒</a></li>
 <li><a href="/cnnews/20221229/1829509.md">打破中共官场多项惯例，他接任国台办主任</a></li>
+<li><a href="/cnnews/20221229/1829670.md">习近平再提毛式政治口号救经济 学者：异想天开无操作性；美中贸易正在急转直下；</a></li>
+<li><a href="/ssgc/20221229/1829471.md">〖微博谈〗全是在践行商君书的黑暗料理</a></li>
+<li><a href="/weiquan/20221229/1829666.md">广州青年王晓宇因围观广州市海珠广场白纸抗议活动被中共当局刑事拘留</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221230/1829838.md" target="_blank">香港通关？潮水来了</a></li>
 <li><a href="/comments/20221230/1829808.md" target="_blank">时事大家谈：不满日本对华检疫隔离，中国忘了自己是怎么做的？</a></li>
 <li><a href="/comments/20221230/1829790.md" target="_blank">【未普评论】大搞爱国卫生运动，习近平葫芦里卖甚么药？</a></li>
 <li><a href="/comments/20221230/1829775.md" target="_blank">神韵莅临欧洲 柏林首演爆满 精英：辉煌震撼</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221229/1829414.md" target="_blank">中国明年1/8解封“各国都怕”？医提3点看法</a></li>
 <li><a href="/comments/20221229/1829413.md" target="_blank">这次疫情不是有计划放开，而是突然溃败</a></li>
 <li><a href="/comments/20221229/1829412.md" target="_blank">李正宽：中共斗天“战疫” 下场几何？</a></li>
-<li><a href="/comments/20221229/1829407.md" target="_blank">袁斌：这次疫情北京到底死了多少人？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
 
 </ul>
 </div>
