@@ -10,24 +10,24 @@
 <li><a href="/sohnews/20221230/1829823.md">“吓死人！原首席流行病科学家曾光 “不可能的真事：北京感染率已超过80%” ”ShitaoTV - 03 (29 /12/22) 四川感染率超过91%</a></li>
 <li><a href="/ssgc/20221229/1829752.md">一则 &quot; 讣告 &quot; 流传甚广</a></li>
 <li><a href="/topimagenews/20221230/1829852.md">“我外教强暴了我”长沙中学外教恶行被曝光</a></li>
-<li><a href="/topimagenews/20221229/1829726.md">中国盛行变异株BF.7窜全球？专家：恐躲过现行疗法或免疫系统</a></li>
 <li><a href="/cnnews/20221230/1829863.md">邓小平搞掉15个中共领导人 江泽民曾被定为第16个</a></li>
 <li><a href="/cbnews/20221230/1829950.md">天亮时分：对阳性中国游客基因测序，意大利的发现令人震惊；习近平失去权力的路径（政论天下第893集 20221229）</a></li>
 <li><a href="/cnnews/20221230/1829888.md">隐瞒疫情令社会恐慌骤增 中共官媒忍不住怒骂</a></li>
 <li><a href="/cnnews/20221230/1829962.md">全球十大独裁屠夫“他”居冠</a></li>
-<li><a href="/comments/20221230/1830000.md">【微博精粹】官宣：中国总人口14.1178亿 最新消息：全部遇难</a></li>
 <li><a href="/comments/20221230/1829895.md">12月28日，天津某医院的急诊大厅！</a></li>
+<li><a href="/comments/20221230/1830000.md">【微博精粹】官宣：中国总人口14.1178亿 最新消息：全部遇难</a></li>
 <li><a href="/topimagenews/20221230/1829834.md">惊险！美军侦察机与解放军歼-11在南海相距不到3米 紧急闪避免于碰撞</a></li>
 <li><a href="/cbnews/20221230/1830050.md">苏州美女染疫后竟长出浓密胡须 网民：长挺俊的</a></li>
-<li><a href="/topimagenews/20221229/1829727.md">未料到来势汹汹 中专家：北京新冠感染率可能已超过80%</a></li>
-<li><a href="/ssgc/20221230/1830010.md">〖兲朝浮世绘〗身为少将居然住不进想住的医院 这还是有特权的人呐</a></li>
 <li><a href="/yule/20221230/1830044.md">崔永元，消失的三年和失踪的真相</a></li>
+<li><a href="/ssgc/20221230/1830010.md">〖兲朝浮世绘〗身为少将居然住不进想住的医院 这还是有特权的人呐</a></li>
 <li><a href="/cbnews/20221230/1829996.md">江峰：北京疫情高峰已过？代价几多无人说，赞歌已经开始， 小心对”躺废“---放开派及白纸革命的甩锅与攻击。医药资源枯竭老百姓有罪？【江峰漫谈20221229第606期】</a></li>
+<li><a href="/topimagenews/20221230/1830102.md">白云机场强制执行5＋3隔离政策！中国留学生与警察爆发冲突</a></li>
 <li><a href="/topimagenews/20221230/1829970.md">敞开地狱门？欧洲CDC："筛查中国旅客不合理" 网怒轰</a></li>
 <li><a href="/ssgc/20221229/1829754.md">2023将有大转折</a></li>
-<li><a href="/cnnews/20221230/1829938.md">一窥中国真实重症数字 各院情况陆续披露</a></li>
 <li><a href="/cnnews/20221230/1830039.md">核酸检测大佬，殁于新冠</a></li>
+<li><a href="/cnnews/20221230/1829938.md">一窥中国真实重症数字 各院情况陆续披露</a></li>
 <li><a href="/baitai/20221230/1829817.md">老农拿着“压菜石”去鉴宝 引众人嘲笑 专家：别笑 至少5个亿</a></li>
+<li><a href="/lifebaike/20221230/1829903.md">曾经风靡全国的黄酒，为何如今没人喝了？行家道出背后的2个原因</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221230/1830154.md" target="_blank">陆教育部：高等院校不再开展全员核酸筛查</a></li>
 <li><a href="/cbnews/20221230/1830087.md" target="_blank">开豪车举白纸声援 小粉红觉醒反共</a></li>
 <li><a href="/cbnews/20221230/1830061.md" target="_blank">中国确诊者出境成功！传“机场帮改资料”…</a></li>
 <li><a href="/cbnews/20221230/1830050.md" target="_blank">苏州美女染疫后竟长出浓密胡须 网民：长挺俊的</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/cbnews/20221229/1829498.md" target="_blank">西安殡仪馆也“爆煲” 每天300个遗体等待火化</a></li>
 <li><a href="/cbnews/20221229/1829494.md" target="_blank">天亮时分：一架航班半数感染，多国强制筛检中国旅客，世界疫情再次大爆发？搞砸防疫会削弱习的权威吗？禁TikTok，美国能成功吗？（政论天下第892集 20221228）</a></li>
 <li><a href="/cbnews/20221229/1829449.md" target="_blank">辽宁9岁女孩被邻居狂砍20刀，“不构成刑事犯罪”…</a></li>
-<li><a href="/cbnews/20221229/1829431.md" target="_blank">分析：争做老大 中共给各国打分订超越战</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20221230/1830153.md" target="_blank">全球经济快崩溃了！专家警告：2023别买这5样东西</a></li>
+<li><a href="/topimagenews/20221230/1830152.md" target="_blank">WHO谭德塞点名中共“疫情资讯要透明” 欧盟：强制筛检中国旅客不合理</a></li>
 <li><a href="/topimagenews/20221230/1830138.md" target="_blank">中共外交部长换人了！驻美大使秦刚将接替王毅</a></li>
 <li><a href="/topimagenews/20221230/1830113.md" target="_blank">曾涉性骚扰 朱军返央视上班…</a></li>
 <li><a href="/topimagenews/20221230/1830102.md" target="_blank">白云机场强制执行5＋3隔离政策！中国留学生与警察爆发冲突</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20221229/1829475.md" target="_blank">殡仪馆成国家机密 电视台傻傻跑去报，结果…</a></li>
 <li><a href="/topimagenews/20221229/1829428.md" target="_blank">罕见！中共军方竟高喊“断脉”、“拔根”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20221229/1829422.md" target="_blank">美宣布从中国、香港和澳门入境者 1/5起需交阴性检测证明</a></li>
-<li><a href="/topimagenews/20221229/1829405.md" target="_blank">2025年台海爆发血战？兵推中共攻台的D-Day</a></li>
-<li><a href="/topimagenews/20221229/1829348.md" target="_blank">手拿死亡笔记本？中共年度中国兔被指有“强烈妖气”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
 
 </ul>
 </div>
