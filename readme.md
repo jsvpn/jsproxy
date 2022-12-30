@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20221229/1829726.md">中国盛行变异株BF.7窜全球？专家：恐躲过现行疗法或免疫系统</a></li>
 <li><a href="/cnnews/20221229/1829670.md">习近平再提毛式政治口号救经济 学者：异想天开无操作性；美中贸易正在急转直下；</a></li>
 <li><a href="/ssgc/20221229/1829752.md">一则 &quot; 讣告 &quot; 流传甚广</a></li>
-<li><a href="/cbnews/20221230/1829950.md">天亮时分：对阳性中国游客基因测序，意大利的发现令人震惊；习近平失去权力的路径（政论天下第893集 20221229）</a></li>
 <li><a href="/cnnews/20221230/1829863.md">邓小平搞掉15个中共领导人 江泽民曾被定为第16个</a></li>
+<li><a href="/cbnews/20221230/1829950.md">天亮时分：对阳性中国游客基因测序，意大利的发现令人震惊；习近平失去权力的路径（政论天下第893集 20221229）</a></li>
 <li><a href="/sohnews/20221230/1829823.md">“吓死人！原首席流行病科学家曾光 “不可能的真事：北京感染率已超过80%” ”ShitaoTV - 03 (29 /12/22) 四川感染率超过91%</a></li>
 <li><a href="/cnnews/20221230/1829962.md">全球十大独裁屠夫“他”居冠</a></li>
-<li><a href="/comments/20221230/1829895.md">12月28日，天津某医院的急诊大厅！</a></li>
 <li><a href="/cnnews/20221230/1829888.md">隐瞒疫情令社会恐慌骤增 中共官媒忍不住怒骂</a></li>
+<li><a href="/comments/20221230/1829895.md">12月28日，天津某医院的急诊大厅！</a></li>
 <li><a href="/comments/20221230/1830000.md">【微博精粹】官宣：中国总人口14.1178亿 最新消息：全部遇难</a></li>
 <li><a href="/topimagenews/20221230/1829834.md">惊险！美军侦察机与解放军歼-11在南海相距不到3米 紧急闪避免于碰撞</a></li>
 <li><a href="/topimagenews/20221229/1829727.md">未料到来势汹汹 中专家：北京新冠感染率可能已超过80%</a></li>
-<li><a href="/weiquan/20221229/1829666.md">广州青年王晓宇因围观广州市海珠广场白纸抗议活动被中共当局刑事拘留</a></li>
+<li><a href="/ssgc/20221230/1830010.md">〖兲朝浮世绘〗身为少将居然住不进想住的医院 这还是有特权的人呐</a></li>
 <li><a href="/cnnews/20221229/1829695.md">大陆教育部公告 非学科类培训补习班可以复出了</a></li>
 <li><a href="/sohnews/20221229/1829684.md">居民楼下就地火化合法吗？结果意想不到！医院护士：抢救成走形式！有基础病到医院第二天就走⋯⋯</a></li>
+<li><a href="/cnnews/20221230/1829938.md">一窥中国真实重症数字 各院情况陆续披露</a></li>
 <li><a href="/ssgc/20221229/1829754.md">2023将有大转折</a></li>
-<li><a href="/ssgc/20221230/1830010.md">〖兲朝浮世绘〗身为少将居然住不进想住的医院 这还是有特权的人呐</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 
 </ul>
 </div>
