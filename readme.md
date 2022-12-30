@@ -19,12 +19,12 @@
 <li><a href="/cnnews/20221229/1829670.md">习近平再提毛式政治口号救经济 学者：异想天开无操作性；美中贸易正在急转直下；</a></li>
 <li><a href="/cnnews/20221230/1829863.md">邓小平搞掉15个中共领导人 江泽民曾被定为第16个</a></li>
 <li><a href="/ssgc/20221229/1829752.md">一则 &quot; 讣告 &quot; 流传甚广</a></li>
-<li><a href="/sohnews/20221230/1829823.md">“吓死人！原首席流行病科学家曾光 “不可能的真事：北京感染率已超过80%” ”ShitaoTV - 03 (29 /12/22) 四川感染率超过91%</a></li>
 <li><a href="/cbnews/20221230/1829950.md">天亮时分：对阳性中国游客基因测序，意大利的发现令人震惊；习近平失去权力的路径（政论天下第893集 20221229）</a></li>
-<li><a href="/cbnews/20221229/1829629.md">中国多地殡仪馆来不及烧 辽宁停车场挪为停尸房</a></li>
+<li><a href="/sohnews/20221230/1829823.md">“吓死人！原首席流行病科学家曾光 “不可能的真事：北京感染率已超过80%” ”ShitaoTV - 03 (29 /12/22) 四川感染率超过91%</a></li>
 <li><a href="/cnnews/20221230/1829888.md">隐瞒疫情令社会恐慌骤增 中共官媒忍不住怒骂</a></li>
-<li><a href="/topimagenews/20221230/1829834.md">惊险！美军侦察机与解放军歼-11在南海相距不到3米 紧急闪避免于碰撞</a></li>
 <li><a href="/comments/20221230/1829895.md">12月28日，天津某医院的急诊大厅！</a></li>
+<li><a href="/cbnews/20221229/1829629.md">中国多地殡仪馆来不及烧 辽宁停车场挪为停尸房</a></li>
+<li><a href="/topimagenews/20221230/1829834.md">惊险！美军侦察机与解放军歼-11在南海相距不到3米 紧急闪避免于碰撞</a></li>
 <li><a href="/topimagenews/20221229/1829727.md">未料到来势汹汹 中专家：北京新冠感染率可能已超过80%</a></li>
 <li><a href="/weiquan/20221229/1829666.md">广州青年王晓宇因围观广州市海珠广场白纸抗议活动被中共当局刑事拘留</a></li>
 <li><a href="/cnnews/20221230/1829962.md">全球十大独裁屠夫“他”居冠</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20221230/1830050.md" target="_blank">苏州美女染疫后竟长出浓密胡须 网民：长挺俊的</a></li>
+<li><a href="/cbnews/20221230/1830049.md" target="_blank">内地院校不再开展核酸筛查 没有疫情可线下教学</a></li>
 <li><a href="/comments/20221230/1830030.md" target="_blank">重庆，一条街上有几家同时在办丧事！</a></li>
 <li><a href="/cbnews/20221230/1829997.md" target="_blank">悲哀！河南医人手不足 需吊盐水上班</a></li>
 <li><a href="/cbnews/20221230/1829996.md" target="_blank">江峰：北京疫情高峰已过？代价几多无人说，赞歌已经开始， 小心对”躺废“&#8212;放开派及白纸革命的甩锅与攻击。医药资源枯竭老百姓有罪？【江峰漫谈20221229第606期】</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20221229/1829431.md" target="_blank">分析：争做老大 中共给各国打分订超越战</a></li>
 <li><a href="/comments/20221229/1829398.md" target="_blank">【围炉夜话12/28】换个角度看大疫： 为什么？怎么办？｜ 12/28/2022</a></li>
 <li><a href="/cbnews/20221229/1829384.md" target="_blank">全球5大军事热点中共涉3，这地比俄乌破坏力还强</a></li>
-<li><a href="/cbnews/20221229/1829383.md" target="_blank">咳嗽发热硬扛成白肺 医生警告：这几种情况别扛</a></li>
-<li><a href="/cbnews/20221229/1829377.md" target="_blank">惊传！原人大委员长儿媳讽习近平：他抓啥啥完蛋</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
 <li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
 
 </ul>
 </div>
