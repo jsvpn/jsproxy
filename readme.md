@@ -14,19 +14,19 @@
 <li><a href="/topimagenews/20221231/1830254.md">辉瑞神药抄到5万一盒 又发现了新“问题” 还有医院都保不住温度计了</a></li>
 <li><a href="/sohnews/20221230/1830115.md">人民日报不忍了！小粉红殡仪馆拍视频辟谣“空空荡荡、随来随烧”结果泄密……</a></li>
 <li><a href="/cbnews/20221230/1829996.md">江峰：北京疫情高峰已过？代价几多无人说，赞歌已经开始， 小心对”躺废“---放开派及白纸革命的甩锅与攻击。医药资源枯竭老百姓有罪？【江峰漫谈20221229第606期】</a></li>
-<li><a href="/comments/20221230/1830132.md">中共外交部长换人 秦刚上台 王毅卸任</a></li>
 <li><a href="/cnnews/20221231/1830275.md">被党媒不点名批评？司马南光速删帖</a></li>
+<li><a href="/comments/20221230/1830132.md">中共外交部长换人 秦刚上台 王毅卸任</a></li>
 <li><a href="/cnnews/20221231/1830302.md">习近平的败笔</a></li>
 <li><a href="/topimagenews/20221230/1830138.md">中共外交部长换人了！驻美大使秦刚将接替王毅</a></li>
 <li><a href="/cnnews/20221230/1830039.md">核酸检测大佬，殁于新冠</a></li>
 <li><a href="/tculture/20221230/1830088.md">《推背图》预言江泽民死亡和其后瘟疫惨象</a></li>
 <li><a href="/cbnews/20221230/1830061.md">中国确诊者出境成功！传“机场帮改资料”…</a></li>
-<li><a href="/topimagenews/20221230/1829970.md">敞开地狱门？欧洲CDC："筛查中国旅客不合理" 网怒轰</a></li>
 <li><a href="/topimagenews/20221230/1830113.md">曾涉性骚扰 朱军返央视上班…</a></li>
 <li><a href="/comments/20221230/1830030.md">重庆，一条街上有几家同时在办丧事！</a></li>
+<li><a href="/cnnews/20221231/1830279.md">让十四亿人民趟雷实在是太鲁莽了</a></li>
 <li><a href="/cnnews/20221230/1830040.md">社科重大项目“伟大抗疫精神”研究，评论大翻车</a></li>
 <li><a href="/baitai/20221230/1830143.md">中南海传凶兆 学者：2023年将是大变开端</a></li>
-<li><a href="/cnnews/20221231/1830279.md">让十四亿人民趟雷实在是太鲁莽了</a></li>
+<li><a href="/sohnews/20221230/1830046.md">💥上海就地烧尸？！市民发文惊动当局；四川感染超5000万；中美军机再现南海惊魂，相距仅3米；中国演艺圈、军队、马列思想研究圈等，都成疫情重灾区！张纪中症状严重，多名艺人丧生</a></li>
 <li><a href="/sohnews/20221230/1830157.md">“细思惊恐！国药与科兴董事长死了 核酸董事长死了 双黄连特效药创作者死了”ShitaoTV - 04 (30 /12/22) 网传已死亡80万-尸体绵延大江南北</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 <li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 
 </ul>
 </div>
