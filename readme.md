@@ -13,21 +13,21 @@
 <li><a href="/topimagenews/20221231/1830455.md">多人收到消息 这是新冠保命大法 敢学吗</a></li>
 <li><a href="/cnnews/20221231/1830279.md">让十四亿人民趟雷实在是太鲁莽了</a></li>
 <li><a href="/comments/20221231/1830356.md">专访闫丽梦(上)：中国疫情同步井喷式爆发，不符合科学规律，超过武汉2020；“白肺”体现出一个危险趋势；“投毒”可能吗？｜#方菲时间 12/30/2022</a></li>
-<li><a href="/topimagenews/20221231/1830431.md">中共现了原形！罕见承认是一个...【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20221231/1830464.md">江峰：头狼免职，战狼性情会变？王毅超龄进入政治局的内幕，秦刚提前三个月担任外长，这一点证其与习近平特殊关系【江峰漫谈20221230第607期】</a></li>
 <li><a href="/topimagenews/20221231/1830509.md">触怒中共高层遭整肃！马云“人间蒸发1年”终于现身了…</a></li>
+<li><a href="/cbnews/20221231/1830464.md">江峰：头狼免职，战狼性情会变？王毅超龄进入政治局的内幕，秦刚提前三个月担任外长，这一点证其与习近平特殊关系【江峰漫谈20221230第607期】</a></li>
+<li><a href="/topimagenews/20221231/1830431.md">中共现了原形！罕见承认是一个...【阿波罗网报道】</a></li>
 <li><a href="/baitai/20221231/1830210.md">中共怕什么？传网易「2022年度新闻盘点」遭全网封杀后 又被整肃</a></li>
 <li><a href="/yule/20221231/1830379.md">59岁章小蕙上海街头被偶遇，打扮精致气质出众，已长居内地做网红</a></li>
 <li><a href="/cbnews/20221231/1830288.md">Omicron会咬人 张文宏提4指标…这状况须送医</a></li>
-<li><a href="/cnnews/20221231/1830485.md">为治痔疮我在美看了6个医生 全新认知美医疗体制</a></li>
 <li><a href="/funmedia/20221231/1830294.md">以色列最“开放”的节日，美女不顾形象，看到这些照片我都心动了</a></li>
-<li><a href="/sohnews/20221231/1830438.md">“怎么办？张文宏终于表态：白肺不是奥密克戎引起的！”ShitaoTV - 07 (30 /12/22) 那是什么？</a></li>
+<li><a href="/cnnews/20221231/1830485.md">为治痔疮我在美看了6个医生 全新认知美医疗体制</a></li>
+<li><a href="/comments/20221231/1830522.md">“我们要去中国！我们要去中国！”大型翻车现场</a></li>
 <li><a href="/sohnews/20221231/1830423.md">外交部已离世52人，老干部局全阳；死亡率“很难判断”？ 单日1.1万宗；全家接连染疫离世，不出声哭泣的女生；全阳后并未结束，阳康后也要拍片【新闻看点 李沐阳12.30】</a></li>
+<li><a href="/sohnews/20221231/1830438.md">“怎么办？张文宏终于表态：白肺不是奥密克戎引起的！”ShitaoTV - 07 (30 /12/22) 那是什么？</a></li>
 <li><a href="/cbnews/20221231/1830460.md">张文宏：中国感染率将达80% 11亿人染疫</a></li>
 <li><a href="/ssgc/20221231/1830383.md">〖微博谈〗这是有预谋的大屠杀</a></li>
-<li><a href="/comments/20221231/1830522.md">“我们要去中国！我们要去中国！”大型翻车现场</a></li>
+<li><a href="/topimagenews/20221231/1830520.md">2023全球5大警讯 最危险是“它”</a></li>
 <li><a href="/yule/20221231/1830426.md">45岁涂磊现状不容乐观，因新冠反复高烧面色惨白，紧急向网友求助</a></li>
-<li><a href="/sohnews/20221231/1830368.md">“习近平太狂妄还是太傻叉？等同宣告：病毒海啸3年之巅 解封等同屠杀”《今日点击》 (30/12/22) 习近平之举：中共就是中国人的地狱犬</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20221231/1830589.md" target="_blank">泄愤吗？从“白纸革命”到“烟花革命” 中国多地出现反抗禁燃烟花令</a></li>
 <li><a href="/comments/20221231/1830577.md" target="_blank">民主中国阵线2023新年寄语: 直挂云帆济沧海</a></li>
 <li><a href="/comments/20221231/1830576.md" target="_blank">告别2022！烟火接力迎新年 新西兰天空塔率先绽放 悉尼烟火令人叹为观止</a></li>
 <li><a href="/comments/20221231/1830575.md" target="_blank">俄罗斯跨年夜也不消停！乌克兰全境警报大响 俄宣称“必然”战胜</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221231/1830335.md" target="_blank">“死无葬身之地”，哪个染疫名人生前会想到？</a></li>
 <li><a href="/comments/20221231/1830334.md" target="_blank">高宝毅：中国的世界之迷</a></li>
 <li><a href="/comments/20221231/1830333.md" target="_blank">同根：阳性有症状奇多 疫苗ADE恶果真相被淹没</a></li>
-<li><a href="/comments/20221231/1830325.md" target="_blank">袁斌：警惕中共用新冠病毒再次祸害世界</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 <li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 
 </ul>
 </div>
