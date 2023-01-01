@@ -12,7 +12,6 @@
 <li><a href="/comments/20230101/1830803.md">郑州，2023年新年第一天，河南村镇银行储户冲上高速公路抗议，要求银行还钱</a></li>
 <li><a href="/topimagenews/20230101/1830841.md">中共红后代痛批中共当局恬不知耻 每天公布假资料 防疫躺平直接摆烂</a></li>
 <li><a href="/cnnews/20230101/1830782.md">小米创始人雷军父亲去世，死因众说纷纭</a></li>
-<li><a href="/sohnews/20230101/1830662.md">中共下达新命令，党官求人先火化；逾40%是肺炎，重症率0.5%；儿科收老年患者，妇产科收男病患；养老院隐瞒Y情，老人烧11天离世；夜班20急症12亡，殡仪前台人拥挤【新闻看点 李沐阳12.31】</a></li>
 <li><a href="/comments/20230101/1830840.md">寻找赵立坚！民间抵制春晚，小品《抢官材》火了！外交部现重大损失，习近平新年贺词涉高级黑</a></li>
 <li><a href="/cbnews/20230101/1830725.md">老人氧饱和度掉到80% 只因错服了这个“神药”</a></li>
 <li><a href="/cbnews/20230101/1830866.md">张文宏自曝已感染：上海感染人数是“千万级别”</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/weiquan/20230101/1830849.md">因&#8220;白纸抗议运动&#8221;于北京被抓捕的杨柳&#12289;曹芷馨&#12289;古煜&#12289;陈军辉等四人的情况通报</a></li>
 <li><a href="/lifebaike/20230101/1830707.md">一位班主任的大实话：长大后没出息的孩子，家庭都有个共同点</a></li>
 <li><a href="/sohnews/20230101/1830877.md">快跑！留给俄罗斯男人逃命的时间只剩不到一周了｜【#时事军事】#时事军事夏洛山</a></li>
-<li><a href="/topimagenews/20230101/1830775.md">中共公安部再加压！美议员“终会爆炸”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230101/1830790.md">【微博精粹】希望2023带给中国希望</a></li>
+<li><a href="/topimagenews/20230101/1830775.md">中共公安部再加压！美议员“终会爆炸”【阿波罗网报道】</a></li>
 <li><a href="/renquan/20230101/1830871.md">关注白纸运动被捕者倪心怡</a></li>
 <li><a href="/ssgc/20230101/1830913.md">习近平新年贺词透出的信息</a></li>
 <li><a href="/ssgc/20230101/1830687.md">〖兲朝浮世绘〗2022年大事纪总结</a></li>
 <li><a href="/cbnews/20230101/1830778.md">王毅任中共中央外办主任 发表“战狼”文章</a></li>
-<li><a href="/weiquan/20230101/1830854.md">因&#8220;白纸抗议运动&#8221;于成都被抓捕的胖虎女士的情况通报</a></li>
 <li><a href="/sohnews/20230101/1830915.md">世界预言家中的2023年，极不平凡。中美俄三国领导人脑子坏掉，一起自毁。中国将迎巨变，各省自治，香港、西藏获得自由。俄乌战争或台海危机，引爆第三次世界大战？</a></li>
+<li><a href="/weiquan/20230101/1830854.md">因&#8220;白纸抗议运动&#8221;于成都被抓捕的胖虎女士的情况通报</a></li>
+<li><a href="/ssgc/20230101/1830693.md">李承鹏致2022：这场战争输定了，因为我们敬礼敬得太好</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
 
 </ul>
 </div>
