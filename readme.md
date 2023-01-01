@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20221231/1830509.md">触怒中共高层遭整肃！马云“人间蒸发1年”终于现身了…</a></li>
 <li><a href="/topimagenews/20221231/1830431.md">中共现了原形！罕见承认是一个...【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20221231/1830464.md">江峰：头狼免职，战狼性情会变？王毅超龄进入政治局的内幕，秦刚提前三个月担任外长，这一点证其与习近平特殊关系【江峰漫谈20221230第607期】</a></li>
-<li><a href="/yule/20221231/1830379.md">59岁章小蕙上海街头被偶遇，打扮精致气质出众，已长居内地做网红</a></li>
 <li><a href="/comments/20221231/1830522.md">“我们要去中国！我们要去中国！”大型翻车现场</a></li>
+<li><a href="/yule/20221231/1830379.md">59岁章小蕙上海街头被偶遇，打扮精致气质出众，已长居内地做网红</a></li>
 <li><a href="/topimagenews/20221231/1830520.md">2023全球5大警讯 最危险是“它”</a></li>
 <li><a href="/cnnews/20230101/1830628.md">李承鹏致2022一封信：这场战争输定了， 因为我们敬礼敬得太好</a></li>
 <li><a href="/cnnews/20221231/1830529.md">中国疫情海啸 发生危险突变只是时间问题</a></li>
-<li><a href="/sohnews/20221231/1830546.md">中南海病危? 病毒有眼睛 疫情直扑中共高层。习近平体制成旧制度保障? 改革红利用尽 中产阶级消失 未来中国…。@democraticTaiwanChannel</a></li>
 <li><a href="/cnnews/20221231/1830485.md">为治痔疮我在美看了6个医生 全新认知美医疗体制</a></li>
+<li><a href="/sohnews/20221231/1830546.md">中南海病危? 病毒有眼睛 疫情直扑中共高层。习近平体制成旧制度保障? 改革红利用尽 中产阶级消失 未来中国…。@democraticTaiwanChannel</a></li>
 <li><a href="/comments/20221231/1830604.md">河南许昌，民众街头燃放烟花，警察前来抓人，民众抗议！</a></li>
 <li><a href="/comments/20230101/1830609.md">习近平新年贺词称“不同人会有不同诉求很正常“ 网友：监狱能放人吗？</a></li>
 <li><a href="/sohnews/20221231/1830423.md">外交部已离世52人，老干部局全阳；死亡率“很难判断”？ 单日1.1万宗；全家接连染疫离世，不出声哭泣的女生；全阳后并未结束，阳康后也要拍片【新闻看点 李沐阳12.30】</a></li>
 <li><a href="/sohnews/20221231/1830438.md">“怎么办？张文宏终于表态：白肺不是奥密克戎引起的！”ShitaoTV - 07 (30 /12/22) 那是什么？</a></li>
 <li><a href="/cbnews/20221231/1830460.md">张文宏：中国感染率将达80% 11亿人染疫</a></li>
 <li><a href="/ssgc/20221231/1830571.md">习近平政协茶话会讲话透中共衰亡之象</a></li>
+<li><a href="/sohnews/20230101/1830634.md">墙内网友：这是直升机在投毒</a></li>
 <li><a href="/ssgc/20221231/1830383.md">〖微博谈〗这是有预谋的大屠杀</a></li>
 <li><a href="/yule/20221231/1830426.md">45岁涂磊现状不容乐观，因新冠反复高烧面色惨白，紧急向网友求助</a></li>
-<li><a href="/sohnews/20221231/1830368.md">“习近平太狂妄还是太傻叉？等同宣告：病毒海啸3年之巅 解封等同屠杀”《今日点击》 (30/12/22) 习近平之举：中共就是中国人的地狱犬</a></li>
-<li><a href="/sohnews/20230101/1830634.md">墙内网友：这是直升机在投毒</a></li>
+<li><a href="/cbnews/20230101/1830661.md">秦刚替换王毅提前上位 传中共外交系统数十人染疫死</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230101/1830696.md" target="_blank">专访闫丽梦(下)：中国疫情大爆发是否有人为因素？中国民众如何应对？各国对中共高度警惕会减少冲击 ｜#方菲时间 12/31/2022</a></li>
 <li><a href="/cbnews/20230101/1830668.md" target="_blank">天亮时分：10件大事改变中国和世界的进程，2022再回首（政论天下第895集 20221231）</a></li>
 <li><a href="/cbnews/20230101/1830661.md" target="_blank">秦刚替换王毅提前上位 传中共外交系统数十人染疫死</a></li>
 <li><a href="/comments/20230101/1830653.md" target="_blank">一女士问警察：为什么抓他？就因为这个，自己也被警察抓了！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221230/1830087.md" target="_blank">开豪车举白纸声援 小粉红觉醒反共</a></li>
 <li><a href="/cbnews/20221230/1830061.md" target="_blank">中国确诊者出境成功！传“机场帮改资料”…</a></li>
 <li><a href="/cbnews/20221230/1830050.md" target="_blank">苏州美女染疫后竟长出浓密胡须 网民：长挺俊的</a></li>
-<li><a href="/cbnews/20221230/1830049.md" target="_blank">内地院校不再开展核酸筛查 没有疫情可线下教学</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230101/1830696.md" target="_blank">专访闫丽梦(下)：中国疫情大爆发是否有人为因素？中国民众如何应对？各国对中共高度警惕会减少冲击 ｜#方菲时间 12/31/2022</a></li>
 <li><a href="/comments/20230101/1830692.md" target="_blank">从2022年到2023年，谈过去聊未来｜ 老北京茶馆</a></li>
 <li><a href="/comments/20230101/1830676.md" target="_blank">李宇明：中共高喊“人民和生命至上”的谎言</a></li>
 <li><a href="/comments/20230101/1830674.md" target="_blank">中共印假钞</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20221231/1830451.md" target="_blank">警察是否可以随意查看公民移动电话中的内容？</a></li>
 <li><a href="/comments/20221231/1830450.md" target="_blank">德媒：习近平的败笔：防疫失败丢了面子但权利不会动摇</a></li>
 <li><a href="/comments/20221231/1830412.md" target="_blank">维舟：清零派的根本问题</a></li>
-<li><a href="/comments/20221231/1830411.md" target="_blank">越秀山边:2023新年献词：铭记那些让人痛彻心肺的时刻</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 <li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
 <li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 
 </ul>
 </div>
