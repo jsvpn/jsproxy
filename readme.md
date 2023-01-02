@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20230102/1830975.md">2023的第一个热搜，为什么是抢“蒙脱石散”？</a></li>
 <li><a href="/topimagenews/20230102/1830979.md">中共警察大败！许昌突破禁令放烟花 人民战斗起来【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230102/1830997.md">经济真是完犊子了</a></li>
-<li><a href="/topimagenews/20230102/1831128.md">南京新年跨年夜冲塔 警察封不住 人门奔向孙中山雕像【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230102/1831015.md">陈破空：新年伊始，传出习近平内部讲话，这是真的吗？王毅厚着老脸，再抛投名状！又有大批名人染疫亡</a></li>
+<li><a href="/topimagenews/20230102/1831128.md">南京新年跨年夜冲塔 警察封不住 人门奔向孙中山雕像【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230102/1830988.md">这车您敢买？广州车展起火烧车 厂家急甩锅封口</a></li>
 <li><a href="/cnnews/20230102/1831139.md">2023新年 北京万达影院悬挂胡鑫宇巨幅画像 鞭挞邪恶 声援胡家【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230102/1830980.md">科兴疫苗是不是白打了？</a></li>
 <li><a href="/cnnews/20230102/1831126.md">“我不要了，都烂大街了！”</a></li>
 <li><a href="/topimagenews/20230102/1831000.md">新年第一天大爆发！河南村镇银行大户成群结队进郑州抗议</a></li>
 <li><a href="/topimagenews/20230102/1831162.md">河北老君顶挤满人 “阳康”游客6人心衰竭死亡…</a></li>
+<li><a href="/sohnews/20230102/1831185.md">如果消息属实,Omicron在中国诡异的传播速度和致死率真相就清晰了,他们不只放毒还⋯⋯❗️❗️❗️</a></li>
 <li><a href="/cbnews/20230102/1831156.md">上海医生自述：2022最后一天 医学史的至暗时刻</a></li>
 <li><a href="/topimagenews/20230102/1831040.md">张维迎：我们经济严重受伤，要恢复最重要的是...【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230102/1831185.md">如果消息属实,Omicron在中国诡异的传播速度和致死率真相就清晰了,他们不只放毒还⋯⋯❗️❗️❗️</a></li>
 <li><a href="/cnnews/20230102/1830989.md">阴性才能入境美国：中国人压根“不在乎”？</a></li>
 <li><a href="/cnnews/20230102/1831074.md">7岁女儿惨遭性侵勒死，妈妈出庭连开8枪毙了他</a></li>
 <li><a href="/lishi/20230102/1830991.md">本该授衔上将，却只给少将衔，还是暂授</a></li>
 <li><a href="/ssgc/20230102/1830995.md">〖兲朝浮世绘〗只有中共垮台，世界才能有和平</a></li>
 <li><a href="/cnnews/20230102/1831157.md">404文：对中国疫情的几点担忧</a></li>
-<li><a href="/cnnews/20230102/1831052.md">因XBB.1.5变异株，这种药一夜脱销，医生警告</a></li>
+<li><a href="/topimagenews/20230102/1831234.md">传金正恩再出手痛宰4名大学生 只因说了这3字</a></li>
 <li><a href="/sohnews/20230102/1831166.md">河南爆“元旦抗议”！众人举白纸游行；河北疫情超乎想像，医疗崩溃，医生：比当年武汉更甚；尸袋、棺椁严重缺乏，各地大批量订货；各城元旦聚集，“烟花”成维稳对象；炼钢厂变火化厂？</a></li>
-<li><a href="/cnnews/20230102/1830976.md">疫情中国下的狂欢，2023的魔幻开局</a></li>
+<li><a href="/cnnews/20230102/1831052.md">因XBB.1.5变异株，这种药一夜脱销，医生警告</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230103/1831285.md" target="_blank">要动用核武了？俄宣布3款战略轰炸机投入战争</a></li>
+<li><a href="/comments/20230103/1831281.md" target="_blank">时事大家谈：新年贺词明显降调，习近平表面自信但底气不足？</a></li>
 <li><a href="/comments/20230102/1831262.md" target="_blank">时事大家谈：新年贺词明显降调，习近平表面自信但底气不足？2022惨祸连连，官方十大新闻榜与新闻不沾边？</a></li>
 <li><a href="/comments/20230102/1831248.md" target="_blank">67岁孙晋芳 靠换血续命10余年 生命垂危</a></li>
 <li><a href="/comments/20230102/1831084.md" target="_blank">【微博精粹】2023第一奇葩：火葬场升级为秘密情报机关</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230101/1830803.md" target="_blank">郑州，2023年新年第一天，河南村镇银行储户冲上高速公路抗议，要求银行还钱</a></li>
 <li><a href="/comments/20230101/1830796.md" target="_blank">警惕！摆明与世界为敌 习近平当前的两手策略</a></li>
 <li><a href="/comments/20230101/1830780.md" target="_blank">鹿马：动态清零的破产与苏维埃的崩溃——读《二手时间》随想</a></li>
-<li><a href="/comments/20230101/1830776.md" target="_blank">2023年全球法轮功学员恭祝李洪志师父新年快乐</a></li>
-<li><a href="/comments/20230101/1830772.md" target="_blank">一个真正的欧洲乌克兰既需要胜利也需要更强大的法治</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 <li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
 
 </ul>
 </div>
