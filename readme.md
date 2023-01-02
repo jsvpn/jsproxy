@@ -8,7 +8,6 @@
 <li><a href="/weiquan/20230101/1830852.md">因&#8220;白纸抗议运动&#8221;于上海被抓捕的复旦大学日语系2019级学生倪心怡的情况通报</a></li>
 <li><a href="/comments/20230101/1830803.md">郑州，2023年新年第一天，河南村镇银行储户冲上高速公路抗议，要求银行还钱</a></li>
 <li><a href="/topimagenews/20230101/1830841.md">中共红后代痛批中共当局恬不知耻 每天公布假资料 防疫躺平直接摆烂</a></li>
-<li><a href="/cnnews/20230101/1830782.md">小米创始人雷军父亲去世，死因众说纷纭</a></li>
 <li><a href="/comments/20230101/1830840.md">寻找赵立坚！民间抵制春晚，小品《抢官材》火了！外交部现重大损失，习近平新年贺词涉高级黑</a></li>
 <li><a href="/cbnews/20230101/1830866.md">张文宏自曝已感染：上海感染人数是“千万级别”</a></li>
 <li><a href="/weiquan/20230101/1830849.md">因&#8220;白纸抗议运动&#8221;于北京被抓捕的杨柳&#12289;曹芷馨&#12289;古煜&#12289;陈军辉等四人的情况通报</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/sohnews/20230101/1830877.md">快跑！留给俄罗斯男人逃命的时间只剩不到一周了｜【#时事军事】#时事军事夏洛山</a></li>
 <li><a href="/cbnews/20230102/1830937.md">河北疫情凶猛 “比当年武汉还厉害”</a></li>
 <li><a href="/renquan/20230101/1830871.md">关注白纸运动被捕者倪心怡</a></li>
-<li><a href="/topimagenews/20230101/1830790.md">【微博精粹】希望2023带给中国希望</a></li>
 <li><a href="/ssgc/20230101/1830913.md">习近平新年贺词透出的信息</a></li>
-<li><a href="/sohnews/20230101/1830915.md">世界预言家中的2023年，极不平凡。中美俄三国领导人脑子坏掉，一起自毁。中国将迎巨变，各省自治，香港、西藏获得自由。俄乌战争或台海危机，引爆第三次世界大战？</a></li>
 <li><a href="/topimagenews/20230102/1830979.md">中共警察大败！许昌突破禁令放烟花 人民战斗起来【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230101/1830778.md">王毅任中共中央外办主任 发表“战狼”文章</a></li>
+<li><a href="/sohnews/20230101/1830915.md">世界预言家中的2023年，极不平凡。中美俄三国领导人脑子坏掉，一起自毁。中国将迎巨变，各省自治，香港、西藏获得自由。俄乌战争或台海危机，引爆第三次世界大战？</a></li>
 <li><a href="/topimagenews/20230102/1830988.md">这车您敢买？广州车展起火烧车 厂家急甩锅封口</a></li>
 <li><a href="/weiquan/20230101/1830854.md">因&#8220;白纸抗议运动&#8221;于成都被抓捕的胖虎女士的情况通报</a></li>
 <li><a href="/cnnews/20230102/1830980.md">科兴疫苗是不是白打了？</a></li>
 <li><a href="/cbnews/20230101/1830926.md">中国的疫情大流行应该被视为一场政治灾难，而不是公共卫生灾难</a></li>
-<li><a href="/cnnews/20230101/1830783.md">华人自爆机场临时找人带辉瑞神药 苦等6小时…被骂</a></li>
 <li><a href="/cbnews/20230101/1830932.md">河北疫情雪崩 医院接近崩溃</a></li>
+<li><a href="/cnnews/20230102/1830976.md">疫情中国下的狂欢，2023的魔幻开局</a></li>
+<li><a href="/cnnews/20230101/1830798.md">“世界铜王”王文银：手握全球十万亿矿产</a></li>
+<li><a href="/headline/20230102/1830951.md">中国跌入低英语熟练度国家行列 都怪民族主义情绪作祟？</a></li>
+<li><a href="/bblog/20230101/1830846.md">〖微历史〗中共这伙绝对是高危人群</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230102/1831080.md" target="_blank">2024年，美国队和中国队的“大竞逐”</a></li>
 <li><a href="/cbnews/20230102/1831041.md" target="_blank">北京医生疑被施压：开死亡证明不要填“新冠”</a></li>
 <li><a href="/cbnews/20230102/1831021.md" target="_blank">泄愤？从“白纸”到“烟花”，中国多地反抗禁令</a></li>
 <li><a href="/cbnews/20230102/1830977.md" target="_blank">跨年夜 香港狮子山现“释放政治犯”灯牌</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20221231/1830473.md" target="_blank">与习关系亲密 中国新外长自称战狼怒斥西方恶狼</a></li>
 <li><a href="/cbnews/20221231/1830470.md" target="_blank">分析：中共防疫与历史上“战天斗地”有何不同</a></li>
 <li><a href="/cbnews/20221231/1830464.md" target="_blank">江峰：头狼免职，战狼性情会变？王毅超龄进入政治局的内幕，秦刚提前三个月担任外长，这一点证其与习近平特殊关系【江峰漫谈20221230第607期】</a></li>
-<li><a href="/cbnews/20221231/1830460.md" target="_blank">张文宏：中国感染率将达80% 11亿人染疫</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230102/1831084.md" target="_blank">【微博精粹】2023第一奇葩：火葬场升级为秘密情报机关</a></li>
 <li><a href="/comments/20230102/1831073.md" target="_blank">洪博学：习近平的两手策略</a></li>
 <li><a href="/comments/20230102/1831072.md" target="_blank">被挤爆的火葬场，改变不了未来的方向</a></li>
 <li><a href="/comments/20230102/1831071.md" target="_blank">关凤祥：戏说普京的“核讹诈”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230101/1830772.md" target="_blank">一个真正的欧洲乌克兰既需要胜利也需要更强大的法治</a></li>
 <li><a href="/comments/20230101/1830768.md" target="_blank">【杰森视角】 2023年经济：美国微跌，中国高涨？中国疫情海啸将引发何种病毒变异？习近平执政进入新状态？美国2023年最大危机在哪里？普京2023年能否爬出泥潭？</a></li>
 <li><a href="/comments/20230101/1830761.md" target="_blank">李燕铭：瘟疫攻陷中共军队（13） 两名中共上将病亡 开国上将萧华夫人去世 毛泽东警卫员等退役高级将领密集死亡 老红军死亡倍增 保定部队爆发疫情 301医院急诊量激增危重病人增加 空军总医院爆医疗挤兑 天灭中共之病毒亡共系列之二（不断更新）</a></li>
-<li><a href="/comments/20230101/1830753.md" target="_blank">单向：最后一天，记住2022年那些“平庸的善”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
 
 </ul>
 </div>
