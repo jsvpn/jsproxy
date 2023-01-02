@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/weiquan/20230101/1830852.md">因&#8220;白纸抗议运动&#8221;于上海被抓捕的复旦大学日语系2019级学生倪心怡的情况通报</a></li>
-<li><a href="/weiquan/20230101/1830849.md">因&#8220;白纸抗议运动&#8221;于北京被抓捕的杨柳&#12289;曹芷馨&#12289;古煜&#12289;陈军辉等四人的情况通报</a></li>
 <li><a href="/sohnews/20230101/1830877.md">快跑！留给俄罗斯男人逃命的时间只剩不到一周了｜【#时事军事】#时事军事夏洛山</a></li>
 <li><a href="/cbnews/20230101/1830866.md">张文宏自曝已感染：上海感染人数是“千万级别”</a></li>
 <li><a href="/yule/20230101/1830902.md">曝何炅爸爸感染新冠去世，母亲几月前也走了</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/cbnews/20230102/1830937.md">河北疫情凶猛 “比当年武汉还厉害”</a></li>
 <li><a href="/topimagenews/20230102/1830979.md">中共警察大败！许昌突破禁令放烟花 人民战斗起来【阿波罗网报道】</a></li>
 <li><a href="/renquan/20230101/1830871.md">关注白纸运动被捕者倪心怡</a></li>
-<li><a href="/topimagenews/20230102/1830988.md">这车您敢买？广州车展起火烧车 厂家急甩锅封口</a></li>
 <li><a href="/topimagenews/20230102/1831064.md">习近平做出“巨大误判”，权威被削弱</a></li>
 <li><a href="/ssgc/20230101/1830913.md">习近平新年贺词透出的信息</a></li>
+<li><a href="/topimagenews/20230102/1830988.md">这车您敢买？广州车展起火烧车 厂家急甩锅封口</a></li>
 <li><a href="/sohnews/20230101/1830915.md">世界预言家中的2023年，极不平凡。中美俄三国领导人脑子坏掉，一起自毁。中国将迎巨变，各省自治，香港、西藏获得自由。俄乌战争或台海危机，引爆第三次世界大战？</a></li>
 <li><a href="/topimagenews/20230102/1831000.md">新年第一天大爆发！河南村镇银行大户成群结队进郑州抗议</a></li>
-<li><a href="/cnnews/20230102/1830980.md">科兴疫苗是不是白打了？</a></li>
 <li><a href="/ssgc/20230102/1830997.md">经济真是完犊子了</a></li>
+<li><a href="/cnnews/20230102/1830980.md">科兴疫苗是不是白打了？</a></li>
 <li><a href="/weiquan/20230101/1830854.md">因&#8220;白纸抗议运动&#8221;于成都被抓捕的胖虎女士的情况通报</a></li>
 <li><a href="/cnnews/20230102/1830989.md">阴性才能入境美国：中国人压根“不在乎”？</a></li>
-<li><a href="/cbnews/20230101/1830926.md">中国的疫情大流行应该被视为一场政治灾难，而不是公共卫生灾难</a></li>
 <li><a href="/ssgc/20230102/1830995.md">〖兲朝浮世绘〗只有中共垮台，世界才能有和平</a></li>
+<li><a href="/cbnews/20230101/1830926.md">中国的疫情大流行应该被视为一场政治灾难，而不是公共卫生灾难</a></li>
 <li><a href="/cnnews/20230102/1830976.md">疫情中国下的狂欢，2023的魔幻开局</a></li>
+<li><a href="/sohnews/20230102/1831015.md">陈破空：新年伊始，传出习近平内部讲话，这是真的吗？王毅厚着老脸，再抛投名状！又有大批名人染疫亡</a></li>
 <li><a href="/lishi/20230102/1830991.md">本该授衔上将，却只给少将衔，还是暂授</a></li>
-<li><a href="/cbnews/20230101/1830932.md">河北疫情雪崩 医院接近崩溃</a></li>
+<li><a href="/topimagenews/20230102/1831040.md">张维迎：我们经济严重受伤，要恢复最重要的是...【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
 <li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
 
 </ul>
 </div>
