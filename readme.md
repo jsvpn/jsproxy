@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/weiquan/20230101/1830852.md">因&#8220;白纸抗议运动&#8221;于上海被抓捕的复旦大学日语系2019级学生倪心怡的情况通报</a></li>
 <li><a href="/sohnews/20230101/1830877.md">快跑！留给俄罗斯男人逃命的时间只剩不到一周了｜【#时事军事】#时事军事夏洛山</a></li>
 <li><a href="/cbnews/20230101/1830866.md">张文宏自曝已感染：上海感染人数是“千万级别”</a></li>
 <li><a href="/yule/20230101/1830902.md">曝何炅爸爸感染新冠去世，母亲几月前也走了</a></li>
 <li><a href="/topimagenews/20230102/1830975.md">2023的第一个热搜，为什么是抢“蒙脱石散”？</a></li>
 <li><a href="/cbnews/20230102/1830937.md">河北疫情凶猛 “比当年武汉还厉害”</a></li>
+<li><a href="/topimagenews/20230102/1831064.md">习近平做出“巨大误判”，权威被削弱</a></li>
 <li><a href="/topimagenews/20230102/1830979.md">中共警察大败！许昌突破禁令放烟花 人民战斗起来【阿波罗网报道】</a></li>
 <li><a href="/renquan/20230101/1830871.md">关注白纸运动被捕者倪心怡</a></li>
-<li><a href="/topimagenews/20230102/1831064.md">习近平做出“巨大误判”，权威被削弱</a></li>
 <li><a href="/ssgc/20230101/1830913.md">习近平新年贺词透出的信息</a></li>
-<li><a href="/topimagenews/20230102/1830988.md">这车您敢买？广州车展起火烧车 厂家急甩锅封口</a></li>
 <li><a href="/sohnews/20230101/1830915.md">世界预言家中的2023年，极不平凡。中美俄三国领导人脑子坏掉，一起自毁。中国将迎巨变，各省自治，香港、西藏获得自由。俄乌战争或台海危机，引爆第三次世界大战？</a></li>
+<li><a href="/topimagenews/20230102/1830988.md">这车您敢买？广州车展起火烧车 厂家急甩锅封口</a></li>
 <li><a href="/topimagenews/20230102/1831000.md">新年第一天大爆发！河南村镇银行大户成群结队进郑州抗议</a></li>
 <li><a href="/ssgc/20230102/1830997.md">经济真是完犊子了</a></li>
 <li><a href="/cnnews/20230102/1830980.md">科兴疫苗是不是白打了？</a></li>
 <li><a href="/weiquan/20230101/1830854.md">因&#8220;白纸抗议运动&#8221;于成都被抓捕的胖虎女士的情况通报</a></li>
-<li><a href="/cnnews/20230102/1830989.md">阴性才能入境美国：中国人压根“不在乎”？</a></li>
-<li><a href="/ssgc/20230102/1830995.md">〖兲朝浮世绘〗只有中共垮台，世界才能有和平</a></li>
-<li><a href="/cbnews/20230101/1830926.md">中国的疫情大流行应该被视为一场政治灾难，而不是公共卫生灾难</a></li>
-<li><a href="/cnnews/20230102/1830976.md">疫情中国下的狂欢，2023的魔幻开局</a></li>
 <li><a href="/sohnews/20230102/1831015.md">陈破空：新年伊始，传出习近平内部讲话，这是真的吗？王毅厚着老脸，再抛投名状！又有大批名人染疫亡</a></li>
-<li><a href="/lishi/20230102/1830991.md">本该授衔上将，却只给少将衔，还是暂授</a></li>
+<li><a href="/cnnews/20230102/1830989.md">阴性才能入境美国：中国人压根“不在乎”？</a></li>
+<li><a href="/cbnews/20230101/1830926.md">中国的疫情大流行应该被视为一场政治灾难，而不是公共卫生灾难</a></li>
 <li><a href="/topimagenews/20230102/1831040.md">张维迎：我们经济严重受伤，要恢复最重要的是...【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20230102/1830995.md">〖兲朝浮世绘〗只有中共垮台，世界才能有和平</a></li>
+<li><a href="/cnnews/20230102/1830976.md">疫情中国下的狂欢，2023的魔幻开局</a></li>
+<li><a href="/lishi/20230102/1830991.md">本该授衔上将，却只给少将衔，还是暂授</a></li>
+<li><a href="/cbnews/20230101/1830932.md">河北疫情雪崩 医院接近崩溃</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 <li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
 
 </ul>
 </div>
