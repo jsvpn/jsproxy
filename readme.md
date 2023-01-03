@@ -12,22 +12,22 @@
 <li><a href="/sohnews/20230102/1831185.md">如果消息属实,Omicron在中国诡异的传播速度和致死率真相就清晰了,他们不只放毒还⋯⋯❗️❗️❗️</a></li>
 <li><a href="/topimagenews/20230102/1831162.md">河北老君顶挤满人 “阳康”游客6人心衰竭死亡…</a></li>
 <li><a href="/cbnews/20230102/1831156.md">上海医生自述：2022最后一天 医学史的至暗时刻</a></li>
-<li><a href="/topimagenews/20230102/1831040.md">张维迎：我们经济严重受伤，要恢复最重要的是...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230102/1831234.md">传金正恩再出手痛宰4名大学生 只因说了这3字</a></li>
+<li><a href="/topimagenews/20230102/1831040.md">张维迎：我们经济严重受伤，要恢复最重要的是...【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230102/1831074.md">7岁女儿惨遭性侵勒死，妈妈出庭连开8枪毙了他</a></li>
 <li><a href="/sohnews/20230102/1831166.md">河南爆“元旦抗议”！众人举白纸游行；河北疫情超乎想像，医疗崩溃，医生：比当年武汉更甚；尸袋、棺椁严重缺乏，各地大批量订货；各城元旦聚集，“烟花”成维稳对象；炼钢厂变火化厂？</a></li>
 <li><a href="/cnnews/20230102/1831157.md">404文：对中国疫情的几点担忧</a></li>
+<li><a href="/cnnews/20230102/1831052.md">因XBB.1.5变异株，这种药一夜脱销，医生警告</a></li>
 <li><a href="/cbnews/20230102/1831256.md">大陆将面临多波感染高峰？专家：可能在五、六月份</a></li>
 <li><a href="/worldnews/20230102/1831163.md">快讯：这国再加码 停发中国旅游签证</a></li>
-<li><a href="/cnnews/20230102/1831052.md">因XBB.1.5变异株，这种药一夜脱销，医生警告</a></li>
 <li><a href="/comments/20230102/1831248.md">67岁孙晋芳 靠换血续命10余年 生命垂危</a></li>
 <li><a href="/lifebaike/20230102/1831150.md">A型、B型、AB型、O型血，哪一种血型的人免疫力更好？</a></li>
+<li><a href="/cnnews/20230103/1831342.md">南京冲破禁令放烟花 与警察发生冲突 掀翻警车 武警进入镇压【阿波罗网报道】</a></li>
 <li><a href="/funmedia/20230102/1831090.md">飞机上喝饮料曝露人格 空服员揭内幕：别点咖啡或茶</a></li>
 <li><a href="/topimagenews/20230102/1831120.md">千万富翁沦猪仔 中共使馆不救 印度战斗机救国民【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230102/1831167.md">河南村镇银行维权事件延烧！推特粉专曝：大额储户十点后全失联了</a></li>
 <li><a href="/cnnews/20230102/1831122.md">通话后，秦刚和布林肯都发了一篇推文</a></li>
 <li><a href="/weiquan/20230102/1831138.md">因在中共二十大前夕发文呼吁&#8220;修改党章&#12289;党政分离 防杜个人崇拜&#8221; 而遭抓捕的河北公民董洪义获刑1年6个月</a></li>
-<li><a href="/cnnews/20230102/1831106.md">林彪安眠药吃多了 上天安门在毛面前出了洋相</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230103/1831436.md" target="_blank">李燕铭：2023新年两天15中共名人病亡 中共吹鼓手相声演员何德利去世 八一电影制片厂导演韦廉病亡曾执导多部红色电影 翻译家王智量病亡曾将右派流放经历写成小说震动文坛 北京舞蹈学院建校元老王鼎藩病亡曾为《上甘岭》配乐 “康伯”龚锦堂病亡《外来媳妇本地郎》已有7人离世 中国工程院院士范维唐去世 病毒亡共之2023年中共名人死亡名单汇总（15）</a></li>
+<li><a href="/comments/20230103/1831433.md" target="_blank">南方周末新年献词 一支磨秃了箭头的响箭</a></li>
 <li><a href="/comments/20230103/1831400.md" target="_blank">文昭：大马发现病毒的「中国变体」；习近平重复一句话，暗示其权威严重动摇？</a></li>
 <li><a href="/comments/20230103/1831364.md" target="_blank">中国恐逾6亿人染疫 京广沪现殡葬“黄牛”</a></li>
 <li><a href="/comments/20230103/1831352.md" target="_blank">【杜耀明评论】历史错误疫情滔天 中港关系矛盾难逃</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230102/1831027.md" target="_blank">维舟：我们一起度过这艰难的一年</a></li>
 <li><a href="/comments/20230102/1831026.md" target="_blank">吴政翰：俄军正丧失战场主动权</a></li>
 <li><a href="/comments/20230102/1831025.md" target="_blank">2023，请停止说谎，相信真话的力量</a></li>
-<li><a href="/comments/20230102/1831018.md" target="_blank">李燕铭：瘟疫重创中共官僚体系 高官密集病亡（9） 两正部级多名副部级高官病亡 中共副部级高官夫妇双双病亡 中共公安司法系统沦陷 北京山东等地政法系统九成人员染疫 中共外交系统数十人染疫死 外交部发言人赵立坚消失多日 天灭中共之病毒亡共系列之三（不断更新）</a></li>
-<li><a href="/comments/20230102/1830943.md" target="_blank">张国荣京剧老师，成了党的代价</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
 
 </ul>
 </div>
