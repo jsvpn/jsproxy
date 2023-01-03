@@ -10,23 +10,23 @@
 <li><a href="/topimagenews/20230102/1831234.md">传金正恩再出手痛宰4名大学生 只因说了这3字</a></li>
 <li><a href="/cbnews/20230102/1831156.md">上海医生自述：2022最后一天 医学史的至暗时刻</a></li>
 <li><a href="/sohnews/20230102/1831166.md">河南爆“元旦抗议”！众人举白纸游行；河北疫情超乎想像，医疗崩溃，医生：比当年武汉更甚；尸袋、棺椁严重缺乏，各地大批量订货；各城元旦聚集，“烟花”成维稳对象；炼钢厂变火化厂？</a></li>
-<li><a href="/cnnews/20230103/1831342.md">南京冲破禁令放烟花 与警察发生冲突 掀翻警车 武警进入镇压【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230103/1831411.md">大出血身亡！六四镇压主力部队政委死了！【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230103/1831342.md">南京冲破禁令放烟花 与警察发生冲突 掀翻警车 武警进入镇压【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230102/1831256.md">大陆将面临多波感染高峰？专家：可能在五、六月份</a></li>
-<li><a href="/cbnews/20230103/1831348.md">烟花革命？多地民众放烟花 中共警察心态崩了</a></li>
 <li><a href="/cnnews/20230102/1831157.md">404文：对中国疫情的几点担忧</a></li>
+<li><a href="/cbnews/20230103/1831348.md">烟花革命？多地民众放烟花 中共警察心态崩了</a></li>
 <li><a href="/comments/20230102/1831248.md">67岁孙晋芳 靠换血续命10余年 生命垂危</a></li>
+<li><a href="/cnnews/20230103/1831487.md">笑喷！李克强和习近平公开分裂到底！【阿波罗网报道】</a></li>
 <li><a href="/worldnews/20230102/1831163.md">快讯：这国再加码 停发中国旅游签证</a></li>
 <li><a href="/sohnews/20230103/1831412.md">两则政治轶事展现李克强性格缺陷！团派仕途起点决定他们只配当伙计！ （一平论政2023/1/2)</a></li>
-<li><a href="/lifebaike/20230102/1831150.md">A型、B型、AB型、O型血，哪一种血型的人免疫力更好？</a></li>
 <li><a href="/baitai/20230103/1831338.md">中共上将传噩耗 河北医生讲述崩溃现状</a></li>
 <li><a href="/cbnews/20230103/1831356.md">网友入境北京 曝签一“承诺书”就能免隔离走人</a></li>
-<li><a href="/cnnews/20230103/1831487.md">笑喷！李克强和习近平公开分裂到底！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230103/1831351.md">多么痛的领悟，网友们又看出了一个真相</a></li>
 <li><a href="/topimagenews/20230103/1831310.md">蓬佩奥吁禁中国旅客入境：习近平要播毒全世界</a></li>
 <li><a href="/cnnews/20230102/1831167.md">河南村镇银行维权事件延烧！推特粉专曝：大额储户十点后全失联了</a></li>
 <li><a href="/comments/20230103/1831311.md">北京某医院，医疗资源崩溃，病人住到了街上，如同战时医院。</a></li>
 <li><a href="/sohnews/20230102/1831181.md">🔴 四川钢厂申请变火葬场, 艾滋病药成中国首款新冠药! 止泻药卖断货, 也能治新冠?! 新年夜多地燃放烟花, 警察四处扑火管不了! 烟花禁令被逼退, 官方无奈调整: 随便放!【20230102】</a></li>
+<li><a href="/topimagenews/20230103/1831401.md">殡仪馆现状，超出了想象</a></li>
 <li><a href="/topimagenews/20230102/1831203.md">被删文！“我去看守所会见了一位勇敢的女孩！”【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230103/1831549.md" target="_blank">让我们一起等待寒冬过去</a></li>
 <li><a href="/comments/20230103/1831444.md" target="_blank">幽灵来了！抢不到药的县城，偏方当道</a></li>
 <li><a href="/comments/20230103/1831443.md" target="_blank">人民需要释放，多少年都没见过这么多人了</a></li>
 <li><a href="/comments/20230103/1831442.md" target="_blank">如松：俄罗斯，体面的撤退</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230102/1831046.md" target="_blank">性解放 从欧美流向中国 【欺世大观】163</a></li>
 <li><a href="/comments/20230102/1831045.md" target="_blank">汪有：经济真是完犊子了</a></li>
 <li><a href="/comments/20230102/1831029.md" target="_blank">对中国疫情的担忧，让我想起电视剧切尔诺贝利</a></li>
-<li><a href="/comments/20230102/1831028.md" target="_blank">江雪：2023年的第一天，我想起你们的光亮</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 
 </ul>
 </div>
