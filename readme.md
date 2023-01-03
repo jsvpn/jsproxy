@@ -97,6 +97,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230104/1831815.md" target="_blank">2022如果是“清”之一年，2023就该是“醒”之一年</a></li>
+<li><a href="/comments/20230104/1831814.md" target="_blank">颜雪：2022年度事件盘点</a></li>
+<li><a href="/comments/20230104/1831813.md" target="_blank">张菁：中国人，别忘了2022这一年</a></li>
+<li><a href="/comments/20230104/1831812.md" target="_blank">川人：谎言当真措施无效，真正避疫良方何在？</a></li>
+<li><a href="/comments/20230104/1831811.md" target="_blank">觅真：人权的恶棍必将受到法律的制裁</a></li>
+<li><a href="/comments/20230104/1831810.md" target="_blank">王赫：2022中国人口负增长？</a></li>
+<li><a href="/comments/20230104/1831809.md" target="_blank">见真：中共体制下这三种人的惊天罪恶</a></li>
+<li><a href="/comments/20230104/1831808.md" target="_blank">袁斌：关于中国这轮疫情的一连串疑问</a></li>
 <li><a href="/comments/20230104/1831805.md" target="_blank">小刚导演不忍了</a></li>
 <li><a href="/comments/20230104/1831770.md" target="_blank">当局动用挖掘机挖坑，埋葬新冠感染的死亡者。</a></li>
 <li><a href="/comments/20230103/1831701.md" target="_blank">时事大家谈：2022年乏善可陈，2023年你对习期待什么？</a></li>
@@ -114,14 +122,6 @@
 <li><a href="/comments/20230103/1831442.md" target="_blank">如松：俄罗斯，体面的撤退</a></li>
 <li><a href="/comments/20230103/1831436.md" target="_blank">李燕铭：2023新年两天15中共名人病亡 中共吹鼓手相声演员何德利去世 八一电影制片厂导演韦廉病亡曾执导多部红色电影 翻译家王智量病亡曾将右派流放经历写成小说震动文坛 北京舞蹈学院建校元老王鼎藩病亡曾为《上甘岭》配乐 “康伯”龚锦堂病亡《外来媳妇本地郎》已有7人离世 中国工程院院士范维唐去世 病毒亡共之2023年中共名人死亡名单汇总（15）</a></li>
 <li><a href="/comments/20230103/1831433.md" target="_blank">南方周末新年献词 一支磨秃了箭头的响箭</a></li>
-<li><a href="/comments/20230103/1831400.md" target="_blank">文昭：大马发现病毒的「中国变体」；习近平重复一句话，暗示其权威严重动摇？</a></li>
-<li><a href="/comments/20230103/1831364.md" target="_blank">中国恐逾6亿人染疫 京广沪现殡葬“黄牛”</a></li>
-<li><a href="/comments/20230103/1831352.md" target="_blank">【杜耀明评论】历史错误疫情滔天 中港关系矛盾难逃</a></li>
-<li><a href="/comments/20230103/1831311.md" target="_blank">北京某医院，医疗资源崩溃，病人住到了街上，如同战时医院。</a></li>
-<li><a href="/comments/20230103/1831305.md" target="_blank">新年贺礼！乌军“海马斯”一阵猛轰 俄400动员兵惨沦炮灰</a></li>
-<li><a href="/comments/20230103/1831289.md" target="_blank">评论 | 余杰：任何关于中国的乐观评估都是错的</a></li>
-<li><a href="/comments/20230103/1831288.md" target="_blank">【台海局势】共军战机首迫近“邻接区”上空 分析：3分钟飞到台湾没时间应变</a></li>
-<li><a href="/comments/20230103/1831286.md" target="_blank">突袭成功！香港狮山举灯牌 促释放政治犯</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 
 </ul>
 </div>
