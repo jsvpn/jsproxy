@@ -8,25 +8,25 @@
 <li><a href="/sohnews/20230102/1831185.md">如果消息属实,Omicron在中国诡异的传播速度和致死率真相就清晰了,他们不只放毒还⋯⋯❗️❗️❗️</a></li>
 <li><a href="/topimagenews/20230102/1831234.md">传金正恩再出手痛宰4名大学生 只因说了这3字</a></li>
 <li><a href="/cnnews/20230103/1831487.md">笑喷！李克强和习近平公开分裂到底！【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230103/1831411.md">大出血身亡！六四镇压主力部队政委死了！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230103/1831342.md">南京冲破禁令放烟花 与警察发生冲突 掀翻警车 武警进入镇压【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230103/1831411.md">大出血身亡！六四镇压主力部队政委死了！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230102/1831256.md">大陆将面临多波感染高峰？专家：可能在五、六月份</a></li>
 <li><a href="/cbnews/20230103/1831348.md">烟花革命？多地民众放烟花 中共警察心态崩了</a></li>
 <li><a href="/comments/20230102/1831248.md">67岁孙晋芳 靠换血续命10余年 生命垂危</a></li>
 <li><a href="/sohnews/20230103/1831412.md">两则政治轶事展现李克强性格缺陷！团派仕途起点决定他们只配当伙计！ （一平论政2023/1/2)</a></li>
 <li><a href="/baitai/20230103/1831338.md">中共上将传噩耗 河北医生讲述崩溃现状</a></li>
 <li><a href="/baitai/20230103/1831472.md">习近平必被永远定在中华民族历史的耻辱柱上</a></li>
-<li><a href="/cbnews/20230103/1831356.md">网友入境北京 曝签一“承诺书”就能免隔离走人</a></li>
 <li><a href="/topimagenews/20230103/1831495.md">中国疫情三高峰影响之大 令习近平意想不到</a></li>
+<li><a href="/cbnews/20230103/1831356.md">网友入境北京 曝签一“承诺书”就能免隔离走人</a></li>
 <li><a href="/comments/20230103/1831311.md">北京某医院，医疗资源崩溃，病人住到了街上，如同战时医院。</a></li>
 <li><a href="/cnnews/20230103/1831351.md">多么痛的领悟，网友们又看出了一个真相</a></li>
-<li><a href="/topimagenews/20230103/1831310.md">蓬佩奥吁禁中国旅客入境：习近平要播毒全世界</a></li>
 <li><a href="/topimagenews/20230103/1831519.md">“最强免疫脱逃能力”XBB.1.5入侵上海 中国民众：根本看不到未来了</a></li>
-<li><a href="/sohnews/20230102/1831181.md">🔴 四川钢厂申请变火葬场, 艾滋病药成中国首款新冠药! 止泻药卖断货, 也能治新冠?! 新年夜多地燃放烟花, 警察四处扑火管不了! 烟花禁令被逼退, 官方无奈调整: 随便放!【20230102】</a></li>
+<li><a href="/topimagenews/20230103/1831310.md">蓬佩奥吁禁中国旅客入境：习近平要播毒全世界</a></li>
 <li><a href="/topimagenews/20230103/1831401.md">殡仪馆现状，超出了想象</a></li>
-<li><a href="/topimagenews/20230102/1831203.md">被删文！“我去看守所会见了一位勇敢的女孩！”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230103/1831493.md">【微博精粹】白纸革命延续：你不让老子放炮 老子就掀翻你警车</a></li>
+<li><a href="/topimagenews/20230102/1831203.md">被删文！“我去看守所会见了一位勇敢的女孩！”【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230103/1831304.md">王毅人生最辉煌的时刻</a></li>
+<li><a href="/ssgc/20230103/1831470.md">〖兲朝浮世绘〗胡锡进这个大奸臣居然要跟中共决裂？</a></li>
 <li><a href="/baitai/20230103/1831347.md">习近平新年贺词罕见承认这些现象 世界各国不再相信中共</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230103/1831593.md" target="_blank">“我不付这笔钱”！俄罗斯“菁英”疯逃 普丁开铡！外媒曝超惨反效果</a></li>
 <li><a href="/topimagenews/20230103/1831519.md" target="_blank">“最强免疫脱逃能力”XBB.1.5入侵上海 中国民众：根本看不到未来了</a></li>
 <li><a href="/topimagenews/20230103/1831495.md" target="_blank">中国疫情三高峰影响之大 令习近平意想不到</a></li>
 <li><a href="/topimagenews/20230103/1831494.md" target="_blank">战事告急！俄新年节目主持人：俄罗斯领土正在扩大 不管你喜不喜欢</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230102/1831000.md" target="_blank">新年第一天大爆发！河南村镇银行大户成群结队进郑州抗议</a></li>
 <li><a href="/topimagenews/20230102/1830988.md" target="_blank">这车您敢买？广州车展起火烧车 厂家急甩锅封口</a></li>
 <li><a href="/topimagenews/20230102/1830979.md" target="_blank">中共警察大败！许昌突破禁令放烟花 人民战斗起来【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230102/1830978.md" target="_blank">“这还是群体免疫吗？这是群体受疫吧”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
 <li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 
 </ul>
 </div>
