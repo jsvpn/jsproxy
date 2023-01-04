@@ -20,11 +20,11 @@
 <li><a href="/baitai/20230103/1831514.md">习近平默认这事？中共公安部再加压</a></li>
 <li><a href="/cnnews/20230103/1831544.md">历史性的一幕出现！2023或注定很不平凡...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230103/1831593.md">“我不付这笔钱”！俄罗斯“菁英”疯逃 普丁开铡！外媒曝超惨反效果</a></li>
-<li><a href="/sohnews/20230103/1831610.md">网传元老之子十问决策者！“烟花革命”登场,无数革命在路上……国人不再恐惧！！！</a></li>
 <li><a href="/cbnews/20230103/1831608.md">小孩放烟花 拘留家长！中共防“烟花革命”已抓8名“为首者”</a></li>
+<li><a href="/sohnews/20230103/1831610.md">网传元老之子十问决策者！“烟花革命”登场,无数革命在路上……国人不再恐惧！！！</a></li>
 <li><a href="/lifebaike/20230103/1831534.md">49年建政后 毛泽东为什么叫宋庆龄滚？</a></li>
 <li><a href="/health/20230103/1831569.md">感染了奥密克戎，怎么快速从阳转阴？做好以下6点加速病毒排出</a></li>
-<li><a href="/ssgc/20230103/1831425.md">〖微博谈〗说正常的是他们家没死人</a></li>
+<li><a href="/cnnews/20230104/1831790.md">一位美国医生总结：为什么中国大白肺”这么多</a></li>
 <li><a href="/cnnews/20230103/1831557.md">太丢人！普京震怒 限5日内拿出报告</a></li>
 <li><a href="/topimagenews/20230103/1831639.md">陆地方大员持续搬风 信长星任江苏书记 陈刚任青海书记</a></li>
 <li><a href="/baitai/20230103/1831501.md">传「二次阳」更可怕 北京高官泄底疫情</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230104/1831877.md" target="_blank">刘忠良:三年前我预言中国封城防疫必然最惨失败、西方“躺平”最先胜利</a></li>
 <li><a href="/comments/20230104/1831833.md" target="_blank">北京当局在郊区加紧建造新的火化炉，要求1月8日前完工。</a></li>
 <li><a href="/comments/20230104/1831815.md" target="_blank">2022如果是“清”之一年，2023就该是“醒”之一年</a></li>
 <li><a href="/comments/20230104/1831814.md" target="_blank">颜雪：2022年度事件盘点</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230103/1831444.md" target="_blank">幽灵来了！抢不到药的县城，偏方当道</a></li>
 <li><a href="/comments/20230103/1831443.md" target="_blank">人民需要释放，多少年都没见过这么多人了</a></li>
 <li><a href="/comments/20230103/1831442.md" target="_blank">如松：俄罗斯，体面的撤退</a></li>
-<li><a href="/comments/20230103/1831436.md" target="_blank">李燕铭：2023新年两天15中共名人病亡 中共吹鼓手相声演员何德利去世 八一电影制片厂导演韦廉病亡曾执导多部红色电影 翻译家王智量病亡曾将右派流放经历写成小说震动文坛 北京舞蹈学院建校元老王鼎藩病亡曾为《上甘岭》配乐 “康伯”龚锦堂病亡《外来媳妇本地郎》已有7人离世 中国工程院院士范维唐去世 病毒亡共之2023年中共名人死亡名单汇总（15）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
 <li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
 <li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
 
 </ul>
 </div>
