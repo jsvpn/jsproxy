@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20230103/1831487.md">笑喷！李克强和习近平公开分裂到底！【阿波罗网报道】</a></li>
-<li><a href="/baitai/20230103/1831472.md">习近平必被永远定在中华民族历史的耻辱柱上</a></li>
 <li><a href="/topimagenews/20230103/1831495.md">中国疫情三高峰影响之大 令习近平意想不到</a></li>
 <li><a href="/topimagenews/20230103/1831519.md">“最强免疫脱逃能力”XBB.1.5入侵上海 中国民众：根本看不到未来了</a></li>
 <li><a href="/cnnews/20230103/1831563.md">中共官员都在“润” “逃逸式离职”背后有玄机….</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/cnnews/20230103/1831556.md">2023中南海面临五大变数</a></li>
 <li><a href="/topimagenews/20230103/1831493.md">【微博精粹】白纸革命延续：你不让老子放炮 老子就掀翻你警车</a></li>
 <li><a href="/topimagenews/20230103/1831638.md">二十大前一度去向不明 李桥铭接共军陆军司令员</a></li>
-<li><a href="/ssgc/20230103/1831470.md">〖兲朝浮世绘〗胡锡进这个大奸臣居然要跟中共决裂？</a></li>
+<li><a href="/cnnews/20230104/1831790.md">一位美国医生总结：为什么中国大白肺”这么多</a></li>
 <li><a href="/cnnews/20230103/1831524.md">政治怪人：属于男人的爱好 林彪一样也没有</a></li>
 <li><a href="/baitai/20230103/1831514.md">习近平默认这事？中共公安部再加压</a></li>
-<li><a href="/cnnews/20230104/1831790.md">一位美国医生总结：为什么中国大白肺”这么多</a></li>
+<li><a href="/topimagenews/20230104/1831797.md">实拍上海医疗系统崩塌 殡仪馆惨不忍睹</a></li>
 <li><a href="/cnnews/20230103/1831544.md">历史性的一幕出现！2023或注定很不平凡...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230103/1831593.md">“我不付这笔钱”！俄罗斯“菁英”疯逃 普丁开铡！外媒曝超惨反效果</a></li>
 <li><a href="/sohnews/20230103/1831610.md">网传元老之子十问决策者！“烟花革命”登场,无数革命在路上……国人不再恐惧！！！</a></li>
-<li><a href="/topimagenews/20230104/1831797.md">实拍上海医疗系统崩塌 殡仪馆惨不忍睹</a></li>
 <li><a href="/cbnews/20230103/1831608.md">小孩放烟花 拘留家长！中共防“烟花革命”已抓8名“为首者”</a></li>
 <li><a href="/lifebaike/20230103/1831534.md">49年建政后 毛泽东为什么叫宋庆龄滚？</a></li>
-<li><a href="/health/20230103/1831569.md">感染了奥密克戎，怎么快速从阳转阴？做好以下6点加速病毒排出</a></li>
-<li><a href="/topimagenews/20230104/1831799.md">悼文泄密！中共高官“许多零件都不是自己的” 那会是谁的？</a></li>
 <li><a href="/cnnews/20230104/1831789.md">一篇悼念中共高官的文章 竟暴露器官移植的秘密</a></li>
+<li><a href="/topimagenews/20230104/1831799.md">悼文泄密！中共高官“许多零件都不是自己的” 那会是谁的？</a></li>
+<li><a href="/health/20230103/1831569.md">感染了奥密克戎，怎么快速从阳转阴？做好以下6点加速病毒排出</a></li>
 <li><a href="/topimagenews/20230103/1831639.md">陆地方大员持续搬风 信长星任江苏书记 陈刚任青海书记</a></li>
+<li><a href="/cnnews/20230103/1831557.md">太丢人！普京震怒 限5日内拿出报告</a></li>
+<li><a href="/baitai/20230103/1831501.md">传「二次阳」更可怕 北京高官泄底疫情</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230104/1831934.md" target="_blank">道一声“人民辛苦了”，新年献词怎会成新年献丑</a></li>
+<li><a href="/comments/20230104/1831933.md" target="_blank">彭远文：动态清零要为今天的局面负全责</a></li>
 <li><a href="/comments/20230104/1831922.md" target="_blank">阑夕:仿佛被困在一个轮回里</a></li>
 <li><a href="/comments/20230104/1831921.md" target="_blank">2023年，会不会是很艰难困苦的一年？‌‌</a></li>
 <li><a href="/comments/20230104/1831896.md" target="_blank">宋国诚：中共国即将到来的第九危机——芯片割喉战</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230103/1831647.md" target="_blank">不甩中共抗议 法国持续要求中国旅客做病毒检测</a></li>
 <li><a href="/comments/20230103/1831632.md" target="_blank">【财经拆局】金融「大事件」回顾，「输」字行头的2022年</a></li>
 <li><a href="/comments/20230103/1831624.md" target="_blank">烟花革命？ 南京万人献花孙中山铜像 河南千人包围公安砸警车</a></li>
-<li><a href="/comments/20230103/1831623.md" target="_blank">曾劝不要囤药 上海感染科医生发文道歉挨轰</a></li>
-<li><a href="/comments/20230103/1831622.md" target="_blank">无惧俄空袭威胁！ 乌克兰欧盟高峰会2月3日基辅登场</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
 
 </ul>
 </div>
