@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20230103/1831593.md">“我不付这笔钱”！俄罗斯“菁英”疯逃 普丁开铡！外媒曝超惨反效果</a></li>
 <li><a href="/cnnews/20230104/1831789.md">一篇悼念中共高官的文章 竟暴露器官移植的秘密</a></li>
 <li><a href="/cbnews/20230103/1831608.md">小孩放烟花 拘留家长！中共防“烟花革命”已抓8名“为首者”</a></li>
-<li><a href="/health/20230103/1831569.md">感染了奥密克戎，怎么快速从阳转阴？做好以下6点加速病毒排出</a></li>
 <li><a href="/topimagenews/20230103/1831639.md">陆地方大员持续搬风 信长星任江苏书记 陈刚任青海书记</a></li>
 <li><a href="/cbnews/20230104/1831806.md">河南烟花事件：他踏上警车宣告胜利 事后还发文</a></li>
-<li><a href="/cnnews/20230104/1831782.md">乌战要剧终？中共报道藏玄机 美国主导中俄命运</a></li>
 <li><a href="/cnnews/20230104/1831781.md">404热帖：2023年，会不会是很艰难困苦的一年？</a></li>
+<li><a href="/cnnews/20230104/1831782.md">乌战要剧终？中共报道藏玄机 美国主导中俄命运</a></li>
 <li><a href="/baitai/20230104/1831798.md">中共人事新变局 两省「一把手」同日换 曾有「兵变」传闻上将任陆军司令</a></li>
 <li><a href="/cnnews/20230104/1831780.md">这波疫情，出现一对卧龙凤雏</a></li>
 <li><a href="/comments/20230104/1831770.md">当局动用挖掘机挖坑，埋葬新冠感染的死亡者。</a></li>
 <li><a href="/headline/20230104/1831709.md">【疫情大爆发】辉瑞特效药遭权贵垄断 民间重症患者拿药救命需审批</a></li>
-<li><a href="/cnnews/20230104/1831776.md">美加10大最脏和最干净蔬果出炉 它连续四年第一</a></li>
 <li><a href="/baitai/20230104/1831828.md">学者：所有大乱的条件都到齐了</a></li>
+<li><a href="/cnnews/20230104/1831776.md">美加10大最脏和最干净蔬果出炉 它连续四年第一</a></li>
 <li><a href="/comments/20230104/1831805.md">小刚导演不忍了</a></li>
 <li><a href="/topimagenews/20230104/1831938.md">俄罗斯全线溃败！乌克兰精锐部队“奇袭” 俄军南线战损500人再创新高</a></li>
+<li><a href="/topimagenews/20230104/1831852.md">搞不定自己人…争夺众院议长 麦卡锡连输3轮</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230104/1832046.md" target="_blank">欧阳文:清零的崩溃 或是习极权崩溃的一次预演</a></li>
 <li><a href="/comments/20230104/1831986.md" target="_blank">北京，医院里到处都是躺倒的病人。</a></li>
 <li><a href="/comments/20230104/1831981.md" target="_blank">春晚另类节目单爆款！冯小刚2022上银幕计画提前实现？自我禁言，陈道明被钟南山挖坑</a></li>
 <li><a href="/comments/20230104/1831971.md" target="_blank">李燕铭：浙江画院原院长潘鸿海病亡 其画作毛泽东三上西湖北高峰成为杭州党史馆镇馆之宝 明星周迅出名前曾为其做人体模特一幅画拍出187万 浙江国画界泰斗施明德等三名著名画家相继离世 中共末日之病毒亡共（十三）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230104/1831808.md" target="_blank">袁斌：关于中国这轮疫情的一连串疑问</a></li>
 <li><a href="/comments/20230104/1831805.md" target="_blank">小刚导演不忍了</a></li>
 <li><a href="/comments/20230104/1831770.md" target="_blank">当局动用挖掘机挖坑，埋葬新冠感染的死亡者。</a></li>
-<li><a href="/comments/20230103/1831701.md" target="_blank">时事大家谈：2022年乏善可陈，2023年你对习期待什么？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 
 </ul>
 </div>
