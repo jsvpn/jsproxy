@@ -9,13 +9,10 @@
 <li><a href="/topimagenews/20230104/1831799.md">悼文泄密！中共高官“许多零件都不是自己的” 那会是谁的？</a></li>
 <li><a href="/topimagenews/20230104/1831940.md">谁说习近平权力稳固？这会让很多人大吃一惊【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230104/1831797.md">实拍上海医疗系统崩塌 殡仪馆惨不忍睹</a></li>
-<li><a href="/cnnews/20230104/1831781.md">404热帖：2023年，会不会是很艰难困苦的一年？</a></li>
 <li><a href="/cnnews/20230104/1831789.md">一篇悼念中共高官的文章 竟暴露器官移植的秘密</a></li>
 <li><a href="/baitai/20230104/1831798.md">中共人事新变局 两省「一把手」同日换 曾有「兵变」传闻上将任陆军司令</a></li>
 <li><a href="/cbnews/20230104/1831806.md">河南烟花事件：他踏上警车宣告胜利 事后还发文</a></li>
-<li><a href="/cnnews/20230104/1831782.md">乌战要剧终？中共报道藏玄机 美国主导中俄命运</a></li>
 <li><a href="/topimagenews/20230104/1832031.md">美芯片战北京认输了？中共1兆大撒币恐喊卡 残酷原因曝光</a></li>
-<li><a href="/cnnews/20230104/1831780.md">这波疫情，出现一对卧龙凤雏</a></li>
 <li><a href="/cnnews/20230104/1831970.md">习近平讲话时，背后这东西释放啥信号？【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230104/1831957.md">〖兲朝浮世绘〗像中共这样不为人民谋福祉的政权就应该被推翻</a></li>
 <li><a href="/topimagenews/20230104/1831938.md">俄罗斯全线溃败！乌克兰精锐部队“奇袭” 俄军南线战损500人再创新高</a></li>
@@ -28,6 +25,9 @@
 <li><a href="/sohnews/20230104/1832078.md">大陆称多地感染高峰已过，但第二波疫情将爆发！中国疫情高度不透明，多国加强入境检疫，但存在漏洞？美国主流病毒株XBB.1.5现身中国，全球疫情没结束！【#蔚然财商天下】2023.01.04</a></li>
 <li><a href="/cnnews/20230104/1832040.md">爸爸血氧69，我们决定不去医院</a></li>
 <li><a href="/comments/20230104/1831805.md">小刚导演不忍了</a></li>
+<li><a href="/funmedia/20230104/1832044.md">100年前 专家这样预测2023年</a></li>
+<li><a href="/topimagenews/20230104/1831852.md">搞不定自己人…争夺众院议长 麦卡锡连输3轮</a></li>
+<li><a href="/cnnews/20230104/1831878.md">中国“伟大抗疫精神研究”被叫停 研究经费1000万美元</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230105/1832277.md" target="_blank">欧美要求中国旅客疫检阴性 北京硬刚：没有依据</a></li>
 <li><a href="/cbnews/20230105/1832213.md" target="_blank">中共部级高官病亡 被曝曾换多个器官引热议</a></li>
 <li><a href="/cbnews/20230105/1832203.md" target="_blank">疫情蔓延中国农村 没药没试剂盒百姓喊苦</a></li>
 <li><a href="/cbnews/20230105/1832197.md" target="_blank">2023最惊吓黑天鹅？葛林斯班：两岸爆“某种冲突 ”</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230103/1831348.md" target="_blank">烟花革命？多地民众放烟花 中共警察心态崩了</a></li>
 <li><a href="/comments/20230103/1831311.md" target="_blank">北京某医院，医疗资源崩溃，病人住到了街上，如同战时医院。</a></li>
 <li><a href="/cbnews/20230103/1831307.md" target="_blank">河南村镇银行暴雷垫付烂尾 储户徒步上高速路维权</a></li>
-<li><a href="/cbnews/20230103/1831302.md" target="_blank">军权仅次金正恩 朝鲜军中2号人物被撤换</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 <li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
 
 </ul>
 </div>
