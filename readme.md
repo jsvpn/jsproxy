@@ -17,17 +17,17 @@
 <li><a href="/cbnews/20230104/1831980.md">江峰：习近平服软了？ “中国那麽大” 可以有不同声音还是必须只能有领袖的声音。再次拒绝欧盟免费疫苗，变种奥密克戎一个截图引发新恐慌原因在此。烟花与白纸究竟有什麽可怕？【江峰漫谈20230103第608期】</a></li>
 <li><a href="/cnnews/20230104/1832012.md">网友制作视频《愤怒2022》 声讨中共国祸国殃民的重大事件【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230105/1832230.md">一家4口开特斯拉坠25楼高悬崖，警察到场后惊呆</a></li>
+<li><a href="/cnnews/20230105/1832296.md">习近平竟在暗中回应了胡锦涛“被离场”等事件</a></li>
 <li><a href="/cnnews/20230104/1831962.md">烟花革命又起 中国正在大变前夜</a></li>
 <li><a href="/cnnews/20230104/1832040.md">爸爸血氧69，我们决定不去医院</a></li>
 <li><a href="/funmedia/20230104/1832044.md">100年前 专家这样预测2023年</a></li>
 <li><a href="/topimagenews/20230104/1831976.md">与中共脱钩已成定局 欧洲投资者转向东南亚</a></li>
-<li><a href="/cnnews/20230105/1832296.md">习近平竟在暗中回应了胡锦涛“被离场”等事件</a></li>
-<li><a href="/cnnews/20230104/1831878.md">中国“伟大抗疫精神研究”被叫停 研究经费1000万美元</a></li>
 <li><a href="/comments/20230104/1831986.md">北京，医院里到处都是躺倒的病人。</a></li>
 <li><a href="/cbnews/20230105/1832213.md">中共部级高官病亡 被曝曾换多个器官引热议</a></li>
 <li><a href="/sohnews/20230104/1831973.md">长寿退休高官的死亡诅咒；胡鑫宇案新线索，校长夫人有猫腻。｜薇羽看世间 第587期 20220103</a></li>
-<li><a href="/funmedia/20230104/1831988.md">世界上真的有鬼吗？这20张经典照片给你答案</a></li>
 <li><a href="/cnnews/20230104/1832168.md">中国急建“简易火化炉”影片曝光！人民半夜冲殡仪馆⋯替病殁亲人卡位</a></li>
+<li><a href="/funmedia/20230104/1831988.md">世界上真的有鬼吗？这20张经典照片给你答案</a></li>
+<li><a href="/sohnews/20230104/1832095.md">中国7亿人染疫还大开国门 习近平两手策略吓坏全球。防疫彻底躺平 每日新增3700万人确诊 农历新年恐达11亿人。备战才能避战 重磅国家改革 兵役延长一年 疑美论又再起!2023.01.04</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230105/1832362.md" target="_blank">死不起 中国当天火化价格飙到7万 殡葬业大瘫痪</a></li>
 <li><a href="/comments/20230105/1832325.md" target="_blank">【围炉夜话01/04】疫情下官逼民反，烟花革命接力，要改朝换代了？新国会议长选不出来，美国怎么了？｜方伟 方菲 唐靖远 David｜ 1/4/2023</a></li>
 <li><a href="/cbnews/20230105/1832277.md" target="_blank">欧美要求中国旅客疫检阴性 北京硬刚：没有依据</a></li>
 <li><a href="/cbnews/20230105/1832213.md" target="_blank">中共部级高官病亡 被曝曾换多个器官引热议</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230103/1831454.md" target="_blank">天亮时分：更多城市加入“烟花革命”，习担心自己权力被清零；IMF总裁对中国经济预测悲观；北韩干掉军队一号人物，普京暗示战争加码（政论天下第896集 20230102）</a></li>
 <li><a href="/cbnews/20230103/1831356.md" target="_blank">网友入境北京 曝签一“承诺书”就能免隔离走人</a></li>
 <li><a href="/cbnews/20230103/1831348.md" target="_blank">烟花革命？多地民众放烟花 中共警察心态崩了</a></li>
-<li><a href="/comments/20230103/1831311.md" target="_blank">北京某医院，医疗资源崩溃，病人住到了街上，如同战时医院。</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230105/1832365.md" target="_blank">杜政:习近平新年改口风 事关红二代的怒火？</a></li>
+<li><a href="/comments/20230105/1832364.md" target="_blank">颜纯钩:从量变到质变：中国在世道大变的前夜</a></li>
+<li><a href="/comments/20230105/1832361.md" target="_blank">狠！零下二十度停暖气</a></li>
 <li><a href="/comments/20230105/1832336.md" target="_blank">文昭：瞎哔哔病毒变体一周之内强势来袭，中国快速过峰要烂尾？老干部死亡名单透露的秘密</a></li>
 <li><a href="/comments/20230105/1832326.md" target="_blank">晓光:新年的第一个夜晚，我很难过</a></li>
 <li><a href="/comments/20230105/1832325.md" target="_blank">【围炉夜话01/04】疫情下官逼民反，烟花革命接力，要改朝换代了？新国会议长选不出来，美国怎么了？｜方伟 方菲 唐靖远 David｜ 1/4/2023</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230104/1832123.md" target="_blank">俄罗斯诡计得逞！ 纽时：乌克兰用昂贵飞弹打廉价无人机</a></li>
 <li><a href="/comments/20230104/1832122.md" target="_blank">字节跳动裁员不给年终 传员工气炸与HR互殴</a></li>
 <li><a href="/comments/20230104/1832116.md" target="_blank">【梁京评论】2023：普习困兽斗与世界新秩序</a></li>
-<li><a href="/comments/20230104/1832109.md" target="_blank">众叛亲离也要说真相！美国第一女预言家珍妮密会白宫说了大家都不想听的话！特异功能者看见水晶球里的天机，比川普还夸张⋯⋯</a></li>
-<li><a href="/comments/20230104/1832105.md" target="_blank">中国松绑清零政策 学者点出时机、姿势和方式都不对</a></li>
-<li><a href="/comments/20230104/1832046.md" target="_blank">欧阳文:清零的崩溃 或是习极权崩溃的一次预演</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
 
 </ul>
 </div>
