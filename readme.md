@@ -18,16 +18,16 @@
 <li><a href="/cnnews/20230105/1832422.md">地方大员调动 这些省委书记都可能进京升官</a></li>
 <li><a href="/cbnews/20230105/1832492.md">菲律宾要到钱了 小马科斯见习近平发联合声明</a></li>
 <li><a href="/topimagenews/20230105/1832491.md">丈夫已成炮灰！俄军“寡妇团”要普京动员百万人参战…</a></li>
+<li><a href="/cbnews/20230106/1832709.md">消息：习近平为何突然放弃清零政策</a></li>
 <li><a href="/cnnews/20230105/1832606.md">大妈在后院洗菜“遇大熊猫下山”转身见1幕吓坏 画面被疯传</a></li>
 <li><a href="/sohnews/20230105/1832375.md">陈破空：网传赵立坚死了？怪事连连：太行山村民与世隔绝，忽然一夜全阳。重庆23名学生吃樱桃亡？北京航班惊悚出事。美国议长难产，美国民主出问题？</a></li>
 <li><a href="/sohnews/20230105/1832390.md">WHO发出迄今最强烈警告：中国的数据太可笑，会害死很多人！日本加大对中国旅客检疫力度，欧盟多数国家赞成限制，法国测出三分之一陆客阳性</a></li>
 <li><a href="/cnnews/20230105/1832507.md">共和党众院一片乱象 川普大骂麦康诺与妻赵小兰</a></li>
 <li><a href="/cbnews/20230105/1832575.md">俄军缴械投降！乌军反攻 夺回新塞利夫斯克</a></li>
-<li><a href="/cbnews/20230106/1832709.md">消息：习近平为何突然放弃清零政策</a></li>
 <li><a href="/cnnews/20230105/1832501.md">人在日本 马云视频中表示：希望尽快回到中国</a></li>
 <li><a href="/cnnews/20230105/1832421.md">华人买的新冠特效药 “这是一个专门针对中国人的假药骗局”</a></li>
-<li><a href="/baitai/20230105/1832430.md">坚决反对习近平连任，坚决反对习近平修改宪法</a></li>
 <li><a href="/topimagenews/20230105/1832619.md">余茂春：对一个民主国家的攻击，就是对所有国家的攻击【阿波罗网报道】</a></li>
+<li><a href="/baitai/20230105/1832430.md">坚决反对习近平连任，坚决反对习近平修改宪法</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230106/1832780.md" target="_blank">“人矿”一词走红引发热议 中共全面封杀</a></li>
 <li><a href="/cbnews/20230106/1832709.md" target="_blank">消息：习近平为何突然放弃清零政策</a></li>
 <li><a href="/cbnews/20230106/1832693.md" target="_blank">杭州腹泻患者暴增 疑XBB变种毒株多地爆发</a></li>
 <li><a href="/cbnews/20230106/1832682.md" target="_blank">快讯／美国海军第七舰队“锺云号驱逐舰”越过台湾海峡了</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230104/1831980.md" target="_blank">江峰：习近平服软了？ “中国那麽大” 可以有不同声音还是必须只能有领袖的声音。再次拒绝欧盟免费疫苗，变种奥密克戎一个截图引发新恐慌原因在此。烟花与白纸究竟有什麽可怕？【江峰漫谈20230103第608期】</a></li>
 <li><a href="/cbnews/20230104/1831916.md" target="_blank">确诊数恐破6亿！中国20天感染率“超过全球3年”</a></li>
 <li><a href="/cbnews/20230104/1831915.md" target="_blank">天亮时分：烟花革命持续发酵，中共难过的除夕夜；美国众议院议长选举流产，子曰：“君子群而不党”；中共老干部大量死亡的原因（政论天下第897集 20230103）</a></li>
-<li><a href="/cbnews/20230104/1831889.md" target="_blank">为中共效力 纽约知名亲共侨领陈清泉病亡</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 
 </ul>
 </div>
