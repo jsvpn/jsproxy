@@ -11,22 +11,22 @@
 <li><a href="/cnnews/20230105/1832230.md">一家4口开特斯拉坠25楼高悬崖，警察到场后惊呆</a></li>
 <li><a href="/topimagenews/20230105/1832488.md">习近平竟在暗中回应了胡锦涛“被立场”等事件</a></li>
 <li><a href="/cnnews/20230105/1832284.md">女老板卖尸体十余年：挺新鲜的，买整副算你便宜</a></li>
-<li><a href="/topimagenews/20230105/1832412.md">突然！台下中共士兵“嗖”的站起，举枪就要射击…【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230105/1832266.md">北京石家庄现二次感染 上吐下泻 居民开始囤纸尿布</a></li>
+<li><a href="/topimagenews/20230105/1832412.md">突然！台下中共士兵“嗖”的站起，举枪就要射击…【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230105/1832290.md">301医院主任曾发公开信 曝江泽民一“硬伤”</a></li>
 <li><a href="/sohnews/20230105/1832206.md">“乾坤大逆转！张文宏取代钟南山：中共国首席抗议科学家！ ”《今日点击》 (04/01/23) 中共承认：XBB-中共病毒习BB大流行</a></li>
 <li><a href="/topimagenews/20230105/1832514.md">中共正部级老干部染疫身亡 子女发文记录全过程：真想大哭一场【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230105/1832213.md">中共部级高官病亡 被曝曾换多个器官引热议</a></li>
 <li><a href="/cnnews/20230104/1832168.md">中国急建“简易火化炉”影片曝光！人民半夜冲殡仪馆⋯替病殁亲人卡位</a></li>
+<li><a href="/cbnews/20230105/1832213.md">中共部级高官病亡 被曝曾换多个器官引热议</a></li>
 <li><a href="/cbnews/20230105/1832410.md">天亮时分：习被评为全球第二大威胁；新冠新变种出现，传播率更高；一个月内三次示弱，习亲自回应胡锦涛被离场，芯片大跃进烂尾（政论天下第898集 20230104）</a></li>
 <li><a href="/cnnews/20230105/1832295.md">世卫组织:XBB.1.5是迄今传染性最强新冠变种</a></li>
 <li><a href="/ssgc/20230105/1832356.md">〖微博谈〗人矿</a></li>
 <li><a href="/ssgc/20230104/1832129.md">习近平新年改口风 事关红二代的怒火？</a></li>
-<li><a href="/topimagenews/20230105/1832238.md">草案曝光！欧盟将跟进限制中国入境旅客</a></li>
 <li><a href="/cnnews/20230105/1832291.md">这些对中共的“抹黑”，非常到位</a></li>
+<li><a href="/topimagenews/20230105/1832238.md">草案曝光！欧盟将跟进限制中国入境旅客</a></li>
 <li><a href="/ssgc/20230105/1832485.md">〖兲朝浮世绘〗这到底是中共的失败还是西方国家的失败？</a></li>
 <li><a href="/sohnews/20230104/1832110.md">陈破空：习近平被列为世界第二大风险！中国人死不起，丧葬费天价。北京教授一首诗爆红，总结2022</a></li>
-<li><a href="/cnnews/20230105/1832421.md">华人买的新冠特效药 “这是一个专门针对中国人的假药骗局”</a></li>
+<li><a href="/topimagenews/20230105/1832491.md">丈夫已成炮灰！俄军“寡妇团”要普京动员百万人参战…</a></li>
 <li><a href="/sohnews/20230105/1832375.md">陈破空：网传赵立坚死了？怪事连连：太行山村民与世隔绝，忽然一夜全阳。重庆23名学生吃樱桃亡？北京航班惊悚出事。美国议长难产，美国民主出问题？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230105/1832586.md" target="_blank">【未普评论】2022：习近平的政治幻想破灭（上）</a></li>
 <li><a href="/comments/20230105/1832505.md" target="_blank">黑龙江鹤岗零下26度 供热暖公司突宣布“停止供暖”</a></li>
 <li><a href="/comments/20230105/1832504.md" target="_blank">疫情海啸袭来！中国入境南韩旅客落地筛检阳性率突破30％</a></li>
 <li><a href="/comments/20230105/1832496.md" target="_blank">零件好的青年被锁定？新年爆惊天大案：高官文章泄密、惊呆寻子父母！烟花革命藏中共末日密码</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230105/1832312.md" target="_blank">清醒：在大疫面前自救的具体做法</a></li>
 <li><a href="/comments/20230105/1832311.md" target="_blank">重症高峰出现，上海各大医院迎来“最艰难时刻”</a></li>
 <li><a href="/comments/20230105/1832310.md" target="_blank">网传红二代马晓力发文：十问中共决策者</a></li>
-<li><a href="/comments/20230105/1832309.md" target="_blank">伍新：从“鞭炮炸周魂”看“烟花革命”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
 <li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 <li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 
 </ul>
 </div>
