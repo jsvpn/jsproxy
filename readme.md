@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20230105/1832296.md">习近平竟在暗中回应了胡锦涛“被离场”等事件</a></li>
 <li><a href="/sohnews/20230105/1832216.md">“怎么办？张文宏终于表态：白肺不是奥密克戎引起的！”</a></li>
-<li><a href="/sohnews/20230104/1832078.md">大陆称多地感染高峰已过，但第二波疫情将爆发！中国疫情高度不透明，多国加强入境检疫，但存在漏洞？美国主流病毒株XBB.1.5现身中国，全球疫情没结束！【#蔚然财商天下】2023.01.04</a></li>
 <li><a href="/comments/20230104/1832109.md">众叛亲离也要说真相！美国第一女预言家珍妮密会白宫说了大家都不想听的话！特异功能者看见水晶球里的天机，比川普还夸张⋯⋯</a></li>
 <li><a href="/cnnews/20230105/1832230.md">一家4口开特斯拉坠25楼高悬崖，警察到场后惊呆</a></li>
 <li><a href="/topimagenews/20230105/1832412.md">突然！台下中共士兵“嗖”的站起，举枪就要射击…【阿波罗网报道】</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/cnnews/20230105/1832290.md">301医院主任曾发公开信 曝江泽民一“硬伤”</a></li>
 <li><a href="/baitai/20230105/1832266.md">北京石家庄现二次感染 上吐下泻 居民开始囤纸尿布</a></li>
 <li><a href="/cbnews/20230105/1832213.md">中共部级高官病亡 被曝曾换多个器官引热议</a></li>
-<li><a href="/cnnews/20230104/1832168.md">中国急建“简易火化炉”影片曝光！人民半夜冲殡仪馆⋯替病殁亲人卡位</a></li>
 <li><a href="/sohnews/20230105/1832206.md">“乾坤大逆转！张文宏取代钟南山：中共国首席抗议科学家！ ”《今日点击》 (04/01/23) 中共承认：XBB-中共病毒习BB大流行</a></li>
-<li><a href="/cnnews/20230105/1832295.md">世卫组织:XBB.1.5是迄今传染性最强新冠变种</a></li>
+<li><a href="/cnnews/20230104/1832168.md">中国急建“简易火化炉”影片曝光！人民半夜冲殡仪馆⋯替病殁亲人卡位</a></li>
 <li><a href="/cbnews/20230105/1832410.md">天亮时分：习被评为全球第二大威胁；新冠新变种出现，传播率更高；一个月内三次示弱，习亲自回应胡锦涛被离场，芯片大跃进烂尾（政论天下第898集 20230104）</a></li>
+<li><a href="/cnnews/20230105/1832295.md">世卫组织:XBB.1.5是迄今传染性最强新冠变种</a></li>
 <li><a href="/sohnews/20230104/1832095.md">中国7亿人染疫还大开国门 习近平两手策略吓坏全球。防疫彻底躺平 每日新增3700万人确诊 农历新年恐达11亿人。备战才能避战 重磅国家改革 兵役延长一年 疑美论又再起!2023.01.04</a></li>
+<li><a href="/topimagenews/20230105/1832514.md">中共正部级老干部染疫身亡 子女发文记录全过程：真想大哭一场【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20230105/1832356.md">〖微博谈〗人矿</a></li>
 <li><a href="/topimagenews/20230105/1832238.md">草案曝光！欧盟将跟进限制中国入境旅客</a></li>
 <li><a href="/cnnews/20230105/1832291.md">这些对中共的“抹黑”，非常到位</a></li>
-<li><a href="/ssgc/20230105/1832356.md">〖微博谈〗人矿</a></li>
 <li><a href="/ssgc/20230104/1832129.md">习近平新年改口风 事关红二代的怒火？</a></li>
-<li><a href="/topimagenews/20230105/1832514.md">中共正部级老干部染疫身亡 子女发文记录全过程：真想大哭一场【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230104/1832110.md">陈破空：习近平被列为世界第二大风险！中国人死不起，丧葬费天价。北京教授一首诗爆红，总结2022</a></li>
 <li><a href="/cnnews/20230105/1832421.md">华人买的新冠特效药 “这是一个专门针对中国人的假药骗局”</a></li>
+<li><a href="/sohnews/20230105/1832375.md">陈破空：网传赵立坚死了？怪事连连：太行山村民与世隔绝，忽然一夜全阳。重庆23名学生吃樱桃亡？北京航班惊悚出事。美国议长难产，美国民主出问题？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 <li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
 <li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
 
 </ul>
 </div>
