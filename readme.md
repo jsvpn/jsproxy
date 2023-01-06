@@ -6,20 +6,17 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/comments/20230106/1832808.md">1月4日，天安门广场军警穿黑色制服，鸣放22响礼炮并降下国旗。发生了什么重大事件？</a></li>
-<li><a href="/cbnews/20230106/1832709.md">消息：习近平为何突然放弃清零政策</a></li>
 <li><a href="/cnnews/20230106/1832737.md">官方急删！本想攻击余茂春 中媒奇文反开启民智</a></li>
 <li><a href="/sohnews/20230106/1832830.md">陈破空：震动！惊传丁薛祥那个了？北京一度下半旗。或与韩正相关。美媒爆料:习近平被迫放弃封控政策始末。但未提神秘原因</a></li>
 <li><a href="/topimagenews/20230106/1832760.md">一首诗歌振臂高呼《反了吧！》 号召中国人民合力推翻中共【阿波罗网报道】</a></li>
 <li><a href="/comments/20230106/1832899.md">万里次子万仲翔猝死 习远平送花圈 万里给出三种选择 万仲翔被逼与蒋光鼐之女蒋定粤离婚 差点蒙冤入狱 抗日名将蒋光鼐文革中惨遭破害 一子被打聋一子自杀未遂 一女被劳改一女遭毁容 中南海不可告人的秘密_568</a></li>
 <li><a href="/lifebaike/20230106/1832751.md">【揭秘】王光美住怀仁堂后 一天换三套衣服 毛泽东每天一只鸡</a></li>
 <li><a href="/cbnews/20230106/1832780.md">“人矿”一词走红引发热议 中共全面封杀</a></li>
-<li><a href="/topimagenews/20230106/1832711.md">拯救人命 德传染病学家吁中共立刻叫停这一做法</a></li>
 <li><a href="/topimagenews/20230106/1833056.md">金正恩遭爆每晚带女人开房间！淫乱过往曝光 老爸金正日也没辙</a></li>
 <li><a href="/cbnews/20230106/1832984.md">陆发改委前副主任：近期会有共同富裕大力举措</a></li>
 <li><a href="/cnnews/20230106/1832836.md">曾被成龙要电话 网红空姐晒“浓妆床照”挨轰</a></li>
 <li><a href="/cbnews/20230106/1832944.md">怕成乌鲁木齐中路翻版？才发生群众抗议 南京急拆“热河路”路标</a></li>
 <li><a href="/cnnews/20230106/1832893.md">日本新冠死亡率震惊全球</a></li>
-<li><a href="/topimagenews/20230106/1832712.md">中国惊爆火化尸骨随地扔 “遗体集中营”太吓人</a></li>
 <li><a href="/sohnews/20230106/1832795.md">习近平反常让步，但即将疯狂反扑；反习最佳时机已至，若错过中国将成地狱！ （一平论政2023/1/5)</a></li>
 <li><a href="/topimagenews/20230106/1832733.md">直击北上广医院 现场视频告诉你疫情有多严重【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230106/1832932.md">〖兲朝浮世绘〗中共想办法逼着全民撒谎</a></li>
@@ -28,6 +25,9 @@
 <li><a href="/cnnews/20230106/1832975.md">疫情下的中国精英</a></li>
 <li><a href="/baitai/20230106/1832994.md">蔡奇指示宣传「主旋律」 中国百姓怒火高</a></li>
 <li><a href="/cnnews/20230106/1832969.md">赴韩整形！确诊陆客落跑穿“China无敌”大衣遭逮 陆网崩溃：超丢脸</a></li>
+<li><a href="/health/20230106/1832991.md">“阳了”之后不能做5件事：喝酒排第2，洗澡排最后，别不当回事</a></li>
+<li><a href="/cbnews/20230106/1832877.md">中共正部级老领导走了，只配一个纸棺材</a></li>
+<li><a href="/baitai/20230106/1833051.md">医疗内部人士泄重要消息 美媒曝中共解封真相</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230107/1833152.md" target="_blank">李燕铭：习近平新年打虎提速升级 三虎同日落马 一虎被判死缓终身监禁 一虎受审两虎被诉 中纪委全会前夕反腐大片连播四集 中纪委重磅发文：党内深层次问题尚未根本解决 打虎一刻不停 习近平决战江曾（七二）</a></li>
 <li><a href="/comments/20230107/1833146.md" target="_blank">时事大家谈：习近平位列二号世界风险，他为何如此危险？</a></li>
 <li><a href="/comments/20230107/1833127.md" target="_blank">时事大家谈：生死时刻中国特权游戏，帕罗韦德如何超越茅台成重礼？&#160;&#160;&#160;</a></li>
 <li><a href="/comments/20230106/1833110.md" target="_blank">时事大家谈：习近平位列二号世界风险，他为何如此危险？生死时刻中国特权游戏，帕罗韦德如何超越茅台成重礼？&#160;&#160;&#160;</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230106/1832713.md" target="_blank">这个冬天，欧洲人没挨冻，我们中国人挨冻了</a></li>
 <li><a href="/comments/20230105/1832635.md" target="_blank">时事大家谈：三年恶梦重演 中共防疫失败症结何在？</a></li>
 <li><a href="/comments/20230105/1832634.md" target="_blank">时事大家谈：新冠危机再起 中国反制各国是否有理？</a></li>
-<li><a href="/comments/20230105/1832623.md" target="_blank">时事大家谈：新冠危机再起 中国反制各国是否有理？三年恶梦重演 中共防疫失败症结何在？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 
 </ul>
 </div>
