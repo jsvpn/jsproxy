@@ -23,11 +23,11 @@
 <li><a href="/cnnews/20230107/1833183.md">不停地吃！加国女孩意外体验全球最豪华商务舱</a></li>
 <li><a href="/sohnews/20230107/1833386.md">人矿爆红中共急封，曝光不能说的真相？消失一个月，赵立坚在哪乐？疫情加速清零中共党员？超自然避疫解方，实测有效？（2023.1.7）｜世界的十字路口 唐浩</a></li>
 <li><a href="/baitai/20230107/1833190.md">中共高层大洗牌 这个人的去向备受关注</a></li>
-<li><a href="/sohnews/20230107/1833375.md">XBB15毒株可怕之处！“带病毒”华男闯首尔，落网后，背部字迹让韩国网友崩溃；丁薛祥是江派？我们来扒扒他的历史；张文宏：很多医院“救治无效”，患者眼睁睁变重症；“唐国强”润了？ ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20230107/1833395.md">关于美中俄三国的惊人预言！2037年世界正式进入新纪元？！东方圣人出世，用神杖唤醒人类，不同信仰的人都只听祂的！</a></li>
+<li><a href="/sohnews/20230107/1833375.md">XBB15毒株可怕之处！“带病毒”华男闯首尔，落网后，背部字迹让韩国网友崩溃；丁薛祥是江派？我们来扒扒他的历史；张文宏：很多医院“救治无效”，患者眼睁睁变重症；“唐国强”润了？ ｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/sohnews/20230107/1833396.md">陈破空：众多高官名人亡，其中一人打击王沪宁！赵立坚消失，竟是武大郎故事翻版？美国众议长终于出炉，历经四天15轮投票！创下164年历史</a></li>
 <li><a href="/sohnews/20230107/1833253.md">【直播】习近平权威受挫生恼怒，党媒连发两文释信号；赵立坚“消失”与中共最恐惧的事；索尼微博禁言全网猜谜，真正原因是这？</a></li>
 <li><a href="/comments/20230107/1833268.md">文昭：心腹大事喊停，习偬这回真没钱了！家底败光後的局势发展轨迹、你需要做的准备</a></li>
-<li><a href="/baitai/20230107/1833340.md">唐山再现恶性案件 女子请求报警：我不行了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230108/1833434.md" target="_blank">重庆，中元汇吉生物大渡口药厂上万名工人聚集抗议，大批警察前来镇压！</a></li>
 <li><a href="/comments/20230108/1833431.md" target="_blank">重庆中元汇吉药厂工人聚集抗议，并与大批防爆警察对峙！</a></li>
 <li><a href="/comments/20230107/1833395.md" target="_blank">关于美中俄三国的惊人预言！2037年世界正式进入新纪元？！东方圣人出世，用神杖唤醒人类，不同信仰的人都只听祂的！</a></li>
 <li><a href="/cbnews/20230107/1833366.md" target="_blank">2022至少172名法轮功学员被中共迫害死</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230106/1832808.md" target="_blank">1月4日，天安门广场军警穿黑色制服，鸣放22响礼炮并降下国旗。发生了什么重大事件？</a></li>
 <li><a href="/cbnews/20230106/1832780.md" target="_blank">“人矿”一词走红引发热议 中共全面封杀</a></li>
 <li><a href="/cbnews/20230106/1832709.md" target="_blank">消息：习近平为何突然放弃清零政策</a></li>
-<li><a href="/cbnews/20230106/1832693.md" target="_blank">杭州腹泻患者暴增 疑XBB变种毒株多地爆发</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230108/1833434.md" target="_blank">重庆，中元汇吉生物大渡口药厂上万名工人聚集抗议，大批警察前来镇压！</a></li>
 <li><a href="/comments/20230108/1833431.md" target="_blank">重庆中元汇吉药厂工人聚集抗议，并与大批防爆警察对峙！</a></li>
 <li><a href="/comments/20230107/1833400.md" target="_blank">前中共司法部长傅政华受贿逾亿判死缓 镜头前忏悔</a></li>
 <li><a href="/comments/20230107/1833399.md" target="_blank">美众院议长出炉！麦卡锡经历15轮投票终赢得大位</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230107/1833263.md" target="_blank">4港人渔民被囚菲律宾 3人今返港 续求中央政府协助余下1人返港</a></li>
 <li><a href="/comments/20230107/1833260.md" target="_blank">王赫：2022美国对中共经济竞争的两大进展</a></li>
 <li><a href="/comments/20230107/1833256.md" target="_blank">专访韩秀：中国疫情背后的政府责任；精神影响物质，对抗自然会带来灾难；各国应保护好自己百姓 ｜#方菲时间 01/06/2022</a></li>
-<li><a href="/comments/20230107/1833250.md" target="_blank">上天为何灭中共？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 <li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
 
 </ul>
 </div>
