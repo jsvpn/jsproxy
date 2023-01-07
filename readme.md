@@ -8,15 +8,14 @@
 <li><a href="/topimagenews/20230106/1833056.md">金正恩遭爆每晚带女人开房间！淫乱过往曝光 老爸金正日也没辙</a></li>
 <li><a href="/cbnews/20230106/1832984.md">陆发改委前副主任：近期会有共同富裕大力举措</a></li>
 <li><a href="/baitai/20230106/1833051.md">医疗内部人士泄重要消息 美媒曝中共解封真相</a></li>
-<li><a href="/topimagenews/20230107/1833181.md">玩火自焚…..北京首次尴尬反转</a></li>
 <li><a href="/cnnews/20230107/1833287.md">新君既立必杀旧臣？传丁薛祥轻生下一个轮到“他”【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230107/1833181.md">玩火自焚…..北京首次尴尬反转</a></li>
 <li><a href="/baitai/20230106/1832994.md">蔡奇指示宣传「主旋律」 中国百姓怒火高</a></li>
 <li><a href="/health/20230106/1832991.md">“阳了”之后不能做5件事：喝酒排第2，洗澡排最后，别不当回事</a></li>
 <li><a href="/cbnews/20230107/1833309.md">天亮时分：体制内传出异议声音，今年两会有意外吗？关于“丁薛祥自杀”的政治常识；XBB变种，是否会打乱习近平过峰部署？（政论天下第900集 20230106）</a></li>
 <li><a href="/cnnews/20230106/1832975.md">疫情下的中国精英</a></li>
 <li><a href="/baitai/20230107/1833232.md">胡锦涛之子新年露面 谣传不断 中南海进入「多事时代」？</a></li>
 <li><a href="/cnnews/20230106/1832969.md">赴韩整形！确诊陆客落跑穿“China无敌”大衣遭逮 陆网崩溃：超丢脸</a></li>
-<li><a href="/baitai/20230106/1832965.md">宋国诚：中国即将到来的第十危机——习近平的末路狂奔</a></li>
 <li><a href="/sohnews/20230106/1833052.md">陈破空：国难深重，彭丽媛一身红裙喜阳阳！她要当政治局委员？高层没有女人之谜：为她留名额。两男人因她高升？上海舞台剧突遭取消</a></li>
 <li><a href="/topimagenews/20230106/1832970.md">说好的共同富裕呢？中国又传“炫薪”事件银行家高调称有“6.45亿”</a></li>
 <li><a href="/topimagenews/20230107/1833276.md">为何上海人率先喊出“共产党下台”？原因在此！【阿波罗网报道】</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/sohnews/20230106/1833057.md">川普被提名议长，幽默回应。麦卡锡本可获得218票，却自毁良机。反对者披露真正原因，曝光国会黑暗内幕规则，铁了心要逼麦卡锡让路。四名可能的候选人被提出。</a></li>
 <li><a href="/topimagenews/20230106/1832979.md">烟火革命再起?不理中共禁令 多地民众仍放烟火 还吹唢呐庆新年</a></li>
 <li><a href="/cnnews/20230107/1833183.md">不停地吃！加国女孩意外体验全球最豪华商务舱</a></li>
+<li><a href="/cbnews/20230107/1833123.md">陆专家：新冠不是大号流感 北京的患者中招很深</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
 
 </ul>
 </div>
