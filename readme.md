@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20230107/1833287.md">新君既立必杀旧臣？传丁薛祥轻生下一个轮到“他”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230107/1833181.md">玩火自焚…..北京首次尴尬反转</a></li>
+<li><a href="/cnnews/20230107/1833287.md">新君既立必杀旧臣？传丁薛祥轻生下一个轮到“他”【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230107/1833309.md">天亮时分：体制内传出异议声音，今年两会有意外吗？关于“丁薛祥自杀”的政治常识；XBB变种，是否会打乱习近平过峰部署？（政论天下第900集 20230106）</a></li>
 <li><a href="/baitai/20230107/1833232.md">胡锦涛之子新年露面 谣传不断 中南海进入「多事时代」？</a></li>
 <li><a href="/sohnews/20230107/1833130.md">“应当是7000万人呀！”⋯⋯  来自北京 四川 重庆的官方统计</a></li>
-<li><a href="/topimagenews/20230107/1833276.md">为何上海人率先喊出“共产党下台”？原因在此！【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230107/1833272.md">〖微博谈〗信任危机终将全面爆发</a></li>
+<li><a href="/topimagenews/20230107/1833276.md">为何上海人率先喊出“共产党下台”？原因在此！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230107/1833368.md">孔庆东摊上事？影射习近平该下台？病患多震惊医生，走廊上紧急插管；艾芬一辈子的痛，院方曾表达道歉；攻击专家学者，大V刘春被禁言；网友来信：三伯的奇蹟【新闻看点 李沐阳1.6】</a></li>
 <li><a href="/cbnews/20230107/1833193.md">疫情大爆炸 中国工程院官网披露院士成批逝世</a></li>
 <li><a href="/topimagenews/20230107/1833214.md">士气大振！第12轮投票 麦卡锡得票有斩获</a></li>
 <li><a href="/ssgc/20230107/1833350.md">〖兲朝浮世绘〗人民日报都开始批评躺平防疫了 习总这是要跟谁玩命斗争？</a></li>
+<li><a href="/comments/20230107/1833376.md">日本尸检：接种疫苗的死者尸检体温异常高－免疫系统基因组变化</a></li>
 <li><a href="/cnnews/20230107/1833183.md">不停地吃！加国女孩意外体验全球最豪华商务舱</a></li>
 <li><a href="/sohnews/20230107/1833373.md">文睿：死给你看，地方全面叫板一尊，中央放狠话</a></li>
-<li><a href="/comments/20230107/1833376.md">日本尸检：接种疫苗的死者尸检体温异常高－免疫系统基因组变化</a></li>
 <li><a href="/topimagenews/20230107/1833355.md">台商照X光大白肺病危 医惊：没赶回台湾死路一条</a></li>
 <li><a href="/sohnews/20230107/1833369.md">毛左份子孔庆东被禁言，因发表反习言论遭狗咬狗式惩罚！“人矿”一词火了的背后说明什么？【新闻最嘲点 姜光宇】2023.0106</a></li>
 <li><a href="/baitai/20230107/1833190.md">中共高层大洗牌 这个人的去向备受关注</a></li>
 <li><a href="/cbnews/20230107/1833123.md">陆专家：新冠不是大号流感 北京的患者中招很深</a></li>
 <li><a href="/sohnews/20230107/1833375.md">XBB15毒株可怕之处！“带病毒”华男闯首尔，落网后，背部字迹让韩国网友崩溃；丁薛祥是江派？我们来扒扒他的历史；张文宏：很多医院“救治无效”，患者眼睁睁变重症；“唐国强”润了？ ｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/comments/20230107/1833268.md">文昭：心腹大事喊停，习偬这回真没钱了！家底败光後的局势发展轨迹、你需要做的准备</a></li>
-<li><a href="/yule/20230107/1833317.md">郑爽被曝虐童！孩子严重到缝针，传张恒已起诉，网友：一点不意外</a></li>
-<li><a href="/sohnews/20230107/1833253.md">【直播】习近平权威受挫生恼怒，党媒连发两文释信号；赵立坚“消失”与中共最恐惧的事；索尼微博禁言全网猜谜，真正原因是这？</a></li>
 <li><a href="/sohnews/20230107/1833388.md">江泽民逝曾庆红危险?北戴河血拼谁将崩盘? 总加速师习近平-后中共的中国 不可不知 天下大势推演。2023.01.07</a></li>
+<li><a href="/comments/20230107/1833268.md">文昭：心腹大事喊停，习偬这回真没钱了！家底败光後的局势发展轨迹、你需要做的准备</a></li>
+<li><a href="/sohnews/20230107/1833253.md">【直播】习近平权威受挫生恼怒，党媒连发两文释信号；赵立坚“消失”与中共最恐惧的事；索尼微博禁言全网猜谜，真正原因是这？</a></li>
+<li><a href="/yule/20230107/1833317.md">郑爽被曝虐童！孩子严重到缝针，传张恒已起诉，网友：一点不意外</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
 <li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
 
 </ul>
 </div>
