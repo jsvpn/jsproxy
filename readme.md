@@ -8,8 +8,8 @@
 <li><a href="/cnnews/20230107/1833287.md">新君既立必杀旧臣？传丁薛祥轻生下一个轮到“他”【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230107/1833309.md">天亮时分：体制内传出异议声音，今年两会有意外吗？关于“丁薛祥自杀”的政治常识；XBB变种，是否会打乱习近平过峰部署？（政论天下第900集 20230106）</a></li>
 <li><a href="/ssgc/20230107/1833272.md">〖微博谈〗信任危机终将全面爆发</a></li>
-<li><a href="/sohnews/20230107/1833368.md">孔庆东摊上事？影射习近平该下台？病患多震惊医生，走廊上紧急插管；艾芬一辈子的痛，院方曾表达道歉；攻击专家学者，大V刘春被禁言；网友来信：三伯的奇蹟【新闻看点 李沐阳1.6】</a></li>
 <li><a href="/topimagenews/20230107/1833276.md">为何上海人率先喊出“共产党下台”？原因在此！【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20230107/1833368.md">孔庆东摊上事？影射习近平该下台？病患多震惊医生，走廊上紧急插管；艾芬一辈子的痛，院方曾表达道歉；攻击专家学者，大V刘春被禁言；网友来信：三伯的奇蹟【新闻看点 李沐阳1.6】</a></li>
 <li><a href="/ssgc/20230107/1833350.md">〖兲朝浮世绘〗人民日报都开始批评躺平防疫了 习总这是要跟谁玩命斗争？</a></li>
 <li><a href="/comments/20230107/1833376.md">日本尸检：接种疫苗的死者尸检体温异常高－免疫系统基因组变化</a></li>
 <li><a href="/sohnews/20230107/1833388.md">江泽民逝曾庆红危险?北戴河血拼谁将崩盘? 总加速师习近平-后中共的中国 不可不知 天下大势推演。2023.01.07</a></li>
@@ -19,15 +19,15 @@
 <li><a href="/sohnews/20230107/1833369.md">毛左份子孔庆东被禁言，因发表反习言论遭狗咬狗式惩罚！“人矿”一词火了的背后说明什么？【新闻最嘲点 姜光宇】2023.0106</a></li>
 <li><a href="/sohnews/20230107/1833386.md">人矿爆红中共急封，曝光不能说的真相？消失一个月，赵立坚在哪乐？疫情加速清零中共党员？超自然避疫解方，实测有效？（2023.1.7）｜世界的十字路口 唐浩</a></li>
 <li><a href="/sohnews/20230108/1833424.md">“乾坤大逆转！张文宏取代钟南山：中共国首席抗议科学家！ ”</a></li>
-<li><a href="/sohnews/20230107/1833375.md">XBB15毒株可怕之处！“带病毒”华男闯首尔，落网后，背部字迹让韩国网友崩溃；丁薛祥是江派？我们来扒扒他的历史；张文宏：很多医院“救治无效”，患者眼睁睁变重症；“唐国强”润了？ ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20230107/1833396.md">陈破空：众多高官名人亡，其中一人打击王沪宁！赵立坚消失，竟是武大郎故事翻版？美国众议长终于出炉，历经四天15轮投票！创下164年历史</a></li>
+<li><a href="/sohnews/20230107/1833375.md">XBB15毒株可怕之处！“带病毒”华男闯首尔，落网后，背部字迹让韩国网友崩溃；丁薛祥是江派？我们来扒扒他的历史；张文宏：很多医院“救治无效”，患者眼睁睁变重症；“唐国强”润了？ ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20230107/1833398.md">蚂蚁集团：创办人马云已放弃控制权</a></li>
-<li><a href="/sohnews/20230107/1833253.md">【直播】习近平权威受挫生恼怒，党媒连发两文释信号；赵立坚“消失”与中共最恐惧的事；索尼微博禁言全网猜谜，真正原因是这？</a></li>
-<li><a href="/comments/20230107/1833268.md">文昭：心腹大事喊停，习偬这回真没钱了！家底败光後的局势发展轨迹、你需要做的准备</a></li>
-<li><a href="/baitai/20230107/1833340.md">唐山再现恶性案件 女子请求报警：我不行了</a></li>
 <li><a href="/comments/20230108/1833431.md">重庆中元汇吉药厂工人聚集抗议，并与大批防爆警察对峙！</a></li>
-<li><a href="/yule/20230107/1833317.md">郑爽被曝虐童！孩子严重到缝针，传张恒已起诉，网友：一点不意外</a></li>
+<li><a href="/comments/20230107/1833268.md">文昭：心腹大事喊停，习偬这回真没钱了！家底败光後的局势发展轨迹、你需要做的准备</a></li>
+<li><a href="/comments/20230108/1833434.md">重庆，中元汇吉生物大渡口药厂上万名工人聚集抗议，大批警察前来镇压！</a></li>
+<li><a href="/baitai/20230107/1833340.md">唐山再现恶性案件 女子请求报警：我不行了</a></li>
 <li><a href="/cnnews/20230107/1833344.md">新冠病毒变回去了?中国确诊者白肺频现世界震惊</a></li>
+<li><a href="/yule/20230107/1833317.md">郑爽被曝虐童！孩子严重到缝针，传张恒已起诉，网友：一点不意外</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,14 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230108/1833543.md" target="_blank">中共前党魁惊人讲话：就是要死一些人&#8230;【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230108/1833542.md" target="_blank">老板想跑路 广东制衣厂爆数百名员工大规模罢工</a></li>
+<li><a href="/cbnews/20230108/1833541.md" target="_blank">上海歌唱家要求打疫苗竟然没打上 加华裔公卫学家讲述亲人去世经历</a></li>
+<li><a href="/cbnews/20230108/1833540.md" target="_blank">辉瑞Paxlovid在华乱象：超越苹果成顶级新年礼品</a></li>
+<li><a href="/cbnews/20230108/1833539.md" target="_blank">为什么？医生自曝：开了新冠死亡证明被要求更改死亡原因</a></li>
+<li><a href="/cbnews/20230108/1833538.md" target="_blank">烟火革命一波接一波！鹿邑县后 驻马店、周口市再爆民众聚集</a></li>
+<li><a href="/cbnews/20230108/1833537.md" target="_blank">中国惨到要在路边烧尸体？ 安徽披麻带孝焚烧场面吓坏人</a></li>
+<li><a href="/cbnews/20230108/1833521.md" target="_blank">江峰：烟花也不’清零‘了？面对全民抗争习近平全面退守；普京圣诞单方面停火意味着放下武器，美欧反而加码，希望俄乌打下去？这是哪一出【江峰漫谈20230106第700期】</a></li>
 <li><a href="/comments/20230108/1833434.md" target="_blank">重庆，中元汇吉生物大渡口药厂上万名工人聚集抗议，大批警察前来镇压！</a></li>
 <li><a href="/comments/20230108/1833431.md" target="_blank">重庆中元汇吉药厂工人聚集抗议，并与大批防爆警察对峙！</a></li>
 <li><a href="/comments/20230107/1833395.md" target="_blank">关于美中俄三国的惊人预言！2037年世界正式进入新纪元？！东方圣人出世，用神杖唤醒人类，不同信仰的人都只听祂的！</a></li>
@@ -52,20 +60,18 @@
 <li><a href="/cbnews/20230106/1832961.md" target="_blank">塔利班重掌阿富汗以来首次 与中共签石油开发协议</a></li>
 <li><a href="/cbnews/20230106/1832960.md" target="_blank">河南新郎接亲队被拦3次 村民：没给50条烟不放行</a></li>
 <li><a href="/cbnews/20230106/1832947.md" target="_blank">江峰：人矿热搜，比韭菜还惨！香港快递员入罪，网评分享也能颠覆政府，奴隶制下的公民社会有多扭曲？疫情过峰一厢情愿，国难当头！【江峰漫谈 20230105 第609期】</a></li>
-<li><a href="/cbnews/20230106/1832944.md" target="_blank">怕成乌鲁木齐中路翻版？才发生群众抗议 南京急拆“热河路”路标</a></li>
-<li><a href="/comments/20230106/1832934.md" target="_blank">棺材需求量猛增，工厂加班加点生产！</a></li>
-<li><a href="/comments/20230106/1832894.md" target="_blank">大型国企天津城投集团，工人聚集讨薪！</a></li>
-<li><a href="/cbnews/20230106/1832877.md" target="_blank">中共正部级老领导走了，只配一个纸棺材</a></li>
-<li><a href="/cbnews/20230106/1832847.md" target="_blank">天亮时分：“人矿”的觉醒；烟花革命，中共再度妥协；中共官场从“裸官”的“逃逸性辞职”，基层组织正在瓦解（政论天下第899集 20230105）</a></li>
-<li><a href="/comments/20230106/1832808.md" target="_blank">1月4日，天安门广场军警穿黑色制服，鸣放22响礼炮并降下国旗。发生了什么重大事件？</a></li>
-<li><a href="/cbnews/20230106/1832780.md" target="_blank">“人矿”一词走红引发热议 中共全面封杀</a></li>
-<li><a href="/cbnews/20230106/1832709.md" target="_blank">消息：习近平为何突然放弃清零政策</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230108/1833536.md" target="_blank">中国兔年邮票：简直就是预言</a></li>
+<li><a href="/topimagenews/20230108/1833535.md" target="_blank">双毒合璧？泰发现首例“德尔塔克戎”XAY.2病例</a></li>
+<li><a href="/topimagenews/20230108/1833534.md" target="_blank">麦卡锡终于当选众院议长 他都做了什么妥协</a></li>
+<li><a href="/topimagenews/20230108/1833533.md" target="_blank">看这图表被吓到 北大武大发讣告 死亡暴增近4倍</a></li>
+<li><a href="/topimagenews/20230108/1833532.md" target="_blank">无法做到说真话，中国知名杂志编辑部宣布集体退出</a></li>
+<li><a href="/topimagenews/20230108/1833531.md" target="_blank">紧急通知：没钱！零下26℃黑龙江鹤岗停供暖；中国多地讨薪潮越演越烈 反讽横幅刷屏</a></li>
 <li><a href="/topimagenews/20230107/1833355.md" target="_blank">台商照X光大白肺病危 医惊：没赶回台湾死路一条</a></li>
 <li><a href="/topimagenews/20230107/1833276.md" target="_blank">为何上海人率先喊出“共产党下台”？原因在此！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230107/1833269.md" target="_blank">第13轮投票出炉 麦卡锡拼议长还差3票</a></li>
@@ -85,18 +91,17 @@
 <li><a href="/topimagenews/20230106/1832721.md" target="_blank">乌军雇佣部队“巷战”逼退俄军 夺回新塞利夫斯克/视频</a></li>
 <li><a href="/topimagenews/20230106/1832712.md" target="_blank">中国惊爆火化尸骨随地扔 “遗体集中营”太吓人</a></li>
 <li><a href="/topimagenews/20230106/1832711.md" target="_blank">拯救人命 德传染病学家吁中共立刻叫停这一做法</a></li>
-<li><a href="/topimagenews/20230106/1832704.md" target="_blank">全球贸易大洗牌！美媒揭1惊人巨变：新的赢家将诞生</a></li>
-<li><a href="/topimagenews/20230105/1832619.md" target="_blank">余茂春：对一个民主国家的攻击，就是对所有国家的攻击【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230105/1832567.md" target="_blank">中共怂了！烟花革命后“禁燃令”也妥协…</a></li>
-<li><a href="/topimagenews/20230105/1832543.md" target="_blank">无药硬挺！派到中国的朝鲜劳工集体出现新冠症状…</a></li>
-<li><a href="/topimagenews/20230105/1832514.md" target="_blank">中共正部级老干部染疫身亡 子女发文记录全过程：真想大哭一场【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230105/1832491.md" target="_blank">丈夫已成炮灰！俄军“寡妇团”要普京动员百万人参战…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230108/1833522.md" target="_blank">丁薛祥辞职自刹消息疯传，谁在带节奏？蔡奇陷舆论风暴，斗争论反噬党中央，习近平唱响经济不灵？</a></li>
+<li><a href="/comments/20230108/1833495.md" target="_blank">【独家重磅】李燕铭：李克强弟李克明三名副部级心腹旧部相继落马 习近平清洗李克强家族黑金帝国 牵连众多中共元老家族 习逼迫李克强二十大裸退内幕揭秘 习江钱袋子争夺战（三三） 习近平李克强明争暗斗内幕（七七）</a></li>
+<li><a href="/comments/20230108/1833494.md" target="_blank">李燕铭：武汉音乐学院连发三份讣告 原党委书记叶福佩病亡 中国声乐学科重要奠基者之一杨金岚病逝 中共末日之病毒亡共（十六）</a></li>
+<li><a href="/comments/20230108/1833493.md" target="_blank">李燕铭：北京工业大学连发八份讣告 原校长王浒病亡 马克思主义学院教授郑积源病亡 机械学科创始人白师贤教授病亡……中共末日之病毒亡共（十五）</a></li>
+<li><a href="/comments/20230108/1833489.md" target="_blank">央视前主持人李小萌因染疫 自爆：断片 撞墙 还破了相</a></li>
 <li><a href="/comments/20230108/1833434.md" target="_blank">重庆，中元汇吉生物大渡口药厂上万名工人聚集抗议，大批警察前来镇压！</a></li>
 <li><a href="/comments/20230108/1833431.md" target="_blank">重庆中元汇吉药厂工人聚集抗议，并与大批防爆警察对峙！</a></li>
 <li><a href="/comments/20230107/1833400.md" target="_blank">前中共司法部长傅政华受贿逾亿判死缓 镜头前忏悔</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230107/1833313.md" target="_blank">张文宏内部培训录音曝：医院治疗大多无效</a></li>
 <li><a href="/comments/20230107/1833311.md" target="_blank">广州一名因“白纸运动”被抓者获释 11人仍被关</a></li>
 <li><a href="/comments/20230107/1833310.md" target="_blank">中国新年客流量暴增 医生：农村对疫情准备不足</a></li>
-<li><a href="/comments/20230107/1833299.md" target="_blank">李濠仲:10轮投票选不出议长 政客“偏执”比“背刺”危险</a></li>
-<li><a href="/comments/20230107/1833268.md" target="_blank">文昭：心腹大事喊停，习偬这回真没钱了！家底败光後的局势发展轨迹、你需要做的准备</a></li>
-<li><a href="/comments/20230107/1833263.md" target="_blank">4港人渔民被囚菲律宾 3人今返港 续求中央政府协助余下1人返港</a></li>
-<li><a href="/comments/20230107/1833260.md" target="_blank">王赫：2022美国对中共经济竞争的两大进展</a></li>
-<li><a href="/comments/20230107/1833256.md" target="_blank">专访韩秀：中国疫情背后的政府责任；精神影响物质，对抗自然会带来灾难；各国应保护好自己百姓 ｜#方菲时间 01/06/2022</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
 <li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
 
 </ul>
 </div>
