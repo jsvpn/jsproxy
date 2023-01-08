@@ -8,26 +8,26 @@
 <li><a href="/cnnews/20230107/1833287.md">新君既立必杀旧臣？传丁薛祥轻生下一个轮到“他”【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230107/1833309.md">天亮时分：体制内传出异议声音，今年两会有意外吗？关于“丁薛祥自杀”的政治常识；XBB变种，是否会打乱习近平过峰部署？（政论天下第900集 20230106）</a></li>
 <li><a href="/sohnews/20230107/1833368.md">孔庆东摊上事？影射习近平该下台？病患多震惊医生，走廊上紧急插管；艾芬一辈子的痛，院方曾表达道歉；攻击专家学者，大V刘春被禁言；网友来信：三伯的奇蹟【新闻看点 李沐阳1.6】</a></li>
-<li><a href="/topimagenews/20230107/1833276.md">为何上海人率先喊出“共产党下台”？原因在此！【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230107/1833350.md">〖兲朝浮世绘〗人民日报都开始批评躺平防疫了 习总这是要跟谁玩命斗争？</a></li>
 <li><a href="/comments/20230107/1833376.md">日本尸检：接种疫苗的死者尸检体温异常高－免疫系统基因组变化</a></li>
 <li><a href="/sohnews/20230107/1833388.md">江泽民逝曾庆红危险?北戴河血拼谁将崩盘? 总加速师习近平-后中共的中国 不可不知 天下大势推演。2023.01.07</a></li>
 <li><a href="/sohnews/20230107/1833373.md">文睿：死给你看，地方全面叫板一尊，中央放狠话</a></li>
-<li><a href="/topimagenews/20230107/1833355.md">台商照X光大白肺病危 医惊：没赶回台湾死路一条</a></li>
 <li><a href="/comments/20230107/1833395.md">关于美中俄三国的惊人预言！2037年世界正式进入新纪元？！东方圣人出世，用神杖唤醒人类，不同信仰的人都只听祂的！</a></li>
+<li><a href="/topimagenews/20230107/1833355.md">台商照X光大白肺病危 医惊：没赶回台湾死路一条</a></li>
+<li><a href="/comments/20230108/1833431.md">重庆中元汇吉药厂工人聚集抗议，并与大批防爆警察对峙！</a></li>
 <li><a href="/sohnews/20230107/1833369.md">毛左份子孔庆东被禁言，因发表反习言论遭狗咬狗式惩罚！“人矿”一词火了的背后说明什么？【新闻最嘲点 姜光宇】2023.0106</a></li>
 <li><a href="/sohnews/20230107/1833386.md">人矿爆红中共急封，曝光不能说的真相？消失一个月，赵立坚在哪乐？疫情加速清零中共党员？超自然避疫解方，实测有效？（2023.1.7）｜世界的十字路口 唐浩</a></li>
 <li><a href="/sohnews/20230108/1833424.md">“乾坤大逆转！张文宏取代钟南山：中共国首席抗议科学家！ ”</a></li>
-<li><a href="/comments/20230108/1833431.md">重庆中元汇吉药厂工人聚集抗议，并与大批防爆警察对峙！</a></li>
+<li><a href="/comments/20230108/1833434.md">重庆，中元汇吉生物大渡口药厂上万名工人聚集抗议，大批警察前来镇压！</a></li>
 <li><a href="/sohnews/20230107/1833396.md">陈破空：众多高官名人亡，其中一人打击王沪宁！赵立坚消失，竟是武大郎故事翻版？美国众议长终于出炉，历经四天15轮投票！创下164年历史</a></li>
 <li><a href="/sohnews/20230107/1833375.md">XBB15毒株可怕之处！“带病毒”华男闯首尔，落网后，背部字迹让韩国网友崩溃；丁薛祥是江派？我们来扒扒他的历史；张文宏：很多医院“救治无效”，患者眼睁睁变重症；“唐国强”润了？ ｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/comments/20230108/1833434.md">重庆，中元汇吉生物大渡口药厂上万名工人聚集抗议，大批警察前来镇压！</a></li>
-<li><a href="/comments/20230107/1833398.md">蚂蚁集团：创办人马云已放弃控制权</a></li>
 <li><a href="/sohnews/20230108/1833433.md">麦卡锡成功当选议长，但最大赢家却不是他。川普一个完美电话，局势开始变化。麦卡锡被穿上紧身衣，誓言抽干沼泽。令选民兴奋的6大突破。</a></li>
+<li><a href="/comments/20230107/1833398.md">蚂蚁集团：创办人马云已放弃控制权</a></li>
 <li><a href="/baitai/20230107/1833340.md">唐山再现恶性案件 女子请求报警：我不行了</a></li>
 <li><a href="/cnnews/20230107/1833344.md">新冠病毒变回去了?中国确诊者白肺频现世界震惊</a></li>
 <li><a href="/yule/20230107/1833317.md">郑爽被曝虐童！孩子严重到缝针，传张恒已起诉，网友：一点不意外</a></li>
 <li><a href="/cnnews/20230107/1833345.md">中纪委密集打虎 3位高官同日落马</a></li>
+<li><a href="/cbnews/20230107/1833285.md">80岁老父阳了没发烧没咳嗽 半个肺白了 吓坏女儿</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230108/1833634.md" target="_blank">心生寒意！中共正牺牲全球公卫来巩固政权</a></li>
 <li><a href="/cbnews/20230108/1833619.md" target="_blank">中共智库指美RC135V近距离侦察 网友实测打脸</a></li>
 <li><a href="/cbnews/20230108/1833618.md" target="_blank">中共司法部前部长傅政华 自曝遭诈骗20年内幕</a></li>
 <li><a href="/cbnews/20230108/1833545.md" target="_blank">共媒大肆吹嘘！歼16不到3分钟就能侵台…</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230107/1833193.md" target="_blank">疫情大爆炸 中国工程院官网披露院士成批逝世</a></li>
 <li><a href="/cbnews/20230107/1833123.md" target="_blank">陆专家：新冠不是大号流感 北京的患者中招很深</a></li>
 <li><a href="/cbnews/20230106/1832985.md" target="_blank">实弹模式！韩13战舰轰三千尺高“敌军”不让北朝鲜无人机飞尹锡悦头上</a></li>
-<li><a href="/cbnews/20230106/1832984.md" target="_blank">陆发改委前副主任：近期会有共同富裕大力举措</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 <li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 
 </ul>
 </div>
