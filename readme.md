@@ -16,9 +16,9 @@
 <li><a href="/sohnews/20230108/1833433.md">麦卡锡成功当选议长，但最大赢家却不是他。川普一个完美电话，局势开始变化。麦卡锡被穿上紧身衣，誓言抽干沼泽。令选民兴奋的6大突破。</a></li>
 <li><a href="/headline/20230108/1833455.md">清零下台一月后：卫星图像里的中国“殡葬盛世”，家属叹去世家人“被死得不明不白”</a></li>
 <li><a href="/cbnews/20230108/1833690.md">天亮时分：重庆万人与警察激烈冲突，中共再妥协；马云痛失蚂蚁控制权，与中共元老家族切割（政论天下第901集 20230107）</a></li>
+<li><a href="/cbnews/20230108/1833808.md">重磅声明：日美拟发表联合文件</a></li>
 <li><a href="/topimagenews/20230108/1833532.md">无法做到说真话，中国知名杂志编辑部宣布集体退出</a></li>
 <li><a href="/cbnews/20230108/1833691.md">中国大开国门 北京、上海、广州机场盛况</a></li>
-<li><a href="/cbnews/20230108/1833808.md">重磅声明：日美拟发表联合文件</a></li>
 <li><a href="/cnnews/20230108/1833575.md">20年赚200亿 一天被罚光</a></li>
 <li><a href="/cnnews/20230108/1833589.md">重庆药厂工人讨薪 警察被塑料桶砸得节节败退【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230108/1833807.md">61岁失独拼下双胞胎 盛海琳携双胞胎女儿悼念老公！旁边是大女儿的墓碑</a></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230109/1833883.md" target="_blank">神韵复兴中华正统文化 英国华人震撼落泪</a></li>
+<li><a href="/comments/20230109/1833882.md" target="_blank">一千年前的“职业厨娘”</a></li>
+<li><a href="/comments/20230109/1833881.md" target="_blank">疫情笼罩中国新年 中宣部下令“丧事喜报” 民高呼取消“春晚”</a></li>
 <li><a href="/comments/20230109/1833874.md" target="_blank">中共官员密集死亡 武汉一天发4名前官员讣告</a></li>
 <li><a href="/comments/20230109/1833870.md" target="_blank">杭州千岛湖，伊斯特塑料制品公司工人聚集抗议，要求发工资！</a></li>
 <li><a href="/comments/20230108/1833849.md" target="_blank">重庆药厂2万工人持续抗议，区领导出面宣布，给每名工人补发5000元工资。</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230108/1833673.md" target="_blank">刘洪军：俄罗斯的“可怕”，可能已经不用怕了</a></li>
 <li><a href="/comments/20230108/1833672.md" target="_blank">公共卫生学家王培忠教授谈大姐感染新冠上海去世：万分悲痛、愤怒</a></li>
 <li><a href="/comments/20230108/1833570.md" target="_blank">陈奎德 张杰：年度回顾&#8211;2022年中国外交环境及趋势</a></li>
-<li><a href="/comments/20230108/1833569.md" target="_blank">婚恋平台 男男女女都可怜</a></li>
-<li><a href="/comments/20230108/1833568.md" target="_blank">中共国砖家发论文：“马克思主义信仰：战胜新冠肺炎疫情的内生力量”</a></li>
-<li><a href="/comments/20230108/1833567.md" target="_blank">关乐：“强信心”乃强心针</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 <li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
 
 </ul>
 </div>
