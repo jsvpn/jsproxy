@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230108/1833832.md">辉瑞口服药医保谈判破裂！700就想买？为压价已用尽手段！印度药便宜但是不卖中国，都怪中国太有钱。中国产的两种抗病毒药实验数据疑点重重</a></li>
 <li><a href="/cbnews/20230108/1833840.md">张文宏：大范围感染正发生 许多病人白白等死</a></li>
 <li><a href="/comments/20230109/1833908.md">第二波死亡浪潮将至 赊刀人再现 预言：满街大楼无人住</a></li>
 <li><a href="/topimagenews/20230109/1834058.md">震惊政坛！他真出事?网传丁薛祥突辞政治局常委 大逆转【阿波罗网报道】</a></li>
 <li><a href="/comments/20230108/1833849.md">重庆药厂2万工人持续抗议，区领导出面宣布，给每名工人补发5000元工资。</a></li>
 <li><a href="/topimagenews/20230109/1833921.md">辉瑞新冠药的医保谈判失败 保底价是多少？不能说…</a></li>
-<li><a href="/topimagenews/20230109/1834075.md">习近平这句话被抓住！中共面临追究【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230109/1833957.md">活久见！中国超大特大城市，又开始“空城”了？</a></li>
+<li><a href="/topimagenews/20230109/1834075.md">习近平这句话被抓住！中共面临追究【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230109/1833941.md">〖兲朝浮世绘〗收回航母？俄罗斯对干儿子太不客气了</a></li>
-<li><a href="/ssgc/20230108/1833831.md">中南海新老常委躲得过瘟疫吗？</a></li>
 <li><a href="/topimagenews/20230109/1834048.md">这年头，反腐大业要靠老公捉奸了？</a></li>
+<li><a href="/weiquan/20230108/1833843.md">为讨回房产吴继新到&#8220;两会&#8221;现场喊打倒共产党&#65292;警察出警辨明因果关系后扬长而去</a></li>
 <li><a href="/comments/20230109/1833870.md">杭州千岛湖，伊斯特塑料制品公司工人聚集抗议，要求发工资！</a></li>
 <li><a href="/topimagenews/20230109/1834040.md">【微博精粹】挖地三尺 也要把这个女毒枭刨出来绳之以法</a></li>
-<li><a href="/weiquan/20230108/1833843.md">为讨回房产吴继新到&#8220;两会&#8221;现场喊打倒共产党&#65292;警察出警辨明因果关系后扬长而去</a></li>
+<li><a href="/cbnews/20230109/1834114.md">国际机票卖440元！中国网一看“目的地”傻了：免费都不去</a></li>
 <li><a href="/cbnews/20230109/1833890.md">北京故宫北院动工斥资21亿，被吐槽像地铁站</a></li>
 <li><a href="/comments/20230109/1833952.md">江泽民老家扬州官场又爆淫乱丑闻！成都官员不雅聊天男主竟遭调包！中共官场淫乱丑闻由成都接力到扬州 扬州副市长在女副局长婚房里发生性行为 被女副局长丈夫安装的探头拍下举报到省纪委 男主女主被起底 照片曝光 中南海不可告人的秘密_569</a></li>
 <li><a href="/topimagenews/20230109/1834065.md">特警镇压被砸到狼狈急落跑！重庆人真猛…</a></li>
-<li><a href="/cbnews/20230109/1834114.md">国际机票卖440元！中国网一看“目的地”傻了：免费都不去</a></li>
+<li><a href="/sohnews/20230109/1834084.md">中共将领对当局防疫不满！高干子弟猛爆料；“司马夹头”被打头，感染症状重，赵立坚消失一个月；中共为何对辉瑞“神药”重重设卡？还拒绝纳入医保；爆料指青岛重症比例太高，症状可怖！｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20230109/1833928.md">恶心！唱着中共国歌到特斯拉耍无赖</a></li>
 <li><a href="/topimagenews/20230109/1834066.md">武汉火葬场惨象曝光：棺材排成队 担架抬遗体</a></li>
 <li><a href="/cnnews/20230109/1834034.md">司马南把“卖肉计”推向高潮 他做的其实是“皮肉生意”</a></li>
-<li><a href="/sohnews/20230109/1834084.md">中共将领对当局防疫不满！高干子弟猛爆料；“司马夹头”被打头，感染症状重，赵立坚消失一个月；中共为何对辉瑞“神药”重重设卡？还拒绝纳入医保；爆料指青岛重症比例太高，症状可怖！｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cbnews/20230109/1834127.md">逃！连头等舱都排长龙 中国开放边境首日机场“人潮塞爆”盛况</a></li>
 <li><a href="/lifebaike/20230109/1833894.md">感染后这种咳嗽不能扛</a></li>
+<li><a href="/topimagenews/20230109/1834067.md">中央冷眼不救!中国地方政府破产赤字达31兆 国企被po网大贱卖</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
 <li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
 
 </ul>
 </div>
