@@ -16,17 +16,17 @@
 <li><a href="/sohnews/20230108/1833832.md">辉瑞口服药医保谈判破裂！700就想买？为压价已用尽手段！印度药便宜但是不卖中国，都怪中国太有钱。中国产的两种抗病毒药实验数据疑点重重</a></li>
 <li><a href="/cnnews/20230108/1833710.md">网传重庆工人与警察爆发激烈冲突</a></li>
 <li><a href="/health/20230108/1833771.md">染疫后身体最怕10件事，最好一个都别犯</a></li>
-<li><a href="/comments/20230108/1833758.md">习近平真怕了？从官逼民反到官惧民反</a></li>
-<li><a href="/topimagenews/20230108/1833671.md">狼真的来了！美欧供应链去中国化愈演愈烈</a></li>
 <li><a href="/cbnews/20230108/1833840.md">张文宏：大范围感染正发生 许多病人白白等死</a></li>
-<li><a href="/yule/20230108/1833803.md">S妈怒轰汪小菲：北京很可怕 大S现况令人心疼</a></li>
+<li><a href="/comments/20230108/1833758.md">习近平真怕了？从官逼民反到官惧民反</a></li>
 <li><a href="/comments/20230108/1833849.md">重庆药厂2万工人持续抗议，区领导出面宣布，给每名工人补发5000元工资。</a></li>
+<li><a href="/yule/20230108/1833803.md">S妈怒轰汪小菲：北京很可怕 大S现况令人心疼</a></li>
 <li><a href="/health/20230108/1833772.md">医生研究5000多例猝死者发现：猝死的人都有这些规律</a></li>
 <li><a href="/comments/20230108/1833686.md">【杰森视角】 卫健委主任马晓伟出事？马云必须放弃蚂蚁集团！重庆又现工人暴动！中国小孩游戏上瘾问题解决了！谁是习近平的‘自己人’？中共经济新政可炒作，不可真信！中国人为何一下胆大了？</a></li>
+<li><a href="/topimagenews/20230109/1833921.md">辉瑞新冠药的医保谈判失败 保底价是多少？不能说…</a></li>
 <li><a href="/baitai/20230108/1833779.md">民企老板们上央视表态 分析：突显中共危机</a></li>
+<li><a href="/comments/20230109/1833908.md">第二波死亡浪潮将至 赊刀人再现 预言：满街大楼无人住</a></li>
 <li><a href="/cnnews/20230108/1833712.md">诸葛亮鞠躬尽瘁美丽国：鱼翅龙虾茅台应有尽有</a></li>
 <li><a href="/comments/20230108/1833746.md">唐国强夫妇润出美国、微笑聚会？赵立坚消失是因憋屈与那东西夹击？华春莹突然被骂翻！好乱</a></li>
-<li><a href="/topimagenews/20230109/1833921.md">辉瑞新冠药的医保谈判失败 保底价是多少？不能说…</a></li>
 <li><a href="/comments/20230109/1833870.md">杭州千岛湖，伊斯特塑料制品公司工人聚集抗议，要求发工资！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230109/1833970.md" target="_blank">天亮时分：特斯拉维权与65万亿城投债危机，一场恶性通胀在即；杭州、珠海步重庆抗议后尘（政论天下第902集 20230108）</a></li>
 <li><a href="/cbnews/20230109/1833955.md" target="_blank">清零急转弯引爆确诊潮，中共官媒长篇大论报道…</a></li>
 <li><a href="/cbnews/20230109/1833954.md" target="_blank">解放军突宣布：在台湾周边实施多兵种演练</a></li>
 <li><a href="/cbnews/20230109/1833953.md" target="_blank">买不到退烧药 内蒙古父母误让子女服用兽药：后果惨了</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230108/1833634.md" target="_blank">心生寒意！中共正牺牲全球公卫来巩固政权</a></li>
 <li><a href="/cbnews/20230108/1833619.md" target="_blank">中共智库指美RC135V近距离侦察 网友实测打脸</a></li>
 <li><a href="/cbnews/20230108/1833618.md" target="_blank">中共司法部前部长傅政华 自曝遭诈骗20年内幕</a></li>
-<li><a href="/cbnews/20230108/1833545.md" target="_blank">共媒大肆吹嘘！歼16不到3分钟就能侵台…</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230109/1833962.md" target="_blank">何清涟：习近平“就坡下驴”，他们成为牺牲者</a></li>
 <li><a href="/comments/20230109/1833952.md" target="_blank">江泽民老家扬州官场又爆淫乱丑闻！成都官员不雅聊天男主竟遭调包！中共官场淫乱丑闻由成都接力到扬州 扬州副市长在女副局长婚房里发生性行为 被女副局长丈夫安装的探头拍下举报到省纪委 男主女主被起底 照片曝光 中南海不可告人的秘密_569</a></li>
 <li><a href="/comments/20230109/1833938.md" target="_blank">【独家重磅】李燕铭：哈工大病亡人数暴增十倍！瘟疫攻陷中共军工与太空军事基地 哈工大1院士15教授密集病亡 航天学院遭重创 二十大敏感期哈工大四名教授接连病亡 中共末日之病毒亡共（十八）</a></li>
 <li><a href="/comments/20230109/1833937.md" target="_blank">专访欧洲病毒专家(上)：病毒大面积爆发的3个条件，中国都具备；新冠病毒可在人体潜伏，群体免疫难达到？中国疫苗有一个最大问题 ｜专访董宇红 ｜#方菲时间  01/08/2023</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230108/1833727.md" target="_blank">报应放过谁？</a></li>
 <li><a href="/comments/20230108/1833709.md" target="_blank">良心的鼓声能走多远，希望与文明便能走多远</a></li>
 <li><a href="/comments/20230108/1833708.md" target="_blank">刘亚东:当疫情数据成了笑话，我们应该反思什么？</a></li>
-<li><a href="/comments/20230108/1833686.md" target="_blank">【杰森视角】 卫健委主任马晓伟出事？马云必须放弃蚂蚁集团！重庆又现工人暴动！中国小孩游戏上瘾问题解决了！谁是习近平的‘自己人’？中共经济新政可炒作，不可真信！中国人为何一下胆大了？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 <li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
 
 </ul>
 </div>
