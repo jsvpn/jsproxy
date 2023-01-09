@@ -5,8 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20230109/1833908.md">第二波死亡浪潮将至 赊刀人再现 预言：满街大楼无人住</a></li>
 <li><a href="/topimagenews/20230109/1834058.md">震惊政坛！他真出事?网传丁薛祥突辞政治局常委 大逆转【阿波罗网报道】</a></li>
+<li><a href="/comments/20230109/1833908.md">第二波死亡浪潮将至 赊刀人再现 预言：满街大楼无人住</a></li>
 <li><a href="/cnnews/20230109/1833957.md">活久见！中国超大特大城市，又开始“空城”了？</a></li>
 <li><a href="/topimagenews/20230109/1833921.md">辉瑞新冠药的医保谈判失败 保底价是多少？不能说…</a></li>
 <li><a href="/topimagenews/20230109/1834075.md">习近平这句话被抓住！中共面临追究【阿波罗网报道】</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/funmedia/20230109/1834164.md">戴选美王冠时，她突然流一大坨鼻涕，结果…</a></li>
 <li><a href="/sohnews/20230109/1834084.md">中共将领对当局防疫不满！高干子弟猛爆料；“司马夹头”被打头，感染症状重，赵立坚消失一个月；中共为何对辉瑞“神药”重重设卡？还拒绝纳入医保；爆料指青岛重症比例太高，症状可怖！｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/lifebaike/20230109/1834165.md">越来越多的年轻人不再选择窗帘，而是这样设计，比窗帘更美更实用</a></li>
-<li><a href="/topimagenews/20230109/1834066.md">武汉火葬场惨象曝光：棺材排成队 担架抬遗体</a></li>
 <li><a href="/topimagenews/20230109/1834112.md">谈判破裂！中共嫌辉瑞药太贵不纳医保 黄牛价飙到7.2万 网讽：“权贵专用药”</a></li>
+<li><a href="/topimagenews/20230109/1834066.md">武汉火葬场惨象曝光：棺材排成队 担架抬遗体</a></li>
+<li><a href="/baitai/20230109/1834214.md">第二波浪潮就要到达 卫星图像曝中国可怕真相</a></li>
 <li><a href="/topimagenews/20230109/1834067.md">中央冷眼不救!中国地方政府破产赤字达31兆 国企被po网大贱卖</a></li>
-<li><a href="/cnnews/20230109/1834149.md">17人在送葬时死去，只因为“火葬场要排队”…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230110/1834325.md" target="_blank">广东潮汕殡仪馆，挤满了人和棺材！</a></li>
 <li><a href="/cbnews/20230110/1834318.md" target="_blank">严厉打击有背景的“政治骗子” 习近平磨刀霍霍</a></li>
 <li><a href="/comments/20230110/1834302.md" target="_blank">1月9日，杭州奥泰医疗厂职工聚集抗议，大批特警到场准备镇压，</a></li>
 <li><a href="/cbnews/20230110/1834264.md" target="_blank">中国兔年“妖兔”邮票实体化了 网惊恐：像神话邪典里拐小孩生物</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230108/1833834.md" target="_blank">博明：中共为巩固政权 罔顾全球公共卫生</a></li>
 <li><a href="/cbnews/20230108/1833808.md" target="_blank">重磅声明：日美拟发表联合文件</a></li>
 <li><a href="/cbnews/20230108/1833807.md" target="_blank">61岁失独拼下双胞胎 盛海琳携双胞胎女儿悼念老公！旁边是大女儿的墓碑</a></li>
-<li><a href="/cbnews/20230108/1833530.md" target="_blank">天象人间：2023年1月份天象不是“五星连珠”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230110/1834325.md" target="_blank">广东潮汕殡仪馆，挤满了人和棺材！</a></li>
 <li><a href="/comments/20230110/1834302.md" target="_blank">1月9日，杭州奥泰医疗厂职工聚集抗议，大批特警到场准备镇压，</a></li>
 <li><a href="/comments/20230110/1834268.md" target="_blank">时事大家谈：放开一个月官宣死亡30例，中国公信力完败？</a></li>
 <li><a href="/comments/20230110/1834267.md" target="_blank">时事大家谈：从烟花宣泄到讨薪暴动，人民不再恐惧？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230109/1833908.md" target="_blank">第二波死亡浪潮将至 赊刀人再现 预言：满街大楼无人住</a></li>
 <li><a href="/comments/20230109/1833904.md" target="_blank">李燕铭：中共三代领导人专机机长徐柏龄病亡 担任周恩来专机机长17年 周恩来亲自下令徐柏龄接基辛格秘密访华 李鹏曾为徐柏龄回忆录《政要专机的绝密飞行》作序 中共末日之病毒亡共（十七）</a></li>
 <li><a href="/comments/20230109/1833883.md" target="_blank">神韵复兴中华正统文化 英国华人震撼落泪</a></li>
-<li><a href="/comments/20230109/1833882.md" target="_blank">一千年前的“职业厨娘”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 
 </ul>
 </div>
