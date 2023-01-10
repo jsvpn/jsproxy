@@ -24,9 +24,9 @@
 <li><a href="/comments/20230110/1834506.md">赵立坚突然靠边站，媳妇使坏？秦刚上任先废金牌战狼，经济崩溃，习近平抓中美关系救命稻草有用吗？</a></li>
 <li><a href="/comments/20230110/1834325.md">广东潮汕殡仪馆，挤满了人和棺材！</a></li>
 <li><a href="/ssgc/20230110/1834467.md">〖微博谈〗这是统治危机的一个信号</a></li>
+<li><a href="/cbnews/20230110/1834607.md">中共内部分裂加剧 两会前暗流涌动</a></li>
 <li><a href="/comments/20230110/1834430.md">失业大潮席卷中国，国企和央企的员工也难逃裁员潮。</a></li>
 <li><a href="/cnnews/20230110/1834418.md">中国楼市最大威胁逼近：人口断层1.4亿…</a></li>
-<li><a href="/cbnews/20230110/1834607.md">中共内部分裂加剧 两会前暗流涌动</a></li>
 <li><a href="/cnnews/20230110/1834573.md">机关事业单位领导都有啥来钱渠道？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230111/1834713.md" target="_blank">时事大家谈：中国清零时代正式收场，这三年是非如何说？</a></li>
 <li><a href="/comments/20230111/1834699.md" target="_blank">时事大家谈：马云失去蚂蚁集团控制权，主动交权还是被夺权？&#160;</a></li>
 <li><a href="/comments/20230110/1834648.md" target="_blank">时事大家谈：中国清零时代正式收场，这三年是非如何说？马云失去蚂蚁集团控制权，主动交权还是被夺权？&#160;</a></li>
 <li><a href="/comments/20230110/1834612.md" target="_blank">阐释宪法精髓 美前总统里根精彩演说</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230110/1834349.md" target="_blank">司马南举报自己造谣</a></li>
 <li><a href="/comments/20230110/1834325.md" target="_blank">广东潮汕殡仪馆，挤满了人和棺材！</a></li>
 <li><a href="/comments/20230110/1834302.md" target="_blank">1月9日，杭州奥泰医疗厂职工聚集抗议，大批特警到场准备镇压，</a></li>
-<li><a href="/comments/20230110/1834268.md" target="_blank">时事大家谈：放开一个月官宣死亡30例，中国公信力完败？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
 
 </ul>
 </div>
