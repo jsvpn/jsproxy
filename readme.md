@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230109/1834058.md">震惊政坛！他真出事?网传丁薛祥突辞政治局常委 大逆转【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230109/1834075.md">习近平这句话被抓住！中共面临追究【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230109/1834114.md">国际机票卖440元！中国网一看“目的地”傻了：免费都不去</a></li>
 <li><a href="/ssgc/20230109/1834162.md">赵立坚调任边界与海洋事务司副司长</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/topimagenews/20230110/1834314.md">从上到下皆愤恨 习近平姿态放软3大表现</a></li>
 <li><a href="/topimagenews/20230109/1834131.md">浙江杭州一企业发生劳资纠纷 工人冲进公司领导办公室讨薪【阿波罗网报道】</a></li>
 <li><a href="/funmedia/20230109/1834164.md">戴选美王冠时，她突然流一大坨鼻涕，结果…</a></li>
-<li><a href="/topimagenews/20230110/1834315.md">医保局和辉瑞谈崩 看看Paxlovid在其他国家报价</a></li>
 <li><a href="/lifebaike/20230109/1834165.md">越来越多的年轻人不再选择窗帘，而是这样设计，比窗帘更美更实用</a></li>
+<li><a href="/topimagenews/20230110/1834315.md">医保局和辉瑞谈崩 看看Paxlovid在其他国家报价</a></li>
+<li><a href="/cbnews/20230110/1834332.md">中领馆：10年签证仍暂停使用 旅游就医不发签证</a></li>
 <li><a href="/baitai/20230109/1834214.md">第二波浪潮就要到达 卫星图像曝中国可怕真相</a></li>
 <li><a href="/sohnews/20230109/1834084.md">中共将领对当局防疫不满！高干子弟猛爆料；“司马夹头”被打头，感染症状重，赵立坚消失一个月；中共为何对辉瑞“神药”重重设卡？还拒绝纳入医保；爆料指青岛重症比例太高，症状可怖！｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/cbnews/20230110/1834332.md">中领馆：10年签证仍暂停使用 旅游就医不发签证</a></li>
 <li><a href="/topimagenews/20230109/1834112.md">谈判破裂！中共嫌辉瑞药太贵不纳医保 黄牛价飙到7.2万 网讽：“权贵专用药”</a></li>
+<li><a href="/ssgc/20230110/1834340.md">江苏扬州女副局长与副市长偷情？ 官方通报调查</a></li>
 <li><a href="/topimagenews/20230109/1834066.md">武汉火葬场惨象曝光：棺材排成队 担架抬遗体</a></li>
 <li><a href="/cnnews/20230109/1834149.md">17人在送葬时死去，只因为“火葬场要排队”…</a></li>
-<li><a href="/ssgc/20230110/1834340.md">江苏扬州女副局长与副市长偷情？ 官方通报调查</a></li>
 <li><a href="/topimagenews/20230109/1834067.md">中央冷眼不救!中国地方政府破产赤字达31兆 国企被po网大贱卖</a></li>
 <li><a href="/baitai/20230109/1834167.md">棱镜｜辉瑞新冠药医保谈判失败，到底报了什么价？</a></li>
 <li><a href="/topimagenews/20230109/1834130.md">入侵乌克兰损失惨重！俄军连“红场阅兵神车”T-14都要上顿巴斯战场</a></li>
+<li><a href="/cnnews/20230109/1834257.md">最深的恐惧！中国感染人口多 官方首席专家：确实可能出现新变异病毒</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230110/1834498.md" target="_blank">辉瑞Paxlovid未纳入中国医保 谈判内幕爆光</a></li>
 <li><a href="/cbnews/20230110/1834494.md" target="_blank">中国会有多少人葬送在疫情海啸中</a></li>
 <li><a href="/cbnews/20230110/1834473.md" target="_blank">天亮时分：丁薛祥露面，赵立坚雪藏，外交政策转向？河南日报称全省感染率达到89%；2026台海战争沙盘推演，美智库结论如何？（政论天下第903集 20230109）</a></li>
 <li><a href="/cbnews/20230110/1834439.md" target="_blank">习最新出席会议 随行一人惹关注</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230109/1833955.md" target="_blank">清零急转弯引爆确诊潮，中共官媒长篇大论报道…</a></li>
 <li><a href="/cbnews/20230109/1833954.md" target="_blank">解放军突宣布：在台湾周边实施多兵种演练</a></li>
 <li><a href="/cbnews/20230109/1833953.md" target="_blank">买不到退烧药 内蒙古父母误让子女服用兽药：后果惨了</a></li>
-<li><a href="/comments/20230109/1833937.md" target="_blank">专访欧洲病毒专家(上)：病毒大面积爆发的3个条件，中国都具备；新冠病毒可在人体潜伏，群体免疫难达到？中国疫苗有一个最大问题 ｜专访董宇红 ｜#方菲时间  01/08/2023</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
 <li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 
 </ul>
 </div>
