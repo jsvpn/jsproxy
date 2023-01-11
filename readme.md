@@ -9,7 +9,6 @@
 <li><a href="/cnnews/20230110/1834584.md">大佬雷军也要开始跑路了</a></li>
 <li><a href="/comments/20230110/1834506.md">赵立坚突然靠边站，媳妇使坏？秦刚上任先废金牌战狼，经济崩溃，习近平抓中美关系救命稻草有用吗？</a></li>
 <li><a href="/cbnews/20230110/1834607.md">中共内部分裂加剧 两会前暗流涌动</a></li>
-<li><a href="/cbnews/20230110/1834498.md">辉瑞Paxlovid未纳入中国医保 谈判内幕爆光</a></li>
 <li><a href="/topimagenews/20230111/1834746.md">谁都心中没底，习近平越来越捉摸不透......</a></li>
 <li><a href="/cnnews/20230110/1834570.md">学校封杀，大厂禁用，ChatGPT引发大面积恐慌</a></li>
 <li><a href="/topimagenews/20230110/1834521.md">余茂春妙评马云被抢劫：Hijack! 【阿波罗网报道】</a></li>
@@ -17,8 +16,8 @@
 <li><a href="/cnnews/20230111/1834744.md">习近平诡异站姿再引讨论！跟“他”也有87像</a></li>
 <li><a href="/topimagenews/20230111/1834771.md">发现这些“眉角”，习近平变了？</a></li>
 <li><a href="/topimagenews/20230110/1834672.md">全美第一美少女现身 让少男暴动、让队友变村姑</a></li>
-<li><a href="/cbnews/20230110/1834673.md">24岁正妹coser退烧复阳10天病逝 中共官媒谈死因“这4个字”惹毛网友</a></li>
 <li><a href="/cnnews/20230110/1834604.md">她不堪羞辱投江自杀 儿子叫钟南山</a></li>
+<li><a href="/cbnews/20230110/1834673.md">24岁正妹coser退烧复阳10天病逝 中共官媒谈死因“这4个字”惹毛网友</a></li>
 <li><a href="/sohnews/20230110/1834516.md">中国至少疫死760万？秦刚踢走赵立坚？！赵“性取向”惹议论；卫星图像披露殡仪馆外可怕现象；赵立坚消失一个月，再被提及已是“偷着哭”；大陆加速兴建墓地和火葬场，又在吹捧“中国速度”｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20230110/1834573.md">机关事业单位领导都有啥来钱渠道？</a></li>
 <li><a href="/topimagenews/20230110/1834618.md">中国31省市财政崩溃！山田摩衣：经济火车头变三轮车</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20230110/1834505.md">江峰：这回来真的，赵立坚调走了！严防美国新一轮病毒调查；辉瑞特效不敌国产，价格藉口背後深层内幕；澳洲遣返王立强，中共此轮赢麻了，挫蔡英文台湾反共谍行动【江峰漫谈20230109第701期】</a></li>
 <li><a href="/sohnews/20230110/1834585.md">陈破空：丁薛祥露面暴瘦！朝鲜规矩来了：他讲话，其他人必须拿笔拿纸记录。三严说法泄露最大焦虑。中方报复，停发对日本和韩国签证。直播与互动。美东1月10日早8点30、即中港台1月10日晚9点30</a></li>
 <li><a href="/sohnews/20230111/1834762.md">赵立坚终于浮出了水面</a></li>
+<li><a href="/cnnews/20230111/1834757.md">18岁加拿大华裔MMA女格斗手去世 家人暗示死因</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
 <li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
 
 </ul>
 </div>
