@@ -19,7 +19,6 @@
 <li><a href="/topimagenews/20230111/1835053.md">活久见！中国超大特大城市，又开始“空城”了？真来了！美欧供应链去中国化愈演愈烈；</a></li>
 <li><a href="/ssgc/20230111/1834922.md">〖兲朝浮世绘〗2023年中共官员的日子也要不好过了</a></li>
 <li><a href="/comments/20230111/1835019.md">中共开始失去维稳能力 社会不断挑战中共底线</a></li>
-<li><a href="/sohnews/20230111/1834762.md">赵立坚终于浮出了水面</a></li>
 <li><a href="/topimagenews/20230111/1835090.md">赵立坚坐冷板凳 矢板明夫揭“3大金句”：被很多中共官员不满</a></li>
 <li><a href="/yule/20230111/1834893.md">王石田朴珺婚变风波后同框！女方面无表情要求秀恩爱，男方显无奈</a></li>
 <li><a href="/cnnews/20230111/1834858.md">中国驻美使领馆最新通知 回应“十年签证”</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20230111/1834942.md">内部消息透露：中国人七成染疫 八千万转肺炎【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230111/1835039.md">三天内搞到新冠救命药 成了检验中产人脉的标准</a></li>
 <li><a href="/topimagenews/20230111/1835037.md">中国制造烂透了！地铁狂出包 麻州交通局寄信批中共“完全放弃”承诺</a></li>
+<li><a href="/cbnews/20230111/1834944.md">江峰：又砸脚！停发日韩签证酿大错；华盛顿沙盘推演中共惨败台海，独家分析：一个有害的结论【江峰漫谈20230110第702期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230112/1835226.md" target="_blank">老板不发年终奖，改用这招…网赞：真是高手</a></li>
+<li><a href="/cbnews/20230112/1835213.md" target="_blank">心碎：周末，我们捕捉到了这样的上海</a></li>
 <li><a href="/cbnews/20230112/1835212.md" target="_blank">突发！广州男子开宝马车冲撞人群酿5死,惨不忍睹</a></li>
 <li><a href="/comments/20230112/1835210.md" target="_blank">广州，退休人员聚集抗议，警察戒备！</a></li>
 <li><a href="/comments/20230112/1835209.md" target="_blank">江苏南京，小区居民聚集抗议，抗议社区强行给小区安排物业，抗议警察抓捕人。</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20230110/1834430.md" target="_blank">失业大潮席卷中国，国企和央企的员工也难逃裁员潮。</a></li>
 <li><a href="/comments/20230110/1834414.md" target="_blank">河南南阳，青年人反抗极权的烟花运动。</a></li>
 <li><a href="/comments/20230110/1834413.md" target="_blank">河南南阳，勇敢的青年人积极参与烟花运动。</a></li>
-<li><a href="/comments/20230110/1834358.md" target="_blank">专访欧洲病毒学家(下)：XBB毒株会造成新的感染高峯吗？如何提高自身免疫力？人的思想会影响自身能量场；疫情的走向外因内因都起作用 ｜专访董宇红 ｜#方菲时间  01/09/2022</a></li>
-<li><a href="/cbnews/20230110/1834333.md" target="_blank">重庆人真猛！药厂员工暴动 镇暴特警被砸到落跑</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
 <li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 
 </ul>
 </div>
