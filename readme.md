@@ -10,23 +10,23 @@
 <li><a href="/comments/20230112/1835210.md">广州，退休人员聚集抗议，警察戒备！</a></li>
 <li><a href="/cbnews/20230112/1835384.md">广州宝马告诉冲入人群撞击辗压 5死13伤 凶手是他</a></li>
 <li><a href="/cbnews/20230112/1835213.md">心碎：周末，我们捕捉到了这样的上海</a></li>
-<li><a href="/topimagenews/20230112/1835358.md">中共党内乱套？习近平面临巨大压力！【阿波罗网报道】</a></li>
 <li><a href="/comments/20230112/1835409.md">赵立坚老婆反了！挑战一尊、为夫鸣冤？红二代群起攻击习近平！一尊警告再封？</a></li>
+<li><a href="/topimagenews/20230112/1835358.md">中共党内乱套？习近平面临巨大压力！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230112/1835455.md">习近平首提大党难题 专家：他已陷入双重危机</a></li>
-<li><a href="/cbnews/20230112/1835212.md">突发！广州男子开宝马车冲撞人群酿5死,惨不忍睹</a></li>
-<li><a href="/topimagenews/20230112/1835435.md">盘点中共桃色风暴 中共4大美女官员引起舆论哗然</a></li>
 <li><a href="/cbnews/20230112/1835333.md">两大战狼突然都坐冷板凳 中共外交要转向哪里？</a></li>
+<li><a href="/topimagenews/20230112/1835435.md">盘点中共桃色风暴 中共4大美女官员引起舆论哗然</a></li>
+<li><a href="/cbnews/20230112/1835212.md">突发！广州男子开宝马车冲撞人群酿5死,惨不忍睹</a></li>
 <li><a href="/cnnews/20230112/1835228.md">突发：美国境内航班全数暂停起飞</a></li>
 <li><a href="/comments/20230112/1835292.md">广州正佳广场，一名司机撞行人，造成5死13伤。撞人后，将车停路边，向空中抛洒钱币。被抓时称，黄坤明是我叔。黄坤明现任政治局委员，广东省委书记。</a></li>
 <li><a href="/topimagenews/20230112/1835359.md">中共发布专题片，再度释放特殊信号！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230112/1835488.md">号称“百病不生” 59岁少林武僧总教头染疫去世</a></li>
 <li><a href="/topimagenews/20230112/1835529.md">网传一篇文章值得一看 关于疫情三年：什么叫为人民服务！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230112/1835390.md">江南美女靠肉博上位 一年半当上副局长</a></li>
+<li><a href="/cbnews/20230112/1835319.md">震撼视频：整个山头都是送葬队伍，太空可见…</a></li>
 <li><a href="/cnnews/20230112/1835451.md">王思聪惊传在上海围殴路人被抓…</a></li>
 <li><a href="/topimagenews/20230112/1835486.md">普丁震怒！开会竟遭3度纠正 忍不住公开飙骂副总理…</a></li>
-<li><a href="/cbnews/20230112/1835319.md">震撼视频：整个山头都是送葬队伍，太空可见…</a></li>
-<li><a href="/lifebaike/20230112/1835496.md">面试官让坐下，但现场没椅子，她的做法当场录用</a></li>
 <li><a href="/sohnews/20230112/1835507.md">💥最新爆料: 广州撞人宝马男车藏120万, 家境殷实, 喜欢炫富喜欢装逼! 车主背景太强, 父亲是温国辉, 确实和黄坤明互称兄弟?【20230112】</a></li>
+<li><a href="/lifebaike/20230112/1835496.md">面试官让坐下，但现场没椅子，她的做法当场录用</a></li>
 <li><a href="/cnnews/20230112/1835489.md">细思极恐！陆男脑溢血送医不治 身上5器官秒配对…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230113/1835618.md" target="_blank">时事大家谈：赵立坚“发配边疆” 习近平外交“变招”？</a></li>
 <li><a href="/comments/20230113/1835604.md" target="_blank">时事大家谈：美智库兵推台海开战 台湾能孤军奋战70天？</a></li>
 <li><a href="/comments/20230112/1835590.md" target="_blank">时事大家谈：美智库兵推台海开战 台湾能孤军奋战70天？赵立坚“发配边疆” 习近平外交“变招”？</a></li>
 <li><a href="/comments/20230112/1835549.md" target="_blank">【未普评论】 2022﹕习近平的政治幻想破灭（下）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230112/1835304.md" target="_blank">中国疫苗之灾 不容回避</a></li>
 <li><a href="/comments/20230112/1835303.md" target="_blank">文昭：红卫兵式报复日韩，真实动机是它？基建狂魔的鸡血复活，央行成鸡血制造者会有何後果？</a></li>
 <li><a href="/comments/20230112/1835292.md" target="_blank">广州正佳广场，一名司机撞行人，造成5死13伤。撞人后，将车停路边，向空中抛洒钱币。被抓时称，黄坤明是我叔。黄坤明现任政治局委员，广东省委书记。</a></li>
-<li><a href="/comments/20230112/1835291.md" target="_blank">汪有: 富贵故事:都是普通的人努力地活着</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
 <li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 
 </ul>
 </div>
