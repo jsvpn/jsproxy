@@ -8,7 +8,6 @@
 <li><a href="/cnnews/20230111/1835031.md">扬州偷情女副局长婚前作风更大胆 更多猛料曝光</a></li>
 <li><a href="/topimagenews/20230111/1834926.md">傅政华说出这番话后，有人将大难临头！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230111/1835094.md">报复社会？广州一名男子驾车反复冲撞人群 造成5死13伤【阿波罗网报道】</a></li>
-<li><a href="/yule/20230111/1834799.md">中国又一对明星夫妻在假装恩爱？</a></li>
 <li><a href="/cnnews/20230111/1834979.md">张文宏这话 上海之外的中国人听着会扎心</a></li>
 <li><a href="/cnnews/20230111/1834935.md">太黑了！业内消息：辉瑞特效药未入中国医保内幕 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230111/1834993.md">习近平急转弯？秦刚向拉夫罗夫抛出“三不”</a></li>
@@ -16,18 +15,19 @@
 <li><a href="/cbnews/20230111/1834911.md">天亮时分：独家揭秘：各方压力逼迫习经济与外交政策大调头；中俄关系要掰？中共内部的混乱与国际上的狐疑（政论天下第904集 20230110）</a></li>
 <li><a href="/topimagenews/20230111/1835053.md">活久见！中国超大特大城市，又开始“空城”了？真来了！美欧供应链去中国化愈演愈烈；</a></li>
 <li><a href="/ssgc/20230111/1834922.md">〖兲朝浮世绘〗2023年中共官员的日子也要不好过了</a></li>
+<li><a href="/topimagenews/20230112/1835191.md">纪念李文亮 武汉大批勇敢的人们走上街头游行【阿波罗网报道】</a></li>
 <li><a href="/comments/20230111/1835019.md">中共开始失去维稳能力 社会不断挑战中共底线</a></li>
 <li><a href="/topimagenews/20230111/1835090.md">赵立坚坐冷板凳 矢板明夫揭“3大金句”：被很多中共官员不满</a></li>
-<li><a href="/topimagenews/20230112/1835191.md">纪念李文亮 武汉大批勇敢的人们走上街头游行【阿波罗网报道】</a></li>
 <li><a href="/yule/20230111/1834893.md">王石田朴珺婚变风波后同框！女方面无表情要求秀恩爱，男方显无奈</a></li>
 <li><a href="/ssgc/20230111/1834965.md">身家曾达1600亿 中国前首富被警方带走</a></li>
 <li><a href="/cnnews/20230111/1834858.md">中国驻美使领馆最新通知 回应“十年签证”</a></li>
-<li><a href="/cnnews/20230111/1834942.md">内部消息透露：中国人七成染疫 八千万转肺炎【阿波罗网报道】</a></li>
+<li><a href="/comments/20230112/1835210.md">广州，退休人员聚集抗议，警察戒备！</a></li>
+<li><a href="/cnnews/20230112/1835229.md">惊见网上卖“H&M试衣间视频”，她崩溃：有我…</a></li>
 <li><a href="/topimagenews/20230111/1834868.md">网友乐了！横店抗日“神剧”怎么来的？这就是“原型”！【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230111/1834942.md">内部消息透露：中国人七成染疫 八千万转肺炎【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230111/1835039.md">三天内搞到新冠救命药 成了检验中产人脉的标准</a></li>
 <li><a href="/topimagenews/20230111/1835037.md">中国制造烂透了！地铁狂出包 麻州交通局寄信批中共“完全放弃”承诺</a></li>
 <li><a href="/cbnews/20230111/1834944.md">江峰：又砸脚！停发日韩签证酿大错；华盛顿沙盘推演中共惨败台海，独家分析：一个有害的结论【江峰漫谈20230110第702期】</a></li>
-<li><a href="/topimagenews/20230111/1834950.md">中国人命不值700元?中共拒纳医保 辉瑞CEO曝内幕【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230112/1835292.md" target="_blank">广州正佳广场，一名司机撞行人，造成5死13伤。撞人后，将车停路边，向空中抛洒钱币。被抓时称，黄坤明是我叔。黄坤明现任政治局委员，广东省委书记。</a></li>
 <li><a href="/cbnews/20230112/1835226.md" target="_blank">老板不发年终奖，改用这招…网赞：真是高手</a></li>
 <li><a href="/cbnews/20230112/1835213.md" target="_blank">心碎：周末，我们捕捉到了这样的上海</a></li>
 <li><a href="/cbnews/20230112/1835212.md" target="_blank">突发！广州男子开宝马车冲撞人群酿5死,惨不忍睹</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230110/1834431.md" target="_blank">1月9日，杭州奥泰药厂工人抗议，警察用无人机对工人喊话。</a></li>
 <li><a href="/comments/20230110/1834430.md" target="_blank">失业大潮席卷中国，国企和央企的员工也难逃裁员潮。</a></li>
 <li><a href="/comments/20230110/1834414.md" target="_blank">河南南阳，青年人反抗极权的烟花运动。</a></li>
-<li><a href="/comments/20230110/1834413.md" target="_blank">河南南阳，勇敢的青年人积极参与烟花运动。</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230112/1835292.md" target="_blank">广州正佳广场，一名司机撞行人，造成5死13伤。撞人后，将车停路边，向空中抛洒钱币。被抓时称，黄坤明是我叔。黄坤明现任政治局委员，广东省委书记。</a></li>
+<li><a href="/comments/20230112/1835291.md" target="_blank">汪有: 富贵故事:都是普通的人努力地活着</a></li>
+<li><a href="/comments/20230112/1835290.md" target="_blank">反了吧！ 解体中共才是那躲避瘟疫的真正良药</a></li>
+<li><a href="/comments/20230112/1835289.md" target="_blank">理悟：苦难年关</a></li>
+<li><a href="/comments/20230112/1835288.md" target="_blank">郑愚山：供销社的“大爷”</a></li>
 <li><a href="/comments/20230112/1835273.md" target="_blank">同根等：7000问卷泄露疫苗反作用 曝光疫情加重的元凶</a></li>
 <li><a href="/comments/20230112/1835272.md" target="_blank">袁斌：疫情病毒感染潮冲击下的中国县乡镇</a></li>
 <li><a href="/comments/20230112/1835271.md" target="_blank">王赫：蒋介石抗日大战略 艰苦卓绝</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230111/1834928.md" target="_blank">出现这一重大信号 欧美要布局地面反攻？</a></li>
 <li><a href="/comments/20230111/1834915.md" target="_blank">人矿:我的祖国是一座巨型坟场</a></li>
 <li><a href="/comments/20230111/1834914.md" target="_blank">胡平：美国比中国还早就出现了新冠病例吗？</a></li>
-<li><a href="/comments/20230111/1834913.md" target="_blank">核心问题从来就不该是辉瑞能接受的Paxlovid降价幅度</a></li>
-<li><a href="/comments/20230111/1834890.md" target="_blank">网红喉舌的落幕是偷乐家族永远的痛</a></li>
-<li><a href="/comments/20230111/1834889.md" target="_blank">杨乃悟:今年别跟河北朋友讲冷笑话</a></li>
-<li><a href="/comments/20230111/1834888.md" target="_blank">台港人民相濡以沫，才是中共的噩梦</a></li>
-<li><a href="/comments/20230111/1834881.md" target="_blank">资深媒体人：赵立坚哗众取宠 很多官员不满他</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
 
 </ul>
 </div>
