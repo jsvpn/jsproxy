@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20230111/1835031.md">扬州偷情女副局长婚前作风更大胆 更多猛料曝光</a></li>
 <li><a href="/cnnews/20230111/1834979.md">张文宏这话 上海之外的中国人听着会扎心</a></li>
-<li><a href="/cnnews/20230111/1834935.md">太黑了！业内消息：辉瑞特效药未入中国医保内幕 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230111/1835094.md">报复社会？广州一名男子驾车反复冲撞人群 造成5死13伤【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230111/1834993.md">习近平急转弯？秦刚向拉夫罗夫抛出“三不”</a></li>
 <li><a href="/topimagenews/20230112/1835191.md">纪念李文亮 武汉大批勇敢的人们走上街头游行【阿波罗网报道】</a></li>
@@ -21,12 +20,13 @@
 <li><a href="/ssgc/20230111/1834965.md">身家曾达1600亿 中国前首富被警方带走</a></li>
 <li><a href="/cbnews/20230112/1835213.md">心碎：周末，我们捕捉到了这样的上海</a></li>
 <li><a href="/cnnews/20230112/1835228.md">突发：美国境内航班全数暂停起飞</a></li>
-<li><a href="/cnnews/20230111/1834942.md">内部消息透露：中国人七成染疫 八千万转肺炎【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230111/1835039.md">三天内搞到新冠救命药 成了检验中产人脉的标准</a></li>
+<li><a href="/cnnews/20230111/1834942.md">内部消息透露：中国人七成染疫 八千万转肺炎【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230111/1835037.md">中国制造烂透了！地铁狂出包 麻州交通局寄信批中共“完全放弃”承诺</a></li>
 <li><a href="/topimagenews/20230111/1835114.md">末日预言又来了！他曝世界爆发5大“战争”：全球恐遭殃</a></li>
 <li><a href="/cbnews/20230111/1834944.md">江峰：又砸脚！停发日韩签证酿大错；华盛顿沙盘推演中共惨败台海，独家分析：一个有害的结论【江峰漫谈20230110第702期】</a></li>
 <li><a href="/topimagenews/20230111/1834950.md">中国人命不值700元?中共拒纳医保 辉瑞CEO曝内幕【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230112/1835226.md">老板不发年终奖，改用这招…网赞：真是高手</a></li>
 <li><a href="/health/20230111/1834984.md">“阳”过之后，终于明白，未来1年，多囤这5样，比买药更重要</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230112/1835418.md" target="_blank">担心遭“割韭菜”，中国富人急着外逃这国</a></li>
 <li><a href="/comments/20230112/1835409.md" target="_blank">赵立坚老婆反了！挑战一尊、为夫鸣冤？红二代群起攻击习近平！一尊警告再封？</a></li>
 <li><a href="/comments/20230112/1835401.md" target="_blank">中国有56个民族，可美国却有97个性别</a></li>
 <li><a href="/comments/20230112/1835400.md" target="_blank">普京能奈彩虹何</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230112/1835210.md" target="_blank">广州，退休人员聚集抗议，警察戒备！</a></li>
 <li><a href="/comments/20230112/1835209.md" target="_blank">江苏南京，小区居民聚集抗议，抗议社区强行给小区安排物业，抗议警察抓捕人。</a></li>
 <li><a href="/comments/20230112/1835199.md" target="_blank">党：想用辉瑞？滚</a></li>
-<li><a href="/comments/20230112/1835138.md" target="_blank">时事大家谈：新冠“沙尘暴”席卷中国 新冠药一药难求的背后 &#160;&#160;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
 <li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 
 </ul>
 </div>
