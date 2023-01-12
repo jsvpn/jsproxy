@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230112/1835191.md">纪念李文亮 武汉大批勇敢的人们走上街头游行【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230111/1835094.md">报复社会？广州一名男子驾车反复冲撞人群 造成5死13伤【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230112/1835229.md">惊见网上卖“H&M试衣间视频”，她崩溃：有我…</a></li>
+<li><a href="/cnnews/20230111/1835094.md">报复社会？广州一名男子驾车反复冲撞人群 造成5死13伤【阿波罗网报道】</a></li>
 <li><a href="/comments/20230112/1835210.md">广州，退休人员聚集抗议，警察戒备！</a></li>
 <li><a href="/topimagenews/20230111/1835090.md">赵立坚坐冷板凳 矢板明夫揭“3大金句”：被很多中共官员不满</a></li>
 <li><a href="/cbnews/20230112/1835384.md">广州宝马告诉冲入人群撞击辗压 5死13伤 凶手是他</a></li>
@@ -18,16 +18,16 @@
 <li><a href="/comments/20230112/1835292.md">广州正佳广场，一名司机撞行人，造成5死13伤。撞人后，将车停路边，向空中抛洒钱币。被抓时称，黄坤明是我叔。黄坤明现任政治局委员，广东省委书记。</a></li>
 <li><a href="/cnnews/20230112/1835228.md">突发：美国境内航班全数暂停起飞</a></li>
 <li><a href="/topimagenews/20230112/1835358.md">中共党内乱套？习近平面临巨大压力！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230112/1835455.md">习近平首提大党难题 专家：他已陷入双重危机</a></li>
 <li><a href="/cbnews/20230112/1835333.md">两大战狼突然都坐冷板凳 中共外交要转向哪里？</a></li>
 <li><a href="/topimagenews/20230112/1835359.md">中共发布专题片，再度释放特殊信号！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230112/1835390.md">江南美女靠肉博上位 一年半当上副局长</a></li>
-<li><a href="/topimagenews/20230112/1835455.md">习近平首提大党难题 专家：他已陷入双重危机</a></li>
 <li><a href="/topimagenews/20230111/1835114.md">末日预言又来了！他曝世界爆发5大“战争”：全球恐遭殃</a></li>
 <li><a href="/cbnews/20230112/1835319.md">震撼视频：整个山头都是送葬队伍，太空可见…</a></li>
 <li><a href="/cnnews/20230112/1835451.md">王思聪惊传在上海围殴路人被抓…</a></li>
 <li><a href="/sohnews/20230112/1835398.md">故意冲撞人群，司机是广东高官家属？其父亲露面发声；重磅：国产疫药有反作用，促进感染、重症；8天五位亲人离世，这个年过不了了【新闻看点 李沐阳1.11】</a></li>
-<li><a href="/cnnews/20230112/1835241.md">谁是反右的真正帮凶？真相让国人大跌眼镜</a></li>
 <li><a href="/cbnews/20230112/1835226.md">老板不发年终奖，改用这招…网赞：真是高手</a></li>
+<li><a href="/cnnews/20230112/1835241.md">谁是反右的真正帮凶？真相让国人大跌眼镜</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230112/1835549.md" target="_blank">【未普评论】 2022﹕习近平的政治幻想破灭（下）</a></li>
+<li><a href="/comments/20230112/1835546.md" target="_blank">疫苗反效应 促发死亡</a></li>
 <li><a href="/comments/20230112/1835315.md" target="_blank">7000问卷泄密：疫苗反作用 加重中国疫情</a></li>
 <li><a href="/comments/20230112/1835537.md" target="_blank">NASA在距地球100光年恒星系统 发现第二颗宜居行星</a></li>
 <li><a href="/comments/20230112/1835518.md" target="_blank">徐州铁链女案曝光一周年现况成谜 前律师亲往探视遭警民刁难</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230112/1835291.md" target="_blank">汪有: 富贵故事:都是普通的人努力地活着</a></li>
 <li><a href="/comments/20230112/1835290.md" target="_blank">反了吧！ 解体中共才是那躲避瘟疫的真正良药</a></li>
 <li><a href="/comments/20230112/1835289.md" target="_blank">理悟：苦难年关</a></li>
-<li><a href="/comments/20230112/1835288.md" target="_blank">郑愚山：供销社的“大爷”</a></li>
-<li><a href="/comments/20230112/1835273.md" target="_blank">同根等：7000问卷泄露疫苗反作用 曝光疫情加重的元凶</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 
 </ul>
 </div>
