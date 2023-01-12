@@ -5,8 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20230111/1835094.md">报复社会？广州一名男子驾车反复冲撞人群 造成5死13伤【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230112/1835191.md">纪念李文亮 武汉大批勇敢的人们走上街头游行【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230111/1835094.md">报复社会？广州一名男子驾车反复冲撞人群 造成5死13伤【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230112/1835229.md">惊见网上卖“H&M试衣间视频”，她崩溃：有我…</a></li>
 <li><a href="/comments/20230112/1835210.md">广州，退休人员聚集抗议，警察戒备！</a></li>
 <li><a href="/topimagenews/20230111/1835090.md">赵立坚坐冷板凳 矢板明夫揭“3大金句”：被很多中共官员不满</a></li>
@@ -14,8 +14,8 @@
 <li><a href="/comments/20230112/1835409.md">赵立坚老婆反了！挑战一尊、为夫鸣冤？红二代群起攻击习近平！一尊警告再封？</a></li>
 <li><a href="/cbnews/20230112/1835213.md">心碎：周末，我们捕捉到了这样的上海</a></li>
 <li><a href="/cbnews/20230112/1835212.md">突发！广州男子开宝马车冲撞人群酿5死,惨不忍睹</a></li>
-<li><a href="/comments/20230112/1835292.md">广州正佳广场，一名司机撞行人，造成5死13伤。撞人后，将车停路边，向空中抛洒钱币。被抓时称，黄坤明是我叔。黄坤明现任政治局委员，广东省委书记。</a></li>
 <li><a href="/topimagenews/20230112/1835435.md">盘点中共桃色风暴 中共4大美女官员引起舆论哗然</a></li>
+<li><a href="/comments/20230112/1835292.md">广州正佳广场，一名司机撞行人，造成5死13伤。撞人后，将车停路边，向空中抛洒钱币。被抓时称，黄坤明是我叔。黄坤明现任政治局委员，广东省委书记。</a></li>
 <li><a href="/cnnews/20230112/1835228.md">突发：美国境内航班全数暂停起飞</a></li>
 <li><a href="/topimagenews/20230112/1835358.md">中共党内乱套？习近平面临巨大压力！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230112/1835359.md">中共发布专题片，再度释放特殊信号！【阿波罗网报道】</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/cnnews/20230112/1835390.md">江南美女靠肉博上位 一年半当上副局长</a></li>
 <li><a href="/topimagenews/20230111/1835114.md">末日预言又来了！他曝世界爆发5大“战争”：全球恐遭殃</a></li>
 <li><a href="/cbnews/20230112/1835319.md">震撼视频：整个山头都是送葬队伍，太空可见…</a></li>
+<li><a href="/topimagenews/20230112/1835455.md">习近平首提大党难题 专家：他已陷入双重危机</a></li>
 <li><a href="/cbnews/20230112/1835226.md">老板不发年终奖，改用这招…网赞：真是高手</a></li>
 <li><a href="/sohnews/20230112/1835398.md">故意冲撞人群，司机是广东高官家属？其父亲露面发声；重磅：国产疫药有反作用，促进感染、重症；8天五位亲人离世，这个年过不了了【新闻看点 李沐阳1.11】</a></li>
 <li><a href="/cnnews/20230112/1835241.md">谁是反右的真正帮凶？真相让国人大跌眼镜</a></li>
-<li><a href="/topimagenews/20230112/1835455.md">习近平首提大党难题 专家：他已陷入双重危机</a></li>
-<li><a href="/comments/20230112/1835209.md">江苏南京，小区居民聚集抗议，抗议社区强行给小区安排物业，抗议警察抓捕人。</a></li>
+<li><a href="/cnnews/20230112/1835451.md">王思聪惊传在上海围殴路人被抓…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230112/1835529.md" target="_blank">网传一篇文章值得一看 关于疫情三年：什么叫为人民服务！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230112/1835495.md" target="_blank">不给陆芯片业活路？拜登会面盟友元首 外媒爆密谋这件大事</a></li>
 <li><a href="/topimagenews/20230112/1835488.md" target="_blank">号称“百病不生” 59岁少林武僧总教头染疫去世</a></li>
 <li><a href="/topimagenews/20230112/1835486.md" target="_blank">普丁震怒！开会竟遭3度纠正 忍不住公开飙骂副总理…</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230111/1834951.md" target="_blank">不会手软！最有可能接棒川普的他定调中共</a></li>
 <li><a href="/topimagenews/20230111/1834950.md" target="_blank">中国人命不值700元?中共拒纳医保 辉瑞CEO曝内幕【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230111/1834946.md" target="_blank">芯片禁运还不够？他献计拜登“超级狠招”：成功直接3杀</a></li>
-<li><a href="/topimagenews/20230111/1834926.md" target="_blank">傅政华说出这番话后，有人将大难临头！【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 <li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
 
 </ul>
 </div>
