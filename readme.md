@@ -9,8 +9,8 @@
 <li><a href="/cnnews/20230113/1835758.md">这两天，上海网友们都在围观严公子</a></li>
 <li><a href="/lifebaike/20230113/1835704.md">揭密：长征中中共高层的“性”特权</a></li>
 <li><a href="/comments/20230113/1835825.md">形势突变！春晚革命登场：央视2023春晚未演先砸，网友超级模仿秀干趴春晚小品</a></li>
-<li><a href="/cnnews/20230113/1835760.md">今年新春是个坎儿！张文宏公开自身感染经历</a></li>
 <li><a href="/ssgc/20230113/1835787.md">〖兲朝浮世绘〗麦卡锡：中共恩将仇报，美国要算这笔账了</a></li>
+<li><a href="/cnnews/20230113/1835760.md">今年新春是个坎儿！张文宏公开自身感染经历</a></li>
 <li><a href="/topimagenews/20230113/1835892.md">江苏护士集体罢工 上海崇明岛“排队火葬”…</a></li>
 <li><a href="/topimagenews/20230113/1835827.md">【微博精粹】武松报价太高</a></li>
 <li><a href="/topimagenews/20230113/1835928.md">先上再说！大陆中共升官游戏规则…</a></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230114/1836115.md" target="_blank">颜丹：从广州宝马车撞人事件看中共末日疯狂</a></li>
+<li><a href="/comments/20230114/1836114.md" target="_blank">王赫：习近平谈“大党难题” 曝双重统治危机</a></li>
+<li><a href="/comments/20230114/1836113.md" target="_blank">最大风险：今天的习近平不停否定昨天的习近平</a></li>
 <li><a href="/comments/20230114/1836079.md" target="_blank">爱共爱成高级黑？今日头条现了</a></li>
 <li><a href="/comments/20230114/1836078.md" target="_blank">上海崇明岛，殡仪馆外的人和棺材排成了长龙。</a></li>
 <li><a href="/comments/20230114/1836063.md" target="_blank">李燕铭：习近平即将晋升一批上将 军纪委召开扩大会议 军委副主席何卫东一句话释放大清洗信号 军事法院院长与军事检察院检察长同时换人 中部战区司令与国防大学校长换人 两上将调任军委部门首脑 习强化军权内防政变对外备战（三二）</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230113/1835638.md" target="_blank">胡春华：当好职工群众的“代言人”“贴心人” 江西工人报真敢报！中南海不可告人的秘密_571</a></li>
 <li><a href="/comments/20230113/1835618.md" target="_blank">时事大家谈：赵立坚“发配边疆” 习近平外交“变招”？</a></li>
 <li><a href="/comments/20230113/1835604.md" target="_blank">时事大家谈：美智库兵推台海开战 台湾能孤军奋战70天？</a></li>
-<li><a href="/comments/20230112/1835590.md" target="_blank">时事大家谈：美智库兵推台海开战 台湾能孤军奋战70天？赵立坚“发配边疆” 习近平外交“变招”？</a></li>
-<li><a href="/comments/20230112/1835549.md" target="_blank">【未普评论】 2022﹕习近平的政治幻想破灭（下）</a></li>
-<li><a href="/comments/20230112/1835546.md" target="_blank">疫苗反效应 促发死亡</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
 
 </ul>
 </div>
