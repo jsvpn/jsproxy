@@ -5,9 +5,7 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/baitai/20230113/1835708.md">学者：习近平为拯救经济正进行一场赌博</a></li>
 <li><a href="/cnnews/20230113/1835758.md">这两天，上海网友们都在围观严公子</a></li>
-<li><a href="/lifebaike/20230113/1835704.md">揭密：长征中中共高层的“性”特权</a></li>
 <li><a href="/comments/20230113/1835825.md">形势突变！春晚革命登场：央视2023春晚未演先砸，网友超级模仿秀干趴春晚小品</a></li>
 <li><a href="/ssgc/20230113/1835787.md">〖兲朝浮世绘〗麦卡锡：中共恩将仇报，美国要算这笔账了</a></li>
 <li><a href="/cnnews/20230113/1835760.md">今年新春是个坎儿！张文宏公开自身感染经历</a></li>
@@ -15,8 +13,8 @@
 <li><a href="/topimagenews/20230113/1835827.md">【微博精粹】武松报价太高</a></li>
 <li><a href="/topimagenews/20230113/1835928.md">先上再说！大陆中共升官游戏规则…</a></li>
 <li><a href="/baitai/20230113/1835720.md">谭德塞罕见发飙：北京这样做 世卫无法接受</a></li>
-<li><a href="/sohnews/20230113/1835929.md">中共再创负面“世界记录”！中纪委反贪？王岐山大祕、赵乐际身边人，全是巨贪；军队廉洁？徐、郭二中央军委副主席带头好色贪财；还有超600只党政军“老虎”⋯⋯解密中共为何越反腐越腐。</a></li>
 <li><a href="/cbnews/20230113/1835792.md">内地强奸犯捧成励志网红 荒诞“纯狱风”惹议</a></li>
+<li><a href="/sohnews/20230113/1835929.md">中共再创负面“世界记录”！中纪委反贪？王岐山大祕、赵乐际身边人，全是巨贪；军队廉洁？徐、郭二中央军委副主席带头好色贪财；还有超600只党政军“老虎”⋯⋯解密中共为何越反腐越腐。</a></li>
 <li><a href="/cbnews/20230113/1835793.md">美中紧张关系再升级！美媒Axios消息：白宫正计划限制对中共军企投资</a></li>
 <li><a href="/health/20230113/1835895.md">身体出现6个症状，其实早就“阳”了，大意可能会变成重症</a></li>
 <li><a href="/sohnews/20230113/1835922.md">丢人了！中国医保200块买辉瑞口服药的事论证过程出了大问题，虽然结论没错。</a></li>
@@ -25,9 +23,11 @@
 <li><a href="/sohnews/20230113/1835870.md">习“解封”幕后被揭！新华社长文心机重重；王思聪上海打人吸关注；在最严重时“解封”，中共三大用意；习首提大党难题，地方与中央矛盾激化；Paxlovid被砍到白菜价；江也是染疫死？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ssgc/20230113/1835834.md">〖微博谈〗你不要脸我还要呢</a></li>
 <li><a href="/cnnews/20230113/1835891.md">偷国家电挖比特币!江西前官员纵容16万机器挖矿耗全市10％电 收贿5亿元</a></li>
-<li><a href="/baitai/20230113/1835807.md">当局定性广州宝马车事件为「交通事故」 引发民愤</a></li>
 <li><a href="/cbnews/20230113/1835812.md">中国名人死亡潮引外媒关注 这波疫情有三大诡异之处</a></li>
+<li><a href="/baitai/20230113/1835807.md">当局定性广州宝马车事件为「交通事故」 引发民愤</a></li>
+<li><a href="/ssgc/20230113/1835965.md">习近平的最大恐惧</a></li>
 <li><a href="/sohnews/20230113/1835920.md">🧨习训话, 透露党内正滋长新危机! 政令传不出中南海, 反腐不再是纪委首任! 200年前大清王朝由盛转衰的不祥之兆在中共党内显现! 习不怕群众怕党干部?!【20230113】</a></li>
+<li><a href="/sohnews/20230113/1835723.md">陈破空：幕后果然是他？政治局委员！广州撞人被定义为交通事故，舆论大哗！视频尽遭删除。美众议院成立特别委员会对付中共。直播与互动。美东1月12日晚8点、即中港台1月13日早9点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
 
 </ul>
 </div>
