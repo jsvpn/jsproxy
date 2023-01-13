@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cbnews/20230112/1835384.md">广州宝马告诉冲入人群撞击辗压 5死13伤 凶手是他</a></li>
 <li><a href="/comments/20230112/1835409.md">赵立坚老婆反了！挑战一尊、为夫鸣冤？红二代群起攻击习近平！一尊警告再封？</a></li>
 <li><a href="/topimagenews/20230112/1835435.md">盘点中共桃色风暴 中共4大美女官员引起舆论哗然</a></li>
 <li><a href="/topimagenews/20230112/1835529.md">网传一篇文章值得一看 关于疫情三年：什么叫为人民服务！【阿波罗网报道】</a></li>
@@ -13,7 +12,6 @@
 <li><a href="/comments/20230112/1835517.md">赵立坚被发配“边疆” 老婆汤天如突发16字文又急删</a></li>
 <li><a href="/topimagenews/20230112/1835488.md">号称“百病不生” 59岁少林武僧总教头染疫去世</a></li>
 <li><a href="/baitai/20230112/1835541.md">习近平怂了？学者：可能出动军队镇压</a></li>
-<li><a href="/cnnews/20230112/1835390.md">江南美女靠肉博上位 一年半当上副局长</a></li>
 <li><a href="/sohnews/20230112/1835507.md">💥最新爆料: 广州撞人宝马男车藏120万, 家境殷实, 喜欢炫富喜欢装逼! 车主背景太强, 父亲是温国辉, 确实和黄坤明互称兄弟?【20230112】</a></li>
 <li><a href="/lifebaike/20230112/1835496.md">面试官让坐下，但现场没椅子，她的做法当场录用</a></li>
 <li><a href="/topimagenews/20230112/1835486.md">普丁震怒！开会竟遭3度纠正 忍不住公开飙骂副总理…</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/cnnews/20230113/1835646.md">堪比911恐攻！美“逾万航班停飞”原因曝</a></li>
 <li><a href="/cnnews/20230113/1835633.md">别轻忽新冠确诊 美研究：这“3器官”恐严重老化</a></li>
 <li><a href="/topimagenews/20230112/1835582.md">惊现第2批机密文件帮川普大忙 FBI恐突袭拜登豪宅？</a></li>
+<li><a href="/yule/20230113/1835672.md">35岁刘亦菲近况变化大！模样胖到毁三观</a></li>
 <li><a href="/sohnews/20230112/1835536.md">医生：每半来年一波，人均损失20%脏器功能！“阳康”后一个月风险增33倍,需警惕“肺梗”“心梗”!</a></li>
+<li><a href="/ssgc/20230112/1835472.md">辉瑞药中国欲砍价至200元 各地疯抢免疫白蛋白及氧气机</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230113/1835812.md" target="_blank">中国名人死亡潮引外媒关注 这波疫情有三大诡异之处</a></li>
 <li><a href="/cbnews/20230113/1835793.md" target="_blank">美中紧张关系再升级！美媒Axios消息：白宫正计划限制对中共军企投资</a></li>
 <li><a href="/cbnews/20230113/1835792.md" target="_blank">内地强奸犯捧成励志网红 荒诞“纯狱风”惹议</a></li>
 <li><a href="/cbnews/20230113/1835689.md" target="_blank">中共如此处理当下两大问题 何谈领导世界</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/comments/20230111/1835061.md" target="_blank">隐世2000年的死海古卷，详细记述末日之战：弥赛亚之战！一本禁书 惊现人间！给伪经正了名，比圣经详细很多！诺亚曾祖父 活了365岁，联通天上人间⋯⋯</a></li>
 <li><a href="/cbnews/20230111/1834944.md" target="_blank">江峰：又砸脚！停发日韩签证酿大错；华盛顿沙盘推演中共惨败台海，独家分析：一个有害的结论【江峰漫谈20230110第702期】</a></li>
 <li><a href="/cbnews/20230111/1834911.md" target="_blank">天亮时分：独家揭秘：各方压力逼迫习经济与外交政策大调头；中俄关系要掰？中共内部的混乱与国际上的狐疑（政论天下第904集 20230110）</a></li>
-<li><a href="/comments/20230111/1834787.md" target="_blank">【方菲时【方菲时间】中共的“治国理政”能力为什么那么差；网民新年愿望：专家没有建议 ｜01/10/2023间】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230113/1835813.md" target="_blank">拜登猛K大陆芯片业奏效！1关键数字惊人 暴跌沦全球最惨</a></li>
 <li><a href="/topimagenews/20230113/1835791.md" target="_blank">王五四：你刚走，我们已经开始想你了</a></li>
 <li><a href="/topimagenews/20230112/1835582.md" target="_blank">惊现第2批机密文件帮川普大忙 FBI恐突袭拜登豪宅？</a></li>
 <li><a href="/topimagenews/20230112/1835529.md" target="_blank">网传一篇文章值得一看 关于疫情三年：什么叫为人民服务！【阿波罗网报道】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230111/1834993.md" target="_blank">习近平急转弯？秦刚向拉夫罗夫抛出“三不”</a></li>
 <li><a href="/topimagenews/20230111/1834980.md" target="_blank">败象已露 俄军爆火力大降75％</a></li>
 <li><a href="/topimagenews/20230111/1834973.md" target="_blank">太惨了！乌曝俄罗斯“唯一航母”连这都做不到…</a></li>
-<li><a href="/topimagenews/20230111/1834951.md" target="_blank">不会手软！最有可能接棒川普的他定调中共</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 
 </ul>
 </div>
