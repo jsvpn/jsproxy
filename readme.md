@@ -5,28 +5,28 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20230112/1835409.md">赵立坚老婆反了！挑战一尊、为夫鸣冤？红二代群起攻击习近平！一尊警告再封？</a></li>
 <li><a href="/topimagenews/20230112/1835435.md">盘点中共桃色风暴 中共4大美女官员引起舆论哗然</a></li>
 <li><a href="/topimagenews/20230112/1835529.md">网传一篇文章值得一看 关于疫情三年：什么叫为人民服务！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230112/1835455.md">习近平首提大党难题 专家：他已陷入双重危机</a></li>
 <li><a href="/comments/20230112/1835517.md">赵立坚被发配“边疆” 老婆汤天如突发16字文又急删</a></li>
-<li><a href="/topimagenews/20230112/1835488.md">号称“百病不生” 59岁少林武僧总教头染疫去世</a></li>
 <li><a href="/baitai/20230112/1835541.md">习近平怂了？学者：可能出动军队镇压</a></li>
+<li><a href="/topimagenews/20230112/1835488.md">号称“百病不生” 59岁少林武僧总教头染疫去世</a></li>
 <li><a href="/sohnews/20230112/1835507.md">💥最新爆料: 广州撞人宝马男车藏120万, 家境殷实, 喜欢炫富喜欢装逼! 车主背景太强, 父亲是温国辉, 确实和黄坤明互称兄弟?【20230112】</a></li>
 <li><a href="/lifebaike/20230112/1835496.md">面试官让坐下，但现场没椅子，她的做法当场录用</a></li>
 <li><a href="/topimagenews/20230112/1835486.md">普丁震怒！开会竟遭3度纠正 忍不住公开飙骂副总理…</a></li>
 <li><a href="/cnnews/20230112/1835451.md">王思聪惊传在上海围殴路人被抓…</a></li>
 <li><a href="/cnnews/20230112/1835489.md">细思极恐！陆男脑溢血送医不治 身上5器官秒配对…</a></li>
 <li><a href="/comments/20230112/1835315.md">7000问卷泄密：疫苗反作用 加重中国疫情</a></li>
-<li><a href="/sohnews/20230112/1835398.md">故意冲撞人群，司机是广东高官家属？其父亲露面发声；重磅：国产疫药有反作用，促进感染、重症；8天五位亲人离世，这个年过不了了【新闻看点 李沐阳1.11】</a></li>
 <li><a href="/sohnews/20230112/1835426.md">广州天河宝马事件分析：司机的身份，动机；两个孩子；一种比底层造反更可怕的可能性</a></li>
 <li><a href="/ssgc/20230112/1835422.md">〖兲朝浮世绘〗别跟党走，走着走着孩子没了</a></li>
 <li><a href="/cbnews/20230112/1835573.md">史上最神秘大爆炸！2万人瞬间惨死 罹难者“全身赤裸”超离奇</a></li>
 <li><a href="/cnnews/20230113/1835646.md">堪比911恐攻！美“逾万航班停飞”原因曝</a></li>
 <li><a href="/cnnews/20230113/1835633.md">别轻忽新冠确诊 美研究：这“3器官”恐严重老化</a></li>
-<li><a href="/topimagenews/20230112/1835582.md">惊现第2批机密文件帮川普大忙 FBI恐突袭拜登豪宅？</a></li>
 <li><a href="/yule/20230113/1835672.md">35岁刘亦菲近况变化大！模样胖到毁三观</a></li>
+<li><a href="/topimagenews/20230112/1835582.md">惊现第2批机密文件帮川普大忙 FBI恐突袭拜登豪宅？</a></li>
+<li><a href="/cbnews/20230113/1835680.md">中国男子亡送医立马被“分尸” 网 : 配对这么快</a></li>
 <li><a href="/sohnews/20230112/1835536.md">医生：每半来年一波，人均损失20%脏器功能！“阳康”后一个月风险增33倍,需警惕“肺梗”“心梗”!</a></li>
+<li><a href="/ssgc/20230113/1835601.md">广州宝马疯狂撞人定性为“交通事故” 舆论哗然</a></li>
 <li><a href="/ssgc/20230112/1835472.md">辉瑞药中国欲砍价至200元 各地疯抢免疫白蛋白及氧气机</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230113/1835827.md" target="_blank">【微博精粹】武松报价太高</a></li>
 <li><a href="/topimagenews/20230113/1835813.md" target="_blank">拜登猛K大陆芯片业奏效！1关键数字惊人 暴跌沦全球最惨</a></li>
 <li><a href="/topimagenews/20230113/1835791.md" target="_blank">王五四：你刚走，我们已经开始想你了</a></li>
 <li><a href="/topimagenews/20230112/1835582.md" target="_blank">惊现第2批机密文件帮川普大忙 FBI恐突袭拜登豪宅？</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20230111/1834994.md" target="_blank">中共不过如此 美已掌握北京的经济命脉</a></li>
 <li><a href="/topimagenews/20230111/1834993.md" target="_blank">习近平急转弯？秦刚向拉夫罗夫抛出“三不”</a></li>
 <li><a href="/topimagenews/20230111/1834980.md" target="_blank">败象已露 俄军爆火力大降75％</a></li>
-<li><a href="/topimagenews/20230111/1834973.md" target="_blank">太惨了！乌曝俄罗斯“唯一航母”连这都做不到…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230113/1835826.md" target="_blank">mRNA疫苗营销话术</a></li>
+<li><a href="/comments/20230113/1835825.md" target="_blank">形势突变！春晚革命登场：央视2023春晚未演先砸，网友超级模仿秀干趴春晚小品</a></li>
 <li><a href="/comments/20230113/1835797.md" target="_blank">李濠仲：普丁之恶在把“乌克兰小孩”变“俄罗斯小孩”</a></li>
 <li><a href="/comments/20230113/1835777.md" target="_blank">金融女民工：躺平才是最高级的奋斗？</a></li>
 <li><a href="/comments/20230113/1835776.md" target="_blank">无根之风：那里堆满了成年人的悲哀</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230112/1835400.md" target="_blank">普京能奈彩虹何</a></li>
 <li><a href="/comments/20230112/1835399.md" target="_blank">小昼: 争夺辉瑞“特效药”</a></li>
 <li><a href="/comments/20230112/1835396.md" target="_blank">美国飞航系统当机 国内线几乎停摆</a></li>
-<li><a href="/comments/20230112/1835395.md" target="_blank">黎智英律师团见英国外交高官 港府跳脚、中英又杠上</a></li>
-<li><a href="/comments/20230112/1835362.md" target="_blank">马斯克”推特文件“第十二集：Pfizer压制Covid疫苗辩论</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 <li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
 <li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 <li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
 
 </ul>
 </div>
