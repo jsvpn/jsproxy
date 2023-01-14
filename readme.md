@@ -21,13 +21,13 @@
 <li><a href="/sohnews/20230113/1835870.md">习“解封”幕后被揭！新华社长文心机重重；王思聪上海打人吸关注；在最严重时“解封”，中共三大用意；习首提大党难题，地方与中央矛盾激化；Paxlovid被砍到白菜价；江也是染疫死？｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ssgc/20230113/1835965.md">习近平的最大恐惧</a></li>
 <li><a href="/ssgc/20230113/1835834.md">〖微博谈〗你不要脸我还要呢</a></li>
-<li><a href="/cnnews/20230113/1835891.md">偷国家电挖比特币!江西前官员纵容16万机器挖矿耗全市10％电 收贿5亿元</a></li>
+<li><a href="/cbnews/20230114/1836107.md">“朋友圈好几个朋友，一瞬间都在国外了。”</a></li>
 <li><a href="/baitai/20230114/1836051.md">新任安徽女副省长火箭式升迁 仕途轨迹惊呆网民</a></li>
+<li><a href="/cnnews/20230113/1835891.md">偷国家电挖比特币!江西前官员纵容16万机器挖矿耗全市10％电 收贿5亿元</a></li>
 <li><a href="/topimagenews/20230114/1836064.md">千亿人民币航企 中国东航、南航突然宣布自纽交所退市</a></li>
 <li><a href="/cbnews/20230113/1835812.md">中国名人死亡潮引外媒关注 这波疫情有三大诡异之处</a></li>
 <li><a href="/sohnews/20230113/1835920.md">🧨习训话, 透露党内正滋长新危机! 政令传不出中南海, 反腐不再是纪委首任! 200年前大清王朝由盛转衰的不祥之兆在中共党内显现! 习不怕群众怕党干部?!【20230113】</a></li>
 <li><a href="/baitai/20230113/1835807.md">当局定性广州宝马车事件为「交通事故」 引发民愤</a></li>
-<li><a href="/cbnews/20230114/1836107.md">“朋友圈好几个朋友，一瞬间都在国外了。”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230114/1836196.md" target="_blank">中国拒用辉瑞新冠药和西方疫苗 竟是因为…</a></li>
+<li><a href="/cbnews/20230114/1836194.md" target="_blank">天亮时分：中国已有九亿人感染新冠；逼反公务员，地方政府在给习近平挖坑；政策反复之间，习近平失去支持者的基本盘（政论天下第906集 20230113）</a></li>
 <li><a href="/comments/20230114/1836183.md" target="_blank">广州正佳广场恶性撞人事件后，市民前往正佳广场送鲜花悼念死难者，却遭警察阻挠。</a></li>
 <li><a href="/comments/20230114/1836149.md" target="_blank">专访媒体人赵兰健：卷入“铁链女”事件促使我润出中国；被刑警设圈套盘问，看清公权力颠倒黑白；中共极权体制导致社会失衡 ｜01/13/2023</a></li>
 <li><a href="/cbnews/20230114/1836107.md" target="_blank">“朋友圈好几个朋友，一瞬间都在国外了。”</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20230112/1835292.md" target="_blank">广州正佳广场，一名司机撞行人，造成5死13伤。撞人后，将车停路边，向空中抛洒钱币。被抓时称，黄坤明是我叔。黄坤明现任政治局委员，广东省委书记。</a></li>
 <li><a href="/cbnews/20230112/1835226.md" target="_blank">老板不发年终奖，改用这招…网赞：真是高手</a></li>
 <li><a href="/cbnews/20230112/1835213.md" target="_blank">心碎：周末，我们捕捉到了这样的上海</a></li>
-<li><a href="/cbnews/20230112/1835212.md" target="_blank">突发！广州男子开宝马车冲撞人群酿5死,惨不忍睹</a></li>
-<li><a href="/comments/20230112/1835210.md" target="_blank">广州，退休人员聚集抗议，警察戒备！</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230114/1836193.md" target="_blank">视频：mRNA技术先驱马龙博士呼吁不要给孩子接种mRNA疫苗</a></li>
 <li><a href="/comments/20230114/1836183.md" target="_blank">广州正佳广场恶性撞人事件后，市民前往正佳广场送鲜花悼念死难者，却遭警察阻挠。</a></li>
 <li><a href="/comments/20230114/1836159.md" target="_blank">习近平讲话口误秒变敏感词 2022年十大语文差错公布 “莲花清瘟”排第三</a></li>
 <li><a href="/comments/20230114/1836149.md" target="_blank">专访媒体人赵兰健：卷入“铁链女”事件促使我润出中国；被刑警设圈套盘问，看清公权力颠倒黑白；中共极权体制导致社会失衡 ｜01/13/2023</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230113/1835927.md" target="_blank">不能说真话！中国《戏剧与影视评论》期刊编辑部集体辞职</a></li>
 <li><a href="/comments/20230113/1835868.md" target="_blank">中共第二讨人嫌：赵立坚失宠 与他老婆哀叹无关</a></li>
 <li><a href="/comments/20230113/1835826.md" target="_blank">mRNA疫苗营销话术</a></li>
-<li><a href="/comments/20230113/1835825.md" target="_blank">形势突变！春晚革命登场：央视2023春晚未演先砸，网友超级模仿秀干趴春晚小品</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 <li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 
 </ul>
 </div>
