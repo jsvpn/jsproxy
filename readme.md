@@ -5,8 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230113/1835929.md">中共再创负面“世界记录”！中纪委反贪？王岐山大祕、赵乐际身边人，全是巨贪；军队廉洁？徐、郭二中央军委副主席带头好色贪财；还有超600只党政军“老虎”⋯⋯解密中共为何越反腐越腐。</a></li>
-<li><a href="/topimagenews/20230113/1835928.md">先上再说！大陆中共升官游戏规则…</a></li>
 <li><a href="/topimagenews/20230114/1836101.md">中国地方债大暴露，强制公务员成接盘侠</a></li>
 <li><a href="/sohnews/20230113/1835922.md">丢人了！中国医保200块买辉瑞口服药的事论证过程出了大问题，虽然结论没错。</a></li>
 <li><a href="/ssgc/20230113/1835965.md">习近平的最大恐惧</a></li>
@@ -14,8 +12,8 @@
 <li><a href="/baitai/20230114/1836051.md">新任安徽女副省长火箭式升迁 仕途轨迹惊呆网民</a></li>
 <li><a href="/ssgc/20230114/1836140.md">〖兲朝浮世绘〗把习近平踢出去还是不踢？</a></li>
 <li><a href="/cbnews/20230114/1836196.md">中国拒用辉瑞新冠药和西方疫苗 竟是因为…</a></li>
-<li><a href="/topimagenews/20230114/1836064.md">千亿人民币航企 中国东航、南航突然宣布自纽交所退市</a></li>
 <li><a href="/topimagenews/20230114/1836136.md">倒戈了! 巴基斯坦大手笔军援乌克兰 陆军事博主讽俄国</a></li>
+<li><a href="/topimagenews/20230114/1836064.md">千亿人民币航企 中国东航、南航突然宣布自纽交所退市</a></li>
 <li><a href="/baitai/20230114/1836134.md">新华社洗地文泄党国秘密 习难以全身而退</a></li>
 <li><a href="/cnnews/20230114/1836024.md">俄罗斯每天崩1.7亿美元！美国下一招更致命：2月惨了</a></li>
 <li><a href="/comments/20230114/1836236.md">警察不查反共了！党国形势剧变，隐形战狼翻车！习近平搬起外交石头砸党脚，美韩联合挥铁拳</a></li>
@@ -23,11 +21,13 @@
 <li><a href="/baitai/20230113/1835955.md">中共官员又在高级黑？学者：习近平怕什么来什么</a></li>
 <li><a href="/comments/20230114/1836145.md">文昭：习近平吐槽，暗示局势正在脱离控制，祭出最狠一招！习和马谁输了？答案不那麽简单</a></li>
 <li><a href="/cnnews/20230114/1836225.md">美国前军官曝内幕：希望习近平不要做笨事【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230114/1836035.md">解放军2026攻台首战失利 但后续可能相当惊悚</a></li>
 <li><a href="/cbnews/20230114/1836194.md">天亮时分：中国已有九亿人感染新冠；逼反公务员，地方政府在给习近平挖坑；政策反复之间，习近平失去支持者的基本盘（政论天下第906集 20230113）</a></li>
+<li><a href="/cnnews/20230114/1836035.md">解放军2026攻台首战失利 但后续可能相当惊悚</a></li>
 <li><a href="/comments/20230114/1836183.md">广州正佳广场恶性撞人事件后，市民前往正佳广场送鲜花悼念死难者，却遭警察阻挠。</a></li>
 <li><a href="/cnnews/20230114/1836104.md">新冠二次感染率多高?超1800万感染者数据给出答案</a></li>
 <li><a href="/cnnews/20230114/1836105.md">苹果汽车爆料: 售价60万左右 这方面和iPhone一样</a></li>
+<li><a href="/cnnews/20230113/1835991.md">震惊！中共准备让中国人精神上“共同贫穷”？【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20230114/1836151.md">广州宝马事件全网噤声，编造王思聪打人只为转移焦点！中共自曝九亿人感染，意在渲染群体免疫已实现！扔下十万就跑，通货膨涨够厉害的！秦部长新官上任，不改战狼本色！【新闻最嘲点 姜光宇】2023.0113</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
 <li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
 <li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
 
 </ul>
 </div>
