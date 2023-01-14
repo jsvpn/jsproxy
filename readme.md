@@ -17,14 +17,14 @@
 <li><a href="/cbnews/20230114/1836194.md">天亮时分：中国已有九亿人感染新冠；逼反公务员，地方政府在给习近平挖坑；政策反复之间，习近平失去支持者的基本盘（政论天下第906集 20230113）</a></li>
 <li><a href="/comments/20230114/1836159.md">习近平讲话口误秒变敏感词 2022年十大语文差错公布 “莲花清瘟”排第三</a></li>
 <li><a href="/cnnews/20230114/1836225.md">美国前军官曝内幕：希望习近平不要做笨事【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230114/1836409.md">中共突报院内染疫死亡近六万 遭质疑</a></li>
 <li><a href="/comments/20230114/1836145.md">文昭：习近平吐槽，暗示局势正在脱离控制，祭出最狠一招！习和马谁输了？答案不那麽简单</a></li>
 <li><a href="/sohnews/20230114/1836309.md">信息量很大！陆网友人肉出其个人“小红书”帐号；温华生明确喊“黄坤明”是他叔，这回可能有关系了；现场画面还原！广州宝马车主“温华生”的六次折返；案子仅是交通意外？大陆律师撂狠话！｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20230114/1836183.md">广州正佳广场恶性撞人事件后，市民前往正佳广场送鲜花悼念死难者，却遭警察阻挠。</a></li>
-<li><a href="/cbnews/20230114/1836409.md">中共突报院内染疫死亡近六万 遭质疑</a></li>
 <li><a href="/cbnews/20230114/1836252.md">还原现场 广州宝马连撞如同恐袭 哭声响彻半条街</a></li>
+<li><a href="/yule/20230114/1836382.md">中戏200年一遇校花 艳压章子怡却怎么都不红</a></li>
 <li><a href="/cnnews/20230114/1836360.md">45岁河南女子带5娃嫁初恋 新郎为爱愿共同抚养</a></li>
 <li><a href="/sohnews/20230114/1836353.md">再说推背图：黑兔双春闰二月！哎，又是天灾人祸的一年；台海冲突将成主旋律，但不会爆发大的战争（20230114 第1070期）</a></li>
-<li><a href="/yule/20230114/1836382.md">中戏200年一遇校花 艳压章子怡却怎么都不红</a></li>
 <li><a href="/cnnews/20230114/1836373.md">十年前1.8万买的钻戒，如今只能卖180元</a></li>
 <li><a href="/sohnews/20230114/1836151.md">广州宝马事件全网噤声，编造王思聪打人只为转移焦点！中共自曝九亿人感染，意在渲染群体免疫已实现！扔下十万就跑，通货膨涨够厉害的！秦部长新官上任，不改战狼本色！【新闻最嘲点 姜光宇】2023.0113</a></li>
 <li><a href="/cnnews/20230114/1836104.md">新冠二次感染率多高?超1800万感染者数据给出答案</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230115/1836462.md" target="_blank">7.8亿人负债，全民负债200万亿，4.2亿人还不上房贷。46万企业倒闭，310万个体户注销，2200万门店关闭。数亿人失业。</a></li>
+<li><a href="/comments/20230115/1836461.md" target="_blank">年关将至，北京大批老字号都已关门，商业中心冷冷清清。</a></li>
 <li><a href="/comments/20230115/1836455.md" target="_blank">北京经济崩盘，企业掀裁员大潮，大量中产跌入地狱。</a></li>
 <li><a href="/cbnews/20230114/1836430.md" target="_blank">北大研究指9亿人染疫 中疾控宣称测出本土XBB</a></li>
 <li><a href="/cbnews/20230114/1836409.md" target="_blank">中共突报院内染疫死亡近六万 遭质疑</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230113/1835630.md" target="_blank">虎宝宝太贪吃“肿成胖橘猫”惨遭同伴排挤 低头好委屈</a></li>
 <li><a href="/cbnews/20230113/1835608.md" target="_blank">FBI搜查纽约华埠1机构 疑为中共海外警察局</a></li>
 <li><a href="/cbnews/20230112/1835573.md" target="_blank">史上最神秘大爆炸！2万人瞬间惨死 罹难者“全身赤裸”超离奇</a></li>
-<li><a href="/comments/20230112/1835315.md" target="_blank">7000问卷泄密：疫苗反作用 加重中国疫情</a></li>
-<li><a href="/cbnews/20230112/1835384.md" target="_blank">广州宝马告诉冲入人群撞击辗压 5死13伤 凶手是他</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230115/1836462.md" target="_blank">7.8亿人负债，全民负债200万亿，4.2亿人还不上房贷。46万企业倒闭，310万个体户注销，2200万门店关闭。数亿人失业。</a></li>
+<li><a href="/comments/20230115/1836461.md" target="_blank">年关将至，北京大批老字号都已关门，商业中心冷冷清清。</a></li>
 <li><a href="/comments/20230115/1836455.md" target="_blank">北京经济崩盘，企业掀裁员大潮，大量中产跌入地狱。</a></li>
 <li><a href="/comments/20230115/1836432.md" target="_blank">胡锡进也被删文！陕西党官进驻民企 舆论质疑声浪快要压不住</a></li>
 <li><a href="/comments/20230114/1836406.md" target="_blank">中国疫情大爆发 香港也现抢药潮 每人限购3盒退烧药</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230114/1836183.md" target="_blank">广州正佳广场恶性撞人事件后，市民前往正佳广场送鲜花悼念死难者，却遭警察阻挠。</a></li>
 <li><a href="/comments/20230114/1836159.md" target="_blank">习近平讲话口误秒变敏感词 2022年十大语文差错公布 “莲花清瘟”排第三</a></li>
 <li><a href="/comments/20230114/1836149.md" target="_blank">专访媒体人赵兰健：卷入“铁链女”事件促使我润出中国；被刑警设圈套盘问，看清公权力颠倒黑白；中共极权体制导致社会失衡 ｜01/13/2023</a></li>
-<li><a href="/comments/20230114/1836145.md" target="_blank">文昭：习近平吐槽，暗示局势正在脱离控制，祭出最狠一招！习和马谁输了？答案不那麽简单</a></li>
-<li><a href="/comments/20230114/1836126.md" target="_blank">谢田：六十年噩梦渐去 美国会归正开启</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
 
 </ul>
 </div>
