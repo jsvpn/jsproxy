@@ -11,13 +11,12 @@
 <li><a href="/comments/20230115/1836455.md">北京经济崩盘，企业掀裁员大潮，大量中产跌入地狱。</a></li>
 <li><a href="/cbnews/20230114/1836409.md">中共突报院内染疫死亡近六万 遭质疑</a></li>
 <li><a href="/sohnews/20230114/1836309.md">信息量很大！陆网友人肉出其个人“小红书”帐号；温华生明确喊“黄坤明”是他叔，这回可能有关系了；现场画面还原！广州宝马车主“温华生”的六次折返；案子仅是交通意外？大陆律师撂狠话！｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/cnnews/20230114/1836225.md">美国前军官曝内幕：希望习近平不要做笨事【阿波罗网报道】</a></li>
 <li><a href="/yule/20230114/1836382.md">中戏200年一遇校花 艳压章子怡却怎么都不红</a></li>
 <li><a href="/cbnews/20230114/1836252.md">还原现场 广州宝马连撞如同恐袭 哭声响彻半条街</a></li>
 <li><a href="/sohnews/20230114/1836353.md">再说推背图：黑兔双春闰二月！哎，又是天灾人祸的一年；台海冲突将成主旋律，但不会爆发大的战争（20230114 第1070期）</a></li>
 <li><a href="/cnnews/20230114/1836360.md">45岁河南女子带5娃嫁初恋 新郎为爱愿共同抚养</a></li>
-<li><a href="/cnnews/20230115/1836456.md">中国各地爆减薪潮 “后中共”时代快到了</a></li>
 <li><a href="/baitai/20230114/1836417.md">淮安副市长涉丑闻被免职 传扬州女官戴璐供出24人</a></li>
+<li><a href="/cnnews/20230115/1836456.md">中国各地爆减薪潮 “后中共”时代快到了</a></li>
 <li><a href="/cnnews/20230114/1836373.md">十年前1.8万买的钻戒，如今只能卖180元</a></li>
 <li><a href="/topimagenews/20230115/1836453.md">阿里忍痛割卖了黄金股 将建150个党支部</a></li>
 <li><a href="/topimagenews/20230114/1836404.md">干的好！他曾当众打脸中共，今将竞选大位【阿波罗网报道】</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/yule/20230114/1836383.md">宋仲基官宣新恋情，宋慧乔终于发疯了…</a></li>
 <li><a href="/cnnews/20230114/1836295.md">离奇：女大生住学校宿舍，睡太熟从上铺滚下摔死</a></li>
 <li><a href="/ssgc/20230114/1836388.md">中共新冠疫苗是杀手</a></li>
+<li><a href="/topimagenews/20230114/1836324.md">驻港国安公署署长郑雁雄出任香港中联办主任</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230115/1836565.md" target="_blank">浮蚁：封禁、暴力与国家</a></li>
+<li><a href="/comments/20230115/1836564.md" target="_blank">竹不倒:天大地大，以岭药业最大？</a></li>
 <li><a href="/comments/20230115/1836524.md" target="_blank">科学的问题归科学 中国与多国防控冲突的21条</a></li>
 <li><a href="/comments/20230115/1836523.md" target="_blank">苏暁康：美国“屠共派”回来了吗？</a></li>
 <li><a href="/comments/20230115/1836513.md" target="_blank">颜纯钩:谁家的孩子谁抱：中共穷途末路的生动写照</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230114/1836288.md" target="_blank">牧之野：东亚异动：短短十几天，战争信息被密集披露</a></li>
 <li><a href="/comments/20230114/1836267.md" target="_blank">何与怀 ： 说说中国生肖邮票与国运</a></li>
 <li><a href="/comments/20230114/1836266.md" target="_blank">德媒：两党共识下 美国众议院成立中国委员会</a></li>
-<li><a href="/comments/20230114/1836254.md" target="_blank">林保华：从土法炼钢到土法炼尸</a></li>
-<li><a href="/comments/20230114/1836244.md" target="_blank">美媒：中共国海外警务站引多国担忧：FBI搜查纽约站点</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
 <li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
 <li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
 
 </ul>
 </div>
