@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230115/1836517.md">没有“余粮”，东北这一刀真砍了</a></li>
-<li><a href="/cnnews/20230115/1836456.md">中国各地爆减薪潮 “后中共”时代快到了</a></li>
 <li><a href="/cnnews/20230115/1836645.md">被封：广州宝马撞人致5死13伤，车主父亲发声后，网友们更怒了</a></li>
-<li><a href="/comments/20230115/1836462.md">7.8亿人负债，全民负债200万亿，4.2亿人还不上房贷。46万企业倒闭，310万个体户注销，2200万门店关闭。数亿人失业。</a></li>
 <li><a href="/comments/20230115/1836606.md">触目惊心！网传影片：防空洞浸泡大量孩童尸体 与器官移植有关吗？</a></li>
 <li><a href="/topimagenews/20230115/1836576.md">史上最大还债高峰到来，很多城市要扛不住了</a></li>
 <li><a href="/cnnews/20230115/1836694.md">老人大规模去世 养老金不用再给 但次生灾害来了</a></li>
 <li><a href="/cbnews/20230115/1836488.md">江峰：内政外交经济压力山大，习近平要转向？美日安保空前加强，台湾成重中之重；中国经济还能起死回生吗？</a></li>
 <li><a href="/cbnews/20230115/1836670.md">谢莉斯去世细节曝光：因感染新冠入住呼吸科</a></li>
-<li><a href="/comments/20230115/1836461.md">年关将至，北京大批老字号都已关门，商业中心冷冷清清。</a></li>
 <li><a href="/cbnews/20230115/1836536.md">王思聪打人照曝光 6年前曾群殴女生 高喊弄不死她</a></li>
 <li><a href="/baitai/20230115/1836667.md">中共释放出的倒台信号</a></li>
 <li><a href="/topimagenews/20230115/1836603.md">【微博精粹】生的计划 死的随机 还有一句话很扎心</a></li>
-<li><a href="/cnnews/20230115/1836631.md">1秒50英镑的女孩和严公子 这就是留学生圈子？</a></li>
 <li><a href="/baitai/20230115/1836476.md">百姓办丧事中共办喜事 2023央视春晚有好戏看了</a></li>
-<li><a href="/cnnews/20230115/1836676.md">尼泊尔坠机前最后画面疯传 机身诡异翻转90度</a></li>
+<li><a href="/cnnews/20230115/1836631.md">1秒50英镑的女孩和严公子 这就是留学生圈子？</a></li>
 <li><a href="/topimagenews/20230115/1836706.md">新动向！习近平正在编织“巨网”【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230115/1836676.md">尼泊尔坠机前最后画面疯传 机身诡异翻转90度</a></li>
 <li><a href="/cbnews/20230115/1836555.md">天亮时分：2023，经济危机如何演变成习近平的政治危机？军委一号令难产，习近平面前三个陷阱；chatGPT将如何改变我们的生活？（政论天下第907集 20230114）</a></li>
 <li><a href="/cnnews/20230115/1836650.md">10岁儿被老师绑架性侵 美国父亲埋伏机场一枪爆头</a></li>
 <li><a href="/health/20230115/1836655.md">“阳康”后出现5个征兆，说明没彻底康复！命是自己的，别不听劝</a></li>
 <li><a href="/cnnews/20230115/1836529.md">啥意思？中共疾控中心躺平多日后 突然说话了【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230115/1836568.md">英媒惊曝普京今年将退休，健康状况正急剧恶化</a></li>
 <li><a href="/sohnews/20230115/1836620.md">药业人士：辉瑞口服药医保谈判可能是唱双簧，中国方面有可能真只开了200！不进医保或许是好事，反而能救更多人。最底层的患者真的只能等死（中文字幕）</a></li>
+<li><a href="/topimagenews/20230115/1836710.md">中共党媒承认：面临重大挑战、重大风险、重大阻力、重大矛盾【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20230115/1836498.md">陈破空：新年罕见，习近平没有发布一号令！貌似黄坤明侄子遭批捕。党支部进驻民企，胡锡进杠上习近平。央视公布一个月死亡数字，是否可信？直播与互动。美东1月14日晚8点15、即中港台1月15日早9点15</a></li>
+<li><a href="/comments/20230115/1836508.md">网海拾贝：大多数人不满，中国进入大革命前夜</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 
 </ul>
 </div>
