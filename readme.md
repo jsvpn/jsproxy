@@ -8,22 +8,22 @@
 <li><a href="/topimagenews/20230116/1836776.md">猛料！美女副局长戴璐毁掉三个男人？</a></li>
 <li><a href="/sohnews/20230116/1836759.md">医学专家集体愤怒，左媒转向，疫苗下架风暴在酝酿中。心脏病专家呼吁停用辉瑞和莫德纳二价疫苗。美国CDC避重就轻，但声称调查。</a></li>
 <li><a href="/topimagenews/20230116/1836811.md">皇粮断了？他们的漂亮数据，敌不过打脸的现实</a></li>
-<li><a href="/cnnews/20230116/1836803.md">刀刀见血：致复旦张维为教授的公开信</a></li>
 <li><a href="/comments/20230116/1836823.md">戴璐副局长最近火了! 整容前长的太像国家领导人 撞脸“习近平”</a></li>
+<li><a href="/cnnews/20230116/1836803.md">刀刀见血：致复旦张维为教授的公开信</a></li>
 <li><a href="/topimagenews/20230116/1836778.md">被删文：专家给出的答复，站不住脚</a></li>
 <li><a href="/cnnews/20230115/1836739.md">亲历者讲述：俄罗斯经济真实现状</a></li>
-<li><a href="/sohnews/20230115/1836727.md">死亡一共6万？北京上海已经10万！戴璐供出24人，一带一路人设崩塌，民企黄金股被控制，公务员要买城投债，中国彻底没钱了（小木谈天第322期 202301015）</a></li>
 <li><a href="/ssgc/20230116/1836783.md">〖兲朝浮世绘〗尸骨堆上庆祝“伟大胜利” 中共不要脸无敌</a></li>
 <li><a href="/topimagenews/20230116/1836879.md">老人大批逝 一个天文数字的次生灾害来了</a></li>
 <li><a href="/yule/20230116/1836919.md">“具俊晔已向大S提离婚”…网络炸锅了</a></li>
 <li><a href="/worldnews/20230116/1836791.md">天津中医药大学42岁女教授李小江死亡</a></li>
+<li><a href="/topimagenews/20230116/1836965.md">元气大伤！“瓦格纳”已中了普丁的“圈套”…</a></li>
 <li><a href="/comments/20230116/1836764.md">“之江新军”也中招！司法部长唐一军仕途生变 “发配”江西政协</a></li>
 <li><a href="/cnnews/20230116/1836857.md">浙江医院重症主任：中国感染人数超过不到20天走完别国三年路</a></li>
-<li><a href="/topimagenews/20230116/1836965.md">元气大伤！“瓦格纳”已中了普丁的“圈套”…</a></li>
 <li><a href="/cnnews/20230116/1836814.md">为什么大家都不喜欢我们中国人了…</a></li>
-<li><a href="/topimagenews/20230116/1836915.md">【微博精粹】这个世界上很难找到比共产党更加痛恨中国人的群体</a></li>
 <li><a href="/topimagenews/20230116/1836904.md">新冠仿制药中国一盒炒到3,000元人民币 检测结果曝：9成无有效成分</a></li>
+<li><a href="/topimagenews/20230116/1836915.md">【微博精粹】这个世界上很难找到比共产党更加痛恨中国人的群体</a></li>
 <li><a href="/topimagenews/20230116/1836924.md">中国讨薪潮！没钱难过年抗议、罢工、堵门口 地方政府破产多地传纷争</a></li>
+<li><a href="/cnnews/20230116/1837004.md">爆火的万柳豪宅，揭开隐秘的金融圈往事</a></li>
 <li><a href="/cbnews/20230116/1836751.md">美女医生暴肥手脚抽筋骨头坏死 凶手竟是老公</a></li>
 <li><a href="/comments/20230116/1836765.md">扬州官场要地震？淮安副市长淫乱免职 带走调查供出24人</a></li>
 <li><a href="/worldnews/20230116/1836790.md">中共创始人董必武长子董良羽病亡</a></li>
@@ -66,6 +66,9 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230116/1837062.md" target="_blank">前瓦格纳佣兵指挥官安德烈 逃往挪威寻求政治庇护</a></li>
+<li><a href="/topimagenews/20230116/1837061.md" target="_blank">陆企旗下的印尼镍工厂严重冲突 百间工人宿舍烧毁3人丧生</a></li>
+<li><a href="/topimagenews/20230116/1837060.md" target="_blank">入境中国注意！美、日、韩多国旅客须持48小时“纸本核酸阴性证明”</a></li>
 <li><a href="/topimagenews/20230116/1836965.md" target="_blank">元气大伤！“瓦格纳”已中了普丁的“圈套”…</a></li>
 <li><a href="/topimagenews/20230116/1836947.md" target="_blank">统战登台？中国出口台湾螺蛳粉 包装上写“你是中国人”</a></li>
 <li><a href="/topimagenews/20230116/1836924.md" target="_blank">中国讨薪潮！没钱难过年抗议、罢工、堵门口 地方政府破产多地传纷争</a></li>
@@ -88,9 +91,6 @@
 <li><a href="/topimagenews/20230115/1836576.md" target="_blank">史上最大还债高峰到来，很多城市要扛不住了</a></li>
 <li><a href="/topimagenews/20230115/1836517.md" target="_blank">没有“余粮”，东北这一刀真砍了</a></li>
 <li><a href="/topimagenews/20230115/1836453.md" target="_blank">阿里忍痛割卖了黄金股 将建150个党支部</a></li>
-<li><a href="/topimagenews/20230115/1836452.md" target="_blank">美国史上绝无仅有：拜登任内最大政治危机</a></li>
-<li><a href="/topimagenews/20230114/1836404.md" target="_blank">干的好！他曾当众打脸中共，今将竞选大位【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230114/1836376.md" target="_blank">中国经济反弹？一趋势正悄然发生；习目标被腰斩 财媒估2022中国GDP仅这数；</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
 <li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
 
 </ul>
 </div>
