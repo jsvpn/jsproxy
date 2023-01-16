@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230115/1836517.md">没有“余粮”，东北这一刀真砍了</a></li>
 <li><a href="/cnnews/20230115/1836645.md">被封：广州宝马撞人致5死13伤，车主父亲发声后，网友们更怒了</a></li>
 <li><a href="/comments/20230115/1836606.md">触目惊心！网传影片：防空洞浸泡大量孩童尸体 与器官移植有关吗？</a></li>
 <li><a href="/topimagenews/20230115/1836576.md">史上最大还债高峰到来，很多城市要扛不住了</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/topimagenews/20230115/1836706.md">新动向！习近平正在编织“巨网”【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230115/1836555.md">天亮时分：2023，经济危机如何演变成习近平的政治危机？军委一号令难产，习近平面前三个陷阱；chatGPT将如何改变我们的生活？（政论天下第907集 20230114）</a></li>
 <li><a href="/topimagenews/20230115/1836710.md">中共党媒承认：面临重大挑战、重大风险、重大阻力、重大矛盾【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230115/1836676.md">尼泊尔坠机前最后画面疯传 机身诡异翻转90度</a></li>
 <li><a href="/cnnews/20230115/1836650.md">10岁儿被老师绑架性侵 美国父亲埋伏机场一枪爆头</a></li>
+<li><a href="/cnnews/20230115/1836676.md">尼泊尔坠机前最后画面疯传 机身诡异翻转90度</a></li>
 <li><a href="/health/20230115/1836655.md">“阳康”后出现5个征兆，说明没彻底康复！命是自己的，别不听劝</a></li>
-<li><a href="/cnnews/20230115/1836529.md">啥意思？中共疾控中心躺平多日后 突然说话了【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230115/1836568.md">英媒惊曝普京今年将退休，健康状况正急剧恶化</a></li>
-<li><a href="/sohnews/20230115/1836620.md">药业人士：辉瑞口服药医保谈判可能是唱双簧，中国方面有可能真只开了200！不进医保或许是好事，反而能救更多人。最底层的患者真的只能等死（中文字幕）</a></li>
 <li><a href="/sohnews/20230116/1836759.md">医学专家集体愤怒，左媒转向，疫苗下架风暴在酝酿中。心脏病专家呼吁停用辉瑞和莫德纳二价疫苗。美国CDC避重就轻，但声称调查。</a></li>
-<li><a href="/comments/20230115/1836574.md">【杰森视角】 习近平如何3天就让日本决心强军？日本推动美日联盟发生质变！台湾以《固安作战计划》迎战中共！为何中共未来5到10年攻台可能性陡降为零？台湾如何顶住中共两千飞弹？</a></li>
+<li><a href="/sohnews/20230115/1836620.md">药业人士：辉瑞口服药医保谈判可能是唱双簧，中国方面有可能真只开了200！不进医保或许是好事，反而能救更多人。最底层的患者真的只能等死（中文字幕）</a></li>
 <li><a href="/topimagenews/20230116/1836776.md">猛料！美女副局长戴璐毁掉三个男人？</a></li>
+<li><a href="/comments/20230115/1836574.md">【杰森视角】 习近平如何3天就让日本决心强军？日本推动美日联盟发生质变！台湾以《固安作战计划》迎战中共！为何中共未来5到10年攻台可能性陡降为零？台湾如何顶住中共两千飞弹？</a></li>
 <li><a href="/cnnews/20230115/1836566.md">吃瓜了…俄内部上演大戏 绍伊古不再忍气吞声</a></li>
+<li><a href="/ssgc/20230115/1836622.md">〖微博谈〗立刻就给分得清清楚楚的</a></li>
+<li><a href="/cnnews/20230115/1836739.md">亲历者讲述：俄罗斯经济真实现状</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230116/1836823.md" target="_blank">戴璐副局长最近火了! 整容前长的太像国家领导人 撞脸“习近平”</a></li>
 <li><a href="/comments/20230116/1836798.md" target="_blank">英估中国疫情高峰 日增2.5万死亡</a></li>
 <li><a href="/comments/20230116/1836784.md" target="_blank">港共官员称杨紫琼为香港演员 遭炮轰</a></li>
 <li><a href="/comments/20230116/1836775.md" target="_blank">敲响普京政权丧钟？俄国“印古什自治共和国”争取独立</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230115/1836524.md" target="_blank">科学的问题归科学 中国与多国防控冲突的21条</a></li>
 <li><a href="/comments/20230115/1836523.md" target="_blank">苏暁康：美国“屠共派”回来了吗？</a></li>
 <li><a href="/comments/20230115/1836513.md" target="_blank">颜纯钩:谁家的孩子谁抱：中共穷途末路的生动写照</a></li>
-<li><a href="/comments/20230115/1836508.md" target="_blank">网海拾贝：大多数人不满，中国进入大革命前夜</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
 <li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
 <li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
 
 </ul>
 </div>
