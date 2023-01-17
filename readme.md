@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20230116/1837004.md">爆火的万柳豪宅，揭开隐秘的金融圈往事</a></li>
 <li><a href="/sohnews/20230117/1837147.md">重庆市委书记张小江烂的彻头彻尾，毫无底线 毫无畏惧｜ #百年真相</a></li>
 <li><a href="/baitai/20230116/1837038.md">中国局势越来越不可预测？学者：或垮于今年</a></li>
 <li><a href="/yule/20230117/1837161.md">被传包养黄晓明 当三连克两前任 今被豪门宠成宝</a></li>
@@ -13,9 +12,9 @@
 <li><a href="/sohnews/20230116/1837044.md">日军战报中的国军“狼牙山壮士”。还原中共《狼牙山五壮士》的真实面貌，跳崖人数、跳崖地点、怎么跳的，为什么跳，没有一个是真的。</a></li>
 <li><a href="/topimagenews/20230117/1837311.md">【微博精粹】一家三代7人死了6位 只剩独生子女撕心裂肺</a></li>
 <li><a href="/sohnews/20230117/1837146.md">军队徐、郭二中央军委副主席带头好色贪财；还有超600只党政军“老虎”｜ #百年真相</a></li>
+<li><a href="/topimagenews/20230117/1837348.md">中国出现大批二次感染患者！病情更重 专家:死亡率将增1倍 重症率增2.3倍</a></li>
 <li><a href="/topimagenews/20230117/1837258.md">“一段居心叵测的翻译”，你信了吗？</a></li>
 <li><a href="/cnnews/20230117/1837138.md">印尼中资工厂爆发致命冲突 汪文斌被“消音”</a></li>
-<li><a href="/topimagenews/20230117/1837348.md">中国出现大批二次感染患者！病情更重 专家:死亡率将增1倍 重症率增2.3倍</a></li>
 <li><a href="/ssgc/20230117/1837162.md">专栏 | 夜话中南海：当年护驾习近平上位的福建“老领导”</a></li>
 <li><a href="/baitai/20230117/1837180.md">面对信用破产 经济「回天乏术」 美日欧围堵 习方寸大乱？</a></li>
 <li><a href="/yule/20230117/1837139.md">和汪小菲分手了？张颖颖的聊天记录信息量太大了 动图/图集</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/topimagenews/20230117/1837260.md">中国人民恐遭遇“大跃进”以来最大死亡潮</a></li>
 <li><a href="/comments/20230117/1837213.md">文昭：瞬间冲上热搜榜首，内幕超乎想像！2022年中国已经人口负增长，与疫情高峰同时到；损失的极限在哪？</a></li>
 <li><a href="/cbnews/20230116/1837068.md">美人口专家：中国17日将公布人口负增长提前于2022出现</a></li>
+<li><a href="/topimagenews/20230117/1837337.md">马云遭清洗 他也跟着落魄?当街拦车讨钱引关注…</a></li>
 <li><a href="/finance/20230117/1837233.md">刷屏了！又喊大家囤货 难道是…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230117/1837480.md" target="_blank">英预言家︰台湾今年恐爆发意外冲突 结果将改变全球局</a></li>
 <li><a href="/comments/20230117/1837346.md" target="_blank">法轮功创始人李大师揭示中国人口骤降惊世数字！中共仓皇回应：人口骤降跟这三年没关系</a></li>
 <li><a href="/comments/20230117/1837301.md" target="_blank">年轻的抗议者陆续失踪。视频中的年轻人事先录制了这段视频，并要求在她失踪时公布该视频。</a></li>
 <li><a href="/comments/20230117/1837289.md" target="_blank">陈莉雅：白纸运动前传及进行式</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230116/1836876.md" target="_blank">到底有多傻X，才会相信这些网红大V？</a></li>
 <li><a href="/comments/20230116/1836873.md" target="_blank">你的存款，够住ICU几天呢？</a></li>
 <li><a href="/comments/20230116/1836865.md" target="_blank">法轮功创始人：中共掩盖疫情 中国死亡人数达4亿</a></li>
-<li><a href="/comments/20230116/1836858.md" target="_blank">沪陕高速遭暴雪袭击，大批车辆滞留高速长达14小时。没热水，没食品，没法上厕所，而是司机和乘客陷入困境。因无法取暖，司机和乘客面临生命危险。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
 <li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 <li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 
 </ul>
 </div>
