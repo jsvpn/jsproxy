@@ -13,21 +13,21 @@
 <li><a href="/health/20230117/1837433.md">“有夜尿”与“没有夜尿”的人，哪个健康？听听泌尿科医生咋说</a></li>
 <li><a href="/topimagenews/20230117/1837337.md">马云遭清洗 他也跟着落魄?当街拦车讨钱引关注…</a></li>
 <li><a href="/topimagenews/20230117/1837465.md">2023全球经济崩溃？美媒惊曝3大起火点：台湾也上榜</a></li>
-<li><a href="/topimagenews/20230117/1837229.md">中共政策大转折，舆论战输了？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230117/1837409.md">年收千万日币才能出国？日本街道上的中国人都是有钱人</a></li>
 <li><a href="/topimagenews/20230117/1837260.md">中国人民恐遭遇“大跃进”以来最大死亡潮</a></li>
-<li><a href="/cnnews/20230117/1837246.md">突发！布林肯定下访华时间 将会晤秦刚</a></li>
 <li><a href="/ssgc/20230117/1837366.md">中共自曝出入境“开放”的尴尬真相</a></li>
 <li><a href="/baitai/20230117/1837550.md">两中共高官离世 分析：骇人数字背后的真相</a></li>
-<li><a href="/cnnews/20230117/1837399.md">去年12月死亡多少？中共官员“装疯卖傻”惹众怒</a></li>
 <li><a href="/ssgc/20230117/1837332.md">〖兲朝浮世绘〗三年多疫情期间死4亿人，这个数字会不会太夸张？</a></li>
+<li><a href="/cnnews/20230117/1837399.md">去年12月死亡多少？中共官员“装疯卖傻”惹众怒</a></li>
 <li><a href="/worldnews/20230117/1837385.md">英国“神鬼先知”抛预言！台湾将爆恐怖冲突恐震撼全世界</a></li>
-<li><a href="/finance/20230117/1837233.md">刷屏了！又喊大家囤货 难道是…</a></li>
+<li><a href="/cnnews/20230118/1837634.md">慎入！这就是爱党国大明星王嘉尔在伦敦的骚舞姿/视频</a></li>
+<li><a href="/topimagenews/20230118/1837623.md">贪污丑闻震动越南政坛 越共国家主席阮春福辞职</a></li>
+<li><a href="/cbnews/20230118/1837670.md">北京想亡羊补牢 恐为时已晚</a></li>
 <li><a href="/topimagenews/20230117/1837336.md">普丁放弃连任了?外媒：战争严重内伤 若不下台恐遭政变 已拟好继任者</a></li>
 <li><a href="/topimagenews/20230117/1837288.md">郑州大学发不出工资？可河南省2022年经济正增长…</a></li>
-<li><a href="/cnnews/20230118/1837634.md">慎入！这就是爱党国大明星王嘉尔在伦敦的骚舞姿/视频</a></li>
 <li><a href="/sohnews/20230117/1837297.md">“羊吃人”成现实，赊刀人谶语惊人；中共将承认人口负增长？中国只有7-8亿人？全国重症率逾33%，亡率为25%；还将有上亿人亡，不需纠结数字；三退保平安，牢记九字真言【新闻看点 李沐阳1.16】</a></li>
-<li><a href="/topimagenews/20230118/1837623.md">贪污丑闻震动越南政坛 越共国家主席阮春福辞职</a></li>
+<li><a href="/sohnews/20230117/1837411.md">2023，绝对不能实现的预言</a></li>
+<li><a href="/ssgc/20230117/1837303.md">〖微博谈〗乌云消散会有时</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230118/1837743.md" target="_blank">【方菲时间】我们身处一场改朝换代的瘟疫吗？中国人口进入拐点；为什么要追究疫情下真实的死亡人数 ｜01/17/2023</a></li>
 <li><a href="/cbnews/20230118/1837670.md" target="_blank">北京想亡羊补牢 恐为时已晚</a></li>
 <li><a href="/cbnews/20230118/1837580.md" target="_blank">家人指使？“小马云”当街拦车要钱</a></li>
 <li><a href="/cbnews/20230117/1837555.md" target="_blank">全中国男比女多3237万人 差距最大竟是经济发达省份</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230115/1836574.md" target="_blank">【杰森视角】 习近平如何3天就让日本决心强军？日本推动美日联盟发生质变！台湾以《固安作战计划》迎战中共！为何中共未来5到10年攻台可能性陡降为零？台湾如何顶住中共两千飞弹？</a></li>
 <li><a href="/cbnews/20230115/1836555.md" target="_blank">天亮时分：2023，经济危机如何演变成习近平的政治危机？军委一号令难产，习近平面前三个陷阱；chatGPT将如何改变我们的生活？（政论天下第907集 20230114）</a></li>
 <li><a href="/cbnews/20230115/1836536.md" target="_blank">王思聪打人照曝光 6年前曾群殴女生 高喊弄不死她</a></li>
-<li><a href="/cbnews/20230115/1836488.md" target="_blank">江峰：内政外交经济压力山大，习近平要转向？美日安保空前加强，台湾成重中之重；中国经济还能起死回生吗？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230118/1837743.md" target="_blank">【方菲时间】我们身处一场改朝换代的瘟疫吗？中国人口进入拐点；为什么要追究疫情下真实的死亡人数 ｜01/17/2023</a></li>
 <li><a href="/comments/20230118/1837715.md" target="_blank">一言：疫情之谜是百年迷障的延续</a></li>
 <li><a href="/comments/20230118/1837709.md" target="_blank">王赫：瘟疫浩劫 中共必须解体</a></li>
 <li><a href="/comments/20230118/1837706.md" target="_blank">中共改口，说染疫者死了近6万，谁信？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230117/1837289.md" target="_blank">陈莉雅：白纸运动前传及进行式</a></li>
 <li><a href="/comments/20230117/1837279.md" target="_blank">歌仙刘三妹 真假刘三姐</a></li>
 <li><a href="/comments/20230117/1837268.md" target="_blank">梁州：我的爷爷因为新冠去世了 我第一次真正明白死亡的意义</a></li>
-<li><a href="/comments/20230117/1837213.md" target="_blank">文昭：瞬间冲上热搜榜首，内幕超乎想像！2022年中国已经人口负增长，与疫情高峰同时到；损失的极限在哪？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
 <li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
 
 </ul>
 </div>
