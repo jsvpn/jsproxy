@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230118/1837853.md">“巨大危险！” 马斯克对中国发出警告【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230118/1837833.md">普京下台？现在全世界开始为俄罗斯崩溃做准备</a></li>
-<li><a href="/baitai/20230118/1837779.md">没有哪个领导人像习近平这样把地方财政搞得如此困难</a></li>
 <li><a href="/topimagenews/20230118/1837941.md">刷屏！又喊大家囤货 难道是… 中国经济近50年最差 未有结构复苏迹象</a></li>
 <li><a href="/cbnews/20230119/1838091.md">中国女基金经理遭已婚上司潜规则被男友抓包，长文曝光</a></li>
 <li><a href="/cbnews/20230118/1837847.md">江峰：突然公布人口负增长，隐藏这一阴谋！卫健委的过世数字表面暴增和实际缩水为什麽？谎言与真相在抢夺生命！【江峰漫谈20230117第615期】</a></li>
@@ -26,6 +25,7 @@
 <li><a href="/topimagenews/20230118/1837872.md">继汪明荃、成龙后 全国政协委员再有香港艺人入列</a></li>
 <li><a href="/sohnews/20230118/1837817.md">突发！新西兰飞澳洲QFA144航班刚刚发出求救信号！一侧引擎故障！高度正不断降低！半小时后降落悉尼机场</a></li>
 <li><a href="/headline/20230118/1837935.md">中国新一届全国政协名单出炉 涌现港政、商界二三代新面孔惟前特首不上榜</a></li>
+<li><a href="/sports/20230119/1838065.md">丁俊晖现状：身家过亿住国外 大龄妻子气质不俗</a></li>
 <li><a href="/comments/20230118/1837830.md">2023央视春晚节目单流传，反派艺人现身最後一届？中共央视宣布逼看春晚辣招，未演先赢？</a></li>
 <li><a href="/comments/20230119/1838030.md">李燕铭：胡春华周强将转任全国政协副主席 吴政隆谌贻琴料将晋升副国级国务委员 夏宝龙董建华将卸任政协副主席 林郑月娥意外榜上无名 三名互联网大佬不再担任全国政协委员 中宣部常务副部长与国安委办公室常务副主任浮现 二十大高层人事大战（七九） 习家军接掌国务院（六） 两会大战（一）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230119/1838250.md" target="_blank">天亮时分：废太子胡春华政协赋闲；刘鹤在达沃斯11次强调一件事，西方精英充耳不闻；中国人口之谜，比想象的更令人震惊（政论天下第911集 20230118）</a></li>
 <li><a href="/comments/20230119/1838159.md" target="_blank">【围炉夜话01/18】刘鹤说中国“绝对不可能”搞计划经济：他说了算吗？人口负增长，中国“未富先老”；美高科技公司轮番大裁员：出什么事了？｜方伟 方菲 唐靖远 萧茗 David</a></li>
 <li><a href="/cbnews/20230119/1838124.md" target="_blank">广州白云机场摆放这个雕塑，不幸“辱华”了</a></li>
 <li><a href="/cbnews/20230119/1838091.md" target="_blank">中国女基金经理遭已婚上司潜规则被男友抓包，长文曝光</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230116/1837068.md" target="_blank">美人口专家：中国17日将公布人口负增长提前于2022出现</a></li>
 <li><a href="/cbnews/20230116/1836984.md" target="_blank">报告指德国学者助力中共军事科技 美国专家谴责</a></li>
 <li><a href="/cbnews/20230116/1836903.md" target="_blank">天亮时分：北京染疫将达92%，北京疾控开庆功大会；若人口锐减，是否改朝换代将至？（政论天下第908集 20230115）</a></li>
-<li><a href="/comments/20230116/1836873.md" target="_blank">你的存款，够住ICU几天呢？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230119/1838264.md" target="_blank">印度眼中的安全威胁：中国第一 美国第二</a></li>
+<li><a href="/comments/20230119/1838263.md" target="_blank">到底死多少人？ 漫长冬天的100个瞬间</a></li>
 <li><a href="/comments/20230119/1838233.md" target="_blank">香港勇武抗争者的前世今生——读杨威利修的《香港秘密行动》</a></li>
 <li><a href="/comments/20230119/1838220.md" target="_blank">黄严忠：一场新冠海啸正在中国农村酝酿</a></li>
 <li><a href="/comments/20230119/1838195.md" target="_blank">纸马难求 到底死多少人</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230118/1837951.md" target="_blank">超越想像！上品莲花：阿弥陀佛大塔的殊胜景观，只有惊诧！修行好的弟子，头顶发光，光中竟还有⋯⋯！下品莲花、中品莲花的天人，长这样！佛和菩萨的修行方法，包罗万千！（下）</a></li>
 <li><a href="/comments/20230118/1837830.md" target="_blank">2023央视春晚节目单流传，反派艺人现身最後一届？中共央视宣布逼看春晚辣招，未演先赢？</a></li>
 <li><a href="/comments/20230118/1837811.md" target="_blank">加拿大老人因为这个失误损失超过4万加元</a></li>
-<li><a href="/comments/20230118/1837803.md" target="_blank">李井奎：特斯拉降价就维权那涨价需要补差价吗？</a></li>
-<li><a href="/comments/20230118/1837802.md" target="_blank">张杰：只因批评言论 ”华人骄傲“变”辱华分子“</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
 
 </ul>
 </div>
