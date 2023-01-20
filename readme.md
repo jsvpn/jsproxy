@@ -8,8 +8,8 @@
 <li><a href="/topimagenews/20230119/1838434.md">习近平被打脸！变色龙现形【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230120/1838594.md">习春节前夕慰问老同志 两大焦点人物在列</a></li>
 <li><a href="/sohnews/20230119/1838430.md">陈破空：传韩正将任副主席？习近平让了半步。憔悴露面后，仍为清零辩护，但不敢提那四个字！越南国家主席引咎辞职，让他顿时矮了半截。直播与互动。美东1月19日早8点30、即中港台1月19日晚9点30</a></li>
-<li><a href="/baitai/20230120/1838576.md">意外！港媒：韩正将任中共国家副主席 习近平向胡锦涛拜年</a></li>
 <li><a href="/topimagenews/20230119/1838435.md">面临重判？中纪委把他列为“典型”【阿波罗网报道】</a></li>
+<li><a href="/baitai/20230120/1838576.md">意外！港媒：韩正将任中共国家副主席 习近平向胡锦涛拜年</a></li>
 <li><a href="/baitai/20230120/1838584.md">亲历者曝可怕消息 中共官场怨气沸腾</a></li>
 <li><a href="/headline/20230119/1838464.md">习近平亲自指挥部署的「北交所」 过去1年创多项「尴尬纪录」</a></li>
 <li><a href="/comments/20230119/1838420.md">【未普评论】习近平和中国人民的社会契约濒临破产</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/topimagenews/20230120/1838588.md">忌惮习近平 蓬佩奥新书爆川普秘辛</a></li>
 <li><a href="/baitai/20230119/1838439.md">三件世界级大事相继发生 中共现瓦解征兆？</a></li>
 <li><a href="/cnnews/20230120/1838765.md">浙江温州一男子怒杀镇长一家6口 报多年拆迁宿仇【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230120/1838513.md">让习近平折腾三年后，中国经济已经没救了！</a></li>
 <li><a href="/topimagenews/20230120/1838762.md">不许笑！朝鲜政府与澳大利亚断交始末</a></li>
+<li><a href="/sohnews/20230120/1838513.md">让习近平折腾三年后，中国经济已经没救了！</a></li>
 <li><a href="/cnnews/20230120/1838559.md">爆热搜！三亚疯狂男女逼停+打砸车辆</a></li>
 <li><a href="/topimagenews/20230119/1838485.md">打脸普丁！俄国大使馆发文疑认克里米亚归还糗了</a></li>
 <li><a href="/comments/20230120/1838744.md">十国出境游後果震惊中南海！党突然严查偷着乐？习近平视频通话酿舆情，掩盖不住了</a></li>
-<li><a href="/weiquan/20230119/1838498.md">遭中共当局抓捕的&#8220;白纸抗议运动&#8221;参与者&#12289;北京大学出版社编辑曹芷馨的案情及简历</a></li>
+<li><a href="/cbnews/20230120/1838751.md">石泰峰势成史上最大权力统战部长</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230120/1838830.md" target="_blank">一个人口萎缩、老龄化的中国可能将自己逼入绝境</a></li>
 <li><a href="/comments/20230120/1838744.md" target="_blank">十国出境游後果震惊中南海！党突然严查偷着乐？习近平视频通话酿舆情，掩盖不住了</a></li>
 <li><a href="/comments/20230120/1838728.md" target="_blank">还我红包！ 13岁双胞胎打官司 讨回爸爸保管的压岁钱</a></li>
 <li><a href="/comments/20230120/1838727.md" target="_blank">入侵乌克兰一年后，俄罗斯依赖中国了</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230119/1838220.md" target="_blank">黄严忠：一场新冠海啸正在中国农村酝酿</a></li>
 <li><a href="/comments/20230119/1838195.md" target="_blank">纸马难求 到底死多少人</a></li>
 <li><a href="/comments/20230119/1838183.md" target="_blank">石铭：中共党官李文喜惨杀法轮功学员 恶报缠身</a></li>
-<li><a href="/comments/20230119/1838182.md" target="_blank">三年多疫情中国死4亿人，这个数字夸张吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
 <li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
 
 </ul>
 </div>
