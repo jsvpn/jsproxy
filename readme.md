@@ -8,16 +8,16 @@
 <li><a href="/topimagenews/20230119/1838305.md">七常委已分工 韩正传接任国家副主席</a></li>
 <li><a href="/comments/20230119/1838178.md">文昭：习近平突遇大尴尬，受两记重锤猛击！农历新年前多城出现一诡异现象，什麽问题？</a></li>
 <li><a href="/topimagenews/20230119/1838324.md">上海企业家曝当地情况 推算死亡翻12倍 本次疫情结束要死亡上亿?【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230119/1838434.md">习近平被打脸！变色龙现形【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230119/1838250.md">天亮时分：废太子胡春华政协赋闲；刘鹤在达沃斯11次强调一件事，西方精英充耳不闻；中国人口之谜，比想象的更令人震惊（政论天下第911集 20230118）</a></li>
+<li><a href="/topimagenews/20230119/1838434.md">习近平被打脸！变色龙现形【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230119/1838336.md">婚房出售！与副市长爆婚外情 戴璐涉桃色风波交代24人…</a></li>
 <li><a href="/ssgc/20230119/1838230.md">〖微博谈〗唯独计划生育成功了</a></li>
 <li><a href="/cbnews/20230119/1838392.md">新手妈刚拿驾照，倒车坠池塘全家溺毙，孩子1岁</a></li>
-<li><a href="/sohnews/20230119/1838430.md">陈破空：传韩正将任副主席？习近平让了半步。憔悴露面后，仍为清零辩护，但不敢提那四个字！越南国家主席引咎辞职，让他顿时矮了半截。直播与互动。美东1月19日早8点30、即中港台1月19日晚9点30</a></li>
 <li><a href="/baitai/20230119/1838308.md">王小洪缺席重要会议 学者解读背后原因</a></li>
+<li><a href="/sohnews/20230119/1838430.md">陈破空：传韩正将任副主席？习近平让了半步。憔悴露面后，仍为清零辩护，但不敢提那四个字！越南国家主席引咎辞职，让他顿时矮了半截。直播与互动。美东1月19日早8点30、即中港台1月19日晚9点30</a></li>
 <li><a href="/topimagenews/20230119/1838435.md">面临重判？中纪委把他列为“典型”【阿波罗网报道】</a></li>
-<li><a href="/comments/20230119/1838420.md">【未普评论】习近平和中国人民的社会契约濒临破产</a></li>
 <li><a href="/baitai/20230119/1838293.md">中南海如临大敌 评：降薪潮或致官僚体制崩溃</a></li>
+<li><a href="/comments/20230119/1838420.md">【未普评论】习近平和中国人民的社会契约濒临破产</a></li>
 <li><a href="/topimagenews/20230119/1838310.md">从北京八宝山推算 这波疫情将死亡上亿人【阿波罗网报道】</a></li>
 <li><a href="/headline/20230119/1838464.md">习近平亲自指挥部署的「北交所」 过去1年创多项「尴尬纪录」</a></li>
 <li><a href="/lifebaike/20230119/1838351.md">免疫力强大的人，多数会有4大特征，你拥有几个特征呢？</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 <li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 <li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 
 </ul>
 </div>
