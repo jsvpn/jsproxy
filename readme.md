@@ -17,17 +17,17 @@
 <li><a href="/comments/20230119/1838420.md">【未普评论】习近平和中国人民的社会契约濒临破产</a></li>
 <li><a href="/topimagenews/20230119/1838435.md">面临重判？中纪委把他列为“典型”【阿波罗网报道】</a></li>
 <li><a href="/headline/20230119/1838464.md">习近平亲自指挥部署的「北交所」 过去1年创多项「尴尬纪录」</a></li>
-<li><a href="/topimagenews/20230119/1838310.md">从北京八宝山推算 这波疫情将死亡上亿人【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230120/1838576.md">意外！港媒：韩正将任中共国家副主席 习近平向胡锦涛拜年</a></li>
-<li><a href="/lifebaike/20230119/1838351.md">免疫力强大的人，多数会有4大特征，你拥有几个特征呢？</a></li>
+<li><a href="/topimagenews/20230119/1838310.md">从北京八宝山推算 这波疫情将死亡上亿人【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230120/1838584.md">亲历者曝可怕消息 中共官场怨气沸腾</a></li>
+<li><a href="/lifebaike/20230119/1838351.md">免疫力强大的人，多数会有4大特征，你拥有几个特征呢？</a></li>
 <li><a href="/ssgc/20230119/1838318.md">〖兲朝浮世绘〗人矿们不准躺平 速速为国生娃</a></li>
-<li><a href="/cnnews/20230119/1838489.md">印度神童预言今年经济衰退 俄乌战争起码延续至…</a></li>
-<li><a href="/topimagenews/20230119/1838378.md">李承鹏：妈妈的四合院 成都红墙巷39号 一辈子的梦想</a></li>
 <li><a href="/baitai/20230119/1838439.md">三件世界级大事相继发生 中共现瓦解征兆？</a></li>
-<li><a href="/topimagenews/20230119/1838281.md">湖南死亡率是香港6.4倍 天津死亡至少10万 翻19倍【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230119/1838360.md">习近平亲颁晋升上将命令状 中部战区司令员黄铭快速添星</a></li>
+<li><a href="/topimagenews/20230119/1838378.md">李承鹏：妈妈的四合院 成都红墙巷39号 一辈子的梦想</a></li>
+<li><a href="/cnnews/20230119/1838489.md">印度神童预言今年经济衰退 俄乌战争起码延续至…</a></li>
 <li><a href="/topimagenews/20230120/1838588.md">忌惮习近平 蓬佩奥新书爆川普秘辛</a></li>
+<li><a href="/cbnews/20230119/1838360.md">习近平亲颁晋升上将命令状 中部战区司令员黄铭快速添星</a></li>
+<li><a href="/cnnews/20230119/1838367.md">央视播歼20影片称俯瞰台湾！备役少将：澎湖被动雷达都抓的到</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230120/1838725.md" target="_blank">陈申申：当代中国的政治逻辑 人民总是败给共产党的一个关键点</a></li>
 <li><a href="/topimagenews/20230120/1838702.md" target="_blank">疑卷李铁案 中国足协副秘书长涉违法受查</a></li>
 <li><a href="/topimagenews/20230120/1838588.md" target="_blank">忌惮习近平 蓬佩奥新书爆川普秘辛</a></li>
 <li><a href="/topimagenews/20230119/1838501.md" target="_blank">6100万美元公司让给妹妹继承 8岁“钻石公主”看破红尘出家了</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230118/1837798.md" target="_blank">拜登太狠！对陆芯片禁令暗藏大绝招 连这区也不放过</a></li>
 <li><a href="/topimagenews/20230118/1837788.md" target="_blank">拜登不停追杀！引爆美中新冷战 知名学者急警告：危险了</a></li>
 <li><a href="/topimagenews/20230118/1837668.md" target="_blank">触目惊心！详解这届国家统计局的数据</a></li>
-<li><a href="/topimagenews/20230118/1837633.md" target="_blank">翻车的中共女官 戴璐之后 这位更猛</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230120/1838726.md" target="_blank">苏共越共灭佛教 诛心杀身超想像 【欺世大观】166</a></li>
 <li><a href="/comments/20230120/1838708.md" target="_blank">陶杰：共产党再读一百年的哈佛也没有用</a></li>
 <li><a href="/comments/20230120/1838707.md" target="_blank">影响国运的人口数据公布，四大标志以及四个判断</a></li>
 <li><a href="/comments/20230120/1838688.md" target="_blank">陈弱水：疑美、憎美与厌憎民主的三位一体</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230119/1838181.md" target="_blank">杨宁：一个多月离世的青壮年知多少？</a></li>
 <li><a href="/comments/20230119/1838180.md" target="_blank">李正宽：三年疫情死了四亿人 为何很多人未察觉？</a></li>
 <li><a href="/comments/20230119/1838179.md" target="_blank">袁斌：清华党官“死几百万又怎样”与毛泽东“死3亿人不算什么”</a></li>
-<li><a href="/comments/20230119/1838178.md" target="_blank">文昭：习近平突遇大尴尬，受两记重锤猛击！农历新年前多城出现一诡异现象，什麽问题？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
 
 </ul>
 </div>
