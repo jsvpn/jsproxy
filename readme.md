@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230119/1838434.md">习近平被打脸！变色龙现形【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230120/1838594.md">习春节前夕慰问老同志 两大焦点人物在列</a></li>
 <li><a href="/baitai/20230120/1838584.md">亲历者曝可怕消息 中共官场怨气沸腾</a></li>
 <li><a href="/baitai/20230120/1838576.md">意外！港媒：韩正将任中共国家副主席 习近平向胡锦涛拜年</a></li>
-<li><a href="/topimagenews/20230119/1838435.md">面临重判？中纪委把他列为“典型”【阿波罗网报道】</a></li>
 <li><a href="/headline/20230119/1838464.md">习近平亲自指挥部署的「北交所」 过去1年创多项「尴尬纪录」</a></li>
 <li><a href="/sohnews/20230120/1838720.md">传王沪宁与习争执，嚷习“什么都不懂”？面容憔悴笑容僵硬，习视频慰问基层；疫情海啸在酝酿，农村老人将遭重创？甘肃全境防堵记者，农村人白肺不治；老干部大量离世，天灭中共在进行【新闻看点 李沐阳1.19】</a></li>
 <li><a href="/finance/20230120/1838595.md">突然间，一大批城市，都揭不开锅了</a></li>
 <li><a href="/topimagenews/20230120/1838750.md">习近平的应声虫政治局 这些状况正在恶化…</a></li>
-<li><a href="/baitai/20230120/1838722.md">枪毙马晓伟审判孙春兰罢免李克强</a></li>
 <li><a href="/cnnews/20230119/1838489.md">印度神童预言今年经济衰退 俄乌战争起码延续至…</a></li>
+<li><a href="/baitai/20230120/1838722.md">枪毙马晓伟审判孙春兰罢免李克强</a></li>
 <li><a href="/baitai/20230120/1838723.md">胆小如鼠的习近平</a></li>
 <li><a href="/cnnews/20230120/1838765.md">浙江温州一男子怒杀镇长一家6口 报多年拆迁宿仇【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230120/1838588.md">忌惮习近平 蓬佩奥新书爆川普秘辛</a></li>
-<li><a href="/baitai/20230119/1838439.md">三件世界级大事相继发生 中共现瓦解征兆？</a></li>
 <li><a href="/topimagenews/20230120/1838762.md">不许笑！朝鲜政府与澳大利亚断交始末</a></li>
 <li><a href="/sohnews/20230120/1838513.md">让习近平折腾三年后，中国经济已经没救了！</a></li>
-<li><a href="/cnnews/20230120/1838559.md">爆热搜！三亚疯狂男女逼停+打砸车辆</a></li>
 <li><a href="/cbnews/20230120/1838751.md">石泰峰势成史上最大权力统战部长</a></li>
+<li><a href="/cnnews/20230120/1838559.md">爆热搜！三亚疯狂男女逼停+打砸车辆</a></li>
 <li><a href="/comments/20230120/1838744.md">十国出境游後果震惊中南海！党突然严查偷着乐？习近平视频通话酿舆情，掩盖不住了</a></li>
 <li><a href="/topimagenews/20230119/1838485.md">打脸普丁！俄国大使馆发文疑认克里米亚归还糗了</a></li>
 <li><a href="/yule/20230120/1838715.md">从影后到妓女，她与渣男的荒诞情事</a></li>
+<li><a href="/ssgc/20230120/1838748.md">〖兲朝浮世绘〗请问如果齐心死了，习总能欢欢喜喜过大年吗？</a></li>
 <li><a href="/cnnews/20230119/1838462.md">广场惊见“人面兔花灯”丑到被下架！家长怒：孩子都吓哭了</a></li>
+<li><a href="/topimagenews/20230119/1838501.md">6100万美元公司让给妹妹继承 8岁“钻石公主”看破红尘出家了</a></li>
+<li><a href="/weiquan/20230119/1838498.md">遭中共当局抓捕的&#8220;白纸抗议运动&#8221;参与者&#12289;北京大学出版社编辑曹芷馨的案情及简历</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230120/1838850.md" target="_blank">连续3天！澳洲航空空中惊魂 班机引擎故障急返航</a></li>
 <li><a href="/comments/20230120/1838849.md" target="_blank">中国疫情飙升 WHO：染疫住院人数一周暴增70％</a></li>
 <li><a href="/comments/20230120/1838830.md" target="_blank">一个人口萎缩、老龄化的中国可能将自己逼入绝境</a></li>
 <li><a href="/comments/20230120/1838744.md" target="_blank">十国出境游後果震惊中南海！党突然严查偷着乐？习近平视频通话酿舆情，掩盖不住了</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230119/1838263.md" target="_blank">到底死多少人？ 漫长冬天的100个瞬间</a></li>
 <li><a href="/comments/20230119/1838233.md" target="_blank">香港勇武抗争者的前世今生——读杨威利修的《香港秘密行动》</a></li>
 <li><a href="/comments/20230119/1838220.md" target="_blank">黄严忠：一场新冠海啸正在中国农村酝酿</a></li>
-<li><a href="/comments/20230119/1838195.md" target="_blank">纸马难求 到底死多少人</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
 
 </ul>
 </div>
