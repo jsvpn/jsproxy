@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20230120/1838842.md">被删：突然，中国一大批城市，都穷的揭不开锅了；一个时代的结束</a></li>
 <li><a href="/cnnews/20230120/1838765.md">浙江温州一男子怒杀镇长一家6口 报多年拆迁宿仇【阿波罗网报道】</a></li>
 <li><a href="/comments/20230120/1838744.md">十国出境游後果震惊中南海！党突然严查偷着乐？习近平视频通话酿舆情，掩盖不住了</a></li>
-<li><a href="/cbnews/20230120/1838751.md">石泰峰势成史上最大权力统战部长</a></li>
 <li><a href="/cbnews/20230121/1838986.md">汤灿消失多年后现身 在餐厅高歌 淡妆模样大变</a></li>
+<li><a href="/cbnews/20230120/1838751.md">石泰峰势成史上最大权力统战部长</a></li>
 <li><a href="/topimagenews/20230120/1838762.md">不许笑！朝鲜政府与澳大利亚断交始末</a></li>
 <li><a href="/ssgc/20230120/1838768.md">河北雄安新区火车站长满野草 北京交易所1日成交2200元</a></li>
 <li><a href="/cnnews/20230121/1838941.md">惊恐中共高层被“团灭” 习近平3连换守卫北京军区司令</a></li>
 <li><a href="/ssgc/20230120/1838748.md">〖兲朝浮世绘〗请问如果齐心死了，习总能欢欢喜喜过大年吗？</a></li>
+<li><a href="/topimagenews/20230121/1838985.md">未来侵台板上钉钉？传习近平正在谋划这件事</a></li>
 <li><a href="/baitai/20230120/1838863.md">学者点名习近平面临的最大危险</a></li>
 <li><a href="/yule/20230120/1838715.md">从影后到妓女，她与渣男的荒诞情事</a></li>
 <li><a href="/worldnews/20230120/1838552.md">美国研究：吃一条淡水鱼相当于喝一个月毒水</a></li>
-<li><a href="/topimagenews/20230121/1838985.md">未来侵台板上钉钉？传习近平正在谋划这件事</a></li>
+<li><a href="/sohnews/20230121/1838984.md">习近平听了大吼“停！”</a></li>
 <li><a href="/topimagenews/20230120/1838745.md">【微博精粹】中国人口已经减少到令共产党相当“捉急”的地步</a></li>
 <li><a href="/sohnews/20230120/1838771.md">“阳过”了？！习面容憔悴疲惫，频繁更换“卫军”司令；中共检察院：弱者就是要被强者践踏；王岐山后继者竟是“韩正”，典型上海帮；鲍彤女儿转消息：中共老干部大量死亡，骨灰上墙等一年多｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/sohnews/20230121/1838984.md">习近平听了大吼“停！”</a></li>
-<li><a href="/funmedia/20230120/1838682.md">秦始皇当年修的公路，荒废2000多年，为何至今仍“寸草不生”？</a></li>
 <li><a href="/sohnews/20230120/1838848.md">回乡过年遇拍到魔幻场景，网信办急令“闭嘴”！习近平将造成地方割据……</a></li>
 <li><a href="/cbnews/20230120/1838901.md">浙江一男子宅地被占家破人亡 杀村官致6死</a></li>
+<li><a href="/cbnews/20230121/1838987.md">上任未满月 秦刚露出战狼尾巴</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230121/1839096.md" target="_blank">林保华：“联美保台”是台湾唯一的出路</a></li>
 <li><a href="/comments/20230121/1839079.md" target="_blank">文昭：农历新年前三盏警示灯全亮；习近平担心「建国门之变」，中央军委一号令失踪？</a></li>
 <li><a href="/comments/20230121/1839049.md" target="_blank">陆客：新春快乐！新春快了</a></li>
 <li><a href="/comments/20230121/1839048.md" target="_blank">周晓辉：病毒攻入五台山等地庙观 拥共出家人亡</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230120/1838524.md" target="_blank">时事大家谈：人口危机冲击经济 中国“人矿”还能挖多久？</a></li>
 <li><a href="/comments/20230119/1838472.md" target="_blank">时事大家谈：人口危机冲击经济 中国“人矿”还能挖多久？三年清零真的拯救了数百万中国人生命？专家说不</a></li>
 <li><a href="/comments/20230119/1838445.md" target="_blank">【文韬政论】中共集体自我欺骗机制下的群众染疫运动</a></li>
-<li><a href="/comments/20230119/1838420.md" target="_blank">【未普评论】习近平和中国人民的社会契约濒临破产</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
 <li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
 
 </ul>
 </div>
