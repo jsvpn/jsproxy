@@ -17,16 +17,16 @@
 <li><a href="/cnnews/20230121/1839055.md">iPhone15系列首先搭载，再次让国产手机防不胜防</a></li>
 <li><a href="/sohnews/20230121/1839022.md">宋祖英移民美国？！｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20230121/1838987.md">上任未满月 秦刚露出战狼尾巴</a></li>
+<li><a href="/baitai/20230121/1839275.md">就快有事发生？习重用这两人 背后有异常</a></li>
 <li><a href="/sohnews/20230121/1839004.md">🔥习近平向胡锦涛等高官拜年 官媒表述异常; 传江苏常州</a></li>
 <li><a href="/cnnews/20230121/1839159.md">管控力度空前！中共强迫记者全体下跪【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230121/1839053.md">内忧外患 习近平「两会」人事布局 埋下「不定时炸弹」？</a></li>
-<li><a href="/baitai/20230121/1839275.md">就快有事发生？习重用这两人 背后有异常</a></li>
 <li><a href="/lifebaike/20230121/1839223.md">兔年新年，别只会说“新年快乐”了，记住18句拜年话，喜庆不俗套</a></li>
 <li><a href="/cnnews/20230121/1838991.md">加入“润学”大军：他们也在逃离威权中国</a></li>
 <li><a href="/sohnews/20230121/1839064.md">陈破空：好消息：中国人可以润了！开放前往26国。惊讶春晚节目单，中国大事全在里头！宋祖英悄悄润入美国？美东1月20日晚8点、即中港台1月21日早9点</a></li>
-<li><a href="/worldnews/20230121/1839238.md">普京甩锅？触兵家大忌 俄军阵前再换将…</a></li>
 <li><a href="/sohnews/20230121/1839248.md">🔥【财经】 中国一线城市急了！暴雪不只停中国网游，电竞也不让参加；向习近平表衷共同富裕 中企快手老董抛售上亿股票全捐；旱涝加封控中国粮食大丰收？专家揭秘；中国经济市场动荡 大量外资出逃【阿波罗网LZ】</a></li>
-<li><a href="/cnnews/20230121/1839005.md">中共央视被踢爆:中国雪是正能量 美国雪是负能量</a></li>
+<li><a href="/worldnews/20230121/1839238.md">普京甩锅？触兵家大忌 俄军阵前再换将…</a></li>
+<li><a href="/sohnews/20230121/1839286.md">🔥中共再现不祥征兆！习近平讲话释信号；出啥事？中共团拜会，有一人失踪；68岁器官移植中心主任亡 党媒罕见承认这原因；美防长：乌克兰就算没豹2也装备精良 应把握反攻</a></li>
 <li><a href="/ssgc/20230121/1839152.md">〖微博谈〗这才是正常社会的理念</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230122/1839309.md" target="_blank">天亮时分：观人术的八个技巧。你如何知道一个人是否值得信赖？（前8分钟）（会员节目第4集 20230121）</a></li>
 <li><a href="/cbnews/20230121/1839243.md" target="_blank">玄木记 第三季（四十五）</a></li>
 <li><a href="/comments/20230121/1839276.md" target="_blank">今年过年须知！2023年癸卯兔年 过年好！关于兔，你不知道的事！好的品质，都被占了！潇洒机敏、谦谦有理、善解人意、事业有成、热爱艺术、判断力强、慈善低调⋯⋯十二生肖｜ #未解之谜</a></li>
 <li><a href="/comments/20230121/1839273.md" target="_blank">今年过年须知！2023年癸卯兔年 过年好！关于兔，你不知道的事！好的品质，都被占了！潇洒机敏、谦谦有理、善解人意、事业有成、热爱艺术、判断力强、慈善低调⋯⋯十二生肖｜ #未解之谜 #short</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230119/1838360.md" target="_blank">习近平亲颁晋升上将命令状 中部战区司令员黄铭快速添星</a></li>
 <li><a href="/cbnews/20230119/1838304.md" target="_blank">江峰：救命特效还嫌价钱高？台湾政府免费供应！胡锡进批辉瑞发国难财的道德绑架背後两大残酷内幕。刘鹤世界论坛再提开放，中国还是个做生意的好地方麽【江峰漫谈20230118 第616期】</a></li>
 <li><a href="/cbnews/20230119/1838250.md" target="_blank">天亮时分：废太子胡春华政协赋闲；刘鹤在达沃斯11次强调一件事，西方精英充耳不闻；中国人口之谜，比想象的更令人震惊（政论天下第911集 20230118）</a></li>
-<li><a href="/comments/20230119/1838159.md" target="_blank">【围炉夜话01/18】刘鹤说中国“绝对不可能”搞计划经济：他说了算吗？人口负增长，中国“未富先老”；美高科技公司轮番大裁员：出什么事了？｜方伟 方菲 唐靖远 萧茗 David</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
 <li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
 
 </ul>
 </div>
