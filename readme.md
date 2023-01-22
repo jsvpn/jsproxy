@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20230122/1839318.md">习近平遭遇最大的政治危机：民怨官怨同时爆发</a></li>
 <li><a href="/baitai/20230122/1839358.md">习近平不敢宣布这件事 分析揭中南海最担心的问题</a></li>
 <li><a href="/topimagenews/20230122/1839334.md">习近平心腹秦刚创官场传奇</a></li>
 <li><a href="/comments/20230122/1839339.md">被删文：这可能是相声的最后一届春晚</a></li>
@@ -15,18 +14,19 @@
 <li><a href="/comments/20230122/1839424.md">2023春晚出炉！高级黑遍布节目单，习近平被央视算计了？喜庆外表藏大凶，李克强笑了</a></li>
 <li><a href="/topimagenews/20230122/1839415.md">【微博精粹】大年三十 年轻人最心酸的表白</a></li>
 <li><a href="/topimagenews/20230122/1839440.md">傻眼！小粉红纽约商场撕拜年海报 遭当地警方逮捕</a></li>
-<li><a href="/cbnews/20230122/1839470.md">美驻华使馆微博发文拜年 竟也被指辱华了</a></li>
 <li><a href="/cnnews/20230122/1839442.md">风口浪尖 前卫生部黄洁夫说的每个字都让人后脑勺发凉</a></li>
+<li><a href="/cbnews/20230122/1839470.md">美驻华使馆微博发文拜年 竟也被指辱华了</a></li>
 <li><a href="/sohnews/20230122/1839508.md">陈破空：春晚又砸锅了！一句台词惊动：谁还没上过初中啊！开场就抄袭日本音乐。黄渤假演。小品劝人不结婚。相声表演白纸革命。李谷一染疫住院。直播与互动。美东1月19日早8点30、即中港台1月19日晚9点30</a></li>
 <li><a href="/sohnews/20230122/1839446.md">习正谋划2大事，召集人马研究对策；第3度缺席春晚，李谷一自爆染疫；回应网友：沐阳的故事【新闻看点 李沐阳1.21】</a></li>
 <li><a href="/topimagenews/20230122/1839333.md">惊呆！中共喉舌新年发文 向全世界“邀功”</a></li>
 <li><a href="/topimagenews/20230122/1839447.md">痛心疾首：辉瑞特效药“千金难求”的另一面：被浪费和滥用</a></li>
 <li><a href="/topimagenews/20230122/1839523.md">习近平敏感讲话再现！要出啥事？【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230122/1839468.md">🔥真实信息公开后 中国社会大乱？中共最怕的开始了；除共 “习近平下台”！ 中国留韩学生除夕集会；“开门放毒”为何未见效？中共放开出国旅游团；秦刚火药味向各国拜年 高举“习外交思想”</a></li>
 <li><a href="/lifebaike/20230122/1839342.md">无论你的儿子有多大，都请发给他读一读，写的很到位</a></li>
+<li><a href="/sohnews/20230122/1839468.md">🔥真实信息公开后 中国社会大乱？中共最怕的开始了；除共 “习近平下台”！ 中国留韩学生除夕集会；“开门放毒”为何未见效？中共放开出国旅游团；秦刚火药味向各国拜年 高举“习外交思想”</a></li>
 <li><a href="/topimagenews/20230122/1839374.md">首次人口负增长，你所有的担心都可能成真</a></li>
 <li><a href="/baitai/20230122/1839467.md">颜纯鈎 | 今年中共大事不妙：官民离心，上下崩解</a></li>
 <li><a href="/headline/20230122/1839327.md">中国留韩学生除夕声援彭载舟 要求习近平下台</a></li>
+<li><a href="/topimagenews/20230122/1839366.md">美国16岁少年被人枪杀了！为什么网友一片叫好之声</a></li>
 <li><a href="/baitai/20230122/1839497.md">如何区分“阖家”与“合家”，二者有啥不同？过年别用错了闹笑话</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230123/1839567.md" target="_blank">2023兔年最有趣的春联 全是符号 最精准翻译来了……</a></li>
 <li><a href="/comments/20230123/1839560.md" target="_blank">李燕铭：瘟疫冲击央视春晚 秦岚回应演小品哑嗓：阳康还未恢复 主持人尼格买提黑眼圈很重：染疫后状态不佳 李谷一回应缺席春晚：染疫住院病情恢复慢 《碇步桥》删减近半：演员染疫无法排练 中共末日之病毒亡共（二三）</a></li>
 <li><a href="/comments/20230123/1839541.md" target="_blank">【短视频】周子定：兵棋推演重点不在输赢。。。</a></li>
 <li><a href="/comments/20230122/1839515.md" target="_blank">房市寒冬 中国开发商推买房送BMW 10年免费搭地铁</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230122/1839319.md" target="_blank">广宇：从幸存者偏差谈中国疫情死亡人数的迷思</a></li>
 <li><a href="/comments/20230122/1839318.md" target="_blank">习近平遭遇最大的政治危机：民怨官怨同时爆发</a></li>
 <li><a href="/comments/20230122/1839317.md" target="_blank">袁斌：中国乡村病毒肆虐 死亡同样惨烈</a></li>
-<li><a href="/comments/20230122/1839312.md" target="_blank">李燕铭：韩正将接替王岐山任国家副主席 刘国中将接替孙春兰任副总理 中共新外长秦刚创官场传奇将升国务委员 石泰峰罕见拥有三大副国级头衔成为历来最大权力统战部长 二十大高层人事大战（八十） 习家军接掌国务院（七） 两会大战（二）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 <li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 
 </ul>
 </div>
