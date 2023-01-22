@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/baitai/20230121/1839275.md">就快有事发生？习重用这两人 背后有异常</a></li>
 <li><a href="/sohnews/20230121/1839286.md">🔥中共再现不祥征兆！习近平讲话释信号；出啥事？中共团拜会，有一人失踪；68岁器官移植中心主任亡 党媒罕见承认这原因；美防长：乌克兰就算没豹2也装备精良 应把握反攻</a></li>
 <li><a href="/topimagenews/20230122/1839334.md">习近平心腹秦刚创官场传奇</a></li>
 <li><a href="/comments/20230122/1839318.md">习近平遭遇最大的政治危机：民怨官怨同时爆发</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/topimagenews/20230122/1839440.md">傻眼！小粉红纽约商场撕拜年海报 遭当地警方逮捕</a></li>
 <li><a href="/cbnews/20230122/1839309.md">天亮时分：观人术的八个技巧。你如何知道一个人是否值得信赖？（前8分钟）（会员节目第4集 20230121）</a></li>
 <li><a href="/cnnews/20230122/1839442.md">风口浪尖 前卫生部黄洁夫说的每个字都让人后脑勺发凉</a></li>
+<li><a href="/sohnews/20230122/1839446.md">习正谋划2大事，召集人马研究对策；第3度缺席春晚，李谷一自爆染疫；回应网友：沐阳的故事【新闻看点 李沐阳1.21】</a></li>
 <li><a href="/topimagenews/20230122/1839333.md">惊呆！中共喉舌新年发文 向全世界“邀功”</a></li>
 <li><a href="/lifebaike/20230122/1839342.md">无论你的儿子有多大，都请发给他读一读，写的很到位</a></li>
-<li><a href="/sohnews/20230122/1839446.md">习正谋划2大事，召集人马研究对策；第3度缺席春晚，李谷一自爆染疫；回应网友：沐阳的故事【新闻看点 李沐阳1.21】</a></li>
+<li><a href="/topimagenews/20230122/1839447.md">痛心疾首：辉瑞特效药“千金难求”的另一面：被浪费和滥用</a></li>
 <li><a href="/topimagenews/20230122/1839374.md">首次人口负增长，你所有的担心都可能成真</a></li>
 <li><a href="/topimagenews/20230122/1839366.md">美国16岁少年被人枪杀了！为什么网友一片叫好之声</a></li>
-<li><a href="/topimagenews/20230122/1839447.md">痛心疾首：辉瑞特效药“千金难求”的另一面：被浪费和滥用</a></li>
 <li><a href="/headline/20230122/1839327.md">中国留韩学生除夕声援彭载舟 要求习近平下台</a></li>
+<li><a href="/topimagenews/20230122/1839393.md">这么多人不回家过年，什么情况？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230122/1839509.md" target="_blank">央视春晚开场曲《花开种花家》爆抄袭日本动漫歌</a></li>
 <li><a href="/comments/20230122/1839426.md" target="_blank">石铭：政法委是推动迫害的罪魁祸首</a></li>
 <li><a href="/comments/20230122/1839424.md" target="_blank">2023春晚出炉！高级黑遍布节目单，习近平被央视算计了？喜庆外表藏大凶，李克强笑了</a></li>
 <li><a href="/comments/20230122/1839420.md" target="_blank">吴惠林：中共经济可能高成长吗？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230121/1839287.md" target="_blank">“农历新年”非中国独有！ 南韩教授吁正名遭洗版</a></li>
 <li><a href="/comments/20230121/1839276.md" target="_blank">今年过年须知！2023年癸卯兔年 过年好！关于兔，你不知道的事！好的品质，都被占了！潇洒机敏、谦谦有理、善解人意、事业有成、热爱艺术、判断力强、慈善低调⋯⋯十二生肖｜ #未解之谜</a></li>
 <li><a href="/comments/20230121/1839273.md" target="_blank">今年过年须知！2023年癸卯兔年 过年好！关于兔，你不知道的事！好的品质，都被占了！潇洒机敏、谦谦有理、善解人意、事业有成、热爱艺术、判断力强、慈善低调⋯⋯十二生肖｜ #未解之谜 #short</a></li>
-<li><a href="/comments/20230121/1839229.md" target="_blank">法轮功创始人李洪志大师发表《为什么会有人类》</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
 <li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
 
 </ul>
 </div>
