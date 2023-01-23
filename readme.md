@@ -5,15 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230122/1839523.md">习近平敏感讲话再现！要出啥事？【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230123/1839559.md">戴璐事件受影响最大的人：丈夫镖哥</a></li>
-<li><a href="/topimagenews/20230123/1839663.md">【微博精粹】江蛤刚死 宋祖英就移民美国 说好的拒绝共军入境呢？</a></li>
 <li><a href="/cnnews/20230123/1839681.md">喷血照片：共产共妻？中共书记们早已进入共产主义了</a></li>
-<li><a href="/topimagenews/20230122/1839527.md">中共遇到坎了！习近平这样说... 【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230123/1839663.md">【微博精粹】江蛤刚死 宋祖英就移民美国 说好的拒绝共军入境呢？</a></li>
 <li><a href="/topimagenews/20230123/1839718.md">戴璐睡出“24段扬州物语”，震动扬州官场</a></li>
+<li><a href="/topimagenews/20230122/1839527.md">中共遇到坎了！习近平这样说... 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230123/1839623.md">扬州的美女局长戴璐，还有人娶吗？</a></li>
 <li><a href="/sohnews/20230123/1839558.md">“天地皆知人不醒！谁知道到底走了多少人？”4月份才是真正的高峰！</a></li>
-<li><a href="/sohnews/20230122/1839524.md">石头预言中国要变天</a></li>
 <li><a href="/topimagenews/20230123/1839720.md">贵州人民彪悍 他们将中共警匪及帮凶推进一个大坑 意欲活埋【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230123/1839593.md">中美关系融冰开始？习近平作“谈和” 决定 权宜之计？</a></li>
 <li><a href="/topimagenews/20230123/1839614.md">给老百姓下药！中共春晚暗藏大秘密 【阿波罗网报道】</a></li>
@@ -21,13 +19,15 @@
 <li><a href="/topimagenews/20230123/1839686.md">中国田径女选手遭疑象男人，曝抱婴照更遭质疑</a></li>
 <li><a href="/cnnews/20230123/1839552.md">春晚只提一次“习近平” 近年来政治浓度最低</a></li>
 <li><a href="/cnnews/20230123/1839692.md">年夜饭帝王蟹上桌，浙江小男孩下一秒举动令全网炸锅</a></li>
+<li><a href="/topimagenews/20230123/1839768.md">洛杉矶枪案男老板中枪身亡，凶嫌动机被曝光</a></li>
 <li><a href="/topimagenews/20230123/1839628.md">特权阶层加入“润”大军：逃离中国，寻找避风港</a></li>
 <li><a href="/yule/20230123/1839574.md">群星海外过年！王祖贤素颜苍老变化大，林青霞与金星法国豪宅聚会</a></li>
-<li><a href="/topimagenews/20230123/1839768.md">洛杉矶枪案男老板中枪身亡，凶嫌动机被曝光</a></li>
 <li><a href="/cnnews/20230123/1839691.md">欠债超230亿，8000亿巨头宣布破产</a></li>
 <li><a href="/cnnews/20230123/1839715.md">大年初一三门峡突然放水 下游许多游客被冲走 至少2死7失联【阿波罗网报道】</a></li>
-<li><a href="/baitai/20230123/1839582.md">演员染疫 春晚节目大删减 消失3年 陈光标现身惹议</a></li>
+<li><a href="/topimagenews/20230123/1839761.md">冻结俄3000亿美元资产！西方拿来做1件事 俄罗斯炸锅</a></li>
+<li><a href="/cnnews/20230123/1839693.md">澳门赌场大亨洗米华准备被“捅肛门” 港媒曝入狱服刑前规矩</a></li>
 <li><a href="/cbnews/20230123/1839627.md">天亮时分：川普大骂习近平，蓬佩奥吐露的三个白宫秘闻；司法部搜查拜登住宅（政论天下第914集 20230122）</a></li>
+<li><a href="/baitai/20230123/1839582.md">演员染疫 春晚节目大删减 消失3年 陈光标现身惹议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230123/1839828.md" target="_blank">【杜耀明评论】国安首领凭甚么带领香港「由治及兴」？</a></li>
 <li><a href="/comments/20230123/1839790.md" target="_blank">中国将开放出境旅游 首批20个“试点国家”曝光！英美澳等不在列</a></li>
 <li><a href="/comments/20230123/1839788.md" target="_blank">英国公司分析：中国解除清零1.5个月 60多万人染疫亡</a></li>
 <li><a href="/comments/20230123/1839774.md" target="_blank">灾难以开始！客运站没人 高铁没人 医院爆满 殡仪馆排队</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230122/1839395.md" target="_blank">赖胜：白纸对折50次的天文效应与死亡4亿</a></li>
 <li><a href="/comments/20230122/1839362.md" target="_blank">陶杰：“农历新年” 母战狼在美国抢先扑咬</a></li>
 <li><a href="/comments/20230122/1839357.md" target="_blank">译丛：乌克兰局势刻不容缓</a></li>
-<li><a href="/comments/20230122/1839346.md" target="_blank">惨！ 越来越多人死亡 北京方舱医院改成火化炉</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/20211006/1633976.md" target="_blank">莫扎特苦乐相映短暂的一生</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
 <li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
 
 </ul>
 </div>
