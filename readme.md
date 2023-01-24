@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/baitai/20230123/1839797.md">这事一旦公布恐将社会大乱？中共最怕的事出现了</a></li>
 <li><a href="/finance/20230124/1839917.md">中国最牛地级市，房价狂坠了</a></li>
 <li><a href="/baitai/20230124/1839925.md">要出事？中共翻出习近平这段敏感讲话</a></li>
 <li><a href="/topimagenews/20230124/1840080.md">【微博精粹】史上最无耻春晚 没有之一</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/cbnews/20230124/1839943.md">春晚上抢镜的5位素人：脸僵的伴舞 爆红的挠头哥</a></li>
 <li><a href="/topimagenews/20230123/1839823.md">洛杉矶枪手到另一舞厅拟再开杀戒 26岁华裔老板英勇夺枪</a></li>
 <li><a href="/ssgc/20230124/1839890.md">〖兲朝浮世绘〗这个编剧辱包了</a></li>
-<li><a href="/topimagenews/20230124/1840121.md">触目惊心 情况远比想的还要糟</a></li>
 <li><a href="/topimagenews/20230124/1839965.md">穿帮！普京暗示 世界将大事不好？</a></li>
+<li><a href="/topimagenews/20230124/1840121.md">触目惊心 情况远比想的还要糟</a></li>
 <li><a href="/sohnews/20230124/1839942.md">【直播】春晚现集体“罢演”，为什么说这是苏联解体征兆？刘鹤忽悠达沃斯穿帮，美媒罕见严批“每个字都是谎言”；侵台计划启动？习近平密令筹划前期工作</a></li>
 <li><a href="/topimagenews/20230124/1840089.md">让习近平既如鲠在喉又手脚无措！今年上半年2件大事要来</a></li>
 <li><a href="/topimagenews/20230124/1840065.md">好冷！中国女子当街尖叫求助 周围人冷眼旁观</a></li>
+<li><a href="/topimagenews/20230124/1840134.md">中国国企支援俄在乌作战 美找到证据向北京对质</a></li>
 <li><a href="/cbnews/20230124/1840112.md">江峰：年初二聊聊八卦：习近平的雄安二北京，并不是烂尾，它是皇权的风水。这个成立不到一个月注册资金一百万的厦门小企业，吞并了数千亿的抖音，为战争作准备【江峰漫谈20230123第617期】</a></li>
 <li><a href="/cbnews/20230124/1840044.md">军方异动不断！中共当局高度紧张【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230124/1840134.md">中国国企支援俄在乌作战 美找到证据向北京对质</a></li>
-<li><a href="/sohnews/20230123/1839803.md">春晚事故沈腾检讨了，农历新年是中国的还是韩国的，春晚歌曲被指抄袭，鱿鱼游戏体现韩国流行文化，韩剧流行文化因素，大英博物馆韩国农历新年（小木谈天第324期 2023010123）</a></li>
 <li><a href="/comments/20230124/1839968.md">专访病毒学家林晓旭：国产灭活疫苗的主要问题是什么？中国疫情为何和国外不同？高官之死背后的黑幕 ｜#方菲时间 01/23/2023</a></li>
 <li><a href="/sohnews/20230124/1839902.md">“习近平最大心愿：”大家过好年！“ ”最大本事：全部烂尾工程之下-完美控制共产党</a></li>
 <li><a href="/cnnews/20230124/1839919.md">普京能源牌下场超惨 世界经济不再需要俄罗斯</a></li>
-<li><a href="/cnnews/20230124/1839933.md">这两天，媒体和网友们发现了山东人磕头的名场面</a></li>
 <li><a href="/comments/20230124/1839987.md">文昭：中国春节後将实施3R突击计划？谣传宋祖英也润美国；马云赴香港买了啥稀奇的「年货」？</a></li>
+<li><a href="/cnnews/20230124/1839933.md">这两天，媒体和网友们发现了山东人磕头的名场面</a></li>
 <li><a href="/cnnews/20230123/1839804.md">零下18度的过年 人妻回到“黑龙江的娘家”一开门变成冰窖</a></li>
+<li><a href="/comments/20230124/1839877.md">秦刚将成“国家领导人”？ 专家揭玄机</a></li>
+<li><a href="/sohnews/20230124/1839958.md">陈破空：还来得及吗？习近平急转身！王沪宁一个误判害了他十年。如今只能指望秦刚，给他升官，连升三级！麦卡锡酝酿大动作。美东1月23日晚8点、即中港台1月24日早9点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230124/1840217.md" target="_blank">比尔盖兹：AI将取代白领工作</a></li>
 <li><a href="/comments/20230124/1840206.md" target="_blank">北京严格“反贪腐”澳门博彩发展陷两难</a></li>
 <li><a href="/comments/20230124/1840180.md" target="_blank">画面曝光！洛杉矶除夕夜舞厅枪击案 英勇男40秒夺下枪只拯救全场</a></li>
 <li><a href="/comments/20230124/1840160.md" target="_blank">如松：鼓声阵阵 日本正踏上战场</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230123/1839651.md" target="_blank">汤名晖：东海与南海实为台湾的救命之海</a></li>
 <li><a href="/comments/20230123/1839618.md" target="_blank">潘采夫：给儿子攒钱结婚的父亲</a></li>
 <li><a href="/comments/20230123/1839596.md" target="_blank">疫情下 中国与世界的不同</a></li>
-<li><a href="/comments/20230123/1839569.md" target="_blank">兔年春晚吐槽段子与精彩春联荟萃：棺材板上办春晚 尸骨堆里庆新年 驱疫祛毛病 迎春除恶习</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
 
 </ul>
 </div>
