@@ -21,13 +21,13 @@
 <li><a href="/comments/20230124/1839987.md">文昭：中国春节後将实施3R突击计划？谣传宋祖英也润美国；马云赴香港买了啥稀奇的「年货」？</a></li>
 <li><a href="/sohnews/20230124/1840240.md">100万人民币吞下市值2000亿美元的抖音，张一鸣净身出户。润去新加坡，是金蝉脱壳还是与中共演双簧？揭露中共的真正图谋。</a></li>
 <li><a href="/finance/20230124/1840169.md">全球恐陪葬？经济火车头惊爆危机 1现象正加速</a></li>
-<li><a href="/sohnews/20230124/1839958.md">陈破空：还来得及吗？习近平急转身！王沪宁一个误判害了他十年。如今只能指望秦刚，给他升官，连升三级！麦卡锡酝酿大动作。美东1月23日晚8点、即中港台1月24日早9点</a></li>
 <li><a href="/cbnews/20230124/1840197.md">相声演员控诉北京春晚：强取豪夺我们的原创</a></li>
 <li><a href="/cnnews/20230124/1840071.md">第二波恐更致命！疫情已传遍中国大多地区…</a></li>
-<li><a href="/lifebaike/20230124/1840142.md">俗语“屋角有三花，不贵也会发”，不是迷信，是老祖先的智慧</a></li>
 <li><a href="/health/20230124/1840122.md">医生建议：今明两年，家家备好这“6样东西”，关键时刻能救命</a></li>
+<li><a href="/lifebaike/20230124/1840142.md">俗语“屋角有三花，不贵也会发”，不是迷信，是老祖先的智慧</a></li>
 <li><a href="/baitai/20230124/1840222.md">学者：几个昔日盟友背叛北京 逼习转换立场</a></li>
 <li><a href="/yule/20230124/1839974.md">惨遭男友骗光18亿！“最美何仙姑”破产靠按摩养家近况曝光</a></li>
+<li><a href="/cnnews/20230124/1840171.md">半导体产业链大迁徙 赢家出乎意料</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230125/1840348.md" target="_blank">新年，谁“欢欢喜喜”？谁能“欢欢喜喜”？</a></li>
+<li><a href="/comments/20230125/1840347.md" target="_blank">袁斌：人生在世，最重要的是听懂神救你的呼唤</a></li>
+<li><a href="/comments/20230125/1840346.md" target="_blank">周晓辉：避回应四亿人亡 凸显北京当局心虚恐惧</a></li>
+<li><a href="/comments/20230125/1840345.md" target="_blank">王赫：2022国际金融资金撤离中国 幅度惊人</a></li>
 <li><a href="/comments/20230125/1840299.md" target="_blank">党员宋祖英润美，拧巴了</a></li>
 <li><a href="/comments/20230125/1840260.md" target="_blank">时事大家谈：美国两大高官准备罕见访华，美中关系涌现微妙变化？</a></li>
 <li><a href="/comments/20230124/1840259.md" target="_blank">时事大家谈：春晚几乎不提习近平，中宣部知道今年要低调？</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230124/1839876.md" target="_blank">动物园虎兔“交接” 兔子险成年夜饭</a></li>
 <li><a href="/comments/20230124/1839874.md" target="_blank">江曾另类政变 189起重大凶杀伤亡惨案密集爆发（持续更新） 大年初一惨案连发 三门峡大坝无预警放水近10人遇难失联 四川热气球高空爆炸1死3伤 新年后七起重大伤亡惨案触目惊心 浙江男维权无果杀6人灭门村官 西藏林芝隧道口雪崩28人遇难 辽宁化工厂爆炸至少36人伤亡12失联 广州男开车撞人致18死伤 南昌货车冲入送殡队伍致19死20伤</a></li>
 <li><a href="/comments/20230124/1839872.md" target="_blank">时事大家谈：习近平首论防疫松绑，为何避谈“动态清零”？</a></li>
-<li><a href="/comments/20230124/1839871.md" target="_blank">时事大家谈：武汉封城三周年：清零模式贻害无穷？</a></li>
-<li><a href="/comments/20230124/1839862.md" target="_blank">时事大家谈：习近平首论防疫松绑，为何避谈“动态清零”？武汉封城三周年：清零模式贻害无穷？</a></li>
-<li><a href="/comments/20230123/1839828.md" target="_blank">【杜耀明评论】国安首领凭甚么带领香港「由治及兴」？</a></li>
-<li><a href="/comments/20230123/1839790.md" target="_blank">中国将开放出境旅游 首批20个“试点国家”曝光！英美澳等不在列</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 <li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 
 </ul>
 </div>
