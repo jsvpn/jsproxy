@@ -5,15 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20230123/1839681.md">喷血照片：共产共妻？中共书记们早已进入共产主义了</a></li>
 <li><a href="/topimagenews/20230123/1839718.md">戴璐睡出“24段扬州物语”，震动扬州官场</a></li>
 <li><a href="/topimagenews/20230123/1839720.md">贵州人民彪悍 他们将中共警匪及帮凶推进一个大坑 意欲活埋【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230123/1839768.md">洛杉矶枪案男老板中枪身亡，凶嫌动机被曝光</a></li>
 <li><a href="/topimagenews/20230123/1839686.md">中国田径女选手遭疑象男人，曝抱婴照更遭质疑</a></li>
 <li><a href="/topimagenews/20230123/1839761.md">冻结俄3000亿美元资产！西方拿来做1件事 俄罗斯炸锅</a></li>
 <li><a href="/cnnews/20230123/1839692.md">年夜饭帝王蟹上桌，浙江小男孩下一秒举动令全网炸锅</a></li>
-<li><a href="/topimagenews/20230123/1839792.md">中国这么多人不回家过年，什么情况？习近平“示好”难取信 商界大亨纷纷“隐退”；</a></li>
 <li><a href="/finance/20230124/1839917.md">中国最牛地级市，房价狂坠了</a></li>
+<li><a href="/topimagenews/20230123/1839792.md">中国这么多人不回家过年，什么情况？习近平“示好”难取信 商界大亨纷纷“隐退”；</a></li>
 <li><a href="/sohnews/20230123/1839762.md">习近平 连线拜年 形如枯槁</a></li>
 <li><a href="/cbnews/20230123/1839793.md">酒店价格暴涨10倍，中国这地游客除夕夜流落街头</a></li>
 <li><a href="/baitai/20230123/1839797.md">这事一旦公布恐将社会大乱？中共最怕的事出现了</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/cnnews/20230123/1839691.md">欠债超230亿，8000亿巨头宣布破产</a></li>
 <li><a href="/cnnews/20230123/1839693.md">澳门赌场大亨洗米华准备被“捅肛门” 港媒曝入狱服刑前规矩</a></li>
 <li><a href="/cnnews/20230123/1839715.md">大年初一三门峡突然放水 下游许多游客被冲走 至少2死7失联【阿波罗网报道】</a></li>
+<li><a href="/baitai/20230124/1839925.md">要出事？中共翻出习近平这段敏感讲话</a></li>
+<li><a href="/ssgc/20230124/1839890.md">〖兲朝浮世绘〗这个编剧辱包了</a></li>
 <li><a href="/lifebaike/20230123/1839730.md">如果不想被第二次感染，一定要记住并做到这六点</a></li>
 <li><a href="/cnnews/20230123/1839746.md">是他！洛杉矶警方公布蒙特瑞公园枪案嫌犯身份</a></li>
-<li><a href="/ssgc/20230124/1839890.md">〖兲朝浮世绘〗这个编剧辱包了</a></li>
-<li><a href="/baitai/20230124/1839925.md">要出事？中共翻出习近平这段敏感讲话</a></li>
 <li><a href="/cbnews/20230124/1839943.md">春晚上抢镜的5位素人：脸僵的伴舞 爆红的挠头哥</a></li>
 <li><a href="/sohnews/20230123/1839803.md">春晚事故沈腾检讨了，农历新年是中国的还是韩国的，春晚歌曲被指抄袭，鱿鱼游戏体现韩国流行文化，韩剧流行文化因素，大英博物馆韩国农历新年（小木谈天第324期 2023010123）</a></li>
+<li><a href="/sohnews/20230124/1839942.md">【直播】春晚现集体“罢演”，为什么说这是苏联解体征兆？刘鹤忽悠达沃斯穿帮，美媒罕见严批“每个字都是谎言”；侵台计划启动？习近平密令筹划前期工作</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230124/1840089.md" target="_blank">让习近平既如鲠在喉又手脚无措！今年上半年2件大事要来</a></li>
 <li><a href="/topimagenews/20230124/1840080.md" target="_blank">【微博精粹】史上最无耻春晚 没有之一</a></li>
 <li><a href="/topimagenews/20230124/1840065.md" target="_blank">好冷！中国女子当街尖叫求助 周围人冷眼旁观</a></li>
 <li><a href="/topimagenews/20230124/1840043.md" target="_blank">出啥事了？他神秘缺席中共重要活动【阿波罗网报道】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230123/1839583.md" target="_blank">中国暴毙年轻人的器官，为何总能快速匹配多人？</a></li>
 <li><a href="/topimagenews/20230122/1839527.md" target="_blank">中共遇到坎了！习近平这样说&#8230; 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230122/1839523.md" target="_blank">习近平敏感讲话再现！要出啥事？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230122/1839447.md" target="_blank">痛心疾首：辉瑞特效药“千金难求”的另一面：被浪费和滥用</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 <li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
 
 </ul>
 </div>
