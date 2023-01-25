@@ -16,18 +16,18 @@
 <li><a href="/baitai/20230125/1840313.md">中南海风暴将至？习近平面临内外挑战</a></li>
 <li><a href="/finance/20230124/1840169.md">全球恐陪葬？经济火车头惊爆危机 1现象正加速</a></li>
 <li><a href="/baitai/20230125/1840363.md">军队现两大危机 分析：中共当局高度紧张</a></li>
-<li><a href="/lifebaike/20230124/1840142.md">俗语“屋角有三花，不贵也会发”，不是迷信，是老祖先的智慧</a></li>
 <li><a href="/topimagenews/20230125/1840334.md">这地儿突发通报要求全员核酸 被骂翻后匆忙删除</a></li>
 <li><a href="/cnnews/20230124/1840171.md">半导体产业链大迁徙 赢家出乎意料</a></li>
+<li><a href="/baitai/20230125/1840400.md">被贬至边缘职务 赵立坚今年这样过年</a></li>
 <li><a href="/sohnews/20230124/1840187.md">推背图预言2023年两岸统一？黑兔走入青龙穴，中共攻台湾或中共内乱？人生到底为何来？功名富贵如何定？（2023.1.24）｜世界的十字路口 唐浩</a></li>
 <li><a href="/ssgc/20230125/1840333.md">〖兲朝浮世绘〗泰国查办腐败这速度值得中共学习</a></li>
 <li><a href="/baitai/20230124/1840220.md">生前邀不来死后用虚拟 央视春晚演中共倒台戏码</a></li>
-<li><a href="/baitai/20230125/1840400.md">被贬至边缘职务 赵立坚今年这样过年</a></li>
+<li><a href="/ssgc/20230124/1840247.md">春晚可以称得上是恶意满满</a></li>
 <li><a href="/lifebaike/20230125/1840300.md">600年北京故宫屋顶没鸟粪、杂草 这设计太绝</a></li>
 <li><a href="/baitai/20230125/1840298.md">丧事喜办惹众怒！「春晚」丑闻不断 这副吐槽对联亮了</a></li>
-<li><a href="/ssgc/20230124/1840247.md">春晚可以称得上是恶意满满</a></li>
 <li><a href="/topimagenews/20230125/1840290.md">从未摸过枪 美国26岁华人程序员勇猛朴向枪手</a></li>
 <li><a href="/baitai/20230124/1840185.md">北京尴尬了！中企暗助俄罗斯被抓包 恐影响美对中政策</a></li>
+<li><a href="/comments/20230125/1840435.md">重量级情报曝光：习近平亲自授意…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230125/1840483.md" target="_blank">中共割让168万平方公里 中俄边境条约平等吗？</a></li>
 <li><a href="/comments/20230125/1840470.md" target="_blank">【独家重磅】李燕铭：胡锦涛正部级大管家陈世矩被免职 王沪宁旧部被调离中央办公厅 习近平清洗江胡势力加强掌控中南海核心机构 丁薛祥中办主任接替人选扑朔迷离或三选一 习近平有可能增选政治局委员 两会大战（四） 二十大高层人事大战（八二） 中共二十大团派团灭内幕（十九）</a></li>
 <li><a href="/comments/20230125/1840465.md" target="_blank">精日歌曲与春晚小品《坑》习近平，55岁导演猝卒，中纪委急了！美国国会突然出击，外交部咋画线？</a></li>
 <li><a href="/comments/20230125/1840452.md" target="_blank">名中医师赵中元：李大师开示天机 世人需警醒</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230125/1840260.md" target="_blank">时事大家谈：美国两大高官准备罕见访华，美中关系涌现微妙变化？</a></li>
 <li><a href="/comments/20230124/1840259.md" target="_blank">时事大家谈：春晚几乎不提习近平，中宣部知道今年要低调？</a></li>
 <li><a href="/comments/20230124/1840251.md" target="_blank">时事大家谈：春晚几乎不提习近平，中宣部知道今年要低调？美国两大高官准备罕见访华，美中关系涌现微妙变化？</a></li>
-<li><a href="/comments/20230124/1840224.md" target="_blank">【财经拆局】香港朋友圈？ 新管治模式令香港难再与世界接轨</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 <li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
 
 </ul>
 </div>
