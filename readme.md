@@ -11,21 +11,21 @@
 <li><a href="/comments/20230125/1840435.md">重量级情报曝光：习近平亲自授意…</a></li>
 <li><a href="/baitai/20230125/1840363.md">军队现两大危机 分析：中共当局高度紧张</a></li>
 <li><a href="/baitai/20230125/1840400.md">被贬至边缘职务 赵立坚今年这样过年</a></li>
-<li><a href="/comments/20230125/1840470.md">【独家重磅】李燕铭：胡锦涛正部级大管家陈世矩被免职 王沪宁旧部被调离中央办公厅 习近平清洗江胡势力加强掌控中南海核心机构 丁薛祥中办主任接替人选扑朔迷离或三选一 习近平有可能增选政治局委员 两会大战（四） 二十大高层人事大战（八二） 中共二十大团派团灭内幕（十九）</a></li>
 <li><a href="/sohnews/20230125/1840524.md">🔥习近平恐遭亲信反叛？忍痛割爱临时换人；山东女主播在副市长床上逝；热搜1.5亿，江西抚州全员-核-酸-检测通告震惊全国；赵立坚“发配边疆”后首露面 网友留言嘲讽</a></li>
+<li><a href="/comments/20230125/1840470.md">【独家重磅】李燕铭：胡锦涛正部级大管家陈世矩被免职 王沪宁旧部被调离中央办公厅 习近平清洗江胡势力加强掌控中南海核心机构 丁薛祥中办主任接替人选扑朔迷离或三选一 习近平有可能增选政治局委员 两会大战（四） 二十大高层人事大战（八二） 中共二十大团派团灭内幕（十九）</a></li>
 <li><a href="/baitai/20230125/1840298.md">丧事喜办惹众怒！「春晚」丑闻不断 这副吐槽对联亮了</a></li>
 <li><a href="/sohnews/20230125/1840427.md">文睿：天啊，雷军这是真反了，胆子太大了，我看了好几遍</a></li>
 <li><a href="/topimagenews/20230125/1840334.md">这地儿突发通报要求全员核酸 被骂翻后匆忙删除</a></li>
-<li><a href="/lifebaike/20230125/1840492.md">牛肉是“结节催化剂”？提醒：不想结节恶化， 尽量少吃4种食物</a></li>
-<li><a href="/ssgc/20230125/1840333.md">〖兲朝浮世绘〗泰国查办腐败这速度值得中共学习</a></li>
 <li><a href="/sohnews/20230125/1840528.md">历史总是惊人的相似，习近平和明朝最后一个皇帝崇祯在人生历程、从政经历、性格特征上至少有7点很相似，那么最终结局会怎样呢？请看【李军访谈20230125第121期】</a></li>
+<li><a href="/ssgc/20230125/1840333.md">〖兲朝浮世绘〗泰国查办腐败这速度值得中共学习</a></li>
+<li><a href="/lifebaike/20230125/1840492.md">牛肉是“结节催化剂”？提醒：不想结节恶化， 尽量少吃4种食物</a></li>
 <li><a href="/topimagenews/20230125/1840366.md">太惊人！到底要加多少个0？英医学分析:这波累计死亡70万？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230125/1840541.md">中国公司又弄坏别人飞机，这次得赔多少钱；北京没想到 一带一路梦想竟在这里夭折；</a></li>
 <li><a href="/ssgc/20230125/1840418.md">〖微博谈〗幻觉支撑我们活下去</a></li>
 <li><a href="/topimagenews/20230125/1840290.md">从未摸过枪 美国26岁华人程序员勇猛朴向枪手</a></li>
-<li><a href="/lifebaike/20230125/1840300.md">600年北京故宫屋顶没鸟粪、杂草 这设计太绝</a></li>
-<li><a href="/topimagenews/20230125/1840362.md">中国面临前所未有的威胁 其影响将波及全球</a></li>
 <li><a href="/comments/20230125/1840465.md">精日歌曲与春晚小品《坑》习近平，55岁导演猝卒，中纪委急了！美国国会突然出击，外交部咋画线？</a></li>
-<li><a href="/topimagenews/20230125/1840541.md">中国公司又弄坏别人飞机，这次得赔多少钱；北京没想到 一带一路梦想竟在这里夭折；</a></li>
+<li><a href="/topimagenews/20230125/1840362.md">中国面临前所未有的威胁 其影响将波及全球</a></li>
+<li><a href="/lifebaike/20230125/1840300.md">600年北京故宫屋顶没鸟粪、杂草 这设计太绝</a></li>
 <li><a href="/yule/20230125/1840446.md">76岁秦汉露面拜年，穿西装年轻似小伙，与林青霞分手后对年轻异性曾心动</a></li>
 <li><a href="/baitai/20230125/1840327.md">国安部官员传中招 学者：中共处于崩溃边缘</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230126/1840629.md" target="_blank">时事大家谈：疫情远未结束 2023年要密切关注的趋势？</a></li>
+<li><a href="/comments/20230126/1840628.md" target="_blank">时事大家谈：网信办严查春节“涉疫谣言” 防疫靠“堵嘴”？疫情远未结束 2023年要密切关注的趋势？</a></li>
 <li><a href="/comments/20230125/1840574.md" target="_blank">【梁京评论】虎兔相逢大梦归</a></li>
 <li><a href="/comments/20230125/1840573.md" target="_blank">春晚小品台词“谁还没上过初中？” 疑似讽刺习近平</a></li>
 <li><a href="/comments/20230125/1840572.md" target="_blank">欧盟再度警告：推特不处理好言论问题 将面封罚款</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230125/1840386.md" target="_blank">世界之敌的敌人:盘点2022年百大&#8221;辱华&#8221;分子</a></li>
 <li><a href="/comments/20230125/1840367.md" target="_blank">路LRH:春晚可以称得上是恶意满满</a></li>
 <li><a href="/comments/20230125/1840360.md" target="_blank">李燕铭：31省份半个月完成人事换届 新一届省级人大常委会主任、省长副省长、高级法院院长、监察委员会主任名单大盘点 独有一省监察委员会主任难产 二十大高层人事大战（八一） 两会大战（三）</a></li>
-<li><a href="/comments/20230125/1840353.md" target="_blank">颜纯钩:没有“大重置”：习近平不是认输，只是装孙子</a></li>
-<li><a href="/comments/20230125/1840348.md" target="_blank">新年，谁“欢欢喜喜”？谁能“欢欢喜喜”？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
 <li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
 
 </ul>
 </div>
