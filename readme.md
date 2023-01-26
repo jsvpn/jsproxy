@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230125/1840524.md">🔥习近平恐遭亲信反叛？忍痛割爱临时换人；山东女主播在副市长床上逝；热搜1.5亿，江西抚州全员-核-酸-检测通告震惊全国；赵立坚“发配边疆”后首露面 网友留言嘲讽</a></li>
 <li><a href="/sohnews/20230125/1840528.md">历史总是惊人的相似，习近平和明朝最后一个皇帝崇祯在人生历程、从政经历、性格特征上至少有7点很相似，那么最终结局会怎样呢？请看【李军访谈20230125第121期】</a></li>
 <li><a href="/topimagenews/20230125/1840541.md">中国公司又弄坏别人飞机，这次得赔多少钱；北京没想到 一带一路梦想竟在这里夭折；</a></li>
 <li><a href="/sohnews/20230125/1840546.md">陈破空：赵立坚过年甚凄凉！知情人爆料：他恨死一个人。疫情惨重，习近平教大家这样对待父母。当代中国人不可能！直播与互动。美东1月25日早8点30、即中港台1月25日晚9点30</a></li>
@@ -13,11 +12,9 @@
 <li><a href="/baitai/20230125/1840554.md">内部消息曝疫情真相 分析：中共从未这么危险</a></li>
 <li><a href="/cbnews/20230126/1840785.md">天亮时分：国家副主席突然换人；两位最年轻副省长，靠敲打王岐山上位？是否会步孙力军后尘？各国大举援助乌克兰（政论天下第917集 20230125）</a></li>
 <li><a href="/lifebaike/20230126/1840703.md">杜月笙晚年周恩来曾邀请他回内地，不料他看到一张照片后拒绝了</a></li>
-<li><a href="/lifebaike/20230125/1840516.md">“破五3不破，财神不进门”，明日正月初五，“三不破”具体指啥？</a></li>
 <li><a href="/sohnews/20230125/1840534.md">政治分水岭 2023中国即将到来的危机? 习近平野心下一步 ”两岸一家亲”?2023.01.25</a></li>
 <li><a href="/cbnews/20230125/1840567.md">疫情已传遍中国大多地区 第二波恐更致命</a></li>
 <li><a href="/sohnews/20230126/1840720.md">“反习派！朱镕基突然露面⋯⋯”《石涛聚焦》01（25/01/23）持续中 ⋯⋯ 赵尔康大年三十没了 首席重症专家钟鸣：命呀！躲避整3年 🐑了⋯</a></li>
-<li><a href="/worldnews/20230125/1840515.md">遭遇强寒流 全日空航班失控旋转90度 撞上…</a></li>
 <li><a href="/topimagenews/20230126/1840776.md">视频疯传！北京大妈质问官员: 我们过的什么日子</a></li>
 <li><a href="/baitai/20230126/1840695.md">「大内总管」后继无人？掌握「生死大权」 习近平颇费踌躇</a></li>
 <li><a href="/topimagenews/20230126/1840812.md">中共官方数据透秘密：中国这波已逝至少4050万【阿波罗网报道】</a></li>
@@ -27,7 +24,10 @@
 <li><a href="/comments/20230126/1840717.md">文昭：大戏即将开演，习近平或将被最信任的人背叛！平壤二度封城，对中国大不祥</a></li>
 <li><a href="/funmedia/20230126/1840777.md">西伯利亚12只金雕突袭狼群，现场死伤惨重！金雕真的是狼的天敌？</a></li>
 <li><a href="/cnnews/20230126/1840694.md">调查局特藏室文件曝光，揭习近平父亲名字真相</a></li>
+<li><a href="/sohnews/20230126/1840828.md">中国将有剧变，习近平遭遇大劫；回归正常人间还是走向极权地狱，今年会见分晓（一平论政2023/1/25）</a></li>
 <li><a href="/headline/20230126/1840687.md">白宫：美国将向中国传达帮助俄罗斯的后果</a></li>
+<li><a href="/comments/20230125/1840573.md">春晚小品台词“谁还没上过初中？” 疑似讽刺习近平</a></li>
+<li><a href="/lifebaike/20230126/1840702.md">中共惨绝人寰的张家口崇礼大屠杀</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230126/1840917.md" target="_blank">美中关系有多差？一场全球盛会暴雷了：顶级厂商全阵亡</a></li>
 <li><a href="/topimagenews/20230126/1840870.md" target="_blank">过年假期遇寒流 大陆多景区游客上演“人在囧途”</a></li>
 <li><a href="/topimagenews/20230126/1840860.md" target="_blank">“俄罗斯必败”！美德军援战车 泽连斯基还要长程导弹与战机…</a></li>
 <li><a href="/topimagenews/20230126/1840843.md" target="_blank">大陆热搜！狼师玩弄女学生3年情色对话“小动物好激动”遭撤职</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230123/1839792.md" target="_blank">中国这么多人不回家过年，什么情况？习近平“示好”难取信 商界大亨纷纷“隐退”；</a></li>
 <li><a href="/topimagenews/20230123/1839768.md" target="_blank">洛杉矶枪案男老板中枪身亡，凶嫌动机被曝光</a></li>
 <li><a href="/topimagenews/20230123/1839761.md" target="_blank">冻结俄3000亿美元资产！西方拿来做1件事 俄罗斯炸锅</a></li>
-<li><a href="/topimagenews/20230123/1839720.md" target="_blank">贵州人民彪悍 他们将中共警匪及帮凶推进一个大坑 意欲活埋【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 <li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
 
 </ul>
 </div>
