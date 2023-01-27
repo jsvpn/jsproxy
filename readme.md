@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/baitai/20230127/1841100.md">大换血！李克强旧部一个不留 中南海暗流涌动危险时刻爆发</a></li>
 <li><a href="/sohnews/20230127/1841129.md">🔥快跑吧！能看懂这句话的民企老板，将不寒而栗；习近平中央能发动魅力攻势吗？会成功吗？过年假期遇寒流，大陆多景区游客上演“人在囧途”【阿波罗网AS】</a></li>
 <li><a href="/yule/20230127/1841125.md">被称“中国第一美女”，拒绝30亿豪门，嫁真爱</a></li>
 <li><a href="/sohnews/20230127/1841156.md">🔥曾庆红突大拍习近平马屁，老干部听了怒火万丈；中共新诱惑，为习近平政治优先？旅美学者：萨*斯期间整个村子凭空消失</a></li>
@@ -15,8 +14,8 @@
 <li><a href="/ssgc/20230127/1841240.md">〖兲朝浮世绘〗吴小平让大家囤货 是要打仗了还是又要封控了？</a></li>
 <li><a href="/topimagenews/20230127/1841260.md">还没玩够？中共党报高调吹捧第一统战对象！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230127/1841133.md">陈破空：快讯：美国制裁中国公司！起因栗战书泄密。中国人大举移民，1500亿美元外流。中国粮荒将至？政府忽然鼓励米糠。美东1月26日晚8点、即中港台1月27日早9点</a></li>
-<li><a href="/sohnews/20230127/1841258.md">团派全被“缴械”！新国务院大换血；“四派系五集团”争权，赵紫阳秘书指彭丽媛也有派系；中共卫健委力挺草民“吃糠”；路透揭中共对医院火葬场下口头密令；江苏知情人爆料：户籍大量注销 ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230127/1841333.md">天天加班到深夜！长江存储大裁员 员工崩溃：还要我赔钱</a></li>
+<li><a href="/sohnews/20230127/1841258.md">团派全被“缴械”！新国务院大换血；“四派系五集团”争权，赵紫阳秘书指彭丽媛也有派系；中共卫健委力挺草民“吃糠”；路透揭中共对医院火葬场下口头密令；江苏知情人爆料：户籍大量注销 ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20230127/1841311.md">被怀疑是否活着？普丁突现身这里 脚下成全球大爆点</a></li>
 <li><a href="/lifebaike/20230127/1841187.md">鼻毛总窜出来的男人，暗示了啥？为什么鼻毛会变白？涨知识了</a></li>
 <li><a href="/comments/20230127/1841202.md">习近平最好谨慎：F-15EX将在他犯蠢时出手</a></li>
@@ -26,6 +25,7 @@
 <li><a href="/ssgc/20230127/1841360.md">中共正走向最后的自我毁灭</a></li>
 <li><a href="/sohnews/20230127/1841261.md">赊刀人新说！一辆白米二两金，一袋粮食五栋楼……#shorts</a></li>
 <li><a href="/cbnews/20230127/1841211.md">天亮时分：麻烦了！美国逮住中共援助俄罗斯的黑手；辉瑞高管透露阴谋，被揭穿后崩溃；李克强班底，70%被清洗（政论天下第918集 20230126）</a></li>
+<li><a href="/headline/20230127/1841330.md">【一带一路】中国外交部证实中国进出口银行 让斯里兰卡延期偿还债务</a></li>
 <li><a href="/sohnews/20230127/1841247.md">习近平跟白纸运动妥协？韩正留任？韩习关系秘闻；官员躺平，上下离心，中共政权正在分崩离析。｜薇羽看世间 第596期 20230126</a></li>
 <li><a href="/lifebaike/20230127/1841314.md">家里有阳台的，可以种一棵果树，果实大吃不完，易养活好打理</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230128/1841514.md" target="_blank">杨宁：为中共涂脂抹粉的中国作协 成员三年逾百人亡</a></li>
+<li><a href="/comments/20230128/1841513.md" target="_blank">董琪：大疫之下 三退义工勇传救命法宝</a></li>
+<li><a href="/comments/20230128/1841512.md" target="_blank">传染病专家：中共两大官方新冠数据矛盾</a></li>
 <li><a href="/comments/20230128/1841507.md" target="_blank">三位医生笔下的2022年末中国</a></li>
 <li><a href="/comments/20230128/1841506.md" target="_blank">何莲清亲历和知道的邵阳大屠杀</a></li>
 <li><a href="/comments/20230128/1841505.md" target="_blank">理悟：进化论是谬论——读《为什么会有人类》可醒迷</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230127/1841024.md" target="_blank">时事大家谈：中共“负治理” 人民只能“躺平”吗？&#160;</a></li>
 <li><a href="/comments/20230126/1840986.md" target="_blank">时事大家谈：美中逐鹿非洲 谁擅胜场？&#160;中共“负治理” 人民只能“躺平”吗？&#160;</a></li>
 <li><a href="/comments/20230126/1840983.md" target="_blank">评论 | 魏京生：人口论的局限</a></li>
-<li><a href="/comments/20230126/1840952.md" target="_blank">【未普评论】习近平面临重大信任危机</a></li>
-<li><a href="/comments/20230126/1840941.md" target="_blank">楼新跃：从来没人像李大师这样把宇宙讲清楚</a></li>
-<li><a href="/comments/20230126/1840859.md" target="_blank">美国连出招，川建国加入？烟花革命大胜，党黄鼠狼给鸡拜年露马脚！习近平保党溃败？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
