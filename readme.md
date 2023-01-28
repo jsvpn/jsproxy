@@ -9,11 +9,10 @@
 <li><a href="/health/20230127/1841301.md">家有蓝色一次性口罩的注意，再忙也要知道</a></li>
 <li><a href="/ssgc/20230127/1841240.md">〖兲朝浮世绘〗吴小平让大家囤货 是要打仗了还是又要封控了？</a></li>
 <li><a href="/topimagenews/20230127/1841260.md">还没玩够？中共党报高调吹捧第一统战对象！【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230127/1841258.md">团派全被“缴械”！新国务院大换血；“四派系五集团”争权，赵紫阳秘书指彭丽媛也有派系；中共卫健委力挺草民“吃糠”；路透揭中共对医院火葬场下口头密令；江苏知情人爆料：户籍大量注销 ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230127/1841333.md">天天加班到深夜！长江存储大裁员 员工崩溃：还要我赔钱</a></li>
+<li><a href="/sohnews/20230127/1841258.md">团派全被“缴械”！新国务院大换血；“四派系五集团”争权，赵紫阳秘书指彭丽媛也有派系；中共卫健委力挺草民“吃糠”；路透揭中共对医院火葬场下口头密令；江苏知情人爆料：户籍大量注销 ｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20230128/1841492.md">卫健委发文吓倒一片 中国人惊呼细思极恐</a></li>
 <li><a href="/cnnews/20230127/1841311.md">被怀疑是否活着？普丁突现身这里 脚下成全球大爆点</a></li>
-<li><a href="/comments/20230127/1841202.md">习近平最好谨慎：F-15EX将在他犯蠢时出手</a></li>
 <li><a href="/topimagenews/20230127/1841220.md">中共再现不祥征兆！习近平讲话释信号【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230127/1841360.md">中共正走向最后的自我毁灭</a></li>
 <li><a href="/health/20230127/1841308.md">这“2个”时间喝水，等于喝“救命水”！现在知道还不晚</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/headline/20230127/1841330.md">【一带一路】中国外交部证实中国进出口银行 让斯里兰卡延期偿还债务</a></li>
 <li><a href="/headline/20230127/1841350.md">斐济终止对华合作要求中国公安离开 当地警察总长下马被查</a></li>
 <li><a href="/sohnews/20230127/1841247.md">习近平跟白纸运动妥协？韩正留任？韩习关系秘闻；官员躺平，上下离心，中共政权正在分崩离析。｜薇羽看世间 第596期 20230126</a></li>
-<li><a href="/funmedia/20230127/1841199.md">一个人的鞋，暴露了他的人生层次</a></li>
 <li><a href="/lifebaike/20230127/1841314.md">家里有阳台的，可以种一棵果树，果实大吃不完，易养活好打理</a></li>
-<li><a href="/sohnews/20230127/1841219.md">“反习派！朱镕基突然露面⋯⋯”持续中 ⋯⋯ 赵尔康大年三十没了 首席重症专家钟鸣：命呀！躲避整3年 🐑了⋯</a></li>
 <li><a href="/sohnews/20230127/1841373.md">🔥中共遇到大麻烦了！官媒吐露真情！被怀疑是否活着？普京突然现身这里 脚下成全球大爆点；大流行病迭加危机 中共政局像明朝末年；芯片抗战中 英国传研拟补贴政策 强化竞争力【阿波罗网AM】</a></li>
+<li><a href="/sohnews/20230127/1841219.md">“反习派！朱镕基突然露面⋯⋯”持续中 ⋯⋯ 赵尔康大年三十没了 首席重症专家钟鸣：命呀！躲避整3年 🐑了⋯</a></li>
 <li><a href="/comments/20230127/1841248.md">金正恩密会美国、骂中共全是骗子！北京成都民众现身说法：中共说一套做一套忽悠我们</a></li>
 <li><a href="/baitai/20230128/1841459.md">流浪猫每天都来鱼摊偷鱼 每次都捡最小的 老板也假装看不到</a></li>
+<li><a href="/comments/20230128/1841493.md">汤灿认栽！当个普通人挺好</a></li>
+<li><a href="/comments/20230127/1841225.md">【微博精粹】这么一想 好日子要来了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230128/1841583.md" target="_blank">汪有:海都没了，大家不得已只能上岸</a></li>
 <li><a href="/comments/20230128/1841569.md" target="_blank">蔡全嘻嘻:湖南过年的回乡见闻</a></li>
 <li><a href="/comments/20230128/1841538.md" target="_blank">文昭：金正恩大骂中共，曝光出人意料的真相！春节期间的种种「无缓冲」背後是什麽？</a></li>
 <li><a href="/comments/20230128/1841529.md" target="_blank">【方菲时间】周五预告：流浪地球背后的“黑暗森林”；在干净世界收看完整版</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230127/1841185.md" target="_blank">回乡见闻 62件闹心事</a></li>
 <li><a href="/comments/20230127/1841161.md" target="_blank">杭州金融女民工：钱是检验人性的最佳工具 借钱千万条 借条第一条</a></li>
 <li><a href="/comments/20230127/1841095.md" target="_blank">碾压王岐山，两副省长搭上窜天猴，升</a></li>
-<li><a href="/comments/20230127/1841025.md" target="_blank">时事大家谈：美中逐鹿非洲 谁擅胜场？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
 <li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
 
 </ul>
 </div>
