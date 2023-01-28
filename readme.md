@@ -9,25 +9,25 @@
 <li><a href="/comments/20230128/1841493.md">汤灿认栽！当个普通人挺好</a></li>
 <li><a href="/cbnews/20230128/1841568.md">天亮时分：放弃一国两制！习近平走投无路，让王沪宁负责台湾问题；独家曝光内幕，美援乌坦克决策是如何做出的；不可持续的美债如何影响我们的荷包（政论天下第919集 20230127）</a></li>
 <li><a href="/cnnews/20230128/1841611.md">胡鑫宇遇害案情最新细节令人毛骨悚然</a></li>
-<li><a href="/sohnews/20230128/1841520.md">陈破空：习李结下多大的仇？国务院全换人，一个不剩。马云支持白纸革命！中国农村疫情惨重，到处都是新坟，棺材板脱销。直播与互动。美东1月27日晚8点、即中港台1月28日早9点</a></li>
 <li><a href="/cbnews/20230128/1841651.md">公安部异动！传上海公安局局长舒庆进京…</a></li>
+<li><a href="/sohnews/20230128/1841520.md">陈破空：习李结下多大的仇？国务院全换人，一个不剩。马云支持白纸革命！中国农村疫情惨重，到处都是新坟，棺材板脱销。直播与互动。美东1月27日晚8点、即中港台1月28日早9点</a></li>
 <li><a href="/sohnews/20230128/1841519.md">王沪宁负责制定取代“一国两制”的对台战略，山东省政府新班子没了简历，美国家档案馆要求前六名总统自查机密文件，川普俄乌战争言论惹争议｜横河观点 2023.01.27</a></li>
 <li><a href="/baitai/20230128/1841525.md">中共宣布重新开放 外媒：带来巨大问题</a></li>
 <li><a href="/sohnews/20230128/1841635.md">王小洪肝癌晚期？平壤封城！CNN深入贵州调查疫情，遭维稳；国航班机遇险，乘客惊恐留遗言；王沪宁留下为台湾？ #干净周五 本期请移步至干净世界的“新闻拍案惊奇 大宇”频道观看全集</a></li>
 <li><a href="/comments/20230128/1841538.md">文昭：金正恩大骂中共，曝光出人意料的真相！春节期间的种种「无缓冲」背後是什麽？</a></li>
 <li><a href="/yule/20230128/1841700.md">我十分后悔让爸妈去看满江红</a></li>
-<li><a href="/ssgc/20230128/1841466.md">对台事务人事变动 王沪宁将制定"一国两制"替代方案</a></li>
 <li><a href="/topimagenews/20230128/1841637.md">美国摧毁“大陆之光”！爆供货华为下场：第2座厂遭断手脚</a></li>
-<li><a href="/comments/20230128/1841468.md">习近平大凶之兆！为中共殉葬预言将成真？中国新年五大异象预兆中国变天！正月初二至十五“四星连珠”预示兵丧并起 正月初三烟台下雪打雷预示坟谷堆 正月初四辽宁“三日并出天子黜” 正月初五四川新疆地震震前出现绿太阳 正月初一漠河零下53℃破历史极值 习近平政治老巢天降陨石后再落羽毛雪 中共末日174惊人异象密集爆发（持续更新）</a></li>
+<li><a href="/topimagenews/20230128/1841656.md">制裁大陆芯片惨案爆不停！美日荷3国开枪后 欧盟也狠捅1刀</a></li>
 <li><a href="/comments/20230128/1841677.md">被删微信热文：为民营经济正名，要不惜脏了自己</a></li>
 <li><a href="/cbnews/20230128/1841644.md">江峰：粮荒已经发生，请看这些证据；中国猪食、日本米糠肉和美国的全麦面为何不具备可比性；米糠回归人类，究竟是哪个人大代表的提案？【江峰漫谈20230127第620期】</a></li>
-<li><a href="/topimagenews/20230128/1841656.md">制裁大陆芯片惨案爆不停！美日荷3国开枪后 欧盟也狠捅1刀</a></li>
 <li><a href="/ssgc/20230128/1841632.md">〖兲朝浮世绘〗王国师担统战台湾头子了</a></li>
 <li><a href="/yule/20230128/1841587.md">曾让多少人羡慕！39岁佟丽娅祝福视频 网友发现她似乎有些不一样</a></li>
 <li><a href="/cbnews/20230128/1841664.md">预测美中2年内开战！美空军机动司令备忘录曝光</a></li>
 <li><a href="/comments/20230128/1841719.md">【新闻拍案惊奇】王小洪肝癌晚期？平壤封城</a></li>
 <li><a href="/ssgc/20230128/1841546.md">〖微博谈〗仿佛它从来就不存在</a></li>
 <li><a href="/sohnews/20230128/1841531.md">张艺谋新片满江红：穿古装加长版装B主旋律小品！王沪宁授命拿出新理论统战台湾！豹2坦克实力碾压俄国，乌克兰准备一决雌雄！卫健委将开展米糠营养研究：准备吃糠咽菜吧！【新闻最嘲点 姜光宇】2023.0127</a></li>
+<li><a href="/cnnews/20230128/1841659.md">2023还有大热闹！上海帮：每个人行动起来...【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230128/1841485.md">大温一间学校集体患癌！卫生部门彻查</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230129/1841801.md" target="_blank">粮荒将至？百万粉丝金融大V 再呼囤货 中共促民众“吃糠” 网民：那是喂猪的</a></li>
 <li><a href="/comments/20230129/1841795.md" target="_blank">德媒看中国：中共的繁荣盛世已成过去</a></li>
 <li><a href="/comments/20230128/1841737.md" target="_blank">租养中国大猫熊超烧钱！芬兰养不起“想提前归还”</a></li>
 <li><a href="/comments/20230128/1841736.md" target="_blank">中俄友好！中国杭州“亚运” 俄国、白俄选手竟能参赛</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230128/1841505.md" target="_blank">理悟：进化论是谬论——读《为什么会有人类》可醒迷</a></li>
 <li><a href="/comments/20230128/1841493.md" target="_blank">汤灿认栽！当个普通人挺好</a></li>
 <li><a href="/comments/20230128/1841468.md" target="_blank">习近平大凶之兆！为中共殉葬预言将成真？中国新年五大异象预兆中国变天！正月初二至十五“四星连珠”预示兵丧并起 正月初三烟台下雪打雷预示坟谷堆 正月初四辽宁“三日并出天子黜” 正月初五四川新疆地震震前出现绿太阳 正月初一漠河零下53℃破历史极值 习近平政治老巢天降陨石后再落羽毛雪 中共末日174惊人异象密集爆发（持续更新）</a></li>
-<li><a href="/comments/20230128/1841437.md" target="_blank">时事大家谈：北京抓捕白纸抗议100余人，恐怖政治为何瞄准年轻人？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
 <li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 
 </ul>
 </div>
