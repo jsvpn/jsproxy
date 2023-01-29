@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20230128/1841719.md">【新闻拍案惊奇】王小洪肝癌晚期？平壤封城</a></li>
 <li><a href="/yule/20230129/1841800.md">张兰收到的全家福是这张？ 陆网疯传真相超傻眼</a></li>
 <li><a href="/baitai/20230129/1841824.md">中国现新症状 比白肺更严重 武汉人叹：新年宛如清明</a></li>
 <li><a href="/topimagenews/20230129/1841817.md">挺A4白纸！金像奖影后、中国知名女演员春夏疑被封杀</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/sohnews/20230129/1841904.md">🔥习近平统治大危机凸显，李克强用茶杯砸桌子；中国卫星公司长沙天仪被美国制裁，遭挖出强大背景；挺*白*纸*抗*议！中国首个90后金像奖影后春夏被封杀</a></li>
 <li><a href="/baitai/20230128/1841740.md">南京居民感叹：我们都是浩劫目击者</a></li>
 <li><a href="/comments/20230129/1841811.md">俄乌战争游戏开场了，谁才是真正的纸老虎？</a></li>
-<li><a href="/sohnews/20230128/1841722.md">2023年，中国房地产进入最终章：房"柱"不炒，为国接盘！房奴的最终结局是什么？｜政经孙老师</a></li>
 <li><a href="/cnnews/20230129/1841853.md">伊朗给了普京一个大耳光！失道寡助还是矛盾爆发？</a></li>
-<li><a href="/sohnews/20230128/1841727.md">🔥【财经】终止中共永久自由贸易地位 美4参议员提法案；中共宣布重新开放 外媒：带来巨大问题；中国兴起“1人食”；结束连13年涨势！香港房价大跌....2023中房企偿债年 首个美元债逾期【阿波罗网】</a></li>
 <li><a href="/cnnews/20230129/1841821.md">“地狱来的”！巨型怪鱼冲上海岸 令人毛骨悚然</a></li>
 <li><a href="/comments/20230129/1841795.md">德媒看中国：中共的繁荣盛世已成过去</a></li>
+<li><a href="/funmedia/20230129/1841951.md">疫情三年第一场同学会之后，我决定再也不参加同学聚会了</a></li>
 <li><a href="/sohnews/20230129/1841790.md">习近平势力的四大派系、五个集团 #习近平 #shorts #共产党 #新闻拍案惊奇 #大宇</a></li>
 <li><a href="/cnnews/20230129/1841796.md">从柜姐到美国第一灰姑娘，嫁入豪门三年后她死了</a></li>
-<li><a href="/funmedia/20230129/1841951.md">疫情三年第一场同学会之后，我决定再也不参加同学聚会了</a></li>
 <li><a href="/baitai/20230128/1841771.md">中国为何沦落如此悲惨境地？分析：被共产党玩完了</a></li>
+<li><a href="/cbnews/20230129/1841964.md">胡鑫宇发现时处于缢吊状态 现场发现录音笔</a></li>
+<li><a href="/cnnews/20230129/1841968.md">汪洋提前享退休生活？北京看剧 打扮引热议</a></li>
+<li><a href="/ssgc/20230129/1841856.md">〖微博谈〗他们的思想，配得上他们所受的苦难</a></li>
+<li><a href="/cnnews/20230129/1841874.md">俄乌激战之际，美军精锐部队发起斩首行动</a></li>
 <li><a href="/sohnews/20230128/1841742.md">陈破空：什么情况？赵立坚老婆突然清空微博！惊闻王小洪肝癌晚期，现世报？政治老人们暗喜</a></li>
 <li><a href="/topimagenews/20230129/1841863.md">横跨30亿光年的宇宙墙曝光，为何要“囚禁”我们</a></li>
-<li><a href="/cnnews/20230129/1841874.md">俄乌激战之际，美军精锐部队发起斩首行动</a></li>
-<li><a href="/cbnews/20230129/1841964.md">胡鑫宇发现时处于缢吊状态 现场发现录音笔</a></li>
-<li><a href="/ssgc/20230129/1841856.md">〖微博谈〗他们的思想，配得上他们所受的苦难</a></li>
+<li><a href="/topimagenews/20230129/1841882.md">热搜：赞比亚女子用中国奖学金去17个国家旅行</a></li>
+<li><a href="/sohnews/20230129/1841810.md">中共卫健委网站近日发表了一篇文章，引起了我的强烈关注：文章的标题是《积极支持开展米糠营养价值研究和有关标准修订》。</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230129/1842015.md" target="_blank">停发不到20天 中国宣布恢复核发日本人赴中签证</a></li>
 <li><a href="/comments/20230129/1842014.md" target="_blank">川普再战2024正式起跑！豪言“24小时内让俄乌谈和”</a></li>
 <li><a href="/comments/20230129/1841949.md" target="_blank">【独家重磅】李燕铭：彭丽媛山东新军四干将接管公安部 上海公安局长换人 舒庆进京任公安部常务副部长 与四名国级高官关系密切 第八常委彭丽媛（五） 两会大战（五） 二十大高层人事大战（八三） 习近平清洗江泽民老巢（二四） 习近平清洗刀把子（五七）</a></li>
 <li><a href="/comments/20230129/1841944.md" target="_blank">学者：反思无神论社会才能进步</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230129/1841801.md" target="_blank">粮荒将至？百万粉丝金融大V 再呼囤货 中共促民众“吃糠” 网民：那是喂猪的</a></li>
 <li><a href="/comments/20230129/1841795.md" target="_blank">德媒看中国：中共的繁荣盛世已成过去</a></li>
 <li><a href="/comments/20230128/1841737.md" target="_blank">租养中国大猫熊超烧钱！芬兰养不起“想提前归还”</a></li>
-<li><a href="/comments/20230128/1841736.md" target="_blank">中俄友好！中国杭州“亚运” 俄国、白俄选手竟能参赛</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
 <li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
 
 </ul>
 </div>
