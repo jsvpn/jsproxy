@@ -13,18 +13,18 @@
 <li><a href="/sohnews/20230207/1845376.md">“百度置顶头条：习近平承认了【赊刀人的预言】”No.01（06/02/23）“强国必先强农” 粮食麻烦啦⋯⋯</a></li>
 <li><a href="/topimagenews/20230207/1845511.md">揭秘 习近平打出这块遮羞布？届时中国将人头滚滚【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230207/1845497.md">【微博精粹】公仆太多 人民不够用了</a></li>
-<li><a href="/comments/20230207/1845391.md">文昭：盛传中国公务员部分要转合同工，最终谁买单？中美关系始於小球、终於气球、毁於混球</a></li>
 <li><a href="/sohnews/20230206/1845199.md">🔥中共宣布人事变动！这两人值得注意；对胡鑫宇案疑点 著名老蛮终于又出手了… 被封原文在此；突发：乌克兰国防部长遭撤换，由他接任【阿波罗网AW】</a></li>
+<li><a href="/comments/20230207/1845391.md">文昭：盛传中国公务员部分要转合同工，最终谁买单？中美关系始於小球、终於气球、毁於混球</a></li>
 <li><a href="/ssgc/20230206/1845200.md">〖微博谈〗毁于浑球</a></li>
 <li><a href="/topimagenews/20230207/1845481.md">胡鑫宇日记爆重要线索 15日要回家 14日怎么就自杀了？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230206/1845226.md">湖南49车追撞火烧车酿16死 肇事原因扯爆</a></li>
+<li><a href="/baitai/20230207/1845524.md">快讯：拜登对「汽球事件」明确表态 北京不好过了？</a></li>
 <li><a href="/headline/20230207/1845342.md">推特上的中国：连续让两个气球“失控”？中国外交部说辞引来批评和揶揄</a></li>
 <li><a href="/bblog/20230207/1845407.md">〖微视野〗假性亲密关系</a></li>
 <li><a href="/finance/20230207/1845259.md">最新iPhone罕见中国大降价 网惊“Pro价格也撑不住了”</a></li>
 <li><a href="/topimagenews/20230207/1845447.md">深挖气球门 中国气象局局长被免职 背后黑洞有多大【阿波罗网报道】</a></li>
-<li><a href="/baitai/20230206/1845192.md">气球风暴吓坏北京？学者分析一令人不安的疑问</a></li>
-<li><a href="/baitai/20230207/1845524.md">快讯：拜登对「汽球事件」明确表态 北京不好过了？</a></li>
 <li><a href="/ssgc/20230207/1845428.md">〖微博谈〗人在大自然面前真的很渺小</a></li>
+<li><a href="/baitai/20230206/1845192.md">气球风暴吓坏北京？学者分析一令人不安的疑问</a></li>
 <li><a href="/cbnews/20230207/1845506.md">江峰：被击落气球发现爆炸物，满载便是轰炸机！美国国防部称中共建立平流层舰队，廉价、安全、数量惊人，打击目标竟是驰援台海的美国航空母舰【江峰漫谈20230206第625期】</a></li>
 <li><a href="/baitai/20230207/1845344.md">一线医护曝疫情变化 令人担忧 学者：习近平遭遇最大危机</a></li>
 <li><a href="/cnnews/20230207/1845336.md">天有异象!加拿大多地出现通天光柱 像世界末日</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 <li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
 <li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
 
 </ul>
 </div>
