@@ -13,21 +13,21 @@
 <li><a href="/sohnews/20230207/1845376.md">“百度置顶头条：习近平承认了【赊刀人的预言】”No.01（06/02/23）“强国必先强农” 粮食麻烦啦⋯⋯</a></li>
 <li><a href="/topimagenews/20230207/1845511.md">揭秘 习近平打出这块遮羞布？届时中国将人头滚滚【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230207/1845497.md">【微博精粹】公仆太多 人民不够用了</a></li>
-<li><a href="/sohnews/20230206/1845199.md">🔥中共宣布人事变动！这两人值得注意；对胡鑫宇案疑点 著名老蛮终于又出手了… 被封原文在此；突发：乌克兰国防部长遭撤换，由他接任【阿波罗网AW】</a></li>
 <li><a href="/comments/20230207/1845391.md">文昭：盛传中国公务员部分要转合同工，最终谁买单？中美关系始於小球、终於气球、毁於混球</a></li>
-<li><a href="/ssgc/20230206/1845200.md">〖微博谈〗毁于浑球</a></li>
-<li><a href="/topimagenews/20230207/1845481.md">胡鑫宇日记爆重要线索 15日要回家 14日怎么就自杀了？【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230206/1845226.md">湖南49车追撞火烧车酿16死 肇事原因扯爆</a></li>
+<li><a href="/sohnews/20230206/1845199.md">🔥中共宣布人事变动！这两人值得注意；对胡鑫宇案疑点 著名老蛮终于又出手了… 被封原文在此；突发：乌克兰国防部长遭撤换，由他接任【阿波罗网AW】</a></li>
 <li><a href="/baitai/20230207/1845524.md">快讯：拜登对「汽球事件」明确表态 北京不好过了？</a></li>
+<li><a href="/ssgc/20230206/1845200.md">〖微博谈〗毁于浑球</a></li>
+<li><a href="/cbnews/20230206/1845226.md">湖南49车追撞火烧车酿16死 肇事原因扯爆</a></li>
+<li><a href="/topimagenews/20230207/1845481.md">胡鑫宇日记爆重要线索 15日要回家 14日怎么就自杀了？【阿波罗网报道】</a></li>
 <li><a href="/headline/20230207/1845342.md">推特上的中国：连续让两个气球“失控”？中国外交部说辞引来批评和揶揄</a></li>
+<li><a href="/topimagenews/20230207/1845447.md">深挖气球门 中国气象局局长被免职 背后黑洞有多大【阿波罗网报道】</a></li>
 <li><a href="/bblog/20230207/1845407.md">〖微视野〗假性亲密关系</a></li>
 <li><a href="/finance/20230207/1845259.md">最新iPhone罕见中国大降价 网惊“Pro价格也撑不住了”</a></li>
-<li><a href="/topimagenews/20230207/1845447.md">深挖气球门 中国气象局局长被免职 背后黑洞有多大【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230207/1845506.md">江峰：被击落气球发现爆炸物，满载便是轰炸机！美国国防部称中共建立平流层舰队，廉价、安全、数量惊人，打击目标竟是驰援台海的美国航空母舰【江峰漫谈20230206第625期】</a></li>
 <li><a href="/ssgc/20230207/1845428.md">〖微博谈〗人在大自然面前真的很渺小</a></li>
 <li><a href="/baitai/20230206/1845192.md">气球风暴吓坏北京？学者分析一令人不安的疑问</a></li>
-<li><a href="/cbnews/20230207/1845506.md">江峰：被击落气球发现爆炸物，满载便是轰炸机！美国国防部称中共建立平流层舰队，廉价、安全、数量惊人，打击目标竟是驰援台海的美国航空母舰【江峰漫谈20230206第625期】</a></li>
+<li><a href="/topimagenews/20230207/1845539.md">小米手机内置删不掉的中共监控 首席开发者呛 : 害怕中共偏执狂不要买</a></li>
 <li><a href="/baitai/20230207/1845344.md">一线医护曝疫情变化 令人担忧 学者：习近平遭遇最大危机</a></li>
-<li><a href="/cnnews/20230207/1845336.md">天有异象!加拿大多地出现通天光柱 像世界末日</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230207/1845653.md" target="_blank">强震前异象！ 土耳其“大量鸟群乱飞” 似预知灾害将至</a></li>
 <li><a href="/comments/20230207/1845630.md" target="_blank">土耳其强震逾5000死 女排队14人遭活埋、1前英超球星失联</a></li>
 <li><a href="/comments/20230207/1845559.md" target="_blank">习近平如何收场？本想出一口恶气 却等来一只黑天鹅</a></li>
 <li><a href="/comments/20230207/1845534.md" target="_blank">谁想让“华人世界”步“俄罗斯世界”后尘</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230206/1845007.md" target="_blank">何清涟：中国间谍气球与“拜登的卫星时刻”</a></li>
 <li><a href="/comments/20230206/1845006.md" target="_blank">小民之心：美击落中共气球 打脸习近平</a></li>
 <li><a href="/comments/20230206/1845005.md" target="_blank">李濠仲：其他国家会从“蔡英文、帕维尔通话”看到什么</a></li>
-<li><a href="/comments/20230206/1844982.md" target="_blank">【首发】李德君：习近平，你的共产党何时还我清白？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 
 </ul>
 </div>
