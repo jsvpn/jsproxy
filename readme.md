@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/baitai/20230206/1845184.md">习近平事前对气球事件毫不知情？CNN：恐酿21世纪最大危机</a></li>
 <li><a href="/topimagenews/20230207/1845319.md">WSJ：习近平中央周末释出信号，希望气球事件赶紧翻篇</a></li>
 <li><a href="/topimagenews/20230206/1845224.md">中共间谍气球被击落！美军捞到“残骸”了 最新画面曝光</a></li>
-<li><a href="/topimagenews/20230206/1845225.md">土耳其强震“天空现诡异白光”：40秒变世界末日</a></li>
 <li><a href="/baitai/20230207/1845355.md">气球事件扰动中南海 习近平遭「暗算」？谁的人马在行动？</a></li>
+<li><a href="/topimagenews/20230206/1845225.md">土耳其强震“天空现诡异白光”：40秒变世界末日</a></li>
 <li><a href="/sohnews/20230207/1845376.md">“百度置顶头条：习近平承认了【赊刀人的预言】”No.01（06/02/23）“强国必先强农” 粮食麻烦啦⋯⋯</a></li>
 <li><a href="/topimagenews/20230207/1845511.md">揭秘 习近平打出这块遮羞布？届时中国将人头滚滚【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230207/1845497.md">【微博精粹】公仆太多 人民不够用了</a></li>
 <li><a href="/comments/20230207/1845391.md">文昭：盛传中国公务员部分要转合同工，最终谁买单？中美关系始於小球、终於气球、毁於混球</a></li>
+<li><a href="/topimagenews/20230207/1845497.md">【微博精粹】公仆太多 人民不够用了</a></li>
 <li><a href="/sohnews/20230206/1845199.md">🔥中共宣布人事变动！这两人值得注意；对胡鑫宇案疑点 著名老蛮终于又出手了… 被封原文在此；突发：乌克兰国防部长遭撤换，由他接任【阿波罗网AW】</a></li>
 <li><a href="/baitai/20230207/1845524.md">快讯：拜登对「汽球事件」明确表态 北京不好过了？</a></li>
 <li><a href="/ssgc/20230206/1845200.md">〖微博谈〗毁于浑球</a></li>
 <li><a href="/cbnews/20230206/1845226.md">湖南49车追撞火烧车酿16死 肇事原因扯爆</a></li>
 <li><a href="/topimagenews/20230207/1845481.md">胡鑫宇日记爆重要线索 15日要回家 14日怎么就自杀了？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230207/1845539.md">小米手机内置删不掉的中共监控 首席开发者呛 : 害怕中共偏执狂不要买</a></li>
 <li><a href="/headline/20230207/1845342.md">推特上的中国：连续让两个气球“失控”？中国外交部说辞引来批评和揶揄</a></li>
 <li><a href="/topimagenews/20230207/1845447.md">深挖气球门 中国气象局局长被免职 背后黑洞有多大【阿波罗网报道】</a></li>
 <li><a href="/bblog/20230207/1845407.md">〖微视野〗假性亲密关系</a></li>
 <li><a href="/finance/20230207/1845259.md">最新iPhone罕见中国大降价 网惊“Pro价格也撑不住了”</a></li>
 <li><a href="/cbnews/20230207/1845506.md">江峰：被击落气球发现爆炸物，满载便是轰炸机！美国国防部称中共建立平流层舰队，廉价、安全、数量惊人，打击目标竟是驰援台海的美国航空母舰【江峰漫谈20230206第625期】</a></li>
 <li><a href="/ssgc/20230207/1845428.md">〖微博谈〗人在大自然面前真的很渺小</a></li>
-<li><a href="/baitai/20230206/1845192.md">气球风暴吓坏北京？学者分析一令人不安的疑问</a></li>
-<li><a href="/topimagenews/20230207/1845539.md">小米手机内置删不掉的中共监控 首席开发者呛 : 害怕中共偏执狂不要买</a></li>
 <li><a href="/baitai/20230207/1845344.md">一线医护曝疫情变化 令人担忧 学者：习近平遭遇最大危机</a></li>
+<li><a href="/health/20230207/1845469.md">人老了，不在于运动，不在于喝水，过了55岁，请牢记4项长寿准则</a></li>
+<li><a href="/cnnews/20230207/1845336.md">天有异象!加拿大多地出现通天光柱 像世界末日</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230207/1845654.md" target="_blank">7.8强震重创土耳其与叙利亚 两国合计至少4372死（不断更新）</a></li>
 <li><a href="/comments/20230207/1845653.md" target="_blank">强震前异象！ 土耳其“大量鸟群乱飞” 似预知灾害将至</a></li>
 <li><a href="/comments/20230207/1845630.md" target="_blank">土耳其强震逾5000死 女排队14人遭活埋、1前英超球星失联</a></li>
 <li><a href="/comments/20230207/1845559.md" target="_blank">习近平如何收场？本想出一口恶气 却等来一只黑天鹅</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230206/1845017.md" target="_blank">李濠仲：今天就是在为当年联合国错估中俄双共付代价</a></li>
 <li><a href="/comments/20230206/1845007.md" target="_blank">何清涟：中国间谍气球与“拜登的卫星时刻”</a></li>
 <li><a href="/comments/20230206/1845006.md" target="_blank">小民之心：美击落中共气球 打脸习近平</a></li>
-<li><a href="/comments/20230206/1845005.md" target="_blank">李濠仲：其他国家会从“蔡英文、帕维尔通话”看到什么</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 
 </ul>
 </div>
