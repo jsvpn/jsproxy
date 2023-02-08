@@ -9,11 +9,11 @@
 <li><a href="/topimagenews/20230207/1845695.md">华为这次完蛋了？陆网疯传被美断供下场：25万人恐失业</a></li>
 <li><a href="/comments/20230208/1845857.md">华为完了，25万人找孟晚舟索赔？</a></li>
 <li><a href="/baitai/20230208/1845852.md">军中出问题？气球事件引中共炸锅 大批高官落马</a></li>
-<li><a href="/topimagenews/20230207/1845668.md">一个奇怪的规律！中纪委造假数据穿帮？【阿波罗网报道】</a></li>
 <li><a href="/headline/20230208/1845732.md">说好五万元存取不受限，如今规则要改变？</a></li>
+<li><a href="/topimagenews/20230207/1845668.md">一个奇怪的规律！中纪委造假数据穿帮？【阿波罗网报道】</a></li>
 <li><a href="/headline/20230208/1845796.md">美海军公布首批打捞中国气球残骸照片</a></li>
-<li><a href="/ssgc/20230208/1845925.md">〖微博谈〗很有习近平的风格</a></li>
 <li><a href="/topimagenews/20230208/1846007.md">北京为何不爽？美能从气球碎片中发现好些秘密</a></li>
+<li><a href="/ssgc/20230208/1845925.md">〖微博谈〗很有习近平的风格</a></li>
 <li><a href="/funmedia/20230208/1845926.md">一个情商很低的人，开口闭口都是这“四种话”</a></li>
 <li><a href="/baitai/20230208/1845829.md">中共军援俄罗斯 美媒发现实锤</a></li>
 <li><a href="/sohnews/20230208/1845823.md">“天涯置顶：人间奇蹟 突然消失的中共病毒”《今日点击》（07/02/23）承认：故意让10亿人染疫 再听天由命 成功达到“全民免疫”</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/baitai/20230208/1845768.md">荡秋千的妇女3号｜荡秋千的妇女，大号被永封了</a></li>
 <li><a href="/topimagenews/20230208/1845969.md">中国巨头上演大内斗 377箱资料埋荒坡</a></li>
 <li><a href="/comments/20230208/1845845.md">女孩和前世丈夫超时空相认！</a></li>
-<li><a href="/sohnews/20230208/1845736.md">惊人爆料：胡鑫宇遗体在除夕夜被人挂上树。铅山中储粮粮仓，是胡鑫宇被摘取零件第一现场？</a></li>
 <li><a href="/funmedia/20230208/1846008.md">中年夫妻生活真相：婚姻下半场，拼的根本不是爱</a></li>
-<li><a href="/ssgc/20230208/1845742.md">原南方科技大学原副教授贺建奎披露“基因编辑婴儿”现状</a></li>
+<li><a href="/sohnews/20230208/1845736.md">惊人爆料：胡鑫宇遗体在除夕夜被人挂上树。铅山中储粮粮仓，是胡鑫宇被摘取零件第一现场？</a></li>
 <li><a href="/ssgc/20230208/1846006.md">〖兲朝浮世绘〗中共这是太拽还是心虚</a></li>
-<li><a href="/topimagenews/20230207/1845671.md">间谍气球 胡锡进再出馊主意！网友：还不嫌丢人？【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20230208/1845742.md">原南方科技大学原副教授贺建奎披露“基因编辑婴儿”现状</a></li>
 <li><a href="/cnnews/20230208/1845993.md">人民日报现罕见一幕！竟然出现一排...【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230207/1845671.md">间谍气球 胡锡进再出馊主意！网友：还不嫌丢人？【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230208/1846123.md" target="_blank">金正恩携女儿金朱爱视察军队宿舍 一家合照曝光</a></li>
+<li><a href="/comments/20230208/1846122.md" target="_blank">仍有顾虑？脱稿呛习近平展强硬 CNN曝拜登只字未提台湾原因</a></li>
+<li><a href="/comments/20230208/1846120.md" target="_blank">甘肃兰州逾20辆车追撞2伤 现场烈焰冲天骇人</a></li>
 <li><a href="/comments/20230208/1846110.md" target="_blank">7.8强震造成重大伤亡 土耳其与叙利亚合计超过11000死（不断更新）</a></li>
 <li><a href="/comments/20230208/1846092.md" target="_blank">钟原：习近平最新对高官训话透露的信息</a></li>
 <li><a href="/comments/20230208/1845992.md" target="_blank">詹世博:中国专家和ChatGPT，谁的建议更靠谱</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230208/1845745.md" target="_blank">时事大家谈：“流浪气球”引爆美中交锋 军事专家如何解读？</a></li>
 <li><a href="/comments/20230207/1845726.md" target="_blank">时事大家谈：“流浪气球”引爆美中交锋 军事专家如何解读？“间谍气球”漂浮五大洲 中共窃密更明目张胆？</a></li>
 <li><a href="/comments/20230207/1845675.md" target="_blank">【财经拆局】外来投资大跌，商业地皮流标，核心商业区恐烂尾收场</a></li>
-<li><a href="/comments/20230207/1845654.md" target="_blank">7.8强震重创土耳其与叙利亚 两国合计至少4372死（不断更新）</a></li>
-<li><a href="/comments/20230207/1845653.md" target="_blank">强震前异象！ 土耳其“大量鸟群乱飞” 似预知灾害将至</a></li>
-<li><a href="/comments/20230207/1845630.md" target="_blank">土耳其强震逾5000死 女排队14人遭活埋、1前英超球星失联</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 <li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
 <li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
 
 </ul>
 </div>
