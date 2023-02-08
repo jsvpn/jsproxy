@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20230207/1845610.md">内幕：惹到一个女人？上海公安局长被断10根肋骨！搞窃听，蒐集黑材料？一段变造的阴谋，再换7年监禁⋯⋯｜ #百年真相</a></li>
 <li><a href="/topimagenews/20230207/1845511.md">揭秘 习近平打出这块遮羞布？届时中国将人头滚滚【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230207/1845497.md">【微博精粹】公仆太多 人民不够用了</a></li>
 <li><a href="/baitai/20230207/1845524.md">快讯：拜登对「汽球事件」明确表态 北京不好过了？</a></li>
 <li><a href="/baitai/20230207/1845627.md">中国大陆每天一万人确诊癌症，医生苦劝，别拿这种食物当晚餐了，身体真的吃不消</a></li>
 <li><a href="/topimagenews/20230207/1845554.md">空中对话流出 美F22戏剧性击落中共气球</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/comments/20230207/1845559.md">习近平如何收场？本想出一口恶气 却等来一只黑天鹅</a></li>
 <li><a href="/sohnews/20230207/1845612.md">中共国铁饭碗被打破了！#shorts</a></li>
 <li><a href="/cbnews/20230207/1845506.md">江峰：被击落气球发现爆炸物，满载便是轰炸机！美国国防部称中共建立平流层舰队，廉价、安全、数量惊人，打击目标竟是驰援台海的美国航空母舰【江峰漫谈20230206第625期】</a></li>
-<li><a href="/topimagenews/20230207/1845668.md">一个奇怪的规律！中纪委造假数据穿帮？【阿波罗网报道】</a></li>
 <li><a href="/headline/20230208/1845796.md">美海军公布首批打捞中国气球残骸照片</a></li>
+<li><a href="/topimagenews/20230207/1845668.md">一个奇怪的规律！中纪委造假数据穿帮？【阿波罗网报道】</a></li>
+<li><a href="/comments/20230208/1845857.md">华为完了，25万人找孟晚舟索赔？</a></li>
 <li><a href="/headline/20230208/1845732.md">说好五万元存取不受限，如今规则要改变？</a></li>
 <li><a href="/yule/20230207/1845509.md">左小青农村过节！素颜躺炕上嗑瓜子接地气，女儿颜值瞩目长腿吸睛</a></li>
-<li><a href="/comments/20230208/1845857.md">华为完了，25万人找孟晚舟索赔？</a></li>
 <li><a href="/topimagenews/20230207/1845709.md">刘强东中国做生意、老婆“奶茶妹”美国生产 “爱国”富商身体很诚实</a></li>
 <li><a href="/cnnews/20230207/1845622.md">来了，ChatGPT开始在金融圈抢活</a></li>
 <li><a href="/lifebaike/20230207/1845541.md">比糖和盐还“可怕”的调味剂，我们可能每天都在吃！难怪三高找上门</a></li>
-<li><a href="/baitai/20230207/1845494.md">美军方曝光中共气球最新数据信息 沙利文：残骸有大用</a></li>
-<li><a href="/health/20230207/1845567.md">“失眠”最怕这3种食物，建议大家：一周吃2次，一觉睡到大天亮</a></li>
 <li><a href="/baitai/20230208/1845768.md">荡秋千的妇女3号｜荡秋千的妇女，大号被永封了</a></li>
+<li><a href="/health/20230207/1845567.md">“失眠”最怕这3种食物，建议大家：一周吃2次，一觉睡到大天亮</a></li>
+<li><a href="/topimagenews/20230208/1845899.md">普京再捅习近平？俄媒又传爆炸性消息</a></li>
+<li><a href="/sohnews/20230208/1845823.md">“天涯置顶：人间奇蹟 突然消失的中共病毒”《今日点击》（07/02/23）承认：故意让10亿人染疫 再听天由命 成功达到“全民免疫”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230208/1845992.md" target="_blank">詹世博:中国专家和ChatGPT，谁的建议更靠谱</a></li>
+<li><a href="/comments/20230208/1845990.md" target="_blank">404:国内研究ChatGPT的主要阻碍是怕它乱说话</a></li>
+<li><a href="/comments/20230208/1845988.md" target="_blank">图说天朝:地狱版本猜灯谜，节日里的精神强暴</a></li>
+<li><a href="/comments/20230208/1845987.md" target="_blank">《狂飙》：一个不向往高启强的社会，比能清除他的社会更好</a></li>
+<li><a href="/comments/20230208/1845986.md" target="_blank">宋石男:我们平静地走着自己的路</a></li>
 <li><a href="/comments/20230208/1845962.md" target="_blank">维舟:中国失踪人口特别特别多</a></li>
 <li><a href="/comments/20230208/1845909.md" target="_blank">张琼音：胡鑫宇失踪案 中国活摘盗卖人体器官问题又浮上台面</a></li>
 <li><a href="/comments/20230208/1845908.md" target="_blank">颜纯钩:中共又一噩梦：美议员提名六港人竞逐和平奖</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230207/1845630.md" target="_blank">土耳其强震逾5000死 女排队14人遭活埋、1前英超球星失联</a></li>
 <li><a href="/comments/20230207/1845559.md" target="_blank">习近平如何收场？本想出一口恶气 却等来一只黑天鹅</a></li>
 <li><a href="/comments/20230207/1845534.md" target="_blank">谁想让“华人世界”步“俄罗斯世界”后尘</a></li>
-<li><a href="/comments/20230207/1845518.md" target="_blank">各国效仿美国击落中共间谍气球？连环击落在即，习近平胡锡进毛甯谭克非全傻了</a></li>
-<li><a href="/comments/20230207/1845498.md" target="_blank">日吉秀松：哪一件事情让刘少奇招来了杀身之祸？</a></li>
-<li><a href="/comments/20230207/1845476.md" target="_blank">美军为不用机炮击落中国侦察气球？台湾也面临解放军气球威胁吗？</a></li>
-<li><a href="/comments/20230207/1845462.md" target="_blank">刚跟美国翻脸，帮俄又被抓，习咋整</a></li>
-<li><a href="/comments/20230207/1845415.md" target="_blank">流浪气球引发的思考：那边忙打捞，这边已赢麻</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
 <li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 
 </ul>
 </div>
