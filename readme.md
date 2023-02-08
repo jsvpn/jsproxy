@@ -13,21 +13,21 @@
 <li><a href="/ssgc/20230208/1845925.md">〖微博谈〗很有习近平的风格</a></li>
 <li><a href="/comments/20230208/1846092.md">钟原：习近平最新对高官训话透露的信息</a></li>
 <li><a href="/topimagenews/20230208/1846007.md">北京为何不爽？美能从气球碎片中发现好些秘密</a></li>
-<li><a href="/cnnews/20230208/1846106.md">有江苏的公职网友爆出一个内情</a></li>
 <li><a href="/cnnews/20230208/1846070.md">回忆录问世 安倍晋三这样评价习近平</a></li>
+<li><a href="/cnnews/20230208/1846106.md">有江苏的公职网友爆出一个内情</a></li>
 <li><a href="/topimagenews/20230208/1845969.md">中国巨头上演大内斗 377箱资料埋荒坡</a></li>
 <li><a href="/topimagenews/20230208/1846055.md">湖北武汉退休人员聚集市政府门前 抗议《职工医保改革新方案》【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230208/1846116.md">李克强主持座谈会 主角竟成他？</a></li>
-<li><a href="/comments/20230208/1845845.md">女孩和前世丈夫超时空相认！</a></li>
 <li><a href="/sohnews/20230208/1846099.md">五年前中国房地产神秘贴文是“预言”还是预谋？ChatGPT预测：2月15日起中国原因导致股市崩盘！提前还房贷“被罚”有何猫腻？</a></li>
 <li><a href="/ssgc/20230208/1846006.md">〖兲朝浮世绘〗中共这是太拽还是心虚</a></li>
 <li><a href="/funmedia/20230208/1846008.md">中年夫妻生活真相：婚姻下半场，拼的根本不是爱</a></li>
 <li><a href="/cnnews/20230208/1845993.md">人民日报现罕见一幕！竟然出现一排...【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230208/1846119.md">陈破空：武汉爆发大规模示威！数万人包围市政府。拜登大声问：世界上有哪个领导人愿意跟习近平换位子？直播与互动。美东2月8日早8点30、即中港台2月8日晚9点30</a></li>
-<li><a href="/baitai/20230208/1846018.md">网曝江苏公务员遭「割韭菜」 罚款竟达数十万</a></li>
 <li><a href="/health/20230208/1846057.md">没“阳”别高兴太早，若有这些症状不仅“阳”了，可能病情更重</a></li>
-<li><a href="/yule/20230208/1845966.md">洗米嫂发文称自己失去了所有，有钱有房不是幸福，无病无灾才是真</a></li>
+<li><a href="/baitai/20230208/1846018.md">网曝江苏公务员遭「割韭菜」 罚款竟达数十万</a></li>
 <li><a href="/cbnews/20230208/1845897.md">天亮时分：中共大使为气球道歉；普京给美国递刀子，为了深度捆绑中共；AI大战改变社会，微软搜索整合ChatGPT，谷歌百度跟进（政论天下第928集 20230207）</a></li>
+<li><a href="/yule/20230208/1845966.md">洗米嫂发文称自己失去了所有，有钱有房不是幸福，无病无灾才是真</a></li>
+<li><a href="/topimagenews/20230208/1846170.md">金正恩秀“神复制”爱女 北朝鲜第一千金大阵仗视察人民军宿舍</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
 
 </ul>
 </div>
