@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230209/1846266.md">CHATGPT被提问：“习近平是独裁者吗？”</a></li>
 <li><a href="/cbnews/20230209/1846281.md">中共新帮派崛起，最受习近平宠爱的是他</a></li>
-<li><a href="/baitai/20230209/1846278.md">崩溃前兆？「两会」前密集清洗 习政权危机空前</a></li>
 <li><a href="/cbnews/20230209/1846513.md">拜登：习近平正面临庞大问题 我在电话中告诉他“看看俄罗斯的下场”</a></li>
 <li><a href="/sohnews/20230209/1846395.md">鑫宇心脏左肾被摘？知情人曝出凶手？议员高喊“骗子”，斥拜登对共软弱；自言对习近平强硬，拜登失态发火；习不信共产党，入党只为抓权力【新闻看点 李沐阳2.8】</a></li>
 <li><a href="/ssgc/20230209/1846357.md">〖微博谈〗危险的信号</a></li>
 <li><a href="/cnnews/20230209/1846282.md">视频疯传！美国第一夫人“嘴对嘴亲吻”第二先生</a></li>
-<li><a href="/topimagenews/20230209/1846267.md">拜登脱口而出：有哪国领袖想和习近平换位子</a></li>
 <li><a href="/sohnews/20230209/1846309.md">“暴露啦！中共间谍气球来自-海南榆林海军基地”No.04（08/02/23）足遍5大洲 舰队囊括几十只 去年10月自爆夏威夷</a></li>
 <li><a href="/baitai/20230209/1846563.md">中共低调推出震撼法规 政权倒计时开始？</a></li>
 <li><a href="/topimagenews/20230209/1846440.md">小心2月！印度神童最新预言曝6个震撼弹</a></li>
 <li><a href="/cnnews/20230209/1846470.md">出访大阵仗！习近平座车澳门派30随扈护驾</a></li>
 <li><a href="/baitai/20230209/1846503.md">肝癌很会“伪装”，皮肤出现这种变化可能是肝在“呼救”</a></li>
-<li><a href="/worldnews/20230209/1846270.md">刚刚，马航MH17坠机案调查暂停，298人全部罹难</a></li>
 <li><a href="/cnnews/20230209/1846313.md">国企招聘名单备注“主任陈静之女”，回应来了…</a></li>
 <li><a href="/cnnews/20230209/1846552.md">李立群为胡鑫宇发声：一个上高中的孩子被人害了 难过一辈子【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230209/1846460.md">〖兲朝浮世绘〗推翻中共还得靠老百姓团结起来一起推</a></li>
-<li><a href="/topimagenews/20230209/1846268.md">惊传：乌克兰组8支突击旅，将反攻克里米亚</a></li>
 <li><a href="/comments/20230209/1846556.md">浙江余姚教育局长早上醒酒 午陪情人 晚嫖娼 遭爆最爱女学生</a></li>
 <li><a href="/sohnews/20230209/1846498.md">文睿：2023，习的最后一张牌，被彻底击碎</a></li>
 <li><a href="/topimagenews/20230209/1846410.md">打脸中共！战狼卢沙野脱口侵美间谍气球是“国家的财产”</a></li>
 <li><a href="/sohnews/20230209/1846312.md">“白纸革命的延续！万名武汉人 市政府冒雨连夜抗议”No.01（08/02/23）医保政策变更 伤及普通人</a></li>
 <li><a href="/sohnews/20230209/1846390.md">中共间谍气球主体被打捞，震撼图片公布，重要数据可能自毁。中共入侵美国手法大揭秘。（瘆人对话）医院偷拍视频，中共军队医院器官买卖如挑选商品！</a></li>
+<li><a href="/headline/20230209/1846514.md">传大连机场要求韩客挂白牌 事件曝光航空公司及入境部门互推责任</a></li>
+<li><a href="/yule/20230209/1846433.md">范冰冰想婚副总男友！父母“不让嫁”坚决阻拦 真实原因曝</a></li>
+<li><a href="/cbnews/20230209/1846331.md">四川少年考18分 遭父持武士刀刺死 遗言：我在好好学习</a></li>
+<li><a href="/baitai/20230209/1846467.md">朝鲜发生大饥荒 金正恩宣布备战</a></li>
+<li><a href="/topimagenews/20230209/1846538.md">“提档升级”！金正恩爱女金朱爱现身阅兵仪式…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230210/1846714.md" target="_blank">【47人案】控方读被告角色行为 签《墨落无悔》及公开发言成罪证</a></li>
 <li><a href="/comments/20230210/1846713.md" target="_blank">【47人案】宣扬“把立法会变成人民武器”成为罪证</a></li>
 <li><a href="/comments/20230210/1846697.md" target="_blank">布林肯谈中国气球：正研究残骸 “每小时都能得到更多讯息”</a></li>
 <li><a href="/comments/20230210/1846687.md" target="_blank">蒋介石去世后显灵 儿子濒死体验三席见证</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230209/1846347.md" target="_blank">袁斌：间谍气球为美国人现场演示“中共威胁”</a></li>
 <li><a href="/comments/20230209/1846342.md" target="_blank">文昭：医保大爆雷，武汉数万人示威堵政府！「随机默契」再显威力、维稳破功！俄罗斯也爆猛料，捅习偬一刀</a></li>
 <li><a href="/comments/20230209/1846325.md" target="_blank">韦伯望远镜历来测得最小 小行星仅罗马竞技场大</a></li>
-<li><a href="/comments/20230209/1846321.md" target="_blank">【围炉夜话02/08】拜登国情咨文喊名习近平，是啥意思？我们离强大到危险的AI不远了？！美情报证实中共间谍气球舰队 ｜方伟 唐靖远 David Jason 方菲</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 <li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
 
 </ul>
 </div>
