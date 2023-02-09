@@ -11,23 +11,23 @@
 <li><a href="/ssgc/20230208/1845925.md">〖微博谈〗很有习近平的风格</a></li>
 <li><a href="/comments/20230208/1846092.md">钟原：习近平最新对高官训话透露的信息</a></li>
 <li><a href="/topimagenews/20230208/1846007.md">北京为何不爽？美能从气球碎片中发现好些秘密</a></li>
-<li><a href="/cnnews/20230208/1846070.md">回忆录问世 安倍晋三这样评价习近平</a></li>
 <li><a href="/cnnews/20230208/1846106.md">有江苏的公职网友爆出一个内情</a></li>
+<li><a href="/cnnews/20230208/1846070.md">回忆录问世 安倍晋三这样评价习近平</a></li>
 <li><a href="/topimagenews/20230208/1845969.md">中国巨头上演大内斗 377箱资料埋荒坡</a></li>
 <li><a href="/topimagenews/20230208/1846055.md">湖北武汉退休人员聚集市政府门前 抗议《职工医保改革新方案》【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230208/1846116.md">李克强主持座谈会 主角竟成他？</a></li>
 <li><a href="/sohnews/20230208/1846099.md">五年前中国房地产神秘贴文是“预言”还是预谋？ChatGPT预测：2月15日起中国原因导致股市崩盘！提前还房贷“被罚”有何猫腻？</a></li>
-<li><a href="/ssgc/20230208/1846006.md">〖兲朝浮世绘〗中共这是太拽还是心虚</a></li>
 <li><a href="/funmedia/20230208/1846008.md">中年夫妻生活真相：婚姻下半场，拼的根本不是爱</a></li>
+<li><a href="/ssgc/20230208/1846006.md">〖兲朝浮世绘〗中共这是太拽还是心虚</a></li>
+<li><a href="/baitai/20230209/1846234.md">中国也要地震？与土耳其大地震前相似 南京 济南大量黑鸟漫天飞舞</a></li>
 <li><a href="/sohnews/20230208/1846119.md">陈破空：武汉爆发大规模示威！数万人包围市政府。拜登大声问：世界上有哪个领导人愿意跟习近平换位子？直播与互动。美东2月8日早8点30、即中港台2月8日晚9点30</a></li>
 <li><a href="/cnnews/20230208/1845993.md">人民日报现罕见一幕！竟然出现一排...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230208/1846170.md">金正恩秀“神复制”爱女 北朝鲜第一千金大阵仗视察人民军宿舍</a></li>
-<li><a href="/health/20230208/1846057.md">没“阳”别高兴太早，若有这些症状不仅“阳”了，可能病情更重</a></li>
 <li><a href="/cbnews/20230208/1845897.md">天亮时分：中共大使为气球道歉；普京给美国递刀子，为了深度捆绑中共；AI大战改变社会，微软搜索整合ChatGPT，谷歌百度跟进（政论天下第928集 20230207）</a></li>
+<li><a href="/health/20230208/1846057.md">没“阳”别高兴太早，若有这些症状不仅“阳”了，可能病情更重</a></li>
 <li><a href="/baitai/20230208/1846018.md">网曝江苏公务员遭「割韭菜」 罚款竟达数十万</a></li>
 <li><a href="/yule/20230208/1845966.md">洗米嫂发文称自己失去了所有，有钱有房不是幸福，无病无灾才是真</a></li>
-<li><a href="/baitai/20230209/1846234.md">中国也要地震？与土耳其大地震前相似 南京 济南大量黑鸟漫天飞舞</a></li>
-<li><a href="/topimagenews/20230208/1846169.md">世界工厂恐被整碗捧去？陆死敌变国际大咖新宠 爆惊人进展</a></li>
+<li><a href="/topimagenews/20230209/1846266.md">CHATGPT被提问：“习近平是独裁者吗？”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230209/1846349.md" target="_blank">阿仁：“共产党从没拿咱中国人当过人啊！”</a></li>
+<li><a href="/comments/20230209/1846348.md" target="_blank">王赫：“气球事件”再次给拜登政府敲警钟</a></li>
+<li><a href="/comments/20230209/1846347.md" target="_blank">袁斌：间谍气球为美国人现场演示“中共威胁”</a></li>
+<li><a href="/comments/20230209/1846342.md" target="_blank">文昭：医保大爆雷，武汉数万人示威堵政府！「随机默契」再显威力、维稳破功！俄罗斯也爆猛料，捅习偬一刀</a></li>
 <li><a href="/comments/20230209/1846325.md" target="_blank">韦伯望远镜历来测得最小 小行星仅罗马竞技场大</a></li>
 <li><a href="/comments/20230209/1846321.md" target="_blank">【围炉夜话02/08】拜登国情咨文喊名习近平，是啥意思？我们离强大到危险的AI不远了？！美情报证实中共间谍气球舰队 ｜方伟 唐靖远 David Jason 方菲</a></li>
 <li><a href="/comments/20230209/1846251.md" target="_blank">【独家重磅】李燕铭：李克强部级团中央旧部跳楼身亡！国家能源集团副总经理李东落马深度内幕 与李克强弟李克明隐秘关系曝光 李东前搭档落马 习近平决战江曾（七六） 两会大战（十二） 习近平李克强明争暗斗内幕（八二） 习清洗能源系统 反击江曾电力政变（二）</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230208/1845986.md" target="_blank">宋石男:我们平静地走着自己的路</a></li>
 <li><a href="/comments/20230208/1845962.md" target="_blank">维舟:中国失踪人口特别特别多</a></li>
 <li><a href="/comments/20230208/1845909.md" target="_blank">张琼音：胡鑫宇失踪案 中国活摘盗卖人体器官问题又浮上台面</a></li>
-<li><a href="/comments/20230208/1845908.md" target="_blank">颜纯钩:中共又一噩梦：美议员提名六港人竞逐和平奖</a></li>
-<li><a href="/comments/20230208/1845885.md" target="_blank">土耳其大地震伤亡惨重目前为止我们知道些什么</a></li>
-<li><a href="/comments/20230208/1845881.md" target="_blank">AI聊天机器人ChatGPT火了！是人类帮手还是威胁？｜Jason  方菲 ｜新闻烽火台 02/07/2023</a></li>
-<li><a href="/comments/20230208/1845857.md" target="_blank">华为完了，25万人找孟晚舟索赔？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
 <li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
 
 </ul>
 </div>
