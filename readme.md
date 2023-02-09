@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230208/1845899.md">普京再捅习近平？俄媒又传爆炸性消息</a></li>
-<li><a href="/comments/20230208/1845857.md">华为完了，25万人找孟晚舟索赔？</a></li>
 <li><a href="/topimagenews/20230208/1846074.md">习近平一语成谶！老百姓又上街了！【阿波罗网报道】</a></li>
 <li><a href="/funmedia/20230208/1845926.md">一个情商很低的人，开口闭口都是这“四种话”</a></li>
 <li><a href="/ssgc/20230208/1845925.md">〖微博谈〗很有习近平的风格</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/sohnews/20230208/1846119.md">陈破空：武汉爆发大规模示威！数万人包围市政府。拜登大声问：世界上有哪个领导人愿意跟习近平换位子？直播与互动。美东2月8日早8点30、即中港台2月8日晚9点30</a></li>
 <li><a href="/cnnews/20230208/1845993.md">人民日报现罕见一幕！竟然出现一排...【阿波罗网报道】</a></li>
 <li><a href="/health/20230208/1846057.md">没“阳”别高兴太早，若有这些症状不仅“阳”了，可能病情更重</a></li>
-<li><a href="/baitai/20230208/1846018.md">网曝江苏公务员遭「割韭菜」 罚款竟达数十万</a></li>
-<li><a href="/cbnews/20230208/1845897.md">天亮时分：中共大使为气球道歉；普京给美国递刀子，为了深度捆绑中共；AI大战改变社会，微软搜索整合ChatGPT，谷歌百度跟进（政论天下第928集 20230207）</a></li>
-<li><a href="/yule/20230208/1845966.md">洗米嫂发文称自己失去了所有，有钱有房不是幸福，无病无灾才是真</a></li>
 <li><a href="/topimagenews/20230208/1846170.md">金正恩秀“神复制”爱女 北朝鲜第一千金大阵仗视察人民军宿舍</a></li>
-<li><a href="/baitai/20230208/1846063.md">【真理部】2月7日微信朋友圈转发任务</a></li>
+<li><a href="/cbnews/20230208/1845897.md">天亮时分：中共大使为气球道歉；普京给美国递刀子，为了深度捆绑中共；AI大战改变社会，微软搜索整合ChatGPT，谷歌百度跟进（政论天下第928集 20230207）</a></li>
+<li><a href="/baitai/20230208/1846018.md">网曝江苏公务员遭「割韭菜」 罚款竟达数十万</a></li>
+<li><a href="/yule/20230208/1845966.md">洗米嫂发文称自己失去了所有，有钱有房不是幸福，无病无灾才是真</a></li>
+<li><a href="/baitai/20230209/1846234.md">中国也要地震？与土耳其大地震前相似 南京 济南大量黑鸟漫天飞舞</a></li>
+<li><a href="/topimagenews/20230208/1846169.md">世界工厂恐被整碗捧去？陆死敌变国际大咖新宠 爆惊人进展</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230209/1846321.md" target="_blank">【围炉夜话02/08】拜登国情咨文喊名习近平，是啥意思？我们离强大到危险的AI不远了？！美情报证实中共间谍气球舰队 ｜方伟 唐靖远 David Jason 方菲</a></li>
 <li><a href="/cbnews/20230209/1846281.md" target="_blank">中共新帮派崛起，最受习近平宠爱的是他</a></li>
 <li><a href="/cbnews/20230209/1846226.md" target="_blank">两党议员如何回应拜登国情咨文演讲</a></li>
 <li><a href="/cbnews/20230208/1846140.md" target="_blank">海南岛三亚路牌写错1字 老外秒傻眼：意思全相反了</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230207/1845285.md" target="_blank">重庆“糖果刺客”坑人？6块糖卖466元 妈妈惊：比肉还贵</a></li>
 <li><a href="/cbnews/20230206/1845227.md" target="_blank">美国防部官员爆料：中共有“间谍气球舰队” 早已遍布5大洲</a></li>
 <li><a href="/cbnews/20230206/1845226.md" target="_blank">湖南49车追撞火烧车酿16死 肇事原因扯爆</a></li>
-<li><a href="/cbnews/20230206/1845058.md" target="_blank">还有第3颗间谍气球？中共处境尴尬“无牌可打”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230209/1846325.md" target="_blank">韦伯望远镜历来测得最小 小行星仅罗马竞技场大</a></li>
+<li><a href="/comments/20230209/1846321.md" target="_blank">【围炉夜话02/08】拜登国情咨文喊名习近平，是啥意思？我们离强大到危险的AI不远了？！美情报证实中共间谍气球舰队 ｜方伟 唐靖远 David Jason 方菲</a></li>
 <li><a href="/comments/20230209/1846251.md" target="_blank">【独家重磅】李燕铭：李克强部级团中央旧部跳楼身亡！国家能源集团副总经理李东落马深度内幕 与李克强弟李克明隐秘关系曝光 李东前搭档落马 习近平决战江曾（七六） 两会大战（十二） 习近平李克强明争暗斗内幕（八二） 习清洗能源系统 反击江曾电力政变（二）</a></li>
 <li><a href="/comments/20230209/1846225.md" target="_blank">时事大家谈：气球事件凸显外交政策混乱 习领导力受质疑</a></li>
 <li><a href="/comments/20230209/1846224.md" target="_blank">时事大家谈：美中破冰希望随着气球破灭&#160;对华政策难回旋？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230208/1845885.md" target="_blank">土耳其大地震伤亡惨重目前为止我们知道些什么</a></li>
 <li><a href="/comments/20230208/1845881.md" target="_blank">AI聊天机器人ChatGPT火了！是人类帮手还是威胁？｜Jason  方菲 ｜新闻烽火台 02/07/2023</a></li>
 <li><a href="/comments/20230208/1845857.md" target="_blank">华为完了，25万人找孟晚舟索赔？</a></li>
-<li><a href="/comments/20230208/1845845.md" target="_blank">女孩和前世丈夫超时空相认！</a></li>
-<li><a href="/comments/20230208/1845840.md" target="_blank">袁斌：事先设计好的胡鑫宇事件新闻发布会</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
 <li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 <li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
 
 </ul>
 </div>
