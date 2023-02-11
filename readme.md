@@ -26,7 +26,7 @@
 <li><a href="/lifebaike/20230211/1847400.md">优质“蛋白质”排行榜！豆腐未上榜，牛奶排倒数第一，建议了解</a></li>
 <li><a href="/sohnews/20230211/1847211.md">【直播】美军击落第二只气球！国防部官员：中共故意挑衅？！气球初步分析结果出炉，细节令人毛骨悚然；拜登：习近平事先不知情；</a></li>
 <li><a href="/baitai/20230211/1847288.md">习近平在气球事件后首发声 美拟限制对中科技投资</a></li>
-<li><a href="/sohnews/20230211/1847225.md">2月8日，武汉上万名退休人员上街抗议医保改革。随后，人民日报称，医保改革暂缓，抗议取得初步胜利。✌️</a></li>
+<li><a href="/funmedia/20230211/1847439.md">临床判死 女子复活曝“濒死经验”：去了天堂5年</a></li>
 <li><a href="/finance/20230211/1847429.md">美国制裁得逞 大陆芯片业“自残”？这家大厂撑不住砍杀自家人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230212/1847525.md" target="_blank">中共侦察气球入侵 将成另一个九一一事件</a></li>
 <li><a href="/topimagenews/20230211/1847475.md" target="_blank">“帐总有要算的一天”！中共政权崩溃之象已现</a></li>
 <li><a href="/topimagenews/20230211/1847422.md" target="_blank">有炸药！美媒披露迄今为止中国气球更多细节</a></li>
 <li><a href="/topimagenews/20230211/1847392.md" target="_blank">王沪宁是谁？他爆：情场官场都是“渣男”</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230210/1846786.md" target="_blank">突发！拜登儿子及兄弟被众院要求提供机密记录</a></li>
 <li><a href="/topimagenews/20230210/1846650.md" target="_blank">美国务院：中共气球上有搜集通信信号的天线 显非气象用途</a></li>
 <li><a href="/topimagenews/20230209/1846633.md" target="_blank">共和党围攻拜登演说“与现实脱节”川普：史上最贪腐总统</a></li>
-<li><a href="/topimagenews/20230209/1846599.md" target="_blank">啥意思？习近平两段看似矛盾的讲话【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230212/1847527.md" target="_blank">中共“球海战略” 测试令美中关系坠机式崩解 全球警惕</a></li>
 <li><a href="/comments/20230211/1847480.md" target="_blank">民国神童！却算错了自己的命运⋯神祕预言袁世凯：和康熙一样的命格，但是“空亡”倒台！常伴孙中山的算命大师，直言相告，却因泄漏天机，而⋯｜ #未解之谜 #shorts</a></li>
 <li><a href="/comments/20230211/1847464.md" target="_blank">民国神童！却算错了自己的命运⋯神祕预言袁世凯：和康熙一样的命格，但是“空亡”倒台！常伴孙中山的算命大师，直言相告，却因泄漏天机，而⋯｜ #未解之谜</a></li>
 <li><a href="/comments/20230211/1847454.md" target="_blank">唐靖远：ChatGPT的中国迷局</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230211/1847139.md" target="_blank">俄军乌东夺城失利 传单次攻击就惨毁30辆装甲车</a></li>
 <li><a href="/comments/20230211/1847137.md" target="_blank">8岁童身体不适7次举手反映 老师要求“忍一忍”酿不治悲剧</a></li>
 <li><a href="/comments/20230211/1847130.md" target="_blank">【新香港】大陆“专才”涌港 评论： 真正香港人恐最终被取代</a></li>
-<li><a href="/comments/20230211/1847127.md" target="_blank">时事大家谈：武汉退休人员上街，医改火药桶有何危机？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
 <li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
 
 </ul>
 </div>
