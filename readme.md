@@ -9,7 +9,6 @@
 <li><a href="/finance/20230211/1847163.md">连官方都发话了！人民币，变局将至？</a></li>
 <li><a href="/baitai/20230211/1847194.md">中共开始抄家 目标竟是这些人</a></li>
 <li><a href="/topimagenews/20230211/1847313.md">震惊业内：一个晚上赔6900亿</a></li>
-<li><a href="/sohnews/20230211/1847152.md">“中国巨变在即！习近平亲口说：如我出生在美国 绝不加入共产党！”No.04（10/02/23）2月8日出版《安倍晋三回忆录》记述 2018年所言！</a></li>
 <li><a href="/topimagenews/20230211/1847223.md">丧尽天良！复旦教授黄有光又作妖</a></li>
 <li><a href="/topimagenews/20230211/1847392.md">王沪宁是谁？他爆：情场官场都是“渣男”</a></li>
 <li><a href="/cbnews/20230211/1847383.md">〖兲朝浮世绘〗他不过是一门心思地想当皇帝罢了</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/sohnews/20230211/1847199.md">“昨天习近平再次暗示：中共国面临大饥荒！”No.01（10/02/23）阿南德同样预测</a></li>
 <li><a href="/topimagenews/20230211/1847338.md">普丁下个侵略目标？乌克兰截获俄秘密行动情资曝摧毁摩尔多瓦计划</a></li>
 <li><a href="/lifebaike/20230211/1847400.md">优质“蛋白质”排行榜！豆腐未上榜，牛奶排倒数第一，建议了解</a></li>
-<li><a href="/sohnews/20230211/1847153.md">“美国大失算！中共故意暴露间谍气球：记录美方处理全过程！”No.02（10/02/23）美军如何面对：中共大规模气球舰队？</a></li>
 <li><a href="/sohnews/20230211/1847211.md">【直播】美军击落第二只气球！国防部官员：中共故意挑衅？！气球初步分析结果出炉，细节令人毛骨悚然；拜登：习近平事先不知情；</a></li>
 <li><a href="/sohnews/20230211/1847481.md">🔥暗指彭丽媛 一句话引很多联想；中共惨了！间谍气球有效载荷被发现 几乎完好无损；有炸药！美媒披露迄今为止中国气球更多细节；打下间谍气球 美共关系与前景也呈螺旋式下降【阿波罗网AM】</a></li>
 <li><a href="/funmedia/20230211/1847439.md">临床判死 女子复活曝“濒死经验”：去了天堂5年</a></li>
 <li><a href="/baitai/20230211/1847288.md">习近平在气球事件后首发声 美拟限制对中科技投资</a></li>
+<li><a href="/baitai/20230211/1847478.md">事隔60年 习重启毛泽东时期一项政策</a></li>
+<li><a href="/finance/20230211/1847429.md">美国制裁得逞 大陆芯片业“自残”？这家大厂撑不住砍杀自家人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230212/1847536.md" target="_blank">普京史无前例求和，俄罗斯要撑不住了？</a></li>
 <li><a href="/comments/20230212/1847527.md" target="_blank">中共“球海战略” 测试令美中关系坠机式崩解 全球警惕</a></li>
 <li><a href="/comments/20230211/1847480.md" target="_blank">民国神童！却算错了自己的命运⋯神祕预言袁世凯：和康熙一样的命格，但是“空亡”倒台！常伴孙中山的算命大师，直言相告，却因泄漏天机，而⋯｜ #未解之谜 #shorts</a></li>
 <li><a href="/comments/20230211/1847464.md" target="_blank">民国神童！却算错了自己的命运⋯神祕预言袁世凯：和康熙一样的命格，但是“空亡”倒台！常伴孙中山的算命大师，直言相告，却因泄漏天机，而⋯｜ #未解之谜</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230211/1847216.md" target="_blank">袁斌：武汉万人示威，全国抗议大潮或接踵而至</a></li>
 <li><a href="/comments/20230211/1847139.md" target="_blank">俄军乌东夺城失利 传单次攻击就惨毁30辆装甲车</a></li>
 <li><a href="/comments/20230211/1847137.md" target="_blank">8岁童身体不适7次举手反映 老师要求“忍一忍”酿不治悲剧</a></li>
-<li><a href="/comments/20230211/1847130.md" target="_blank">【新香港】大陆“专才”涌港 评论： 真正香港人恐最终被取代</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 <li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
 
 </ul>
 </div>
