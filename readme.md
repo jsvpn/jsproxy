@@ -15,7 +15,6 @@
 <li><a href="/funmedia/20230211/1847439.md">临床判死 女子复活曝“濒死经验”：去了天堂5年</a></li>
 <li><a href="/topimagenews/20230212/1847634.md">禁止中国人到美国买房，触动了谁的利益？</a></li>
 <li><a href="/worldnews/20230212/1847541.md">地表炸裂！土耳其震后现“惊世裂痕”无限蔓延</a></li>
-<li><a href="/sohnews/20230211/1847427.md">🔥习近平送3亿元赠款给他 党媒不提；中共间谍气球计划 六中企参与被美列入黑 名单；习近平遭灾“气球闹剧”暴露北京政坛乱象；台湾救援队先抵土耳其 中共队伍姗姗来迟忙作秀</a></li>
 <li><a href="/topimagenews/20230212/1847563.md">央视翻车 网曝中国食品放射物标准超日本福岛16倍</a></li>
 <li><a href="/topimagenews/20230212/1847562.md">华日：中共在内蒙秘密气球发射场 精准定位被曝光</a></li>
 <li><a href="/baitai/20230212/1847511.md">狗狗为主人挡下子弹后竟失踪了 查看监控录像后全家人失声痛哭</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/cbnews/20230212/1847650.md">天亮时分：第三只气球被击落！习近平难过的2023年；普京只能撑半年，释放求和信号（政论天下第931集 20230211）</a></li>
 <li><a href="/sohnews/20230212/1847587.md">🔥🔥吓人❗广东突发地震❗未来恐有大地震 两大信号已现❗</a></li>
 <li><a href="/finance/20230211/1847429.md">美国制裁得逞 大陆芯片业“自残”？这家大厂撑不住砍杀自家人</a></li>
-<li><a href="/cbnews/20230211/1847476.md">习近平一封信，中共60年野心大曝光！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230212/1847705.md">必要时对中共动武！基辛格抛弃中共？</a></li>
 <li><a href="/cnnews/20230212/1847613.md">本轮医改的实质是什么？四个字就可以概括</a></li>
+<li><a href="/topimagenews/20230212/1847684.md">谁统一谁不知道！ChatGPT不爱党 中共气炸</a></li>
+<li><a href="/cbnews/20230211/1847476.md">习近平一封信，中共60年野心大曝光！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230212/1847560.md">🔥中国极为罕见一幕！中共未来面临重大挑战；“QQ崩了”冲上热搜，阅读量已超过9亿次；智库：私企投资几近崩溃，中共只动嘴支持【阿波罗网AA】</a></li>
 <li><a href="/topimagenews/20230212/1847588.md">快讯！加国北部发现高空飞行物体 已被击落</a></li>
-<li><a href="/topimagenews/20230212/1847684.md">谁统一谁不知道！ChatGPT不爱党 中共气炸</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230212/1847748.md" target="_blank">中国大陆注册ChatGPT教程</a></li>
 <li><a href="/cbnews/20230212/1847729.md" target="_blank">必要时对中共动武！基辛格抛弃中共？大逆转【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230212/1847713.md" target="_blank">共舰今凌晨闯南方领海 日本自卫队派巡逻机警戒</a></li>
 <li><a href="/comments/20230212/1847670.md" target="_blank">【杰森视角】ChatGPT将淘汰哪些高智商行业？自信驾驭人工智能新时代! 中国拥有世界最强人工智能系统，却与ChatGPT失之交臂！现代人工智能的致命伤是什么？人工智能的未来最可怕之处出人意料！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230211/1847162.md" target="_blank">68岁王健林游白马寺，数十人陪同阵仗大</a></li>
 <li><a href="/cbnews/20230211/1847101.md" target="_blank">减缓北京军事进步 拜登拟限制美企投资中国科技领域</a></li>
 <li><a href="/cbnews/20230210/1847062.md" target="_blank">台湾导弹实力强不强？谢金河爆中科院退役高官答案：太惊人</a></li>
-<li><a href="/cbnews/20230210/1847061.md" target="_blank">中国美食网红影片留言“我不喜欢包子” 竟被B站删文警告：请自觉守法</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230212/1847748.md" target="_blank">中国大陆注册ChatGPT教程</a></li>
 <li><a href="/comments/20230212/1847687.md" target="_blank">【独家重磅】李燕铭：习近平两会前清洗江泽慧老巢 国家林草局原总经济师张鸿文落马 牵连三任局长 国家林草局大清洗 两名副局长卸职 武警少将出任副局长 江泽民死习清剿江家族（一） 习近平决战江曾（七七） 两会大战（十四） 习家军接掌国务院（十）</a></li>
 <li><a href="/comments/20230212/1847679.md" target="_blank">小民之心：李强有心机没担当国务院出现空窗期</a></li>
 <li><a href="/comments/20230212/1847678.md" target="_blank">张智斌：匪夷所思的中共外交</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230212/1847579.md" target="_blank">周晓辉：北京卫戍区演练设险局 中南海在防什么</a></li>
 <li><a href="/comments/20230212/1847568.md" target="_blank">专访张菁（下）：心系故土，创办中国妇权；跟中共没有交易可言；守住底线，得大于失；中共“清零”教育了家人 ｜02/11/2023</a></li>
 <li><a href="/comments/20230212/1847550.md" target="_blank">最多撑半年！他靠一己之力 揭开普京的底裤</a></li>
-<li><a href="/comments/20230212/1847536.md" target="_blank">普京史无前例求和，俄罗斯要撑不住了？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
 <li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
 
 </ul>
 </div>
