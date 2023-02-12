@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20230212/1847634.md">禁止中国人到美国买房，触动了谁的利益？</a></li>
 <li><a href="/cbnews/20230212/1847650.md">天亮时分：第三只气球被击落！习近平难过的2023年；普京只能撑半年，释放求和信号（政论天下第931集 20230211）</a></li>
 <li><a href="/topimagenews/20230212/1847684.md">谁统一谁不知道！ChatGPT不爱党 中共气炸</a></li>
-<li><a href="/baitai/20230212/1847712.md">中共大外宣惹怒土耳其灾民 在全球丢脸</a></li>
 <li><a href="/sohnews/20230212/1847587.md">🔥🔥吓人❗广东突发地震❗未来恐有大地震 两大信号已现❗</a></li>
-<li><a href="/comments/20230212/1847748.md">中国大陆注册ChatGPT教程</a></li>
+<li><a href="/baitai/20230212/1847712.md">中共大外宣惹怒土耳其灾民 在全球丢脸</a></li>
 <li><a href="/sohnews/20230212/1847753.md">说谁呢🤔“你凭什么在台上？”“三个信念”“一坚持、二不要脸、三坚持不要脸”</a></li>
+<li><a href="/comments/20230212/1847748.md">中国大陆注册ChatGPT教程</a></li>
 <li><a href="/cnnews/20230212/1847613.md">本轮医改的实质是什么？四个字就可以概括</a></li>
 <li><a href="/topimagenews/20230212/1847675.md">【微博精粹】逼孩子捐器官 输炮灰给俄爹 共匪要让中国人绝后吗</a></li>
 <li><a href="/ssgc/20230212/1847683.md">〖微博谈〗名字不能起太大</a></li>
-<li><a href="/topimagenews/20230212/1847588.md">快讯！加国北部发现高空飞行物体 已被击落</a></li>
 <li><a href="/cnnews/20230212/1847755.md">卫生纸价格还在涨 竟跟房市降温有关</a></li>
-<li><a href="/topimagenews/20230212/1847674.md">非常危险！中共在“养小鬼”</a></li>
 <li><a href="/comments/20230212/1847762.md">中国称180多国承认“一中原则” 新加坡研究狠戳破</a></li>
-<li><a href="/comments/20230212/1847679.md">小民之心：李强有心机没担当国务院出现空窗期</a></li>
-<li><a href="/ccpdope/20230212/1847691.md">李谷一劈腿离婚 前夫是汤灿宋祖英老师</a></li>
+<li><a href="/topimagenews/20230212/1847588.md">快讯！加国北部发现高空飞行物体 已被击落</a></li>
+<li><a href="/topimagenews/20230212/1847674.md">非常危险！中共在“养小鬼”</a></li>
 <li><a href="/sohnews/20230213/1847776.md">“中共国【也】宣布：山东日照发现“不明飞行物” 并击落了它！”No.01（12/02/23）推特最经典留言“中共国的一切 都是抄袭美国的”</a></li>
+<li><a href="/ccpdope/20230212/1847691.md">李谷一劈腿离婚 前夫是汤灿宋祖英老师</a></li>
+<li><a href="/comments/20230212/1847679.md">小民之心：李强有心机没担当国务院出现空窗期</a></li>
 <li><a href="/sohnews/20230212/1847714.md">安倍晋三回忆录，大爆习近平不为人知的一面。｜ #时事金扫描 #shorts</a></li>
 <li><a href="/sohnews/20230212/1847772.md">🔥中共无路可走！中共党报这段话绝了！男驱车看苗寨小姐姐发现全是阿姨，景区回应；又一不明飞行物？美蒙大拿州暂时关闭领空；央视翻车 网曝中国食品放射物标准超日本福岛16倍</a></li>
+<li><a href="/cbnews/20230212/1847729.md">必要时对中共动武！基辛格抛弃中共？大逆转【阿波罗网报道】</a></li>
 <li><a href="/funmedia/20230212/1847685.md">关系再好，也不能送别人以下几样东西，很容易结仇的</a></li>
 <li><a href="/ssgc/20230212/1847707.md">中国祸害全世界</a></li>
-<li><a href="/comments/20230212/1847653.md">中国公司飞机被俄扣下全过程普京：正确决定</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
 <li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 
 </ul>
 </div>
