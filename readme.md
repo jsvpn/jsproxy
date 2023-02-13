@@ -8,26 +8,26 @@
 <li><a href="/sohnews/20230213/1847776.md">“中共国【也】宣布：山东日照发现“不明飞行物” 并击落了它！”No.01（12/02/23）推特最经典留言“中共国的一切 都是抄袭美国的”</a></li>
 <li><a href="/sohnews/20230213/1847775.md">“突发！F22驾驶员通话爆光：它像一枚巡航导弹”No.02（12/02/23）就在我上方 快速飞过</a></li>
 <li><a href="/cbnews/20230213/1847837.md">暗指彭丽媛？上海帮抛出一句话【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230212/1847772.md">🔥中共无路可走！中共党报这段话绝了！男驱车看苗寨小姐姐发现全是阿姨，景区回应；又一不明飞行物？美蒙大拿州暂时关闭领空；央视翻车 网曝中国食品放射物标准超日本福岛16倍</a></li>
 <li><a href="/sohnews/20230213/1847789.md">【直播】美加连续击落气球，第四只又惊现蒙大拿上空！山东突高调宣布拟击落“不明物体”，中共什么算盘？中共6企业被制裁，美国有更大打算！</a></li>
+<li><a href="/sohnews/20230213/1847976.md">两段疑似山东近海击落气球影像分析，难怪不宣传了：气球很像自家的，而且击落的方法似乎有点丢人😂</a></li>
 <li><a href="/topimagenews/20230213/1848009.md">习近平已成“皇帝” 全世界警戒：小心</a></li>
 <li><a href="/topimagenews/20230213/1847833.md">南宁性暗示钥匙扣事件，绝不是小题大作</a></li>
-<li><a href="/sohnews/20230213/1847976.md">两段疑似山东近海击落气球影像分析，难怪不宣传了：气球很像自家的，而且击落的方法似乎有点丢人😂</a></li>
 <li><a href="/comments/20230213/1847788.md">中国51岁网红“军中飞燕”染疫亡 传曾经换肾</a></li>
 <li><a href="/topimagenews/20230213/1847836.md">【微博精粹】只有黑老大深爱自己的老婆孩子</a></li>
 <li><a href="/topimagenews/20230213/1848010.md">毁灭性打击！中国上百条IC产线将停摆 被美日荷围堵超惨</a></li>
 <li><a href="/comments/20230213/1847787.md">统一台湾？“谁统一谁不知道” ChatGPT趣答网友笑翻</a></li>
 <li><a href="/funmedia/20230213/1847845.md">泰国特色“毒奶服务”，过程痛苦但顾客很满意，技师：不痛不爽</a></li>
-<li><a href="/sohnews/20230213/1847804.md">🔥🔥赊刀人重出江湖❗现场真实视频❗他带来了什么惊人预言❗他们都亲身见证了赊刀人❗更新版</a></li>
 <li><a href="/health/20230213/1847866.md">“新血压标准”公布，不再是120/80m，或许你的血压并不高</a></li>
+<li><a href="/sohnews/20230213/1847804.md">🔥🔥赊刀人重出江湖❗现场真实视频❗他带来了什么惊人预言❗他们都亲身见证了赊刀人❗更新版</a></li>
 <li><a href="/sohnews/20230213/1847797.md">陈破空：突发：美军打下第四个高空怪物！中方也称在山东发现一个，准备射击。党媒记者在土耳其干那事，丢尽脸遭驱逐</a></li>
-<li><a href="/sohnews/20230213/1847819.md">[江峰]中共间谍气球就是一种测试 当解放军出手打台湾 美国将如何应对? @democraticTaiwanChannel</a></li>
 <li><a href="/cnnews/20230213/1848077.md">金融圈炸锅：分析师夜场7个美女陪酒，年薪2000w</a></li>
-<li><a href="/sohnews/20230213/1847824.md">20230213直播：习近平玩伊朗牌就是在玩火；美国又打下第四个！中国搞笑碰瓷；魏主席说没给钱何主席说给了；乌克兰强硬拒绝和谈。（2023013 第1095期）</a></li>
+<li><a href="/sohnews/20230213/1847819.md">[江峰]中共间谍气球就是一种测试 当解放军出手打台湾 美国将如何应对? @democraticTaiwanChannel</a></li>
 <li><a href="/cbnews/20230213/1847928.md">〖兲朝浮世绘〗中共的本质邪恶：用你的孩子当人质害你</a></li>
-<li><a href="/sohnews/20230213/1847785.md">你吃苏丹红、孔雀绿、毒奶粉、地沟油。中国谁在吃特供？</a></li>
-<li><a href="/cbnews/20230213/1847830.md">天亮时分：第四只气球被击落！有完没完？华尔街日报披露习近平决策内幕（政论天下第932集 20230212）天亮时分</a></li>
 <li><a href="/topimagenews/20230213/1848086.md">功高震主？传普丁亲下令不准俄媒再提这个人…</a></li>
+<li><a href="/sohnews/20230213/1847785.md">你吃苏丹红、孔雀绿、毒奶粉、地沟油。中国谁在吃特供？</a></li>
+<li><a href="/sohnews/20230213/1847824.md">20230213直播：习近平玩伊朗牌就是在玩火；美国又打下第四个！中国搞笑碰瓷；魏主席说没给钱何主席说给了；乌克兰强硬拒绝和谈。（2023013 第1095期）</a></li>
+<li><a href="/cbnews/20230213/1847830.md">天亮时分：第四只气球被击落！有完没完？华尔街日报披露习近平决策内幕（政论天下第932集 20230212）天亮时分</a></li>
+<li><a href="/finance/20230213/1847849.md">北京房圈爆出诈骗大案</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230213/1848201.md" target="_blank">时事大家谈：美国连续击落入侵气球，中国威胁已成两党高度共识？医保抗议揭开黑幕一角，中国医疗资源不公有多严重？</a></li>
+<li><a href="/comments/20230213/1848197.md" target="_blank">【杜耀明评论】《东方》批评政府免于恐惧 爱国也须反对以言入罪</a></li>
 <li><a href="/comments/20230213/1848149.md" target="_blank">最受美国人欢迎的情人节礼物排名曝光</a></li>
 <li><a href="/comments/20230213/1848143.md" target="_blank">土耳其地震！震惊科学发现！地下有神秘地层！</a></li>
 <li><a href="/comments/20230213/1848126.md" target="_blank">西藏前途曙光曦微</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230213/1847788.md" target="_blank">中国51岁网红“军中飞燕”染疫亡 传曾经换肾</a></li>
 <li><a href="/comments/20230213/1847787.md" target="_blank">统一台湾？“谁统一谁不知道” ChatGPT趣答网友笑翻</a></li>
 <li><a href="/comments/20230213/1847784.md" target="_blank">《狂飙》又爆丑闻 饰演毒贩的演员曾吸毒被拘</a></li>
-<li><a href="/comments/20230212/1847764.md" target="_blank">新凶器！ 乌武装部队总司令证实俄动用“无人自杀快艇”</a></li>
-<li><a href="/comments/20230212/1847763.md" target="_blank">美墨边境中国偷渡客激增逾7倍 美提防中国间谍藉机渗透</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
 
 </ul>
 </div>
