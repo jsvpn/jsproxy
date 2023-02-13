@@ -10,14 +10,13 @@
 <li><a href="/comments/20230212/1847748.md">中国大陆注册ChatGPT教程</a></li>
 <li><a href="/sohnews/20230212/1847753.md">说谁呢🤔“你凭什么在台上？”“三个信念”“一坚持、二不要脸、三坚持不要脸”</a></li>
 <li><a href="/cnnews/20230212/1847755.md">卫生纸价格还在涨 竟跟房市降温有关</a></li>
-<li><a href="/sohnews/20230213/1847776.md">“中共国【也】宣布：山东日照发现“不明飞行物” 并击落了它！”No.01（12/02/23）推特最经典留言“中共国的一切 都是抄袭美国的”</a></li>
 <li><a href="/comments/20230212/1847762.md">中国称180多国承认“一中原则” 新加坡研究狠戳破</a></li>
+<li><a href="/sohnews/20230213/1847776.md">“中共国【也】宣布：山东日照发现“不明飞行物” 并击落了它！”No.01（12/02/23）推特最经典留言“中共国的一切 都是抄袭美国的”</a></li>
 <li><a href="/sohnews/20230213/1847789.md">【直播】美加连续击落气球，第四只又惊现蒙大拿上空！山东突高调宣布拟击落“不明物体”，中共什么算盘？中共6企业被制裁，美国有更大打算！</a></li>
 <li><a href="/sohnews/20230213/1847775.md">“突发！F22驾驶员通话爆光：它像一枚巡航导弹”No.02（12/02/23）就在我上方 快速飞过</a></li>
 <li><a href="/sohnews/20230212/1847772.md">🔥中共无路可走！中共党报这段话绝了！男驱车看苗寨小姐姐发现全是阿姨，景区回应；又一不明飞行物？美蒙大拿州暂时关闭领空；央视翻车 网曝中国食品放射物标准超日本福岛16倍</a></li>
 <li><a href="/sohnews/20230212/1847714.md">安倍晋三回忆录，大爆习近平不为人知的一面。｜ #时事金扫描 #shorts</a></li>
 <li><a href="/cbnews/20230212/1847729.md">必要时对中共动武！基辛格抛弃中共？大逆转【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230212/1847695.md">男子驱车看苗寨小姐姐发现全是阿姨，景区回应</a></li>
 <li><a href="/ssgc/20230212/1847707.md">中国祸害全世界</a></li>
 <li><a href="/sohnews/20230212/1847761.md">北约内讧？德国政党要追责拜登和舒尔茨。美军在加拿大上空击落间谍气球。美国发现第四个气球。拜登政府为什么不提间谍气球来自中共？背后原因让很多人想不通。</a></li>
 <li><a href="/comments/20230213/1847788.md">中国51岁网红“军中飞燕”染疫亡 传曾经换肾</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/lifebaike/20230212/1847726.md">日式烧烤为什么叫“烧鸟”，烧鸟到底是什么？</a></li>
 <li><a href="/comments/20230212/1847764.md">新凶器！ 乌武装部队总司令证实俄动用“无人自杀快艇”</a></li>
 <li><a href="/sohnews/20230212/1847715.md">【气数已尽】清华大学乌鸦到处飞，鸟粪遍地，大白天蚯蚓到处爬。</a></li>
+<li><a href="/sohnews/20230212/1847757.md">陈破空：惊现第三颗间谍气球！加总理下令击落。美加进入自卫战。中南海害怕一锅端，紧急演练避险大逃亡。直播与互动。美东2月12日早8点30、即中港台2月12日晚9点30</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
 <li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
 
 </ul>
 </div>
