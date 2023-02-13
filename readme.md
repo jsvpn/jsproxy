@@ -5,8 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230213/1847776.md">“中共国【也】宣布：山东日照发现“不明飞行物” 并击落了它！”No.01（12/02/23）推特最经典留言“中共国的一切 都是抄袭美国的”</a></li>
-<li><a href="/sohnews/20230213/1847775.md">“突发！F22驾驶员通话爆光：它像一枚巡航导弹”No.02（12/02/23）就在我上方 快速飞过</a></li>
 <li><a href="/cbnews/20230213/1847837.md">暗指彭丽媛？上海帮抛出一句话【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230213/1847976.md">两段疑似山东近海击落气球影像分析，难怪不宣传了：气球很像自家的，而且击落的方法似乎有点丢人😂</a></li>
 <li><a href="/sohnews/20230213/1847789.md">【直播】美加连续击落气球，第四只又惊现蒙大拿上空！山东突高调宣布拟击落“不明物体”，中共什么算盘？中共6企业被制裁，美国有更大打算！</a></li>
@@ -14,20 +12,22 @@
 <li><a href="/topimagenews/20230213/1847833.md">南宁性暗示钥匙扣事件，绝不是小题大作</a></li>
 <li><a href="/comments/20230213/1847788.md">中国51岁网红“军中飞燕”染疫亡 传曾经换肾</a></li>
 <li><a href="/topimagenews/20230213/1847836.md">【微博精粹】只有黑老大深爱自己的老婆孩子</a></li>
-<li><a href="/topimagenews/20230213/1848010.md">毁灭性打击！中国上百条IC产线将停摆 被美日荷围堵超惨</a></li>
 <li><a href="/comments/20230213/1847787.md">统一台湾？“谁统一谁不知道” ChatGPT趣答网友笑翻</a></li>
+<li><a href="/topimagenews/20230213/1848010.md">毁灭性打击！中国上百条IC产线将停摆 被美日荷围堵超惨</a></li>
 <li><a href="/funmedia/20230213/1847845.md">泰国特色“毒奶服务”，过程痛苦但顾客很满意，技师：不痛不爽</a></li>
+<li><a href="/cnnews/20230213/1848077.md">金融圈炸锅：分析师夜场7个美女陪酒，年薪2000w</a></li>
 <li><a href="/sohnews/20230213/1847804.md">🔥🔥赊刀人重出江湖❗现场真实视频❗他带来了什么惊人预言❗他们都亲身见证了赊刀人❗更新版</a></li>
 <li><a href="/health/20230213/1847866.md">“新血压标准”公布，不再是120/80m，或许你的血压并不高</a></li>
-<li><a href="/cnnews/20230213/1848077.md">金融圈炸锅：分析师夜场7个美女陪酒，年薪2000w</a></li>
 <li><a href="/sohnews/20230213/1847797.md">陈破空：突发：美军打下第四个高空怪物！中方也称在山东发现一个，准备射击。党媒记者在土耳其干那事，丢尽脸遭驱逐</a></li>
-<li><a href="/sohnews/20230213/1847819.md">[江峰]中共间谍气球就是一种测试 当解放军出手打台湾 美国将如何应对? @democraticTaiwanChannel</a></li>
+<li><a href="/sohnews/20230213/1848147.md">2023可能真熬不过去了,近两万亿美元外汇失踪将引发严重危机！消费降级至少持续十年,东北的现在就是中国的未来⋯⋯</a></li>
 <li><a href="/topimagenews/20230213/1848086.md">功高震主？传普丁亲下令不准俄媒再提这个人…</a></li>
+<li><a href="/sohnews/20230213/1847819.md">[江峰]中共间谍气球就是一种测试 当解放军出手打台湾 美国将如何应对? @democraticTaiwanChannel</a></li>
 <li><a href="/topimagenews/20230213/1848064.md">战车打光了改用“人海战术”！俄军徒步挺进乌列达尔战场…</a></li>
 <li><a href="/cbnews/20230213/1847928.md">〖兲朝浮世绘〗中共的本质邪恶：用你的孩子当人质害你</a></li>
-<li><a href="/sohnews/20230213/1848147.md">2023可能真熬不过去了,近两万亿美元外汇失踪将引发严重危机！消费降级至少持续十年,东北的现在就是中国的未来⋯⋯</a></li>
 <li><a href="/sohnews/20230213/1847785.md">你吃苏丹红、孔雀绿、毒奶粉、地沟油。中国谁在吃特供？</a></li>
 <li><a href="/sohnews/20230213/1847824.md">20230213直播：习近平玩伊朗牌就是在玩火；美国又打下第四个！中国搞笑碰瓷；魏主席说没给钱何主席说给了；乌克兰强硬拒绝和谈。（2023013 第1095期）</a></li>
+<li><a href="/finance/20230213/1847849.md">北京房圈爆出诈骗大案</a></li>
+<li><a href="/cnnews/20230213/1848102.md">山东现“不明飞行物” 大陆网疯传外国潜艇遭困渤海湾 专业分析大打脸</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230214/1848228.md" target="_blank">时事大家谈：医保抗议揭开黑幕一角，中国医疗资源不公有多严重？</a></li>
+<li><a href="/comments/20230214/1848227.md" target="_blank">时事大家谈：美国连续击落入侵气球，中国威胁已成两党高度共识？</a></li>
 <li><a href="/comments/20230213/1848201.md" target="_blank">时事大家谈：美国连续击落入侵气球，中国威胁已成两党高度共识？医保抗议揭开黑幕一角，中国医疗资源不公有多严重？</a></li>
 <li><a href="/comments/20230213/1848197.md" target="_blank">【杜耀明评论】《东方》批评政府免于恐惧 爱国也须反对以言入罪</a></li>
 <li><a href="/comments/20230213/1848149.md" target="_blank">最受美国人欢迎的情人节礼物排名曝光</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230213/1847868.md" target="_blank">【首发】李德君：刘云山抗日与吴京的战狼</a></li>
 <li><a href="/comments/20230213/1847867.md" target="_blank">财经网美：间谍气球如“中共版珍珠港事件”</a></li>
 <li><a href="/comments/20230213/1847788.md" target="_blank">中国51岁网红“军中飞燕”染疫亡 传曾经换肾</a></li>
-<li><a href="/comments/20230213/1847787.md" target="_blank">统一台湾？“谁统一谁不知道” ChatGPT趣答网友笑翻</a></li>
-<li><a href="/comments/20230213/1847784.md" target="_blank">《狂飙》又爆丑闻 饰演毒贩的演员曾吸毒被拘</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
 <li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 <li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 <li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
 
 </ul>
 </div>
