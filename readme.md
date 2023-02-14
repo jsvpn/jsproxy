@@ -10,24 +10,24 @@
 <li><a href="/comments/20230213/1848143.md">土耳其地震！震惊科学发现！地下有神秘地层！</a></li>
 <li><a href="/finance/20230214/1848282.md">为逃习近平打压 中国富豪竟然都润到这个地方</a></li>
 <li><a href="/topimagenews/20230214/1848309.md">天降死神！美制“神剑”炮弹横扫战场俄军死伤惨重</a></li>
-<li><a href="/topimagenews/20230213/1848191.md">中共扫黑宣传剧《狂飙》员警 全身外国名牌96500元 网质疑遭删除</a></li>
 <li><a href="/baitai/20230214/1848262.md">顺藤摸瓜 瓜爹薄熙来是否还有一个「私生瓜」？</a></li>
+<li><a href="/topimagenews/20230213/1848191.md">中共扫黑宣传剧《狂飙》员警 全身外国名牌96500元 网质疑遭删除</a></li>
 <li><a href="/topimagenews/20230214/1848443.md">没钱！力度之大令人震惊！山西削减机构；震惊业内：一个晚上赔6900亿</a></li>
 <li><a href="/sohnews/20230214/1848268.md">“即将爆发！美国要求公民“立刻离开”俄罗斯”No.02（13/02/23）不赞成任何旅行</a></li>
 <li><a href="/sohnews/20230213/1847760.md">安倍死前口述回忆录论天下英雄：习近平政治娼妓，川普军事懦夫，印度人信赖日本，韩国人专职坑爹</a></li>
 <li><a href="/cbnews/20230214/1848466.md">〖兲朝浮世绘〗中共倒打一耙 洪公公替主子出来吓唬美国</a></li>
+<li><a href="/topimagenews/20230214/1848472.md">比间谍气球更恐怖！专家：中企惊人1幕让美国人“不寒而栗”…</a></li>
 <li><a href="/yule/20230214/1848289.md">45岁凭“我是歌手”爆红 如今爆瘦换头惊呆全网</a></li>
 <li><a href="/ssgc/20230214/1848364.md">〖微博谈〗世界上还有什么不能脱钩？</a></li>
-<li><a href="/topimagenews/20230214/1848472.md">比间谍气球更恐怖！专家：中企惊人1幕让美国人“不寒而栗”…</a></li>
 <li><a href="/baitai/20230213/1848127.md">惊！四川广播电台主持人尸身遍布瘀青 台拒人权恶棍叶小文入境</a></li>
 <li><a href="/cnnews/20230214/1848286.md">美团队发现：银河系外发生过一次大型星系移民</a></li>
 <li><a href="/baitai/20230214/1848311.md">中共内部压力山大 学者：美国趁机动手</a></li>
+<li><a href="/cbnews/20230214/1848294.md">长沙男子在网咖连玩5天猝死 面目狰狞仰天后倒地</a></li>
 <li><a href="/topimagenews/20230213/1848190.md">山东现“不明飞行物” 陆网疯传外国潜艇遭困渤海湾 专业分析大打脸</a></li>
 <li><a href="/cbnews/20230213/1848135.md">人缘差到这样？男办婚宴“3千村民0人捧场” 新郎痛心：连爸也没来</a></li>
-<li><a href="/cbnews/20230214/1848294.md">长沙男子在网咖连玩5天猝死 面目狰狞仰天后倒地</a></li>
 <li><a href="/cbnews/20230213/1848138.md">谁都未料到气球事件闹这么大 中美关系出现极不寻常冲突点</a></li>
 <li><a href="/baitai/20230214/1848310.md">北京倒打一耙称美气球飞越中国领空 白宫迅速回应</a></li>
-<li><a href="/sohnews/20230214/1848313.md">三天三个飞行物谁的，中共危机管控失灵，习近平多大程度控制局势存疑，中共面临挑战是理论落后实践吗｜横河观点 2023.02.13</a></li>
+<li><a href="/funmedia/20230214/1848464.md">2只小鸟在一间房里囤了300多公斤粮食！5年的心血，最后却悲剧了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230214/1848585.md" target="_blank">准备战争？新领导势力崛起 “军工五人帮”入政治局</a></li>
+<li><a href="/comments/20230214/1848573.md" target="_blank">中国万亿美元贸易顺差去哪儿了</a></li>
 <li><a href="/comments/20230214/1848480.md" target="_blank">中共击落自己气球嫁祸美国？气球遭美四连击後，汪文斌碰瓷美国，全球围观中共自导自演抵赖？</a></li>
 <li><a href="/comments/20230214/1848447.md" target="_blank">器官捐献宣传，别老是打未成年人的主意</a></li>
 <li><a href="/comments/20230214/1848446.md" target="_blank">转折临界点终于到来…</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230213/1848122.md" target="_blank">小粉红造谣美军引爆核弹造成土叙强震 中国网友傻眼痛批自家人</a></li>
 <li><a href="/comments/20230213/1848093.md" target="_blank">够讽刺！嚣张跋扈的“大白”被迫下岗 靠“维权”度日 拉横幅讨薪上访了</a></li>
 <li><a href="/comments/20230213/1848088.md" target="_blank">沈舟：一旦中美“擦枪走火”，将很快分出胜负</a></li>
-<li><a href="/comments/20230213/1847947.md" target="_blank">世界末日危机频发（4）土耳其叙利亚7.8级地震死亡人数或超过6万 一颗小行星近距离掠过地球千钧一发 南极巨大冰山崩离面积相当于大伦敦地区 日本樱岛火山口时隔5年再喷发 世界末日钟发最严重警告：距离象征末日的午夜仅剩90秒 联合国秘书长警告各国：在为时已晚之前采取果断行动</a></li>
-<li><a href="/comments/20230213/1847877.md" target="_blank">“美国的大鱼来了！”中媒对俄爹有多孝顺？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 <li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
 
 </ul>
 </div>
