@@ -11,7 +11,6 @@
 <li><a href="/comments/20230213/1848143.md">土耳其地震！震惊科学发现！地下有神秘地层！</a></li>
 <li><a href="/finance/20230214/1848282.md">为逃习近平打压 中国富豪竟然都润到这个地方</a></li>
 <li><a href="/topimagenews/20230214/1848309.md">天降死神！美制“神剑”炮弹横扫战场俄军死伤惨重</a></li>
-<li><a href="/topimagenews/20230213/1848086.md">功高震主？传普丁亲下令不准俄媒再提这个人…</a></li>
 <li><a href="/topimagenews/20230213/1848191.md">中共扫黑宣传剧《狂飙》员警 全身外国名牌96500元 网质疑遭删除</a></li>
 <li><a href="/baitai/20230214/1848262.md">顺藤摸瓜 瓜爹薄熙来是否还有一个「私生瓜」？</a></li>
 <li><a href="/cnnews/20230213/1848102.md">山东现“不明飞行物” 大陆网疯传外国潜艇遭困渤海湾 专业分析大打脸</a></li>
@@ -22,11 +21,12 @@
 <li><a href="/baitai/20230213/1848127.md">惊！四川广播电台主持人尸身遍布瘀青 台拒人权恶棍叶小文入境</a></li>
 <li><a href="/ssgc/20230214/1848364.md">〖微博谈〗世界上还有什么不能脱钩？</a></li>
 <li><a href="/cnnews/20230214/1848286.md">美团队发现：银河系外发生过一次大型星系移民</a></li>
-<li><a href="/comments/20230213/1848093.md">够讽刺！嚣张跋扈的“大白”被迫下岗 靠“维权”度日 拉横幅讨薪上访了</a></li>
-<li><a href="/baitai/20230214/1848311.md">中共内部压力山大 学者：美国趁机动手</a></li>
-<li><a href="/cbnews/20230214/1848466.md">〖兲朝浮世绘〗中共倒打一耙 洪公公替主子出来吓唬美国</a></li>
-<li><a href="/topimagenews/20230213/1848190.md">山东现“不明飞行物” 陆网疯传外国潜艇遭困渤海湾 专业分析大打脸</a></li>
 <li><a href="/topimagenews/20230214/1848472.md">比间谍气球更恐怖！专家：中企惊人1幕让美国人“不寒而栗”…</a></li>
+<li><a href="/cbnews/20230214/1848466.md">〖兲朝浮世绘〗中共倒打一耙 洪公公替主子出来吓唬美国</a></li>
+<li><a href="/baitai/20230214/1848311.md">中共内部压力山大 学者：美国趁机动手</a></li>
+<li><a href="/comments/20230213/1848093.md">够讽刺！嚣张跋扈的“大白”被迫下岗 靠“维权”度日 拉横幅讨薪上访了</a></li>
+<li><a href="/topimagenews/20230213/1848190.md">山东现“不明飞行物” 陆网疯传外国潜艇遭困渤海湾 专业分析大打脸</a></li>
+<li><a href="/cbnews/20230213/1848135.md">人缘差到这样？男办婚宴“3千村民0人捧场” 新郎痛心：连爸也没来</a></li>
 <li><a href="/cbnews/20230214/1848294.md">长沙男子在网咖连玩5天猝死 面目狰狞仰天后倒地</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 <li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
 
 </ul>
 </div>
