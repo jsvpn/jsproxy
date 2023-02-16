@@ -10,10 +10,10 @@
 <li><a href="/baitai/20230216/1849263.md">中共真的怕了？武汉爆发「白发革命」 警察维稳不敢下手</a></li>
 <li><a href="/sohnews/20230216/1849171.md">“网络骂声一片！爆光舍利子 - 毁了星云和佛光山”No.02（15/02/23）其弟子解释星云是【坐塔荼毘（pi）】 不是【坐缸圆寂】</a></li>
 <li><a href="/topimagenews/20230216/1849388.md">北京律所女主管曝与多位法官乱搞 最新通报来了 网质疑</a></li>
-<li><a href="/yule/20230216/1849174.md">传刘文正病逝 消息登中国微博热搜榜</a></li>
-<li><a href="/topimagenews/20230216/1849453.md">快成停车场了！全球第三大 深圳盐田港空荡荡 网酸：2月份出口数据“依然爆棚”</a></li>
 <li><a href="/topimagenews/20230216/1849506.md">十分诡谲！北京石家庄机场疑似军管 所有航班异地降落【阿波罗网报道】</a></li>
+<li><a href="/yule/20230216/1849174.md">传刘文正病逝 消息登中国微博热搜榜</a></li>
 <li><a href="/cnnews/20230216/1849214.md">盖茨警告：人类下个重大威胁非气候变化，而是它</a></li>
+<li><a href="/topimagenews/20230216/1849453.md">快成停车场了！全球第三大 深圳盐田港空荡荡 网酸：2月份出口数据“依然爆棚”</a></li>
 <li><a href="/cbnews/20230216/1849367.md">〖兲朝浮世绘〗对人矿压榨到极致 中共出绝招抢割老人韭菜</a></li>
 <li><a href="/topimagenews/20230216/1849448.md">照片为证："胡锡进回到美国 瞅他兴奋的…"</a></li>
 <li><a href="/sohnews/20230216/1849197.md">“舍利子风波！台湾名记者痛斥：全无顾忌你师父叮嘱 此为恶例！”No.04（15/02/23）医生作证：星云患有多年糖尿病与肾衰竭</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/sohnews/20230216/1849431.md">文睿：央行恐怖大放水，人民币要变废纸了</a></li>
 <li><a href="/ssgc/20230216/1849318.md">〖微博谈〗总能交到错误的朋友</a></li>
 <li><a href="/sohnews/20230216/1849166.md">白发革命！“武汉医保改革”藏魔鬼细节！怪不得大批老人走上街头；中央一号文件，开始管制“高价彩礼”，这是啥意思？中国“粮食危机”的六大原因，还有一个怪异之处｜新拍早茶 大宇｜感谢扶摇主持的《新闻大家谈》</a></li>
-<li><a href="/lifebaike/20230216/1849241.md">50年前我们的教科书中外国是这样的</a></li>
 <li><a href="/cnnews/20230216/1849213.md">俄兵前线喝泥水崩溃飙骂，他曝：俄军已全盘皆输</a></li>
-<li><a href="/sohnews/20230216/1849238.md">🔥“中国气球”到处飞？他揭习近平可能患此病；习盛邀美宿敌访京背后；夏立言会王沪宁！赖清德：北京定义“九二共识”没中华民国生存空间；广东“健康码”停用 ？网：没那么简单【阿波罗网AL】</a></li>
+<li><a href="/lifebaike/20230216/1849241.md">50年前我们的教科书中外国是这样的</a></li>
+<li><a href="/cbnews/20230216/1849530.md">白宫的态度，为什么突然变了？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 <li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
 
 </ul>
 </div>
