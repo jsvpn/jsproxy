@@ -18,16 +18,16 @@
 <li><a href="/cbnews/20230216/1849542.md">石家庄机场航班突受管制备降 发现不明飞行物…</a></li>
 <li><a href="/yule/20230216/1849422.md">刘文正在美离世 留下22栋房产 亿万家产无人继承</a></li>
 <li><a href="/topimagenews/20230216/1849528.md">“对台军售”！中共宣布制裁洛克希德马丁、雷神导弹 …</a></li>
-<li><a href="/sohnews/20230216/1849561.md">习近平重大经济讲话爆“无解危机”——彻底没戏！！！</a></li>
 <li><a href="/sohnews/20230216/1849431.md">文睿：央行恐怖大放水，人民币要变废纸了</a></li>
+<li><a href="/sohnews/20230216/1849561.md">习近平重大经济讲话爆“无解危机”——彻底没戏！！！</a></li>
 <li><a href="/baitai/20230216/1849519.md">日本公布6大长寿行为，运动仅排最后</a></li>
 <li><a href="/comments/20230216/1849449.md">一场大型灾难前奏 中共官方声明泄密谋行动</a></li>
 <li><a href="/ssgc/20230216/1849318.md">〖微博谈〗总能交到错误的朋友</a></li>
-<li><a href="/lifebaike/20230216/1849241.md">50年前我们的教科书中外国是这样的</a></li>
 <li><a href="/worldnews/20230216/1849532.md">猛虎咬死18岁少年，12小时后又去他家杀了他祖父</a></li>
 <li><a href="/cbnews/20230216/1849370.md">天亮时分：第二次“武昌起义”，喊出“打倒反动政府”；三城两万人上街，中共大限将至？医保改革的真相是什么？（政论天下第934集 20230215）</a></li>
-<li><a href="/sohnews/20230216/1849238.md">🔥“中国气球”到处飞？他揭习近平可能患此病；习盛邀美宿敌访京背后；夏立言会王沪宁！赖清德：北京定义“九二共识”没中华民国生存空间；广东“健康码”停用 ？网：没那么简单【阿波罗网AL】</a></li>
 <li><a href="/sohnews/20230216/1849512.md">人离世后会经历什么？原来这49天很关键！教你如何面对人生终站的拷问！【地球旅馆】点击观看完整影片： https://youtu.be/B9DtJxuch3Y</a></li>
+<li><a href="/yule/20230216/1849473.md">刘文正被传“乌龙死讯” 谁在“搞破坏”？</a></li>
+<li><a href="/ssgc/20230216/1849490.md">昔高压清零打民企 习近平今又要求扩大内需吸外资</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230217/1849738.md" target="_blank">中共瞎扯法外长“坚定支持一中”法官方文稿根本只字未提还关切人权</a></li>
 <li><a href="/topimagenews/20230217/1849696.md" target="_blank">拜登将与习近平对话 厘清气球来龙去脉…不会致歉</a></li>
 <li><a href="/topimagenews/20230216/1849528.md" target="_blank">“对台军售”！中共宣布制裁洛克希德马丁、雷神导弹 …</a></li>
 <li><a href="/topimagenews/20230216/1849506.md" target="_blank">十分诡谲！北京石家庄机场疑似军管 所有航班异地降落【阿波罗网报道】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230214/1848625.md" target="_blank">金正恩变宠女狂人！北朝鲜新邮票主角 全是“爱女金朱爱”</a></li>
 <li><a href="/topimagenews/20230214/1848532.md" target="_blank">大陆人妻靠美色攀多名高官 老公默许爽上位下场曝光</a></li>
 <li><a href="/topimagenews/20230214/1848497.md" target="_blank">担心“佣兵头子盟友”政变 普丁拟将“瓦格纳佣兵团”撤出乌克兰…</a></li>
-<li><a href="/topimagenews/20230214/1848494.md" target="_blank">这国总统在人民日报发文，不小心吐露实情【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
 <li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
 
 </ul>
 </div>
