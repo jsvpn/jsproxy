@@ -11,8 +11,8 @@
 <li><a href="/renquan/20230215/1849012.md">中国武汉再爆发大规模示威 退休人员抗议削减医保福利</a></li>
 <li><a href="/cnnews/20230215/1848946.md">武汉大连两地退休人员同日举行大规模集会游行 抗议医保缩水【阿波罗网报道】</a></li>
 <li><a href="/comments/20230215/1849074.md">武汉大连同时爆发大规模抗议 怒吼：打倒反动政府</a></li>
-<li><a href="/topimagenews/20230215/1849042.md">普丁错了！美军事首长：俄军3大方面都战败</a></li>
 <li><a href="/cnnews/20230215/1848976.md">说到做到！武汉大爷大妈真上街抗议了！网友赞叹：好样的！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230215/1849042.md">普丁错了！美军事首长：俄军3大方面都战败</a></li>
 <li><a href="/baitai/20230215/1849095.md">下发重头文件 习近平疑要动手？目标或二选一</a></li>
 <li><a href="/sohnews/20230215/1849061.md">陈破空：爆发！武汉数十万人集会游行，高喊打倒反动政府！沿武昌起义路线。大连同日爆发示威。官府阻拦、封网、抓人。市民齐心救人。直播与互动。美东2月14日早8点30、即中港台2月14日晚9点30</a></li>
 <li><a href="/topimagenews/20230215/1848879.md">金与正失宠？被爆阅兵典礼站角落</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/baitai/20230215/1848982.md">颜纯鈎：一个政府要多蠢，才把自己打造成世界公敌？</a></li>
 <li><a href="/cbnews/20230215/1849075.md">恐怖情人节！商场手扶梯前男持尖刀刺死女友 民众目睹奔逃</a></li>
 <li><a href="/cnnews/20230215/1848973.md">中共一号文件，暗藏可怕内容【阿波罗网报道】</a></li>
+<li><a href="/lifebaike/20230216/1849161.md">回农村养老不到一年 落荒而逃</a></li>
 <li><a href="/ssgc/20230215/1849081.md">一个政府要多蠢，才把自己打造成世界公敌？</a></li>
-<li><a href="/cnnews/20230215/1848958.md">iOS16.3.1正式版发布 续航太省电 5G信号满格..</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230216/1849294.md" target="_blank">何冰：已经到了“乱世买黄金”的时候了吗？</a></li>
+<li><a href="/comments/20230216/1849293.md" target="_blank">掸封尘：撕春联之后 城管再惹众怒</a></li>
+<li><a href="/comments/20230216/1849292.md" target="_blank">王赫：2023中共与欧盟关系能止跌回稳吗？</a></li>
 <li><a href="/comments/20230216/1849275.md" target="_blank">文昭：2•15武汉再爆大规模医保示威，大连响应！第二次「武昌起义」、中国跨入新门槛！抗争趋势和历史重现</a></li>
 <li><a href="/comments/20230216/1849273.md" target="_blank">李燕铭：中共末日之全民反共 抗议风起云涌（9） 武汉数万人集会 大连鞍山同日抗议医保缩水 怒吼：打倒反动政府 汪小菲：“为什么咱们不能跟共产党争一争，执政去啊？” “王家梁”顶着冲锋枪示威抗议 深圳人发出怒吼：共产党放屁！上海自救自治委员会发布宣言</a></li>
 <li><a href="/comments/20230216/1849272.md" target="_blank">总统官邸谁来走春？品尝吃不胖零食</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230215/1849052.md" target="_blank">官媒想煽情 又翻车了…</a></li>
 <li><a href="/comments/20230215/1849043.md" target="_blank">钟原：气球事件中共反咬 搅局却弄巧成拙</a></li>
 <li><a href="/comments/20230215/1848937.md" target="_blank">维舟:为什么健康的社会不应该只有一种声音</a></li>
-<li><a href="/comments/20230215/1848936.md" target="_blank">野渡：情人节致邹幸彤：不负爱与自由</a></li>
-<li><a href="/comments/20230215/1848933.md" target="_blank">两位神秘人爆料互相佐证：大学中学“挑货”已成常态！阳光青少年、美女学生老师分别送给谁？</a></li>
-<li><a href="/comments/20230215/1848915.md" target="_blank">宋国诚: 中南海正走向自毁之路</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
 <li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
 
 </ul>
 </div>
