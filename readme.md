@@ -10,24 +10,24 @@
 <li><a href="/baitai/20230216/1849263.md">中共真的怕了？武汉爆发「白发革命」 警察维稳不敢下手</a></li>
 <li><a href="/topimagenews/20230216/1849506.md">十分诡谲！北京石家庄机场疑似军管 所有航班异地降落【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230216/1849171.md">“网络骂声一片！爆光舍利子 - 毁了星云和佛光山”No.02（15/02/23）其弟子解释星云是【坐塔荼毘（pi）】 不是【坐缸圆寂】</a></li>
-<li><a href="/topimagenews/20230216/1849388.md">北京律所女主管曝与多位法官乱搞 最新通报来了 网质疑</a></li>
 <li><a href="/yule/20230216/1849174.md">传刘文正病逝 消息登中国微博热搜榜</a></li>
+<li><a href="/topimagenews/20230216/1849388.md">北京律所女主管曝与多位法官乱搞 最新通报来了 网质疑</a></li>
 <li><a href="/cbnews/20230216/1849367.md">〖兲朝浮世绘〗对人矿压榨到极致 中共出绝招抢割老人韭菜</a></li>
-<li><a href="/topimagenews/20230216/1849453.md">快成停车场了！全球第三大 深圳盐田港空荡荡 网酸：2月份出口数据“依然爆棚”</a></li>
 <li><a href="/cnnews/20230216/1849214.md">盖茨警告：人类下个重大威胁非气候变化，而是它</a></li>
+<li><a href="/topimagenews/20230216/1849453.md">快成停车场了！全球第三大 深圳盐田港空荡荡 网酸：2月份出口数据“依然爆棚”</a></li>
 <li><a href="/sohnews/20230216/1849197.md">“舍利子风波！台湾名记者痛斥：全无顾忌你师父叮嘱 此为恶例！”No.04（15/02/23）医生作证：星云患有多年糖尿病与肾衰竭</a></li>
 <li><a href="/topimagenews/20230216/1849448.md">照片为证："胡锡进回到美国 瞅他兴奋的…"</a></li>
 <li><a href="/lifebaike/20230216/1849161.md">回农村养老不到一年 落荒而逃</a></li>
+<li><a href="/cbnews/20230216/1849530.md">白宫的态度，为什么突然变了？</a></li>
 <li><a href="/comments/20230216/1849207.md">党朝不婚青年～伸出咸猪手……</a></li>
 <li><a href="/baitai/20230216/1849350.md">中共邀伊朗访中 评：这么蠢的政府世界难找</a></li>
-<li><a href="/cbnews/20230216/1849530.md">白宫的态度，为什么突然变了？</a></li>
 <li><a href="/yule/20230216/1849422.md">刘文正在美离世 留下22栋房产 亿万家产无人继承</a></li>
 <li><a href="/comments/20230216/1849449.md">一场大型灾难前奏 中共官方声明泄密谋行动</a></li>
 <li><a href="/sohnews/20230216/1849431.md">文睿：央行恐怖大放水，人民币要变废纸了</a></li>
-<li><a href="/ssgc/20230216/1849318.md">〖微博谈〗总能交到错误的朋友</a></li>
+<li><a href="/sohnews/20230216/1849527.md">习近平不再是以前的习近平！54、64、A4到“武市”，“白发革命”当局如何收场？中国酝酿变革；武汉医保改革的魔鬼细节：大病看不起、小病用不上；大连鞍山多地串联，抗议有现燎原之势｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20230216/1849166.md">白发革命！“武汉医保改革”藏魔鬼细节！怪不得大批老人走上街头；中央一号文件，开始管制“高价彩礼”，这是啥意思？中国“粮食危机”的六大原因，还有一个怪异之处｜新拍早茶 大宇｜感谢扶摇主持的《新闻大家谈》</a></li>
-<li><a href="/cnnews/20230216/1849213.md">俄兵前线喝泥水崩溃飙骂，他曝：俄军已全盘皆输</a></li>
-<li><a href="/lifebaike/20230216/1849241.md">50年前我们的教科书中外国是这样的</a></li>
+<li><a href="/ssgc/20230216/1849318.md">〖微博谈〗总能交到错误的朋友</a></li>
+<li><a href="/cbnews/20230216/1849542.md">石家庄机场航班突受管制备降 发现不明飞行物…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230216/1849621.md" target="_blank">白发运动遭维稳 武汉人吁国际关注</a></li>
 <li><a href="/cbnews/20230216/1849603.md" target="_blank">四川电台主持人狱中惨死 同监室友发信哀悼</a></li>
 <li><a href="/cbnews/20230216/1849542.md" target="_blank">石家庄机场航班突受管制备降 发现不明飞行物…</a></li>
 <li><a href="/cbnews/20230216/1849530.md" target="_blank">白宫的态度，为什么突然变了？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230214/1848648.md" target="_blank">男子突发奇想邀朋友从杭州划船到北京 6小时走5KM最后划进警局</a></li>
 <li><a href="/cbnews/20230214/1848619.md" target="_blank">宛如文革再现！人民日报评论员文章内容惊人【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230214/1848466.md" target="_blank">〖兲朝浮世绘〗中共倒打一耙 洪公公替主子出来吓唬美国</a></li>
-<li><a href="/cbnews/20230214/1848445.md" target="_blank">威力强大的“空中武者”！美F-22 猛禽战机从未出售过</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230216/1849618.md" target="_blank">时事大家谈：中国多省扩招公务员5至8成，谁来养活庞大国家机器？</a></li>
+<li><a href="/comments/20230216/1849617.md" target="_blank">时事大家谈：北呼应抗议医保新规，武汉大连星火能否燎原？</a></li>
 <li><a href="/comments/20230216/1849600.md" target="_blank">时事大家谈：北呼应抗议医保新规，武汉大连星火能否燎原？中国多省扩招公务员5至8成，谁来养活庞大国家机器？</a></li>
 <li><a href="/comments/20230216/1849597.md" target="_blank">【杜耀明评论】立法会初选案，法庭在审讯甚么？</a></li>
 <li><a href="/comments/20230216/1849572.md" target="_blank">又是气球惹祸 中国石家庄机场一度关闭引发恐慌</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230216/1849310.md" target="_blank">邓英士：对孔子“唯女子与小人为难养也”一语之感悟</a></li>
 <li><a href="/comments/20230216/1849309.md" target="_blank">夏林：2023年投资篮子里 是否要放股票？</a></li>
 <li><a href="/comments/20230216/1849294.md" target="_blank">何冰：已经到了“乱世买黄金”的时候了吗？</a></li>
-<li><a href="/comments/20230216/1849293.md" target="_blank">掸封尘：撕春联之后 城管再惹众怒</a></li>
-<li><a href="/comments/20230216/1849292.md" target="_blank">王赫：2023中共与欧盟关系能止跌回稳吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
 <li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 
 </ul>
 </div>
