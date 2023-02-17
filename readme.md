@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/baitai/20230217/1849755.md">对付白发革命 中共出毒招</a></li>
 <li><a href="/topimagenews/20230217/1849879.md">“搬石头砸自己的脚”！澳媒：中共“爬回来”买澳煤被拒绝…</a></li>
 <li><a href="/ssgc/20230217/1849818.md">〖微博谈〗这不是一个正常人类的思维</a></li>
 <li><a href="/sohnews/20230217/1849940.md">索罗斯：习没法终身执政！石家庄突然空中管制，跟伊朗总统有关？！北京上海山东兰州，空域都有异动，众多航班异地降落；中伊联合声明，说一回事、做又一回事；拜登为气球全国讲话，有点气人｜新闻拍案惊奇 大宇</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/cnnews/20230217/1849965.md">夫妻俩工资15000，回村养老不到一年，落荒而逃</a></li>
 <li><a href="/topimagenews/20230217/1849889.md">【微博精粹】鱼找鱼 虾找虾 乌龟找王八</a></li>
 <li><a href="/cnnews/20230217/1849936.md">武汉老人抗议医保 将引发各地连锁反应 鞍山行动了 深圳随后【阿波罗网报道】</a></li>
-<li><a href="/health/20230217/1849950.md">肠道里长了息肉，身体会亮出3个“红灯”，别等到中晚期了才发现</a></li>
 <li><a href="/topimagenews/20230217/1849998.md">大连部分民众继续走向街头 抗议医保改革【阿波罗网报道】</a></li>
+<li><a href="/health/20230217/1849950.md">肠道里长了息肉，身体会亮出3个“红灯”，别等到中晚期了才发现</a></li>
 <li><a href="/lifebaike/20230217/1849943.md">人过五十，不管在谁面前，都不要亮出这三张底牌</a></li>
 <li><a href="/cnnews/20230217/1849945.md">全民普发6000元“外国人也能领” 中国人崩溃：怎么帮台湾缴税</a></li>
 <li><a href="/headline/20230217/1850065.md">索罗斯语出惊人：“俄罗斯帝国”或将瓦解，而中国面临“政权更替或革命”</a></li>
 <li><a href="/baitai/20230217/1850036.md">两兆美元消失 涉及中共不能说的秘密</a></li>
-<li><a href="/baitai/20230217/1849756.md">俄军阵亡14万 消耗「追平第一次世界大战」？普京升级战争计划泡汤 乌军「有好机会」奠定胜势 俄高级国防官员从16层塔楼坠落身亡</a></li>
 <li><a href="/lifebaike/20230217/1850003.md">中国为什么不实行分段登机？</a></li>
 <li><a href="/topimagenews/20230217/1849822.md">苏联解体前一幕重现！中共正在崩溃【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230217/1849981.md">文睿：比房价腰斩更可怕，中国楼市的噩梦</a></li>
+<li><a href="/topimagenews/20230217/1849986.md">中共警察演习应对白纸革命 网友嘲讽</a></li>
+<li><a href="/sohnews/20230217/1850018.md">习近平为何此时宣布防疫取得重大胜利？武汉维稳系统全部启动却没有能阻止数万老人走向街头抗议医保新政策。气球事件矛盾不断激化使得中美关系走入冰冻期【李军访谈20230217第128期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230218/1850200.md" target="_blank">钟原：中共政治局常委会议数据造假惊人</a></li>
+<li><a href="/comments/20230218/1850199.md" target="_blank">英慧：小民殇——活摘器官</a></li>
+<li><a href="/comments/20230218/1850198.md" target="_blank">王赫：“医保新政”为何激起“白发运动”？</a></li>
+<li><a href="/comments/20230218/1850197.md" target="_blank">杨宁：中共千名高官医保年花逾164亿说明什么</a></li>
 <li><a href="/comments/20230218/1850162.md" target="_blank">乌克兰弹药狂消耗！欧盟产量远远被超车 考虑聨合采购支援</a></li>
 <li><a href="/comments/20230218/1850152.md" target="_blank">中国男在台遭路灯电死判国赔463万 高雄地院：大陆人也是中华民国人民</a></li>
 <li><a href="/comments/20230218/1850151.md" target="_blank">慕尼黑安全会议主题：乌克兰战争和中美紧张关系</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230217/1849877.md" target="_blank">李燕铭：汪洋胡春华后院起火 二十大团派团灭政治风暴仍在发酵 广东一市“四套班子”六高官接连落马 市委副书记政法委书记落马牵出近百官员 广东帮覆灭记（六） 中共二十大团派团灭内幕（二十） 两会大战（十六）</a></li>
 <li><a href="/comments/20230217/1849872.md" target="_blank">【首发】李德君：习近平在江泽民悼词里藏匿惊天秘密</a></li>
 <li><a href="/comments/20230217/1849860.md" target="_blank">卖火柴的老爷爷 魔幻传奇 【欺世大观】170</a></li>
-<li><a href="/comments/20230217/1849830.md" target="_blank">黎蜗藤：间谍气球事件为何闹这么大？</a></li>
-<li><a href="/comments/20230217/1849823.md" target="_blank">【短视频】气球事件揭示中共内部危险的混乱 ｜#方菲时间</a></li>
-<li><a href="/comments/20230217/1849757.md" target="_blank">西方震惊轮回转世！追忆前世明星生涯！</a></li>
-<li><a href="/comments/20230217/1849678.md" target="_blank">双中子星合并 引发罕见“完美球形爆炸”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
 <li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
 
 </ul>
 </div>
