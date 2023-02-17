@@ -8,8 +8,6 @@
 <li><a href="/sohnews/20230217/1849689.md">“全力以赴！习近平两会登基 结束百年红潮 开启“唯一正确道路””No.04（16/02/23）10年执政 毁掉中共国20年辉煌</a></li>
 <li><a href="/worldnews/20230217/1849732.md">俄乌大决战拉开序幕，最坏的局面正在出现</a></li>
 <li><a href="/baitai/20230217/1849755.md">对付白发革命 中共出毒招</a></li>
-<li><a href="/finance/20230217/1849686.md">中国两万亿美元的外汇凭空消失 网民关注</a></li>
-<li><a href="/sohnews/20230217/1849684.md">“天象大逆转！彭斯今天宣布：绝不出卖我老板 拒绝特别检察官的传票”No.03（16/02/23）“势不妥协 不惜与拜登-司法部 打上最高法院”</a></li>
 <li><a href="/topimagenews/20230217/1849879.md">“搬石头砸自己的脚”！澳媒：中共“爬回来”买澳煤被拒绝…</a></li>
 <li><a href="/ssgc/20230217/1849818.md">〖微博谈〗这不是一个正常人类的思维</a></li>
 <li><a href="/sohnews/20230217/1849940.md">索罗斯：习没法终身执政！石家庄突然空中管制，跟伊朗总统有关？！北京上海山东兰州，空域都有异动，众多航班异地降落；中伊联合声明，说一回事、做又一回事；拜登为气球全国讲话，有点气人｜新闻拍案惊奇 大宇</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/topimagenews/20230217/1849998.md">大连部分民众继续走向街头 抗议医保改革【阿波罗网报道】</a></li>
 <li><a href="/health/20230217/1849950.md">肠道里长了息肉，身体会亮出3个“红灯”，别等到中晚期了才发现</a></li>
 <li><a href="/lifebaike/20230217/1849943.md">人过五十，不管在谁面前，都不要亮出这三张底牌</a></li>
-<li><a href="/headline/20230217/1849679.md">中共自我吹嘘防疫「重大胜利」 评论：中国政府不要脸</a></li>
+<li><a href="/cnnews/20230217/1849945.md">全民普发6000元“外国人也能领” 中国人崩溃：怎么帮台湾缴税</a></li>
+<li><a href="/worldnews/20230217/1849708.md">俄总攻遭打击 王牌刚露面 就遭美制弹药精确斩首</a></li>
+<li><a href="/baitai/20230217/1849756.md">俄军阵亡14万 消耗「追平第一次世界大战」？普京升级战争计划泡汤 乌军「有好机会」奠定胜势 俄高级国防官员从16层塔楼坠落身亡</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230218/1850140.md" target="_blank">习之后已无来者 中共《预备役人员法》特殊细节</a></li>
 <li><a href="/comments/20230218/1850098.md" target="_blank">热点快评：拜登总统说间谍气球要查到底 北京想让美国道歉？</a></li>
 <li><a href="/comments/20230218/1850097.md" target="_blank">时事大家谈：大外宣锁定俄亥俄“毒列车”，北京升高反美宣传？</a></li>
 <li><a href="/comments/20230218/1850096.md" target="_blank">时事大家谈：习近平的中国式现代化，理论创新还是习式帝王术？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230217/1849677.md" target="_blank">中国妇人抢赚“百万代孕费” 没赚成还患血栓恐截肢</a></li>
 <li><a href="/comments/20230217/1849661.md" target="_blank">巴铁帮乌克兰揍俄爹，啥节奏？</a></li>
 <li><a href="/comments/20230216/1849618.md" target="_blank">时事大家谈：中国多省扩招公务员5至8成，谁来养活庞大国家机器？</a></li>
-<li><a href="/comments/20230216/1849617.md" target="_blank">时事大家谈：北呼应抗议医保新规，武汉大连星火能否燎原？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
 <li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
 
 </ul>
 </div>
