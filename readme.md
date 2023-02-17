@@ -16,16 +16,16 @@
 <li><a href="/sohnews/20230217/1849689.md">“全力以赴！习近平两会登基 结束百年红潮 开启“唯一正确道路””No.04（16/02/23）10年执政 毁掉中共国20年辉煌</a></li>
 <li><a href="/sohnews/20230217/1849684.md">“天象大逆转！彭斯今天宣布：绝不出卖我老板 拒绝特别检察官的传票”No.03（16/02/23）“势不妥协 不惜与拜登-司法部 打上最高法院”</a></li>
 <li><a href="/worldnews/20230216/1849532.md">猛虎咬死18岁少年，12小时后又去他家杀了他祖父</a></li>
-<li><a href="/baitai/20230217/1849660.md">【404文库】“也许五年后，在地球绝大部分地区，GPT取代了谷歌，但是大陆还在用百度”（外二篇）</a></li>
 <li><a href="/ssgc/20230217/1849818.md">〖微博谈〗这不是一个正常人类的思维</a></li>
+<li><a href="/baitai/20230217/1849660.md">【404文库】“也许五年后，在地球绝大部分地区，GPT取代了谷歌，但是大陆还在用百度”（外二篇）</a></li>
 <li><a href="/baitai/20230217/1849755.md">对付白发革命 中共出毒招</a></li>
 <li><a href="/sohnews/20230216/1849512.md">人离世后会经历什么？原来这49天很关键！教你如何面对人生终站的拷问！【地球旅馆】点击观看完整影片： https://youtu.be/B9DtJxuch3Y</a></li>
+<li><a href="/topimagenews/20230217/1849879.md">“搬石头砸自己的脚”！澳媒：中共“爬回来”买澳煤被拒绝…</a></li>
 <li><a href="/finance/20230217/1849686.md">中国两万亿美元的外汇凭空消失 网民关注</a></li>
 <li><a href="/headline/20230217/1849779.md">习近平为何大赞中国防疫创造了人类文明史奇迹？</a></li>
-<li><a href="/topimagenews/20230217/1849879.md">“搬石头砸自己的脚”！澳媒：中共“爬回来”买澳煤被拒绝…</a></li>
 <li><a href="/worldnews/20230216/1849566.md">机窗外惊见“此生最酷画面”！4000万人看傻：全球最幸运</a></li>
-<li><a href="/ssgc/20230216/1849490.md">昔高压清零打民企 习近平今又要求扩大内需吸外资</a></li>
 <li><a href="/cbnews/20230217/1849707.md">脱钩！加国宣布新政 停止向中国军方“输血”</a></li>
+<li><a href="/ssgc/20230216/1849490.md">昔高压清零打民企 习近平今又要求扩大内需吸外资</a></li>
 <li><a href="/sohnews/20230216/1849534.md">武汉大连白发抗争，全民倒共不远了？中国革命条件已齐备？中资海外疯狂买地，有何算计？中资狂买土地，日本全面警戒？（2023.2.16）｜世界的十字路口 唐浩</a></li>
 <li><a href="/ssgc/20230216/1849571.md">中共政府的隐秘税收——外汇税</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 <li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 
 </ul>
 </div>
