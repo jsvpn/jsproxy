@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230217/1849985.md">🧨索罗斯示警中国已具备政权更迭的所有条件! 医保改革藏惊天陷阱, 数据打脸中共谎言! 医保局四处搞钱, 10年前已有3000亿缺口!【20230217】#中国医保改革 #医疗保险改革</a></li>
 <li><a href="/topimagenews/20230218/1850305.md">武汉抗议带动全国 上海数万人抗议了！高呼口号 向政府说：“不”【阿波罗网报道】</a></li>
 <li><a href="/headline/20230217/1850065.md">索罗斯语出惊人：“俄罗斯帝国”或将瓦解，而中国面临“政权更替或革命”</a></li>
 <li><a href="/topimagenews/20230218/1850324.md">南京！大批警察拉起布帘子执法…有女孩被抬出</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/yule/20230218/1850224.md">杜琪峰出事！在德发表惊人演讲，刘德华或受牵连</a></li>
 <li><a href="/ssgc/20230218/1850241.md">〖微博谈〗中国进入了巨婴治国时代</a></li>
 <li><a href="/comments/20230218/1850200.md">钟原：中共政治局常委会议数据造假惊人</a></li>
-<li><a href="/topimagenews/20230218/1850271.md">武汉医保局深夜连发三条短信，看后更让人想不通了</a></li>
-<li><a href="/sohnews/20230217/1849981.md">文睿：比房价腰斩更可怕，中国楼市的噩梦</a></li>
 <li><a href="/lifebaike/20230217/1850003.md">中国为什么不实行分段登机？</a></li>
-<li><a href="/topimagenews/20230217/1849986.md">中共警察演习应对白纸革命 网友嘲讽</a></li>
+<li><a href="/topimagenews/20230218/1850271.md">武汉医保局深夜连发三条短信，看后更让人想不通了</a></li>
 <li><a href="/sohnews/20230218/1850134.md">细思极恐！高占祥将移植到自己身上的许多器官称为“许多零件”，讲得非常轻松。但是，一个健康的器官，或许涉及另一个人的生命⋯⋯那么需多器官呢？｜ #百年真相</a></li>
 <li><a href="/sohnews/20230217/1850018.md">习近平为何此时宣布防疫取得重大胜利？武汉维稳系统全部启动却没有能阻止数万老人走向街头抗议医保新政策。气球事件矛盾不断激化使得中美关系走入冰冻期【李军访谈20230217第128期】</a></li>
 <li><a href="/topimagenews/20230218/1850148.md">习若武统美会怎样？ 记者爆料拜登贴身顾问说法</a></li>
+<li><a href="/cbnews/20230218/1850362.md">〖兲朝浮世绘〗21世纪新的邪恶轴心国联盟已经形成</a></li>
 <li><a href="/baitai/20230218/1850205.md">索罗斯：中国备齐政权更迭条件 习正恐惧一件事？</a></li>
 <li><a href="/comments/20230218/1850152.md">中国男在台遭路灯电死判国赔463万 高雄地院：大陆人也是中华民国人民</a></li>
 <li><a href="/comments/20230218/1850140.md">习之后已无来者 中共《预备役人员法》特殊细节</a></li>
 <li><a href="/cbnews/20230218/1850107.md">蹭声量？外媒：习近平将于2月24日俄乌战争一周年发表“和平演说”</a></li>
+<li><a href="/topimagenews/20230218/1850284.md">中共高层会议 刻意回避习近平要害问题【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230218/1850235.md">温州特斯拉事故震惊全国 司机绝望闪避 女生丧命</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230218/1850435.md" target="_blank">索罗斯预言 俄罗斯将“瓦解” 中共面临“政权更替或革命”</a></li>
+<li><a href="/topimagenews/20230218/1850434.md" target="_blank">中共砍医保酿“白发运动”失民心 “不缴五险一金会怎样？”登热搜第一</a></li>
 <li><a href="/topimagenews/20230218/1850424.md" target="_blank">大空袭前夕 俄军司令大换血！普丁传集结700架战机袭击基辅</a></li>
 <li><a href="/topimagenews/20230218/1850423.md" target="_blank">普丁已控制不了他的腿？传会晤卢卡申科时 双脚不止抖动</a></li>
 <li><a href="/topimagenews/20230218/1850387.md" target="_blank">“拉婓尔”大秀杀器 剿灭了海上无人敌机…</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20230217/1849839.md" target="_blank">宋国诚：美中进入高阶战略对抗阶段 中共走向自毁之路</a></li>
 <li><a href="/topimagenews/20230217/1849822.md" target="_blank">苏联解体前一幕重现！中共正在崩溃【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230217/1849758.md" target="_blank">台美飞弹建立联合作战！于北辰：未来将参数串连作战</a></li>
-<li><a href="/topimagenews/20230217/1849738.md" target="_blank">中共瞎扯法外长“坚定支持一中”法官方文稿根本只字未提还关切人权</a></li>
-<li><a href="/topimagenews/20230217/1849696.md" target="_blank">拜登将与习近平对话 厘清气球来龙去脉…不会致歉</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 <li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 
 </ul>
 </div>
