@@ -9,7 +9,6 @@
 <li><a href="/sohnews/20230217/1849940.md">索罗斯：习没法终身执政！石家庄突然空中管制，跟伊朗总统有关？！北京上海山东兰州，空域都有异动，众多航班异地降落；中伊联合声明，说一回事、做又一回事；拜登为气球全国讲话，有点气人｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ssgc/20230217/1849818.md">〖微博谈〗这不是一个正常人类的思维</a></li>
 <li><a href="/comments/20230217/1849877.md">李燕铭：汪洋胡春华后院起火 二十大团派团灭政治风暴仍在发酵 广东一市“四套班子”六高官接连落马 市委副书记政法委书记落马牵出近百官员 广东帮覆灭记（六） 中共二十大团派团灭内幕（二十） 两会大战（十六）</a></li>
-<li><a href="/headline/20230217/1849779.md">习近平为何大赞中国防疫创造了人类文明史奇迹？</a></li>
 <li><a href="/cbnews/20230217/1849899.md">〖兲朝浮世绘〗国家级中共领导人获得的健康福利是普通中国人的 将近20万 倍？</a></li>
 <li><a href="/comments/20230217/1849904.md">突然！习近平宣布三年防疫重大决定性胜利！党关闭评论区阻挡群众欢乐吐槽？反复烙饼决策完全正确</a></li>
 <li><a href="/sohnews/20230217/1849985.md">🧨索罗斯示警中国已具备政权更迭的所有条件! 医保改革藏惊天陷阱, 数据打脸中共谎言! 医保局四处搞钱, 10年前已有3000亿缺口!【20230217】#中国医保改革 #医疗保险改革</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/cnnews/20230217/1849936.md">武汉老人抗议医保 将引发各地连锁反应 鞍山行动了 深圳随后【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230217/1849998.md">大连部分民众继续走向街头 抗议医保改革【阿波罗网报道】</a></li>
 <li><a href="/health/20230217/1849950.md">肠道里长了息肉，身体会亮出3个“红灯”，别等到中晚期了才发现</a></li>
-<li><a href="/lifebaike/20230217/1849943.md">人过五十，不管在谁面前，都不要亮出这三张底牌</a></li>
-<li><a href="/cnnews/20230217/1849945.md">全民普发6000元“外国人也能领” 中国人崩溃：怎么帮台湾缴税</a></li>
 <li><a href="/headline/20230217/1850065.md">索罗斯语出惊人：“俄罗斯帝国”或将瓦解，而中国面临“政权更替或革命”</a></li>
+<li><a href="/lifebaike/20230217/1849943.md">人过五十，不管在谁面前，都不要亮出这三张底牌</a></li>
 <li><a href="/baitai/20230217/1850036.md">两兆美元消失 涉及中共不能说的秘密</a></li>
+<li><a href="/cnnews/20230217/1849945.md">全民普发6000元“外国人也能领” 中国人崩溃：怎么帮台湾缴税</a></li>
 <li><a href="/lifebaike/20230217/1850003.md">中国为什么不实行分段登机？</a></li>
 <li><a href="/topimagenews/20230217/1849822.md">苏联解体前一幕重现！中共正在崩溃【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230217/1849981.md">文睿：比房价腰斩更可怕，中国楼市的噩梦</a></li>
 <li><a href="/topimagenews/20230217/1849986.md">中共警察演习应对白纸革命 网友嘲讽</a></li>
+<li><a href="/sohnews/20230217/1849981.md">文睿：比房价腰斩更可怕，中国楼市的噩梦</a></li>
 <li><a href="/sohnews/20230217/1850018.md">习近平为何此时宣布防疫取得重大胜利？武汉维稳系统全部启动却没有能阻止数万老人走向街头抗议医保新政策。气球事件矛盾不断激化使得中美关系走入冰冻期【李军访谈20230217第128期】</a></li>
+<li><a href="/cnnews/20230217/1849956.md">跑去美国制造恐慌？央视记者带防毒面罩报俄亥俄爆炸 网讽：什么行为艺术?</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230218/1850232.md" target="_blank">文昭：2万亿美元外汇凭空消失了？中国出口订单暴跌，系统崩溃的案例：铁达尼号怎麽沉的</a></li>
 <li><a href="/comments/20230218/1850213.md" target="_blank">慧文：从张小娜被判四年看中共的毫无人性</a></li>
 <li><a href="/comments/20230218/1850212.md" target="_blank">李正宽：习近平与中共 谁在利用谁？</a></li>
 <li><a href="/comments/20230218/1850211.md" target="_blank">中共不是想与西方共处，而是想要统治西方</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230217/1849920.md" target="_blank">【独家重磅】李燕铭：江泽民死习清剿江家族（二） 彭丽媛老乡履新前夕重磅动作 习家军三大员联手清剿江泽民母校 陈希前副手接掌上海交大 打破上海帮势力30年垄断 江泽民母校两大罪恶曝光 两会大战（十七） 习近平清洗江泽民老巢（二五） 第八常委彭丽媛（八） 习近平决战江曾（七八）</a></li>
 <li><a href="/comments/20230217/1849904.md" target="_blank">突然！习近平宣布三年防疫重大决定性胜利！党关闭评论区阻挡群众欢乐吐槽？反复烙饼决策完全正确</a></li>
 <li><a href="/comments/20230217/1849881.md" target="_blank">严家祺：元宇宙的世界观 ——超验世界和元历史</a></li>
-<li><a href="/comments/20230217/1849880.md" target="_blank">严家祺：元宇宙的世界观——超验世界与变尺度时空观</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
 
 </ul>
 </div>
