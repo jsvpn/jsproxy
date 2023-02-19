@@ -10,22 +10,22 @@
 <li><a href="/topimagenews/20230218/1850271.md">武汉医保局深夜连发三条短信，看后更让人想不通了</a></li>
 <li><a href="/sohnews/20230218/1850437.md">从郭文贵发布到网上的祕密录音可以听出，刘彦平与他谈判，是为了阻止他爆料。刘彦平“奉命”开出的条件非同寻常。这究竟是一段什么样的秘密录音呢？｜ #百年真相</a></li>
 <li><a href="/cbnews/20230218/1850362.md">〖兲朝浮世绘〗21世纪新的邪恶轴心国联盟已经形成</a></li>
-<li><a href="/health/20230218/1850397.md">总喜欢在睡前玩手机的人，不用多久，就可能会“落下”4个毛病</a></li>
 <li><a href="/sohnews/20230218/1850450.md">经济“东升西降”已经开始？中国股市要启动大撒币模式了吗？真实情况可能恰恰相反！｜政经孙老师</a></li>
+<li><a href="/health/20230218/1850397.md">总喜欢在睡前玩手机的人，不用多久，就可能会“落下”4个毛病</a></li>
 <li><a href="/comments/20230218/1850390.md">【独家重磅】李燕铭：习近平拿汪洋胡春华旧部祭旗掀清洗风暴 中央一号文件泄露重大危机 中纪委紧急发文 工程院院士岳国君应声落马 中共两会内斗激烈政局充满极大变数 两会大战（十八） 中共末日之粮食危机（五） 广东帮覆灭记（七） 中共二十大团派团灭内幕（二一）</a></li>
 <li><a href="/topimagenews/20230218/1850284.md">中共高层会议 刻意回避习近平要害问题【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230218/1850424.md">大空袭前夕 俄军司令大换血！普丁传集结700架战机袭击基辅</a></li>
 <li><a href="/topimagenews/20230219/1850533.md">关于中共医保改革抢钱，这篇404文说得很透彻</a></li>
+<li><a href="/topimagenews/20230218/1850424.md">大空袭前夕 俄军司令大换血！普丁传集结700架战机袭击基辅</a></li>
 <li><a href="/sohnews/20230218/1850465.md">陈破空：南京女性再举白纸？特警大举出动，拉起布帘子。石家庄疯传中美开战。老共泄密：以前有气球接近，中方一概击落。王毅慕尼黑遭冷遇，抱怨偏见无知荒谬。直播：美东2月18日早8点30、即中港台2月18日晚9点30</a></li>
 <li><a href="/cnnews/20230218/1850309.md">第一批因ChatGPT坐牢的人，已经上路了</a></li>
-<li><a href="/topimagenews/20230218/1850423.md">普丁已控制不了他的腿？传会晤卢卡申科时 双脚不止抖动</a></li>
 <li><a href="/topimagenews/20230218/1850463.md">2022年，超5700家中国芯片公司消失；中国两万亿美元外汇凭空消失</a></li>
+<li><a href="/topimagenews/20230218/1850423.md">普丁已控制不了他的腿？传会晤卢卡申科时 双脚不止抖动</a></li>
 <li><a href="/cbnews/20230218/1850272.md">"在台上掌权的人，正是红卫兵一代"【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230218/1850434.md">中共砍医保酿“白发运动”失民心 “不缴五险一金会怎样？”登热搜第一</a></li>
 <li><a href="/baitai/20230218/1850374.md">「五险一金」登微博热搜榜首 网友赫然发现中共死穴</a></li>
 <li><a href="/cbnews/20230218/1850369.md">江峰：第二个萧建华？2亿贷款翻旧帐涉高层内幕，银行家包凡失联，华兴资本市值腰斩，民企与海外资本桥梁遭中共痛击。习心眼小，包凡比王岐山还高？与马云犯下同一大忌【江峰漫谈20230217第632期】</a></li>
-<li><a href="/topimagenews/20230218/1850435.md">索罗斯预言 俄罗斯将“瓦解” 中共面临“政权更替或革命”</a></li>
 <li><a href="/sohnews/20230218/1850489.md">🔥牛皮吹破了！中共新闻联播现可笑一幕；前线严重缺兵! 6万乌克兰女兵上战场 却领不到适合装备；台湾日益重要 外媒爆拜登指派亲信接掌AIT主席【阿波罗网AM】</a></li>
+<li><a href="/topimagenews/20230218/1850435.md">索罗斯预言 俄罗斯将“瓦解” 中共面临“政权更替或革命”</a></li>
 <li><a href="/cnnews/20230218/1850289.md">中国版ChatGPT真懂“国情” 问“六四”它这样回</a></li>
 <li><a href="/comments/20230218/1850364.md">20万倍！党高官的医保是您的……</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230219/1850596.md" target="_blank">石铭：从两位善良老人悲惨离世看中共的邪恶</a></li>
+<li><a href="/comments/20230219/1850595.md" target="_blank">网友力挺“白发运动”，怒批“医保新政”抢钱</a></li>
+<li><a href="/comments/20230219/1850594.md" target="_blank">广宇：经济下行环境下中国的高楼危机</a></li>
+<li><a href="/comments/20230219/1850593.md" target="_blank">袁斌：城管挨家挨户“撕春联”究竟是为哪般？</a></li>
+<li><a href="/comments/20230219/1850592.md" target="_blank">薛涛：间谍气球拉响警报 世界需联手抗共守卫自由</a></li>
 <li><a href="/comments/20230218/1850485.md" target="_blank">金正恩父女乐看球赛 金与正退居“边缘角落”</a></li>
 <li><a href="/comments/20230218/1850484.md" target="_blank">权色交易、与多人不正当性关系 中国最年轻正厅级女官被“双开”</a></li>
 <li><a href="/comments/20230218/1850483.md" target="_blank">中国先拿自家人实验！《华邮》爆：早就用间谍气球监视人民</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230218/1850212.md" target="_blank">李正宽：习近平与中共 谁在利用谁？</a></li>
 <li><a href="/comments/20230218/1850211.md" target="_blank">中共不是想与西方共处，而是想要统治西方</a></li>
 <li><a href="/comments/20230218/1850200.md" target="_blank">钟原：中共政治局常委会议数据造假惊人</a></li>
-<li><a href="/comments/20230218/1850199.md" target="_blank">英慧：小民殇——活摘器官</a></li>
-<li><a href="/comments/20230218/1850198.md" target="_blank">王赫：“医保新政”为何激起“白发运动”？</a></li>
-<li><a href="/comments/20230218/1850197.md" target="_blank">杨宁：中共千名高官医保年花逾164亿说明什么</a></li>
-<li><a href="/comments/20230218/1850162.md" target="_blank">乌克兰弹药狂消耗！欧盟产量远远被超车 考虑聨合采购支援</a></li>
-<li><a href="/comments/20230218/1850152.md" target="_blank">中国男在台遭路灯电死判国赔463万 高雄地院：大陆人也是中华民国人民</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
 <li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
 
 </ul>
 </div>
