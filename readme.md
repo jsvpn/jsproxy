@@ -12,21 +12,21 @@
 <li><a href="/lifebaike/20230219/1850571.md">加一次油够充22次电，为什么大家还是坚持买燃油车？告诉你真相</a></li>
 <li><a href="/sohnews/20230219/1850579.md">陈破空：大连闹大了！万名军警紧急出动。场边会见，布林肯与王毅不欢而散。美国正式指控俄国犯下重罪，而中共是同谋。中朝联手进犯日本。直播与互动。美东2月18日晚8点、即中港台2月19日早9点</a></li>
 <li><a href="/topimagenews/20230219/1850548.md">扩大兵源为开战作准备 中共预备役改革3月登场</a></li>
-<li><a href="/headline/20230219/1850553.md">王毅慕尼黑发言怒指美方歇斯底里</a></li>
 <li><a href="/comments/20230219/1850743.md">美国务院关于布林肯王毅会晤声明全文</a></li>
+<li><a href="/headline/20230219/1850553.md">王毅慕尼黑发言怒指美方歇斯底里</a></li>
 <li><a href="/topimagenews/20230219/1850673.md">【微博精粹】打你一耳光是完全正确的</a></li>
 <li><a href="/cnnews/20230219/1850663.md">林彪“散记”中对毛的认识 太深刻了</a></li>
 <li><a href="/cbnews/20230219/1850709.md">布林肯警告王毅：若给俄致命援助 后果自负</a></li>
 <li><a href="/lifebaike/20230219/1850717.md">为什么都说奔驰买大不买小，宝马买小不买大？其中有什么道理？</a></li>
 <li><a href="/topimagenews/20230219/1850558.md">大型双标!中、美“氯乙烯”爆炸报导差太多 网酸：中国人有抗毒性?</a></li>
 <li><a href="/cnnews/20230219/1850712.md">美国有钱人疯抢“黄金护照” 咨询量暴增447％</a></li>
-<li><a href="/comments/20230219/1850744.md">江西3名辅警查酒驾被刺身亡</a></li>
-<li><a href="/topimagenews/20230219/1850711.md">马云现身澳洲“走亲戚”曾资助他读大学、买婚房</a></li>
 <li><a href="/sohnews/20230219/1850765.md">陈破空：王毅卖身投靠，李克强却撤出自己全班人马！习王或宣布重大胜利：2万亿美元外汇消失，5700家芯片企业倒闭，出口打回上世纪，地方政府破产。直播。美东2月19日早8点30、即中港台2月19日晚9点30</a></li>
-<li><a href="/sohnews/20230219/1850583.md">🔥🔥巴西著名预言家惊爆三大预言：80%的人类将死于大劫难❗2月中国恐有大灾❗6月台湾将面临覆灭危机❗</a></li>
-<li><a href="/sohnews/20230219/1850535.md">“人类面临大摊牌！索罗斯：习近平大输家！”No.05（18/02/23）中共政权更迭或革命条件完备！</a></li>
-<li><a href="/topimagenews/20230219/1850760.md">邓小平去世26周年，官媒静悄悄，推特网友热议【阿波罗网报道】</a></li>
+<li><a href="/comments/20230219/1850744.md">江西3名辅警查酒驾被刺身亡</a></li>
 <li><a href="/cbnews/20230219/1850769.md">不需要翻墙了？！中共声称要建成...【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230219/1850711.md">马云现身澳洲“走亲戚”曾资助他读大学、买婚房</a></li>
+<li><a href="/topimagenews/20230219/1850760.md">邓小平去世26周年，官媒静悄悄，推特网友热议【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20230219/1850535.md">“人类面临大摊牌！索罗斯：习近平大输家！”No.05（18/02/23）中共政权更迭或革命条件完备！</a></li>
+<li><a href="/sohnews/20230219/1850583.md">🔥🔥巴西著名预言家惊爆三大预言：80%的人类将死于大劫难❗2月中国恐有大灾❗6月台湾将面临覆灭危机❗</a></li>
 <li><a href="/sohnews/20230219/1850626.md">900万人在一夜之间消失，没有任何记载，DNA分析找到了踪迹、他们去哪儿了？【文昭思绪飞扬228期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230220/1850803.md" target="_blank">回应北韩射弹挑衅 美“最强轰炸机”韩半岛上空军演</a></li>
+<li><a href="/comments/20230220/1850802.md" target="_blank">“扭断泽伦斯基脖子！” 白俄总统预言乌将发生军事政变</a></li>
 <li><a href="/comments/20230220/1850801.md" target="_blank">在慕尼黑被要求保证台湾“这件事” 王毅当时这么说</a></li>
 <li><a href="/comments/20230219/1850779.md" target="_blank">【短视频】拜登提不会向习近平道歉看似强硬&#8230;｜#方菲时间</a></li>
 <li><a href="/comments/20230219/1850744.md" target="_blank">江西3名辅警查酒驾被刺身亡</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230219/1850593.md" target="_blank">袁斌：城管挨家挨户“撕春联”究竟是为哪般？</a></li>
 <li><a href="/comments/20230219/1850592.md" target="_blank">薛涛：间谍气球拉响警报 世界需联手抗共守卫自由</a></li>
 <li><a href="/comments/20230218/1850485.md" target="_blank">金正恩父女乐看球赛 金与正退居“边缘角落”</a></li>
-<li><a href="/comments/20230218/1850484.md" target="_blank">权色交易、与多人不正当性关系 中国最年轻正厅级女官被“双开”</a></li>
-<li><a href="/comments/20230218/1850483.md" target="_blank">中国先拿自家人实验！《华邮》爆：早就用间谍气球监视人民</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
 
 </ul>
 </div>
