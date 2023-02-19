@@ -11,23 +11,23 @@
 <li><a href="/sohnews/20230218/1850437.md">从郭文贵发布到网上的祕密录音可以听出，刘彦平与他谈判，是为了阻止他爆料。刘彦平“奉命”开出的条件非同寻常。这究竟是一段什么样的秘密录音呢？｜ #百年真相</a></li>
 <li><a href="/cbnews/20230218/1850362.md">〖兲朝浮世绘〗21世纪新的邪恶轴心国联盟已经形成</a></li>
 <li><a href="/sohnews/20230218/1850450.md">经济“东升西降”已经开始？中国股市要启动大撒币模式了吗？真实情况可能恰恰相反！｜政经孙老师</a></li>
-<li><a href="/health/20230218/1850397.md">总喜欢在睡前玩手机的人，不用多久，就可能会“落下”4个毛病</a></li>
 <li><a href="/comments/20230218/1850390.md">【独家重磅】李燕铭：习近平拿汪洋胡春华旧部祭旗掀清洗风暴 中央一号文件泄露重大危机 中纪委紧急发文 工程院院士岳国君应声落马 中共两会内斗激烈政局充满极大变数 两会大战（十八） 中共末日之粮食危机（五） 广东帮覆灭记（七） 中共二十大团派团灭内幕（二一）</a></li>
+<li><a href="/health/20230218/1850397.md">总喜欢在睡前玩手机的人，不用多久，就可能会“落下”4个毛病</a></li>
 <li><a href="/topimagenews/20230218/1850284.md">中共高层会议 刻意回避习近平要害问题【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230219/1850533.md">关于中共医保改革抢钱，这篇404文说得很透彻</a></li>
 <li><a href="/topimagenews/20230218/1850424.md">大空袭前夕 俄军司令大换血！普丁传集结700架战机袭击基辅</a></li>
-<li><a href="/sohnews/20230218/1850465.md">陈破空：南京女性再举白纸？特警大举出动，拉起布帘子。石家庄疯传中美开战。老共泄密：以前有气球接近，中方一概击落。王毅慕尼黑遭冷遇，抱怨偏见无知荒谬。直播：美东2月18日早8点30、即中港台2月18日晚9点30</a></li>
 <li><a href="/cnnews/20230218/1850309.md">第一批因ChatGPT坐牢的人，已经上路了</a></li>
 <li><a href="/topimagenews/20230218/1850463.md">2022年，超5700家中国芯片公司消失；中国两万亿美元外汇凭空消失</a></li>
+<li><a href="/sohnews/20230218/1850465.md">陈破空：南京女性再举白纸？特警大举出动，拉起布帘子。石家庄疯传中美开战。老共泄密：以前有气球接近，中方一概击落。王毅慕尼黑遭冷遇，抱怨偏见无知荒谬。直播：美东2月18日早8点30、即中港台2月18日晚9点30</a></li>
 <li><a href="/topimagenews/20230218/1850423.md">普丁已控制不了他的腿？传会晤卢卡申科时 双脚不止抖动</a></li>
-<li><a href="/cbnews/20230218/1850272.md">"在台上掌权的人，正是红卫兵一代"【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230218/1850434.md">中共砍医保酿“白发运动”失民心 “不缴五险一金会怎样？”登热搜第一</a></li>
+<li><a href="/cbnews/20230218/1850272.md">"在台上掌权的人，正是红卫兵一代"【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230218/1850374.md">「五险一金」登微博热搜榜首 网友赫然发现中共死穴</a></li>
-<li><a href="/cbnews/20230218/1850369.md">江峰：第二个萧建华？2亿贷款翻旧帐涉高层内幕，银行家包凡失联，华兴资本市值腰斩，民企与海外资本桥梁遭中共痛击。习心眼小，包凡比王岐山还高？与马云犯下同一大忌【江峰漫谈20230217第632期】</a></li>
 <li><a href="/sohnews/20230218/1850489.md">🔥牛皮吹破了！中共新闻联播现可笑一幕；前线严重缺兵! 6万乌克兰女兵上战场 却领不到适合装备；台湾日益重要 外媒爆拜登指派亲信接掌AIT主席【阿波罗网AM】</a></li>
+<li><a href="/cbnews/20230218/1850369.md">江峰：第二个萧建华？2亿贷款翻旧帐涉高层内幕，银行家包凡失联，华兴资本市值腰斩，民企与海外资本桥梁遭中共痛击。习心眼小，包凡比王岐山还高？与马云犯下同一大忌【江峰漫谈20230217第632期】</a></li>
 <li><a href="/topimagenews/20230218/1850435.md">索罗斯预言 俄罗斯将“瓦解” 中共面临“政权更替或革命”</a></li>
 <li><a href="/cnnews/20230218/1850289.md">中国版ChatGPT真懂“国情” 问“六四”它这样回</a></li>
-<li><a href="/comments/20230218/1850364.md">20万倍！党高官的医保是您的……</a></li>
+<li><a href="/topimagenews/20230219/1850532.md">同是二本学历 段颖不如戴璐好看 为何晋升快得多</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230219/1850616.md" target="_blank">为啥最迷恋 “乱世用重典”的，往往都是草民</a></li>
+<li><a href="/comments/20230219/1850615.md" target="_blank">大战在即卢卡提惊人建议 普京急需大量基层军官</a></li>
+<li><a href="/comments/20230219/1850614.md" target="_blank">杜政: 习近平之后没有来者</a></li>
 <li><a href="/comments/20230219/1850596.md" target="_blank">石铭：从两位善良老人悲惨离世看中共的邪恶</a></li>
 <li><a href="/comments/20230219/1850595.md" target="_blank">网友力挺“白发运动”，怒批“医保新政”抢钱</a></li>
 <li><a href="/comments/20230219/1850594.md" target="_blank">广宇：经济下行环境下中国的高楼危机</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230218/1850258.md" target="_blank">李燕铭：“中国大熊猫之父”胡锦矗病亡 半年内三只大熊猫死亡 旅美大熊猫乐乐回国前夕死亡 大熊猫团团在台北因病久治不愈而死亡 大熊猫安安被香港海洋公园实施安乐死 中共熊猫外交失利 美日英相继归还大熊猫 中共末日之病毒亡共（二八）</a></li>
 <li><a href="/comments/20230218/1850232.md" target="_blank">文昭：2万亿美元外汇凭空消失了？中国出口订单暴跌，系统崩溃的案例：铁达尼号怎麽沉的</a></li>
 <li><a href="/comments/20230218/1850213.md" target="_blank">慧文：从张小娜被判四年看中共的毫无人性</a></li>
-<li><a href="/comments/20230218/1850212.md" target="_blank">李正宽：习近平与中共 谁在利用谁？</a></li>
-<li><a href="/comments/20230218/1850211.md" target="_blank">中共不是想与西方共处，而是想要统治西方</a></li>
-<li><a href="/comments/20230218/1850200.md" target="_blank">钟原：中共政治局常委会议数据造假惊人</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
 <li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 <li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 
 </ul>
 </div>
