@@ -13,8 +13,8 @@
 <li><a href="/baitai/20230224/1852944.md">中共种种迹象太反常 习近平或闯大祸？</a></li>
 <li><a href="/ssgc/20230224/1852888.md">人民日报反美文章铺天盖地 再现40年前文革架势</a></li>
 <li><a href="/sohnews/20230224/1852914.md">习近平新一轮机构改革下来，中国改革开放以来的“双头体制”基本瓦解。以后政治运动型“行政命令”将成常态。白发革命引出“退保潮”，巨亏的社保资金还挺得住吗？【李军访谈20230224第130期】</a></li>
-<li><a href="/cnnews/hknews/20230224/1852956.md">名媛遭人碎尸！蔡天凤超狂背景曝 常到郭富城豪宅作客</a></li>
 <li><a href="/sohnews/20230224/1852854.md">北京抛出俄乌“和平方案”！实际只想说“三句话”；习竟暗中输送俄军“武装无人机”！加拿大曝中共海上“间谍浮标”；中共被指控破坏台湾海底电缆；习近平成立“大内新机构”，李强变花瓶？｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cnnews/hknews/20230224/1852956.md">名媛遭人碎尸！蔡天凤超狂背景曝 常到郭富城豪宅作客</a></li>
 <li><a href="/topimagenews/20230224/1852813.md">小贪官羡慕不已 这下可保住命了</a></li>
 <li><a href="/yule/20230224/1852765.md">李天一或已出狱，李双江喝茅台庆祝，而当年的女孩仍在接受治疗</a></li>
 <li><a href="/cnnews/20230224/1852909.md">3年都熬过来了，没想到现在更难了</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/topimagenews/20230224/1852899.md">俄罗斯官员有特权！挺普丁入侵乌克兰 被送到前线当“炮灰”的都是人家的孩子…</a></li>
 <li><a href="/sohnews/20230224/1852683.md">陈破空：舆论大哗！华春莹傲娇宣布：中国不会成为另一个美国的十大原因。美国大使告诫中方：粗暴宣传不是大国风范。联合国141国谴责俄罗斯。直播与互动。美东2月23日晚8点、即中港台2月24日早9点</a></li>
 <li><a href="/comments/20230224/1852814.md">【微博精粹】逼未婚男女朋友做还款人 穷到这么不要脸除了匪也没谁了</a></li>
-<li><a href="/ssgc/20230224/1852842.md">神秘人改名上位？习或改组国安部</a></li>
 <li><a href="/cnnews/20230224/1852908.md">网友们看到一个普通公务员的良知了</a></li>
+<li><a href="/ssgc/20230224/1852842.md">神秘人改名上位？习或改组国安部</a></li>
 <li><a href="/baitai/20230224/1852893.md">《自然》重磅：癌细胞不仅懒还很节俭</a></li>
-<li><a href="/sohnews/20230224/1852670.md">“武松”现身美国！豪宅生活，一座山都是他家的，网友感慨“有钱的，有名的都润了，只剩下吃方便面的键盘侠”｜新闻拍案惊奇 大宇 #shorts</a></li>
 <li><a href="/cbnews/20230224/1852960.md">〖兲朝浮世绘〗我没有钱，不用救我</a></li>
+<li><a href="/lifebaike/20230224/1852855.md">牙膏皮不要扔，剪一刀放在厨房，一年能省几百块，家家户户用得到</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230225/1853143.md" target="_blank">【周五预告】专访宪法学者，谈美国社会拥枪控枪的争论 （在干净世界观看） ｜ 02/24/2023 #方菲时间</a></li>
 <li><a href="/cbnews/20230225/1853083.md" target="_blank">中共的12点立场声明引起何种反响？</a></li>
 <li><a href="/cbnews/20230225/1853082.md" target="_blank">汉莎航空拒载中国客？真相曝光 遭网爆骂造谣</a></li>
 <li><a href="/cbnews/20230225/1853076.md" target="_blank">华裔“保险奇才”摊上大事，自家银行涉洗钱？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230223/1852082.md" target="_blank">“沉默杀手” 中共军用气球计划内幕</a></li>
 <li><a href="/cbnews/20230223/1852081.md" target="_blank">美拟公开情报 证中共考虑军援俄攻乌</a></li>
 <li><a href="/cbnews/20230223/1852080.md" target="_blank">习近平语录被屏蔽！原因超级搞笑</a></li>
-<li><a href="/cbnews/20230223/1852079.md" target="_blank">“我们将持续揭露北京的谎言”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230225/1853143.md" target="_blank">【周五预告】专访宪法学者，谈美国社会拥枪控枪的争论 （在干净世界观看） ｜ 02/24/2023 #方菲时间</a></li>
+<li><a href="/comments/20230225/1853139.md" target="_blank">乾元：池子的底线巡演是自杀还是涅槃</a></li>
+<li><a href="/comments/20230225/1853138.md" target="_blank">网海拾贝：俄乌大反攻、大决战即将到来</a></li>
 <li><a href="/comments/20230225/1853123.md" target="_blank">沈舟：莫斯科暂停核条约 中共算盘要落空</a></li>
 <li><a href="/comments/20230225/1853122.md" target="_blank">王赫：土地财政塌方 房地产税将近</a></li>
 <li><a href="/comments/20230225/1853121.md" target="_blank">谢田：习近平会正式介入俄乌战争吗？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230224/1852784.md" target="_blank">吴芳铭：ChatGPT的已知与未知</a></li>
 <li><a href="/comments/20230224/1852783.md" target="_blank">大科学家袁家骝功成名就 回国救亲人杯水车薪 【欺世大观】174</a></li>
 <li><a href="/comments/20230224/1852726.md" target="_blank">你每天在用 最反人类的设计！#设计 #未解之谜 #shorts</a></li>
-<li><a href="/comments/20230224/1852681.md" target="_blank">习语朗读间</a></li>
-<li><a href="/comments/20230224/1852675.md" target="_blank">专访周子定（3）：临近空间将成为太空新战场，但气球并不是利器；间谍气球相较于卫星的3大好处；气球事件最大的影响是美国国内 ｜ 02/23/2023</a></li>
-<li><a href="/comments/20230223/1852552.md" target="_blank">时事大家谈：普京宣布暂停核武控制条约，他真敢动用核武吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
 
 </ul>
 </div>
