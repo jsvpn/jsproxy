@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20230306/1856527.md">中国第一女高官原来是习近平亲妹；人大代表竟然全部违宪；鼓动全国大游行的方便法门（终局风云十六，2023年3月5日）</a></li>
 <li><a href="/sohnews/20230306/1856573.md">姚明被带走调查？汪洋去向不明，胡春华境遇更糟，中办主任成迷，李强不比李克强幸福！“红卫兵”又上街游行，大批军警戒备两会；美陆战队为台海急训；甄子丹为中共站台｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/comments/20230306/1856495.md">在说谁？李克强告别喊话：人在干天在看、苍天有眼</a></li>
 <li><a href="/cnnews/20230306/1856536.md">表情吓人！王沪宁丑态被截图【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230306/1856522.md">【微博精粹】福建帮成了习总的团团伙伙</a></li>
 <li><a href="/cnnews/20230306/1856553.md">“赵长鹏被FBI击毙”，炸锅了</a></li>
 <li><a href="/topimagenews/20230306/1856578.md">三方博弈：借李克强的报告，打脸习近平！【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230306/1856656.md">两会上习身边一人传不寻常信号 中共将进入政治动荡年</a></li>
 <li><a href="/sohnews/20230306/1856637.md">陈破空：李克强没说抗疫成功，王沪宁突然面露凶光！习近平提首要任务：会前整老年人，会后整年轻人！王赵亲自证明两会选举是假的！直播与互动。美东3月6日早8点30、即中港台3月6日晚9点30</a></li>
-<li><a href="/cbnews/20230306/1856497.md">33岁无功绩美女少校，成为200万解放军代表</a></li>
 <li><a href="/sohnews/20230306/1856613.md">文睿：重大信号，中共外汇告急，最后一击来了</a></li>
 <li><a href="/ssgc/20230306/1856657.md">中共两会开幕现四大尴尬</a></li>
 <li><a href="/cnnews/20230306/1856596.md">这个正部长级高官晚年为何总挨整？</a></li>
 <li><a href="/cbnews/20230306/1856502.md">天亮时分：“李下李上”与习近平的机构改革；李强是末代总理？ （政论天下第950集 20230305）天亮时分</a></li>
 <li><a href="/cbnews/20230306/1856503.md">腾讯百度创办人都未受邀中国两会？专家曝内幕</a></li>
 <li><a href="/yule/20230306/1856524.md">41岁范冰冰拼过头“神颜崩毁”！“脸中央穿3环”吓愣万人：丑到抵制</a></li>
-<li><a href="/topimagenews/20230306/1856698.md">准备面对人民币“破7”中企抱紧美元或进行避险</a></li>
 <li><a href="/cnnews/20230307/1856789.md">有钱任性 中国45岁老板20个儿子曝光引热议</a></li>
+<li><a href="/topimagenews/20230306/1856698.md">准备面对人民币“破7”中企抱紧美元或进行避险</a></li>
 <li><a href="/topimagenews/20230307/1856793.md">令人惊讶…德国总理暗示北京向他做出了保证？</a></li>
 <li><a href="/ssgc/20230306/1856530.md">〖微博谈〗一幅新的互联网“世界名画”</a></li>
 <li><a href="/topimagenews/20230306/1856599.md">郭台铭跑了！富士康在印度设新厂 加速摆脱依赖中国</a></li>
 <li><a href="/headline/20230306/1856643.md">江西学生举行红卫兵式游行 「红色效忠」竞赛重现端倪</a></li>
 <li><a href="/ssgc/20230306/1856542.md">《华尔街日报》预测中国新领导班子可能人选</a></li>
+<li><a href="/cnnews/20230306/1856620.md">中国新领导班子，会对习近平唯命是从吗？</a></li>
+<li><a href="/baitai/20230307/1856787.md">两会现惊悚一幕 危机或已卷土重来</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230307/1856921.md" target="_blank">纪永添：以快打快──美中两国下一代海基攻击武器的竞争</a></li>
 <li><a href="/comments/20230307/1856912.md" target="_blank">接到不明外星信号！你听到了吗？</a></li>
 <li><a href="/comments/20230307/1856854.md" target="_blank">文昭：李克强卸任前一刻大呼「人在干、天在看」预示什麽？克强唤天、带鱼入庙，国将有变</a></li>
 <li><a href="/comments/20230307/1856838.md" target="_blank">李克强称“人在干 天在看”，这话说对了！新科委员周小平提设立“台独黑名单”甚至“可被击毙”：咸鱼翻身了？｜唐靖远 方菲｜新闻烽火台03/06</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230306/1856501.md" target="_blank">两会撞上境外杠精，习近平遭遇泽连斯基“老子到处说”，李克强换手指点赞</a></li>
 <li><a href="/comments/20230306/1856495.md" target="_blank">在说谁？李克强告别喊话：人在干天在看、苍天有眼</a></li>
 <li><a href="/comments/20230306/1856487.md" target="_blank">胡平：习近平陷入怪圈</a></li>
-<li><a href="/comments/20230306/1856486.md" target="_blank"> 敏敏郡主：有“精俄”在背叛和出卖中国</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 <li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 
 </ul>
 </div>
