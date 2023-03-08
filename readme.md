@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20230307/1857025.md">青岛退休人员举行大规模集会 抗议医保新规【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230307/1856971.md">这世界上最无耻、最阴险、最歹毒的赞美</a></li>
 <li><a href="/comments/20230307/1857057.md">李克强话有所指 临了与习划清界线</a></li>
-<li><a href="/topimagenews/20230307/1856958.md">评论区爆火！央视宣传大翻车 贫苦老翁后出现“保时捷”…</a></li>
 <li><a href="/topimagenews/20230307/1857056.md">矢板明夫批李克强最后报告敷衍！曝3关键：中共未来就算有小阳春也经济悲观</a></li>
 <li><a href="/sohnews/20230307/1857089.md">陈破空：惊诧？李克强刚走人，习近平就开骂！罕见点名攻击美国。两常委贴身随行，神秘原因你想不到。秦刚记者会，突然掏出小红书，中俄关系摆首位。直播与互动。美东3月7日早8点30、即中港台3月7日晚9点30</a></li>
-<li><a href="/sohnews/20230308/1857171.md">“红二代毕汝谐：今晨三声吼：习近平大怂包 却权欲薰心灌天地”No.03（07/03/23）武统台湾-金字招牌：全国面临军管！</a></li>
 <li><a href="/comments/20230307/1857037.md">33岁女少校没立功也成全国人大代表 中国网友：懂的都懂</a></li>
-<li><a href="/cbnews/20230307/1856956.md">〖兲朝浮世绘〗再华丽的词藻也粉饰不了现实的苦难</a></li>
+<li><a href="/sohnews/20230308/1857171.md">“红二代毕汝谐：今晨三声吼：习近平大怂包 却权欲薰心灌天地”No.03（07/03/23）武统台湾-金字招牌：全国面临军管！</a></li>
 <li><a href="/cnnews/20230307/1857004.md">俄罗斯若战败 北京将失去这3样东西</a></li>
+<li><a href="/cnnews/20230308/1857215.md">被制裁2美企拒不缴纳罚款 北京愤怒了</a></li>
 <li><a href="/baitai/20230307/1856974.md">习近平罕见公开攻击美国 承认北京面临「严峻挑战」</a></li>
 <li><a href="/topimagenews/20230307/1857084.md">“未富先老”的黑龙江: 中国未来的缩影？李克强两会报告 这部分没读</a></li>
-<li><a href="/cnnews/20230308/1857215.md">被制裁2美企拒不缴纳罚款 北京愤怒了</a></li>
+<li><a href="/headline/20230308/1857239.md">经济学家许成钢: 习近平把能干的人都干掉了</a></li>
 <li><a href="/topimagenews/20230308/1857150.md">没有供应链无法替代的神话 继手机后陆笔电供应链向越南转移</a></li>
 <li><a href="/cbnews/20230307/1856986.md">江峰：两会人事变动福建帮为何能接管大半个中国？甄子丹成新宠接棒成龙逆流讲中国故事，周子平提案高层安排为台海做民族主义动员准备【江峰漫谈20230306第641期】</a></li>
 <li><a href="/lifebaike/20230307/1857021.md">家里这4种电器插头一定要拔掉，不然电费翻倍，很多人还不知道</a></li>
 <li><a href="/cnnews/20230307/1857068.md">出国抢订单，大多老板空手而归，听听他们怎么说</a></li>
-<li><a href="/headline/20230308/1857239.md">经济学家许成钢: 习近平把能干的人都干掉了</a></li>
 <li><a href="/topimagenews/20230307/1857067.md">民众要准备过紧日子？中共地方政府在数兆美元债务下挣扎…</a></li>
 <li><a href="/comments/20230307/1856975.md">李燕铭：政治局委员李干杰李鸿忠两会新身份泄露其未来任职 彭丽媛山东老乡出任中宣部常务副部长卡位下届政治局 吴政隆首次以新身份亮相两会 王岐山旧部原湖北省委书记蒋超良两会最新身份不同寻常 两会大战（三三） 二十大高层人事大战（八九） 习家军接掌国务院（十二） 第八常委彭丽媛（十）</a></li>
 <li><a href="/sohnews/20230307/1857090.md">习近平公开承认极不寻常❗️❗️❗️“数据说话”让习夜不能寐的十三大内忧外患,2023年中共全面崩溃中……</a></li>
 <li><a href="/cbnews/20230307/1857002.md">陆媒：中国村里年轻人 正在接受光棍现实</a></li>
+<li><a href="/ssgc/20230308/1857206.md">甄子丹言论引发风暴 数万人联署：取消奥斯卡颁奖人资格</a></li>
+<li><a href="/sohnews/20230307/1857137.md">赵立坚太冤枉了，青岛医保抗议开始，民主就是让老百姓能说话，保时捷和老人同框，做一个废物也没关系，一手好牌打得稀烂，大学生生育增加人口（小木谈天第335期 20230307）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230308/1857393.md" target="_blank">JonWe：无尽苍凉，那个计划生育先进县如今全是老人</a></li>
+<li><a href="/comments/20230308/1857392.md" target="_blank">洪博学：渡海被统战 不是搞交流</a></li>
+<li><a href="/comments/20230308/1857391.md" target="_blank">林保华:中俄合作中的各怀鬼胎</a></li>
 <li><a href="/comments/20230308/1857377.md" target="_blank">【独家重磅】李燕铭：习近平两会三大异常动作 展示超越核心的独裁地位 向官场释放倒李克强信号 习近平铤而走险 团派大佬们走向习对立面 两会大战（三四） 习近平李克强明争暗斗内幕（八七） 习近平连任与二十大常委争夺战（118）</a></li>
 <li><a href="/comments/20230308/1857360.md" target="_blank">现在的中国年轻人何谈梦想</a></li>
 <li><a href="/comments/20230308/1857333.md" target="_blank">李木通:普丁面临败战 习近平陷两难的抉择</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230308/1857161.md" target="_blank">时事大家谈：吓跑投资者 还能实现经济增长目标？</a></li>
 <li><a href="/comments/20230308/1857160.md" target="_blank">时事大家谈：中共军费又涨了 加码与美军备竞赛？</a></li>
 <li><a href="/comments/20230308/1857159.md" target="_blank">热点快评：习近平公开点名批美 中美对抗升级？</a></li>
-<li><a href="/comments/20230308/1857158.md" target="_blank">时事大家谈：中共军费又涨了 加码与美军备竞赛？吓跑投资者 还能实现经济增长目标？</a></li>
-<li><a href="/comments/20230307/1857101.md" target="_blank">【财经拆局】Family Business？家族办公室星港谁领风骚</a></li>
-<li><a href="/comments/20230307/1857078.md" target="_blank">“新兴市场教父”墨比尔斯在上海领不出钱 中国外汇局：哪有</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 <li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 
 </ul>
 </div>
