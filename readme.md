@@ -13,16 +13,16 @@
 <li><a href="/sohnews/20230308/1857441.md">习李握手超冷淡！汪洋故意避开习近平视线！习近平逼美国对赌，公开指责，台海战事别再问“会不会”；秦刚狠咬美国是“激将法”；传蔡英文今年4月在美国加州与麦卡锡会面，一举三得？中共会消停吗｜新闻拍案惊奇</a></li>
 <li><a href="/cnnews/20230308/1857264.md">5万多买辆SUV！逼近崩盘 传中国车企库存大甩卖</a></li>
 <li><a href="/topimagenews/20230308/1857430.md">中共高层“圈内人”：习已没有任何掣肘</a></li>
-<li><a href="/ssgc/20230308/1857206.md">甄子丹言论引发风暴 数万人联署：取消奥斯卡颁奖人资格</a></li>
 <li><a href="/topimagenews/20230308/1857519.md">伤害性、侮辱性都很强！有点突破底线了；真正的坍塌已经开始…</a></li>
+<li><a href="/ssgc/20230308/1857206.md">甄子丹言论引发风暴 数万人联署：取消奥斯卡颁奖人资格</a></li>
 <li><a href="/baitai/20230308/1857218.md">蓬佩奥一句话引关注 一场崩塌悄悄开始</a></li>
 <li><a href="/ssgc/20230308/1857407.md">〖微博谈〗呼唤苍天，预示着什么？</a></li>
 <li><a href="/headline/20230308/1857450.md">王沪宁：躺平料将令中国逾400万人染疫死亡</a></li>
 <li><a href="/topimagenews/20230308/1857431.md">继海外警局之后 “中国地下银行”浮现</a></li>
 <li><a href="/comments/20230308/1857293.md">袁斌：李克强的背影</a></li>
 <li><a href="/cnnews/20230308/1857504.md">Tesla再降价！全球所有汽车厂商都快被逼疯了</a></li>
-<li><a href="/baitai/20230308/1857480.md">一个奇异现象获证实？美将放宽针对中国人的入境限制</a></li>
 <li><a href="/cbnews/20230308/1857345.md">天亮时分：两会舞台，习近平与李克强最后的过招儿；普京特使突访北京，透露习近平台海底牌；习近平透露中共两大困境（政论天下第952集 20230307）</a></li>
+<li><a href="/baitai/20230308/1857480.md">一个奇异现象获证实？美将放宽针对中国人的入境限制</a></li>
 <li><a href="/topimagenews/20230308/1857409.md">信号？这座城市全面取消二手房新房限售</a></li>
 <li><a href="/cbnews/20230308/1857219.md">女教授健身遭暴力拉伸 胸椎惊悚爆裂骨折</a></li>
 <li><a href="/cnnews/20230308/1857222.md">颤抖吧…美国会听证会，鲍威尔重磅发声</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230309/1857632.md" target="_blank">拜登周四将发布2024财年预算案 国防部预算申请逾8350亿美元</a></li>
+<li><a href="/comments/20230309/1857631.md" target="_blank">王沪宁促港澳政协捍主权丶说好“一国两制” 学者指须更开放社会丶减用国安法</a></li>
 <li><a href="/comments/20230309/1857630.md" target="_blank">李燕铭：习近平毫无顾忌地成了不叫皇帝的皇帝 从党天下到习天下 中国进一步帝制化 中共高层圈内人曝习近平已没有任何掣肘 政治局书记处已成花瓶摆设 李强两会发言不足500字竟三提习近平 两会大战（三五） 习近平连任与二十大常委争夺战（119）</a></li>
 <li><a href="/comments/20230309/1857622.md" target="_blank">时事大家谈：习近平罕见点名批评美国 两国关系有“脱轨风险”？</a></li>
 <li><a href="/comments/20230309/1857621.md" target="_blank">时事大家谈：芯片AI高管成两会新宠 政策重心因围堵转向？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230308/1857333.md" target="_blank">李木通:普丁面临败战 习近平陷两难的抉择</a></li>
 <li><a href="/comments/20230308/1857332.md" target="_blank">李濠仲:这样的乌克兰 不能成为普丁禁脔</a></li>
 <li><a href="/comments/20230308/1857324.md" target="_blank">抗中保台！华尔街日报：美军要双线作战 缺一不可</a></li>
-<li><a href="/comments/20230308/1857312.md" target="_blank">党割华尔街韭菜，倒查20年</a></li>
-<li><a href="/comments/20230308/1857306.md" target="_blank">联合国报告：《国安法》令港司法独立废除 评论：开埠来最大警号</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
 <li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 
 </ul>
 </div>
