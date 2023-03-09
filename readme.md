@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20230308/1857431.md">继海外警局之后 “中国地下银行”浮现</a></li>
 <li><a href="/cnnews/20230308/1857504.md">Tesla再降价！全球所有汽车厂商都快被逼疯了</a></li>
 <li><a href="/baitai/20230308/1857480.md">一个奇异现象获证实？美将放宽针对中国人的入境限制</a></li>
-<li><a href="/cbnews/20230308/1857345.md">天亮时分：两会舞台，习近平与李克强最后的过招儿；普京特使突访北京，透露习近平台海底牌；习近平透露中共两大困境（政论天下第952集 20230307）</a></li>
+<li><a href="/sohnews/20230309/1857652.md">习近平对李克强下手｜ #时事金扫描 #shorts</a></li>
 <li><a href="/sohnews/20230308/1857527.md">陈破空：两会违规！竟提前宣示他任副主席。怪事：网上立即传出他家族贪腐。李汪消失，胡春华极度焦虑。政协委员太黄，生孩子居然打上中小学生的主意。直播与互动。美东3月8日早8点30、即中港台3月8日晚9点30</a></li>
 <li><a href="/topimagenews/20230308/1857409.md">信号？这座城市全面取消二手房新房限售</a></li>
-<li><a href="/sohnews/20230309/1857652.md">习近平对李克强下手｜ #时事金扫描 #shorts</a></li>
-<li><a href="/bblog/20230308/1857413.md">〖微历史〗中国有史以来最大最臭的粪缸</a></li>
 <li><a href="/comments/20230308/1857549.md">两会直击：李克强、汪洋消失 胡春华眉头紧皱</a></li>
+<li><a href="/bblog/20230308/1857413.md">〖微历史〗中国有史以来最大最臭的粪缸</a></li>
 <li><a href="/sohnews/20230308/1857512.md">文睿：失业，又传出大消息，我不说你想不到</a></li>
 <li><a href="/cbnews/20230308/1857356.md">美中关系持续恶化 中共新驻美大使低调就任</a></li>
+<li><a href="/sohnews/20230309/1857642.md">“细思极恐！任志强生日之时：习近平说了这句话！”No.05（08/03/23）中国现在是习近平的！ 不是共产党的 更不是中国人的</a></li>
+<li><a href="/sohnews/20230309/1857653.md">李克强视频被微博封禁｜ #时事金扫描</a></li>
 <li><a href="/baitai/20230309/1857629.md">《柳叶刀》：中国是错误饮食“重灾区”</a></li>
+<li><a href="/baitai/20230309/1857665.md">习面临生死抉择 或为两原因犯险</a></li>
 <li><a href="/ssgc/20230308/1857454.md">政府财政救厂 东风车半价抛售 鄂逾千家汽车配件厂面临生存危机</a></li>
 <li><a href="/sohnews/20230308/1857357.md">最窝囊总理李克强退场！李毕竟辛辛苦苦干了十年，配合习近平也算尽力了。离任最后一次握手，习连看都没有看他一眼。估计李克强心里是寒透了。也许心早已死也无所谓了。也许和他握个手已经是"习皇"的恩赐了。</a></li>
 <li><a href="/cnnews/20230308/1857403.md">“还不都是抄来的” 中共核弹专家访谈再爆热议</a></li>
-<li><a href="/sohnews/20230309/1857642.md">“细思极恐！任志强生日之时：习近平说了这句话！”No.05（08/03/23）中国现在是习近平的！ 不是共产党的 更不是中国人的</a></li>
-<li><a href="/sohnews/20230309/1857653.md">李克强视频被微博封禁｜ #时事金扫描</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230309/1857795.md" target="_blank">天亮时分：渲染台海危机，正落入中共设计的战略圈套；内委会不见踪影，习近平集权失败？内循环深陷困境（政论天下第953集 20230308）</a></li>
 <li><a href="/cbnews/20230309/1857728.md" target="_blank">FBI局长：北京恐利用TikTok控制数据 影响对台论述</a></li>
 <li><a href="/comments/20230309/1857724.md" target="_blank">【围炉夜话03/08】习近平点名批美，秦刚扮回战狼：中共成了受害者？探究1/6真相为何成为美国政治禁区？｜方伟 唐靖远 大宇 方菲</a></li>
 <li><a href="/cbnews/20230309/1857688.md" target="_blank">〖兲朝浮世绘〗请问这是玩过家家还是认真的？这样羞辱乌克兰有意义吗？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230307/1856848.md" target="_blank">媒体援引机密情报称中共干预选举恐触法 加拿大警察展开调查</a></li>
 <li><a href="/comments/20230307/1856838.md" target="_blank">李克强称“人在干 天在看”，这话说对了！新科委员周小平提设立“台独黑名单”甚至“可被击毙”：咸鱼翻身了？｜唐靖远 方菲｜新闻烽火台03/06</a></li>
 <li><a href="/cbnews/20230306/1856699.md" target="_blank">间谍气球后续：加州科技公司与遭制裁中企关系密切</a></li>
-<li><a href="/cbnews/20230306/1856690.md" target="_blank">中国逾4000万老人失能 “上门帮人洗澡”行业爆火</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230309/1857791.md" target="_blank">李燕铭：江曾生化政变国际溯源新冠病毒（14） 中共两会敏感期美国六大动作溯源新冠病毒 川普震撼声明：世界终于明白病毒真相 清算中共的时候到了！FBI局长：新冠病毒最有可能源自武汉实验室 世卫总干事谭德塞把习近平卖了：新冠溯源是科学和道德上的当务之急 新研究：新冠病毒源于自然的可能性不到亿分之一 惊曝武汉病毒研究所正掩盖一种全新病毒 病毒亡共系列之七（不断更新）</a></li>
 <li><a href="/comments/20230309/1857766.md" target="_blank">美帝脱轨，秦刚担心，粉红不解</a></li>
 <li><a href="/comments/20230309/1857752.md" target="_blank">宋国诚:从中共“两会”看习近平的野心与图谋</a></li>
 <li><a href="/comments/20230309/1857726.md" target="_blank">文昭：习近平亲自下场反美、「指名」方向不留余地；更多「亲自部署」在进行中？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230308/1857513.md" target="_blank">中国如何控制在德留学的精英学子</a></li>
 <li><a href="/comments/20230308/1857502.md" target="_blank">宋国诚：实现两大图谋 从两会看习的野心</a></li>
 <li><a href="/comments/20230308/1857411.md" target="_blank">海边的西塞罗：我让孩子拥有当个“废柴”的权利</a></li>
-<li><a href="/comments/20230308/1857410.md" target="_blank">熊丙奇：取消英语主科地位？他们说的理由都不成立</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 <li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 
 </ul>
 </div>
