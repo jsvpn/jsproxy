@@ -7,12 +7,11 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20230309/1857652.md">习近平对李克强下手｜ #时事金扫描 #shorts</a></li>
 <li><a href="/baitai/20230309/1857665.md">习面临生死抉择 或为两原因犯险</a></li>
-<li><a href="/sohnews/20230309/1857642.md">“细思极恐！任志强生日之时：习近平说了这句话！”No.05（08/03/23）中国现在是习近平的！ 不是共产党的 更不是中国人的</a></li>
 <li><a href="/cbnews/20230309/1857688.md">〖兲朝浮世绘〗请问这是玩过家家还是认真的？这样羞辱乌克兰有意义吗？</a></li>
 <li><a href="/sohnews/20230309/1857653.md">李克强视频被微博封禁｜ #时事金扫描</a></li>
 <li><a href="/sohnews/20230309/1857505.md">两会上习李反常互动，尽显习近平的不满与无奈；不可能全身而退，李克强结局只有三种可能（一平论政2023年3月7日）</a></li>
-<li><a href="/baitai/20230309/1857911.md">疫情到底多严重？西安发应急预案提封城</a></li>
 <li><a href="/topimagenews/20230309/1857770.md">中共间谍竟用iPhone写日记，结果惨了</a></li>
+<li><a href="/baitai/20230309/1857911.md">疫情到底多严重？西安发应急预案提封城</a></li>
 <li><a href="/comments/20230309/1857853.md">李强被习近平李克强公开互黑吓着了！这火坑该怎麽跳？两会惊爆六个自信，魔怔了？</a></li>
 <li><a href="/cnnews/20230309/1857761.md">中国直播间里卖内衣，竟出现令人傻眼一幕…</a></li>
 <li><a href="/topimagenews/20230309/1857698.md">对待这件事，“习近平极其认真！”</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/topimagenews/20230309/1857870.md">政协选正、副主席 消息：王沪宁是主席唯一人选</a></li>
 <li><a href="/topimagenews/20230309/1857912.md">俄5地区闹独立？波兰媒体：560万俄人参与自发性网络公投 压倒性支持脱俄</a></li>
 <li><a href="/ssgc/20230309/1857789.md">〖微博谈〗又要回到自力更生的年代</a></li>
+<li><a href="/sohnews/20230309/1857937.md">中共定调，准备迎接“惊涛骇浪”！今年GDP目标5%，咆啸成长年代结束了？经济面临六大僵尸化风险，当局要求讲好故事，美国资金大佬却唱反调？【#蔚然财商天下】2023.03.07</a></li>
 <li><a href="/baitai/20230309/1857692.md">壮士一去兮得复还: 警察把人都悄悄放了</a></li>
 <li><a href="/topimagenews/20230309/1857918.md">俄“匕首”突穿乌克兰空防 基辅中弹、扎波罗热核电厂也遭殃</a></li>
-<li><a href="/sohnews/20230309/1857937.md">中共定调，准备迎接“惊涛骇浪”！今年GDP目标5%，咆啸成长年代结束了？经济面临六大僵尸化风险，当局要求讲好故事，美国资金大佬却唱反调？【#蔚然财商天下】2023.03.07</a></li>
 <li><a href="/lifebaike/20230309/1857892.md">手机拍照时，这个功能记得一定要打开，拍出来的照片清晰又唯美</a></li>
 <li><a href="/cbnews/20230309/1857838.md">中共不再掩饰了</a></li>
 <li><a href="/cnnews/20230309/1857708.md">突发：一邮轮300多人病倒 或感染这种病毒</a></li>
+<li><a href="/worldnews/20230309/1857833.md">毛骨悚然！中国博士常头晕、疲倦…女友查看监控后吓得…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
 <li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 <li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
 
 </ul>
 </div>
