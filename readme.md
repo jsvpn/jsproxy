@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cbnews/20230308/1857331.md">影片曝光 习近平握完手转身就走 正眼不瞧李克强</a></li>
 <li><a href="/topimagenews/20230308/1857418.md">李强两会发言，不足500字竟然三次提及...【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230308/1857441.md">习李握手超冷淡！汪洋故意避开习近平视线！习近平逼美国对赌，公开指责，台海战事别再问“会不会”；秦刚狠咬美国是“激将法”；传蔡英文今年4月在美国加州与麦卡锡会面，一举三得？中共会消停吗｜新闻拍案惊奇</a></li>
 <li><a href="/topimagenews/20230308/1857430.md">中共高层“圈内人”：习已没有任何掣肘</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/cbnews/20230308/1857345.md">天亮时分：两会舞台，习近平与李克强最后的过招儿；普京特使突访北京，透露习近平台海底牌；习近平透露中共两大困境（政论天下第952集 20230307）</a></li>
 <li><a href="/sohnews/20230308/1857527.md">陈破空：两会违规！竟提前宣示他任副主席。怪事：网上立即传出他家族贪腐。李汪消失，胡春华极度焦虑。政协委员太黄，生孩子居然打上中小学生的主意。直播与互动。美东3月8日早8点30、即中港台3月8日晚9点30</a></li>
 <li><a href="/topimagenews/20230308/1857409.md">信号？这座城市全面取消二手房新房限售</a></li>
+<li><a href="/sohnews/20230309/1857652.md">习近平对李克强下手｜ #时事金扫描 #shorts</a></li>
 <li><a href="/bblog/20230308/1857413.md">〖微历史〗中国有史以来最大最臭的粪缸</a></li>
 <li><a href="/comments/20230308/1857549.md">两会直击：李克强、汪洋消失 胡春华眉头紧皱</a></li>
 <li><a href="/sohnews/20230308/1857512.md">文睿：失业，又传出大消息，我不说你想不到</a></li>
-<li><a href="/sohnews/20230309/1857652.md">习近平对李克强下手｜ #时事金扫描 #shorts</a></li>
 <li><a href="/cbnews/20230308/1857356.md">美中关系持续恶化 中共新驻美大使低调就任</a></li>
-<li><a href="/ssgc/20230308/1857454.md">政府财政救厂 东风车半价抛售 鄂逾千家汽车配件厂面临生存危机</a></li>
 <li><a href="/baitai/20230309/1857629.md">《柳叶刀》：中国是错误饮食“重灾区”</a></li>
+<li><a href="/ssgc/20230308/1857454.md">政府财政救厂 东风车半价抛售 鄂逾千家汽车配件厂面临生存危机</a></li>
 <li><a href="/sohnews/20230308/1857357.md">最窝囊总理李克强退场！李毕竟辛辛苦苦干了十年，配合习近平也算尽力了。离任最后一次握手，习连看都没有看他一眼。估计李克强心里是寒透了。也许心早已死也无所谓了。也许和他握个手已经是"习皇"的恩赐了。</a></li>
 <li><a href="/cnnews/20230308/1857403.md">“还不都是抄来的” 中共核弹专家访谈再爆热议</a></li>
-<li><a href="/baitai/20230308/1857490.md">中国有这么一个人，三十二个成语都跟他有关</a></li>
+<li><a href="/sohnews/20230309/1857642.md">“细思极恐！任志强生日之时：习近平说了这句话！”No.05（08/03/23）中国现在是习近平的！ 不是共产党的 更不是中国人的</a></li>
+<li><a href="/sohnews/20230309/1857653.md">李克强视频被微博封禁｜ #时事金扫描</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230309/1857770.md" target="_blank">中共间谍竟用iPhone写日记，结果惨了</a></li>
+<li><a href="/topimagenews/20230309/1857769.md" target="_blank">泽伦斯基邀麦卡锡访乌 遭他一席话秒打枪：我没必要去</a></li>
 <li><a href="/topimagenews/20230309/1857698.md" target="_blank">对待这件事，“习近平极其认真！”</a></li>
 <li><a href="/topimagenews/20230309/1857697.md" target="_blank">“啥？CNN？” 两会代表们落荒而逃…</a></li>
 <li><a href="/topimagenews/20230308/1857571.md" target="_blank">华尔街日报：大陆三分之二地方政府未偿债务超过收入的120％</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20230307/1856847.md" target="_blank">忧安全风险 德国拟禁电信商使用部分华为及中兴5G零件</a></li>
 <li><a href="/topimagenews/20230307/1856833.md" target="_blank">中国这路口杆子火了 年薪几千万</a></li>
 <li><a href="/topimagenews/20230307/1856793.md" target="_blank">令人惊讶…德国总理暗示北京向他做出了保证？</a></li>
-<li><a href="/topimagenews/20230306/1856698.md" target="_blank">准备面对人民币“破7”中企抱紧美元或进行避险</a></li>
-<li><a href="/topimagenews/20230306/1856659.md" target="_blank">划时代新篇章！韩日强征劳工争议解套 美国为两盟友喝采</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230309/1857766.md" target="_blank">美帝脱轨，秦刚担心，粉红不解</a></li>
 <li><a href="/comments/20230309/1857752.md" target="_blank">宋国诚:从中共“两会”看习近平的野心与图谋</a></li>
 <li><a href="/comments/20230309/1857726.md" target="_blank">文昭：习近平亲自下场反美、「指名」方向不留余地；更多「亲自部署」在进行中？</a></li>
 <li><a href="/comments/20230309/1857724.md" target="_blank">【围炉夜话03/08】习近平点名批美，秦刚扮回战狼：中共成了受害者？探究1/6真相为何成为美国政治禁区？｜方伟 唐靖远 大宇 方菲</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230308/1857502.md" target="_blank">宋国诚：实现两大图谋 从两会看习的野心</a></li>
 <li><a href="/comments/20230308/1857411.md" target="_blank">海边的西塞罗：我让孩子拥有当个“废柴”的权利</a></li>
 <li><a href="/comments/20230308/1857410.md" target="_blank">熊丙奇：取消英语主科地位？他们说的理由都不成立</a></li>
-<li><a href="/comments/20230308/1857398.md" target="_blank">项栋梁：我是万万没想到，连大熊猫都被利用来挑拨中美关系</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
 <li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
 <li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 
 </ul>
 </div>
