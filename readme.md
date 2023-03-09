@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/baitai/20230308/1857310.md">中共两会秦刚闯祸？习近平释危险信号</a></li>
 <li><a href="/cbnews/20230308/1857331.md">影片曝光 习近平握完手转身就走 正眼不瞧李克强</a></li>
 <li><a href="/topimagenews/20230308/1857418.md">李强两会发言，不足500字竟然三次提及...【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230308/1857441.md">习李握手超冷淡！汪洋故意避开习近平视线！习近平逼美国对赌，公开指责，台海战事别再问“会不会”；秦刚狠咬美国是“激将法”；传蔡英文今年4月在美国加州与麦卡锡会面，一举三得？中共会消停吗｜新闻拍案惊奇</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/ssgc/20230308/1857407.md">〖微博谈〗呼唤苍天，预示着什么？</a></li>
 <li><a href="/topimagenews/20230308/1857431.md">继海外警局之后 “中国地下银行”浮现</a></li>
 <li><a href="/cnnews/20230308/1857504.md">Tesla再降价！全球所有汽车厂商都快被逼疯了</a></li>
-<li><a href="/cbnews/20230308/1857345.md">天亮时分：两会舞台，习近平与李克强最后的过招儿；普京特使突访北京，透露习近平台海底牌；习近平透露中共两大困境（政论天下第952集 20230307）</a></li>
 <li><a href="/baitai/20230308/1857480.md">一个奇异现象获证实？美将放宽针对中国人的入境限制</a></li>
+<li><a href="/cbnews/20230308/1857345.md">天亮时分：两会舞台，习近平与李克强最后的过招儿；普京特使突访北京，透露习近平台海底牌；习近平透露中共两大困境（政论天下第952集 20230307）</a></li>
 <li><a href="/sohnews/20230308/1857527.md">陈破空：两会违规！竟提前宣示他任副主席。怪事：网上立即传出他家族贪腐。李汪消失，胡春华极度焦虑。政协委员太黄，生孩子居然打上中小学生的主意。直播与互动。美东3月8日早8点30、即中港台3月8日晚9点30</a></li>
 <li><a href="/topimagenews/20230308/1857409.md">信号？这座城市全面取消二手房新房限售</a></li>
 <li><a href="/bblog/20230308/1857413.md">〖微历史〗中国有史以来最大最臭的粪缸</a></li>
 <li><a href="/worldnews/20230308/1857323.md">韩国整形诊所逾30名艺人裸身画面外流 遭骇网络摄影机是海康威视</a></li>
-<li><a href="/comments/20230308/1857549.md">两会直击：李克强、汪洋消失 胡春华眉头紧皱</a></li>
 <li><a href="/sohnews/20230308/1857512.md">文睿：失业，又传出大消息，我不说你想不到</a></li>
+<li><a href="/comments/20230308/1857549.md">两会直击：李克强、汪洋消失 胡春华眉头紧皱</a></li>
 <li><a href="/cbnews/20230308/1857356.md">美中关系持续恶化 中共新驻美大使低调就任</a></li>
 <li><a href="/ssgc/20230308/1857454.md">政府财政救厂 东风车半价抛售 鄂逾千家汽车配件厂面临生存危机</a></li>
 <li><a href="/cnnews/20230308/1857403.md">“还不都是抄来的” 中共核弹专家访谈再爆热议</a></li>
 <li><a href="/sohnews/20230308/1857357.md">最窝囊总理李克强退场！李毕竟辛辛苦苦干了十年，配合习近平也算尽力了。离任最后一次握手，习连看都没有看他一眼。估计李克强心里是寒透了。也许心早已死也无所谓了。也许和他握个手已经是"习皇"的恩赐了。</a></li>
 <li><a href="/sohnews/20230308/1857315.md">美国国会播放 反共视频 中共危矣！</a></li>
+<li><a href="/sohnews/20230309/1857652.md">习近平对李克强下手｜ #时事金扫描 #shorts</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 <li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
 <li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 <li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 
 </ul>
 </div>
