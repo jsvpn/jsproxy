@@ -5,14 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230309/1857652.md">习近平对李克强下手｜ #时事金扫描 #shorts</a></li>
 <li><a href="/baitai/20230309/1857665.md">习面临生死抉择 或为两原因犯险</a></li>
 <li><a href="/cbnews/20230309/1857688.md">〖兲朝浮世绘〗请问这是玩过家家还是认真的？这样羞辱乌克兰有意义吗？</a></li>
-<li><a href="/sohnews/20230309/1857653.md">李克强视频被微博封禁｜ #时事金扫描</a></li>
 <li><a href="/sohnews/20230309/1857505.md">两会上习李反常互动，尽显习近平的不满与无奈；不可能全身而退，李克强结局只有三种可能（一平论政2023年3月7日）</a></li>
 <li><a href="/topimagenews/20230309/1857770.md">中共间谍竟用iPhone写日记，结果惨了</a></li>
-<li><a href="/baitai/20230309/1857911.md">疫情到底多严重？西安发应急预案提封城</a></li>
 <li><a href="/comments/20230309/1857853.md">李强被习近平李克强公开互黑吓着了！这火坑该怎麽跳？两会惊爆六个自信，魔怔了？</a></li>
+<li><a href="/baitai/20230309/1857911.md">疫情到底多严重？西安发应急预案提封城</a></li>
 <li><a href="/cnnews/20230309/1857761.md">中国直播间里卖内衣，竟出现令人傻眼一幕…</a></li>
 <li><a href="/topimagenews/20230309/1857698.md">对待这件事，“习近平极其认真！”</a></li>
 <li><a href="/topimagenews/20230309/1857697.md">“啥？CNN？” 两会代表们落荒而逃…</a></li>
@@ -20,14 +18,16 @@
 <li><a href="/comments/20230309/1857831.md">文昭：中央内务委员会黄了？真相是...中央机关缩编裁员，韭菜「体制梦」该醒了</a></li>
 <li><a href="/topimagenews/20230309/1857870.md">政协选正、副主席 消息：王沪宁是主席唯一人选</a></li>
 <li><a href="/topimagenews/20230309/1857912.md">俄5地区闹独立？波兰媒体：560万俄人参与自发性网络公投 压倒性支持脱俄</a></li>
-<li><a href="/ssgc/20230309/1857789.md">〖微博谈〗又要回到自力更生的年代</a></li>
 <li><a href="/sohnews/20230309/1857937.md">中共定调，准备迎接“惊涛骇浪”！今年GDP目标5%，咆啸成长年代结束了？经济面临六大僵尸化风险，当局要求讲好故事，美国资金大佬却唱反调？【#蔚然财商天下】2023.03.07</a></li>
+<li><a href="/ssgc/20230309/1857789.md">〖微博谈〗又要回到自力更生的年代</a></li>
 <li><a href="/baitai/20230309/1857692.md">壮士一去兮得复还: 警察把人都悄悄放了</a></li>
 <li><a href="/topimagenews/20230309/1857918.md">俄“匕首”突穿乌克兰空防 基辅中弹、扎波罗热核电厂也遭殃</a></li>
 <li><a href="/lifebaike/20230309/1857892.md">手机拍照时，这个功能记得一定要打开，拍出来的照片清晰又唯美</a></li>
 <li><a href="/cbnews/20230309/1857838.md">中共不再掩饰了</a></li>
 <li><a href="/cnnews/20230309/1857708.md">突发：一邮轮300多人病倒 或感染这种病毒</a></li>
 <li><a href="/worldnews/20230309/1857833.md">毛骨悚然！中国博士常头晕、疲倦…女友查看监控后吓得…</a></li>
+<li><a href="/ssgc/20230309/1857971.md">李克强的困境</a></li>
+<li><a href="/cnnews/20230309/1857888.md">麦卡锡证实将晤蔡英文 中共跳脚被美国1句话顶回</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
 <li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
 <li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
 
 </ul>
 </div>
