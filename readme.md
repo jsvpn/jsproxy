@@ -8,15 +8,14 @@
 <li><a href="/yule/20230311/1858530.md">网曝潘长江带全家移民美国 定居国外神情落寞</a></li>
 <li><a href="/lishi/20230311/1858565.md">一张反对票，全家鬼门关</a></li>
 <li><a href="/topimagenews/20230311/1858569.md">司马南从道貌岸然变成过街老鼠，场面几乎失控…</a></li>
-<li><a href="/cnnews/20230311/1858509.md">影响深远...巴斯德退出中国 中科院独自难过</a></li>
 <li><a href="/ssgc/20230311/1858596.md">〖微博谈〗这更是一个看谁不要脸的社会</a></li>
 <li><a href="/cbnews/20230311/1858622.md">〖兲朝浮世绘〗资本不够忠心，对未来的“伟大领袖”信心不足</a></li>
 <li><a href="/cbnews/20230311/1858687.md">他多次列席中共“重要会议”，这意味着什么？【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230311/1858690.md">关键时刻的表演！王沪宁抢跑、李强慢半拍【阿波罗网报道】</a></li>
 <li><a href="/health/20230311/1858520.md">有一种零食，或许在“摧毁”你的胰岛，建议50岁以后尽量少碰</a></li>
 <li><a href="/sohnews/20230311/1858734.md">习近平猛眨眼睛！连任誓词他自己信吗？投票结果公布后，分别跟栗战书、李强握手｜新闻拍案惊奇 大宇 #shorts</a></li>
-<li><a href="/sohnews/20230311/1858762.md">陈破空：李强当总理，8票弃权3票反对。宣誓口气如小学生。要握手，李克强转身引疑惑。王沪宁假装赞汪洋，党媒却不给镜头。一个细节避开白纸革命。直播与互动。美东3月11日早8点30、即中港台3月11日晚9点30</a></li>
 <li><a href="/headline/20230311/1858708.md">中国政府今换届 李强接替李克强任总理 美国一作家称不会是壁画与摆设</a></li>
+<li><a href="/sohnews/20230311/1858762.md">陈破空：李强当总理，8票弃权3票反对。宣誓口气如小学生。要握手，李克强转身引疑惑。王沪宁假装赞汪洋，党媒却不给镜头。一个细节避开白纸革命。直播与互动。美东3月11日早8点30、即中港台3月11日晚9点30</a></li>
 <li><a href="/comments/20230311/1858682.md">习近平全票当选开启第三任期，人民网声讨“鸡你太美、苍天有眼”，李克强被清除余毒？</a></li>
 <li><a href="/topimagenews/20230311/1858692.md">美媒报导黑猫中队：5架U-2被击落！台美联手侦察深入陆境</a></li>
 <li><a href="/baitai/20230311/1858686.md">专家揭习近平三连任后下一个打算</a></li>
@@ -27,7 +26,8 @@
 <li><a href="/topimagenews/20230311/1858570.md">习第3任期如恶海中驾驶大船！关键挑战是这个</a></li>
 <li><a href="/topimagenews/20230311/1858744.md">B级车暴降9万 东风全系亏泪甩卖 合资时代玩完？这两类中国人，正在疯狂移民美国</a></li>
 <li><a href="/topimagenews/20230311/1858579.md">真要打？美罕见电战机现身 3侦察机抵台海南端</a></li>
-<li><a href="/cbnews/20230311/1858506.md">拒绝中联部官员外交签证 加拿大难得硬气一次</a></li>
+<li><a href="/comments/20230311/1858761.md">预言第一书《推背图》第50卦象，有解了！《五公经》更多惊人之语：圣人明王出世，太平世界到来⋯⋯｜ #未解之谜</a></li>
+<li><a href="/cbnews/20230311/1858671.md">江峰：金门二胆岛军营上等兵伙夫泅渡投共，被中共海警船捞起。战云密布，强化统战，小红书成工具；俄军士兵前线传话普京“我们不想当炮灰”。俄国钱已耗尽【江峰漫谈20230310第644期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230312/1858831.md" target="_blank">一周年了 中国五毛们活成了自己的笑话 普京对世界有八大“贡献”</a></li>
 <li><a href="/comments/20230312/1858798.md" target="_blank">妙不可言的舞剧《草船借箭》</a></li>
 <li><a href="/comments/20230311/1858788.md" target="_blank">习家军全票通过仅李鸿忠拿到反对票 曾被指是政治变色龙</a></li>
 <li><a href="/comments/20230311/1858787.md" target="_blank">青松絮语：日常的奇迹</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230311/1858558.md" target="_blank">方允：从李宁服装说起</a></li>
 <li><a href="/comments/20230311/1858557.md" target="_blank">钟原：中共政治局霸占主席台 两会成夹生饭</a></li>
 <li><a href="/comments/20230311/1858556.md" target="_blank">周晓辉：中共国成立数据局 微软表态不接受其管理</a></li>
-<li><a href="/comments/20230311/1858555.md" target="_blank">网海拾贝:中国城镇就业人员60年来首次下跌</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
 
 </ul>
 </div>
