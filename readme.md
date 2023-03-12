@@ -15,19 +15,19 @@
 <li><a href="/cnnews/20230312/1858905.md">逃去新加坡的中产们后悔了</a></li>
 <li><a href="/sohnews/20230311/1858797.md">习近平与袁世凯恐怖轮回；北京昏天黑地，千古寓言一语成谶；美众院法案开启讨伐中共之路；两会提案千奇百怪：台湾女最嗲，副省长最狠。</a></li>
 <li><a href="/topimagenews/20230312/1858949.md">【微博精粹】华夏83个王朝 559个帝王 没一个敢像习帝这么玩</a></li>
-<li><a href="/comments/20230311/1858761.md">预言第一书《推背图》第50卦象，有解了！《五公经》更多惊人之语：圣人明王出世，太平世界到来⋯⋯｜ #未解之谜</a></li>
 <li><a href="/topimagenews/20230312/1858812.md">说实话：国产芯片的真实能力，是90nm，而非14nm</a></li>
-<li><a href="/topimagenews/20230311/1858744.md">B级车暴降9万 东风全系亏泪甩卖 合资时代玩完？这两类中国人，正在疯狂移民美国</a></li>
+<li><a href="/comments/20230311/1858761.md">预言第一书《推背图》第50卦象，有解了！《五公经》更多惊人之语：圣人明王出世，太平世界到来⋯⋯｜ #未解之谜</a></li>
 <li><a href="/cbnews/20230311/1858796.md">赵立坚现身中越边境刷油漆 引热议</a></li>
+<li><a href="/topimagenews/20230311/1858744.md">B级车暴降9万 东风全系亏泪甩卖 合资时代玩完？这两类中国人，正在疯狂移民美国</a></li>
 <li><a href="/topimagenews/20230312/1858830.md">蔡天凤被曝本不富裕 帮洗米华洗钱起家 母亲烂赌</a></li>
 <li><a href="/ssgc/20230312/1858819.md">李强高票当选总理 “不是摆设”？</a></li>
 <li><a href="/topimagenews/20230312/1858848.md">“AI芯片第一股”突然暴雷 更危险信号曝光</a></li>
 <li><a href="/topimagenews/20230312/1858915.md">上海相亲角的征婚启事，连ChatGPT都看不下去</a></li>
+<li><a href="/comments/20230312/1858962.md">李燕铭：国务院部长27人名单两大异常 李小鹏等5名部长异常留任 内幕解读 习近平为清洗李克强国务院系统埋下伏笔 两会大战（三六） 习家军接掌国务院（十三） 二十大高层人事大战（九十）</a></li>
 <li><a href="/ccpdope/20230311/1858770.md">世界“最大卖春岛”变身中共海军基地始末</a></li>
 <li><a href="/comments/20230311/1858788.md">习家军全票通过仅李鸿忠拿到反对票 曾被指是政治变色龙</a></li>
-<li><a href="/ssgc/20230312/1858818.md">王沪宁政协鼓励斗争 网民反呛</a></li>
-<li><a href="/comments/20230312/1858962.md">李燕铭：国务院部长27人名单两大异常 李小鹏等5名部长异常留任 内幕解读 习近平为清洗李克强国务院系统埋下伏笔 两会大战（三六） 习家军接掌国务院（十三） 二十大高层人事大战（九十）</a></li>
 <li><a href="/topimagenews/20230312/1858916.md">“二次袁”是什么意思？</a></li>
+<li><a href="/ssgc/20230312/1858818.md">王沪宁政协鼓励斗争 网民反呛</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
 
 </ul>
 </div>
