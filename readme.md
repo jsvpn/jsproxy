@@ -9,8 +9,8 @@
 <li><a href="/sohnews/20230311/1858762.md">陈破空：李强当总理，8票弃权3票反对。宣誓口气如小学生。要握手，李克强转身引疑惑。王沪宁假装赞汪洋，党媒却不给镜头。一个细节避开白纸革命。直播与互动。美东3月11日早8点30、即中港台3月11日晚9点30</a></li>
 <li><a href="/topimagenews/20230312/1858839.md">习近平两会登顶成“寡人” 欧美欢欣鼓舞</a></li>
 <li><a href="/topimagenews/20230312/1858838.md">硅谷银行破产 中国科企哭惨 传王兴建群维权</a></li>
-<li><a href="/topimagenews/20230312/1858949.md">【微博精粹】华夏83个王朝 559个帝王 没一个敢像习帝这么玩</a></li>
 <li><a href="/sohnews/20230311/1858797.md">习近平与袁世凯恐怖轮回；北京昏天黑地，千古寓言一语成谶；美众院法案开启讨伐中共之路；两会提案千奇百怪：台湾女最嗲，副省长最狠。</a></li>
+<li><a href="/topimagenews/20230312/1858949.md">【微博精粹】华夏83个王朝 559个帝王 没一个敢像习帝这么玩</a></li>
 <li><a href="/cnnews/20230312/1858905.md">逃去新加坡的中产们后悔了</a></li>
 <li><a href="/comments/20230312/1858962.md">李燕铭：国务院部长27人名单两大异常 李小鹏等5名部长异常留任 内幕解读 习近平为清洗李克强国务院系统埋下伏笔 两会大战（三六） 习家军接掌国务院（十三） 二十大高层人事大战（九十）</a></li>
 <li><a href="/comments/20230311/1858761.md">预言第一书《推背图》第50卦象，有解了！《五公经》更多惊人之语：圣人明王出世，太平世界到来⋯⋯｜ #未解之谜</a></li>
@@ -18,16 +18,16 @@
 <li><a href="/topimagenews/20230312/1858812.md">说实话：国产芯片的真实能力，是90nm，而非14nm</a></li>
 <li><a href="/topimagenews/20230312/1858830.md">蔡天凤被曝本不富裕 帮洗米华洗钱起家 母亲烂赌</a></li>
 <li><a href="/ssgc/20230312/1858819.md">李强高票当选总理 “不是摆设”？</a></li>
+<li><a href="/topimagenews/20230312/1858978.md">中共新外长秦刚 创官场传奇</a></li>
 <li><a href="/topimagenews/20230312/1858915.md">上海相亲角的征婚启事，连ChatGPT都看不下去</a></li>
 <li><a href="/topimagenews/20230312/1858848.md">“AI芯片第一股”突然暴雷 更危险信号曝光</a></li>
-<li><a href="/topimagenews/20230312/1858978.md">中共新外长秦刚 创官场传奇</a></li>
 <li><a href="/topimagenews/20230312/1858916.md">“二次袁”是什么意思？</a></li>
-<li><a href="/ccpdope/20230311/1858770.md">世界“最大卖春岛”变身中共海军基地始末</a></li>
 <li><a href="/comments/20230311/1858788.md">习家军全票通过仅李鸿忠拿到反对票 曾被指是政治变色龙</a></li>
+<li><a href="/ccpdope/20230311/1858770.md">世界“最大卖春岛”变身中共海军基地始末</a></li>
 <li><a href="/ssgc/20230312/1858818.md">王沪宁政协鼓励斗争 网民反呛</a></li>
 <li><a href="/ssgc/20230312/1858947.md">〖微博谈〗红色绞肉机，里面没有无辜者</a></li>
 <li><a href="/comments/20230312/1858831.md">一周年了 中国五毛们活成了自己的笑话 普京对世界有八大“贡献”</a></li>
-<li><a href="/ssgc/20230311/1858753.md">习近平越是集权，中共自毁越快</a></li>
+<li><a href="/sohnews/20230312/1858934.md">北京彻底认怂保面子提二轨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230312/1859029.md" target="_blank">距普京老家仅200公里！ 美B-52H轰炸机直闯俄“家门口”演习</a></li>
 <li><a href="/comments/20230312/1858968.md" target="_blank">揭黑医生张煜再离职对公立医院不抱希望</a></li>
 <li><a href="/comments/20230312/1858967.md" target="_blank">习近平加强控权 降低被废黜风险</a></li>
 <li><a href="/comments/20230312/1858965.md" target="_blank">习近平登基年月日现三卯大凶相，多个预言入兑现模式！李强反对票数藏玄机！习第三任期白鸟撞崖？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230311/1858778.md" target="_blank">港媒：北京盼贺锦丽访中 抵销麦卡锡访台冲击</a></li>
 <li><a href="/comments/20230311/1858777.md" target="_blank">技术官僚理政时代落幕 “习家军”李强新任国务院总理</a></li>
 <li><a href="/comments/20230311/1858776.md" target="_blank">【有画说艺】俗话说“人善被人欺”，老实人记住3句话，谁都不敢轻易招惹</a></li>
-<li><a href="/comments/20230311/1858766.md" target="_blank">邮票上的预言（上）｜ #未解之谜 #shorts</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
 <li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
 
 </ul>
 </div>
