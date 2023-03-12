@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20230312/1858839.md">习近平两会登顶成“寡人” 欧美欢欣鼓舞</a></li>
 <li><a href="/topimagenews/20230312/1858838.md">硅谷银行破产 中国科企哭惨 传王兴建群维权</a></li>
 <li><a href="/sohnews/20230311/1858740.md">人在干天在看 李克强临别警讯 意有所指? 中国最不希望人们阅读的书 直击红色血脉金权黑幕 专访‘红色赌盘’作者 沈栋。@democraticTaiwanChannel</a></li>
+<li><a href="/cnnews/20230312/1858905.md">逃去新加坡的中产们后悔了</a></li>
 <li><a href="/health/20230311/1858700.md">甲流进入高发期，强烈建议：家中备好3样东西，关键时刻有大用处</a></li>
 <li><a href="/sohnews/20230311/1858797.md">习近平与袁世凯恐怖轮回；北京昏天黑地，千古寓言一语成谶；美众院法案开启讨伐中共之路；两会提案千奇百怪：台湾女最嗲，副省长最狠。</a></li>
-<li><a href="/cnnews/20230312/1858905.md">逃去新加坡的中产们后悔了</a></li>
-<li><a href="/topimagenews/20230312/1858812.md">说实话：国产芯片的真实能力，是90nm，而非14nm</a></li>
 <li><a href="/comments/20230311/1858761.md">预言第一书《推背图》第50卦象，有解了！《五公经》更多惊人之语：圣人明王出世，太平世界到来⋯⋯｜ #未解之谜</a></li>
+<li><a href="/topimagenews/20230312/1858949.md">【微博精粹】华夏83个王朝 559个帝王 没一个敢像习帝这么玩</a></li>
+<li><a href="/topimagenews/20230312/1858812.md">说实话：国产芯片的真实能力，是90nm，而非14nm</a></li>
 <li><a href="/topimagenews/20230311/1858744.md">B级车暴降9万 东风全系亏泪甩卖 合资时代玩完？这两类中国人，正在疯狂移民美国</a></li>
 <li><a href="/topimagenews/20230312/1858830.md">蔡天凤被曝本不富裕 帮洗米华洗钱起家 母亲烂赌</a></li>
-<li><a href="/topimagenews/20230312/1858949.md">【微博精粹】华夏83个王朝 559个帝王 没一个敢像习帝这么玩</a></li>
 <li><a href="/cbnews/20230311/1858796.md">赵立坚现身中越边境刷油漆 引热议</a></li>
-<li><a href="/topimagenews/20230312/1858848.md">“AI芯片第一股”突然暴雷 更危险信号曝光</a></li>
 <li><a href="/ssgc/20230312/1858819.md">李强高票当选总理 “不是摆设”？</a></li>
-<li><a href="/lifebaike/20230311/1858697.md">56岁男子坚持每天喝点醋，清除斑块、软化血管，一年后怎么样了？</a></li>
+<li><a href="/topimagenews/20230312/1858848.md">“AI芯片第一股”突然暴雷 更危险信号曝光</a></li>
 <li><a href="/topimagenews/20230312/1858915.md">上海相亲角的征婚启事，连ChatGPT都看不下去</a></li>
 <li><a href="/ccpdope/20230311/1858770.md">世界“最大卖春岛”变身中共海军基地始末</a></li>
 <li><a href="/comments/20230311/1858788.md">习家军全票通过仅李鸿忠拿到反对票 曾被指是政治变色龙</a></li>
 <li><a href="/ssgc/20230312/1858818.md">王沪宁政协鼓励斗争 网民反呛</a></li>
+<li><a href="/ssgc/20230311/1858753.md">习近平越是集权，中共自毁越快</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230312/1858989.md" target="_blank">李强当选中共总理 分析：欠缺历练 仅能贯彻习近平意志</a></li>
+<li><a href="/cbnews/20230312/1858988.md" target="_blank">习近平“0票反对”3度当选中国国家主席 矢板明夫：是非常恐怖的事情</a></li>
 <li><a href="/cbnews/20230312/1858975.md" target="_blank">进入“习核心”集权新时代 中国面临诸多挑战</a></li>
 <li><a href="/cbnews/20230312/1858940.md" target="_blank">天亮时分：全美第16大银行48小时破产，踩了什么雷？中国银行是否会步后尘？（YouTube会员节目第11集 20230311）天亮时分</a></li>
 <li><a href="/cbnews/20230312/1858939.md" target="_blank">天亮时分：关于习二胖和金三胖，蓬佩奥透露的国家机密；台海问题，中共神经错乱出昏招；全美第16大银行48小时破产，踩了什么雷？（政论天下第956集 20230311）</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230311/1858612.md" target="_blank">天亮时分：习近平全票当选，抱住炸弹不再击鼓传花，启动中共死亡螺旋；微软离开中国？中国软件成软肋；美国国会全票通过法案，解密新冠调查结果（政论天下第955集 20230310）</a></li>
 <li><a href="/comments/20230311/1858606.md" target="_blank">干净周五：王吉贤和达莎采访完整版 （干净世界观看）｜03/10/2023 #方菲时间</a></li>
 <li><a href="/cbnews/20230311/1858506.md" target="_blank">拒绝中联部官员外交签证 加拿大难得硬气一次</a></li>
-<li><a href="/cbnews/20230310/1858410.md" target="_blank">金门失联上兵游到中国获救？邱国正：仍要确认</a></li>
-<li><a href="/cbnews/20230310/1858394.md" target="_blank">习近平3连任 英媒关注“两个茶杯”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
 <li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
 
 </ul>
 </div>
