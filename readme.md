@@ -12,12 +12,11 @@
 <li><a href="/topimagenews/20230312/1858949.md">【微博精粹】华夏83个王朝 559个帝王 没一个敢像习帝这么玩</a></li>
 <li><a href="/comments/20230312/1858962.md">李燕铭：国务院部长27人名单两大异常 李小鹏等5名部长异常留任 内幕解读 习近平为清洗李克强国务院系统埋下伏笔 两会大战（三六） 习家军接掌国务院（十三） 二十大高层人事大战（九十）</a></li>
 <li><a href="/sohnews/20230312/1859002.md">习近平遭遇尴尬！两会众目睽睽之下；习与“二李”互动，戏太多！李克强诚惶诚恐，李强职业微笑，没拿总理全票，现3张反对票；韩正接王岐山，王岐山与习握手时间最久；官媒“禁评”近平连任｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/topimagenews/20230312/1858812.md">说实话：国产芯片的真实能力，是90nm，而非14nm</a></li>
 <li><a href="/ssgc/20230312/1858819.md">李强高票当选总理 “不是摆设”？</a></li>
 <li><a href="/topimagenews/20230312/1858978.md">中共新外长秦刚 创官场传奇</a></li>
 <li><a href="/topimagenews/20230312/1858830.md">蔡天凤被曝本不富裕 帮洗米华洗钱起家 母亲烂赌</a></li>
-<li><a href="/topimagenews/20230312/1858848.md">“AI芯片第一股”突然暴雷 更危险信号曝光</a></li>
 <li><a href="/sohnews/20230312/1859020.md">陈破空：两会烂尾，习近平一个图谋受挫！保下李鹏之子。财经无人，被迫留用李克强旧部。赵立坚寂寞现身，果然遭发配边疆。中共挡不住一件事，私下向美方求情。直播。美东3月12日早8点30、即中港台3月12日晚8点30</a></li>
+<li><a href="/topimagenews/20230312/1858848.md">“AI芯片第一股”突然暴雷 更危险信号曝光</a></li>
 <li><a href="/topimagenews/20230312/1858915.md">上海相亲角的征婚启事，连ChatGPT都看不下去</a></li>
 <li><a href="/lifebaike/20230312/1858994.md">最佳睡眠时间表已公布，不是7~8小时，自查一下，看你达标了吗？</a></li>
 <li><a href="/sohnews/20230312/1858961.md">突发！澳洲华人区举牌辱习小伙明天上庭受审！警方提供了一条不利于他的重要证据！</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cbnews/20230312/1858939.md">天亮时分：关于习二胖和金三胖，蓬佩奥透露的国家机密；台海问题，中共神经错乱出昏招；全美第16大银行48小时破产，踩了什么雷？（政论天下第956集 20230311）</a></li>
 <li><a href="/sohnews/20230312/1858934.md">北京彻底认怂保面子提二轨</a></li>
 <li><a href="/ssgc/20230312/1858818.md">王沪宁政协鼓励斗争 网民反呛</a></li>
+<li><a href="/headline/20230312/1859030.md">法新社看中国国务院新任命：一色习近平的亲信</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230313/1859087.md" target="_blank">宇宙中最神祕力量 #未解之谜 #shorts</a></li>
 <li><a href="/comments/20230312/1859044.md" target="_blank">【方菲时间】中共高调备战，两重用意；美国清醒，中共不装；中国失业“哀鸿遍野”｜03/12/2023</a></li>
 <li><a href="/comments/20230312/1859041.md" target="_blank">邮票上的预言（下）｜ #未解之谜 #shorts</a></li>
 <li><a href="/cbnews/20230312/1858989.md" target="_blank">李强当选中共总理 分析：欠缺历练 仅能贯彻习近平意志</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20230311/1858629.md" target="_blank">中共传用二轨提议：若麦卡锡赴台 盼贺锦丽访中</a></li>
 <li><a href="/cbnews/20230311/1858628.md" target="_blank">三度连任中国国家主席 习近平有何打算？</a></li>
 <li><a href="/cbnews/20230311/1858622.md" target="_blank">〖兲朝浮世绘〗资本不够忠心，对未来的“伟大领袖”信心不足</a></li>
-<li><a href="/cbnews/20230311/1858612.md" target="_blank">天亮时分：习近平全票当选，抱住炸弹不再击鼓传花，启动中共死亡螺旋；微软离开中国？中国软件成软肋；美国国会全票通过法案，解密新冠调查结果（政论天下第955集 20230310）</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230313/1859085.md" target="_blank">普京摆不平 俄外交部发言人罕见证实：克宫存在严重内斗…</a></li>
 <li><a href="/topimagenews/20230313/1859079.md" target="_blank">前中共海军司令新职务曝光！曾“火箭式”蹿升【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230312/1859003.md" target="_blank">持续派遣机舰在台海 蓬佩奥：中共比纳粹更危险</a></li>
 <li><a href="/topimagenews/20230312/1858978.md" target="_blank">中共新外长秦刚 创官场传奇</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230311/1858570.md" target="_blank">习第3任期如恶海中驾驶大船！关键挑战是这个</a></li>
 <li><a href="/topimagenews/20230311/1858569.md" target="_blank">司马南从道貌岸然变成过街老鼠，场面几乎失控…</a></li>
 <li><a href="/topimagenews/20230310/1858409.md" target="_blank">战争即工业力 美国防产业陷“泥沼”连尖端武器也一样</a></li>
-<li><a href="/topimagenews/20230310/1858393.md" target="_blank">习近平连任，收意外“大礼”【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230313/1859087.md" target="_blank">宇宙中最神祕力量 #未解之谜 #shorts</a></li>
 <li><a href="/comments/20230312/1859051.md" target="_blank">2023第95届奥斯卡奖入围名单整理 最终花落谁家？</a></li>
 <li><a href="/comments/20230312/1859044.md" target="_blank">【方菲时间】中共高调备战，两重用意；美国清醒，中共不装；中国失业“哀鸿遍野”｜03/12/2023</a></li>
 <li><a href="/comments/20230312/1859041.md" target="_blank">邮票上的预言（下）｜ #未解之谜 #shorts</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230312/1858831.md" target="_blank">一周年了 中国五毛们活成了自己的笑话 普京对世界有八大“贡献”</a></li>
 <li><a href="/comments/20230312/1858798.md" target="_blank">妙不可言的舞剧《草船借箭》</a></li>
 <li><a href="/comments/20230311/1858788.md" target="_blank">习家军全票通过仅李鸿忠拿到反对票 曾被指是政治变色龙</a></li>
-<li><a href="/comments/20230311/1858787.md" target="_blank">青松絮语：日常的奇迹</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
 <li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
 
 </ul>
 </div>
