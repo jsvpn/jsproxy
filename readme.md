@@ -8,26 +8,26 @@
 <li><a href="/cnnews/20230312/1858841.md">习近平送别李克强 这张图胜过千言万语</a></li>
 <li><a href="/topimagenews/20230312/1858839.md">习近平两会登顶成“寡人” 欧美欢欣鼓舞</a></li>
 <li><a href="/topimagenews/20230312/1858838.md">硅谷银行破产 中国科企哭惨 传王兴建群维权</a></li>
-<li><a href="/sohnews/20230311/1858797.md">习近平与袁世凯恐怖轮回；北京昏天黑地，千古寓言一语成谶；美众院法案开启讨伐中共之路；两会提案千奇百怪：台湾女最嗲，副省长最狠。</a></li>
 <li><a href="/cnnews/20230312/1858905.md">逃去新加坡的中产们后悔了</a></li>
 <li><a href="/topimagenews/20230312/1858949.md">【微博精粹】华夏83个王朝 559个帝王 没一个敢像习帝这么玩</a></li>
 <li><a href="/comments/20230312/1858962.md">李燕铭：国务院部长27人名单两大异常 李小鹏等5名部长异常留任 内幕解读 习近平为清洗李克强国务院系统埋下伏笔 两会大战（三六） 习家军接掌国务院（十三） 二十大高层人事大战（九十）</a></li>
-<li><a href="/cbnews/20230311/1858796.md">赵立坚现身中越边境刷油漆 引热议</a></li>
 <li><a href="/topimagenews/20230312/1858812.md">说实话：国产芯片的真实能力，是90nm，而非14nm</a></li>
+<li><a href="/sohnews/20230312/1859002.md">习近平遭遇尴尬！两会众目睽睽之下；习与“二李”互动，戏太多！李克强诚惶诚恐，李强职业微笑，没拿总理全票，现3张反对票；韩正接王岐山，王岐山与习握手时间最久；官媒“禁评”近平连任｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230312/1858978.md">中共新外长秦刚 创官场传奇</a></li>
 <li><a href="/ssgc/20230312/1858819.md">李强高票当选总理 “不是摆设”？</a></li>
-<li><a href="/sohnews/20230312/1859002.md">习近平遭遇尴尬！两会众目睽睽之下；习与“二李”互动，戏太多！李克强诚惶诚恐，李强职业微笑，没拿总理全票，现3张反对票；韩正接王岐山，王岐山与习握手时间最久；官媒“禁评”近平连任｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230312/1858830.md">蔡天凤被曝本不富裕 帮洗米华洗钱起家 母亲烂赌</a></li>
 <li><a href="/topimagenews/20230312/1858848.md">“AI芯片第一股”突然暴雷 更危险信号曝光</a></li>
 <li><a href="/topimagenews/20230312/1858915.md">上海相亲角的征婚启事，连ChatGPT都看不下去</a></li>
 <li><a href="/lifebaike/20230312/1858994.md">最佳睡眠时间表已公布，不是7~8小时，自查一下，看你达标了吗？</a></li>
 <li><a href="/topimagenews/20230312/1858916.md">“二次袁”是什么意思？</a></li>
+<li><a href="/sohnews/20230312/1859020.md">陈破空：两会烂尾，习近平一个图谋受挫！保下李鹏之子。财经无人，被迫留用李克强旧部。赵立坚寂寞现身，果然遭发配边疆。中共挡不住一件事，私下向美方求情。直播。美东3月12日早8点30、即中港台3月12日晚8点30</a></li>
 <li><a href="/ssgc/20230312/1858947.md">〖微博谈〗红色绞肉机，里面没有无辜者</a></li>
 <li><a href="/cbnews/20230312/1858988.md">习近平“0票反对”3度当选中国国家主席 矢板明夫：是非常恐怖的事情</a></li>
+<li><a href="/sohnews/20230312/1858984.md">水太深！蔡天凤案背后的黑帮背景，原来是习曾斗？从蔡天凤案溯源香港黑社会的前世今生，中共扮演了什么角色。｜薇羽看世间 第621期 20230311</a></li>
 <li><a href="/sohnews/20230312/1858934.md">北京彻底认怂保面子提二轨</a></li>
 <li><a href="/ssgc/20230312/1858818.md">王沪宁政协鼓励斗争 网民反呛</a></li>
 <li><a href="/cbnews/20230312/1858939.md">天亮时分：关于习二胖和金三胖，蓬佩奥透露的国家机密；台海问题，中共神经错乱出昏招；全美第16大银行48小时破产，踩了什么雷？（政论天下第956集 20230311）</a></li>
-<li><a href="/sohnews/20230312/1859020.md">陈破空：两会烂尾，习近平一个图谋受挫！保下李鹏之子。财经无人，被迫留用李克强旧部。赵立坚寂寞现身，果然遭发配边疆。中共挡不住一件事，私下向美方求情。直播。美东3月12日早8点30、即中港台3月12日晚8点30</a></li>
+<li><a href="/sohnews/20230312/1858961.md">突发！澳洲华人区举牌辱习小伙明天上庭受审！警方提供了一条不利于他的重要证据！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
 
 </ul>
 </div>
