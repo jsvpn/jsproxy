@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230312/1858949.md">【微博精粹】华夏83个王朝 559个帝王 没一个敢像习帝这么玩</a></li>
 <li><a href="/comments/20230312/1858962.md">李燕铭：国务院部长27人名单两大异常 李小鹏等5名部长异常留任 内幕解读 习近平为清洗李克强国务院系统埋下伏笔 两会大战（三六） 习家军接掌国务院（十三） 二十大高层人事大战（九十）</a></li>
 <li><a href="/sohnews/20230312/1859002.md">习近平遭遇尴尬！两会众目睽睽之下；习与“二李”互动，戏太多！李克强诚惶诚恐，李强职业微笑，没拿总理全票，现3张反对票；韩正接王岐山，王岐山与习握手时间最久；官媒“禁评”近平连任｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230312/1858978.md">中共新外长秦刚 创官场传奇</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/cnnews/20230313/1859084.md">席卷多地！中国爆发新疫情 多地区或重启封控</a></li>
 <li><a href="/cbnews/20230312/1858988.md">习近平“0票反对”3度当选中国国家主席 矢板明夫：是非常恐怖的事情</a></li>
 <li><a href="/sohnews/20230312/1858961.md">突发！澳洲华人区举牌辱习小伙明天上庭受审！警方提供了一条不利于他的重要证据！</a></li>
-<li><a href="/ssgc/20230312/1858947.md">〖微博谈〗红色绞肉机，里面没有无辜者</a></li>
-<li><a href="/topimagenews/20230313/1859085.md">普京摆不平 俄外交部发言人罕见证实：克宫存在严重内斗…</a></li>
 <li><a href="/topimagenews/20230313/1859132.md">脱衣挎裤、吸吮抚摸…警花局长吸毒淫乱再遭爆料</a></li>
+<li><a href="/topimagenews/20230313/1859085.md">普京摆不平 俄外交部发言人罕见证实：克宫存在严重内斗…</a></li>
 <li><a href="/sohnews/20230312/1858984.md">水太深！蔡天凤案背后的黑帮背景，原来是习曾斗？从蔡天凤案溯源香港黑社会的前世今生，中共扮演了什么角色。｜薇羽看世间 第621期 20230311</a></li>
 <li><a href="/headline/20230312/1859030.md">法新社看中国国务院新任命：一色习近平的亲信</a></li>
 <li><a href="/headline/20230312/1859005.md">华日：李强在习近平面前说得上话</a></li>
 <li><a href="/baitai/20230312/1859026.md">【404文库】为了更好的发展，“李强说房”昨日起已更名为“理强说房”</a></li>
 <li><a href="/sohnews/20230313/1859091.md">习近平登基日撞上了《推背图》｜#时事金扫描 #shorts</a></li>
+<li><a href="/topimagenews/20230313/1859142.md">官宣！中共国务院人事任命数十年来首现这情况</a></li>
 <li><a href="/cbnews/20230312/1858989.md">李强当选中共总理 分析：欠缺历练 仅能贯彻习近平意志</a></li>
 <li><a href="/comments/20230312/1858965.md">习近平登基年月日现三卯大凶相，多个预言入兑现模式！李强反对票数藏玄机！习第三任期白鸟撞崖？</a></li>
 <li><a href="/ssgc/20230312/1858982.md">鲜为人知的习近平的“民主事故”</a></li>
 <li><a href="/bblog/20230312/1858956.md">〖微历史〗没发现自己不如大清时代</a></li>
+<li><a href="/sohnews/20230313/1859128.md">陈破空：举国愤恨！袁世凯成禁搜词。胡锦涛早就断言：全票当选更危险！铁凝与习近平关系不正常？党媒简介习班子，何苦隐瞒真学历？直播与互动。美东3月12日晚8点、即中港台3月13日早8点</a></li>
 <li><a href="/ssgc/20230312/1859034.md">习近平“三连任”面临大危机</a></li>
-<li><a href="/yule/20230313/1859086.md">那个亲过木村的女孩长大了 连日本王室都看上她</a></li>
+<li><a href="/topimagenews/20230313/1859079.md">前中共海军司令新职务曝光！曾“火箭式”蹿升【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230313/1859187.md" target="_blank">【独家重磅】李燕铭：江绵恒马仔国家卫健委主任马晓伟被内部调查 无缘循例陈竺李斌晋升副国级 马晓伟是核子基因实控人张核子背后大佬 两人隐秘关系揭秘 核子基因核酸检测造假黑幕惊人细思极恐 两会大战（三八） 习家军接掌国务院（十五） 二十大高层人事大战（九二） 习清洗江绵恒暗黑帝国（三四）</a></li>
 <li><a href="/comments/20230313/1859173.md" target="_blank">【微博精粹】他不把匪共搞垮决不罢手 台下这帮孙子没几个是真心的</a></li>
 <li><a href="/comments/20230313/1859161.md" target="_blank">吃糠咽菜不是梦 爷奶爹妈可作证 【欺世大观】181</a></li>
 <li><a href="/comments/20230313/1859160.md" target="_blank">何清涟：中国：美国“欧亚大棋盘”上曾经的盟友——重读布里辛斯基的《大棋局》</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230312/1858931.md" target="_blank">【杰森视角】资产2000亿美元的硅谷银行是如何在20小时内灰飞烟灭的？美联储升息真出事了！美国银行系统处于比2008年更大的崩溃边缘？“谨慎保守”的投资竟成为可怕的陷阱！发达国家的低利率经济遗患无穷？</a></li>
 <li><a href="/comments/20230312/1858930.md" target="_blank">民主选举中，很难出现一边倒的支持，尤其全票当选</a></li>
 <li><a href="/comments/20230312/1858929.md" target="_blank">“二次袁”是什么梗？</a></li>
-<li><a href="/comments/20230312/1858928.md" target="_blank">张鹏：学校为什么不开逻辑课？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
 <li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
 
 </ul>
 </div>
