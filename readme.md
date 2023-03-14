@@ -13,21 +13,21 @@
 <li><a href="/cbnews/20230314/1859629.md">〖兲朝浮世绘〗亲自禁评亲自封号，总理辛苦了</a></li>
 <li><a href="/comments/20230314/1859531.md">文昭：李强上岗，透露信号：他是周恩来、或王岐山第二？硅谷银行与中国黑马</a></li>
 <li><a href="/topimagenews/20230314/1859571.md">【微博精粹】习帝独家民主秘笈：我先选拨你 你再推举我 双赢</a></li>
-<li><a href="/cbnews/20230313/1859302.md">比预期还早！美媒：习近平计划“下周访俄罗斯”与普丁会面</a></li>
 <li><a href="/sohnews/20230313/1859310.md">陈破空：两会闭幕，习近平仍在人民伤口上撒盐。李强记者会处女秀，面带微笑但空话最多，不承认砸毁上海，不承认人口危机，不敢谈中美关系。尽量甩锅老习。直播。美东3月13日早8点30、即中港台3月13日晚8点30</a></li>
+<li><a href="/cbnews/20230313/1859302.md">比预期还早！美媒：习近平计划“下周访俄罗斯”与普丁会面</a></li>
 <li><a href="/sohnews/20230313/1859201.md">现场直击华人区辱习案宣判，三字经骂习近平无罪！将成重要法律判例。我听过的最搞笑的一次庭审盘问，全程三字经，警方证人快被律师问哭了</a></li>
 <li><a href="/ssgc/20230314/1859434.md">专访《红色赌盘》作者沈栋：习近平改终身制是史上最大贪腐</a></li>
-<li><a href="/cnnews/20230314/1859488.md">周立波发文吐槽中国人对俄罗斯谄媚，遭到禁言</a></li>
 <li><a href="/headline/20230313/1859304.md">曾助推严苛「清零」政策 卫健委主任马晓伟获最多反对票</a></li>
+<li><a href="/cnnews/20230314/1859488.md">周立波发文吐槽中国人对俄罗斯谄媚，遭到禁言</a></li>
 <li><a href="/baitai/20230314/1859504.md">李强称会上网看建议和意见 但评论区却遭「精选」禁言</a></li>
-<li><a href="/comments/20230314/1859446.md">时事大家谈： 破格提拔，李强任总理何德何能？</a></li>
-<li><a href="/headline/20230314/1859517.md">只能发“民心所向”，不许提“2952”：中国新一届政府在网络审查保护下完成登场</a></li>
-<li><a href="/cnnews/20230314/1859476.md">传说中的大变成小变 中国国务院新班底2看点</a></li>
-<li><a href="/ssgc/20230314/1859538.md">〖微博谈〗这个世界上的民主制度</a></li>
-<li><a href="/sohnews/20230314/1859567.md">【历史真相】一千万上山下乡女知青有多少人被奸污？一场大火十女丧生的背后，竟然是这样的原因。｜薇羽看世间 第622期</a></li>
 <li><a href="/comments/20230314/1859645.md">李强答中外记者问惊现黑习近平清零梗儿？完整言论欢乐妙评！赵立坚露面向上级表忠？</a></li>
+<li><a href="/headline/20230314/1859517.md">只能发“民心所向”，不许提“2952”：中国新一届政府在网络审查保护下完成登场</a></li>
+<li><a href="/comments/20230314/1859446.md">时事大家谈： 破格提拔，李强任总理何德何能？</a></li>
+<li><a href="/ssgc/20230314/1859663.md">李克强汪洋离场并非是坏事</a></li>
+<li><a href="/cnnews/20230314/1859476.md">传说中的大变成小变 中国国务院新班底2看点</a></li>
+<li><a href="/sohnews/20230314/1859567.md">【历史真相】一千万上山下乡女知青有多少人被奸污？一场大火十女丧生的背后，竟然是这样的原因。｜薇羽看世间 第622期</a></li>
+<li><a href="/ssgc/20230314/1859538.md">〖微博谈〗这个世界上的民主制度</a></li>
 <li><a href="/baitai/20230314/1859536.md">习近平亲自出马! 下周见普京同时会乌总统? 俄政府惊曝普京关键权力失控【每日头条】03/13/2023</a></li>
-<li><a href="/cnnews/hknews/20230314/1859501.md">蔡天凤案越发扑朔迷离 邝球：谭家食言就一起死</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230314/1859732.md" target="_blank">中共称从严整治“自媒体乱象” 网嘲：造谣台湾应该不在限制内</a></li>
+<li><a href="/comments/20230314/1859731.md" target="_blank">明年秋天天文盛宴！ C/2023 A3有望成为17年来最亮彗星</a></li>
+<li><a href="/comments/20230314/1859730.md" target="_blank">钱存中国银行 看得到领不出 外资正“雪崩式”撤离</a></li>
 <li><a href="/comments/20230314/1859726.md" target="_blank">王赫：2023民企将继续躺平和外逃？</a></li>
 <li><a href="/comments/20230314/1859718.md" target="_blank">拜登证实将与习近平对话 白宫国安顾问：不确定具体日期或时间</a></li>
 <li><a href="/comments/20230314/1859655.md" target="_blank">李燕铭：两会高层人事十大看点 习近平“二次袁” 袁世凯成为高度敏感词 李尚福任国防部长排名异常 习一亲信意外落选政协副主席 国务院换届重大异常涉机构改革 外交战狼秦刚蹿升副国级 习近平连任与二十大常委争夺战（120） 两会大战（三九） 习家军接掌国务院（十六） 二十大高层人事大战（九三）</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230313/1859337.md" target="_blank">聚焦维吾尔 | 伊利夏提：我为什么要学汉语</a></li>
 <li><a href="/comments/20230313/1859325.md" target="_blank">邓聿文：“人在做天在看”，反映了李克强十年的苦涩</a></li>
 <li><a href="/comments/20230313/1859308.md" target="_blank">李克强平安着陆，李强接了个烂摊子</a></li>
-<li><a href="/comments/20230313/1859293.md" target="_blank">杨紫琼夺奥斯卡影后！“亚裔第一人”写历史..喊：永不放弃</a></li>
-<li><a href="/comments/20230313/1859235.md" target="_blank">唐靖远：双重大凶日，习近平晦气“登基”</a></li>
-<li><a href="/comments/20230313/1859227.md" target="_blank">双重大凶日，习近平晦气“登基”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
 <li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
 
 </ul>
 </div>
