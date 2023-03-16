@@ -8,10 +8,10 @@
 <li><a href="/comments/20230316/1860331.md">郭文贵被抓，政协委员同伙在逃</a></li>
 <li><a href="/baitai/20230316/1860339.md">习近平软肋曝光 这事若爆发 百姓必造反</a></li>
 <li><a href="/topimagenews/20230316/1860398.md">郭文贵被捕后，其纽约住处大楼突然起火</a></li>
-<li><a href="/baitai/20230316/1860301.md">【快讯】郭文贵涉嫌诈骗十亿美元在纽约被捕</a></li>
 <li><a href="/cbnews/20230316/1860355.md">北京惶恐，习近平再次挥舞大锤</a></li>
-<li><a href="/baitai/20230316/1860432.md">铁凝晋升中共副委员长,不雅丑闻被翻出!她与习近平彭丽媛特殊关系曝光!【每日头条】</a></li>
+<li><a href="/baitai/20230316/1860301.md">【快讯】郭文贵涉嫌诈骗十亿美元在纽约被捕</a></li>
 <li><a href="/sohnews/20230316/1860364.md">为什么美国现在才抓郭文贵？放长线钓大鱼！起底郭真实身份及发家历史，了解习近平卑劣的内斗手段！ （一平论政2023年3月15日）</a></li>
+<li><a href="/baitai/20230316/1860432.md">铁凝晋升中共副委员长,不雅丑闻被翻出!她与习近平彭丽媛特殊关系曝光!【每日头条】</a></li>
 <li><a href="/cnnews/20230316/1860413.md">知名品牌被连夜查封，网友看完直呼：再不敢吃了</a></li>
 <li><a href="/topimagenews/20230316/1860567.md">郭文贵案 疑犯余建明具亲中共大背景</a></li>
 <li><a href="/baitai/20230316/1860494.md">大陆女作家铁凝蹿升副国级 早年丑闻被翻出</a></li>
@@ -23,9 +23,9 @@
 <li><a href="/cbnews/20230316/1860550.md">“2952”挑逗习近平敏感神经！大量关键字被“吸进瓶”封印</a></li>
 <li><a href="/cbnews/20230316/1860308.md">你的手机就是“间谍” 中共用它做三件事</a></li>
 <li><a href="/cnnews/20230316/1860346.md">央视网的一个镜头火了，接下来的操作更打脸</a></li>
+<li><a href="/ssgc/20230316/1860408.md">〖微博谈〗习近平最大的软肋</a></li>
 <li><a href="/baitai/20230315/1860292.md">党媒再赞一些国家领导「主动退位」 他用一句话形容新一届领导班子</a></li>
 <li><a href="/funmedia/20230316/1860535.md">跟上千对夫妻聊过婚姻后才明白：儿女找对象，尽量找这3种家庭</a></li>
-<li><a href="/ssgc/20230316/1860408.md">〖微博谈〗习近平最大的软肋</a></li>
 <li><a href="/sohnews/20230316/1860369.md">郭文贵和余建明在美被起诉，罪名一览，美无人机被击落，习想调停俄乌，战争走向战还是和，核动力潜艇能维持印太平衡吗｜横河观点 2023.03.15</a></li>
 <li><a href="/cnnews/20230316/1860344.md">加拿大总理特鲁多今年工资曝光！网友炸锅</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230316/1860731.md" target="_blank">对美斗争 让中共派系竞争不同以往</a></li>
 <li><a href="/cbnews/20230316/1860691.md" target="_blank">黑心腌菜！大陆工人光脚踩“烟蒂＋口水”加料：全天下都这么做</a></li>
 <li><a href="/cbnews/20230316/1860659.md" target="_blank">中国制无人机现踪乌东 CNN：战争模式迅速改变</a></li>
 <li><a href="/comments/20230316/1860656.md" target="_blank">在美国 发现矮人遗迹！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230315/1859983.md" target="_blank">两家银行接连倒下！美国银行还安全吗？｜Jason 方菲｜新闻烽火台03/14</a></li>
 <li><a href="/cbnews/20230315/1859910.md" target="_blank">减少依赖中国！传德国西门子于东南亚建新厂</a></li>
 <li><a href="/comments/20230315/1859871.md" target="_blank">【短视频】中共为何高调备战｜#方菲时间</a></li>
-<li><a href="/comments/20230314/1859794.md" target="_blank">《五公经》预言！疫情重来！｜ #未解之谜 #shorts</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230316/1860739.md" target="_blank">时事大家谈：习近平要求科技自立，但中国科创圈离得开美国的钱吗？</a></li>
+<li><a href="/comments/20230316/1860738.md" target="_blank">时事大家谈：虽躲过“灭绝时刻”，美国科技业到底出了什么问题？</a></li>
+<li><a href="/comments/20230316/1860730.md" target="_blank">郭文贵今保释未成 被控欺诈资金买豪宅名车和游艇</a></li>
 <li><a href="/comments/20230316/1860722.md" target="_blank">时事大家谈：虽躲过“灭绝时刻”，美国科技业到底出了什么问题？习近平要求科技自立，但中国科创圈离得开美国的钱吗？</a></li>
 <li><a href="/comments/20230316/1860676.md" target="_blank">【杜耀明评论】司法判断错漏连篇 无辜入狱法庭蒙羞</a></li>
 <li><a href="/comments/20230316/1860670.md" target="_blank">【未普评论】习近平的这颗定心丸能让民企定心吗？（上）</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230316/1860418.md" target="_blank">杨宪宏:“新反共保台时代”的号角已经吹响天际</a></li>
 <li><a href="/comments/20230316/1860417.md" target="_blank">颜纯钩:一国两制成历史垃圾，两岸统一指望国民党</a></li>
 <li><a href="/comments/20230316/1860409.md" target="_blank">文昭：郭文贵被捕，控罪顶格可判215年！蔡天凤案「涉黑」内幕如滔滔江水，未来中国如何防止黑道崛起？</a></li>
-<li><a href="/comments/20230316/1860403.md" target="_blank">张菁：习近平宪法宣誓是为了执政合法性</a></li>
-<li><a href="/comments/20230316/1860402.md" target="_blank">网海拾贝：“旧习李”远去，“新习李”登场</a></li>
-<li><a href="/comments/20230316/1860401.md" target="_blank">杨威：两会后中共的外交攻势骑虎难下</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 <li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
 
 </ul>
 </div>
