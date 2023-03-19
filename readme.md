@@ -18,16 +18,16 @@
 <li><a href="/baitai/20230318/1861510.md">渐渐冷清的朋友圈背后......</a></li>
 <li><a href="/ssgc/20230318/1861589.md">彭丽媛或成后习时代内斗幕后要角</a></li>
 <li><a href="/baitai/20230319/1861607.md">拉上窗帘｜东航梧州空难也许不会公布事故原因</a></li>
+<li><a href="/baitai/20230319/1861618.md">李强上位关键靠一个人 4个字避开中共死穴</a></li>
 <li><a href="/topimagenews/20230318/1861543.md">俄女高音拒谴责普丁被取消演出 美法院裁决纽约大都会应支付20万美金赔偿</a></li>
 <li><a href="/baitai/20230319/1861602.md">【突发】川普惊人声明：作为「遥遥领先的候选人和前美国总统」 下周二他将被捕</a></li>
-<li><a href="/baitai/20230319/1861618.md">李强上位关键靠一个人 4个字避开中共死穴</a></li>
 <li><a href="/baitai/20230318/1861437.md">国际刑事法院发逮捕令 分析：普京有两个结局</a></li>
 <li><a href="/comments/20230318/1861466.md">远见快评：李强高调继续改革开放 班底3大安排泄底</a></li>
 <li><a href="/worldnews/20230318/1861499.md">习近平拜访“通缉犯”普丁 纽时：最露骨挺俄</a></li>
 <li><a href="/sohnews/20230318/1861532.md">陈破空：变了！李强高调宣布：国务院是政治机构！公安部把习主席安全放在第一位。汪文斌公开承认中共向俄国输送武器。直播与互动。美东3月18日早8点30、即中港台3月18日晚8点30</a></li>
+<li><a href="/topimagenews/20230319/1861645.md">中国女篮领队出轨国手 媒体批判：比打假球可怕</a></li>
 <li><a href="/topimagenews/20230318/1861535.md">中国烤鱼连锁店遭爆“垃圾桶捡食材上桌”！员工笑称：不干不净吃了没病</a></li>
 <li><a href="/lifebaike/20230318/1861490.md">8个识人绝招，让你彻底摸透看清人性</a></li>
-<li><a href="/comments/20230318/1861542.md">宇宙中充满各类生命，外星人来去自如，地球是巨大实验室！东西方古老文物，暗藏宇宙真相！｜ #未解之谜</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230319/1861729.md" target="_blank">天亮时分：暴跌的银行、暴涨的黄金和比特币；科技爆发将人类文明带至奇异点（YouTube会员节目第12集 20230318）天亮时分</a></li>
 <li><a href="/comments/20230319/1861718.md" target="_blank">【杰森视角】人工智能推动人类社会进入奇异点！新的GPT-4人工智能模型比ChatGPT强大560倍！人类大量白领工作将从新洗牌！GPT-4掩盖政治倾向，还是暴露了！百度投资人不把GPT-4放在眼里!</a></li>
 <li><a href="/comments/20230319/1861717.md" target="_blank">千年前的中国AI智能 #未解之谜 #shorts</a></li>
 <li><a href="/cbnews/20230319/1861711.md" target="_blank">天亮时分：全球关注：下周二逮捕川普？暴跌的银行、暴涨的黄金和比特币；科技爆发将人类文明带至奇异点（政论天下第962集 20230318）</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230317/1861120.md" target="_blank">南京银行行长挪用客户135万元遭抓包 2理由拒赔</a></li>
 <li><a href="/cbnews/20230317/1861109.md" target="_blank">员工怀孕后“被离职”公司回1句引爆众怒 登上微博热搜榜</a></li>
 <li><a href="/comments/20230317/1861101.md" target="_blank">中国传统矮人：红柳人！</a></li>
-<li><a href="/cbnews/20230317/1859793.md" target="_blank">音乐才子曾患白肺命危 念法轮功九字真言起死回生</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230319/1861733.md" target="_blank">王友群：习近平访问俄罗斯会收获什么？</a></li>
+<li><a href="/comments/20230319/1861732.md" target="_blank">“死神”虽然坠海 但美“全球鹰”正在黑海上空</a></li>
+<li><a href="/comments/20230319/1861731.md" target="_blank">国内外多名大胃王意外死亡：有人开播前突然昏迷</a></li>
+<li><a href="/comments/20230319/1861730.md" target="_blank">乌外长回应帮助俄国：我们心里有一本账</a></li>
 <li><a href="/comments/20230319/1861724.md" target="_blank">习近平访俄“拜访国际通缉犯”？纽时：最露骨挺俄</a></li>
 <li><a href="/comments/20230319/1861718.md" target="_blank">【杰森视角】人工智能推动人类社会进入奇异点！新的GPT-4人工智能模型比ChatGPT强大560倍！人类大量白领工作将从新洗牌！GPT-4掩盖政治倾向，还是暴露了！百度投资人不把GPT-4放在眼里!</a></li>
 <li><a href="/comments/20230319/1861717.md" target="_blank">千年前的中国AI智能 #未解之谜 #shorts</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230318/1861528.md" target="_blank">徐贲：中国为何普遍粗鄙化?</a></li>
 <li><a href="/comments/20230318/1861507.md" target="_blank">【古道人生】逃难女不甘受辱 一掌击退镖师</a></li>
 <li><a href="/comments/20230318/1861466.md" target="_blank">远见快评：李强高调继续改革开放 班底3大安排泄底</a></li>
-<li><a href="/comments/20230318/1861465.md" target="_blank">蔡天凤案风向逆转！习近平赴俄策应普京逮捕令？北京下封杀令：黄明志周立波户晨风涉敏</a></li>
-<li><a href="/comments/20230318/1861450.md" target="_blank">远见快评：重磅炸弹被接连引爆 在全世界社交媒体平台投下核弹级冲击波</a></li>
-<li><a href="/comments/20230318/1861433.md" target="_blank">最讨厌外国人做什么?美网友：中国人到处拍照</a></li>
-<li><a href="/comments/20230318/1861431.md" target="_blank">老鱼君:古怪的战役：普京的滑铁卢可能要到了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 <li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
 
 </ul>
 </div>
