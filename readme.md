@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230318/1861544.md">看了这个 你还相信共产党的话吗？！</a></li>
 <li><a href="/sohnews/20230318/1861565.md">李强人口红利变“人矿”；上海财大校长曝光，40万博士生如乞丐；马斯克造“超级高铁”，特斯拉手机将出世；习近平“千年大计”烂尾</a></li>
 <li><a href="/ssgc/20230318/1861589.md">彭丽媛或成后习时代内斗幕后要角</a></li>
-<li><a href="/baitai/20230319/1861618.md">李强上位关键靠一个人 4个字避开中共死穴</a></li>
 <li><a href="/baitai/20230319/1861607.md">拉上窗帘｜东航梧州空难也许不会公布事故原因</a></li>
-<li><a href="/funmedia/20230319/1861664.md">为什么情侣入住酒店时，最好先玩一会手机？酒店经理说出实情</a></li>
+<li><a href="/baitai/20230319/1861618.md">李强上位关键靠一个人 4个字避开中共死穴</a></li>
 <li><a href="/topimagenews/20230319/1861645.md">中国女篮领队出轨国手 媒体批判：比打假球可怕</a></li>
-<li><a href="/topimagenews/20230318/1861543.md">俄女高音拒谴责普丁被取消演出 美法院裁决纽约大都会应支付20万美金赔偿</a></li>
+<li><a href="/funmedia/20230319/1861664.md">为什么情侣入住酒店时，最好先玩一会手机？酒店经理说出实情</a></li>
 <li><a href="/baitai/20230319/1861602.md">【突发】川普惊人声明：作为「遥遥领先的候选人和前美国总统」 下周二他将被捕</a></li>
 <li><a href="/baitai/20230319/1861746.md">王小丫发福变样！曾身陷央视「后宫」成高官曹建明第三任妻子</a></li>
 <li><a href="/comments/20230319/1861648.md">杜政:彭丽媛或成后习时代内斗幕后要角</a></li>
-<li><a href="/topimagenews/20230319/1861723.md">【微博精粹】中国：水多了加面 面多了加水</a></li>
 <li><a href="/topimagenews/20230319/1861776.md">川普高调宣布自己或被捕 佩洛西表态</a></li>
+<li><a href="/topimagenews/20230319/1861723.md">【微博精粹】中国：水多了加面 面多了加水</a></li>
 <li><a href="/topimagenews/20230319/1861738.md">川普或下周二被捕 麦卡锡强硬回应:又来了… 我将指示...</a></li>
-<li><a href="/comments/20230318/1861542.md">宇宙中充满各类生命，外星人来去自如，地球是巨大实验室！东西方古老文物，暗藏宇宙真相！｜ #未解之谜</a></li>
-<li><a href="/lifebaike/20230319/1861605.md">躁动的灵魂，以肉为欢</a></li>
 <li><a href="/yule/20230319/1861690.md">徐静蕾也润了，她在美国近况曝光 素颜出镜苍老 坐豪车抱小狗</a></li>
+<li><a href="/lifebaike/20230319/1861605.md">躁动的灵魂，以肉为欢</a></li>
 <li><a href="/topimagenews/20230319/1861772.md">川普发被逮捕预告文 马斯克大胆预言：若成真他将压倒性赢得2024</a></li>
 <li><a href="/cbnews/20230319/1861663.md">东航梧州空难也许不会公布事故原因</a></li>
 <li><a href="/ssgc/20230319/1861693.md">〖微博谈〗这不是技术问题</a></li>
 <li><a href="/sohnews/20230319/1861635.md">陈破空：任正非呛声习近平：我就是亲美的！郭文贵案复杂！当天放火是遥控？在逃的那个人是共特。美东3月18日晚8点、即中港台3月19日早8点</a></li>
 <li><a href="/topimagenews/20230319/1861739.md">合资守不住了？补贴37亿，上汽大众开始降价</a></li>
 <li><a href="/sohnews/20230318/1861579.md">“今晨7:26！马斯克“将出现毁灭性的结果””No.02（18/03/23）两党政治结束 君权神授的川普！</a></li>
+<li><a href="/ssgc/20230319/1861615.md">原来是狸猫？新冠研究又有新发现</a></li>
+<li><a href="/baitai/20230319/1861624.md">广东梅州男子光天化日当街抢孩子 警方回应让人心寒</a></li>
+<li><a href="/ssgc/20230319/1861765.md">官媒批孔乙己 背后是习李难解决大问题</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230319/1861845.md" target="_blank">【菁英论坛】李强首秀不被看好 从秘书帮到掌柜经济学</a></li>
+<li><a href="/comments/20230319/1861844.md" target="_blank">30几岁就老花！中医妙招一周抢救“恶视力”</a></li>
 <li><a href="/comments/20230319/1861829.md" target="_blank">习近平明天访俄 白宫先发制人：中国提停火 等于认同俄占乌领土</a></li>
 <li><a href="/comments/20230319/1861806.md" target="_blank">香港非刑事国安案聘海外律师亦需特首批 评论：无限扩权，影响大</a></li>
 <li><a href="/comments/20230319/1861768.md" target="_blank">司马南心里最爱的那个人，今天刷屏了</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230318/1861563.md" target="_blank">专访独立调查记者伊森·葛特曼：一次采访触发对活摘器官的调查；世界如不制止，中共活摘器官的人群将不断扩大 ｜ 03/17/2023 #方菲时间</a></li>
 <li><a href="/comments/20230318/1861558.md" target="_blank">ChatGPT爆红恐藏危机？ 开发者：人工智能恐威胁人类</a></li>
 <li><a href="/comments/20230318/1861557.md" target="_blank">九寨沟旅游团爆“带游客喝假酒” 酿1死1失明</a></li>
-<li><a href="/comments/20230318/1861555.md" target="_blank">普京有罪！联合国国际法院发布逮捕令 拜登认为合理</a></li>
-<li><a href="/comments/20230318/1861554.md" target="_blank">李强称中国人口红利没消失被打脸 18省去年出生率全下滑</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 
 </ul>
 </div>
