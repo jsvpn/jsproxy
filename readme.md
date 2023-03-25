@@ -13,8 +13,8 @@
 <li><a href="/topimagenews/20230325/1864024.md">苹果CEO库克现身北京三里屯 看到小米手机有这反应</a></li>
 <li><a href="/baitai/20230325/1864137.md">访俄成果遭党内质疑？中南海或掀政治风暴</a></li>
 <li><a href="/baitai/20230325/1864042.md">刘亚洲将在狱中度残年？政变阴影下 习借此杀鸡儆猴？</a></li>
-<li><a href="/cbnews/20230325/1864214.md">〖兲朝浮世绘〗“人民的名义”跟人民一毛钱关系都木有</a></li>
 <li><a href="/yule/20230325/1864050.md">默多克宣布再婚！他的930亿资产或将邓文迪母女踢出局</a></li>
+<li><a href="/cbnews/20230325/1864214.md">〖兲朝浮世绘〗“人民的名义”跟人民一毛钱关系都木有</a></li>
 <li><a href="/topimagenews/20230325/1864238.md">暗讽习近平不要“翘尾巴”？梅德韦杰夫“中国第一”惹议</a></li>
 <li><a href="/cnnews/20230325/1864225.md">人民日报闹出大笑话！“安排”习近平“穿尘埃、过泥泞、渡沼泽、经丛林”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230325/1864240.md">手机正在监听你…专家曝这物躲在背景秘密窃听</a></li>
@@ -22,9 +22,9 @@
 <li><a href="/topimagenews/20230325/1864234.md">中共在黄岩岛填海 美将射导弹攻击</a></li>
 <li><a href="/cbnews/20230325/1864207.md">江峰：“要打仗先换了他”，刘亚洲开罪领袖重判极刑缓刑。习近平拿刘为中美冲突和台海战事祭旗；TikTok受“审”是中国科技企业末日的开端【江峰漫谈20230324第648期】</a></li>
 <li><a href="/baitai/20230325/1864083.md">李希新官上任「火烧国企」高管密集被查 足协官员纷纷落马</a></li>
+<li><a href="/topimagenews/20230325/1864322.md">中共芯片玩完？好不容易反击美国 这1绝招竟遭打脸；中国版黑石中植系即将暴雷</a></li>
 <li><a href="/topimagenews/20230325/1864252.md">最强猪队友! TikTok 执行长在美国会遭拷问 中国商务部还“愈描愈黑”</a></li>
 <li><a href="/comments/20230325/1864106.md">文昭：10万躺平大军占领云南大理，更多大军在集结！美国国会吊打TikTok，开辟新战场</a></li>
-<li><a href="/topimagenews/20230325/1864322.md">中共芯片玩完？好不容易反击美国 这1绝招竟遭打脸；中国版黑石中植系即将暴雷</a></li>
 <li><a href="/bblog/20230325/1864122.md">〖微视野〗实际是闰土</a></li>
 <li><a href="/comments/20230325/1864223.md">习普会後失业大潮席卷！李强高喊国务院是政治机关；普京天文数字订单打水漂？</a></li>
 <li><a href="/topimagenews/20230325/1864270.md">俄“风暴部队”称遭“刻意送去屠杀” 指控凶狠“督战队”阻后撤</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 <li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
 
 </ul>
 </div>
