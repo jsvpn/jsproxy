@@ -9,7 +9,6 @@
 <li><a href="/topimagenews/20230326/1864379.md">太突然！巴总统卢拉让势头正猛的习近平跌了一跤 被百年变局吓到？</a></li>
 <li><a href="/topimagenews/20230325/1864240.md">手机正在监听你…专家曝这物躲在背景秘密窃听</a></li>
 <li><a href="/topimagenews/20230325/1864238.md">暗讽习近平不要“翘尾巴”？梅德韦杰夫“中国第一”惹议</a></li>
-<li><a href="/cbnews/20230325/1864214.md">〖兲朝浮世绘〗“人民的名义”跟人民一毛钱关系都木有</a></li>
 <li><a href="/topimagenews/20230325/1864234.md">中共在黄岩岛填海 美将射导弹攻击</a></li>
 <li><a href="/lifebaike/20230325/1864261.md">午睡可能影响寿命？过了50岁，午睡切记“四不要”，很多人都睡错了</a></li>
 <li><a href="/topimagenews/20230325/1864322.md">中共芯片玩完？好不容易反击美国 这1绝招竟遭打脸；中国版黑石中植系即将暴雷</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/cnnews/20230326/1864380.md">视中共如无物 超150人官方代表团搭专机抵达台北</a></li>
 <li><a href="/baitai/20230326/1864391.md">CEO什么来头？身价多少？最新报告揭抖音老底 布林肯一句话预告它的结局（二）</a></li>
 <li><a href="/comments/20230325/1864223.md">习普会後失业大潮席卷！李强高喊国务院是政治机关；普京天文数字订单打水漂？</a></li>
+<li><a href="/topimagenews/20230326/1864442.md">郭继承“翻车”之后，司马南吓得直哆嗦</a></li>
 <li><a href="/cbnews/20230325/1864320.md">〖兲朝浮世绘〗以“人民的名义”弄得一地鸡毛</a></li>
 <li><a href="/sohnews/20230326/1864362.md">“突发！中共国大规模抛售美国国债 近$2000亿”No.04（25/03/23）美自我对赌：$1000亿/1周 注入救援银行 同时加息</a></li>
 <li><a href="/topimagenews/20230325/1864222.md">拜特会宣布两大成果 降低对中共依赖</a></li>
 <li><a href="/topimagenews/20230325/1864270.md">俄“风暴部队”称遭“刻意送去屠杀” 指控凶狠“督战队”阻后撤</a></li>
 <li><a href="/sohnews/20230325/1864304.md">文睿：哈尔滨，真开始“动刀”了，快的吓人</a></li>
-<li><a href="/topimagenews/20230326/1864442.md">郭继承“翻车”之后，司马南吓得直哆嗦</a></li>
 <li><a href="/sohnews/20230325/1864233.md">海南13岁少女遭群体野蛮欺辱！再引爆全国怒火，当局平息事件，删除报导；习近平清洗李克强、汪洋残部？刘亚洲传遭重判；TikTok周受资，国会事件回顾！｜ 新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20230326/1864383.md">中非屠杀华人惨案惊动习近平｜#时事金扫描 #shorts</a></li>
 <li><a href="/health/20230325/1864255.md">去面包店买面包，聪明人不买这4种，面包师：只有不懂的人喜欢吃</a></li>
 <li><a href="/topimagenews/20230325/1864241.md">威胁离“末日”更近了！俄前总统:若乌试图夺回克里米亚 俄恐使用核武</a></li>
+<li><a href="/sohnews/20230326/1864384.md">华人非洲被抓 大使馆露战狼本色｜#时事金扫描 #shorts</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
 
 </ul>
 </div>
