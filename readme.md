@@ -23,11 +23,11 @@
 <li><a href="/yule/20230328/1865304.md">两张合照，把对刘亦菲的“排挤”体现得淋漓尽致</a></li>
 <li><a href="/cbnews/20230328/1865196.md">江峰：马云现身杭州，外媒党媒矛盾，哪个是真？马英九今日中山陵演讲，为何“祭祖”之旅成对中共跪安耻辱之行？李强促成马云回国？国务院放弃马列主义毛思想，习近平吾皇万岁。【江峰漫谈 20230327第649期】</a></li>
 <li><a href="/health/20230328/1865259.md">人老腿先衰，日常这3个行为，会加速膝盖“报废”</a></li>
-<li><a href="/baitai/20230328/1865113.md">习近平连任国家主席，民众的噩梦</a></li>
 <li><a href="/finance/20230328/1865295.md">清理编外人员，太难了</a></li>
+<li><a href="/baitai/20230328/1865113.md">习近平连任国家主席，民众的噩梦</a></li>
 <li><a href="/cnnews/20230328/1865129.md">习近平普京秘密协议 乌曝2大内容【阿波罗网翻译报道】</a></li>
+<li><a href="/baitai/20230328/1865415.md">报复社会！哈尔滨被裁员工绝望 割断燃气管炸大楼</a></li>
 <li><a href="/topimagenews/20230328/1865235.md">乌克兰用3大招数有望扭转战机 普京难防这条“红线”</a></li>
-<li><a href="/comments/20230328/1865155.md">【独家重磅】李燕铭：陈敏尔前大管家被查！李克强团派与江泽民曾庆红上海帮勾结反扑习近平 上海帮三大员接掌政治高地三大要职 李克强赵乐际勾结安插一狠角色 清洗栗战书赵克志陈敏尔谌贻琴后院 贵州近50名高官密集落马 贵州帮覆灭记（三） 习近平连任后大清洗（六） 习近平李克强明争暗斗内幕（八八）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230329/1865525.md" target="_blank">黄真：美国务院人权报告 继续关注中共活摘器官</a></li>
+<li><a href="/comments/20230329/1865524.md" target="_blank">韩笑：福建“网红”从胡鑫宇事件转变毅然退党</a></li>
+<li><a href="/comments/20230329/1865523.md" target="_blank">乾元：中共到底要“调查研究”什么</a></li>
+<li><a href="/comments/20230329/1865522.md" target="_blank">钟原：中共国企被巡视 新一轮清洗开启？</a></li>
+<li><a href="/comments/20230329/1865521.md" target="_blank">周晓辉：日本邀八国列席G7峰会 中共窝火</a></li>
+<li><a href="/comments/20230329/1865520.md" target="_blank">王赫：习近平控制了国务院吗？</a></li>
+<li><a href="/comments/20230329/1865517.md" target="_blank">文昭：#shorts 马云回国，自投虎口？</a></li>
 <li><a href="/comments/20230329/1865445.md" target="_blank">胎记竟然是前世的痕迹？</a></li>
 <li><a href="/comments/20230328/1865412.md" target="_blank">时事大家谈：洪都拉斯弃台投中，中国金钱外交能走多远？</a></li>
 <li><a href="/comments/20230328/1865411.md" target="_blank">时事大家谈：中国官媒批“孔乙己文学”为何引发众怒？</a></li>
@@ -115,13 +122,6 @@
 <li><a href="/comments/20230328/1865138.md" target="_blank">这个男孩的灵魂，来自于一个女子</a></li>
 <li><a href="/comments/20230328/1865128.md" target="_blank">刘亚洲因才惹祸 红二代非铁板一块</a></li>
 <li><a href="/comments/20230328/1865127.md" target="_blank">倪国荣：蔡访美 马访中 岸田访乌 习近平访俄的对比</a></li>
-<li><a href="/comments/20230328/1865116.md" target="_blank">文昭：马云突然回国，还出得来吗？北约史无前例集结30万大军，决胜时刻要到了？</a></li>
-<li><a href="/comments/20230328/1865107.md" target="_blank">不妙！普京前线战略生变 俄乌战争出现新态势</a></li>
-<li><a href="/comments/20230328/1865106.md" target="_blank">建国后最大规模抗议爆发 以色列司法改革怎么了</a></li>
-<li><a href="/comments/20230328/1865076.md" target="_blank">唐靖远：马云被“露面”是精心设计宣传；李强对国务院的整改告诉民企不要报幻想 ｜新闻烽火台 03/27</a></li>
-<li><a href="/comments/20230328/1865063.md" target="_blank">丁薛祥没接机 马英九访中规格生变？</a></li>
-<li><a href="/comments/20230328/1865062.md" target="_blank">李强交权习近平 国务院工作规则大变</a></li>
-<li><a href="/comments/20230328/1865038.md" target="_blank">华为分党红利用4G，董事自嘲</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
 
 </ul>
 </div>
