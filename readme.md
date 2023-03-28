@@ -18,8 +18,8 @@
 <li><a href="/topimagenews/20230328/1865219.md">库克来京 苹果离国 人走楼空好荒凉 大势所趋…</a></li>
 <li><a href="/comments/20230328/1865076.md">唐靖远：马云被“露面”是精心设计宣传；李强对国务院的整改告诉民企不要报幻想 ｜新闻烽火台 03/27</a></li>
 <li><a href="/sohnews/20230328/1865243.md">马英九在南京，自称“前总统”，喊“中华民国”，这就能破局？中共外交部高官，文章遭封杀！彭博社说马云拒绝回国，是被喂了假料吗；马云是主动回去，还是被迫？ ｜新闻拍案惊奇直播 大宇</a></li>
-<li><a href="/yule/20230328/1865289.md">发疯跪地求饶 郑爽抓包前夫出轨影片疯传</a></li>
 <li><a href="/sohnews/20230328/1865300.md">陈破空：马英九拜谒中山陵，场外出现混乱！现场致词得罪了所有各方。不屑称呼他？王沪宁统战立马失败。美国通过重要法案，持续狙击中共。直播与互动。美东3月28日早8点30、即中港台3月28日晚8点30</a></li>
+<li><a href="/yule/20230328/1865289.md">发疯跪地求饶 郑爽抓包前夫出轨影片疯传</a></li>
 <li><a href="/topimagenews/20230328/1865175.md">美国不给活路了！致命一剑赐死抖音？还呛中共这句话</a></li>
 <li><a href="/cbnews/20230328/1865258.md">孙中山鲜为人知的最后警告，正在兑现</a></li>
 <li><a href="/cnnews/20230328/1865152.md">习一番话 轮到这个行业遭殃了</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230329/1865445.md" target="_blank">胎记竟然是前世的痕迹？</a></li>
 <li><a href="/cbnews/20230328/1865354.md" target="_blank">震慑北朝鲜 美军尼米兹号航母打击群今靠泊釜山港</a></li>
 <li><a href="/cbnews/20230328/1865327.md" target="_blank">挪威军企怒轰抖音 耗电量太大 导致武器造不出来</a></li>
 <li><a href="/cbnews/20230328/1865258.md" target="_blank">孙中山鲜为人知的最后警告，正在兑现</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230327/1864664.md" target="_blank">小伙被拐24年后意外找到人贩子，陕西警方竟不立案</a></li>
 <li><a href="/cbnews/20230326/1864628.md" target="_blank">中共财政吃紧 多地事业单位清理编外人员</a></li>
 <li><a href="/comments/20230326/1864620.md" target="_blank">【方菲时间】周受资国会作证犯的最大错误；对等原则将让TikTok陷于危局｜03/26/2023</a></li>
-<li><a href="/cbnews/20230326/1864619.md" target="_blank">江西重点中学教师校门口举白纸拉横幅抗议</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230329/1865445.md" target="_blank">胎记竟然是前世的痕迹？</a></li>
 <li><a href="/comments/20230328/1865412.md" target="_blank">时事大家谈：洪都拉斯弃台投中，中国金钱外交能走多远？</a></li>
 <li><a href="/comments/20230328/1865411.md" target="_blank">时事大家谈：中国官媒批“孔乙己文学”为何引发众怒？</a></li>
 <li><a href="/comments/20230328/1865402.md" target="_blank">时事大家谈：中国官媒批“孔乙己文学”为何引发众怒？洪都拉斯弃台投中，中国金钱外交能走多远？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230328/1865063.md" target="_blank">丁薛祥没接机 马英九访中规格生变？</a></li>
 <li><a href="/comments/20230328/1865062.md" target="_blank">李强交权习近平 国务院工作规则大变</a></li>
 <li><a href="/comments/20230328/1865038.md" target="_blank">华为分党红利用4G，董事自嘲</a></li>
-<li><a href="/comments/20230328/1864991.md" target="_blank">险象环生！长沙高楼起火 两名女子爬绳索逃生</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
 <li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
 
 </ul>
 </div>
