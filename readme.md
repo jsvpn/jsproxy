@@ -10,8 +10,8 @@
 <li><a href="/ssgc/20230328/1865032.md">专栏 | 夜话中南海：习近平为什么嫉恨李克强？</a></li>
 <li><a href="/baitai/20230328/1865048.md">中共总理上任放第一把火 习选中李强关键原因曝光</a></li>
 <li><a href="/cnnews/20230328/1865045.md">中共政府始料不及 全球围攻中南海【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20230328/1865089.md">〖微博谈〗这才是真正的外交</a></li>
 <li><a href="/sohnews/20230328/1865293.md">习近平头号政敌变成他？江西帮覆灭，他会坐以待毙吗，还是要伙同另7大帮派，与习斗到底？｜ #百年真相</a></li>
+<li><a href="/ssgc/20230328/1865089.md">〖微博谈〗这才是真正的外交</a></li>
 <li><a href="/cnnews/20230328/1865075.md">亏大了！ 中国首个国产新冠药宣布停产</a></li>
 <li><a href="/cbnews/20230328/1865173.md">〖兲朝浮世绘〗马云回国没有不再重要 关键是这件事为啥能成为热议话题</a></li>
 <li><a href="/topimagenews/20230328/1865160.md">【微博精粹】人生11大最惨失误</a></li>
@@ -19,15 +19,15 @@
 <li><a href="/comments/20230328/1865076.md">唐靖远：马云被“露面”是精心设计宣传；李强对国务院的整改告诉民企不要报幻想 ｜新闻烽火台 03/27</a></li>
 <li><a href="/sohnews/20230328/1865243.md">马英九在南京，自称“前总统”，喊“中华民国”，这就能破局？中共外交部高官，文章遭封杀！彭博社说马云拒绝回国，是被喂了假料吗；马云是主动回去，还是被迫？ ｜新闻拍案惊奇直播 大宇</a></li>
 <li><a href="/topimagenews/20230328/1865175.md">美国不给活路了！致命一剑赐死抖音？还呛中共这句话</a></li>
+<li><a href="/sohnews/20230328/1865300.md">陈破空：马英九拜谒中山陵，场外出现混乱！现场致词得罪了所有各方。不屑称呼他？王沪宁统战立马失败。美国通过重要法案，持续狙击中共。直播与互动。美东3月28日早8点30、即中港台3月28日晚8点30</a></li>
 <li><a href="/cbnews/20230328/1865258.md">孙中山鲜为人知的最后警告，正在兑现</a></li>
 <li><a href="/cnnews/20230328/1865152.md">习一番话 轮到这个行业遭殃了</a></li>
-<li><a href="/sohnews/20230328/1865300.md">陈破空：马英九拜谒中山陵，场外出现混乱！现场致词得罪了所有各方。不屑称呼他？王沪宁统战立马失败。美国通过重要法案，持续狙击中共。直播与互动。美东3月28日早8点30、即中港台3月28日晚8点30</a></li>
 <li><a href="/yule/20230328/1865289.md">发疯跪地求饶 郑爽抓包前夫出轨影片疯传</a></li>
 <li><a href="/topimagenews/20230328/1865365.md">报告揭朝鲜女孩在大陆“红区”遭剥削 律师见证词：震惊又难过</a></li>
-<li><a href="/sohnews/20230328/1865042.md">“习近平颠覆共产党！全新‘国务院工作规则’震惊出台”No.03（27/03/23）马克思 列举 毛泽东 邓小平 江泽民 胡锦涛：全部被删除</a></li>
-<li><a href="/baitai/20230328/1865113.md">习近平连任国家主席，民众的噩梦</a></li>
 <li><a href="/topimagenews/20230328/1865326.md">震惊！深圳市价6折“人才房”卖不动；英媒：中共官员哀叹：经济快速发展的荣景一去不返</a></li>
 <li><a href="/cbnews/20230328/1865196.md">江峰：马云现身杭州，外媒党媒矛盾，哪个是真？马英九今日中山陵演讲，为何“祭祖”之旅成对中共跪安耻辱之行？李强促成马云回国？国务院放弃马列主义毛思想，习近平吾皇万岁。【江峰漫谈 20230327第649期】</a></li>
+<li><a href="/baitai/20230328/1865113.md">习近平连任国家主席，民众的噩梦</a></li>
+<li><a href="/sohnews/20230328/1865042.md">“习近平颠覆共产党！全新‘国务院工作规则’震惊出台”No.03（27/03/23）马克思 列举 毛泽东 邓小平 江泽民 胡锦涛：全部被删除</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
 
 </ul>
 </div>
