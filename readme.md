@@ -17,17 +17,17 @@
 <li><a href="/cbnews/20230329/1865691.md">习近平“国师”示警! 中国“技术红利”已消耗殆尽 恐掉入“第 4 大陷阱”</a></li>
 <li><a href="/sohnews/20230329/1865701.md">李强埋下大患！重新定位国务院，习近平成党主席？何立峰也受重用，曾参加习婚礼；公安却连抓美日企业员工；马云回国半推半就？阿里巴巴为何“一分为六”｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/headline/20230329/1865748.md">外媒注意到上海人口减少了</a></li>
+<li><a href="/baitai/20230330/1865974.md">贴身亲信泄露不寻常信号 习的地位超想像</a></li>
 <li><a href="/topimagenews/20230329/1865722.md">大白天撞鬼？驾驶车停墓园旁祭祖惊见雷达萤幕“全是人”</a></li>
 <li><a href="/baitai/20230330/1865921.md">胡春华新职尘埃落定</a></li>
 <li><a href="/baitai/20230329/1865606.md">习近平发惊人言论！中国这一行业要倒霉；美智库喊话！中共是灾难制造机！【北美新闻】</a></li>
 <li><a href="/comments/20230329/1865851.md">胡春华已任新职 团派多名“副国级”扎堆政协</a></li>
 <li><a href="/topimagenews/20230329/1865639.md">美国围剿奏效？3国出口狂降 揭大陆芯片业惨况…</a></li>
-<li><a href="/baitai/20230330/1865974.md">贴身亲信泄露不寻常信号 习的地位超想像</a></li>
-<li><a href="/topimagenews/20230329/1865620.md">是“强”国了！415:0美众院一致性票数通过把中共踢出“发展中国家”</a></li>
 <li><a href="/lifebaike/20230329/1865786.md">“穷不碰三艺，富莫亲三人”，三艺三人分别是啥</a></li>
+<li><a href="/topimagenews/20230329/1865620.md">是“强”国了！415:0美众院一致性票数通过把中共踢出“发展中国家”</a></li>
 <li><a href="/comments/20230329/1865686.md">《金门战役检讨》逆了龙鳞 习怒斩刘亚洲</a></li>
-<li><a href="/sohnews/20230329/1865720.md">美中高层秘密通话，习近平没敢越界 #中国 #政治 #shorts #大康有话说</a></li>
 <li><a href="/cbnews/20230329/1865582.md">天亮时分：北欧四国空军合并，俄国背后捅中共一刀；新能源汽车要完，中国经济解困仅剩一招；马英九大陆磕头，蔡英文过境美国（政论天下第971集 20230328）</a></li>
+<li><a href="/sohnews/20230329/1865720.md">美中高层秘密通话，习近平没敢越界 #中国 #政治 #shorts #大康有话说</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230330/1866079.md" target="_blank">100万年前，科技高度发达人类文明！</a></li>
 <li><a href="/cbnews/20230330/1866037.md" target="_blank">随时能发射 全球可用核弹头增 俄、中增加最多</a></li>
 <li><a href="/cbnews/20230330/1865968.md" target="_blank">深圳暴雨航班取消，旅客当场下跪…网友炸锅</a></li>
 <li><a href="/cbnews/20230330/1865965.md" target="_blank">双英出访分赴美中 多方角力拼2024大选</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230329/1865541.md" target="_blank">专访余茂春：中俄联盟表面大于实质；没有道德公信力让中共无法做老大；中共打台湾的时机取决于一个重要因素 ｜方菲时间 03/28</a></li>
 <li><a href="/comments/20230329/1865445.md" target="_blank">胎记竟然是前世的痕迹？</a></li>
 <li><a href="/cbnews/20230328/1865354.md" target="_blank">震慑北朝鲜 美军尼米兹号航母打击群今靠泊釜山港</a></li>
-<li><a href="/cbnews/20230328/1865327.md" target="_blank">挪威军企怒轰抖音 耗电量太大 导致武器造不出来</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230330/1866079.md" target="_blank">100万年前，科技高度发达人类文明！</a></li>
 <li><a href="/comments/20230330/1866048.md" target="_blank">语汇：挺鹅与挺乌的价值观反差</a></li>
 <li><a href="/comments/20230330/1866047.md" target="_blank">知乎问答:如何看待海南对民营企业家推出“四不原则”？</a></li>
 <li><a href="/comments/20230330/1866045.md" target="_blank">文昭：李强连续发招救经济，打气灌水一起上；下一道风口要把什麽吹上天？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230329/1865827.md" target="_blank">【梁京评论】中国经济形势为何比预料更严峻？</a></li>
 <li><a href="/comments/20230329/1865819.md" target="_blank">让中国民企“信心爆棚”？马云打破拒绝回国传言 27日已返杭州</a></li>
 <li><a href="/comments/20230329/1865818.md" target="_blank">【胡乃文开讲】糖尿病有救了！吃饭才能降血糖</a></li>
-<li><a href="/comments/20230329/1865807.md" target="_blank">创世主用这力量 创造世界，并给予人类 高级自我！一百万年前，外星球人类 因嫉妒发生战争；各星球多次毁灭，姆大陆文明悄悄诞生！｜ #未解之谜 扶摇</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
 <li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
 
 </ul>
 </div>
