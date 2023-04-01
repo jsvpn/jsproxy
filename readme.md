@@ -15,17 +15,17 @@
 <li><a href="/topimagenews/20230401/1867022.md">余茂春指出中俄软肋：他们最怕的就是...【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230401/1866798.md">亲共团体到纽约抗议蔡英文 闹出大笑话</a></li>
 <li><a href="/ssgc/20230401/1866998.md">〖微博谈〗看来，中共是往大了想</a></li>
+<li><a href="/topimagenews/20230401/1867047.md">4月开始！中共全党范围的政治运动来了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230401/1866984.md">蔡英文出访被抗议 却要感谢习近平？原因超讽刺</a></li>
 <li><a href="/topimagenews/20230401/1866801.md">中立国全球藏钱地位崩了 谢金河曝有钱人逃到“这2地”</a></li>
-<li><a href="/topimagenews/20230401/1867047.md">4月开始！中共全党范围的政治运动来了【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230401/1866841.md">马云突然回国后 阿里巴巴拆分为6家 美媒揭内幕</a></li>
 <li><a href="/cbnews/20230401/1867004.md">〖兲朝浮世绘〗人日把习近平给弄没了？</a></li>
 <li><a href="/topimagenews/20230401/1866800.md">全球新兴市场叛乱了？挥刀终结美元霸权 背后原因曝光</a></li>
 <li><a href="/cnnews/20230401/1866803.md">阿里巴巴大卸6块！美媒曝惊人内幕：马云出手了</a></li>
 <li><a href="/topimagenews/20230401/1866940.md">普京梦寐以求？曝中俄合作暗藏军事大礼</a></li>
-<li><a href="/sohnews/20230401/1866927.md">3月31日晚间，河北邯郸有人当街扔炸弹。</a></li>
-<li><a href="/cbnews/20230401/1867039.md">江峰：又亲自指挥了！这家全球第一企业要倒霉；中俄联合抗美第一步：中共助俄搭建防火墙，俄罗斯人会翻墙麽？人民币国际化的误区，越换越穷！【江峰漫谈20230331第653期】</a></li>
 <li><a href="/topimagenews/20230401/1867021.md">习近平最新讲话被公开！证实一件事【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230401/1867039.md">江峰：又亲自指挥了！这家全球第一企业要倒霉；中俄联合抗美第一步：中共助俄搭建防火墙，俄罗斯人会翻墙麽？人民币国际化的误区，越换越穷！【江峰漫谈20230331第653期】</a></li>
+<li><a href="/sohnews/20230401/1866927.md">3月31日晚间，河北邯郸有人当街扔炸弹。</a></li>
 <li><a href="/cnnews/20230401/1866867.md">不需计算机专业 ChatGPT带来新职业年薪数十万美金</a></li>
 <li><a href="/topimagenews/20230331/1866784.md">“去美元化”煞不住 金砖国将发行新货币</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230401/1867113.md" target="_blank">抗衡中共 美将在瓦努阿图设大使馆 增强南太平洋势力</a></li>
 <li><a href="/cbnews/20230401/1867080.md" target="_blank">降低中共对台威胁 传统基金会专家提出3大重点</a></li>
 <li><a href="/cbnews/20230401/1867050.md" target="_blank">中共与拉美:贸易规模与地缘影响力悄然增长</a></li>
 <li><a href="/cbnews/20230401/1867039.md" target="_blank">江峰：又亲自指挥了！这家全球第一企业要倒霉；中俄联合抗美第一步：中共助俄搭建防火墙，俄罗斯人会翻墙麽？人民币国际化的误区，越换越穷！【江峰漫谈20230331第653期】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230331/1866583.md" target="_blank">中国23岁女生郑灵华离世背后 网暴与监管难题</a></li>
 <li><a href="/cbnews/20230331/1866578.md" target="_blank">江峰：中纪委海外追逃，党规不仅高於自己的法律，还要凌驾国际法了！缺钱了，海南岛对企业主不捕不判，与重庆打黑的快捕快判都在践踏法律【江峰漫谈20230330第651期】</a></li>
 <li><a href="/cbnews/20230331/1866563.md" target="_blank">中共要害被击中？竟然出动重要马甲【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230331/1866562.md" target="_blank">新书作者警告美国： 中共控制台湾后下一个目标是整个东亚</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230401/1867114.md" target="_blank">【秦鹏观察】封口费主角是谁 川普被控罪的后果</a></li>
 <li><a href="/comments/20230401/1867033.md" target="_blank">王刚清空全部社交帐号！出事还是润了？马云马英九各有苦衷，川普被起诉後亮了，谁在历劫？</a></li>
 <li><a href="/comments/20230401/1867017.md" target="_blank">中国可能宁肯TikTok被禁，也不愿落入美国手中</a></li>
 <li><a href="/comments/20230401/1867016.md" target="_blank">基廷无视中共的种族灭绝行径，为他的”中国幻觉“辩护</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230331/1866774.md" target="_blank">华尔街日报：马云一手策划阿里巴巴重组计划</a></li>
 <li><a href="/comments/20230331/1866773.md" target="_blank">【新闻拍案惊奇】《人民日报》紧急停发！华人切割美国铁轨被抓？起诉川普的”三大漏洞”</a></li>
 <li><a href="/comments/20230331/1866772.md" target="_blank">【有画说艺】给男人的忠告：露水夫妻五年鸡，酒肉朋友烂雨衣</a></li>
-<li><a href="/comments/20230331/1866771.md" target="_blank">【致远书香】李商隐：相见时难别亦难，把相思之苦写到极致</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 <li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
 
 </ul>
 </div>
