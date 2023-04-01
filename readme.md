@@ -20,14 +20,14 @@
 <li><a href="/cbnews/20230401/1867039.md">江峰：又亲自指挥了！这家全球第一企业要倒霉；中俄联合抗美第一步：中共助俄搭建防火墙，俄罗斯人会翻墙麽？人民币国际化的误区，越换越穷！【江峰漫谈20230331第653期】</a></li>
 <li><a href="/cnnews/20230401/1866803.md">阿里巴巴大卸6块！美媒曝惊人内幕：马云出手了</a></li>
 <li><a href="/cbnews/20230401/1867004.md">〖兲朝浮世绘〗人日把习近平给弄没了？</a></li>
-<li><a href="/topimagenews/20230401/1866800.md">全球新兴市场叛乱了？挥刀终结美元霸权 背后原因曝光</a></li>
 <li><a href="/yule/20230401/1867051.md">又润1个 孙红雷夫妻疑定居澳洲 资产被扒 比做演员挣钱</a></li>
-<li><a href="/sohnews/20230401/1866927.md">3月31日晚间，河北邯郸有人当街扔炸弹。</a></li>
+<li><a href="/topimagenews/20230401/1866800.md">全球新兴市场叛乱了？挥刀终结美元霸权 背后原因曝光</a></li>
 <li><a href="/topimagenews/20230401/1867021.md">习近平最新讲话被公开！证实一件事【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230401/1867043.md">先人名字不能包括敏感字！中国网友傻眼：难道我要帮祖先改名？</a></li>
+<li><a href="/sohnews/20230401/1866927.md">3月31日晚间，河北邯郸有人当街扔炸弹。</a></li>
+<li><a href="/sohnews/20230401/1867061.md">强制官员“向习近平”公布财产！蔡奇还要“刺刀.见红”吗？严防官员外逃，没收护照，还要追查婚姻家底子女状况；何谓“海南全岛封关”？这是给台湾看的海南式“一国两制”吗｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230401/1866940.md">普京梦寐以求？曝中俄合作暗藏军事大礼</a></li>
 <li><a href="/cnnews/20230401/1866867.md">不需计算机专业 ChatGPT带来新职业年薪数十万美金</a></li>
-<li><a href="/topimagenews/20230331/1866784.md">“去美元化”煞不住 金砖国将发行新货币</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230401/1867153.md" target="_blank">川普遭起诉 矢言绝不认罪协商 妻子气炸仍决定力挺</a></li>
+<li><a href="/comments/20230401/1867152.md" target="_blank">【新闻拍案惊奇】习的酷吏蔡奇下令 公布财产！严防外逃</a></li>
 <li><a href="/comments/20230401/1867151.md" target="_blank">美媒：推特取消限制 推播中共官媒大外宣推文 马斯克为访中国铺路？</a></li>
 <li><a href="/comments/20230401/1867135.md" target="_blank">外星人惊现空中，3架UFO齐降非洲，牵动哈佛专家亲身前往⋯小灰人为何向人类娃儿，传递惊人信息？｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230401/1867114.md" target="_blank">【秦鹏观察】封口费主角是谁 川普被控罪的后果</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230401/1866813.md" target="_blank">路透：马克龙四面楚歌前往中国找平衡 留下燃烧的巴黎</a></li>
 <li><a href="/comments/20230331/1866779.md" target="_blank">时事大家谈：美国揭中国官员受贿4000万美元，北京为何顾左右而言他？</a></li>
 <li><a href="/comments/20230331/1866778.md" target="_blank">时事大家谈：国务院新规独尊习思想，李强打造习务院？</a></li>
-<li><a href="/comments/20230331/1866777.md" target="_blank">热点快评：纽约大陪审团起诉前总统特朗普：法律正义还是干涉选举？</a></li>
-<li><a href="/comments/20230331/1866774.md" target="_blank">华尔街日报：马云一手策划阿里巴巴重组计划</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
 <li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
 
 </ul>
 </div>
