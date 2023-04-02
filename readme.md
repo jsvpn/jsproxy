@@ -21,9 +21,9 @@
 <li><a href="/sohnews/20230401/1867180.md">“习近平的可能与不可能！全民储蓄下的人民币：要横扫世界！”No.02（01/04/23）全球央行数字货币化：人类崩溃的标志</a></li>
 <li><a href="/sohnews/20230401/1867125.md">川普获最强大、最暖心支持！梅拉尼娅力挺丈夫，伊万卡公开挺父！匿名者萨满被悄悄提前释放，司法部不敢说原因。</a></li>
 <li><a href="/sohnews/20230401/1867181.md">“爆炸新闻！伊万卡表态 库仕纳声明！”No.01（01/04/23）24小时 $400万捐款 全美50个州</a></li>
-<li><a href="/sohnews/20230401/1867115.md">转任全国人大常委、全国人大教科文卫委副主任后，胡绩伟最关注的问题是新闻出版自由。1984年1月，他受命起草《新闻法》。｜ #百年真相 #shorts</a></li>
 <li><a href="/comments/20230402/1867223.md">【杰森视角】解读中国混乱经济信号！中共为何严控各种平台数据？习近平在等额选举中也翻船！中国发展道路的根本问题被一个日本人点出来了！毛泽东的三本帐让中国数千万人丧命！</a></li>
 <li><a href="/comments/20230402/1867252.md">B站街采“如果祖国有需要，你会上前线吗？” 网友妙答</a></li>
+<li><a href="/sohnews/20230401/1867115.md">转任全国人大常委、全国人大教科文卫委副主任后，胡绩伟最关注的问题是新闻出版自由。1984年1月，他受命起草《新闻法》。｜ #百年真相 #shorts</a></li>
 <li><a href="/health/20230401/1867091.md">头皮里，老是长疙瘩和脓包，是怎么了？提醒：或是4种疾病警报</a></li>
 <li><a href="/sohnews/20230402/1867202.md">邯郸撞人案嫌犯自称是恐怖分子｜#时事金扫描 #shorts</a></li>
 <li><a href="/baitai/20230401/1867049.md">林保华：是新华社造谣，还是马英九行骗？</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230402/1867354.md" target="_blank">大批选手命丧战乱中 乌体育部长：战争已杀死262名运动员</a></li>
 <li><a href="/comments/20230402/1867347.md" target="_blank">美国贸易代表戴琪砲轰北京 把经济当武器</a></li>
 <li><a href="/comments/20230402/1867339.md" target="_blank">防火墙之父怼ChatGPT，被骂惨</a></li>
 <li><a href="/comments/20230402/1867330.md" target="_blank">马英九吃相太难看 乞食之行弄巧成拙</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230402/1867223.md" target="_blank">【杰森视角】解读中国混乱经济信号！中共为何严控各种平台数据？习近平在等额选举中也翻船！中国发展道路的根本问题被一个日本人点出来了！毛泽东的三本帐让中国数千万人丧命！</a></li>
 <li><a href="/comments/20230402/1867204.md" target="_blank">迦太基必须毁灭 拨弄中美关系的有形之手来了</a></li>
 <li><a href="/comments/20230401/1867153.md" target="_blank">川普遭起诉 矢言绝不认罪协商 妻子气炸仍决定力挺</a></li>
-<li><a href="/comments/20230401/1867152.md" target="_blank">【新闻拍案惊奇】习的酷吏蔡奇下令 公布财产！严防外逃</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
 <li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
 
 </ul>
 </div>
