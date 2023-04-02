@@ -8,25 +8,25 @@
 <li><a href="/comments/20230401/1867152.md">【新闻拍案惊奇】习的酷吏蔡奇下令 公布财产！严防外逃</a></li>
 <li><a href="/sohnews/20230402/1867193.md">习近平也不得不关注的邯郸撞人案</a></li>
 <li><a href="/sohnews/20230402/1867238.md">陈破空：成都爆发大规模警民冲突！共产党疯了？派出三级艳星搞外交！她是哪个领导人的宠物？人质外交见效，日本外相被迫访问中国。直播与互动。美东4月1日晚8点、即中港台4月2日早8点</a></li>
-<li><a href="/sohnews/20230401/1867180.md">“习近平的可能与不可能！全民储蓄下的人民币：要横扫世界！”No.02（01/04/23）全球央行数字货币化：人类崩溃的标志</a></li>
 <li><a href="/cnnews/20230402/1867361.md">全网都在买卖景甜裸照资源 有也不给这些疯子</a></li>
+<li><a href="/sohnews/20230401/1867180.md">“习近平的可能与不可能！全民储蓄下的人民币：要横扫世界！”No.02（01/04/23）全球央行数字货币化：人类崩溃的标志</a></li>
+<li><a href="/comments/20230402/1867252.md">B站街采“如果祖国有需要，你会上前线吗？” 网友妙答</a></li>
 <li><a href="/yule/20230402/1867333.md">“张继科丑闻”持续发酵：杨幂王珞丹等多位女星牵扯其中</a></li>
 <li><a href="/topimagenews/20230402/1867234.md">极不正常！毛宁放话期待满满？日本关键时刻釜底抽薪</a></li>
 <li><a href="/topimagenews/20230402/1867203.md">疑“神秘富豪”去世！美财政部获70亿美金遗产税</a></li>
-<li><a href="/comments/20230402/1867252.md">B站街采“如果祖国有需要，你会上前线吗？” 网友妙答</a></li>
 <li><a href="/comments/20230402/1867223.md">【杰森视角】解读中国混乱经济信号！中共为何严控各种平台数据？习近平在等额选举中也翻船！中国发展道路的根本问题被一个日本人点出来了！毛泽东的三本帐让中国数千万人丧命！</a></li>
 <li><a href="/topimagenews/20230402/1867362.md">拿景甜私密视频抵债？张继科有多刑？</a></li>
-<li><a href="/cbnews/20230402/1867303.md">天亮时分：向习近平表忠心，蔡奇刀刃向内出辣招；金砖五国去美元化，能走多远？意大利封禁ChatGPT，高盛预计三亿人失业（政论天下第974集 20230401）</a></li>
 <li><a href="/sohnews/20230401/1867181.md">“爆炸新闻！伊万卡表态 库仕纳声明！”No.01（01/04/23）24小时 $400万捐款 全美50个州</a></li>
+<li><a href="/cbnews/20230402/1867303.md">天亮时分：向习近平表忠心，蔡奇刀刃向内出辣招；金砖五国去美元化，能走多远？意大利封禁ChatGPT，高盛预计三亿人失业（政论天下第974集 20230401）</a></li>
 <li><a href="/ssgc/20230402/1867313.md">〖微博谈〗没错，这天就是愚人节</a></li>
-<li><a href="/comments/20230402/1867319.md">俄罗斯提结束战争条件胡锡进看了都脸红</a></li>
 <li><a href="/topimagenews/20230402/1867317.md">【微博精粹】包子不能给庆丰打工</a></li>
+<li><a href="/comments/20230402/1867319.md">俄罗斯提结束战争条件胡锡进看了都脸红</a></li>
 <li><a href="/cnnews/20230402/1867259.md">ChatGPT的“一生之敌”，正在杀来</a></li>
 <li><a href="/yule/20230402/1867326.md">张继科事件持续发酵，多名女星和更多大咖被牵扯出来</a></li>
 <li><a href="/baitai/20230402/1867357.md">三级片影星火了！竟当上「国际经济战略研究院院长」</a></li>
-<li><a href="/cnnews/20230402/1867348.md">马英九遭湖南书记轻蔑评“网红”</a></li>
-<li><a href="/comments/20230402/1867229.md">周晓辉：李强三板斧无新意 救经济难奏效</a></li>
 <li><a href="/sohnews/20230402/1867202.md">邯郸撞人案嫌犯自称是恐怖分子｜#时事金扫描 #shorts</a></li>
+<li><a href="/comments/20230402/1867229.md">周晓辉：李强三板斧无新意 救经济难奏效</a></li>
+<li><a href="/cnnews/20230402/1867348.md">马英九遭湖南书记轻蔑评“网红”</a></li>
 <li><a href="/baitai/20230402/1867200.md">二大爷｜一个国家写文章就可以颠覆，它的建立就是人类的耻辱</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230402/1867449.md" target="_blank">【方菲时间】专访谢田：银行危机会演变成金融危机吗？｜04/01/2023 #方菲时间</a></li>
 <li><a href="/cbnews/20230402/1867446.md" target="_blank">间谍罪20年监禁！俄罗斯逮捕美国记者 《华尔街日报》要求放人</a></li>
 <li><a href="/cbnews/20230402/1867445.md" target="_blank">F-22令歼-20难敌 为何只有美空军可操作</a></li>
 <li><a href="/cbnews/20230402/1867407.md" target="_blank">莫斯科惊现“诡异巨型黑圈圈” 9年前英国曾出现</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230401/1866954.md" target="_blank">他的前世，是泰坦尼克号的设计师！</a></li>
 <li><a href="/comments/20230401/1866894.md" target="_blank">【时事大聚焦】川普被起诉：对美国意味着什么？｜方伟 唐靖远 横河 David 方菲｜03/31/2023</a></li>
 <li><a href="/cbnews/20230401/1866861.md" target="_blank">世界局势使北京何其焦虑</a></li>
-<li><a href="/cbnews/20230401/1866826.md" target="_blank">车子有灰尘“不准入城行驶” 中国奇葩规定：车辆有污泥损坏城市形象</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230402/1867456.md" target="_blank">《唐诗三百首》微电影300集（5）王之涣——登鹳雀楼</a></li>
+<li><a href="/comments/20230402/1867449.md" target="_blank">【方菲时间】专访谢田：银行危机会演变成金融危机吗？｜04/01/2023 #方菲时间</a></li>
 <li><a href="/comments/20230402/1867442.md" target="_blank">疑报复社会 河北邯郸一男子驾车撞路人爆手雷被捕</a></li>
 <li><a href="/comments/20230402/1867422.md" target="_blank">B站爆停更潮上热搜 去年收益“减少80%”</a></li>
 <li><a href="/comments/20230402/1867406.md" target="_blank">毕福剑近照曝光 曾因“辱毛”遭中共封杀</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230402/1867242.md" target="_blank">洪博学:“两岸中国人”是什么人？</a></li>
 <li><a href="/comments/20230402/1867241.md" target="_blank">颜纯钩:马英九吃相太难看，民进党胜选上台阶</a></li>
 <li><a href="/comments/20230402/1867229.md" target="_blank">周晓辉：李强三板斧无新意 救经济难奏效</a></li>
-<li><a href="/comments/20230402/1867228.md" target="_blank">王友群：捷克、台湾与一名中共商人</a></li>
-<li><a href="/comments/20230402/1867227.md" target="_blank">掸封尘：成都夜市“鬼秤”为哪般？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
 
 </ul>
 </div>
