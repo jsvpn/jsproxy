@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230401/1867047.md">4月开始！中共全党范围的政治运动来了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230401/1867022.md">余茂春指出中俄软肋：他们最怕的就是...【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20230401/1866998.md">〖微博谈〗看来，中共是往大了想</a></li>
 <li><a href="/topimagenews/20230401/1867145.md">中国开启无锚印钞时代，需多备“黄绿”之物；黑龙江光是养老和就业支出 超过了财政收入</a></li>
 <li><a href="/cbnews/20230401/1867039.md">江峰：又亲自指挥了！这家全球第一企业要倒霉；中俄联合抗美第一步：中共助俄搭建防火墙，俄罗斯人会翻墙麽？人民币国际化的误区，越换越穷！【江峰漫谈20230331第653期】</a></li>
 <li><a href="/sohnews/20230401/1867117.md">陈破空：重大内幕：马云疑遭绑架回国？错在去香港！河北邯郸出事，网上删除消息。名人纷纷逃离中国，潘长江孙红雷冯小刚张国立。王刚突然清空微博。直播与互动。美东4月1日早8点30、即中港台4月1日晚8点30</a></li>
@@ -15,7 +14,6 @@
 <li><a href="/yule/20230401/1867051.md">又润1个 孙红雷夫妻疑定居澳洲 资产被扒 比做演员挣钱</a></li>
 <li><a href="/cbnews/20230401/1867004.md">〖兲朝浮世绘〗人日把习近平给弄没了？</a></li>
 <li><a href="/topimagenews/20230401/1867021.md">习近平最新讲话被公开！证实一件事【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230401/1866984.md">蔡英文出访被抗议 却要感谢习近平？原因超讽刺</a></li>
 <li><a href="/comments/20230401/1867135.md">外星人惊现空中，3架UFO齐降非洲，牵动哈佛专家亲身前往⋯小灰人为何向人类娃儿，传递惊人信息？｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230401/1867152.md">【新闻拍案惊奇】习的酷吏蔡奇下令 公布财产！严防外逃</a></li>
 <li><a href="/lifebaike/20230401/1867092.md">保洁阿姨提醒：住酒店时这五样东西尽量不要碰！很多人用了不知道</a></li>
@@ -23,11 +21,13 @@
 <li><a href="/topimagenews/20230401/1867043.md">先人名字不能包括敏感字！中国网友傻眼：难道我要帮祖先改名？</a></li>
 <li><a href="/cnnews/20230401/1867106.md">神预言雷曼、瑞信危机！他再爆“核弹级风暴”：日本央行倒闭</a></li>
 <li><a href="/comments/20230401/1867007.md">坑的就是你，比恒大更黑的来了</a></li>
-<li><a href="/sohnews/20230401/1867180.md">“习近平的可能与不可能！全民储蓄下的人民币：要横扫世界！”No.02（01/04/23）全球央行数字货币化：人类崩溃的标志</a></li>
-<li><a href="/sohnews/20230401/1867125.md">川普获最强大、最暖心支持！梅拉尼娅力挺丈夫，伊万卡公开挺父！匿名者萨满被悄悄提前释放，司法部不敢说原因。</a></li>
-<li><a href="/sohnews/20230401/1867181.md">“爆炸新闻！伊万卡表态 库仕纳声明！”No.01（01/04/23）24小时 $400万捐款 全美50个州</a></li>
 <li><a href="/topimagenews/20230402/1867203.md">疑“神秘富豪”去世！美财政部获70亿美金遗产税</a></li>
+<li><a href="/sohnews/20230401/1867125.md">川普获最强大、最暖心支持！梅拉尼娅力挺丈夫，伊万卡公开挺父！匿名者萨满被悄悄提前释放，司法部不敢说原因。</a></li>
+<li><a href="/sohnews/20230401/1867180.md">“习近平的可能与不可能！全民储蓄下的人民币：要横扫世界！”No.02（01/04/23）全球央行数字货币化：人类崩溃的标志</a></li>
+<li><a href="/sohnews/20230401/1867181.md">“爆炸新闻！伊万卡表态 库仕纳声明！”No.01（01/04/23）24小时 $400万捐款 全美50个州</a></li>
 <li><a href="/topimagenews/20230401/1867034.md">重磅 加拿大首发台湾报告书 中共驻加使馆跳脚</a></li>
+<li><a href="/sohnews/20230401/1867115.md">转任全国人大常委、全国人大教科文卫委副主任后，胡绩伟最关注的问题是新闻出版自由。1984年1月，他受命起草《新闻法》。｜ #百年真相 #shorts</a></li>
+<li><a href="/health/20230401/1867091.md">头皮里，老是长疙瘩和脓包，是怎么了？提醒：或是4种疾病警报</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
 <li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
 
 </ul>
 </div>
