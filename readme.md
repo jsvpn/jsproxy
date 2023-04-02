@@ -15,8 +15,8 @@
 <li><a href="/topimagenews/20230402/1867203.md">疑“神秘富豪”去世！美财政部获70亿美金遗产税</a></li>
 <li><a href="/topimagenews/20230402/1867362.md">拿景甜私密视频抵债？张继科有多刑？</a></li>
 <li><a href="/cbnews/20230402/1867303.md">天亮时分：向习近平表忠心，蔡奇刀刃向内出辣招；金砖五国去美元化，能走多远？意大利封禁ChatGPT，高盛预计三亿人失业（政论天下第974集 20230401）</a></li>
-<li><a href="/ssgc/20230402/1867313.md">〖微博谈〗没错，这天就是愚人节</a></li>
 <li><a href="/lifebaike/20230402/1867432.md">51小时秘不发丧，朝鲜如何瞒过全世界</a></li>
+<li><a href="/ssgc/20230402/1867313.md">〖微博谈〗没错，这天就是愚人节</a></li>
 <li><a href="/topimagenews/20230402/1867317.md">【微博精粹】包子不能给庆丰打工</a></li>
 <li><a href="/baitai/20230402/1867357.md">三级片影星火了！竟当上「国际经济战略研究院院长」</a></li>
 <li><a href="/cnnews/20230402/1867259.md">ChatGPT的“一生之敌”，正在杀来</a></li>
@@ -24,8 +24,8 @@
 <li><a href="/comments/20230402/1867319.md">俄罗斯提结束战争条件胡锡进看了都脸红</a></li>
 <li><a href="/cnnews/20230402/1867348.md">马英九遭湖南书记轻蔑评“网红”</a></li>
 <li><a href="/health/20230402/1867375.md">白发长在哪，病就在哪出？长在前额、两鬓、后脑勺，分别代表啥？</a></li>
-<li><a href="/sohnews/20230402/1867202.md">邯郸撞人案嫌犯自称是恐怖分子｜#时事金扫描 #shorts</a></li>
 <li><a href="/topimagenews/20230402/1867380.md">日外相时隔三年访中“为了救人” 矢板明夫：中共误解关系有所突破</a></li>
+<li><a href="/sohnews/20230402/1867202.md">邯郸撞人案嫌犯自称是恐怖分子｜#时事金扫描 #shorts</a></li>
 <li><a href="/comments/20230402/1867229.md">周晓辉：李强三板斧无新意 救经济难奏效</a></li>
 <li><a href="/cnnews/hknews/20230402/1867359.md">马英九：台湾地区和大陆地区 都是中华民国！【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230403/1867485.md" target="_blank">小灰人现身UFO上方！</a></li>
 <li><a href="/comments/20230402/1867449.md" target="_blank">【方菲时间】专访谢田：银行危机会演变成金融危机吗？｜04/01/2023 #方菲时间</a></li>
 <li><a href="/cbnews/20230402/1867446.md" target="_blank">间谍罪20年监禁！俄罗斯逮捕美国记者 《华尔街日报》要求放人</a></li>
 <li><a href="/cbnews/20230402/1867445.md" target="_blank">F-22令歼-20难敌 为何只有美空军可操作</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230401/1866983.md" target="_blank">天亮时分：人民日报封了习近平？川普下周二过堂，律师动议撤案；马云回国内幕，阿里巴巴大分拆；金砖五国去美元化，能走多远？ （政论天下第973集 20230331）天亮时分</a></li>
 <li><a href="/comments/20230401/1866954.md" target="_blank">他的前世，是泰坦尼克号的设计师！</a></li>
 <li><a href="/comments/20230401/1866894.md" target="_blank">【时事大聚焦】川普被起诉：对美国意味着什么？｜方伟 唐靖远 横河 David 方菲｜03/31/2023</a></li>
-<li><a href="/cbnews/20230401/1866861.md" target="_blank">世界局势使北京何其焦虑</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230403/1867485.md" target="_blank">小灰人现身UFO上方！</a></li>
 <li><a href="/comments/20230403/1867473.md" target="_blank">李燕铭：李克强团派大员江苏省委原书记罗志军病亡 罗志军少将父亲官至总后勤部装备部副部长 罗志军是令计划四大金刚之一 薄周政变组阁名单曝光罗志军出任公安部长 罗志军秘书沈健服毒自杀 一手管理罗志军多名情妇 中共末日之病毒亡共（三十） 江泽民江苏帮政变谋刺习近平 习绝地反击（三四）</a></li>
 <li><a href="/comments/20230402/1867457.md" target="_blank">【菁英论坛】马云回国 李强背后推动</a></li>
 <li><a href="/comments/20230402/1867456.md" target="_blank">《唐诗三百首》微电影300集（5）王之涣——登鹳雀楼</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230402/1867251.md" target="_blank">IYOUPORT:当您准备像编程随想那样工作……</a></li>
 <li><a href="/comments/20230402/1867250.md" target="_blank">二大爷：一个国家写文章就可以颠覆，它的建立就是人类的耻辱</a></li>
 <li><a href="/comments/20230402/1867243.md" target="_blank">觅真：愿这场惨绝人寰的迫害早日结束</a></li>
-<li><a href="/comments/20230402/1867242.md" target="_blank">洪博学:“两岸中国人”是什么人？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
 <li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 <li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
 <li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
 
 </ul>
 </div>
