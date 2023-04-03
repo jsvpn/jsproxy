@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20230402/1867361.md">全网都在买卖景甜裸照资源 有也不给这些疯子</a></li>
 <li><a href="/yule/20230402/1867391.md">景甜张继科事件升级 3段私密视频被公开</a></li>
-<li><a href="/comments/20230402/1867252.md">B站街采“如果祖国有需要，你会上前线吗？” 网友妙答</a></li>
 <li><a href="/yule/20230402/1867333.md">“张继科丑闻”持续发酵：杨幂王珞丹等多位女星牵扯其中</a></li>
 <li><a href="/cbnews/20230402/1867303.md">天亮时分：向习近平表忠心，蔡奇刀刃向内出辣招；金砖五国去美元化，能走多远？意大利封禁ChatGPT，高盛预计三亿人失业（政论天下第974集 20230401）</a></li>
 <li><a href="/lifebaike/20230402/1867432.md">51小时秘不发丧，朝鲜如何瞒过全世界</a></li>
@@ -16,10 +15,9 @@
 <li><a href="/topimagenews/20230402/1867317.md">【微博精粹】包子不能给庆丰打工</a></li>
 <li><a href="/baitai/20230402/1867357.md">三级片影星火了！竟当上「国际经济战略研究院院长」</a></li>
 <li><a href="/yule/20230402/1867326.md">张继科事件持续发酵，多名女星和更多大咖被牵扯出来</a></li>
-<li><a href="/cnnews/20230402/1867259.md">ChatGPT的“一生之敌”，正在杀来</a></li>
 <li><a href="/comments/20230403/1867473.md">李燕铭：李克强团派大员江苏省委原书记罗志军病亡 罗志军少将父亲官至总后勤部装备部副部长 罗志军是令计划四大金刚之一 薄周政变组阁名单曝光罗志军出任公安部长 罗志军秘书沈健服毒自杀 一手管理罗志军多名情妇 中共末日之病毒亡共（三十） 江泽民江苏帮政变谋刺习近平 习绝地反击（三四）</a></li>
-<li><a href="/cnnews/20230402/1867348.md">马英九遭湖南书记轻蔑评“网红”</a></li>
 <li><a href="/comments/20230402/1867319.md">俄罗斯提结束战争条件胡锡进看了都脸红</a></li>
+<li><a href="/cnnews/20230402/1867348.md">马英九遭湖南书记轻蔑评“网红”</a></li>
 <li><a href="/health/20230402/1867375.md">白发长在哪，病就在哪出？长在前额、两鬓、后脑勺，分别代表啥？</a></li>
 <li><a href="/topimagenews/20230402/1867380.md">日外相时隔三年访中“为了救人” 矢板明夫：中共误解关系有所突破</a></li>
 <li><a href="/cnnews/hknews/20230402/1867359.md">马英九：台湾地区和大陆地区 都是中华民国！【阿波罗网报道】</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/ssgc/20230402/1867437.md">李强三板斧无新意 救经济难奏效</a></li>
 <li><a href="/sohnews/20230402/1867453.md">🔥网络沸腾！马英九：台湾和大陆都是中华民国！王丹：习近平一句话暴露出最大野心；传上海外卖员住帐篷，失业者睡桥洞还要缴费；缺席多个重要活动，大陆知名演员沈腾疑出国求医</a></li>
 <li><a href="/yule/20230402/1867344.md">“千年一遇美少女”小学嫩照曝光</a></li>
-<li><a href="/cnnews/20230402/1867258.md">加拿大留学生嫁富二代 婆婆逼签“婚前协议”</a></li>
+<li><a href="/sohnews/20230402/1867431.md">陈破空：紧张！马英九说出：两岸同属中华民国！中南海不高兴了。访问湖南大学，学生不得出入，楼顶遍布狙击手。彭丹又红了！直播与互动。美东4月2日早8点30、即中港台4月2日晚8点30</a></li>
+<li><a href="/health/20230402/1867374.md">吃降压药的最佳时间公布！医生忠告：吃错了时间，效果相差很大</a></li>
+<li><a href="/comments/20230402/1867405.md">河北邯郸街头有车辆乱撞行人 现场发出巨响</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230403/1867542.md" target="_blank">江峰：普京向习近平展现肌肉男的最後一击？俄军春季攻势彻底瓦解。巴赫姆特绞肉机、武赫莱达尔地雷阵实战图解。俄乌战争五阶段普京为什麽一场都没赢？【江峰·视界·军事20230323第4集】</a></li>
 <li><a href="/cbnews/20230403/1867522.md" target="_blank">〖兲朝浮世绘〗脱星登堂议政 风水有点不对</a></li>
 <li><a href="/cbnews/20230403/1867512.md" target="_blank">普京会“听中国人的话”吗？不在俄精英的字典里</a></li>
 <li><a href="/cbnews/20230403/1867490.md" target="_blank">名记者：我为什么要对“张继科事件”发声？附500万借条</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230401/1867050.md" target="_blank">中共与拉美:贸易规模与地缘影响力悄然增长</a></li>
 <li><a href="/cbnews/20230401/1867039.md" target="_blank">江峰：又亲自指挥了！这家全球第一企业要倒霉；中俄联合抗美第一步：中共助俄搭建防火墙，俄罗斯人会翻墙麽？人民币国际化的误区，越换越穷！【江峰漫谈20230331第653期】</a></li>
 <li><a href="/cbnews/20230401/1867026.md" target="_blank">江峰：前任总统被起诉下周二到庭，打破美国政治传统；检察官、法官背景大起底； 大陪审团制度限制公权力泛滥，短板是什麽呢？【江峰漫谈20230331第652期】</a></li>
-<li><a href="/cbnews/20230401/1867004.md" target="_blank">〖兲朝浮世绘〗人日把习近平给弄没了？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230403/1867544.md" target="_blank">何清涟：美国必须重视中国的姿态与信号 仅仅轻蔑是远远不够的</a></li>
+<li><a href="/comments/20230403/1867543.md" target="_blank">俄乌外交动态：邪恶的核勾结 VS 《布查宣言》</a></li>
 <li><a href="/comments/20230403/1867513.md" target="_blank">《人民日报》的这个笑话 预示中国式AI的未来</a></li>
 <li><a href="/comments/20230403/1867485.md" target="_blank">小灰人现身UFO上方！</a></li>
 <li><a href="/comments/20230403/1867473.md" target="_blank">李燕铭：李克强团派大员江苏省委原书记罗志军病亡 罗志军少将父亲官至总后勤部装备部副部长 罗志军是令计划四大金刚之一 薄周政变组阁名单曝光罗志军出任公安部长 罗志军秘书沈健服毒自杀 一手管理罗志军多名情妇 中共末日之病毒亡共（三十） 江泽民江苏帮政变谋刺习近平 习绝地反击（三四）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230402/1867300.md" target="_blank">薛桐：胡鑫宇案给我们的启示</a></li>
 <li><a href="/comments/20230402/1867291.md" target="_blank">文昭：#shorts 中国央行印钱大灌水，为何老百姓涨价感有限？</a></li>
 <li><a href="/comments/20230402/1867252.md" target="_blank">B站街采“如果祖国有需要，你会上前线吗？” 网友妙答</a></li>
-<li><a href="/comments/20230402/1867251.md" target="_blank">IYOUPORT:当您准备像编程随想那样工作……</a></li>
-<li><a href="/comments/20230402/1867250.md" target="_blank">二大爷：一个国家写文章就可以颠覆，它的建立就是人类的耻辱</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
 <li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
 <li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
 
 </ul>
 </div>
