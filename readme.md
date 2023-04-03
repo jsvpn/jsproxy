@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20230403/1867506.md">这居然是真新闻！中国足协被一锅端了</a></li>
 <li><a href="/topimagenews/20230403/1867597.md">中共航母有多惨？传世界老二真正能用的落后50年</a></li>
 <li><a href="/topimagenews/20230403/1867667.md">人民日报头版头条 说了一句黑话！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230403/1867741.md">中国1天内2名高官“坠楼离世” 恐怖潜规则曝光！就怕连累长官、家人</a></li>
+<li><a href="/comments/20230403/1867680.md">“离世”二字耐人寻味！前中共江苏省委书记罗志军遭踢爆轻生</a></li>
 <li><a href="/cbnews/20230403/1867542.md">江峰：普京向习近平展现肌肉男的最後一击？俄军春季攻势彻底瓦解。巴赫姆特绞肉机、武赫莱达尔地雷阵实战图解。俄乌战争五阶段普京为什麽一场都没赢？【江峰·视界·军事20230323第4集】</a></li>
+<li><a href="/yule/20230403/1867668.md">被张继科利用，为何景甜保持沉默？名记回应，她做了最错的选择</a></li>
 <li><a href="/topimagenews/20230403/1867647.md">“这和我们银行没关系”！刘男1900万元定存 5年后“只剩34元”…</a></li>
 <li><a href="/topimagenews/20230403/1867550.md">视频疯传！中国大妈举扩音器对日本警察狂吼抗议</a></li>
 <li><a href="/topimagenews/20230403/1867652.md">资本开始切割！张继科的最坏结局已在酝酿</a></li>
-<li><a href="/comments/20230403/1867680.md">“离世”二字耐人寻味！前中共江苏省委书记罗志军遭踢爆轻生</a></li>
-<li><a href="/sohnews/20230403/1867566.md">【历史真相】太平天国并非你听说的那样，恰恰相反，太平天国创建了一个人人向往的社会，那正是你现在所追求的平等自由的中国。｜薇羽看世间 第634期</a></li>
 <li><a href="/sohnews/20230403/1867615.md">20230403直播：马英九长沙突然奋起，重创中共两岸表述；纽时：焦头烂额的中国政府就是这样抓经济的；答观众问：波兰支持日本侵华了吗？面积欧洲第七的世界大国。（20230403 第1137期）</a></li>
-<li><a href="/yule/20230403/1867668.md">被张继科利用，为何景甜保持沉默？名记回应，她做了最错的选择</a></li>
+<li><a href="/sohnews/20230403/1867566.md">【历史真相】太平天国并非你听说的那样，恰恰相反，太平天国创建了一个人人向往的社会，那正是你现在所追求的平等自由的中国。｜薇羽看世间 第634期</a></li>
 <li><a href="/comments/20230403/1867485.md">小灰人现身UFO上方！</a></li>
 <li><a href="/ssgc/20230403/1867567.md">〖微博谈〗纸糊的国家</a></li>
 <li><a href="/bblog/20230403/1867581.md">〖微历史〗刚吃饱就闲的蛋疼</a></li>
 <li><a href="/topimagenews/20230403/1867617.md">反转：治沙英雄孙国友下跪求水背后，是40亿利润</a></li>
-<li><a href="/cbnews/20230403/1867490.md">名记者：我为什么要对“张继科事件”发声？附500万借条</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
 <li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 
 </ul>
 </div>
