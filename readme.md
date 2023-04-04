@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20230403/1867725.md">真的会窃听！专家证实“手机这功能搞鬼”快关掉</a></li>
 <li><a href="/baitai/20230404/1867882.md">王小洪掀起大清洗 习第一把火烧向谁？</a></li>
 <li><a href="/worldnews/20230403/1867717.md">北朝鲜孕妇跳舞“手比”金日成肖像 遭公开处决…1尸2命</a></li>
-<li><a href="/topimagenews/20230404/1867896.md">嫖娼、与女星暗通款曲，长文再爆张继科更多猛料</a></li>
 <li><a href="/cnnews/20230404/1867854.md">上海大医院医生掐死护士妻子 女方很漂亮</a></li>
+<li><a href="/topimagenews/20230404/1867896.md">嫖娼、与女星暗通款曲，长文再爆张继科更多猛料</a></li>
 <li><a href="/cnnews/20230404/1867915.md">曝李铁前12天逼疯调查人员，第13天被剃光头全招</a></li>
 <li><a href="/cbnews/20230404/1867859.md">蔡英文出访重头戏来了！北京：简直挑衅</a></li>
 <li><a href="/topimagenews/20230404/1867953.md">疫情之后 中国“中产阶级”的生活悄然改变了</a></li>
 <li><a href="/worldnews/20230404/1867860.md">俄乌战场，突然投下重磅炸弹….</a></li>
 <li><a href="/cnnews/20230404/1867862.md">实锤了？2名记者佐证蔡振华出事</a></li>
 <li><a href="/topimagenews/20230404/1868018.md">【微博精粹】美帝又为中国P民出了一口恶气</a></li>
-<li><a href="/cbnews/20230403/1867716.md">贫农网红1档直播捞2600万！董座身家被起底 同情铁粉全崩溃</a></li>
 <li><a href="/sohnews/20230404/1867932.md">陈破空：噩梦终于来了！广东动员30万青年上山下乡。中国社会遭逼疯？邯郸吉林乱撞，重庆乱砍。川普飞往纽约，准备“投案自首”。直播与互动。美东4月3日晚8点、即中港台4月4日早8点</a></li>
+<li><a href="/cbnews/20230403/1867716.md">贫农网红1档直播捞2600万！董座身家被起底 同情铁粉全崩溃</a></li>
 <li><a href="/comments/20230404/1867914.md">俄军两艘大船去了伊朗….俄乌攻守变了</a></li>
 <li><a href="/sohnews/20230404/1868004.md">罗志军与习近平势不两立；16岁开始赌博，用女星S密视频抵债，张继科至少向8人借钱？张继科并未退役，中共将处理谁？【新闻看点 李沐阳4.3】</a></li>
+<li><a href="/cbnews/20230404/1868046.md">〖兲朝浮世绘〗幸福消失得太突然</a></li>
 <li><a href="/topimagenews/20230404/1867942.md">俄罗斯军事博主被杀 26岁美女凶手最后影像曝光</a></li>
 <li><a href="/finance/20230403/1867751.md">中共三大误判深陷四面楚歌； “千亿独角兽”今却“风雨交加夜”；华为卖车不承认</a></li>
 <li><a href="/sohnews/20230403/1867710.md">陈破空：党内斗争惨烈！前江苏省委书记坠楼身亡。事关前副主席。俄国咖啡馆爆炸，鼓吹侵略的狂热分子当场殒命。直播与互动。美东4月3日早8点、即中港台4月3日晚8点</a></li>
 <li><a href="/comments/20230403/1867728.md">美国“让”中国当发达国家：要命！但还不是重点</a></li>
-<li><a href="/cbnews/20230404/1868046.md">〖兲朝浮世绘〗幸福消失得太突然</a></li>
-<li><a href="/yule/20230404/1867930.md">他曾是央视一哥，只因“得罪了”赵本山</a></li>
 <li><a href="/ssgc/20230404/1868021.md">〖微博谈〗期待下一个烂尾计划</a></li>
+<li><a href="/yule/20230404/1867930.md">他曾是央视一哥，只因“得罪了”赵本山</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 <li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 
 </ul>
 </div>
