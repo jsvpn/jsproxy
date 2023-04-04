@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20230404/1868018.md">【微博精粹】美帝又为中国P民出了一口恶气</a></li>
 <li><a href="/cbnews/20230404/1868046.md">〖兲朝浮世绘〗幸福消失得太突然</a></li>
 <li><a href="/topimagenews/20230404/1868079.md">华为要凉？孟晚舟煽情过头 小粉红直喊”晦气”【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230404/1867932.md">陈破空：噩梦终于来了！广东动员30万青年上山下乡。中国社会遭逼疯？邯郸吉林乱撞，重庆乱砍。川普飞往纽约，准备“投案自首”。直播与互动。美东4月3日晚8点、即中港台4月4日早8点</a></li>
 <li><a href="/sohnews/20230404/1868004.md">罗志军与习近平势不两立；16岁开始赌博，用女星S密视频抵债，张继科至少向8人借钱？张继科并未退役，中共将处理谁？【新闻看点 李沐阳4.3】</a></li>
-<li><a href="/headline/20230404/1868089.md">习近平首次亲自号召民众学习「习思想」 党媒亦展开造势</a></li>
 <li><a href="/comments/20230404/1868123.md">人民日报漏印“习近平”3字 紧急销毁反致事件发酵 温家宝的名字也曾错印</a></li>
+<li><a href="/headline/20230404/1868089.md">习近平首次亲自号召民众学习「习思想」 党媒亦展开造势</a></li>
 <li><a href="/cnnews/20230404/1868077.md">名下有109套房子，吴英被抓16年后，现状如何</a></li>
 <li><a href="/sohnews/20230404/1868092.md">文睿：反制美国，一尊疯了，等着挨揍吧；白纸革命又来了，民怨，压不住了</a></li>
 <li><a href="/sohnews/20230404/1868127.md">老祖宗忠告：看人不看脸，记住这7句口诀，可以识遍天下人｜传统文化｜知识分享｜人生智慧语录 【晨曦晓屋】</a></li>
 <li><a href="/ssgc/20230404/1868021.md">〖微博谈〗期待下一个烂尾计划</a></li>
 <li><a href="/topimagenews/20230404/1867942.md">俄罗斯军事博主被杀 26岁美女凶手最后影像曝光</a></li>
 <li><a href="/topimagenews/20230404/1868152.md">中国经济裂变：输入通胀与地产依赖经济的碰撞；马斯克放话把推特变数字银行</a></li>
-<li><a href="/yule/20230404/1867930.md">他曾是央视一哥，只因“得罪了”赵本山</a></li>
 <li><a href="/cbnews/20230404/1868047.md">江峰：张继科冲顶热搜，事关体委腐败？景甜京城四美与乾爹们的瓜更大；马斯克与习近平第一轮较量：开放中共推特帐号交换拜谒李强？【江峰漫谈20230403第654期】</a></li>
 <li><a href="/comments/20230404/1868124.md">“是否愿为祖国战死”？ 街访年轻人假掰回应笑翻各国网友</a></li>
 <li><a href="/comments/20230404/1867982.md">和珅饰演者老戏骨王刚被全网封 各大社交平台账号清空 知情人透露内幕</a></li>
 <li><a href="/sohnews/20230404/1867950.md">奥运冠军张继科穷到靠前女友景甜私密照抵债？更多神秘爆料揭开张继科不堪形象，下场很可能如吴亦凡！曾入狱六年，扒一扒忘典数祖的纽约亲共头目陈善庄！【新闻最嘲点 姜光宇】2023.0403</a></li>
 <li><a href="/topimagenews/20230404/1868065.md">美国会要在全美查这一“中国制造”</a></li>
-<li><a href="/cnnews/20230404/1868056.md">禁中国人买房地产或扩大至全美 已买的要出售?</a></li>
 <li><a href="/cbnews/20230404/1867984.md">天亮时分：省部级高官接连自杀，明星不雅照事件上热搜；川普明日过堂，一次性梳理四个重点；气球事件调查结果透露哪些信号（政论天下第976集 20230403）</a></li>
+<li><a href="/cnnews/20230404/1868056.md">禁中国人买房地产或扩大至全美 已买的要出售?</a></li>
+<li><a href="/topimagenews/20230404/1868064.md">1张照片 3金牌“渣男”合影被扒</a></li>
+<li><a href="/comments/20230404/1868039.md">张继科突遭升级吊打，原因被马英九曝光！张国荣预言彭丹投共之路，艳猩变党外交红人？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230405/1868375.md" target="_blank">川普否认34项指控 川普律师：这是政治起诉</a></li>
 <li><a href="/cbnews/20230405/1868346.md" target="_blank">美国思想领袖：病毒学家斯蒂夫·哈特菲尔医生：《午夜前三秒》这本书预见了这场全球大瘟疫！中共病毒在美国究竟有多严重？病毒肯定是起源於中国吗？联邦政府对疫情处理是快是慢？| 大纪元</a></li>
 <li><a href="/cbnews/20230405/1868345.md" target="_blank">美国思想领袖：【直播】美中经济与安全委员会圆桌会议，关於「『中国模式？』北京推动替代性全球规范和标准」的圆桌会议 | 大纪元</a></li>
 <li><a href="/cbnews/20230405/1868344.md" target="_blank">美国思想领袖：流行病专家和《外交政策》杂志专栏作家劳丽‧加勒特：中共病毒如何传播﹖传染性如何？与SARS、MERS和1918年大流感有何差异？中共如何使疫情大爆发？防止被感染的最佳方法是什麽？| 大纪元</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230404/1868046.md" target="_blank">〖兲朝浮世绘〗幸福消失得太突然</a></li>
 <li><a href="/cbnews/20230404/1867984.md" target="_blank">天亮时分：省部级高官接连自杀，明星不雅照事件上热搜；川普明日过堂，一次性梳理四个重点；气球事件调查结果透露哪些信号（政论天下第976集 20230403）</a></li>
 <li><a href="/comments/20230404/1867947.md" target="_blank">小灰人见到人类后的反应！</a></li>
-<li><a href="/cbnews/20230404/1867943.md" target="_blank">中国电商巨头APP竟能控制手机 7.5亿用户受害</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
 <li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 
 </ul>
 </div>
