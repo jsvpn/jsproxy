@@ -8,7 +8,6 @@
 <li><a href="/topimagenews/20230403/1867741.md">中国1天内2名高官“坠楼离世” 恐怖潜规则曝光！就怕连累长官、家人</a></li>
 <li><a href="/topimagenews/20230403/1867725.md">真的会窃听！专家证实“手机这功能搞鬼”快关掉</a></li>
 <li><a href="/comments/20230403/1867680.md">“离世”二字耐人寻味！前中共江苏省委书记罗志军遭踢爆轻生</a></li>
-<li><a href="/topimagenews/20230403/1867667.md">人民日报头版头条 说了一句黑话！【阿波罗网报道】</a></li>
 <li><a href="/yule/20230403/1867668.md">被张继科利用，为何景甜保持沉默？名记回应，她做了最错的选择</a></li>
 <li><a href="/ssgc/20230403/1867699.md">成都两小区居民爆发大规模冲突   人心狂躁多地频发报复杀人案</a></li>
 <li><a href="/worldnews/20230403/1867717.md">北朝鲜孕妇跳舞“手比”金日成肖像 遭公开处决…1尸2命</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/cbnews/20230404/1867859.md">蔡英文出访重头戏来了！北京：简直挑衅</a></li>
 <li><a href="/worldnews/20230404/1867860.md">俄乌战场，突然投下重磅炸弹….</a></li>
 <li><a href="/cnnews/20230404/1867862.md">实锤了？2名记者佐证蔡振华出事</a></li>
-<li><a href="/cbnews/20230403/1867716.md">贫农网红1档直播捞2600万！董座身家被起底 同情铁粉全崩溃</a></li>
 <li><a href="/sohnews/20230404/1867932.md">陈破空：噩梦终于来了！广东动员30万青年上山下乡。中国社会遭逼疯？邯郸吉林乱撞，重庆乱砍。川普飞往纽约，准备“投案自首”。直播与互动。美东4月3日晚8点、即中港台4月4日早8点</a></li>
+<li><a href="/cbnews/20230403/1867716.md">贫农网红1档直播捞2600万！董座身家被起底 同情铁粉全崩溃</a></li>
 <li><a href="/comments/20230404/1867914.md">俄军两艘大船去了伊朗….俄乌攻守变了</a></li>
 <li><a href="/topimagenews/20230404/1867942.md">俄罗斯军事博主被杀 26岁美女凶手最后影像曝光</a></li>
 <li><a href="/topimagenews/20230404/1868018.md">【微博精粹】美帝又为中国P民出了一口恶气</a></li>
 <li><a href="/sohnews/20230403/1867710.md">陈破空：党内斗争惨烈！前江苏省委书记坠楼身亡。事关前副主席。俄国咖啡馆爆炸，鼓吹侵略的狂热分子当场殒命。直播与互动。美东4月3日早8点、即中港台4月3日晚8点</a></li>
 <li><a href="/finance/20230403/1867751.md">中共三大误判深陷四面楚歌； “千亿独角兽”今却“风雨交加夜”；华为卖车不承认</a></li>
 <li><a href="/comments/20230403/1867728.md">美国“让”中国当发达国家：要命！但还不是重点</a></li>
+<li><a href="/topimagenews/20230403/1867811.md">俄国恐爆发金融危机 4间银行面临破产</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
 <li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
 <li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
 
 </ul>
 </div>
