@@ -9,7 +9,6 @@
 <li><a href="/topimagenews/20230405/1868491.md">现代版杨贵妃？半年前称没“门当户对”反对 传中共高官竟娶儿子前女友</a></li>
 <li><a href="/topimagenews/20230405/1868470.md">习近平大秘密被捅破！江派再给习近平上眼药！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230405/1868391.md">用AI“—键脱衣”？马斯克们担忧的事正在发生</a></li>
-<li><a href="/sohnews/20230405/1868371.md">陈破空：突发：南京顶楼发生猛烈爆炸！有人被炸飞。北约东扩，直抵俄罗斯！普京收获战争苦果。川普出庭后迅即离开，34项罪名。直播与互动。美东4月4日晚8点、即中港台4月5日早8点</a></li>
 <li><a href="/cbnews/20230405/1868452.md">邓小平曾搞掉15个副国级 江曾被排为第16个</a></li>
 <li><a href="/topimagenews/20230405/1868568.md">中共就美日荷芯片协议出招 没想到翻车了【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230405/1868489.md">〖兲朝浮世绘〗原来是团伙作案 不抓住判刑吗？</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cnnews/20230405/1868525.md">三分之一卖不出去 中国房子严重过剩</a></li>
 <li><a href="/sohnews/20230405/1868666.md">罗志军突然“离世”，有传言他是“跳楼”。本来他的秘书已经自尽为他挡了一次祸。现在团派全退习近平又搞大调查运动，这次是逃不过去了。独家揭秘罗志军的江苏发迹之路。【李军访谈20230405第143期】</a></li>
 <li><a href="/ssgc/20230405/1868561.md">海南两年内封关 网民疑问一箩筐  学者：方案异想天开难实现</a></li>
+<li><a href="/topimagenews/20230406/1868778.md">川普创造“8秒历史名场面” 美主流电视台纷纷中断直播</a></li>
 <li><a href="/topimagenews/20230405/1868469.md">人民日报露陷了！对习近平宣传进行摆拍【阿波罗网报道】</a></li>
 <li><a href="/lishi/20230405/1868397.md">〖微博谈〗短暂的繁荣景象将一去不复返</a></li>
 <li><a href="/lifebaike/20230405/1868570.md">2023年了，这些电器即将被淘汰，别再花冤枉钱！你家有吗？</a></li>
 <li><a href="/lifebaike/20230405/1868588.md">脑梗死越来越多，哈佛大学医学院：坚持做到这7件事，远离脑梗</a></li>
 <li><a href="/worldnews/20230405/1868558.md">反击了!乌军朝瓦格纳控制区投掷“巨型炸药” 现场瞬间升起“蘑菇云”</a></li>
+<li><a href="/sohnews/20230405/1868632.md">陈破空：蔡奇不断兼职，遭王沪宁设局？陈希非法留任引发党内不满。今天，蔡英文会见美国众议长，中共出两招有多厉害？400美元！直播与互动。美东4月5日早8点30、即中港台4月5日晚8点30</a></li>
 <li><a href="/health/20230405/1868471.md">新血压标准已公布，不再是120/80，你的血压或许在正常范围内</a></li>
 <li><a href="/sohnews/20230405/1868385.md">川普起诉书曝光，罪名只有一个，所谓罪证有34项！张继科疑遭人设局，被逼无奈拿景甜私密照抵债！张继科丑闻继续发酵，神秘人爆料牵出体育界重量级人物刘国梁和蔡振华！【新闻最嘲点 姜光宇】2023.0404</a></li>
-<li><a href="/sohnews/20230405/1868632.md">陈破空：蔡奇不断兼职，遭王沪宁设局？陈希非法留任引发党内不满。今天，蔡英文会见美国众议长，中共出两招有多厉害？400美元！直播与互动。美东4月5日早8点30、即中港台4月5日晚8点30</a></li>
-<li><a href="/topimagenews/20230406/1868778.md">川普创造“8秒历史名场面” 美主流电视台纷纷中断直播</a></li>
 <li><a href="/cnnews/20230405/1868528.md">普京为何如此忌惮 芬兰军力出乎意料</a></li>
 <li><a href="/sohnews/20230405/1868573.md">“习近平”被人民日报漏印！传多人遭处分，回收300多万份；川普回佛州，8个月后还得出庭！纽约检控竟提“私生子”；蔡英文加州会麦卡锡；香港艳星彭丹，北京干爹背景硬？到底是谁｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/topimagenews/20230405/1868590.md">三级片艳星成陆智库院长！助中宏建交？他曝背后“最胸势力”：靠干爹吹</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
 <li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 <li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念 — 曾节明</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
 
 </ul>
 </div>
