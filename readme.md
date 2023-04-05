@@ -8,14 +8,14 @@
 <li><a href="/comments/20230404/1868123.md">人民日报漏印“习近平”3字 紧急销毁反致事件发酵 温家宝的名字也曾错印</a></li>
 <li><a href="/topimagenews/20230405/1868305.md">有点吓人的数据，全国总工会不小心公布了真相</a></li>
 <li><a href="/topimagenews/20230405/1868350.md">中国央企成都员工大骂领导截图 火遍全网</a></li>
-<li><a href="/sohnews/20230404/1868127.md">老祖宗忠告：看人不看脸，记住这7句口诀，可以识遍天下人｜传统文化｜知识分享｜人生智慧语录 【晨曦晓屋】</a></li>
 <li><a href="/topimagenews/20230405/1868351.md">李铁实锤清单曝光，令人发指</a></li>
-<li><a href="/comments/20230404/1868124.md">“是否愿为祖国战死”？ 街访年轻人假掰回应笑翻各国网友</a></li>
-<li><a href="/cnnews/20230405/1868361.md">毛岸英为人高调 做事懒散 最终因为违反防空纪律而丧命</a></li>
-<li><a href="/topimagenews/20230404/1868152.md">中国经济裂变：输入通胀与地产依赖经济的碰撞；马斯克放话把推特变数字银行</a></li>
+<li><a href="/sohnews/20230404/1868127.md">老祖宗忠告：看人不看脸，记住这7句口诀，可以识遍天下人｜传统文化｜知识分享｜人生智慧语录 【晨曦晓屋】</a></li>
 <li><a href="/topimagenews/20230405/1868491.md">现代版杨贵妃？半年前称没“门当户对”反对 传中共高官竟娶儿子前女友</a></li>
-<li><a href="/topimagenews/20230405/1868391.md">用AI“—键脱衣”？马斯克们担忧的事正在发生</a></li>
+<li><a href="/cnnews/20230405/1868361.md">毛岸英为人高调 做事懒散 最终因为违反防空纪律而丧命</a></li>
+<li><a href="/comments/20230404/1868124.md">“是否愿为祖国战死”？ 街访年轻人假掰回应笑翻各国网友</a></li>
+<li><a href="/topimagenews/20230404/1868152.md">中国经济裂变：输入通胀与地产依赖经济的碰撞；马斯克放话把推特变数字银行</a></li>
 <li><a href="/comments/20230404/1868185.md">三级片艳星成中共智库院长 他曝彭丹“36F”价值：干爹太强大</a></li>
+<li><a href="/topimagenews/20230405/1868391.md">用AI“—键脱衣”？马斯克们担忧的事正在发生</a></li>
 <li><a href="/topimagenews/20230405/1868289.md">中共已沦入“犄角之势”</a></li>
 <li><a href="/cbnews/20230405/1868265.md">媒体热炒张继科景甜事件 政法委出声 风头盖过艳星彭丹</a></li>
 <li><a href="/baitai/20230405/1868255.md">27岁上海男子离婚8次结婚9次 身家遭起底</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/sohnews/20230405/1868371.md">陈破空：突发：南京顶楼发生猛烈爆炸！有人被炸飞。北约东扩，直抵俄罗斯！普京收获战争苦果。川普出庭后迅即离开，34项罪名。直播与互动。美东4月4日晚8点、即中港台4月5日早8点</a></li>
 <li><a href="/sohnews/20230405/1868270.md">“4月4日 下午1:23分：一切都无法改变的 - 发生了！”No.05（04/04/23）曾经的美国 ⋯ 不复存在了</a></li>
 <li><a href="/cbnews/20230405/1868452.md">邓小平曾搞掉15个副国级 江曾被排为第16个</a></li>
+<li><a href="/cbnews/20230405/1868489.md">〖兲朝浮世绘〗原来是团伙作案 不抓住判刑吗？</a></li>
 <li><a href="/cbnews/20230405/1868330.md">美国思想领袖：余茂春：美中交锋习近平误判！阿拉斯加会谈，美国人见识中共骗局；中共如何利用亚特兰大按摩店枪击案来推进其议程？中共不让医生说真话，给世界带来了巨大伤害！（预告片）| 大纪元</a></li>
+<li><a href="/baitai/20230405/1868540.md">内部消息：习铁哥们终于被换</a></li>
 <li><a href="/topimagenews/20230405/1868290.md">北京会怎样回击麦蔡会？战狼这次有些怂</a></li>
 <li><a href="/sohnews/20230405/1868385.md">川普起诉书曝光，罪名只有一个，所谓罪证有34项！张继科疑遭人设局，被逼无奈拿景甜私密照抵债！张继科丑闻继续发酵，神秘人爆料牵出体育界重量级人物刘国梁和蔡振华！【新闻最嘲点 姜光宇】2023.0404</a></li>
-<li><a href="/lishi/20230405/1868397.md">〖微博谈〗短暂的繁荣景象将一去不复返</a></li>
-<li><a href="/sohnews/20230404/1868135.md">陈破空：轰动重庆！马英九大赞蒋介石，暗示中共不抗日！袁家军点头称是。台湾感受不同。以人质为诱饵把日本外相搞到北京，土共开创强制外交。直播与互动。美东4月4日早8点30、即中港台4月4日晚8点30</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230405/1868601.md" target="_blank">美众议长麦卡锡加州晤蔡英文 中共将发动“电子战”？</a></li>
 <li><a href="/comments/20230405/1868508.md" target="_blank">十年砍柴：禁用“超龄”农民工？与其关上一扇门，不如多给一条路</a></li>
 <li><a href="/comments/20230405/1868459.md" target="_blank">粉红洗地Tiktok，替党挡枪子</a></li>
 <li><a href="/comments/20230405/1868454.md" target="_blank">愚弄民众的说法：去美元化被人民币代替</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230404/1868221.md" target="_blank">热点快评：美众议长麦卡锡正式宣布与台湾总统蔡英文在加州会面</a></li>
 <li><a href="/comments/20230404/1868219.md" target="_blank">川普今天到法院投案 将经历什麽？ ｜方伟 唐靖远 大宇 方菲 David 王愉贺 ｜时事大聚焦 04/04/2023</a></li>
 <li><a href="/comments/20230404/1868214.md" target="_blank">川普抵达纽约准备出庭 警方严阵以待</a></li>
-<li><a href="/comments/20230404/1868211.md" target="_blank">时事大家谈：热点快评：美众议长麦卡锡正式宣布与台湾总统蔡英文在加州会面；特朗普出庭应讯，法治的体现还是考验？重拳整治自媒体，“清朗”行动不清朗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 
 </ul>
 </div>
