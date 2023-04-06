@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20230405/1868666.md">罗志军突然“离世”，有传言他是“跳楼”。本来他的秘书已经自尽为他挡了一次祸。现在团派全退习近平又搞大调查运动，这次是逃不过去了。独家揭秘罗志军的江苏发迹之路。【李军访谈20230405第143期】</a></li>
 <li><a href="/baitai/20230406/1868817.md">苦日子真的来了！中国最赚钱行业大降薪 金融反腐风暴越刮越猛</a></li>
-<li><a href="/topimagenews/20230405/1868652.md">大陆“黄金产业”弱点被抓到了！印度出手抢6000亿美元商机</a></li>
 <li><a href="/baitai/20230406/1868759.md">习近平已经进入“地堡”时刻困兽犹斗</a></li>
+<li><a href="/topimagenews/20230405/1868652.md">大陆“黄金产业”弱点被抓到了！印度出手抢6000亿美元商机</a></li>
 <li><a href="/sohnews/20230405/1868632.md">陈破空：蔡奇不断兼职，遭王沪宁设局？陈希非法留任引发党内不满。今天，蔡英文会见美国众议长，中共出两招有多厉害？400美元！直播与互动。美东4月5日早8点30、即中港台4月5日晚8点30</a></li>
 <li><a href="/topimagenews/20230406/1868840.md">克林顿发声：后悔让乌克兰…不然俄乌不会开战</a></li>
 <li><a href="/cbnews/20230406/1868980.md">〖兲朝浮世绘〗中共上当了？马英九行程隐藏密码？</a></li>
@@ -17,17 +17,17 @@
 <li><a href="/comments/20230406/1868863.md">杨威：交通量严重萎缩 中国大市场褪色</a></li>
 <li><a href="/topimagenews/20230406/1868949.md">美国制裁中共芯片有多惨？专家1句话曝真实面目…</a></li>
 <li><a href="/topimagenews/20230406/1868950.md">法国总统马克龙访华 惊见巩俐夫妇同机随行</a></li>
-<li><a href="/cnnews/20230406/1868851.md">中国电科员工痛骂领导爆红网络，结局出乎意料</a></li>
 <li><a href="/ssgc/20230405/1868648.md">马云被胁迫回国，充其量做中共陪葬品</a></li>
+<li><a href="/cnnews/20230406/1868851.md">中国电科员工痛骂领导爆红网络，结局出乎意料</a></li>
 <li><a href="/cbnews/20230406/1868769.md">麦卡锡午宴款待 蔡英文：享受加州温暖阳光</a></li>
 <li><a href="/cbnews/20230405/1868637.md">父“办宴席”贺14岁儿保送清大 真相曝光傻眼了：被骗好多钱</a></li>
 <li><a href="/cnnews/20230406/1868842.md">突发：北京国企原董事长、总经理同日被双开</a></li>
 <li><a href="/cnnews/20230406/1868823.md">邱会作小姘头一大串 叶群“文革”初不愿保他</a></li>
+<li><a href="/yule/20230406/1868959.md">1大咖明星竟是亲弟弟！张学友认了：查过族谱</a></li>
+<li><a href="/cbnews/20230406/1868861.md">国航航班滑出后返回延误90分钟，原因“太离谱”</a></li>
 <li><a href="/yule/20230406/1868854.md">真人版“樱桃小丸子”长大了 变身美女学霸25岁现况曝</a></li>
 <li><a href="/ssgc/20230406/1868798.md">华为分红太豪气！14万员工分720亿元</a></li>
-<li><a href="/cbnews/20230406/1868861.md">国航航班滑出后返回延误90分钟，原因“太离谱”</a></li>
 <li><a href="/lifebaike/20230406/1868822.md">“文革”中的荒唐事围看生孩子</a></li>
-<li><a href="/topimagenews/20230405/1868643.md">两国关系恶化 中国发往美国货柜占比创21年新低</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230406/1869058.md" target="_blank">资金外逃?炫富?黑山/13游艇是俄国人的 还拥“黄金护照”</a></li>
 <li><a href="/topimagenews/20230406/1869042.md" target="_blank">中共“海巡06”靠近台湾拍到陆地？糗被抓包连福建平潭沿海都没离开过</a></li>
 <li><a href="/topimagenews/20230406/1869029.md" target="_blank">左派控制旧金山 安全社区也遇害？硅谷科技高管街头遇刺身亡 马斯克发声</a></li>
 <li><a href="/topimagenews/20230406/1869028.md" target="_blank">北美湖底惊现万年神秘巨石阵 内陆“百慕大” 超过1千艘船离奇消失</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230405/1868431.md" target="_blank">川普出庭后首发言 称正接受“假调查，结果证明是一场骗局”</a></li>
 <li><a href="/topimagenews/20230405/1868430.md" target="_blank">川普海湖庄园发表谈话：从未想过这事会发生在美国</a></li>
 <li><a href="/topimagenews/20230405/1868391.md" target="_blank">用AI“—键脱衣”？马斯克们担忧的事正在发生</a></li>
-<li><a href="/topimagenews/20230405/1868390.md" target="_blank">律师爆川普出庭后心情 “愤怒”而“决心坚定”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
 
 </ul>
 </div>
