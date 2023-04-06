@@ -8,26 +8,26 @@
 <li><a href="/sohnews/20230405/1868666.md">罗志军突然“离世”，有传言他是“跳楼”。本来他的秘书已经自尽为他挡了一次祸。现在团派全退习近平又搞大调查运动，这次是逃不过去了。独家揭秘罗志军的江苏发迹之路。【李军访谈20230405第143期】</a></li>
 <li><a href="/baitai/20230406/1868817.md">苦日子真的来了！中国最赚钱行业大降薪 金融反腐风暴越刮越猛</a></li>
 <li><a href="/baitai/20230406/1868759.md">习近平已经进入“地堡”时刻困兽犹斗</a></li>
-<li><a href="/topimagenews/20230405/1868652.md">大陆“黄金产业”弱点被抓到了！印度出手抢6000亿美元商机</a></li>
 <li><a href="/cbnews/20230406/1868980.md">〖兲朝浮世绘〗中共上当了？马英九行程隐藏密码？</a></li>
 <li><a href="/topimagenews/20230406/1868840.md">克林顿发声：后悔让乌克兰…不然俄乌不会开战</a></li>
 <li><a href="/headline/20230406/1868818.md">马习会前马克龙敲山震虎</a></li>
 <li><a href="/ssgc/20230406/1868857.md">〖微博谈〗生活处处都能“微抵抗”</a></li>
 <li><a href="/comments/20230406/1868863.md">杨威：交通量严重萎缩 中国大市场褪色</a></li>
 <li><a href="/topimagenews/20230406/1868994.md">蔡麦会！中共气炸了！外交部、国防部等四机构超级罕见同步发声</a></li>
-<li><a href="/ssgc/20230405/1868648.md">马云被胁迫回国，充其量做中共陪葬品</a></li>
 <li><a href="/topimagenews/20230406/1868949.md">美国制裁中共芯片有多惨？专家1句话曝真实面目…</a></li>
 <li><a href="/topimagenews/20230406/1868950.md">法国总统马克龙访华 惊见巩俐夫妇同机随行</a></li>
-<li><a href="/cbnews/20230406/1868769.md">麦卡锡午宴款待 蔡英文：享受加州温暖阳光</a></li>
 <li><a href="/cnnews/20230406/1868851.md">中国电科员工痛骂领导爆红网络，结局出乎意料</a></li>
+<li><a href="/cbnews/20230406/1868769.md">麦卡锡午宴款待 蔡英文：享受加州温暖阳光</a></li>
 <li><a href="/topimagenews/20230406/1869011.md">网络炸锅！大陆网友齐算账！把中共央视怼惨了【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230406/1868842.md">突发：北京国企原董事长、总经理同日被双开</a></li>
+<li><a href="/cnnews/20230406/1868992.md">舔共踢到铁板？黄安终于崩溃了：有个屁用</a></li>
 <li><a href="/cbnews/20230406/1868861.md">国航航班滑出后返回延误90分钟，原因“太离谱”</a></li>
 <li><a href="/cnnews/20230406/1868823.md">邱会作小姘头一大串 叶群“文革”初不愿保他</a></li>
-<li><a href="/comments/20230406/1868955.md">北京中计！蔡英文麦卡锡欢乐会面，胡锡进惊呼美台双赢？中南海经典认怂：38天大炸鱼</a></li>
 <li><a href="/yule/20230406/1868959.md">1大咖明星竟是亲弟弟！张学友认了：查过族谱</a></li>
-<li><a href="/cnnews/20230406/1868992.md">舔共踢到铁板？黄安终于崩溃了：有个屁用</a></li>
+<li><a href="/comments/20230406/1868955.md">北京中计！蔡英文麦卡锡欢乐会面，胡锡进惊呼美台双赢？中南海经典认怂：38天大炸鱼</a></li>
 <li><a href="/yule/20230406/1868854.md">真人版“樱桃小丸子”长大了 变身美女学霸25岁现况曝</a></li>
+<li><a href="/lifebaike/20230406/1868822.md">“文革”中的荒唐事围看生孩子</a></li>
+<li><a href="/comments/20230406/1868848.md">文昭：张继科赌债丑闻失控，你应该知道的那些内幕；中央政法委灭火反浇油</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230406/1869104.md" target="_blank">黑鹰出事！日直升机失联海面现油污 传“第八师团长”在机上</a></li>
 <li><a href="/cbnews/20230406/1869024.md" target="_blank">最近8个月又有超千万人声明退出中共党团队</a></li>
 <li><a href="/cbnews/20230406/1869043.md" target="_blank">水很深！为应对这2国威胁 美军太平洋出动核动力快速攻击潜艇</a></li>
 <li><a href="/cbnews/20230406/1868999.md" target="_blank">24楼就封顶? 陕西民众买到了“空中楼阁”…</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230405/1868375.md" target="_blank">川普否认34项指控 川普律师：这是政治起诉</a></li>
 <li><a href="/cbnews/20230405/1868307.md" target="_blank">在泰杀中国女生的3名嫌犯落网 还有第4嫌犯</a></li>
 <li><a href="/cbnews/20230405/1868265.md" target="_blank">媒体热炒张继科景甜事件 政法委出声 风头盖过艳星彭丹</a></li>
-<li><a href="/cbnews/20230404/1868183.md" target="_blank">芬兰成第31个会员国！北约正式东扩 俄罗斯警告：将加强军力因应</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230406/1869099.md" target="_blank">【未普评论】百年大变局，中美一拍两散？</a></li>
 <li><a href="/comments/20230406/1869088.md" target="_blank">【思想领袖】中国正处于转折点吗？</a></li>
 <li><a href="/comments/20230406/1869073.md" target="_blank">颜纯钩；中共如何把西方国家当作虚拟版图</a></li>
 <li><a href="/comments/20230406/1869069.md" target="_blank">大义灭亲？女儿实名举报父亲受贿1900万 引关注</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230406/1868862.md" target="_blank">王赫：2023年中国股市再割韭菜</a></li>
 <li><a href="/comments/20230406/1868848.md" target="_blank">文昭：张继科赌债丑闻失控，你应该知道的那些内幕；中央政法委灭火反浇油</a></li>
 <li><a href="/comments/20230406/1868847.md" target="_blank">【独家重磅】李燕铭：反习暗潮汹涌 一周发生两大敏感政治事件 习近平布局大清洗运动 政治局紧急两招管控高官 中纪委再查裸官 习亲信王小洪启动全国调查聚焦政治团伙 习近平连任后大清洗（十） 中南海政变与反政变（七二） 习近平决战江曾（八四）</a></li>
-<li><a href="/comments/20230406/1868841.md" target="_blank">【围炉夜话04/05】蔡英文与麦卡锡加州会面，中共难发作？马克龙访中“踩雷区”？｜唐靖远 萧茗 方菲 David</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
 <li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
 
 </ul>
 </div>
