@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20230407/1869336.md">张家界4人相约跳崖 死者身份起底…</a></li>
 <li><a href="/topimagenews/20230407/1869359.md">马英九返台，习近平提前一天”送大礼“【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230407/1869246.md">卧底3年！FBI全球出击 摧毁世界最大暗网市场</a></li>
-<li><a href="/topimagenews/20230407/1869384.md">【微博精粹】二次上山下乡这么快就来了</a></li>
 <li><a href="/topimagenews/20230406/1869159.md">接到陌生来电千万别先开口 AI诈骗3秒就能偷走你的声音</a></li>
-<li><a href="/funmedia/20230407/1869342.md">老了才知道，这辈子最亲的人只有3个</a></li>
+<li><a href="/topimagenews/20230407/1869384.md">【微博精粹】二次上山下乡这么快就来了</a></li>
 <li><a href="/topimagenews/20230407/1869310.md">中共“决策者”想法被透露 中美关系彻底凉了？【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230407/1869222.md">四婚妻子竟是儿子女友 中国银行业巨头纷遭殃</a></li>
+<li><a href="/funmedia/20230407/1869342.md">老了才知道，这辈子最亲的人只有3个</a></li>
 <li><a href="/cnnews/20230407/1869244.md">真的领400美元？ 美国网红混入小粉红阵营超爆笑</a></li>
 <li><a href="/sohnews/20230406/1869136.md">“历史性的称呼！美众议院议长在美国本土：承认中华民国！”《今日点击》（05/04/23）宣称“捍卫共同价值观！对抗中共”</a></li>
 <li><a href="/cbnews/20230407/1869390.md">〖兲朝浮世绘〗即便是死无葬身之地的时髦，能是你这韭菜能跟风的吗？</a></li>
 <li><a href="/ssgc/20230407/1869357.md">〖微博谈〗中共是黑社会</a></li>
 <li><a href="/cnnews/20230407/1869239.md">给张继科借钱的S先生，到底是谁？</a></li>
+<li><a href="/topimagenews/20230407/1869429.md">中共若明日犯台 美、中将直接军事冲突? 美前议长 : 不排除俄罗斯军援</a></li>
 <li><a href="/topimagenews/20230407/1869385.md">中共跳脚祭制裁 网民笑：“集满十次有奖品吗”</a></li>
 <li><a href="/headline/20230407/1869294.md">前储君胡春华表忠 自称政协新兵</a></li>
 <li><a href="/cnnews/20230406/1869115.md">金融危机一触即发！2大讯号狂闪 风暴恐不远了</a></li>
 <li><a href="/topimagenews/20230407/1869337.md">马英九小心思被发现？台媒大呼：马英九怕得罪中共 不敢...</a></li>
-<li><a href="/topimagenews/20230407/1869429.md">中共若明日犯台 美、中将直接军事冲突? 美前议长 : 不排除俄罗斯军援</a></li>
-<li><a href="/cnnews/20230406/1869155.md">闪婚41天索要千万 逼死老公…轰动全网 妻被判退钱退房退特斯拉</a></li>
+<li><a href="/comments/20230407/1869399.md">突发！马英九被党定性国民党反动派？马克龙访华第一天遭中俄打脸，习近平也陪着挨了一拳</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230407/1869499.md" target="_blank">路透：习近平慷慨拉拢马克龙反美</a></li>
 <li><a href="/comments/20230407/1869434.md" target="_blank">FBI解密：巨型外星人 真的存在！存在于另外空间！</a></li>
 <li><a href="/comments/20230407/1869427.md" target="_blank">李燕铭：习家军接掌共青团 清华大学两博士一硕士任一直辖市两省团委书记 贺军科与习家有很深渊源替习看管团派 共青团中央三高官被冷藏 习近平黑脸要求“严于管团治团” 警告团派“不要幻想做接班人” 习连任后高层人事大洗牌（九五） 团派团灭内幕（二五） 习近平连任后大清洗（十一）</a></li>
 <li><a href="/comments/20230407/1869422.md" target="_blank">【有冇搞错】AI必然会脱离人类而独立</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230406/1868951.md" target="_blank">黄章晋：不是每一条江河都能流入海洋</a></li>
 <li><a href="/comments/20230406/1868937.md" target="_blank">岳山：中共发改委亲自出来辟谣，分赃不均引发内讧？</a></li>
 <li><a href="/comments/20230406/1868930.md" target="_blank">麦卡锡与蔡英文会面：美台纽带比以往任何时候更强劲</a></li>
-<li><a href="/comments/20230406/1868928.md" target="_blank">中共使馆电邮警告美议员毋见蔡英文，议员们不予理会</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
 <li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
 
 </ul>
 </div>
