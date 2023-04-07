@@ -10,24 +10,24 @@
 <li><a href="/comments/20230406/1868863.md">杨威：交通量严重萎缩 中国大市场褪色</a></li>
 <li><a href="/yule/20230406/1869082.md">炸了：男艺人被老板性侵20次，“有视频证据”</a></li>
 <li><a href="/ssgc/20230406/1868857.md">〖微博谈〗生活处处都能“微抵抗”</a></li>
-<li><a href="/cnnews/20230406/1868851.md">中国电科员工痛骂领导爆红网络，结局出乎意料</a></li>
 <li><a href="/topimagenews/20230406/1869072.md">人民币干掉美元要多久？谢金河预言5字结局…</a></li>
 <li><a href="/topimagenews/20230406/1868949.md">美国制裁中共芯片有多惨？专家1句话曝真实面目…</a></li>
 <li><a href="/topimagenews/20230406/1868994.md">蔡麦会！中共气炸了！外交部、国防部等四机构超级罕见同步发声</a></li>
 <li><a href="/health/20230406/1869031.md">柳叶刀：中国“饮食杀手”并非油和糖！致死率前三的吃法，尽快改</a></li>
 <li><a href="/topimagenews/20230406/1869123.md">毛毛的！张家界景区3男1女年轻人相约服毒跳崖 微博热议</a></li>
 <li><a href="/topimagenews/20230406/1868950.md">法国总统马克龙访华 惊见巩俐夫妇同机随行</a></li>
+<li><a href="/topimagenews/20230407/1869218.md">中共警花“不讲睡德，必须从重从快打击”</a></li>
 <li><a href="/cbnews/20230406/1868861.md">国航航班滑出后返回延误90分钟，原因“太离谱”</a></li>
 <li><a href="/cnnews/20230406/1868992.md">舔共踢到铁板？黄安终于崩溃了：有个屁用</a></li>
 <li><a href="/yule/20230406/1868959.md">1大咖明星竟是亲弟弟！张学友认了：查过族谱</a></li>
 <li><a href="/lifebaike/20230406/1869018.md">4个简单的“逆龄”方法，坚持2个月让身体年轻4.6岁！做到就是赚到</a></li>
 <li><a href="/comments/20230406/1868957.md">网文 ： 巨头惊人逃亡真相</a></li>
 <li><a href="/comments/20230406/1868955.md">北京中计！蔡英文麦卡锡欢乐会面，胡锡进惊呼美台双赢？中南海经典认怂：38天大炸鱼</a></li>
-<li><a href="/topimagenews/20230407/1869218.md">中共警花“不讲睡德，必须从重从快打击”</a></li>
 <li><a href="/health/20230406/1869017.md">每天这个时间排便的人，可能更长寿！5种食物是“粪便推土机”</a></li>
-<li><a href="/comments/20230406/1868848.md">文昭：张继科赌债丑闻失控，你应该知道的那些内幕；中央政法委灭火反浇油</a></li>
-<li><a href="/yule/20230406/1868854.md">真人版“樱桃小丸子”长大了 变身美女学霸25岁现况曝</a></li>
+<li><a href="/topimagenews/20230406/1869159.md">接到陌生来电千万别先开口 AI诈骗3秒就能偷走你的声音</a></li>
 <li><a href="/yule/20230406/1868905.md">你敢相信吗？路人镜头下的陈慧琳 50岁真实状态太夸张</a></li>
+<li><a href="/comments/20230406/1868937.md">岳山：中共发改委亲自出来辟谣，分赃不均引发内讧？</a></li>
+<li><a href="/topimagenews/20230406/1869042.md">中共“海巡06”靠近台湾拍到陆地？糗被抓包连福建平潭沿海都没离开过</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 <li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 <li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
 
 </ul>
 </div>
