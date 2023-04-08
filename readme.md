@@ -7,12 +7,12 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/comments/20230408/1869795.md">普京贴身安全高官叛逃后，爆出地堡生活惊人内幕；普京拒绝习近平马克龙劝和，克林顿忏悔</a></li>
 <li><a href="/topimagenews/20230408/1869881.md">东莞工资跌2倍 中国经济陷大萧条!专家忧:习可能藉对台动武来转移压力</a></li>
-<li><a href="/cbnews/20230408/1869635.md">法国人马上要走，美国人马上要来</a></li>
 <li><a href="/topimagenews/20230408/1869811.md">外贸形势严峻!逼的习近平亲自出马【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230408/1869635.md">法国人马上要走，美国人马上要来</a></li>
 <li><a href="/comments/20230408/1869777.md">“宁肯夜宿荒坟，不可夜居古庙”有多可怕</a></li>
 <li><a href="/sohnews/20230408/1869732.md">习近平和普京翻脸 粉红们情何以堪｜ #时事金扫描 #shorts</a></li>
-<li><a href="/topimagenews/20230408/1869856.md">半小时内没确认就算弃权！中国苏科大凌晨4点发录取通知…</a></li>
 <li><a href="/finance/20230408/1869774.md">突发黑天鹅700亿食品巨头闪崩 方便面不香了?</a></li>
+<li><a href="/topimagenews/20230408/1869856.md">半小时内没确认就算弃权！中国苏科大凌晨4点发录取通知…</a></li>
 <li><a href="/comments/20230408/1869686.md">文昭：中国最发达省份推「30万青年下乡」、引领全国！李强爆发，押宝海南；</a></li>
 <li><a href="/cnnews/20230408/1869872.md">华人绿卡出境被盘问2小时 网：中国籍 有权管你</a></li>
 <li><a href="/baitai/20230408/1869807.md">马克龙中国行失败？专家：恐大损国际形象</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230409/1869966.md" target="_blank">访北京会习近平 马克龙曝出“这落差”</a></li>
+<li><a href="/cbnews/20230409/1869965.md" target="_blank">少林武僧遭业余拳手爆打2分钟 网：马保国第二 十八般无一</a></li>
 <li><a href="/cbnews/20230409/1869949.md" target="_blank">美国思想领袖：何为美？华人选美大赛总经理：选手靠五德取胜；外貌非关键因素，透析女子美德误区；特殊训练，收获意想不到的成长，迎接人生高光时刻！| #新闻大家谈</a></li>
 <li><a href="/comments/20230408/1869913.md" target="_blank">下辈子还要在一起！妻子三次告知转生家庭，丈夫兑现三世姻缘之约！缘分天定，夫妻相伴转生，惊诧英国高官！你说的誓言，都会实现！｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20230408/1869871.md" target="_blank">男子睡觉误吞蓝牙耳机 胃里放音乐 当事人回应</a></li>
@@ -58,14 +60,14 @@
 <li><a href="/comments/20230407/1869351.md" target="_blank">你一生都在追求财富吗？</a></li>
 <li><a href="/cbnews/20230407/1869333.md" target="_blank">天亮时分：麦卡锡会见蔡英文，两党议员访台，中共这回蔫儿了；中俄渐行渐远，真情流露还是唱双簧？川普会被定罪，靠上诉翻案？ （政论天下第978集 20230406）天亮时分</a></li>
 <li><a href="/cbnews/20230407/1869312.md" target="_blank">新冠疫情扰全球！谭德塞：中国握有“起源关键讯息”要求立即公开数据</a></li>
-<li><a href="/comments/20230407/1869300.md" target="_blank">马克龙访华，能走出与美国不同的“第三条路”？</a></li>
-<li><a href="/cbnews/20230407/1869230.md" target="_blank">湖南张家界天门山景区多人跳崖，遗体已找到</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230409/1869964.md" target="_blank">震惊 中国电科陈某龙事件警情通报 和铁链女情况通报异曲同工</a></li>
+<li><a href="/topimagenews/20230409/1869963.md" target="_blank">中国美女分析师炮轰某券商首席！尺度大跌眼镜</a></li>
 <li><a href="/topimagenews/20230408/1869893.md" target="_blank">侵略导致入不敷出 俄罗斯第一季赤字290亿美元</a></li>
 <li><a href="/topimagenews/20230408/1869881.md" target="_blank">东莞工资跌2倍 中国经济陷大萧条!专家忧:习可能藉对台动武来转移压力</a></li>
 <li><a href="/topimagenews/20230408/1869856.md" target="_blank">半小时内没确认就算弃权！中国苏科大凌晨4点发录取通知…</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20230407/1869442.md" target="_blank">如何报复蔡麦会？习近平2个考量 面临艰难抉择</a></li>
 <li><a href="/topimagenews/20230407/1869429.md" target="_blank">中共若明日犯台 美、中将直接军事冲突? 美前议长 : 不排除俄罗斯军援</a></li>
 <li><a href="/topimagenews/20230407/1869385.md" target="_blank">中共跳脚祭制裁 网民笑：“集满十次有奖品吗”</a></li>
-<li><a href="/topimagenews/20230407/1869384.md" target="_blank">【微博精粹】二次上山下乡这么快就来了</a></li>
-<li><a href="/topimagenews/20230407/1869359.md" target="_blank">马英九返台，习近平提前一天”送大礼“【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230409/1869967.md" target="_blank">马云生逢末世 身不由己</a></li>
 <li><a href="/comments/20230409/1869947.md" target="_blank">报复与惩罚？北京围台军演打响了</a></li>
 <li><a href="/comments/20230408/1869938.md" target="_blank">《唐诗三百首》微电影300集（6）张继：枫桥夜泊</a></li>
 <li><a href="/comments/20230408/1869923.md" target="_blank">【秦鹏政经观察】独家：铁炼女案判决 当局包藏3大祸心 /马英九回台说梦话</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230408/1869736.md" target="_blank">李燕铭：奇虎360董事长周鸿祎突然90亿天价离婚 葵花药业实控人关彦斌离婚引发血案 每家上市公司董事长都有一颗离婚的心？离婚在A股愈演愈烈 2020年以来A股已发生11起离婚案 三大原因揭秘 李国庆和俞渝 徐翔与应莹：分不清的财产，离不了的婚…… 习江钱袋子争夺战（三六） 中共末日之经济危机（十六）</a></li>
 <li><a href="/comments/20230408/1869735.md" target="_blank">吸毒，为什么对人体伤害巨大？</a></li>
 <li><a href="/comments/20230408/1869723.md" target="_blank">杨宪宏：指鹿为马：“大九”把习近平搞成“现代赵高”了</a></li>
-<li><a href="/comments/20230408/1869722.md" target="_blank">颜纯钩:美中关系切香肠，美台关系上台阶</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 <li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
 <li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
 
 </ul>
 </div>
