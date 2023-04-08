@@ -8,26 +8,26 @@
 <li><a href="/comments/20230408/1869795.md">普京贴身安全高官叛逃后，爆出地堡生活惊人内幕；普京拒绝习近平马克龙劝和，克林顿忏悔</a></li>
 <li><a href="/topimagenews/20230408/1869811.md">外贸形势严峻!逼的习近平亲自出马【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230408/1869881.md">东莞工资跌2倍 中国经济陷大萧条!专家忧:习可能藉对台动武来转移压力</a></li>
-<li><a href="/baitai/20230408/1869807.md">马克龙中国行失败？专家：恐大损国际形象</a></li>
-<li><a href="/topimagenews/20230408/1869856.md">半小时内没确认就算弃权！中国苏科大凌晨4点发录取通知…</a></li>
-<li><a href="/comments/20230408/1869686.md">文昭：中国最发达省份推「30万青年下乡」、引领全国！李强爆发，押宝海南；</a></li>
 <li><a href="/cbnews/20230408/1869635.md">法国人马上要走，美国人马上要来</a></li>
 <li><a href="/comments/20230408/1869777.md">“宁肯夜宿荒坟，不可夜居古庙”有多可怕</a></li>
-<li><a href="/comments/20230408/1869802.md">【独家重磅】李燕铭：政治后台李克强失势 周鸿祎天价离婚变相套现安排后路 周鸿祎与李克强多重隐秘关系揭秘 奇虎360受中共政法公安系统及工信部扶植 加入防火长城监控国人搜集用户隐私 习近平李克强明争暗斗内幕（九一） 习江钱袋子争夺战（三七）</a></li>
-<li><a href="/baitai/20230408/1869697.md">马克龙成马戏法国出卖了盟国</a></li>
+<li><a href="/topimagenews/20230408/1869856.md">半小时内没确认就算弃权！中国苏科大凌晨4点发录取通知…</a></li>
+<li><a href="/comments/20230408/1869686.md">文昭：中国最发达省份推「30万青年下乡」、引领全国！李强爆发，押宝海南；</a></li>
+<li><a href="/baitai/20230408/1869807.md">马克龙中国行失败？专家：恐大损国际形象</a></li>
 <li><a href="/sohnews/20230408/1869732.md">习近平和普京翻脸 粉红们情何以堪｜ #时事金扫描 #shorts</a></li>
+<li><a href="/baitai/20230408/1869697.md">马克龙成马戏法国出卖了盟国</a></li>
+<li><a href="/comments/20230408/1869802.md">【独家重磅】李燕铭：政治后台李克强失势 周鸿祎天价离婚变相套现安排后路 周鸿祎与李克强多重隐秘关系揭秘 奇虎360受中共政法公安系统及工信部扶植 加入防火长城监控国人搜集用户隐私 习近平李克强明争暗斗内幕（九一） 习江钱袋子争夺战（三七）</a></li>
 <li><a href="/cnnews/20230408/1869872.md">华人绿卡出境被盘问2小时 网：中国籍 有权管你</a></li>
+<li><a href="/finance/20230408/1869774.md">突发黑天鹅700亿食品巨头闪崩 方便面不香了?</a></li>
 <li><a href="/topimagenews/20230408/1869784.md">大陆房市1大难题？外媒曝待售住宅严重过剩：三分之一卖不出去</a></li>
 <li><a href="/sohnews/20230408/1869806.md">习亲陪法国总统逛广州！谈及习仲勋，还送了一份“大礼”；本次访华祸兮福兮？小马回欧洲面临考题！铁链女现况如何？党媒报导另藏用意｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/finance/20230408/1869774.md">突发黑天鹅700亿食品巨头闪崩 方便面不香了?</a></li>
-<li><a href="/topimagenews/20230408/1869832.md">入侵乌克兰付出代价？俄罗斯卢布贬至1年最低点</a></li>
 <li><a href="/cbnews/20230408/1869763.md">〖兲朝浮世绘〗司马南自称司马迁是他老祖宗</a></li>
-<li><a href="/cbnews/20230408/1869792.md">被中共制裁！哈德逊研究所声明呛爆中共</a></li>
 <li><a href="/cbnews/20230408/1869662.md">北京：收拾不了美国，我还收拾不了你？</a></li>
 <li><a href="/lifebaike/20230408/1869840.md">原来手机里的蓝牙还有这些大用处，如果你还不会用，就真的浪费了</a></li>
-<li><a href="/topimagenews/20230408/1869825.md">中共核潜艇首次“全天候战略值班”! 军事专家列094潜艇4缺点叹: “五常垫底”</a></li>
+<li><a href="/topimagenews/20230408/1869832.md">入侵乌克兰付出代价？俄罗斯卢布贬至1年最低点</a></li>
 <li><a href="/comments/20230408/1869882.md">覆灭征兆：习近平成功实现政权太监化</a></li>
 <li><a href="/comments/20230408/1869778.md">人到晚年才意识到的20个残酷事实，希望早点知道</a></li>
+<li><a href="/cbnews/20230408/1869792.md">被中共制裁！哈德逊研究所声明呛爆中共</a></li>
+<li><a href="/topimagenews/20230408/1869825.md">中共核潜艇首次“全天候战略值班”! 军事专家列094潜艇4缺点叹: “五常垫底”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
 <li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 
 </ul>
 </div>
