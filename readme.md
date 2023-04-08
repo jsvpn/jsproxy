@@ -16,18 +16,18 @@
 <li><a href="/comments/20230407/1869499.md">路透：习近平慷慨拉拢马克龙反美</a></li>
 <li><a href="/topimagenews/20230407/1869444.md">张继科恐倾家荡产 违约赔偿或超6000万 豪宅豪车卖了也不够</a></li>
 <li><a href="/headline/20230407/1869461.md">马英九结束中国大陆漫游祭祖行 未见习与王但见了多位中共省委书记</a></li>
-<li><a href="/topimagenews/20230407/1869442.md">如何报复蔡麦会？习近平2个考量 面临艰难抉择</a></li>
 <li><a href="/sohnews/20230407/1869481.md">原来《西游记》意境这么高 指导人修行，真正看懂的人寥寥无几｜传统文化｜知识分享｜人生智慧语录 【晨曦晓屋】</a></li>
+<li><a href="/topimagenews/20230407/1869442.md">如何报复蔡麦会？习近平2个考量 面临艰难抉择</a></li>
 <li><a href="/sohnews/20230407/1869494.md">2010年，毛泽东前祕书李锐等500人联署，发表致全国人大常委会的公开信，但很快被全网封杀。公开信提出哪些要求？｜ #百年真相 #shorts</a></li>
 <li><a href="/headline/20230407/1869468.md">徐州铁链女：涉案嫌犯多人获判</a></li>
 <li><a href="/sohnews/20230407/1869439.md">巩俐也随马克龙到北京！习近平站等，隆重迎接“老马”一行；竟承认中俄友谊夸大，说不站俄国一边，要调停俄乌！俄委婉打脸；骇客发现中俄秘约；美最强潜艇受瞩，中共要“登船检查”台湾船只｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/topimagenews/20230407/1869536.md">美国财政部宣布“去中心化加密货币市场”为国家威胁</a></li>
 <li><a href="/sohnews/20230407/1869487.md">不如满清！中国网民暴怒😡给外国留学生每月5000元零花钱……底层青年却被逼集体跳崖！</a></li>
+<li><a href="/topimagenews/20230407/1869536.md">美国财政部宣布“去中心化加密货币市场”为国家威胁</a></li>
 <li><a href="/sohnews/20230407/1869470.md">🚨中国电科员工大骂领导“哈巴狗”, 火爆对战三级领导, 全胜收场! 6千月薪面试6次, 中国找工作太难了! 劳动法形同虚设, 如何破局996? 中国战争经济重现, 韭菜何去何从?【20230407】</a></li>
 <li><a href="/baitai/20230407/1869565.md">中国现怪病 重庆确诊首例野生型「淀粉人」</a></li>
 <li><a href="/cnnews/20230407/1869509.md">吓人数据 中国全国总工会不小心公布真相；触目惊心：江浙多地工业利润断崖式下降；</a></li>
 <li><a href="/baitai/20230407/1869501.md">徐州「铁链女」事件再传新消息 董志民获刑9年 网民追问几件事</a></li>
-<li><a href="/health/20230407/1869457.md">心理学家：走路姿势看透你的性格，看看你是哪一种</a></li>
+<li><a href="/headline/20230407/1869496.md">中国地方官员纷纷出国找投资</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 <li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 
 </ul>
 </div>
