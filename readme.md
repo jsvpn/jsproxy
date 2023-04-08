@@ -13,21 +13,21 @@
 <li><a href="/sohnews/20230407/1869481.md">原来《西游记》意境这么高 指导人修行，真正看懂的人寥寥无几｜传统文化｜知识分享｜人生智慧语录 【晨曦晓屋】</a></li>
 <li><a href="/sohnews/20230407/1869494.md">2010年，毛泽东前祕书李锐等500人联署，发表致全国人大常委会的公开信，但很快被全网封杀。公开信提出哪些要求？｜ #百年真相 #shorts</a></li>
 <li><a href="/comments/20230408/1869795.md">普京贴身安全高官叛逃后，爆出地堡生活惊人内幕；普京拒绝习近平马克龙劝和，克林顿忏悔</a></li>
-<li><a href="/headline/20230407/1869468.md">徐州铁链女：涉案嫌犯多人获判</a></li>
-<li><a href="/topimagenews/20230407/1869536.md">美国财政部宣布“去中心化加密货币市场”为国家威胁</a></li>
 <li><a href="/sohnews/20230407/1869487.md">不如满清！中国网民暴怒😡给外国留学生每月5000元零花钱……底层青年却被逼集体跳崖！</a></li>
+<li><a href="/topimagenews/20230407/1869536.md">美国财政部宣布“去中心化加密货币市场”为国家威胁</a></li>
 <li><a href="/topimagenews/20230408/1869811.md">外贸形势严峻!逼的习近平亲自出马【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230407/1869470.md">🚨中国电科员工大骂领导“哈巴狗”, 火爆对战三级领导, 全胜收场! 6千月薪面试6次, 中国找工作太难了! 劳动法形同虚设, 如何破局996? 中国战争经济重现, 韭菜何去何从?【20230407】</a></li>
-<li><a href="/baitai/20230407/1869565.md">中国现怪病 重庆确诊首例野生型「淀粉人」</a></li>
 <li><a href="/comments/20230408/1869777.md">“宁肯夜宿荒坟，不可夜居古庙”有多可怕</a></li>
-<li><a href="/cnnews/20230407/1869509.md">吓人数据 中国全国总工会不小心公布真相；触目惊心：江浙多地工业利润断崖式下降；</a></li>
 <li><a href="/baitai/20230408/1869807.md">马克龙中国行失败？专家：恐大损国际形象</a></li>
+<li><a href="/baitai/20230407/1869565.md">中国现怪病 重庆确诊首例野生型「淀粉人」</a></li>
 <li><a href="/topimagenews/20230408/1869784.md">大陆房市1大难题？外媒曝待售住宅严重过剩：三分之一卖不出去</a></li>
-<li><a href="/baitai/20230407/1869501.md">徐州「铁链女」事件再传新消息 董志民获刑9年 网民追问几件事</a></li>
-<li><a href="/headline/20230407/1869496.md">中国地方官员纷纷出国找投资</a></li>
-<li><a href="/sohnews/20230408/1869806.md">习亲陪法国总统逛广州！谈及习仲勋，还送了一份“大礼”；本次访华祸兮福兮？小马回欧洲面临考题！铁链女现况如何？党媒报导另藏用意｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/cbnews/20230408/1869792.md">被中共制裁！哈德逊研究所声明呛爆中共</a></li>
+<li><a href="/cnnews/20230407/1869509.md">吓人数据 中国全国总工会不小心公布真相；触目惊心：江浙多地工业利润断崖式下降；</a></li>
 <li><a href="/comments/20230408/1869802.md">【独家重磅】李燕铭：政治后台李克强失势 周鸿祎天价离婚变相套现安排后路 周鸿祎与李克强多重隐秘关系揭秘 奇虎360受中共政法公安系统及工信部扶植 加入防火长城监控国人搜集用户隐私 习近平李克强明争暗斗内幕（九一） 习江钱袋子争夺战（三七）</a></li>
+<li><a href="/sohnews/20230408/1869806.md">习亲陪法国总统逛广州！谈及习仲勋，还送了一份“大礼”；本次访华祸兮福兮？小马回欧洲面临考题！铁链女现况如何？党媒报导另藏用意｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/headline/20230407/1869496.md">中国地方官员纷纷出国找投资</a></li>
+<li><a href="/baitai/20230407/1869501.md">徐州「铁链女」事件再传新消息 董志民获刑9年 网民追问几件事</a></li>
+<li><a href="/finance/20230408/1869774.md">突发黑天鹅700亿食品巨头闪崩 方便面不香了?</a></li>
+<li><a href="/cbnews/20230408/1869792.md">被中共制裁！哈德逊研究所声明呛爆中共</a></li>
+<li><a href="/sohnews/20230407/1869506.md">尼古拉•特斯拉终身恪守的法则，临终前给人类留下意想不到的警示</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230408/1869856.md" target="_blank">半小时内没确认就算弃权！中国苏科大凌晨4点发录取通知…</a></li>
 <li><a href="/topimagenews/20230408/1869832.md" target="_blank">入侵乌克兰付出代价？俄罗斯卢布贬至1年最低点</a></li>
 <li><a href="/topimagenews/20230408/1869825.md" target="_blank">中共核潜艇首次“全天候战略值班”! 军事专家列094潜艇4缺点叹: “五常垫底”</a></li>
 <li><a href="/topimagenews/20230408/1869811.md" target="_blank">外贸形势严峻!逼的习近平亲自出马【阿波罗网报道】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230407/1869359.md" target="_blank">马英九返台，习近平提前一天”送大礼“【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230407/1869337.md" target="_blank">马英九小心思被发现？台媒大呼：马英九怕得罪中共 不敢&#8230;</a></li>
 <li><a href="/topimagenews/20230407/1869336.md" target="_blank">张家界4人相约跳崖 死者身份起底…</a></li>
-<li><a href="/topimagenews/20230407/1869311.md" target="_blank">搭地铁抢不到位！中国男订制沙发背进站随地就坐超爽</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 
 </ul>
 </div>
