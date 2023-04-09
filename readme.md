@@ -9,7 +9,6 @@
 <li><a href="/topimagenews/20230409/1870068.md">天门山集体跳崖者身份曝光后 比想象中还悲凉</a></li>
 <li><a href="/topimagenews/20230409/1869963.md">中国美女分析师炮轰某券商首席！尺度大跌眼镜</a></li>
 <li><a href="/yule/20230409/1869979.md">43岁女星承认离婚！老公被曝走私贩卖人口</a></li>
-<li><a href="/lifebaike/20230408/1869946.md">下一个 “杀猪盘” 在路上</a></li>
 <li><a href="/topimagenews/20230409/1869964.md">震惊 中国电科陈某龙事件警情通报 和铁链女情况通报异曲同工</a></li>
 <li><a href="/topimagenews/20230409/1870091.md">【微博精粹】“中共倒了以后社会怎么治理？”倒了你就知道了</a></li>
 <li><a href="/health/20230409/1869982.md">俗话说：“一屁千付药”，常放屁的人和不放屁的人，哪个更健康？</a></li>
@@ -17,15 +16,16 @@
 <li><a href="/cbnews/20230409/1869965.md">少林武僧遭业余拳手爆打2分钟 网：马保国第二 十八般无一</a></li>
 <li><a href="/cnnews/20230409/1870012.md">金正男包里有13.8万美元现金 六年后结局很意外</a></li>
 <li><a href="/cbnews/20230409/1869966.md">访北京会习近平 马克龙曝出“这落差”</a></li>
+<li><a href="/health/20230409/1870148.md">哈佛医学院列出必吃的10个超级食物！抗癌、降低胆固醇还能有效帮助瘦身</a></li>
 <li><a href="/lifebaike/20230409/1870088.md">【老照片】看到这份保证书 你就知道为啥马云被收拾的服服帖帖</a></li>
 <li><a href="/yule/20230409/1870107.md">张继科事件升级：景甜成最惨受害者，娱乐圈…</a></li>
-<li><a href="/health/20230409/1870148.md">哈佛医学院列出必吃的10个超级食物！抗癌、降低胆固醇还能有效帮助瘦身</a></li>
 <li><a href="/cnnews/20230409/1870078.md">成都洗碗阿姨每天搭千万宾利上下班 原因曝光</a></li>
 <li><a href="/funmedia/20230409/1869973.md">再老练的人，骗你的时候，也会有这8个明显信号</a></li>
-<li><a href="/yule/20230409/1870095.md">曝王石夫妇定居日本！疑花31万邀请前首相，田朴珺露肩被批不得体</a></li>
 <li><a href="/cnnews/20230409/1870119.md">苏小明离婚38年：她出国留学后再婚，前夫的…</a></li>
+<li><a href="/yule/20230409/1870095.md">曝王石夫妇定居日本！疑花31万邀请前首相，田朴珺露肩被批不得体</a></li>
 <li><a href="/ssgc/20230409/1870064.md">〖微博谈〗被铁链锁住了精神</a></li>
 <li><a href="/lifebaike/20230409/1869987.md">脑供血不足的人，身体或会有4个表现，提前了解，预防脑梗</a></li>
+<li><a href="/health/20230409/1870134.md">人到中年，不想血液浓稠，医生：每天坚持做好三件事可远离</a></li>
 <li><a href="/cnnews/20230409/1869988.md">战狼都好这口 又有中共大使关注情色帐号被抓包</a></li>
 <li><a href="/worldnews/20230409/1870123.md">Google Pay突免费发钱…有人嗨收3万元！官方霸气回应了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230409/1870212.md" target="_blank">美国思想领袖：能人下乡，央视治沙英雄哭惨！万亩林地乾涸 没人负责！| #新闻大家谈</a></li>
 <li><a href="/comments/20230409/1870205.md" target="_blank">【方菲时间】美国新一代红卫兵正在成形；父母，保守派该怎么做？川普2024怎么才能赢 ｜04/08/2023</a></li>
 <li><a href="/cbnews/20230409/1870086.md" target="_blank">剑拔弩张！“太原舰”越台海中线 台舰对峙挡下</a></li>
 <li><a href="/cbnews/20230409/1870075.md" target="_blank">北京再度环台军演 美媒点破“认怂”一面</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230407/1869538.md" target="_blank">美众议院外委会主席：美国军事挺台 立场不必模糊</a></li>
 <li><a href="/cbnews/20230407/1869537.md" target="_blank">蔡麦有“会前会”！私下见参议员内幕曝光</a></li>
 <li><a href="/comments/20230407/1869434.md" target="_blank">FBI解密：巨型外星人 真的存在！存在于另外空间！</a></li>
-<li><a href="/cbnews/20230407/1869419.md" target="_blank">以色列遭火箭弹空袭 以军随即炮击黎巴嫩</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
 <li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
 <li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 
 </ul>
 </div>
