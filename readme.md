@@ -8,14 +8,13 @@
 <li><a href="/topimagenews/20230409/1870068.md">天门山集体跳崖者身份曝光后 比想象中还悲凉</a></li>
 <li><a href="/topimagenews/20230409/1870091.md">【微博精粹】“中共倒了以后社会怎么治理？”倒了你就知道了</a></li>
 <li><a href="/topimagenews/20230409/1870105.md">杭州近1亿元“楼王”法拍 屋主涉89条人命</a></li>
-<li><a href="/cnnews/20230409/1870012.md">金正男包里有13.8万美元现金 六年后结局很意外</a></li>
 <li><a href="/lifebaike/20230409/1870088.md">【老照片】看到这份保证书 你就知道为啥马云被收拾的服服帖帖</a></li>
 <li><a href="/health/20230409/1870148.md">哈佛医学院列出必吃的10个超级食物！抗癌、降低胆固醇还能有效帮助瘦身</a></li>
 <li><a href="/yule/20230409/1870107.md">张继科事件升级：景甜成最惨受害者，娱乐圈…</a></li>
-<li><a href="/yule/20230409/1870164.md">极其难得的私密照片，其中有些画面你绝对没见过</a></li>
 <li><a href="/cnnews/20230409/1870078.md">成都洗碗阿姨每天搭千万宾利上下班 原因曝光</a></li>
-<li><a href="/comments/20230409/1870190.md">病毒起源新猜测？中国专家：武汉华南海鲜市场病毒应源自人类</a></li>
+<li><a href="/yule/20230409/1870164.md">极其难得的私密照片，其中有些画面你绝对没见过</a></li>
 <li><a href="/yule/20230409/1870095.md">曝王石夫妇定居日本！疑花31万邀请前首相，田朴珺露肩被批不得体</a></li>
+<li><a href="/comments/20230409/1870190.md">病毒起源新猜测？中国专家：武汉华南海鲜市场病毒应源自人类</a></li>
 <li><a href="/cnnews/20230409/1870119.md">苏小明离婚38年：她出国留学后再婚，前夫的…</a></li>
 <li><a href="/ssgc/20230409/1870171.md">中共被俄罗斯“打脸”的三件大事</a></li>
 <li><a href="/health/20230409/1870134.md">人到中年，不想血液浓稠，医生：每天坚持做好三件事可远离</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/sohnews/20230409/1870093.md">20230409直播：两个注定要上史书的悲剧；围台军演实弹炸鱼，习近平还是没忍住；马克龙的小聪明和习近平的痴心妄想；小泽表示不再接听习近平电话了？</a></li>
 <li><a href="/sohnews/20230409/1870072.md">【专题】中纪委也用酷刑！据传有五大“绝招”，看起来其貌不扬的“双规”一词，竟然是中共官员的恶梦，至少11人曾在双规期间死亡｜干净宇论（20230407）｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20230409/1870180.md">冯德莱恩从习近平処只讨来这一句话｜#时事金扫描 #shorts</a></li>
+<li><a href="/yule/20230409/1870100.md">陈奕迅深圳独自坐地铁似路人，乘客低头玩手机无人理，遭嘲已过气</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
 <li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 
 </ul>
 </div>
