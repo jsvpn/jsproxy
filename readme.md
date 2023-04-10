@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230410/1870287.md">大多数人还没察觉 中国式次货危机必然爆发</a></li>
 <li><a href="/cnnews/20230410/1870255.md">美女硕士翟欣欣：如何41天榨干一个男人</a></li>
-<li><a href="/topimagenews/20230410/1870238.md">巴赫穆特争夺战最高潮来临：血战火车站站前广场</a></li>
 <li><a href="/headline/20230410/1870236.md">中国科学家认为，从武汉华南海鲜市场检测到的新冠病毒很可能源自人类</a></li>
+<li><a href="/topimagenews/20230410/1870238.md">巴赫穆特争夺战最高潮来临：血战火车站站前广场</a></li>
 <li><a href="/topimagenews/20230410/1870242.md">在日本“躺平”的低收入华人，过着怎样的生活？</a></li>
 <li><a href="/ssgc/20230410/1870258.md">一藏族解放军失手杀死汉人军官后被捕 消息人士披露案情</a></li>
 <li><a href="/ssgc/20230410/1870347.md">〖微博谈〗一副令人厌恶的小丑模样</a></li>
-<li><a href="/sohnews/20230410/1870377.md">法国总统府要求美国媒体删文！马克龙见习近平后，回国专机上大讲争议言论；中共又环台军演，模拟攻台湾目标！“姓马”的扎堆去中国，马英九马克龙待遇大不同；马斯克访华，特斯拉宣布建厂大计｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230410/1870250.md">北极鲶鱼之后，又有官二代子弟炫富：拆迁款4300万</a></li>
+<li><a href="/sohnews/20230410/1870377.md">法国总统府要求美国媒体删文！马克龙见习近平后，回国专机上大讲争议言论；中共又环台军演，模拟攻台湾目标！“姓马”的扎堆去中国，马英九马克龙待遇大不同；马斯克访华，特斯拉宣布建厂大计｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230410/1870357.md">暗批习近平开倒车！南早前总编要造反？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230410/1870307.md">〖兲朝浮世绘〗两岸揭锅盖，不同点在哪里？</a></li>
 <li><a href="/cnnews/20230410/1870239.md">中共军演模拟要打“台北”跟“高雄”？网友却笑了：动画里随便你打</a></li>
 <li><a href="/topimagenews/20230410/1870254.md">张继科事件里，求景甜私密照的人，都是刽子手</a></li>
 <li><a href="/topimagenews/20230410/1870356.md">美近10年“最严重情报外泄”，曝泄密者竟来自…</a></li>
 <li><a href="/lifebaike/20230410/1870303.md">为何老人身上会有一股味？建议：50岁后远离3个习惯，老了或没味</a></li>
-<li><a href="/topimagenews/20230410/1870402.md">机密文件外泄，美对俄情报部门渗透到什么程度？</a></li>
 <li><a href="/cnnews/20230410/1870378.md">又辟谣了！照片疯传：大巴挂“上海市委及家属旅游团”条幅</a></li>
+<li><a href="/topimagenews/20230410/1870402.md">机密文件外泄，美对俄情报部门渗透到什么程度？</a></li>
+<li><a href="/baitai/20230410/1870417.md">知乎问答｜2023就业形势看起来已十分严峻了，2024年的情况会有所好转吗？</a></li>
 <li><a href="/cnnews/20230410/1870304.md">一群中国大妈淡定打牌，仔细一看傻眼了…</a></li>
-<li><a href="/baitai/20230410/1870244.md">大陆民声: 共产党从没拿咱中国人当过人啊</a></li>
-<li><a href="/yule/20230410/1870262.md">武打男星张晋爆意外送医 双腿出事插鼻导管急开刀</a></li>
-<li><a href="/cnnews/20230410/1870276.md">中国经济出现大问题 上山下乡真的来了</a></li>
+<li><a href="/baitai/20230410/1870426.md">一瓶小小的维生素B12，或能“改善”5种病症</a></li>
 <li><a href="/sohnews/20230410/1870187.md">马克龙回程飞机上大谈“放弃台湾” “欧洲自治” “美元霸权”，老习听得乐开了花</a></li>
-<li><a href="/cnnews/20230410/1870235.md">巴赫穆特俄军进展的真相：毁灭性的温压弹齐射</a></li>
+<li><a href="/baitai/20230410/1870244.md">大陆民声: 共产党从没拿咱中国人当过人啊</a></li>
+<li><a href="/cnnews/20230410/1870276.md">中国经济出现大问题 上山下乡真的来了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230410/1870547.md" target="_blank">时事大家谈：习近平发起思想教育运动，文革遗风扑面来？锁链女事件官方结案,为何民间舆论不买账？</a></li>
 <li><a href="/comments/20230410/1870532.md" target="_blank">【练乙铮评论】双重皇民化：香港人身份认同再思考 （海外香港社群论丛之四）</a></li>
 <li><a href="/comments/20230410/1870512.md" target="_blank">《唐诗三百首》微电影300集（7）王昌龄： 芙蓉楼送辛渐</a></li>
 <li><a href="/comments/20230410/1870511.md" target="_blank">【春晖学堂】猜猜我是什么字？（5）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230410/1870312.md" target="_blank">陈嘉宏：共产党成功地用马英九牵制住国民党</a></li>
 <li><a href="/comments/20230410/1870302.md" target="_blank">刘宸均：美国急了：不要让中国有可乘之机</a></li>
 <li><a href="/comments/20230410/1870290.md" target="_blank">请别拿陈冠希说张继科，他给陈冠希提鞋都不配</a></li>
-<li><a href="/comments/20230410/1870283.md" target="_blank">一千年以前的惊世预言！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
 
 </ul>
 </div>
