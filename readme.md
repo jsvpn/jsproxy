@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/comments/20230409/1870190.md">病毒起源新猜测？中国专家：武汉华南海鲜市场病毒应源自人类</a></li>
-<li><a href="/ssgc/20230409/1870171.md">中共被俄罗斯“打脸”的三件大事</a></li>
 <li><a href="/topimagenews/20230410/1870287.md">大多数人还没察觉 中国式次货危机必然爆发</a></li>
 <li><a href="/cnnews/20230410/1870255.md">美女硕士翟欣欣：如何41天榨干一个男人</a></li>
 <li><a href="/topimagenews/20230410/1870238.md">巴赫穆特争夺战最高潮来临：血战火车站站前广场</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/ssgc/20230410/1870258.md">一藏族解放军失手杀死汉人军官后被捕 消息人士披露案情</a></li>
 <li><a href="/cbnews/20230410/1870307.md">〖兲朝浮世绘〗两岸揭锅盖，不同点在哪里？</a></li>
 <li><a href="/topimagenews/20230410/1870250.md">北极鲶鱼之后，又有官二代子弟炫富：拆迁款4300万</a></li>
+<li><a href="/sohnews/20230410/1870377.md">法国总统府要求美国媒体删文！马克龙见习近平后，回国专机上大讲争议言论；中共又环台军演，模拟攻台湾目标！“姓马”的扎堆去中国，马英九马克龙待遇大不同；马斯克访华，特斯拉宣布建厂大计｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230410/1870356.md">美近10年“最严重情报外泄”，曝泄密者竟来自…</a></li>
 <li><a href="/lifebaike/20230410/1870303.md">为何老人身上会有一股味？建议：50岁后远离3个习惯，老了或没味</a></li>
 <li><a href="/cnnews/20230410/1870239.md">中共军演模拟要打“台北”跟“高雄”？网友却笑了：动画里随便你打</a></li>
 <li><a href="/topimagenews/20230410/1870254.md">张继科事件里，求景甜私密照的人，都是刽子手</a></li>
 <li><a href="/sohnews/20230409/1870180.md">冯德莱恩从习近平処只讨来这一句话｜#时事金扫描 #shorts</a></li>
 <li><a href="/cnnews/20230410/1870304.md">一群中国大妈淡定打牌，仔细一看傻眼了…</a></li>
-<li><a href="/sohnews/20230410/1870377.md">法国总统府要求美国媒体删文！马克龙见习近平后，回国专机上大讲争议言论；中共又环台军演，模拟攻台湾目标！“姓马”的扎堆去中国，马英九马克龙待遇大不同；马斯克访华，特斯拉宣布建厂大计｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/baitai/20230410/1870244.md">大陆民声: 共产党从没拿咱中国人当过人啊</a></li>
 <li><a href="/yule/20230410/1870262.md">武打男星张晋爆意外送医 双腿出事插鼻导管急开刀</a></li>
+<li><a href="/baitai/20230410/1870244.md">大陆民声: 共产党从没拿咱中国人当过人啊</a></li>
 <li><a href="/cnnews/20230410/1870235.md">巴赫穆特俄军进展的真相：毁灭性的温压弹齐射</a></li>
 <li><a href="/sohnews/20230410/1870187.md">马克龙回程飞机上大谈“放弃台湾” “欧洲自治” “美元霸权”，老习听得乐开了花</a></li>
+<li><a href="/comments/20230410/1870343.md">【微博精粹】第二次被制裁 看她笑的多开心</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230410/1870459.md" target="_blank">马克龙称欧洲不卷入台海 全球网友创新词酸舔共</a></li>
+<li><a href="/comments/20230410/1870453.md" target="_blank">我们配的上任何苦难，因为铁链女</a></li>
 <li><a href="/comments/20230410/1870444.md" target="_blank">曾呛习近平下台 中国维权律师许志永、丁家喜各遭判逾10年徒刑</a></li>
 <li><a href="/comments/20230410/1870443.md" target="_blank">日本公民接连在中国被捕 外媒：双方关系越发紧张</a></li>
 <li><a href="/comments/20230410/1870442.md" target="_blank">中国19岁女抽脂3天后身亡 主治医师仅判10个月惹议</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230409/1870054.md" target="_blank">【杰森视角】她看见了我的前世，并给我带回一句影响我20年的警言！法国女外交官与一个比她小20岁刚走出森林的青年一见钟情！瘾好能够展现出人形？忠犬在一个恐怖的风雨之夜冲出家门 原因多年后才被揭秘！</a></li>
 <li><a href="/comments/20230409/1870051.md" target="_blank">文昭：最後和中国脱钩的跨国公司，会是谁？</a></li>
 <li><a href="/comments/20230409/1870035.md" target="_blank">李濠仲:“台湾护照”进不去联合国大楼纪念品店的荒谬</a></li>
-<li><a href="/comments/20230409/1870016.md" target="_blank">陆客：中共的虚伪政治</a></li>
-<li><a href="/comments/20230409/1870015.md" target="_blank">掸封尘：清明国家公祭黄帝 因何被民间高人指摘</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
 <li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 
 </ul>
 </div>
