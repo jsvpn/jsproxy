@@ -13,21 +13,21 @@
 <li><a href="/ssgc/20230410/1870258.md">一藏族解放军失手杀死汉人军官后被捕 消息人士披露案情</a></li>
 <li><a href="/ssgc/20230410/1870347.md">〖微博谈〗一副令人厌恶的小丑模样</a></li>
 <li><a href="/sohnews/20230410/1870377.md">法国总统府要求美国媒体删文！马克龙见习近平后，回国专机上大讲争议言论；中共又环台军演，模拟攻台湾目标！“姓马”的扎堆去中国，马英九马克龙待遇大不同；马斯克访华，特斯拉宣布建厂大计｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/topimagenews/20230410/1870357.md">暗批习近平开倒车！南早前总编要造反？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230410/1870250.md">北极鲶鱼之后，又有官二代子弟炫富：拆迁款4300万</a></li>
+<li><a href="/topimagenews/20230410/1870357.md">暗批习近平开倒车！南早前总编要造反？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230410/1870307.md">〖兲朝浮世绘〗两岸揭锅盖，不同点在哪里？</a></li>
 <li><a href="/cnnews/20230410/1870239.md">中共军演模拟要打“台北”跟“高雄”？网友却笑了：动画里随便你打</a></li>
 <li><a href="/topimagenews/20230410/1870254.md">张继科事件里，求景甜私密照的人，都是刽子手</a></li>
 <li><a href="/topimagenews/20230410/1870356.md">美近10年“最严重情报外泄”，曝泄密者竟来自…</a></li>
 <li><a href="/lifebaike/20230410/1870303.md">为何老人身上会有一股味？建议：50岁后远离3个习惯，老了或没味</a></li>
-<li><a href="/cnnews/20230410/1870378.md">又辟谣了！照片疯传：大巴挂“上海市委及家属旅游团”条幅</a></li>
 <li><a href="/topimagenews/20230410/1870402.md">机密文件外泄，美对俄情报部门渗透到什么程度？</a></li>
+<li><a href="/cnnews/20230410/1870378.md">又辟谣了！照片疯传：大巴挂“上海市委及家属旅游团”条幅</a></li>
 <li><a href="/cnnews/20230410/1870304.md">一群中国大妈淡定打牌，仔细一看傻眼了…</a></li>
 <li><a href="/baitai/20230410/1870244.md">大陆民声: 共产党从没拿咱中国人当过人啊</a></li>
 <li><a href="/yule/20230410/1870262.md">武打男星张晋爆意外送医 双腿出事插鼻导管急开刀</a></li>
-<li><a href="/cnnews/20230410/1870235.md">巴赫穆特俄军进展的真相：毁灭性的温压弹齐射</a></li>
 <li><a href="/cnnews/20230410/1870276.md">中国经济出现大问题 上山下乡真的来了</a></li>
 <li><a href="/sohnews/20230410/1870187.md">马克龙回程飞机上大谈“放弃台湾” “欧洲自治” “美元霸权”，老习听得乐开了花</a></li>
+<li><a href="/cnnews/20230410/1870235.md">巴赫穆特俄军进展的真相：毁灭性的温压弹齐射</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230410/1870532.md" target="_blank">【练乙铮评论】双重皇民化：香港人身份认同再思考 （海外香港社群论丛之四）</a></li>
 <li><a href="/comments/20230410/1870512.md" target="_blank">《唐诗三百首》微电影300集（7）王昌龄： 芙蓉楼送辛渐</a></li>
 <li><a href="/comments/20230410/1870511.md" target="_blank">【春晖学堂】猜猜我是什么字？（5）</a></li>
 <li><a href="/comments/20230410/1870510.md" target="_blank">为什么有的孩子特别容易生病？ 中医列6大体质一次看</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230410/1870302.md" target="_blank">刘宸均：美国急了：不要让中国有可乘之机</a></li>
 <li><a href="/comments/20230410/1870290.md" target="_blank">请别拿陈冠希说张继科，他给陈冠希提鞋都不配</a></li>
 <li><a href="/comments/20230410/1870283.md" target="_blank">一千年以前的惊世预言！</a></li>
-<li><a href="/comments/20230410/1870233.md" target="_blank">缅甸夫妇青梅竹马，还一起转世！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 <li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 
 </ul>
 </div>
