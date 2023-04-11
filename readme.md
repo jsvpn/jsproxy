@@ -18,16 +18,16 @@
 <li><a href="/topimagenews/20230410/1870402.md">机密文件外泄，美对俄情报部门渗透到什么程度？</a></li>
 <li><a href="/comments/20230410/1870462.md">又有战狼变色狼！ 中共驻欧盟大使傅聪被抓包追踪裸女色情帐号</a></li>
 <li><a href="/finance/20230410/1870419.md">底薪上万招到大批“优秀”员工，几月后傻眼…</a></li>
-<li><a href="/cnnews/20230410/1870304.md">一群中国大妈淡定打牌，仔细一看傻眼了…</a></li>
 <li><a href="/topimagenews/20230411/1870605.md">中共气炸：非法闯入</a></li>
+<li><a href="/cnnews/20230411/1870610.md">振聋发聩好文！天门山跳崖案，一篇被404的文章</a></li>
+<li><a href="/cnnews/20230410/1870304.md">一群中国大妈淡定打牌，仔细一看傻眼了…</a></li>
 <li><a href="/topimagenews/20230410/1870497.md">美元霸权受挑战 人民币却不是大赢家 关键差在这里</a></li>
 <li><a href="/sohnews/20230410/1870187.md">马克龙回程飞机上大谈“放弃台湾” “欧洲自治” “美元霸权”，老习听得乐开了花</a></li>
-<li><a href="/cnnews/20230411/1870610.md">振聋发聩好文！天门山跳崖案，一篇被404的文章</a></li>
 <li><a href="/comments/20230410/1870343.md">【微博精粹】第二次被制裁 看她笑的多开心</a></li>
 <li><a href="/topimagenews/20230410/1870375.md">中国大妈大街上打牌：小孩塞板凳下</a></li>
-<li><a href="/lifebaike/20230410/1870406.md">无论你和上司关系多好，都不要聊这3个话题，容易招惹是非</a></li>
+<li><a href="/topimagenews/20230411/1870631.md">金正恩不敢让北京知道的事 这些人偷渡中国的背后？</a></li>
 <li><a href="/cbnews/20230410/1870390.md">精准锁定！日本防卫省：解放军“山东号”于宫古岛南方起降舰载机</a></li>
-<li><a href="/topimagenews/20230410/1870400.md">台湾不是中共唯一目标？美媒揭共军模拟攻击“外国军事目标”</a></li>
+<li><a href="/lifebaike/20230410/1870406.md">无论你和上司关系多好，都不要聊这3个话题，容易招惹是非</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230411/1870675.md" target="_blank">天亮时分：马克龙说了什么被骂成了筛子？蓬佩奥点了中共死穴；班农怼上马斯克，经济危机会导致中共倒台吗？（政论天下第982集 20230410）</a></li>
 <li><a href="/comments/20230411/1870660.md" target="_blank">不追随美国保护台湾？马克龙讲话引发轩然大波；中共分化欧美目的达到？｜横河 方菲｜新闻烽火台04/10</a></li>
 <li><a href="/cbnews/20230411/1870606.md" target="_blank">做人不要太马克宏？亲中言论引爆“Macroning之乱”</a></li>
 <li><a href="/comments/20230410/1870561.md" target="_blank">清朝顺治年间，一对夫妇 做三世夫妻！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230408/1869913.md" target="_blank">下辈子还要在一起！妻子三次告知转生家庭，丈夫兑现三世姻缘之约！缘分天定，夫妻相伴转生，惊诧英国高官！你说的誓言，都会实现！｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20230408/1869871.md" target="_blank">男子睡觉误吞蓝牙耳机 胃里放音乐 当事人回应</a></li>
 <li><a href="/cbnews/20230408/1869809.md" target="_blank">蔡麦会后中共宣称环台军演 台国防部强硬回应</a></li>
-<li><a href="/cbnews/20230408/1869796.md" target="_blank">研究：美中为台湾问题动用核武 恐致260万人亡</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230411/1870684.md" target="_blank">吴崑玉：和平只在飞弹射程之内──中共对台军演的虚与实</a></li>
+<li><a href="/comments/20230411/1870681.md" target="_blank">新疆集中营最赤裸的真相：习无处不在</a></li>
 <li><a href="/comments/20230411/1870669.md" target="_blank">【独家重磅】李燕铭：江泽慧马仔退休四年被查 习近平紧逼赵乐际 秦岭别墅案风云再起 陕西再有高官涉案落马 江泽民死江家族被清洗（七） 习近平连任后大清洗（十二） 陕西帮覆灭记（二） 围剿赵乐际（十三）</a></li>
 <li><a href="/comments/20230411/1870660.md" target="_blank">不追随美国保护台湾？马克龙讲话引发轩然大波；中共分化欧美目的达到？｜横河 方菲｜新闻烽火台04/10</a></li>
 <li><a href="/comments/20230411/1870654.md" target="_blank">文昭：张家界天门山跳崖事件，微信和励志假新闻该当何罪？为何我们跳不脱贫穷？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230410/1870443.md" target="_blank">日本公民接连在中国被捕 外媒：双方关系越发紧张</a></li>
 <li><a href="/comments/20230410/1870442.md" target="_blank">中国19岁女抽脂3天后身亡 主治医师仅判10个月惹议</a></li>
 <li><a href="/comments/20230410/1870439.md" target="_blank">“醒醒，你跟张继科不在“同一个战壕里”</a></li>
-<li><a href="/comments/20230410/1870352.md" target="_blank">乌军大反击分析与预测：时间、方向、获胜概率</a></li>
-<li><a href="/comments/20230410/1870351.md" target="_blank">吴芳铭：沉睡存户觉醒 美银行资金大逃亡</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
 
 </ul>
 </div>
