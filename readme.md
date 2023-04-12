@@ -11,11 +11,11 @@
 <li><a href="/cnnews/20230411/1870898.md">赚很大！中国大陆6大隐性暴利行业</a></li>
 <li><a href="/topimagenews/20230412/1871004.md">潘石屹夫妇最新动作：宁可损失300亿也要润？</a></li>
 <li><a href="/topimagenews/20230411/1870894.md">马克宏挨轰“出卖”台湾 法驻美外交官狂发文反击了</a></li>
-<li><a href="/topimagenews/20230412/1871157.md">上海人口大逃亡 豪宅小区里的一类人不见了</a></li>
 <li><a href="/cnnews/20230412/1871028.md">料已接掌“这项要职” 他陪同习近平广东考察</a></li>
+<li><a href="/topimagenews/20230412/1871157.md">上海人口大逃亡 豪宅小区里的一类人不见了</a></li>
 <li><a href="/topimagenews/20230412/1871066.md">热传文：德国参展发现 中国制造边缘化了</a></li>
-<li><a href="/topimagenews/20230412/1870997.md">新能源突发利空！巴菲特大撤离</a></li>
 <li><a href="/comments/20230412/1871071.md">袁斌：胡春华的恐惧和屈辱</a></li>
+<li><a href="/topimagenews/20230412/1870997.md">新能源突发利空！巴菲特大撤离</a></li>
 <li><a href="/baitai/20230412/1871008.md">分析揭红朝新乱象：历史证明是亡国之兆</a></li>
 <li><a href="/cbnews/20230412/1871180.md">〖兲朝浮世绘〗马克龙退钱！</a></li>
 <li><a href="/baitai/20230412/1870979.md">继张家界4人跳涯后 爆出天津学生5日7连跳 12岁男孩遗书令人心碎</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/ssgc/20230412/1871112.md">〖微博谈〗我在必不成功来的有点快啊</a></li>
 <li><a href="/comments/20230411/1870896.md">每桌1500元人民币以上宴席 中国要开始监管 网友调侃“支招”应对</a></li>
 <li><a href="/topimagenews/20230412/1871003.md">终于4月4日，惊曝Twitter公司已不存在</a></li>
+<li><a href="/cnnews/20230412/1871133.md">敏感到热搜秒删 百年未有之变局来了…</a></li>
 <li><a href="/cbnews/20230411/1870967.md">美国思想领袖：盛雪透露与彭丹一起拍片经历：她的心机深重 每一步都有非常精心的设计 中共利用她下一步还有好戏！ #新闻大家谈</a></li>
 <li><a href="/ssgc/20230411/1870953.md">传天津多名中小学生自杀 全市紧急召开家长会</a></li>
-<li><a href="/cnnews/20230412/1871133.md">敏感到热搜秒删 百年未有之变局来了…</a></li>
+<li><a href="/cnnews/20230412/1871199.md">李强“大秘”康旭平进京升官…</a></li>
 <li><a href="/topimagenews/20230412/1871167.md">马克宏1句话引爆欧洲怒火！驻法代表惊呆：全法国都在讨论台湾</a></li>
-<li><a href="/cnnews/20230412/1871026.md">一座又一座城市，被比特币冻结</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 <li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
 
 </ul>
 </div>
