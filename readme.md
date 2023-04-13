@@ -20,11 +20,11 @@
 <li><a href="/topimagenews/20230413/1871614.md">巴菲特用ChatGPT做1件事 股神被吓坏</a></li>
 <li><a href="/topimagenews/20230413/1871686.md">习近平在担心什么？为何这事出现明显不同？【阿波罗网报道】</a></li>
 <li><a href="/health/20230413/1871667.md">白头发越长越多，你以为是老了，其实是缺这3种营养</a></li>
-<li><a href="/cbnews/20230413/1871625.md">美国思想领袖：天安门城墙惊现反共标语？ 一张图片热传；恶法当道！ 铁链女案 VS 许志永丁家喜案；中共试图左右马克龙言论？| #新闻大家谈</a></li>
-<li><a href="/topimagenews/20230413/1871690.md">中共攻台付代价！印媒:美售台400枚鱼叉导弹 可摧毁50％中共军舰</a></li>
-<li><a href="/ccpdope/20230413/1871487.md">胡春华的恐惧和屈辱</a></li>
-<li><a href="/sohnews/20230413/1871601.md">刘亚洲被打成“反动派”：反党反习反社会主义！习近平当局或在全军清洗刘亚洲“流毒”，他的旧交可能人人自危，干休所老干部家庭，面临“抄家”登记；毛左发檄文批刘亚洲，大有文革重来之势｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230413/1871726.md">不惜动核武！美参议员警告中共若敢对台动武 美将采这3措施封锁</a></li>
+<li><a href="/cbnews/20230413/1871625.md">美国思想领袖：天安门城墙惊现反共标语？ 一张图片热传；恶法当道！ 铁链女案 VS 许志永丁家喜案；中共试图左右马克龙言论？| #新闻大家谈</a></li>
+<li><a href="/ccpdope/20230413/1871487.md">胡春华的恐惧和屈辱</a></li>
+<li><a href="/topimagenews/20230413/1871690.md">中共攻台付代价！印媒:美售台400枚鱼叉导弹 可摧毁50％中共军舰</a></li>
+<li><a href="/sohnews/20230413/1871601.md">刘亚洲被打成“反动派”：反党反习反社会主义！习近平当局或在全军清洗刘亚洲“流毒”，他的旧交可能人人自危，干休所老干部家庭，面临“抄家”登记；毛左发檄文批刘亚洲，大有文革重来之势｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ssgc/20230413/1871520.md">〖微博谈〗中国不会变成朝鲜吗？</a></li>
 <li><a href="/topimagenews/20230413/1871493.md">“我27岁，待过的公司全倒闭，买过的房全烂尾”</a></li>
 <li><a href="/sohnews/20230413/1871608.md">20230413直播：武汉退休人员大闹一场好像管用了；贵州扛不住了，中央政府也没有余粮啊；中情局长：习近平被我们吓住了，中共转向以最低成本夺取台湾。（20230413 第1147期）</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230414/1871844.md" target="_blank">五角大厦密件爆：传普亭接受化疗 俄将领密谋故意输掉对乌战争</a></li>
 <li><a href="/topimagenews/20230413/1871807.md" target="_blank">美媒：中共试图重塑民众的疫情记忆 报告消失、企业噤声</a></li>
 <li><a href="/topimagenews/20230413/1871775.md" target="_blank">陆代工霸主地位危险了？印度制iPhone时代来了 进展速度惊人</a></li>
 <li><a href="/topimagenews/20230413/1871726.md" target="_blank">不惜动核武！美参议员警告中共若敢对台动武 美将采这3措施封锁</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230412/1871287.md" target="_blank">路透：北京计划对台设“禁航区” 台国防部这样说</a></li>
 <li><a href="/topimagenews/20230412/1871252.md" target="_blank">乌克兰警告再袭黑海舰队 呼吁80万俄人离开克里米亚</a></li>
 <li><a href="/topimagenews/20230412/1871245.md" target="_blank">人民币粉碎美元霸权？知名富豪爆真相：有人被骗了</a></li>
-<li><a href="/topimagenews/20230412/1871234.md" target="_blank">习近平访广东 宣示坚定不移深化改革开放？【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
 
 </ul>
 </div>
