@@ -14,13 +14,12 @@
 <li><a href="/lifebaike/20230413/1871466.md">开膛破肚看裸体 军代表羞辱糟蹋饰七仙女演员</a></li>
 <li><a href="/ssgc/20230413/1871449.md">贵州：我扛不住了</a></li>
 <li><a href="/topimagenews/20230413/1871417.md">马克龙捅了马蜂窝，如同万箭穿心</a></li>
-<li><a href="/topimagenews/20230412/1871234.md">习近平访广东 宣示坚定不移深化改革开放？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230412/1871336.md">川普赞习近平“出色的男人”跑遍好莱坞找不到人能演他</a></li>
 <li><a href="/cnnews/20230413/1871426.md">移居新加坡的中国富豪没有在当地投资，却狂买…</a></li>
+<li><a href="/topimagenews/20230412/1871336.md">川普赞习近平“出色的男人”跑遍好莱坞找不到人能演他</a></li>
 <li><a href="/cbnews/20230413/1871425.md">习近平视察南部军区，下达这一军事指令</a></li>
 <li><a href="/topimagenews/20230413/1871480.md">习近平风中站等马克龙，俄中互扇耳光</a></li>
-<li><a href="/cbnews/20230413/1871428.md">美国思想领袖：中共内部分崩离析，习近平强推「习选」统一意识形态，却没实质内容；习近平思想，未成体系，变新一轮洗脑烂尾工程？| #新闻大家谈</a></li>
 <li><a href="/ccpdope/20230413/1871487.md">胡春华的恐惧和屈辱</a></li>
+<li><a href="/cbnews/20230413/1871428.md">美国思想领袖：中共内部分崩离析，习近平强推「习选」统一意识形态，却没实质内容；习近平思想，未成体系，变新一轮洗脑烂尾工程？| #新闻大家谈</a></li>
 <li><a href="/headline/20230413/1871528.md">习近平真的要对太子党刘亚洲下手？</a></li>
 <li><a href="/baitai/20230413/1871424.md">【赵国檄文】贺兰峰：刘亚洲要为谁“殉道”？</a></li>
 <li><a href="/cnnews/20230413/1871460.md">初进邓府丑态连连 太子党至今仍津津乐道江</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20230413/1871493.md">“我27岁，待过的公司全倒闭，买过的房全烂尾”</a></li>
 <li><a href="/topimagenews/20230413/1871614.md">巴菲特用ChatGPT做1件事 股神被吓坏</a></li>
 <li><a href="/sohnews/20230412/1871260.md">马克龙访华后对台湾、乌克兰的态度发生转变，他接受媒体时的讲话在国际社会引起轩然大波。习近平是如何搞定马克龙的？美欧联盟会分裂吗？【李军访谈20230412第145期】</a></li>
+<li><a href="/cbnews/20230413/1871617.md">〖兲朝浮世绘〗中共这么自信还不快把防火墙给拆了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230413/1871686.md" target="_blank">习近平在担心什么？为何这事出现明显不同？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230413/1871679.md" target="_blank">中共180度大转弯？禁航管制突然缩至27分钟…</a></li>
 <li><a href="/topimagenews/20230413/1871678.md" target="_blank">城管一举动引发众怒，数千网友“祝城管清明节快乐”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230413/1871664.md" target="_blank">儿被拐最凶果敢老街毒打 陆农村父母隔边境铁网泪哭干：就5公里过不去</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230412/1871173.md" target="_blank">俄罗斯欲重启唯一航母急征人 连中媒都酸…</a></li>
 <li><a href="/topimagenews/20230412/1871167.md" target="_blank">马克宏1句话引爆欧洲怒火！驻法代表惊呆：全法国都在讨论台湾</a></li>
 <li><a href="/topimagenews/20230412/1871158.md" target="_blank">20岁俄罗斯新兵拒上乌克兰战场自裁…</a></li>
-<li><a href="/topimagenews/20230412/1871157.md" target="_blank">上海人口大逃亡 豪宅小区里的一类人不见了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
 <li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
 
 </ul>
 </div>
