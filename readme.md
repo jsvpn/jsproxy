@@ -8,8 +8,8 @@
 <li><a href="/topimagenews/20230412/1871114.md">浙商大佬意外死亡 让中国企业家集体睡不着了</a></li>
 <li><a href="/topimagenews/20230412/1871157.md">上海人口大逃亡 豪宅小区里的一类人不见了</a></li>
 <li><a href="/topimagenews/20230412/1871201.md">中共被美国打到痛处，不顾脸面 开始耍赖【阿波罗网报道】</a></li>
-<li><a href="/comments/20230412/1871304.md">广州海王女教师样貌曝光！同时交往48男家长</a></li>
 <li><a href="/cbnews/20230412/1871180.md">〖兲朝浮世绘〗马克龙退钱！</a></li>
+<li><a href="/comments/20230412/1871304.md">广州海王女教师样貌曝光！同时交往48男家长</a></li>
 <li><a href="/topimagenews/20230412/1871245.md">人民币粉碎美元霸权？知名富豪爆真相：有人被骗了</a></li>
 <li><a href="/cnnews/20230412/1871249.md">新iPhone曝光 被赞手机设计的巅峰</a></li>
 <li><a href="/ssgc/20230412/1871112.md">〖微博谈〗我在必不成功来的有点快啊</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/health/20230412/1871230.md">男性“器官衰老”顺序表已曝光，不妨自查下，看看你进行到哪步了</a></li>
 <li><a href="/topimagenews/20230412/1871234.md">习近平访广东 宣示坚定不移深化改革开放？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230412/1871167.md">马克宏1句话引爆欧洲怒火！驻法代表惊呆：全法国都在讨论台湾</a></li>
+<li><a href="/topimagenews/20230413/1871417.md">马克龙捅了马蜂窝，如同万箭穿心</a></li>
 <li><a href="/topimagenews/20230412/1871200.md">“他一个人成了神明，亿万人就成了政治愚民”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230412/1871336.md">川普赞习近平“出色的男人”跑遍好莱坞找不到人能演他</a></li>
-<li><a href="/topimagenews/20230413/1871417.md">马克龙捅了马蜂窝，如同万箭穿心</a></li>
 <li><a href="/health/20230412/1871231.md">柳叶刀：幽门螺杆菌是中国胃癌的罪魁祸首，3点教你彻底根除</a></li>
-<li><a href="/baitai/20230412/1871139.md">「天安门标语」上热搜 分析：中共惧怕民间力量</a></li>
 <li><a href="/topimagenews/20230412/1871252.md">乌克兰警告再袭黑海舰队 呼吁80万俄人离开克里米亚</a></li>
+<li><a href="/ssgc/20230413/1871449.md">贵州：我扛不住了</a></li>
+<li><a href="/baitai/20230412/1871139.md">「天安门标语」上热搜 分析：中共惧怕民间力量</a></li>
 <li><a href="/sohnews/20230412/1871260.md">马克龙访华后对台湾、乌克兰的态度发生转变，他接受媒体时的讲话在国际社会引起轩然大波。习近平是如何搞定马克龙的？美欧联盟会分裂吗？【李军访谈20230412第145期】</a></li>
-<li><a href="/cbnews/20230412/1871140.md">天亮时分：中共军演未射导弹，真实原因令人尴尬；4月4日，推特公司不复存在；劝习近平退位，两位维权律师获重刑；（政论天下第983集 20230411）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230413/1871501.md" target="_blank">官方称“北京人均存款近27万” 微博大V抨击</a></li>
 <li><a href="/comments/20230413/1871497.md" target="_blank">谢达文：美国黑粉你好，世界不是绕着美国转</a></li>
 <li><a href="/comments/20230413/1871496.md" target="_blank">龅牙赵:最可怕的，就是“是非观”的集体泯灭</a></li>
 <li><a href="/comments/20230413/1871495.md" target="_blank">陶杰:时间就是最佳的照妖镜</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230412/1871283.md" target="_blank">中国禁航27分钟原因曝光 路透：卫星发射载具物体掉落</a></li>
 <li><a href="/comments/20230412/1871282.md" target="_blank">凶残！ 俄军斩首处决乌军战俘 泽伦斯基震怒 克里姆林宫承认影片吓人</a></li>
 <li><a href="/comments/20230412/1871175.md" target="_blank">【独家重磅】李燕铭：李强甩锅李克强 丁薛祥添新头衔摸底李克强烂摊子 丁薛祥全面接管江绵恒势力地盘 权力之大令人侧目 丁薛祥十四年前一篇文章泄露其获习近平青睐内幕 习近平李克强明争暗斗内幕（九二） 习家军接掌国务院（十八） 江泽民死江家族被清洗（八）</a></li>
-<li><a href="/comments/20230412/1871159.md" target="_blank">余秀华：小谈天门山事件：我们不配穿长衫</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
 <li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
 <li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 
 </ul>
 </div>
