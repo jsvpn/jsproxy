@@ -8,14 +8,14 @@
 <li><a href="/topimagenews/20230413/1871702.md">胡春华突向习近平表忠心…</a></li>
 <li><a href="/health/20230413/1871667.md">白头发越长越多，你以为是老了，其实是缺这3种营养</a></li>
 <li><a href="/topimagenews/20230413/1871686.md">习近平在担心什么？为何这事出现明显不同？【阿波罗网报道】</a></li>
-<li><a href="/finance/20230414/1871883.md">挡不住的“出走潮” 没人相信习近平</a></li>
 <li><a href="/topimagenews/20230414/1871935.md">全票通过！震惊整个美国华人圈！禁止中国人买房 卖了还要坐牢？</a></li>
+<li><a href="/finance/20230414/1871883.md">挡不住的“出走潮” 没人相信习近平</a></li>
 <li><a href="/topimagenews/20230413/1871726.md">不惜动核武！美参议员警告中共若敢对台动武 美将采这3措施封锁</a></li>
 <li><a href="/topimagenews/20230413/1871690.md">中共攻台付代价！印媒:美售台400枚鱼叉导弹 可摧毁50％中共军舰</a></li>
 <li><a href="/topimagenews/20230414/1871844.md">五角大厦密件爆：传普亭接受化疗 俄将领密谋故意输掉对乌战争</a></li>
 <li><a href="/cnnews/20230414/1871888.md">煮熟鸭子飞了？德国变卦 中外交部重话警告</a></li>
-<li><a href="/cbnews/20230414/1871882.md">传官二代办公室虐杀分尸！记者惨遭“电锯肢解”</a></li>
 <li><a href="/topimagenews/20230414/1871936.md">震惊！留学生回国看父母，美国签证竟被注销</a></li>
+<li><a href="/cbnews/20230414/1871882.md">传官二代办公室虐杀分尸！记者惨遭“电锯肢解”</a></li>
 <li><a href="/sohnews/20230413/1871730.md">陈破空：赖着不走的那人，终被悄悄换下？中共罕见对台湾让步！法国军舰台海行踪诡异。克里米亚或将爆发生死大战</a></li>
 <li><a href="/topimagenews/20230413/1871807.md">美媒：中共试图重塑民众的疫情记忆 报告消失、企业噤声</a></li>
 <li><a href="/headline/20230413/1871708.md">港媒：刘亚洲违法违纪落马  军队开展「肃清刘亚洲馀毒」</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/sohnews/20230413/1871622.md">刘亚洲是最大对台主和派，习近平用他祭旗极可能是战争信号！ （一平论政2023-4-13）</a></li>
 <li><a href="/topimagenews/20230413/1871662.md">网友打油诗爆红：“张家有钱一千万，九个邻居穷光蛋...【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230414/1871886.md">加拿大回国热门机型出事 中加往返机票暴降</a></li>
+<li><a href="/cbnews/20230414/1871881.md">细思极恐！她的“人脸”被“深度伪造”</a></li>
 <li><a href="/cbnews/20230414/1871893.md">中国重机网美16岁载21岁自撞双亡 曾不听网友劝</a></li>
-<li><a href="/sohnews/20230413/1871816.md">“突发！港币遭重创 贬值于历史低点”No.01（13/04/23）习近平打击👊美元 直接结果！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
 <li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 
 </ul>
 </div>
