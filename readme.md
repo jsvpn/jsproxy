@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20230414/1871844.md">五角大厦密件爆：传普亭接受化疗 俄将领密谋故意输掉对乌战争</a></li>
 <li><a href="/topimagenews/20230414/1871936.md">震惊！留学生回国看父母，美国签证竟被注销</a></li>
 <li><a href="/cnnews/20230414/1871889.md">一夜倒退三十年，商丘板车打了谁的脸？</a></li>
-<li><a href="/topimagenews/20230413/1871807.md">美媒：中共试图重塑民众的疫情记忆 报告消失、企业噤声</a></li>
 <li><a href="/topimagenews/20230414/1872088.md">中共遇大麻烦了？文革式大批判文章再现【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230414/1872031.md">〖兲朝浮世绘〗就算是挟持了政府的土匪，也不会让他们变成文明的一部分</a></li>
-<li><a href="/cbnews/20230414/1871893.md">中国重机网美16岁载21岁自撞双亡 曾不听网友劝</a></li>
 <li><a href="/sohnews/20230413/1871816.md">“突发！港币遭重创 贬值于历史低点”No.01（13/04/23）习近平打击👊美元 直接结果！</a></li>
+<li><a href="/cbnews/20230414/1871893.md">中国重机网美16岁载21岁自撞双亡 曾不听网友劝</a></li>
 <li><a href="/topimagenews/20230414/1872023.md">【微博精粹】三头猪都认为屠夫很公平</a></li>
 <li><a href="/ccpdope/20230414/1871963.md">刘亚洲传判死缓 老干部或被抄家</a></li>
 <li><a href="/cbnews/20230414/1871937.md">厉害！泄密文件曝美已获东风27导弹数据….</a></li>
 <li><a href="/cbnews/20230414/1871964.md">天亮时分：华人银行交出中共给拜登家族现金流水；绝密情报泄露，报料人被FBI逮捕；马克龙错误理解了欧洲自主权（政论天下第985集 20230413）天亮时分</a></li>
 <li><a href="/topimagenews/20230414/1871968.md">中共军演引爆众怒 全球逾42国挺台湾</a></li>
-<li><a href="/baitai/20230414/1871943.md">从刘亚洲之难看红二代的今天与昨天</a></li>
-<li><a href="/cnnews/20230414/1871886.md">加拿大回国热门机型出事 中加往返机票暴降</a></li>
+<li><a href="/lifebaike/20230414/1872101.md">54岁女子，每天光吃菜不吃米饭，半年后身体健康状况如何？</a></li>
 <li><a href="/comments/20230414/1872022.md">法国人齐声高呼：马克龙下台！他阻止援乌资金、拒绝跟随美国挺台湾，却接受习近平指挥？</a></li>
+<li><a href="/baitai/20230414/1871943.md">从刘亚洲之难看红二代的今天与昨天</a></li>
 <li><a href="/cbnews/20230414/1871881.md">细思极恐！她的“人脸”被“深度伪造”</a></li>
+<li><a href="/cnnews/20230414/1871886.md">加拿大回国热门机型出事 中加往返机票暴降</a></li>
 <li><a href="/ssgc/20230414/1872039.md">〖微博谈〗不，它们是坏</a></li>
-<li><a href="/topimagenews/20230414/1872011.md">贺兰峰：刘亚洲要为谁“殉道”？ 【赵国檄文】</a></li>
+<li><a href="/cnnews/20230414/1872055.md">率先逼宫开第一枪! 不帮我就死给你看 债务爆雷 贵州公开摆烂求救中南海</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230414/1872208.md" target="_blank">中共军演爆弱点被掌握！金融高官惨遭习近平整肃 在美资产传8兆人民币</a></li>
 <li><a href="/topimagenews/20230414/1872088.md" target="_blank">中共遇大麻烦了？文革式大批判文章再现【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230414/1872087.md" target="_blank">结盟？援助？中共国防部长李尚福敲定访问俄罗斯</a></li>
 <li><a href="/topimagenews/20230414/1872086.md" target="_blank">因为“复杂的监管环境”，JCI 关停在中国的业务</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230413/1871679.md" target="_blank">中共180度大转弯？禁航管制突然缩至27分钟…</a></li>
 <li><a href="/topimagenews/20230413/1871678.md" target="_blank">城管一举动引发众怒，数千网友“祝城管清明节快乐”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230413/1871664.md" target="_blank">儿被拐最凶果敢老街毒打 陆农村父母隔边境铁网泪哭干：就5公里过不去</a></li>
-<li><a href="/topimagenews/20230413/1871662.md" target="_blank">网友打油诗爆红：“张家有钱一千万，九个邻居穷光蛋&#8230;【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
 
 </ul>
 </div>
