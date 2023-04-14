@@ -9,7 +9,6 @@
 <li><a href="/topimagenews/20230414/1871935.md">全票通过！震惊整个美国华人圈！禁止中国人买房 卖了还要坐牢？</a></li>
 <li><a href="/finance/20230414/1871883.md">挡不住的“出走潮” 没人相信习近平</a></li>
 <li><a href="/topimagenews/20230413/1871726.md">不惜动核武！美参议员警告中共若敢对台动武 美将采这3措施封锁</a></li>
-<li><a href="/topimagenews/20230413/1871690.md">中共攻台付代价！印媒:美售台400枚鱼叉导弹 可摧毁50％中共军舰</a></li>
 <li><a href="/topimagenews/20230414/1871844.md">五角大厦密件爆：传普亭接受化疗 俄将领密谋故意输掉对乌战争</a></li>
 <li><a href="/cnnews/20230414/1871888.md">煮熟鸭子飞了？德国变卦 中外交部重话警告</a></li>
 <li><a href="/cbnews/20230414/1871882.md">传官二代办公室虐杀分尸！记者惨遭“电锯肢解”</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/topimagenews/20230413/1871807.md">美媒：中共试图重塑民众的疫情记忆 报告消失、企业噤声</a></li>
 <li><a href="/headline/20230413/1871708.md">港媒：刘亚洲违法违纪落马  军队开展「肃清刘亚洲馀毒」</a></li>
 <li><a href="/cnnews/20230414/1871889.md">一夜倒退三十年，商丘板车打了谁的脸？</a></li>
-<li><a href="/sohnews/20230413/1871622.md">刘亚洲是最大对台主和派，习近平用他祭旗极可能是战争信号！ （一平论政2023-4-13）</a></li>
 <li><a href="/ccpdope/20230414/1871963.md">刘亚洲传判死缓 老干部或被抄家</a></li>
+<li><a href="/sohnews/20230413/1871622.md">刘亚洲是最大对台主和派，习近平用他祭旗极可能是战争信号！ （一平论政2023-4-13）</a></li>
 <li><a href="/cbnews/20230414/1871893.md">中国重机网美16岁载21岁自撞双亡 曾不听网友劝</a></li>
-<li><a href="/cbnews/20230414/1871937.md">厉害！泄密文件曝美已获东风27导弹数据….</a></li>
 <li><a href="/baitai/20230414/1871943.md">从刘亚洲之难看红二代的今天与昨天</a></li>
-<li><a href="/cnnews/20230414/1871886.md">加拿大回国热门机型出事 中加往返机票暴降</a></li>
+<li><a href="/cbnews/20230414/1871937.md">厉害！泄密文件曝美已获东风27导弹数据….</a></li>
 <li><a href="/sohnews/20230413/1871816.md">“突发！港币遭重创 贬值于历史低点”No.01（13/04/23）习近平打击👊美元 直接结果！</a></li>
+<li><a href="/cnnews/20230414/1871886.md">加拿大回国热门机型出事 中加往返机票暴降</a></li>
 <li><a href="/topimagenews/20230414/1871968.md">中共军演引爆众怒 全球逾42国挺台湾</a></li>
 <li><a href="/cbnews/20230414/1871881.md">细思极恐！她的“人脸”被“深度伪造”</a></li>
-<li><a href="/finance/20230413/1871818.md">中国车市加速洗牌 又一家发不出薪资</a></li>
+<li><a href="/topimagenews/20230414/1872023.md">【微博精粹】三头猪都认为屠夫很公平</a></li>
+<li><a href="/cbnews/20230414/1872031.md">〖兲朝浮世绘〗就算是挟持了政府的土匪，也不会让他们变成文明的一部分</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230414/1872115.md" target="_blank">夏宝龙访港 间接证实丁薛祥主管港澳事务？</a></li>
+<li><a href="/comments/20230414/1872114.md" target="_blank">习家军各自培植势力 李强旧部进入国务院</a></li>
+<li><a href="/comments/20230414/1872113.md" target="_blank">崔永元：胡锡进、金灿荣和张维为将毁国家前途</a></li>
 <li><a href="/comments/20230414/1872022.md" target="_blank">法国人齐声高呼：马克龙下台！他阻止援乌资金、拒绝跟随美国挺台湾，却接受习近平指挥？</a></li>
 <li><a href="/comments/20230414/1872007.md" target="_blank">宋国诚：马克宏的北京之行 高卢雄鸡的暗夜乱啼</a></li>
 <li><a href="/comments/20230414/1872006.md" target="_blank">大撒币又买个小弟 洪都拉斯早晚后悔 【欺世大观】191</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230413/1871734.md" target="_blank">报复移居英国港人“不爱国” 港府扣下22亿英镑退休金</a></li>
 <li><a href="/comments/20230413/1871733.md" target="_blank">爱党小粉红签下去！中国修订征兵条例 以“大学生”重点征集</a></li>
 <li><a href="/comments/20230413/1871732.md" target="_blank">马克龙不认错 指“蔡麦会”是挑衅！法国官员：巴黎不会在台湾问题上追随美国</a></li>
-<li><a href="/comments/20230413/1871719.md" target="_blank">【未普评论】习近平的这颗定心丸能让民企定心吗？（下）</a></li>
-<li><a href="/comments/20230413/1871716.md" target="_blank">为了在中国大兴佛法，鸠摩罗什“虽苦而无恨”</a></li>
-<li><a href="/comments/20230413/1871638.md" target="_blank">【独家重磅】李燕铭：足协清洗风暴背后政治搏杀深度内幕（下） 习近平布局五年掀起清洗风暴 江绵恒铁哥们苟仲文高危 习骅主导足协大清洗 曾批“庆亲王”剑指曾庆红 足协窝案深度内幕（六） 文宣系统大清洗（三一） 习近平连任后大清洗（十四） 习近平李克强明争暗斗内幕（九四）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 <li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 
 </ul>
 </div>
