@@ -11,22 +11,22 @@
 <li><a href="/cbnews/20230414/1872031.md">〖兲朝浮世绘〗就算是挟持了政府的土匪，也不会让他们变成文明的一部分</a></li>
 <li><a href="/ccpdope/20230414/1871963.md">刘亚洲传判死缓 老干部或被抄家</a></li>
 <li><a href="/topimagenews/20230414/1872023.md">【微博精粹】三头猪都认为屠夫很公平</a></li>
-<li><a href="/comments/20230414/1872113.md">崔永元：胡锡进、金灿荣和张维为将毁国家前途</a></li>
 <li><a href="/lifebaike/20230414/1872101.md">54岁女子，每天光吃菜不吃米饭，半年后身体健康状况如何？</a></li>
+<li><a href="/comments/20230414/1872113.md">崔永元：胡锡进、金灿荣和张维为将毁国家前途</a></li>
 <li><a href="/ssgc/20230414/1872165.md">刘亚洲印证了CIA判断</a></li>
 <li><a href="/cbnews/20230414/1871964.md">天亮时分：华人银行交出中共给拜登家族现金流水；绝密情报泄露，报料人被FBI逮捕；马克龙错误理解了欧洲自主权（政论天下第985集 20230413）天亮时分</a></li>
 <li><a href="/cnnews/20230414/1872145.md">警讯！中国人存款暴增！正朝日本失落路走来；赚很大！中国大陆6大隐性暴利行业</a></li>
 <li><a href="/cbnews/20230414/1871937.md">厉害！泄密文件曝美已获东风27导弹数据….</a></li>
 <li><a href="/topimagenews/20230414/1871968.md">中共军演引爆众怒 全球逾42国挺台湾</a></li>
-<li><a href="/ssgc/20230414/1872039.md">〖微博谈〗不，它们是坏</a></li>
 <li><a href="/topimagenews/20230414/1872208.md">中共军演爆弱点被掌握！金融高官惨遭习近平整肃 在美资产传8兆人民币</a></li>
+<li><a href="/ssgc/20230414/1872039.md">〖微博谈〗不，它们是坏</a></li>
+<li><a href="/headline/20230414/1872140.md">河南镇党委书记涉轮奸卖酒女 本人系官二代和重点培养对象</a></li>
 <li><a href="/comments/20230414/1872022.md">法国人齐声高呼：马克龙下台！他阻止援乌资金、拒绝跟随美国挺台湾，却接受习近平指挥？</a></li>
 <li><a href="/baitai/20230414/1871943.md">从刘亚洲之难看红二代的今天与昨天</a></li>
-<li><a href="/headline/20230414/1872140.md">河南镇党委书记涉轮奸卖酒女 本人系官二代和重点培养对象</a></li>
 <li><a href="/cnnews/20230414/1872055.md">率先逼宫开第一枪! 不帮我就死给你看 债务爆雷 贵州公开摆烂求救中南海</a></li>
 <li><a href="/topimagenews/20230414/1872011.md">贺兰峰：刘亚洲要为谁“殉道”？ 【赵国檄文】</a></li>
 <li><a href="/cbnews/20230414/1872024.md">分析：马克龙和冯德莱恩访华 习犯了个错误</a></li>
-<li><a href="/cnnews/20230414/1872079.md">冻结其在中国财产，中国宣布制裁美议员麦考尔</a></li>
+<li><a href="/ssgc/20230414/1872213.md">习近平考察广东 党媒陷入自相矛盾</a></li>
 <li><a href="/baitai/20230414/1872158.md">习借刘亚洲释信号 分析示警：这些人小心 大风暴来了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 <li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
 
 </ul>
 </div>
