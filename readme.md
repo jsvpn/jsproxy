@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/ssgc/20230414/1872165.md">刘亚洲印证了CIA判断</a></li>
 <li><a href="/topimagenews/20230415/1872314.md">北京罕见松绑！楼市，已经乱套了</a></li>
-<li><a href="/headline/20230414/1872140.md">河南镇党委书记涉轮奸卖酒女 本人系官二代和重点培养对象</a></li>
 <li><a href="/cnnews/20230414/1872145.md">警讯！中国人存款暴增！正朝日本失落路走来；赚很大！中国大陆6大隐性暴利行业</a></li>
 <li><a href="/topimagenews/20230414/1872208.md">中共军演爆弱点被掌握！金融高官惨遭习近平整肃 在美资产传8兆人民币</a></li>
 <li><a href="/cbnews/20230415/1872315.md">上海地铁这一幕，围观群众看呆！网友也傻眼</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/lifebaike/20230415/1872364.md">吃了6年春药跑了6年龙套，凭什么被称为一代明主</a></li>
 <li><a href="/cbnews/20230415/1872439.md">〖兲朝浮世绘〗出著作让大家学习也就罢了，怎么还出笑话让大家看？</a></li>
 <li><a href="/baitai/20230415/1872284.md">第一枪打响 地方政府公开倒逼中央？</a></li>
-<li><a href="/sohnews/20230415/1872353.md">太子党地震，刘亚洲给习近平“投名状”变炸弹 ；美总统高参因刘亚洲“心碎”，反思中共百年密谋；刘亚洲进30人“龙班”，靠江泽民权力交换</a></li>
 <li><a href="/topimagenews/20230415/1872475.md">突发！现场大爆炸！岸田文雄访和歌山 差点成安倍第二【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20230415/1872353.md">太子党地震，刘亚洲给习近平“投名状”变炸弹 ；美总统高参因刘亚洲“心碎”，反思中共百年密谋；刘亚洲进30人“龙班”，靠江泽民权力交换</a></li>
 <li><a href="/baitai/20230415/1872302.md">【404文库】政在发声｜危险的大东北</a></li>
 <li><a href="/ssgc/20230415/1872388.md">〖微博谈〗红墙圈四马</a></li>
 <li><a href="/topimagenews/20230415/1872313.md">心虚了？北京拒绝参与这项专门调查....</a></li>
 <li><a href="/baitai/20230414/1872152.md">火星真有生命？NASA拍到有史以来最神秘的奇异照片</a></li>
 <li><a href="/lifebaike/20230415/1872397.md">为什么很多人后悔买了新能源车？原来，是有这5个硬伤</a></li>
-<li><a href="/yule/20230415/1872457.md">60岁老戏骨移居美国，单身无娃养俩狗作伴，满头白发坦言生活枯燥</a></li>
 <li><a href="/worldnews/20230415/1872478.md">谁干的？搭载国防工业原料的中国巨轮沉没俄水域</a></li>
+<li><a href="/yule/20230415/1872457.md">60岁老戏骨移居美国，单身无娃养俩狗作伴，满头白发坦言生活枯燥</a></li>
+<li><a href="/comments/20230414/1872175.md">【燕铭视频】北京小学一道语文填空题 引起教育界轰动</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230415/1872566.md" target="_blank">日本2友台首相“遇刺”恐非巧合！她揭“可怕阴谋”：最低成本做法</a></li>
 <li><a href="/topimagenews/20230415/1872521.md" target="_blank">马英九称“九二共识”又活过来 苦苓举30年前新闻打脸：“最大说谎家”</a></li>
 <li><a href="/topimagenews/20230415/1872492.md" target="_blank">“将面条挂在耳朵上”！俄罗斯国会议员观看普丁国情咨文演说遭法院罚款？</a></li>
 <li><a href="/topimagenews/20230415/1872475.md" target="_blank">突发！现场大爆炸！岸田文雄访和歌山 差点成安倍第二【阿波罗网报道】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230413/1871807.md" target="_blank">美媒：中共试图重塑民众的疫情记忆 报告消失、企业噤声</a></li>
 <li><a href="/topimagenews/20230413/1871775.md" target="_blank">陆代工霸主地位危险了？印度制iPhone时代来了 进展速度惊人</a></li>
 <li><a href="/topimagenews/20230413/1871726.md" target="_blank">不惜动核武！美参议员警告中共若敢对台动武 美将采这3措施封锁</a></li>
-<li><a href="/topimagenews/20230413/1871718.md" target="_blank">不吃包子了？习近平赞“茂名荔枝”能促进共同富裕</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
 <li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
 
 </ul>
 </div>
