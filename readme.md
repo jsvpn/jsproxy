@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230416/1872702.md">“宁王底”已破，都慌了</a></li>
 <li><a href="/cnnews/20230416/1872696.md">四大征兆已经出现，要过苦日子了</a></li>
-<li><a href="/sohnews/20230416/1872643.md">习近平玩儿真的！中国三类人被征兵｜ #时事金扫描 #shorts</a></li>
-<li><a href="/topimagenews/20230416/1872638.md">德媒：德强硬女外长在北京态度果决 比磕头的马克龙带来更多机遇</a></li>
 <li><a href="/topimagenews/20230416/1872701.md">杭州再放大招，三四五线城市颤抖吧</a></li>
 <li><a href="/finance/20230416/1872704.md">终于，还是崩了</a></li>
 <li><a href="/topimagenews/20230416/1872749.md">中国存款大战越来越刺激了 一季度数据颠覆想象</a></li>
 <li><a href="/cnnews/20230416/1872834.md">“大家都在数蚊子”，规模最大的广交会惨了！【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230416/1872646.md">美中情局长开口 曝光中国真实状况｜ #时事金扫描 #shorts</a></li>
 <li><a href="/topimagenews/20230416/1872800.md">前所未见血战正在这里发生！俄猛攻巴赫姆特</a></li>
 <li><a href="/health/20230416/1872843.md">男性衰老“推进器”公布，勤洗头排名第2，不妨看看你做过几个？</a></li>
 <li><a href="/comments/20230416/1872791.md">李燕铭：习近平南下广东一周 神秘隐身两天 疑直接参与指挥环台军演 共军密集异动 隐现军事动员信号 习连任后图谋武统台湾（二二） 习强化军权内防政变对外备战（三五）</a></li>
-<li><a href="/sohnews/20230416/1872650.md">习近平下狠手 开始在大学里抓壮丁｜ #时事金扫描 #shorts</a></li>
 <li><a href="/worldnews/20230416/1872655.md">岸田遇袭惊恐表情曝 没展开的公事包 这次打开了</a></li>
 <li><a href="/sohnews/20230416/1872864.md">T-90被吹破，在乌克兰战场被摧毁的方式证明是假货｜【#时事军事】#时事军事夏洛山</a></li>
 <li><a href="/cbnews/20230416/1872863.md">中共官媒大忽悠：旅游需求井喷 网友：喷油还是天然气【阿波罗网报道】</a></li>
+<li><a href="/comments/20230416/1872899.md">李强重提李克强老调 就业形势冲击中南海</a></li>
 <li><a href="/yule/20230416/1872757.md">54岁吴秀波移居英国，身材发福大肚便便</a></li>
 <li><a href="/baitai/20230416/1872832.md">周有光：要么和平过渡，要么…总之是要变</a></li>
-<li><a href="/comments/20230416/1872899.md">李强重提李克强老调 就业形势冲击中南海</a></li>
 <li><a href="/health/20230416/1872857.md">突然一阵眩晕，几秒钟就好了，究竟是什么原因？</a></li>
+<li><a href="/ssgc/20230416/1872912.md">新征兵条例有重点 北京目的何在</a></li>
 <li><a href="/worldnews/20230416/1872709.md">加入北约不到两周后 芬兰开始建墙</a></li>
 <li><a href="/finance/20230416/1872656.md">往日盛景不再！没人了 郑州富士康宿舍区一片冷清</a></li>
-<li><a href="/ssgc/20230416/1872912.md">新征兵条例有重点 北京目的何在</a></li>
+<li><a href="/ssgc/20230416/1872821.md">李强够强吗？</a></li>
+<li><a href="/topimagenews/20230416/1872778.md">【微博精粹】一方水土养一方AI</a></li>
+<li><a href="/cnnews/20230416/1872812.md">1100亿美元灰飞烟灭 富豪遭血洗 又黑天鹅?</a></li>
+<li><a href="/topimagenews/20230416/1872654.md">惊了...辉达顶级AI芯片在eBay上价格超高</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230417/1872976.md" target="_blank">“您少说一句，人们就踏实一分”……</a></li>
+<li><a href="/comments/20230417/1872975.md" target="_blank">日本首相为啥总出事？</a></li>
 <li><a href="/comments/20230417/1872970.md" target="_blank">李燕铭：李源潮旧部副部级高官刘捍东落马 罗志军自杀身亡半个月后前财务大管家被查 南京官场高危 两任市长两任市委书记相继落马 习近平连任后大清洗（十五） 江泽民江苏帮政变谋刺习近平 习绝地反击（三五）</a></li>
 <li><a href="/comments/20230416/1872938.md" target="_blank">丈夫刚遇袭！岸田裕子依计划出发单独访美 17日会晤美第一夫人</a></li>
 <li><a href="/comments/20230416/1872937.md" target="_blank">【新闻拍案惊奇】人口大国易主！印度不止赢在人口数量</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230416/1872763.md" target="_blank">伊可：老人在旧金山市中心摔倒之后</a></li>
 <li><a href="/comments/20230416/1872760.md" target="_blank">天亮时分：德国外长访华，王毅出大丑；五角大楼首次提出地外文明理论；印度今日成为人口第一大国；马斯克新注册X.AI人工智能公司（政论天下第987集 20230415）</a></li>
 <li><a href="/comments/20230416/1872758.md" target="_blank">李燕铭：习近平下令军队为2027年前武统台湾做准备 连任后一个月三场重大外交活动暗藏野心 习选择马克龙马英九返程次日展开围台军演 马英九大陆行历时12天 返台后称台湾未来面临“和平与战争”的选择 习连任后图谋武统台湾（二一）</a></li>
-<li><a href="/comments/20230416/1872755.md" target="_blank">谋略那些事：进入体制内的孔乙己</a></li>
-<li><a href="/comments/20230416/1872754.md" target="_blank">有竹不倒:总觉得贪官比以前更嚣张了？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
 
 </ul>
 </div>
