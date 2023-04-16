@@ -13,20 +13,20 @@
 <li><a href="/finance/20230416/1872704.md">终于，还是崩了</a></li>
 <li><a href="/topimagenews/20230416/1872749.md">中国存款大战越来越刺激了 一季度数据颠覆想象</a></li>
 <li><a href="/cnnews/20230416/1872834.md">“大家都在数蚊子”，规模最大的广交会惨了！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230416/1872636.md">北京很猖狂！泄密文件曝中共间谍气球事件 有很多 1个飞越美航母</a></li>
-<li><a href="/topimagenews/20230416/1872800.md">前所未见血战正在这里发生！俄猛攻巴赫姆特</a></li>
 <li><a href="/sohnews/20230416/1872646.md">美中情局长开口 曝光中国真实状况｜ #时事金扫描 #shorts</a></li>
+<li><a href="/topimagenews/20230416/1872800.md">前所未见血战正在这里发生！俄猛攻巴赫姆特</a></li>
+<li><a href="/topimagenews/20230416/1872636.md">北京很猖狂！泄密文件曝中共间谍气球事件 有很多 1个飞越美航母</a></li>
 <li><a href="/headline/20230416/1872622.md">中共政治局委员王毅会见德国外长，贝尔伯克：欧洲不接受单边改变台海现状</a></li>
 <li><a href="/health/20230416/1872843.md">男性衰老“推进器”公布，勤洗头排名第2，不妨看看你做过几个？</a></li>
 <li><a href="/worldnews/20230416/1872655.md">岸田遇袭惊恐表情曝 没展开的公事包 这次打开了</a></li>
-<li><a href="/comments/20230416/1872791.md">李燕铭：习近平南下广东一周 神秘隐身两天 疑直接参与指挥环台军演 共军密集异动 隐现军事动员信号 习连任后图谋武统台湾（二二） 习强化军权内防政变对外备战（三五）</a></li>
 <li><a href="/sohnews/20230416/1872650.md">习近平下狠手 开始在大学里抓壮丁｜ #时事金扫描 #shorts</a></li>
+<li><a href="/comments/20230416/1872791.md">李燕铭：习近平南下广东一周 神秘隐身两天 疑直接参与指挥环台军演 共军密集异动 隐现军事动员信号 习连任后图谋武统台湾（二二） 习强化军权内防政变对外备战（三五）</a></li>
 <li><a href="/yule/20230416/1872757.md">54岁吴秀波移居英国，身材发福大肚便便</a></li>
 <li><a href="/baitai/20230416/1872832.md">周有光：要么和平过渡，要么…总之是要变</a></li>
 <li><a href="/worldnews/20230416/1872709.md">加入北约不到两周后 芬兰开始建墙</a></li>
 <li><a href="/finance/20230416/1872656.md">往日盛景不再！没人了 郑州富士康宿舍区一片冷清</a></li>
 <li><a href="/topimagenews/20230416/1872778.md">【微博精粹】一方水土养一方AI</a></li>
-<li><a href="/topimagenews/20230416/1872654.md">惊了...辉达顶级AI芯片在eBay上价格超高</a></li>
+<li><a href="/health/20230416/1872857.md">突然一阵眩晕，几秒钟就好了，究竟是什么原因？</a></li>
 <li><a href="/ssgc/20230416/1872821.md">李强够强吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230416/1872938.md" target="_blank">丈夫刚遇袭！岸田裕子依计划出发单独访美 17日会晤美第一夫人</a></li>
+<li><a href="/comments/20230416/1872937.md" target="_blank">【新闻拍案惊奇】人口大国易主！印度不止赢在人口数量</a></li>
+<li><a href="/comments/20230416/1872936.md" target="_blank">【秦鹏观察】刘亚洲和习近平“较量无声”重现“用小说反党”</a></li>
+<li><a href="/comments/20230416/1872935.md" target="_blank">《唐诗三百首》微电影300集（08）杜甫：闻官军收河南河北</a></li>
 <li><a href="/comments/20230416/1872931.md" target="_blank">河南洛阳马戏团表演狮子逃脱冲向观众 民众急逃窜连鞋子都掉了</a></li>
 <li><a href="/comments/20230416/1872930.md" target="_blank">川普被诉后捐款激增 竞选募款今年已逾3400万</a></li>
 <li><a href="/comments/20230416/1872921.md" target="_blank">巨人！神族的血型</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230416/1872755.md" target="_blank">谋略那些事：进入体制内的孔乙己</a></li>
 <li><a href="/comments/20230416/1872754.md" target="_blank">有竹不倒:总觉得贪官比以前更嚣张了？</a></li>
 <li><a href="/comments/20230416/1872748.md" target="_blank">文昭：习近平心中的武统时间表，为何比许多人预想的要早？</a></li>
-<li><a href="/comments/20230416/1872708.md" target="_blank">血型中的创世之谜</a></li>
-<li><a href="/comments/20230416/1872695.md" target="_blank">杨威：德国对中日韩定位大不同 中共尴尬</a></li>
-<li><a href="/comments/20230416/1872694.md" target="_blank">2023年恶性案件频传 中国社会安全严重恶化</a></li>
-<li><a href="/comments/20230416/1872693.md" target="_blank">周晓辉：新征兵条例有重点 北京目的何在</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
 <li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
 <li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 
 </ul>
 </div>
