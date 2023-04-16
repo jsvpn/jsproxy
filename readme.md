@@ -17,17 +17,17 @@
 <li><a href="/topimagenews/20230416/1872800.md">前所未见血战正在这里发生！俄猛攻巴赫姆特</a></li>
 <li><a href="/headline/20230416/1872622.md">中共政治局委员王毅会见德国外长，贝尔伯克：欧洲不接受单边改变台海现状</a></li>
 <li><a href="/sohnews/20230416/1872646.md">美中情局长开口 曝光中国真实状况｜ #时事金扫描 #shorts</a></li>
-<li><a href="/topimagenews/20230415/1872578.md">又承诺！秦刚允不卖乌俄军火 德外长：怀疑为何不要求侵略者停战</a></li>
-<li><a href="/finance/20230416/1872704.md">终于，还是崩了</a></li>
 <li><a href="/worldnews/20230416/1872655.md">岸田遇袭惊恐表情曝 没展开的公事包 这次打开了</a></li>
+<li><a href="/finance/20230416/1872704.md">终于，还是崩了</a></li>
+<li><a href="/topimagenews/20230415/1872578.md">又承诺！秦刚允不卖乌俄军火 德外长：怀疑为何不要求侵略者停战</a></li>
 <li><a href="/sohnews/20230416/1872650.md">习近平下狠手 开始在大学里抓壮丁｜ #时事金扫描 #shorts</a></li>
 <li><a href="/yule/20230416/1872757.md">54岁吴秀波移居英国，身材发福大肚便便</a></li>
-<li><a href="/worldnews/20230416/1872709.md">加入北约不到两周后 芬兰开始建墙</a></li>
-<li><a href="/comments/20230416/1872791.md">李燕铭：习近平南下广东一周 神秘隐身两天 疑直接参与指挥环台军演 共军密集异动 隐现军事动员信号 习连任后图谋武统台湾（二二） 习强化军权内防政变对外备战（三五）</a></li>
-<li><a href="/cnnews/20230415/1872567.md">美传奇“泡沫预言家”：当前的泡沫不会啵的一声 而是碰！爆炸</a></li>
 <li><a href="/finance/20230416/1872656.md">往日盛景不再！没人了 郑州富士康宿舍区一片冷清</a></li>
+<li><a href="/comments/20230416/1872791.md">李燕铭：习近平南下广东一周 神秘隐身两天 疑直接参与指挥环台军演 共军密集异动 隐现军事动员信号 习连任后图谋武统台湾（二二） 习强化军权内防政变对外备战（三五）</a></li>
+<li><a href="/worldnews/20230416/1872709.md">加入北约不到两周后 芬兰开始建墙</a></li>
 <li><a href="/topimagenews/20230416/1872654.md">惊了...辉达顶级AI芯片在eBay上价格超高</a></li>
 <li><a href="/sohnews/20230416/1872645.md">这教授必火！课堂痛批“囯仇家恨”｜ #时事金扫描 #shorts</a></li>
+<li><a href="/topimagenews/20230416/1872778.md">【微博精粹】一方水土养一方AI</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230416/1872886.md" target="_blank">歌手曲婉婷2套房产被拍卖 其母涉贪被判无期</a></li>
+<li><a href="/comments/20230416/1872884.md" target="_blank">山西煤企塌方式腐败 煤老板王存权辞职一天后落马</a></li>
 <li><a href="/comments/20230416/1872791.md" target="_blank">李燕铭：习近平南下广东一周 神秘隐身两天 疑直接参与指挥环台军演 共军密集异动 隐现军事动员信号 习连任后图谋武统台湾（二二） 习强化军权内防政变对外备战（三五）</a></li>
 <li><a href="/comments/20230416/1872789.md" target="_blank">404文:一年后再问：中国还有多少个丰县？</a></li>
 <li><a href="/comments/20230416/1872771.md" target="_blank">【杰森视角】揭批刘亚洲的文章在中共官网出现又消失！刘亚洲借武力攻台的话题煽动反习？这些红二代犯了同样错误！专案组找不到习近平讲的刘亚洲政治阴谋证据！刘亚洲主动交代和7个国防大学女教师有婚外情？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230415/1872464.md" target="_blank">译丛:向外兜售毒药的中共民主骗局</a></li>
 <li><a href="/comments/20230415/1872448.md" target="_blank">财经杂志：中国第一代农民工，还在打工</a></li>
 <li><a href="/comments/20230415/1872447.md" target="_blank">大学“心理干预”系统，为何越来越像“心理监视”系统？</a></li>
-<li><a href="/comments/20230415/1872430.md" target="_blank">404:贵州深陷债务危机负债1万多亿，官方公开发文求助上级：无力自救</a></li>
-<li><a href="/comments/20230415/1872429.md" target="_blank">404文:危险的大东北</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
 <li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
 
 </ul>
 </div>
