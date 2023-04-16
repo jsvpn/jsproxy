@@ -10,24 +10,24 @@
 <li><a href="/sohnews/20230415/1872531.md">文睿：上海，一个消息炸了，问题恶化一目了然</a></li>
 <li><a href="/cbnews/20230415/1872505.md">想释放啥信号？习近平突然大谈“改革开放” 中共喉舌大力宣传鼓噪【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20230415/1872397.md">为什么很多人后悔买了新能源车？原来，是有这5个硬伤</a></li>
-<li><a href="/topimagenews/20230415/1872475.md">突发！现场大爆炸！岸田文雄访和歌山 差点成安倍第二【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230415/1872388.md">〖微博谈〗红墙圈四马</a></li>
+<li><a href="/topimagenews/20230415/1872475.md">突发！现场大爆炸！岸田文雄访和歌山 差点成安倍第二【阿波罗网报道】</a></li>
 <li><a href="/health/20230415/1872528.md">寿命短的人，走路时会有五个表现，若你五个都有，说明该体检了</a></li>
 <li><a href="/yule/20230415/1872457.md">60岁老戏骨移居美国，单身无娃养俩狗作伴，满头白发坦言生活枯燥</a></li>
+<li><a href="/topimagenews/20230416/1872638.md">德媒：德强硬女外长在北京态度果决 比磕头的马克龙带来更多机遇</a></li>
 <li><a href="/worldnews/20230415/1872478.md">谁干的？搭载国防工业原料的中国巨轮沉没俄水域</a></li>
 <li><a href="/topimagenews/20230415/1872573.md">没后台 银行多出100万！中国农村警校生“一毛都没花”遭判无期徒刑</a></li>
-<li><a href="/topimagenews/20230416/1872638.md">德媒：德强硬女外长在北京态度果决 比磕头的马克龙带来更多机遇</a></li>
 <li><a href="/cbnews/20230415/1872512.md">瓦格纳集团创办人要求普京宣布俄乌战争结束</a></li>
 <li><a href="/topimagenews/20230415/1872492.md">“将面条挂在耳朵上”！俄罗斯国会议员观看普丁国情咨文演说遭法院罚款？</a></li>
 <li><a href="/cbnews/20230415/1872491.md">江峰：一个不为人知的细节让FBI找到了他：美国十年来最大泄密案告破，21岁空军国民警卫队情报联队员被捕。俄情报部出卖中共军援计划，美国监听联合国秘书长，八大泄密逐个分析【江峰漫谈20230414第659期】</a></li>
 <li><a href="/health/20230415/1872414.md">为何美国胖子较多，但脑梗率却较低？医生：“1少”可借鉴学习</a></li>
 <li><a href="/health/20230415/1872524.md">“肾强一倍，人活百岁”！年过四十，建议常吃这4样，补肾益气</a></li>
-<li><a href="/comments/20230415/1872380.md">文昭：刘亚洲或被判死缓，清洗红二代达新高度；或暗示了习近平心中的动武时机</a></li>
 <li><a href="/topimagenews/20230415/1872578.md">又承诺！秦刚允不卖乌俄军火 德外长：怀疑为何不要求侵略者停战</a></li>
+<li><a href="/sohnews/20230416/1872643.md">习近平玩儿真的！中国三类人被征兵｜ #时事金扫描 #shorts</a></li>
 <li><a href="/cnnews/20230415/1872481.md">主角亲自下场，一次罕见的励志新闻翻车事件</a></li>
-<li><a href="/cnnews/20230415/1872567.md">美传奇“泡沫预言家”：当前的泡沫不会啵的一声 而是碰！爆炸</a></li>
 <li><a href="/ccpdope/20230415/1872495.md">刘亚洲印证了中情局判断</a></li>
-<li><a href="/comments/20230415/1872390.md">天亮时分：贵州打响第一枪，公开摆烂倒逼中央，中共救不救？高校平均就业率不到18%；彭立发入选时代百大人物（政论天下第986集 20230414）</a></li>
+<li><a href="/cnnews/20230415/1872567.md">美传奇“泡沫预言家”：当前的泡沫不会啵的一声 而是碰！爆炸</a></li>
+<li><a href="/headline/20230416/1872622.md">中共政治局委员王毅会见德国外长，贝尔伯克：欧洲不接受单边改变台海现状</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230416/1872725.md" target="_blank">辗压中共航母编队 美杀手锏多多 最厉害是它们</a></li>
 <li><a href="/comments/20230416/1872708.md" target="_blank">血型中的创世之谜</a></li>
 <li><a href="/comments/20230416/1872689.md" target="_blank">专访台商廖金漳(下)：加入维权群被多次“喝茶”；中共每一个政策都是为了统治而非人民利益；中国的内需只剩下温饱；台湾人一定要反共护台 ｜#方菲时间 04/15</a></li>
 <li><a href="/comments/20230415/1872594.md" target="_blank">活化石？巨人后代！他们IQ高、第六感超强、拥有独特血型，推翻进化论！神族Rh阴性血，证实《创世纪》神话中国少数民族与外太空星球“阿努纳奇”基因的神祕连结⋯｜ #未解之谜 扶摇</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230414/1872031.md" target="_blank">〖兲朝浮世绘〗就算是挟持了政府的土匪，也不会让他们变成文明的一部分</a></li>
 <li><a href="/cbnews/20230414/1872024.md" target="_blank">分析：马克龙和冯德莱恩访华 习犯了个错误</a></li>
 <li><a href="/cbnews/20230414/1871964.md" target="_blank">天亮时分：华人银行交出中共给拜登家族现金流水；绝密情报泄露，报料人被FBI逮捕；马克龙错误理解了欧洲自主权（政论天下第985集 20230413）天亮时分</a></li>
-<li><a href="/cbnews/20230414/1871937.md" target="_blank">厉害！泄密文件曝美已获东风27导弹数据….</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 <li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 
 </ul>
 </div>
