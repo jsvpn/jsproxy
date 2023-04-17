@@ -16,7 +16,6 @@
 <li><a href="/health/20230416/1872857.md">突然一阵眩晕，几秒钟就好了，究竟是什么原因？</a></li>
 <li><a href="/cbnews/20230417/1873013.md">〖兲朝浮世绘〗黑龙江开始抢钱了</a></li>
 <li><a href="/cbnews/20230417/1872984.md">云南泼水节被斥变味：这是泼水节还是耍流氓？</a></li>
-<li><a href="/ssgc/20230416/1872821.md">李强够强吗？</a></li>
 <li><a href="/topimagenews/20230417/1873043.md">这位中共官场大佬的简历，是我见过最厉害的</a></li>
 <li><a href="/sohnews/20230416/1872934.md">中共战狼变绵羊？余茂春一语戳破</a></li>
 <li><a href="/cnnews/20230417/1873017.md">中共军人惨被绿 大内宣翻车</a></li>
@@ -25,8 +24,9 @@
 <li><a href="/baitai/20230416/1872892.md">科学证据：人一生的记忆会在死亡前回放</a></li>
 <li><a href="/lifebaike/20230417/1872989.md">刘备错失的最大英才，临死遗言竟是“我吃鱼了”</a></li>
 <li><a href="/comments/20230417/1872970.md">李燕铭：李源潮旧部副部级高官刘捍东落马 罗志军自杀身亡半个月后前财务大管家被查 南京官场高危 两任市长两任市委书记相继落马 习近平连任后大清洗（十五） 江泽民江苏帮政变谋刺习近平 习绝地反击（三五）</a></li>
-<li><a href="/cnnews/20230416/1872838.md">安徽高空特技表演“强调无防护” 演员竟从10米多高空摔死</a></li>
 <li><a href="/yule/20230417/1872998.md">41岁宋慧乔现身梵蒂冈，被拍下纯素颜生图</a></li>
+<li><a href="/cnnews/20230416/1872838.md">安徽高空特技表演“强调无防护” 演员竟从10米多高空摔死</a></li>
+<li><a href="/headline/20230417/1872969.md">巴西总统卢拉指责美欧延长乌克兰战争 华盛顿恼火指其倒向中俄</a></li>
 <li><a href="/sohnews/20230416/1872928.md">🔥中共干预调查信曝光，美回函：这招不管用；疯狂！台已被共军包围？不实消息满天飞；中欧关系被打回原型，北京碰一鼻子灰</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230417/1873146.md" target="_blank">梦到7个月大儿子“满脸是血”！妈调监视器见这幕惊呆：母子连心</a></li>
 <li><a href="/cbnews/20230417/1873142.md" target="_blank">中共海军恐沦纸老虎 专家：美军这3大武器全面压制共军航母</a></li>
 <li><a href="/comments/20230417/1873125.md" target="_blank">真实外星人绑架事件（2/2）</a></li>
 <li><a href="/cbnews/20230417/1873118.md" target="_blank">乌克兰大反攻！乌军胜利解放扎波罗热4小镇 大批乌军准备上战场</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230416/1872771.md" target="_blank">【杰森视角】揭批刘亚洲的文章在中共官网出现又消失！刘亚洲借武力攻台的话题煽动反习？这些红二代犯了同样错误！专案组找不到习近平讲的刘亚洲政治阴谋证据！刘亚洲主动交代和7个国防大学女教师有婚外情？</a></li>
 <li><a href="/cbnews/20230416/1872725.md" target="_blank">辗压中共航母编队 美杀手锏多多 最厉害是它们</a></li>
 <li><a href="/comments/20230416/1872708.md" target="_blank">血型中的创世之谜</a></li>
-<li><a href="/comments/20230416/1872689.md" target="_blank">专访台商廖金漳(下)：加入维权群被多次“喝茶”；中共每一个政策都是为了统治而非人民利益；中国的内需只剩下温饱；台湾人一定要反共护台 ｜#方菲时间 04/15</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
 <li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 <li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
 
 </ul>
 </div>
