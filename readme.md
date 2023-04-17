@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20230417/1873014.md">太吓人了！中国就业的最后一根支柱也塌了</a></li>
 <li><a href="/comments/20230416/1872899.md">李强重提李克强老调 就业形势冲击中南海</a></li>
 <li><a href="/sohnews/20230416/1872864.md">T-90被吹破，在乌克兰战场被摧毁的方式证明是假货｜【#时事军事】#时事军事夏洛山</a></li>
-<li><a href="/cbnews/20230416/1872863.md">中共官媒大忽悠：旅游需求井喷 网友：喷油还是天然气【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230417/1873043.md">这位中共官场大佬的简历，是我见过最厉害的</a></li>
+<li><a href="/cbnews/20230416/1872863.md">中共官媒大忽悠：旅游需求井喷 网友：喷油还是天然气【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230416/1872912.md">新征兵条例有重点 北京目的何在</a></li>
 <li><a href="/cbnews/20230417/1873013.md">〖兲朝浮世绘〗黑龙江开始抢钱了</a></li>
 <li><a href="/health/20230416/1872857.md">突然一阵眩晕，几秒钟就好了，究竟是什么原因？</a></li>
 <li><a href="/cbnews/20230417/1872984.md">云南泼水节被斥变味：这是泼水节还是耍流氓？</a></li>
 <li><a href="/sohnews/20230416/1872934.md">中共战狼变绵羊？余茂春一语戳破</a></li>
-<li><a href="/cnnews/20230417/1873017.md">中共军人惨被绿 大内宣翻车</a></li>
 <li><a href="/topimagenews/20230417/1873094.md">【微博精粹】广交会：我们终于成功把外国人赶出了中国，中国又赢麻了</a></li>
-<li><a href="/headline/20230417/1872968.md">李尚福抵达莫斯科 普京立即与他会面</a></li>
+<li><a href="/cnnews/20230417/1873017.md">中共军人惨被绿 大内宣翻车</a></li>
 <li><a href="/cnnews/20230417/1873072.md">网曝上海某房企再现小三“艳照门”照流出</a></li>
+<li><a href="/headline/20230417/1872968.md">李尚福抵达莫斯科 普京立即与他会面</a></li>
+<li><a href="/finance/20230417/1873066.md">深度：各种迹象证明中国经济进入大萧条</a></li>
 <li><a href="/comments/20230416/1872900.md">中共高层不和？美泄密文件揭间谍气球更多内幕</a></li>
 <li><a href="/lifebaike/20230417/1872989.md">刘备错失的最大英才，临死遗言竟是“我吃鱼了”</a></li>
 <li><a href="/baitai/20230416/1872892.md">科学证据：人一生的记忆会在死亡前回放</a></li>
-<li><a href="/finance/20230417/1873066.md">深度：各种迹象证明中国经济进入大萧条</a></li>
-<li><a href="/comments/20230417/1872970.md">李燕铭：李源潮旧部副部级高官刘捍东落马 罗志军自杀身亡半个月后前财务大管家被查 南京官场高危 两任市长两任市委书记相继落马 习近平连任后大清洗（十五） 江泽民江苏帮政变谋刺习近平 习绝地反击（三五）</a></li>
-<li><a href="/yule/20230417/1872998.md">41岁宋慧乔现身梵蒂冈，被拍下纯素颜生图</a></li>
 <li><a href="/ssgc/20230417/1873061.md">〖微博谈〗该怎么办呢</a></li>
-<li><a href="/cnnews/20230416/1872838.md">安徽高空特技表演“强调无防护” 演员竟从10米多高空摔死</a></li>
+<li><a href="/comments/20230417/1872970.md">李燕铭：李源潮旧部副部级高官刘捍东落马 罗志军自杀身亡半个月后前财务大管家被查 南京官场高危 两任市长两任市委书记相继落马 习近平连任后大清洗（十五） 江泽民江苏帮政变谋刺习近平 习绝地反击（三五）</a></li>
+<li><a href="/topimagenews/20230417/1873131.md">中共高官成立“情妇招募小组” 受审当庭承认爱吃“母女丼” 还吃了73对</a></li>
+<li><a href="/yule/20230417/1872998.md">41岁宋慧乔现身梵蒂冈，被拍下纯素颜生图</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 <li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 
 </ul>
 </div>
