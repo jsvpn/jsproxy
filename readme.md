@@ -19,15 +19,15 @@
 <li><a href="/cbnews/20230417/1873155.md">突发！千亿浙商大佬去世，享年73岁</a></li>
 <li><a href="/topimagenews/20230417/1873150.md">如同保龄球！南京交警连环被撞飞 网友：交警“要钱不要命”【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230417/1873061.md">〖微博谈〗该怎么办呢</a></li>
-<li><a href="/cbnews/20230417/1873118.md">乌克兰大反攻！乌军胜利解放扎波罗热4小镇 大批乌军准备上战场</a></li>
 <li><a href="/cnnews/20230417/1873157.md">老公带我去爬山，逃过一劫后，我发现了他的秘密</a></li>
 <li><a href="/baitai/20230417/1873216.md">真正的“垃圾食品”被评出，榜首的大多数人都爱吃</a></li>
+<li><a href="/cbnews/20230417/1873118.md">乌克兰大反攻！乌军胜利解放扎波罗热4小镇 大批乌军准备上战场</a></li>
 <li><a href="/cbnews/20230417/1873105.md">江峰：战争爆发以来最大的坦克战！美军零宣传的低调武器让俄军武赫莱达大吃苦头----RAAM弹投坦克雷这样用【江峰·视界·军事20230416第6集】</a></li>
 <li><a href="/cnnews/20230417/1873071.md">江苏女博士被婆婆残忍杀害：细节流出，太可怕</a></li>
 <li><a href="/baitai/20230417/1873259.md">几大崩塌信号 中国人要过苦日子了？</a></li>
-<li><a href="/sohnews/20230417/1873010.md">陈破空：中国经济没戏了！广交会数蚊子。美菲军演吓坏土共，竟拿15万人质做威胁！德国切断对中国半导体供应。中国巨轮在俄国水域遭神秘撞沉。激战巴赫姆特。直播与互动。美东4月16日晚8点、即中港台4月17日早8点</a></li>
 <li><a href="/cnnews/20230417/1873168.md">洛杉矶发生暴乱：数百人打砸抢，警察都不敢靠近</a></li>
 <li><a href="/sports/20230417/1873156.md">刚刚，姚明一脸严肃，公开发声：十分痛心…</a></li>
+<li><a href="/topimagenews/20230417/1873154.md">乌克兰大搞敌后破坏? 三起俄罗斯境内攻击事件接连发生 俄国难应付</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230418/1873441.md" target="_blank">“王权特许，先斩后奏”，这就是农管</a></li>
 <li><a href="/topimagenews/20230417/1873275.md" target="_blank">北京罕见松绑！楼市，已经乱套了；暴亏95%！网红炒股大V不能信</a></li>
 <li><a href="/topimagenews/20230417/1873226.md" target="_blank">比美通膨炸锅更恐怖？谢金河曝中国经济未爆弹…</a></li>
 <li><a href="/topimagenews/20230417/1873166.md" target="_blank">揭马英九价值 绿委大叹：曾经765万票前总统只剩无效统战的功能</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230415/1872585.md" target="_blank">援助俄军美国制裁12家中企； 网曝内部会议数据 上海高校生就业率仅33%；上海税收崩了</a></li>
 <li><a href="/topimagenews/20230415/1872578.md" target="_blank">又承诺！秦刚允不卖乌俄军火 德外长：怀疑为何不要求侵略者停战</a></li>
 <li><a href="/topimagenews/20230415/1872574.md" target="_blank">美媒：马克宏发表“弃台论”分散法国年金改革压力 却破坏美欧关系</a></li>
-<li><a href="/topimagenews/20230415/1872573.md" target="_blank">没后台 银行多出100万！中国农村警校生“一毛都没花”遭判无期徒刑</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
 <li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
 
 </ul>
 </div>
