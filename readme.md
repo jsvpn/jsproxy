@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20230417/1873014.md">太吓人了！中国就业的最后一根支柱也塌了</a></li>
 <li><a href="/comments/20230416/1872899.md">李强重提李克强老调 就业形势冲击中南海</a></li>
 <li><a href="/sohnews/20230416/1872864.md">T-90被吹破，在乌克兰战场被摧毁的方式证明是假货｜【#时事军事】#时事军事夏洛山</a></li>
-<li><a href="/baitai/20230416/1872832.md">周有光：要么和平过渡，要么…总之是要变</a></li>
 <li><a href="/cbnews/20230416/1872863.md">中共官媒大忽悠：旅游需求井喷 网友：喷油还是天然气【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230417/1873043.md">这位中共官场大佬的简历，是我见过最厉害的</a></li>
 <li><a href="/ssgc/20230416/1872912.md">新征兵条例有重点 北京目的何在</a></li>
 <li><a href="/cbnews/20230417/1873013.md">〖兲朝浮世绘〗黑龙江开始抢钱了</a></li>
 <li><a href="/health/20230416/1872857.md">突然一阵眩晕，几秒钟就好了，究竟是什么原因？</a></li>
-<li><a href="/topimagenews/20230417/1873043.md">这位中共官场大佬的简历，是我见过最厉害的</a></li>
 <li><a href="/cbnews/20230417/1872984.md">云南泼水节被斥变味：这是泼水节还是耍流氓？</a></li>
 <li><a href="/sohnews/20230416/1872934.md">中共战狼变绵羊？余茂春一语戳破</a></li>
 <li><a href="/cnnews/20230417/1873017.md">中共军人惨被绿 大内宣翻车</a></li>
-<li><a href="/headline/20230417/1872968.md">李尚福抵达莫斯科 普京立即与他会面</a></li>
 <li><a href="/topimagenews/20230417/1873094.md">【微博精粹】广交会：我们终于成功把外国人赶出了中国，中国又赢麻了</a></li>
+<li><a href="/headline/20230417/1872968.md">李尚福抵达莫斯科 普京立即与他会面</a></li>
+<li><a href="/cnnews/20230417/1873072.md">网曝上海某房企再现小三“艳照门”照流出</a></li>
 <li><a href="/comments/20230416/1872900.md">中共高层不和？美泄密文件揭间谍气球更多内幕</a></li>
 <li><a href="/baitai/20230416/1872892.md">科学证据：人一生的记忆会在死亡前回放</a></li>
 <li><a href="/lifebaike/20230417/1872989.md">刘备错失的最大英才，临死遗言竟是“我吃鱼了”</a></li>
-<li><a href="/cnnews/20230417/1873072.md">网曝上海某房企再现小三“艳照门”照流出</a></li>
 <li><a href="/comments/20230417/1872970.md">李燕铭：李源潮旧部副部级高官刘捍东落马 罗志军自杀身亡半个月后前财务大管家被查 南京官场高危 两任市长两任市委书记相继落马 习近平连任后大清洗（十五） 江泽民江苏帮政变谋刺习近平 习绝地反击（三五）</a></li>
 <li><a href="/yule/20230417/1872998.md">41岁宋慧乔现身梵蒂冈，被拍下纯素颜生图</a></li>
 <li><a href="/cnnews/20230416/1872838.md">安徽高空特技表演“强调无防护” 演员竟从10米多高空摔死</a></li>
+<li><a href="/finance/20230417/1873066.md">深度：各种迹象证明中国经济进入大萧条</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230417/1873159.md" target="_blank">包皮割到一半，医院突喊“加价” 他清醒后竟…</a></li>
 <li><a href="/cbnews/20230417/1873155.md" target="_blank">突发！千亿浙商大佬去世，享年73岁</a></li>
 <li><a href="/cbnews/20230417/1873146.md" target="_blank">梦到7个月大儿子“满脸是血”！妈调监视器见这幕惊呆：母子连心</a></li>
 <li><a href="/cbnews/20230417/1873142.md" target="_blank">中共海军恐沦纸老虎 专家：美军这3大武器全面压制共军航母</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230416/1872809.md" target="_blank">赖清德：台海战将带来全球灾难 中共难承受</a></li>
 <li><a href="/cbnews/20230416/1872793.md" target="_blank">中共航天专家指遭境外策反 出卖情报被判7年</a></li>
 <li><a href="/comments/20230416/1872771.md" target="_blank">【杰森视角】揭批刘亚洲的文章在中共官网出现又消失！刘亚洲借武力攻台的话题煽动反习？这些红二代犯了同样错误！专案组找不到习近平讲的刘亚洲政治阴谋证据！刘亚洲主动交代和7个国防大学女教师有婚外情？</a></li>
-<li><a href="/cbnews/20230416/1872725.md" target="_blank">辗压中共航母编队 美杀手锏多多 最厉害是它们</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 <li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
 <li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
 <li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
 
 </ul>
 </div>
