@@ -24,8 +24,8 @@
 <li><a href="/yule/20230417/1872998.md">41岁宋慧乔现身梵蒂冈，被拍下纯素颜生图</a></li>
 <li><a href="/cnnews/20230417/1873157.md">老公带我去爬山，逃过一劫后，我发现了他的秘密</a></li>
 <li><a href="/cbnews/20230417/1873105.md">江峰：战争爆发以来最大的坦克战！美军零宣传的低调武器让俄军武赫莱达大吃苦头----RAAM弹投坦克雷这样用【江峰·视界·军事20230416第6集】</a></li>
-<li><a href="/cnnews/20230417/1873071.md">江苏女博士被婆婆残忍杀害：细节流出，太可怕</a></li>
 <li><a href="/cbnews/20230417/1873118.md">乌克兰大反攻！乌军胜利解放扎波罗热4小镇 大批乌军准备上战场</a></li>
+<li><a href="/cnnews/20230417/1873071.md">江苏女博士被婆婆残忍杀害：细节流出，太可怕</a></li>
 <li><a href="/sohnews/20230417/1873010.md">陈破空：中国经济没戏了！广交会数蚊子。美菲军演吓坏土共，竟拿15万人质做威胁！德国切断对中国半导体供应。中国巨轮在俄国水域遭神秘撞沉。激战巴赫姆特。直播与互动。美东4月16日晚8点、即中港台4月17日早8点</a></li>
 <li><a href="/yule/20230417/1872978.md">71岁刘晓庆上海出席活动 一头乌发浓妆亮相</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230417/1873291.md" target="_blank">时事大家谈：中国防长访问俄罗斯，世界担心中国武器援俄？德法对华不同调，谁更代表欧洲共识？</a></li>
+<li><a href="/comments/20230417/1873290.md" target="_blank">【杜耀明评论】宣传即新闻、政治即专业：伍淑娟检察官移党媒之花接《立场》之木</a></li>
+<li><a href="/comments/20230417/1873285.md" target="_blank">【新闻拍案惊奇】普京化疗期间发动政变？密件揭台海忧虑</a></li>
+<li><a href="/comments/20230417/1873284.md" target="_blank">全世界最贵的大葱！1000元1把！到底有多好吃？</a></li>
 <li><a href="/comments/20230417/1873261.md" target="_blank">Rh阴性血来自外太空？</a></li>
 <li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
 <li><a href="/comments/20230417/1873256.md" target="_blank">四川男斧头砍杀女友 潜逃27年后落网称“如释重负”</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230417/1873064.md" target="_blank">天亮时分：中共新徵兵条例，在大学抓壮丁打台湾？中共国防部长访俄，三迹象显示普京快不行了；蓬佩奥宣布2024不参选（政论天下第988集 20230416）天亮时分</a></li>
 <li><a href="/comments/20230417/1873051.md" target="_blank">没能报效祖国 却被祖国报销的名家</a></li>
 <li><a href="/comments/20230417/1873050.md" target="_blank">洪博学：李强够强吗？</a></li>
-<li><a href="/comments/20230417/1873036.md" target="_blank">真实外星人绑架事件（1/2）</a></li>
-<li><a href="/comments/20230417/1873012.md" target="_blank">蚩尤与巨人之谜</a></li>
-<li><a href="/comments/20230417/1872985.md" target="_blank">日本首相，为啥要为自己遇刺向国民道歉？</a></li>
-<li><a href="/comments/20230417/1872976.md" target="_blank">“您少说一句，人们就踏实一分”……</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 
 </ul>
 </div>
