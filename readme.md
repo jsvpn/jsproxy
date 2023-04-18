@@ -11,13 +11,13 @@
 <li><a href="/topimagenews/20230417/1873131.md">中共高官成立“情妇招募小组” 受审当庭承认爱吃“母女丼” 还吃了73对</a></li>
 <li><a href="/finance/20230417/1873066.md">深度：各种迹象证明中国经济进入大萧条</a></li>
 <li><a href="/topimagenews/20230417/1873275.md">北京罕见松绑！楼市，已经乱套了；暴亏95%！网红炒股大V不能信</a></li>
+<li><a href="/cbnews/20230417/1873155.md">突发！千亿浙商大佬去世，享年73岁</a></li>
 <li><a href="/cnnews/20230417/1873179.md">习近平十年最大“政绩”被批!“更糟糕的腐败表现”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230417/1873226.md">比美通膨炸锅更恐怖？谢金河曝中国经济未爆弹…</a></li>
-<li><a href="/cbnews/20230417/1873155.md">突发！千亿浙商大佬去世，享年73岁</a></li>
 <li><a href="/topimagenews/20230417/1873150.md">如同保龄球！南京交警连环被撞飞 网友：交警“要钱不要命”【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230417/1873061.md">〖微博谈〗该怎么办呢</a></li>
-<li><a href="/cbnews/20230417/1873118.md">乌克兰大反攻！乌军胜利解放扎波罗热4小镇 大批乌军准备上战场</a></li>
 <li><a href="/cnnews/20230417/1873157.md">老公带我去爬山，逃过一劫后，我发现了他的秘密</a></li>
+<li><a href="/cbnews/20230417/1873118.md">乌克兰大反攻！乌军胜利解放扎波罗热4小镇 大批乌军准备上战场</a></li>
 <li><a href="/baitai/20230417/1873216.md">真正的“垃圾食品”被评出，榜首的大多数人都爱吃</a></li>
 <li><a href="/cbnews/20230417/1873105.md">江峰：战争爆发以来最大的坦克战！美军零宣传的低调武器让俄军武赫莱达大吃苦头----RAAM弹投坦克雷这样用【江峰·视界·军事20230416第6集】</a></li>
 <li><a href="/cnnews/20230417/1873071.md">江苏女博士被婆婆残忍杀害：细节流出，太可怕</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230418/1873483.md" target="_blank">美国思想领袖：广交会变天，外商没了，订单骤降，中共海关经济数据惊人；贵州逼宫中南海，地方造反？| #新闻大家谈</a></li>
 <li><a href="/cbnews/20230418/1873465.md" target="_blank">美国思想领袖：中共国防部长李尚福访俄，释放危险信号；G7集团警惕！中欧关系，走向已定？CNN揭穿习近平突出问题！| #新闻大家谈</a></li>
 <li><a href="/comments/20230418/1873449.md" target="_blank">美国开先例！首起针对中共海外警局的起诉和逮捕！同时起诉40中共警察 ｜横河 方菲｜新闻烽火台04/17</a></li>
 <li><a href="/cbnews/20230418/1873392.md" target="_blank">越多越好，中共军事人员进驻印度洋上的大岛….</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20230417/1873063.md" target="_blank">美国思想领袖：全民学习选时代！| #新闻大家谈</a></li>
 <li><a href="/comments/20230417/1873036.md" target="_blank">真实外星人绑架事件（1/2）</a></li>
 <li><a href="/cbnews/20230417/1873013.md" target="_blank">〖兲朝浮世绘〗黑龙江开始抢钱了</a></li>
-<li><a href="/comments/20230417/1873012.md" target="_blank">蚩尤与巨人之谜</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230418/1873470.md" target="_blank">放弃27万亿市场 又一家基金公司“润”出中国</a></li>
 <li><a href="/topimagenews/20230418/1873458.md" target="_blank">苹果何以称霸美智慧手机市场？理由意想不到</a></li>
 <li><a href="/topimagenews/20230418/1873441.md" target="_blank">“王权特许，先斩后奏”，这就是农管</a></li>
 <li><a href="/topimagenews/20230417/1873275.md" target="_blank">北京罕见松绑！楼市，已经乱套了；暴亏95%！网红炒股大V不能信</a></li>
@@ -90,13 +91,17 @@
 <li><a href="/topimagenews/20230416/1872638.md" target="_blank">德媒：德强硬女外长在北京态度果决 比磕头的马克龙带来更多机遇</a></li>
 <li><a href="/topimagenews/20230416/1872636.md" target="_blank">北京很猖狂！泄密文件曝中共间谍气球事件 有很多 1个飞越美航母</a></li>
 <li><a href="/topimagenews/20230415/1872585.md" target="_blank">援助俄军美国制裁12家中企； 网曝内部会议数据 上海高校生就业率仅33%；上海税收崩了</a></li>
-<li><a href="/topimagenews/20230415/1872578.md" target="_blank">又承诺！秦刚允不卖乌俄军火 德外长：怀疑为何不要求侵略者停战</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230418/1873472.md" target="_blank">洪博学：武吓之后的经贸战</a></li>
+<li><a href="/comments/20230418/1873471.md" target="_blank">刘亚洲：美国真正的可怕之处在哪儿？</a></li>
+<li><a href="/comments/20230418/1873469.md" target="_blank">中央港澳高层名单浮出 全是习近平人马</a></li>
+<li><a href="/comments/20230418/1873468.md" target="_blank">G7外长峰会第二天 聚焦中俄威胁台海安全</a></li>
+<li><a href="/comments/20230418/1873466.md" target="_blank">中共官媒炒大学生洗鞋2月赚8万 被批“灌鸡汤”</a></li>
 <li><a href="/comments/20230418/1873459.md" target="_blank">北京当心！美军全军种投入</a></li>
 <li><a href="/comments/20230418/1873457.md" target="_blank">文昭：中共再下「以粮为纲」硬指标，粮食出大问题？8000万超龄农民工被抛弃，啥後果？</a></li>
 <li><a href="/comments/20230418/1873449.md" target="_blank">美国开先例！首起针对中共海外警局的起诉和逮捕！同时起诉40中共警察 ｜横河 方菲｜新闻烽火台04/17</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230417/1873125.md" target="_blank">真实外星人绑架事件（2/2）</a></li>
 <li><a href="/comments/20230417/1873107.md" target="_blank">瓦格纳的绝境：巴赫穆特陷阱</a></li>
 <li><a href="/comments/20230417/1873102.md" target="_blank">【独家重磅】李燕铭：习近平闽江新军与彭丽媛山东老乡接管李克强弟李克明地盘 展开大清洗 李克明被悄悄免职 郭声琨肖亚庆旧部密集落马 习家军接掌国务院（十九） 习近平连任后大清洗（十六） 习近平李克强明争暗斗内幕（九五）</a></li>
-<li><a href="/comments/20230417/1873097.md" target="_blank">二大爷：“鸦片战争”这词，对中国人理解近代史误导太大</a></li>
-<li><a href="/comments/20230417/1873089.md" target="_blank">吴奕军：不当美国附庸 也不要当中国“有用的白痴”</a></li>
-<li><a href="/comments/20230417/1873081.md" target="_blank">李濠仲：联合国记者接连提台湾会带来更多变化</a></li>
-<li><a href="/comments/20230417/1873079.md" target="_blank">冯小刚沉默良久突发声：隆重推荐范冰冰主演电影，自嘲举着护照说没润有点傻，还提到张艺谋《满江红》</a></li>
-<li><a href="/comments/20230417/1873070.md" target="_blank">上官乱：台湾猪肉涨价众人骂 对岸猪肉降价银行和企业都在哭</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 <li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
 
 </ul>
 </div>
