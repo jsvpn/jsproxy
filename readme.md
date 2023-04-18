@@ -11,23 +11,23 @@
 <li><a href="/cbnews/20230418/1873383.md">重重压力，全球最大债主中国考虑作出让步</a></li>
 <li><a href="/baitai/20230418/1873434.md">曾传接替易纲 习近平心腹辞任中信银行董事长 新职引猜测</a></li>
 <li><a href="/sohnews/20230418/1873430.md">突发！ 美国起诉40名中共警官，同一天2名亲共侨领被抓；听中共命令，到美国镇压，多年黑箱纪录被曝光。</a></li>
-<li><a href="/topimagenews/20230418/1873518.md">【微博精粹】黄俄党率领墙国走向一个又一个挨揍时刻</a></li>
 <li><a href="/comments/20230418/1873471.md">刘亚洲：美国真正的可怕之处在哪儿？</a></li>
+<li><a href="/topimagenews/20230418/1873518.md">【微博精粹】黄俄党率领墙国走向一个又一个挨揍时刻</a></li>
 <li><a href="/cnnews/20230418/1873387.md">全美过去一周最快走红的女生 15秒钟让无数人恋爱</a></li>
 <li><a href="/topimagenews/20230418/1873602.md">大外宣玩砸了！说谁"一声不响，二目无光，四肢无力，五官不正.."？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230418/1873384.md">G7外长会给北京戴上“紧箍咒”！汪文斌强硬回击</a></li>
 <li><a href="/cbnews/20230418/1873577.md">〖兲朝浮世绘〗反对德国干涉我们造谣忽悠本国粉红们的自由</a></li>
-<li><a href="/topimagenews/20230418/1873568.md">“别让任何人出去 全部射杀”!瓦格纳首脑被控亲自下令屠杀24孩童</a></li>
 <li><a href="/yule/20230418/1873495.md">尴尬！汪峰洛阳演唱会惨淡收场，场馆空荡荡，最后10分钟免费放人</a></li>
+<li><a href="/topimagenews/20230418/1873568.md">“别让任何人出去 全部射杀”!瓦格纳首脑被控亲自下令屠杀24孩童</a></li>
 <li><a href="/topimagenews/20230418/1873581.md">印度神童预言警告台湾小心５月 日本跟世界也都要注意10件事</a></li>
 <li><a href="/topimagenews/20230418/1873470.md">放弃27万亿市场 又一家基金公司“润”出中国</a></li>
+<li><a href="/topimagenews/20230418/1873630.md">美元地位崩坏！关键数据泄败象 但1原因还是辗压人民币</a></li>
 <li><a href="/sohnews/20230417/1873326.md">美国德州禁止华人买房 有绿卡也不能幸免｜#时事金扫描 #shorts</a></li>
 <li><a href="/ssgc/20230418/1873379.md">中国广交会遇冷 专家：出口红利被耗尽</a></li>
 <li><a href="/topimagenews/20230418/1873441.md">“王权特许，先斩后奏”，这就是农管</a></li>
-<li><a href="/topimagenews/20230418/1873536.md">“华为开始养猪了”还不肯示弱！矢板明夫：中国高科技产业是建筑在沙滩上的楼阁</a></li>
+<li><a href="/cbnews/20230418/1873591.md">王沪宁和陈伯达的结局会不会一样？</a></li>
 <li><a href="/sohnews/20230418/1873561.md">刘亚洲死缓、被关白庙、装疯卖傻？刘亚洲被抓的真实原因。｜薇羽看世间 第644期 20230417</a></li>
-<li><a href="/cnnews/20230418/1873594.md">失业潮或将铸成冲毁中共政权的暗流</a></li>
-<li><a href="/topimagenews/20230418/1873630.md">美元地位崩坏！关键数据泄败象 但1原因还是辗压人民币</a></li>
+<li><a href="/topimagenews/20230418/1873536.md">“华为开始养猪了”还不肯示弱！矢板明夫：中国高科技产业是建筑在沙滩上的楼阁</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230418/1873745.md" target="_blank">北京长峰医院大火已酿21死！跳窗逃生影片曝光</a></li>
 <li><a href="/topimagenews/20230418/1873719.md" target="_blank">这样一来 中国穷人和富人都没钱了；东三省养老金亏空1900亿，谁来补？</a></li>
 <li><a href="/topimagenews/20230418/1873630.md" target="_blank">美元地位崩坏！关键数据泄败象 但1原因还是辗压人民币</a></li>
 <li><a href="/topimagenews/20230418/1873602.md" target="_blank">大外宣玩砸了！说谁&#8221;一声不响，二目无光，四肢无力，五官不正..&#8221;？【阿波罗网报道】</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20230417/1873131.md" target="_blank">中共高官成立“情妇招募小组” 受审当庭承认爱吃“母女丼” 还吃了73对</a></li>
 <li><a href="/topimagenews/20230417/1873095.md" target="_blank">俄罗斯训练白俄罗斯Su-25飞行员使用战术核武</a></li>
 <li><a href="/topimagenews/20230417/1873094.md" target="_blank">【微博精粹】广交会：我们终于成功把外国人赶出了中国，中国又赢麻了</a></li>
-<li><a href="/topimagenews/20230417/1873043.md" target="_blank">这位中共官场大佬的简历，是我见过最厉害的</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230418/1873744.md" target="_blank">文昭：政府：老乡们回家种地吧，把搬砖和送外卖的机会留给城市青年吧</a></li>
+<li><a href="/comments/20230418/1873742.md" target="_blank">美破获中国海外警局起诉34人 曝光特工长相及作案手法</a></li>
 <li><a href="/comments/20230418/1873741.md" target="_blank">【突发】北京长峰医院今午失火21人死亡 影片曝病患惊险逃生</a></li>
 <li><a href="/comments/20230418/1873723.md" target="_blank">因记录武汉疫情遭祕密判刑3年 方斌4月底出狱</a></li>
 <li><a href="/comments/20230418/1873722.md" target="_blank">罗马发现2千年前豪华酒庄 考古学者惊叹：太奢华</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230417/1873290.md" target="_blank">【杜耀明评论】宣传即新闻、政治即专业：伍淑娟检察官移党媒之花接《立场》之木</a></li>
 <li><a href="/comments/20230417/1873285.md" target="_blank">【新闻拍案惊奇】普京化疗期间发动政变？密件揭台海忧虑</a></li>
 <li><a href="/comments/20230417/1873284.md" target="_blank">全世界最贵的大葱！1000元1把！到底有多好吃？</a></li>
-<li><a href="/comments/20230417/1873261.md" target="_blank">Rh阴性血来自外太空？</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 
 </ul>
 </div>
