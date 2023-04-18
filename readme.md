@@ -17,15 +17,15 @@
 <li><a href="/topimagenews/20230418/1873602.md">大外宣玩砸了！说谁"一声不响，二目无光，四肢无力，五官不正.."？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230418/1873384.md">G7外长会给北京戴上“紧箍咒”！汪文斌强硬回击</a></li>
 <li><a href="/cbnews/20230418/1873577.md">〖兲朝浮世绘〗反对德国干涉我们造谣忽悠本国粉红们的自由</a></li>
-<li><a href="/yule/20230418/1873495.md">尴尬！汪峰洛阳演唱会惨淡收场，场馆空荡荡，最后10分钟免费放人</a></li>
 <li><a href="/topimagenews/20230418/1873568.md">“别让任何人出去 全部射杀”!瓦格纳首脑被控亲自下令屠杀24孩童</a></li>
-<li><a href="/topimagenews/20230418/1873581.md">印度神童预言警告台湾小心５月 日本跟世界也都要注意10件事</a></li>
-<li><a href="/topimagenews/20230418/1873470.md">放弃27万亿市场 又一家基金公司“润”出中国</a></li>
+<li><a href="/yule/20230418/1873495.md">尴尬！汪峰洛阳演唱会惨淡收场，场馆空荡荡，最后10分钟免费放人</a></li>
 <li><a href="/topimagenews/20230418/1873630.md">美元地位崩坏！关键数据泄败象 但1原因还是辗压人民币</a></li>
-<li><a href="/sohnews/20230417/1873326.md">美国德州禁止华人买房 有绿卡也不能幸免｜#时事金扫描 #shorts</a></li>
-<li><a href="/ssgc/20230418/1873379.md">中国广交会遇冷 专家：出口红利被耗尽</a></li>
-<li><a href="/topimagenews/20230418/1873441.md">“王权特许，先斩后奏”，这就是农管</a></li>
+<li><a href="/topimagenews/20230418/1873581.md">印度神童预言警告台湾小心５月 日本跟世界也都要注意10件事</a></li>
 <li><a href="/cbnews/20230418/1873591.md">王沪宁和陈伯达的结局会不会一样？</a></li>
+<li><a href="/topimagenews/20230418/1873470.md">放弃27万亿市场 又一家基金公司“润”出中国</a></li>
+<li><a href="/sohnews/20230417/1873326.md">美国德州禁止华人买房 有绿卡也不能幸免｜#时事金扫描 #shorts</a></li>
+<li><a href="/topimagenews/20230418/1873441.md">“王权特许，先斩后奏”，这就是农管</a></li>
+<li><a href="/ssgc/20230418/1873379.md">中国广交会遇冷 专家：出口红利被耗尽</a></li>
 <li><a href="/sohnews/20230418/1873561.md">刘亚洲死缓、被关白庙、装疯卖傻？刘亚洲被抓的真实原因。｜薇羽看世间 第644期 20230417</a></li>
 <li><a href="/topimagenews/20230418/1873536.md">“华为开始养猪了”还不肯示弱！矢板明夫：中国高科技产业是建筑在沙滩上的楼阁</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230418/1873768.md" target="_blank">厢型车辗压马路大布袋 里面竟然“有个小孩”</a></li>
 <li><a href="/cbnews/20230418/1873727.md" target="_blank">花85元买椰子螺 惊见“稀世龙珠”！专家鉴定秒喊10万收购</a></li>
 <li><a href="/cbnews/20230418/1873725.md" target="_blank">忧现有AI破坏文明 马斯克将开发TruthGPT</a></li>
 <li><a href="/cbnews/20230418/1873591.md" target="_blank">王沪宁和陈伯达的结局会不会一样？</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20230417/1873142.md" target="_blank">中共海军恐沦纸老虎 专家：美军这3大武器全面压制共军航母</a></li>
 <li><a href="/comments/20230417/1873125.md" target="_blank">真实外星人绑架事件（2/2）</a></li>
 <li><a href="/cbnews/20230417/1873118.md" target="_blank">乌克兰大反攻！乌军胜利解放扎波罗热4小镇 大批乌军准备上战场</a></li>
-<li><a href="/cbnews/20230417/1873114.md" target="_blank">离奇：女子试管产龙凤胎，女儿却与丈夫无血缘…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230418/1873767.md" target="_blank">网络摄影机突“东张西望”！女子家中惊恐亲睹 镜头竟还出声：我在呢</a></li>
 <li><a href="/topimagenews/20230418/1873745.md" target="_blank">北京长峰医院大火已酿21死！跳窗逃生影片曝光</a></li>
 <li><a href="/topimagenews/20230418/1873719.md" target="_blank">这样一来 中国穷人和富人都没钱了；东三省养老金亏空1900亿，谁来补？</a></li>
 <li><a href="/topimagenews/20230418/1873630.md" target="_blank">美元地位崩坏！关键数据泄败象 但1原因还是辗压人民币</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230417/1873150.md" target="_blank">如同保龄球！南京交警连环被撞飞 网友：交警“要钱不要命”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230417/1873131.md" target="_blank">中共高官成立“情妇招募小组” 受审当庭承认爱吃“母女丼” 还吃了73对</a></li>
 <li><a href="/topimagenews/20230417/1873095.md" target="_blank">俄罗斯训练白俄罗斯Su-25飞行员使用战术核武</a></li>
-<li><a href="/topimagenews/20230417/1873094.md" target="_blank">【微博精粹】广交会：我们终于成功把外国人赶出了中国，中国又赢麻了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
 <li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
 
 </ul>
 </div>
