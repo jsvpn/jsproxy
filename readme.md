@@ -15,8 +15,8 @@
 <li><a href="/topimagenews/20230418/1873568.md">“别让任何人出去 全部射杀”!瓦格纳首脑被控亲自下令屠杀24孩童</a></li>
 <li><a href="/headline/20230418/1873684.md">中国抗议美国逮捕中国秘密警察</a></li>
 <li><a href="/topimagenews/20230418/1873630.md">美元地位崩坏！关键数据泄败象 但1原因还是辗压人民币</a></li>
-<li><a href="/baitai/20230418/1873668.md">日本前第一夫人鸠山美雪自称乘坐UFO造访金星 前世遇见汤姆克鲁斯</a></li>
 <li><a href="/cbnews/20230418/1873591.md">王沪宁和陈伯达的结局会不会一样？</a></li>
+<li><a href="/baitai/20230418/1873668.md">日本前第一夫人鸠山美雪自称乘坐UFO造访金星 前世遇见汤姆克鲁斯</a></li>
 <li><a href="/topimagenews/20230418/1873581.md">印度神童预言警告台湾小心５月 日本跟世界也都要注意10件事</a></li>
 <li><a href="/sohnews/20230418/1873561.md">刘亚洲死缓、被关白庙、装疯卖傻？刘亚洲被抓的真实原因。｜薇羽看世间 第644期 20230417</a></li>
 <li><a href="/topimagenews/20230418/1873470.md">放弃27万亿市场 又一家基金公司“润”出中国</a></li>
@@ -24,9 +24,9 @@
 <li><a href="/baitai/20230418/1873715.md">致印度连续多日确诊破万 新冠变种Arcturus传入中国 感染者现一新症状</a></li>
 <li><a href="/topimagenews/20230418/1873441.md">“王权特许，先斩后奏”，这就是农管</a></li>
 <li><a href="/cnnews/20230418/1873594.md">失业潮或将铸成冲毁中共政权的暗流</a></li>
+<li><a href="/topimagenews/20230418/1873767.md">网络摄影机突“东张西望”！女子家中惊恐亲睹 镜头竟还出声：我在呢</a></li>
 <li><a href="/cnnews/20230418/1873637.md">中国梦正在成为中南海噩梦</a></li>
 <li><a href="/cnnews/20230418/1873604.md">曝苹果6月发表10年来首款“革命级新品”</a></li>
-<li><a href="/topimagenews/20230418/1873767.md">网络摄影机突“东张西望”！女子家中惊恐亲睹 镜头竟还出声：我在呢</a></li>
 <li><a href="/topimagenews/20230418/1873536.md">“华为开始养猪了”还不肯示弱！矢板明夫：中国高科技产业是建筑在沙滩上的楼阁</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230419/1873874.md" target="_blank">【新闻烽火台04/18】3月经济数据显示复苏？中国经济真实情况是什么样？</a></li>
 <li><a href="/cbnews/20230419/1873846.md" target="_blank">中共海外警察太嚣张 加国华人富商起诉</a></li>
 <li><a href="/cbnews/20230418/1873793.md" target="_blank">法式鹅肝连点8份…贵阳女吃自助餐5顿、点菜4万元 竟偷打包</a></li>
 <li><a href="/cbnews/20230418/1873768.md" target="_blank">厢型车辗压马路大布袋 里面竟然“有个小孩”</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230417/1873159.md" target="_blank">包皮割到一半，医院突喊“加价” 他清醒后竟…</a></li>
 <li><a href="/cbnews/20230417/1873155.md" target="_blank">突发！千亿浙商大佬去世，享年73岁</a></li>
 <li><a href="/cbnews/20230417/1873146.md" target="_blank">梦到7个月大儿子“满脸是血”！妈调监视器见这幕惊呆：母子连心</a></li>
-<li><a href="/cbnews/20230417/1873142.md" target="_blank">中共海军恐沦纸老虎 专家：美军这3大武器全面压制共军航母</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230419/1873878.md" target="_blank">谢田：中共逆袭欲撕裂欧美 马克龙打错算盘</a></li>
+<li><a href="/comments/20230419/1873877.md" target="_blank">同根：胡鑫宇自杀伪案与天安门自焚伪案</a></li>
+<li><a href="/comments/20230419/1873876.md" target="_blank">古啸：食盐大数据泄密中国人口数量大幅下滑</a></li>
+<li><a href="/comments/20230419/1873875.md" target="_blank">王友群：西路军全军覆灭 谁应负最大责任？</a></li>
+<li><a href="/comments/20230419/1873874.md" target="_blank">【新闻烽火台04/18】3月经济数据显示复苏？中国经济真实情况是什么样？</a></li>
 <li><a href="/comments/20230419/1873866.md" target="_blank">中国2023年可能会出现六种坏情况 公务员铁饭碗保不住排第三</a></li>
 <li><a href="/comments/20230419/1873812.md" target="_blank">时事大家谈：习近平分化策略能否奏效 G7是试金石？</a></li>
 <li><a href="/comments/20230419/1873811.md" target="_blank">时事大家谈：五角大楼泄密文件 泄露中共哪些秘密？</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230418/1873570.md" target="_blank">马克龙惨成北约标靶 选错了地点 选错了时机</a></li>
 <li><a href="/comments/20230418/1873494.md" target="_blank">施文仪：这副口罩 你“多戴”了多久时间？</a></li>
 <li><a href="/comments/20230418/1873472.md" target="_blank">洪博学：武吓之后的经贸战</a></li>
-<li><a href="/comments/20230418/1873471.md" target="_blank">刘亚洲：美国真正的可怕之处在哪儿？</a></li>
-<li><a href="/comments/20230418/1873469.md" target="_blank">中央港澳高层名单浮出 全是习近平人马</a></li>
-<li><a href="/comments/20230418/1873468.md" target="_blank">G7外长峰会第二天 聚焦中俄威胁台海安全</a></li>
-<li><a href="/comments/20230418/1873466.md" target="_blank">中共官媒炒大学生洗鞋2月赚8万 被批“灌鸡汤”</a></li>
-<li><a href="/comments/20230418/1873459.md" target="_blank">北京当心！美军全军种投入</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 <li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
 <li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 
 </ul>
 </div>
