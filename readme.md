@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20230419/1873936.md">中国经济惨况曝 习近平穷的只剩军武!不甘再做美国小弟 马克宏的背叛余波荡漾 ?比美国通膨更严重 中国失业狂潮 底层青年现”约死潮”。@democraticTaiwanChannel</a></li>
 <li><a href="/sohnews/20230419/1873918.md">20230419直播：终极敲打！新冠病毒可能源于两次中国实验室泄漏事件；团结前所未有！七国集团发布了一个‘充斥着傲慢、偏见和反华遏华险恶用心’的联合声明。（20230419 第1152期）</a></li>
-<li><a href="/sohnews/20230419/1873885.md">陈破空：背后有人，李强公开与人民为敌！悍然推翻李克强规则，从此拒绝政务公开。金正恩立马抖出习近平！遭七国严厉警告后。直播与互动。美东4月18日晚8点、即中港台4月19日早8点</a></li>
 <li><a href="/sohnews/20230419/1873934.md">美国司法部为何会如此高调起诉福建同乡会主席卢建旺？他到底做了什么？中共如何把公安执法延伸到了美国？这件事情对华人社团有什么影响？【李军访谈20230419第147期】</a></li>
 <li><a href="/sohnews/20230419/1873930.md">文睿：一段话，直击灵魂，中国人，最后的退路堵死了</a></li>
 <li><a href="/sohnews/20230419/1873941.md">美总统顾问 揭刘亚洲被抓原因｜#林澜对话 #shorts</a></li>
@@ -17,8 +16,8 @@
 <li><a href="/sohnews/20230419/1873935.md">💥美国1天内连发3项刑事诉讼, 被告全是华人! 真实案例: 中共如何利用华侨控制华侨, 广布间谍网? 海外华人必看, 警惕好心背后的“危险”!【20230419】</a></li>
 <li><a href="/sohnews/20230419/1873938.md">陈破空：北京惊天大火，29人亡！特斯拉罕见缺席上海车展。广交会交易惨淡。美国日渐认定武汉来源，证据确凿。直播与互动。美东4月19日早8点30、即中港台4月19日晚8点30</a></li>
 <li><a href="/sohnews/20230419/1873894.md">鲜为人知！周恩来给俄爹斯大林抬棺材守灵，他给自己父母做过吗？所以党媒几十年来回避这个丑闻，生怕P民讽刺你党丢人现眼【欺世大观】193</a></li>
-<li><a href="/sohnews/20230419/1873926.md">“全职儿女”新职业横空出世！经济困境惹人忧；中共在各行业“抄底”刮民膏，地方债务高筑，医生抗疫奖金还被追回，中下层公务员也成韭菜；城管之外又设“农管” ，配电棍，核心业务罚款创收｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20230419/1873908.md">2共谍临刑25年，美通缉34嫌犯，特工照片被曝光；统战布局遭重创，中共将无人可用；美国连出重拳的背后【新闻看点 李沐阳4.18】</a></li>
+<li><a href="/sohnews/20230419/1873926.md">“全职儿女”新职业横空出世！经济困境惹人忧；中共在各行业“抄底”刮民膏，地方债务高筑，医生抗疫奖金还被追回，中下层公务员也成韭菜；城管之外又设“农管” ，配电棍，核心业务罚款创收｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20230419/1873957.md">一个半月内结束乌战？他说:已经打得差不多了</a></li>
 <li><a href="/sohnews/20230419/1873923.md">FBI扫荡纽约华埠，端掉中共秘密警察据点！运作秘密警局，“长乐公会”是如何帮中共迫害美国公民的？【新闻最嘲点 姜光宇】2023.0418</a></li>
 <li><a href="/sohnews/20230419/1873891.md">🔥🔥人间4月现异象❗中国人的灾难又来了❗</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/sohnews/20230419/1873968.md">“美国再抓捕 6名中共国海外警察👮👮👮 👮👮👮”No.02（19/04/23）王小洪急见国际刑警组织官员（声音🔊 被干扰）</a></li>
 <li><a href="/sohnews/20230419/1873906.md">北京大火</a></li>
 <li><a href="/sohnews/20230419/1873944.md">PM2.5是致癌毒物，居家常见行为竟会制造PM2.5，炒菜、烧香都危险。来自厨房的PM2.5具高度黏附力，会积在肺里！2招预防PM2.5进体内。</a></li>
+<li><a href="/sohnews/20230419/1873969.md">“刘亚洲被判“死缓”的真伪 始末 缘由！”《今日点击》（19/04/23）2021年末质问习近平：“为什么不能善良对待香港人？”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 
 </ul>
 </div>
