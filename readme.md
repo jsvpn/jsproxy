@@ -5,10 +5,7 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230419/1873836.md">马云返国有奖赏？外媒放出背后“交易”</a></li>
 <li><a href="/sohnews/20230419/1873936.md">中国经济惨况曝 习近平穷的只剩军武!不甘再做美国小弟 马克宏的背叛余波荡漾 ?比美国通膨更严重 中国失业狂潮 底层青年现”约死潮”。@democraticTaiwanChannel</a></li>
-<li><a href="/cnnews/20230419/1873837.md">厉害 黑龙江农管1个半月搞了1.78亿，网友们还发现这些“秘密”</a></li>
-<li><a href="/yule/20230419/1873838.md">67岁周润发突然满头白发 私下真实身材竟被女星曝光</a></li>
 <li><a href="/sohnews/20230419/1873918.md">20230419直播：终极敲打！新冠病毒可能源于两次中国实验室泄漏事件；团结前所未有！七国集团发布了一个‘充斥着傲慢、偏见和反华遏华险恶用心’的联合声明。（20230419 第1152期）</a></li>
 <li><a href="/sohnews/20230419/1873885.md">陈破空：背后有人，李强公开与人民为敌！悍然推翻李克强规则，从此拒绝政务公开。金正恩立马抖出习近平！遭七国严厉警告后。直播与互动。美东4月18日晚8点、即中港台4月19日早8点</a></li>
 <li><a href="/sohnews/20230419/1873930.md">文睿：一段话，直击灵魂，中国人，最后的退路堵死了</a></li>
@@ -17,17 +14,20 @@
 <li><a href="/sohnews/20230419/1873907.md">文睿：美军，大规模进入台湾，这一天终于来了</a></li>
 <li><a href="/sohnews/20230419/1873935.md">💥美国1天内连发3项刑事诉讼, 被告全是华人! 真实案例: 中共如何利用华侨控制华侨, 广布间谍网? 海外华人必看, 警惕好心背后的“危险”!【20230419】</a></li>
 <li><a href="/sohnews/20230419/1873938.md">陈破空：北京惊天大火，29人亡！特斯拉罕见缺席上海车展。广交会交易惨淡。美国日渐认定武汉来源，证据确凿。直播与互动。美东4月19日早8点30、即中港台4月19日晚8点30</a></li>
+<li><a href="/sohnews/20230419/1873942.md">进“龙班”  刘亚洲是谁的人？｜#林澜对话 #shorts</a></li>
 <li><a href="/sohnews/20230419/1873926.md">“全职儿女”新职业横空出世！经济困境惹人忧；中共在各行业“抄底”刮民膏，地方债务高筑，医生抗疫奖金还被追回，中下层公务员也成韭菜；城管之外又设“农管” ，配电棍，核心业务罚款创收｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20230419/1873928.md">1949年1月，张东荪在西柏坡会见毛泽东时，毛对他的走中间道路提出批评。张回家后对家人说，与毛“话不投机”⋯⋯｜ #百年真相</a></li>
-<li><a href="/sohnews/20230419/1873942.md">进“龙班”  刘亚洲是谁的人？｜#林澜对话 #shorts</a></li>
 <li><a href="/sohnews/20230419/1873908.md">2共谍临刑25年，美通缉34嫌犯，特工照片被曝光；统战布局遭重创，中共将无人可用；美国连出重拳的背后【新闻看点 李沐阳4.18】</a></li>
 <li><a href="/sohnews/20230419/1873894.md">鲜为人知！周恩来给俄爹斯大林抬棺材守灵，他给自己父母做过吗？所以党媒几十年来回避这个丑闻，生怕P民讽刺你党丢人现眼【欺世大观】193</a></li>
+<li><a href="/sohnews/20230419/1873957.md">一个半月内结束乌战？他说:已经打得差不多了</a></li>
 <li><a href="/sohnews/20230419/1873923.md">FBI扫荡纽约华埠，端掉中共秘密警察据点！运作秘密警局，“长乐公会”是如何帮中共迫害美国公民的？【新闻最嘲点 姜光宇】2023.0418</a></li>
 <li><a href="/comments/20230419/1873874.md">【新闻烽火台04/18】3月经济数据显示复苏？中国经济真实情况是什么样？</a></li>
 <li><a href="/topimagenews/20230419/1873868.md">一个半月内结束乌战？他说 : 已经打得差不多了</a></li>
-<li><a href="/sohnews/20230419/1873957.md">一个半月内结束乌战？他说:已经打得差不多了</a></li>
 <li><a href="/comments/20230419/1873875.md">王友群：西路军全军覆灭 谁应负最大责任？</a></li>
 <li><a href="/sohnews/20230419/1873891.md">🔥🔥人间4月现异象❗中国人的灾难又来了❗</a></li>
+<li><a href="/sohnews/20230419/1873910.md">文章不但一口咬定张东荪向美国出卖情报，完了还不忘加一句“我党宽宏大量”。不过，事实真的如此吗？｜ #百年真相</a></li>
+<li><a href="/sohnews/20230419/1873943.md">1949年初之前，中共根本没有作出出兵朝鲜的决定，也没有编制国家财经预算，张东荪怎么“出卖”这两个不存在的“国家核心机密”呢？｜ #百年真相</a></li>
+<li><a href="/comments/20230419/1873876.md">古啸：食盐大数据泄密中国人口数量大幅下滑</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
 <li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 
 </ul>
 </div>
