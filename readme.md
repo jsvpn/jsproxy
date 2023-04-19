@@ -16,17 +16,17 @@
 <li><a href="/cnnews/20230418/1873770.md">银行发抖？苹果冲金融服务 推4.15％高利率储蓄账户</a></li>
 <li><a href="/comments/20230418/1873798.md">时事大家谈：五角大楼泄密文件 泄露中共哪些秘密？习近平分化策略能否奏效 G7是试金石？</a></li>
 <li><a href="/cnnews/20230419/1873837.md">厉害 黑龙江农管1个半月搞了1.78亿，网友们还发现这些“秘密”</a></li>
-<li><a href="/sohnews/20230419/1873885.md">陈破空：背后有人，李强公开与人民为敌！悍然推翻李克强规则，从此拒绝政务公开。金正恩立马抖出习近平！遭七国严厉警告后。直播与互动。美东4月18日晚8点、即中港台4月19日早8点</a></li>
 <li><a href="/sohnews/20230419/1873918.md">20230419直播：终极敲打！新冠病毒可能源于两次中国实验室泄漏事件；团结前所未有！七国集团发布了一个‘充斥着傲慢、偏见和反华遏华险恶用心’的联合声明。（20230419 第1152期）</a></li>
+<li><a href="/sohnews/20230419/1873885.md">陈破空：背后有人，李强公开与人民为敌！悍然推翻李克强规则，从此拒绝政务公开。金正恩立马抖出习近平！遭七国严厉警告后。直播与互动。美东4月18日晚8点、即中港台4月19日早8点</a></li>
 <li><a href="/yule/20230419/1873838.md">67岁周润发突然满头白发 私下真实身材竟被女星曝光</a></li>
-<li><a href="/ssgc/20230419/1873825.md">美国新冠溯源听证 专家：更多证据指向实验室泄露</a></li>
 <li><a href="/sohnews/20230419/1873907.md">文睿：美军，大规模进入台湾，这一天终于来了</a></li>
-<li><a href="/worldnews/20230418/1873743.md">普京突然现身俄军占领的乌克兰领土，俄军加剧对巴赫穆特的进攻</a></li>
+<li><a href="/ssgc/20230419/1873825.md">美国新冠溯源听证 专家：更多证据指向实验室泄露</a></li>
 <li><a href="/baitai/20230419/1873827.md">只有这十款车！有资格获得全额7500美元联邦税收抵免</a></li>
+<li><a href="/worldnews/20230418/1873743.md">普京突然现身俄军占领的乌克兰领土，俄军加剧对巴赫穆特的进攻</a></li>
 <li><a href="/health/20230418/1873795.md">想要活得长寿又健康 跟着“哈佛饮食”这样做</a></li>
-<li><a href="/comments/20230418/1873742.md">美破获中国海外警局起诉34人 曝光特工长相及作案手法</a></li>
-<li><a href="/sohnews/20230419/1873894.md">鲜为人知！周恩来给俄爹斯大林抬棺材守灵，他给自己父母做过吗？所以党媒几十年来回避这个丑闻，生怕P民讽刺你党丢人现眼【欺世大观】193</a></li>
+<li><a href="/comments/20230418/1873744.md">文昭：政府：老乡们回家种地吧，把搬砖和送外卖的机会留给城市青年吧</a></li>
 <li><a href="/headline/20230419/1873835.md">巴基斯坦示威不满「一带一路」工程师辱穆斯林 分析：掀反「新殖民主义」浪潮</a></li>
+<li><a href="/comments/20230418/1873742.md">美破获中国海外警局起诉34人 曝光特工长相及作案手法</a></li>
 <li><a href="/comments/20230418/1873775.md">维稳新利器！中共官媒曝光伤人不致命的电磁枪</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230419/1873951.md" target="_blank">关系人类命运！两大惊人预言兑现，迎来《启示录》末日？！天使倒下七个金碗，第六个“不可能的发生的”正在实现!｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230419/1873874.md" target="_blank">【新闻烽火台04/18】3月经济数据显示复苏？中国经济真实情况是什么样？</a></li>
 <li><a href="/cbnews/20230419/1873846.md" target="_blank">中共海外警察太嚣张 加国华人富商起诉</a></li>
 <li><a href="/cbnews/20230418/1873793.md" target="_blank">法式鹅肝连点8份…贵阳女吃自助餐5顿、点菜4万元 竟偷打包</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230417/1873245.md" target="_blank">展现航行自由 美国海军：驱逐舰米利厄斯号通过台海</a></li>
 <li><a href="/cbnews/20230417/1873159.md" target="_blank">包皮割到一半，医院突喊“加价” 他清醒后竟…</a></li>
 <li><a href="/cbnews/20230417/1873155.md" target="_blank">突发！千亿浙商大佬去世，享年73岁</a></li>
-<li><a href="/cbnews/20230417/1873146.md" target="_blank">梦到7个月大儿子“满脸是血”！妈调监视器见这幕惊呆：母子连心</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230419/1873953.md" target="_blank">创作遭山寨710个商标！中国童话大王叹维权困难 宣布封笔</a></li>
+<li><a href="/comments/20230419/1873951.md" target="_blank">关系人类命运！两大惊人预言兑现，迎来《启示录》末日？！天使倒下七个金碗，第六个“不可能的发生的”正在实现!｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230419/1873878.md" target="_blank">谢田：中共逆袭欲撕裂欧美 马克龙打错算盘</a></li>
 <li><a href="/comments/20230419/1873877.md" target="_blank">同根：胡鑫宇自杀伪案与天安门自焚伪案</a></li>
 <li><a href="/comments/20230419/1873876.md" target="_blank">古啸：食盐大数据泄密中国人口数量大幅下滑</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230418/1873686.md" target="_blank">南韩8家媒体公司200多台电脑遭骇 确认是朝鲜恶名昭彰的骇客所为</a></li>
 <li><a href="/comments/20230418/1873573.md" target="_blank">超级重要资讯！胡锡进提档升级成帮匪，女大佬赵何娟雷霆反击！AI界植物人出炉</a></li>
 <li><a href="/comments/20230418/1873570.md" target="_blank">马克龙惨成北约标靶 选错了地点 选错了时机</a></li>
-<li><a href="/comments/20230418/1873494.md" target="_blank">施文仪：这副口罩 你“多戴”了多久时间？</a></li>
-<li><a href="/comments/20230418/1873472.md" target="_blank">洪博学：武吓之后的经贸战</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
 <li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
 <li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 <li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
 
 </ul>
 </div>
