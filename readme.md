@@ -19,15 +19,15 @@
 <li><a href="/sohnews/20230420/1873983.md">“白宫公开表态：习氏人民币正攻击美元霸主之位！”No.06（19/04/23）金砖五国尽在其中</a></li>
 <li><a href="/sohnews/20230419/1873968.md">“美国再抓捕 6名中共国海外警察👮👮👮 👮👮👮”No.02（19/04/23）王小洪急见国际刑警组织官员（声音🔊 被干扰）</a></li>
 <li><a href="/comments/20230419/1873954.md">北京长峰医院火灾增至29死 官方打压舆论引公愤</a></li>
-<li><a href="/sohnews/20230419/1873943.md">1949年初之前，中共根本没有作出出兵朝鲜的决定，也没有编制国家财经预算，张东荪怎么“出卖”这两个不存在的“国家核心机密”呢？｜ #百年真相</a></li>
 <li><a href="/sohnews/20230420/1874016.md">大火惨况更多真相，长峰医院无消防设施？被处罚12人是谁？汪文杰是伪专家？他的“贵人”是谁？ 医院医生行骗揭秘【新闻看点 李沐阳4.19】</a></li>
+<li><a href="/sohnews/20230419/1873943.md">1949年初之前，中共根本没有作出出兵朝鲜的决定，也没有编制国家财经预算，张东荪怎么“出卖”这两个不存在的“国家核心机密”呢？｜ #百年真相</a></li>
 <li><a href="/comments/20230420/1873998.md">【围炉夜话04/19】首次！亲共侨领被捕，中共海外警局接连关门；王小洪急找国际刑警要干嘛？美新报告再度指向病毒实验室泄露</a></li>
+<li><a href="/sohnews/20230420/1874041.md">中共国保“出征海外”被抓包！跨国网警照片被曝光；高学历全职儿女，多无奈？中国将失去一项“第一”，韭菜拒绝配合</a></li>
 <li><a href="/sohnews/20230420/1873996.md">“刘亚洲被判“死缓”的真伪 始末 缘由！”《今日点击》（19/04/23）致命一问习近平：“为什么不能善良对待台湾人 香港人？”</a></li>
+<li><a href="/sohnews/20230420/1874038.md">🔥🔥注意了❗4月这个天象将是中国人大灾祸之兆❗</a></li>
 <li><a href="/comments/20230419/1873951.md">关系人类命运！两大惊人预言兑现，迎来《启示录》末日？！天使倒下七个金碗，第六个“不可能的发生的”正在实现!｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230420/1873979.md">李尚福访俄，力挺普京之余，垂涎技术转让</a></li>
-<li><a href="/sohnews/20230420/1874038.md">🔥🔥注意了❗4月这个天象将是中国人大灾祸之兆❗</a></li>
 <li><a href="/comments/20230419/1873963.md">中国海外秘密派出所遭轰之际 中共公安部长会见国际刑警秘书长引注意</a></li>
-<li><a href="/sohnews/20230420/1874041.md">中共国保“出征海外”被抓包！跨国网警照片被曝光；高学历全职儿女，多无奈？中国将失去一项“第一”，韭菜拒绝配合</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230420/1874482.md" target="_blank">街头心酸一幕：骑车外卖小哥，身绑树枝挂吊瓶…</a></li>
+<li><a href="/cbnews/20230420/1874468.md" target="_blank">美国思想领袖：揭秘！中共如何在海外 迫害法轮功！| #新闻大家谈</a></li>
+<li><a href="/cbnews/20230420/1874467.md" target="_blank">美国思想领袖：独家！周锋锁曝光：遭海外侨团骚扰经历！| #新闻大家谈</a></li>
+<li><a href="/cbnews/20230420/1874466.md" target="_blank">美国思想领袖：内幕：中共如何操控海外侨团；美公布三起重磅案件 打击中共跨国镇压恶行！| #新闻大家谈</a></li>
 <li><a href="/cbnews/20230420/1874464.md" target="_blank">江峰：当年城管横在街头，今天农管狠在地头</a></li>
 <li><a href="/cbnews/20230420/1874463.md" target="_blank">江峰：李尚福向通缉犯行军礼 丢人的事儿在後面</a></li>
 <li><a href="/cbnews/20230420/1874462.md" target="_blank">江峰：美国打击中共海外渗透，统战侨领海外‘派出所长’被捕； 热捧马克龙冷遇冯德莱恩的背後。习近平越想领导世界，中国难民越多【江峰漫谈20230418第660期】</a></li>
@@ -56,16 +60,13 @@
 <li><a href="/cbnews/20230420/1874088.md" target="_blank">啥情况？俄罗斯史无前例密集表态</a></li>
 <li><a href="/cbnews/20230420/1874087.md" target="_blank">美军印太司令：一旦如此就仅剩下一条路</a></li>
 <li><a href="/cbnews/20230420/1874086.md" target="_blank">中共野心令人担忧！美众院军委会主席吁：加速提供台湾武器和训练</a></li>
-<li><a href="/cbnews/20230420/1874085.md" target="_blank">美外泄文件曝：中共建立“第一支无人机部队”</a></li>
-<li><a href="/cbnews/20230420/1874084.md" target="_blank">美尼米兹号航母“落跑” 中共专家发出警告 大逆转</a></li>
-<li><a href="/cbnews/20230420/1874083.md" target="_blank">自曝其丑！央视正能量视频又成翻车现场</a></li>
-<li><a href="/cbnews/20230420/1874082.md" target="_blank">中共秘密警察机构，卢建旺供出更多细节</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230420/1874481.md" target="_blank">“春季攻势”已展开！乌军要在这4大地点决胜负</a></li>
 <li><a href="/comments/20230420/1873708.md" target="_blank">印度博士：修炼法轮功后恢复健康 开始新生活</a></li>
 <li><a href="/topimagenews/20230420/1874075.md" target="_blank">俄罗斯能撑多久？乌克兰再获强力军援…</a></li>
 <li><a href="/topimagenews/20230420/1874074.md" target="_blank">扫平克里米亚 就在今年夏天! 乌情报局长:还要特别猎杀“这个人”…..</a></li>
@@ -90,13 +91,15 @@
 <li><a href="/topimagenews/20230418/1873552.md" target="_blank">车臣战俘刚回国就被“送战场”…</a></li>
 <li><a href="/topimagenews/20230418/1873551.md" target="_blank">惊天黑幕！中国特权行业 36个电话录音曝光天下</a></li>
 <li><a href="/topimagenews/20230418/1873536.md" target="_blank">“华为开始养猪了”还不肯示弱！矢板明夫：中国高科技产业是建筑在沙滩上的楼阁</a></li>
-<li><a href="/topimagenews/20230418/1873518.md" target="_blank">【微博精粹】黄俄党率领墙国走向一个又一个挨揍时刻</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230420/1874470.md" target="_blank">天亮时分：农管下乡，习近平农村作大死；李尚福救不了普京，俄密集表态要停战；三年囚禁，方斌将获自由；7.9亿美元，福克斯跟投票机公司和解（政论天下第990集 20230419）天亮时分</a></li>
+<li><a href="/comments/20230420/1874469.md" target="_blank">天亮时分：习突然软化，禁止军队向美开第一枪；美参院最新报告，新冠源於武汉实验室泄露；美国逮捕2名中共侨领，起诉42人（政论天下第989集 20230418）天亮时分</a></li>
+<li><a href="/comments/20230420/1874465.md" target="_blank">北京大火後长峰医院神秘消失？党又赢麻了？FBI手伸进中国！精准锁定共匪名单曝光</a></li>
 <li><a href="/comments/20230420/1874408.md" target="_blank">【独家重磅】李燕铭：曾庆红吉安老乡贵州70后美女高官落马 仕途曾获陈敏尔谌贻琴提拔 曾任李瑞环秘书李军与原湖北省长王晓东大管家 李军副部级蹉跎20年无缘晋升正部级 王晓东提前贬任政协闲职 贵州帮覆灭记（四） 习近平连任后大清洗（十七）</a></li>
 <li><a href="/comments/20230420/1874327.md" target="_blank">时事大家谈：“农管”进村 是否会成为“城管”的翻版？广交会“热火朝天” 中国能否得到国际出口市场信任？</a></li>
 <li><a href="/comments/20230420/1874277.md" target="_blank">【梁京评论】美日台真备战与世界的真难题</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230420/1874183.md" target="_blank">龙应台：北京未开一枪，台湾已带来裂痕</a></li>
 <li><a href="/comments/20230420/1874182.md" target="_blank">施芳珑:蔡麦会的转机：从金钱外交走向数位外交</a></li>
 <li><a href="/comments/20230420/1874181.md" target="_blank">袁斌：美国对中共“海外警察站”亮剑的意义</a></li>
-<li><a href="/comments/20230420/1874180.md" target="_blank">法律检索：国务院新版工作规则有重大调整！删除“推进政务公开”</a></li>
-<li><a href="/comments/20230420/1874179.md" target="_blank">盐族：明明是野蛮腐朽的教育环境，我们偏要说是最好的读书时代</a></li>
-<li><a href="/comments/20230420/1874178.md" target="_blank">摧古拉朽的AI 即将改变汽车行业方方面面</a></li>
 
 </ul>
 </div>
@@ -130,30 +130,30 @@
 <h3>必看经典好文</h3>
 <ul>
 <li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 <li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
 
 </ul>
 </div>
