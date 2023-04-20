@@ -5,15 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230420/1874001.md">【直播】北京夺命大火被封8小时，三大“奇怪”牵出高层背景；养鸡种菜也要姓党，“农管”的可怕不只是新版鬼子进村！</a></li>
 <li><a href="/sohnews/20230420/1874557.md">中共中央政治局3月30日召开会议，决定从今年4月开始，在中共全党自上而下分两批开展主题教育。这意味着一场中共全党范围内的政治运动已经开始。</a></li>
 <li><a href="/cbnews/20230420/1874018.md">批判刘亚洲文章被全网下架；刘亚洲被抓是大清洗的起点！ （20234月19）</a></li>
-<li><a href="/sohnews/20230420/1874004.md">陈破空：习当局封锁北京大火犯众怒！蔡奇发布党内整人《纲要》：把手剁下来！共军导弹工程师叛逃美国。俄乌总统都亲上前线，大决战即将爆发？直播与互动。美东4月19日晚8点、即中港台4月20日早8点</a></li>
 <li><a href="/sohnews/20230420/1874014.md">第 350 集：习近平昨天还共同富裕割韭菜，如今要扩大内需吸引外资。</a></li>
 <li><a href="/cbnews/20230420/1874091.md">蔡奇成主要操刀手！习近平大整肃开始【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230420/1874092.md">惊曝：中国东风17极音速飞弹工程师投美，美掌握机密数据</a></li>
-<li><a href="/cbnews/20230420/1874392.md">〖兲朝浮世绘〗出卖人格的价格</a></li>
 <li><a href="/cbnews/20230420/1874078.md">北京长峰医院大火29死 原因找到了</a></li>
+<li><a href="/cbnews/20230420/1874392.md">〖兲朝浮世绘〗出卖人格的价格</a></li>
 <li><a href="/sohnews/20230420/1874041.md">中共国保“出征海外”被抓包！跨国网警照片被曝光；高学历全职儿女，多无奈？中国将失去一项“第一”，韭菜拒绝配合</a></li>
 <li><a href="/topimagenews/20230420/1874558.md">美国将祭投资中国禁令 严厉史无前例</a></li>
 <li><a href="/sohnews/20230420/1874016.md">大火惨况更多真相，长峰医院无消防设施？被处罚12人是谁？汪文杰是伪专家？他的“贵人”是谁？ 医院医生行骗揭秘【新闻看点 李沐阳4.19】</a></li>
@@ -21,13 +19,15 @@
 <li><a href="/baitai/20230420/1874511.md">总在凌晨3、4点醒来，很可能是这4种疾病引起</a></li>
 <li><a href="/worldnews/usa/20230420/1874616.md">马斯克的星际飞船巨型火箭今短暂升空 4分钟后爆炸但称不是失败</a></li>
 <li><a href="/funmedia/20230420/1874118.md">人到中年才懂得，最虚伪的社交方式，多半是以下四种</a></li>
-<li><a href="/cbnews/20230420/1874096.md">评论区翻车了！中共批WHO把新冠病毒溯源政治化 中国网友一面倒挺世卫</a></li>
 <li><a href="/cbnews/20230420/1874391.md">〖兲朝浮世绘〗行为艺术在中国：活见鬼</a></li>
+<li><a href="/cbnews/20230420/1874096.md">评论区翻车了！中共批WHO把新冠病毒溯源政治化 中国网友一面倒挺世卫</a></li>
 <li><a href="/cbnews/20230420/1874083.md">自曝其丑！央视正能量视频又成翻车现场</a></li>
 <li><a href="/sohnews/20230420/1874038.md">🔥🔥注意了❗4月这个天象将是中国人大灾祸之兆❗</a></li>
 <li><a href="/cbnews/20230420/1874082.md">中共秘密警察机构，卢建旺供出更多细节</a></li>
 <li><a href="/cnnews/20230420/1874498.md">藤校毕业却成海归废物，原来真有魔咒</a></li>
 <li><a href="/cnnews/20230420/1874540.md">水库干涸惊见3400年前古城 神秘王国重现天日</a></li>
+<li><a href="/headline/20230420/1874524.md">德国外长谈访华印象：中国对内镇压、对外更具攻击性令人震惊</a></li>
+<li><a href="/ssgc/20230420/1874580.md">刘亚洲因为何事开罪习近平？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230421/1874747.md" target="_blank">新西兰前副总理：神韵改变我对中国人的看法</a></li>
 <li><a href="/comments/20230421/1874678.md" target="_blank">请未来人吃饭！</a></li>
 <li><a href="/comments/20230421/1874673.md" target="_blank">专访吴嘉隆：人民币要取代美元？先取代欧元再说！巴西总统惊人一问，带出货币3个基本特性；美元下一个挂勾对象是它！恢复金本位可能吗？｜#方菲时间 04/20/2023</a></li>
 <li><a href="/comments/20230420/1874637.md" target="_blank">时事大家谈：借出去的钱收不回，中国的“债务陷阱”陷住自己？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230420/1874277.md" target="_blank">【梁京评论】美日台真备战与世界的真难题</a></li>
 <li><a href="/comments/20230420/1874265.md" target="_blank">评论 | 胡平：从《红色文化网》对刘亚洲的大批判谈起</a></li>
 <li><a href="/comments/20230420/1874264.md" target="_blank">评论 | 唯色：“有人扔来烂泥巴，正好种朵金莲花”：这场针对尊者达赖喇嘛的网霸……（一）</a></li>
-<li><a href="/comments/20230420/1873708.md" target="_blank">印度博士：修炼法轮功后恢复健康 开始新生活</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
 <li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
 
 </ul>
 </div>
