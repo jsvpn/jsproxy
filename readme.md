@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20230419/1873936.md">中国经济惨况曝 习近平穷的只剩军武!不甘再做美国小弟 马克宏的背叛余波荡漾 ?比美国通膨更严重 中国失业狂潮 底层青年现”约死潮”。@democraticTaiwanChannel</a></li>
 <li><a href="/sohnews/20230419/1873934.md">美国司法部为何会如此高调起诉福建同乡会主席卢建旺？他到底做了什么？中共如何把公安执法延伸到了美国？这件事情对华人社团有什么影响？【李军访谈20230419第147期】</a></li>
-<li><a href="/sohnews/20230419/1873941.md">美总统顾问 揭刘亚洲被抓原因｜#林澜对话 #shorts</a></li>
 <li><a href="/sohnews/20230420/1874001.md">【直播】北京夺命大火被封8小时，三大“奇怪”牵出高层背景；养鸡种菜也要姓党，“农管”的可怕不只是新版鬼子进村！</a></li>
+<li><a href="/sohnews/20230419/1873941.md">美总统顾问 揭刘亚洲被抓原因｜#林澜对话 #shorts</a></li>
 <li><a href="/sohnews/20230419/1873930.md">文睿：一段话，直击灵魂，中国人，最后的退路堵死了</a></li>
 <li><a href="/sohnews/20230420/1874004.md">陈破空：习当局封锁北京大火犯众怒！蔡奇发布党内整人《纲要》：把手剁下来！共军导弹工程师叛逃美国。俄乌总统都亲上前线，大决战即将爆发？直播与互动。美东4月19日晚8点、即中港台4月20日早8点</a></li>
 <li><a href="/sohnews/20230419/1873942.md">进“龙班”  刘亚洲是谁的人？｜#林澜对话 #shorts</a></li>
@@ -18,15 +18,15 @@
 <li><a href="/sohnews/20230419/1873938.md">陈破空：北京惊天大火，29人亡！特斯拉罕见缺席上海车展。广交会交易惨淡。美国日渐认定武汉来源，证据确凿。直播与互动。美东4月19日早8点30、即中港台4月19日晚8点30</a></li>
 <li><a href="/sohnews/20230420/1873983.md">“白宫公开表态：习氏人民币正攻击美元霸主之位！”No.06（19/04/23）金砖五国尽在其中</a></li>
 <li><a href="/sohnews/20230419/1873968.md">“美国再抓捕 6名中共国海外警察👮👮👮 👮👮👮”No.02（19/04/23）王小洪急见国际刑警组织官员（声音🔊 被干扰）</a></li>
+<li><a href="/sohnews/20230420/1874014.md">第 350 集：习近平昨天还共同富裕割韭菜，如今要扩大内需吸引外资。</a></li>
 <li><a href="/comments/20230419/1873954.md">北京长峰医院火灾增至29死 官方打压舆论引公愤</a></li>
 <li><a href="/sohnews/20230419/1873943.md">1949年初之前，中共根本没有作出出兵朝鲜的决定，也没有编制国家财经预算，张东荪怎么“出卖”这两个不存在的“国家核心机密”呢？｜ #百年真相</a></li>
-<li><a href="/sohnews/20230420/1874014.md">第 350 集：习近平昨天还共同富裕割韭菜，如今要扩大内需吸引外资。</a></li>
 <li><a href="/comments/20230420/1873998.md">【围炉夜话04/19】首次！亲共侨领被捕，中共海外警局接连关门；王小洪急找国际刑警要干嘛？美新报告再度指向病毒实验室泄露</a></li>
 <li><a href="/comments/20230420/1873979.md">李尚福访俄，力挺普京之余，垂涎技术转让</a></li>
 <li><a href="/sohnews/20230420/1873996.md">“刘亚洲被判“死缓”的真伪 始末 缘由！”《今日点击》（19/04/23）致命一问习近平：“为什么不能善良对待台湾人 香港人？”</a></li>
+<li><a href="/sohnews/20230420/1874016.md">大火惨况更多真相，长峰医院无消防设施？被处罚12人是谁？汪文杰是伪专家？他的“贵人”是谁？ 医院医生行骗揭秘【新闻看点 李沐阳4.19】</a></li>
 <li><a href="/comments/20230419/1873951.md">关系人类命运！两大惊人预言兑现，迎来《启示录》末日？！天使倒下七个金碗，第六个“不可能的发生的”正在实现!｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230419/1873963.md">中国海外秘密派出所遭轰之际 中共公安部长会见国际刑警秘书长引注意</a></li>
-<li><a href="/sohnews/20230420/1874016.md">大火惨况更多真相，长峰医院无消防设施？被处罚12人是谁？汪文杰是伪专家？他的“贵人”是谁？ 医院医生行骗揭秘【新闻看点 李沐阳4.19】</a></li>
 <li><a href="/sohnews/20230420/1873991.md">神秘背景 医院大火有内幕？｜#林澜对话 #shorts</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230420/1874078.md" target="_blank">北京长峰医院大火29死 原因找到了</a></li>
+<li><a href="/cbnews/20230420/1874077.md" target="_blank">北京长峰医院大火：失联患者多为老人</a></li>
+<li><a href="/cbnews/20230420/1874076.md" target="_blank">中共治下的中国社会7大怪象…</a></li>
 <li><a href="/comments/20230420/1874025.md" target="_blank">启示录中的新耶路撒冷！</a></li>
 <li><a href="/comments/20230420/1873998.md" target="_blank">【围炉夜话04/19】首次！亲共侨领被捕，中共海外警局接连关门；王小洪急找国际刑警要干嘛？美新报告再度指向病毒实验室泄露</a></li>
 <li><a href="/comments/20230419/1873951.md" target="_blank">关系人类命运！两大惊人预言兑现，迎来《启示录》末日？！天使倒下七个金碗，第六个“不可能的发生的”正在实现!｜ #未解之谜 扶摇</a></li>
@@ -57,15 +60,16 @@
 <li><a href="/cbnews/20230418/1873381.md" target="_blank">美舰法舰分别通过台海 中共反应区别明显</a></li>
 <li><a href="/cbnews/20230417/1873319.md" target="_blank">住100平米房、买2万8的包 炫富女竟申请到公租房</a></li>
 <li><a href="/cbnews/20230417/1873318.md" target="_blank">哭穷？郑州抗癌共享厨房被踢爆卖惨 老板被指拥数套房、妻开宝马</a></li>
-<li><a href="/comments/20230417/1873261.md" target="_blank">Rh阴性血来自外太空？</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/cbnews/20230417/1873245.md" target="_blank">展现航行自由 美国海军：驱逐舰米利厄斯号通过台海</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230420/1874075.md" target="_blank">俄罗斯能撑多久？乌克兰再获强力军援…</a></li>
+<li><a href="/topimagenews/20230420/1874074.md" target="_blank">扫平克里米亚 就在今年夏天! 乌情报局长:还要特别猎杀“这个人”…..</a></li>
+<li><a href="/topimagenews/20230420/1874073.md" target="_blank">俄军动员兵在枪口下被逼签字 强迫加入瓦格纳直送战场…</a></li>
+<li><a href="/topimagenews/20230420/1874072.md" target="_blank">后果超惨！美企偷卖硬盘给华为 遭美商务部重罚…</a></li>
 <li><a href="/topimagenews/20230419/1873868.md" target="_blank">一个半月内结束乌战？他说 : 已经打得差不多了</a></li>
 <li><a href="/topimagenews/20230419/1873845.md" target="_blank">安徽36岁杂技女演员高空坠亡，死因反转了4次</a></li>
 <li><a href="/topimagenews/20230419/1873844.md" target="_blank">一名中国人在巴铁被捕，最高可判处死刑</a></li>
@@ -87,16 +91,14 @@
 <li><a href="/topimagenews/20230418/1873536.md" target="_blank">“华为开始养猪了”还不肯示弱！矢板明夫：中国高科技产业是建筑在沙滩上的楼阁</a></li>
 <li><a href="/topimagenews/20230418/1873518.md" target="_blank">【微博精粹】黄俄党率领墙国走向一个又一个挨揍时刻</a></li>
 <li><a href="/topimagenews/20230418/1873470.md" target="_blank">放弃27万亿市场 又一家基金公司“润”出中国</a></li>
-<li><a href="/topimagenews/20230418/1873458.md" target="_blank">苹果何以称霸美智慧手机市场？理由意想不到</a></li>
-<li><a href="/topimagenews/20230418/1873441.md" target="_blank">“王权特许，先斩后奏”，这就是农管</a></li>
-<li><a href="/topimagenews/20230417/1873275.md" target="_blank">北京罕见松绑！楼市，已经乱套了；暴亏95%！网红炒股大V不能信</a></li>
-<li><a href="/topimagenews/20230417/1873226.md" target="_blank">比美通膨炸锅更恐怖？谢金河曝中国经济未爆弹…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230420/1874054.md" target="_blank">文昭：背後真相令人窒息——天子鼻子下发生20年来最致命的火灾</a></li>
+<li><a href="/comments/20230420/1874053.md" target="_blank">文昭：退林还耕，迂回解决失业“新思路”？</a></li>
 <li><a href="/comments/20230420/1874025.md" target="_blank">启示录中的新耶路撒冷！</a></li>
 <li><a href="/comments/20230420/1873998.md" target="_blank">【围炉夜话04/19】首次！亲共侨领被捕，中共海外警局接连关门；王小洪急找国际刑警要干嘛？美新报告再度指向病毒实验室泄露</a></li>
 <li><a href="/comments/20230420/1873979.md" target="_blank">李尚福访俄，力挺普京之余，垂涎技术转让</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230418/1873774.md" target="_blank">养生还是伤身？香港检测市售枸杞全部都含重金属</a></li>
 <li><a href="/comments/20230418/1873773.md" target="_blank">法轮功创始人李洪志大师发表《为什么要救度众生》</a></li>
 <li><a href="/comments/20230418/1873772.md" target="_blank">【秦鹏观察】起诉中国40名警察 抓捕福建商会2名侨领</a></li>
-<li><a href="/comments/20230418/1873771.md" target="_blank">【文昭谈古论今】“以粮为纲”硬指标 粮食出大问题？</a></li>
-<li><a href="/comments/20230418/1873744.md" target="_blank">文昭：政府：老乡们回家种地吧，把搬砖和送外卖的机会留给城市青年吧</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 <li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
 
 </ul>
 </div>
