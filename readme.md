@@ -8,26 +8,26 @@
 <li><a href="/sohnews/20230419/1873936.md">中国经济惨况曝 习近平穷的只剩军武!不甘再做美国小弟 马克宏的背叛余波荡漾 ?比美国通膨更严重 中国失业狂潮 底层青年现”约死潮”。@democraticTaiwanChannel</a></li>
 <li><a href="/sohnews/20230419/1873934.md">美国司法部为何会如此高调起诉福建同乡会主席卢建旺？他到底做了什么？中共如何把公安执法延伸到了美国？这件事情对华人社团有什么影响？【李军访谈20230419第147期】</a></li>
 <li><a href="/sohnews/20230420/1874001.md">【直播】北京夺命大火被封8小时，三大“奇怪”牵出高层背景；养鸡种菜也要姓党，“农管”的可怕不只是新版鬼子进村！</a></li>
-<li><a href="/sohnews/20230420/1874004.md">陈破空：习当局封锁北京大火犯众怒！蔡奇发布党内整人《纲要》：把手剁下来！共军导弹工程师叛逃美国。俄乌总统都亲上前线，大决战即将爆发？直播与互动。美东4月19日晚8点、即中港台4月20日早8点</a></li>
 <li><a href="/sohnews/20230419/1873941.md">美总统顾问 揭刘亚洲被抓原因｜#林澜对话 #shorts</a></li>
+<li><a href="/sohnews/20230420/1874004.md">陈破空：习当局封锁北京大火犯众怒！蔡奇发布党内整人《纲要》：把手剁下来！共军导弹工程师叛逃美国。俄乌总统都亲上前线，大决战即将爆发？直播与互动。美东4月19日晚8点、即中港台4月20日早8点</a></li>
 <li><a href="/sohnews/20230420/1874014.md">第 350 集：习近平昨天还共同富裕割韭菜，如今要扩大内需吸引外资。</a></li>
 <li><a href="/sohnews/20230419/1873942.md">进“龙班”  刘亚洲是谁的人？｜#林澜对话 #shorts</a></li>
 <li><a href="/sohnews/20230419/1873957.md">一个半月内结束乌战？他说:已经打得差不多了</a></li>
-<li><a href="/sohnews/20230419/1873935.md">💥美国1天内连发3项刑事诉讼, 被告全是华人! 真实案例: 中共如何利用华侨控制华侨, 广布间谍网? 海外华人必看, 警惕好心背后的“危险”!【20230419】</a></li>
 <li><a href="/sohnews/20230419/1873938.md">陈破空：北京惊天大火，29人亡！特斯拉罕见缺席上海车展。广交会交易惨淡。美国日渐认定武汉来源，证据确凿。直播与互动。美东4月19日早8点30、即中港台4月19日晚8点30</a></li>
+<li><a href="/sohnews/20230419/1873935.md">💥美国1天内连发3项刑事诉讼, 被告全是华人! 真实案例: 中共如何利用华侨控制华侨, 广布间谍网? 海外华人必看, 警惕好心背后的“危险”!【20230419】</a></li>
 <li><a href="/sohnews/20230420/1873983.md">“白宫公开表态：习氏人民币正攻击美元霸主之位！”No.06（19/04/23）金砖五国尽在其中</a></li>
 <li><a href="/sohnews/20230419/1873968.md">“美国再抓捕 6名中共国海外警察👮👮👮 👮👮👮”No.02（19/04/23）王小洪急见国际刑警组织官员（声音🔊 被干扰）</a></li>
 <li><a href="/sohnews/20230420/1874016.md">大火惨况更多真相，长峰医院无消防设施？被处罚12人是谁？汪文杰是伪专家？他的“贵人”是谁？ 医院医生行骗揭秘【新闻看点 李沐阳4.19】</a></li>
 <li><a href="/sohnews/20230420/1874041.md">中共国保“出征海外”被抓包！跨国网警照片被曝光；高学历全职儿女，多无奈？中国将失去一项“第一”，韭菜拒绝配合</a></li>
 <li><a href="/comments/20230419/1873954.md">北京长峰医院火灾增至29死 官方打压舆论引公愤</a></li>
 <li><a href="/comments/20230420/1873998.md">【围炉夜话04/19】首次！亲共侨领被捕，中共海外警局接连关门；王小洪急找国际刑警要干嘛？美新报告再度指向病毒实验室泄露</a></li>
+<li><a href="/cbnews/20230420/1874091.md">蔡奇成主要操刀手！习近平大整肃开始【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230419/1873943.md">1949年初之前，中共根本没有作出出兵朝鲜的决定，也没有编制国家财经预算，张东荪怎么“出卖”这两个不存在的“国家核心机密”呢？｜ #百年真相</a></li>
 <li><a href="/sohnews/20230420/1873996.md">“刘亚洲被判“死缓”的真伪 始末 缘由！”《今日点击》（19/04/23）致命一问习近平：“为什么不能善良对待台湾人 香港人？”</a></li>
 <li><a href="/sohnews/20230420/1874038.md">🔥🔥注意了❗4月这个天象将是中国人大灾祸之兆❗</a></li>
 <li><a href="/comments/20230419/1873951.md">关系人类命运！两大惊人预言兑现，迎来《启示录》末日？！天使倒下七个金碗，第六个“不可能的发生的”正在实现!｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230420/1873979.md">李尚福访俄，力挺普京之余，垂涎技术转让</a></li>
-<li><a href="/comments/20230419/1873963.md">中国海外秘密派出所遭轰之际 中共公安部长会见国际刑警秘书长引注意</a></li>
-<li><a href="/cbnews/20230420/1874091.md">蔡奇成主要操刀手！习近平大整肃开始【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230420/1874092.md">惊曝：中国东风17极音速飞弹工程师投美，美掌握机密数据</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230420/1874529.md" target="_blank">巨大光球划破基辅夜空 美国卫星脱轨殒落? NASA说话了..</a></li>
 <li><a href="/topimagenews/20230420/1874521.md" target="_blank">中共很感冒!印美军演美 B-1B战略轰炸机首现中印边境地区示威</a></li>
 <li><a href="/topimagenews/20230420/1874481.md" target="_blank">“春季攻势”已展开！乌军要在这4大地点决胜负</a></li>
 <li><a href="/comments/20230420/1873708.md" target="_blank">印度博士：修炼法轮功后恢复健康 开始新生活</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230418/1873567.md" target="_blank">乌军反攻 美布雷德利战车首见乌战场！瓦格纳快被打光了俄精锐特种兵也近灭顶…</a></li>
 <li><a href="/topimagenews/20230418/1873556.md" target="_blank">涉营运秘密警局！FBI逮捕2名中共特工 美司法部称还有34位成员未到案</a></li>
 <li><a href="/topimagenews/20230418/1873552.md" target="_blank">车臣战俘刚回国就被“送战场”…</a></li>
-<li><a href="/topimagenews/20230418/1873551.md" target="_blank">惊天黑幕！中国特权行业 36个电话录音曝光天下</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
 <li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 
 </ul>
 </div>
