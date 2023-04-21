@@ -14,13 +14,13 @@
 <li><a href="/topimagenews/20230421/1874995.md">曝将祭出“空前严格”措施 科技业恐遭重击；美又要制裁中共？马云返国有赏？</a></li>
 <li><a href="/cnnews/20230421/1874873.md">场子被砸！习近平两大挫折被曝出【阿波罗网报道】</a></li>
 <li><a href="/health/20230421/1874938.md">男性过了50岁以后，如果还能做到这5件事，说明身体素质还不错</a></li>
-<li><a href="/sohnews/20230421/1874985.md">🤣一夜蒸发21亿欧元, 宝马舍不得冰淇淋, 却把中国人得罪了? 宝马2度道歉不被买账, 还成“史诗级公关灾难”, 不仅“白人至上”, 还敢“责备舆论”?!【20230421】</a></li>
 <li><a href="/topimagenews/20230421/1874904.md">成本低，不怕炸！星舰爆炸上了中国热搜</a></li>
 <li><a href="/ssgc/20230421/1874788.md">〖微博谈〗文明不是败于野蛮，而是败于自我腐败</a></li>
+<li><a href="/sohnews/20230421/1874985.md">🤣一夜蒸发21亿欧元, 宝马舍不得冰淇淋, 却把中国人得罪了? 宝马2度道歉不被买账, 还成“史诗级公关灾难”, 不仅“白人至上”, 还敢“责备舆论”?!【20230421】</a></li>
 <li><a href="/topimagenews/20230421/1874885.md">北京为何火大 ？它与击沉莫斯科号属同类型</a></li>
 <li><a href="/topimagenews/20230421/1874868.md">35元一个的冰激凌 暴击宝马在华3000亿市场？</a></li>
-<li><a href="/topimagenews/20230421/1874895.md">俄军躲坦克下 乌军掷手榴弹秒爆 阵亡…</a></li>
 <li><a href="/sohnews/20230421/1875001.md">重发：绝密档案记录林彪与戴笠的秘密谈话，蒋介石看完后肠子悔青，如果时光倒流，历史将改写。｜薇羽看世间 第646期</a></li>
+<li><a href="/topimagenews/20230421/1874895.md">俄军躲坦克下 乌军掷手榴弹秒爆 阵亡…</a></li>
 <li><a href="/sohnews/20230421/1874906.md">绝密档案记录林彪与戴笠的秘密谈话，蒋介石看完后肠子悔青，如果时光倒流，历史将改写。｜薇羽看世间 第646期</a></li>
 <li><a href="/topimagenews/20230421/1874986.md">惨烈！山东大货车对撞酿7死 重庆轿车突冲撞节庆人群</a></li>
 <li><a href="/cnnews/20230421/1874905.md">中国式现代化等于“叫花子”？秦刚当众出丑【阿波罗网】</a></li>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230422/1875180.md" target="_blank">网海拾贝：搞下刘亚洲，习近平早就动了念头？</a></li>
+<li><a href="/comments/20230422/1875179.md" target="_blank">乾坤子：当心魔鬼的糖果屋</a></li>
+<li><a href="/comments/20230422/1875177.md" target="_blank">长峰医院大火，最可怕的不是29死，是8小时沉默</a></li>
+<li><a href="/comments/20230422/1875176.md" target="_blank">周晓辉：中国人宁“润”不悔 东德垮台前一幕再现</a></li>
 <li><a href="/comments/20230422/1875170.md" target="_blank">王友群：美国起诉44名中共特务的启示</a></li>
 <li><a href="/comments/20230422/1875167.md" target="_blank">文昭：习近平终於出手办这件事了，也许是他最後一次烂尾</a></li>
 <li><a href="/comments/20230421/1875066.md" target="_blank">时事大家谈：北京长峰医院致命火灾，网民们为何愤怒？</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230421/1874757.md" target="_blank">耶路撒冷的劫难！</a></li>
 <li><a href="/comments/20230421/1874753.md" target="_blank">文昭：东升西降，西怎么这么难降？</a></li>
 <li><a href="/comments/20230421/1874747.md" target="_blank">新西兰前副总理：神韵改变我对中国人的看法</a></li>
-<li><a href="/comments/20230421/1874678.md" target="_blank">请未来人吃饭！</a></li>
-<li><a href="/comments/20230421/1874673.md" target="_blank">专访吴嘉隆：人民币要取代美元？先取代欧元再说！巴西总统惊人一问，带出货币3个基本特性；美元下一个挂勾对象是它！恢复金本位可能吗？｜#方菲时间 04/20/2023</a></li>
-<li><a href="/comments/20230420/1874637.md" target="_blank">时事大家谈：借出去的钱收不回，中国的“债务陷阱”陷住自己？</a></li>
-<li><a href="/comments/20230420/1874628.md" target="_blank">时事大家谈：佛州参院禁中国人买房，是“排华”吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
 
 </ul>
 </div>
