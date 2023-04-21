@@ -22,8 +22,8 @@
 <li><a href="/cbnews/20230420/1874096.md">评论区翻车了！中共批WHO把新冠病毒溯源政治化 中国网友一面倒挺世卫</a></li>
 <li><a href="/yule/20230421/1874701.md">“建国后最反动电影” 打下京圈20年辉煌的根基</a></li>
 <li><a href="/cnnews/20230420/1874498.md">藤校毕业却成海归废物，原来真有魔咒</a></li>
-<li><a href="/cbnews/20230420/1874083.md">自曝其丑！央视正能量视频又成翻车现场</a></li>
 <li><a href="/topimagenews/20230421/1874693.md">“对中国而言很丢面子” 斐济新总理避见中共副外长马朝旭</a></li>
+<li><a href="/cbnews/20230420/1874083.md">自曝其丑！央视正能量视频又成翻车现场</a></li>
 <li><a href="/ssgc/20230420/1874580.md">刘亚洲因为何事开罪习近平？</a></li>
 <li><a href="/cbnews/20230420/1874082.md">中共秘密警察机构，卢建旺供出更多细节</a></li>
 <li><a href="/cbnews/20230420/1874632.md">江峰：刘亚洲这一点让习近平如临大敌</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230421/1874884.md" target="_blank">江峰：火星计划更进一步！从马斯克星舰火箭发射“失败”，看中美两国不同的“兴奋”；第一季度国家统计局猫腻，习近平最高指示稳中求进，原来是吹牛不要吹破的意思【江峰漫谈20230420第661期】</a></li>
+<li><a href="/cbnews/20230421/1874880.md" target="_blank">〖兲朝浮世绘〗百姓家的坟都被平了，习仲勋的坟平不平？</a></li>
 <li><a href="/cbnews/20230421/1874869.md" target="_blank">“白纸运动”示威者亲揭被捕经历</a></li>
 <li><a href="/comments/20230421/1874757.md" target="_blank">耶路撒冷的劫难！</a></li>
 <li><a href="/cbnews/20230421/1874740.md" target="_blank">”根子在上面“！中共调查研究还有后戏？【阿波罗网报道】</a></li>
@@ -58,14 +60,13 @@
 <li><a href="/cbnews/20230420/1874392.md" target="_blank">〖兲朝浮世绘〗出卖人格的价格</a></li>
 <li><a href="/cbnews/20230420/1874391.md" target="_blank">〖兲朝浮世绘〗行为艺术在中国：活见鬼</a></li>
 <li><a href="/comments/20230420/1873708.md" target="_blank">印度博士：修炼法轮功后恢复健康 开始新生活</a></li>
-<li><a href="/cbnews/20230420/1874018.md" target="_blank">批判刘亚洲文章被全网下架；刘亚洲被抓是大清洗的起点！ （20234月19）</a></li>
-<li><a href="/cbnews/20230420/1874099.md" target="_blank">美国情报机构计划2033年“增加在轨卫星至4倍多”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230421/1874885.md" target="_blank">北京为何火大 ？它与击沉莫斯科号属同类型</a></li>
 <li><a href="/topimagenews/20230421/1874877.md" target="_blank">日经分析：先走上脱钩之路的不是川普 是习近平</a></li>
 <li><a href="/topimagenews/20230421/1874876.md" target="_blank">龙应台称面对霸凌该先缓和局势 被喷这句</a></li>
 <li><a href="/topimagenews/20230421/1874868.md" target="_blank">35元一个的冰激凌 暴击宝马在华3000亿市场？</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230419/1873845.md" target="_blank">安徽36岁杂技女演员高空坠亡，死因反转了4次</a></li>
 <li><a href="/topimagenews/20230419/1873844.md" target="_blank">一名中国人在巴铁被捕，最高可判处死刑</a></li>
 <li><a href="/topimagenews/20230419/1873836.md" target="_blank">马云返国有奖赏？外媒放出背后“交易”</a></li>
-<li><a href="/topimagenews/20230419/1873832.md" target="_blank">北京大火夺21人命 疑微博管控删文网友追问“怎没上热搜”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
 <li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 
 </ul>
 </div>
