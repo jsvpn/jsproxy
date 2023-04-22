@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230421/1874854.md">【微博精粹】习近平可能忘了陈胜吴广是他河南老家的农民</a></li>
 <li><a href="/cbnews/20230421/1874880.md">〖兲朝浮世绘〗百姓家的坟都被平了，习仲勋的坟平不平？</a></li>
 <li><a href="/cnnews/20230421/1874873.md">场子被砸！习近平两大挫折被曝出【阿波罗网报道】</a></li>
 <li><a href="/health/20230421/1874938.md">男性过了50岁以后，如果还能做到这5件事，说明身体素质还不错</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/topimagenews/20230421/1874868.md">35元一个的冰激凌 暴击宝马在华3000亿市场？</a></li>
 <li><a href="/topimagenews/20230421/1874895.md">俄军躲坦克下 乌军掷手榴弹秒爆 阵亡…</a></li>
 <li><a href="/sohnews/20230421/1875001.md">重发：绝密档案记录林彪与戴笠的秘密谈话，蒋介石看完后肠子悔青，如果时光倒流，历史将改写。｜薇羽看世间 第646期</a></li>
-<li><a href="/cnnews/20230421/1874905.md">中国式现代化等于“叫花子”？秦刚当众出丑【阿波罗网】</a></li>
 <li><a href="/cnnews/20230422/1875130.md">科学家终于得知白发的原因 并设法逆转回春</a></li>
+<li><a href="/comments/20230422/1875167.md">文昭：习近平终於出手办这件事了，也许是他最後一次烂尾</a></li>
+<li><a href="/cnnews/20230421/1874905.md">中国式现代化等于“叫花子”？秦刚当众出丑【阿波罗网】</a></li>
 <li><a href="/sohnews/20230421/1874906.md">绝密档案记录林彪与戴笠的秘密谈话，蒋介石看完后肠子悔青，如果时光倒流，历史将改写。｜薇羽看世间 第646期</a></li>
 <li><a href="/topimagenews/20230421/1874986.md">惨烈！山东大货车对撞酿7死 重庆轿车突冲撞节庆人群</a></li>
 <li><a href="/cnnews/20230421/1874914.md">孟晚舟要到美国出差？华为回应了</a></li>
-<li><a href="/comments/20230422/1875167.md">文昭：习近平终於出手办这件事了，也许是他最後一次烂尾</a></li>
 <li><a href="/headline/20230422/1875097.md">中情局失窃文件显示：北京在全力开发技术以求战时能控制敌方卫星</a></li>
-<li><a href="/topimagenews/20230421/1874877.md">日经分析：先走上脱钩之路的不是川普 是习近平</a></li>
 <li><a href="/cnnews/20230422/1875128.md">熟悉的一幕正回到美国！北京五味杂陈</a></li>
+<li><a href="/topimagenews/20230421/1874877.md">日经分析：先走上脱钩之路的不是川普 是习近平</a></li>
 <li><a href="/topimagenews/20230421/1875021.md">美股泡沫越来越大！他惊曝“黑天鹅”即将空袭：躲不掉</a></li>
+<li><a href="/cnnews/20230422/1875145.md">红朝秘闻！ 陈永贵曾苦劝华国锋别放邓小平出来</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230422/1875258.md" target="_blank">有竹不倒：谁把媒体变成了这样？</a></li>
+<li><a href="/comments/20230422/1875257.md" target="_blank">江南太史：农管下乡，地动山摇</a></li>
 <li><a href="/comments/20230422/1875247.md" target="_blank">高思达：中台的共同敌人：中共官僚资本集团及其台湾左统代理人</a></li>
 <li><a href="/comments/20230422/1875244.md" target="_blank">施逸翔：中共政权制造的裂痕，只有无视人权与尊严</a></li>
 <li><a href="/comments/20230422/1875236.md" target="_blank">烈火焚城：巴赫穆特硬骨头旅</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230421/1874839.md" target="_blank">周恩来抬棺材 党媒闭嘴怕丢人 【欺世大观】193</a></li>
 <li><a href="/comments/20230421/1874838.md" target="_blank">陈嘉宏：谁真正害怕“两德模式”</a></li>
 <li><a href="/comments/20230421/1874819.md" target="_blank">杜政：李强的香港学历是买来的？</a></li>
-<li><a href="/comments/20230421/1874818.md" target="_blank">我想问老朋友龙应台：你为什么不生气？</a></li>
-<li><a href="/comments/20230421/1874817.md" target="_blank">王丹：中国00后未来的生存困境</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 
 </ul>
 </div>
