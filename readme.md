@@ -7,13 +7,13 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20230422/1875233.md">习近平与刘亚洲妻的秘闻曝光；刘亚洲涉入“倒习檄文”真假？刘亚洲为什么“反对攻台”？刘亚洲亲美吗？他和刘少奇的相似之处</a></li>
 <li><a href="/topimagenews/20230422/1875232.md">中国国内发生“重大辱华事件”！不想混了？</a></li>
-<li><a href="/topimagenews/20230422/1875269.md">在星舰发射这事上，中共媒体没有忽悠住这届网友</a></li>
 <li><a href="/cnnews/20230422/1875291.md">突然大跌，“史无前例事件”将发生？</a></li>
+<li><a href="/topimagenews/20230422/1875269.md">在星舰发射这事上，中共媒体没有忽悠住这届网友</a></li>
 <li><a href="/topimagenews/20230422/1875406.md">中共商务部发公告 以商逼政；北京脊背发凉！耶伦对大陆经济政策目标演讲</a></li>
-<li><a href="/cnnews/20230422/1875337.md">余茂春罕见以中英双语发出同样内容！“中共之事就是全球之事”【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230422/1875241.md">〖微博谈〗若台海爆发冲突将比二战更惨烈</a></li>
-<li><a href="/ccpdope/20230422/1875392.md">矢板明夫曝习近平与刘亚洲夫妇的关系</a></li>
 <li><a href="/comments/20230422/1875279.md">北京大火调查形势逆转！李强出手办蔡奇？宝马冰淇淋涉长峰医院股东？</a></li>
+<li><a href="/cnnews/20230422/1875337.md">余茂春罕见以中英双语发出同样内容！“中共之事就是全球之事”【阿波罗网报道】</a></li>
+<li><a href="/ccpdope/20230422/1875392.md">矢板明夫曝习近平与刘亚洲夫妇的关系</a></li>
 <li><a href="/cbnews/20230422/1875368.md">宝马MINI冰激凌发酵！苏州公司通知员工卖掉宝马否则开除…</a></li>
 <li><a href="/cnnews/20230422/1875360.md">美团骑手集体罢工 网友：农管也去动员起义了!快了！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230422/1875391.md">陈破空：尴尬了！江苏省委书记如此捧习，全场沉默。冰淇淋上升为政治事件，她被当场架离！苏州公司要求员工卖掉宝马，否则开除。直播与互动。美东4月22日早8点30、即中港台4月22日晚8点30</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/baitai/20230422/1875398.md">新冠噩梦来了？大角星扩散亚洲</a></li>
 <li><a href="/topimagenews/20230422/1875220.md">冰淇淋事件升级版！10几名保全架走女直播主</a></li>
 <li><a href="/funmedia/20230422/1875302.md">中国最“神秘”寺庙，尘封五百年不接客，现在却宣布正式开放</a></li>
+<li><a href="/comments/20230423/1875443.md">习近平视察敏感时刻 深圳官员坠亡细节引猜测</a></li>
 <li><a href="/health/20230422/1875357.md">老话说“晚年苦不苦，就看五十五”，50岁后身体哪些症状是好兆头</a></li>
-<li><a href="/funmedia/20230422/1875310.md">日本地少车多，为什么车不愁停放？看看他们停车场和中国差距多大</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
 <li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
 
 </ul>
 </div>
