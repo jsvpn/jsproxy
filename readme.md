@@ -14,16 +14,16 @@
 <li><a href="/yule/20230422/1875139.md">范冰冰再次翻车，整张脸“蔡明化”</a></li>
 <li><a href="/sohnews/20230421/1875001.md">重发：绝密档案记录林彪与戴笠的秘密谈话，蒋介石看完后肠子悔青，如果时光倒流，历史将改写。｜薇羽看世间 第646期</a></li>
 <li><a href="/topimagenews/20230422/1875232.md">中国国内发生“重大辱华事件”！不想混了？</a></li>
-<li><a href="/topimagenews/20230421/1874986.md">惨烈！山东大货车对撞酿7死 重庆轿车突冲撞节庆人群</a></li>
-<li><a href="/cnnews/20230422/1875130.md">科学家终于得知白发的原因 并设法逆转回春</a></li>
 <li><a href="/topimagenews/20230422/1875269.md">在星舰发射这事上，中共媒体没有忽悠住这届网友</a></li>
-<li><a href="/cnnews/20230422/1875145.md">红朝秘闻！ 陈永贵曾苦劝华国锋别放邓小平出来</a></li>
 <li><a href="/cnnews/20230422/1875128.md">熟悉的一幕正回到美国！北京五味杂陈</a></li>
+<li><a href="/cnnews/20230422/1875130.md">科学家终于得知白发的原因 并设法逆转回春</a></li>
+<li><a href="/topimagenews/20230421/1874986.md">惨烈！山东大货车对撞酿7死 重庆轿车突冲撞节庆人群</a></li>
 <li><a href="/headline/20230422/1875097.md">中情局失窃文件显示：北京在全力开发技术以求战时能控制敌方卫星</a></li>
+<li><a href="/cnnews/20230422/1875145.md">红朝秘闻！ 陈永贵曾苦劝华国锋别放邓小平出来</a></li>
 <li><a href="/topimagenews/20230421/1875021.md">美股泡沫越来越大！他惊曝“黑天鹅”即将空袭：躲不掉</a></li>
 <li><a href="/topimagenews/20230421/1875015.md">太诡异！广西摊商遇男子推销 腰间被贴药膏秒瘫软晕倒</a></li>
-<li><a href="/health/20230421/1874945.md">美国研究：37℃不再是人体标准体温！体温高和体温低，哪个好？</a></li>
 <li><a href="/ssgc/20230422/1875241.md">〖微博谈〗若台海爆发冲突将比二战更惨烈</a></li>
+<li><a href="/health/20230421/1874945.md">美国研究：37℃不再是人体标准体温！体温高和体温低，哪个好？</a></li>
 <li><a href="/cnnews/20230422/1875129.md">元宇宙当年吹的牛，一个个都烂了尾</a></li>
 <li><a href="/ssgc/20230422/1875085.md">专栏 | 劳工通讯：浙江嘉兴平湖台资广越服装厂工人4月中连续多天罢工，要求增加工资 (二)</a></li>
 <li><a href="/sohnews/20230421/1874994.md">陈破空：轰动！几盒冰淇淋引发中国人围攻，宝马损失150亿，是退出中国的时候了！美国财长重磅演讲：决不放过中共。俄军战机起义？轰炸俄国城市。直播与互动。美东4月21日早8点30、即中港台4月21日晚8点30</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
 <li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
 <li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 
 </ul>
 </div>
