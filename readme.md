@@ -13,16 +13,16 @@
 <li><a href="/topimagenews/20230422/1875232.md">中国国内发生“重大辱华事件”！不想混了？</a></li>
 <li><a href="/cnnews/20230422/1875130.md">科学家终于得知白发的原因 并设法逆转回春</a></li>
 <li><a href="/headline/20230422/1875097.md">中情局失窃文件显示：北京在全力开发技术以求战时能控制敌方卫星</a></li>
-<li><a href="/cnnews/20230422/1875145.md">红朝秘闻！ 陈永贵曾苦劝华国锋别放邓小平出来</a></li>
 <li><a href="/topimagenews/20230422/1875269.md">在星舰发射这事上，中共媒体没有忽悠住这届网友</a></li>
+<li><a href="/cnnews/20230422/1875145.md">红朝秘闻！ 陈永贵曾苦劝华国锋别放邓小平出来</a></li>
 <li><a href="/cnnews/20230422/1875291.md">突然大跌，“史无前例事件”将发生？</a></li>
 <li><a href="/cnnews/20230422/1875337.md">余茂春罕见以中英双语发出同样内容！“中共之事就是全球之事”【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230422/1875241.md">〖微博谈〗若台海爆发冲突将比二战更惨烈</a></li>
-<li><a href="/comments/20230422/1875279.md">北京大火调查形势逆转！李强出手办蔡奇？宝马冰淇淋涉长峰医院股东？</a></li>
 <li><a href="/topimagenews/20230422/1875406.md">中共商务部发公告 以商逼政；北京脊背发凉！耶伦对大陆经济政策目标演讲</a></li>
-<li><a href="/cbnews/20230422/1875368.md">宝马MINI冰激凌发酵！苏州公司通知员工卖掉宝马否则开除…</a></li>
-<li><a href="/cnnews/20230422/1875360.md">美团骑手集体罢工 网友：农管也去动员起义了!快了！【阿波罗网报道】</a></li>
+<li><a href="/comments/20230422/1875279.md">北京大火调查形势逆转！李强出手办蔡奇？宝马冰淇淋涉长峰医院股东？</a></li>
 <li><a href="/ccpdope/20230422/1875392.md">矢板明夫曝习近平与刘亚洲夫妇的关系</a></li>
+<li><a href="/cnnews/20230422/1875360.md">美团骑手集体罢工 网友：农管也去动员起义了!快了！【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230422/1875368.md">宝马MINI冰激凌发酵！苏州公司通知员工卖掉宝马否则开除…</a></li>
 <li><a href="/sohnews/20230422/1875391.md">陈破空：尴尬了！江苏省委书记如此捧习，全场沉默。冰淇淋上升为政治事件，她被当场架离！苏州公司要求员工卖掉宝马，否则开除。直播与互动。美东4月22日早8点30、即中港台4月22日晚8点30</a></li>
 <li><a href="/cnnews/20230422/1875129.md">元宇宙当年吹的牛，一个个都烂了尾</a></li>
 <li><a href="/sohnews/20230422/1875251.md">周恩来神秘兮兮，毛泽东一直让着他，到底为啥？最后被老毛对着他的3亲密女人一语道破。【欺世大观】194</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
 <li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
 
 </ul>
 </div>
