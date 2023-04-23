@@ -5,14 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20230422/1875291.md">突然大跌，“史无前例事件”将发生？</a></li>
 <li><a href="/topimagenews/20230422/1875406.md">中共商务部发公告 以商逼政；北京脊背发凉！耶伦对大陆经济政策目标演讲</a></li>
-<li><a href="/comments/20230422/1875279.md">北京大火调查形势逆转！李强出手办蔡奇？宝马冰淇淋涉长峰医院股东？</a></li>
 <li><a href="/ccpdope/20230422/1875392.md">矢板明夫曝习近平与刘亚洲夫妇的关系</a></li>
 <li><a href="/cnnews/20230422/1875337.md">余茂春罕见以中英双语发出同样内容！“中共之事就是全球之事”【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230422/1875360.md">美团骑手集体罢工 网友：农管也去动员起义了!快了！【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230422/1875368.md">宝马MINI冰激凌发酵！苏州公司通知员工卖掉宝马否则开除…</a></li>
 <li><a href="/sohnews/20230422/1875391.md">陈破空：尴尬了！江苏省委书记如此捧习，全场沉默。冰淇淋上升为政治事件，她被当场架离！苏州公司要求员工卖掉宝马，否则开除。直播与互动。美东4月22日早8点30、即中港台4月22日晚8点30</a></li>
+<li><a href="/cbnews/20230422/1875368.md">宝马MINI冰激凌发酵！苏州公司通知员工卖掉宝马否则开除…</a></li>
 <li><a href="/topimagenews/20230423/1875469.md">烧死一个法官，比亚迪没有新闻 和宝马冰激凌对比强烈</a></li>
 <li><a href="/sohnews/20230422/1875384.md">投名状变炸弹!辈分愈高愈斗 中共太子党大地震。歼灭所有派系…谁是江派留在习近平身边的狠角色? 空防压力爆表 中共攻台目标制空权? @democraticTaiwanChannel</a></li>
 <li><a href="/cnnews/20230423/1875470.md">习近平，收起你的任性，赶快接电话</a></li>
@@ -20,12 +18,14 @@
 <li><a href="/yule/20230422/1875377.md">刘晓庆赵雅芝生图流出 不老女神们露真容</a></li>
 <li><a href="/comments/20230423/1875443.md">习近平视察敏感时刻 深圳官员坠亡细节引猜测</a></li>
 <li><a href="/yule/20230423/1875471.md">马伊琍新剧太辣眼！46岁强行扮26岁</a></li>
-<li><a href="/baitai/20230422/1875398.md">新冠噩梦来了？大角星扩散亚洲</a></li>
 <li><a href="/baitai/20230423/1875490.md">中共连出大事 权臣浮出水面 或埋祸根</a></li>
+<li><a href="/baitai/20230422/1875398.md">新冠噩梦来了？大角星扩散亚洲</a></li>
 <li><a href="/yule/20230423/1875466.md">62岁郎平现身法国与巩俐合影！全家5口定居美国</a></li>
 <li><a href="/funmedia/20230422/1875302.md">中国最“神秘”寺庙，尘封五百年不接客，现在却宣布正式开放</a></li>
 <li><a href="/headline/20230422/1875407.md">柯文哲：台海战争若拖过两周 习政权就有可能不保</a></li>
+<li><a href="/headline/20230423/1875475.md">公务员以数字人民币发薪？江苏常熟做法引争议</a></li>
 <li><a href="/health/20230422/1875357.md">老话说“晚年苦不苦，就看五十五”，50岁后身体哪些症状是好兆头</a></li>
+<li><a href="/sohnews/20230423/1875495.md">实锤人证：中领馆出钱，在美国滋事；“别删短信”FBI调查纽约亲共侨领内幕；海外110太过界，美国不忍了，其他国家会跟进吗？</a></li>
 <li><a href="/funmedia/20230422/1875310.md">日本地少车多，为什么车不愁停放？看看他们停车场和中国差距多大</a></li>
 <li><a href="/finance/20230422/1875334.md">谈中国通缩 分析：根本原因在于自身需求不足</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230423/1875611.md" target="_blank">〖兲朝浮世绘〗中国人的痛</a></li>
+<li><a href="/cbnews/20230423/1875603.md" target="_blank">她5岁时被拐卖26年后回家父母双亡 向人贩索赔</a></li>
 <li><a href="/comments/20230423/1875587.md" target="_blank">【杰森视角】上海追随东北，东北引领中国？中央对地方债务躺平！中国过去30年的两个时运点消失！习近平的外交秀很风光，很圆梦！一个中国维持了近300年的头衔失去了！从投胎不过山海关到投胎不到中国去！</a></li>
 <li><a href="/cbnews/20230423/1875536.md" target="_blank">中国防长从莫斯科回国，买回俄方“重器”</a></li>
 <li><a href="/cbnews/20230423/1875535.md" target="_blank">安徽男大生同时谈8个女友 全校深夜怒吼“渣男”</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230421/1874869.md" target="_blank">“白纸运动”示威者亲揭被捕经历</a></li>
 <li><a href="/comments/20230421/1874757.md" target="_blank">耶路撒冷的劫难！</a></li>
 <li><a href="/cbnews/20230421/1874740.md" target="_blank">”根子在上面“！中共调查研究还有后戏？【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230421/1874709.md" target="_blank">姓氏太生僻 云南一村村民被迫全姓“鸭”</a></li>
-<li><a href="/comments/20230421/1874678.md" target="_blank">请未来人吃饭！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 <li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 
 </ul>
 </div>
