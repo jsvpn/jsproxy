@@ -5,8 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230422/1875233.md">习近平与刘亚洲妻的秘闻曝光；刘亚洲涉入“倒习檄文”真假？刘亚洲为什么“反对攻台”？刘亚洲亲美吗？他和刘少奇的相似之处</a></li>
-<li><a href="/topimagenews/20230422/1875232.md">中国国内发生“重大辱华事件”！不想混了？</a></li>
 <li><a href="/cnnews/20230422/1875291.md">突然大跌，“史无前例事件”将发生？</a></li>
 <li><a href="/topimagenews/20230422/1875269.md">在星舰发射这事上，中共媒体没有忽悠住这届网友</a></li>
 <li><a href="/topimagenews/20230422/1875406.md">中共商务部发公告 以商逼政；北京脊背发凉！耶伦对大陆经济政策目标演讲</a></li>
@@ -21,13 +19,15 @@
 <li><a href="/sohnews/20230422/1875384.md">投名状变炸弹!辈分愈高愈斗 中共太子党大地震。歼灭所有派系…谁是江派留在习近平身边的狠角色? 空防压力爆表 中共攻台目标制空权? @democraticTaiwanChannel</a></li>
 <li><a href="/cbnews/20230422/1875266.md">〖兲朝浮世绘〗中了中共邪教毒害的人，已经分不清好坏了</a></li>
 <li><a href="/comments/20230422/1875268.md">【独家重磅】李燕铭：中南海高层人事重大异常 王沪宁继续操控习近平末路狂奔 丁薛祥意外出局中南海重要机构 实际权力打了折扣 泄露习近平通过韩正加空李克强内幕 习近平李克强明争暗斗内幕（九六） 习连任后高层人事大洗牌（九七）</a></li>
+<li><a href="/topimagenews/20230423/1875469.md">烧死一个法官，比亚迪没有新闻 和宝马冰激凌对比强烈</a></li>
 <li><a href="/baitai/20230423/1875459.md">炮战对决：4中立国倒戈军援乌克兰 大战一触即发</a></li>
 <li><a href="/yule/20230422/1875377.md">刘晓庆赵雅芝生图流出 不老女神们露真容</a></li>
-<li><a href="/topimagenews/20230423/1875469.md">烧死一个法官，比亚迪没有新闻 和宝马冰激凌对比强烈</a></li>
 <li><a href="/comments/20230423/1875443.md">习近平视察敏感时刻 深圳官员坠亡细节引猜测</a></li>
 <li><a href="/funmedia/20230422/1875270.md">幽默：结婚的好处，笑死了</a></li>
+<li><a href="/cnnews/20230423/1875470.md">习近平，收起你的任性，赶快接电话</a></li>
 <li><a href="/baitai/20230422/1875398.md">新冠噩梦来了？大角星扩散亚洲</a></li>
 <li><a href="/funmedia/20230422/1875302.md">中国最“神秘”寺庙，尘封五百年不接客，现在却宣布正式开放</a></li>
+<li><a href="/headline/20230422/1875407.md">柯文哲：台海战争若拖过两周 习政权就有可能不保</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230423/1875566.md" target="_blank">中共驻法大使撒泼 被问及毛泽东屠杀人民</a></li>
 <li><a href="/topimagenews/20230423/1875534.md" target="_blank">为什么说俄国送修飞机到伊朗，受损失的是中共</a></li>
 <li><a href="/topimagenews/20230423/1875469.md" target="_blank">烧死一个法官，比亚迪没有新闻 和宝马冰激凌对比强烈</a></li>
 <li><a href="/topimagenews/20230422/1875406.md" target="_blank">中共商务部发公告 以商逼政；北京脊背发凉！耶伦对大陆经济政策目标演讲</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20230421/1874693.md" target="_blank">“对中国而言很丢面子” 斐济新总理避见中共副外长马朝旭</a></li>
 <li><a href="/topimagenews/20230421/1874690.md" target="_blank">地面视角震撼！“星舰”火箭升空爆炸 马斯克说话了</a></li>
 <li><a href="/topimagenews/20230421/1874689.md" target="_blank">谢金河指全球供应链正激烈重组 离不开中国的企业会很辛苦</a></li>
-<li><a href="/topimagenews/20230421/1874671.md" target="_blank">美国防部公布幽浮影像 逾650起未解之谜待追踪</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230423/1875569.md" target="_blank">译丛:中共幽灵在海外侨民中徘徊</a></li>
+<li><a href="/comments/20230423/1875568.md" target="_blank">受访被问及毛泽东罪孽 中驻法大使撒泼怒呛</a></li>
 <li><a href="/comments/20230423/1875560.md" target="_blank">陈奎德 李恒青：“后中共时代”破土，群英逐鹿</a></li>
 <li><a href="/comments/20230423/1875554.md" target="_blank">文昭：中国农民被歧视的理由，为什么全是最荒谬的？</a></li>
 <li><a href="/comments/20230423/1875546.md" target="_blank">起慧：兴于聚德 败于悖德</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230422/1875279.md" target="_blank">北京大火调查形势逆转！李强出手办蔡奇？宝马冰淇淋涉长峰医院股东？</a></li>
 <li><a href="/comments/20230422/1875273.md" target="_blank">林世钰:高耀洁：我很孤独寂寞，希望有人来看我</a></li>
 <li><a href="/comments/20230422/1875272.md" target="_blank">404文：翟杨：化债艰难“黔地技穷”，贵州到底欠了多少债？</a></li>
-<li><a href="/comments/20230422/1875271.md" target="_blank">魏春亮：长峰医院火灾，公众需要知道发生了什么</a></li>
-<li><a href="/comments/20230422/1875268.md" target="_blank">【独家重磅】李燕铭：中南海高层人事重大异常 王沪宁继续操控习近平末路狂奔 丁薛祥意外出局中南海重要机构 实际权力打了折扣 泄露习近平通过韩正加空李克强内幕 习近平李克强明争暗斗内幕（九六） 习连任后高层人事大洗牌（九七）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
 <li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
 <li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
 
 </ul>
 </div>
