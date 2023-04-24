@@ -10,23 +10,23 @@
 <li><a href="/cnnews/20230424/1875844.md">三年巨亏7亿！又一顶级中国“老字号”跌落神坛</a></li>
 <li><a href="/cnnews/20230424/1875784.md">被吓到尿裤子的市委书记</a></li>
 <li><a href="/topimagenews/20230424/1875780.md">贵州省甩锅并向中央叫板：借了钱就没打算还</a></li>
-<li><a href="/topimagenews/20230424/1875891.md">【微博精粹】又冲出一支砸中国人饭碗的土匪队伍</a></li>
 <li><a href="/finance/20230424/1875833.md">习近平推战时经济体制</a></li>
-<li><a href="/finance/20230424/1875826.md">中国“数字人民币”背后的真相</a></li>
-<li><a href="/topimagenews/20230424/1875917.md">“北极鲶鱼”的调查结果</a></li>
+<li><a href="/topimagenews/20230424/1875891.md">【微博精粹】又冲出一支砸中国人饭碗的土匪队伍</a></li>
 <li><a href="/topimagenews/20230424/1875936.md">枪口对内!乌克兰参谋总部：俄正规军与瓦格纳集团在卢干茨克枪战</a></li>
+<li><a href="/finance/20230424/1875826.md">中国“数字人民币”背后的真相</a></li>
 <li><a href="/headline/20230424/1875777.md">八十名欧洲议员要求法国政府驱逐中国驻法大使卢沙野</a></li>
+<li><a href="/topimagenews/20230424/1875917.md">“北极鲶鱼”的调查结果</a></li>
 <li><a href="/topimagenews/20230424/1875887.md">卢沙野口出狂言，法国怒了：中共政府出面说明</a></li>
 <li><a href="/baitai/20230424/1875774.md">意大利5月G7峰会或宣布退出「一带一路」 意媒：将为意大利带来双重机遇</a></li>
 <li><a href="/sohnews/20230424/1875786.md">【直播】一言得罪14国！驻法大使狂飙惊悚言论，泄漏习近平“新秩序”底牌？常熟破冰，财富“行程码”登场，1984终极噩梦再现！</a></li>
 <li><a href="/ssgc/20230424/1875847.md">〖微博谈〗更多的恶报惩罚还在后头</a></li>
 <li><a href="/headline/20230424/1875755.md">韩国公布尹锡悦访美日程 中国再表“严正交涉”</a></li>
 <li><a href="/cbnews/20230424/1875811.md">美兵推曝：8万解放军登陆台湾 美军击沉80陆舰</a></li>
-<li><a href="/comments/20230423/1875655.md">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
 <li><a href="/comments/20230424/1875765.md">卢沙野称前苏联国主权未定惹议 法外交部：中共政府出面说清楚</a></li>
 <li><a href="/comments/20230424/1875756.md">传海南强征砍青苗 村民们怒挥砍刀反抗</a></li>
 <li><a href="/topimagenews/20230424/1875778.md">震惊：在北京，超过6000人住在厕所里</a></li>
 <li><a href="/cnnews/20230424/1875901.md">女外送员被绑架囚禁性侵，最后竟是…救了她</a></li>
+<li><a href="/topimagenews/20230424/1875810.md">大火烧死了那么多人，热搜上全是冰淇淋</a></li>
 <li><a href="/worldnews/20230424/1875792.md">乌克兰军队的位置引发反攻猜测</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230424/1876052.md" target="_blank">乌军再出奇招 乌军小部队渡过第聂伯河左岸 可能是春季反攻</a></li>
 <li><a href="/topimagenews/20230424/1876023.md" target="_blank">突然大跌，“史无前例事件”将发生？半导体全线崩溃 复苏要到2024？熟悉的一幕正回到美国</a></li>
 <li><a href="/topimagenews/20230424/1876000.md" target="_blank">中共航母“山东号”西太平洋活动爆“软肋”…</a></li>
 <li><a href="/topimagenews/20230424/1875992.md" target="_blank">中美若发生战争 专家:美国有实力将中共沿海城市打得“稀巴烂”</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230423/1875576.md" target="_blank">【微博精粹】润者秘笈</a></li>
 <li><a href="/topimagenews/20230423/1875566.md" target="_blank">中共驻法大使撒泼 被问及毛泽东屠杀人民</a></li>
 <li><a href="/topimagenews/20230423/1875534.md" target="_blank">为什么说俄国送修飞机到伊朗，受损失的是中共</a></li>
-<li><a href="/topimagenews/20230423/1875469.md" target="_blank">烧死一个法官，比亚迪没有新闻 和宝马冰激凌对比强烈</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230424/1876038.md" target="_blank">评论 | 王力雄：乌苏城里的椰子树——回忆新疆旅行见闻 （四十三）</a></li>
 <li><a href="/comments/20230424/1876006.md" target="_blank">脑中取物！古代开颅手术！</a></li>
 <li><a href="/comments/20230424/1876002.md" target="_blank">三十年前流行的那句话回来了：早点工作挣钱养家</a></li>
 <li><a href="/comments/20230424/1876001.md" target="_blank">六神磊磊：恳请相关方面不要拆除金庸图书馆</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230424/1875754.md" target="_blank">AI生成“专访”F1世界冠军舒马赫 德周刊道歉开除总编</a></li>
 <li><a href="/comments/20230424/1875751.md" target="_blank">星舰升空扬起砂石砸毁相机 摄影师痛哭：彻底的屠杀</a></li>
 <li><a href="/comments/20230424/1875749.md" target="_blank">不只美国 英相苏纳克证实驻苏丹大使馆人员已撤离</a></li>
-<li><a href="/comments/20230423/1875736.md" target="_blank">【生活在澳洲】Bob 邀您来悉尼 一游百万打卡景观</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
 
 </ul>
 </div>
