@@ -8,13 +8,13 @@
 <li><a href="/topimagenews/20230424/1875825.md">刷屏！四川女更衣室母子不堪行为曝光</a></li>
 <li><a href="/cnnews/20230424/1875844.md">三年巨亏7亿！又一顶级中国“老字号”跌落神坛</a></li>
 <li><a href="/finance/20230424/1875833.md">习近平推战时经济体制</a></li>
-<li><a href="/topimagenews/20230424/1876023.md">突然大跌，“史无前例事件”将发生？半导体全线崩溃 复苏要到2024？熟悉的一幕正回到美国</a></li>
 <li><a href="/finance/20230424/1875826.md">中国“数字人民币”背后的真相</a></li>
+<li><a href="/topimagenews/20230424/1876023.md">突然大跌，“史无前例事件”将发生？半导体全线崩溃 复苏要到2024？熟悉的一幕正回到美国</a></li>
 <li><a href="/topimagenews/20230424/1875891.md">【微博精粹】又冲出一支砸中国人饭碗的土匪队伍</a></li>
 <li><a href="/topimagenews/20230424/1875887.md">卢沙野口出狂言，法国怒了：中共政府出面说明</a></li>
 <li><a href="/topimagenews/20230424/1875936.md">枪口对内!乌克兰参谋总部：俄正规军与瓦格纳集团在卢干茨克枪战</a></li>
-<li><a href="/topimagenews/20230424/1875917.md">“北极鲶鱼”的调查结果</a></li>
 <li><a href="/lifebaike/20230424/1875994.md">不确定时代，性萧条正在加速</a></li>
+<li><a href="/topimagenews/20230424/1875917.md">“北极鲶鱼”的调查结果</a></li>
 <li><a href="/topimagenews/20230424/1875992.md">中美若发生战争 专家:美国有实力将中共沿海城市打得“稀巴烂”</a></li>
 <li><a href="/sohnews/20230424/1876007.md">陈破空：此事证实：习近平怀疑丁薛祥！更加倚重王沪宁。国际会议指向中国实验室，法国权威医学机构赞同！中方专家也意外赞同。直播与互动。美东4月24日早8点30、即中港台4月24日晚8点30</a></li>
 <li><a href="/ssgc/20230424/1875847.md">〖微博谈〗更多的恶报惩罚还在后头</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/cnnews/20230424/1875995.md">全国统筹、上海老人“火大”：我的养老金去哪了</a></li>
 <li><a href="/topimagenews/20230424/1875947.md">外国网友看傻：公厕换卫生纸 下秒被大陆人抢光</a></li>
 <li><a href="/baitai/20230424/1875988.md">中国彩票开奖现诡异 网民评论太精辟了</a></li>
-<li><a href="/cbnews/20230424/1875811.md">美兵推曝：8万解放军登陆台湾 美军击沉80陆舰</a></li>
-<li><a href="/baitai/20230424/1875978.md">知乎问答｜为何我国驻法大使要说前苏联加盟国没有主权也没有国际法承认？</a></li>
 <li><a href="/baitai/20230424/1876042.md">战狼变战猫？卢沙野惹众怒后悄悄删文 北京也不挺</a></li>
+<li><a href="/baitai/20230424/1875978.md">知乎问答｜为何我国驻法大使要说前苏联加盟国没有主权也没有国际法承认？</a></li>
 <li><a href="/cnnews/20230424/1875901.md">女外送员被绑架囚禁性侵，最后竟是…救了她</a></li>
 <li><a href="/ssgc/20230424/1875938.md">中央政法委密件突曝光 指导武汉法院如何判决方斌</a></li>
 <li><a href="/cnnews/20230424/1875924.md">又一党委书记落马，曾扮演“孔乙己”走红</a></li>
+<li><a href="/topimagenews/20230424/1876000.md">中共航母“山东号”西太平洋活动爆“软肋”…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230425/1876210.md" target="_blank">唐靖远：卢沙野狂言泄露中共真实心态；激怒欧洲，打脸马克龙；中欧关系也回不去了？ ｜新闻烽火台 04/24</a></li>
+<li><a href="/cbnews/20230425/1876208.md" target="_blank">新疆凌晨发生特大“地磁暴” 出现绚丽极光</a></li>
 <li><a href="/cbnews/20230425/1876204.md" target="_blank">陆人妻“献身校长”换儿进明星学校 还骂丈夫</a></li>
 <li><a href="/cbnews/20230425/1876178.md" target="_blank">主旋律电影官威大 北大学生批评两句还要挨处分</a></li>
 <li><a href="/cbnews/20230425/1876177.md" target="_blank">天门山之后又3人，无力衰弱的声音</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230423/1875532.md" target="_blank">江峰：农管，促发农村抗暴运动</a></li>
 <li><a href="/comments/20230423/1875527.md" target="_blank">清醒无痛 开颅手术？！</a></li>
 <li><a href="/comments/20230423/1875488.md" target="_blank">外星母舰靠近地球 要研究人类？</a></li>
-<li><a href="/comments/20230422/1875424.md" target="_blank">【方菲时间】美国两件大事攸关华人！华人该怎么办？马斯克因一句话被激怒才创建AI公司｜04/22/2023</a></li>
-<li><a href="/comments/20230422/1875413.md" target="_blank">医生开颅，取出大脑中的奇怪生物，头疼就能好了？！如果曹操听了华佗的话，他就活下来了！超越认知，比中华文明更久远的医学！｜ #未解之谜 扶摇</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230425/1876210.md" target="_blank">唐靖远：卢沙野狂言泄露中共真实心态；激怒欧洲，打脸马克龙；中欧关系也回不去了？ ｜新闻烽火台 04/24</a></li>
 <li><a href="/comments/20230425/1876126.md" target="_blank">时事大家谈：加强农业全面监管，习近平开始折腾农村？</a></li>
 <li><a href="/comments/20230424/1876117.md" target="_blank">时事大家谈：两只冰激凌引发“辱华”风暴，中国人自信还是自卑？</a></li>
 <li><a href="/comments/20230424/1876082.md" target="_blank">时事大家谈：加强农业全面监管，习近平开始折腾农村？两只冰激凌引发“辱华”风暴，中国人自信还是自卑？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230424/1875836.md" target="_blank">文昭：美国正在衰落，要衰多久才会落，小粉红要等到什么时候？</a></li>
 <li><a href="/comments/20230424/1875834.md" target="_blank">你馋冰淇淋，我悼火死鬼</a></li>
 <li><a href="/comments/20230424/1875819.md" target="_blank">超越想像！古代开颅手术！</a></li>
-<li><a href="/comments/20230424/1875765.md" target="_blank">卢沙野称前苏联国主权未定惹议 法外交部：中共政府出面说清楚</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
 <li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
 
 </ul>
 </div>
