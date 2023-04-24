@@ -12,22 +12,22 @@
 <li><a href="/finance/20230424/1875833.md">习近平推战时经济体制</a></li>
 <li><a href="/topimagenews/20230424/1875780.md">贵州省甩锅并向中央叫板：借了钱就没打算还</a></li>
 <li><a href="/finance/20230424/1875826.md">中国“数字人民币”背后的真相</a></li>
-<li><a href="/topimagenews/20230424/1875936.md">枪口对内!乌克兰参谋总部：俄正规军与瓦格纳集团在卢干茨克枪战</a></li>
 <li><a href="/topimagenews/20230424/1875891.md">【微博精粹】又冲出一支砸中国人饭碗的土匪队伍</a></li>
+<li><a href="/topimagenews/20230424/1875936.md">枪口对内!乌克兰参谋总部：俄正规军与瓦格纳集团在卢干茨克枪战</a></li>
 <li><a href="/headline/20230424/1875777.md">八十名欧洲议员要求法国政府驱逐中国驻法大使卢沙野</a></li>
+<li><a href="/topimagenews/20230424/1876023.md">突然大跌，“史无前例事件”将发生？半导体全线崩溃 复苏要到2024？熟悉的一幕正回到美国</a></li>
 <li><a href="/topimagenews/20230424/1875887.md">卢沙野口出狂言，法国怒了：中共政府出面说明</a></li>
 <li><a href="/topimagenews/20230424/1875917.md">“北极鲶鱼”的调查结果</a></li>
-<li><a href="/topimagenews/20230424/1876023.md">突然大跌，“史无前例事件”将发生？半导体全线崩溃 复苏要到2024？熟悉的一幕正回到美国</a></li>
-<li><a href="/baitai/20230424/1875774.md">意大利5月G7峰会或宣布退出「一带一路」 意媒：将为意大利带来双重机遇</a></li>
-<li><a href="/topimagenews/20230424/1875992.md">中美若发生战争 专家:美国有实力将中共沿海城市打得“稀巴烂”</a></li>
 <li><a href="/lifebaike/20230424/1875994.md">不确定时代，性萧条正在加速</a></li>
+<li><a href="/topimagenews/20230424/1875992.md">中美若发生战争 专家:美国有实力将中共沿海城市打得“稀巴烂”</a></li>
+<li><a href="/baitai/20230424/1875774.md">意大利5月G7峰会或宣布退出「一带一路」 意媒：将为意大利带来双重机遇</a></li>
 <li><a href="/sohnews/20230424/1875786.md">【直播】一言得罪14国！驻法大使狂飙惊悚言论，泄漏习近平“新秩序”底牌？常熟破冰，财富“行程码”登场，1984终极噩梦再现！</a></li>
 <li><a href="/ssgc/20230424/1875847.md">〖微博谈〗更多的恶报惩罚还在后头</a></li>
-<li><a href="/topimagenews/20230424/1875947.md">外国网友看傻：公厕换卫生纸 下秒被大陆人抢光</a></li>
 <li><a href="/cbnews/20230424/1875811.md">美兵推曝：8万解放军登陆台湾 美军击沉80陆舰</a></li>
-<li><a href="/headline/20230424/1875755.md">韩国公布尹锡悦访美日程 中国再表“严正交涉”</a></li>
+<li><a href="/topimagenews/20230424/1875947.md">外国网友看傻：公厕换卫生纸 下秒被大陆人抢光</a></li>
+<li><a href="/sohnews/20230424/1876007.md">陈破空：此事证实：习近平怀疑丁薛祥！更加倚重王沪宁。国际会议指向中国实验室，法国权威医学机构赞同！中方专家也意外赞同。直播与互动。美东4月24日早8点30、即中港台4月24日晚8点30</a></li>
+<li><a href="/baitai/20230424/1875978.md">知乎问答｜为何我国驻法大使要说前苏联加盟国没有主权也没有国际法承认？</a></li>
 <li><a href="/comments/20230424/1875765.md">卢沙野称前苏联国主权未定惹议 法外交部：中共政府出面说清楚</a></li>
-<li><a href="/comments/20230424/1875756.md">传海南强征砍青苗 村民们怒挥砍刀反抗</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230425/1876126.md" target="_blank">时事大家谈：加强农业全面监管，习近平开始折腾农村？</a></li>
 <li><a href="/comments/20230424/1876117.md" target="_blank">时事大家谈：两只冰激凌引发“辱华”风暴，中国人自信还是自卑？</a></li>
 <li><a href="/comments/20230424/1876082.md" target="_blank">时事大家谈：加强农业全面监管，习近平开始折腾农村？两只冰激凌引发“辱华”风暴，中国人自信还是自卑？</a></li>
 <li><a href="/comments/20230424/1876081.md" target="_blank">【杜耀明评论】中央领导有权无责 香港青年有责无权</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230424/1875834.md" target="_blank">你馋冰淇淋，我悼火死鬼</a></li>
 <li><a href="/comments/20230424/1875819.md" target="_blank">超越想像！古代开颅手术！</a></li>
 <li><a href="/comments/20230424/1875765.md" target="_blank">卢沙野称前苏联国主权未定惹议 法外交部：中共政府出面说清楚</a></li>
-<li><a href="/comments/20230424/1875756.md" target="_blank">传海南强征砍青苗 村民们怒挥砍刀反抗</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 <li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
 <li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 
 </ul>
 </div>
