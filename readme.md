@@ -17,8 +17,8 @@
 <li><a href="/topimagenews/20230424/1876074.md">谢金河曝中国2指标：全世界需求快速降温</a></li>
 <li><a href="/cbnews/20230425/1876315.md">〖兲朝浮世绘〗撒野要收收了，欧洲不再惯着中共战狼</a></li>
 <li><a href="/topimagenews/20230425/1876357.md">好大胆！竟然公开为卢沙野叫好：该反击的都反击了【阿波罗网报道】</a></li>
-<li><a href="/health/20230425/1876265.md">有一种水会致癌，不是千滚水和隔夜水，很多人依然天天在喝</a></li>
 <li><a href="/comments/20230425/1876222.md">文昭：猛虎下山，工资全额发放数字人民币启动！又一轮「血洗」将至？</a></li>
+<li><a href="/health/20230425/1876265.md">有一种水会致癌，不是千滚水和隔夜水，很多人依然天天在喝</a></li>
 <li><a href="/topimagenews/20230425/1876309.md">美日智库台海兵推结果伤亡战损数字曝光</a></li>
 <li><a href="/sohnews/20230425/1876296.md">[精华] 大宇: 整个山头只剩习近平?习近平时代  中共还会有新派系?@democraticTaiwanChannel</a></li>
 <li><a href="/ssgc/20230425/1876254.md">〖微博谈〗这篇文章是特供给法国人的</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230425/1876445.md" target="_blank">数字人民币背后的真相 马化腾和马云很紧张；世界工厂地位崩溃？大陆惊现1恐怖迹象</a></li>
 <li><a href="/topimagenews/20230425/1876397.md" target="_blank">俄T-14主战坦克首现乌克兰 这回学乖了</a></li>
 <li><a href="/topimagenews/20230425/1876389.md" target="_blank">就地处决!不照顾战俘 普里格津下令全数枪杀乌克兰投降者</a></li>
 <li><a href="/topimagenews/20230425/1876378.md" target="_blank">中共全党大搞宗教活动？前宣传部长：马克思主义是“一种新宗教”【阿波罗网报道】</a></li>
@@ -90,13 +91,19 @@
 <li><a href="/topimagenews/20230424/1875887.md" target="_blank">卢沙野口出狂言，法国怒了：中共政府出面说明</a></li>
 <li><a href="/topimagenews/20230424/1875886.md" target="_blank">闪过“国家征召”！普丁发言人之子自称曾担任瓦格纳集团炮兵…</a></li>
 <li><a href="/topimagenews/20230424/1875825.md" target="_blank">刷屏！四川女更衣室母子不堪行为曝光</a></li>
-<li><a href="/topimagenews/20230424/1875810.md" target="_blank">大火烧死了那么多人，热搜上全是冰淇淋</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230425/1876442.md" target="_blank">奇观！地球发生特大磁暴 新疆惊现绚烂紫红色极光</a></li>
+<li><a href="/comments/20230425/1876441.md" target="_blank">拜川对决将重演？美总统拜登正式宣布竞选连任</a></li>
+<li><a href="/comments/20230425/1876440.md" target="_blank">拜登川普对决将重演？ 80岁美国总统拜登正式宣布竞选连任</a></li>
+<li><a href="/comments/20230425/1876439.md" target="_blank">四·二五24周年 纽约法轮功中领馆前呼吁结束迫害</a></li>
+<li><a href="/comments/20230425/1876438.md" target="_blank">美媒：北京为卢沙野失言打圆场 各方不买帐</a></li>
+<li><a href="/comments/20230425/1876437.md" target="_blank">李强上任三把火后 重拾李克强“地摊经济”</a></li>
+<li><a href="/comments/20230425/1876436.md" target="_blank">河南高校官员避雨发言惹众怒 学生怒喊“下来”</a></li>
 <li><a href="/comments/20230425/1876431.md" target="_blank">王赫：中共这次恐怕讨不得半点便宜</a></li>
 <li><a href="/comments/20230425/1876355.md" target="_blank">中南海越“作”越死</a></li>
 <li><a href="/comments/20230425/1876336.md" target="_blank">这不是卢沙野的失控 而是有意为之</a></li>
@@ -115,13 +122,6 @@
 <li><a href="/comments/20230424/1876002.md" target="_blank">三十年前流行的那句话回来了：早点工作挣钱养家</a></li>
 <li><a href="/comments/20230424/1876001.md" target="_blank">六神磊磊：恳请相关方面不要拆除金庸图书馆</a></li>
 <li><a href="/comments/20230424/1875993.md" target="_blank">这样的乌克兰文学家 全世界都感动</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20230424/1875889.md" target="_blank">【独家重磅】李燕铭：栗战书旧部主导清洗江泽民发迹地 两前上司打虎立功升官 女上司升任省长 习近平接力胡锦涛深度清洗一汽 董事长徐建一两会被抓董事长徐留平不到59周岁调职 江泽民两一汽同事近期接连病亡 习近平连任后大清洗（十八） 江泽民死江家族被清洗（九）</a></li>
-<li><a href="/comments/20230424/1875883.md" target="_blank">汤名晖：乌克兰反攻成败，将决定未来的国际秩序</a></li>
-<li><a href="/comments/20230424/1875882.md" target="_blank">维权失败“童话大王”郑渊洁宣布：永不再发作品</a></li>
-<li><a href="/comments/20230424/1875881.md" target="_blank">色诱金正日酒友 策反中共国大使 【欺世大观】195</a></li>
-<li><a href="/comments/20230424/1875880.md" target="_blank">我与萨达姆·侯赛因的对话 </a></li>
-<li><a href="/comments/20230424/1875861.md" target="_blank">吴芳铭：全球化在转身 未来高通膨恐常态化</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
 <li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
 
 </ul>
 </div>
