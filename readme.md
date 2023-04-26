@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20230426/1876634.md">中南海照片上江泽民被彻底抹除内幕曝光</a></li>
 <li><a href="/lifebaike/20230426/1876581.md">这是一个我从没见过的北京</a></li>
-<li><a href="/topimagenews/20230425/1876510.md">中国全面实现不动产统一登记 房地产税可能全面落地</a></li>
 <li><a href="/cnnews/20230426/1876649.md">订单1200架第1架就停飞，C919还是被卡住了脖子</a></li>
 <li><a href="/sohnews/20230426/1876724.md">天安门惊传高呼“打倒共产党”；不动产登记来了，房地产税跑不掉，这次收割谁？宝马Mini冰淇淋事件发酵，网红辛巴请吃冰淇淋，也“辱华”？</a></li>
 <li><a href="/topimagenews/20230426/1876645.md">福建体彩公然作假 官方回复成笑柄 越描越黑</a></li>
 <li><a href="/lifebaike/20230426/1876632.md">惨不忍睹的杀人方式──“敲砂罐”</a></li>
 <li><a href="/topimagenews/20230426/1876778.md">上海男跳楼砸中26岁女 2人肢体变形卧倒！家属泪…</a></li>
-<li><a href="/topimagenews/20230426/1876564.md">中共切割卢沙野“个人意见” 不可能！矢板明夫：他绝不是口无遮拦大嘴巴</a></li>
 <li><a href="/lifebaike/20230426/1876704.md">谁带大的孩子更聪明？耶鲁大学的研究告诉你答案，你家谁带孩子？</a></li>
+<li><a href="/topimagenews/20230426/1876564.md">中共切割卢沙野“个人意见” 不可能！矢板明夫：他绝不是口无遮拦大嘴巴</a></li>
 <li><a href="/comments/20230426/1876771.md">三年狂赚上千亿 这个暴利生意走到头了</a></li>
 <li><a href="/comments/20230426/1876775.md">德媒：老习又玩砸了</a></li>
 <li><a href="/baitai/20230426/1876594.md">习派农管下乡 只因看到大风浪？</a></li>
 <li><a href="/comments/20230426/1876770.md">俄罗斯特种部队覆灭记 大鹅开始撤退</a></li>
-<li><a href="/cbnews/20230426/1876606.md">卢沙野“出卖”习近平 中共外交兴奋期见顶</a></li>
-<li><a href="/topimagenews/20230426/1876803.md">台海“准战争边缘”!一旦启动武统 中媒:共军将面临“四线作战”</a></li>
 <li><a href="/topimagenews/20230426/1876818.md">意外暴露自家武器落后30年! 引进瑞士双35高炮 中媒兴奋称技术大飞跃</a></li>
-<li><a href="/cnnews/20230426/1876637.md">欧式风格也不行 拆掉门窗和房檐，第三波热闹来了</a></li>
+<li><a href="/topimagenews/20230426/1876803.md">台海“准战争边缘”!一旦启动武统 中媒:共军将面临“四线作战”</a></li>
+<li><a href="/cbnews/20230426/1876606.md">卢沙野“出卖”习近平 中共外交兴奋期见顶</a></li>
 <li><a href="/finance/20230426/1876819.md">曾一度排队8小时 美连锁店在华最后两家店收摊</a></li>
-<li><a href="/ssgc/20230426/1876665.md">〖微博谈〗卢回答如此重大问题不像是口误</a></li>
+<li><a href="/cnnews/20230426/1876637.md">欧式风格也不行 拆掉门窗和房檐，第三波热闹来了</a></li>
 <li><a href="/ccpdope/20230426/1876795.md">一个恐怖的预言正在成真</a></li>
-<li><a href="/comments/20230426/1876716.md">天亮时分：征收房地产税，打响第一枪；习近平不想俄乌停战？拜登宣布竞选连任，搭档仍未贺锦丽（政论天下第995集 20230425）</a></li>
 <li><a href="/cnnews/20230426/1876830.md">这才是真相！张学良晚年为何痛哭流涕</a></li>
+<li><a href="/lifebaike/20230426/1876829.md">中国银行爆离职潮！柜员妹“弃200万年薪”走人原因曝光</a></li>
+<li><a href="/ssgc/20230426/1876665.md">〖微博谈〗卢回答如此重大问题不像是口误</a></li>
+<li><a href="/comments/20230426/1876716.md">天亮时分：征收房地产税，打响第一枪；习近平不想俄乌停战？拜登宣布竞选连任，搭档仍未贺锦丽（政论天下第995集 20230425）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230426/1876967.md" target="_blank">时事大家谈：美国想与中国高层对话，为何北京拒绝？中共外交部开启“个人意见”模式，如何解读？</a></li>
 <li><a href="/comments/20230426/1876928.md" target="_blank">习近平终于与泽伦斯基通电话 呼吁对话谈判“核战没有赢家”</a></li>
 <li><a href="/comments/20230426/1876913.md" target="_blank">目击证人太多了！2万年前，美人鱼大战蛇妖，封印在这！人鱼族虔诚信仰海神，住在你想不到的华丽宫殿！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230426/1876907.md" target="_blank">行为不符外交官身分 5名俄国使馆人员遭瑞典驱逐</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230426/1876716.md" target="_blank">天亮时分：征收房地产税，打响第一枪；习近平不想俄乌停战？拜登宣布竞选连任，搭档仍未贺锦丽（政论天下第995集 20230425）</a></li>
 <li><a href="/comments/20230426/1876703.md" target="_blank">颜纯钩:中共外交部的人格分裂</a></li>
 <li><a href="/comments/20230426/1876685.md" target="_blank">张菁：“中国影响力指数”揭中共在全球渗透严重</a></li>
-<li><a href="/comments/20230426/1876684.md" target="_blank">网海拾贝:“冰淇淋事件”彻底把德国人打醒了？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
 <li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
 
 </ul>
 </div>
