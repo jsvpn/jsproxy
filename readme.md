@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20230426/1876634.md">中南海照片上江泽民被彻底抹除内幕曝光</a></li>
 <li><a href="/lifebaike/20230426/1876581.md">这是一个我从没见过的北京</a></li>
-<li><a href="/cnnews/20230426/1876649.md">订单1200架第1架就停飞，C919还是被卡住了脖子</a></li>
 <li><a href="/sohnews/20230426/1876724.md">天安门惊传高呼“打倒共产党”；不动产登记来了，房地产税跑不掉，这次收割谁？宝马Mini冰淇淋事件发酵，网红辛巴请吃冰淇淋，也“辱华”？</a></li>
+<li><a href="/cnnews/20230426/1876649.md">订单1200架第1架就停飞，C919还是被卡住了脖子</a></li>
 <li><a href="/lifebaike/20230426/1876632.md">惨不忍睹的杀人方式──“敲砂罐”</a></li>
 <li><a href="/topimagenews/20230426/1876645.md">福建体彩公然作假 官方回复成笑柄 越描越黑</a></li>
 <li><a href="/lifebaike/20230426/1876704.md">谁带大的孩子更聪明？耶鲁大学的研究告诉你答案，你家谁带孩子？</a></li>
@@ -19,10 +19,10 @@
 <li><a href="/comments/20230426/1876775.md">德媒：老习又玩砸了</a></li>
 <li><a href="/cnnews/20230426/1876891.md">与习近平通话 泽伦斯基发声：打了一通长又有意义的电话</a></li>
 <li><a href="/topimagenews/20230426/1876803.md">台海“准战争边缘”!一旦启动武统 中媒:共军将面临“四线作战”</a></li>
-<li><a href="/topimagenews/20230426/1876818.md">意外暴露自家武器落后30年! 引进瑞士双35高炮 中媒兴奋称技术大飞跃</a></li>
-<li><a href="/lifebaike/20230426/1876829.md">中国银行爆离职潮！柜员妹“弃200万年薪”走人原因曝光</a></li>
-<li><a href="/comments/20230426/1876770.md">俄罗斯特种部队覆灭记 大鹅开始撤退</a></li>
 <li><a href="/cnnews/20230426/1876830.md">这才是真相！张学良晚年为何痛哭流涕</a></li>
+<li><a href="/topimagenews/20230426/1876818.md">意外暴露自家武器落后30年! 引进瑞士双35高炮 中媒兴奋称技术大飞跃</a></li>
+<li><a href="/comments/20230426/1876770.md">俄罗斯特种部队覆灭记 大鹅开始撤退</a></li>
+<li><a href="/lifebaike/20230426/1876829.md">中国银行爆离职潮！柜员妹“弃200万年薪”走人原因曝光</a></li>
 <li><a href="/cbnews/20230426/1876606.md">卢沙野“出卖”习近平 中共外交兴奋期见顶</a></li>
 <li><a href="/finance/20230426/1876819.md">曾一度排队8小时 美连锁店在华最后两家店收摊</a></li>
 <li><a href="/ccpdope/20230426/1876795.md">一个恐怖的预言正在成真</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230427/1876999.md" target="_blank">【独家重磅】李燕铭：中南海六项重大人事异常 涉三正国级两副国级 习天下取代党天下 习实施新版老人政治 为长期执政铺路 习连任后高层人事大洗牌（九八） 习近平连任与中共末日（126）</a></li>
+<li><a href="/comments/20230427/1876988.md" target="_blank">破纪录！美国高中生已获125所大学录取 奖学金至少900万美元</a></li>
 <li><a href="/comments/20230426/1876980.md" target="_blank">时事大家谈：中共外交部开启“个人意见”模式，如何解读？</a></li>
 <li><a href="/comments/20230426/1876979.md" target="_blank">时事大家谈：美国想与中国高层对话，为何北京拒绝？</a></li>
 <li><a href="/comments/20230426/1876978.md" target="_blank">热点快评：习近平与泽连斯基通话&#160; 北京为何现在打电话？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230426/1876745.md" target="_blank">404：燕梳楼：长峰大火背后的三个追问</a></li>
 <li><a href="/comments/20230426/1876744.md" target="_blank">中国多地“农管”进村毁坏庄稼、抢夺牲口，网友：“明抢正式展开”</a></li>
 <li><a href="/comments/20230426/1876732.md" target="_blank">小民之心：野大使引发外交风波 习近平可能有大动做</a></li>
-<li><a href="/comments/20230426/1876723.md" target="_blank">陈永昌:法国连反恐部队都要靠美国飞机运送 怎么战略自主</a></li>
-<li><a href="/comments/20230426/1876717.md" target="_blank">文昭：数字货币时代，比粮票时代还要惨</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 
 </ul>
 </div>
