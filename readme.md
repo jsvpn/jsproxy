@@ -5,9 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230426/1876724.md">天安门惊传高呼“打倒共产党”；不动产登记来了，房地产税跑不掉，这次收割谁？宝马Mini冰淇淋事件发酵，网红辛巴请吃冰淇淋，也“辱华”？</a></li>
-<li><a href="/topimagenews/20230426/1876778.md">上海男跳楼砸中26岁女 2人肢体变形卧倒！家属泪…</a></li>
 <li><a href="/comments/20230426/1876775.md">德媒：老习又玩砸了</a></li>
+<li><a href="/topimagenews/20230426/1876778.md">上海男跳楼砸中26岁女 2人肢体变形卧倒！家属泪…</a></li>
 <li><a href="/comments/20230426/1876771.md">三年狂赚上千亿 这个暴利生意走到头了</a></li>
 <li><a href="/cnnews/20230426/1876891.md">与习近平通话 泽伦斯基发声：打了一通长又有意义的电话</a></li>
 <li><a href="/cnnews/20230426/1876830.md">这才是真相！张学良晚年为何痛哭流涕</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/topimagenews/20230426/1876898.md">中国大飞机项目或迎“灭顶之灾”；贵州甩锅中央！打响地方政府破产第一枪后续</a></li>
 <li><a href="/comments/20230426/1876770.md">俄罗斯特种部队覆灭记 大鹅开始撤退</a></li>
 <li><a href="/topimagenews/20230426/1876818.md">意外暴露自家武器落后30年! 引进瑞士双35高炮 中媒兴奋称技术大飞跃</a></li>
+<li><a href="/cbnews/20230426/1876982.md">〖兲朝浮世绘〗丁磊皮痒了！网易逆天发“反歌”讽刺习皇帝</a></li>
 <li><a href="/finance/20230426/1876819.md">曾一度排队8小时 美连锁店在华最后两家店收摊</a></li>
 <li><a href="/ccpdope/20230426/1876795.md">一个恐怖的预言正在成真</a></li>
-<li><a href="/cbnews/20230426/1876982.md">〖兲朝浮世绘〗丁磊皮痒了！网易逆天发“反歌”讽刺习皇帝</a></li>
 <li><a href="/ccpdope/20230426/1876941.md">女子在天安门广场高呼“打倒共产党”</a></li>
 <li><a href="/sohnews/20230426/1876871.md">陈破空：天安门广场，女子奋勇喊口号！南京小区发生枪战。中国大飞机尴尬停飞。德国巨头撤离中国。意大利总理暗示取消一带一路。直播与互动。美东4月26日早8点30、即中港台4月26日晚8点30</a></li>
+<li><a href="/baitai/20230427/1877040.md">【红朝禁闻】习进退两难 或扶植中南海幕后实权家？</a></li>
 <li><a href="/ssgc/20230426/1876893.md">习近平同泽连斯基通话 称不隔岸观火、拱火浇油、趁机牟利</a></li>
-<li><a href="/comments/20230426/1876716.md">天亮时分：征收房地产税，打响第一枪；习近平不想俄乌停战？拜登宣布竞选连任，搭档仍未贺锦丽（政论天下第995集 20230425）</a></li>
-<li><a href="/cbnews/20230426/1876790.md">江峰：天涯社区关闭，光明日报自由派学者董郁玉间谍罪被捕， 新焚书坑儒；退林还耕看中共危机无出路；数字人民币硬伤与硬上【江峰漫谈20230425第664期】</a></li>
 <li><a href="/lifebaike/20230426/1876842.md">晚年不想有病，记住这20点！真的有用</a></li>
-<li><a href="/cbnews/20230426/1876779.md">中共最新隐形战机歼-35曝光</a></li>
+<li><a href="/cbnews/20230426/1876790.md">江峰：天涯社区关闭，光明日报自由派学者董郁玉间谍罪被捕， 新焚书坑儒；退林还耕看中共危机无出路；数字人民币硬伤与硬上【江峰漫谈20230425第664期】</a></li>
+<li><a href="/baitai/20230427/1877016.md">民间高人：现在的人 很多都不是人了</a></li>
 <li><a href="/cnnews/20230426/1876806.md">王沪宁讲话 意外引出70多年前的一道密电【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230426/1876779.md">中共最新隐形战机歼-35曝光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230427/1877164.md" target="_blank">简言：大监狱里的自由农夫吴立红</a></li>
+<li><a href="/comments/20230427/1877163.md" target="_blank">王维洛: 退林还耕的结果只能是严重的地质灾害</a></li>
 <li><a href="/comments/20230427/1877135.md" target="_blank">陶杰:为什么说“国家”是一笔超级糊涂账？</a></li>
 <li><a href="/comments/20230427/1877114.md" target="_blank">赵春山:中美和两岸，已读不回</a></li>
 <li><a href="/comments/20230427/1877113.md" target="_blank">吴玉：电影《接班人》：被欺骗的一生，还有希望吗？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230426/1876900.md" target="_blank">【梁京评论】「农管」成败与新冷战格局</a></li>
 <li><a href="/comments/20230426/1876889.md" target="_blank">王友群：江泽民处理4.25事件十大错</a></li>
 <li><a href="/comments/20230426/1876888.md" target="_blank">拜登宣告拼连任 共和党祭“恐惧牌” AI影片模拟台北101被炸</a></li>
-<li><a href="/comments/20230426/1876886.md" target="_blank">浙江老妇被蜱虫叮咬去世 四亲属相继感染</a></li>
-<li><a href="/comments/20230426/1876885.md" target="_blank">“战狼”反伤中南海 卢沙野语惊欧洲事件冲击波未散</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
 <li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 
 </ul>
 </div>
