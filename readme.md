@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20230426/1876891.md">与习近平通话 泽伦斯基发声：打了一通长又有意义的电话</a></li>
 <li><a href="/headline/20230426/1876970.md">泽连斯基与习近平通电话 普京火大</a></li>
 <li><a href="/cbnews/20230426/1876982.md">〖兲朝浮世绘〗丁磊皮痒了！网易逆天发“反歌”讽刺习皇帝</a></li>
 <li><a href="/topimagenews/20230426/1876898.md">中国大飞机项目或迎“灭顶之灾”；贵州甩锅中央！打响地方政府破产第一枪后续</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cbnews/20230427/1877051.md">中共秘密进行“最大军事集结”，恐导致悲剧性…</a></li>
 <li><a href="/worldnews/20230427/1877054.md">夸张！4男女机舱内大乱斗打破窗户…紧急迫降2次</a></li>
 <li><a href="/lifebaike/20230427/1877137.md">哈佛研究发现：孩子一生只有1次变聪明的机会，抓住一个就稳了</a></li>
-<li><a href="/ssgc/20230426/1876893.md">习近平同泽连斯基通话 称不隔岸观火、拱火浇油、趁机牟利</a></li>
-<li><a href="/cbnews/20230427/1877053.md">卢沙野撒野，毁了习近平的一盘棋</a></li>
 <li><a href="/sohnews/20230427/1877134.md">习近平“大计”3万开卖，中南海亲自安排“特供”；习近平泽连斯基首次通话，替卢沙野补锅？幼儿园“告状大会”，红卫兵从娃娃培养；中共又改教科书，描述令人瞠目。</a></li>
-<li><a href="/yule/20230427/1877119.md">方舒：年轻时靓丽十足，如今65岁满脸沧桑判若两人</a></li>
+<li><a href="/cbnews/20230427/1877053.md">卢沙野撒野，毁了习近平的一盘棋</a></li>
 <li><a href="/yule/20230427/1877250.md">沈腾被曝病情恶化日本求医，买药吃饭还不懂日语</a></li>
+<li><a href="/yule/20230427/1877119.md">方舒：年轻时靓丽十足，如今65岁满脸沧桑判若两人</a></li>
 <li><a href="/cnnews/20230427/1877029.md">美国M2跌到-4%了！1930年代以来前所未见</a></li>
 <li><a href="/cbnews/20230427/1877050.md">惊！中国恐面临新一波疫情？官方这样回应</a></li>
 <li><a href="/comments/20230427/1876999.md">【独家重磅】李燕铭：中南海六项重大人事异常 涉三正国级两副国级 习天下取代党天下 习实施新版老人政治 为长期执政铺路 习连任后高层人事大洗牌（九八） 习近平连任与中共末日（126）</a></li>
+<li><a href="/ssgc/20230427/1877147.md">〖微博谈〗卢沙野是看习主席眼色才开咬的</a></li>
 <li><a href="/comments/20230427/1877111.md">一篇传说中的刘亚洲文章 难怪习近平一定要抓他</a></li>
 <li><a href="/comments/20230427/1877106.md">文昭：习近平与泽连斯基突然通话，命运之战就在眼前！怎样做到一举亏掉442年？</a></li>
-<li><a href="/ssgc/20230427/1877147.md">〖微博谈〗卢沙野是看习主席眼色才开咬的</a></li>
+<li><a href="/funmedia/20230427/1877182.md">小学生作文《我的妈妈真虚伪》，老师笑到手抖</a></li>
+<li><a href="/cbnews/20230426/1876921.md">大陆女教师请假25年从没到校…退休前教师资格被取消！她怒提告</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230427/1877387.md" target="_blank">想支持俄国又想当战争协调者 学者：中国想一次扮演所有角色</a></li>
+<li><a href="/comments/20230427/1877386.md" target="_blank">求党不如求神!中国1158万大学生毕业求职难 年轻人涌寺庙求保佑</a></li>
 <li><a href="/comments/20230427/1877385.md" target="_blank">【新闻拍案惊奇】“数字人民币”可成抢财王牌？习泽通话“硬上”</a></li>
 <li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
 <li><a href="/comments/20230427/1877257.md" target="_blank">吴崑玉：狼的传人名沙野，崖山之后无中国</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230427/1877111.md" target="_blank">一篇传说中的刘亚洲文章 难怪习近平一定要抓他</a></li>
 <li><a href="/comments/20230427/1877106.md" target="_blank">文昭：习近平与泽连斯基突然通话，命运之战就在眼前！怎样做到一举亏掉442年？</a></li>
 <li><a href="/comments/20230427/1877101.md" target="_blank">夏林：多伦多四月忽来热浪 催开樱花烂漫</a></li>
-<li><a href="/comments/20230427/1877100.md" target="_blank">袁斌：中共为何要判公民记者方斌“寻衅滋事罪”？</a></li>
-<li><a href="/comments/20230427/1877099.md" target="_blank">李正宽：“四‧二五”万人上访的台前幕后</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
 
 </ul>
 </div>
