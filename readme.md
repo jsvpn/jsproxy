@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/yule/20230427/1877250.md">沈腾被曝病情恶化日本求医，买药吃饭还不懂日语</a></li>
 <li><a href="/ssgc/20230427/1877401.md">高福石正丽等被列入问询名单 北京心焦</a></li>
 <li><a href="/cbnews/20230427/1877352.md">某胖谈农管：成立农管的目的是什么？</a></li>
 <li><a href="/topimagenews/20230427/1877297.md">习近平与她鸡同鸭讲 拉人反美遇到“软钉子”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230428/1877544.md">变化又急又快 昔日小跟班“践踏”中共核心利益</a></li>
-<li><a href="/health/20230427/1877304.md">坚持做提肛运动的男人，最后都怎样了？这4大好处会慢慢显现</a></li>
 <li><a href="/health/20230427/1877312.md">医揭“这种肉”吃太多 恐加速肾衰竭</a></li>
+<li><a href="/health/20230427/1877304.md">坚持做提肛运动的男人，最后都怎样了？这4大好处会慢慢显现</a></li>
 <li><a href="/sohnews/20230427/1877393.md">陈破空：丁薛祥拒绝学习习思想？秦刚大动作救火！菲总统笑看美菲军演击沉敌舰。拜登高规格礼遇韩总统。核潜艇首次停靠韩国，震慑中朝</a></li>
 <li><a href="/cbnews/20230428/1877512.md">〖兲朝浮世绘〗说“疫情”二字会惹翻中共吗？</a></li>
 <li><a href="/health/20230427/1877346.md">为何“中风”越来越多？都栽在这"3个字"上，不看后悔</a></li>
 <li><a href="/topimagenews/20230427/1877310.md">刘亚洲是殉道者还是殉葬品？《一个女人和一个半男人的故事》</a></li>
 <li><a href="/sohnews/20230427/1877403.md">数字人民币的终极目的…… 经济崩溃让迫使其加速推出？</a></li>
+<li><a href="/baitai/20230428/1877578.md">美众议院要求北京交出5名关键人物</a></li>
 <li><a href="/topimagenews/20230427/1877369.md">再有美国在华公司被查 美国商界人士人心惶惶</a></li>
 <li><a href="/lifebaike/20230428/1877509.md">现在男女大学生的婚恋观迥异</a></li>
+<li><a href="/ssgc/20230428/1877597.md">〖微博谈〗外资的信心已经崩了</a></li>
 <li><a href="/cnnews/20230427/1877263.md">柴静：一百年前的领导干部</a></li>
-<li><a href="/ssgc/20230428/1877534.md">加拉格尔：北京修订反间谍法 私企将“不存在”</a></li>
 <li><a href="/baitai/20230427/1877309.md">陈丹青：中国经历了文化断层，要付很久很久的代价</a></li>
 <li><a href="/topimagenews/20230427/1877458.md">中共想打台湾？深度分析：美国把中共盯得死死的【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20230428/1877534.md">加拉格尔：北京修订反间谍法 私企将“不存在”</a></li>
 <li><a href="/topimagenews/20230427/1877271.md">穿透西方严厉制裁 密件曝俄攻乌还能再撑1年</a></li>
 <li><a href="/sohnews/20230427/1877277.md">他们是中国人？不！他们是中共教育下没有信仰没有礼义廉耻之心的族群……</a></li>
-<li><a href="/baitai/20230428/1877578.md">美众议院要求北京交出5名关键人物</a></li>
+<li><a href="/headline/20230428/1877530.md">青海高官党校学习6人豪饮7瓶白酒 １人死亡</a></li>
 <li><a href="/topimagenews/20230427/1877484.md">遭福斯无预警开除 人气主播卡尔森在推特“打破沉默”</a></li>
-<li><a href="/ssgc/20230428/1877597.md">〖微博谈〗外资的信心已经崩了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230428/1877683.md" target="_blank">江峰：卢沙野没挖坑，和“马克龙们”为习近平泽伦斯基通话铺垫坦途；《星岛日报》总编更猛：“日本韩国没有完整主权“&#8212;全球外宣一盘棋，高举抗美大旗，以中共立场重审国际秩序【江峰漫谈20230427第665期】</a></li>
 <li><a href="/comments/20230428/1877641.md" target="_blank">【方菲时间】离开福克斯的Tucker Carlson会去哪里？｜04/27/2023</a></li>
 <li><a href="/comments/20230428/1877633.md" target="_blank">美人鱼 曾出现在古印度！</a></li>
 <li><a href="/comments/20230428/1877611.md" target="_blank">月亮“神祕失踪”事件！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230427/1877050.md" target="_blank">惊！中国恐面临新一波疫情？官方这样回应</a></li>
 <li><a href="/cbnews/20230427/1877013.md" target="_blank">交警抛钥匙“戏耍女骑士跑马路” 讽刺！厦门文明城市就是这样霸凌百姓</a></li>
 <li><a href="/cbnews/20230426/1876982.md" target="_blank">〖兲朝浮世绘〗丁磊皮痒了！网易逆天发“反歌”讽刺习皇帝</a></li>
-<li><a href="/cbnews/20230426/1876921.md" target="_blank">大陆女教师请假25年从没到校…退休前教师资格被取消！她怒提告</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
 <li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
 
 </ul>
 </div>
