@@ -5,16 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/lifebaike/20230427/1877137.md">哈佛研究发现：孩子一生只有1次变聪明的机会，抓住一个就稳了</a></li>
 <li><a href="/yule/20230427/1877250.md">沈腾被曝病情恶化日本求医，买药吃饭还不懂日语</a></li>
-<li><a href="/sohnews/20230427/1877134.md">习近平“大计”3万开卖，中南海亲自安排“特供”；习近平泽连斯基首次通话，替卢沙野补锅？幼儿园“告状大会”，红卫兵从娃娃培养；中共又改教科书，描述令人瞠目。</a></li>
 <li><a href="/ssgc/20230427/1877401.md">高福石正丽等被列入问询名单 北京心焦</a></li>
 <li><a href="/topimagenews/20230427/1877297.md">习近平与她鸡同鸭讲 拉人反美遇到“软钉子”【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230427/1877352.md">某胖谈农管：成立农管的目的是什么？</a></li>
 <li><a href="/ssgc/20230427/1877147.md">〖微博谈〗卢沙野是看习主席眼色才开咬的</a></li>
 <li><a href="/funmedia/20230427/1877182.md">小学生作文《我的妈妈真虚伪》，老师笑到手抖</a></li>
-<li><a href="/health/20230427/1877304.md">坚持做提肛运动的男人，最后都怎样了？这4大好处会慢慢显现</a></li>
 <li><a href="/cnnews/20230427/1877232.md">刚刚！72岁的前州长正式宣布参选美国总统</a></li>
+<li><a href="/health/20230427/1877304.md">坚持做提肛运动的男人，最后都怎样了？这4大好处会慢慢显现</a></li>
 <li><a href="/finance/20230427/1877249.md">大陆回不去巅峰了？股市5天蒸发16兆 投资大亨吐残忍真话</a></li>
 <li><a href="/health/20230427/1877312.md">医揭“这种肉”吃太多 恐加速肾衰竭</a></li>
 <li><a href="/sohnews/20230427/1877393.md">陈破空：丁薛祥拒绝学习习思想？秦刚大动作救火！菲总统笑看美菲军演击沉敌舰。拜登高规格礼遇韩总统。核潜艇首次停靠韩国，震慑中朝</a></li>
@@ -22,12 +20,14 @@
 <li><a href="/sohnews/20230427/1877243.md">20230427直播：习近平重压之下拿起电话，西方终于达到了战略目的；五一大吃大喝，只是一种凄美的口红效应；新版间谍法上路，每个人都可能成为特务。</a></li>
 <li><a href="/topimagenews/20230427/1877310.md">刘亚洲是殉道者还是殉葬品？《一个女人和一个半男人的故事》</a></li>
 <li><a href="/topimagenews/20230427/1877369.md">再有美国在华公司被查 美国商界人士人心惶惶</a></li>
+<li><a href="/cbnews/20230428/1877512.md">〖兲朝浮世绘〗说“疫情”二字会惹翻中共吗？</a></li>
+<li><a href="/sohnews/20230427/1877403.md">数字人民币的终极目的…… 经济崩溃让迫使其加速推出？</a></li>
 <li><a href="/baitai/20230427/1877309.md">陈丹青：中国经历了文化断层，要付很久很久的代价</a></li>
 <li><a href="/cnnews/20230427/1877263.md">柴静：一百年前的领导干部</a></li>
-<li><a href="/sohnews/20230427/1877403.md">数字人民币的终极目的…… 经济崩溃让迫使其加速推出？</a></li>
-<li><a href="/cbnews/20230428/1877512.md">〖兲朝浮世绘〗说“疫情”二字会惹翻中共吗？</a></li>
 <li><a href="/topimagenews/20230427/1877271.md">穿透西方严厉制裁 密件曝俄攻乌还能再撑1年</a></li>
 <li><a href="/sohnews/20230427/1877277.md">他们是中国人？不！他们是中共教育下没有信仰没有礼义廉耻之心的族群……</a></li>
+<li><a href="/topimagenews/20230428/1877544.md">变化又急又快 昔日小跟班“践踏”中共核心利益</a></li>
+<li><a href="/lifebaike/20230428/1877509.md">现在男女大学生的婚恋观迥异</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230428/1877599.md" target="_blank">江峰：卢沙野奉旨撒野，习近平偷着乐</a></li>
 <li><a href="/cbnews/20230428/1877512.md" target="_blank">〖兲朝浮世绘〗说“疫情”二字会惹翻中共吗？</a></li>
 <li><a href="/comments/20230427/1877438.md" target="_blank">人和美人鱼的真实爱情故事！</a></li>
 <li><a href="/cbnews/20230427/1877352.md" target="_blank">某胖谈农管：成立农管的目的是什么？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230426/1876913.md" target="_blank">目击证人太多了！2万年前，美人鱼大战蛇妖，封印在这！人鱼族虔诚信仰海神，住在你想不到的华丽宫殿！｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20230426/1876868.md" target="_blank">网易号：嘲笑日本关于台海冲突结局的兵推，胆子真大</a></li>
 <li><a href="/cbnews/20230426/1876790.md" target="_blank">江峰：天涯社区关闭，光明日报自由派学者董郁玉间谍罪被捕， 新焚书坑儒；退林还耕看中共危机无出路；数字人民币硬伤与硬上【江峰漫谈20230425第664期】</a></li>
-<li><a href="/cbnews/20230426/1876779.md" target="_blank">中共最新隐形战机歼-35曝光</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 
 </ul>
 </div>
