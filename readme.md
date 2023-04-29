@@ -8,14 +8,14 @@
 <li><a href="/topimagenews/20230428/1877705.md">矢板明夫:中共已进入疯狂的模式</a></li>
 <li><a href="/lifebaike/20230428/1877742.md">为何聪明人从不坐“夜间飞机”？乘客：坐一次你就知道了</a></li>
 <li><a href="/baitai/20230428/1877802.md">美国推出史无前例文件 学者吁为中国内乱做准备</a></li>
-<li><a href="/cnnews/20230429/1877944.md">墙内被封文章：设立农管的真正目的是什么</a></li>
 <li><a href="/baitai/20230428/1877736.md">NASA拍到火星上的不明飞行物 是火星鸟、陆生鸟还是UFO ？</a></li>
-<li><a href="/sohnews/20230428/1877793.md">陈破空：搞砸了！习泽通话真实版曝光。未获国际好评，反而证实：卢沙野背后就是他！普京险遭乌克兰无人机斩首</a></li>
+<li><a href="/cnnews/20230429/1877944.md">墙内被封文章：设立农管的真正目的是什么</a></li>
 <li><a href="/baitai/20230429/1877980.md">地方政府引爆前所未有危机 百姓大祸临头</a></li>
-<li><a href="/yule/20230429/1877954.md">baby与谷爱凌拍照只顾自己美 谷爱凌曝生图回击</a></li>
+<li><a href="/sohnews/20230428/1877793.md">陈破空：搞砸了！习泽通话真实版曝光。未获国际好评，反而证实：卢沙野背后就是他！普京险遭乌克兰无人机斩首</a></li>
 <li><a href="/topimagenews/20230428/1877686.md">男友AA制精算到小数点后2位 陆女心寒放生</a></li>
-<li><a href="/headline/20230428/1877756.md">再多一国以人民币结算 中国用更首超美元 评论料人币国际化仍远 惟影响港美联系汇率制度</a></li>
+<li><a href="/yule/20230429/1877954.md">baby与谷爱凌拍照只顾自己美 谷爱凌曝生图回击</a></li>
 <li><a href="/baitai/20230428/1877697.md">为什么这么多人不愿上战场？中国网络评论区大翻车</a></li>
+<li><a href="/headline/20230428/1877756.md">再多一国以人民币结算 中国用更首超美元 评论料人币国际化仍远 惟影响港美联系汇率制度</a></li>
 <li><a href="/topimagenews/20230428/1877728.md">鬼影幢幢！中共苏丹撤侨背后 暗藏不为人知的秘密？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230428/1877862.md">外汇战大进击! 弃美元 泰国央行也将跟进 贸易改人民币结算</a></li>
 <li><a href="/topimagenews/20230429/1877931.md">普京回应习泽通话？俄发动近两月来最大空袭 17死</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/comments/20230428/1877832.md">卢沙野曝北京野心？习泽通话内幕被揭</a></li>
 <li><a href="/sohnews/20230429/1877937.md">中共最不愿面对的“大杀器”40年来第一次逼近，对台海的影响是什么？美国首次严厉警告，可能消灭这个政权；围堵中共的关键一国，终于站队了。</a></li>
 <li><a href="/topimagenews/20230428/1877737.md">篡改历史？陆媒、陆直播主改口称“口罩3年”</a></li>
-<li><a href="/cbnews/20230428/1877683.md">江峰：卢沙野没挖坑，和“马克龙们”为习近平泽伦斯基通话铺垫坦途；《星岛日报》总编更猛：“日本韩国没有完整主权“---全球外宣一盘棋，高举抗美大旗，以中共立场重审国际秩序【江峰漫谈20230427第665期】</a></li>
-<li><a href="/cnnews/20230428/1877730.md">淄博在烧烤，竟有个城市在开会研究淄博烧烤 但不过是...</a></li>
 <li><a href="/worldnews/20230428/1877771.md">海洋温度突然迅速飙升 引发关注</a></li>
+<li><a href="/cnnews/20230428/1877730.md">淄博在烧烤，竟有个城市在开会研究淄博烧烤 但不过是...</a></li>
+<li><a href="/headline/20230429/1877961.md">担心海外华人被变成“第五纵队”，中共新侨务立法努力引发西方关注</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
 <li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
 <li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 
 </ul>
 </div>
