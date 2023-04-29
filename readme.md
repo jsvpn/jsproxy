@@ -8,8 +8,8 @@
 <li><a href="/lifebaike/20230428/1877742.md">为何聪明人从不坐“夜间飞机”？乘客：坐一次你就知道了</a></li>
 <li><a href="/baitai/20230428/1877802.md">美国推出史无前例文件 学者吁为中国内乱做准备</a></li>
 <li><a href="/yule/20230429/1878024.md">成龙现在，该有多绝望啊</a></li>
-<li><a href="/baitai/20230428/1877736.md">NASA拍到火星上的不明飞行物 是火星鸟、陆生鸟还是UFO ？</a></li>
 <li><a href="/sohnews/20230428/1877793.md">陈破空：搞砸了！习泽通话真实版曝光。未获国际好评，反而证实：卢沙野背后就是他！普京险遭乌克兰无人机斩首</a></li>
+<li><a href="/baitai/20230428/1877736.md">NASA拍到火星上的不明飞行物 是火星鸟、陆生鸟还是UFO ？</a></li>
 <li><a href="/baitai/20230429/1877980.md">地方政府引爆前所未有危机 百姓大祸临头</a></li>
 <li><a href="/cnnews/20230429/1877944.md">墙内被封文章：设立农管的真正目的是什么</a></li>
 <li><a href="/topimagenews/20230429/1878069.md">习要变招？美国防部：北京领导人起床时…【阿波罗网报道】</a></li>
@@ -18,8 +18,8 @@
 <li><a href="/topimagenews/20230428/1877728.md">鬼影幢幢！中共苏丹撤侨背后 暗藏不为人知的秘密？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230428/1877862.md">外汇战大进击! 弃美元 泰国央行也将跟进 贸易改人民币结算</a></li>
 <li><a href="/sohnews/20230429/1878037.md">史上最严移民禁令出台</a></li>
-<li><a href="/cnnews/20230428/1877814.md">王思聪殴人砸209万元和解？ 网红好友吐露其实金额只有这么多</a></li>
 <li><a href="/lifebaike/20230429/1878046.md">昆明母女先后跳楼！女儿刚上大学 自杀原因被曝</a></li>
+<li><a href="/cnnews/20230428/1877814.md">王思聪殴人砸209万元和解？ 网红好友吐露其实金额只有这么多</a></li>
 <li><a href="/ssgc/20230429/1878005.md">韩总统盛赞长津湖战役美军贡献 中方反驳 却遭中国战史资料打脸</a></li>
 <li><a href="/ssgc/20230429/1878009.md">〖微博谈〗以后还会发生什么？</a></li>
 <li><a href="/topimagenews/20230429/1877931.md">普京回应习泽通话？俄发动近两月来最大空袭 17死</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230429/1878177.md" target="_blank">怪不得李强见了他!FBI针对中共威胁调查暴增1300%【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230429/1878171.md" target="_blank">武统台湾？中国网友：请领导干部子女先上</a></li>
 <li><a href="/cbnews/20230429/1878156.md" target="_blank">张文宏：中国第二波疫情有抬头迹象</a></li>
 <li><a href="/cbnews/20230429/1878154.md" target="_blank">江峰：习近平的经济工作会议精髓；为什麽人民币越国际化人民越倒霉？外汇管理局：境外人民币结算首次超美元！香港惨了！ 《反间谍法》握大棒迎外资【江峰漫谈20230428第666期】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230428/1877512.md" target="_blank">〖兲朝浮世绘〗说“疫情”二字会惹翻中共吗？</a></li>
 <li><a href="/comments/20230427/1877438.md" target="_blank">人和美人鱼的真实爱情故事！</a></li>
 <li><a href="/cbnews/20230427/1877352.md" target="_blank">某胖谈农管：成立农管的目的是什么？</a></li>
-<li><a href="/cbnews/20230427/1877336.md" target="_blank">中共人大通过“新版反间谍法”网攻国家机关也算间谍</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
 
 </ul>
 </div>
