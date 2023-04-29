@@ -10,23 +10,23 @@
 <li><a href="/baitai/20230429/1877980.md">地方政府引爆前所未有危机 百姓大祸临头</a></li>
 <li><a href="/topimagenews/20230429/1878069.md">习要变招？美国防部：北京领导人起床时…【阿波罗网报道】</a></li>
 <li><a href="/yule/20230429/1877954.md">baby与谷爱凌拍照只顾自己美 谷爱凌曝生图回击</a></li>
-<li><a href="/topimagenews/20230428/1877862.md">外汇战大进击! 弃美元 泰国央行也将跟进 贸易改人民币结算</a></li>
+<li><a href="/topimagenews/20230429/1878207.md">网络一片欢腾！中共被日本打到痛处，疼的一日三蹦【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230429/1878037.md">史上最严移民禁令出台</a></li>
 <li><a href="/lifebaike/20230429/1878046.md">昆明母女先后跳楼！女儿刚上大学 自杀原因被曝</a></li>
-<li><a href="/topimagenews/20230429/1878207.md">网络一片欢腾！中共被日本打到痛处，疼的一日三蹦【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230429/1878005.md">韩总统盛赞长津湖战役美军贡献 中方反驳 却遭中国战史资料打脸</a></li>
-<li><a href="/topimagenews/20230429/1878161.md">下海卖春被抓 警一查惊“4女都有爱滋”！寻芳客惨了</a></li>
 <li><a href="/ssgc/20230429/1878009.md">〖微博谈〗以后还会发生什么？</a></li>
+<li><a href="/topimagenews/20230429/1878161.md">下海卖春被抓 警一查惊“4女都有爱滋”！寻芳客惨了</a></li>
 <li><a href="/cnnews/20230429/1877936.md">韩第一夫人访美换装不停，白宫国宴菜单曝光</a></li>
 <li><a href="/cbnews/20230429/1878154.md">江峰：习近平的经济工作会议精髓；为什麽人民币越国际化人民越倒霉？外汇管理局：境外人民币结算首次超美元！香港惨了！ 《反间谍法》握大棒迎外资【江峰漫谈20230428第666期】</a></li>
 <li><a href="/topimagenews/20230429/1877931.md">普京回应习泽通话？俄发动近两月来最大空袭 17死</a></li>
 <li><a href="/sohnews/20230429/1878012.md">泽连斯基首次透露向习近平要1万多人；乌克兰无人机“长驱直入”要斩首普京，俄罗斯立刻空袭基辅报复？不起眼小镇巴赫穆特，竟藏地下玄机，春季反攻焦点在这里。</a></li>
-<li><a href="/sohnews/20230429/1877937.md">中共最不愿面对的“大杀器”40年来第一次逼近，对台海的影响是什么？美国首次严厉警告，可能消灭这个政权；围堵中共的关键一国，终于站队了。</a></li>
 <li><a href="/cbnews/20230429/1878128.md">〖兲朝浮世绘〗退林还耕跟几十年前的大炼钢铁有啥区别呢？</a></li>
+<li><a href="/sohnews/20230429/1877937.md">中共最不愿面对的“大杀器”40年来第一次逼近，对台海的影响是什么？美国首次严厉警告，可能消灭这个政权；围堵中共的关键一国，终于站队了。</a></li>
 <li><a href="/cbnews/20230429/1878177.md">怪不得李强见了他!FBI针对中共威胁调查暴增1300%【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230429/1878078.md">张文宏警告成真 北京官宣疫情再起｜ #时事金扫描 #shorts</a></li>
-<li><a href="/headline/20230429/1877961.md">担心海外华人被变成“第五纵队”，中共新侨务立法努力引发西方关注</a></li>
+<li><a href="/ssgc/20230429/1878227.md">普京为何再透普习会内情</a></li>
 <li><a href="/bblog/20230429/1878008.md">〖微历史〗整个山谷中都是这些凄惨的声音</a></li>
+<li><a href="/headline/20230429/1877961.md">担心海外华人被变成“第五纵队”，中共新侨务立法努力引发西方关注</a></li>
+<li><a href="/sohnews/20230429/1878078.md">张文宏警告成真 北京官宣疫情再起｜ #时事金扫描 #shorts</a></li>
 <li><a href="/sohnews/20230429/1877998.md">【主频道精选】习近平政治局开会谈困境，贵州、云南两省因深陷债务危机，相继公开向中共中央喊话。</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230429/1878286.md" target="_blank">全球关押最多写作者国家 中国连4年排名第一</a></li>
+<li><a href="/comments/20230429/1878285.md" target="_blank">中国五一长假首日 甘肃严重车祸6死12伤 网友质疑超载</a></li>
 <li><a href="/comments/20230429/1878272.md" target="_blank">文昭：穷人每天面对的风险，比职业金融炒家要大</a></li>
 <li><a href="/comments/20230429/1878271.md" target="_blank">【新闻拍案惊奇】6000人住北京公厕！美核潜艇驻韩国 扼住渤海</a></li>
 <li><a href="/comments/20230429/1878261.md" target="_blank">活捉小灰人！CIA机密档案：飞碟坠毁 释放外星辐射 23名士兵瞬间石化！人造身体遗落前苏联、紫章鱼UFO奇异现身、六飞碟追击金圆盘！｜ #未解之谜 扶摇</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230429/1878000.md" target="_blank">花粉过敏 作者：楚天秋</a></li>
 <li><a href="/comments/20230429/1877977.md" target="_blank">觅真：从湖南向怀香一家的悲惨遭遇看迫害的邪恶</a></li>
 <li><a href="/comments/20230429/1877967.md" target="_blank">任国贤：难忘的4.25法轮功和平理性上访</a></li>
-<li><a href="/comments/20230429/1877966.md" target="_blank">英慧：罗网</a></li>
-<li><a href="/comments/20230428/1877871.md" target="_blank">时事大家谈：中共修反间谍法 又来人质外交？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
 <li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 
 </ul>
 </div>
