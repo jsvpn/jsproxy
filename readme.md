@@ -13,21 +13,21 @@
 <li><a href="/topimagenews/20230428/1877862.md">外汇战大进击! 弃美元 泰国央行也将跟进 贸易改人民币结算</a></li>
 <li><a href="/sohnews/20230429/1878037.md">史上最严移民禁令出台</a></li>
 <li><a href="/lifebaike/20230429/1878046.md">昆明母女先后跳楼！女儿刚上大学 自杀原因被曝</a></li>
+<li><a href="/topimagenews/20230429/1878207.md">网络一片欢腾！中共被日本打到痛处，疼的一日三蹦【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230429/1878005.md">韩总统盛赞长津湖战役美军贡献 中方反驳 却遭中国战史资料打脸</a></li>
 <li><a href="/topimagenews/20230429/1878161.md">下海卖春被抓 警一查惊“4女都有爱滋”！寻芳客惨了</a></li>
-<li><a href="/topimagenews/20230429/1878207.md">网络一片欢腾！中共被日本打到痛处，疼的一日三蹦【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230429/1877936.md">韩第一夫人访美换装不停，白宫国宴菜单曝光</a></li>
 <li><a href="/ssgc/20230429/1878009.md">〖微博谈〗以后还会发生什么？</a></li>
+<li><a href="/cnnews/20230429/1877936.md">韩第一夫人访美换装不停，白宫国宴菜单曝光</a></li>
 <li><a href="/cbnews/20230429/1878154.md">江峰：习近平的经济工作会议精髓；为什麽人民币越国际化人民越倒霉？外汇管理局：境外人民币结算首次超美元！香港惨了！ 《反间谍法》握大棒迎外资【江峰漫谈20230428第666期】</a></li>
 <li><a href="/topimagenews/20230429/1877931.md">普京回应习泽通话？俄发动近两月来最大空袭 17死</a></li>
 <li><a href="/sohnews/20230429/1878012.md">泽连斯基首次透露向习近平要1万多人；乌克兰无人机“长驱直入”要斩首普京，俄罗斯立刻空袭基辅报复？不起眼小镇巴赫穆特，竟藏地下玄机，春季反攻焦点在这里。</a></li>
 <li><a href="/sohnews/20230429/1877937.md">中共最不愿面对的“大杀器”40年来第一次逼近，对台海的影响是什么？美国首次严厉警告，可能消灭这个政权；围堵中共的关键一国，终于站队了。</a></li>
 <li><a href="/cbnews/20230429/1878128.md">〖兲朝浮世绘〗退林还耕跟几十年前的大炼钢铁有啥区别呢？</a></li>
-<li><a href="/headline/20230429/1877961.md">担心海外华人被变成“第五纵队”，中共新侨务立法努力引发西方关注</a></li>
+<li><a href="/cbnews/20230429/1878177.md">怪不得李强见了他!FBI针对中共威胁调查暴增1300%【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230429/1878078.md">张文宏警告成真 北京官宣疫情再起｜ #时事金扫描 #shorts</a></li>
+<li><a href="/headline/20230429/1877961.md">担心海外华人被变成“第五纵队”，中共新侨务立法努力引发西方关注</a></li>
 <li><a href="/bblog/20230429/1878008.md">〖微历史〗整个山谷中都是这些凄惨的声音</a></li>
 <li><a href="/sohnews/20230429/1877998.md">【主频道精选】习近平政治局开会谈困境，贵州、云南两省因深陷债务危机，相继公开向中共中央喊话。</a></li>
-<li><a href="/cbnews/20230429/1878177.md">怪不得李强见了他!FBI针对中共威胁调查暴增1300%【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 <li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
 
 </ul>
 </div>
