@@ -17,17 +17,17 @@
 <li><a href="/topimagenews/20230502/1879032.md">海南儋州全村反抗政府强拆 双发爆激烈冲突【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20230501/1878817.md">50岁以后，吃十斤黑豆不如1两它，硒含量是洋葱的30倍，腿脚有劲</a></li>
 <li><a href="/topimagenews/20230502/1879051.md">首付降至20%！这个省会，降价也卖不动了</a></li>
-<li><a href="/sohnews/20230502/1879034.md">【直播】前中警局长王少军突传染病亡，官方为何讳莫如深？“二阳”霸占热搜，习近平为何无法再宣布胜利？“进淄赶烤”与“捡垃圾小女孩”，谁是真实中国？</a></li>
 <li><a href="/comments/20230501/1878862.md">天空惊现 外星飞船！</a></li>
-<li><a href="/sohnews/20230501/1878854.md">“清零”又蠢蠢欲动？北上广“阳性”患者扎堆；湖北恩施“幼女”捡垃圾，中共对外撒币上万亿美元，留守儿童问题依旧；北京学联组织刊登《一张白纸》惹议！中共投票赞成谴责俄国？没那么简单｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/sohnews/20230502/1879034.md">【直播】前中警局长王少军突传染病亡，官方为何讳莫如深？“二阳”霸占热搜，习近平为何无法再宣布胜利？“进淄赶烤”与“捡垃圾小女孩”，谁是真实中国？</a></li>
 <li><a href="/topimagenews/20230502/1879093.md">噩梦已经笼罩下来了…</a></li>
+<li><a href="/sohnews/20230501/1878854.md">“清零”又蠢蠢欲动？北上广“阳性”患者扎堆；湖北恩施“幼女”捡垃圾，中共对外撒币上万亿美元，留守儿童问题依旧；北京学联组织刊登《一张白纸》惹议！中共投票赞成谴责俄国？没那么简单｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ssgc/20230501/1878873.md">严家祺（上） 习近平如果做得很极端 中共就会退出历史舞台｜观点</a></li>
 <li><a href="/topimagenews/20230502/1878997.md">美最新战略杀器 中共竟希望用这种方式将其击败</a></li>
 <li><a href="/cnnews/20230502/1878961.md">金发名模沦街友！当街翻找垃圾 今昔对比令人唏嘘</a></li>
+<li><a href="/sohnews/20230502/1879056.md">陈破空：震动！团派公开颂扬白纸革命。五一惊魂：重庆大火！山东吉林大爆炸。普京出丑大了！狂射导弹尽遭乌军拦截。中共转向？首次投票谴责俄罗斯。直播与互动。美东5月1日晚8点、即中港台5月2日早8点</a></li>
+<li><a href="/ssgc/20230502/1879076.md">〖微博谈〗种粮是准备决战南海</a></li>
 <li><a href="/baitai/20230501/1878863.md">印太巨变暗示俄乌大事 军事巨头预告悲剧</a></li>
 <li><a href="/cbnews/20230501/1878808.md">“酒店床下发现尸体，我在床上睡过，每晚失眠”</a></li>
-<li><a href="/sohnews/20230502/1879056.md">陈破空：震动！团派公开颂扬白纸革命。五一惊魂：重庆大火！山东吉林大爆炸。普京出丑大了！狂射导弹尽遭乌军拦截。中共转向？首次投票谴责俄罗斯。直播与互动。美东5月1日晚8点、即中港台5月2日早8点</a></li>
-<li><a href="/baitai/20230501/1878796.md">老蛮： 清零三年的代价</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
 <li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
 
 </ul>
 </div>
