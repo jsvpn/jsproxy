@@ -12,20 +12,20 @@
 <li><a href="/topimagenews/20230503/1879467.md">中共又盛大“国际”了 出国才知道…【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230503/1879522.md">240枚核弹摆在中共家门口，5分钟打到长三角</a></li>
 <li><a href="/baitai/20230503/1879449.md">出境禁令倍增 保护卫士：中共阻中外人员正常离境</a></li>
-<li><a href="/topimagenews/20230503/1879548.md">"这个政权的目标已无法唤起人民的忠诚与奉献"【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20230503/1879477.md">老照片：晚清末年蒙古公主、王妃都长啥样？</a></li>
+<li><a href="/topimagenews/20230503/1879548.md">"这个政权的目标已无法唤起人民的忠诚与奉献"【阿波罗网报道】</a></li>
 <li><a href="/comments/20230503/1879608.md">母女插队发飙事件反转！华春莹毛宁看傻眼！胡锡进高调力挺发飙女！翻车翻惨</a></li>
 <li><a href="/ssgc/20230503/1879517.md">〖微博谈〗有些人的坏是天生的</a></li>
-<li><a href="/sohnews/20230503/1879601.md">20230503直播：俄罗斯‘胡锡进’大骂习近平背叛普京；李强隐身成甩手掌柜；中国正在变成一个边控的陷阱；日本宪法日：曾经鸡血上头的日本是如何被逼着走向现代宪政之路的。</a></li>
-<li><a href="/topimagenews/20230503/1879474.md">为何是它？曾抢走中共订单，如今又跑在中共前面</a></li>
-<li><a href="/topimagenews/20230503/1879635.md">不再让你乱来！美警告若共军继续在南海挑衅菲律宾将会动用武力</a></li>
-<li><a href="/lifebaike/20230503/1879525.md">蛋白质是牛奶的13倍，建议中老年人：每天吃一把，润燥解馋又营养</a></li>
-<li><a href="/baitai/20230502/1879380.md">摆摊整天只卖掉一个 中国年轻人崩溃痛哭</a></li>
 <li><a href="/cnnews/20230503/1879680.md">网曝拉萨被害女子同意凶手进房间 留言让人发毛</a></li>
-<li><a href="/sohnews/20230502/1879368.md">打脸毛宁! 发言人真敢当众睁眼说瞎话｜ #时事金扫描 #shorts</a></li>
-<li><a href="/bblog/20230503/1879515.md">〖微历史〗以后农村会发生什么？</a></li>
-<li><a href="/cnnews/20230503/1879647.md">第一批押注海南的年轻人，后悔了吗</a></li>
+<li><a href="/sohnews/20230503/1879601.md">20230503直播：俄罗斯‘胡锡进’大骂习近平背叛普京；李强隐身成甩手掌柜；中国正在变成一个边控的陷阱；日本宪法日：曾经鸡血上头的日本是如何被逼着走向现代宪政之路的。</a></li>
 <li><a href="/lifebaike/20230503/1879667.md">史上最残酷战役：2万人冻成冰棍，指挥官被枪毙</a></li>
+<li><a href="/topimagenews/20230503/1879474.md">为何是它？曾抢走中共订单，如今又跑在中共前面</a></li>
+<li><a href="/lifebaike/20230503/1879525.md">蛋白质是牛奶的13倍，建议中老年人：每天吃一把，润燥解馋又营养</a></li>
+<li><a href="/topimagenews/20230503/1879635.md">不再让你乱来！美警告若共军继续在南海挑衅菲律宾将会动用武力</a></li>
+<li><a href="/baitai/20230502/1879380.md">摆摊整天只卖掉一个 中国年轻人崩溃痛哭</a></li>
+<li><a href="/bblog/20230503/1879515.md">〖微历史〗以后农村会发生什么？</a></li>
+<li><a href="/sohnews/20230502/1879368.md">打脸毛宁! 发言人真敢当众睁眼说瞎话｜ #时事金扫描 #shorts</a></li>
+<li><a href="/cnnews/20230503/1879647.md">第一批押注海南的年轻人，后悔了吗</a></li>
 <li><a href="/comments/20230503/1879575.md">天亮时分：抗议横幅惊现习仲勳陵园，要求习近平自毁祖坟？中共扎心，菲律宾加入亚太小北约；美国两党本月摊牌，股市暴跌；（政论天下第1001集 20230502）天亮时分</a></li>
 <li><a href="/comments/20230503/1879494.md">横河：中国是陷阱？！中共为何更频繁地用限制出境作为武器 ｜新闻烽火台 05/02</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230503/1879798.md" target="_blank">美国思想领袖：中共酝酿「间谍潮」！李强苦求外资，习近平狠心拆台；人质外交上道！出境禁令再扩大，出国真的难了！| #新闻大家谈 05.03.2023</a></li>
 <li><a href="/comments/20230503/1879766.md" target="_blank">超越梦！遥视：瞬间看到千里之外！很多人具备的特异功能：穿越时空、超越心灵感应⋯｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20230503/1879764.md" target="_blank">中国观光直升机坠毁！“机上3人身亡”最新画面曝光</a></li>
 <li><a href="/cbnews/20230503/1879763.md" target="_blank">中国惊现不明飞行物！“一串发光UFO”夜空飙速 目击者吓：降落中</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20230502/1879210.md" target="_blank">俄罗斯喊话北京 台海一旦开战 提防这5个国家</a></li>
 <li><a href="/cbnews/20230502/1879180.md" target="_blank">江峰：淄博烧烤火了，流量经济的背後是政府运作，中国经济不垮了怎麽会执行习近平“人间烟火”和李强重操李克强“地摊经济”的指示！支持普京的戏码变了？欧洲与俄罗斯谁更重【江峰漫谈20230501第667期】</a></li>
 <li><a href="/cbnews/20230502/1879178.md" target="_blank">〖兲朝浮世绘〗宪法也被404了</a></li>
-<li><a href="/cbnews/20230502/1879177.md" target="_blank">〖兲朝浮世绘〗中共这么快就出卖普京大帝了？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230503/1879801.md" target="_blank">克宫上空爆火光！俄指控乌克兰2架无人机暗杀普丁</a></li>
 <li><a href="/topimagenews/20230503/1879751.md" target="_blank">罕见！银行急了；首付降至20%！这个省会，降价也卖不动了</a></li>
 <li><a href="/topimagenews/20230503/1879733.md" target="_blank">240枚核弹头逼近中共！美“俄亥俄”级核潜艇将至韩国 威力能摧毁朝鲜</a></li>
 <li><a href="/topimagenews/20230503/1879703.md" target="_blank">俄乌战争白热化 美联参主席：普丁战争已经失败 必须认输</a></li>
@@ -90,13 +91,17 @@
 <li><a href="/topimagenews/20230502/1879223.md" target="_blank">俄军猛攻巴赫穆特失败“付出可怕代价”! 白宫：5个月来伤亡10万人</a></li>
 <li><a href="/topimagenews/20230502/1879196.md" target="_blank">为啥？美军新王牌才亮相5个月 中共急不可待唱衰…</a></li>
 <li><a href="/topimagenews/20230502/1879187.md" target="_blank">大陆世界工厂地位动摇？日媒爆台商西进30年带头跑 这2国崛起</a></li>
-<li><a href="/topimagenews/20230502/1879169.md" target="_blank">俄军放弃巴赫穆特部分阵地 瓦格纳首脑评估撤离</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230503/1879784.md" target="_blank">【梁京评论】虽遭全面重挫，习近平难改「底线思维」</a></li>
+<li><a href="/comments/20230503/1879782.md" target="_blank">香港于世界新闻自由指数排名140属状况“艰难” 中国跌至倒数第二</a></li>
+<li><a href="/comments/20230503/1879780.md" target="_blank">流亡海外公民记者赵兰健：中国处在媒体管制最严苛时期</a></li>
+<li><a href="/comments/20230503/1879777.md" target="_blank">【新闻拍案惊奇】可乐、雪碧要断货？美军特种部队公开演练打击共军</a></li>
+<li><a href="/comments/20230503/1879775.md" target="_blank">港台前编导蔡玉玲案开审 法官择日颁判词</a></li>
 <li><a href="/comments/20230503/1879766.md" target="_blank">超越梦！遥视：瞬间看到千里之外！很多人具备的特异功能：穿越时空、超越心灵感应⋯｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230503/1879762.md" target="_blank">中国五一乱象四起！化工厂爆炸9人死 直升机坠落3人亡 海南漂流成“碰碰船”</a></li>
 <li><a href="/comments/20230503/1879761.md" target="_blank">影片曝光！ 俄边境油库遭乌无人机袭击 引发大火</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230503/1879555.md" target="_blank">刘书庆：网红打卡热，逃避心理下的狂欢</a></li>
 <li><a href="/comments/20230503/1879534.md" target="_blank">文昭：富豪是最没有保家卫国动机的人，国防柱石反而是他们&#8230;</a></li>
 <li><a href="/comments/20230503/1879510.md" target="_blank">卢郁佳：富察案：醒醒吧中共没有红线</a></li>
-<li><a href="/comments/20230503/1879509.md" target="_blank">杨虔豪：尹锡悦访美带回了什么？</a></li>
-<li><a href="/comments/20230503/1879506.md" target="_blank">高宝毅：重新书写中国古代史 还原中华文明真相</a></li>
-<li><a href="/comments/20230503/1879494.md" target="_blank">横河：中国是陷阱？！中共为何更频繁地用限制出境作为武器 ｜新闻烽火台 05/02</a></li>
-<li><a href="/comments/20230503/1879486.md" target="_blank">网海拾贝:“全世界网民联合起来，拆除中共网络柏林墙”</a></li>
-<li><a href="/comments/20230503/1879485.md" target="_blank">王赫：朝鲜半岛核态势大变 重击中共</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
 <li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 
 </ul>
 </div>
