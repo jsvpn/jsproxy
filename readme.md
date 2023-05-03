@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20230503/1879548.md">"这个政权的目标已无法唤起人民的忠诚与奉献"【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230503/1879692.md">历史重演！十五所“中管高校”现可怕一幕【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20230503/1879667.md">史上最残酷战役：2万人冻成冰棍，指挥官被枪毙</a></li>
-<li><a href="/sohnews/20230503/1879601.md">20230503直播：俄罗斯‘胡锡进’大骂习近平背叛普京；李强隐身成甩手掌柜；中国正在变成一个边控的陷阱；日本宪法日：曾经鸡血上头的日本是如何被逼着走向现代宪政之路的。</a></li>
 <li><a href="/lifebaike/20230503/1879686.md">当中国年轻人开始不随份子钱</a></li>
+<li><a href="/sohnews/20230503/1879601.md">20230503直播：俄罗斯‘胡锡进’大骂习近平背叛普京；李强隐身成甩手掌柜；中国正在变成一个边控的陷阱；日本宪法日：曾经鸡血上头的日本是如何被逼着走向现代宪政之路的。</a></li>
 <li><a href="/baitai/20230503/1879720.md">韩正出席英王加冕典礼 英媒：或将引发“外交风暴”</a></li>
 <li><a href="/cnnews/20230503/1879647.md">第一批押注海南的年轻人，后悔了吗</a></li>
 <li><a href="/topimagenews/20230503/1879635.md">不再让你乱来！美警告若共军继续在南海挑衅菲律宾将会动用武力</a></li>
 <li><a href="/topimagenews/20230503/1879703.md">俄乌战争白热化 美联参主席：普丁战争已经失败 必须认输</a></li>
-<li><a href="/baitai/20230503/1879709.md">地球将毁灭？2671年「时空旅人」警告：5月有成千上万人将失去亲人</a></li>
 <li><a href="/topimagenews/20230503/1879751.md">罕见！银行急了；首付降至20%！这个省会，降价也卖不动了</a></li>
+<li><a href="/baitai/20230503/1879709.md">地球将毁灭？2671年「时空旅人」警告：5月有成千上万人将失去亲人</a></li>
 <li><a href="/lifebaike/20230503/1879525.md">蛋白质是牛奶的13倍，建议中老年人：每天吃一把，润燥解馋又营养</a></li>
 <li><a href="/bblog/20230503/1879515.md">〖微历史〗以后农村会发生什么？</a></li>
 <li><a href="/worldnews/20230503/1879655.md">没想到尹锡悦真有两下子</a></li>
-<li><a href="/comments/20230503/1879575.md">天亮时分：抗议横幅惊现习仲勳陵园，要求习近平自毁祖坟？中共扎心，菲律宾加入亚太小北约；美国两党本月摊牌，股市暴跌；（政论天下第1001集 20230502）天亮时分</a></li>
 <li><a href="/cbnews/20230503/1879632.md">〖兲朝浮世绘〗有家不能回，方斌出狱后成流民</a></li>
+<li><a href="/comments/20230503/1879575.md">天亮时分：抗议横幅惊现习仲勳陵园，要求习近平自毁祖坟？中共扎心，菲律宾加入亚太小北约；美国两党本月摊牌，股市暴跌；（政论天下第1001集 20230502）天亮时分</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230504/1879955.md" target="_blank">文昭：淄博烧烤出圈火爆，却是狂欢的哀歌！经济学大神判了「淄博模式」的死刑</a></li>
+<li><a href="/comments/20230504/1879941.md" target="_blank">网海拾贝:中共自己的宪法也被404了</a></li>
+<li><a href="/comments/20230504/1879940.md" target="_blank">王赫：美国的印太战略军事布局</a></li>
+<li><a href="/comments/20230504/1879939.md" target="_blank">袁斌：公民记者方斌为何被迫流浪街头？</a></li>
+<li><a href="/comments/20230504/1879938.md" target="_blank">杨威：中共推走韩国菲律宾 第一岛链更难突破</a></li>
 <li><a href="/comments/20230504/1879936.md" target="_blank">卡尔森早期视频遭泄，前福克斯女主播曝内幕：精心策划的暗杀行动。卡尔森获天价邀约。习近平贴身保镖突然死亡。</a></li>
 <li><a href="/comments/20230504/1879920.md" target="_blank">美军的金钟罩、铁布衫能挡住中共的攻击吗？</a></li>
 <li><a href="/comments/20230504/1879850.md" target="_blank">依法治国，党国宪法遭屏蔽</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230503/1879594.md" target="_blank">扶摇 “会员”频道开通噜！～ 欢迎您成为扶摇的专属粉丝，跟着扶摇一起探索未解之谜～｜ #未解之谜</a></li>
 <li><a href="/comments/20230503/1879591.md" target="_blank">策动七七事变的幕后黑手到底是谁？证据在这里</a></li>
 <li><a href="/comments/20230503/1879590.md" target="_blank">湖北恩施文斗镇一名小女孩路边翻找垃圾，网友：“看的人揪心”</a></li>
-<li><a href="/comments/20230503/1879586.md" target="_blank">人类被禁言！“AI鬼城”惊现 AI自主聊天</a></li>
-<li><a href="/comments/20230503/1879585.md" target="_blank">台海一旦开战提防这5国趁机偷袭…</a></li>
-<li><a href="/comments/20230503/1879584.md" target="_blank">鬼迷心窍的扎克伯格 正陷入一场信任危机</a></li>
-<li><a href="/comments/20230503/1879575.md" target="_blank">天亮时分：抗议横幅惊现习仲勳陵园，要求习近平自毁祖坟？中共扎心，菲律宾加入亚太小北约；美国两党本月摊牌，股市暴跌；（政论天下第1001集 20230502）天亮时分</a></li>
-<li><a href="/comments/20230503/1879559.md" target="_blank">公告:公民力量向联合国提交铁链女案件</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
 <li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 
 </ul>
 </div>
