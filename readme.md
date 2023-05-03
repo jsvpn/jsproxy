@@ -27,7 +27,7 @@
 <li><a href="/topimagenews/20230503/1879548.md">"这个政权的目标已无法唤起人民的忠诚与奉献"【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230503/1879474.md">为何是它？曾抢走中共订单，如今又跑在中共前面</a></li>
 <li><a href="/ssgc/20230503/1879517.md">〖微博谈〗有些人的坏是天生的</a></li>
-<li><a href="/baitai/20230502/1879380.md">摆摊整天只卖掉一个 中国年轻人崩溃痛哭</a></li>
+<li><a href="/sohnews/20230502/1879368.md">打脸毛宁! 发言人真敢当众睁眼说瞎话｜ #时事金扫描 #shorts</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230503/1879665.md" target="_blank">五一游乱象多 女游客闯鹿区 遭鹿攻击</a></li>
 <li><a href="/cbnews/20230503/1879632.md" target="_blank">〖兲朝浮世绘〗有家不能回，方斌出狱后成流民</a></li>
 <li><a href="/cbnews/20230503/1879607.md" target="_blank">江峰：马科斯锁定亚太小北约，日韩菲联手助攻，这个基地让中共封锁台湾计划成幻影；答网友问环节：哈萨克斯坦中国免签会让中共军人秘密前往俄乌前线？【江峰漫谈20230502第668期】</a></li>
 <li><a href="/cbnews/20230503/1879595.md" target="_blank">为了攻台！中国征兵新条例上路 几大焦点瞩目</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20230501/1878942.md" target="_blank">要求借厕所游客买55元门票 桂林风景区被关了</a></li>
 <li><a href="/cbnews/20230501/1878882.md" target="_blank">中菲爆海上冲突后 菲总统访问美国</a></li>
 <li><a href="/cbnews/20230501/1878879.md" target="_blank">美国思想领袖：12万人突袭山东淄博！五一订单爆涨2000%的神秘背後；李强学习李克强，地摊让经济回光返照；习切割普京？中共联大反常投票，释信号 | #新闻大家谈 05.01.2023</a></li>
-<li><a href="/comments/20230501/1878862.md" target="_blank">天空惊现 外星飞船！</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230503/1879664.md" target="_blank">福特号超级航母打击群启航 首度全面部署</a></li>
 <li><a href="/topimagenews/20230503/1879654.md" target="_blank">人民币不是美元对手？顶大学者曝：连头号大敌都不是</a></li>
 <li><a href="/topimagenews/20230503/1879646.md" target="_blank">乌军新攻势在这里?俄媒称乌克兰已经突破防线1.5公里</a></li>
 <li><a href="/topimagenews/20230503/1879635.md" target="_blank">不再让你乱来！美警告若共军继续在南海挑衅菲律宾将会动用武力</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230502/1879059.md" target="_blank">罕见！银行急了</a></li>
 <li><a href="/topimagenews/20230502/1879051.md" target="_blank">首付降至20%！这个省会，降价也卖不动了</a></li>
 <li><a href="/topimagenews/20230502/1879032.md" target="_blank">海南儋州全村反抗政府强拆 双发爆激烈冲突【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230502/1879007.md" target="_blank">五一从大陆全国各地传回来的照片，太可怕了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 <li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 
 </ul>
 </div>
