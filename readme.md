@@ -9,10 +9,9 @@
 <li><a href="/ssgc/20230502/1879239.md">保护卫士:习近平收紧政治控管 中国出境禁令大增</a></li>
 <li><a href="/topimagenews/20230502/1879273.md">成都“退耕还林”“退林还耕”400亿人民币打水漂 习仲勋陵园疑见抗议横幅</a></li>
 <li><a href="/baitai/20230502/1879306.md">两件大事同发 中共内斗战火再燃？</a></li>
-<li><a href="/comments/20230502/1879137.md">天亮时分：传中央警卫局前局长王少军死亡；南非警告普京，来了会被捕；淄博烧烤、“五一”人海与中国经济的烟火气（政论天下第1000集 20230501）天亮时分</a></li>
 <li><a href="/baitai/20230502/1879175.md">历史浩劫将再现？亿万富翁马斯克再语出惊人；李强亲自出马不一般 马云再任新职！【国际风云】</a></li>
-<li><a href="/cbnews/20230502/1879178.md">〖兲朝浮世绘〗宪法也被404了</a></li>
 <li><a href="/cbnews/20230502/1879210.md">俄罗斯喊话北京 台海一旦开战 提防这5个国家</a></li>
+<li><a href="/cbnews/20230502/1879178.md">〖兲朝浮世绘〗宪法也被404了</a></li>
 <li><a href="/comments/20230502/1879291.md">习近平罕见自曝大量“家丑”</a></li>
 <li><a href="/sohnews/20230502/1879261.md">如果你身上有这8种特征，请立刻马上停止邪淫｜传统文化｜知识分享｜人生智慧语录 【晨曦晓屋】</a></li>
 <li><a href="/cnnews/20230503/1879426.md">习仲勋陵园疑见抗议红幅</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/topimagenews/20230502/1879196.md">为啥？美军新王牌才亮相5个月 中共急不可待唱衰…</a></li>
 <li><a href="/yule/20230503/1879440.md">广西这一夜，撕下了李亚鹏经商23年的遮羞布…</a></li>
 <li><a href="/lifebaike/20230502/1879198.md">中国留学生家庭越来越高端 普通家庭机会不多了</a></li>
-<li><a href="/baitai/20230502/1879222.md">马斯克预测：美史浩劫「大萧条」将再现</a></li>
 <li><a href="/cbnews/20230502/1879177.md">〖兲朝浮世绘〗中共这么快就出卖普京大帝了？</a></li>
+<li><a href="/baitai/20230502/1879222.md">马斯克预测：美史浩劫「大萧条」将再现</a></li>
+<li><a href="/topimagenews/20230503/1879467.md">中共又盛大“国际”了 出国才知道…【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230502/1879307.md">朝鲜半岛核态势大变 重击中共</a></li>
 <li><a href="/lifebaike/20230502/1879237.md">华人100万申请投资移民 遭查税</a></li>
 <li><a href="/topimagenews/20230502/1879242.md">重庆游客密密麻麻！五一长假各景区遭游客淹没 辽宁吊桥倒塌数人伤</a></li>
-<li><a href="/topimagenews/20230503/1879467.md">中共又盛大“国际”了 出国才知道…【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230502/1879180.md">江峰：淄博烧烤火了，流量经济的背後是政府运作，中国经济不垮了怎麽会执行习近平“人间烟火”和李强重操李克强“地摊经济”的指示！支持普京的戏码变了？欧洲与俄罗斯谁更重【江峰漫谈20230501第667期】</a></li>
 <li><a href="/topimagenews/20230502/1879255.md">哈尔滨小区3楼住户擅拆承重墙 墙壁往上裂到21楼…</a></li>
+<li><a href="/baitai/20230502/1879380.md">摆摊整天只卖掉一个 中国年轻人崩溃痛哭</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230503/1879586.md" target="_blank">人类被禁言！“AI鬼城”惊现 AI自主聊天</a></li>
+<li><a href="/comments/20230503/1879585.md" target="_blank">台海一旦开战提防这5国趁机偷袭…</a></li>
+<li><a href="/comments/20230503/1879584.md" target="_blank">鬼迷心窍的扎克伯格 正陷入一场信任危机</a></li>
 <li><a href="/comments/20230503/1879575.md" target="_blank">天亮时分：抗议横幅惊现习仲勳陵园，要求习近平自毁祖坟？中共扎心，菲律宾加入亚太小北约；美国两党本月摊牌，股市暴跌；（政论天下第1001集 20230502）天亮时分</a></li>
 <li><a href="/comments/20230503/1879559.md" target="_blank">公告:公民力量向联合国提交铁链女案件</a></li>
 <li><a href="/comments/20230503/1879558.md" target="_blank">坏雷达：运动式休假</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230502/1879335.md" target="_blank">文昭：隐藏在高层的反贼暴露了！原来他们是&#8230;</a></li>
 <li><a href="/comments/20230502/1879330.md" target="_blank">【财经拆局】「愈迟买愈平」 银主盘增加反映楼市将耗尽购买力</a></li>
 <li><a href="/comments/20230502/1879316.md" target="_blank">中共大型飞艇秘密基地 在西北沙漠首曝光</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20230502/1879294.md" target="_blank">英媒爆南非劝普京别出席金砖峰会 改视讯参加避免被逮捕</a></li>
-<li><a href="/comments/20230502/1879293.md" target="_blank">中国五一连假人群涌出 堵车竟光天化日公路旁便溺</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
 <li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
 
 </ul>
 </div>
