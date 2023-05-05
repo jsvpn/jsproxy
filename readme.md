@@ -11,9 +11,8 @@
 <li><a href="/worldnews/20230505/1880550.md">中国情侣命丧巴厘岛 两死者身份被揭开</a></li>
 <li><a href="/cbnews/20230505/1880339.md">“五一”高速堵路，新能源车车主：欲哭无泪</a></li>
 <li><a href="/topimagenews/20230505/1880349.md">中共最新大变招将导致大劫难【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230505/1880478.md">两个扎心的消息 实在说不过去了</a></li>
 <li><a href="/topimagenews/20230505/1880622.md">中共新政史上闻所未闻 陆网沸腾；债台高筑 中共当局一边裁员一边又招募这种人</a></li>
-<li><a href="/cnnews/20230505/1880312.md">孟晚舟继子18岁成人礼曝光 一套衣服20万</a></li>
+<li><a href="/topimagenews/20230505/1880478.md">两个扎心的消息 实在说不过去了</a></li>
 <li><a href="/topimagenews/20230505/1880548.md">中共政策180度大转弯？网友妙评“回来吧，老家发金条了”【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230505/1880357.md">地摊经济和穷游李克强不许搞，李强可以；唐山铁矿事故，官员瞒报藏匿去世者；拜登政府同意增加中美航班；经济不振，路边摊重新被允许，中国五一旅游人潮汹涌，只游不买。</a></li>
 <li><a href="/sohnews/20230505/1880383.md">陈破空：突然转向，华尔街亲共大佬直言：中国完了！预言美中开战。加总理紧急召见中国大使，或驱逐中共外交官。力挺北京的世卫专家遭除名。直播与互动。美东5月4日晚8点、即中港台5月5日早8点</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/cnnews/20230505/1880529.md">离谱！61%中国人写的英语论文会被ChatGPT判为</a></li>
 <li><a href="/bblog/20230505/1880394.md">〖微历史〗五四运动的最大恶</a></li>
 <li><a href="/sohnews/20230505/1880580.md">文睿：大头条，一尊直接开口了，中国能好就怪了</a></li>
-<li><a href="/topimagenews/20230505/1880581.md">瓦格纳首脑痛骂俄国军方 暴怒宣布“这天”撤离俄乌血战小镇</a></li>
 <li><a href="/sohnews/20230505/1880621.md">陈破空：老习很厉害？他接连忽悠了两个大人物！一个陷入苦战。另一个灰头土脸</a></li>
+<li><a href="/topimagenews/20230505/1880581.md">瓦格纳首脑痛骂俄国军方 暴怒宣布“这天”撤离俄乌血战小镇</a></li>
+<li><a href="/cnnews/20230505/1880542.md">iPhone15新机订单大洗牌 中国厂商首次拿下订单</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230506/1880750.md" target="_blank">中看不中用！外媒深度解析中共航母虚弱本质</a></li>
+<li><a href="/topimagenews/20230506/1880749.md" target="_blank">大跌眼镜！俄代表抢走国旗 乌外交官挥拳暴揍</a></li>
 <li><a href="/topimagenews/20230505/1880622.md" target="_blank">中共新政史上闻所未闻 陆网沸腾；债台高筑 中共当局一边裁员一边又招募这种人</a></li>
 <li><a href="/topimagenews/20230505/1880581.md" target="_blank">瓦格纳首脑痛骂俄国军方 暴怒宣布“这天”撤离俄乌血战小镇</a></li>
 <li><a href="/topimagenews/20230505/1880548.md" target="_blank">中共政策180度大转弯？网友妙评“回来吧，老家发金条了”【阿波罗网报道】</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20230504/1880031.md" target="_blank">反攻来了 俄佣兵头子：瓦格纳士兵在前线看到大规模乌克兰军队活动</a></li>
 <li><a href="/topimagenews/20230504/1880026.md" target="_blank">俄控“意图行刺普京” 俄前总统吁消灭泽连斯基</a></li>
 <li><a href="/topimagenews/20230504/1879919.md" target="_blank">绝了：中国动物园游客干架，给动物看…真动物表演</a></li>
-<li><a href="/topimagenews/20230504/1879918.md" target="_blank">注意：亚马逊砂锅只卖$2.3，华人抢购，结果…</a></li>
-<li><a href="/topimagenews/20230503/1879827.md" target="_blank">首家承认ChatGPT冲击业绩的公司 CEO一席话让股价瞬间腰斩</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230506/1880752.md" target="_blank">红场上空的无人机，假得让人尴尬</a></li>
 <li><a href="/comments/20230506/1880714.md" target="_blank">时事大家谈：白宫罕见行政令限制高科技投资中国，北京会报复吗？</a></li>
 <li><a href="/comments/20230506/1880713.md" target="_blank">时事大家谈：拆掉中共防火墙舆论再现，希望与难点在哪里？</a></li>
 <li><a href="/comments/20230505/1880684.md" target="_blank">时事大家谈：白宫罕见行政令限制高科技投资中国，北京会报复吗？拆掉中共防火墙舆论再现，希望与难点在哪里？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230505/1880408.md" target="_blank">文昭：多地想复制淄博烧烤的成功模式，为何这才是让人细思极恐的？</a></li>
 <li><a href="/comments/20230505/1880404.md" target="_blank">李濠仲：瑞士罕见通过友台决议 “中立国”怎么了</a></li>
 <li><a href="/comments/20230505/1880382.md" target="_blank">神奇的预知梦！</a></li>
-<li><a href="/comments/20230505/1880380.md" target="_blank">专访维权律师钟锦化：惊险逃出中国！亲历海外中共长臂，被亲共侨团开除；从法官到律师，目睹中国底层民众的绝望｜#方菲时间 05/04/2023</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 <li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 
 </ul>
 </div>
