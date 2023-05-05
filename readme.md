@@ -12,9 +12,9 @@
 <li><a href="/cbnews/20230505/1880339.md">“五一”高速堵路，新能源车车主：欲哭无泪</a></li>
 <li><a href="/topimagenews/20230505/1880349.md">中共最新大变招将导致大劫难【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230505/1880478.md">两个扎心的消息 实在说不过去了</a></li>
+<li><a href="/topimagenews/20230505/1880622.md">中共新政史上闻所未闻 陆网沸腾；债台高筑 中共当局一边裁员一边又招募这种人</a></li>
 <li><a href="/cnnews/20230505/1880312.md">孟晚舟继子18岁成人礼曝光 一套衣服20万</a></li>
 <li><a href="/topimagenews/20230505/1880548.md">中共政策180度大转弯？网友妙评“回来吧，老家发金条了”【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230505/1880622.md">中共新政史上闻所未闻 陆网沸腾；债台高筑 中共当局一边裁员一边又招募这种人</a></li>
 <li><a href="/sohnews/20230505/1880357.md">地摊经济和穷游李克强不许搞，李强可以；唐山铁矿事故，官员瞒报藏匿去世者；拜登政府同意增加中美航班；经济不振，路边摊重新被允许，中国五一旅游人潮汹涌，只游不买。</a></li>
 <li><a href="/sohnews/20230505/1880383.md">陈破空：突然转向，华尔街亲共大佬直言：中国完了！预言美中开战。加总理紧急召见中国大使，或驱逐中共外交官。力挺北京的世卫专家遭除名。直播与互动。美东5月4日晚8点、即中港台5月5日早8点</a></li>
 <li><a href="/cbnews/20230505/1880494.md">〖兲朝浮世绘〗想当接班人的领导都犯了习总的忌讳</a></li>
@@ -24,9 +24,9 @@
 <li><a href="/cnnews/20230505/1880469.md">往习近平伤口上撒盐！人民日报竟然这样玩【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230505/1880479.md">你的钱买不到我的油！俄不要卢比 对印度搞货币战</a></li>
 <li><a href="/bblog/20230505/1880394.md">〖微历史〗五四运动的最大恶</a></li>
-<li><a href="/sohnews/20230505/1880580.md">文睿：大头条，一尊直接开口了，中国能好就怪了</a></li>
-<li><a href="/topimagenews/20230505/1880581.md">瓦格纳首脑痛骂俄国军方 暴怒宣布“这天”撤离俄乌血战小镇</a></li>
 <li><a href="/cnnews/20230505/1880529.md">离谱！61%中国人写的英语论文会被ChatGPT判为</a></li>
+<li><a href="/topimagenews/20230505/1880581.md">瓦格纳首脑痛骂俄国军方 暴怒宣布“这天”撤离俄乌血战小镇</a></li>
+<li><a href="/sohnews/20230505/1880580.md">文睿：大头条，一尊直接开口了，中国能好就怪了</a></li>
 <li><a href="/cnnews/20230505/1880542.md">iPhone15新机订单大洗牌 中国厂商首次拿下订单</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 
 </ul>
 </div>
