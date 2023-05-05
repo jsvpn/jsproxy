@@ -8,26 +8,26 @@
 <li><a href="/baitai/20230505/1880315.md">中共内斗演变 谁给习近平难堪？</a></li>
 <li><a href="/topimagenews/20230505/1880434.md">李强经济政策大反转，深圳兰州跟进</a></li>
 <li><a href="/baitai/20230505/1880331.md">中南海暗潮涌动  习出声警告  官场上下震动</a></li>
-<li><a href="/topimagenews/20230504/1880264.md">千万元25公斤金砖“单手拿起就送你” 老人办到了！官方急称不算数</a></li>
-<li><a href="/cbnews/20230504/1880274.md">习近平赞大学生“自找苦吃” 分析：不祥之兆</a></li>
-<li><a href="/cbnews/20230505/1880339.md">“五一”高速堵路，新能源车车主：欲哭无泪</a></li>
 <li><a href="/worldnews/20230505/1880550.md">中国情侣命丧巴厘岛 两死者身份被揭开</a></li>
+<li><a href="/cbnews/20230505/1880339.md">“五一”高速堵路，新能源车车主：欲哭无泪</a></li>
 <li><a href="/topimagenews/20230505/1880349.md">中共最新大变招将导致大劫难【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230505/1880312.md">孟晚舟继子18岁成人礼曝光 一套衣服20万</a></li>
 <li><a href="/topimagenews/20230505/1880478.md">两个扎心的消息 实在说不过去了</a></li>
 <li><a href="/topimagenews/20230505/1880548.md">中共政策180度大转弯？网友妙评“回来吧，老家发金条了”【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230505/1880312.md">孟晚舟继子18岁成人礼曝光 一套衣服20万</a></li>
 <li><a href="/sohnews/20230505/1880357.md">地摊经济和穷游李克强不许搞，李强可以；唐山铁矿事故，官员瞒报藏匿去世者；拜登政府同意增加中美航班；经济不振，路边摊重新被允许，中国五一旅游人潮汹涌，只游不买。</a></li>
 <li><a href="/sohnews/20230505/1880383.md">陈破空：突然转向，华尔街亲共大佬直言：中国完了！预言美中开战。加总理紧急召见中国大使，或驱逐中共外交官。力挺北京的世卫专家遭除名。直播与互动。美东5月4日晚8点、即中港台5月5日早8点</a></li>
 <li><a href="/cbnews/20230505/1880494.md">〖兲朝浮世绘〗想当接班人的领导都犯了习总的忌讳</a></li>
 <li><a href="/ssgc/20230505/1880395.md">〖微博谈〗兜里的钱就是不想掏</a></li>
 <li><a href="/comments/20230505/1880465.md">【微博精粹】狂拔白孔雀羽毛象征…… 习一尊知道吗</a></li>
+<li><a href="/topimagenews/20230505/1880622.md">中共新政史上闻所未闻 陆网沸腾；债台高筑 中共当局一边裁员一边又招募这种人</a></li>
+<li><a href="/topimagenews/20230505/1880508.md">大陆芯片业爆惊人倒闭潮 内行爆2事压不住：更惨在后头</a></li>
 <li><a href="/cnnews/20230505/1880469.md">往习近平伤口上撒盐！人民日报竟然这样玩【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230505/1880283.md">中国烧烤店涌排队人潮 4岁童问“1句”超心酸</a></li>
-<li><a href="/topimagenews/20230505/1880508.md">大陆芯片业爆惊人倒闭潮 内行爆2事压不住：更惨在后头</a></li>
-<li><a href="/topimagenews/20230505/1880622.md">中共新政史上闻所未闻 陆网沸腾；债台高筑 中共当局一边裁员一边又招募这种人</a></li>
-<li><a href="/bblog/20230505/1880394.md">〖微历史〗五四运动的最大恶</a></li>
 <li><a href="/topimagenews/20230505/1880479.md">你的钱买不到我的油！俄不要卢比 对印度搞货币战</a></li>
+<li><a href="/bblog/20230505/1880394.md">〖微历史〗五四运动的最大恶</a></li>
 <li><a href="/cnnews/20230505/1880529.md">离谱！61%中国人写的英语论文会被ChatGPT判为</a></li>
+<li><a href="/sohnews/20230505/1880324.md">黄山上住厕所 民众大喊：把猪弄下来｜ #时事金扫描 #金然</a></li>
+<li><a href="/headline/20230505/1880378.md">习近平憎恶储君 一语道破天机？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230505/1880684.md" target="_blank">时事大家谈：白宫罕见行政令限制高科技投资中国，北京会报复吗？拆掉中共防火墙舆论再现，希望与难点在哪里？</a></li>
+<li><a href="/comments/20230505/1880681.md" target="_blank">清华大学教授郭被限制出境 曾公开声明退党</a></li>
 <li><a href="/comments/20230505/1880658.md" target="_blank">港警持法庭手令检走“国殇之柱”创作者高志活形容事件“很疯狂”</a></li>
 <li><a href="/comments/20230505/1880639.md" target="_blank">挑战中南海？浙江商场办“躺平”大赛</a></li>
 <li><a href="/comments/20230505/1880615.md" target="_blank">美国情报首长：俄国军力损耗更仰赖中国 愈加被北京当小弟看</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230505/1880380.md" target="_blank">专访维权律师钟锦化：惊险逃出中国！亲历海外中共长臂，被亲共侨团开除；从法官到律师，目睹中国底层民众的绝望｜#方菲时间 05/04/2023</a></li>
 <li><a href="/comments/20230505/1880292.md" target="_blank">康乃尔学者白洁曦：连中共都不相信它能取代美国</a></li>
 <li><a href="/comments/20230504/1880272.md" target="_blank">时事大家谈：从五四、六四到A4 中国青年精神未死？</a></li>
-<li><a href="/comments/20230504/1880271.md" target="_blank">时事大家谈：失业女卖饭团日入五元 中国青年路在何方？</a></li>
-<li><a href="/comments/20230504/1880262.md" target="_blank">时事大家谈：失业女卖饭团日入五元 中国青年路在何方？从五四、六四到A4 中国青年精神未死？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
 
 </ul>
 </div>
