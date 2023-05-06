@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20230505/1880622.md">中共新政史上闻所未闻 陆网沸腾；债台高筑 中共当局一边裁员一边又招募这种人</a></li>
 <li><a href="/cbnews/20230505/1880494.md">〖兲朝浮世绘〗想当接班人的领导都犯了习总的忌讳</a></li>
 <li><a href="/topimagenews/20230505/1880508.md">大陆芯片业爆惊人倒闭潮 内行爆2事压不住：更惨在后头</a></li>
-<li><a href="/cnnews/20230505/1880469.md">往习近平伤口上撒盐！人民日报竟然这样玩【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230506/1880755.md">习露马脚 灾难将至 中国年轻人出现一变化 未来将掀起排山倒海巨浪【红朝禁闻】</a></li>
 <li><a href="/cnnews/20230505/1880529.md">离谱！61%中国人写的英语论文会被ChatGPT判为</a></li>
 <li><a href="/yule/20230506/1880743.md">田朴珺和王石要离婚？两人因生孩子问题谈崩…</a></li>
 <li><a href="/sohnews/20230505/1880621.md">陈破空：老习很厉害？他接连忽悠了两个大人物！一个陷入苦战。另一个灰头土脸</a></li>
 <li><a href="/baitai/20230505/1880641.md">普京绝望？俄为败仗做铺垫 中共出手了</a></li>
-<li><a href="/topimagenews/20230505/1880479.md">你的钱买不到我的油！俄不要卢比 对印度搞货币战</a></li>
 <li><a href="/cbnews/20230505/1880633.md">中国36岁男在家自己针灸 针刺破心脏惨断体内…</a></li>
+<li><a href="/topimagenews/20230505/1880479.md">你的钱买不到我的油！俄不要卢比 对印度搞货币战</a></li>
 <li><a href="/topimagenews/20230505/1880581.md">瓦格纳首脑痛骂俄国军方 暴怒宣布“这天”撤离俄乌血战小镇</a></li>
 <li><a href="/cnnews/20230505/1880542.md">iPhone15新机订单大洗牌 中国厂商首次拿下订单</a></li>
 <li><a href="/weiquan/20230506/1880715.md">河南驻马店12岁少年扇毛泽东像竟然遭当地警方抓捕</a></li>
 <li><a href="/sohnews/20230505/1880580.md">文睿：大头条，一尊直接开口了，中国能好就怪了</a></li>
 <li><a href="/sohnews/20230505/1880693.md">“盛传：徐峥夫妇分头出走 $8.2亿 遭扣押！”《今日点击》（05/05/23）疯狂“毁林造田” “水稻旱作” 为哪般？</a></li>
+<li><a href="/baitai/20230506/1880811.md">台媒实地探访揭深圳惨状 习近平一封信释不祥信号</a></li>
 <li><a href="/topimagenews/20230506/1880750.md">中看不中用！外媒深度解析中共航母虚弱本质</a></li>
+<li><a href="/topimagenews/20230506/1880824.md">“挖呀挖”老师素颜曝光 网红出身 背后有团队</a></li>
 <li><a href="/baitai/20230505/1880523.md">捷克外长：「14+1」名存实亡 北京已没前途</a></li>
 <li><a href="/yule/20230505/1880512.md">唐嫣参加同学聚会 没人搭理文章 又黑又老好憔悴</a></li>
-<li><a href="/sohnews/20230505/1880467.md">文睿：快讯：深圳大动作，经济真完了，一尊脸放哪儿</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230506/1880896.md" target="_blank">五四是一场煽动集体主义 走向集权主义的运动</a></li>
+<li><a href="/comments/20230506/1880895.md" target="_blank">辛峰：他们为什么害怕外国代理人登记制度？</a></li>
+<li><a href="/comments/20230506/1880894.md" target="_blank">撞狗被村主任带人上门殴打，带的什么人才是重点，咋漏了？</a></li>
+<li><a href="/comments/20230506/1880893.md" target="_blank">维舟:你在学校里究竟学到了什么？</a></li>
+<li><a href="/comments/20230506/1880892.md" target="_blank">陶杰：查理斯登基大典后，世界又如何？</a></li>
 <li><a href="/comments/20230506/1880868.md" target="_blank">苏晓康：“六四”的遗嘱执行人</a></li>
 <li><a href="/comments/20230506/1880867.md" target="_blank">颜纯钩: 二十年目睹之怪現狀：五一长假旅游热不是吉兆</a></li>
 <li><a href="/comments/20230506/1880862.md" target="_blank">【独家重磅】李燕铭：团派安插到习近平政治大本营钉子被拔 副部级高官朱从玖落马 与李克强五重隐秘关联 牵连三名正部级高官 其中一人一度被传涉贪百亿元被查 习近平连任后大清洗（二一） 习近平李克强明争暗斗内幕（九七） 浙江帮覆灭记（十二）</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230505/1880681.md" target="_blank">清华大学教授郭被限制出境 曾公开声明退党</a></li>
 <li><a href="/comments/20230505/1880658.md" target="_blank">港警持法庭手令检走“国殇之柱”创作者高志活形容事件“很疯狂”</a></li>
 <li><a href="/comments/20230505/1880639.md" target="_blank">挑战中南海？浙江商场办“躺平”大赛</a></li>
-<li><a href="/comments/20230505/1880615.md" target="_blank">美国情报首长：俄国军力损耗更仰赖中国 愈加被北京当小弟看</a></li>
-<li><a href="/comments/20230505/1880614.md" target="_blank">泽伦斯基访德消息提前曝光 柏林警方开始抓内鬼</a></li>
-<li><a href="/comments/20230505/1880613.md" target="_blank">日本石川县6.5极浅层地震！“土石崩落”游客拔腿狂奔逃难画面曝光</a></li>
-<li><a href="/comments/20230505/1880609.md" target="_blank">调查出现爆炸性进展。举报人指控拜登外国人“受贿计划”，触碰弹劾红线。两情报界大佬将被传唤。司法部和联邦调查局被要求交出文件。</a></li>
-<li><a href="/comments/20230505/1880608.md" target="_blank">唐朝就有的预知梦！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
 
 </ul>
 </div>
