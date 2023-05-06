@@ -10,7 +10,6 @@
 <li><a href="/topimagenews/20230506/1880824.md">“挖呀挖”老师素颜曝光 网红出身 背后有团队</a></li>
 <li><a href="/yule/20230506/1880743.md">田朴珺和王石要离婚？两人因生孩子问题谈崩…</a></li>
 <li><a href="/topimagenews/20230506/1880865.md">真牛！北京大妈炮轰官媒“瞎话流舌，满嘴跑火车”【阿波罗网报道】</a></li>
-<li><a href="/weiquan/20230506/1880715.md">河南驻马店12岁少年扇毛泽东像竟然遭当地警方抓捕</a></li>
 <li><a href="/topimagenews/20230506/1880947.md">他也被割韭菜？网传徐峥、陶虹夫妇分头出国 转美36亿巨款被冻结</a></li>
 <li><a href="/topimagenews/20230506/1880964.md">中共最害怕一幕出现！大陆“人心思变”信号具备 只欠东风【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230506/1880923.md">〖微博谈〗中共战狼已失控</a></li>
@@ -19,14 +18,15 @@
 <li><a href="/comments/20230506/1880837.md">王宏伟：中国共产党必须被推翻</a></li>
 <li><a href="/topimagenews/20230506/1880749.md">大跌眼镜！俄代表抢走国旗 乌外交官挥拳暴揍</a></li>
 <li><a href="/topimagenews/20230506/1880965.md">英王查尔斯三世加冕典礼 中媒酸 : 天时、地利、人和“一个都没沾到”</a></li>
-<li><a href="/topimagenews/20230506/1880938.md">不给普丁面子 撑不到“胜利日”?继巴赫穆特后 俄罗斯又宣布自乌南18地撤退</a></li>
+<li><a href="/sohnews/20230506/1881006.md">文睿：上海楼市变天，大踩踏，已经上路了</a></li>
 <li><a href="/sohnews/20230506/1880958.md">瓦格纳老大哗变逼宫后再发视频：奸臣当道害我们六个月死伤了170%！☠️</a></li>
+<li><a href="/topimagenews/20230506/1880938.md">不给普丁面子 撑不到“胜利日”?继巴赫穆特后 俄罗斯又宣布自乌南18地撤退</a></li>
 <li><a href="/comments/20230506/1880752.md">红场上空的无人机，假得让人尴尬</a></li>
 <li><a href="/lifebaike/20230506/1880899.md">手机关闭这3个开关，就不会收到广告了</a></li>
 <li><a href="/cnnews/20230506/1880831.md">势必激怒北京！ 华府援台将首度出现“新模式”</a></li>
 <li><a href="/sohnews/20230506/1880804.md">世卫宣布解雇调查团长后，全球新冠紧急状态结束，加拿大拟驱逐中共外交官，中共称奉陪到底，拒握手中印关系难改善｜横河观点  2023.05.05</a></li>
-<li><a href="/cnnews/20230506/1880741.md">今年第2起…谷歌31岁软件工程师 曼哈顿总部跳楼亡</a></li>
-<li><a href="/sohnews/20230506/1881006.md">文睿：上海楼市变天，大踩踏，已经上路了</a></li>
+<li><a href="/sohnews/20230506/1881015.md">习近平复出!双边 多边 混乱外交惹恼普丁 目的为何? 为何中华文明可延续五千年?为何中国人很能忍?@democraticTaiwanChannel​</a></li>
+<li><a href="/headline/20230506/1881025.md">强制核酸检测卷土重来？ 东莞连续8天展开核酸检测引恐慌</a></li>
 <li><a href="/ssgc/20230506/1880775.md">韩正出席英王加冕典礼引争议 中国摆明让英国难堪？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230507/1881077.md" target="_blank">习近平财经委四头目现身 没有一人懂经济</a></li>
 <li><a href="/comments/20230506/1881054.md" target="_blank">卡尔森首次公开露面，抨击奥巴马。卡尔森与川普联手。德桑蒂斯突然力挺卡尔森。川普与德桑蒂斯组合的梦之队会实现吗？</a></li>
 <li><a href="/comments/20230506/1881036.md" target="_blank">《阿凡达》与《盗梦空间》背后深意很大！古印度国王做梦，意识进入另外空间，体验穿越时空的爱恋！｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20230506/1880935.md" target="_blank">江峰：五·一长假游客创新高，为何添丁不旺财，出游如出逃；马路种菜，公务员下乡，支农还是坑农？习近平治国精髓&#8212;-折腾！【江峰漫谈20230505第700期】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230504/1880274.md" target="_blank">习近平赞大学生“自找苦吃” 分析：不祥之兆</a></li>
 <li><a href="/comments/20230504/1880202.md" target="_blank">川普重返生意场，一次特殊的苏格兰行。一百年前的川普火车，预测川普未来？川普慈父心，再给一对新人送祝福。</a></li>
 <li><a href="/cbnews/20230504/1880201.md" target="_blank">美国思想领袖：中共的出境禁令，主要针对哪些中国人群？| #新闻大家谈</a></li>
-<li><a href="/comments/20230504/1880193.md" target="_blank">超心理学 第一夫人！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
 <li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 
 </ul>
 </div>
