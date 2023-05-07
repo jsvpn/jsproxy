@@ -12,8 +12,8 @@
 <li><a href="/topimagenews/20230507/1881247.md">世卫官宣 张文宏速发微博让人痛心</a></li>
 <li><a href="/baitai/20230507/1881106.md">中南海恐走出绝望一步 埋下政权祸根</a></li>
 <li><a href="/topimagenews/20230507/1881121.md">又一个玩金融的大佬落幕了</a></li>
-<li><a href="/topimagenews/20230507/1881270.md">吓出后遗症了！中共政治学习都不敢用A4纸了【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230507/1881219.md">〖兲朝浮世绘〗又拿百姓孩子开涮 习近平的孩子和后辈会去自找苦吃吗？</a></li>
+<li><a href="/topimagenews/20230507/1881270.md">吓出后遗症了！中共政治学习都不敢用A4纸了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230507/1881172.md">中国留学生论坛上说了句话 FBI找上门抓了他</a></li>
 <li><a href="/comments/20230507/1881116.md">钟原：习近平李强同日各主持会议 内容撞车</a></li>
 <li><a href="/topimagenews/20230507/1881088.md">美众院台海兵推内幕曝光 开战1周5万共军登陆 战争恐持续数年</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/cnnews/20230507/1881185.md">网传巴厘岛中国受害者高富帅炒币开劳斯莱斯</a></li>
 <li><a href="/lifebaike/20230507/1881293.md">原来手机隐藏了位置功能，只需发送一张图片，就能知道对方在哪里</a></li>
 <li><a href="/cnnews/20230507/1881148.md">被6所藤校全拒的女孩赴美一年 终于知道错哪了</a></li>
-<li><a href="/cbnews/20230507/1881109.md">江峰：毛宁又来搞笑了</a></li>
 <li><a href="/cbnews/20230507/1881271.md">“南京女大生命案”嫌犯执行死刑 家属痛哭</a></li>
+<li><a href="/cbnews/20230507/1881109.md">江峰：毛宁又来搞笑了</a></li>
 <li><a href="/ssgc/20230507/1881220.md">〖微博谈〗老大高兴，国民灾难</a></li>
-<li><a href="/sohnews/20230507/1881183.md">击落俄超音速导弹，北京震惊了；俄军全线溃败？撤离乌东南场面惊人；乌加紧乌东小城，俄军力严重弱化；俄痛骂中共邪恶，威胁公布百年历史【新闻看点 李沐阳5.6】</a></li>
+<li><a href="/ssgc/20230507/1881312.md">中国显然太小看岸田文雄了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230508/1881369.md" target="_blank">江峰：《文心一言》要进党中央啦</a></li>
 <li><a href="/comments/20230507/1881344.md" target="_blank">打破太太的怪梦！</a></li>
 <li><a href="/cbnews/20230507/1881314.md" target="_blank">江峰：孩子要反党，警察才帮忙</a></li>
 <li><a href="/cbnews/20230507/1881271.md" target="_blank">“南京女大生命案”嫌犯执行死刑 家属痛哭</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230505/1880437.md" target="_blank">华府让步 美中达协议 中国飞美班机增加即起生效</a></li>
 <li><a href="/cbnews/20230505/1880431.md" target="_blank">美国思想领袖：李强苦求外资，习近平狠心拆台！加强版《反间谍法》有多可怕？| #新闻大家谈</a></li>
 <li><a href="/comments/20230505/1880382.md" target="_blank">神奇的预知梦！</a></li>
-<li><a href="/comments/20230505/1880380.md" target="_blank">专访维权律师钟锦化：惊险逃出中国！亲历海外中共长臂，被亲共侨团开除；从法官到律师，目睹中国底层民众的绝望｜#方菲时间 05/04/2023</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
 <li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
 
 </ul>
 </div>
