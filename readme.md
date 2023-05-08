@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230507/1881270.md">吓出后遗症了！中共政治学习都不敢用A4纸了【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230507/1881277.md">巴厘岛命案最新细节披露 女死者胃部有大量液体</a></li>
 <li><a href="/lifebaike/20230507/1881293.md">原来手机隐藏了位置功能，只需发送一张图片，就能知道对方在哪里</a></li>
-<li><a href="/ssgc/20230507/1881312.md">中国显然太小看岸田文雄了</a></li>
 <li><a href="/cnnews/20230508/1881459.md">孟晚舟老公前妻曝光，网友惊了</a></li>
+<li><a href="/ssgc/20230507/1881312.md">中国显然太小看岸田文雄了</a></li>
 <li><a href="/topimagenews/20230508/1881460.md">中央空降书记？东窗事发…</a></li>
-<li><a href="/cbnews/20230507/1881271.md">“南京女大生命案”嫌犯执行死刑 家属痛哭</a></li>
-<li><a href="/cbnews/20230508/1881400.md">〖兲朝浮世绘〗让弱者哭出声的人也哭不出声了</a></li>
+<li><a href="/topimagenews/20230508/1881496.md">接班人是他？习近平道破玄机【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230508/1881362.md">米兔又一例：洁白的手术室 满屋的黄段子</a></li>
+<li><a href="/cbnews/20230508/1881400.md">〖兲朝浮世绘〗让弱者哭出声的人也哭不出声了</a></li>
 <li><a href="/sohnews/20230507/1881304.md">陈破空：新版反间谍法有多厉害？留学生不敢回国了。外资加速撤离了。中国经济就靠地摊了。扎波罗热一景：俄国人大溃逃。直播与互动。美东5月7日早8点30、即中港台5月7日晚8点30</a></li>
 <li><a href="/lifebaike/20230507/1881287.md">家门口出现这种特殊“记号”，记得要擦掉，很多人还不懂，赶紧学</a></li>
-<li><a href="/topimagenews/20230508/1881496.md">接班人是他？习近平道破玄机【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230508/1881382.md">哈尔滨收入还不到支出的零头 地方财政恶化</a></li>
 <li><a href="/cnnews/20230508/1881408.md">俄军突然从乌克兰南部撤军，要大溃败了吗？</a></li>
-<li><a href="/cnnews/20230507/1881275.md">江苏昆山两楼盘“恶意降价”造成社会不稳定遭罚</a></li>
 <li><a href="/comments/20230508/1881399.md">查尔斯国王三世加冕礼。吉尔·拜登坐在最后一排。典礼上惊现死神？哈里王子肢体与唇动，泄密自己的内心世界，他为何落到这般地步？</a></li>
 <li><a href="/sohnews/20230508/1881426.md">陈破空：西安大阵仗！有人要行刺习近平？钟南山铜像突被打包，他出事了！卢沙野终于接调令回国，他会挨几个大嘴巴？</a></li>
-<li><a href="/sohnews/20230508/1881385.md">败退开始？普京宣布从乌克兰18个占领区｜ #时事金扫描 #金然</a></li>
 <li><a href="/lishi/20230508/1881418.md">从小妾到省长夫人</a></li>
 <li><a href="/topimagenews/20230508/1881375.md">泄密文件再度引发对普京健康猜测</a></li>
 <li><a href="/weiquan/20230507/1881343.md">遭中共当局以&#8220;间谍罪&#8221;正式逮捕的&#12298;光明日报&#12299;评论部副主任董郁玉的案情及简历</a></li>
+<li><a href="/sohnews/20230508/1881385.md">败退开始？普京宣布从乌克兰18个占领区｜ #时事金扫描 #金然</a></li>
+<li><a href="/headline/20230507/1881308.md">【财政爆煲】哈尔滨等多省市财政恶化 预算入不敷出</a></li>
+<li><a href="/topimagenews/20230508/1881523.md">【微博精粹】不给别人活路 自己死了</a></li>
 <li><a href="/lifebaike/20230508/1881427.md">手机中有一个特别耗电的功能，半天耗费1半的电量，一定要记得关掉</a></li>
 <li><a href="/ssgc/20230507/1881316.md">删除尸体火化数据与销毁人口变动统计表</a></li>
+<li><a href="/topimagenews/20230508/1881461.md">突发：粉色梳子里藏匕首，美华裔议员遭袭击</a></li>
+<li><a href="/cnnews/20230507/1881297.md">iPhone旧机收购价格调整 6款机型调涨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
 <li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 <li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
 
 </ul>
 </div>
