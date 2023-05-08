@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/ssgc/20230507/1881312.md">中国显然太小看岸田文雄了</a></li>
 <li><a href="/cnnews/20230508/1881459.md">孟晚舟老公前妻曝光，网友惊了</a></li>
 <li><a href="/topimagenews/20230508/1881460.md">中央空降书记？东窗事发…</a></li>
 <li><a href="/topimagenews/20230508/1881496.md">接班人是他？习近平道破玄机【阿波罗网报道】</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/cbnews/20230508/1881400.md">〖兲朝浮世绘〗让弱者哭出声的人也哭不出声了</a></li>
 <li><a href="/topimagenews/20230508/1881523.md">【微博精粹】不给别人活路 自己死了</a></li>
 <li><a href="/ssgc/20230508/1881382.md">哈尔滨收入还不到支出的零头 地方财政恶化</a></li>
+<li><a href="/cnnews/20230508/1881534.md">咋舌：教育局长包养2校长染指18学生睡103女教师</a></li>
 <li><a href="/cnnews/20230508/1881408.md">俄军突然从乌克兰南部撤军，要大溃败了吗？</a></li>
 <li><a href="/topimagenews/20230508/1881506.md">这次更狠！中共重大举措</a></li>
 <li><a href="/comments/20230508/1881399.md">查尔斯国王三世加冕礼。吉尔·拜登坐在最后一排。典礼上惊现死神？哈里王子肢体与唇动，泄密自己的内心世界，他为何落到这般地步？</a></li>
 <li><a href="/weiquan/20230507/1881343.md">遭中共当局以&#8220;间谍罪&#8221;正式逮捕的&#12298;光明日报&#12299;评论部副主任董郁玉的案情及简历</a></li>
-<li><a href="/cnnews/20230508/1881534.md">咋舌：教育局长包养2校长染指18学生睡103女教师</a></li>
 <li><a href="/lishi/20230508/1881418.md">从小妾到省长夫人</a></li>
-<li><a href="/sohnews/20230508/1881426.md">陈破空：西安大阵仗！有人要行刺习近平？钟南山铜像突被打包，他出事了！卢沙野终于接调令回国，他会挨几个大嘴巴？</a></li>
 <li><a href="/topimagenews/20230508/1881375.md">泄密文件再度引发对普京健康猜测</a></li>
+<li><a href="/sohnews/20230508/1881426.md">陈破空：西安大阵仗！有人要行刺习近平？钟南山铜像突被打包，他出事了！卢沙野终于接调令回国，他会挨几个大嘴巴？</a></li>
 <li><a href="/sohnews/20230508/1881385.md">败退开始？普京宣布从乌克兰18个占领区｜ #时事金扫描 #金然</a></li>
 <li><a href="/lifebaike/20230508/1881427.md">手机中有一个特别耗电的功能，半天耗费1半的电量，一定要记得关掉</a></li>
-<li><a href="/headline/20230507/1881308.md">【财政爆煲】哈尔滨等多省市财政恶化 预算入不敷出</a></li>
 <li><a href="/ssgc/20230507/1881316.md">删除尸体火化数据与销毁人口变动统计表</a></li>
 <li><a href="/topimagenews/20230508/1881461.md">突发：粉色梳子里藏匕首，美华裔议员遭袭击</a></li>
-<li><a href="/headline/20230507/1881307.md">韩国驻华使馆罕见致函中国官媒环时 抗议低俗语言恶评尹锡悦访美</a></li>
 <li><a href="/baitai/20230507/1881319.md">习近平强调党管经济 中共2大危机躲不过</a></li>
+<li><a href="/ssgc/20230508/1881503.md">〖微博谈〗终点又回到了起点</a></li>
+<li><a href="/comments/20230508/1881522.md">俞敏洪又没管住自己的嘴！泄露党国经济困境，996公司是垃圾引发讨论：上山下乡自找苦吃是啥？</a></li>
+<li><a href="/headline/20230508/1881412.md">纽时：为什么中国互联网上“没有穷人”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
 <li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
 <li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 
 </ul>
 </div>
