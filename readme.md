@@ -24,8 +24,8 @@
 <li><a href="/cnnews/20230509/1881918.md">惊悚! 汶川往九寨沟要道出事了…</a></li>
 <li><a href="/topimagenews/20230509/1882000.md">快讯！中共恼羞成怒，对其外交部被驱逐做出反应【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230509/1881959.md">〖微博谈〗这是迟来的觉醒</a></li>
-<li><a href="/funmedia/20230509/1881908.md">一个人越来越厉害的定律：蒲公英定律</a></li>
 <li><a href="/ssgc/20230509/1882022.md">广东省纪委要求公务员微信群备案 朋友圈禁止七类负面言论</a></li>
+<li><a href="/funmedia/20230509/1881908.md">一个人越来越厉害的定律：蒲公英定律</a></li>
 <li><a href="/sohnews/20230509/1882066.md">刘少奇妻子王光美，被关秦城监狱12年。和毛泽东走太近，江青打翻醋坛，伺机报仇？｜ #百年真相</a></li>
 <li><a href="/baitai/20230509/1882065.md">中加互相驱赶外交官 路透社用一句话点评</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230510/1882277.md" target="_blank">横河：加拿大忍无可忍反击中共霸凌！习治下外交思路有2个重大失误 ｜新闻烽火台 05/09</a></li>
 <li><a href="/cbnews/20230510/1882239.md" target="_blank">北京又要炸！加国即将公开一份“黑名单”</a></li>
 <li><a href="/cbnews/20230510/1882238.md" target="_blank">一带一路要垮？中共与低收入国家互不相让</a></li>
 <li><a href="/comments/20230510/1882209.md" target="_blank">卡尔森一级战备，反击福克斯，与马斯克合作，创建自己的媒体帝国。拜登政府将于5月11日结束第42条，对美国意味着什么？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230508/1881557.md" target="_blank">哈市承重墙事件根源：“让别人出头”的群体自私</a></li>
 <li><a href="/cbnews/20230508/1881556.md" target="_blank">疫情指定隔离酒店倒塌曝“淫窟”：数十官员涉案</a></li>
 <li><a href="/cbnews/20230508/1881547.md" target="_blank">初中生与老师打架 教师丈夫持螺丝刀刺学生眼球</a></li>
-<li><a href="/cbnews/20230508/1881478.md" target="_blank">承重墙事件更新：裂到21层，200住户无家可归</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230510/1882277.md" target="_blank">横河：加拿大忍无可忍反击中共霸凌！习治下外交思路有2个重大失误 ｜新闻烽火台 05/09</a></li>
 <li><a href="/comments/20230510/1882275.md" target="_blank">互相举报成党国校规！文革2.0来了</a></li>
 <li><a href="/comments/20230510/1882209.md" target="_blank">卡尔森一级战备，反击福克斯，与马斯克合作，创建自己的媒体帝国。拜登政府将于5月11日结束第42条，对美国意味着什么？</a></li>
 <li><a href="/comments/20230509/1882177.md" target="_blank">时事大家谈：秦刚会见美国驻华大使要求美方“深刻反思错误”，哪来的底气？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230509/1881923.md" target="_blank">天亮时分：加拿大驱逐中共外交官，中共仍然嘴硬；乌克兰大反攻已箭在弦上；高铁被掌掴女孩的不和解，报怨以德还是以直报怨？（政论天下第1006集 20230508）</a></li>
 <li><a href="/comments/20230509/1881917.md" target="_blank">【微博精粹】克里姆林宫：中共充满邪恶 会公布黄俄百年肮脏史</a></li>
 <li><a href="/comments/20230509/1881865.md" target="_blank">车臣军团替下瓦格纳？巴赫穆特是个毒饵</a></li>
-<li><a href="/comments/20230509/1881852.md" target="_blank">谢田：左派大政府政策导致美国债务飙升；两党必然达成妥协，否则债务违约后果极其严重！｜新闻烽火台 05/08</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
 
 </ul>
 </div>
