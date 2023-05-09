@@ -20,8 +20,8 @@
 <li><a href="/cnnews/20230508/1881627.md">背后水很深!中共部级“老虎”朱丛玖为这事落马</a></li>
 <li><a href="/topimagenews/20230508/1881601.md">乌克兰防空系统基辅全歼击落35架“见证者”…</a></li>
 <li><a href="/topimagenews/20230509/1881832.md">北京再发混乱信号 德财长访华为何突遭取消</a></li>
-<li><a href="/cnnews/20230509/1881804.md">突发！加拿大宣布驱逐一名中共外交官</a></li>
 <li><a href="/topimagenews/20230509/1881902.md">脱北新娘价码曝光 她们逃出朝鲜却在中国沦性奴</a></li>
+<li><a href="/cnnews/20230509/1881804.md">突发！加拿大宣布驱逐一名中共外交官</a></li>
 <li><a href="/topimagenews/20230509/1881786.md">烈豹咆哮：乌军举行反攻誓师大会 战神点燃火焰</a></li>
 <li><a href="/cbnews/20230509/1881760.md">中国新冠又爆发? 五一过后“全国都在咽喉炎”登热搜 多地重启核酸检测</a></li>
 <li><a href="/topimagenews/20230509/1881784.md">网友提了一个问题，胡锡进急了</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230509/1882002.md" target="_blank">被修理？传卢沙野被召回国述职</a></li>
+<li><a href="/cbnews/20230509/1882001.md" target="_blank">扯！中国老师、学生遭黑人性骚 校长竟回…</a></li>
 <li><a href="/cbnews/20230509/1881979.md" target="_blank">拆墙害整栋变危楼 矢板明夫：似习政权倒行逆施拆掉中国经济承重墙</a></li>
 <li><a href="/cbnews/20230509/1881966.md" target="_blank">江峰：加拿大驱逐威胁国会议员的中共领事赵伟&#8211;引发互逐外交官？卢沙野异常回国述职，嘉奖还是耳光？李亚鹏的田园博主生涯结束？“自家院子不是自留地”背後的私有领域与公权力的博弈【20230508第701期】</a></li>
 <li><a href="/cbnews/20230509/1881936.md" target="_blank">〖兲朝浮世绘〗形成当今被围殴的局面 习总功不可没</a></li>
@@ -58,14 +60,13 @@
 <li><a href="/cbnews/20230508/1881469.md" target="_blank">50万俄军有2大优势！乌防长：反攻或让人失望</a></li>
 <li><a href="/cbnews/20230508/1881439.md" target="_blank">宣传品？中共航母仍处训练模式：投至远洋还早</a></li>
 <li><a href="/cbnews/20230508/1881438.md" target="_blank">承重墙被拆事件：裂痕增多，竟有业主回大楼居住</a></li>
-<li><a href="/comments/20230508/1881414.md" target="_blank">梦会女巫！</a></li>
-<li><a href="/cbnews/20230508/1881400.md" target="_blank">〖兲朝浮世绘〗让弱者哭出声的人也哭不出声了</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230509/1882000.md" target="_blank">快讯！中共恼羞成怒，对其外交部被驱逐做出反应【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230509/1881992.md" target="_blank">2600万存款“吃完饭剩3千”中国富翁变成穷光蛋 他投诉银行冷回：正常消费</a></li>
 <li><a href="/topimagenews/20230509/1881987.md" target="_blank">驳“台独就是挑衅” 老曹千字长文“给郭董公开信”论“我不独，他必武”</a></li>
 <li><a href="/topimagenews/20230509/1881986.md" target="_blank">外交官遭驱逐！中共气炸报复：要求加拿大外交官“4天内离境”</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230508/1881632.md" target="_blank">捷克总统爆料:乌克兰正在准备9机械化旅7万军兵反攻…</a></li>
 <li><a href="/topimagenews/20230508/1881631.md" target="_blank">利润巨大！专家:俄罗斯的弹道导弹预警系统 几乎毫无用处</a></li>
 <li><a href="/topimagenews/20230508/1881626.md" target="_blank">钳子敲牙又电刑！俄军虐囚铁证曝…</a></li>
-<li><a href="/topimagenews/20230508/1881625.md" target="_blank">李强隐身了?学者:未来中共政治的常态</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230509/1881998.md" target="_blank">宋国诚专栏：俄罗斯必将败于西方最后大决战──我对未来世局的五点看法</a></li>
 <li><a href="/comments/20230509/1881923.md" target="_blank">天亮时分：加拿大驱逐中共外交官，中共仍然嘴硬；乌克兰大反攻已箭在弦上；高铁被掌掴女孩的不和解，报怨以德还是以直报怨？（政论天下第1006集 20230508）</a></li>
 <li><a href="/comments/20230509/1881917.md" target="_blank">【微博精粹】克里姆林宫：中共充满邪恶 会公布黄俄百年肮脏史</a></li>
 <li><a href="/comments/20230509/1881865.md" target="_blank">车臣军团替下瓦格纳？巴赫穆特是个毒饵</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230508/1881555.md" target="_blank">【独家重磅】李燕铭：习近平清洗江泽民家族小金库内幕揭秘 上海银行原董事长落马副行长被举报 上海银行被巨额罚款丢失“城商行老二”座椅 江泽民家族操控上海金融界 江绵恒通过复旦帮马仔掌管上海银行 黑幕曝光 江泽民死江家族被清洗（十二） 习近平连任后大清洗（二三） 习近平清洗江泽民老巢（三二） 习江钱袋子争夺战（三九） 习近平决战江曾（八六）</a></li>
 <li><a href="/comments/20230508/1881522.md" target="_blank">俞敏洪又没管住自己的嘴！泄露党国经济困境，996公司是垃圾引发讨论：上山下乡自找苦吃是啥？</a></li>
 <li><a href="/comments/20230508/1881500.md" target="_blank">杜政：习近平最信任的权臣，手握三大帮</a></li>
-<li><a href="/comments/20230508/1881499.md" target="_blank">何与怀：尹锡悦看了中国的这部“邪作”，会作何感想</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
 
 </ul>
 </div>
