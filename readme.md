@@ -12,8 +12,8 @@
 <li><a href="/yule/20230510/1882361.md">范冰冰终极素颜照流出 数万网友全看傻</a></li>
 <li><a href="/cnnews/20230510/1882473.md">最准分析师：中国经济下坠速度超乎多数人想像</a></li>
 <li><a href="/lifebaike/20230510/1882270.md">毛泽东的上海行宫──西郊宾馆</a></li>
-<li><a href="/cnnews/20230510/1882231.md">中国旅游文宣负责人是正妹 乡民忧她被潜规则</a></li>
 <li><a href="/lifebaike/20230510/1882338.md">充一次电能跑4000公里？韩国取得革命性突破</a></li>
+<li><a href="/cnnews/20230510/1882231.md">中国旅游文宣负责人是正妹 乡民忧她被潜规则</a></li>
 <li><a href="/health/20230510/1882307.md">男性152-188cm标准体重表已公布，若你“达标”，说明你不算胖</a></li>
 <li><a href="/topimagenews/20230510/1882298.md">谷爱凌获大奖 INS发文悄悄删除“中国”一词</a></li>
 <li><a href="/topimagenews/20230510/1882532.md">中国债务风暴来临 各位请做好准备！就业形势有多难？星巴克几乎被失业中年男女占领</a></li>
@@ -23,9 +23,9 @@
 <li><a href="/yule/20230510/1882409.md">背景通天的5位女星，她们最不怕的就是潜规则</a></li>
 <li><a href="/ssgc/20230510/1882320.md">〖微博谈〗什么是中国速度？</a></li>
 <li><a href="/topimagenews/20230510/1882520.md">“战败”！莫斯科教授：俄国各界现在频繁提起的禁忌话题</a></li>
+<li><a href="/ccpdope/20230510/1882541.md">吴仪: 这就是共产党统治的国家</a></li>
 <li><a href="/health/20230510/1882476.md">不生大病的人，一般都有这几个共性！第一条很多人都做不到</a></li>
 <li><a href="/topimagenews/20230510/1882462.md">中国大妈吃喜宴“扫盘打包” 桌上被清空…</a></li>
-<li><a href="/ccpdope/20230510/1882541.md">吴仪: 这就是共产党统治的国家</a></li>
 <li><a href="/yule/20230510/1882395.md">李亚鹏忍痛割爱出售天价石头，原价4亿预卖3亿…</a></li>
 <li><a href="/cnnews/20230510/1882446.md">报复遭陷害入狱 山西一男子血洗村长全家</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230511/1882636.md" target="_blank">美国思想领袖：超大幅度领先 诉讼案助川普竞选？党内优势不断增加！ | #新闻大家谈</a></li>
 <li><a href="/cbnews/20230510/1882559.md" target="_blank">讨债集团老大“竟是女研究生”！落网时还在写毕业论文</a></li>
 <li><a href="/comments/20230510/1882557.md" target="_blank">卡尔森突发视频，宣布两个重大决定。马斯克回帖有讲究。川普遭遇最黑暗的一天，离奇案件被判500万美元罚金。</a></li>
 <li><a href="/comments/20230510/1882556.md" target="_blank">显微镜下的真实世界！微生物打破进化论，层层都是漏洞。被科学界捧上天的生命共同祖先，根本不存在？！｜ #未解之谜 扶摇</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230508/1881679.md" target="_blank">邓丽君是段子高手。幽默歌迷和朋友，毫不手软。爱玩摇滚，乖乖女的另一面。一个名副其实的百变“邦德女郎”，悲悯孝顺。</a></li>
 <li><a href="/cbnews/20230508/1881672.md" target="_blank">美国思想领袖：强强联合！卡尔森助选川普，被逼上梁山？最受欢迎的人，却总是最受打击？德桑蒂斯面临追赶游戏；美国民心逆反，2024成护国之战 | #新闻大家谈</a></li>
 <li><a href="/cbnews/20230508/1881651.md" target="_blank">江峰：出游变出逃，添丁不旺财</a></li>
-<li><a href="/comments/20230508/1881639.md" target="_blank">西方共享梦研究！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
 <li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
 
 </ul>
 </div>
