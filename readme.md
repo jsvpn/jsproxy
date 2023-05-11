@@ -10,24 +10,24 @@
 <li><a href="/ccpdope/20230510/1882541.md">吴仪: 这就是共产党统治的国家</a></li>
 <li><a href="/cnnews/20230510/1882470.md">广东透露大秘密！中共最怕的是这个...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230511/1882714.md">性贿赂新加坡移民厅官员后，中国女子跳楼自杀</a></li>
-<li><a href="/topimagenews/20230510/1882520.md">“战败”！莫斯科教授：俄国各界现在频繁提起的禁忌话题</a></li>
 <li><a href="/cbnews/20230511/1882752.md">〖兲朝浮世绘〗意见终于统一了，雄安又要大干快上了</a></li>
+<li><a href="/topimagenews/20230510/1882520.md">“战败”！莫斯科教授：俄国各界现在频繁提起的禁忌话题</a></li>
 <li><a href="/health/20230510/1882476.md">不生大病的人，一般都有这几个共性！第一条很多人都做不到</a></li>
 <li><a href="/cnnews/20230511/1882698.md">诺奖得主拒回河南老家 父亲大跃进时饿死</a></li>
 <li><a href="/sohnews/20230511/1882637.md">银行大地震，多地银保监局长急进京；力抗中共，美国在太平洋区设立使馆；豪言被打脸，深圳人口首次出现负增长；千万豪宅不再豪，打7折也无人问津。</a></li>
-<li><a href="/finance/20230510/1882624.md">人民币为何又跌到逼近7？</a></li>
-<li><a href="/topimagenews/20230510/1882462.md">中国大妈吃喜宴“扫盘打包” 桌上被清空…</a></li>
 <li><a href="/sohnews/20230511/1882812.md">钟南山被“双开”？4000亿被冻结？最悲观的预测，中国经济会多糟？花光积蓄住帐篷，29岁他彻底躺平【新闻看点 李沐阳5.9】</a></li>
+<li><a href="/finance/20230510/1882624.md">人民币为何又跌到逼近7？</a></li>
+<li><a href="/cnnews/20230511/1882726.md">绿卡吹了！拜登颁布重磅移民法规</a></li>
 <li><a href="/baitai/20230511/1882654.md">加拿大打响第一枪 小粉红出征 言论震惊网络</a></li>
 <li><a href="/cnnews/20230511/1882674.md">一年半前人间蒸发的科技CEO，尸体找到了…</a></li>
-<li><a href="/cnnews/20230511/1882726.md">绿卡吹了！拜登颁布重磅移民法规</a></li>
 <li><a href="/headline/20230510/1882468.md">秦刚出访欧洲为反美寻找机遇 出师不利与德外长在乌克兰问题上唱反调</a></li>
+<li><a href="/sohnews/20230511/1882756.md">陈破空：惊！习近平要把弟弟搞成接班人？恐与彭丽媛争位。李鹏之子乱升官。陈希赖着不走。这些人连中央委员都不是</a></li>
 <li><a href="/topimagenews/20230511/1882688.md">最新战况：乌军在巴赫穆特重创俄两支步兵旅，收复部分土地</a></li>
 <li><a href="/comments/20230510/1882546.md">中制无人机不能打中国？ 土耳其测试：靠近中国边境自动掉头</a></li>
-<li><a href="/sohnews/20230511/1882756.md">陈破空：惊！习近平要把弟弟搞成接班人？恐与彭丽媛争位。李鹏之子乱升官。陈希赖着不走。这些人连中央委员都不是</a></li>
 <li><a href="/topimagenews/20230511/1882715.md">在说谁？柬首相：有的国家十几亿人 不如我们强</a></li>
 <li><a href="/baitai/20230510/1882507.md">早上&quot;毁一天&quot;的8个习惯，这个最可怕</a></li>
 <li><a href="/topimagenews/20230510/1882545.md">美银行业崩溃中！他预告“比2008还惨”：拜登火上浇油</a></li>
+<li><a href="/cnnews/20230510/1882560.md">人生大翻转！失业男勇抓失控婴儿车救人 求职秒被录取</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230511/1882904.md" target="_blank">英王加冕，北京故意羞辱</a></li>
 <li><a href="/comments/20230511/1882856.md" target="_blank">党不许商品降价？大赞特斯拉4天2次涨价，狠批并制裁房地产公司降价售楼！马斯克策应习近平？</a></li>
 <li><a href="/comments/20230511/1882834.md" target="_blank">立此存照：如何因为一句话让404空间404</a></li>
 <li><a href="/comments/20230511/1882833.md" target="_blank">知乎问答：如何看待昆山房地产降价被通报事件？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230510/1882569.md" target="_blank">李鹏之子李小鹏接任中国交通部党组书记</a></li>
 <li><a href="/comments/20230510/1882557.md" target="_blank">卡尔森突发视频，宣布两个重大决定。马斯克回帖有讲究。川普遭遇最黑暗的一天，离奇案件被判500万美元罚金。</a></li>
 <li><a href="/comments/20230510/1882556.md" target="_blank">显微镜下的真实世界！微生物打破进化论，层层都是漏洞。被科学界捧上天的生命共同祖先，根本不存在？！｜ #未解之谜 扶摇</a></li>
-<li><a href="/comments/20230510/1882546.md" target="_blank">中制无人机不能打中国？ 土耳其测试：靠近中国边境自动掉头</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 <li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 
 </ul>
 </div>
