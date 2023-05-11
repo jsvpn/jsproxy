@@ -8,26 +8,26 @@
 <li><a href="/yule/20230510/1882361.md">范冰冰终极素颜照流出 数万网友全看傻</a></li>
 <li><a href="/cnnews/20230510/1882473.md">最准分析师：中国经济下坠速度超乎多数人想像</a></li>
 <li><a href="/lifebaike/20230510/1882338.md">充一次电能跑4000公里？韩国取得革命性突破</a></li>
-<li><a href="/health/20230510/1882307.md">男性152-188cm标准体重表已公布，若你“达标”，说明你不算胖</a></li>
 <li><a href="/topimagenews/20230510/1882532.md">中国债务风暴来临 各位请做好准备！就业形势有多难？星巴克几乎被失业中年男女占领</a></li>
 <li><a href="/lifebaike/20230510/1882393.md">后悔也晚了 曹德旺所言不虚</a></li>
 <li><a href="/cnnews/20230510/1882470.md">广东透露大秘密！中共最怕的是这个...【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20230510/1882541.md">吴仪: 这就是共产党统治的国家</a></li>
-<li><a href="/cbnews/20230510/1882415.md">江峰：西安警察入户如临大敌，究竟谁要加害习近平？中加两国交恶互逐外交官；红场阅兵普京悲凉，仅剩古董，坦克哪儿去了？【江峰漫谈20230509第702期】</a></li>
 <li><a href="/yule/20230510/1882409.md">背景通天的5位女星，她们最不怕的就是潜规则</a></li>
+<li><a href="/cbnews/20230510/1882415.md">江峰：西安警察入户如临大敌，究竟谁要加害习近平？中加两国交恶互逐外交官；红场阅兵普京悲凉，仅剩古董，坦克哪儿去了？【江峰漫谈20230509第702期】</a></li>
 <li><a href="/topimagenews/20230510/1882520.md">“战败”！莫斯科教授：俄国各界现在频繁提起的禁忌话题</a></li>
 <li><a href="/ssgc/20230510/1882320.md">〖微博谈〗什么是中国速度？</a></li>
 <li><a href="/topimagenews/20230510/1882462.md">中国大妈吃喜宴“扫盘打包” 桌上被清空…</a></li>
 <li><a href="/health/20230510/1882476.md">不生大病的人，一般都有这几个共性！第一条很多人都做不到</a></li>
 <li><a href="/yule/20230510/1882395.md">李亚鹏忍痛割爱出售天价石头，原价4亿预卖3亿…</a></li>
 <li><a href="/finance/20230510/1882624.md">人民币为何又跌到逼近7？</a></li>
+<li><a href="/sohnews/20230511/1882637.md">银行大地震，多地银保监局长急进京；力抗中共，美国在太平洋区设立使馆；豪言被打脸，深圳人口首次出现负增长；千万豪宅不再豪，打7折也无人问津。</a></li>
 <li><a href="/cnnews/20230510/1882446.md">报复遭陷害入狱 山西一男子血洗村长全家</a></li>
 <li><a href="/headline/20230510/1882468.md">秦刚出访欧洲为反美寻找机遇 出师不利与德外长在乌克兰问题上唱反调</a></li>
 <li><a href="/topimagenews/20230510/1882326.md">特斯拉员工餐火了 牛肉、水果全免费 不分等级</a></li>
 <li><a href="/comments/20230510/1882546.md">中制无人机不能打中国？ 土耳其测试：靠近中国边境自动掉头</a></li>
+<li><a href="/topimagenews/20230510/1882427.md">扣它S-400导弹报复！印度买俄罗斯军火常被“坑” 这次印度“坑”回3兆卢比…</a></li>
 <li><a href="/topimagenews/20230510/1882398.md">俄军“胜利日”临阵脱逃 瓦格纳头子批俄国政府无能、将领欺骗普丁</a></li>
 <li><a href="/topimagenews/20230510/1882345.md">这么美的女大生竟被活活骂死! 法院终于判了</a></li>
-<li><a href="/topimagenews/20230510/1882427.md">扣它S-400导弹报复！印度买俄罗斯军火常被“坑” 这次印度“坑”回3兆卢比…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230511/1882752.md" target="_blank">〖兲朝浮世绘〗意见终于统一了，雄安又要大干快上了</a></li>
 <li><a href="/cbnews/20230511/1882711.md" target="_blank">江峰：李亚鹏的菜园子怎麽了</a></li>
 <li><a href="/cbnews/20230511/1882656.md" target="_blank">王沪宁表态：这是2023年对台工作重点</a></li>
 <li><a href="/cbnews/20230511/1882636.md" target="_blank">美国思想领袖：超大幅度领先 诉讼案助川普竞选？党内优势不断增加！ | #新闻大家谈</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230509/1881801.md" target="_blank">表哥亲北京？温哥华首位华人市长再入风暴眼….</a></li>
 <li><a href="/cbnews/20230509/1881760.md" target="_blank">中国新冠又爆发? 五一过后“全国都在咽喉炎”登热搜 多地重启核酸检测</a></li>
 <li><a href="/cbnews/20230509/1881754.md" target="_blank">情侣游巴厘岛惨死！看正妹生前美照叹：跟错男红颜薄命</a></li>
-<li><a href="/comments/20230508/1881679.md" target="_blank">邓丽君是段子高手。幽默歌迷和朋友，毫不手软。爱玩摇滚，乖乖女的另一面。一个名副其实的百变“邦德女郎”，悲悯孝顺。</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230511/1882748.md" target="_blank">文昭：五月中旬起疫情反扑中国、核酸检测复活？中加互逐外交官大战，背後因由最完整解析</a></li>
 <li><a href="/comments/20230511/1882736.md" target="_blank">袁斌：教育局长染指百名女教师与小学校长贪2亿</a></li>
 <li><a href="/comments/20230511/1882735.md" target="_blank">乐尚嘉：无数被屠杀的人血浸润的血色大地</a></li>
 <li><a href="/comments/20230511/1882725.md" target="_blank">周晓辉：习会见五百海外华人 向世界释何信号</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230510/1882365.md" target="_blank">普京“胜利日”大阅兵：仅1辆老旧坦克亮相</a></li>
 <li><a href="/comments/20230510/1882363.md" target="_blank">天亮时分：中共驱逐加拿大外交官，俄罗斯和巴基斯坦出大事儿；川普被判罪，罚款500万美元；卡尔森联手推特，主流媒体地动山摇（政论天下第1007集 20230509）天亮时分</a></li>
 <li><a href="/comments/20230510/1882352.md" target="_blank">如松：这个泡沫一旦破裂 才是真正的天崩地裂</a></li>
-<li><a href="/comments/20230510/1882337.md" target="_blank">法媒：英国前首相特拉斯预告即将访问台湾</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 
 </ul>
 </div>
