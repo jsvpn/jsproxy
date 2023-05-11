@@ -5,14 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230511/1882714.md">性贿赂新加坡移民厅官员后，中国女子跳楼自杀</a></li>
 <li><a href="/sohnews/20230511/1882812.md">钟南山被“双开”？4000亿被冻结？最悲观的预测，中国经济会多糟？花光积蓄住帐篷，29岁他彻底躺平【新闻看点 李沐阳5.9】</a></li>
+<li><a href="/topimagenews/20230511/1882714.md">性贿赂新加坡移民厅官员后，中国女子跳楼自杀</a></li>
 <li><a href="/cbnews/20230511/1882752.md">〖兲朝浮世绘〗意见终于统一了，雄安又要大干快上了</a></li>
 <li><a href="/sohnews/20230511/1882637.md">银行大地震，多地银保监局长急进京；力抗中共，美国在太平洋区设立使馆；豪言被打脸，深圳人口首次出现负增长；千万豪宅不再豪，打7折也无人问津。</a></li>
 <li><a href="/cnnews/20230511/1882698.md">诺奖得主拒回河南老家 父亲大跃进时饿死</a></li>
+<li><a href="/topimagenews/20230511/1882916.md">习近平再被高级黑！一张“好图”胜千言！【阿波罗网报道】</a></li>
 <li><a href="/finance/20230510/1882624.md">人民币为何又跌到逼近7？</a></li>
 <li><a href="/cnnews/20230511/1882674.md">一年半前人间蒸发的科技CEO，尸体找到了…</a></li>
-<li><a href="/topimagenews/20230511/1882916.md">习近平再被高级黑！一张“好图”胜千言！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230511/1882756.md">陈破空：惊！习近平要把弟弟搞成接班人？恐与彭丽媛争位。李鹏之子乱升官。陈希赖着不走。这些人连中央委员都不是</a></li>
 <li><a href="/baitai/20230511/1882654.md">加拿大打响第一枪 小粉红出征 言论震惊网络</a></li>
 <li><a href="/cnnews/20230511/1882726.md">绿卡吹了！拜登颁布重磅移民法规</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/sohnews/20230511/1882822.md">习近平去雄安，泄露疫情机密；我们为何没选举？大陆人翻墙看台剧《人选之人》 激起自由魂；Chat GPT在中国惹事了，用户“寻衅滋事”被抓；中概股问题暴露了，美会计公司跟着倒霉</a></li>
 <li><a href="/topimagenews/20230511/1882715.md">在说谁？柬首相：有的国家十几亿人 不如我们强</a></li>
 <li><a href="/cbnews/20230511/1882656.md">王沪宁表态：这是2023年对台工作重点</a></li>
+<li><a href="/headline/20230511/1882960.md">习近平率团考察雄安总理李强罕见陪同 评论：为抢救已「烂尾」的形象工程</a></li>
 <li><a href="/cbnews/20230511/1882888.md">我儿子是博士！妈开“惊人1条件”找媳妇</a></li>
 <li><a href="/topimagenews/20230511/1882655.md">美菲合作，中媒慌神：一旦开战，中国航母难了…</a></li>
 <li><a href="/funmedia/20230511/1882806.md">老了，不管有钱没钱，这三个人能不见就别见了，代价太大</a></li>
 <li><a href="/cnnews/20230511/1882901.md">App偷听使用者讲话是真的！没开启也能偷录音 马斯克指“它”不可信…</a></li>
-<li><a href="/headline/20230511/1882960.md">习近平率团考察雄安总理李强罕见陪同 评论：为抢救已「烂尾」的形象工程</a></li>
-<li><a href="/ccpdope/20230511/1882730.md">习近平为何否定“储君”安排</a></li>
+<li><a href="/comments/20230511/1882780.md">天亮时分：大凶！普京检阅的坦克翻了；习近平视察雄安烂尾工程，畸形的个人崇拜；众院指控拜登家族受贿数百万美元，共和党议员被捕（政论天下第1008集 20230510）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230511/1883045.md" target="_blank">时事大家谈：中加互相驱逐外交官 特鲁多放话不怕报复；抓间谍运动 习近平着魔国家安全有何后果？</a></li>
 <li><a href="/comments/20230511/1883024.md" target="_blank">李燕铭：贵州云南官员接力逼宫中南海 广东纪委严查公务员微信群朋友圈 泄露官员反习暗潮汹涌 李希紧急喊话“捍卫核心” 中纪委警告政治团伙“总有一天会出事” 中南海政变与反政变（七四） 习近平连任与中共末日（127）</a></li>
 <li><a href="/comments/20230511/1883019.md" target="_blank">【杜耀明评论】讲立场不讲道理 求管控不求观瞻</a></li>
 <li><a href="/comments/20230511/1883018.md" target="_blank">【新闻拍案惊奇】双“习”临门！安保空前</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230511/1882821.md" target="_blank">真实故事计划：还在硬核防疫的人</a></li>
 <li><a href="/comments/20230511/1882820.md" target="_blank">网络民议：编程随想被捕两周年：关注义人智者勇士</a></li>
 <li><a href="/comments/20230511/1882819.md" target="_blank">王维洛：成都为什么拆绿还耕？</a></li>
-<li><a href="/comments/20230511/1882790.md" target="_blank">林保华：中国的政治移民与经济移民</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
 <li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 
 </ul>
 </div>
