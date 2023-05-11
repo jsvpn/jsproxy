@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/yule/20230510/1882361.md">范冰冰终极素颜照流出 数万网友全看傻</a></li>
 <li><a href="/cnnews/20230510/1882473.md">最准分析师：中国经济下坠速度超乎多数人想像</a></li>
 <li><a href="/topimagenews/20230510/1882532.md">中国债务风暴来临 各位请做好准备！就业形势有多难？星巴克几乎被失业中年男女占领</a></li>
 <li><a href="/lifebaike/20230510/1882393.md">后悔也晚了 曹德旺所言不虚</a></li>
@@ -14,8 +13,8 @@
 <li><a href="/ccpdope/20230510/1882541.md">吴仪: 这就是共产党统治的国家</a></li>
 <li><a href="/cbnews/20230510/1882415.md">江峰：西安警察入户如临大敌，究竟谁要加害习近平？中加两国交恶互逐外交官；红场阅兵普京悲凉，仅剩古董，坦克哪儿去了？【江峰漫谈20230509第702期】</a></li>
 <li><a href="/topimagenews/20230510/1882520.md">“战败”！莫斯科教授：俄国各界现在频繁提起的禁忌话题</a></li>
-<li><a href="/topimagenews/20230510/1882462.md">中国大妈吃喜宴“扫盘打包” 桌上被清空…</a></li>
 <li><a href="/sohnews/20230511/1882637.md">银行大地震，多地银保监局长急进京；力抗中共，美国在太平洋区设立使馆；豪言被打脸，深圳人口首次出现负增长；千万豪宅不再豪，打7折也无人问津。</a></li>
+<li><a href="/topimagenews/20230510/1882462.md">中国大妈吃喜宴“扫盘打包” 桌上被清空…</a></li>
 <li><a href="/health/20230510/1882476.md">不生大病的人，一般都有这几个共性！第一条很多人都做不到</a></li>
 <li><a href="/yule/20230510/1882395.md">李亚鹏忍痛割爱出售天价石头，原价4亿预卖3亿…</a></li>
 <li><a href="/finance/20230510/1882624.md">人民币为何又跌到逼近7？</a></li>
@@ -25,9 +24,10 @@
 <li><a href="/comments/20230510/1882546.md">中制无人机不能打中国？ 土耳其测试：靠近中国边境自动掉头</a></li>
 <li><a href="/topimagenews/20230510/1882427.md">扣它S-400导弹报复！印度买俄罗斯军火常被“坑” 这次印度“坑”回3兆卢比…</a></li>
 <li><a href="/topimagenews/20230510/1882398.md">俄军“胜利日”临阵脱逃 瓦格纳头子批俄国政府无能、将领欺骗普丁</a></li>
-<li><a href="/topimagenews/20230510/1882345.md">这么美的女大生竟被活活骂死! 法院终于判了</a></li>
 <li><a href="/baitai/20230510/1882507.md">早上&quot;毁一天&quot;的8个习惯，这个最可怕</a></li>
-<li><a href="/funmedia/20230510/1882349.md">请告诉您的孩子：尽量找这三种家庭结婚</a></li>
+<li><a href="/topimagenews/20230510/1882545.md">美银行业崩溃中！他预告“比2008还惨”：拜登火上浇油</a></li>
+<li><a href="/topimagenews/20230511/1882714.md">性贿赂新加坡移民厅官员后，中国女子跳楼自杀</a></li>
+<li><a href="/cnnews/20230510/1882560.md">人生大翻转！失业男勇抓失控婴儿车救人 求职秒被录取</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230511/1882790.md" target="_blank">林保华：中国的政治移民与经济移民</a></li>
+<li><a href="/comments/20230511/1882789.md" target="_blank">沈舟:莫斯科阅兵 T-34坦克形单影只露尴尬</a></li>
+<li><a href="/comments/20230511/1882780.md" target="_blank">天亮时分：大凶！普京检阅的坦克翻了；习近平视察雄安烂尾工程，畸形的个人崇拜；众院指控拜登家族受贿数百万美元，共和党议员被捕（政论天下第1008集 20230510）</a></li>
 <li><a href="/comments/20230511/1882748.md" target="_blank">文昭：五月中旬起疫情反扑中国、核酸检测复活？中加互逐外交官大战，背後因由最完整解析</a></li>
 <li><a href="/comments/20230511/1882736.md" target="_blank">袁斌：教育局长染指百名女教师与小学校长贪2亿</a></li>
 <li><a href="/comments/20230511/1882735.md" target="_blank">乐尚嘉：无数被屠杀的人血浸润的血色大地</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230510/1882380.md" target="_blank">神经现实：您的大脑可能是权力的受害者</a></li>
 <li><a href="/comments/20230510/1882379.md" target="_blank">宋国诚：世界局势扭转胜负已定 普京没有机会了</a></li>
 <li><a href="/comments/20230510/1882378.md" target="_blank">魏京生：台海危机的展望 做好打仗准备</a></li>
-<li><a href="/comments/20230510/1882365.md" target="_blank">普京“胜利日”大阅兵：仅1辆老旧坦克亮相</a></li>
-<li><a href="/comments/20230510/1882363.md" target="_blank">天亮时分：中共驱逐加拿大外交官，俄罗斯和巴基斯坦出大事儿；川普被判罪，罚款500万美元；卡尔森联手推特，主流媒体地动山摇（政论天下第1007集 20230509）天亮时分</a></li>
-<li><a href="/comments/20230510/1882352.md" target="_blank">如松：这个泡沫一旦破裂 才是真正的天崩地裂</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 <li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 
 </ul>
 </div>
