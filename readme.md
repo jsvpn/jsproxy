@@ -12,22 +12,22 @@
 <li><a href="/ssgc/20230511/1882851.md">〖微博谈〗比猴戏都不如</a></li>
 <li><a href="/sohnews/20230511/1882822.md">习近平去雄安，泄露疫情机密；我们为何没选举？大陆人翻墙看台剧《人选之人》 激起自由魂；Chat GPT在中国惹事了，用户“寻衅滋事”被抓；中概股问题暴露了，美会计公司跟着倒霉</a></li>
 <li><a href="/cbnews/20230511/1882888.md">我儿子是博士！妈开“惊人1条件”找媳妇</a></li>
-<li><a href="/funmedia/20230511/1882806.md">老了，不管有钱没钱，这三个人能不见就别见了，代价太大</a></li>
 <li><a href="/topimagenews/20230512/1883137.md">中共还要装无辜？ 加拿大国会再出手反击中共</a></li>
-<li><a href="/sohnews/20230512/1883104.md">突发！美国土安全部突袭1中企在2州工厂和办事处</a></li>
 <li><a href="/sohnews/20230511/1882966.md">陈破空：盛传钟南山遭双规！雕像、画像遭撤除。共军航母总指挥，贪腐52.8亿！意大利总理告知美方：退出一带一路。直播与互动。美东5月11日早8点30、即中港台5月11日晚8点30</a></li>
-<li><a href="/cnnews/20230511/1882901.md">App偷听使用者讲话是真的！没开启也能偷录音 马斯克指“它”不可信…</a></li>
-<li><a href="/sohnews/20230512/1883117.md">重磅突发！建行大量冻结银行卡，解冻繁琐惹民怨；澳贸易部长今访北京，施压中共剔除高关税；强强联手，美国两党欲联合彻查中共病毒；生死未卜，人权律师夫妇失踪近月。</a></li>
+<li><a href="/sohnews/20230512/1883104.md">突发！美国土安全部突袭1中企在2州工厂和办事处</a></li>
 <li><a href="/topimagenews/20230512/1883136.md">上海浦发银行大降薪 员工组织罢工</a></li>
+<li><a href="/sohnews/20230512/1883117.md">重磅突发！建行大量冻结银行卡，解冻繁琐惹民怨；澳贸易部长今访北京，施压中共剔除高关税；强强联手，美国两党欲联合彻查中共病毒；生死未卜，人权律师夫妇失踪近月。</a></li>
+<li><a href="/cnnews/20230511/1882901.md">App偷听使用者讲话是真的！没开启也能偷录音 马斯克指“它”不可信…</a></li>
 <li><a href="/comments/20230512/1883138.md">“挖呀挖”：中国全民低幼化背后的悲剧</a></li>
-<li><a href="/topimagenews/20230511/1882887.md">别再丢弹了!俄军被打到向乌克兰无人机投降…</a></li>
 <li><a href="/baitai/20230511/1882995.md">普京被羞辱 中共最怕的事正在发生</a></li>
-<li><a href="/cnnews/20230511/1882921.md">不会再有下一个蔡英文了</a></li>
+<li><a href="/topimagenews/20230511/1882887.md">别再丢弹了!俄军被打到向乌克兰无人机投降…</a></li>
 <li><a href="/comments/20230512/1883139.md">俄国阅兵没毛病 可央视专家的评论却翻车</a></li>
+<li><a href="/cnnews/20230511/1882921.md">不会再有下一个蔡英文了</a></li>
 <li><a href="/ssgc/20230511/1882907.md">三年疫情后重启雄安建设 习近平高调赴雄安欲注强心剂</a></li>
 <li><a href="/ssgc/20230511/1882996.md">习会见五百海外华人 向世界释何信号</a></li>
 <li><a href="/topimagenews/20230511/1882939.md">佩斯科夫为俄军“落跑”辩护：因为是特别行动 不是战争</a></li>
 <li><a href="/topimagenews/20230511/1882845.md">俄罗斯求生改抱人民币 智库学者揭灾难下场：自掘坟墓</a></li>
+<li><a href="/topimagenews/20230511/1882895.md">川普：我当选总统就与普丁见面解决冲突 会在24小时内结束乌俄战争</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 <li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 
 </ul>
 </div>
