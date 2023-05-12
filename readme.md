@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/yule/20230512/1883240.md">网友美国坐公交偶遇38岁凤姐 现状曝光</a></li>
-<li><a href="/cnnews/20230512/1883163.md">UCSD大瓜！中国毒虫女学生饿死私生子 跑路回国</a></li>
 <li><a href="/cnnews/20230512/1883280.md">看完俄罗斯阅兵和美帝阅兵，我沉默了</a></li>
 <li><a href="/cbnews/20230512/1883220.md">〖兲朝浮世绘〗金融业萧条 上海浦发银行员工因降薪而罢工</a></li>
 <li><a href="/topimagenews/20230512/1883341.md">人民日报整篇大造舆论，未来五年要...【阿波罗网报道】</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/comments/20230512/1883321.md">习近平访雄安惊现大凶兆！风水智囊使坏，保党龙脉沉入水底？普京败象尽显，军事政变浮现？</a></li>
 <li><a href="/topimagenews/20230512/1883386.md">绝密文件震惊业界！OPPO终止芯片自研业务！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230512/1883342.md">一个大号的朝鲜正在崛起</a></li>
-<li><a href="/comments/20230512/1883433.md">被政府刻意掩盖的惊人秘密。辉瑞新冠疫苗研究，竟然重点关注人类生殖！沃尔夫博士告诉你真相。</a></li>
 <li><a href="/sohnews/20230512/1883267.md">真相了 原来习在暗示这个</a></li>
+<li><a href="/comments/20230512/1883433.md">被政府刻意掩盖的惊人秘密。辉瑞新冠疫苗研究，竟然重点关注人类生殖！沃尔夫博士告诉你真相。</a></li>
 <li><a href="/cbnews/20230512/1883304.md">江峰：雄安烂尾？习近平称“完全正确”！折腾正式开始：驻京央企、金融机构、事业单位都要搬。曝雄安不宜人居内幕。“自讨苦吃”有何不妥？谈政府什麽锅不能甩。【江峰漫谈20230511第673期】</a></li>
 <li><a href="/baitai/20230512/1883393.md">警讯！中国电动车龙头惊爆破产 曾年销额破120亿 恐引发倒闭潮</a></li>
 <li><a href="/worldnews/20230512/1883357.md">2.5亿比特币没了？从巴厘岛命案到币圈第一悬案</a></li>
 <li><a href="/lifebaike/20230512/1883254.md">拔火罐后，吸出来的瘀血是毒素吗？医生说出真相，望周知</a></li>
 <li><a href="/comments/20230512/1883293.md">【微博精粹】两大危机向我们走来</a></li>
+<li><a href="/sohnews/20230512/1883365.md">四川省连续四震！习近平“领袖站姿”又火了；意大利团签停办？传400人旅游团集体“润”；共军巨贪“日日换新娘”；乌大反攻或已开始，俄军失500人，二战打法遭讽｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230512/1883460.md">一带一路要垮了！中共与低收入国家各不相让；中国这行要垮，需求“断崖式”下跌</a></li>
 <li><a href="/sohnews/20230512/1883286.md">习近平带三常委去雄安 全体戴口罩；疫情再起 钟南山雕像被尸布罩上；全国都在咽喉炎吗？上热搜 多地要求核酸检测；电视台女主持揭媒体惨象。｜ #时事金扫描 #金然</a></li>
-<li><a href="/sohnews/20230512/1883365.md">四川省连续四震！习近平“领袖站姿”又火了；意大利团签停办？传400人旅游团集体“润”；共军巨贪“日日换新娘”；乌大反攻或已开始，俄军失500人，二战打法遭讽｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/funmedia/20230512/1883284.md">澳大利亚野兔成灾，体重近百斤，为什么没人吃？当地人：吃不过</a></li>
 <li><a href="/baitai/20230512/1883309.md">口罩墨镜齐上！习近平考察雄安新区造型惹议</a></li>
 <li><a href="/topimagenews/20230512/1883329.md">乌军开始反包围巴赫穆特?俄记者称防线已被攻破 俄国防部半夜急否认</a></li>
+<li><a href="/ssgc/20230512/1883303.md">〖微博谈〗这话讲得够狠的</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
 <li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
 <li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
