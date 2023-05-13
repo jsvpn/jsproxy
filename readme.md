@@ -10,23 +10,23 @@
 <li><a href="/topimagenews/20230512/1883386.md">绝密文件震惊业界！OPPO终止芯片自研业务！【阿波罗网报道】</a></li>
 <li><a href="/comments/20230512/1883433.md">被政府刻意掩盖的惊人秘密。辉瑞新冠疫苗研究，竟然重点关注人类生殖！沃尔夫博士告诉你真相。</a></li>
 <li><a href="/topimagenews/20230513/1883587.md">这十天时间，人们记住了三个人的面相</a></li>
-<li><a href="/cbnews/20230513/1883613.md">汪文斌否认中国是发达国家 评论翻车</a></li>
 <li><a href="/baitai/20230512/1883393.md">警讯！中国电动车龙头惊爆破产 曾年销额破120亿 恐引发倒闭潮</a></li>
-<li><a href="/worldnews/20230512/1883357.md">2.5亿比特币没了？从巴厘岛命案到币圈第一悬案</a></li>
+<li><a href="/cbnews/20230513/1883613.md">汪文斌否认中国是发达国家 评论翻车</a></li>
 <li><a href="/topimagenews/20230513/1883669.md">大国艰难的日子来了？国企、机关都难逃</a></li>
 <li><a href="/sohnews/20230512/1883365.md">四川省连续四震！习近平“领袖站姿”又火了；意大利团签停办？传400人旅游团集体“润”；共军巨贪“日日换新娘”；乌大反攻或已开始，俄军失500人，二战打法遭讽｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230512/1883460.md">一带一路要垮了！中共与低收入国家各不相让；中国这行要垮，需求“断崖式”下跌</a></li>
 <li><a href="/topimagenews/20230513/1883585.md">习近平考察 3大将罕见随行 透露出这个信息</a></li>
 <li><a href="/baitai/20230512/1883448.md">上海大罢工 建行大规模冻结银行卡</a></li>
+<li><a href="/topimagenews/20230513/1883703.md">陆网突解禁？习当局罕见带风向 中南海自我打脸【阿波罗网报道】</a></li>
 <li><a href="/yule/20230513/1883657.md">李天一“润”了？84岁的李双江也该歇一歇了</a></li>
 <li><a href="/cnnews/20230513/1883593.md">奔驰BMW并非富人最喜欢的车？ 有钱人更爱这两品牌</a></li>
 <li><a href="/sohnews/20230512/1883525.md">🔥中共威胁在美华人：孩子美国出生 也是中国人；很意外 中共间谍气球事件反让拜登踩“急刹车”；白宫：沙利文、王毅就台湾、间谍气球、乌克兰等议题长谈</a></li>
 <li><a href="/cnnews/20230513/1883625.md">中共不能说的秘密毛泽东晚年最后一个靶子</a></li>
-<li><a href="/topimagenews/20230513/1883703.md">陆网突解禁？习当局罕见带风向 中南海自我打脸【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230512/1883452.md">习近平视察雄安为何戴着口罩？</a></li>
-<li><a href="/topimagenews/20230513/1883655.md">美国新法案限购升级！不允许中国人租房</a></li>
 <li><a href="/cbnews/20230512/1883461.md">疑云满布！舞蹈演员搭湖南K435列车 竟遭捅十数刀惨死</a></li>
+<li><a href="/topimagenews/20230513/1883655.md">美国新法案限购升级！不允许中国人租房</a></li>
 <li><a href="/sohnews/20230512/1883387.md">彻底活明白的中国年轻人⋯⋯</a></li>
+<li><a href="/lifebaike/20230512/1883470.md">第一批和父母旅游的 00 后 已经崩溃了</a></li>
 <li><a href="/cnnews/20230513/1883606.md">1小时1万美元！中国昔日高薪行业如今现状太惨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
 <li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 
 </ul>
 </div>
