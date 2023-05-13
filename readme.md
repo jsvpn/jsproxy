@@ -15,19 +15,19 @@
 <li><a href="/cnnews/20230513/1883625.md">中共不能说的秘密毛泽东晚年最后一个靶子</a></li>
 <li><a href="/cnnews/20230513/1883593.md">奔驰BMW并非富人最喜欢的车？ 有钱人更爱这两品牌</a></li>
 <li><a href="/lishi/20230513/1883714.md">隔代指定的皇位继承人，临到登基被换掉了</a></li>
+<li><a href="/cnnews/20230513/1883812.md">预计10年内取代iPhone！苹果6月传推“重磅新品” 惊人售价曝光</a></li>
 <li><a href="/topimagenews/20230513/1883655.md">美国新法案限购升级！不允许中国人租房</a></li>
 <li><a href="/cbnews/20230513/1883588.md">柳州惊现神秘“冥界之花” 千万不要摘</a></li>
 <li><a href="/cnnews/20230513/1883810.md">闹婚伴娘惨遭凌辱！新娘霸气：这个婚我不结了</a></li>
 <li><a href="/cnnews/20230513/1883606.md">1小时1万美元！中国昔日高薪行业如今现状太惨</a></li>
 <li><a href="/topimagenews/20230513/1883740.md">大内宣炒过头 中共急带风向自打脸：攻台不切实际、高喊武统是傻子</a></li>
-<li><a href="/cnnews/20230513/1883812.md">预计10年内取代iPhone！苹果6月传推“重磅新品” 惊人售价曝光</a></li>
-<li><a href="/comments/20230513/1883663.md">文昭：习近平逼迁452万人，锤爆北京房价；上海银行员工堵门罢工！北上广深哪个先垮？</a></li>
 <li><a href="/topimagenews/20230513/1883837.md">习近平去的这家单位 早在2018年就被美国盯上【阿波罗网报道】</a></li>
+<li><a href="/comments/20230513/1883663.md">文昭：习近平逼迁452万人，锤爆北京房价；上海银行员工堵门罢工！北上广深哪个先垮？</a></li>
 <li><a href="/baitai/20230513/1883724.md">中南海自打脸 风向突变来得太晚</a></li>
-<li><a href="/cnnews/20230513/1883743.md">网群轰：姜昆这姿势太难看了！【阿波罗网报道】</a></li>
 <li><a href="/finance/20230513/1883763.md">上海、深圳大幅下降？全国富裕地区都慌了</a></li>
+<li><a href="/cnnews/20230513/1883743.md">网群轰：姜昆这姿势太难看了！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230513/1883683.md">泰国最让人开眼的选美大赛，脑洞冲出三界之外</a></li>
-<li><a href="/topimagenews/20230513/1883761.md">普里格津痛批“溃逃”！乌军收复巴赫姆特 俄罗斯认了…</a></li>
+<li><a href="/topimagenews/20230513/1883739.md">吊炸天！4块石头换了8个亿</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230513/1883886.md" target="_blank">专访吴建民（下）：六四后被判10年；从学运领袖到成功商人；发小看到中央内部名单叫我快逃；从2014年一个事件判断习近平在走保党的路｜ #方菲时间 05/13/2023</a></li>
 <li><a href="/comments/20230513/1883870.md" target="_blank">历经千险，终到仙境门前，冰川神蹟乍现！他脑中一念，成惊人之举！香巴拉守护神现身领路，西藏秘境被结界保护着！｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20230513/1883830.md" target="_blank">5男冒充“白富美”专骗老外 ”从来不骗中国人“</a></li>
 <li><a href="/cbnews/20230513/1883829.md" target="_blank">接生过7万名婴儿 昔日中国最大民营妇产医院，暴雷了</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230512/1883305.md" target="_blank">习作何感想：岸田将登《时代》封面 中共军事扩张使日变回军事大国</a></li>
 <li><a href="/cbnews/20230512/1883304.md" target="_blank">江峰：雄安烂尾？习近平称“完全正确”！折腾正式开始：驻京央企、金融机构、事业单位都要搬。曝雄安不宜人居内幕。“自讨苦吃”有何不妥？谈政府什麽锅不能甩。【江峰漫谈20230511第673期】</a></li>
 <li><a href="/comments/20230512/1883299.md" target="_blank">人类的共同祖先 根本不存在？！｜#未解之谜 扶摇</a></li>
-<li><a href="/cbnews/20230512/1883220.md" target="_blank">〖兲朝浮世绘〗金融业萧条 上海浦发银行员工因降薪而罢工</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230513/1883886.md" target="_blank">专访吴建民（下）：六四后被判10年；从学运领袖到成功商人；发小看到中央内部名单叫我快逃；从2014年一个事件判断习近平在走保党的路｜ #方菲时间 05/13/2023</a></li>
 <li><a href="/comments/20230513/1883885.md" target="_blank">文昭：逼452万北京人迁入雄安，为何肯定徒劳无功？</a></li>
 <li><a href="/comments/20230513/1883870.md" target="_blank">历经千险，终到仙境门前，冰川神蹟乍现！他脑中一念，成惊人之举！香巴拉守护神现身领路，西藏秘境被结界保护着！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230513/1883772.md" target="_blank">中国人“润逃到美国，恐怖卖命过程曝光</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230512/1883536.md" target="_blank">时事大家谈：七国集团聚焦供应链多样化，找准了对抗中国的方向？</a></li>
 <li><a href="/comments/20230512/1883535.md" target="_blank">时事大家谈：四常委考察雄安，习近平的“宠物工程”结局会如何？</a></li>
 <li><a href="/comments/20230512/1883507.md" target="_blank">时事大家谈：四常委考察雄安，习近平的“宠物工程”结局会如何？七国集团聚焦供应链多样化，找准了对抗中国的方向？</a></li>
-<li><a href="/comments/20230512/1883441.md" target="_blank">真调停乌俄战争？中国派“俄国通”特使李辉李辉下周出访乌克兰</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 <li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
 
 </ul>
 </div>
