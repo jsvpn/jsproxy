@@ -5,14 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230513/1883703.md">陆网突解禁？习当局罕见带风向 中南海自我打脸【阿波罗网报道】</a></li>
 <li><a href="/lishi/20230513/1883714.md">隔代指定的皇位继承人，临到登基被换掉了</a></li>
 <li><a href="/sohnews/20230513/1883858.md">陈破空：习近平雄安讲话震惊中外！外媒重磅评述：阻碍中国发展的就是他。七国财长聚议围堵中共的经济策略。直播与互动。美东5月13日早8点30、即中港台5月13日晚8点30</a></li>
 <li><a href="/cnnews/20230513/1883812.md">预计10年内取代iPhone！苹果6月传推“重磅新品” 惊人售价曝光</a></li>
 <li><a href="/topimagenews/20230513/1883837.md">习近平去的这家单位 早在2018年就被美国盯上【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230513/1883810.md">闹婚伴娘惨遭凌辱！新娘霸气：这个婚我不结了</a></li>
-<li><a href="/sohnews/20230513/1883860.md">真相来了！外贸顺差爆长96.5%还能笑得出来吗？这种地方尽量少去！比经济崩盘更恐怖事情正在发生……</a></li>
 <li><a href="/finance/20230513/1883763.md">上海、深圳大幅下降？全国富裕地区都慌了</a></li>
+<li><a href="/sohnews/20230513/1883860.md">真相来了！外贸顺差爆长96.5%还能笑得出来吗？这种地方尽量少去！比经济崩盘更恐怖事情正在发生……</a></li>
 <li><a href="/baitai/20230513/1883874.md">俄军崩溃 英国重磅出击 中共急插手或已太晚？</a></li>
 <li><a href="/topimagenews/20230513/1883740.md">大内宣炒过头 中共急带风向自打脸：攻台不切实际、高喊武统是傻子</a></li>
 <li><a href="/cnnews/20230513/1883871.md">党媒摆不平 习近平为雄安工程辩护；经济复苏失去动力 中国新增贷款暴跌</a></li>
@@ -25,9 +24,10 @@
 <li><a href="/cbnews/20230513/1883829.md">接生过7万名婴儿 昔日中国最大民营妇产医院，暴雷了</a></li>
 <li><a href="/topimagenews/20230513/1883739.md">吊炸天！4块石头换了8个亿</a></li>
 <li><a href="/topimagenews/20230513/1883761.md">普里格津痛批“溃逃”！乌军收复巴赫姆特 俄罗斯认了…</a></li>
+<li><a href="/cnnews/20230514/1883936.md">震惊！巴西华侨赴洛杉矶出差 竟被遣返回中国</a></li>
 <li><a href="/cbnews/20230513/1883795.md">江峰：400温州人集体跳机偷渡，义大利使领馆停办团签，逃离中国难民潮启动？四面临敌，中共网络放风武统台湾的都是傻子，开始打脸习近平？【江峰漫谈20230512第674期】</a></li>
 <li><a href="/comments/20230513/1883772.md">中国人“润逃到美国，恐怖卖命过程曝光</a></li>
-<li><a href="/sohnews/20230513/1883853.md">文睿：突然一声惊雷，楼市，这次真要扛不住了</a></li>
+<li><a href="/comments/20230513/1883885.md">文昭：逼452万北京人迁入雄安，为何肯定徒劳无功？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 <li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 <li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
 
 </ul>
 </div>
