@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/baitai/20230514/1883951.md">上海深圳先后出事 全国人都慌了？</a></li>
 <li><a href="/sohnews/20230513/1883884.md">中国“航母之父”生活淫乱；“歼-20之父”贪腐倒台，辽宁舰提前回港；中共国防部长打假，“英雄”黄继光；小学课本中邱少云，让索尼中国躺枪。</a></li>
-<li><a href="/topimagenews/20230514/1884035.md">书记爱“多人运动”，把四川音乐学院变自家大院</a></li>
 <li><a href="/baitai/20230514/1883954.md">石穿云：习近平河北行 丁薛祥失宠原因曝光？</a></li>
+<li><a href="/topimagenews/20230514/1884035.md">书记爱“多人运动”，把四川音乐学院变自家大院</a></li>
 <li><a href="/cnnews/20230514/1883936.md">震惊！巴西华侨赴洛杉矶出差 竟被遣返回中国</a></li>
 <li><a href="/topimagenews/20230514/1884061.md">名嘴李承鹏自爆：撕心裂肺的骗局 生平第一次看到无数冤魂…</a></li>
 <li><a href="/topimagenews/20230514/1883945.md">中共外交官赵巍被驱逐离境 中加更大风暴正在酝酿....</a></li>
-<li><a href="/topimagenews/20230514/1883946.md">雷丁汽车破产 举报县委书记 创始人全家逃亡海外</a></li>
-<li><a href="/comments/20230514/1883949.md">黑龙江老人被夺地怒杀前副市长 获赞“为民除害”</a></li>
 <li><a href="/topimagenews/20230514/1884105.md">习近平又被砸场子！一盆凉水浇到底【阿波罗网报道】</a></li>
+<li><a href="/comments/20230514/1883949.md">黑龙江老人被夺地怒杀前副市长 获赞“为民除害”</a></li>
+<li><a href="/topimagenews/20230514/1883946.md">雷丁汽车破产 举报县委书记 创始人全家逃亡海外</a></li>
 <li><a href="/comments/20230513/1883885.md">文昭：逼452万北京人迁入雄安，为何肯定徒劳无功？</a></li>
 <li><a href="/topimagenews/20230514/1884079.md">爆火电视剧说破中国苦涩现实：以后都是东北</a></li>
 <li><a href="/topimagenews/20230514/1884026.md">普京后悔了？乌武装部队总司令放狠话</a></li>
 <li><a href="/sohnews/20230513/1883896.md">上层移民，下层偷渡！吹哨人亲眼看到字节跳动操控算法，温州团400人集体出逃，留学生回国清理手机，郭飞雄律师被重判（小木谈天第349 202305013）</a></li>
+<li><a href="/cbnews/20230514/1884099.md">除了炫耀，有何实际意义？大兴机场太先进，却是一把双刃剑</a></li>
 <li><a href="/headline/20230514/1883957.md">周末北京：中国为何不愿当发达国家 谁的心凉了？</a></li>
 <li><a href="/topimagenews/20230514/1883947.md">俄空军最遭一日：4架飞机坠毁 乌军奇袭？</a></li>
 <li><a href="/worldnews/20230514/1883935.md">中国妇向日本警哭跪求饶：我老人家你放过我吧</a></li>
 <li><a href="/topimagenews/20230514/1884049.md">习肆意妄为！G7首脑峰会，要给北京“拉清单”</a></li>
 <li><a href="/cnnews/20230514/1884080.md">中国“航母之父”受贿52亿，被曝“日日换新娘”</a></li>
 <li><a href="/topimagenews/20230514/1883958.md">热文：供销社、农管、退林还耕…能解决缺粮？</a></li>
-<li><a href="/cbnews/20230514/1884099.md">除了炫耀，有何实际意义？大兴机场太先进，却是一把双刃剑</a></li>
 <li><a href="/ssgc/20230514/1884060.md">〖微博谈〗这就是一个共焚的社会</a></li>
-<li><a href="/cbnews/20230514/1883991.md">挖呀挖正妹老师爆红！ “真实年龄”被挖出 网见童颜吓傻</a></li>
+<li><a href="/yule/20230514/1884057.md">张艺谋、奥巴马同现身毕业典礼，两人孩子是同学</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230514/1884146.md" target="_blank">Bob推荐：人生必须走一回的——澳洲国王岛（King Island）</a></li>
+<li><a href="/comments/20230514/1884145.md" target="_blank">【新闻拍案惊奇】沿途都是S体！中国人“走线”血泪多</a></li>
 <li><a href="/comments/20230514/1884133.md" target="_blank">长平：郭飞雄犯下的“和平言论罪”</a></li>
 <li><a href="/comments/20230514/1884073.md" target="_blank">中共央视黑嘴扬名 普京自己首先成功“去军事化” 了</a></li>
 <li><a href="/comments/20230514/1884051.md" target="_blank">墙内雄文:站在人民对面的组织注定失败</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230514/1883937.md" target="_blank">恒大深夜公告 许家印成被执行人 案涉60亿元</a></li>
 <li><a href="/comments/20230514/1883925.md" target="_blank">两中共外交官将成英雄 习将放出更多“卢沙野”</a></li>
 <li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20230513/1883886.md" target="_blank">专访吴建民（下）：六四后被判10年；从学运领袖到成功商人；发小看到中央内部名单叫我快逃；从2014年一个事件判断习近平在走保党的路｜ #方菲时间 05/13/2023</a></li>
-<li><a href="/comments/20230513/1883885.md" target="_blank">文昭：逼452万北京人迁入雄安，为何肯定徒劳无功？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
 
 </ul>
 </div>
