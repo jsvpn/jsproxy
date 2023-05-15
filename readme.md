@@ -11,15 +11,15 @@
 <li><a href="/topimagenews/20230515/1884294.md">【微博精粹】给习主席发诺贝尔和平奖 一个理由无人置疑</a></li>
 <li><a href="/sohnews/20230515/1884245.md">陈破空：习派不祥之兆，某政治局委员病重！上海罕见大罢工。李家立马撤资。泽伦斯基访欧，誓言击败普京。德国大手笔军援</a></li>
 <li><a href="/topimagenews/20230515/1884445.md">上海、深圳大幅下降？全国富裕地区都慌了；大国艰难日子来了？</a></li>
-<li><a href="/worldnews/20230515/1884371.md">乌克兰突发“大爆炸”</a></li>
 <li><a href="/topimagenews/20230515/1884462.md">惊悚灭门血案！英文教师疑孩遭凌辱 竟杀光村干部一家三口</a></li>
+<li><a href="/worldnews/20230515/1884371.md">乌克兰突发“大爆炸”</a></li>
 <li><a href="/cbnews/20230515/1884223.md">〖兲朝浮世绘〗中美软实力大比拼 看看谁更有魅力？</a></li>
 <li><a href="/sohnews/20230515/1884396.md">一个地标吓坏中共官员，它们随即被拆除⋯⋯</a></li>
 <li><a href="/topimagenews/20230515/1884362.md">持美护照男遭中共控“间谍”判“无期” G7峰会前测试美国反应？</a></li>
 <li><a href="/cnnews/20230515/1884279.md">美女厅官权色交易已被游街，那些睡了她的人呢？</a></li>
-<li><a href="/comments/20230515/1884227.md">天亮时分：字节跳动前高管：中共党委握有死亡开关，几大罪状连环曝光；习近平视察河北现异常，企业迁雄安只需一招（政论天下第1011集 20230514）</a></li>
-<li><a href="/comments/20230515/1884439.md">华春莹发文中国VS美国 评论区大翻车</a></li>
 <li><a href="/topimagenews/20230515/1884356.md">胡锡进微博大翻车 被网友抓住“软肋” 一个字也不敢说【阿波罗网报道】</a></li>
+<li><a href="/comments/20230515/1884439.md">华春莹发文中国VS美国 评论区大翻车</a></li>
+<li><a href="/comments/20230515/1884227.md">天亮时分：字节跳动前高管：中共党委握有死亡开关，几大罪状连环曝光；习近平视察河北现异常，企业迁雄安只需一招（政论天下第1011集 20230514）</a></li>
 <li><a href="/topimagenews/20230515/1884357.md">中亚峰会将临 西安要求沿路居民“自愿”离开 电子广告萤幕也禁播</a></li>
 <li><a href="/comments/20230515/1884323.md">李双江儿子李天一润美？李瑞英闻儿子坠L微笑直播，令计画儿子车祸S後微笑开会，成龙盼儿子每年蹲半年监狱</a></li>
 <li><a href="/topimagenews/20230515/1884319.md">中国芯有多惨？陆男面试到一半公司倒闭</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
 <li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 
 </ul>
 </div>
