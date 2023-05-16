@@ -19,10 +19,10 @@
 <li><a href="/cbnews/20230516/1884821.md">东亚多国收紧对中国民众签证 部分省份成韩国“黑名单”</a></li>
 <li><a href="/cnnews/20230516/1884874.md">中国房产税上路？逼急地方大员；中国老百姓捂钱袋子捂得太狠了</a></li>
 <li><a href="/sohnews/20230516/1884858.md">A股最大退市潮，百万中小股东逃之无门！全面注册制下，破发和退市将成新常态？“非标审计意见”恐触发退市，投资者如何解读？证监会提“中特估”概念，是何用意？【#财商天下】2023.05.16</a></li>
-<li><a href="/topimagenews/20230516/1884660.md">洪博学：中共如何消灭贫穷 从五一长假看返贫</a></li>
 <li><a href="/finance/20230516/1884796.md">面对预算危机 中共为何不动“这块蛋糕”</a></li>
-<li><a href="/lifebaike/20230516/1884698.md">全球一半食管癌在中国！医生忠告：家中5种食物，尽快撤下餐桌</a></li>
+<li><a href="/topimagenews/20230516/1884660.md">洪博学：中共如何消灭贫穷 从五一长假看返贫</a></li>
 <li><a href="/lifebaike/20230516/1884824.md">65岁后，你的寿命取决于这项能力！4个方法对照自查</a></li>
+<li><a href="/lifebaike/20230516/1884698.md">全球一半食管癌在中国！医生忠告：家中5种食物，尽快撤下餐桌</a></li>
 <li><a href="/baitai/20230516/1884834.md">【404文库】央视财经｜明确定了！任期届满后，他不再寻求连任</a></li>
 <li><a href="/topimagenews/20230516/1884813.md">严禁网上讨论“有多穷”！中共吹嘘脱贫成功 生活困境成禁忌话题</a></li>
 <li><a href="/health/20230516/1884705.md">男性刮胡子频率，和寿命挂钩？胡子长得快说明什么？用科学告诉你</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230517/1885065.md" target="_blank">沈舟：俄导弹被拦截 令中共火箭军紧张</a></li>
+<li><a href="/comments/20230517/1885064.md" target="_blank">王赫：京沪广深人口下降，掩盖了什么？</a></li>
 <li><a href="/comments/20230516/1884957.md" target="_blank">时事大家谈：前英相卓慧思访台 聚焦英台军事合作</a></li>
 <li><a href="/comments/20230516/1884943.md" target="_blank">时事大家谈：“喊武统的是傻子” 中共攻台舆论降温？</a></li>
 <li><a href="/comments/20230516/1884941.md" target="_blank">不只政治敏感！粤语文化书也难逃港图大清洗 他怒揭中共背后用意</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230516/1884532.md" target="_blank">时事大家谈：习氏展品引热议：造神是低级红还是高级黑？</a></li>
 <li><a href="/comments/20230515/1884515.md" target="_blank">香港民主大倒退！官员反驳竟说错成语 他批“撒不了谎只能撒野”</a></li>
 <li><a href="/comments/20230515/1884514.md" target="_blank">香港公共图书馆大量书籍下架 学者网路发文反讽</a></li>
-<li><a href="/comments/20230515/1884500.md" target="_blank">时事大家谈：习氏展品引热议：造神是低级红还是高级黑？严查降价售房，靠“限跌令”支撑的市场能扛多久？</a></li>
-<li><a href="/comments/20230515/1884498.md" target="_blank">唯色RFA博客：与一位藏学家的对话：关于无辜受责的达赖喇嘛（一）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 <li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
 <li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
 
 </ul>
 </div>
