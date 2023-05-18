@@ -5,10 +5,9 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230517/1885352.md">陈破空：习近平大发脾气！当众训斥李强：首都不是大杂烩，不能搞地摊经济！钟南山突然“露脸”？新冠再起，各大医院人满为患。海参崴回归中国？</a></li>
 <li><a href="/topimagenews/20230518/1885560.md">上海女高管“发疯”视频，暴露当下社会残酷现实</a></li>
-<li><a href="/topimagenews/20230518/1885518.md">中共外交部突发这则通知，打压乌克兰？</a></li>
 <li><a href="/baitai/20230518/1885443.md">中国真正首富是他？传神秘女富豪存款三千亿远超马云</a></li>
+<li><a href="/topimagenews/20230518/1885518.md">中共外交部突发这则通知，打压乌克兰？</a></li>
 <li><a href="/cnnews/20230518/1885467.md">中国情侣裸死巴厘岛竟是杀人自杀？细节曝光 网友炸锅</a></li>
 <li><a href="/baitai/20230518/1885524.md">乌克兰大胜 中共军委慌了</a></li>
 <li><a href="/cnnews/20230518/1885499.md">快讯！乌外长会见中国特使，坚决表态：不接受</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20230518/1885458.md">离岸人民币兑美元再贬破7 外媒指中国复苏前景黯淡</a></li>
 <li><a href="/cnnews/20230518/1885510.md">马斯克：苹果会比特斯拉更惨</a></li>
 <li><a href="/cnnews/20230517/1885365.md">乌克兰女歌手遭出征 全因拍到“爱国者”被炸毁</a></li>
+<li><a href="/comments/20230518/1885629.md">王赫：习近平河北之行凸显政局诡异</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230518/1885788.md" target="_blank">奶奶“10年没驾车”坚持开回家 一家5口惨坠河身亡</a></li>
+<li><a href="/cbnews/20230518/1885406.md" target="_blank">美国国会大厦升国旗 向李洪志先生致敬</a></li>
 <li><a href="/cbnews/20230518/1885779.md" target="_blank">江峰：军队出头反击，笑果文化罚巨款，脱口秀要关门了；航母之父、歼20之父双双被抓，共军“作风优良能打胜仗”？这部电影不仅侮辱军队还获得了大奖！华春莹一张图翻了天【江峰漫谈20230517第676期】</a></li>
 <li><a href="/comments/20230518/1885773.md" target="_blank">杨贵妃去日本了？</a></li>
 <li><a href="/cbnews/20230518/1885728.md" target="_blank">“文革版 2.0 ”来了? 中国“笑果脱口秀”风暴扩大 多地外国人演出遭禁</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230517/1885134.md" target="_blank">〖兲朝浮世绘〗以后所有不寻求连任的外国政要都是辱习的</a></li>
 <li><a href="/comments/20230517/1885077.md" target="_blank">达勒姆最终调查报告出炉，联邦调查局遭毁灭性打击。川普说了一句引以为傲的话。</a></li>
 <li><a href="/cbnews/20230517/1885030.md" target="_blank">湖北网红浮桥公路致命车祸 酿5死3伤</a></li>
-<li><a href="/cbnews/20230517/1885029.md" target="_blank">山西7死11伤情杀案始末：女被害人有老公和孩子</a></li>
-<li><a href="/comments/20230516/1884828.md" target="_blank">【更新】德桑蒂斯秀肌肉，公开抨击川普。海军陆战队退伍军人误杀流浪汉引风波，曼哈顿检察官布拉格被指打种族牌。</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230518/1885781.md" target="_blank">野狗辱军风波后 中国3家公司暂停脱口秀演出</a></li>
 <li><a href="/comments/20230518/1885773.md" target="_blank">杨贵妃去日本了？</a></li>
 <li><a href="/comments/20230518/1885769.md" target="_blank">【远见快评】送习近平百年大礼 普京下套？</a></li>
 <li><a href="/comments/20230518/1885658.md" target="_blank">习近平震怒？HOUSE李昊石被抓，笑果停演吓坏单立人，胡锡进三次改口！四线作战导致脱口秀塌方？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230518/1885533.md" target="_blank">李燕铭：三名村官接连被灭门 农管倒行逆施民怨沸腾 揭竿而起指日可待 农村酝酿重大政治危机 中组部罕见培训全国村官 中共政权黑社会化县级官场家族化 北大博士报告揭中共基层政权14大乱象 习近平连任与中共末日（128） 中共末日之全民反共（十三）</a></li>
 <li><a href="/comments/20230518/1885481.md" target="_blank">【梁京评论】西方与中国博弈的新阶段</a></li>
 <li><a href="/comments/20230518/1885441.md" target="_blank">时事大家谈：G7峰会在即 能对中国施加多大压能？</a></li>
-<li><a href="/comments/20230518/1885440.md" target="_blank">时事大家谈：中国派特使李辉访问乌克兰 能起多大作用？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
 <li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
 
 </ul>
 </div>
