@@ -13,7 +13,6 @@
 <li><a href="/ssgc/20230518/1885794.md">习近平河北之行凸显政局诡异</a></li>
 <li><a href="/ssgc/20230518/1885733.md">中国股市成交量萎缩、人民币破7 透露何种信号？</a></li>
 <li><a href="/ssgc/20230518/1885662.md">〖微博谈〗守住离岸汇率的难度越来越大了</a></li>
-<li><a href="/lifebaike/20230518/1885553.md">文革往事女政委被脱光推上楼顶示众</a></li>
 <li><a href="/cnnews/20230518/1885687.md">“作风优良 能打胜仗”？共军这台红色法拉利惹众怒</a></li>
 <li><a href="/cbnews/20230518/1885728.md">“文革版 2.0 ”来了? 中国“笑果脱口秀”风暴扩大 多地外国人演出遭禁</a></li>
 <li><a href="/topimagenews/20230518/1885802.md">万达爆6月前裁员30% 陆媒示警：王健林恐成下一个许家印</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/sohnews/20230518/1885750.md">乌克兰谜一样的伏击，在电子战飞机掩护下4架俄军飞机还是在家门口被报销｜【#时事军事】#时事军事夏洛山</a></li>
 <li><a href="/comments/20230518/1885658.md">习近平震怒？HOUSE李昊石被抓，笑果停演吓坏单立人，胡锡进三次改口！四线作战导致脱口秀塌方？</a></li>
 <li><a href="/bblog/20230518/1885661.md">〖微视野〗数据背后反应的情况怕是更严峻</a></li>
-<li><a href="/topimagenews/20230518/1885727.md">整肃脱口秀同时 中共网信办又一大动作 背后藏系统阴谋【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230518/1885788.md">奶奶“10年没驾车”坚持开回家 一家5口惨坠河身亡</a></li>
+<li><a href="/topimagenews/20230518/1885727.md">整肃脱口秀同时 中共网信办又一大动作 背后藏系统阴谋【阿波罗网报道】</a></li>
 <li><a href="/weiquan/20230518/1885689.md">习近平携五国元首来陕召开中亚峰会&#65292;省委书记赵一德粉饰太平五天四次部署维稳&#65292;家乡550名访民代表苦不堪言</a></li>
-<li><a href="/lifebaike/20230518/1885731.md">肝不好，手先知！提醒：手上若出现6大异常，需及时就医检查</a></li>
 <li><a href="/sohnews/20230518/1885819.md">这两个工程也要烂尾！“山穷水尽”地方政府撑不住了⋯⋯</a></li>
+<li><a href="/lifebaike/20230518/1885731.md">肝不好，手先知！提醒：手上若出现6大异常，需及时就医检查</a></li>
 <li><a href="/baitai/20230518/1885678.md">西方40多国联合对俄追责 中共军方慌了？</a></li>
+<li><a href="/cbnews/20230518/1885592.md">美国思想领袖：外交部坚决不承认，习近平也不认帐，为何拒绝这麽好的事？| #新闻大家谈</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
 <li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
 <li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 <li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
 
 </ul>
 </div>
