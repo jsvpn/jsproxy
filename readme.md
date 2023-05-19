@@ -9,21 +9,21 @@
 <li><a href="/topimagenews/20230518/1885647.md">中共填堵！跟进美国 英国要动手了</a></li>
 <li><a href="/ssgc/20230518/1885733.md">中国股市成交量萎缩、人民币破7 透露何种信号？</a></li>
 <li><a href="/ssgc/20230518/1885794.md">习近平河北之行凸显政局诡异</a></li>
-<li><a href="/ssgc/20230518/1885662.md">〖微博谈〗守住离岸汇率的难度越来越大了</a></li>
 <li><a href="/cnnews/20230518/1885687.md">“作风优良 能打胜仗”？共军这台红色法拉利惹众怒</a></li>
-<li><a href="/cbnews/20230518/1885728.md">“文革版 2.0 ”来了? 中国“笑果脱口秀”风暴扩大 多地外国人演出遭禁</a></li>
+<li><a href="/ssgc/20230518/1885662.md">〖微博谈〗守住离岸汇率的难度越来越大了</a></li>
 <li><a href="/cbnews/20230519/1885934.md">习近平讲话露馅了? 无意中曝雄安秘密</a></li>
-<li><a href="/topimagenews/20230518/1885802.md">万达爆6月前裁员30% 陆媒示警：王健林恐成下一个许家印</a></li>
+<li><a href="/cbnews/20230518/1885728.md">“文革版 2.0 ”来了? 中国“笑果脱口秀”风暴扩大 多地外国人演出遭禁</a></li>
 <li><a href="/comments/20230518/1885658.md">习近平震怒？HOUSE李昊石被抓，笑果停演吓坏单立人，胡锡进三次改口！四线作战导致脱口秀塌方？</a></li>
+<li><a href="/topimagenews/20230518/1885802.md">万达爆6月前裁员30% 陆媒示警：王健林恐成下一个许家印</a></li>
 <li><a href="/comments/20230518/1885629.md">王赫：习近平河北之行凸显政局诡异</a></li>
 <li><a href="/sohnews/20230518/1885750.md">乌克兰谜一样的伏击，在电子战飞机掩护下4架俄军飞机还是在家门口被报销｜【#时事军事】#时事军事夏洛山</a></li>
 <li><a href="/cbnews/20230518/1885788.md">奶奶“10年没驾车”坚持开回家 一家5口惨坠河身亡</a></li>
-<li><a href="/bblog/20230518/1885661.md">〖微视野〗数据背后反应的情况怕是更严峻</a></li>
-<li><a href="/weiquan/20230518/1885689.md">习近平携五国元首来陕召开中亚峰会&#65292;省委书记赵一德粉饰太平五天四次部署维稳&#65292;家乡550名访民代表苦不堪言</a></li>
-<li><a href="/topimagenews/20230518/1885727.md">整肃脱口秀同时 中共网信办又一大动作 背后藏系统阴谋【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230518/1885819.md">这两个工程也要烂尾！“山穷水尽”地方政府撑不住了⋯⋯</a></li>
 <li><a href="/baitai/20230519/1885929.md">大麻烦开始 学者：这情况一发生 中国马上爆危机</a></li>
+<li><a href="/bblog/20230518/1885661.md">〖微视野〗数据背后反应的情况怕是更严峻</a></li>
 <li><a href="/cbnews/20230519/1885944.md">北京想不到，欧盟步子迈这么大....</a></li>
+<li><a href="/weiquan/20230518/1885689.md">习近平携五国元首来陕召开中亚峰会&#65292;省委书记赵一德粉饰太平五天四次部署维稳&#65292;家乡550名访民代表苦不堪言</a></li>
+<li><a href="/sohnews/20230518/1885819.md">这两个工程也要烂尾！“山穷水尽”地方政府撑不住了⋯⋯</a></li>
+<li><a href="/topimagenews/20230518/1885727.md">整肃脱口秀同时 中共网信办又一大动作 背后藏系统阴谋【阿波罗网报道】</a></li>
 <li><a href="/lifebaike/20230518/1885731.md">肝不好，手先知！提醒：手上若出现6大异常，需及时就医检查</a></li>
 <li><a href="/baitai/20230518/1885678.md">西方40多国联合对俄追责 中共军方慌了？</a></li>
 <li><a href="/comments/20230518/1885804.md">粉丝一句话护航李昊石 火速被中国公安揪出逮捕</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230519/1886018.md" target="_blank">亚当·希夫继续散布通俄门谎言，众议员安娜·卢娜提交决议案，要求将希夫从国会除名。议长麦卡锡积极回应，并可能对希夫提起刑事诉讼。</a></li>
 <li><a href="/comments/20230519/1885980.md" target="_blank">真实的霓裳羽衣！</a></li>
 <li><a href="/cbnews/20230519/1885968.md" target="_blank">〖兲朝浮世绘〗中国代表权不含台岛……你们辱华了</a></li>
 <li><a href="/cbnews/20230519/1885944.md" target="_blank">北京想不到，欧盟步子迈这么大&#8230;.</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230518/1885531.md" target="_blank">〖兲朝浮世绘〗兵哥哥就是狗哥哥 都是中共的走狗没说错</a></li>
 <li><a href="/cbnews/20230518/1885519.md" target="_blank">脱口而出习近平8字口号，他下场惨重，后续来了</a></li>
 <li><a href="/cbnews/20230518/1885505.md" target="_blank">美公布5起间谍案：苹果中国工程师窃密潜逃回国</a></li>
-<li><a href="/cbnews/20230518/1885462.md" target="_blank">福建农管强拆猪场 养殖户愤而持枪伤3人</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230519/1886018.md" target="_blank">亚当·希夫继续散布通俄门谎言，众议员安娜·卢娜提交决议案，要求将希夫从国会除名。议长麦卡锡积极回应，并可能对希夫提起刑事诉讼。</a></li>
 <li><a href="/comments/20230519/1886006.md" target="_blank">文昭：上海豪宅频传异动，房市的定海神针也不灵了</a></li>
 <li><a href="/comments/20230519/1886005.md" target="_blank">天亮时分：House已被拘留，吴京被举报，蔡奇才是背后推手；郭台铭出局，捷克的“一中两制”；数字人民币终于烂尾？（政论天下第1015集 20230518）</a></li>
 <li><a href="/comments/20230519/1886000.md" target="_blank">何清涟：中国新版《反间谍法》：法网密织聊作盾</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230518/1885631.md" target="_blank">脱口秀两不说：这也不能说，那也不能说</a></li>
 <li><a href="/comments/20230518/1885630.md" target="_blank">允真：8个字让中国31岁年轻人失去了一切</a></li>
 <li><a href="/comments/20230518/1885629.md" target="_blank">王赫：习近平河北之行凸显政局诡异</a></li>
-<li><a href="/comments/20230518/1885607.md" target="_blank">希拉里策划通俄门，奥巴马知情且公开撒谎。FBI的严重双标。川普再斥深层政府，参与者为政变叛国。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
 <li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
 <li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 
 </ul>
 </div>
