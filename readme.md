@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/ccpdope/20230518/1885680.md">毛泽东情人陈惠敏的奇异人生</a></li>
 <li><a href="/topimagenews/20230518/1885647.md">中共填堵！跟进美国 英国要动手了</a></li>
-<li><a href="/ssgc/20230518/1885794.md">习近平河北之行凸显政局诡异</a></li>
 <li><a href="/ssgc/20230518/1885733.md">中国股市成交量萎缩、人民币破7 透露何种信号？</a></li>
+<li><a href="/ssgc/20230518/1885794.md">习近平河北之行凸显政局诡异</a></li>
 <li><a href="/ssgc/20230518/1885662.md">〖微博谈〗守住离岸汇率的难度越来越大了</a></li>
 <li><a href="/cnnews/20230518/1885687.md">“作风优良 能打胜仗”？共军这台红色法拉利惹众怒</a></li>
 <li><a href="/cbnews/20230518/1885728.md">“文革版 2.0 ”来了? 中国“笑果脱口秀”风暴扩大 多地外国人演出遭禁</a></li>
 <li><a href="/topimagenews/20230518/1885802.md">万达爆6月前裁员30% 陆媒示警：王健林恐成下一个许家印</a></li>
 <li><a href="/comments/20230518/1885629.md">王赫：习近平河北之行凸显政局诡异</a></li>
+<li><a href="/cbnews/20230519/1885934.md">习近平讲话露馅了? 无意中曝雄安秘密</a></li>
 <li><a href="/comments/20230518/1885658.md">习近平震怒？HOUSE李昊石被抓，笑果停演吓坏单立人，胡锡进三次改口！四线作战导致脱口秀塌方？</a></li>
 <li><a href="/sohnews/20230518/1885750.md">乌克兰谜一样的伏击，在电子战飞机掩护下4架俄军飞机还是在家门口被报销｜【#时事军事】#时事军事夏洛山</a></li>
 <li><a href="/cbnews/20230518/1885788.md">奶奶“10年没驾车”坚持开回家 一家5口惨坠河身亡</a></li>
 <li><a href="/bblog/20230518/1885661.md">〖微视野〗数据背后反应的情况怕是更严峻</a></li>
 <li><a href="/weiquan/20230518/1885689.md">习近平携五国元首来陕召开中亚峰会&#65292;省委书记赵一德粉饰太平五天四次部署维稳&#65292;家乡550名访民代表苦不堪言</a></li>
 <li><a href="/topimagenews/20230518/1885727.md">整肃脱口秀同时 中共网信办又一大动作 背后藏系统阴谋【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230519/1885934.md">习近平讲话露馅了? 无意中曝雄安秘密</a></li>
 <li><a href="/sohnews/20230518/1885819.md">这两个工程也要烂尾！“山穷水尽”地方政府撑不住了⋯⋯</a></li>
 <li><a href="/baitai/20230518/1885678.md">西方40多国联合对俄追责 中共军方慌了？</a></li>
 <li><a href="/lifebaike/20230518/1885731.md">肝不好，手先知！提醒：手上若出现6大异常，需及时就医检查</a></li>
-<li><a href="/cbnews/20230518/1885592.md">美国思想领袖：外交部坚决不承认，习近平也不认帐，为何拒绝这麽好的事？| #新闻大家谈</a></li>
 <li><a href="/comments/20230518/1885648.md">“中国式逗小孩”，既无知又低俗！对孩子灾难性后果，令人震惊</a></li>
 <li><a href="/comments/20230518/1885804.md">粉丝一句话护航李昊石 火速被中国公安揪出逮捕</a></li>
-<li><a href="/headline/20230518/1885749.md">中国旅游人山人海但“特种兵”不花钱战略遭指贻害无穷</a></li>
+<li><a href="/cbnews/20230518/1885592.md">美国思想领袖：外交部坚决不承认，习近平也不认帐，为何拒绝这麽好的事？| #新闻大家谈</a></li>
+<li><a href="/topimagenews/20230518/1885835.md">西方制裁1年 俄国经济快垮了？财长哭穷：能源收入雪崩</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
 <li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
 
 </ul>
 </div>
