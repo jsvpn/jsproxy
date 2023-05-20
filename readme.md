@@ -15,10 +15,10 @@
 <li><a href="/topimagenews/20230520/1886411.md">G7峰会首日傍晚游神社 例行合照这一刻小尴尬</a></li>
 <li><a href="/cbnews/20230520/1886451.md">〖兲朝浮世绘〗妄做万国来朝大唐梦 倾尽国力为谁忙？</a></li>
 <li><a href="/cbnews/20230520/1886380.md">江峰：央视主持人又丢脸了</a></li>
-<li><a href="/cbnews/20230520/1886330.md">G7峰会开幕：3大主题，其中一个出乎意料</a></li>
-<li><a href="/cnnews/20230520/1886404.md">朝鲜勒索以10亿美元现金 以方是如何修理他们的</a></li>
-<li><a href="/finance/20230520/1886514.md">不顾人民死活！北京向中亚5国大撒币 中国网友炸了</a></li>
 <li><a href="/cnnews/20230520/1886535.md">中纪委书记李希 在福建说了一句惊人之语！【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230520/1886404.md">朝鲜勒索以10亿美元现金 以方是如何修理他们的</a></li>
+<li><a href="/cbnews/20230520/1886330.md">G7峰会开幕：3大主题，其中一个出乎意料</a></li>
+<li><a href="/finance/20230520/1886514.md">不顾人民死活！北京向中亚5国大撒币 中国网友炸了</a></li>
 <li><a href="/topimagenews/20230520/1886510.md">中共特使出访波兰 被当面要求谴责俄罗斯侵略乌克兰</a></li>
 <li><a href="/yule/20230520/1886445.md">3张合照把欧美对刘亦菲的排挤 体现得淋漓尽致</a></li>
 <li><a href="/baitai/20230520/1886319.md">主人出嫁当天 大金毛突然闯进车里 车门关上那一刻 它瞬间留下眼泪……</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230520/1886594.md" target="_blank">【秦鹏观察】她窃取来1·2亿美元可乐罐内的机密</a></li>
+<li><a href="/comments/20230520/1886592.md" target="_blank">文昭：2023 G7峰会，对标二战期间的“德黑兰会议”，是历史分水岭</a></li>
 <li><a href="/comments/20230520/1886498.md" target="_blank">东北女汉子力挺李昊石，美国声援！笑果三年不许上市，音乐会停演！马斯克对中共武统表态惹怒台湾</a></li>
 <li><a href="/comments/20230520/1886489.md" target="_blank">德桑蒂斯铁了心参选，谁是他的背后推手？苦孩子蒂姆·斯科特抢先宣布参选2024，对德桑蒂斯意味着什么？</a></li>
 <li><a href="/comments/20230520/1886463.md" target="_blank">小民之心:当局为何放开村官灭门案的报道和评论？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230519/1886255.md" target="_blank">时事大家谈：中国脱口秀演员八个字闯大祸，他到底冒犯了谁？</a></li>
 <li><a href="/comments/20230519/1886254.md" target="_blank">时事大家谈：G7峰会对六国峰会：西风如何压倒东风？</a></li>
 <li><a href="/comments/20230519/1886253.md" target="_blank">时事大家谈：G7峰会对六国峰会：西风如何压倒东风？中国脱口秀演员八个字闯大祸，他到底冒犯了谁？</a></li>
-<li><a href="/comments/20230519/1886233.md" target="_blank">诺贝尔奖文学奖得主莫言 自承使用ChatGPT写讲稿</a></li>
-<li><a href="/comments/20230519/1886217.md" target="_blank">中国记者称中共“到处是G点”开不起玩笑 遭小粉红围剿骂垃圾</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
 
 </ul>
 </div>
