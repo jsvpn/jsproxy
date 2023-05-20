@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20230519/1886158.md">中国之大，容不下一只刺猬！刘亚洲在一次龙虾宴上的即兴演讲：残忍会遭天谴</a></li>
 <li><a href="/topimagenews/20230519/1886209.md">严控资金外流 中共又有新动作；中国第二大芯片设计公司一夜消失，曝真正原因</a></li>
 <li><a href="/sohnews/20230519/1886263.md">“5.18习近平的‘疯狂’！亲弟探路 夫人相伴 亡父祖地”《今日点击》（05/19/23）难逃天命之劫：三八之时有谁知😂</a></li>
-<li><a href="/topimagenews/20230519/1886177.md">G8变G7 普丁气炸！外媒揭泽连斯基将赴日出席G7峰会…</a></li>
 <li><a href="/topimagenews/20230520/1886356.md">北京双输！普京忽视中国最迫切需要 还顺带揩油</a></li>
+<li><a href="/topimagenews/20230519/1886177.md">G8变G7 普丁气炸！外媒揭泽连斯基将赴日出席G7峰会…</a></li>
 <li><a href="/lifebaike/20230519/1886178.md">一个人遇事最有水平的处理方法：四句话</a></li>
 <li><a href="/ssgc/20230520/1886394.md">〖微博谈〗习近平的草包底色</a></li>
+<li><a href="/yule/20230520/1886430.md">网传庾澄庆突发心脏病去世，小14岁娇妻赶赴现场，经纪人已经回应</a></li>
 <li><a href="/topimagenews/20230519/1886259.md">俄金融危机爆开！前大咖官员曝“乱象”认了：撑不住</a></li>
 <li><a href="/topimagenews/20230520/1886411.md">G7峰会首日傍晚游神社 例行合照这一刻小尴尬</a></li>
-<li><a href="/yule/20230520/1886430.md">网传庾澄庆突发心脏病去世，小14岁娇妻赶赴现场，经纪人已经回应</a></li>
 <li><a href="/cnnews/20230520/1886326.md">冲北京而来！G7峰会还不够，美国再下一城</a></li>
 <li><a href="/baitai/20230519/1886205.md">俄败局已定 台湾快做准备</a></li>
 <li><a href="/lifebaike/20230520/1886287.md">这届年轻人开始断亲了</a></li>
 <li><a href="/cnnews/20230520/1886404.md">朝鲜勒索以10亿美元现金 以方是如何修理他们的</a></li>
 <li><a href="/cbnews/20230520/1886380.md">江峰：央视主持人又丢脸了</a></li>
-<li><a href="/cnnews/20230519/1886159.md">将派出检查组2800个！中共金融监管总局今年要干啥？【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230520/1886330.md">G7峰会开幕：3大主题，其中一个出乎意料</a></li>
 <li><a href="/cbnews/20230520/1886451.md">〖兲朝浮世绘〗妄做万国来朝大唐梦 倾尽国力为谁忙？</a></li>
+<li><a href="/cbnews/20230520/1886330.md">G7峰会开幕：3大主题，其中一个出乎意料</a></li>
 <li><a href="/sohnews/20230519/1886180.md">文睿：“秘不发丧”亮了，楼市，在等最后一声巨响</a></li>
+<li><a href="/yule/20230520/1886445.md">3张合照把欧美对刘亦菲的排挤 体现得淋漓尽致</a></li>
 <li><a href="/baitai/20230520/1886319.md">主人出嫁当天 大金毛突然闯进车里 车门关上那一刻 它瞬间留下眼泪……</a></li>
 <li><a href="/comments/20230520/1886366.md">周晓辉：中亚峰会让国人愤怒让普京不爽</a></li>
 <li><a href="/cbnews/20230519/1886247.md">温州女砸3万3350元买金条！寄存专柜下场却凉了</a></li>
-<li><a href="/yule/20230520/1886445.md">3张合照把欧美对刘亦菲的排挤 体现得淋漓尽致</a></li>
+<li><a href="/baitai/20230520/1886402.md">G7声明亮剑：必须「立即、完全、无条件」撤军！ 普京战败面临几种结局？【主持】 高洁 【嘉宾】台湾政治大学 国际研究中心 资深研究员 #宋国诚 教授【焦点解读】05/19/2023</a></li>
+<li><a href="/cbnews/20230519/1886206.md">美国务院报告：中共杀人取器官</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 <li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
 
 </ul>
 </div>
