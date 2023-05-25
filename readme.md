@@ -10,8 +10,8 @@
 <li><a href="/sohnews/20230525/1888444.md">习家军被侮？后果很严重</a></li>
 <li><a href="/finance/20230525/1888550.md">又一家凉了？上海总部空无一人</a></li>
 <li><a href="/cbnews/20230525/1888631.md">曾节明：中共将大幅收紧出境，以防政权崩溃</a></li>
-<li><a href="/cbnews/20230525/1888473.md">“辱军”的新一轮围剿来了，这回遭殃的竟是他</a></li>
 <li><a href="/cnnews/20230525/1888604.md">中国大量银行卡被冻结 银行内部人员爆料随即被捕【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230525/1888473.md">“辱军”的新一轮围剿来了，这回遭殃的竟是他</a></li>
 <li><a href="/finance/20230525/1888552.md">中国经济烂透，习近平出招</a></li>
 <li><a href="/cbnews/20230525/1888471.md">中国的他每天“带薪拉屎”3至6小时被开除，法院判了</a></li>
 <li><a href="/topimagenews/20230525/1888548.md">上海高架惊现史诗级“斗车”，连命都不要了…</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/ssgc/20230525/1888611.md">〖微博谈〗这就是贫困化进程</a></li>
 <li><a href="/topimagenews/20230525/1888652.md">中国资金流不足致多家银行断卡？挪用韭菜们的血汗钱！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230525/1888693.md">五毛不给力？中共公安部内部通知外泄 组训网军打境外舆论战全曝光</a></li>
-<li><a href="/baitai/20230524/1888344.md">震撼爆料 昆明内部会议纪要曝全面危机</a></li>
 <li><a href="/baitai/20230525/1888656.md">各行业反常举动频现 中国恐陷更大危机</a></li>
 <li><a href="/comments/20230525/1888664.md">525前夜胡锡进仓皇逃往广州！付国豪父亲“腰里的家伙”吓坏叼盘！华春莹高级黑翻车，蔡奇跪舔夺冠</a></li>
 <li><a href="/topimagenews/20230525/1888686.md">打脸！俄罗斯说突击俄境叛军被歼灭…</a></li>
+<li><a href="/cbnews/20230525/1888708.md">回到皇朝 不共和了？“唐式”峰会惹热议：梦回大唐 只差龙袍…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230525/1888828.md" target="_blank">时事大家谈：对美外交熟手谢锋抵美履新，美中关系回暖？李强力推统一大市场：为什么急于建立全国统一大市场？</a></li>
 <li><a href="/comments/20230525/1888809.md" target="_blank">2500年前的结界</a></li>
 <li><a href="/comments/20230525/1888808.md" target="_blank">特异功能大师</a></li>
 <li><a href="/comments/20230525/1888806.md" target="_blank">文昭：蔡奇喂药，入脑入心入魂的《习选》比“三尸脑神丹”还厉害</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230525/1888640.md" target="_blank">除尘：看中共法庭无法无天的邪行恶迹</a></li>
 <li><a href="/comments/20230525/1888626.md" target="_blank">曾节明：当今世界老龄化危机的祸根，是共产化的养老制度——兼论根治之道</a></li>
 <li><a href="/comments/20230525/1888613.md" target="_blank">天亮时分：德桑蒂斯宣布参选总统；普京反手抓了习近平的间谍；美继续制裁中共国防部长；瓦格纳军要撤了，警告普京当心1917革命（政论天下第1020集 20230524）天亮时分</a></li>
-<li><a href="/comments/20230525/1888603.md" target="_blank">立此存照：关于派员参加境外“网军”侦察专项会战的通知</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 <li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 
 </ul>
 </div>
