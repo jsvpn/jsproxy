@@ -15,17 +15,17 @@
 <li><a href="/comments/20230526/1889061.md">【微博精粹】国产AI回答“怎么干掉”XX平的提问</a></li>
 <li><a href="/topimagenews/20230526/1888968.md">若三战爆发哪些国家安然无恙 英媒点名这3国</a></li>
 <li><a href="/cnnews/20230526/1888983.md">好日子到头？中国中产再不换轨道，就晚了</a></li>
+<li><a href="/comments/20230525/1888792.md">习近平经济学分 因雄安被死当</a></li>
 <li><a href="/cbnews/20230526/1889027.md">〖兲朝浮世绘〗颂圣是一门大学问 蔡奇成新造神运动领军人物</a></li>
 <li><a href="/cnnews/20230526/1888929.md">14岁女生课后打了瓶开水，竟被埋进土配了冥婚</a></li>
-<li><a href="/comments/20230525/1888792.md">习近平经济学分 因雄安被死当</a></li>
 <li><a href="/sohnews/20230525/1888778.md">陈破空：重庆市长出怪事！应验魔咒：此处官场高危。某政治局委员也悬？中山大学十不准，是不是段子</a></li>
-<li><a href="/sohnews/20230525/1888759.md">文睿：一个笑话，把中国说透了，把习近平吓哭了</a></li>
 <li><a href="/funmedia/20230526/1889085.md">一位老同学在聚会上的演讲，全场700人笑翻了</a></li>
 <li><a href="/ssgc/20230526/1889029.md">〖微博谈〗只有魔教才会运用这样的词汇</a></li>
 <li><a href="/topimagenews/20230525/1888844.md">中国教室监视器画面长这样 网惊：原来是监狱还以为是学校</a></li>
 <li><a href="/cnnews/20230526/1888890.md">中国7名央企高层主管 同日被调查落马</a></li>
-<li><a href="/topimagenews/20230526/1889084.md">“司法人员将上门枪毙”！中国诈骗出新招 北京公安：无语….</a></li>
 <li><a href="/cnnews/20230526/1889023.md">房地产局部崩盘 中共无计可施</a></li>
+<li><a href="/topimagenews/20230526/1889084.md">“司法人员将上门枪毙”！中国诈骗出新招 北京公安：无语….</a></li>
+<li><a href="/cbnews/20230526/1889098.md">相比一年前，王沪宁的态度更“强硬和严厉”</a></li>
 <li><a href="/comments/20230526/1889086.md">严歌苓 ：你看上去像很恶心</a></li>
 <li><a href="/ssgc/20230526/1888949.md">台湾行政院令：大陆人不具中华民国国籍</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230526/1889202.md" target="_blank">上海两车史诗级斗气视频曝光 谁之过？</a></li>
 <li><a href="/cbnews/20230526/1889160.md" target="_blank">豆腐渣工程路面塌陷 中国四川货车被“吞噬”</a></li>
 <li><a href="/cbnews/20230526/1889106.md" target="_blank">好贵啊！6岁女童一剪刀下去，妈妈赔了1万元</a></li>
 <li><a href="/cbnews/20230526/1889098.md" target="_blank">相比一年前，王沪宁的态度更“强硬和严厉”</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230525/1888536.md" target="_blank">江峰：反普京俄军杀回俄罗斯</a></li>
 <li><a href="/comments/20230525/1888531.md" target="_blank">卡莉·莱克法律战受挫，誓言与左翼玩到底。川普给德桑蒂斯发信息，推荐看一篇震撼文章。看过的人都懂了。</a></li>
 <li><a href="/cbnews/20230525/1888473.md" target="_blank">“辱军”的新一轮围剿来了，这回遭殃的竟是他</a></li>
-<li><a href="/cbnews/20230525/1888472.md" target="_blank">中国女富商与情夫联手杀夫藏尸，万没想道被他举报了</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230526/1889196.md" target="_blank">国家疾控又在假装开展新冠问卷调查 毫无诚意</a></li>
 <li><a href="/comments/20230526/1889173.md" target="_blank">郭台铭被“摆了一道”侯友宜确没有总统相</a></li>
 <li><a href="/comments/20230526/1889139.md" target="_blank">世界头号祸害：全球主义势力的世界的狰狞魔脸已经显现——曾节明</a></li>
 <li><a href="/comments/20230526/1889090.md" target="_blank">德桑蒂斯开局不利，川普连发梗图究竟说了啥？关于川普和德桑蒂斯的真正区别，大媒体刻意隐瞒的真相。</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230525/1888828.md" target="_blank">时事大家谈：对美外交熟手谢锋抵美履新，美中关系回暖？李强力推统一大市场：为什么急于建立全国统一大市场？</a></li>
 <li><a href="/comments/20230525/1888809.md" target="_blank">2500年前的结界</a></li>
 <li><a href="/comments/20230525/1888808.md" target="_blank">特异功能大师</a></li>
-<li><a href="/comments/20230525/1888806.md" target="_blank">文昭：蔡奇喂药，入脑入心入魂的《习选》比“三尸脑神丹”还厉害</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
 <li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
 
 </ul>
 </div>
