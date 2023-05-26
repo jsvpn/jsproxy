@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20230525/1888704.md">俄陷内战 矢板明夫：中共攻台不顺 十几亿百姓想当义勇军的一定不少</a></li>
 <li><a href="/ssgc/20230525/1888611.md">〖微博谈〗这就是贫困化进程</a></li>
 <li><a href="/cbnews/20230525/1888708.md">回到皇朝 不共和了？“唐式”峰会惹热议：梦回大唐 只差龙袍…</a></li>
+<li><a href="/cbnews/20230526/1888941.md">北京，开始了新一轮大规模龌龊行动</a></li>
 <li><a href="/topimagenews/20230525/1888652.md">中国资金流不足致多家银行断卡？挪用韭菜们的血汗钱！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230525/1888730.md">瓦格纳要撤退了！巴赫穆特战损过大…</a></li>
 <li><a href="/cnnews/20230526/1888874.md">亚洲这国房价真的崩了 “永远涨”神话破灭！开启跳楼模式</a></li>
 <li><a href="/topimagenews/20230525/1888693.md">五毛不给力？中共公安部内部通知外泄 组训网军打境外舆论战全曝光</a></li>
 <li><a href="/baitai/20230525/1888656.md">各行业反常举动频现 中国恐陷更大危机</a></li>
+<li><a href="/topimagenews/20230526/1888969.md">人民币汇率暴跌 让人脊背发凉 这绝不是阴谋论</a></li>
 <li><a href="/comments/20230525/1888664.md">525前夜胡锡进仓皇逃往广州！付国豪父亲“腰里的家伙”吓坏叼盘！华春莹高级黑翻车，蔡奇跪舔夺冠</a></li>
 <li><a href="/comments/20230525/1888841.md">【独家重磅】李燕铭：赵乐际二十大前查习家军反习 习派公安部亲信高官主导清洗中纪委内鬼 李希放狠话下派8个督导组 逾十名纪检高官密集被查 名单曝光包括赵乐际副部级心腹马仔 习近平连任后大清洗（二八） 围剿赵乐际（十五） 中南海政变与反政变（七五）</a></li>
+<li><a href="/cbnews/20230526/1888923.md">“建墙”，中国福建省先行一步</a></li>
 <li><a href="/health/20230525/1888721.md">肾好的男人，有6大特征，自己对照一下，有2个以上都不错</a></li>
-<li><a href="/cbnews/20230526/1888941.md">北京，开始了新一轮大规模龌龊行动</a></li>
 <li><a href="/topimagenews/20230525/1888686.md">打脸！俄罗斯说突击俄境叛军被歼灭…</a></li>
 <li><a href="/sohnews/20230525/1888778.md">陈破空：重庆市长出怪事！应验魔咒：此处官场高危。某政治局委员也悬？中山大学十不准，是不是段子</a></li>
 <li><a href="/ssgc/20230525/1888696.md">中国多地公务员领薪数字人民币 诸多难题未解料难普及</a></li>
 <li><a href="/comments/20230525/1888792.md">习近平经济学分 因雄安被死当</a></li>
-<li><a href="/topimagenews/20230526/1888969.md">人民币汇率暴跌 让人脊背发凉 这绝不是阴谋论</a></li>
-<li><a href="/cbnews/20230526/1888923.md">“建墙”，中国福建省先行一步</a></li>
+<li><a href="/topimagenews/20230526/1888940.md">笑死我了…丹麦女首相议会辩论中突然笑场</a></li>
 <li><a href="/topimagenews/20230525/1888659.md">银行危机来临 美、中储户境遇天差地别【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230525/1888759.md">文睿：一个笑话，把中国说透了，把习近平吓哭了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230526/1889014.md" target="_blank">天亮时分：迄今最明确和强硬的警告，台海若有事，美国会下场参战；“千年大计”成为习近平权力的重要指标；美债危机将解（政论天下第1021集 20230525）天亮时分</a></li>
 <li><a href="/comments/20230526/1888993.md" target="_blank">横河：纵容提倡告密文化是中共统治需要 ｜新闻烽火台 05/25/2023</a></li>
 <li><a href="/comments/20230526/1888944.md" target="_blank">拜登被忽视的大动作</a></li>
 <li><a href="/comments/20230526/1888907.md" target="_blank">【杜耀明评论】禁书一味靠估 施政目中无人</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230525/1888757.md" target="_blank">【秦鹏观察】淘宝天猫裁员25%！ 广西南宁天价停车费市长道歉</a></li>
 <li><a href="/comments/20230525/1888756.md" target="_blank">中国骇客攻击关岛基础设施 纽时：真正目标恐为台湾</a></li>
 <li><a href="/comments/20230525/1888687.md" target="_blank">曾节明：透视马英九访问大陆-台湾形势进一步恶化</a></li>
-<li><a href="/comments/20230525/1888677.md" target="_blank">曾节明：满清的剃发易服暴政，消除了满人彻底汉化的障碍 ——对暴政反效应的思考</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
 <li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 
 </ul>
 </div>
