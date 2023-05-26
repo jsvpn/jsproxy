@@ -15,19 +15,19 @@
 <li><a href="/comments/20230526/1889061.md">【微博精粹】国产AI回答“怎么干掉”XX平的提问</a></li>
 <li><a href="/topimagenews/20230526/1888968.md">若三战爆发哪些国家安然无恙 英媒点名这3国</a></li>
 <li><a href="/cnnews/20230526/1888983.md">好日子到头？中国中产再不换轨道，就晚了</a></li>
-<li><a href="/comments/20230525/1888792.md">习近平经济学分 因雄安被死当</a></li>
 <li><a href="/cbnews/20230526/1889027.md">〖兲朝浮世绘〗颂圣是一门大学问 蔡奇成新造神运动领军人物</a></li>
 <li><a href="/cnnews/20230526/1888929.md">14岁女生课后打了瓶开水，竟被埋进土配了冥婚</a></li>
 <li><a href="/funmedia/20230526/1889085.md">一位老同学在聚会上的演讲，全场700人笑翻了</a></li>
 <li><a href="/ssgc/20230526/1889029.md">〖微博谈〗只有魔教才会运用这样的词汇</a></li>
 <li><a href="/cbnews/20230526/1889098.md">相比一年前，王沪宁的态度更“强硬和严厉”</a></li>
+<li><a href="/topimagenews/20230526/1889158.md">念起来太像“习近平”！中国酒厂申请“瓶净悉净瓶”商标…遭开罚44万</a></li>
 <li><a href="/topimagenews/20230525/1888844.md">中国教室监视器画面长这样 网惊：原来是监狱还以为是学校</a></li>
 <li><a href="/cnnews/20230526/1888890.md">中国7名央企高层主管 同日被调查落马</a></li>
 <li><a href="/cnnews/20230526/1889023.md">房地产局部崩盘 中共无计可施</a></li>
 <li><a href="/topimagenews/20230526/1889104.md">“风暴阴影”再立战功！俄军别尔江斯克总部遭精准轰炸 产生殉爆</a></li>
-<li><a href="/topimagenews/20230526/1889084.md">“司法人员将上门枪毙”！中国诈骗出新招 北京公安：无语….</a></li>
 <li><a href="/comments/20230526/1889086.md">严歌苓 ：你看上去像很恶心</a></li>
-<li><a href="/topimagenews/20230526/1889158.md">念起来太像“习近平”！中国酒厂申请“瓶净悉净瓶”商标…遭开罚44万</a></li>
+<li><a href="/topimagenews/20230526/1889084.md">“司法人员将上门枪毙”！中国诈骗出新招 北京公安：无语….</a></li>
+<li><a href="/ssgc/20230526/1888949.md">台湾行政院令：大陆人不具中华民国国籍</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230526/1889234.md" target="_blank">曾节明：鲁迅和孟森为何双双成为中共的大红死人？</a></li>
 <li><a href="/comments/20230526/1889222.md" target="_blank">庞大避难所，留存上古生物！护法神山圣地中间，玉龙第三国，存在云南、藏区之间！</a></li>
 <li><a href="/cbnews/20230526/1889219.md" target="_blank">曾节明：孟森的官本位和胡适的洋本位，是祸害中国的两大精神毒瘤</a></li>
 <li><a href="/cbnews/20230526/1889217.md" target="_blank">曾节明：中国教师正在沦为最惨的群体 ——中国今后那些职业最吃香？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230525/1888631.md" target="_blank">曾节明：中共将大幅收紧出境，以防政权崩溃</a></li>
 <li><a href="/comments/20230525/1888626.md" target="_blank">曾节明：当今世界老龄化危机的祸根，是共产化的养老制度——兼论根治之道</a></li>
 <li><a href="/comments/20230525/1888599.md" target="_blank">【围炉夜话05/24】国泰歧视风波被上纲上线，至于吗？德桑蒂斯将与川普打擂台，谁会出线？｜唐靖远 大宇 方伟 方菲</a></li>
-<li><a href="/cbnews/20230525/1888561.md" target="_blank">〖兲朝浮世绘〗随便就能取港人器官？ 吓死香港宝宝们了</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230526/1889244.md" target="_blank">中国深陷双重灭种危机：只有民族主义+法轮功才能拯救中国</a></li>
+<li><a href="/comments/20230526/1889240.md" target="_blank">曾节明：满遗势力是吞噬中国民族凝聚力的内部大敌 ——不解决满遗问题中国无法复兴</a></li>
+<li><a href="/comments/20230526/1889235.md" target="_blank">曾节明：孟森-以学术方式为暴政洗地的最高境界</a></li>
+<li><a href="/comments/20230526/1889233.md" target="_blank">英国最新《香港报告》透露 外相曾向韩正谈及黎智英案</a></li>
 <li><a href="/comments/20230526/1889229.md" target="_blank">曾节明：论顺治痴情的董鄂妃，就是董小宛 ——兼论中共为什么高捧孟森</a></li>
 <li><a href="/comments/20230526/1889223.md" target="_blank">曾节明：新加坡的专制模式，为何解不了中共的套？</a></li>
 <li><a href="/comments/20230526/1889222.md" target="_blank">庞大避难所，留存上古生物！护法神山圣地中间，玉龙第三国，存在云南、藏区之间！</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230526/1889033.md" target="_blank">文昭：俄罗斯自由军团攻入俄本土，给中国人的带来何种启示？</a></li>
 <li><a href="/comments/20230526/1889014.md" target="_blank">天亮时分：迄今最明确和强硬的警告，台海若有事，美国会下场参战；“千年大计”成为习近平权力的重要指标；美债危机将解（政论天下第1021集 20230525）天亮时分</a></li>
 <li><a href="/comments/20230526/1888993.md" target="_blank">横河：纵容提倡告密文化是中共统治需要 ｜新闻烽火台 05/25/2023</a></li>
-<li><a href="/comments/20230526/1888944.md" target="_blank">拜登被忽视的大动作</a></li>
-<li><a href="/comments/20230526/1888907.md" target="_blank">【杜耀明评论】禁书一味靠估 施政目中无人</a></li>
-<li><a href="/comments/20230526/1888888.md" target="_blank">非洲学生钱从何来？在中国月开销1.8万惹疑</a></li>
-<li><a href="/comments/20230526/1888887.md" target="_blank">中国疫情升温 高层考察戴口罩 院校管控升级</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
 <li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
 <li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
 
 </ul>
 </div>
