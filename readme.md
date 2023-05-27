@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230526/1889230.md">真的要变天？今天网热传1消息；中共急了推这计划，分析指解决不了就业；苦日子降临？</a></li>
-<li><a href="/sohnews/20230526/1889192.md">周恩来干女儿孙维世有多美？被林彪猛烈追求，与毛泽东共度两月。江青、叶群妒火中烧，趁文革发难。这时，周恩来做了一件不是人的事⋯⋯</a></li>
 <li><a href="/topimagenews/20230527/1889370.md">空屋率20%！这个被遗忘的中国省城 未来令人揪心</a></li>
 <li><a href="/topimagenews/20230527/1889508.md">陆校园活春！落地窗前“忘我狂震” 影片疯传</a></li>
 <li><a href="/topimagenews/20230527/1889371.md">太嚣张！中共特使抵俄 明确要求欧洲“绥靖”</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/comments/20230527/1889418.md">文昭：中国第一个破产的省会城市，事实已经出现！身为中产再不「换道」就晚了</a></li>
 <li><a href="/comments/20230526/1889215.md">王沪宁讲话比汪洋凶狠 再释信号铁腕治疆</a></li>
 <li><a href="/topimagenews/20230527/1889443.md">中国股市 史诗级大撤退，下一个轮到它……</a></li>
-<li><a href="/topimagenews/20230527/1889430.md">中共正在让人民为战争做准备</a></li>
 <li><a href="/cbnews/20230526/1889217.md">曾节明：中国教师正在沦为最惨的群体 ——中国今后那些职业最吃香？</a></li>
+<li><a href="/topimagenews/20230527/1889430.md">中共正在让人民为战争做准备</a></li>
 <li><a href="/topimagenews/20230527/1889455.md">政协副主席1亿，副省长2亿，这是笔大生意</a></li>
 <li><a href="/comments/20230527/1889486.md">华春莹反美闯祸！美军表态：中共武统美军立刻出击！普京猛抽习近平耳光，中国人发动音乐革命</a></li>
 <li><a href="/comments/20230527/1889510.md">中国神秘749局</a></li>
-<li><a href="/ssgc/20230527/1889505.md">〖微博谈〗这是毛主定律</a></li>
 <li><a href="/topimagenews/20230527/1889444.md">这叫节省？吉林公务餐新规：120元/人/餐 不得提供燕窝鱼翅？</a></li>
+<li><a href="/ssgc/20230527/1889505.md">〖微博谈〗这是毛主定律</a></li>
 <li><a href="/sohnews/20230527/1889415.md">淄博烧烤退烧太快，当地跟风开店的惨了；裁减第一共和银行千名员工，什么样的人能留下？俄罗斯再次袭击乌克兰，导弹无人机多被击落；英国最新“香港问题半年报告”，呼吁废除港版国安法</a></li>
-<li><a href="/cnnews/20230526/1889302.md">美元对手不是人民币！头号大敌竟然是“它”</a></li>
 <li><a href="/cnnews/hknews/20230527/1889520.md">一场豪门晚宴 “炸”出香港真正的顶级名媛</a></li>
+<li><a href="/cnnews/20230526/1889302.md">美元对手不是人民币！头号大敌竟然是“它”</a></li>
 <li><a href="/cbnews/20230527/1889509.md">短短10分钟去世！26岁姑娘前一晚吃完火锅嗓子疼</a></li>
+<li><a href="/cbnews/20230527/1889547.md">〖兲朝浮世绘〗在文艺作品里禁止反派角色就是了嘛，以后都是正派的看谁还说</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
 <li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 <li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
 
 </ul>
 </div>
