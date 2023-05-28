@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20230527/1889574.md">中共打台湾面临三大障碍！美前国防部官员：不要一天到晚自己骗自己【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230527/1889604.md">离谱！陕西宝鸡一高中校长在教育局办公室被打致大小便失禁入院</a></li>
 <li><a href="/lifebaike/20230527/1889600.md">看完日本人的三餐，你就会明白，为啥他们最长寿，而且胖子还最少</a></li>
-<li><a href="/topimagenews/20230528/1889720.md">大撒币白扬！花了中国大笔银子 此国却转身与美合作</a></li>
 <li><a href="/sohnews/20230527/1889631.md">陈破空：震动，三名将领神秘落马！反习或通敌？前任国防部长濒危！共军机密都交给了美国？没人效忠党国</a></li>
+<li><a href="/topimagenews/20230528/1889720.md">大撒币白扬！花了中国大笔银子 此国却转身与美合作</a></li>
 <li><a href="/baitai/20230528/1889742.md">上海房主崩溃了 新的苦日子降临中国</a></li>
 <li><a href="/cnnews/20230527/1889641.md">人民币汇率暴跌，让人脊背发凉，这绝不是阴谋论；严禁讨论！陆17省市公务员领薪数字人民币</a></li>
 <li><a href="/topimagenews/20230528/1889733.md">一律不准出境！中共国家文物局出新规</a></li>
 <li><a href="/finance/20230528/1889718.md">全国裁员潮 3.5亿中产将返贫变“中惨”阶级</a></li>
+<li><a href="/cbnews/20230528/1889749.md">江峰：国泰航空班机被击落</a></li>
 <li><a href="/sohnews/20230527/1889573.md">跨国镇压！中共特务胆子不小，FBI在加州上门抓捕；一不小心就“高级黑”，山东艺术生也犯事了；BratGPT是啥东西？大陆群发短信以公安名义“恐吓”：不缴钱，上门Q毙｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20230527/1889649.md">文革再来 中国继续取消演出 香港被波及</a></li>
-<li><a href="/cbnews/20230528/1889749.md">江峰：国泰航空班机被击落</a></li>
 <li><a href="/sohnews/20230527/1889681.md">🔥怎么干掉习近平？AI回答身份露馅；乌克兰竟取得世卫执委会席位 俄阻挠失败；“保护台湾的方法就是让普京输掉战争”；中共官场买官发大财 政协副主席1亿，副省长2亿【阿波罗网AL】</a></li>
 <li><a href="/ssgc/20230527/1889612.md">习仲勋不信学习领导人讲话有效</a></li>
 <li><a href="/headline/20230527/1889583.md">李辉遭欧洲冷遇却传要求欧洲以中国替代美国并让俄罗斯治理已占领乌克兰领土</a></li>
-<li><a href="/baitai/20230527/1889595.md">今天才知道，开空调一定要打开这个功能</a></li>
 <li><a href="/cnnews/20230528/1889760.md">移民部刚刚宣布：优先处理中国留学生学签申请</a></li>
-<li><a href="/sohnews/20230527/1889663.md">北京房市崩塌，藏习近平雄安大计；房产税来临，周孝正卖房逍遥海外；罗翔预言李诞命运，脱口秀大会来海外；福建统计局封海外；丹麦女首相突然笑场。</a></li>
+<li><a href="/baitai/20230527/1889595.md">今天才知道，开空调一定要打开这个功能</a></li>
 <li><a href="/lifebaike/20230528/1889723.md">1994年被迫划给俄罗斯的领土，面积比河南还大</a></li>
+<li><a href="/sohnews/20230527/1889663.md">北京房市崩塌，藏习近平雄安大计；房产税来临，周孝正卖房逍遥海外；罗翔预言李诞命运，脱口秀大会来海外；福建统计局封海外；丹麦女首相突然笑场。</a></li>
 <li><a href="/sohnews/20230527/1889614.md">文睿：快讯：乌克兰总司令，发出大反攻信号，大戏登场</a></li>
 <li><a href="/worldnews/usa/20230527/1889615.md">卢拉微妙拒绝普京邀访</a></li>
 <li><a href="/ssgc/20230528/1889787.md">〖微博谈〗中国从没打算“融入”</a></li>
-<li><a href="/baitai/20230528/1889693.md">掀新一轮运动！北京疯狂弹压「自媒体」 删罚110万账户 鼓动举报</a></li>
+<li><a href="/topimagenews/20230528/1889819.md">中国人最快的破产方式…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230528/1889907.md" target="_blank">高晓松爆骂！黄健翔恐惧！你懂的…</a></li>
+<li><a href="/comments/20230528/1889904.md" target="_blank">美国电影《中途岛之战》：美国的实用和日本的凄美</a></li>
 <li><a href="/comments/20230528/1889902.md" target="_blank">美国无论谁上台，都很难改变中美关系的现状</a></li>
 <li><a href="/comments/20230528/1889898.md" target="_blank">曾节明：中共政权的满清、蒙元意识</a></li>
 <li><a href="/comments/20230528/1889890.md" target="_blank">热帖：韩国楼市踩过的坑我们跨过去了？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230528/1889740.md" target="_blank">广宇：评稳定压倒一切</a></li>
 <li><a href="/comments/20230528/1889739.md" target="_blank">清华教授：中国将要经历一个并非短暂的经济收缩期</a></li>
 <li><a href="/comments/20230528/1889738.md" target="_blank">袁斌：蔡奇提让习思想“入脑入心入魂”，可能吗？</a></li>
-<li><a href="/comments/20230527/1889680.md" target="_blank">发现西藏神祕故事的美国人！</a></li>
-<li><a href="/comments/20230527/1889673.md" target="_blank">曾节明：川普不失为遏制中共的最佳人选</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
 <li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
 
 </ul>
 </div>
