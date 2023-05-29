@@ -11,8 +11,8 @@
 <li><a href="/cbnews/20230529/1890156.md">〖兲朝浮世绘〗国产大飞机首航？支持C919作为领导人专机</a></li>
 <li><a href="/topimagenews/20230529/1890098.md">晚上美女如云 白天忧国忧民 中共高官被抓包</a></li>
 <li><a href="/cbnews/20230529/1890213.md">中共组织部在人民日报发署名文章 宛如历史重演【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230529/1890321.md">几大征兆惊现！苦日子不是空穴来风；一张恐怖图，只是倒下的第一张多米诺骨牌</a></li>
 <li><a href="/topimagenews/20230529/1890079.md">《红孩儿十八赢》火爆网络，唱出三年真相遭封禁</a></li>
+<li><a href="/topimagenews/20230529/1890321.md">几大征兆惊现！苦日子不是空穴来风；一张恐怖图，只是倒下的第一张多米诺骨牌</a></li>
 <li><a href="/cnnews/20230529/1890288.md">西安自杀女大学生与房东的聊天记录，令人窒息…</a></li>
 <li><a href="/topimagenews/20230529/1890074.md">建筑工人搭伙做饭被罚15万，政府：不交就罚20倍</a></li>
 <li><a href="/comments/20230529/1890159.md">【微博精粹】反习势力在大学</a></li>
@@ -23,8 +23,8 @@
 <li><a href="/headline/20230529/1890057.md">耳光乐队《红孩儿十八赢》走红 网民：谁听了瑟瑟发抖？</a></li>
 <li><a href="/finance/20230529/1890269.md">华西村的暴富和没落：人均奔驰别墅到负债400亿</a></li>
 <li><a href="/topimagenews/20230529/1890238.md">封杀美光 美媒揭中共窘境：找不到下一目标</a></li>
-<li><a href="/worldnews/20230529/1890198.md">快讯：中国女富商在泰国被扣禁止离境</a></li>
 <li><a href="/cnnews/20230529/1890086.md">震惊！华人在英国开地下妓院, 施行奴隶制…</a></li>
+<li><a href="/worldnews/20230529/1890198.md">快讯：中国女富商在泰国被扣禁止离境</a></li>
 <li><a href="/yule/20230529/1890272.md">85岁的琼瑶，终于为自己的“横刀夺爱”付出代价</a></li>
 <li><a href="/cnnews/20230529/1890216.md">问题出在哪？一个45岁中产的坠落，多少人掉进“陷阱”</a></li>
 <li><a href="/cnnews/20230529/1890271.md">性与毒品，一位美国科技富翁的隐秘生活</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230530/1890456.md" target="_blank">【中文字幕】里根演讲《选择的时刻》，其中一句话让川普铭记在心。如果共和党总统能像里根，民主党总统像肯尼迪，美国就会有希望。如果每位总统都能像川普那样，世界就会和平。</a></li>
+<li><a href="/cbnews/20230530/1890450.md" target="_blank">只顾自拍！女子搭“中国最长扶梯” 惨摔滚下去</a></li>
 <li><a href="/cbnews/20230529/1890358.md" target="_blank">两亲共侨领洛杉矶被捕 背景都不简单</a></li>
 <li><a href="/cbnews/20230529/1890328.md" target="_blank">美国思想领袖：内斗拖垮俄罗斯，瓦戈纳2万士兵战死，普京未来显现，1917革命重演在即；乌军春季大反攻，中共不敢全力支援；俄乌战争2大走向！| #新闻大家谈</a></li>
 <li><a href="/cbnews/20230529/1890312.md" target="_blank">拜登与麦卡锡达成提高债务上限协议</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20230528/1889898.md" target="_blank">曾节明：中共政权的满清、蒙元意识</a></li>
 <li><a href="/cbnews/20230528/1295198.md" target="_blank">李跃华事件反映出主流医疗界的僵化与无可救药</a></li>
 <li><a href="/cbnews/20230528/1889884.md" target="_blank">二波疫情来袭 北京沦陷 多地阳性激增</a></li>
-<li><a href="/comments/20230528/1889845.md" target="_blank">【杰森视角】这个间谍故事海外华人必须看！老粉红人傻胆大，惊动美司法部长和FBI局长！中共借刀杀人，激怒美国司法界！FBI蒐集全套呈堂证供的途径出奇有效！</a></li>
-<li><a href="/cbnews/20230528/1889836.md" target="_blank">33%中国民众反对武统、22%接受不必非要统一</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230530/1890456.md" target="_blank">【中文字幕】里根演讲《选择的时刻》，其中一句话让川普铭记在心。如果共和党总统能像里根，民主党总统像肯尼迪，美国就会有希望。如果每位总统都能像川普那样，世界就会和平。</a></li>
 <li><a href="/comments/20230530/1890402.md" target="_blank">美国德州议会通过支持台湾决议 成立跨党派友台连线</a></li>
 <li><a href="/comments/20230529/1890367.md" target="_blank">时事大家谈：中国疫情又起 政府为何保持沉默？&#160;</a></li>
 <li><a href="/comments/20230529/1890366.md" target="_blank">时事大家谈：国泰事件继续发酵 再掀“辱华”风波？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230528/1890005.md" target="_blank">中共之吃里扒外，为何在共产党国家中也是独一无二的？</a></li>
 <li><a href="/comments/20230528/1890001.md" target="_blank">美国搞垮中华民国，究竟是糊涂，还是战略故意？</a></li>
 <li><a href="/comments/20230528/1889973.md" target="_blank">科默公布拜登贿赂计划金额，对FBI局长发最后通牒。国税局举报人现身，指证干预亨特调查的幕后黑手，竟然是他！</a></li>
-<li><a href="/comments/20230528/1889965.md" target="_blank">美国人发现西藏神祕地带！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
 
 </ul>
 </div>
