@@ -8,9 +8,9 @@
 <li><a href="/finance/20230530/1890438.md">当年让王健林留下所有利润的县长 如今怎样了</a></li>
 <li><a href="/topimagenews/20230530/1890698.md">白色恐怖！云南冲突升级 中共定性“暴乱” 纳家营断网</a></li>
 <li><a href="/topimagenews/20230530/1890566.md">【微博精粹】六四到了 一尊跟死人挂一起 这症兆</a></li>
-<li><a href="/topimagenews/20230530/1890495.md">中国经济还有希望吗？这些数据让网友们很悲观</a></li>
 <li><a href="/topimagenews/20230530/1890486.md">武汉这波操作要载入史册了</a></li>
 <li><a href="/topimagenews/20230530/1890494.md">俄高超音速导弹被击落后 中共赶紧做了1件事</a></li>
+<li><a href="/topimagenews/20230530/1890495.md">中国经济还有希望吗？这些数据让网友们很悲观</a></li>
 <li><a href="/cnnews/20230530/1890549.md">归不了故里！中国前外交部长，无处安放</a></li>
 <li><a href="/cbnews/20230530/1890575.md">〖兲朝浮世绘〗一场爆炸的烟花，炸出来真正的警民关系</a></li>
 <li><a href="/topimagenews/20230530/1890436.md">最想跟谁共进晚餐？他快问快答秒回“习近平”</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/comments/20230530/1890548.md">俄乌战的现状与结局，被他一把“剧透”了个干净</a></li>
 <li><a href="/cnnews/20230530/1890684.md">地方政府真是穷疯了</a></li>
 <li><a href="/cnnews/20230530/1890655.md">别追AI了 华尔街下一个热门押注竟是…</a></li>
-<li><a href="/topimagenews/20230530/1890629.md">伤亡惨重！传乌南俄军兵营被击中 数百士兵死伤</a></li>
+<li><a href="/cnnews/20230530/1890736.md">中共砸碎编外人员饭碗！这十多个城市，开始了；民族企业太多，爱国群众明显不够用了…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230531/1890853.md" target="_blank">澳门更严厉的国家安全法生效</a></li>
 <li><a href="/comments/20230531/1890844.md" target="_blank">评论 | 胡平：民主与专制的终极之战</a></li>
 <li><a href="/comments/20230531/1890843.md" target="_blank">评论 | 滕彪：极权与笑话（下）</a></li>
 <li><a href="/comments/20230531/1890842.md" target="_blank">评论 | 滕彪：当极权与笑话相遇（上）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230530/1890496.md" target="_blank">杰森博士：地方债危机动摇中共统治根基！中国经济“烂透”，专家愤怒指责华尔街误导 ｜新闻烽火台 05/29/2023</a></li>
 <li><a href="/comments/20230530/1890485.md" target="_blank">历史上最蹊跷的弹劾案。德州总检察长肯·帕克斯顿被自己人闪电弹劾。他究竟得罪了谁？川普和克鲁兹力挺。</a></li>
 <li><a href="/comments/20230530/1890456.md" target="_blank">【中文字幕】里根演讲《选择的时刻》，其中一句话让川普铭记在心。如果共和党总统能像里根，民主党总统像肯尼迪，美国就会有希望。如果每位总统都能像川普那样，世界就会和平。</a></li>
-<li><a href="/comments/20230530/1890402.md" target="_blank">美国德州议会通过支持台湾决议 成立跨党派友台连线</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
 <li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
 <li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
 
 </ul>
 </div>
