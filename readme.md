@@ -10,9 +10,9 @@
 <li><a href="/topimagenews/20230530/1890681.md">中共遇最致命问题 习近平带政治局专门“集体学习”【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230530/1890604.md">江峰：“让领导先飞：C919欧美不给适航证的真实原因很简单：276项只通过了34项！安全压根儿不合格！首飞？怎麽又是东航！【江峰漫谈20230529第682期】</a></li>
 <li><a href="/topimagenews/20230531/1890868.md">无人理睬习提议：神舟16号升空 习盛大攻势背后</a></li>
+<li><a href="/yule/20230531/1890882.md">范冰冰复出之谜！原来是傍上了这个大金腿</a></li>
 <li><a href="/topimagenews/20230530/1890787.md">官员当“地铁痴汉”袭臀女乘客 惩处曝光让中国民众气炸了</a></li>
 <li><a href="/topimagenews/20230530/1890697.md">马斯克专机抵北京 行程保密惹猜测</a></li>
-<li><a href="/yule/20230531/1890882.md">范冰冰复出之谜！原来是傍上了这个大金腿</a></li>
 <li><a href="/finance/20230530/1890644.md">月入上万？大厂第一批被裁的人，开始摆摊了</a></li>
 <li><a href="/cnnews/20230530/1890736.md">中共砸碎编外人员饭碗！这十多个城市，开始了；民族企业太多，爱国群众明显不够用了…</a></li>
 <li><a href="/comments/20230531/1890861.md">普京筹码将用尽 北京调头 时机已晚</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/baitai/20230530/1890628.md">廊坊一派出所出事 公安厅叹「雪崩」被群嘲</a></li>
 <li><a href="/cnnews/20230530/1890670.md">印度神童6大预言曝光 警告台湾世界小心6月</a></li>
 <li><a href="/lifebaike/20230530/1890622.md">【老照片】知道这段海域的血腥历史之后 我再也没去珠海与澳门</a></li>
-<li><a href="/cnnews/20230530/1890600.md">不得了！39名俄军士兵枪杀军官叛逃</a></li>
 <li><a href="/baitai/20230530/1890673.md">【立此存照】“别秀下限了，你们的无知真的很可怕”</a></li>
+<li><a href="/ccpdope/20230531/1890886.md">天津医院厕所标示全是英文 网友揭示原因</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230531/1891034.md" target="_blank">邓小平执意镇压六四学生 李锐：半个毛泽东</a></li>
 <li><a href="/comments/20230531/1891010.md" target="_blank">从儿童被迫害看中共的邪恶本质</a></li>
 <li><a href="/comments/20230531/1891009.md" target="_blank">王友群：昨天中共座上宾 今日美国阶下囚</a></li>
 <li><a href="/comments/20230531/1891008.md" target="_blank">立此存照:“别秀下限了，你们的无知真的很可怕”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230531/1890844.md" target="_blank">评论 | 胡平：民主与专制的终极之战</a></li>
 <li><a href="/comments/20230531/1890843.md" target="_blank">评论 | 滕彪：极权与笑话（下）</a></li>
 <li><a href="/comments/20230531/1890842.md" target="_blank">评论 | 滕彪：当极权与笑话相遇（上）</a></li>
-<li><a href="/comments/20230531/1890808.md" target="_blank">BLACKPINK辱华被骂翻！《北京欢迎你》躺枪</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
 <li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
 
 </ul>
 </div>
