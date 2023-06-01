@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230531/1891087.md">二战以来最大规模空袭! 攻击莫斯科无人机群打哪来? 专家研判这3方向….</a></li>
 <li><a href="/finance/20230531/1891022.md">从根基开始腐烂… 中国经济正陷入深渊</a></li>
-<li><a href="/funmedia/20230531/1890996.md">为什么乘客下飞机后，行李箱“标签”不撕掉？知道后你还敢撕吗？</a></li>
 <li><a href="/sohnews/20230531/1891014.md">习近平让北京4百万人搬雄安的绝招｜ #时事金扫描 #金然</a></li>
 <li><a href="/sohnews/20230531/1891044.md">惊人秘密：顶级华裔物理学家张首晟自裁，疑风投教父沈南鹏为幕后主使，因涉中共绝密计画被做掉！【新闻最嘲点 姜光宇】2023.0530</a></li>
 <li><a href="/baitai/20230601/1891224.md">六四前 习讲话透中共危机重重</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/comments/20230601/1891235.md">3头“灰犀牛”来势汹汹 中国经济气虚恐难招架</a></li>
 <li><a href="/sohnews/20230531/1891031.md">文睿：吓坏了，习近平口不择言，看样子，要折腾不下去了</a></li>
 <li><a href="/ssgc/20230531/1891029.md">〖微博谈〗金融恶化如风暴登陆</a></li>
-<li><a href="/cbnews/20230531/1891071.md">这学校2天内4人死亡还封锁消息 陆多间大学“维稳式”管理挨轰</a></li>
 <li><a href="/topimagenews/20230531/1891130.md">换上蔡奇 习将面临“风高浪急还是惊涛骇浪”?</a></li>
+<li><a href="/cbnews/20230531/1891071.md">这学校2天内4人死亡还封锁消息 陆多间大学“维稳式”管理挨轰</a></li>
 <li><a href="/worldnews/20230601/1891236.md">朝鲜不断饿死人，金正恩却变这样…</a></li>
 <li><a href="/headline/20230531/1891120.md">习近平吁坚持极限思维 预告要经历惊涛骇浪 反映权力受巨大挑战丶感不安</a></li>
-<li><a href="/topimagenews/20230531/1891091.md">风暴阴影立战功！百分百命中 马里乌波尔受重创500多俄军伤亡</a></li>
 <li><a href="/baitai/20230601/1891272.md">大反攻对普京意味着什么？习日子相当难过</a></li>
-<li><a href="/sohnews/20230531/1891037.md">20230531直播：二战后莫斯科再遭大规模空袭；中美已成路人，见面无话可说；世界普遍调降中国预期，三头灰犀牛来势汹汹；习近平陷入极限思维，准备经受惊涛骇浪的重大考验。（20230531第1188期）</a></li>
+<li><a href="/topimagenews/20230531/1891091.md">风暴阴影立战功！百分百命中 马里乌波尔受重创500多俄军伤亡</a></li>
 <li><a href="/topimagenews/20230531/1891005.md">美军斥资50亿造新潜艇 能击沉中共侵台舰队</a></li>
+<li><a href="/sohnews/20230531/1891037.md">20230531直播：二战后莫斯科再遭大规模空袭；中美已成路人，见面无话可说；世界普遍调降中国预期，三头灰犀牛来势汹汹；习近平陷入极限思维，准备经受惊涛骇浪的重大考验。（20230531第1188期）</a></li>
 <li><a href="/sohnews/20230601/1891234.md">莫斯科遭大规模袭击；马斯克握手秦刚 范冰冰携手马斯克老妈；拜登授权美军打台海之战；普京遭遇软硬手段 乌军大反攻日子定了.</a></li>
-<li><a href="/worldnews/20230531/1891111.md">乌军大反攻 莫斯科市郊炼油厂惊爆陷火海</a></li>
 <li><a href="/topimagenews/20230531/1891145.md">武汉这波操作要载入史册了；彭博：用脚投票，中国熊市将来临；远东开发？东北现状很残酷</a></li>
+<li><a href="/worldnews/20230531/1891111.md">乌军大反攻 莫斯科市郊炼油厂惊爆陷火海</a></li>
 <li><a href="/ccpdope/20230531/1891042.md">“烟花爆竹”余音尚在 雪真的崩了</a></li>
 <li><a href="/sohnews/20230531/1891013.md">财政枯竭！习近平要征房产税了｜ #时事金扫描 #金然  #shorts</a></li>
+<li><a href="/sohnews/20230601/1891259.md">备战？习近平下令稳定供应 防备食品能源被禁</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230601/1891383.md" target="_blank">李燕铭：习近平六四敏感期召开国安委会议 两句话凸显中南海惊惧中共末日危机 蔡奇破例添新头衔权力再扩大 习重用蔡奇暗藏玄机 习近平连任与中共末日（130）</a></li>
+<li><a href="/comments/20230601/1891381.md" target="_blank">张3丰的世界:毕节殴打记者事件，恰好证明了一个真相</a></li>
+<li><a href="/comments/20230601/1891380.md" target="_blank">唐一水:生育率暴跌，关我屁事</a></li>
 <li><a href="/comments/20230601/1891366.md" target="_blank">战略性退却是成功的核心——从公民党宣布解散想起的</a></li>
 <li><a href="/comments/20230601/1891345.md" target="_blank">蔡明芳:“没有中国的全球化”才要开始</a></li>
 <li><a href="/comments/20230601/1891319.md" target="_blank">有冇搞错:台海之战 美军有四波操作</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230531/1891196.md" target="_blank">酒精烟瘾恶化！ 南韩国家情报院：金正恩体重140公斤 疑有睡眠障碍</a></li>
 <li><a href="/comments/20230531/1891195.md" target="_blank">首度承认！中国疾控中心前主任高福：不应排除病毒来自实验室外泄</a></li>
 <li><a href="/comments/20230531/1891183.md" target="_blank">麦卡锡-拜登债务交易，艰难通过第一关。川普意外保持沉默，麦卡锡透露奥秘。FBI局长拒交文件，将被控藐视国会。</a></li>
-<li><a href="/comments/20230531/1891175.md" target="_blank">【梁京评论】习近平的底线思维与中国的政治文化陷阱（上）</a></li>
-<li><a href="/comments/20230531/1891137.md" target="_blank">【中文字幕】川普改变游戏规则，结束对非法移民的巨大“磁铁”，保护美国边境。</a></li>
-<li><a href="/comments/20230531/1891136.md" target="_blank">“没有中国的全球化”才刚刚开始</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 <li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 <li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 <li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 
 </ul>
 </div>
