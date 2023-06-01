@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/baitai/20230601/1891224.md">六四前 习讲话透中共危机重重</a></li>
-<li><a href="/topimagenews/20230531/1891130.md">换上蔡奇 习将面临“风高浪急还是惊涛骇浪”?</a></li>
 <li><a href="/comments/20230601/1891235.md">3头“灰犀牛”来势汹汹 中国经济气虚恐难招架</a></li>
 <li><a href="/baitai/20230601/1891272.md">大反攻对普京意味着什么？习日子相当难过</a></li>
 <li><a href="/worldnews/20230601/1891236.md">朝鲜不断饿死人，金正恩却变这样…</a></li>
@@ -22,10 +21,11 @@
 <li><a href="/topimagenews/20230601/1891360.md">金正恩的体重多少？难逃AI鹰眼</a></li>
 <li><a href="/cnnews/20230601/1891322.md">马斯克妈为何牵手范冰冰？老马一到中国就满口…</a></li>
 <li><a href="/comments/20230601/1891296.md">红旗下&quot;演讲&quot;不做韭菜！传被带走…</a></li>
-<li><a href="/cbnews/20230601/1891314.md">上海女生深夜举吊瓶赶地铁引发热议，本人发声</a></li>
-<li><a href="/baitai/20230601/1891264.md">马斯克访中被批「自相矛盾」「向北京传递错误信号」</a></li>
 <li><a href="/topimagenews/20230601/1891415.md">超中共2军界实力派大人物事件 刘亚洲占尽中共最好资源</a></li>
+<li><a href="/baitai/20230601/1891264.md">马斯克访中被批「自相矛盾」「向北京传递错误信号」</a></li>
+<li><a href="/cbnews/20230601/1891314.md">上海女生深夜举吊瓶赶地铁引发热议，本人发声</a></li>
 <li><a href="/cnnews/20230601/1891301.md">美少女喝到断片，之后收到3段视频后崩溃了</a></li>
+<li><a href="/cnnews/20230601/1891456.md">广西一局长出轨女经理 露骨聊天记录曝 纪委介入</a></li>
 <li><a href="/cnnews/20230601/1891243.md">炸锅：19岁女大学生遭霸凌坠亡，后续让网友愤怒</a></li>
 <li><a href="/cnnews/20230601/1891238.md">苹果”我的照片流”服务将中止 赶快备份iCloud</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230601/1891550.md" target="_blank">神准！乌军士兵以霰弹枪 将俄军柳叶刀无人机击落</a></li>
 <li><a href="/comments/20230601/1891437.md" target="_blank">【独家重磅】李燕铭：团中央高层清洗前奏 习家军阿东接替贺军科任共青团中央第一书记 成为中共最年轻正部级高官 背后政治靠山揭秘 贺军科与习家渊源深仕途看涨 团派团灭内幕（二六） 习连任后高层人事大洗牌（101）</a></li>
 <li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
 <li><a href="/comments/20230601/1891416.md" target="_blank">“AI堪比疫情和核战，有灭绝人类的风险！”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230601/1891235.md" target="_blank">3头“灰犀牛”来势汹汹 中国经济气虚恐难招架</a></li>
 <li><a href="/comments/20230601/1891223.md" target="_blank">聚焦维吾尔 | 伊利夏提：被剥夺的民族身份</a></li>
 <li><a href="/comments/20230531/1891205.md" target="_blank">中国研发生成式AI 专家坦言与GPT-4差距非常大</a></li>
-<li><a href="/comments/20230531/1891204.md" target="_blank">心理战！锁定俄高官权贵 无人机袭击莫斯科高级住宅区</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 <li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
 
 </ul>
 </div>
