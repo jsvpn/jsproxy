@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20230602/1891711.md">全国网友们都在围观柳州的精彩故事</a></li>
 <li><a href="/ccpdope/20230602/1891738.md">郭伯雄全家入监 老江午睡没人站岗</a></li>
 <li><a href="/topimagenews/20230602/1891929.md">“战狼”终惹出祸？沉默2天后 美防长威慑北京：事态可能会急剧失控</a></li>
-<li><a href="/baitai/20230601/1891625.md">马斯克访华风光无限 一个反应却太反常</a></li>
 <li><a href="/topimagenews/20230602/1891744.md">同一件事：北京宣传，柏林沉默</a></li>
 <li><a href="/topimagenews/20230602/1891761.md">北京在火药桶旁玩火 撞机事件一触即发</a></li>
-<li><a href="/topimagenews/20230602/1891881.md">俄罗斯电视台开出终结普丁统治的第一枪 反对派高喊“2024换总统”</a></li>
 <li><a href="/ssgc/20230602/1891833.md">〖微博谈〗现在这三匹马全部断腿了</a></li>
+<li><a href="/topimagenews/20230602/1891881.md">俄罗斯电视台开出终结普丁统治的第一枪 反对派高喊“2024换总统”</a></li>
 <li><a href="/baitai/20230602/1891682.md">马斯克中国行竟然火了范冰冰</a></li>
 <li><a href="/sohnews/20230602/1891774.md">🔥🔥上海即将全军覆没❗第二波疫情已经开始❗中南海也被病毒围剿❗</a></li>
-<li><a href="/cbnews/20230602/1891843.md">〖兲朝浮世绘〗马斯克去给中国经济牵线搭桥去了？</a></li>
 <li><a href="/topimagenews/20230602/1891916.md">人民日报现惊人一幕！这个词竟出现142次！【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230602/1891843.md">〖兲朝浮世绘〗马斯克去给中国经济牵线搭桥去了？</a></li>
+<li><a href="/topimagenews/20230602/1891917.md">27除3是多少？ ChatGPT“神回1答案” 全网看傻：你不是要统治世界？</a></li>
 <li><a href="/topimagenews/20230602/1891856.md">【微博精粹】在沙漠里搞社会主义 他们会搞得沙子都短缺</a></li>
 <li><a href="/lifebaike/20230602/1891734.md">宋徽宗被俘虏后的真实生活</a></li>
-<li><a href="/topimagenews/20230602/1891917.md">27除3是多少？ ChatGPT“神回1答案” 全网看傻：你不是要统治世界？</a></li>
-<li><a href="/cnnews/20230602/1891736.md">赵紫阳软禁内情 罕为人知一次外出遭监控内幕</a></li>
 <li><a href="/health/20230602/1891782.md">为什么一进医院就要先抽血？医生揭秘：抽出来的血，最终去哪了？</a></li>
-<li><a href="/ccpdope/20230602/1891668.md">大陆青年失业率高涨 中共坐等火山喷发</a></li>
+<li><a href="/cnnews/20230602/1891736.md">赵紫阳软禁内情 罕为人知一次外出遭监控内幕</a></li>
 <li><a href="/topimagenews/20230602/1891886.md">福建舰的第一道“阴影”！甲板疑似出现大裂缝 中共专家急忙“辟谣”</a></li>
+<li><a href="/ccpdope/20230602/1891668.md">大陆青年失业率高涨 中共坐等火山喷发</a></li>
 <li><a href="/cnnews/20230602/1891803.md">习近平对中央委员、省部级大员讲话公开 最看重一件事 【阿波罗网报道】</a></li>
 <li><a href="/comments/20230602/1891760.md">张铁林批文革！入籍英国原因在这…</a></li>
+<li><a href="/baitai/20230602/1891850.md">害怕什么？习近平警告中共国安为「最坏情况」做准备</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230602/1892048.md" target="_blank">【经典电影】《双旗镇刀客》 导演：何平 主演：孙海英、高伟、赵玛娜、常江 20世纪华语片百强之一</a></li>
+<li><a href="/comments/20230602/1892043.md" target="_blank">时事大家谈：天安门的爱情，木樨地的大屠杀；六四幸存者的34年：得到了什么？失去了什么？</a></li>
 <li><a href="/comments/20230602/1892021.md" target="_blank">【经典电影】《铁血昆仑关》 导演：杨光远 主演：刘颖涛、刘大为、高强、谭峰、郑玉、郑晓宁、舒耀瑄、王玉璋</a></li>
 <li><a href="/comments/20230602/1892010.md" target="_blank">民主党施计，急速通过债务上限协议。立法者要求，将FBI局长关进国会大厦监狱。亨特家庭真相大片公布，网站疑遭黑客攻击。</a></li>
 <li><a href="/comments/20230602/1891993.md" target="_blank">六四将近言论再紧缩？中国游戏玩家发现“平”成敏感辞汇</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230601/1891618.md" target="_blank">评论 | 余杰：刘亚洲从来没有认同过民主自由价值</a></li>
 <li><a href="/comments/20230601/1891602.md" target="_blank">时事大家谈：中国拒绝美中防长会晤 双边关系回暖势头受阻？高福称不排除病毒来自实验室 揭开冰山一角？</a></li>
 <li><a href="/comments/20230601/1891591.md" target="_blank">文昭：在没打仗的时候，从哪些角度判断中共的战力？</a></li>
-<li><a href="/comments/20230601/1891583.md" target="_blank">富比世披露︰TikTok全球用户财务资料 存于中国服务器</a></li>
-<li><a href="/comments/20230601/1891582.md" target="_blank">【新闻拍案惊奇】“歼16”拦截美机有多危险！西方对中共的反制妙招是？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
 
 </ul>
 </div>
