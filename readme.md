@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230602/1891732.md">上海富豪，正扎堆套现…</a></li>
 <li><a href="/baitai/20230602/1891755.md">美经济学家：习近平的幻想已破灭</a></li>
 <li><a href="/topimagenews/20230602/1891929.md">“战狼”终惹出祸？沉默2天后 美防长威慑北京：事态可能会急剧失控</a></li>
-<li><a href="/ccpdope/20230602/1891738.md">郭伯雄全家入监 老江午睡没人站岗</a></li>
 <li><a href="/sohnews/20230602/1891774.md">🔥🔥上海即将全军覆没❗第二波疫情已经开始❗中南海也被病毒围剿❗</a></li>
 <li><a href="/topimagenews/20230602/1891744.md">同一件事：北京宣传，柏林沉默</a></li>
 <li><a href="/ssgc/20230602/1891833.md">〖微博谈〗现在这三匹马全部断腿了</a></li>
@@ -18,16 +16,18 @@
 <li><a href="/topimagenews/20230602/1891916.md">人民日报现惊人一幕！这个词竟出现142次！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230602/1891843.md">〖兲朝浮世绘〗马斯克去给中国经济牵线搭桥去了？</a></li>
 <li><a href="/topimagenews/20230602/1891917.md">27除3是多少？ ChatGPT“神回1答案” 全网看傻：你不是要统治世界？</a></li>
-<li><a href="/topimagenews/20230602/1891856.md">【微博精粹】在沙漠里搞社会主义 他们会搞得沙子都短缺</a></li>
 <li><a href="/sohnews/20230602/1891969.md">张太雷强占“中共之花”；向警予丑闻闹到中央；凯丰把人妻变“私人祕书”；党魁撑腰，高级将领霸占自己侄女；江泽民带领文武百官秽乱。｜ #百年真相</a></li>
-<li><a href="/lifebaike/20230602/1891734.md">宋徽宗被俘虏后的真实生活</a></li>
+<li><a href="/topimagenews/20230602/1891856.md">【微博精粹】在沙漠里搞社会主义 他们会搞得沙子都短缺</a></li>
 <li><a href="/health/20230602/1891782.md">为什么一进医院就要先抽血？医生揭秘：抽出来的血，最终去哪了？</a></li>
-<li><a href="/cnnews/20230602/1891736.md">赵紫阳软禁内情 罕为人知一次外出遭监控内幕</a></li>
 <li><a href="/topimagenews/20230602/1891886.md">福建舰的第一道“阴影”！甲板疑似出现大裂缝 中共专家急忙“辟谣”</a></li>
+<li><a href="/ccpdope/20230602/1892047.md">郭伯雄惊曝江的罕见罪行 轻判无期</a></li>
 <li><a href="/comments/20230602/1891760.md">张铁林批文革！入籍英国原因在这…</a></li>
 <li><a href="/cnnews/20230602/1891803.md">习近平对中央委员、省部级大员讲话公开 最看重一件事 【阿波罗网报道】</a></li>
 <li><a href="/health/20230602/1891932.md">中医：最耗伤身体的9种恶习，必须戒掉</a></li>
-<li><a href="/ccpdope/20230602/1892047.md">郭伯雄惊曝江的罕见罪行 轻判无期</a></li>
+<li><a href="/topimagenews/20230602/1891893.md">最后通牒? 传中共威胁菲律宾 6月15日前拖走仁爱礁“搁浅”军舰</a></li>
+<li><a href="/cnnews/20230602/1891909.md">女儿去上学…中午学校却打来“孩子去世了” 爸看监视器一幕气炸</a></li>
+<li><a href="/finance/20230602/1892013.md">穷疯了闯下大祸 河南急拨两亿元救小麦；从根烂… 中国经济陷深渊；习近平惨被14国抛弃</a></li>
+<li><a href="/baitai/20230602/1891850.md">害怕什么？习近平警告中共国安为「最坏情况」做准备</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230603/1892167.md" target="_blank">金星揭中共假新闻！粉红矿必看</a></li>
+<li><a href="/comments/20230603/1892162.md" target="_blank">网海拾贝:中共御用专家为何在新冠起源上突然改口？</a></li>
 <li><a href="/comments/20230603/1892156.md" target="_blank">袁斌：毕节警察殴打记者只是“法律意识淡漠”吗？</a></li>
 <li><a href="/comments/20230603/1892155.md" target="_blank">陈刚：六四屠杀、活摘器官、清零</a></li>
 <li><a href="/comments/20230603/1892154.md" target="_blank">王赫：中共玩流氓战法 中美军事紧张关系难缓解</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230602/1891839.md" target="_blank">宋国诚：中国的“新义和团主义”与“二次文革”</a></li>
 <li><a href="/comments/20230602/1891814.md" target="_blank">中共对美多领域宣战 ｜#方菲时间</a></li>
 <li><a href="/comments/20230602/1891795.md" target="_blank">宇宙奇葩——产1000斤麦子评5级教授 教育大跃进 【欺世大观】206</a></li>
-<li><a href="/comments/20230602/1891775.md" target="_blank">文昭：24发高超音速导弹全歼美航母舰队！演习报告都抄俄爹？</a></li>
-<li><a href="/comments/20230602/1891770.md" target="_blank">两党言和 不增预算 换债务上限宽限两年【方伟时间-20230601】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
 <li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
 
 </ul>
 </div>
