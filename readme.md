@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20230603/1892406.md">中共只等火山喷发，千万愤青恐成北京大噩梦；人民币难干掉美元？揭3大死穴</a></li>
 <li><a href="/sohnews/20230603/1892389.md">习震怒下最后通牒!台海战争或和平? 场面…很难看。北京两岸媒体人峰会 台媒冷处理 帝师三项任务拿台湾。一桩国赔掀起中国人与台湾人争议。@democraticTaiwanChannel</a></li>
 <li><a href="/ssgc/20230603/1892385.md">习5个月换15公安厅长 上海情况异常</a></li>
-<li><a href="/baitai/20230604/1892480.md">广西大搞「晨读晚诵」 文革重现条件已备齐</a></li>
 <li><a href="/topimagenews/20230604/1892626.md">【微博精粹】加速师真刹不住了</a></li>
+<li><a href="/baitai/20230604/1892480.md">广西大搞「晨读晚诵」 文革重现条件已备齐</a></li>
 <li><a href="/lifebaike/20230604/1892524.md">男性的鼻毛为何会“窜”出来？鼻毛生长旺盛说明什么？涨知识了</a></li>
 <li><a href="/headline/20230604/1892495.md">美国国务院在天安门事件34周年发表声明</a></li>
 <li><a href="/topimagenews/20230604/1892545.md">乌俄战争烧掉莫斯科多少钱？数据太震撼</a></li>
+<li><a href="/ccpdope/20230604/1892630.md">致习近平主席的一封公开信</a></li>
 <li><a href="/weiquan/20230604/1892610.md">紧急关注&#65306;北京勇敢女子高处挥舞处挥美国国旗&#12289;标语和抛洒&#12298;独立宣言&#12299;选段 被保安控制</a></li>
 <li><a href="/sohnews/20230603/1892384.md">🔥赫然六四新发现 戒严部队二十五万 14个陆军集团军…</a></li>
-<li><a href="/ccpdope/20230604/1892630.md">致习近平主席的一封公开信</a></li>
 <li><a href="/ccpdope/20230604/1892478.md">塔利班暴揍伊朗 拜登白宫偷着乐？</a></li>
 <li><a href="/sohnews/20230603/1892401.md">同样的配方？房价崩盘最有可能的形式……医护人员也开始降薪❗️❗️</a></li>
 <li><a href="/baitai/20230603/1892426.md">广西官员出轨丑闻持续发酵 又牵出一个胡局</a></li>
 <li><a href="/cnnews/20230604/1892557.md">高校女生答辩被吓出表情包 导师疯狂护“崽”</a></li>
+<li><a href="/cnnews/20230604/1892628.md">触法律红线惹大麻烦！手机没删 刚进美国就被捕 华男面临20年监禁</a></li>
 <li><a href="/cbnews/20230604/1892511.md">视频来了！ 台海惊险一幕 共舰与美舰险相撞</a></li>
 <li><a href="/ssgc/20230604/1892592.md">〖微博谈〗等到花儿也谢了</a></li>
 <li><a href="/headline/20230604/1892492.md">中一名电动自行车企业老板在巴黎南郊被拘</a></li>
-<li><a href="/cnnews/20230604/1892628.md">触法律红线惹大麻烦！手机没删 刚进美国就被捕 华男面临20年监禁</a></li>
+<li><a href="/comments/20230604/1892641.md">女彭载舟鸟巢冲塔：没有时间了</a></li>
 <li><a href="/sohnews/20230604/1892510.md">陈破空：六四，中国爆发多起抗议：北京女子撒传单！清华大学惊现打倒。香港多人挺身而出。武汉家长群起示威。直播与互动。美东6月3日晚8点、即中港台6月4日早8点</a></li>
 <li><a href="/baitai/20230604/1892481.md">【敏感词库】鸟巢、玲珑塔、五月天演唱会、独立宣言</a></li>
-<li><a href="/comments/20230604/1892641.md">女彭载舟鸟巢冲塔：没有时间了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
 <li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
 
 </ul>
 </div>
