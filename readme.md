@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230604/1892465.md">清华大学内部大屏幕惊现真相口号 网友：中国还有希望！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230603/1892406.md">中共只等火山喷发，千万愤青恐成北京大噩梦；人民币难干掉美元？揭3大死穴</a></li>
-<li><a href="/cnnews/20230603/1892342.md">闭关锁国、阶级斗争 习近平讲话做出肯定？【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230603/1892389.md">习震怒下最后通牒!台海战争或和平? 场面…很难看。北京两岸媒体人峰会 台媒冷处理 帝师三项任务拿台湾。一桩国赔掀起中国人与台湾人争议。@democraticTaiwanChannel</a></li>
 <li><a href="/ssgc/20230603/1892385.md">习5个月换15公安厅长 上海情况异常</a></li>
 <li><a href="/baitai/20230604/1892480.md">广西大搞「晨读晚诵」 文革重现条件已备齐</a></li>
 <li><a href="/lifebaike/20230604/1892524.md">男性的鼻毛为何会“窜”出来？鼻毛生长旺盛说明什么？涨知识了</a></li>
+<li><a href="/health/20230603/1892348.md">研究证实两类超级蔬菜抗癌第一 应天天吃</a></li>
 <li><a href="/topimagenews/20230604/1892545.md">乌俄战争烧掉莫斯科多少钱？数据太震撼</a></li>
 <li><a href="/headline/20230604/1892495.md">美国国务院在天安门事件34周年发表声明</a></li>
-<li><a href="/health/20230603/1892348.md">研究证实两类超级蔬菜抗癌第一 应天天吃</a></li>
+<li><a href="/topimagenews/20230604/1892626.md">【微博精粹】加速师真刹不住了</a></li>
 <li><a href="/yule/20230603/1892370.md">63岁沈丹萍两个女儿颜值高 中德混血五官秀丽</a></li>
 <li><a href="/ccpdope/20230604/1892478.md">塔利班暴揍伊朗 拜登白宫偷着乐？</a></li>
 <li><a href="/sohnews/20230603/1892384.md">🔥赫然六四新发现 戒严部队二十五万 14个陆军集团军…</a></li>
-<li><a href="/topimagenews/20230604/1892626.md">【微博精粹】加速师真刹不住了</a></li>
 <li><a href="/sohnews/20230603/1892401.md">同样的配方？房价崩盘最有可能的形式……医护人员也开始降薪❗️❗️</a></li>
 <li><a href="/baitai/20230603/1892426.md">广西官员出轨丑闻持续发酵 又牵出一个胡局</a></li>
-<li><a href="/cbnews/20230604/1892511.md">视频来了！ 台海惊险一幕 共舰与美舰险相撞</a></li>
-<li><a href="/cnnews/20230604/1892557.md">高校女生答辩被吓出表情包 导师疯狂护“崽”</a></li>
 <li><a href="/weiquan/20230604/1892610.md">紧急关注&#65306;北京勇敢女子高处挥舞处挥美国国旗&#12289;标语和抛洒&#12298;独立宣言&#12299;选段 被保安控制</a></li>
+<li><a href="/cnnews/20230604/1892557.md">高校女生答辩被吓出表情包 导师疯狂护“崽”</a></li>
+<li><a href="/cbnews/20230604/1892511.md">视频来了！ 台海惊险一幕 共舰与美舰险相撞</a></li>
 <li><a href="/headline/20230604/1892492.md">中一名电动自行车企业老板在巴黎南郊被拘</a></li>
-<li><a href="/health/20230603/1892340.md">40岁以后的人，锻炼要注意，这些运动其实并不适合你</a></li>
-<li><a href="/baitai/20230603/1892434.md">经历六四退伍老兵的反思：对人民有罪</a></li>
+<li><a href="/ccpdope/20230604/1892630.md">致习近平主席的一封公开信</a></li>
+<li><a href="/baitai/20230604/1892481.md">【敏感词库】鸟巢、玲珑塔、五月天演唱会、独立宣言</a></li>
 <li><a href="/sohnews/20230604/1892510.md">陈破空：六四，中国爆发多起抗议：北京女子撒传单！清华大学惊现打倒。香港多人挺身而出。武汉家长群起示威。直播与互动。美东6月3日晚8点、即中港台6月4日早8点</a></li>
+<li><a href="/ssgc/20230604/1892592.md">〖微博谈〗等到花儿也谢了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 <li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
 
 </ul>
 </div>
