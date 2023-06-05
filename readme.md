@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230604/1892759.md">陈破空：六四：清华大学打响反习第一枪！天安门广场气氛紧张。全国教师被勒令上缴护照。天安门母亲前往万安公墓祭奠民主先烈。公安严密监控</a></li>
 <li><a href="/topimagenews/20230605/1892842.md">俄军高调接收数千架中国制造自杀式无人机</a></li>
 <li><a href="/cbnews/20230605/1892939.md">〖兲朝浮世绘〗微博八国联军纪念六四 估计习帝气得想效仿慈禧打包宣战</a></li>
-<li><a href="/headline/20230604/1892769.md">中国狠学者传与美国赌狠：中国宁可以200城市被炸为废墟也要解放台湾 问美国敢吗？</a></li>
 <li><a href="/comments/20230605/1892877.md">中共接近最后疯狂时</a></li>
+<li><a href="/headline/20230604/1892769.md">中国狠学者传与美国赌狠：中国宁可以200城市被炸为废墟也要解放台湾 问美国敢吗？</a></li>
+<li><a href="/topimagenews/20230605/1892984.md">北大才女被顶级官二代精英PUA轻生震惊中国，结果…</a></li>
 <li><a href="/comments/20230605/1892834.md">一天炸179次，边境全面开打！俄军要保家了</a></li>
 <li><a href="/topimagenews/20230605/1892858.md">华南理工“学术妲己” 色情交易… 小三上位 背刺师娘</a></li>
-<li><a href="/topimagenews/20230605/1892984.md">北大才女被顶级官二代精英PUA轻生震惊中国，结果…</a></li>
 <li><a href="/topimagenews/20230605/1892869.md">柳州梁某绯闻后，女事主广撒网，已有三局长入坑</a></li>
 <li><a href="/topimagenews/20230605/1892825.md">中国名校惊爆“学术妲己”！华南理工和川大发声</a></li>
 <li><a href="/topimagenews/20230605/1892921.md">此轮人民币会贬到多少？兼谈人民币“货币互换”</a></li>
+<li><a href="/cnnews/20230605/1892992.md">风向真的变了！美国民意76％支持…</a></li>
 <li><a href="/topimagenews/20230605/1892832.md">炸锅！罗斯柴尔德家族“减持”英伟达</a></li>
 <li><a href="/topimagenews/20230605/1892826.md">战局逆转！俄罗斯城市已成前线？中乌防长会晤…</a></li>
 <li><a href="/topimagenews/20230605/1892935.md">《历史的伤口》百位歌手合唱六四歌曲 李宗盛 张雨生 苏有朋 童安格</a></li>
-<li><a href="/topimagenews/20230605/1892948.md">天津业主连夜搬，放绳子顺家当</a></li>
 <li><a href="/comments/20230605/1892925.md">【微博精粹】六四 华大妈73岁党妈又来例假了</a></li>
+<li><a href="/topimagenews/20230605/1892948.md">天津业主连夜搬，放绳子顺家当</a></li>
 <li><a href="/sohnews/20230605/1892963.md">[精华]程晓农博士:中国开始要乱了…财政缺口10万亿 百年未有大变局将发生...@democraticTaiwanChannel</a></li>
 <li><a href="/cnnews/20230605/1892897.md">刚刚！美F-16战机紧急升空，不明飞机坠毁</a></li>
-<li><a href="/cnnews/20230605/1892992.md">风向真的变了！美国民意76％支持…</a></li>
 <li><a href="/headline/20230605/1892846.md">一女子在北京鸟巢挥舞美国旗、抛洒《独立宣言》 被保安控制</a></li>
+<li><a href="/sohnews/20230605/1892938.md">🔥🔥一天两件大事发生 震惊世界❗习近平瑟瑟发抖❗</a></li>
 <li><a href="/comments/20230605/1892861.md">文昭：李叫兽是低配版的习、习一尊是高配版的李</a></li>
 <li><a href="/worldnews/20230605/1892949.md">俄乌最新：俄军夺取巴赫穆特后 局势突发逆转</a></li>
-<li><a href="/sohnews/20230605/1892938.md">🔥🔥一天两件大事发生 震惊世界❗习近平瑟瑟发抖❗</a></li>
+<li><a href="/finance/20230605/1892985.md">哀鸿遍野！这次裁员很猛…中产阶层真的惨了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230605/1893077.md" target="_blank">张建兴：习近平指的惊涛骇浪？——梳理习深感惊恐的当下三大动态</a></li>
+<li><a href="/comments/20230605/1893076.md" target="_blank">美加驻港总领事馆上载六四烛光照片 中方：干预内政</a></li>
+<li><a href="/comments/20230605/1893075.md" target="_blank">香港电台反送中报导官司胜诉 新闻自由难得一次胜利</a></li>
 <li><a href="/comments/20230605/1893060.md" target="_blank">被发现了！众神打造“穿越门”降临地球！宇宙深处的地外生命，在神庙“七彩神明圣殿”掌握人间最高智慧！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230605/1893054.md" target="_blank">金正恩：真的会让女儿成为接班人吗？</a></li>
 <li><a href="/comments/20230605/1892934.md" target="_blank">天亮时分：章天亮台中演讲 ：以台湾软实力应对中共威胁</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230604/1892609.md" target="_blank">印度姑娘修炼法轮功 感觉得到了一切答案</a></li>
 <li><a href="/comments/20230604/1892607.md" target="_blank">【杰森视角】泽连斯基：乌反攻已准备就绪！美军新策略效果超越军事层面！中方为何没兴趣与美军建紧急信息通道？ 美国防部长求见中国防部长，被拒！中共最大危机来自习近平的折腾？</a></li>
 <li><a href="/comments/20230604/1892604.md" target="_blank">张景利：在纪念六四34周年烛光晚会上的发言</a></li>
-<li><a href="/comments/20230604/1892603.md" target="_blank">译丛：让民主女神像屹立不倒</a></li>
-<li><a href="/comments/20230604/1892585.md" target="_blank">杨建利：天安门屠杀与中国的实用主义“软实力”</a></li>
-<li><a href="/comments/20230604/1892579.md" target="_blank">【独家重磅】李燕铭：李希清洗湖北帮 李鸿忠急赴老巢救火 伙同赵乐际对抗李希 习近平私人顾问提醒习慎防“小林彪”李鸿忠 湖北帮覆灭记（九） 习近平连任后大清洗（三四）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
 
 </ul>
 </div>
