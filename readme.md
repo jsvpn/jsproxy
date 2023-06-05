@@ -9,7 +9,6 @@
 <li><a href="/sohnews/20230604/1892759.md">陈破空：六四：清华大学打响反习第一枪！天安门广场气氛紧张。全国教师被勒令上缴护照。天安门母亲前往万安公墓祭奠民主先烈。公安严密监控</a></li>
 <li><a href="/cbnews/20230604/1892685.md">中国遍地二阳三阳 专家：第1时间用抗病毒药物</a></li>
 <li><a href="/topimagenews/20230605/1892842.md">俄军高调接收数千架中国制造自杀式无人机</a></li>
-<li><a href="/worldnews/20230604/1892680.md">令人质疑不单纯！游船沉没：21乘客全是情报特务 幸存者诡异消失</a></li>
 <li><a href="/comments/20230605/1892877.md">中共接近最后疯狂时</a></li>
 <li><a href="/ssgc/20230604/1892738.md">六四彪炳史册无须平反，天下即将大乱政改多余</a></li>
 <li><a href="/topimagenews/20230605/1892858.md">华南理工“学术妲己” 色情交易… 小三上位 背刺师娘</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/topimagenews/20230605/1892825.md">中国名校惊爆“学术妲己”！华南理工和川大发声</a></li>
 <li><a href="/lifebaike/20230604/1892707.md">轻敌代价！上世纪末的一场战争 上万精锐俄军遭屠杀 尸体堆积如山</a></li>
 <li><a href="/cbnews/20230605/1892939.md">〖兲朝浮世绘〗微博八国联军纪念六四 估计习帝气得想效仿慈禧打包宣战</a></li>
+<li><a href="/headline/20230604/1892700.md">六四34周年，部分难属前往北京万安公墓祭奠34年前惨遭军队杀害的亲人。</a></li>
 <li><a href="/topimagenews/20230605/1892832.md">炸锅！罗斯柴尔德家族“减持”英伟达</a></li>
 <li><a href="/topimagenews/20230605/1892826.md">战局逆转！俄罗斯城市已成前线？中乌防长会晤…</a></li>
-<li><a href="/headline/20230604/1892700.md">六四34周年，部分难属前往北京万安公墓祭奠34年前惨遭军队杀害的亲人。</a></li>
+<li><a href="/topimagenews/20230605/1892921.md">此轮人民币会贬到多少？兼谈人民币“货币互换”</a></li>
+<li><a href="/cnnews/20230605/1892897.md">刚刚！美F-16战机紧急升空，不明飞机坠毁</a></li>
 <li><a href="/comments/20230604/1892749.md">拜登摔跤，川普第一反映出乎很多人意料。川普参加福克斯市政厅采访，共和党候选人多是好事。拜登签署债务上限协议，美国命运暴跌的完美象征？</a></li>
-<li><a href="/headline/20230605/1892846.md">一女子在北京鸟巢挥舞美国旗、抛洒《独立宣言》 被保安控制</a></li>
 <li><a href="/topimagenews/20230605/1892935.md">《历史的伤口》百位歌手合唱六四歌曲 李宗盛 张雨生 苏有朋 童安格</a></li>
-<li><a href="/headline/20230604/1892745.md">欧洲在华使团无惧禁制纪念“六四”</a></li>
-<li><a href="/baitai/20230605/1892808.md">「蓄意」引爆两国开战？中共军舰冲撞美驱逐舰 五角大楼：不容忍它「欺凌」</a></li>
+<li><a href="/headline/20230605/1892846.md">一女子在北京鸟巢挥舞美国旗、抛洒《独立宣言》 被保安控制</a></li>
+<li><a href="/comments/20230605/1892925.md">【微博精粹】六四 华大妈73岁党妈又来例假了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
 
 </ul>
 </div>
