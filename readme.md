@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20230604/1892697.md">红色政治狂潮来了！习近平说的明明白白【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230604/1892759.md">陈破空：六四：清华大学打响反习第一枪！天安门广场气氛紧张。全国教师被勒令上缴护照。天安门母亲前往万安公墓祭奠民主先烈。公安严密监控</a></li>
 <li><a href="/topimagenews/20230605/1892842.md">俄军高调接收数千架中国制造自杀式无人机</a></li>
 <li><a href="/comments/20230605/1892877.md">中共接近最后疯狂时</a></li>
 <li><a href="/ssgc/20230604/1892738.md">六四彪炳史册无须平反，天下即将大乱政改多余</a></li>
-<li><a href="/headline/20230604/1892769.md">中国狠学者传与美国赌狠：中国宁可以200城市被炸为废墟也要解放台湾 问美国敢吗？</a></li>
-<li><a href="/topimagenews/20230605/1892858.md">华南理工“学术妲己” 色情交易… 小三上位 背刺师娘</a></li>
-<li><a href="/topimagenews/20230605/1892869.md">柳州梁某绯闻后，女事主广撒网，已有三局长入坑</a></li>
 <li><a href="/cbnews/20230605/1892939.md">〖兲朝浮世绘〗微博八国联军纪念六四 估计习帝气得想效仿慈禧打包宣战</a></li>
-<li><a href="/lifebaike/20230604/1892706.md">决定孩子一生的不是学习成绩，而是这八点</a></li>
+<li><a href="/headline/20230604/1892769.md">中国狠学者传与美国赌狠：中国宁可以200城市被炸为废墟也要解放台湾 问美国敢吗？</a></li>
+<li><a href="/topimagenews/20230605/1892869.md">柳州梁某绯闻后，女事主广撒网，已有三局长入坑</a></li>
+<li><a href="/topimagenews/20230605/1892858.md">华南理工“学术妲己” 色情交易… 小三上位 背刺师娘</a></li>
 <li><a href="/comments/20230605/1892834.md">一天炸179次，边境全面开打！俄军要保家了</a></li>
-<li><a href="/lifebaike/20230604/1892707.md">轻敌代价！上世纪末的一场战争 上万精锐俄军遭屠杀 尸体堆积如山</a></li>
+<li><a href="/lifebaike/20230604/1892706.md">决定孩子一生的不是学习成绩，而是这八点</a></li>
 <li><a href="/topimagenews/20230605/1892825.md">中国名校惊爆“学术妲己”！华南理工和川大发声</a></li>
-<li><a href="/headline/20230604/1892700.md">六四34周年，部分难属前往北京万安公墓祭奠34年前惨遭军队杀害的亲人。</a></li>
-<li><a href="/topimagenews/20230605/1892832.md">炸锅！罗斯柴尔德家族“减持”英伟达</a></li>
+<li><a href="/lifebaike/20230604/1892707.md">轻敌代价！上世纪末的一场战争 上万精锐俄军遭屠杀 尸体堆积如山</a></li>
 <li><a href="/topimagenews/20230605/1892921.md">此轮人民币会贬到多少？兼谈人民币“货币互换”</a></li>
+<li><a href="/topimagenews/20230605/1892935.md">《历史的伤口》百位歌手合唱六四歌曲 李宗盛 张雨生 苏有朋 童安格</a></li>
+<li><a href="/topimagenews/20230605/1892832.md">炸锅！罗斯柴尔德家族“减持”英伟达</a></li>
+<li><a href="/comments/20230605/1892925.md">【微博精粹】六四 华大妈73岁党妈又来例假了</a></li>
 <li><a href="/cnnews/20230605/1892897.md">刚刚！美F-16战机紧急升空，不明飞机坠毁</a></li>
 <li><a href="/topimagenews/20230605/1892826.md">战局逆转！俄罗斯城市已成前线？中乌防长会晤…</a></li>
-<li><a href="/topimagenews/20230605/1892935.md">《历史的伤口》百位歌手合唱六四歌曲 李宗盛 张雨生 苏有朋 童安格</a></li>
-<li><a href="/comments/20230605/1892925.md">【微博精粹】六四 华大妈73岁党妈又来例假了</a></li>
 <li><a href="/comments/20230604/1892749.md">拜登摔跤，川普第一反映出乎很多人意料。川普参加福克斯市政厅采访，共和党候选人多是好事。拜登签署债务上限协议，美国命运暴跌的完美象征？</a></li>
 <li><a href="/headline/20230605/1892846.md">一女子在北京鸟巢挥舞美国旗、抛洒《独立宣言》 被保安控制</a></li>
 <li><a href="/headline/20230604/1892745.md">欧洲在华使团无惧禁制纪念“六四”</a></li>
+<li><a href="/baitai/20230605/1892808.md">「蓄意」引爆两国开战？中共军舰冲撞美驱逐舰 五角大楼：不容忍它「欺凌」</a></li>
+<li><a href="/comments/20230605/1892861.md">文昭：李叫兽是低配版的习、习一尊是高配版的李</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230605/1893003.md" target="_blank">印度神童预言大事成真 印度台湾乌克兰持吓到 小心6月</a></li>
 <li><a href="/topimagenews/20230605/1892984.md" target="_blank">北大才女被顶级官二代精英PUA轻生震惊中国，结果…</a></li>
 <li><a href="/topimagenews/20230605/1892975.md" target="_blank">美国追杀中共芯片业藏心机 内幕曝光</a></li>
 <li><a href="/topimagenews/20230605/1892971.md" target="_blank">四川乐山大走山压到矿井平台 19人惨遭活埋罹难</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230604/1892626.md" target="_blank">【微博精粹】加速师真刹不住了</a></li>
 <li><a href="/topimagenews/20230604/1892545.md" target="_blank">乌俄战争烧掉莫斯科多少钱？数据太震撼</a></li>
 <li><a href="/topimagenews/20230604/1892465.md" target="_blank">清华大学内部大屏幕惊现真相口号 网友：中国还有希望！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230603/1892406.md" target="_blank">中共只等火山喷发，千万愤青恐成北京大噩梦；人民币难干掉美元？揭3大死穴</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 <li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
 
 </ul>
 </div>
