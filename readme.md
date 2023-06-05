@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230605/1892842.md">俄军高调接收数千架中国制造自杀式无人机</a></li>
 <li><a href="/comments/20230605/1892877.md">中共接近最后疯狂时</a></li>
-<li><a href="/cbnews/20230605/1892939.md">〖兲朝浮世绘〗微博八国联军纪念六四 估计习帝气得想效仿慈禧打包宣战</a></li>
 <li><a href="/topimagenews/20230605/1892984.md">北大才女被顶级官二代精英PUA轻生震惊中国，结果…</a></li>
+<li><a href="/cbnews/20230605/1892939.md">〖兲朝浮世绘〗微博八国联军纪念六四 估计习帝气得想效仿慈禧打包宣战</a></li>
 <li><a href="/headline/20230604/1892769.md">中国狠学者传与美国赌狠：中国宁可以200城市被炸为废墟也要解放台湾 问美国敢吗？</a></li>
 <li><a href="/comments/20230605/1892834.md">一天炸179次，边境全面开打！俄军要保家了</a></li>
 <li><a href="/topimagenews/20230605/1892858.md">华南理工“学术妲己” 色情交易… 小三上位 背刺师娘</a></li>
 <li><a href="/topimagenews/20230605/1892869.md">柳州梁某绯闻后，女事主广撒网，已有三局长入坑</a></li>
-<li><a href="/topimagenews/20230605/1892825.md">中国名校惊爆“学术妲己”！华南理工和川大发声</a></li>
 <li><a href="/cnnews/20230605/1892992.md">风向真的变了！美国民意76％支持…</a></li>
+<li><a href="/topimagenews/20230605/1892825.md">中国名校惊爆“学术妲己”！华南理工和川大发声</a></li>
+<li><a href="/topimagenews/20230605/1892826.md">战局逆转！俄罗斯城市已成前线？中乌防长会晤…</a></li>
 <li><a href="/topimagenews/20230605/1892832.md">炸锅！罗斯柴尔德家族“减持”英伟达</a></li>
 <li><a href="/topimagenews/20230605/1892921.md">此轮人民币会贬到多少？兼谈人民币“货币互换”</a></li>
-<li><a href="/topimagenews/20230605/1892826.md">战局逆转！俄罗斯城市已成前线？中乌防长会晤…</a></li>
 <li><a href="/topimagenews/20230605/1892935.md">《历史的伤口》百位歌手合唱六四歌曲 李宗盛 张雨生 苏有朋 童安格</a></li>
 <li><a href="/comments/20230605/1892925.md">【微博精粹】六四 华大妈73岁党妈又来例假了</a></li>
-<li><a href="/topimagenews/20230605/1892948.md">天津业主连夜搬，放绳子顺家当</a></li>
 <li><a href="/sohnews/20230605/1892963.md">[精华]程晓农博士:中国开始要乱了…财政缺口10万亿 百年未有大变局将发生...@democraticTaiwanChannel</a></li>
+<li><a href="/topimagenews/20230605/1892948.md">天津业主连夜搬，放绳子顺家当</a></li>
 <li><a href="/cnnews/20230605/1892897.md">刚刚！美F-16战机紧急升空，不明飞机坠毁</a></li>
 <li><a href="/finance/20230605/1892985.md">哀鸿遍野！这次裁员很猛…中产阶层真的惨了</a></li>
 <li><a href="/headline/20230605/1892846.md">一女子在北京鸟巢挥舞美国旗、抛洒《独立宣言》 被保安控制</a></li>
 <li><a href="/worldnews/20230605/1892949.md">俄乌最新：俄军夺取巴赫穆特后 局势突发逆转</a></li>
-<li><a href="/comments/20230605/1892861.md">文昭：李叫兽是低配版的习、习一尊是高配版的李</a></li>
 <li><a href="/sohnews/20230605/1892938.md">🔥🔥一天两件大事发生 震惊世界❗习近平瑟瑟发抖❗</a></li>
+<li><a href="/comments/20230605/1892861.md">文昭：李叫兽是低配版的习、习一尊是高配版的李</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230605/1893093.md" target="_blank">评论 | 傅申奇：从六四谈起</a></li>
+<li><a href="/comments/20230605/1893092.md" target="_blank">王丹热邮：关于纽约六四纪念馆建立的几点说明</a></li>
 <li><a href="/comments/20230605/1893085.md" target="_blank">汪湖：招魂一九八九</a></li>
 <li><a href="/comments/20230605/1893077.md" target="_blank">张建兴：习近平指的惊涛骇浪？——梳理习深感惊恐的当下三大动态</a></li>
 <li><a href="/comments/20230605/1893076.md" target="_blank">美加驻港总领事馆上载六四烛光照片 中方：干预内政</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230604/1892656.md" target="_blank">女版彭载舟惊现北京鸟巢五月天演唱会：高呼没有时间了！习近平陷表忠漩涡：忽悠潮风高浪急！Now</a></li>
 <li><a href="/comments/20230604/1892641.md" target="_blank">女彭载舟鸟巢冲塔：没有时间了</a></li>
 <li><a href="/comments/20230604/1892622.md" target="_blank">李燕铭：上海帮又一钱袋子被查 国开行上海分行原行长茆君才落马 习近平清洗太子党陈元老巢 国开行5个月6高管被查 陈元两任大管家相继落马 陈元“捧江祭薄”被踢出国开行 王岐山下令拆除国开行门前“九龙牌坊” 江泽民老巢上海被清洗（三四） 钱袋子争夺战（四一） 习近平连任后大清洗（三五）</a></li>
-<li><a href="/comments/20230604/1892609.md" target="_blank">印度姑娘修炼法轮功 感觉得到了一切答案</a></li>
-<li><a href="/comments/20230604/1892607.md" target="_blank">【杰森视角】泽连斯基：乌反攻已准备就绪！美军新策略效果超越军事层面！中方为何没兴趣与美军建紧急信息通道？ 美国防部长求见中国防部长，被拒！中共最大危机来自习近平的折腾？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
 <li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
 
 </ul>
 </div>
