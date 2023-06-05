@@ -9,8 +9,8 @@
 <li><a href="/cbnews/20230605/1892939.md">〖兲朝浮世绘〗微博八国联军纪念六四 估计习帝气得想效仿慈禧打包宣战</a></li>
 <li><a href="/topimagenews/20230605/1892984.md">北大才女被顶级官二代精英PUA轻生震惊中国，结果…</a></li>
 <li><a href="/topimagenews/20230605/1892858.md">华南理工“学术妲己” 色情交易… 小三上位 背刺师娘</a></li>
-<li><a href="/topimagenews/20230605/1892921.md">此轮人民币会贬到多少？兼谈人民币“货币互换”</a></li>
 <li><a href="/topimagenews/20230605/1892869.md">柳州梁某绯闻后，女事主广撒网，已有三局长入坑</a></li>
+<li><a href="/topimagenews/20230605/1892921.md">此轮人民币会贬到多少？兼谈人民币“货币互换”</a></li>
 <li><a href="/cnnews/20230605/1892992.md">风向真的变了！美国民意76％支持…</a></li>
 <li><a href="/topimagenews/20230605/1893026.md">又一个勇士站出来，纪念“六四”，唤醒民众！【阿波罗网报导】</a></li>
 <li><a href="/sohnews/20230605/1892963.md">[精华]程晓农博士:中国开始要乱了…财政缺口10万亿 百年未有大变局将发生...@democraticTaiwanChannel</a></li>
@@ -18,8 +18,8 @@
 <li><a href="/finance/20230605/1892985.md">哀鸿遍野！这次裁员很猛…中产阶层真的惨了</a></li>
 <li><a href="/comments/20230605/1892925.md">【微博精粹】六四 华大妈73岁党妈又来例假了</a></li>
 <li><a href="/sohnews/20230605/1893071.md">🔥欧阳夏丹被从央视主持人名单中剔除；又一中国勇士站出来，纪念六四，唤醒民众！六四，伦敦中国留学生首度领军， 港人同行：支持觉醒中国人；联合国“震惊”香港警方...【阿波罗网AS】</a></li>
-<li><a href="/cnnews/20230605/1893017.md">人民日报说露馅了！“关键”时刻 美国亲共侨领全吓哑巴了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230605/1892935.md">《历史的伤口》百位歌手合唱六四歌曲 李宗盛 张雨生 苏有朋 童安格</a></li>
+<li><a href="/cnnews/20230605/1893017.md">人民日报说露馅了！“关键”时刻 美国亲共侨领全吓哑巴了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230605/1893114.md">广东汕头突发爆炸 多人躺在街头 十分惨烈【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230605/1892948.md">天津业主连夜搬，放绳子顺家当</a></li>
 <li><a href="/cnnews/20230605/1892897.md">刚刚！美F-16战机紧急升空，不明飞机坠毁</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/lifebaike/20230605/1893006.md">晚上睡觉开空调，切记别开26度！我也是才知道，看完记得叮嘱家人</a></li>
 <li><a href="/cbnews/20230605/1893040.md">“六四”夜晚武汉不安宁 家长为子女权益走上街头 警察暴力驱赶</a></li>
 <li><a href="/worldnews/20230605/1892949.md">俄乌最新：俄军夺取巴赫穆特后 局势突发逆转</a></li>
-<li><a href="/comments/20230605/1892861.md">文昭：李叫兽是低配版的习、习一尊是高配版的李</a></li>
+<li><a href="/topimagenews/20230605/1893036.md">敌后作战再升级！波兰志愿军正式参战 别尔哥罗德州多处起火冒烟</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
 <li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
 
 </ul>
 </div>
