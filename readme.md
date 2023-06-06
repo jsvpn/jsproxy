@@ -10,20 +10,20 @@
 <li><a href="/topimagenews/20230605/1892984.md">北大才女被顶级官二代精英PUA轻生震惊中国，结果…</a></li>
 <li><a href="/topimagenews/20230605/1892921.md">此轮人民币会贬到多少？兼谈人民币“货币互换”</a></li>
 <li><a href="/cnnews/20230605/1892992.md">风向真的变了！美国民意76％支持…</a></li>
-<li><a href="/topimagenews/20230605/1893026.md">又一个勇士站出来，纪念“六四”，唤醒民众！【阿波罗网报导】</a></li>
 <li><a href="/sohnews/20230605/1892963.md">[精华]程晓农博士:中国开始要乱了…财政缺口10万亿 百年未有大变局将发生...@democraticTaiwanChannel</a></li>
+<li><a href="/topimagenews/20230605/1893026.md">又一个勇士站出来，纪念“六四”，唤醒民众！【阿波罗网报导】</a></li>
 <li><a href="/finance/20230605/1892985.md">哀鸿遍野！这次裁员很猛…中产阶层真的惨了</a></li>
 <li><a href="/topimagenews/20230605/1893003.md">印度神童预言大事成真 印度台湾乌克兰持吓到 小心6月</a></li>
-<li><a href="/comments/20230605/1892925.md">【微博精粹】六四 华大妈73岁党妈又来例假了</a></li>
 <li><a href="/sohnews/20230605/1893071.md">🔥欧阳夏丹被从央视主持人名单中剔除；又一中国勇士站出来，纪念六四，唤醒民众！六四，伦敦中国留学生首度领军， 港人同行：支持觉醒中国人；联合国“震惊”香港警方...【阿波罗网AS】</a></li>
+<li><a href="/comments/20230605/1892925.md">【微博精粹】六四 华大妈73岁党妈又来例假了</a></li>
 <li><a href="/topimagenews/20230605/1893114.md">广东汕头突发爆炸 多人躺在街头 十分惨烈【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230605/1892935.md">《历史的伤口》百位歌手合唱六四歌曲 李宗盛 张雨生 苏有朋 童安格</a></li>
 <li><a href="/cnnews/20230605/1893017.md">人民日报说露馅了！“关键”时刻 美国亲共侨领全吓哑巴了！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230605/1892948.md">天津业主连夜搬，放绳子顺家当</a></li>
 <li><a href="/cnnews/20230605/1892897.md">刚刚！美F-16战机紧急升空，不明飞机坠毁</a></li>
 <li><a href="/sohnews/20230605/1892938.md">🔥🔥一天两件大事发生 震惊世界❗习近平瑟瑟发抖❗</a></li>
-<li><a href="/cbnews/20230605/1893040.md">“六四”夜晚武汉不安宁 家长为子女权益走上街头 警察暴力驱赶</a></li>
 <li><a href="/lifebaike/20230605/1893006.md">晚上睡觉开空调，切记别开26度！我也是才知道，看完记得叮嘱家人</a></li>
+<li><a href="/cbnews/20230605/1893040.md">“六四”夜晚武汉不安宁 家长为子女权益走上街头 警察暴力驱赶</a></li>
 <li><a href="/worldnews/20230605/1892949.md">俄乌最新：俄军夺取巴赫穆特后 局势突发逆转</a></li>
 <li><a href="/topimagenews/20230605/1893036.md">敌后作战再升级！波兰志愿军正式参战 别尔哥罗德州多处起火冒烟</a></li>
 <li><a href="/ssgc/20230605/1892945.md">〖微博谈〗自由民主好比不死的凤凰</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230606/1893271.md" target="_blank">美丽的旧金山 为什么成为恶梦？【方伟时间-20230605】</a></li>
 <li><a href="/cbnews/20230606/1893234.md" target="_blank">致命病毒肆虐美国 死亡率高达43%！是谁又在造谣</a></li>
 <li><a href="/cbnews/20230606/1893169.md" target="_blank">把女友当杨贵妃宠 痴情男拍下“荔枝王”1颗1693美元</a></li>
 <li><a href="/comments/20230605/1893060.md" target="_blank">被发现了！众神打造“穿越门”降临地球！宇宙深处的地外生命，在神庙“七彩神明圣殿”掌握人间最高智慧！｜ #未解之谜 扶摇</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230604/1892503.md" target="_blank">江峰：让我遗忘？偏要想起，偏要铭记！六·四</a></li>
 <li><a href="/comments/20230604/1892453.md" target="_blank">联邦调查局局长服软，准备提供拜登腐败文件。失踪关键证人突然现身，揭发拜登家族与中共交易内幕。</a></li>
 <li><a href="/cbnews/20230603/1892427.md" target="_blank">709律师遭逼迁 王全璋被迫离家以车当房</a></li>
-<li><a href="/comments/20230603/1892383.md" target="_blank">意念有多强大？！</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230606/1893271.md" target="_blank">美丽的旧金山 为什么成为恶梦？【方伟时间-20230605】</a></li>
+<li><a href="/comments/20230606/1893270.md" target="_blank">李燕铭：国务院大清洗 七名副部级高官同时被免职 或是落马前兆 内幕揭秘 包括：江泽慧林业系统两马仔、李克强弟李克明利益地盘马仔、傅政华前副手、薄熙来前大管家、三任财政部长大管家 习连任后高层人事大洗牌（101） 习家军接掌国务院（二一）</a></li>
 <li><a href="/comments/20230606/1893265.md" target="_blank">文昭：2023日本复兴、中国衰落，这才是东昇西降的真相！中日国运为何此消彼长？</a></li>
 <li><a href="/comments/20230606/1893264.md" target="_blank">罗永浩嘲笑中共多党制</a></li>
 <li><a href="/comments/20230606/1893186.md" target="_blank">【练乙铮评论】香港人的母语老早就不再是广东话（海外香港社群论丛之五）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230605/1892864.md" target="_blank">李燕铭：江泽民发迹地被深度清洗 密友获刑18年 上海光明集团两任董事长多名高管被查 落马前有一相同动作 光明乳业被罚 网疑广告词涉习江斗 江泽民死江家族被清洗（十五） 江泽民老巢上海被清洗（三五） 习近平连任后大清洗（三六）</a></li>
 <li><a href="/comments/20230605/1892861.md" target="_blank">文昭：李叫兽是低配版的习、习一尊是高配版的李</a></li>
 <li><a href="/comments/20230605/1892834.md" target="_blank">一天炸179次，边境全面开打！俄军要保家了</a></li>
-<li><a href="/comments/20230604/1892762.md" target="_blank">严防六四纪念活动 香港部署5千警力 装甲车停泊维园外</a></li>
-<li><a href="/comments/20230604/1892754.md" target="_blank">34年的逆鳞 中国社会敏感词越来越多</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
 <li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 
 </ul>
 </div>
