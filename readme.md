@@ -11,8 +11,8 @@
 <li><a href="/finance/20230605/1892985.md">哀鸿遍野！这次裁员很猛…中产阶层真的惨了</a></li>
 <li><a href="/topimagenews/20230605/1893026.md">又一个勇士站出来，纪念“六四”，唤醒民众！【阿波罗网报导】</a></li>
 <li><a href="/sohnews/20230605/1893071.md">🔥欧阳夏丹被从央视主持人名单中剔除；又一中国勇士站出来，纪念六四，唤醒民众！六四，伦敦中国留学生首度领军， 港人同行：支持觉醒中国人；联合国“震惊”香港警方...【阿波罗网AS】</a></li>
-<li><a href="/topimagenews/20230605/1893003.md">印度神童预言大事成真 印度台湾乌克兰持吓到 小心6月</a></li>
 <li><a href="/topimagenews/20230606/1893233.md">现在连这都敏感到秒上热搜了...</a></li>
+<li><a href="/topimagenews/20230605/1893003.md">印度神童预言大事成真 印度台湾乌克兰持吓到 小心6月</a></li>
 <li><a href="/topimagenews/20230605/1893114.md">广东汕头突发爆炸 多人躺在街头 十分惨烈【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230605/1893017.md">人民日报说露馅了！“关键”时刻 美国亲共侨领全吓哑巴了！【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20230606/1893188.md">蔡奇再进国安委 政局险恶 习陷困境</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/topimagenews/20230605/1892975.md">美国追杀中共芯片业藏心机 内幕曝光</a></li>
 <li><a href="/ccpdope/20230606/1893180.md">中共军方心虚 忽承认美国“领导地位”</a></li>
 <li><a href="/topimagenews/20230605/1893052.md">闯华府领空小型客机是他家的！ F-16升空拦截 音爆巨响引民众恐慌</a></li>
-<li><a href="/topimagenews/20230605/1892970.md">中国无人机参战了!乌克兰大危机 俄军接收数千架可挂炸弹自杀机</a></li>
 <li><a href="/finance/20230606/1893252.md">仅机壳是国货 欧美拒发适航证 中国C919前途黯淡</a></li>
+<li><a href="/topimagenews/20230605/1892970.md">中国无人机参战了!乌克兰大危机 俄军接收数千架可挂炸弹自杀机</a></li>
 <li><a href="/sports/20230605/1892990.md">湖南珠峰攀登者放弃登顶花$1万救濒死女子，结果却…</a></li>
 <li><a href="/cnnews/20230606/1893206.md">大量安卓用户逃离换iPhone:安卓13保有量不足15%</a></li>
-<li><a href="/comments/20230605/1893060.md">被发现了！众神打造“穿越门”降临地球！宇宙深处的地外生命，在神庙“七彩神明圣殿”掌握人间最高智慧！｜ #未解之谜 扶摇</a></li>
+<li><a href="/cnnews/20230605/1892981.md">被困珠峰！湖南女子被救后再次上演农夫与蛇…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230606/1893378.md" target="_blank">江峰：中共导弹驱逐舰要与美舰同归於尽？解密升级版义和团的共军驱逐舰皮薄馅儿大！鼠头变鸭脖，迷信公权力的人越活越蠢； 李毅牺牲一亿四千万来统一祖国，大错！【江峰漫谈20230605第685期】</a></li>
 <li><a href="/comments/20230606/1893351.md" target="_blank">南美洲 最神祕符号！</a></li>
 <li><a href="/cbnews/20230606/1893317.md" target="_blank">〖兲朝浮世绘〗清华马克思学院学生会给习学长的大惊喜</a></li>
 <li><a href="/comments/20230606/1893271.md" target="_blank">美丽的旧金山 为什么成为恶梦？【方伟时间-20230605】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230604/1892561.md" target="_blank">油管开禁：谈大选舞弊？可以！【方伟时间-20230603】</a></li>
 <li><a href="/cbnews/20230604/1892511.md" target="_blank">视频来了！ 台海惊险一幕 共舰与美舰险相撞</a></li>
 <li><a href="/comments/20230604/1892508.md" target="_blank">吴建民｜我的六四故事(下)：六四后重判10年；监狱中的活摘器官；真假吴建民；六四是中共绕不过去的槛｜#方菲时间</a></li>
-<li><a href="/cbnews/20230604/1892503.md" target="_blank">江峰：让我遗忘？偏要想起，偏要铭记！六·四</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230606/1893379.md" target="_blank">天亮时分：重点推荐：两岸敏感议题，18分钟交锋</a></li>
 <li><a href="/comments/20230606/1893351.md" target="_blank">南美洲 最神祕符号！</a></li>
 <li><a href="/comments/20230606/1893297.md" target="_blank">杨宪宏：中共文字狱风暴正在加大：“作风荒唐、怎能打仗？”</a></li>
 <li><a href="/comments/20230606/1893271.md" target="_blank">美丽的旧金山 为什么成为恶梦？【方伟时间-20230605】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230605/1892896.md" target="_blank">杜政：四位亲历“六四”的平庸亲友</a></li>
 <li><a href="/comments/20230605/1892877.md" target="_blank">中共接近最后疯狂时</a></li>
 <li><a href="/comments/20230605/1892865.md" target="_blank">中国最神秘地带！</a></li>
-<li><a href="/comments/20230605/1892864.md" target="_blank">李燕铭：江泽民发迹地被深度清洗 密友获刑18年 上海光明集团两任董事长多名高管被查 落马前有一相同动作 光明乳业被罚 网疑广告词涉习江斗 江泽民死江家族被清洗（十五） 江泽民老巢上海被清洗（三五） 习近平连任后大清洗（三六）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
 <li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
 <li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 
 </ul>
 </div>
