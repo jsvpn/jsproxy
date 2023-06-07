@@ -13,21 +13,21 @@
 <li><a href="/cnnews/20230606/1893517.md">一口气买42间房“全部打通” 中国土豪下场惨了</a></li>
 <li><a href="/sohnews/20230606/1893500.md">文睿：快讯：人民网点一尊死穴，党内危机，开始公开化了</a></li>
 <li><a href="/cnnews/20230606/1893496.md">这群大学生太精明：集体网购衣服 然后退货退款</a></li>
-<li><a href="/funmedia/20230606/1893360.md">请告诉儿女：找对象，有房有车已经过时了，需要有“新三样”</a></li>
 <li><a href="/topimagenews/20230607/1893697.md">备战？脱钩？中国大规模取消进口订单</a></li>
 <li><a href="/topimagenews/20230606/1893565.md">“匿名”骇客又出手了 解放军学校网页出现“毋忘六四”</a></li>
 <li><a href="/topimagenews/20230606/1893386.md">反普丁声浪止不住！杜马第一副主席继普里格津后开骂 克宫考虑开除他</a></li>
 <li><a href="/topimagenews/20230606/1893505.md">乌克兰大坝谁炸的？欧洲理事会主席：属战争罪 俄罗斯应负责</a></li>
 <li><a href="/cnnews/20230607/1893690.md">又一个网友被大家封神了</a></li>
 <li><a href="/topimagenews/20230606/1893491.md">六四发文影射天安门？瑞典大使馆公开国家军队曾屠杀百姓的伤痛历史</a></li>
-<li><a href="/cnnews/20230606/1893381.md">江西高校鸭脖事件又爆出新的内幕</a></li>
 <li><a href="/finance/20230607/1893689.md">惊呆！为降低失业率 中国统计局想出这个大招</a></li>
+<li><a href="/cnnews/20230606/1893381.md">江西高校鸭脖事件又爆出新的内幕</a></li>
 <li><a href="/topimagenews/20230606/1893416.md">乌克兰收复失土 专家曝这恐是唯一机会</a></li>
 <li><a href="/baitai/20230606/1893458.md">如果有一天，出门前总是反复检查门锁，你可能病了</a></li>
-<li><a href="/sohnews/20230606/1893361.md">20230606直播：美高官访问北京不欢而散；专家预估中国五月份进出口继续下跌；中国债务已超全世界GDP总和，财政部却说一切挺好的；大萧条11大特征，中国已经对上几个？（第1193期）</a></li>
 <li><a href="/cbnews/20230606/1893399.md">4只小龙虾下肚差点没命 四川医院一晚急诊20多例</a></li>
-<li><a href="/finance/20230606/1893407.md">都花哪里去了？想不到 中国整体的负债已高得离谱</a></li>
 <li><a href="/cbnews/20230607/1893688.md">人妻150公斤深夜街边狂吃鸡 老公崩溃自搧巴掌</a></li>
+<li><a href="/finance/20230606/1893407.md">都花哪里去了？想不到 中国整体的负债已高得离谱</a></li>
+<li><a href="/finance/20230606/1893421.md">已经山穷水尽了吗？中国房市走到尽头？又卖不出去了…</a></li>
+<li><a href="/comments/20230606/1893436.md">李尚福撂狠话？不料自曝弱点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230607/1893815.md" target="_blank">卡尔森推特节目第一集开播！希望成为偷听真想的短波无线台。如推特被证明是假自由，那就离开。马斯克推荐了卡尔森的节目。</a></li>
 <li><a href="/cbnews/20230607/1893798.md" target="_blank">中共防长自曝其丑！日本战机拍下中共航母甲板清晰照片</a></li>
 <li><a href="/cbnews/20230607/1893753.md" target="_blank">盯紧中共间谍活动 德国出手了</a></li>
 <li><a href="/cbnews/20230607/1893749.md" target="_blank">〖兲朝浮世绘〗习主席治大国如烙大饼 又又又翻面儿了</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230605/1892865.md" target="_blank">中国最神秘地带！</a></li>
 <li><a href="/cbnews/20230605/1892856.md" target="_blank">江峰：王胡子的国营鸦片农场</a></li>
 <li><a href="/comments/20230604/1892749.md" target="_blank">拜登摔跤，川普第一反映出乎很多人意料。川普参加福克斯市政厅采访，共和党候选人多是好事。拜登签署债务上限协议，美国命运暴跌的完美象征？</a></li>
-<li><a href="/cbnews/20230604/1892692.md" target="_blank">曲婉婷母判无期徒刑 名下哈尔滨2物业遭法拍</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230607/1893815.md" target="_blank">卡尔森推特节目第一集开播！希望成为偷听真想的短波无线台。如推特被证明是假自由，那就离开。马斯克推荐了卡尔森的节目。</a></li>
+<li><a href="/comments/20230607/1893809.md" target="_blank">岳山：习近平推新运动 死魂灵祸中华</a></li>
 <li><a href="/comments/20230607/1893802.md" target="_blank">证券时报：统租之下，一个静下来的深圳城中村</a></li>
 <li><a href="/comments/20230607/1893801.md" target="_blank">网络民议：专家：要警惕终身不婚不育这个情况</a></li>
 <li><a href="/comments/20230607/1893800.md" target="_blank">知乎问答：为什么突破性的技术总是最先发生在西方？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230607/1893701.md" target="_blank">横河：文管来了！中共向朝鲜取经？我经历的“鸭脖”事件 ｜ 新闻烽火台 6/6/2023</a></li>
 <li><a href="/comments/20230607/1893621.md" target="_blank">时事大家谈：香港六四疯狂抓人 清洗历史欲盖弥彰?</a></li>
 <li><a href="/comments/20230607/1893616.md" target="_blank">时事大家谈：武汉妈妈悲剧 撕开中国社会残酷真相?</a></li>
-<li><a href="/comments/20230606/1893592.md" target="_blank">时事大家谈：香港六四疯狂抓人 清洗历史欲盖弥彰? 武汉妈妈悲剧 撕开中国社会残酷真相?</a></li>
-<li><a href="/comments/20230606/1893563.md" target="_blank">文昭：日本衰落失去了30年？你被骗很大</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 <li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 
 </ul>
 </div>
