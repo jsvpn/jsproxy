@@ -13,8 +13,8 @@
 <li><a href="/topimagenews/20230608/1894332.md">乌大坝被炸 中共吓到！中媒：若三峡大坝出事 武汉、长三角将有“灭顶之灾”</a></li>
 <li><a href="/cnnews/20230608/1894333.md">他订婚宴上称“小姨子半边屁股姐夫的”，炸锅了</a></li>
 <li><a href="/cbnews/20230608/1894168.md">〖兲朝浮世绘〗街拍有风险，偷情需谨慎</a></li>
-<li><a href="/comments/20230608/1894139.md">文昭：5月中国外贸历史性暴跌！深圳发起新共产运动——城中村统租</a></li>
 <li><a href="/topimagenews/20230609/1894431.md">突发！安徽铜陵市高考出事！大批家长愤怒冲进学校讨说法【阿波罗网报道】</a></li>
+<li><a href="/comments/20230608/1894139.md">文昭：5月中国外贸历史性暴跌！深圳发起新共产运动——城中村统租</a></li>
 <li><a href="/topimagenews/20230608/1894240.md">刘亚洲韬光养晦：谁有枪谁就是党</a></li>
 <li><a href="/topimagenews/20230608/1894262.md">嚣张!又是052D苏州号！台海“逼退”美舰后 不到72小时再度杠上日舰</a></li>
 <li><a href="/cnnews/20230608/1894153.md">不玩了，新加坡将终结180年传统</a></li>
@@ -22,8 +22,8 @@
 <li><a href="/cbnews/20230608/1894295.md">中石油掉“大瓜”：男主、原配、小三是同事…</a></li>
 <li><a href="/cbnews/20230608/1894268.md">宝妈发飙，网友炸锅！这班级同学群截图让人窒息</a></li>
 <li><a href="/health/20230608/1894296.md">寿命与体重的关系被发现：50岁后，体重这样刚刚好，你达标没？</a></li>
-<li><a href="/sohnews/20230608/1894250.md">习近平深信“秦岭风水”！陕西一把手为习守“龙脉”，自称“护林员”；中石油高官拉美女逛街，被“街拍”曝光，谁包养谁？“指鼠为鸭”事件发酵，当年指鹿为马后，秦三年亡国；中国高考举行｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20230608/1894152.md">17岁丹麦未来国王约会意大利公主，网友惊呼</a></li>
+<li><a href="/sohnews/20230608/1894250.md">习近平深信“秦岭风水”！陕西一把手为习守“龙脉”，自称“护林员”；中石油高官拉美女逛街，被“街拍”曝光，谁包养谁？“指鼠为鸭”事件发酵，当年指鹿为马后，秦三年亡国；中国高考举行｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20230608/1894390.md">陆国企高层小三被起底！“学生照”曝“曾胖到80KG”颜值惊呆</a></li>
 <li><a href="/cnnews/20230608/1894164.md">国企高官不伦竟是被包养 传白富美背景颠覆三观</a></li>
 <li><a href="/ssgc/20230608/1894358.md">党官拍宣传片，听习“金句”为何集体笑场？</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230609/1894542.md" target="_blank">南美洲 最大发现！</a></li>
+<li><a href="/comments/20230609/1894540.md" target="_blank">周子定：乌军反攻已经开始！但因大坝被炸举步艰难；俄军真的是“纸老虎”吗？不排除北约国家未来派遣军队</a></li>
 <li><a href="/cbnews/20230609/1894478.md" target="_blank">新加坡香会北京遭孤立 习突让外交部靠边站…..</a></li>
 <li><a href="/cbnews/20230608/1894411.md" target="_blank">大陆人申请绿卡被问退党证明 退党中心吁快三退</a></li>
 <li><a href="/comments/20230608/1894401.md" target="_blank">卡尔森在推特上刮起旋风，并将军马斯克。福克斯气得跳脚，要起诉卡尔森违反合同。联邦调查局局长向众议院监督委员会投降。</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230607/1893855.md" target="_blank">“鼠头鸭脖”真相？洗地评论ip曝光 党媒看不下去</a></li>
 <li><a href="/cbnews/20230607/1893843.md" target="_blank">发抖音要簌簌发抖？拍老鼠“起立打饭”的同学</a></li>
 <li><a href="/cbnews/20230607/1893823.md" target="_blank">江峰：文管、城管、农管三管齐下，准备好重迎样板戏时代了吗？李尚福称中美冲突世界不可承受之痛，实际上最痛的是中共权贵。【江峰漫谈20230606第686期】</a></li>
-<li><a href="/cbnews/20230607/1893818.md" target="_blank">李尚福胡诌得到习近平首肯？ 共军与美军掰手腕…</a></li>
-<li><a href="/comments/20230607/1893815.md" target="_blank">卡尔森推特节目第一集开播！希望成为偷听真想的短波无线台。如推特被证明是假自由，那就离开。马斯克推荐了卡尔森的节目。</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230609/1894542.md" target="_blank">南美洲 最大发现！</a></li>
+<li><a href="/comments/20230609/1894540.md" target="_blank">周子定：乌军反攻已经开始！但因大坝被炸举步艰难；俄军真的是“纸老虎”吗？不排除北约国家未来派遣军队</a></li>
 <li><a href="/comments/20230609/1894530.md" target="_blank">文昭：政府当包租公，为何是一本“共产账”？</a></li>
 <li><a href="/comments/20230609/1894529.md" target="_blank">中共粉红卖坦克，只为消灭美国</a></li>
 <li><a href="/comments/20230609/1894528.md" target="_blank">境外势力搅乱中国房市，爱国者必诛之</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230608/1894224.md" target="_blank">中共国负债高达650万亿, 而2022年的GDP仅为121万亿</a></li>
 <li><a href="/comments/20230608/1894223.md" target="_blank">孙立平：一个听起来就过于荒诞的事情如何演绎成为一个真实的故事？</a></li>
 <li><a href="/comments/20230608/1894210.md" target="_blank">译丛：中共国让人民为战争做准备</a></li>
-<li><a href="/comments/20230608/1894209.md" target="_blank">陶业 ：六四，中国人的哭墙</a></li>
-<li><a href="/comments/20230608/1894208.md" target="_blank">王维洛 ： 中国领土正在逐渐变少</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
 
 </ul>
 </div>
