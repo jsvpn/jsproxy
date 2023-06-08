@@ -10,14 +10,14 @@
 <li><a href="/topimagenews/20230607/1893995.md">恐怖！盲眼龙婆预言2023年重大核灾百万人丧生 亚洲将是重灾区</a></li>
 <li><a href="/cnnews/20230607/1893902.md">你上抖音了! “十指紧扣”小三被街拍 陆央企高管婚外情意外曝光</a></li>
 <li><a href="/sohnews/20230607/1893923.md">罕见!中共首度发出警讯 习近平掉入冷战陷阱 焦虑即将翻船? 史上空前! G7广岛峰会聚焦中国经济胁迫 美中高科技脱钩更下一城。@democraticTaiwanChannel</a></li>
-<li><a href="/cnnews/20230608/1894081.md">后续！中石油领导被免职，小三身份和艳照被曝光</a></li>
 <li><a href="/funmedia/20230607/1893894.md">壮男从海里捞“珍珠白怪物” 炫耀3秒后崩溃跳海</a></li>
+<li><a href="/cnnews/20230608/1894081.md">后续！中石油领导被免职，小三身份和艳照被曝光</a></li>
 <li><a href="/ccpdope/20230608/1894020.md">中共政治局会议出现异常 形势严峻高层束手无策</a></li>
 <li><a href="/comments/20230607/1893930.md">习近平政权面临10大危机 学者宋国诚：可能随时倒台</a></li>
 <li><a href="/topimagenews/20230608/1894116.md">大失业潮第三度席卷中国，专家发出严厉警告</a></li>
-<li><a href="/topimagenews/20230608/1894142.md">这个问题太严重？习近平为之专门跑了一趟【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230608/1894169.md">〖微博谈〗中共领导人已感受到了政权倒台的征兆</a></li>
 <li><a href="/topimagenews/20230608/1894160.md">北京疯狂给莫斯科“输血” 中共海关总署数据泄密</a></li>
+<li><a href="/topimagenews/20230608/1894142.md">这个问题太严重？习近平为之专门跑了一趟【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230608/1894141.md">傻眼 中共这智商！想骗中国人还是骗自己？</a></li>
 <li><a href="/ccpdope/20230608/1894091.md">中共会不会打台湾 看这个风向标就知道</a></li>
 <li><a href="/baitai/20230607/1893991.md">中石油官员出差带「小三」逛街视频曝光 遭免职登热搜榜首 网友评论一针见血</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/baitai/20230608/1894069.md">魏京生：中国很快发生巨变 美国需做准备</a></li>
 <li><a href="/comments/20230608/1894139.md">文昭：5月中国外贸历史性暴跌！深圳发起新共产运动——城中村统租</a></li>
 <li><a href="/topimagenews/20230607/1893914.md">面对中共威胁 台湾有何优势？专家 : 习近平无法攻台 有这6大原因….</a></li>
-<li><a href="/cnnews/20230608/1894121.md">又出事了！她几句话，得罪了一国人</a></li>
 <li><a href="/cnnews/20230608/1894152.md">17岁丹麦未来国王约会意大利公主，网友惊呼</a></li>
-<li><a href="/baitai/20230607/1893890.md">为什么孩子长大后不心疼你了？</a></li>
+<li><a href="/cnnews/20230608/1894121.md">又出事了！她几句话，得罪了一国人</a></li>
+<li><a href="/cbnews/20230608/1894168.md">〖兲朝浮世绘〗街拍有风险，偷情需谨慎</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230608/1894287.md" target="_blank">一场针对全体中国人的政治运动已经开始！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230608/1894264.md" target="_blank">假新闻被抓包? 俄公开击毁“豹二”影片 网友笑 : 是豹式联合收割机吧</a></li>
 <li><a href="/topimagenews/20230608/1894262.md" target="_blank">嚣张!又是052D苏州号！台海“逼退”美舰后 不到72小时再度杠上日舰</a></li>
 <li><a href="/topimagenews/20230608/1894240.md" target="_blank">刘亚洲韬光养晦：谁有枪谁就是党</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230607/1893817.md" target="_blank">不敢开第一枪！中共军队只剩耍流氓了</a></li>
 <li><a href="/topimagenews/20230607/1893816.md" target="_blank">美印太司令直接点名习近平 中共蠢动军舰却难到达美本土附近</a></li>
 <li><a href="/topimagenews/20230607/1893806.md" target="_blank">威慑中共！美国陆战队AH-1Z将以远程打击弹药 取代服役40年的地狱火</a></li>
-<li><a href="/topimagenews/20230607/1893805.md" target="_blank">10秒内会撞！美最新中舰“鬼切”影片 专家:苏州舰会很惨</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
 <li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 
 </ul>
 </div>
