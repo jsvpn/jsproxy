@@ -5,12 +5,11 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230609/1894799.md">🔥李毅公开造反！矛头直指习近平：“换人算了！”中石油胡书记之董小姐大尺度照被曝 除了学历 其他都是假的；中国大学教育产业化的路已到尽头！大陆未来将浮现招生难KS</a></li>
 <li><a href="/cbnews/20230610/1894904.md">翟欣欣终于被批捕 面临10年以上徒刑</a></li>
 <li><a href="/ccpdope/20230609/1894802.md">川普几近铁定2024年再当总统</a></li>
 <li><a href="/topimagenews/20230610/1894977.md">战事大有进展！ 泽连斯基难得喜上眉梢</a></li>
-<li><a href="/topimagenews/20230610/1894839.md">昆明海关在14啤酒箱查获1400万人民币 网：哪个领导的？</a></li>
 <li><a href="/topimagenews/20230610/1894902.md">中国小粉红俄粉命丧乌克兰 老家房子被强拆一分钱未拿到</a></li>
+<li><a href="/topimagenews/20230610/1894839.md">昆明海关在14啤酒箱查获1400万人民币 网：哪个领导的？</a></li>
 <li><a href="/topimagenews/20230610/1895004.md">评论区炸裂！名校硕士这身衣服 击碎无数中国人矿的梦想</a></li>
 <li><a href="/comments/20230610/1894965.md">文昭：习近平首次明示「极端情况」，已在他身边发生？政治局上演「翘课」潮，什麽状况？</a></li>
 <li><a href="/worldnews/20230610/1894840.md">奶奶煮面 女儿、3孙子吃完后离奇身亡 悲剧真相曝光</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/topimagenews/20230610/1895070.md">北京楼市 “秘不发丧”！习近平这招没法使用了！中国处在爆发社会动乱前夜</a></li>
 <li><a href="/topimagenews/20230610/1894968.md">巡视组都还没走，中石油成了独立王国？</a></li>
 <li><a href="/ccpdope/20230610/1895085.md">一个让中南海高层恐惧的事实</a></li>
-<li><a href="/comments/20230610/1895012.md">小民之心 : 习近平已经秘密立储了？</a></li>
 <li><a href="/cbnews/20230610/1895003.md">〖兲朝浮世绘〗习近平不打台湾就换掉习？李毅胆敢说“换党换人”</a></li>
+<li><a href="/comments/20230610/1895012.md">小民之心 : 习近平已经秘密立储了？</a></li>
 <li><a href="/cnnews/20230610/1895135.md">力压李强 习近平最大实力亲信是他？</a></li>
-<li><a href="/topimagenews/20230609/1894797.md">太黑暗！麦卡锡力挺川普痛批拜登 马斯克也说话了</a></li>
 <li><a href="/cnnews/20230610/1895078.md">“存款就行”！低门槛的金融移民吸引大批中国人涌入</a></li>
 <li><a href="/cnnews/20230610/1894958.md">深圳“统租”潮，房东们慌了</a></li>
 <li><a href="/topimagenews/20230610/1895120.md">“牵手门”：隐私？网暴？有人开始保护贪官了</a></li>
-<li><a href="/cnnews/20230610/1895061.md">爸爸惊觉女儿变黑妞！夫妻南非工作后回中国 妻染艾滋</a></li>
+<li><a href="/ccpdope/20230610/1895130.md">这格局谁人能比？马斯克在中国提出三大灵魂拷问</a></li>
 <li><a href="/cnnews/20230610/1894937.md">这是林彪当年谋求国家主席的真实原因</a></li>
+<li><a href="/cnnews/20230610/1895061.md">爸爸惊觉女儿变黑妞！夫妻南非工作后回中国 妻染艾滋</a></li>
 <li><a href="/ssgc/20230610/1894917.md">中国盯上苹果的“隔空投送”</a></li>
+<li><a href="/cnnews/20230610/1895115.md">一切都是假的？传董思槿白富美身份是编造出来的 还借过网贷</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230610/1895214.md" target="_blank">【独家重磅】李燕铭：三国级高官接连赶赴湖北激战 栗战书李希联手对阵赵乐际俞正声 李鸿忠顶峰对抗李希后钱袋子被火速查处 湖北帮五高官接连落马 湖北帮覆灭记（十） 习近平连任后大清洗（三七）</a></li>
 <li><a href="/comments/20230610/1895213.md" target="_blank">文昭：习近平首次谈到“极端情况”，夏天将到来？</a></li>
 <li><a href="/comments/20230610/1895141.md" target="_blank">这么做，打开灵界！</a></li>
 <li><a href="/comments/20230610/1895113.md" target="_blank">美共和党总统提名混战 佛州州长PO川普拥抱佛奇合成照惹议</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230610/1895009.md" target="_blank">经贸“脱中入美”的契机：台美21世纪贸易倡议谈判的初步协定和未来发展</a></li>
 <li><a href="/comments/20230610/1895008.md" target="_blank">如松：沙皇的神秘规则，普京背后有只冷酷的眼睛</a></li>
 <li><a href="/comments/20230610/1894997.md" target="_blank">第二桩诉川案 能够成功吗？【方伟时间-20230609】</a></li>
-<li><a href="/comments/20230610/1894981.md" target="_blank">天亮时分：川普再被起诉，拜登受贿500万逍遥法外；台湾外交重大突破；中共在安排普京身后事，俄罗斯显败象 （政论天下第1025集 20230609）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
 <li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
 
 </ul>
 </div>
