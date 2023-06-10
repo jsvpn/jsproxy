@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20230610/1894977.md">战事大有进展！ 泽连斯基难得喜上眉梢</a></li>
 <li><a href="/topimagenews/20230610/1894902.md">中国小粉红俄粉命丧乌克兰 老家房子被强拆一分钱未拿到</a></li>
 <li><a href="/sohnews/20230609/1894799.md">🔥李毅公开造反！矛头直指习近平：“换人算了！”中石油胡书记之董小姐大尺度照被曝 除了学历 其他都是假的；中国大学教育产业化的路已到尽头！大陆未来将浮现招生难KS</a></li>
-<li><a href="/cbnews/20230610/1894904.md">翟欣欣终于被批捕 面临10年以上徒刑</a></li>
 <li><a href="/sohnews/20230609/1894743.md">人与人的最大区别，就在于思维方式！10种世界最顶级的思维，足以改变你的一生｜神传文化｜知识分享｜人生智慧语录 【晨曦晓屋】</a></li>
+<li><a href="/cbnews/20230610/1894904.md">翟欣欣终于被批捕 面临10年以上徒刑</a></li>
 <li><a href="/ccpdope/20230609/1894802.md">川普几近铁定2024年再当总统</a></li>
 <li><a href="/topimagenews/20230610/1894839.md">昆明海关在14啤酒箱查获1400万人民币 网：哪个领导的？</a></li>
-<li><a href="/topimagenews/20230610/1894968.md">巡视组都还没走，中石油成了独立王国？</a></li>
 <li><a href="/topimagenews/20230610/1895004.md">评论区炸裂！名校硕士这身衣服 击碎无数中国人矿的梦想</a></li>
-<li><a href="/baitai/20230609/1894729.md">老年痴呆的第1个症状是什么？可不是记性变差</a></li>
+<li><a href="/topimagenews/20230610/1894968.md">巡视组都还没走，中石油成了独立王国？</a></li>
 <li><a href="/comments/20230610/1894965.md">文昭：习近平首次明示「极端情况」，已在他身边发生？政治局上演「翘课」潮，什麽状况？</a></li>
+<li><a href="/baitai/20230609/1894729.md">老年痴呆的第1个症状是什么？可不是记性变差</a></li>
 <li><a href="/topimagenews/20230610/1894954.md">经济全面崩盘前兆？中国最大投行传减薪20%</a></li>
 <li><a href="/topimagenews/20230609/1894797.md">太黑暗！麦卡锡力挺川普痛批拜登 马斯克也说话了</a></li>
 <li><a href="/worldnews/20230610/1894840.md">奶奶煮面 女儿、3孙子吃完后离奇身亡 悲剧真相曝光</a></li>
 <li><a href="/cnnews/20230610/1894958.md">深圳“统租”潮，房东们慌了</a></li>
+<li><a href="/cbnews/20230610/1895003.md">〖兲朝浮世绘〗习近平不打台湾就换掉习？李毅胆敢说“换党换人”</a></li>
+<li><a href="/comments/20230610/1895012.md">小民之心 : 习近平已经秘密立储了？</a></li>
 <li><a href="/ssgc/20230610/1894917.md">中国盯上苹果的“隔空投送”</a></li>
 <li><a href="/comments/20230609/1894760.md">找到灵界入口！解锁 起死回生 功能！台湾奇人做研究，用物理、科学，根本说不通！｜ #未解之谜 扶摇</a></li>
-<li><a href="/cbnews/20230610/1895003.md">〖兲朝浮世绘〗习近平不打台湾就换掉习？李毅胆敢说“换党换人”</a></li>
 <li><a href="/yule/20230609/1894718.md">一婚嫁作曲家 二婚嫁富豪 三婚嫁初恋 如今…</a></li>
-<li><a href="/topimagenews/20230609/1894715.md">等来二手货 美对抗中共“好麻吉”要用这潜舰起码20年</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
 <li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
 <li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
 
 </ul>
 </div>
