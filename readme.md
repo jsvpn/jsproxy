@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20230611/1895352.md">今天的中国，正在上演一出规模盛大闹剧</a></li>
 <li><a href="/topimagenews/20230611/1895408.md">秦刚压根不把李强放在眼里！这张照片信息量很大【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230611/1895352.md">今天的中国，正在上演一出规模盛大闹剧</a></li>
 <li><a href="/cnnews/20230611/1895383.md">彭州女副书记穿吊带睡衣为男书记开门 女方夫公开举报其出轨</a></li>
 <li><a href="/ccpdope/20230611/1895279.md">中国正处在物极必反的历史时刻</a></li>
 <li><a href="/topimagenews/20230611/1895283.md">乌军传捷报！奇袭俄军基地</a></li>
-<li><a href="/ssgc/20230611/1895474.md">有大事要发生了？海军上将们的警告没有获得回应</a></li>
 <li><a href="/ssgc/20230611/1895341.md">〖微博谈〗它们的命运都是连在一起的</a></li>
+<li><a href="/ssgc/20230611/1895474.md">有大事要发生了？海军上将们的警告没有获得回应</a></li>
 <li><a href="/comments/20230611/1895354.md">【杰森视角】大反攻暴露乌军弱点！习近平花数十亿买下一个羞辱美国的机会？拜登为何派中情局局长秘密访问中国？英国防部：俄军防线是过去几十年来世界上最为缜密的防御系统！泽连斯基和普京对反攻描述的差异现真相！</a></li>
 <li><a href="/topimagenews/20230611/1895450.md">牵手门“小三裙”惹祸！正品直播间遭封</a></li>
 <li><a href="/topimagenews/20230611/1895405.md">大陆疯狂存钱 下场不妙？谢金河曝1致命警讯：重演日本惨况</a></li>
 <li><a href="/comments/20230611/1895292.md">【独家重磅】李燕铭：李克强赵乐际联手反扑习近平倒查20年 栗战书旧部打虎干将刘奇凡纪检亲信密集落马 內幕揭秘 习近平火线现身内蒙古或有大动作 习近平连任后大清洗（三八） 内蒙古帮覆灭记（十三） 中南海政变与反政变（七六）</a></li>
+<li><a href="/headline/20230611/1895489.md">梅西滞留北京机场 反问海关“台湾不是中国”？</a></li>
 <li><a href="/comments/20230611/1895484.md">【独家重磅】李燕铭：习近平反击李克强赵乐际反扑 连续考察内蒙四天 内蒙古党委书记孙绍骋前下属落马 习家军闽江新军两干将接掌清洗孙绍骋后院 习近平连任后大清洗（三九） 内蒙古帮覆灭记（十四） 中南海政变与反政变（七七） 习家军接掌国务院（二二）</a></li>
 <li><a href="/cbnews/20230611/1895417.md">越挖越多！国企高管“牵手门”4疑问待厘清 为何纪委办噤声？</a></li>
-<li><a href="/headline/20230611/1895489.md">梅西滞留北京机场 反问海关“台湾不是中国”？</a></li>
 <li><a href="/sohnews/20230611/1895461.md">陈破空：特邀梅西给习近平庆生？他入境中国费周折，公安紧张，拉布条阻挡球迷！神问答涉及台湾。普京罕见承认重大战损。直播与互动。美东6月11日早8点30、即中港台6月11晚8点30</a></li>
 <li><a href="/finance/20230611/1895300.md">上海富人区的国际学校 老外全跑光 豪宅中介傻眼</a></li>
 <li><a href="/cnnews/20230611/1895321.md">恐怖巨型蜈蚣爬墙！上百只脚狂动影片疯传</a></li>
 <li><a href="/lifebaike/20230611/1895364.md">【老照片】林彪出逃前给毛的最后一封信 可惜毛并未看到</a></li>
-<li><a href="/ssgc/20230611/1895399.md">沪港现惨相 中南海自食其果</a></li>
 <li><a href="/funmedia/20230611/1895400.md">钱，根本不是赚来的</a></li>
+<li><a href="/ssgc/20230611/1895399.md">沪港现惨相 中南海自食其果</a></li>
 <li><a href="/baitai/20230611/1895425.md">想找死就降价？中国车企陷入困境</a></li>
 <li><a href="/health/20230611/1895422.md">为什么两鬓先出现白发，如何能恢复正常？劝你先仔细了解下</a></li>
-<li><a href="/baitai/20230611/1895278.md">微软悄悄布局脱钩？失业潮来袭 专家忧大锅饭重回中国</a></li>
+<li><a href="/topimagenews/20230611/1895379.md">赌城天空不明绿光 目击者：后院见到8呎外星人 100%不是人类</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230612/1895541.md" target="_blank">老鱼君：乌克兰的大反攻到底怎么样了？</a></li>
 <li><a href="/comments/20230611/1895484.md" target="_blank">【独家重磅】李燕铭：习近平反击李克强赵乐际反扑 连续考察内蒙四天 内蒙古党委书记孙绍骋前下属落马 习家军闽江新军两干将接掌清洗孙绍骋后院 习近平连任后大清洗（三九） 内蒙古帮覆灭记（十四） 中南海政变与反政变（七七） 习家军接掌国务院（二二）</a></li>
 <li><a href="/comments/20230611/1895479.md" target="_blank">【方菲时间】再被起诉！川普竞选之路还能走下去吗？80岁章诒和被边控：我们与前辈的差距在于人性 ｜06/10/2023</a></li>
 <li><a href="/comments/20230611/1895477.md" target="_blank">文昭：为何学校是社会负面新闻的高产地？你以为网暴者真是无脑喷子吗？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230611/1895346.md" target="_blank">天亮时分：香格里拉对话，中共拉拢日韩失败；布林肯下周访华，中美脱钩进行时；因严重缺乏安全感，习近平必做一件事（政论天下第1026集 20230610）天亮时分</a></li>
 <li><a href="/comments/20230611/1895337.md" target="_blank">陆客：中共没有无限忠诚，只有无限虚伪</a></li>
 <li><a href="/comments/20230611/1895336.md" target="_blank">网海拾贝:炸毁卡霍夫卡水坝，事与愿违</a></li>
-<li><a href="/comments/20230611/1895311.md" target="_blank">杨威：习近平视察军队 张又侠为何隐身？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
 <li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 <li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
 
 </ul>
 </div>
