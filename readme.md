@@ -6,14 +6,14 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230611/1895264.md">四川大学的张薇被反噬了</a></li>
+<li><a href="/topimagenews/20230611/1895408.md">秦刚压根不把李强放在眼里！这张照片信息量很大【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230611/1895253.md">IPEF的设计排除了中共！首个脱中共供应链协议太厉害</a></li>
 <li><a href="/comments/20230610/1895214.md">【独家重磅】李燕铭：三国级高官接连赶赴湖北激战 栗战书李希联手对阵赵乐际俞正声 李鸿忠顶峰对抗李希后钱袋子被火速查处 湖北帮五高官接连落马 湖北帮覆灭记（十） 习近平连任后大清洗（三七）</a></li>
-<li><a href="/topimagenews/20230611/1895408.md">秦刚压根不把李强放在眼里！这张照片信息量很大【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230611/1895283.md">乌军传捷报！奇袭俄军基地</a></li>
 <li><a href="/cnnews/20230611/1895383.md">彭州女副书记穿吊带睡衣为男书记开门 女方夫公开举报其出轨</a></li>
-<li><a href="/comments/20230610/1895215.md">中国领事馆称 许多人偷渡美国后选择回中国</a></li>
 <li><a href="/sohnews/20230611/1895250.md">中共队厉害！ 成功阻击梅西</a></li>
 <li><a href="/ccpdope/20230611/1895279.md">中国正处在物极必反的历史时刻</a></li>
+<li><a href="/comments/20230610/1895215.md">中国领事馆称 许多人偷渡美国后选择回中国</a></li>
 <li><a href="/ccpdope/20230611/1895260.md">习近平不下十次警告要翻船</a></li>
 <li><a href="/cnnews/20230611/1895352.md">今天的中国，正在上演一出规模盛大闹剧</a></li>
 <li><a href="/baitai/20230610/1895222.md">最新激烈战况：乌军炮袭赫尔松俄军基地 单日阵亡人数破千 普京：乌已反攻 7月起白俄部署战术核武</a></li>
@@ -21,13 +21,13 @@
 <li><a href="/baitai/20230610/1895206.md">「圣婴现象」卷土重来 科学家发出警讯</a></li>
 <li><a href="/comments/20230611/1895354.md">【杰森视角】大反攻暴露乌军弱点！习近平花数十亿买下一个羞辱美国的机会？拜登为何派中情局局长秘密访问中国？英国防部：俄军防线是过去几十年来世界上最为缜密的防御系统！泽连斯基和普京对反攻描述的差异现真相！</a></li>
 <li><a href="/cnnews/20230611/1895321.md">恐怖巨型蜈蚣爬墙！上百只脚狂动影片疯传</a></li>
-<li><a href="/yule/20230611/1895269.md">61岁张学友澳门开唱“被绊到”舒淇现身全场疯了</a></li>
 <li><a href="/comments/20230611/1895292.md">【独家重磅】李燕铭：李克强赵乐际联手反扑习近平倒查20年 栗战书旧部打虎干将刘奇凡纪检亲信密集落马 內幕揭秘 习近平火线现身内蒙古或有大动作 习近平连任后大清洗（三八） 内蒙古帮覆灭记（十三） 中南海政变与反政变（七六）</a></li>
+<li><a href="/yule/20230611/1895269.md">61岁张学友澳门开唱“被绊到”舒淇现身全场疯了</a></li>
 <li><a href="/yule/20230611/1895270.md">苗侨伟32岁女儿拒绝进入娱乐圈，名校毕业气质优雅</a></li>
 <li><a href="/finance/20230611/1895300.md">上海富人区的国际学校 老外全跑光 豪宅中介傻眼</a></li>
 <li><a href="/baitai/20230611/1895278.md">微软悄悄布局脱钩？失业潮来袭 专家忧大锅饭重回中国</a></li>
 <li><a href="/sohnews/20230610/1895204.md">🔥习近平边控新时代，我不说还是个人吗？看衰普京！战争打到俄本土，盟友这2国拒为俄出兵，白俄也没动；都是假的？传董思槿白富美身份是编造，借过网贷【阿波罗网AV】</a></li>
-<li><a href="/topimagenews/20230611/1895329.md">高考又遇“傻笔” “这块肉也要吃么”？</a></li>
+<li><a href="/lifebaike/20230611/1895364.md">【老照片】林彪出逃前给毛的最后一封信 可惜毛并未看到</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230611/1895466.md" target="_blank">日本北海道发生规模6.2地震 最大震度5级 目前无海啸威胁</a></li>
 <li><a href="/comments/20230611/1895465.md" target="_blank">中石油高官与小三被拍谁倒霉？ 鼠头变鸭脖后又吃出大青虫</a></li>
 <li><a href="/comments/20230611/1895453.md" target="_blank">川普被控37项重罪，只有一项最有杀伤力。法律专家感叹川普太大意。前FBI局长说了一句惊人的话，承认背后搞鬼？</a></li>
 <li><a href="/comments/20230611/1895371.md" target="_blank">用大坝来吓人做过头 乌克兰截获通话证明俄所为</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230611/1895294.md" target="_blank">袁斌:上次是“指鼠为鸭”，这次会是指虫为何？</a></li>
 <li><a href="/comments/20230611/1895292.md" target="_blank">【独家重磅】李燕铭：李克强赵乐际联手反扑习近平倒查20年 栗战书旧部打虎干将刘奇凡纪检亲信密集落马 內幕揭秘 习近平火线现身内蒙古或有大动作 习近平连任后大清洗（三八） 内蒙古帮覆灭记（十三） 中南海政变与反政变（七六）</a></li>
 <li><a href="/comments/20230611/1895281.md" target="_blank">文昭：大炼芯片后又出“大炼招聘”！如何在100天内创造1000万就业机会？</a></li>
-<li><a href="/comments/20230610/1895215.md" target="_blank">中国领事馆称 许多人偷渡美国后选择回中国</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
 <li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
 
 </ul>
 </div>
