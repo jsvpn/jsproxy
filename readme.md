@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20230611/1895253.md">IPEF的设计排除了中共！首个脱中共供应链协议太厉害</a></li>
 <li><a href="/comments/20230610/1895214.md">【独家重磅】李燕铭：三国级高官接连赶赴湖北激战 栗战书李希联手对阵赵乐际俞正声 李鸿忠顶峰对抗李希后钱袋子被火速查处 湖北帮五高官接连落马 湖北帮覆灭记（十） 习近平连任后大清洗（三七）</a></li>
 <li><a href="/topimagenews/20230611/1895283.md">乌军传捷报！奇袭俄军基地</a></li>
-<li><a href="/comments/20230610/1895215.md">中国领事馆称 许多人偷渡美国后选择回中国</a></li>
 <li><a href="/cnnews/20230611/1895383.md">彭州女副书记穿吊带睡衣为男书记开门 女方夫公开举报其出轨</a></li>
+<li><a href="/comments/20230610/1895215.md">中国领事馆称 许多人偷渡美国后选择回中国</a></li>
 <li><a href="/sohnews/20230611/1895250.md">中共队厉害！ 成功阻击梅西</a></li>
 <li><a href="/ccpdope/20230611/1895279.md">中国正处在物极必反的历史时刻</a></li>
 <li><a href="/cnnews/20230611/1895352.md">今天的中国，正在上演一出规模盛大闹剧</a></li>
 <li><a href="/ccpdope/20230611/1895260.md">习近平不下十次警告要翻船</a></li>
-<li><a href="/cbnews/20230610/1895171.md">东盟10国风向变了?首度南海联合大演习 中共头大</a></li>
 <li><a href="/baitai/20230610/1895222.md">最新激烈战况：乌军炮袭赫尔松俄军基地 单日阵亡人数破千 普京：乌已反攻 7月起白俄部署战术核武</a></li>
+<li><a href="/cbnews/20230610/1895171.md">东盟10国风向变了?首度南海联合大演习 中共头大</a></li>
 <li><a href="/ssgc/20230611/1895341.md">〖微博谈〗它们的命运都是连在一起的</a></li>
 <li><a href="/baitai/20230610/1895206.md">「圣婴现象」卷土重来 科学家发出警讯</a></li>
+<li><a href="/comments/20230611/1895354.md">【杰森视角】大反攻暴露乌军弱点！习近平花数十亿买下一个羞辱美国的机会？拜登为何派中情局局长秘密访问中国？英国防部：俄军防线是过去几十年来世界上最为缜密的防御系统！泽连斯基和普京对反攻描述的差异现真相！</a></li>
 <li><a href="/cnnews/20230611/1895321.md">恐怖巨型蜈蚣爬墙！上百只脚狂动影片疯传</a></li>
 <li><a href="/yule/20230611/1895269.md">61岁张学友澳门开唱“被绊到”舒淇现身全场疯了</a></li>
-<li><a href="/comments/20230611/1895354.md">【杰森视角】大反攻暴露乌军弱点！习近平花数十亿买下一个羞辱美国的机会？拜登为何派中情局局长秘密访问中国？英国防部：俄军防线是过去几十年来世界上最为缜密的防御系统！泽连斯基和普京对反攻描述的差异现真相！</a></li>
 <li><a href="/yule/20230611/1895270.md">苗侨伟32岁女儿拒绝进入娱乐圈，名校毕业气质优雅</a></li>
 <li><a href="/baitai/20230611/1895278.md">微软悄悄布局脱钩？失业潮来袭 专家忧大锅饭重回中国</a></li>
 <li><a href="/comments/20230611/1895292.md">【独家重磅】李燕铭：李克强赵乐际联手反扑习近平倒查20年 栗战书旧部打虎干将刘奇凡纪检亲信密集落马 內幕揭秘 习近平火线现身内蒙古或有大动作 习近平连任后大清洗（三八） 内蒙古帮覆灭记（十三） 中南海政变与反政变（七六）</a></li>
+<li><a href="/topimagenews/20230611/1895408.md">秦刚压根不把李强放在眼里！这张照片信息量很大【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230610/1895204.md">🔥习近平边控新时代，我不说还是个人吗？看衰普京！战争打到俄本土，盟友这2国拒为俄出兵，白俄也没动；都是假的？传董思槿白富美身份是编造，借过网贷【阿波罗网AV】</a></li>
-<li><a href="/finance/20230611/1895300.md">上海富人区的国际学校 老外全跑光 豪宅中介傻眼</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
 <li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
 <li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 
 </ul>
 </div>
