@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20230611/1895264.md">四川大学的张薇被反噬了</a></li>
 <li><a href="/topimagenews/20230611/1895253.md">IPEF的设计排除了中共！首个脱中共供应链协议太厉害</a></li>
 <li><a href="/topimagenews/20230611/1895283.md">乌军传捷报！奇袭俄军基地</a></li>
-<li><a href="/topimagenews/20230610/1895162.md">英前装甲指挥官：挑战者2型 即将彻底摧毁俄国兵</a></li>
 <li><a href="/comments/20230610/1895214.md">【独家重磅】李燕铭：三国级高官接连赶赴湖北激战 栗战书李希联手对阵赵乐际俞正声 李鸿忠顶峰对抗李希后钱袋子被火速查处 湖北帮五高官接连落马 湖北帮覆灭记（十） 习近平连任后大清洗（三七）</a></li>
-<li><a href="/ccpdope/20230611/1895279.md">中国正处在物极必反的历史时刻</a></li>
+<li><a href="/topimagenews/20230610/1895162.md">英前装甲指挥官：挑战者2型 即将彻底摧毁俄国兵</a></li>
 <li><a href="/comments/20230610/1895215.md">中国领事馆称 许多人偷渡美国后选择回中国</a></li>
-<li><a href="/sohnews/20230610/1895138.md">乌克兰大反攻开始，豹2坦克、M2布莱德利步兵战车被击毁，乌克兰要如何反攻？｜ #探索时分</a></li>
+<li><a href="/ccpdope/20230611/1895279.md">中国正处在物极必反的历史时刻</a></li>
 <li><a href="/sohnews/20230611/1895250.md">中共队厉害！ 成功阻击梅西</a></li>
 <li><a href="/ccpdope/20230611/1895260.md">习近平不下十次警告要翻船</a></li>
 <li><a href="/cbnews/20230610/1895171.md">东盟10国风向变了?首度南海联合大演习 中共头大</a></li>
 <li><a href="/cnnews/20230611/1895352.md">今天的中国，正在上演一出规模盛大闹剧</a></li>
-<li><a href="/cnnews/20230611/1895321.md">恐怖巨型蜈蚣爬墙！上百只脚狂动影片疯传</a></li>
-<li><a href="/yule/20230611/1895269.md">61岁张学友澳门开唱“被绊到”舒淇现身全场疯了</a></li>
 <li><a href="/ssgc/20230611/1895341.md">〖微博谈〗它们的命运都是连在一起的</a></li>
 <li><a href="/baitai/20230610/1895222.md">最新激烈战况：乌军炮袭赫尔松俄军基地 单日阵亡人数破千 普京：乌已反攻 7月起白俄部署战术核武</a></li>
+<li><a href="/cnnews/20230611/1895383.md">彭州女副书记穿吊带睡衣为男书记开门 女方夫公开举报其出轨</a></li>
+<li><a href="/cnnews/20230611/1895321.md">恐怖巨型蜈蚣爬墙！上百只脚狂动影片疯传</a></li>
+<li><a href="/yule/20230611/1895269.md">61岁张学友澳门开唱“被绊到”舒淇现身全场疯了</a></li>
 <li><a href="/baitai/20230610/1895206.md">「圣婴现象」卷土重来 科学家发出警讯</a></li>
 <li><a href="/yule/20230611/1895270.md">苗侨伟32岁女儿拒绝进入娱乐圈，名校毕业气质优雅</a></li>
 <li><a href="/health/20230610/1895157.md">这四种零食正在偷偷“摧毁”你的胰腺，医生忠告：不管男女，都要少吃</a></li>
 <li><a href="/baitai/20230611/1895278.md">微软悄悄布局脱钩？失业潮来袭 专家忧大锅饭重回中国</a></li>
 <li><a href="/sohnews/20230610/1895204.md">🔥习近平边控新时代，我不说还是个人吗？看衰普京！战争打到俄本土，盟友这2国拒为俄出兵，白俄也没动；都是假的？传董思槿白富美身份是编造，借过网贷【阿波罗网AV】</a></li>
-<li><a href="/cnnews/20230611/1895383.md">彭州女副书记穿吊带睡衣为男书记开门 女方夫公开举报其出轨</a></li>
+<li><a href="/health/20230610/1895156.md">睡觉时，突然有一种“踩空”感，这是大脑在发送什么信号？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
 <li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 <li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
 
 </ul>
 </div>
