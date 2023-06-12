@@ -5,16 +5,16 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cnnews/20230612/1895547.md">这个消息国内还没报道：马斯克要把中国的特斯拉工厂搬走？</a></li>
 <li><a href="/topimagenews/20230612/1895555.md">“未成年不是事…”女领导的20个情夫，最小17岁</a></li>
+<li><a href="/cnnews/20230612/1895547.md">这个消息国内还没报道：马斯克要把中国的特斯拉工厂搬走？</a></li>
 <li><a href="/cnnews/20230612/1895545.md">上海11号线“市长孙女”辱骂事件，句句惊人</a></li>
 <li><a href="/headline/20230611/1895489.md">梅西滞留北京机场 反问海关“台湾不是中国”？</a></li>
 <li><a href="/comments/20230612/1895566.md">【独家重磅】李燕铭：曾庆红出卖李克强 与习交易团灭团派 阻击陈敏尔晋升暗中布局丁薛祥接班 习近平重用蔡奇何立峰钳制新上海帮五常委 部署长期执政严防政变 习近平连任与中共末日（132） 习连任后高层人事大洗牌（103） 团派团灭内幕（27） 中南海政变与反政变（78） 习近平李克强明争暗斗内幕（101）</a></li>
 <li><a href="/ccpdope/20230612/1895627.md">中共军委副主席张又侠出事了？</a></li>
 <li><a href="/topimagenews/20230612/1895513.md">普亭军队“不可战胜的神话”被摧毁？边境居民叹：感觉被俄当局抛弃</a></li>
 <li><a href="/cbnews/20230612/1895608.md">〖兲朝浮世绘〗太古里又火了！国企高官都想当网红呀</a></li>
-<li><a href="/topimagenews/20230612/1895568.md">大使夫人“辣过头” 爆红，22秒视频疯传</a></li>
 <li><a href="/cnnews/20230612/1895509.md">梅西抵北京签证卡关 传反问：台湾不算中国吗？海关崩溃</a></li>
+<li><a href="/topimagenews/20230612/1895568.md">大使夫人“辣过头” 爆红，22秒视频疯传</a></li>
 <li><a href="/topimagenews/20230612/1895519.md">二婚女相亲爆抢手？6小伙背后的三千万中国光棍</a></li>
 <li><a href="/cbnews/20230612/1895573.md">背着普京，习近平正实施“秘密计划”</a></li>
 <li><a href="/topimagenews/20230612/1895520.md">俄系武器是被嘲笑：吹得很神，结果“豆腐渣”</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/topimagenews/20230612/1895652.md">中美彻底决裂？专家爆“回不去了”关键2大原因</a></li>
 <li><a href="/cnnews/20230612/1895569.md">中国人疯狂移民 160万改变人生</a></li>
 <li><a href="/topimagenews/20230612/1895630.md">拒当侵略共犯！俄罗斯现役空军中尉叛逃立陶宛 揭俄军残破不堪内幕</a></li>
-<li><a href="/cnnews/20230612/1895511.md">研究显示：全身名牌反而不是真正有钱 有钱人想的和你不一样</a></li>
+<li><a href="/topimagenews/20230612/1895684.md">中共证监会又开始大忽悠：我们是不会...【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230612/1895836.md" target="_blank">时事大家谈：美国送“发达国家”高帽，中国为何“承受不起”?</a></li>
+<li><a href="/comments/20230612/1895835.md" target="_blank">时事大家谈：中国在古巴设立情报站？后果有多严重？美国送“发达国家”高帽，中国为何“承受不起”?</a></li>
 <li><a href="/comments/20230612/1895823.md" target="_blank">被37项起诉后，川普首次发表演讲。在北卡州，川普、德桑蒂斯和彭斯三人首次同台，唯川普看透时局。</a></li>
 <li><a href="/comments/20230612/1895814.md" target="_blank">评论：武汉汉阳弘桥小学老师校内驾车碾压学生的公共事件</a></li>
 <li><a href="/comments/20230612/1895797.md" target="_blank">评论 | 傅申奇：惊涛骇浪</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230612/1895601.md" target="_blank">天亮时分：李毅谋反？换掉习近平！对川普的起诉是加强还是削弱了法治？（政论天下第1027集 20230611）</a></li>
 <li><a href="/comments/20230612/1895572.md" target="_blank">最关键的一个字！</a></li>
 <li><a href="/comments/20230612/1895566.md" target="_blank">【独家重磅】李燕铭：曾庆红出卖李克强 与习交易团灭团派 阻击陈敏尔晋升暗中布局丁薛祥接班 习近平重用蔡奇何立峰钳制新上海帮五常委 部署长期执政严防政变 习近平连任与中共末日（132） 习连任后高层人事大洗牌（103） 团派团灭内幕（27） 中南海政变与反政变（78） 习近平李克强明争暗斗内幕（101）</a></li>
-<li><a href="/comments/20230612/1895563.md" target="_blank">中国怎么了：失孩母正衣装被网暴，小三走秀粉裙引跟风</a></li>
-<li><a href="/comments/20230612/1895541.md" target="_blank">老鱼君：乌克兰的大反攻到底怎么样了？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
 <li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 
 </ul>
 </div>
