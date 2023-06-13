@@ -13,8 +13,8 @@
 <li><a href="/topimagenews/20230613/1896040.md">坏消息接踵而至 中国前首富还顶得住吗？</a></li>
 <li><a href="/topimagenews/20230613/1895937.md">全国网友都记住这四个人的名字了</a></li>
 <li><a href="/topimagenews/20230613/1896009.md">习仲勋前秘书葬礼 习近平夫妇和齐心送花圈</a></li>
-<li><a href="/cnnews/20230613/1896075.md">中共最害怕一幕出现！大学生又干了一件漂亮事 唤起无数人的记忆【阿波罗网报道】</a></li>
 <li><a href="/comments/20230613/1895990.md">文昭：没想到的方式，特斯拉刚说不走也要搬出中国了，传说中的科技与狠活？大反贼在高考复读班</a></li>
+<li><a href="/cnnews/20230613/1896075.md">中共最害怕一幕出现！大学生又干了一件漂亮事 唤起无数人的记忆【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20230613/1895962.md">大陆人不关心飞船上天 透中共危机</a></li>
 <li><a href="/yule/20230613/1895982.md">王力宏演唱会遇冷！现场大片空位本人迟迟不上场</a></li>
 <li><a href="/ssgc/20230613/1896030.md">〖微博谈〗它们信仰的是独裁专政</a></li>
@@ -22,8 +22,8 @@
 <li><a href="/topimagenews/20230613/1896078.md">我搞不懂为什么？战争罪犯普丁谈“袭击居民区”：这没有任何军事意义</a></li>
 <li><a href="/comments/20230613/1896020.md">这位高官，正是习近平深恶痛绝的“高级黑”？</a></li>
 <li><a href="/baitai/20230613/1895930.md">大陆政法界人员纷纷觉醒 中共根基已在坍塌</a></li>
-<li><a href="/sohnews/20230613/1895932.md">光伏企业高管赴慕尼黑参展，不止一人在机场被带走； 世界核武器数量增多，中共激增引关注；AI时代对抗中共，美国将重返联合国教科文组织；家乐福一季度关闭33家门店，深圳首店关闭｜ #新唐人快报 6/12</a></li>
 <li><a href="/funmedia/20230613/1896043.md">血型排行榜</a></li>
+<li><a href="/sohnews/20230613/1895932.md">光伏企业高管赴慕尼黑参展，不止一人在机场被带走； 世界核武器数量增多，中共激增引关注；AI时代对抗中共，美国将重返联合国教科文组织；家乐福一季度关闭33家门店，深圳首店关闭｜ #新唐人快报 6/12</a></li>
 <li><a href="/sohnews/20230613/1895933.md">克里米亚动脉被炸，乌克兰三线报捷；普京再催核武，大变将至？“杯酒释兵权”无效，瓦格纳内讧升级，传“投降党”密谋废黜普京</a></li>
 <li><a href="/topimagenews/20230613/1896050.md">小粉红挨骂 月退200还想统一月退7千的台湾</a></li>
 <li><a href="/lifebaike/20230613/1896052.md">【老照片】延安时毛过得有滋有味 有自己的专车 还和江青打乒乓球</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
 <li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 
 </ul>
 </div>
