@@ -10,24 +10,24 @@
 <li><a href="/ccpdope/20230613/1895917.md">德国人嫖娼，习近平患性病</a></li>
 <li><a href="/comments/20230612/1895754.md">真的挡住了！扛下20亿颗原子弹的能量，留下4个比地球大的坑！1994年、2012年⋯地球总遇恩人？谁承受了巨难？｜ #未解之谜 扶摇</a></li>
 <li><a href="/topimagenews/20230613/1895901.md">中国妈妈旅游签赴美生子后 遭美终身禁止入境</a></li>
-<li><a href="/topimagenews/20230612/1895727.md">笑疯了！“又来一个绝望的文盲”</a></li>
-<li><a href="/topimagenews/20230612/1895728.md">芯片战再升级！荷兰不演了放大绝 竟想禁止陆生这件事</a></li>
 <li><a href="/cbnews/20230613/1896057.md">〖兲朝浮世绘〗全国大跃进进行中 这是中共最后的疯狂</a></li>
 <li><a href="/topimagenews/20230613/1895941.md">前饭店经理曝房间“2物品”超恶千万别用：吓到不敢再住</a></li>
 <li><a href="/topimagenews/20230613/1895937.md">全国网友都记住这四个人的名字了</a></li>
 <li><a href="/topimagenews/20230613/1895978.md">中国进入大还债时代</a></li>
 <li><a href="/baitai/20230612/1895822.md">石穿云：李强沦为习近平跟班 地方诸侯「恕不奉陪」？</a></li>
 <li><a href="/topimagenews/20230612/1895764.md">“普通百姓没人想战争”中国网络涌反战文 因不满现状？</a></li>
+<li><a href="/topimagenews/20230613/1896010.md">【微博精粹】老粉红李毅撵习近平下台</a></li>
 <li><a href="/sohnews/20230612/1895747.md">陈破空：习主席的宠臣很傲娇，当场玩手机，无视李强主持会议。马斯克中国行沉默，谜底揭晓？要把上海特斯拉搬到墨西哥。直播与互动。美东6月12日早8点30、即中港台6月12晚8点30</a></li>
 <li><a href="/topimagenews/20230613/1895892.md">突发！印度：没收小米48亿</a></li>
 <li><a href="/sohnews/20230613/1895932.md">光伏企业高管赴慕尼黑参展，不止一人在机场被带走； 世界核武器数量增多，中共激增引关注；AI时代对抗中共，美国将重返联合国教科文组织；家乐福一季度关闭33家门店，深圳首店关闭｜ #新唐人快报 6/12</a></li>
-<li><a href="/topimagenews/20230613/1896010.md">【微博精粹】老粉红李毅撵习近平下台</a></li>
-<li><a href="/cnnews/20230612/1895729.md">“党委书记被曝出轨副书记”，官方通报来了</a></li>
 <li><a href="/cnnews/20230613/1895965.md">打了谁的脸？十万云南边民移居越南</a></li>
 <li><a href="/baitai/20230613/1895930.md">大陆政法界人员纷纷觉醒 中共根基已在坍塌</a></li>
 <li><a href="/sohnews/20230613/1895933.md">克里米亚动脉被炸，乌克兰三线报捷；普京再催核武，大变将至？“杯酒释兵权”无效，瓦格纳内讧升级，传“投降党”密谋废黜普京</a></li>
 <li><a href="/topimagenews/20230613/1895891.md">要“山寨”整个三星工厂 韩国警方痛击北京野心</a></li>
 <li><a href="/topimagenews/20230613/1896040.md">坏消息接踵而至 中国前首富还顶得住吗？</a></li>
+<li><a href="/comments/20230613/1895990.md">文昭：没想到的方式，特斯拉刚说不走也要搬出中国了，传说中的科技与狠活？大反贼在高考复读班</a></li>
+<li><a href="/ccpdope/20230613/1895962.md">大陆人不关心飞船上天 透中共危机</a></li>
+<li><a href="/ssgc/20230613/1895875.md">英媒：新冠病毒起源于武汉科学家与解放军合造生化武器</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
 
 </ul>
 </div>
