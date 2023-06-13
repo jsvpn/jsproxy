@@ -13,16 +13,16 @@
 <li><a href="/headline/20230612/1895724.md">聿文视界：习近平正在悄悄改造中共意识形态</a></li>
 <li><a href="/topimagenews/20230612/1895715.md">太原造价约人民币59万元“透明公厕”一览无遗 遭网友骂爆</a></li>
 <li><a href="/comments/20230612/1895770.md">中国59歳女贪官包养十多个“小鲜肉” 别墅淫战5军人下场惨</a></li>
-<li><a href="/topimagenews/20230612/1895652.md">中美彻底决裂？专家爆“回不去了”关键2大原因</a></li>
 <li><a href="/comments/20230612/1895754.md">真的挡住了！扛下20亿颗原子弹的能量，留下4个比地球大的坑！1994年、2012年⋯地球总遇恩人？谁承受了巨难？｜ #未解之谜 扶摇</a></li>
+<li><a href="/topimagenews/20230612/1895652.md">中美彻底决裂？专家爆“回不去了”关键2大原因</a></li>
+<li><a href="/ccpdope/20230613/1895917.md">德国人嫖娼，习近平患性病</a></li>
 <li><a href="/ssgc/20230612/1895616.md">〖微博谈〗鼠鸭门实在是过于神奇了</a></li>
 <li><a href="/bblog/20230612/1895614.md">〖微历史〗坚决执行镇压命令的都是军队将领之子</a></li>
 <li><a href="/topimagenews/20230612/1895728.md">芯片战再升级！荷兰不演了放大绝 竟想禁止陆生这件事</a></li>
-<li><a href="/ccpdope/20230613/1895917.md">德国人嫖娼，习近平患性病</a></li>
 <li><a href="/topimagenews/20230612/1895684.md">中共证监会又开始大忽悠：我们是不会...【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230613/1895901.md">中国妈妈旅游签赴美生子后 遭美终身禁止入境</a></li>
 <li><a href="/topimagenews/20230612/1895727.md">笑疯了！“又来一个绝望的文盲”</a></li>
 <li><a href="/cnnews/20230612/1895645.md">楼市瞬间崩了！中国买家迷失在…</a></li>
-<li><a href="/topimagenews/20230613/1895901.md">中国妈妈旅游签赴美生子后 遭美终身禁止入境</a></li>
 <li><a href="/topimagenews/20230612/1895639.md">中共30亿美元白花了!才买6套俄“顶尖防空导弹” S-400竟拦不住海马斯</a></li>
 <li><a href="/topimagenews/20230612/1895630.md">拒当侵略共犯！俄罗斯现役空军中尉叛逃立陶宛 揭俄军残破不堪内幕</a></li>
 <li><a href="/topimagenews/20230612/1895764.md">“普通百姓没人想战争”中国网络涌反战文 因不满现状？</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230613/1895997.md" target="_blank">加拿大山火殃及美国。纽约人说都怪加拿大，特鲁多说都是气候变化惹的祸。揭开加拿大山火的真正原因。</a></li>
 <li><a href="/comments/20230613/1895975.md" target="_blank">川普抵迈阿密应诉 美国再次屏住呼吸【方伟时间-20230612】</a></li>
 <li><a href="/comments/20230613/1895953.md" target="_blank">林晓旭：迄今最强报告，完整梳理病毒爆发最可能路线图！中共军队超限研究早已不只生化武器 ｜新闻烽火台 06/12</a></li>
 <li><a href="/cbnews/20230613/1895902.md" target="_blank">中国奇葩“透明公厕”上厕所看光光</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230610/1895223.md" target="_blank">中共盯上蓝牙和AirDrop 文件传输拟“实名制”</a></li>
 <li><a href="/cbnews/20230610/1895193.md" target="_blank">江峰：进攻方决堤阻挡自己前进，见过这麽自虐的吗？</a></li>
 <li><a href="/cbnews/20230610/1895171.md" target="_blank">东盟10国风向变了?首度南海联合大演习 中共头大</a></li>
-<li><a href="/comments/20230610/1895141.md" target="_blank">这么做，打开灵界！</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230613/1895997.md" target="_blank">加拿大山火殃及美国。纽约人说都怪加拿大，特鲁多说都是气候变化惹的祸。揭开加拿大山火的真正原因。</a></li>
 <li><a href="/comments/20230613/1895990.md" target="_blank">文昭：没想到的方式，特斯拉刚说不走也要搬出中国了，传说中的科技与狠活？大反贼在高考复读班</a></li>
 <li><a href="/comments/20230613/1895975.md" target="_blank">川普抵迈阿密应诉 美国再次屏住呼吸【方伟时间-20230612】</a></li>
 <li><a href="/comments/20230613/1895953.md" target="_blank">林晓旭：迄今最强报告，完整梳理病毒爆发最可能路线图！中共军队超限研究早已不只生化武器 ｜新闻烽火台 06/12</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230612/1895733.md" target="_blank">战狼言论惹怒全欧洲 卢沙野被召回中国打入冷宫</a></li>
 <li><a href="/comments/20230612/1895670.md" target="_blank">一定有问题！需要四个厅级单位联和调查的鸭脖 让人震惊</a></li>
 <li><a href="/comments/20230612/1895621.md" target="_blank">【微博精粹】全世界都在看 中俄朝三个轴心国哪个先爆巨变</a></li>
-<li><a href="/comments/20230612/1895618.md" target="_blank">陈家煜：如何阻止脸书扎克伯格的脏手干政</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
 <li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
 
 </ul>
 </div>
