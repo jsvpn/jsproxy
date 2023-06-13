@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/ccpdope/20230612/1895627.md">中共军委副主席张又侠出事了？</a></li>
-<li><a href="/cbnews/20230612/1895608.md">〖兲朝浮世绘〗太古里又火了！国企高官都想当网红呀</a></li>
 <li><a href="/topimagenews/20230612/1895723.md">中国经济面临流动性陷阱！任泽平：重点不在救楼市经济 而是防止“硬着陆”</a></li>
 <li><a href="/cbnews/20230612/1895664.md">“牵手门”董某某背后，这两位姑娘也被“扒”</a></li>
 <li><a href="/topimagenews/20230612/1895785.md">深圳“统租”潮，房东们慌了；杭州买房送黄金，各地降价花样百出</a></li>
 <li><a href="/headline/20230612/1895724.md">聿文视界：习近平正在悄悄改造中共意识形态</a></li>
-<li><a href="/topimagenews/20230612/1895715.md">太原造价约人民币59万元“透明公厕”一览无遗 遭网友骂爆</a></li>
 <li><a href="/comments/20230612/1895770.md">中国59歳女贪官包养十多个“小鲜肉” 别墅淫战5军人下场惨</a></li>
+<li><a href="/topimagenews/20230612/1895715.md">太原造价约人民币59万元“透明公厕”一览无遗 遭网友骂爆</a></li>
+<li><a href="/ccpdope/20230613/1895917.md">德国人嫖娼，习近平患性病</a></li>
 <li><a href="/comments/20230612/1895754.md">真的挡住了！扛下20亿颗原子弹的能量，留下4个比地球大的坑！1994年、2012年⋯地球总遇恩人？谁承受了巨难？｜ #未解之谜 扶摇</a></li>
 <li><a href="/topimagenews/20230612/1895652.md">中美彻底决裂？专家爆“回不去了”关键2大原因</a></li>
-<li><a href="/ccpdope/20230613/1895917.md">德国人嫖娼，习近平患性病</a></li>
 <li><a href="/ssgc/20230612/1895616.md">〖微博谈〗鼠鸭门实在是过于神奇了</a></li>
 <li><a href="/bblog/20230612/1895614.md">〖微历史〗坚决执行镇压命令的都是军队将领之子</a></li>
-<li><a href="/topimagenews/20230612/1895728.md">芯片战再升级！荷兰不演了放大绝 竟想禁止陆生这件事</a></li>
-<li><a href="/topimagenews/20230612/1895684.md">中共证监会又开始大忽悠：我们是不会...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230613/1895901.md">中国妈妈旅游签赴美生子后 遭美终身禁止入境</a></li>
+<li><a href="/topimagenews/20230612/1895728.md">芯片战再升级！荷兰不演了放大绝 竟想禁止陆生这件事</a></li>
 <li><a href="/topimagenews/20230612/1895727.md">笑疯了！“又来一个绝望的文盲”</a></li>
+<li><a href="/topimagenews/20230612/1895684.md">中共证监会又开始大忽悠：我们是不会...【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230612/1895645.md">楼市瞬间崩了！中国买家迷失在…</a></li>
 <li><a href="/topimagenews/20230612/1895639.md">中共30亿美元白花了!才买6套俄“顶尖防空导弹” S-400竟拦不住海马斯</a></li>
 <li><a href="/topimagenews/20230612/1895630.md">拒当侵略共犯！俄罗斯现役空军中尉叛逃立陶宛 揭俄军残破不堪内幕</a></li>
 <li><a href="/topimagenews/20230612/1895764.md">“普通百姓没人想战争”中国网络涌反战文 因不满现状？</a></li>
-<li><a href="/comments/20230612/1895621.md">【微博精粹】全世界都在看 中俄朝三个轴心国哪个先爆巨变</a></li>
 <li><a href="/sohnews/20230612/1895747.md">陈破空：习主席的宠臣很傲娇，当场玩手机，无视李强主持会议。马斯克中国行沉默，谜底揭晓？要把上海特斯拉搬到墨西哥。直播与互动。美东6月12日早8点30、即中港台6月12晚8点30</a></li>
+<li><a href="/comments/20230612/1895621.md">【微博精粹】全世界都在看 中俄朝三个轴心国哪个先爆巨变</a></li>
+<li><a href="/cnnews/20230612/1895729.md">“党委书记被曝出轨副书记”，官方通报来了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230613/1896007.md" target="_blank">天亮时分：卢沙野回国坐冷板凳？中共驻韩大使才危险；一切取决於乌克兰的反攻；揭秘白罗斯为何不打乌克兰（政论天下第1028集 20230612）天亮时分</a></li>
+<li><a href="/comments/20230613/1895999.md" target="_blank">杨宪宏：看美国国内法《台湾关系法》大展神威</a></li>
 <li><a href="/comments/20230613/1895997.md" target="_blank">加拿大山火殃及美国。纽约人说都怪加拿大，特鲁多说都是气候变化惹的祸。揭开加拿大山火的真正原因。</a></li>
 <li><a href="/comments/20230613/1895990.md" target="_blank">文昭：没想到的方式，特斯拉刚说不走也要搬出中国了，传说中的科技与狠活？大反贼在高考复读班</a></li>
 <li><a href="/comments/20230613/1895975.md" target="_blank">川普抵迈阿密应诉 美国再次屏住呼吸【方伟时间-20230612】</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230612/1895735.md" target="_blank">封控断红线？ 中国去年结婚人数创37年新低</a></li>
 <li><a href="/comments/20230612/1895734.md" target="_blank">“反送中”4周年 港人在英游行被中国人殴打</a></li>
 <li><a href="/comments/20230612/1895733.md" target="_blank">战狼言论惹怒全欧洲 卢沙野被召回中国打入冷宫</a></li>
-<li><a href="/comments/20230612/1895670.md" target="_blank">一定有问题！需要四个厅级单位联和调查的鸭脖 让人震惊</a></li>
-<li><a href="/comments/20230612/1895621.md" target="_blank">【微博精粹】全世界都在看 中俄朝三个轴心国哪个先爆巨变</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
 <li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
 
 </ul>
 </div>
