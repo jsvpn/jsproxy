@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20230613/1896057.md">〖兲朝浮世绘〗全国大跃进进行中 这是中共最后的疯狂</a></li>
-<li><a href="/topimagenews/20230613/1896010.md">【微博精粹】老粉红李毅撵习近平下台</a></li>
 <li><a href="/topimagenews/20230613/1896040.md">坏消息接踵而至 中国前首富还顶得住吗？</a></li>
+<li><a href="/topimagenews/20230613/1896010.md">【微博精粹】老粉红李毅撵习近平下台</a></li>
 <li><a href="/cnnews/20230613/1896075.md">中共最害怕一幕出现！大学生又干了一件漂亮事 唤起无数人的记忆【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230613/1896009.md">习仲勋前秘书葬礼 习近平夫妇和齐心送花圈</a></li>
 <li><a href="/lifebaike/20230613/1896046.md">路由器要多久关闭一次？多亏宽带师傅提醒，难怪网速越用越慢</a></li>
+<li><a href="/topimagenews/20230613/1896009.md">习仲勋前秘书葬礼 习近平夫妇和齐心送花圈</a></li>
 <li><a href="/ssgc/20230613/1896030.md">〖微博谈〗它们信仰的是独裁专政</a></li>
 <li><a href="/comments/20230613/1896020.md">这位高官，正是习近平深恶痛绝的“高级黑”？</a></li>
 <li><a href="/topimagenews/20230613/1896078.md">我搞不懂为什么？战争罪犯普丁谈“袭击居民区”：这没有任何军事意义</a></li>
 <li><a href="/funmedia/20230613/1896043.md">血型排行榜</a></li>
 <li><a href="/topimagenews/20230613/1896050.md">小粉红挨骂 月退200还想统一月退7千的台湾</a></li>
 <li><a href="/lifebaike/20230613/1896052.md">【老照片】延安时毛过得有滋有味 有自己的专车 还和江青打乒乓球</a></li>
-<li><a href="/yule/20230613/1896000.md">刘烨混血儿女模样大变！诺一长胖土味穿搭显沧桑，妹妹五官变大气</a></li>
 <li><a href="/baitai/20230613/1896047.md">面临大危机 习罕见喊话「靠自己活下去」</a></li>
 <li><a href="/funmedia/20230613/1896041.md">一个男人，如果把烟和酒都戒掉了，那他有3个目的</a></li>
 <li><a href="/sohnews/20230613/1896053.md">20230613直播：汇率破7.15，毁了今年的GDP数字；困境无解，习近平：靠自己活下去；泰晤士报告一个细节令人毛骨悚然；俄罗斯在崩溃！大反攻的最新进展。（20230613 第1199期）</a></li>
 <li><a href="/topimagenews/20230613/1896074.md">普丁、绍伊古到医院“征兵” 普丁瞄他一眼 然后一直“背对”…</a></li>
-<li><a href="/bblog/20230613/1896027.md">〖微视野〗如今水远山长</a></li>
 <li><a href="/cnnews/20230614/1896329.md">乌军连破3道防线 俄罗斯将星陨落</a></li>
+<li><a href="/bblog/20230613/1896027.md">〖微视野〗如今水远山长</a></li>
+<li><a href="/topimagenews/20230614/1896368.md">震慑中俄！布林肯访京前 “两场风暴”同时吹袭</a></li>
 <li><a href="/headline/20230613/1896157.md">习近平再强调备战 为“极端”情况做准备 包括与西方冲突</a></li>
-<li><a href="/comments/20230613/1896007.md">天亮时分：卢沙野回国坐冷板凳？中共驻韩大使才危险；一切取决於乌克兰的反攻；揭秘白罗斯为何不打乌克兰（政论天下第1028集 20230612）天亮时分</a></li>
 <li><a href="/cbnews/20230613/1896108.md">北京脖子被卡太紧，华府决定松松手</a></li>
 <li><a href="/sohnews/20230613/1896061.md">正在发生的真实“飞碟坠落事件”！新发现：飞碟内外“时空扭曲”；美国内华达州南部目击“光球”，落在居民后院，目击者描述“外星生物”细节；美军得益“飞碟回收计画”，获更先进国防技术｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/sohnews/20230613/1896195.md">人民币跌成狗 你手抓美金意味着什么｜#时事金扫描 #shorts</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230614/1896438.md" target="_blank">鲁晓南: 祝福台湾 2022年人均GDP居东亚之首</a></li>
+<li><a href="/comments/20230614/1896437.md" target="_blank">一查吓一跳 习近平指明了这么多方向</a></li>
+<li><a href="/comments/20230614/1896436.md" target="_blank">404：卢旭宇：周鸿祎公布了360人工智能的敏感审核体系​​​</a></li>
+<li><a href="/comments/20230614/1896435.md" target="_blank">王维洛：雄安新区与埃及新行政首都的比较</a></li>
 <li><a href="/comments/20230614/1896433.md" target="_blank">知趣同学：学历贬值，比想象中来得还要快</a></li>
 <li><a href="/comments/20230614/1896423.md" target="_blank">比红黄蓝还狠！娃娃被入脑入心入魂</a></li>
 <li><a href="/comments/20230614/1896419.md" target="_blank">全球共震 习近平当局再次被恐惧感笼罩？</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230613/1896240.md" target="_blank">司法部沮丧，起诉川普效果适得其反。福克斯发勒令停止函，它为何非要终止卡尔森推特秀？卡尔森律师暗示其中原因。</a></li>
 <li><a href="/comments/20230613/1896209.md" target="_blank">港府申请禁播“愿荣光归香港” 学者：产生“封网”效应</a></li>
 <li><a href="/comments/20230613/1896208.md" target="_blank">侵乌以来第9名阵亡将领！ 俄军第35集团军参谋长遭乌军击杀</a></li>
-<li><a href="/comments/20230613/1896203.md" target="_blank">文昭：2023高考内卷创纪录：自古高考复读班，是反贼高产田</a></li>
-<li><a href="/comments/20230613/1896179.md" target="_blank">【财经拆局】国际金融中心褪色——陷入深度中层人才流失</a></li>
-<li><a href="/comments/20230613/1896161.md" target="_blank">为什么中俄能共荣，中日却无法共荣？ — 曾节明</a></li>
-<li><a href="/comments/20230613/1896083.md" target="_blank">叶利钦为何选择普京？俄国的今天就是中国的明天 — 曾节明</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
 <li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
 <li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 
 </ul>
 </div>
