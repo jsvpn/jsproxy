@@ -11,22 +11,22 @@
 <li><a href="/topimagenews/20230615/1896675.md">山东齐鲁医院遭爆偷拍女性就医半裸画面 5G影片流出</a></li>
 <li><a href="/cnnews/20230614/1896512.md">福建号航母上两大道是不是裂痕 美卫星照给真相</a></li>
 <li><a href="/ssgc/20230614/1896482.md">中共疾控中心忽公布惊人疫情数据</a></li>
+<li><a href="/cbnews/20230615/1896721.md">美证据：新冠起源武汉实验室，3科学家最先感染</a></li>
 <li><a href="/topimagenews/20230614/1896517.md">冲突再升级！尹锡悦亲上火线后 中韩军舰东海对峙</a></li>
 <li><a href="/ssgc/20230614/1896592.md">习当局再次被恐惧感笼罩？</a></li>
-<li><a href="/cbnews/20230615/1896721.md">美证据：新冠起源武汉实验室，3科学家最先感染</a></li>
-<li><a href="/topimagenews/20230614/1896454.md">俄罗斯军备短缺 普丁公开“停战谈判条件”：西方停止军援乌克兰</a></li>
 <li><a href="/topimagenews/20230614/1896596.md">打了谁的脸？十万云南边民移居越南；突发！印度：没收小米48亿</a></li>
 <li><a href="/topimagenews/20230614/1896648.md">令人震惊一幕出现在她门口，网友大骂中共：无耻至极！【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230614/1896553.md">警方能用身份证号获取聊天记录 大数据库已掌握民众全部信息</a></li>
 <li><a href="/baitai/20230614/1896536.md">【404帖子】知乎问答｜中国目前什么问题最严重？</a></li>
+<li><a href="/worldnews/20230615/1896725.md">高官被捕后崩溃哭嚎，做这事出尽洋相…画面疯传</a></li>
 <li><a href="/sohnews/20230614/1896662.md">“给习近平算命！今天-古稀之日 极可能是他最后一个生日！”⋯ 称帝 预言 属性 中共 7之定数</a></li>
 <li><a href="/worldnews/20230615/1896724.md">这回，马来西亚真的动怒了</a></li>
-<li><a href="/worldnews/20230615/1896725.md">高官被捕后崩溃哭嚎，做这事出尽洋相…画面疯传</a></li>
 <li><a href="/topimagenews/20230614/1896519.md">瓦格纳公然抗命！普京着手收拾普里戈津</a></li>
 <li><a href="/topimagenews/20230615/1896674.md">存款特种兵! 中国年轻人长途跋涉把钱存进外地银行 就为了这个…..</a></li>
 <li><a href="/health/20230614/1896524.md">“一级致癌鱼”？这种鱼奉劝你少吃</a></li>
 <li><a href="/topimagenews/20230614/1896473.md">借鉴美军战术 乌克兰海陆部队快速突破俄军防线</a></li>
 <li><a href="/headline/20230614/1896563.md">中国过万大富翁润离中国</a></li>
+<li><a href="/cbnews/20230615/1896720.md">这场全球之战，俄罗斯和中共输了</a></li>
 <li><a href="/cbnews/20230614/1896511.md">中国交付泰军万吨大舰没多久 就遭“公开泄密”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230615/1896865.md" target="_blank">俄国会支持法案同意俄军聘罪犯侵略乌克兰 瓦格纳首脑直接藐视普丁</a></li>
 <li><a href="/topimagenews/20230615/1896791.md" target="_blank">惊爆！美国策画 乌克兰执行？</a></li>
 <li><a href="/topimagenews/20230615/1896775.md" target="_blank">川普聆讯后首个私人晚宴，$10万获一席，吃啥？</a></li>
 <li><a href="/topimagenews/20230615/1896675.md" target="_blank">山东齐鲁医院遭爆偷拍女性就医半裸画面 5G影片流出</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230613/1896206.md" target="_blank">59岁女贪官包养10多小白脸“别墅淫乱5军人”丈夫看不下去离婚</a></li>
 <li><a href="/topimagenews/20230613/1896198.md" target="_blank">杠杆推动的破产品潮来了！打破铁饭碗！山西、湖南、内蒙古、青海，开始了</a></li>
 <li><a href="/topimagenews/20230613/1896166.md" target="_blank">又一名俄将丧命！俄集团军参谋长惊传遭导弹袭击身亡</a></li>
-<li><a href="/topimagenews/20230613/1896147.md" target="_blank">杜鲁道见泽连斯基 将扣留俄世上最大运输机安-124移交乌克兰</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230615/1896866.md" target="_blank">精辟为什么与中共为伍的政权离垮台不远了？</a></li>
 <li><a href="/comments/20230615/1896855.md" target="_blank">西奈山峰：左右与熵增</a></li>
 <li><a href="/comments/20230615/1896854.md" target="_blank">梯田镶金边升级：人链！卢沙野被关入笼，习近平布局撒野事业一盘大棋？尹锡悦怒了</a></li>
 <li><a href="/comments/20230615/1896850.md" target="_blank">【菁英论坛】乌克兰大反攻 对台海有何启示</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230614/1896621.md" target="_blank">中国女搭机来台怒撕“入国登记表”！ 港作家冯睎干：炫耀“爱国情操”的低劣手法</a></li>
 <li><a href="/comments/20230614/1896620.md" target="_blank">日本自卫队枪击酿2死1伤！犯人想杀教官：射杀另一人只因“挡路”</a></li>
 <li><a href="/comments/20230614/1896619.md" target="_blank">异议艺术家巴丢草讽习近平吃人肉 中国施压波兰撤展</a></li>
-<li><a href="/comments/20230614/1896610.md" target="_blank">卡尔森推特秀第三集。犀利说出川普被起诉的最根本原因。点名批评蓬佩奥。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
 
 </ul>
 </div>
