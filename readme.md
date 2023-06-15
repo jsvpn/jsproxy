@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230616/1897109.md" target="_blank">杭州外卖小哥跃下15米桥救人 网：这得多大勇气</a></li>
 <li><a href="/cbnews/20230615/1896966.md" target="_blank">辱解放军脱口秀演出场地也被罚10万人民币</a></li>
 <li><a href="/cbnews/20230615/1896924.md" target="_blank">找工作被确诊弱智上热搜 合法性引发质疑</a></li>
 <li><a href="/cbnews/20230615/1896893.md" target="_blank">被巨响吓到脚软！上海凌晨地震 民众惊醒躲床下：以为是工厂爆炸</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230614/1896291.md" target="_blank">俄乌战争：俄罗斯空军中尉叛逃，揭露军中普遍士气低落</a></li>
 <li><a href="/comments/20230613/1896240.md" target="_blank">司法部沮丧，起诉川普效果适得其反。福克斯发勒令停止函，它为何非要终止卡尔森推特秀？卡尔森律师暗示其中原因。</a></li>
 <li><a href="/cbnews/20230613/1896236.md" target="_blank">回顾孟晚舟机场被捕事件：中美加三国司法政治外交互斗</a></li>
-<li><a href="/cbnews/20230613/1896207.md" target="_blank">女搭高铁买到“水龄16500年”矿泉水 专家吐真相</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
 <li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 
 </ul>
 </div>
