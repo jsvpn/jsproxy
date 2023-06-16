@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/baitai/20230615/1897008.md">中共中央政治局现异常 习近平一锤定音？评论指其权力正受巨大挑战</a></li>
-<li><a href="/sohnews/20230615/1896990.md">⚠️习决心带领中共走上另一条“续命路”! 淡化马克思, 高捧中华文化, 为哪般? 习提出2全新论断, 悄悄改变中共意识形态, 对照历史无知出丑的还是他自己!【20230615】</a></li>
 <li><a href="/sohnews/20230616/1897090.md">习近平撑腰的银行暴雷！高管逃出中国曝内幕；失业率生育率双创新低，辅助生育纳入医保又怎样，能有多少水花？一线城市房价降了，开发商怎么说</a></li>
 <li><a href="/cbnews/20230616/1897127.md">种种反常现象！北京可能加快攻台进程</a></li>
 <li><a href="/topimagenews/20230616/1897201.md">宁强县吃奶书记与情妇不雅聊天 意外又扯出大瓜</a></li>
 <li><a href="/comments/20230616/1897147.md">吴嘉隆：人民币跌破10都有可能？！中国经济遭遇信心危机，多种因素导致恶性循环；外企高管来中国是为“摸底”｜#方菲时间</a></li>
-<li><a href="/cbnews/20230616/1897218.md">〖兲朝浮世绘〗习总又多了一个绰号！让我们祝胖虎“生日快乐”</a></li>
 <li><a href="/topimagenews/20230616/1897150.md">俄军尸横遍野！乌军解放斯托罗热夫后的可怕场景…</a></li>
+<li><a href="/cbnews/20230616/1897218.md">〖兲朝浮世绘〗习总又多了一个绰号！让我们祝胖虎“生日快乐”</a></li>
 <li><a href="/topimagenews/20230616/1897202.md">一把冷刃刺破所有幻想！中国下半年将呈现4大趋势</a></li>
 <li><a href="/topimagenews/20230616/1897084.md">70岁的习近平高处不胜寒 准备面对“惊涛骇浪”</a></li>
 <li><a href="/finance/20230616/1897136.md">习近平撑腰的银行暴雷 高管逃出中国曝内幕</a></li>
 <li><a href="/baitai/20230616/1897064.md">这6种常见病，其实都是“癌前病变”</a></li>
 <li><a href="/sohnews/20230615/1897041.md">“习皇帝之蠢 也或别意？梅西献技 盖茨送礼 普京三胖电贺”No.01（06/15/23）</a></li>
-<li><a href="/cnnews/20230616/1897117.md">柴静：我为什么不回老家山西？</a></li>
 <li><a href="/topimagenews/20230616/1897219.md">不是从前了！北京怕自己撞上欧美枪口</a></li>
+<li><a href="/cnnews/20230616/1897117.md">柴静：我为什么不回老家山西？</a></li>
 <li><a href="/ssgc/20230616/1897173.md">〖微博谈〗给胖虎祝寿</a></li>
 <li><a href="/topimagenews/20230616/1897151.md">占有率从90%跌至1%！中国摩托车为何败走越南</a></li>
 <li><a href="/topimagenews/20230615/1897051.md">出事了？中国竟破6百万年轻人“还在找工作” 官方罕见认了</a></li>
 <li><a href="/cnnews/20230616/1897121.md">法网夺冠！上财00后美女两周赚335万 吸金路被曝</a></li>
-<li><a href="/topimagenews/20230615/1897050.md">现场沸腾！梅西比赛突现惊人一幕，球迷冲入赛场...【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230616/1897252.md">蔡奇何许人也？为何可以成为中共真正的“二把手”，他和习近平是怎样的渊源。目前中共的最高层都有很深的“文革烙印”，所以中国越来越左使个必然。【李军访谈20230616第156期】</a></li>
-<li><a href="/topimagenews/20230616/1897164.md">学费大涨，大学的危机才刚刚开始</a></li>
+<li><a href="/topimagenews/20230615/1897050.md">现场沸腾！梅西比赛突现惊人一幕，球迷冲入赛场...【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230616/1897217.md">又一俄罗斯高官员疑被击毙：乌军斩首行动精准</a></li>
+<li><a href="/topimagenews/20230616/1897164.md">学费大涨，大学的危机才刚刚开始</a></li>
+<li><a href="/lifebaike/20230616/1897066.md">全都急了眼</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230616/1897370.md" target="_blank">形势有多严酷？3个现像暗示苦日开始；全球私募本猛砸中国资金</a></li>
 <li><a href="/topimagenews/20230616/1897353.md" target="_blank">习近平摆不平？中共高层诡异 政治局现异常</a></li>
 <li><a href="/topimagenews/20230616/1897344.md" target="_blank">谢金河吐1句“惊人之语” 网友炸锅：有种断ECFA</a></li>
 <li><a href="/topimagenews/20230616/1897335.md" target="_blank">尿布小童手里气球竟是凶器 爆燃！来源不明、陆制千万小心</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230615/1896950.md" target="_blank">高超音速导弹小心 世界首款“天音速”拦截杀手来了</a></li>
 <li><a href="/topimagenews/20230615/1896941.md" target="_blank">军备短缺！俄军自走炮接连惨遭5连轰…</a></li>
 <li><a href="/topimagenews/20230615/1896940.md" target="_blank">啥叫“不忘初心”？&#8212;“想睡地主的小老婆吗？跟着红军走！”【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230615/1896909.md" target="_blank">只想“回家”！比X手势向乌军无人机投降 俄兵曝“地狱回忆”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
 
 </ul>
 </div>
