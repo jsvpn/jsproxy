@@ -9,13 +9,13 @@
 <li><a href="/topimagenews/20230617/1897574.md">习两句话有深意 盖茨承诺捐5000万美元 但微软还是开溜【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230617/1897536.md">山贼出现 中国社会进入无序状态</a></li>
 <li><a href="/cbnews/20230617/1897712.md">掩盖真相成习惯！央视“指鼠为鸭”丢大脸：官方调查正式宣布</a></li>
-<li><a href="/cbnews/20230617/1897663.md">〖兲朝浮世绘〗英语不分您和你，是中国官宣在耍文字小把戏</a></li>
 <li><a href="/topimagenews/20230617/1897751.md">中国摩托车败走越南!占有率从90%跌至1%； 中共连车漆都造不出来；极度失望</a></li>
+<li><a href="/cbnews/20230617/1897663.md">〖兲朝浮世绘〗英语不分您和你，是中国官宣在耍文字小把戏</a></li>
 <li><a href="/headline/20230617/1897543.md">北京为何没有为习近平庆祝70大寿</a></li>
 <li><a href="/cbnews/20230617/1897767.md">重磅：新冠疫情零号病人是仨中国人</a></li>
 <li><a href="/sohnews/20230617/1897749.md">陈破空：李强慌了！接连召开紧急会议。指鼠为鸭轰动，官方有结论了！走线客后悔，很多人要回家。预期和现实落差太大。直播与互动。美东6月17日早8点30、即中港台6月17晚8点30</a></li>
-<li><a href="/ssgc/20230617/1897606.md">〖微博谈〗一了百了的唯一正途</a></li>
 <li><a href="/topimagenews/20230617/1897684.md">人死之后灵魂究竟去了哪里？爱因斯坦曾给过答案</a></li>
+<li><a href="/ssgc/20230617/1897606.md">〖微博谈〗一了百了的唯一正途</a></li>
 <li><a href="/comments/20230617/1897590.md">天亮时分：确认！新冠起源武毒所，三位零号病人被找到；美国国会火速立法起诉中共；布林肯访华，双方都冷淡应对，脱钩之路无法回头（政论天下第1033集 20230616）天亮时分</a></li>
 <li><a href="/lishi/20230617/1897570.md">原北京市公安局长刘传新为何自杀？</a></li>
 <li><a href="/topimagenews/20230617/1897741.md">重创俄军 测试战场破口 乌军最精锐部队准备投入战斗</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/finance/20230617/1897757.md">中国人到底能承受多少? 中国经济重创第六波第七波已在路上</a></li>
 <li><a href="/comments/20230617/1897549.md">文昭：中共强刺激2.0、救经济紧急行动要来啦！大招包括...70大寿「习近平心理学」的故事</a></li>
 <li><a href="/sohnews/20230617/1897584.md">中共准备投一兆亿，大搞基建；拼多多与亚马逊之战！亚马逊拒绝赤化；日本变了！准备军事援助菲律宾，加固第一岛链；中共座上宾在基辅遇袭，俄罗斯大撒币要求战绩。</a></li>
-<li><a href="/cnnews/20230617/1897531.md">首个被枪毙的省委书记夫人向往美国</a></li>
+<li><a href="/yule/20230617/1897675.md">香港知名女星突然宣布复出，因桃色丑闻遭雪藏</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 <li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 
 </ul>
 </div>
