@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230616/1897370.md">形势有多严酷？3个现像暗示苦日开始；全球私募本猛砸中国资金</a></li>
 <li><a href="/comments/20230617/1897577.md">习酒友亲曝：习近平酒后真容</a></li>
 <li><a href="/sohnews/20230616/1897402.md">民众大喊“造反了❗️造反了❗️”官员坐等崩溃,经济彻底没戏,冲突一触即发……治国只剩喊口号！</a></li>
 <li><a href="/sohnews/20230617/1897485.md">习近平讨好盖茨？话里有话；40℃的高温，会大面积停电吗？“乱抱”梅西，中国球迷被抬走，事后超得意！没招了，普京急求“和事佬”；有钱也没用，澳洲签证大改，中国富翁新困境</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/headline/20230617/1897543.md">北京为何没有为习近平庆祝70大寿</a></li>
 <li><a href="/comments/20230617/1897590.md">天亮时分：确认！新冠起源武毒所，三位零号病人被找到；美国国会火速立法起诉中共；布林肯访华，双方都冷淡应对，脱钩之路无法回头（政论天下第1033集 20230616）天亮时分</a></li>
 <li><a href="/cnnews/20230617/1897504.md">中国卖车男上班脚踏5条船 样样俱全 女友怒公开</a></li>
-<li><a href="/ssgc/20230617/1897606.md">〖微博谈〗一了百了的唯一正途</a></li>
+<li><a href="/cbnews/20230617/1897663.md">〖兲朝浮世绘〗英语不分您和你，是中国官宣在耍文字小把戏</a></li>
 <li><a href="/lishi/20230617/1897570.md">原北京市公安局长刘传新为何自杀？</a></li>
+<li><a href="/ssgc/20230617/1897606.md">〖微博谈〗一了百了的唯一正途</a></li>
 <li><a href="/cnnews/20230617/1897614.md">行贿者给他送了两个儿子，都是代孕的</a></li>
 <li><a href="/cbnews/20230616/1897429.md">布林肯周末就要访陆 美竟这样说</a></li>
-<li><a href="/cbnews/20230617/1897663.md">〖兲朝浮世绘〗英语不分您和你，是中国官宣在耍文字小把戏</a></li>
 <li><a href="/sohnews/20230616/1896616.md">就要来了，人类历史上的最大灾难，模拟结果太惊人</a></li>
 <li><a href="/sohnews/20230617/1897582.md">确认！新冠起源武毒所，三位零号病人被找到；美国国会火速立法起诉中共；布林肯访华，双方都冷淡应对，脱钩之路无法回头（政论天下第1033集 20230616）天亮时分</a></li>
 <li><a href="/comments/20230616/1896561.md">中共的脉象如何？有些东西是习正恩同志改变不了的 — 曾节明</a></li>
+<li><a href="/cnnews/20230617/1897531.md">首个被枪毙的省委书记夫人向往美国</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230617/1897751.md" target="_blank">中国摩托车败走越南!占有率从90%跌至1%； 中共连车漆都造不出来；极度失望</a></li>
 <li><a href="/topimagenews/20230617/1897741.md" target="_blank">重创俄军 测试战场破口 乌军最精锐部队准备投入战斗</a></li>
 <li><a href="/topimagenews/20230617/1897711.md" target="_blank">布林肯此行究竟为啥？冷战之父早就这样说过&#8230;【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230617/1897695.md" target="_blank">普丁证实战术核武已抵白俄 警告“这只是第一步”</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230616/1897324.md" target="_blank">印度神童预言台湾吓到 美中军演、布林肯访中 世界皮皮锉小心8件事</a></li>
 <li><a href="/topimagenews/20230616/1897288.md" target="_blank">&#8220;对金正恩满怀抱怨&#8221;！朝鲜居民做证&#8221;有邻居饿死&#8221;…</a></li>
 <li><a href="/topimagenews/20230616/1897286.md" target="_blank">印度市场4新规箝制大陆手机制造商</a></li>
-<li><a href="/topimagenews/20230616/1897248.md" target="_blank">【微博精粹】独夫会不可避免的陷入“回音壁效应”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230617/1897752.md" target="_blank">【石山视点】袁红冰谈习近平：受畸形教育，具邪恶情商，台海开打不可避免；平时木讷，酒量惊人，喝酒后判若两人；信奉原教旨毛主义，以中华文化名义复兴共产主义。</a></li>
 <li><a href="/comments/20230617/1897632.md" target="_blank">李照:湖北随县博爱特校性侵案调查</a></li>
 <li><a href="/comments/20230617/1897631.md" target="_blank">维舟：地铁偷拍风波的死结</a></li>
 <li><a href="/comments/20230617/1897630.md" target="_blank">404: 中国人日渐萧索的心灵，缺的就是这样的奔跑</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230616/1897404.md" target="_blank">总市值17亿！纽、澳、加三国联手破澳洲最大冰毒走私案</a></li>
 <li><a href="/comments/20230616/1897384.md" target="_blank">秦晋：2023年《为东北亚和平繁荣—北方民族领土国际大会》演讲</a></li>
 <li><a href="/comments/20230616/1897383.md" target="_blank">中国核武库大幅扩张，日本台湾如何应对？</a></li>
-<li><a href="/comments/20230616/1897382.md" target="_blank">俄罗斯祭出“高额”奖金！只要摧毁西方坦克通通有赏</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
 <li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
 
 </ul>
 </div>
