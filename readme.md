@@ -9,12 +9,11 @@
 <li><a href="/topimagenews/20230617/1897574.md">习两句话有深意 盖茨承诺捐5000万美元 但微软还是开溜【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230617/1897712.md">掩盖真相成习惯！央视“指鼠为鸭”丢大脸：官方调查正式宣布</a></li>
 <li><a href="/cbnews/20230617/1897663.md">〖兲朝浮世绘〗英语不分您和你，是中国官宣在耍文字小把戏</a></li>
-<li><a href="/headline/20230617/1897543.md">北京为何没有为习近平庆祝70大寿</a></li>
 <li><a href="/topimagenews/20230617/1897751.md">中国摩托车败走越南!占有率从90%跌至1%； 中共连车漆都造不出来；极度失望</a></li>
 <li><a href="/cbnews/20230617/1897767.md">重磅：新冠疫情零号病人是仨中国人</a></li>
+<li><a href="/lishi/20230617/1897570.md">原北京市公安局长刘传新为何自杀？</a></li>
 <li><a href="/ssgc/20230617/1897606.md">〖微博谈〗一了百了的唯一正途</a></li>
 <li><a href="/topimagenews/20230617/1897684.md">人死之后灵魂究竟去了哪里？爱因斯坦曾给过答案</a></li>
-<li><a href="/lishi/20230617/1897570.md">原北京市公安局长刘传新为何自杀？</a></li>
 <li><a href="/sohnews/20230617/1897749.md">陈破空：李强慌了！接连召开紧急会议。指鼠为鸭轰动，官方有结论了！走线客后悔，很多人要回家。预期和现实落差太大。直播与互动。美东6月17日早8点30、即中港台6月17晚8点30</a></li>
 <li><a href="/comments/20230617/1897590.md">天亮时分：确认！新冠起源武毒所，三位零号病人被找到；美国国会火速立法起诉中共；布林肯访华，双方都冷淡应对，脱钩之路无法回头（政论天下第1033集 20230616）天亮时分</a></li>
 <li><a href="/topimagenews/20230617/1897741.md">重创俄军 测试战场破口 乌军最精锐部队准备投入战斗</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/topimagenews/20230617/1897711.md">布林肯此行究竟为啥？冷战之父早就这样说过...【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230617/1897657.md">江峰：北约不瞒了：先打败俄罗斯，全力打中共。俄军指挥通讯失灵，离开防御工事去送死；非洲领袖钻防空洞，普京给和平使者们送高超音速导弹【江峰·视界·军事20230616第11集】</a></li>
 <li><a href="/topimagenews/20230617/1897685.md">新华社又说了大实话！《***，来了！》【阿波罗网报道】</a></li>
+<li><a href="/comments/20230618/1897805.md">蔡奇成二号人物 揭习近平火速提拔内幕</a></li>
 <li><a href="/sohnews/20230617/1897582.md">确认！新冠起源武毒所，三位零号病人被找到；美国国会火速立法起诉中共；布林肯访华，双方都冷淡应对，脱钩之路无法回头（政论天下第1033集 20230616）天亮时分</a></li>
 <li><a href="/finance/20230617/1897757.md">中国人到底能承受多少? 中国经济重创第六波第七波已在路上</a></li>
 <li><a href="/comments/20230617/1897549.md">文昭：中共强刺激2.0、救经济紧急行动要来啦！大招包括...70大寿「习近平心理学」的故事</a></li>
-<li><a href="/comments/20230618/1897805.md">蔡奇成二号人物 揭习近平火速提拔内幕</a></li>
 <li><a href="/sohnews/20230617/1897584.md">中共准备投一兆亿，大搞基建；拼多多与亚马逊之战！亚马逊拒绝赤化；日本变了！准备军事援助菲律宾，加固第一岛链；中共座上宾在基辅遇袭，俄罗斯大撒币要求战绩。</a></li>
 <li><a href="/yule/20230617/1897675.md">香港知名女星突然宣布复出，因桃色丑闻遭雪藏</a></li>
+<li><a href="/baitai/20230617/1897676.md">中国小城市房产跌到白菜价 外地躺平族入驻</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
 <li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 
 </ul>
 </div>
