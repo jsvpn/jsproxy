@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230616/1897353.md">习近平摆不平？中共高层诡异 政治局现异常</a></li>
-<li><a href="/topimagenews/20230616/1897370.md">形势有多严酷？3个现像暗示苦日开始；全球私募本猛砸中国资金</a></li>
 <li><a href="/yule/20230616/1897337.md">55岁王小丫模样大变认不出 两段婚姻无儿无女</a></li>
+<li><a href="/topimagenews/20230616/1897370.md">形势有多严酷？3个现像暗示苦日开始；全球私募本猛砸中国资金</a></li>
 <li><a href="/sohnews/20230616/1897297.md">文睿：乱了，江苏省公然对抗一尊，“冰火两重天”现身了</a></li>
 <li><a href="/yule/20230616/1897296.md">马云罕见现身设置家宴 豪宅庭院内景曝光</a></li>
 <li><a href="/sohnews/20230617/1897485.md">习近平讨好盖茨？话里有话；40℃的高温，会大面积停电吗？“乱抱”梅西，中国球迷被抬走，事后超得意！没招了，普京急求“和事佬”；有钱也没用，澳洲签证大改，中国富翁新困境</a></li>
@@ -19,14 +19,14 @@
 <li><a href="/sohnews/20230616/1897402.md">民众大喊“造反了❗️造反了❗️”官员坐等崩溃,经济彻底没戏,冲突一触即发……治国只剩喊口号！</a></li>
 <li><a href="/cbnews/20230616/1897302.md">给习近平十年“庆典”送“大礼” 美国又想了个绝的【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230616/1897287.md">咄咄逼人！中共有支独一无二的舰队 颠覆全球200年来传统</a></li>
-<li><a href="/topimagenews/20230616/1897326.md">超稀有！美国渔船捕获“橙色龙虾”几率3000万分之1</a></li>
 <li><a href="/cnnews/20230617/1897501.md">刚被中国制裁，就宣布投资6亿美元</a></li>
 <li><a href="/cnnews/20230617/1897520.md">谭震林怒骂邓小平无耻之尤</a></li>
+<li><a href="/topimagenews/20230616/1897326.md">超稀有！美国渔船捕获“橙色龙虾”几率3000万分之1</a></li>
 <li><a href="/topimagenews/20230617/1897489.md">70岁大寿，习近平这个生日过的不省心</a></li>
 <li><a href="/cnnews/20230617/1897504.md">中国卖车男上班脚踏5条船 样样俱全 女友怒公开</a></li>
-<li><a href="/cbnews/20230616/1897294.md">拍马屁变成打脸！陆媒引官方权威为民众不满降温 意外曝光社会“黑暗面”</a></li>
 <li><a href="/cbnews/20230616/1897429.md">布林肯周末就要访陆 美竟这样说</a></li>
-<li><a href="/cnnews/20230616/1897258.md">别骂泰国选美了：终于选出绝世神颜的美少女</a></li>
+<li><a href="/cbnews/20230616/1897294.md">拍马屁变成打脸！陆媒引官方权威为民众不满降温 意外曝光社会“黑暗面”</a></li>
+<li><a href="/yule/20230616/1897338.md">港媒曝郑少秋女儿失联 还没继承沈殿霞巨额遗产</a></li>
 <li><a href="/topimagenews/20230616/1897344.md">谢金河吐1句“惊人之语” 网友炸锅：有种断ECFA</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230617/1897623.md" target="_blank">今后每6个月阳一次?每年感染2-3次或成常态</a></li>
 <li><a href="/comments/20230617/1897607.md" target="_blank">亚投行的公关主任 带来最大公关危机【方伟时间-20230616】</a></li>
 <li><a href="/comments/20230617/1897551.md" target="_blank">遥感功能！</a></li>
 <li><a href="/cbnews/20230617/1896680.md" target="_blank">为何总是保守派领袖 被左派政治追杀</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20230616/1897234.md" target="_blank">南海又发生主权争议 中共海警水炮击退越南船只</a></li>
 <li><a href="/cbnews/20230616/1897218.md" target="_blank">〖兲朝浮世绘〗习总又多了一个绰号！让我们祝胖虎“生日快乐”</a></li>
 <li><a href="/comments/20230616/1897193.md" target="_blank">星巴克歧视白人 被判赔2600万【方伟时间-20230615】</a></li>
-<li><a href="/comments/20230616/1897171.md" target="_blank">地球 竟然真的没事？！</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230617/1897622.md" target="_blank">内幕：击落气球后 拜登想致电习 幕僚劝阻</a></li>
 <li><a href="/topimagenews/20230617/1897611.md" target="_blank">国际战争罪犯普丁出席圣彼得堡论坛 嘲讽泽连斯基是“犹太人之耻”</a></li>
 <li><a href="/topimagenews/20230617/1897574.md" target="_blank">习两句话有深意 盖茨承诺捐5000万美元 但微软还是开溜【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230617/1897490.md" target="_blank">乌战败会怎样？泽伦斯基：美只剩崩溃“2选择”</a></li>
@@ -90,13 +91,16 @@
 <li><a href="/topimagenews/20230616/1897149.md" target="_blank">因为一个新闻，网友们想起了老蛮的预判</a></li>
 <li><a href="/topimagenews/20230616/1897084.md" target="_blank">70岁的习近平高处不胜寒 准备面对“惊涛骇浪”</a></li>
 <li><a href="/topimagenews/20230615/1897051.md" target="_blank">出事了？中国竟破6百万年轻人“还在找工作” 官方罕见认了</a></li>
-<li><a href="/topimagenews/20230615/1897050.md" target="_blank">现场沸腾！梅西比赛突现惊人一幕，球迷冲入赛场&#8230;【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230617/1897632.md" target="_blank">李照:湖北随县博爱特校性侵案调查</a></li>
+<li><a href="/comments/20230617/1897631.md" target="_blank">维舟：地铁偷拍风波的死结</a></li>
+<li><a href="/comments/20230617/1897630.md" target="_blank">404: 中国人日渐萧索的心灵，缺的就是这样的奔跑</a></li>
+<li><a href="/comments/20230617/1897621.md" target="_blank">梅西名字藏三凶！球迷被拘留，另一球迷被抓视频流出！70大寿遇连环凶兆：习被蔡奇推下坑</a></li>
 <li><a href="/comments/20230617/1897607.md" target="_blank">亚投行的公关主任 带来最大公关危机【方伟时间-20230616】</a></li>
 <li><a href="/comments/20230617/1897601.md" target="_blank">译丛:一座为纪念痛苦往昔的博物馆</a></li>
 <li><a href="/comments/20230617/1897594.md" target="_blank">陈碧：北大包丽死亡与受虐有因果关系，被低估的精神暴力有多可怕？</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230616/1897384.md" target="_blank">秦晋：2023年《为东北亚和平繁荣—北方民族领土国际大会》演讲</a></li>
 <li><a href="/comments/20230616/1897383.md" target="_blank">中国核武库大幅扩张，日本台湾如何应对？</a></li>
 <li><a href="/comments/20230616/1897382.md" target="_blank">俄罗斯祭出“高额”奖金！只要摧毁西方坦克通通有赏</a></li>
-<li><a href="/comments/20230616/1897374.md" target="_blank">意念是功能！个体选择 可改变生命状态；女子携带超能力 可起死回生！她和不同的生命沟通，特异功能 震惊顶级专家！｜ #未解之谜 扶摇</a></li>
-<li><a href="/comments/20230616/1897360.md" target="_blank">卡尔森推特秀第四集。天才讽刺大师。嘲讽福克斯老板。暗示拜登结局。坚称拜登“不像”独裁者。将亨特比作萨达姆的儿子，将拜登的X比作金日成脖子上的东西。</a></li>
-<li><a href="/comments/20230616/1897279.md" target="_blank">川普被起诉后，收获生日礼物。拜登父子17份录音曝光，做实与乌克兰腐败丑闻。20名共和党人反水，保护亚当·希夫。</a></li>
-<li><a href="/comments/20230616/1897265.md" target="_blank">星巴克歧视白人 被判赔2600万（完整版本）【方伟时间-20230615】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
 <li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
 
 </ul>
 </div>
