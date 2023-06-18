@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20230617/1897711.md">布林肯此行究竟为啥？冷战之父早就这样说过...【阿波罗网报道】</a></li>
 <li><a href="/finance/20230617/1897757.md">中国人到底能承受多少? 中国经济重创第六波第七波已在路上</a></li>
 <li><a href="/sohnews/20230618/1897833.md">🔥🔥他预测中国有两灾 一灾已应验❗另一灾在7月前爆发❓</a></li>
-<li><a href="/comments/20230618/1897807.md">川普赢得罕见的法律战，重要重大。民调势不可挡。川普用独特方式，又萌又准确，赞扬了卡尔森。</a></li>
 <li><a href="/comments/20230618/1897837.md">【杰森视角】中国经济熄火，刺激也没用！习近平和延安地委书记打起来了！普里戈津已经不把普京放在眼里了！习近平30多年前就看不上邓小平的政策！乌军在三个战区，两条战线取得进展！</a></li>
+<li><a href="/comments/20230618/1897807.md">川普赢得罕见的法律战，重要重大。民调势不可挡。川普用独特方式，又萌又准确，赞扬了卡尔森。</a></li>
 <li><a href="/lifebaike/20230617/1897770.md">“四人帮”的生活作风有多奢靡？</a></li>
 <li><a href="/cnnews/20230617/1897735.md">世界最有钱的两个人一起吃饭了，谁买单？</a></li>
 <li><a href="/baitai/20230617/1897787.md">李强将推刺激经济政策 分析指恐难奏效 专家点出真正障碍</a></li>
 <li><a href="/sohnews/20230618/1897832.md">大洪水要消灭的真正目标原来是他！考古找到了《圣经》里没有说的真相【文昭思绪飞扬261期】</a></li>
 <li><a href="/cnnews/20230617/1897736.md">美媒曝华为内鬼内幕：为了约2亿美元合约派间谍偷情报、还装窃听器</a></li>
 <li><a href="/health/20230617/1897715.md">这9个你以为的“坏习惯”，越多可能越长寿！第一个就惊呆了</a></li>
-<li><a href="/lifebaike/20230617/1897718.md">七成糖尿病，都是一口一口吃出来的！这5种吃法太害人</a></li>
 <li><a href="/sohnews/20230618/1897820.md">我们一起聊科学：被马斯克百般嘲讽的氢汽车真的是一个笑话吗？氢燃料汽车其实有自己的一片天空。 （20230618 第2期）</a></li>
+<li><a href="/lifebaike/20230617/1897718.md">七成糖尿病，都是一口一口吃出来的！这5种吃法太害人</a></li>
 <li><a href="/sohnews/20230617/1897769.md">习近平70大寿，梅西比赛被搅场；处长偷情被抓裸奔，北大副校长曝性侵；搜狐海报被全面封禁；重大刺激计划将出，广州火车站透经济沙漠。</a></li>
 <li><a href="/yule/20230617/1897738.md">何晴儿子中戏毕业！许亚军携4婚妻子参加毕业礼</a></li>
-<li><a href="/topimagenews/20230617/1897694.md">扎波罗热全线压境！乌军夜袭俄军找破口 步兵贴身“肉搏”袭防线</a></li>
+<li><a href="/sohnews/20230618/1897812.md">“为何如此不堪？⋯ 拜登结束语 “上帝保佑女王！” 无数人惊呆 🤯 😱”No.03（06/17/23）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
 <li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 
 </ul>
 </div>
