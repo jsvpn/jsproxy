@@ -22,12 +22,12 @@
 <li><a href="/sohnews/20230618/1897854.md">文睿：玩儿垮自己，一尊，今天又没边儿了，特大号巨婴</a></li>
 <li><a href="/comments/20230618/1897856.md">小心！骂了“小日本”，一尊不开心！</a></li>
 <li><a href="/sohnews/20230618/1897829.md">洋葱7大保健价值  3种人不宜</a></li>
+<li><a href="/sohnews/20230618/1897859.md">🔥北京立刻暴跳如雷！“责任全在美方”？灾难场景恐奔现！出现在整个人类面前的…；中共做绝了！浙江划龙舟遭禁！被称“迷信”引强烈反弹</a></li>
 <li><a href="/comments/20230618/1897826.md">意念可以这么用！</a></li>
 <li><a href="/sohnews/20230618/1897851.md">美军加固关闭中共的“笼子”，印太基地建设形成前沿部署态势 ｜【#时事军事】#时事军事夏洛山</a></li>
-<li><a href="/sohnews/20230618/1897859.md">🔥北京立刻暴跳如雷！“责任全在美方”？灾难场景恐奔现！出现在整个人类面前的…；中共做绝了！浙江划龙舟遭禁！被称“迷信”引强烈反弹</a></li>
 <li><a href="/sohnews/20230618/1897838.md">扯淡也分级别</a></li>
 <li><a href="/sohnews/20230618/1897836.md">中美南海争锋歼16拦截RC135｜ #探索时分</a></li>
-<li><a href="/sohnews/20230618/1897849.md">为了铲除法轮功，江泽民提出成立中央解决法轮功问题领导小组，并要求蒐集“练习”法轮功“致死”的各种“突出案例”。｜ #百年真相</a></li>
+<li><a href="/comments/20230618/1897860.md">美情报机关解密截止日前，多个重磅信息爆出。。。完整版请移步干净世界 ｜#方菲时间 06/18/2023</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,21 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230618/1897967.md" target="_blank">逼死严凤英、挤走马兰一安徽文化圈两大败笔</a></li>
+<li><a href="/comments/20230618/1897966.md" target="_blank">现实的模样:一周工作一小时就算就业，你信吗？</a></li>
+<li><a href="/comments/20230618/1897965.md" target="_blank">【微博精粹】突然脑死亡不可避免</a></li>
+<li><a href="/comments/20230618/1897964.md" target="_blank">亮见：是鼠头，但不是胜利</a></li>
+<li><a href="/comments/20230618/1897962.md" target="_blank">刘昭阳：六四34周年在欧洲议会前朗读的声明</a></li>
+<li><a href="/comments/20230618/1897961.md" target="_blank">温克坚：汇率与&#8221;跳蚤效应&#8221;</a></li>
+<li><a href="/comments/20230618/1897960.md" target="_blank">陶杰：地球村里看永玉，日暖蓝田</a></li>
+<li><a href="/comments/20230618/1897959.md" target="_blank">胡平：这次不是蓄意投毒，下次呢？</a></li>
+<li><a href="/comments/20230618/1897958.md" target="_blank">苏暁康：把美洲让给中国人</a></li>
+<li><a href="/comments/20230618/1897957.md" target="_blank">挥手自兹去，人间欲忘言——黄永玉先生在他创造的艺文世界里永生</a></li>
+<li><a href="/comments/20230618/1897956.md" target="_blank">李濠仲:重温比尔盖兹对台海安全的“特殊贡献”</a></li>
+<li><a href="/comments/20230618/1897955.md" target="_blank">杨威：布林肯访华只为中美不彻底撕破脸</a></li>
+<li><a href="/comments/20230618/1897954.md" target="_blank">周晓辉：运作梅西来华 这家陕西非专业公司背后不简单</a></li>
+<li><a href="/comments/20230618/1897953.md" target="_blank">网海拾贝:全世界都知道中国经济急剧下滑</a></li>
+<li><a href="/comments/20230618/1897952.md" target="_blank">王赫：李强首访德法 难有突破</a></li>
 <li><a href="/comments/20230618/1897884.md" target="_blank">文昭：看不懂习近平的神操作？其实习总是《帝国时代》的玩家&#8230;</a></li>
 <li><a href="/comments/20230618/1897883.md" target="_blank">天亮时分：鼠头鸭脖事件，官方公信力疗愈了吗？晨读习近平讲话，雄安指示受抵制，两件事泄露习近平的权力真相；扼住但不掐死，美国对中共的真实意图（YouTube会员节目第22集 20230617）</a></li>
 <li><a href="/comments/20230618/1897862.md" target="_blank">前联邦调查官，专业分析起诉川普案，指出六大严重缺陷，或导致川普无罪释放。</a></li>
@@ -107,21 +122,6 @@
 <li><a href="/comments/20230618/1897827.md" target="_blank">这样做 起死回生！</a></li>
 <li><a href="/comments/20230618/1897826.md" target="_blank">意念可以这么用！</a></li>
 <li><a href="/comments/20230618/1897807.md" target="_blank">川普赢得罕见的法律战，重要重大。民调势不可挡。川普用独特方式，又萌又准确，赞扬了卡尔森。</a></li>
-<li><a href="/comments/20230618/1897805.md" target="_blank">蔡奇成二号人物 揭习近平火速提拔内幕</a></li>
-<li><a href="/comments/20230617/1897801.md" target="_blank">新唐人全世界中国古典舞大赛</a></li>
-<li><a href="/comments/20230617/1897800.md" target="_blank">土卫二凑齐6种孕育生命元素！科学家首度在地球海洋外发现“磷”</a></li>
-<li><a href="/comments/20230617/1897785.md" target="_blank">搜狐新闻发布海报点出中国严峻问题 遭全网封禁</a></li>
-<li><a href="/comments/20230617/1897774.md" target="_blank">文昭：中共2023救经济紧急行动启动，归根结底八个字</a></li>
-<li><a href="/comments/20230617/1897752.md" target="_blank">【石山视点】袁红冰谈习近平：受畸形教育，具邪恶情商，台海开打不可避免；平时木讷，酒量惊人，喝酒后判若两人；信奉原教旨毛主义，以中华文化名义复兴共产主义。</a></li>
-<li><a href="/comments/20230617/1897632.md" target="_blank">李照:湖北随县博爱特校性侵案调查</a></li>
-<li><a href="/comments/20230617/1897631.md" target="_blank">维舟：地铁偷拍风波的死结</a></li>
-<li><a href="/comments/20230617/1897630.md" target="_blank">404: 中国人日渐萧索的心灵，缺的就是这样的奔跑</a></li>
-<li><a href="/comments/20230617/1897621.md" target="_blank">梅西名字藏三凶！球迷被拘留，另一球迷被抓视频流出！70大寿遇连环凶兆：习被蔡奇推下坑</a></li>
-<li><a href="/comments/20230617/1897607.md" target="_blank">亚投行的公关主任 带来最大公关危机【方伟时间-20230616】</a></li>
-<li><a href="/comments/20230617/1897601.md" target="_blank">译丛:一座为纪念痛苦往昔的博物馆</a></li>
-<li><a href="/comments/20230617/1897594.md" target="_blank">陈碧：北大包丽死亡与受虐有因果关系，被低估的精神暴力有多可怕？</a></li>
-<li><a href="/comments/20230617/1897590.md" target="_blank">天亮时分：确认！新冠起源武毒所，三位零号病人被找到；美国国会火速立法起诉中共；布林肯访华，双方都冷淡应对，脱钩之路无法回头（政论天下第1033集 20230616）天亮时分</a></li>
-<li><a href="/comments/20230617/1897578.md" target="_blank">书摘：《以色列──犹太民族的千年建国之路》</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
 <li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20230216/1841973.md" target="_blank">二大爷：不要蔑视族人，否者你的觉醒不过是自命不凡的错觉</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 <li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
 <li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
 
 </ul>
 </div>
