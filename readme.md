@@ -19,15 +19,15 @@
 <li><a href="/comments/20230618/1897856.md">小心！骂了“小日本”，一尊不开心！</a></li>
 <li><a href="/sohnews/20230618/1897859.md">🔥北京立刻暴跳如雷！“责任全在美方”？灾难场景恐奔现！出现在整个人类面前的…；中共做绝了！浙江划龙舟遭禁！被称“迷信”引强烈反弹</a></li>
 <li><a href="/sohnews/20230618/1897830.md">陈破空：盖茨访中，但微软悄自撤离！李强向德法求救。布林肯前往北京，但美国却另有大事。意大利裁决不利中方。直播与互动。美东6月17日晚8点45、即中港台6月18日早8点45</a></li>
-<li><a href="/sohnews/20230618/1897854.md">文睿：玩儿垮自己，一尊，今天又没边儿了，特大号巨婴</a></li>
 <li><a href="/comments/20230618/1897860.md">美情报机关解密截止日前，多个重磅信息爆出。。。完整版请移步干净世界 ｜#方菲时间 06/18/2023</a></li>
+<li><a href="/sohnews/20230618/1897854.md">文睿：玩儿垮自己，一尊，今天又没边儿了，特大号巨婴</a></li>
 <li><a href="/cbnews/20230618/1897909.md">马云定居日本任东京大学教授，上课画面曝光</a></li>
 <li><a href="/topimagenews/20230618/1897904.md">川普获罕见法律胜利 震惊！办案民主党女检察官声明【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230618/1897911.md">布林肯抵京！中共宣传系统竟然这样做...【阿波罗网报道】</a></li>
+<li><a href="/funmedia/20230618/1897917.md">中国唯一没有平原的省份，除了山就是水，风景优美适合养老</a></li>
 <li><a href="/sohnews/20230618/1897829.md">洋葱7大保健价值  3种人不宜</a></li>
 <li><a href="/sohnews/20230618/1897851.md">美军加固关闭中共的“笼子”，印太基地建设形成前沿部署态势 ｜【#时事军事】#时事军事夏洛山</a></li>
 <li><a href="/comments/20230618/1897826.md">意念可以这么用！</a></li>
-<li><a href="/funmedia/20230618/1897917.md">中国唯一没有平原的省份，除了山就是水，风景优美适合养老</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230619/1898103.md" target="_blank">猛料？董小姐曾“主动求包养”：我按月不按次 已经火到国外</a></li>
 <li><a href="/topimagenews/20230619/1898096.md" target="_blank">布林肯来访没有红地毯只有红线 一脚跨过去 中国各个群里都在转发</a></li>
 <li><a href="/topimagenews/20230619/1898095.md" target="_blank">广东高校干部野外出轨女同事被活捉，赤裸下身狂奔</a></li>
 <li><a href="/topimagenews/20230618/1897904.md" target="_blank">川普获罕见法律胜利 震惊！办案民主党女检察官声明【阿波罗网报道】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230617/1897489.md" target="_blank">70岁大寿，习近平这个生日过的不省心</a></li>
 <li><a href="/topimagenews/20230616/1897370.md" target="_blank">形势有多严酷？3个现像暗示苦日开始；全球私募本猛砸中国资金</a></li>
 <li><a href="/topimagenews/20230616/1897353.md" target="_blank">习近平摆不平？中共高层诡异 政治局现异常</a></li>
-<li><a href="/topimagenews/20230616/1897344.md" target="_blank">谢金河吐1句“惊人之语” 网友炸锅：有种断ECFA</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 <li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
 
 </ul>
 </div>
