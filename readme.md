@@ -7,20 +7,19 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cbnews/20230618/1897910.md">秦刚怒气冲天 中共却给自己下台阶 布林肯访京是撕破脸前最后一搏？</a></li>
 <li><a href="/topimagenews/20230619/1898103.md">猛料？董小姐曾“主动求包养”：我按月不按次 已经火到国外</a></li>
-<li><a href="/sohnews/20230618/1897848.md">文睿：三件事儿，一尊，居然虚弱到了这种程度，到头儿了</a></li>
 <li><a href="/sohnews/20230618/1897858.md">陈破空：布林肯访中抵京，党媒异常！布神情紧张。秦刚嬉笑自若。中方只图一件事：今年11月。定要让他有面子。直播与互动。美东6月18日早8点30、即中港台6月18晚8点30</a></li>
 <li><a href="/cbnews/20230618/1897909.md">马云定居日本任东京大学教授，上课画面曝光</a></li>
 <li><a href="/comments/20230618/1897860.md">美情报机关解密截止日前，多个重磅信息爆出。。。完整版请移步干净世界 ｜#方菲时间 06/18/2023</a></li>
 <li><a href="/comments/20230618/1897856.md">小心！骂了“小日本”，一尊不开心！</a></li>
 <li><a href="/sohnews/20230618/1897859.md">🔥北京立刻暴跳如雷！“责任全在美方”？灾难场景恐奔现！出现在整个人类面前的…；中共做绝了！浙江划龙舟遭禁！被称“迷信”引强烈反弹</a></li>
 <li><a href="/topimagenews/20230619/1898096.md">布林肯来访没有红地毯只有红线 一脚跨过去 中国各个群里都在转发</a></li>
-<li><a href="/headline/20230619/1898023.md">布林肯与秦刚会谈历时五个半小时 超时一小时至晚上</a></li>
 <li><a href="/topimagenews/20230619/1898095.md">广东高校干部野外出轨女同事被活捉，赤裸下身狂奔</a></li>
+<li><a href="/headline/20230619/1898023.md">布林肯与秦刚会谈历时五个半小时 超时一小时至晚上</a></li>
 <li><a href="/cbnews/20230618/1897911.md">布林肯抵京！中共宣传系统竟然这样做...【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230618/1897854.md">文睿：玩儿垮自己，一尊，今天又没边儿了，特大号巨婴</a></li>
 <li><a href="/comments/20230619/1898105.md">【独家重磅】李燕铭：李克强掌握内部数据对抗习近平 习掀统计审计领域清洗风暴 李克强首席智囊高危 李强甩锅李克强 中南海罕见公布经济惨状 丁薛祥添新头衔摸底李克强经济烂摊子 中纪委打虎方向调整新增三大领域 四川高官应声落马 习近平连任后大清洗（40） 习近平李克强明争暗斗内幕（103） 钱袋子争夺战（42） 习家军接掌国务院（23）</a></li>
-<li><a href="/cnnews/20230619/1898100.md">中共女干部常年穿吊带给书记深夜开门后续：两人已开公司</a></li>
 <li><a href="/topimagenews/20230619/1898136.md">中国城管魔法！此景不应人间有，只有鬼才看得见</a></li>
+<li><a href="/cnnews/20230619/1898100.md">中共女干部常年穿吊带给书记深夜开门后续：两人已开公司</a></li>
 <li><a href="/funmedia/20230618/1897917.md">中国唯一没有平原的省份，除了山就是水，风景优美适合养老</a></li>
 <li><a href="/topimagenews/20230618/1897904.md">川普获罕见法律胜利 震惊！办案民主党女检察官声明【阿波罗网报道】</a></li>
 <li><a href="/comments/20230618/1897965.md">【微博精粹】突然脑死亡不可避免</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/finance/20230618/1897921.md">几十亿打水漂？！中国“西北第一高塔”竟是违建 要拆除</a></li>
 <li><a href="/baitai/20230619/1898092.md">马云又火了！日本讲学近照曝光 学者指除非一事发生 否则结局悲惨</a></li>
 <li><a href="/finance/20230618/1897922.md">WSJ：一连串刺激举措背后 中共当局的恐惧</a></li>
+<li><a href="/topimagenews/20230619/1898200.md">藏不住！他们在公开媒介上痛哭失声 如此降幅…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230619/1898272.md" target="_blank">英国爱丁堡公爵夫人训斥夏绿蒂公主坐下？唇语专家出面解密</a></li>
+<li><a href="/comments/20230619/1898271.md" target="_blank">《愿荣光归香港》2023版重回串流平台</a></li>
+<li><a href="/comments/20230619/1898270.md" target="_blank">金正恩怒了！朝鲜卫星发射失败列缺失 相关干部受“严厉批评”</a></li>
+<li><a href="/comments/20230619/1898269.md" target="_blank">跟着官方收回“指鼠为鸭”说 胡锡进挨批“墙头草”</a></li>
 <li><a href="/comments/20230619/1898253.md" target="_blank">推苗专业人士Peter Hotez拒绝C19疫苗辩论擂台赛</a></li>
 <li><a href="/comments/20230619/1898186.md" target="_blank">李濠仲：世界上最极权的政府和世界上最大的慈善基金会一拍即合</a></li>
 <li><a href="/comments/20230619/1898185.md" target="_blank">卓然：习近平大卖“芒果干”究竟想干什么 大限标志</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230618/1897967.md" target="_blank">逼死严凤英、挤走马兰一安徽文化圈两大败笔</a></li>
 <li><a href="/comments/20230618/1897966.md" target="_blank">现实的模样:一周工作一小时就算就业，你信吗？</a></li>
 <li><a href="/comments/20230618/1897965.md" target="_blank">【微博精粹】突然脑死亡不可避免</a></li>
-<li><a href="/comments/20230618/1897964.md" target="_blank">亮见：是鼠头，但不是胜利</a></li>
-<li><a href="/comments/20230618/1897962.md" target="_blank">刘昭阳：六四34周年在欧洲议会前朗读的声明</a></li>
-<li><a href="/comments/20230618/1897961.md" target="_blank">温克坚：汇率与&#8221;跳蚤效应&#8221;</a></li>
-<li><a href="/comments/20230618/1897960.md" target="_blank">陶杰：地球村里看永玉，日暖蓝田</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 
 </ul>
 </div>
