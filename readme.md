@@ -16,18 +16,18 @@
 <li><a href="/topimagenews/20230619/1898095.md">广东高校干部野外出轨女同事被活捉，赤裸下身狂奔</a></li>
 <li><a href="/headline/20230619/1898023.md">布林肯与秦刚会谈历时五个半小时 超时一小时至晚上</a></li>
 <li><a href="/cbnews/20230618/1897911.md">布林肯抵京！中共宣传系统竟然这样做...【阿波罗网报道】</a></li>
+<li><a href="/comments/20230619/1898105.md">【独家重磅】李燕铭：李克强掌握内部数据对抗习近平 习掀统计审计领域清洗风暴 李克强首席智囊高危 李强甩锅李克强 中南海罕见公布经济惨状 丁薛祥添新头衔摸底李克强经济烂摊子 中纪委打虎方向调整新增三大领域 四川高官应声落马 习近平连任后大清洗（40） 习近平李克强明争暗斗内幕（103） 钱袋子争夺战（42） 习家军接掌国务院（23）</a></li>
 <li><a href="/topimagenews/20230619/1898136.md">中国城管魔法！此景不应人间有，只有鬼才看得见</a></li>
 <li><a href="/sohnews/20230618/1897854.md">文睿：玩儿垮自己，一尊，今天又没边儿了，特大号巨婴</a></li>
-<li><a href="/comments/20230619/1898105.md">【独家重磅】李燕铭：李克强掌握内部数据对抗习近平 习掀统计审计领域清洗风暴 李克强首席智囊高危 李强甩锅李克强 中南海罕见公布经济惨状 丁薛祥添新头衔摸底李克强经济烂摊子 中纪委打虎方向调整新增三大领域 四川高官应声落马 习近平连任后大清洗（40） 习近平李克强明争暗斗内幕（103） 钱袋子争夺战（42） 习家军接掌国务院（23）</a></li>
-<li><a href="/cnnews/20230619/1898100.md">中共女干部常年穿吊带给书记深夜开门后续：两人已开公司</a></li>
 <li><a href="/cbnews/20230619/1898215.md">〖兲朝浮世绘〗中共还在生闷气 要把和谈的路堵死</a></li>
+<li><a href="/cnnews/20230619/1898100.md">中共女干部常年穿吊带给书记深夜开门后续：两人已开公司</a></li>
 <li><a href="/funmedia/20230618/1897917.md">中国唯一没有平原的省份，除了山就是水，风景优美适合养老</a></li>
-<li><a href="/topimagenews/20230618/1897904.md">川普获罕见法律胜利 震惊！办案民主党女检察官声明【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230619/1898200.md">藏不住！他们在公开媒介上痛哭失声 如此降幅…</a></li>
+<li><a href="/topimagenews/20230618/1897904.md">川普获罕见法律胜利 震惊！办案民主党女检察官声明【阿波罗网报道】</a></li>
 <li><a href="/comments/20230618/1897965.md">【微博精粹】突然脑死亡不可避免</a></li>
 <li><a href="/cnnews/20230619/1898123.md">非洲调停团在俄遭遇：话还没说话，即被普京打断</a></li>
 <li><a href="/finance/20230618/1897921.md">几十亿打水漂？！中国“西北第一高塔”竟是违建 要拆除</a></li>
-<li><a href="/baitai/20230619/1898092.md">马云又火了！日本讲学近照曝光 学者指除非一事发生 否则结局悲惨</a></li>
+<li><a href="/finance/20230618/1897922.md">WSJ：一连串刺激举措背后 中共当局的恐惧</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230619/1898306.md" target="_blank">布林肯“啃不动”！当前的中美关系</a></li>
 <li><a href="/comments/20230619/1898285.md" target="_blank">美媒“新闻周刊”：布林肯到访 中方接机寒酸</a></li>
 <li><a href="/comments/20230619/1898284.md" target="_blank">狂风暴雨袭深圳！ 汽车遭水淹没、商场楼梯秒变瀑布画面曝光</a></li>
 <li><a href="/comments/20230619/1898272.md" target="_blank">英国爱丁堡公爵夫人训斥夏绿蒂公主坐下？唇语专家出面解密</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230619/1898073.md" target="_blank">组图：搜狐引用官方数据制作九张海报 爆中国社会九大危机 遭中共全网封杀 中南海不可告人的秘密_589</a></li>
 <li><a href="/comments/20230619/1897995.md" target="_blank">习近平忧“极端情况” 布林肯访华用意解析</a></li>
 <li><a href="/comments/20230619/1897992.md" target="_blank">狂风暴雨袭深圳！汽车遭水淹没、商场楼梯秒变瀑布画面曝光</a></li>
-<li><a href="/comments/20230618/1897967.md" target="_blank">逼死严凤英、挤走马兰一安徽文化圈两大败笔</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
 <li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 
 </ul>
 </div>
