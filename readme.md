@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20230618/1897837.md">【杰森视角】中国经济熄火，刺激也没用！习近平和延安地委书记打起来了！普里戈津已经不把普京放在眼里了！习近平30多年前就看不上邓小平的政策！乌军在三个战区，两条战线取得进展！</a></li>
 <li><a href="/sohnews/20230618/1897840.md">共军顶级专家离奇坠楼！三个“零号病人”都在所里，最早2019年9月？泰晤士报再点中共“哑穴”；马云还活着！阿里总裁如是说，东京教书？“近照”曝光，还有汪涵；江西省给鸭脖“平反”｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/cbnews/20230618/1897910.md">秦刚怒气冲天 中共却给自己下台阶 布林肯访京是撕破脸前最后一搏？</a></li>
 <li><a href="/topimagenews/20230619/1898103.md">猛料？董小姐曾“主动求包养”：我按月不按次 已经火到国外</a></li>
+<li><a href="/cbnews/20230618/1897910.md">秦刚怒气冲天 中共却给自己下台阶 布林肯访京是撕破脸前最后一搏？</a></li>
 <li><a href="/sohnews/20230618/1897848.md">文睿：三件事儿，一尊，居然虚弱到了这种程度，到头儿了</a></li>
 <li><a href="/sohnews/20230618/1897846.md">🔥【主频道精选】习肢体语言泄露自己高度机密这生日还要憋屈下去吗？</a></li>
 <li><a href="/sohnews/20230618/1897858.md">陈破空：布林肯访中抵京，党媒异常！布神情紧张。秦刚嬉笑自若。中方只图一件事：今年11月。定要让他有面子。直播与互动。美东6月18日早8点30、即中港台6月18晚8点30</a></li>
 <li><a href="/sohnews/20230618/1897839.md">🔥【主频道精选】中共宣传的“大善人”竟是大淫魔 侵犯多名智障学生</a></li>
 <li><a href="/comments/20230618/1897856.md">小心！骂了“小日本”，一尊不开心！</a></li>
 <li><a href="/sohnews/20230618/1897859.md">🔥北京立刻暴跳如雷！“责任全在美方”？灾难场景恐奔现！出现在整个人类面前的…；中共做绝了！浙江划龙舟遭禁！被称“迷信”引强烈反弹</a></li>
-<li><a href="/comments/20230618/1897860.md">美情报机关解密截止日前，多个重磅信息爆出。。。完整版请移步干净世界 ｜#方菲时间 06/18/2023</a></li>
-<li><a href="/cbnews/20230618/1897909.md">马云定居日本任东京大学教授，上课画面曝光</a></li>
 <li><a href="/topimagenews/20230619/1898096.md">布林肯来访没有红地毯只有红线 一脚跨过去 中国各个群里都在转发</a></li>
+<li><a href="/cbnews/20230618/1897909.md">马云定居日本任东京大学教授，上课画面曝光</a></li>
+<li><a href="/comments/20230618/1897860.md">美情报机关解密截止日前，多个重磅信息爆出。。。完整版请移步干净世界 ｜#方菲时间 06/18/2023</a></li>
 <li><a href="/sohnews/20230618/1897854.md">文睿：玩儿垮自己，一尊，今天又没边儿了，特大号巨婴</a></li>
-<li><a href="/cbnews/20230618/1897911.md">布林肯抵京！中共宣传系统竟然这样做...【阿波罗网报道】</a></li>
-<li><a href="/headline/20230619/1898023.md">布林肯与秦刚会谈历时五个半小时 超时一小时至晚上</a></li>
 <li><a href="/topimagenews/20230619/1898095.md">广东高校干部野外出轨女同事被活捉，赤裸下身狂奔</a></li>
-<li><a href="/topimagenews/20230618/1897904.md">川普获罕见法律胜利 震惊！办案民主党女检察官声明【阿波罗网报道】</a></li>
+<li><a href="/headline/20230619/1898023.md">布林肯与秦刚会谈历时五个半小时 超时一小时至晚上</a></li>
+<li><a href="/cbnews/20230618/1897911.md">布林肯抵京！中共宣传系统竟然这样做...【阿波罗网报道】</a></li>
 <li><a href="/funmedia/20230618/1897917.md">中国唯一没有平原的省份，除了山就是水，风景优美适合养老</a></li>
+<li><a href="/topimagenews/20230618/1897904.md">川普获罕见法律胜利 震惊！办案民主党女检察官声明【阿波罗网报道】</a></li>
 <li><a href="/comments/20230618/1897965.md">【微博精粹】突然脑死亡不可避免</a></li>
-<li><a href="/finance/20230618/1897921.md">几十亿打水漂？！中国“西北第一高塔”竟是违建 要拆除</a></li>
 <li><a href="/cnnews/20230619/1898100.md">中共女干部常年穿吊带给书记深夜开门后续：两人已开公司</a></li>
+<li><a href="/finance/20230618/1897921.md">几十亿打水漂？！中国“西北第一高塔”竟是违建 要拆除</a></li>
 <li><a href="/finance/20230618/1897922.md">WSJ：一连串刺激举措背后 中共当局的恐惧</a></li>
+<li><a href="/baitai/20230619/1898092.md">马云又火了！日本讲学近照曝光 学者指除非一事发生 否则结局悲惨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230619/1898178.md" target="_blank">美国世界霸主地位 成败在此？</a></li>
+<li><a href="/topimagenews/20230619/1898177.md" target="_blank">习近平“打脸”拜登？布林肯访华释信号</a></li>
 <li><a href="/topimagenews/20230619/1898136.md" target="_blank">中国城管魔法！此景不应人间有，只有鬼才看得见</a></li>
 <li><a href="/topimagenews/20230619/1898103.md" target="_blank">猛料？董小姐曾“主动求包养”：我按月不按次 已经火到国外</a></li>
 <li><a href="/topimagenews/20230619/1898096.md" target="_blank">布林肯来访没有红地毯只有红线 一脚跨过去 中国各个群里都在转发</a></li>
@@ -89,14 +91,16 @@
 <li><a href="/topimagenews/20230617/1897611.md" target="_blank">国际战争罪犯普丁出席圣彼得堡论坛 嘲讽泽连斯基是“犹太人之耻”</a></li>
 <li><a href="/topimagenews/20230617/1897574.md" target="_blank">习两句话有深意 盖茨承诺捐5000万美元 但微软还是开溜【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230617/1897490.md" target="_blank">乌战败会怎样？泽伦斯基：美只剩崩溃“2选择”</a></li>
-<li><a href="/topimagenews/20230617/1897489.md" target="_blank">70岁大寿，习近平这个生日过的不省心</a></li>
-<li><a href="/topimagenews/20230616/1897370.md" target="_blank">形势有多严酷？3个现像暗示苦日开始；全球私募本猛砸中国资金</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230619/1898186.md" target="_blank">李濠仲：世界上最极权的政府和世界上最大的慈善基金会一拍即合</a></li>
+<li><a href="/comments/20230619/1898185.md" target="_blank">卓然：习近平大卖“芒果干”究竟想干什么 大限标志</a></li>
+<li><a href="/comments/20230619/1898184.md" target="_blank">陈家煜：为什么共产党的兵凶战危是假的</a></li>
+<li><a href="/comments/20230619/1898176.md" target="_blank">天亮时分：布林肯访华，一步迈过中共红线；今日头条质疑：“党媒党刊能扛多久？”；出口退税泄露中国经济真相（政论天下第1034集 20230618）</a></li>
 <li><a href="/comments/20230619/1898168.md" target="_blank">习近平为何大卖“芒果干”？摊牌时刻不远了</a></li>
 <li><a href="/comments/20230619/1898148.md" target="_blank">李濠仲：不同总统当然会创造出不一样的台美关系</a></li>
 <li><a href="/comments/20230619/1898147.md" target="_blank">楚共:习近平的新时代到底是个什么东西？</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230618/1897961.md" target="_blank">温克坚：汇率与&#8221;跳蚤效应&#8221;</a></li>
 <li><a href="/comments/20230618/1897960.md" target="_blank">陶杰：地球村里看永玉，日暖蓝田</a></li>
 <li><a href="/comments/20230618/1897959.md" target="_blank">胡平：这次不是蓄意投毒，下次呢？</a></li>
-<li><a href="/comments/20230618/1897958.md" target="_blank">苏暁康：把美洲让给中国人</a></li>
-<li><a href="/comments/20230618/1897957.md" target="_blank">挥手自兹去，人间欲忘言——黄永玉先生在他创造的艺文世界里永生</a></li>
-<li><a href="/comments/20230618/1897956.md" target="_blank">李濠仲:重温比尔盖兹对台海安全的“特殊贡献”</a></li>
-<li><a href="/comments/20230618/1897955.md" target="_blank">杨威：布林肯访华只为中美不彻底撕破脸</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 
 </ul>
 </div>
