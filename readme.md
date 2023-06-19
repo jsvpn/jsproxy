@@ -5,14 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20230619/1898105.md">【独家重磅】李燕铭：李克强掌握内部数据对抗习近平 习掀统计审计领域清洗风暴 李克强首席智囊高危 李强甩锅李克强 中南海罕见公布经济惨状 丁薛祥添新头衔摸底李克强经济烂摊子 中纪委打虎方向调整新增三大领域 四川高官应声落马 习近平连任后大清洗（40） 习近平李克强明争暗斗内幕（103） 钱袋子争夺战（42） 习家军接掌国务院（23）</a></li>
 <li><a href="/topimagenews/20230619/1898331.md">习近平见布林肯不是一对一 “分列式”座位照抢先曝</a></li>
 <li><a href="/cbnews/20230619/1898215.md">〖兲朝浮世绘〗中共还在生闷气 要把和谈的路堵死</a></li>
 <li><a href="/ssgc/20230619/1898321.md">习近平高规格接待布林肯访团 中美关系象征意义高</a></li>
 <li><a href="/topimagenews/20230619/1898261.md">普丁撕毁中俄联合声明协议 专家：他只在乎自己、没把习近平当回事</a></li>
 <li><a href="/baitai/20230619/1898355.md">下马威？习近平会见布林肯 这画面亮了 美前官员：习向中共干部发出一个重要指示</a></li>
-<li><a href="/sohnews/20230619/1898330.md">文睿：习近平见布林肯，一尊，千年蠢材，不服真不行</a></li>
 <li><a href="/sohnews/20230619/1898304.md">20230619：布林肯顺利完成任务，习近平扭捏中还是从了美国；宏大叙事下的九大脓疮。反攻白热化，双方均损失惨重。(20230619 第1204期）</a></li>
+<li><a href="/sohnews/20230619/1898330.md">文睿：习近平见布林肯，一尊，千年蠢材，不服真不行</a></li>
 <li><a href="/topimagenews/20230619/1898200.md">藏不住！他们在公开媒介上痛哭失声 如此降幅…</a></li>
 <li><a href="/topimagenews/20230619/1898136.md">中国城管魔法！此景不应人间有，只有鬼才看得见</a></li>
 <li><a href="/cnnews/20230619/1898232.md">习近平如意算盘打错 恐遭俄罗斯釜底抽薪</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/sohnews/20230619/1898372.md">什么鬼样子！广州火车站冷清得让人发麻｜ #时事金扫描 #金然</a></li>
 <li><a href="/topimagenews/20230619/1898332.md">3.2万瓦格纳佣兵退伍 重罪犯赦免重回俄罗斯社会</a></li>
 <li><a href="/sohnews/20230619/1898159.md">习近平70大寿当天 干了3件事｜ #时事金扫描 #金然</a></li>
+<li><a href="/topimagenews/20230619/1898267.md">中共央视低级红？高级黑？重提习仲勋一句话【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230620/1898504.md" target="_blank">拜登更多受贿文件将曝光。卡尔森团队不断壮大，助推川普2024。美国民间正气上扬，百威啤酒两头不讨好。</a></li>
 <li><a href="/cbnews/20230619/1898368.md" target="_blank">会晤习近平 布林肯转述拜登立场：美中有义务经营两国关系</a></li>
 <li><a href="/cbnews/20230619/1898367.md" target="_blank">布林肯：台海危机恐影响全球经济 美方不欲“经济压制”中国</a></li>
 <li><a href="/cbnews/20230619/1898366.md" target="_blank">身高1米3不能当医师？她面试惨被20多家医院刷掉</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/comments/20230618/1897861.md" target="_blank">干净世界：一个没有言论审查的干净平台 ｜Nick Janicki ｜ #方菲时间</a></li>
 <li><a href="/comments/20230618/1897860.md" target="_blank">美情报机关解密截止日前，多个重磅信息爆出。。。完整版请移步干净世界 ｜#方菲时间 06/18/2023</a></li>
 <li><a href="/comments/20230618/1897856.md" target="_blank">小心！骂了“小日本”，一尊不开心！</a></li>
-<li><a href="/comments/20230618/1897837.md" target="_blank">【杰森视角】中国经济熄火，刺激也没用！习近平和延安地委书记打起来了！普里戈津已经不把普京放在眼里了！习近平30多年前就看不上邓小平的政策！乌军在三个战区，两条战线取得进展！</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230620/1898496.md" target="_blank">北京不敢说！布林肯挑明为何在这两方面杠上中共</a></li>
 <li><a href="/topimagenews/20230620/1898481.md" target="_blank">习布会 布林肯带来拜登一句话</a></li>
 <li><a href="/topimagenews/20230620/1898474.md" target="_blank">震撼！上百亿英里 NASA唤醒45年前发射的航天器</a></li>
 <li><a href="/topimagenews/20230619/1898384.md" target="_blank">布林肯会习近平：对中共在台海挑衅行为表关切</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20230619/1898095.md" target="_blank">广东高校干部野外出轨女同事被活捉，赤裸下身狂奔</a></li>
 <li><a href="/topimagenews/20230618/1897904.md" target="_blank">川普获罕见法律胜利 震惊！办案民主党女检察官声明【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230618/1897903.md" target="_blank">中共不管！载运40吨沥青翻车 活活烫死路过母子</a></li>
-<li><a href="/topimagenews/20230618/1897902.md" target="_blank">中共最不愿意看到的一幕</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230620/1898504.md" target="_blank">拜登更多受贿文件将曝光。卡尔森团队不断壮大，助推川普2024。美国民间正气上扬，百威啤酒两头不讨好。</a></li>
+<li><a href="/comments/20230620/1898499.md" target="_blank">看破习近平！共产党里有疯子 有笨蛋 但绝对没有…</a></li>
 <li><a href="/comments/20230620/1898467.md" target="_blank">评论 | 陈破空：从元首外交到首富外交，习近平能否如愿？</a></li>
 <li><a href="/comments/20230619/1898419.md" target="_blank">涉“鼠头”食堂承包商被起底 母公司系中国百强餐饮第七名</a></li>
 <li><a href="/comments/20230619/1898393.md" target="_blank">李强上任首访德法 红地毯后暗流涌动</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230619/1898176.md" target="_blank">天亮时分：布林肯访华，一步迈过中共红线；今日头条质疑：“党媒党刊能扛多久？”；出口退税泄露中国经济真相（政论天下第1034集 20230618）</a></li>
 <li><a href="/comments/20230619/1898168.md" target="_blank">习近平为何大卖“芒果干”？摊牌时刻不远了</a></li>
 <li><a href="/comments/20230619/1898148.md" target="_blank">李濠仲：不同总统当然会创造出不一样的台美关系</a></li>
-<li><a href="/comments/20230619/1898147.md" target="_blank">楚共:习近平的新时代到底是个什么东西？</a></li>
-<li><a href="/comments/20230619/1898134.md" target="_blank">植物的思想 这么可爱！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
 <li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
 
 </ul>
 </div>
