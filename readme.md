@@ -7,26 +7,26 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/comments/20230619/1898105.md">【独家重磅】李燕铭：李克强掌握内部数据对抗习近平 习掀统计审计领域清洗风暴 李克强首席智囊高危 李强甩锅李克强 中南海罕见公布经济惨状 丁薛祥添新头衔摸底李克强经济烂摊子 中纪委打虎方向调整新增三大领域 四川高官应声落马 习近平连任后大清洗（40） 习近平李克强明争暗斗内幕（103） 钱袋子争夺战（42） 习家军接掌国务院（23）</a></li>
 <li><a href="/topimagenews/20230619/1898331.md">习近平见布林肯不是一对一 “分列式”座位照抢先曝</a></li>
-<li><a href="/ssgc/20230619/1898321.md">习近平高规格接待布林肯访团 中美关系象征意义高</a></li>
 <li><a href="/cbnews/20230619/1898215.md">〖兲朝浮世绘〗中共还在生闷气 要把和谈的路堵死</a></li>
+<li><a href="/ssgc/20230619/1898321.md">习近平高规格接待布林肯访团 中美关系象征意义高</a></li>
 <li><a href="/topimagenews/20230619/1898261.md">普丁撕毁中俄联合声明协议 专家：他只在乎自己、没把习近平当回事</a></li>
 <li><a href="/baitai/20230619/1898355.md">下马威？习近平会见布林肯 这画面亮了 美前官员：习向中共干部发出一个重要指示</a></li>
-<li><a href="/sohnews/20230619/1898304.md">20230619：布林肯顺利完成任务，习近平扭捏中还是从了美国；宏大叙事下的九大脓疮。反攻白热化，双方均损失惨重。(20230619 第1204期）</a></li>
 <li><a href="/sohnews/20230619/1898330.md">文睿：习近平见布林肯，一尊，千年蠢材，不服真不行</a></li>
-<li><a href="/topimagenews/20230619/1898136.md">中国城管魔法！此景不应人间有，只有鬼才看得见</a></li>
+<li><a href="/sohnews/20230619/1898304.md">20230619：布林肯顺利完成任务，习近平扭捏中还是从了美国；宏大叙事下的九大脓疮。反攻白热化，双方均损失惨重。(20230619 第1204期）</a></li>
 <li><a href="/topimagenews/20230619/1898200.md">藏不住！他们在公开媒介上痛哭失声 如此降幅…</a></li>
+<li><a href="/topimagenews/20230619/1898136.md">中国城管魔法！此景不应人间有，只有鬼才看得见</a></li>
 <li><a href="/cnnews/20230619/1898232.md">习近平如意算盘打错 恐遭俄罗斯釜底抽薪</a></li>
 <li><a href="/cnnews/20230619/1898230.md">内蒙古一城管负责人出轨下属，露骨聊天记录曝光</a></li>
 <li><a href="/topimagenews/20230619/1898254.md">中共吐血了！三国竟要做这种事….</a></li>
 <li><a href="/cnnews/20230619/1898123.md">非洲调停团在俄遭遇：话还没说话，即被普京打断</a></li>
-<li><a href="/topimagenews/20230619/1898199.md">【微博精粹】美国灭匪 只剩一招</a></li>
 <li><a href="/topimagenews/20230619/1898384.md">布林肯会习近平：对中共在台海挑衅行为表关切</a></li>
+<li><a href="/topimagenews/20230619/1898199.md">【微博精粹】美国灭匪 只剩一招</a></li>
 <li><a href="/comments/20230619/1898351.md">不再隐瞒？！一天惊现2次UFO！万人目睹，军方异常反应！猛料不停！另外时空的V型外星母舰 前所未见 逼政府出面⋯⋯｜ #未解之谜 扶摇</a></li>
 <li><a href="/ssgc/20230619/1898153.md">〖微博谈〗找不到父亲的父亲节</a></li>
 <li><a href="/worldnews/20230619/1898260.md">AI生成100国美女“台湾正妹”长这样…乡民看傻了眼：这AI审美坏了吧</a></li>
 <li><a href="/headline/20230619/1898121.md">习近平与布林肯会面的理由？</a></li>
-<li><a href="/topimagenews/20230619/1898332.md">3.2万瓦格纳佣兵退伍 重罪犯赦免重回俄罗斯社会</a></li>
 <li><a href="/sohnews/20230619/1898372.md">什么鬼样子！广州火车站冷清得让人发麻｜ #时事金扫描 #金然</a></li>
+<li><a href="/topimagenews/20230619/1898332.md">3.2万瓦格纳佣兵退伍 重罪犯赦免重回俄罗斯社会</a></li>
 <li><a href="/sohnews/20230619/1898159.md">习近平70大寿当天 干了3件事｜ #时事金扫描 #金然</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
 <li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 <li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
