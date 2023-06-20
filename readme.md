@@ -16,18 +16,18 @@
 <li><a href="/cnnews/20230619/1898232.md">习近平如意算盘打错 恐遭俄罗斯釜底抽薪</a></li>
 <li><a href="/cnnews/20230619/1898230.md">内蒙古一城管负责人出轨下属，露骨聊天记录曝光</a></li>
 <li><a href="/topimagenews/20230619/1898254.md">中共吐血了！三国竟要做这种事….</a></li>
-<li><a href="/comments/20230619/1898351.md">不再隐瞒？！一天惊现2次UFO！万人目睹，军方异常反应！猛料不停！另外时空的V型外星母舰 前所未见 逼政府出面⋯⋯｜ #未解之谜 扶摇</a></li>
-<li><a href="/topimagenews/20230619/1898384.md">布林肯会习近平：对中共在台海挑衅行为表关切</a></li>
-<li><a href="/topimagenews/20230619/1898199.md">【微博精粹】美国灭匪 只剩一招</a></li>
 <li><a href="/topimagenews/20230620/1898496.md">北京不敢说！布林肯挑明为何在这两方面杠上中共</a></li>
-<li><a href="/ssgc/20230619/1898153.md">〖微博谈〗找不到父亲的父亲节</a></li>
+<li><a href="/topimagenews/20230619/1898384.md">布林肯会习近平：对中共在台海挑衅行为表关切</a></li>
+<li><a href="/comments/20230619/1898351.md">不再隐瞒？！一天惊现2次UFO！万人目睹，军方异常反应！猛料不停！另外时空的V型外星母舰 前所未见 逼政府出面⋯⋯｜ #未解之谜 扶摇</a></li>
+<li><a href="/topimagenews/20230619/1898199.md">【微博精粹】美国灭匪 只剩一招</a></li>
+<li><a href="/topimagenews/20230620/1898511.md">惨不忍睹！这个提案比嫖娼合法化都缺德</a></li>
 <li><a href="/worldnews/20230619/1898260.md">AI生成100国美女“台湾正妹”长这样…乡民看傻了眼：这AI审美坏了吧</a></li>
 <li><a href="/sohnews/20230619/1898372.md">什么鬼样子！广州火车站冷清得让人发麻｜ #时事金扫描 #金然</a></li>
 <li><a href="/topimagenews/20230619/1898332.md">3.2万瓦格纳佣兵退伍 重罪犯赦免重回俄罗斯社会</a></li>
 <li><a href="/topimagenews/20230619/1898357.md">中国结婚率跳水原因何在？养老金替代率远低国际警戒线；中国人到底能承受多少？</a></li>
-<li><a href="/sohnews/20230619/1898159.md">习近平70大寿当天 干了3件事｜ #时事金扫描 #金然</a></li>
-<li><a href="/topimagenews/20230619/1898267.md">中共央视低级红？高级黑？重提习仲勋一句话【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230620/1898481.md">习布会 布林肯带来拜登一句话</a></li>
+<li><a href="/topimagenews/20230619/1898267.md">中共央视低级红？高级黑？重提习仲勋一句话【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230620/1898510.md">中国最神秘大学：藏在首都 毕业就是体制内…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 
 </ul>
 </div>
