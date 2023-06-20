@@ -23,11 +23,11 @@
 <li><a href="/cnnews/20230620/1898491.md">华人超爱的海鲜出事了 54岁男子食用后身亡</a></li>
 <li><a href="/topimagenews/20230620/1898639.md">弹药库大爆炸持续6小时！俄军枢纽里科夫挨轰引殉爆 逾52车臣特种兵惨死</a></li>
 <li><a href="/topimagenews/20230620/1898674.md">俄罗斯首批战术核弹运抵白俄 拜登：普丁扬言动用核武是“真实的威胁”</a></li>
+<li><a href="/topimagenews/20230620/1898732.md">普丁在为撤军做准备？俄国突然重新定义“去军事化” 被疑在找下台阶</a></li>
 <li><a href="/sohnews/20230620/1898636.md">习近平罕见坐“帝王席”！目的有三；布林肯访华结束前，习突然出场“诛心”；北京染疫数据高，陕西安徽发热门诊爆满；布林肯访华遭算计，连遇下马威；北京少年拥抱梅西被拘，12个月禁观赛｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/topimagenews/20230620/1898774.md">习近平如意算盘打错深陷泥潭 恐遭俄釜底抽薪；中国出口如此降幅藏不住</a></li>
 <li><a href="/topimagenews/20230620/1898606.md">普丁完蛋了？英媒示警俄沦“贫穷国家” 经济惨被中共剥削</a></li>
 <li><a href="/headline/20230620/1898515.md">习近平布林肯会谈场面 犹如王朝式外交再现</a></li>
-<li><a href="/topimagenews/20230620/1898474.md">震撼！上百亿英里 NASA唤醒45年前发射的航天器</a></li>
-<li><a href="/topimagenews/20230620/1898732.md">普丁在为撤军做准备？俄国突然重新定义“去军事化” 被疑在找下台阶</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230621/1898855.md" target="_blank">中国豪宅市场见抛售潮 凸显投资信心已失</a></li>
 <li><a href="/topimagenews/20230620/1898834.md" target="_blank">WSJ：美中高层破冰动机 因中共想稳住“经济下滑”</a></li>
 <li><a href="/topimagenews/20230620/1898774.md" target="_blank">习近平如意算盘打错深陷泥潭 恐遭俄釜底抽薪；中国出口如此降幅藏不住</a></li>
 <li><a href="/topimagenews/20230620/1898732.md" target="_blank">普丁在为撤军做准备？俄国突然重新定义“去军事化” 被疑在找下台阶</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230619/1898357.md" target="_blank">中国结婚率跳水原因何在？养老金替代率远低国际警戒线；中国人到底能承受多少？</a></li>
 <li><a href="/topimagenews/20230619/1898332.md" target="_blank">3.2万瓦格纳佣兵退伍 重罪犯赦免重回俄罗斯社会</a></li>
 <li><a href="/topimagenews/20230619/1898331.md" target="_blank">习近平见布林肯不是一对一 “分列式”座位照抢先曝</a></li>
-<li><a href="/topimagenews/20230619/1898317.md" target="_blank">我们受够了！3影片连发俄兵抗议战场恶劣待遇、没指挥官 表明拒绝战斗</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
 <li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 <li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
 
 </ul>
 </div>
