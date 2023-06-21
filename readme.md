@@ -10,24 +10,24 @@
 <li><a href="/yule/20230621/1898906.md">多方爆料口径全对上！大S急得如热锅上的蚂蚁</a></li>
 <li><a href="/cnnews/20230621/1898955.md">布林肯刚走，美惊曝：北京得寸进尺</a></li>
 <li><a href="/cnnews/20230621/1898895.md">美国访京团的眼镜男是谁？神秘的“蓝血人”</a></li>
-<li><a href="/topimagenews/20230621/1899090.md">中共最害怕信号出现！网友纷纷嘲笑...【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230621/1898996.md">〖兲朝浮世绘〗疯狂雨骤 大海真的要来掀翻小池塘了？</a></li>
+<li><a href="/topimagenews/20230621/1899090.md">中共最害怕信号出现！网友纷纷嘲笑...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230621/1898928.md">习近平见布林肯 只因经济撑不住了</a></li>
 <li><a href="/cnnews/20230621/1899037.md">布林肯白忙了？拜登一句话 老习气炸</a></li>
 <li><a href="/topimagenews/20230621/1898855.md">中国豪宅市场见抛售潮 凸显投资信心已失</a></li>
-<li><a href="/cnnews/20230621/1898898.md">加国28岁华人女子在TTC被泼汽油：残忍焚烧而亡</a></li>
 <li><a href="/baitai/20230621/1898936.md">地方债危机压不住 这两大银行恐破产在即</a></li>
+<li><a href="/cnnews/20230621/1898898.md">加国28岁华人女子在TTC被泼汽油：残忍焚烧而亡</a></li>
+<li><a href="/topimagenews/20230621/1899161.md">给李强当头一棒 欧盟最快今天宣布… 中共崛起全面崩盘</a></li>
 <li><a href="/ccpdope/20230621/1899066.md">惊爆！秦刚内部讲话录音 要和美国背水一战</a></li>
 <li><a href="/ssgc/20230621/1899020.md">〖微博谈〗中共金融、财政危机不断加剧</a></li>
-<li><a href="/topimagenews/20230621/1899161.md">给李强当头一棒 欧盟最快今天宣布… 中共崛起全面崩盘</a></li>
 <li><a href="/baitai/20230621/1899099.md">或出大事？潜艇获救者分享恐怖经历 氧气只剩12分钟</a></li>
 <li><a href="/topimagenews/20230621/1899121.md">中共撒钱拼芯片自主？日媒拆解小米手机惊见1警讯</a></li>
 <li><a href="/baitai/20230621/1899085.md">王春翰：习近平是如何崛起的</a></li>
 <li><a href="/yule/20230621/1898995.md">64岁毕福剑定居辽宁小县城！退休后开三轮车载客</a></li>
+<li><a href="/topimagenews/20230621/1899139.md">三四线城市 这或许是最后的希望了</a></li>
+<li><a href="/cbnews/20230621/1899068.md">李强访德：举行不能提问的总理新闻发布会</a></li>
 <li><a href="/cnnews/20230621/1898905.md">糊涂母亲让孩子高速公路捡行李 结果两娃被撞死</a></li>
 <li><a href="/sohnews/20230621/1898937.md">陈破空：惊爆！秦刚内部讲话录音：就是要跟美国战争！李强记者会创新：不接受提问。拜登发话：中美会谈无成果。普京核武威胁是真实的。直播与互动。美东6月20日晚8点、即中港台6月21日早8点</a></li>
-<li><a href="/cbnews/20230621/1899068.md">李强访德：举行不能提问的总理新闻发布会</a></li>
-<li><a href="/topimagenews/20230621/1899004.md">这国狂购反舰导弹 陆媒惊呼：它准备紧急开战</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230621/1899229.md" target="_blank">亨特拜登认三项轻罪 他从此没事了吗？【方伟时间-20230621】</a></li>
 <li><a href="/cbnews/20230621/1899208.md" target="_blank">“鼠头”风波后又出事 河南高校食堂烤鱼惊见“白蛆”</a></li>
 <li><a href="/cbnews/20230621/1899207.md" target="_blank">不到20元人民币吃两餐 中国年轻人为省钱疯抢“剩菜盲盒”</a></li>
 <li><a href="/cbnews/20230621/1899206.md" target="_blank">河南小兄妹 从29楼通风管坠地下室 家属恸：无警示</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230620/1898569.md" target="_blank">〖兲朝浮世绘〗这次会谈没有御赐明黄茶杯和龙椅，差评</a></li>
 <li><a href="/comments/20230620/1898516.md" target="_blank">横河：美中对话必要但无用；中共玩小动作，全无外交风度；不设军事热线说明台海依旧高危 ｜06/19/2023</a></li>
 <li><a href="/comments/20230620/1898504.md" target="_blank">拜登更多受贿文件将曝光。卡尔森团队不断壮大，助推川普2024。美国民间正气上扬，百威啤酒两头不讨好。</a></li>
-<li><a href="/cbnews/20230619/1898368.md" target="_blank">会晤习近平 布林肯转述拜登立场：美中有义务经营两国关系</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230621/1899229.md" target="_blank">亨特拜登认三项轻罪 他从此没事了吗？【方伟时间-20230621】</a></li>
+<li><a href="/comments/20230621/1899228.md" target="_blank">【大纪元特稿】《透视“进化论”》前言</a></li>
 <li><a href="/comments/20230621/1899185.md" target="_blank">燃起希望！铁达尼号观光潜水器失联 搜救团队听到规律敲打声 5乘客身份曝光</a></li>
 <li><a href="/comments/20230621/1899184.md" target="_blank">布林肯访中遭矮化 矢板明夫讽习近平阿Q精神</a></li>
 <li><a href="/comments/20230621/1899178.md" target="_blank">【梁京评论】中国经济探底的外交博弈</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230621/1898954.md" target="_blank">蔡明芳:中国“一篮子刺激措施”释放的讯息</a></li>
 <li><a href="/comments/20230621/1898949.md" target="_blank">堪比第二场CNN市政厅辩论。川普接受福克斯专访，机敏舌战反川主持人。谴责希夫将被第二次投票，动议或成无价之宝。</a></li>
 <li><a href="/comments/20230621/1898948.md" target="_blank">一天惊现2次UFO！</a></li>
-<li><a href="/comments/20230621/1898941.md" target="_blank">反了？最后一代给马列老师上课</a></li>
-<li><a href="/comments/20230621/1898932.md" target="_blank">觅真：中共当局对老人的迫害肆无忌惮、丧尽天良</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 
 </ul>
 </div>
