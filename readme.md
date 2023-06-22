@@ -6,21 +6,20 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230621/1899161.md">给李强当头一棒 欧盟最快今天宣布… 中共崛起全面崩盘</a></li>
-<li><a href="/cnnews/20230621/1899037.md">布林肯白忙了？拜登一句话 老习气炸</a></li>
 <li><a href="/topimagenews/20230621/1899090.md">中共最害怕信号出现！网友纷纷嘲笑...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230621/1899174.md">看到这2家死这么快！马云惊吓曝陆1下杀警讯：还没完</a></li>
 <li><a href="/ccpdope/20230621/1899066.md">惊爆！秦刚内部讲话录音 要和美国背水一战</a></li>
 <li><a href="/topimagenews/20230621/1899139.md">三四线城市 这或许是最后的希望了</a></li>
 <li><a href="/baitai/20230621/1899099.md">或出大事？潜艇获救者分享恐怖经历 氧气只剩12分钟</a></li>
-<li><a href="/topimagenews/20230621/1899121.md">中共撒钱拼芯片自主？日媒拆解小米手机惊见1警讯</a></li>
 <li><a href="/topimagenews/20230622/1899282.md">中国失业率45年来最严重！北大经济教授：无法解决…</a></li>
+<li><a href="/topimagenews/20230621/1899121.md">中共撒钱拼芯片自主？日媒拆解小米手机惊见1警讯</a></li>
 <li><a href="/baitai/20230621/1899085.md">王春翰：习近平是如何崛起的</a></li>
 <li><a href="/ssgc/20230621/1899135.md">路透：秘密文件显示中国图以旅游招待、微信汇款等方式影响台湾大选</a></li>
-<li><a href="/ssgc/20230621/1899157.md">习近平为何打破惯例，独坐主席位会见布林肯？</a></li>
 <li><a href="/baitai/20230622/1899272.md">老虎相争！中共内部爆发看不见的战争 【红朝禁闻】</a></li>
+<li><a href="/ssgc/20230621/1899157.md">习近平为何打破惯例，独坐主席位会见布林肯？</a></li>
+<li><a href="/cbnews/20230622/1899284.md">气炸！中共外交部猛批拜登：极其荒谬，公然挑衅</a></li>
 <li><a href="/cbnews/20230621/1899068.md">李强访德：举行不能提问的总理新闻发布会</a></li>
 <li><a href="/comments/20230621/1899112.md">李强出访半途故事已经不少 中南海谁在落井下石？</a></li>
-<li><a href="/cbnews/20230622/1899284.md">气炸！中共外交部猛批拜登：极其荒谬，公然挑衅</a></li>
 <li><a href="/headline/20230621/1899107.md">拜登直说习近平是独裁</a></li>
 <li><a href="/worldnews/20230622/1899285.md">基辅8军火库被炸毁，泽伦斯基：正“摧毁”俄军</a></li>
 <li><a href="/headline/20230622/1899268.md">中国银行禁俄罗斯以人民币交易</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/sohnews/20230621/1899141.md">陈破空：摆谱的后果来了！拜登直指他是独裁者。马斯克转向，即将大举投资印度。越南突然大规模购进反舰导弹，准备紧急开战</a></li>
 <li><a href="/health/20230621/1899093.md">豆腐乳，到底是“人间美味”还是“健康杀手”？研究结果公布</a></li>
 <li><a href="/ccpdope/20230622/1899255.md">北京广州武汉等地染猴痘人数突增 疑似在民间快速传播</a></li>
+<li><a href="/sohnews/20230622/1899292.md">🔥李强出访半途故事已经不少，中南海谁在落井下石？习近平心满意足？矢板明夫：自我安慰；中德对话拧劲，李强没能达成此次出访的目标；李强缺乏逻辑的“金句”【阿波罗网AS】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230622/1899415.md" target="_blank">江峰：“习近平独裁者！” 布林肯访华受辱，拜登被激怒呛回； 外交部称其政治挑衅，中美沟通再次短路； 莫迪访美先见马斯克，对照马斯克北京朝拜不得见习近平，两国高低立见。【江峰漫谈20230621第689期】</a></li>
 <li><a href="/cbnews/20230622/1899363.md" target="_blank">〖兲朝浮世绘〗拜登一不小心就把习帝惹翻了</a></li>
 <li><a href="/comments/20230622/1899328.md" target="_blank">UFO紧急新闻发布会！</a></li>
 <li><a href="/comments/20230622/1899303.md" target="_blank">川普机密文件案8月开庭，专家意外。阻挠调查亨特的幕后大人物曝光，难怪川普要揭他！众议院掌握拜登父子完整腐败故事，好戏在后面。</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230620/1898835.md" target="_blank">布林肯前脚刚走 美雷根号航母驶入南海“自由巡航”</a></li>
 <li><a href="/cbnews/20230620/1898824.md" target="_blank">“中式黑布”女涉嫌卖淫到警局投案猝死 没录音没录影身上有伤</a></li>
 <li><a href="/cbnews/20230620/1898789.md" target="_blank">在小孩饭里“加避孕药”！幼教师恐怖对话流出：他们长大都废了</a></li>
-<li><a href="/cbnews/20230620/1898675.md" target="_blank">炫富大会？30岁OL同学会被鄙视 因一只平价包</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230622/1899416.md" target="_blank">拜登喊习近平独裁者，北京气疯！黄子佼YOU TOO运动冲击中共，张高丽朱军刘强东满血复活，吴亦凡气晕</a></li>
 <li><a href="/comments/20230622/1899404.md" target="_blank">为什么“白左”拒绝谈论委内瑞拉</a></li>
 <li><a href="/comments/20230622/1899381.md" target="_blank">王维洛：雄安新区的规划人口规模</a></li>
 <li><a href="/comments/20230622/1899379.md" target="_blank">天亮时分：布林肯刚刚离开北京，中美关系立即开始恶化；莫迪访美，中共心惊；李强发布会，禁止记者提问，行为异常显示权力不稳（政论天下第1037集 20230621）天亮时分</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230621/1899184.md" target="_blank">布林肯访中遭矮化 矢板明夫讽习近平阿Q精神</a></li>
 <li><a href="/comments/20230621/1899178.md" target="_blank">【梁京评论】中国经济探底的外交博弈</a></li>
 <li><a href="/comments/20230621/1899165.md" target="_blank">凸显习绝对地位？李强首度出访 降级搭包机</a></li>
-<li><a href="/comments/20230621/1899162.md" target="_blank">塔克推特秀第5集。卡尔森发火。亨特究竟以何谋生？揭秘美国太子党的生存秘诀。做总统的儿子比做他的对手更安全。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
 
 </ul>
 </div>
