@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230621/1899161.md">给李强当头一棒 欧盟最快今天宣布… 中共崛起全面崩盘</a></li>
 <li><a href="/topimagenews/20230621/1899174.md">看到这2家死这么快！马云惊吓曝陆1下杀警讯：还没完</a></li>
 <li><a href="/topimagenews/20230622/1899282.md">中国失业率45年来最严重！北大经济教授：无法解决…</a></li>
-<li><a href="/ssgc/20230621/1899157.md">习近平为何打破惯例，独坐主席位会见布林肯？</a></li>
 <li><a href="/baitai/20230622/1899272.md">老虎相争！中共内部爆发看不见的战争 【红朝禁闻】</a></li>
 <li><a href="/cbnews/20230622/1899284.md">气炸！中共外交部猛批拜登：极其荒谬，公然挑衅</a></li>
 <li><a href="/cnnews/20230622/1899421.md">疯传！局长出轨女下属“全家福” 正牌老公含泪真名举报</a></li>
@@ -17,17 +15,19 @@
 <li><a href="/worldnews/20230622/1899285.md">基辅8军火库被炸毁，泽伦斯基：正“摧毁”俄军</a></li>
 <li><a href="/headline/20230622/1899268.md">中国银行禁俄罗斯以人民币交易</a></li>
 <li><a href="/baitai/20230622/1899310.md">北京傲慢后果严重 VS 拜登超规格接待莫迪 中共将面对的是什么？</a></li>
-<li><a href="/sohnews/20230622/1899292.md">🔥李强出访半途故事已经不少，中南海谁在落井下石？习近平心满意足？矢板明夫：自我安慰；中德对话拧劲，李强没能达成此次出访的目标；李强缺乏逻辑的“金句”【阿波罗网AS】</a></li>
 <li><a href="/topimagenews/20230622/1899474.md">很多人想象不到！中共最头疼的问题是这个【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20230622/1899292.md">🔥李强出访半途故事已经不少，中南海谁在落井下石？习近平心满意足？矢板明夫：自我安慰；中德对话拧劲，李强没能达成此次出访的目标；李强缺乏逻辑的“金句”【阿波罗网AS】</a></li>
 <li><a href="/sohnews/20230622/1899325.md">布林肯前脚走，中共被爆出危险计画；沪深股市4千股飘绿，股民：含泪过端午；好处不多，意大利或退出“一带一路”；什么原因？港民研所不再公开8类敏感民调；台北市议会通过决议，严惩中共活摘器官</a></li>
 <li><a href="/topimagenews/20230622/1899315.md">离了大谱：房没了 钱也没了</a></li>
 <li><a href="/baitai/20230622/1899311.md">中共内部内卷更惨 警察也遭殃</a></li>
 <li><a href="/cnnews/20230622/1899347.md">疯传！鲸鱼一口吞下加州2女 可怕画面曝光</a></li>
 <li><a href="/topimagenews/20230622/1899326.md">马云背后的男人回来了</a></li>
-<li><a href="/ccpdope/20230622/1899254.md">中共若发动战争 那末日就铁定来临</a></li>
 <li><a href="/cbnews/20230622/1899415.md">江峰：“习近平独裁者！” 布林肯访华受辱，拜登被激怒呛回； 外交部称其政治挑衅，中美沟通再次短路； 莫迪访美先见马斯克，对照马斯克北京朝拜不得见习近平，两国高低立见。【江峰漫谈20230621第689期】</a></li>
+<li><a href="/ccpdope/20230622/1899254.md">中共若发动战争 那末日就铁定来临</a></li>
 <li><a href="/ssgc/20230622/1899428.md">〖微博谈〗只好任其自然了</a></li>
 <li><a href="/funmedia/20230622/1899398.md">世界上唯一没有中国人的“国家”，无论是谁，只允许停留3个小时</a></li>
+<li><a href="/topimagenews/20230622/1899430.md">中共头疼！热钱跑到“敌人”手上 大咖操盘手惊曝2痛点</a></li>
+<li><a href="/ccpdope/20230622/1899255.md">北京广州武汉等地染猴痘人数突增 疑似在民间快速传播</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 <li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 <li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
 
 </ul>
 </div>
