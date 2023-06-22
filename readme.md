@@ -21,13 +21,13 @@
 <li><a href="/cbnews/20230621/1899068.md">李强访德：举行不能提问的总理新闻发布会</a></li>
 <li><a href="/comments/20230621/1899112.md">李强出访半途故事已经不少 中南海谁在落井下石？</a></li>
 <li><a href="/headline/20230621/1899107.md">拜登直说习近平是独裁</a></li>
-<li><a href="/worldnews/20230622/1899285.md">基辅8军火库被炸毁，泽伦斯基：正“摧毁”俄军</a></li>
-<li><a href="/headline/20230622/1899268.md">中国银行禁俄罗斯以人民币交易</a></li>
 <li><a href="/baitai/20230622/1899310.md">北京傲慢后果严重 VS 拜登超规格接待莫迪 中共将面对的是什么？</a></li>
-<li><a href="/sohnews/20230622/1899292.md">🔥李强出访半途故事已经不少，中南海谁在落井下石？习近平心满意足？矢板明夫：自我安慰；中德对话拧劲，李强没能达成此次出访的目标；李强缺乏逻辑的“金句”【阿波罗网AS】</a></li>
+<li><a href="/worldnews/20230622/1899285.md">基辅8军火库被炸毁，泽伦斯基：正“摧毁”俄军</a></li>
 <li><a href="/sohnews/20230622/1899324.md">拜登辱习！一番话击中3大痛点，中共发飙却为何不敢报？“中指运动”突如其来，比“白纸运动”更猛？俄军疯了，核电站遍埋地雷！</a></li>
+<li><a href="/headline/20230622/1899268.md">中国银行禁俄罗斯以人民币交易</a></li>
+<li><a href="/sohnews/20230622/1899292.md">🔥李强出访半途故事已经不少，中南海谁在落井下石？习近平心满意足？矢板明夫：自我安慰；中德对话拧劲，李强没能达成此次出访的目标；李强缺乏逻辑的“金句”【阿波罗网AS】</a></li>
 <li><a href="/ccpdope/20230622/1899254.md">中共若发动战争 那末日就铁定来临</a></li>
-<li><a href="/sohnews/20230621/1899141.md">陈破空：摆谱的后果来了！拜登直指他是独裁者。马斯克转向，即将大举投资印度。越南突然大规模购进反舰导弹，准备紧急开战</a></li>
+<li><a href="/baitai/20230622/1899311.md">中共内部内卷更惨 警察也遭殃</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230622/1899457.md" target="_blank">听党的话！百度“文心一言”：如此看待俄乌战争</a></li>
 <li><a href="/cbnews/20230622/1899415.md" target="_blank">江峰：“习近平独裁者！” 布林肯访华受辱，拜登被激怒呛回； 外交部称其政治挑衅，中美沟通再次短路； 莫迪访美先见马斯克，对照马斯克北京朝拜不得见习近平，两国高低立见。【江峰漫谈20230621第689期】</a></li>
 <li><a href="/cbnews/20230622/1899363.md" target="_blank">〖兲朝浮世绘〗拜登一不小心就把习帝惹翻了</a></li>
 <li><a href="/comments/20230622/1899328.md" target="_blank">UFO紧急新闻发布会！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230620/1898839.md" target="_blank">UFO目击情报！</a></li>
 <li><a href="/cbnews/20230620/1898835.md" target="_blank">布林肯前脚刚走 美雷根号航母驶入南海“自由巡航”</a></li>
 <li><a href="/cbnews/20230620/1898824.md" target="_blank">“中式黑布”女涉嫌卖淫到警局投案猝死 没录音没录影身上有伤</a></li>
-<li><a href="/cbnews/20230620/1898789.md" target="_blank">在小孩饭里“加避孕药”！幼教师恐怖对话流出：他们长大都废了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
 <li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
 
 </ul>
 </div>
