@@ -13,21 +13,21 @@
 <li><a href="/yule/20230623/1899684.md">又跑1个 中国女主持人定居美国 呼吁在当地组建高端华人圈</a></li>
 <li><a href="/baitai/20230622/1899576.md">【图说天朝】北京大学出现抗议标语“废黜一党极权，拥抱多党制度”</a></li>
 <li><a href="/cbnews/20230622/1899415.md">江峰：“习近平独裁者！” 布林肯访华受辱，拜登被激怒呛回； 外交部称其政治挑衅，中美沟通再次短路； 莫迪访美先见马斯克，对照马斯克北京朝拜不得见习近平，两国高低立见。【江峰漫谈20230621第689期】</a></li>
-<li><a href="/topimagenews/20230623/1899661.md">北大有人举标语“废黜一党极权 拥抱多党制度”集/视频</a></li>
 <li><a href="/ssgc/20230622/1899428.md">〖微博谈〗只好任其自然了</a></li>
+<li><a href="/topimagenews/20230623/1899661.md">北大有人举标语“废黜一党极权 拥抱多党制度”集/视频</a></li>
 <li><a href="/sohnews/20230622/1899572.md">颠覆性方案被爆出，这个瓜非常大，值得思考❗️❗️❗️</a></li>
 <li><a href="/comments/20230622/1899527.md">西班牙足球迷突疯买台湾国旗？ 网曝︰为气死买下队伍的中国老板</a></li>
-<li><a href="/baitai/20230622/1899564.md">消息人士曝光 去年底中国集中爆发反常现象</a></li>
 <li><a href="/cbnews/20230622/1899607.md">遭潜规则未得奖 江苏女性健美参赛者当场脱高跟鞋砸裁判</a></li>
+<li><a href="/baitai/20230622/1899564.md">消息人士曝光 去年底中国集中爆发反常现象</a></li>
 <li><a href="/worldnews/20230622/1899466.md">糖尿病三姐弟全都身亡！趁妈妈外出 暴食糖果冰淇淋 送医不治</a></li>
+<li><a href="/sohnews/20230623/1899651.md">宁夏爆炸案惊动习近平，亡者多因窒息所至；北大惊现反共勇士，吁废除一党制；跟踪美巡航舰，中共遭德警告；端午有多热？北京气温创历史新高；失联泰坦号氧气耗尽，会重复百年前“被诅咒”的命运吗？</a></li>
 <li><a href="/topimagenews/20230622/1899613.md">大陆经济惨吞3重打击 亚洲好兄弟不忍了偷溜？细节流出</a></li>
 <li><a href="/funmedia/20230622/1899398.md">世界上唯一没有中国人的“国家”，无论是谁，只允许停留3个小时</a></li>
-<li><a href="/sohnews/20230623/1899651.md">宁夏爆炸案惊动习近平，亡者多因窒息所至；北大惊现反共勇士，吁废除一党制；跟踪美巡航舰，中共遭德警告；端午有多热？北京气温创历史新高；失联泰坦号氧气耗尽，会重复百年前“被诅咒”的命运吗？</a></li>
 <li><a href="/topimagenews/20230622/1899430.md">中共头疼！热钱跑到“敌人”手上 大咖操盘手惊曝2痛点</a></li>
 <li><a href="/cnnews/20230622/1899510.md">剩“12分钟氧气”惊险获救！前英军50年前海底失联…</a></li>
-<li><a href="/baitai/20230622/1899495.md">目击F-16与UFO缠斗 UFO胜利后竟做这「庆祝动作」</a></li>
+<li><a href="/cbnews/20230623/1899666.md">李强刚走，德总理发表政府声明…</a></li>
 <li><a href="/comments/20230622/1899578.md">文昭：习近平最出糗的事被拜登戳破，这下布林肯北京之行白去了</a></li>
-<li><a href="/topimagenews/20230622/1899606.md">太巧合！失联CEO妻身份曝光 竟与电影泰坦尼克号“凄美一幕”有关</a></li>
+<li><a href="/baitai/20230622/1899495.md">目击F-16与UFO缠斗 UFO胜利后竟做这「庆祝动作」</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230623/1899804.md" target="_blank">卢娜笑到最后，希夫被谴责，将接受调查。达勒姆国会听证，一句话戳到希夫痛处。通俄门起源调查，竟没有传唤FBI最高官员？</a></li>
 <li><a href="/cbnews/20230623/1899786.md" target="_blank">江峰：泽伦斯基警告世界：普京要炸欧洲最大核电站；绍伊古闻「风」丧胆，暴风影是啥神奇武器？普京亲自播报乌军战损，普里戈津怒怼，俄罗斯人喊：新领袖诞生了！【江峰·视界·军事20230622第15集】</a></li>
 <li><a href="/cbnews/20230623/1899737.md" target="_blank">〖兲朝浮世绘〗北大出勇士 又有人挑战中共一党专政了</a></li>
 <li><a href="/comments/20230623/1899720.md" target="_blank">中美关系中的“怨妇心态” 【方伟时间-20230622】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230621/1899156.md" target="_blank">美国会项目推动营救受迫害的中国工程师</a></li>
 <li><a href="/cbnews/20230621/1899068.md" target="_blank">李强访德：举行不能提问的总理新闻发布会</a></li>
 <li><a href="/cbnews/20230621/1899045.md" target="_blank">江峰：普京最怕的两人「复活」，泽连斯基如何躲过俄国的刺杀行动？乌军兵临城下，俄军宵禁；俄前安全官员：普京不配当领导。台湾防空力量数倍于乌克兰，饱和攻击不好用！【江峰·视界·军事20230620第14期】</a></li>
-<li><a href="/cbnews/20230621/1898996.md" target="_blank">〖兲朝浮世绘〗疯狂雨骤 大海真的要来掀翻小池塘了？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230623/1899804.md" target="_blank">卢娜笑到最后，希夫被谴责，将接受调查。达勒姆国会听证，一句话戳到希夫痛处。通俄门起源调查，竟没有传唤FBI最高官员？</a></li>
+<li><a href="/comments/20230623/1899802.md" target="_blank">无证打水被罚¥7000！农民韭菜新割法？</a></li>
 <li><a href="/comments/20230623/1899789.md" target="_blank">冒死逃生成功娶到蒙古美女 天佑反毛右派徐洪慈 【欺世大观】209</a></li>
 <li><a href="/comments/20230623/1899787.md" target="_blank">天亮时分：四通桥勇士再现，北大举牌“废黜一党专政”；韩国全面部署萨德，中共气炸却无力抗议；拜登冷漠回应习近平的构想（政论天下第1038集 20230622）天亮时分</a></li>
 <li><a href="/comments/20230623/1899781.md" target="_blank">纪永添：下一场太平洋战争已悄悄展开</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230622/1899527.md" target="_blank">西班牙足球迷突疯买台湾国旗？ 网曝︰为气死买下队伍的中国老板</a></li>
 <li><a href="/comments/20230622/1899516.md" target="_blank">端午节民俗 对应阴阳五行养生之道</a></li>
 <li><a href="/comments/20230622/1899462.md" target="_blank">布习会前后 拜登布林肯大动作的目的</a></li>
-<li><a href="/comments/20230622/1899444.md" target="_blank">端午节诗词大全（39首）</a></li>
-<li><a href="/comments/20230622/1899416.md" target="_blank">拜登喊习近平独裁者，北京气疯！黄子佼YOU TOO运动冲击中共，张高丽朱军刘强东满血复活，吴亦凡气晕</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
 
 </ul>
 </div>
