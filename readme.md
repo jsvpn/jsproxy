@@ -9,7 +9,6 @@
 <li><a href="/topimagenews/20230623/1899816.md">惊人秘密！习视察雄安新区 为什么照片都是在高出地面10余米处拍摄</a></li>
 <li><a href="/cbnews/20230623/1899666.md">李强刚走，德总理发表政府声明…</a></li>
 <li><a href="/cnnews/20230623/1899709.md">泰坦号潜艇碎片被找到 所有成员遇难 死因是…</a></li>
-<li><a href="/topimagenews/20230623/1899661.md">北大有人举标语“废黜一党极权 拥抱多党制度”集/视频</a></li>
 <li><a href="/cnnews/20230623/1899754.md">一触即发！中国银行何时出现连锁式倒闭</a></li>
 <li><a href="/cbnews/20230623/1899737.md">〖兲朝浮世绘〗北大出勇士 又有人挑战中共一党专政了</a></li>
 <li><a href="/topimagenews/20230623/1899948.md">爆料马云信息量很大；中国三四线城市 这或许是最后希望；北京救经济突放“大招”？</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/health/20230623/1899858.md">睡觉时突然腿抽筋，就是缺钙？错！或与3个疾病有关，不要忽视</a></li>
 <li><a href="/worldnews/20230623/1899700.md">6月22日俄乌最新：世界的机遇</a></li>
 <li><a href="/baitai/20230623/1899832.md">李强不敢开国际记者会</a></li>
+<li><a href="/baitai/20230623/1899951.md">傻眼！女模特脱高跟鞋怒砸评委：昨夜说好给我冠军</a></li>
 <li><a href="/cnnews/20230623/1899841.md">老人在ICU住了四年？家属的孝顺却激起网友愤怒</a></li>
 <li><a href="/cnnews/20230623/1899783.md">邻居孙子隔窗露体惹杀机,爸爸护女怒杀对方全家</a></li>
 <li><a href="/sohnews/20230623/1899708.md">疯了！俄军要炸核电站；乌军轰炸南部大动脉，15万俄军或将断粮？莫迪访美敲定史无前例协议，中共为何恐慌？</a></li>
 <li><a href="/health/20230623/1899859.md">拒绝得癌的4条吃饭“铁律” 很多人栽在了第1条上</a></li>
-<li><a href="/baitai/20230623/1899951.md">傻眼！女模特脱高跟鞋怒砸评委：昨夜说好给我冠军</a></li>
+<li><a href="/sohnews/20230623/1899910.md">文睿：跌的太狠了，人民币，或将引爆所有这一切危机</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230624/1900040.md" target="_blank">派亲信试探底线，习近平迫切想回到过去</a></li>
 <li><a href="/topimagenews/20230624/1900007.md" target="_blank">华格纳首脑批俄军高层撒谎 称“俄军正从乌东部和南部撤退”</a></li>
 <li><a href="/topimagenews/20230623/1899979.md" target="_blank">谢金河指中国股市下跌恶梦才刚开始 钱都往这国股市跑了</a></li>
 <li><a href="/topimagenews/20230623/1899948.md" target="_blank">爆料马云信息量很大；中国三四线城市 这或许是最后希望；北京救经济突放“大招”？</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230621/1899174.md" target="_blank">看到这2家死这么快！马云惊吓曝陆1下杀警讯：还没完</a></li>
 <li><a href="/topimagenews/20230621/1899161.md" target="_blank">给李强当头一棒 欧盟最快今天宣布… 中共崛起全面崩盘</a></li>
 <li><a href="/topimagenews/20230621/1899139.md" target="_blank">三四线城市 这或许是最后的希望了</a></li>
-<li><a href="/topimagenews/20230621/1899121.md" target="_blank">中共撒钱拼芯片自主？日媒拆解小米手机惊见1警讯</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230624/1900041.md" target="_blank">刚刚耍完帝王威风，北京就遭华府教训</a></li>
 <li><a href="/comments/20230623/1899933.md" target="_blank">卡尔森推特秀第六集。民主党总统候选人小罗伯特·肯尼迪已经赢了。卡尔森犀利谈敏感话题。</a></li>
 <li><a href="/comments/20230623/1899932.md" target="_blank">大灰人出现了！UFO美国坠毁 巨响 留惊人痕迹！外星人在居民区躲藏 还有沉重呼吸声！最高级别官方证实来了！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230623/1899804.md" target="_blank">卢娜笑到最后，希夫被谴责，将接受调查。达勒姆国会听证，一句话戳到希夫痛处。通俄门起源调查，竟没有传唤FBI最高官员？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230622/1899546.md" target="_blank">搜救观光潜艇“泰坦”进入最后关键时间 预估台湾今晚7时氧气耗尽</a></li>
 <li><a href="/comments/20230622/1899538.md" target="_blank">袁红冰：《回归荒凉》（二）</a></li>
 <li><a href="/comments/20230622/1899533.md" target="_blank">习近平指明中美正确相处之道</a></li>
-<li><a href="/comments/20230622/1899527.md" target="_blank">西班牙足球迷突疯买台湾国旗？ 网曝︰为气死买下队伍的中国老板</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
 <li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
 
 </ul>
 </div>
