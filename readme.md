@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/cnnews/20230622/1899421.md">疯传！局长出轨女下属“全家福” 正牌老公含泪真名举报</a></li>
-<li><a href="/cbnews/20230622/1899363.md">〖兲朝浮世绘〗拜登一不小心就把习帝惹翻了</a></li>
 <li><a href="/topimagenews/20230622/1899474.md">很多人想象不到！中共最头疼的问题是这个【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230622/1899505.md">文宣系内讧 知情人曝央媒官员忙跳船</a></li>
 <li><a href="/headline/20230622/1899499.md">拜登指习近平是独裁 新西兰总理不同意称习近平不是独裁</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/cbnews/20230622/1899415.md">江峰：“习近平独裁者！” 布林肯访华受辱，拜登被激怒呛回； 外交部称其政治挑衅，中美沟通再次短路； 莫迪访美先见马斯克，对照马斯克北京朝拜不得见习近平，两国高低立见。【江峰漫谈20230621第689期】</a></li>
 <li><a href="/yule/20230623/1899684.md">又跑1个 中国女主持人定居美国 呼吁在当地组建高端华人圈</a></li>
 <li><a href="/ssgc/20230622/1899428.md">〖微博谈〗只好任其自然了</a></li>
-<li><a href="/sohnews/20230622/1899572.md">颠覆性方案被爆出，这个瓜非常大，值得思考❗️❗️❗️</a></li>
 <li><a href="/topimagenews/20230623/1899661.md">北大有人举标语“废黜一党极权 拥抱多党制度”集/视频</a></li>
+<li><a href="/sohnews/20230622/1899572.md">颠覆性方案被爆出，这个瓜非常大，值得思考❗️❗️❗️</a></li>
+<li><a href="/cbnews/20230622/1899607.md">遭潜规则未得奖 江苏女性健美参赛者当场脱高跟鞋砸裁判</a></li>
 <li><a href="/baitai/20230622/1899564.md">消息人士曝光 去年底中国集中爆发反常现象</a></li>
 <li><a href="/comments/20230622/1899527.md">西班牙足球迷突疯买台湾国旗？ 网曝︰为气死买下队伍的中国老板</a></li>
-<li><a href="/cbnews/20230622/1899607.md">遭潜规则未得奖 江苏女性健美参赛者当场脱高跟鞋砸裁判</a></li>
 <li><a href="/worldnews/20230622/1899466.md">糖尿病三姐弟全都身亡！趁妈妈外出 暴食糖果冰淇淋 送医不治</a></li>
 <li><a href="/topimagenews/20230622/1899613.md">大陆经济惨吞3重打击 亚洲好兄弟不忍了偷溜？细节流出</a></li>
 <li><a href="/funmedia/20230622/1899398.md">世界上唯一没有中国人的“国家”，无论是谁，只允许停留3个小时</a></li>
 <li><a href="/topimagenews/20230622/1899430.md">中共头疼！热钱跑到“敌人”手上 大咖操盘手惊曝2痛点</a></li>
 <li><a href="/cnnews/20230622/1899510.md">剩“12分钟氧气”惊险获救！前英军50年前海底失联…</a></li>
+<li><a href="/sohnews/20230623/1899651.md">宁夏爆炸案惊动习近平，亡者多因窒息所至；北大惊现反共勇士，吁废除一党制；跟踪美巡航舰，中共遭德警告；端午有多热？北京气温创历史新高；失联泰坦号氧气耗尽，会重复百年前“被诅咒”的命运吗？</a></li>
 <li><a href="/baitai/20230622/1899495.md">目击F-16与UFO缠斗 UFO胜利后竟做这「庆祝动作」</a></li>
+<li><a href="/comments/20230622/1899578.md">文昭：习近平最出糗的事被拜登戳破，这下布林肯北京之行白去了</a></li>
 <li><a href="/topimagenews/20230622/1899606.md">太巧合！失联CEO妻身份曝光 竟与电影泰坦尼克号“凄美一幕”有关</a></li>
-<li><a href="/yule/20230622/1899374.md">十年一遇的大地震！他这是要拉大半个台湾娱乐圈陪葬啊</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230623/1899759.md" target="_blank">震惊：泰坦号失事与泰坦尼克号有毛骨悚然的相似</a></li>
+<li><a href="/topimagenews/20230623/1899758.md" target="_blank">乌导弹击中克里米亚与本土间桥梁 切断俄补给线</a></li>
 <li><a href="/topimagenews/20230623/1899719.md" target="_blank">不惜激怒北京！韩重大战略部署 中俄受到威胁</a></li>
 <li><a href="/topimagenews/20230623/1899661.md" target="_blank">北大有人举标语“废黜一党极权 拥抱多党制度”集/视频</a></li>
 <li><a href="/topimagenews/20230623/1899635.md" target="_blank">富比世独家调查／网红创作者个资存中国 TikTok认了</a></li>
@@ -89,14 +91,14 @@
 <li><a href="/topimagenews/20230621/1898963.md" target="_blank">信息量很大 有关马云和阿里的推特爆料</a></li>
 <li><a href="/topimagenews/20230621/1898953.md" target="_blank">这操作为啥突然在全国遍地开花？</a></li>
 <li><a href="/topimagenews/20230621/1898944.md" target="_blank">巴赫穆特陷阱正在封盖 南线乌军打下关键节点</a></li>
-<li><a href="/topimagenews/20230621/1898928.md" target="_blank">习近平见布林肯 只因经济撑不住了</a></li>
-<li><a href="/topimagenews/20230621/1898855.md" target="_blank">中国豪宅市场见抛售潮 凸显投资信心已失</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230623/1899781.md" target="_blank">纪永添：下一场太平洋战争已悄悄展开</a></li>
+<li><a href="/comments/20230623/1899779.md" target="_blank">吴奕军：中国民间“反战文”下的阶级对抗</a></li>
 <li><a href="/comments/20230623/1899747.md" target="_blank">莫迪访美 印度成为最大的地缘政治受益者</a></li>
 <li><a href="/comments/20230623/1899720.md" target="_blank">中美关系中的“怨妇心态” 【方伟时间-20230622】</a></li>
 <li><a href="/comments/20230623/1899716.md" target="_blank">UFO高级证词！</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230622/1899416.md" target="_blank">拜登喊习近平独裁者，北京气疯！黄子佼YOU TOO运动冲击中共，张高丽朱军刘强东满血复活，吴亦凡气晕</a></li>
 <li><a href="/comments/20230622/1899404.md" target="_blank">为什么“白左”拒绝谈论委内瑞拉</a></li>
 <li><a href="/comments/20230622/1899381.md" target="_blank">王维洛：雄安新区的规划人口规模</a></li>
-<li><a href="/comments/20230622/1899379.md" target="_blank">天亮时分：布林肯刚刚离开北京，中美关系立即开始恶化；莫迪访美，中共心惊；李强发布会，禁止记者提问，行为异常显示权力不稳（政论天下第1037集 20230621）天亮时分</a></li>
-<li><a href="/comments/20230622/1899345.md" target="_blank">刘昭阳：一个中国00后的民主启蒙故事</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 <li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 
 </ul>
 </div>
