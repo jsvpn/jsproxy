@@ -22,9 +22,9 @@
 <li><a href="/topimagenews/20230624/1900240.md">再下一城！瓦格纳占领俄南部军区总部后又控制沃罗涅日军事基地</a></li>
 <li><a href="/sohnews/20230624/1900171.md">“最新爆炸💥新闻！政变部队与俄军交火 直升飞机被击中！”No.07（06/23/23）通往莫斯科交通切断</a></li>
 <li><a href="/topimagenews/20230624/1900298.md">普里戈津回应普京电视讲话：总统“大错特错” 没有人会自首</a></li>
+<li><a href="/cbnews/20230624/1900302.md">瓦格纳已控制第二个城市，普京发表紧急讲话</a></li>
 <li><a href="/sohnews/20230624/1900152.md">突发！美国政府公布新冠溯源情报。初步解读一下</a></li>
 <li><a href="/topimagenews/20230624/1900207.md">特种部队进驻莫斯科 俄罗斯当局促普里格津投降</a></li>
-<li><a href="/cbnews/20230624/1900302.md">瓦格纳已控制第二个城市，普京发表紧急讲话</a></li>
 <li><a href="/cbnews/20230624/1900134.md">继续踩红线 美高票通过法案回击王毅嘴炮</a></li>
 <li><a href="/topimagenews/20230624/1900100.md">电商集体失声，今年的618彻底变了</a></li>
 <li><a href="/sohnews/20230624/1900218.md">“最新发展！瓦格纳与南部司令交谈 否认军事政变！”No.08（06/23/23）坦克 装甲车包围军事指挥总部</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230625/1900409.md" target="_blank">江峰：普尔戈金叛乱 兵临莫斯科城下</a></li>
 <li><a href="/cbnews/20230625/1900394.md" target="_blank">江峰：俄军通讯器材淘宝包邮</a></li>
 <li><a href="/cbnews/20230625/1900393.md" target="_blank">拥抱梅西的18岁球迷获释：被拘留太难受了</a></li>
 <li><a href="/comments/20230625/1900373.md" target="_blank">扑朔迷离！瓦戈纳军队暂停前进莫斯科？局势如何演变？习近平在想什么？｜唐靖远 李沐阳 杰森 方菲</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/cbnews/20230623/1899949.md" target="_blank">湘女生6女还被要求须追儿 诉离遭驳网炸锅</a></li>
 <li><a href="/cbnews/20230623/1899947.md" target="_blank">江峰：印度如何全面取代中国成世界工厂</a></li>
 <li><a href="/comments/20230623/1899933.md" target="_blank">卡尔森推特秀第六集。民主党总统候选人小罗伯特·肯尼迪已经赢了。卡尔森犀利谈敏感话题。</a></li>
-<li><a href="/comments/20230623/1899932.md" target="_blank">大灰人出现了！UFO美国坠毁 巨响 留惊人痕迹！外星人在居民区躲藏 还有沉重呼吸声！最高级别官方证实来了！｜ #未解之谜 扶摇</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230625/1900406.md" target="_blank">热搜第一！俄罗斯爆发内乱 中国网友沸腾了</a></li>
+<li><a href="/topimagenews/20230625/1900405.md" target="_blank">普京的电视讲话：很不吉利、很可怜</a></li>
 <li><a href="/topimagenews/20230625/1900389.md" target="_blank">突发！普里戈津：同意停止在俄武装行动</a></li>
 <li><a href="/topimagenews/20230625/1900372.md" target="_blank">这段话吓坏中南海！瓦格纳政变竟然是一盘大棋？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230625/1900364.md" target="_blank">让中共胆寒惊人一幕 俄国人淡定围观瓦格纳士兵 还表达谢意集</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20230623/1899979.md" target="_blank">谢金河指中国股市下跌恶梦才刚开始 钱都往这国股市跑了</a></li>
 <li><a href="/topimagenews/20230623/1899948.md" target="_blank">爆料马云信息量很大；中国三四线城市 这或许是最后希望；北京救经济突放“大招”？</a></li>
 <li><a href="/topimagenews/20230623/1899901.md" target="_blank">马云找“台湾囝仔”救火 谢金河6字曝可能结局</a></li>
-<li><a href="/topimagenews/20230623/1899870.md" target="_blank">网友惊《辛普森家庭》神预言泰坦号 编剧回应</a></li>
-<li><a href="/topimagenews/20230623/1899816.md" target="_blank">惊人秘密！习视察雄安新区 为什么照片都是在高出地面10余米处拍摄</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 <li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
 
 </ul>
 </div>
