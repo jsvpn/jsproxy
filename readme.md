@@ -17,14 +17,14 @@
 <li><a href="/comments/20230623/1899932.md">大灰人出现了！UFO美国坠毁 巨响 留惊人痕迹！外星人在居民区躲藏 还有沉重呼吸声！最高级别官方证实来了！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230624/1900099.md">文昭：爆款消息：美军航母在南海险被中国空军击沉！事件还原；习近平有多容易上当？</a></li>
 <li><a href="/cnnews/20230624/1900054.md">28岁女子惨遭狼群秃鹫分食，独闯可可西里无人区</a></li>
-<li><a href="/comments/20230624/1900085.md">中南海权力受挑战 北京连爆多起反共事件</a></li>
 <li><a href="/topimagenews/20230624/1900215.md">点名俄国防部长来谈判！瓦格纳佣兵首脑称：已占领俄军基地…</a></li>
+<li><a href="/comments/20230624/1900085.md">中南海权力受挑战 北京连爆多起反共事件</a></li>
 <li><a href="/cbnews/20230624/1900168.md">〖兲朝浮世绘〗世界即将再次见证一个重大的历史进程</a></li>
 <li><a href="/topimagenews/20230623/1899979.md">谢金河指中国股市下跌恶梦才刚开始 钱都往这国股市跑了</a></li>
 <li><a href="/sohnews/20230624/1900171.md">“最新爆炸💥新闻！政变部队与俄军交火 直升飞机被击中！”No.07（06/23/23）通往莫斯科交通切断</a></li>
 <li><a href="/topimagenews/20230624/1900145.md">华男回国被判死刑！中共领事馆警告一事双标</a></li>
-<li><a href="/cbnews/20230624/1900134.md">继续踩红线 美高票通过法案回击王毅嘴炮</a></li>
 <li><a href="/cbnews/20230623/1899969.md">银川烧烤店爆炸伤亡惨重 楼上数个KTV密闭包厢无人生还</a></li>
+<li><a href="/cbnews/20230624/1900134.md">继续踩红线 美高票通过法案回击王毅嘴炮</a></li>
 <li><a href="/topimagenews/20230624/1900207.md">特种部队进驻莫斯科 俄罗斯当局促普里格津投降</a></li>
 <li><a href="/topimagenews/20230624/1900100.md">电商集体失声，今年的618彻底变了</a></li>
 <li><a href="/sohnews/20230624/1900112.md">传监管局干部惊现“换妻”，都是体制内？新疆棉花被翻出，快时尚巨头难摆脱中共；断电断水迫害升级，人权律师出路何在？热！中暑警报拉响，中国高温创极值；大连一家六口深夜被害，原因竟是...</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230624/1900283.md" target="_blank">瓦格纳军哗变 掉转枪口对准莫斯科</a></li>
 <li><a href="/comments/20230624/1900232.md" target="_blank">外星人出现了？！</a></li>
 <li><a href="/cbnews/20230624/1900169.md" target="_blank">江峰：突发！俄罗斯内乱开始，俄军导弹偷袭瓦格纳，普里戈金发兵进攻莫斯科， 安全军队轰炸叛军，克里姆林宫进入「堡垒计画」最高警戒模式【江峰·视界·军事20230623第16期】</a></li>
 <li><a href="/cbnews/20230624/1900168.md" target="_blank">〖兲朝浮世绘〗世界即将再次见证一个重大的历史进程</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230623/1899712.md" target="_blank">韩秀｜我的新疆岁月(上)：10年消灭千年胡杨林，10万知青沦为工具；骑马冲入火海救人，中共为“防疫”封村火烧； 新疆“灭绝式”的生活</a></li>
 <li><a href="/cbnews/20230623/1899666.md" target="_blank">李强刚走，德总理发表政府声明…</a></li>
 <li><a href="/cbnews/20230623/1899665.md" target="_blank">制裁威胁能否阻止中共入侵台湾？说不准</a></li>
-<li><a href="/cbnews/20230623/1899664.md" target="_blank">加国情报机关公布中共渗透手段 提防国民小心</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230624/1900283.md" target="_blank">瓦格纳军哗变 掉转枪口对准莫斯科</a></li>
+<li><a href="/comments/20230624/1900282.md" target="_blank">天亮时分：瓦格纳军哗变 掉转枪口对准莫斯科 | 时政博主江峰、章天亮、唐靖远、方伟与您共同关注俄乌战事最新动态</a></li>
 <li><a href="/comments/20230624/1900263.md" target="_blank">罗翔教授昨天引起轰动的一篇毕业致辞</a></li>
 <li><a href="/comments/20230624/1900244.md" target="_blank">曾新：公司化是现代民主运动组织的最优之路</a></li>
 <li><a href="/comments/20230624/1900232.md" target="_blank">外星人出现了？！</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230624/1900076.md" target="_blank">谢田：中国经济难救 或负债倒退二十年</a></li>
 <li><a href="/comments/20230624/1900075.md" target="_blank">网海拾贝:布林肯访华，中共得了面子，美国得了里子</a></li>
 <li><a href="/comments/20230624/1900074.md" target="_blank">袁斌：拜登称习近平是独裁者，中共为何恼羞成怒？</a></li>
-<li><a href="/comments/20230624/1900073.md" target="_blank">王赫：莫迪访美与中美印俄四角关系走向</a></li>
-<li><a href="/comments/20230624/1900041.md" target="_blank">刚刚耍完帝王威风，北京就遭华府教训</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 <li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
 
 </ul>
 </div>
