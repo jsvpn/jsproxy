@@ -10,18 +10,18 @@
 <li><a href="/comments/20230624/1900041.md">刚刚耍完帝王威风，北京就遭华府教训</a></li>
 <li><a href="/topimagenews/20230624/1900101.md">房价下降，开始比狠了</a></li>
 <li><a href="/topimagenews/20230624/1900256.md">佣兵首脑要求俄军交出俄防长：俄参谋总长落跑 瓦格纳将追捕…</a></li>
-<li><a href="/comments/20230624/1900099.md">文昭：爆款消息：美军航母在南海险被中国空军击沉！事件还原；习近平有多容易上当？</a></li>
 <li><a href="/comments/20230624/1900085.md">中南海权力受挑战 北京连爆多起反共事件</a></li>
+<li><a href="/comments/20230624/1900099.md">文昭：爆款消息：美军航母在南海险被中国空军击沉！事件还原；习近平有多容易上当？</a></li>
 <li><a href="/cbnews/20230624/1900168.md">〖兲朝浮世绘〗世界即将再次见证一个重大的历史进程</a></li>
-<li><a href="/headline/20230624/1900254.md">瓦格纳叛乱造反 中国热搜第一网上说啥？</a></li>
-<li><a href="/cnnews/20230624/1900054.md">28岁女子惨遭狼群秃鹫分食，独闯可可西里无人区</a></li>
 <li><a href="/topimagenews/20230624/1900071.md">北京震怒！英国重振帝国雄风【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230624/1900054.md">28岁女子惨遭狼群秃鹫分食，独闯可可西里无人区</a></li>
+<li><a href="/headline/20230624/1900254.md">瓦格纳叛乱造反 中国热搜第一网上说啥？</a></li>
 <li><a href="/cbnews/20230624/1900169.md">江峰：突发！俄罗斯内乱开始，俄军导弹偷袭瓦格纳，普里戈金发兵进攻莫斯科， 安全军队轰炸叛军，克里姆林宫进入「堡垒计画」最高警戒模式【江峰·视界·军事20230623第16期】</a></li>
 <li><a href="/topimagenews/20230624/1900215.md">点名俄国防部长来谈判！瓦格纳佣兵首脑称：已占领俄军基地…</a></li>
-<li><a href="/topimagenews/20230624/1900249.md">瓦格纳武装叛变 “普京好朋友”最先接获俄罗斯局势通知</a></li>
 <li><a href="/topimagenews/20230624/1900305.md">英国防部：瓦格纳挺进莫斯科 普里戈津：我们25,000人已做好赴死准备</a></li>
-<li><a href="/cnnews/20230624/1900260.md">辽宁钢铁厂爆炸没那么简单 知情人透露更多细节</a></li>
+<li><a href="/topimagenews/20230624/1900249.md">瓦格纳武装叛变 “普京好朋友”最先接获俄罗斯局势通知</a></li>
 <li><a href="/topimagenews/20230624/1900228.md">美媒：中国经济现四十年来罕见全面疲软状态</a></li>
+<li><a href="/cnnews/20230624/1900260.md">辽宁钢铁厂爆炸没那么简单 知情人透露更多细节</a></li>
 <li><a href="/topimagenews/20230624/1900145.md">华男回国被判死刑！中共领事馆警告一事双标</a></li>
 <li><a href="/topimagenews/20230624/1900240.md">再下一城！瓦格纳占领俄南部军区总部后又控制沃罗涅日军事基地</a></li>
 <li><a href="/sohnews/20230624/1900171.md">“最新爆炸💥新闻！政变部队与俄军交火 直升飞机被击中！”No.07（06/23/23）通往莫斯科交通切断</a></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230625/1900379.md" target="_blank">俄局势紧张！ G7紧急召开电话会议 布林肯：对乌克兰支持立场不变</a></li>
+<li><a href="/comments/20230625/1900378.md" target="_blank">瓦格纳杀过来了！榴弹发射器、装甲运兵车坐镇莫斯科要道</a></li>
+<li><a href="/comments/20230625/1900377.md" target="_blank">瓦格纳造反 普京定调武装叛乱下令镇压</a></li>
 <li><a href="/comments/20230625/1900373.md" target="_blank">扑朔迷离！瓦戈纳军队暂停前进莫斯科？局势如何演变？习近平在想什么？｜唐靖远 李沐阳 杰森 方菲</a></li>
 <li><a href="/comments/20230624/1900343.md" target="_blank">天亮时分：战况更新：普京出逃叛军距莫斯科不到400公里；谁是习近平身边的普里戈津？ （政论天下第1040集 20230624）</a></li>
 <li><a href="/comments/20230624/1900327.md" target="_blank">俄军拦截往莫斯科瓦格纳部队 双方激战沃罗涅日州</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230624/1900123.md" target="_blank">沉雁评乌战：好心当作了驴肝肺</a></li>
 <li><a href="/comments/20230624/1900122.md" target="_blank">王文胜:中国一连串的“无俚头向民众抢钱”</a></li>
 <li><a href="/comments/20230624/1900115.md" target="_blank">国税局举报人冒死曝猛料，亨特抬出副总统老爹，威胁中共特工董事长付钱。两任司法部长和联邦检察官现形。</a></li>
-<li><a href="/comments/20230624/1900099.md" target="_blank">文昭：爆款消息：美军航母在南海险被中国空军击沉！事件还原；习近平有多容易上当？</a></li>
-<li><a href="/comments/20230624/1900085.md" target="_blank">中南海权力受挑战 北京连爆多起反共事件</a></li>
-<li><a href="/comments/20230624/1900084.md" target="_blank">【美食天堂】米纸紫薯麻糬 Q弹美味 超级简单</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
 <li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 
 </ul>
 </div>
