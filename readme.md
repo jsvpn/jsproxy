@@ -6,8 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230624/1900170.md">莫斯科慌了！瓦格纳佣兵攻进俄军总部…</a></li>
-<li><a href="/topimagenews/20230624/1900101.md">房价下降，开始比狠了</a></li>
-<li><a href="/comments/20230624/1900099.md">文昭：爆款消息：美军航母在南海险被中国空军击沉！事件还原；习近平有多容易上当？</a></li>
 <li><a href="/topimagenews/20230624/1900256.md">佣兵首脑要求俄军交出俄防长：俄参谋总长落跑 瓦格纳将追捕…</a></li>
 <li><a href="/cbnews/20230624/1900168.md">〖兲朝浮世绘〗世界即将再次见证一个重大的历史进程</a></li>
 <li><a href="/headline/20230624/1900254.md">瓦格纳叛乱造反 中国热搜第一网上说啥？</a></li>
@@ -20,13 +18,15 @@
 <li><a href="/topimagenews/20230624/1900145.md">华男回国被判死刑！中共领事馆警告一事双标</a></li>
 <li><a href="/topimagenews/20230624/1900240.md">再下一城！瓦格纳占领俄南部军区总部后又控制沃罗涅日军事基地</a></li>
 <li><a href="/sohnews/20230624/1900171.md">“最新爆炸💥新闻！政变部队与俄军交火 直升飞机被击中！”No.07（06/23/23）通往莫斯科交通切断</a></li>
-<li><a href="/sohnews/20230624/1900152.md">突发！美国政府公布新冠溯源情报。初步解读一下</a></li>
 <li><a href="/topimagenews/20230624/1900298.md">普里戈津回应普京电视讲话：总统“大错特错” 没有人会自首</a></li>
+<li><a href="/sohnews/20230624/1900152.md">突发！美国政府公布新冠溯源情报。初步解读一下</a></li>
 <li><a href="/topimagenews/20230624/1900207.md">特种部队进驻莫斯科 俄罗斯当局促普里格津投降</a></li>
 <li><a href="/cbnews/20230624/1900302.md">瓦格纳已控制第二个城市，普京发表紧急讲话</a></li>
-<li><a href="/cbnews/20230624/1900134.md">继续踩红线 美高票通过法案回击王毅嘴炮</a></li>
 <li><a href="/ccpdope/20230624/1900341.md">瓦格纳兵变震动中南海 习近平惴惴不安</a></li>
-<li><a href="/topimagenews/20230624/1900100.md">电商集体失声，今年的618彻底变了</a></li>
+<li><a href="/cbnews/20230624/1900134.md">继续踩红线 美高票通过法案回击王毅嘴炮</a></li>
+<li><a href="/cbnews/20230625/1900352.md">江峰：重磅消息！！！普京逃离莫斯科，抵达避难堡垒後飞机失去踪影；昔日盟友拒绝帮助，称是俄国内政，谁能收留普京？瓦格纳最新消息：距离莫斯科仅80公里！【江峰·视界·军事20230624第17集】</a></li>
+<li><a href="/topimagenews/20230625/1900372.md">这段话吓坏中南海！瓦格纳政变竟然是一盘大棋？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230625/1900389.md">突发！普里戈津：同意停止在俄武装行动</a></li>
 <li><a href="/sohnews/20230624/1900218.md">“最新发展！瓦格纳与南部司令交谈 否认军事政变！”No.08（06/23/23）坦克 装甲车包围军事指挥总部</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230625/1900433.md" target="_blank">和外星人对视！</a></li>
+<li><a href="/comments/20230625/1900430.md" target="_blank">闫丽梦博士解读：最新情报解密出来了，真的那么让人失望吗？完整视频请移步干净世界</a></li>
 <li><a href="/cbnews/20230625/1900414.md" target="_blank">江峰：普京已出逃，行踪成谜，盟友拒绝援助</a></li>
 <li><a href="/cbnews/20230625/1900409.md" target="_blank">江峰：普尔戈金叛乱 兵临莫斯科城下</a></li>
 <li><a href="/cbnews/20230625/1900394.md" target="_blank">江峰：俄军通讯器材淘宝包邮</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230624/1900049.md" target="_blank">游客“一脚断颈”杀网红斑头雁 公园行凶反呛</a></li>
 <li><a href="/cbnews/20230623/1899976.md" target="_blank">大纪元纪录片揭美青少年变性运动之黑幕</a></li>
 <li><a href="/cbnews/20230623/1899969.md" target="_blank">银川烧烤店爆炸伤亡惨重 楼上数个KTV密闭包厢无人生还</a></li>
-<li><a href="/cbnews/20230623/1899949.md" target="_blank">湘女生6女还被要求须追儿 诉离遭驳网炸锅</a></li>
-<li><a href="/cbnews/20230623/1899947.md" target="_blank">江峰：印度如何全面取代中国成世界工厂</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230625/1900433.md" target="_blank">和外星人对视！</a></li>
+<li><a href="/comments/20230625/1900430.md" target="_blank">闫丽梦博士解读：最新情报解密出来了，真的那么让人失望吗？完整视频请移步干净世界</a></li>
+<li><a href="/comments/20230625/1900427.md" target="_blank">网海拾贝:美中竞争本质是民主与独裁的竞争</a></li>
+<li><a href="/comments/20230625/1900426.md" target="_blank">岳山：普京亲信兵变震动中南海？</a></li>
+<li><a href="/comments/20230625/1900425.md" target="_blank">袁斌：拜登为何直呼习近平为独裁者？</a></li>
+<li><a href="/comments/20230625/1900424.md" target="_blank">观雨堂主：谈摄影</a></li>
+<li><a href="/comments/20230625/1900423.md" target="_blank">周晓辉：中共大校藐视印度 透视共军无知愚蠢</a></li>
 <li><a href="/comments/20230625/1900410.md" target="_blank">文昭：火急加播：有诈？瓦格纳进军莫斯科又突然反转！局势有几种发展的可能</a></li>
 <li><a href="/comments/20230625/1900399.md" target="_blank">【独家重磅】李燕铭：中共军方六大异常状况 暗潮汹涌细思极恐 军中政变反习内幕揭秘 习近平秘密查处十名高级将领 江泽民军中心腹太子党刘亚洲案内情曝光 中共军委与军报释放新一轮大清洗信号 习强化军权内防政变对外备战（36） 习近平连任与中共末日（134） 中南海政变与反政变（79）</a></li>
 <li><a href="/comments/20230625/1900397.md" target="_blank">普京发出绝望哀鸣 瓦格纳称俄将有新总统</a></li>
@@ -115,13 +122,6 @@
 <li><a href="/comments/20230624/1900263.md" target="_blank">罗翔教授昨天引起轰动的一篇毕业致辞</a></li>
 <li><a href="/comments/20230624/1900244.md" target="_blank">曾新：公司化是现代民主运动组织的最优之路</a></li>
 <li><a href="/comments/20230624/1900232.md" target="_blank">外星人出现了？！</a></li>
-<li><a href="/comments/20230624/1900192.md" target="_blank">韭菜被镰刀服务？清华教授感恩</a></li>
-<li><a href="/comments/20230624/1900182.md" target="_blank">小伙戴绿帽举报主任，居然当着孩子面…</a></li>
-<li><a href="/comments/20230624/1900165.md" target="_blank">送青人：领导一句话，下面的人到哪说理去？</a></li>
-<li><a href="/comments/20230624/1900164.md" target="_blank">敏敏郡主：那些正在“烂尾”的新闻</a></li>
-<li><a href="/comments/20230624/1900163.md" target="_blank">404文：叶敬忠：在权力的包围中不要熄灭真善美的光</a></li>
-<li><a href="/comments/20230624/1900147.md" target="_blank">译丛：台湾的命运并不取决于在乌克兰打败俄罗斯</a></li>
-<li><a href="/comments/20230624/1900144.md" target="_blank">天亮时分：“俄版安禄山”普里戈津反了，莫斯科高度警戒；美印向习近平展示什么叫“合作无上限”；马斯克要跟扎克伯格笼中决斗（政论天下第1039集 20230623）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 <li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
 
 </ul>
 </div>
