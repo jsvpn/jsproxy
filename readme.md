@@ -8,7 +8,6 @@
 <li><a href="/topimagenews/20230624/1900256.md">佣兵首脑要求俄军交出俄防长：俄参谋总长落跑 瓦格纳将追捕…</a></li>
 <li><a href="/headline/20230624/1900254.md">瓦格纳叛乱造反 中国热搜第一网上说啥？</a></li>
 <li><a href="/cnnews/20230624/1900260.md">辽宁钢铁厂爆炸没那么简单 知情人透露更多细节</a></li>
-<li><a href="/topimagenews/20230624/1900228.md">美媒：中国经济现四十年来罕见全面疲软状态</a></li>
 <li><a href="/topimagenews/20230624/1900305.md">英国防部：瓦格纳挺进莫斯科 普里戈津：我们25,000人已做好赴死准备</a></li>
 <li><a href="/topimagenews/20230624/1900249.md">瓦格纳武装叛变 “普京好朋友”最先接获俄罗斯局势通知</a></li>
 <li><a href="/topimagenews/20230625/1900389.md">突发！普里戈津：同意停止在俄武装行动</a></li>
@@ -18,8 +17,8 @@
 <li><a href="/topimagenews/20230625/1900416.md">清君侧！中共高层潜在的恐惧</a></li>
 <li><a href="/sohnews/20230625/1900422.md">“双普协议”浮出，普里戈津空手而归，诡异内容隐藏了什么？从“董卓”到“宋江”，瓦格纳招安会被秋后算账吗？</a></li>
 <li><a href="/topimagenews/20230624/1900240.md">再下一城！瓦格纳占领俄南部军区总部后又控制沃罗涅日军事基地</a></li>
-<li><a href="/topimagenews/20230624/1900298.md">普里戈津回应普京电视讲话：总统“大错特错” 没有人会自首</a></li>
 <li><a href="/topimagenews/20230625/1900406.md">热搜第一！俄罗斯爆发内乱 中国网友沸腾了</a></li>
+<li><a href="/topimagenews/20230624/1900298.md">普里戈津回应普京电视讲话：总统“大错特错” 没有人会自首</a></li>
 <li><a href="/cbnews/20230625/1900352.md">江峰：重磅消息！！！普京逃离莫斯科，抵达避难堡垒後飞机失去踪影；昔日盟友拒绝帮助，称是俄国内政，谁能收留普京？瓦格纳最新消息：距离莫斯科仅80公里！【江峰·视界·军事20230624第17集】</a></li>
 <li><a href="/cbnews/20230624/1900302.md">瓦格纳已控制第二个城市，普京发表紧急讲话</a></li>
 <li><a href="/topimagenews/20230625/1900364.md">让中共胆寒惊人一幕 俄国人淡定围观瓦格纳士兵 还表达谢意集</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20230625/1900405.md">普京的电视讲话：很不吉利、很可怜</a></li>
 <li><a href="/comments/20230625/1900410.md">文昭：火急加播：有诈？瓦格纳进军莫斯科又突然反转！局势有几种发展的可能</a></li>
 <li><a href="/comments/20230624/1900263.md">罗翔教授昨天引起轰动的一篇毕业致辞</a></li>
+<li><a href="/topimagenews/20230625/1900513.md">【微博精粹】一觉醒来 就要见证历史了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
 <li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 
 </ul>
 </div>
