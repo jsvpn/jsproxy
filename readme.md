@@ -14,18 +14,18 @@
 <li><a href="/topimagenews/20230624/1900249.md">瓦格纳武装叛变 “普京好朋友”最先接获俄罗斯局势通知</a></li>
 <li><a href="/topimagenews/20230624/1900215.md">点名俄国防部长来谈判！瓦格纳佣兵首脑称：已占领俄军基地…</a></li>
 <li><a href="/topimagenews/20230625/1900372.md">这段话吓坏中南海！瓦格纳政变竟然是一盘大棋？【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230624/1900152.md">突发！美国政府公布新冠溯源情报。初步解读一下</a></li>
 <li><a href="/ccpdope/20230624/1900341.md">瓦格纳兵变震动中南海 习近平惴惴不安</a></li>
+<li><a href="/sohnews/20230624/1900152.md">突发！美国政府公布新冠溯源情报。初步解读一下</a></li>
 <li><a href="/topimagenews/20230624/1900240.md">再下一城！瓦格纳占领俄南部军区总部后又控制沃罗涅日军事基地</a></li>
-<li><a href="/topimagenews/20230624/1900298.md">普里戈津回应普京电视讲话：总统“大错特错” 没有人会自首</a></li>
 <li><a href="/topimagenews/20230625/1900416.md">清君侧！中共高层潜在的恐惧</a></li>
-<li><a href="/cbnews/20230624/1900302.md">瓦格纳已控制第二个城市，普京发表紧急讲话</a></li>
-<li><a href="/topimagenews/20230624/1900207.md">特种部队进驻莫斯科 俄罗斯当局促普里格津投降</a></li>
-<li><a href="/cbnews/20230625/1900352.md">江峰：重磅消息！！！普京逃离莫斯科，抵达避难堡垒後飞机失去踪影；昔日盟友拒绝帮助，称是俄国内政，谁能收留普京？瓦格纳最新消息：距离莫斯科仅80公里！【江峰·视界·军事20230624第17集】</a></li>
-<li><a href="/topimagenews/20230625/1900406.md">热搜第一！俄罗斯爆发内乱 中国网友沸腾了</a></li>
+<li><a href="/topimagenews/20230624/1900298.md">普里戈津回应普京电视讲话：总统“大错特错” 没有人会自首</a></li>
 <li><a href="/sohnews/20230625/1900422.md">“双普协议”浮出，普里戈津空手而归，诡异内容隐藏了什么？从“董卓”到“宋江”，瓦格纳招安会被秋后算账吗？</a></li>
+<li><a href="/topimagenews/20230625/1900406.md">热搜第一！俄罗斯爆发内乱 中国网友沸腾了</a></li>
+<li><a href="/cbnews/20230624/1900302.md">瓦格纳已控制第二个城市，普京发表紧急讲话</a></li>
+<li><a href="/cbnews/20230625/1900352.md">江峰：重磅消息！！！普京逃离莫斯科，抵达避难堡垒後飞机失去踪影；昔日盟友拒绝帮助，称是俄国内政，谁能收留普京？瓦格纳最新消息：距离莫斯科仅80公里！【江峰·视界·军事20230624第17集】</a></li>
 <li><a href="/topimagenews/20230625/1900364.md">让中共胆寒惊人一幕 俄国人淡定围观瓦格纳士兵 还表达谢意集</a></li>
 <li><a href="/comments/20230625/1900373.md">扑朔迷离！瓦戈纳军队暂停前进莫斯科？局势如何演变？习近平在想什么？｜唐靖远 李沐阳 杰森 方菲</a></li>
+<li><a href="/topimagenews/20230625/1900405.md">普京的电视讲话：很不吉利、很可怜</a></li>
 <li><a href="/sohnews/20230624/1900218.md">“最新发展！瓦格纳与南部司令交谈 否认军事政变！”No.08（06/23/23）坦克 装甲车包围军事指挥总部</a></li>
 <li><a href="/comments/20230624/1900263.md">罗翔教授昨天引起轰动的一篇毕业致辞</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230625/1900549.md" target="_blank">女权斗着斗着，把女厕所给斗没了</a></li>
+<li><a href="/comments/20230625/1900548.md" target="_blank">白牧齐：警惕祖大寿</a></li>
+<li><a href="/comments/20230625/1900547.md" target="_blank">烧鹅还得是厨子</a></li>
 <li><a href="/comments/20230625/1900527.md" target="_blank">天亮时分：普里戈津突然撤退，一场政变戏剧性结束？谁在憋大招儿？几大诡异现象待解；普京硬汉形象崩塌，俄乌战争将进入新阶段（YouTube会员节目第23集 20230624）</a></li>
 <li><a href="/comments/20230625/1900522.md" target="_blank">普京的叙事难题</a></li>
 <li><a href="/comments/20230625/1900521.md" target="_blank">敏感词库：清君侧</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230625/1900425.md" target="_blank">袁斌：拜登为何直呼习近平为独裁者？</a></li>
 <li><a href="/comments/20230625/1900424.md" target="_blank">观雨堂主：谈摄影</a></li>
 <li><a href="/comments/20230625/1900423.md" target="_blank">周晓辉：中共大校藐视印度 透视共军无知愚蠢</a></li>
-<li><a href="/comments/20230625/1900410.md" target="_blank">文昭：火急加播：有诈？瓦格纳进军莫斯科又突然反转！局势有几种发展的可能</a></li>
-<li><a href="/comments/20230625/1900399.md" target="_blank">【独家重磅】李燕铭：中共军方六大异常状况 暗潮汹涌细思极恐 军中政变反习内幕揭秘 习近平秘密查处十名高级将领 江泽民军中心腹太子党刘亚洲案内情曝光 中共军委与军报释放新一轮大清洗信号 习强化军权内防政变对外备战（36） 习近平连任与中共末日（134） 中南海政变与反政变（79）</a></li>
-<li><a href="/comments/20230625/1900397.md" target="_blank">普京发出绝望哀鸣 瓦格纳称俄将有新总统</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
 <li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
 
 </ul>
 </div>
