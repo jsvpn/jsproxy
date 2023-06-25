@@ -6,17 +6,16 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230625/1900372.md">这段话吓坏中南海！瓦格纳政变竟然是一盘大棋？【阿波罗网报道】</a></li>
-<li><a href="/ccpdope/20230624/1900341.md">瓦格纳兵变震动中南海 习近平惴惴不安</a></li>
 <li><a href="/topimagenews/20230625/1900389.md">突发！普里戈津：同意停止在俄武装行动</a></li>
 <li><a href="/topimagenews/20230625/1900416.md">清君侧！中共高层潜在的恐惧</a></li>
 <li><a href="/sohnews/20230625/1900422.md">“双普协议”浮出，普里戈津空手而归，诡异内容隐藏了什么？从“董卓”到“宋江”，瓦格纳招安会被秋后算账吗？</a></li>
 <li><a href="/topimagenews/20230625/1900406.md">热搜第一！俄罗斯爆发内乱 中国网友沸腾了</a></li>
 <li><a href="/cbnews/20230625/1900352.md">江峰：重磅消息！！！普京逃离莫斯科，抵达避难堡垒後飞机失去踪影；昔日盟友拒绝帮助，称是俄国内政，谁能收留普京？瓦格纳最新消息：距离莫斯科仅80公里！【江峰·视界·军事20230624第17集】</a></li>
 <li><a href="/topimagenews/20230625/1900595.md">俄罗斯政变冲击下，中共又开始喊“惊涛骇浪”了！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230625/1900364.md">让中共胆寒惊人一幕 俄国人淡定围观瓦格纳士兵 还表达谢意集</a></li>
-<li><a href="/topimagenews/20230625/1900572.md">被“逼宫”！普京生涯最大耻辱：被迫城下之盟放走大厨</a></li>
 <li><a href="/topimagenews/20230625/1900513.md">【微博精粹】一觉醒来 就要见证历史了</a></li>
+<li><a href="/topimagenews/20230625/1900364.md">让中共胆寒惊人一幕 俄国人淡定围观瓦格纳士兵 还表达谢意集</a></li>
 <li><a href="/sohnews/20230625/1900431.md">俄罗斯“起义军”突然偃旗息鼓，领导人前往白俄；俄军内部兵变，泽伦斯基：俄军应该回家了；普京权力动摇，怪兽养成却遭反噬；谁是此次反叛军？普京厨子的逆袭人生！</a></li>
+<li><a href="/topimagenews/20230625/1900572.md">被“逼宫”！普京生涯最大耻辱：被迫城下之盟放走大厨</a></li>
 <li><a href="/cbnews/20230625/1900529.md">好一场虎头蛇尾的兵变!分析:最大作用是彻底摧毁普京</a></li>
 <li><a href="/topimagenews/20230625/1900528.md">普里戈津命运如何？普京不会放过他！泽伦斯基顾问警告</a></li>
 <li><a href="/comments/20230625/1900373.md">扑朔迷离！瓦戈纳军队暂停前进莫斯科？局势如何演变？习近平在想什么？｜唐靖远 李沐阳 杰森 方菲</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/sohnews/20230625/1900475.md">兵变平息？普里戈津要逃亡？下一步将发生什么？北京醒了吗？【新闻看点 李沐阳6.24】</a></li>
 <li><a href="/worldnews/20230625/1900581.md">瓦格纳兵变急刹车 美CIA前主管分析：还没结束</a></li>
 <li><a href="/cbnews/20230625/1900463.md">新娘婚礼被压倒地上“叠罗汉、伸咸猪手”！网气炸：新郎去哪了</a></li>
+<li><a href="/ssgc/20230625/1900496.md">〖微博谈〗现代独裁者最重要的特点是“又狠又怂”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
 
 </ul>
 </div>
