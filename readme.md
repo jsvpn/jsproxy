@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20230625/1900572.md">被“逼宫”！普京生涯最大耻辱：被迫城下之盟放走大厨</a></li>
 <li><a href="/cnnews/20230625/1900582.md">重要协定即将到期！中美有这样一份鲜为人知的协议</a></li>
 <li><a href="/topimagenews/20230625/1900528.md">普里戈津命运如何？普京不会放过他！泽伦斯基顾问警告</a></li>
-<li><a href="/comments/20230625/1900630.md">俄罗斯兵变，雷声大雨点小。普里戈津与普京演双簧？揭秘瓦格纳雇佣兵的起家、与普京的关系，以及叛乱前后。</a></li>
 <li><a href="/headline/20230625/1900643.md">瓦格纳兵变流产俄罗斯高官即飞北京引关注</a></li>
+<li><a href="/comments/20230625/1900630.md">俄罗斯兵变，雷声大雨点小。普里戈津与普京演双簧？揭秘瓦格纳雇佣兵的起家、与普京的关系，以及叛乱前后。</a></li>
+<li><a href="/comments/20230625/1900642.md">普京与普里戈津彻底撕破脸，共军高级将领反武统被处决事件翻出，统一宣传遇中指革命！习近平怀疑中国人也造反</a></li>
 <li><a href="/sohnews/20230626/1900702.md">“普京被政变未遂后！习近平的心腹大患：王沪宁 王小洪 张又侠”《今日点击》（06/25/23）</a></li>
 <li><a href="/worldnews/20230625/1900581.md">瓦格纳兵变急刹车 美CIA前主管分析：还没结束</a></li>
-<li><a href="/comments/20230625/1900642.md">普京与普里戈津彻底撕破脸，共军高级将领反武统被处决事件翻出，统一宣传遇中指革命！习近平怀疑中国人也造反</a></li>
+<li><a href="/sohnews/20230626/1900708.md">““俄罗斯不久将有新总统！” ‘普京厨师’此话一出 3小时后：瓦格纳撤兵！”No.01（06/25/23）铲除最亲密朋友 为此一招儿！</a></li>
 <li><a href="/sohnews/20230625/1900475.md">兵变平息？普里戈津要逃亡？下一步将发生什么？北京醒了吗？【新闻看点 李沐阳6.24】</a></li>
 <li><a href="/cbnews/20230625/1900463.md">新娘婚礼被压倒地上“叠罗汉、伸咸猪手”！网气炸：新郎去哪了</a></li>
-<li><a href="/sohnews/20230626/1900708.md">““俄罗斯不久将有新总统！” ‘普京厨师’此话一出 3小时后：瓦格纳撤兵！”No.01（06/25/23）铲除最亲密朋友 为此一招儿！</a></li>
 <li><a href="/topimagenews/20230625/1900644.md">普丁差点垮台 瓦格纳却退缩撤军 乌克兰批为德不卒</a></li>
 <li><a href="/ssgc/20230625/1900496.md">〖微博谈〗现代独裁者最重要的特点是“又狠又怂”</a></li>
+<li><a href="/comments/20230626/1900709.md">李燕铭：李克强团派团中央高层被一锅端仅一人留任 蔡奇陈希安插闽江新军接掌团中央 新任团中央第一书记阿东政治背景揭秘 蔡奇主导修改团章增加敏感字眼 团派团灭面临清洗 团派团灭内幕（29） 习连任后高层人事大洗牌（104） 习近平李克强明争暗斗内幕（104）</a></li>
 <li><a href="/comments/20230625/1900555.md">邓小平生前被殷秀梅羞辱？北大教授说...</a></li>
 <li><a href="/comments/20230625/1900685.md">“润”学不止 上海中产父母寄望子女出国</a></li>
 <li><a href="/baitai/20230625/1900657.md">借瓦格纳兵变发挥 太多「反贼」刷屏 中南海心惊</a></li>
-<li><a href="/comments/20230626/1900709.md">李燕铭：李克强团派团中央高层被一锅端仅一人留任 蔡奇陈希安插闽江新军接掌团中央 新任团中央第一书记阿东政治背景揭秘 蔡奇主导修改团章增加敏感字眼 团派团灭面临清洗 团派团灭内幕（29） 习连任后高层人事大洗牌（104） 习近平李克强明争暗斗内幕（104）</a></li>
 <li><a href="/cbnews/20230625/1900645.md">中国网红大雁被游客一脚踢断颈子死亡</a></li>
+<li><a href="/lifebaike/20230625/1900605.md">马桶里边黄渍洗不干净，教你一招，多厚的污垢都能一冲而净</a></li>
 <li><a href="/comments/20230625/1900527.md">天亮时分：普里戈津突然撤退，一场政变戏剧性结束？谁在憋大招儿？几大诡异现象待解；普京硬汉形象崩塌，俄乌战争将进入新阶段（YouTube会员节目第23集 20230624）</a></li>
-<li><a href="/comments/20230625/1900452.md">白丁：中国又一次奔向癫狂</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230626/1900770.md" target="_blank">普京要借两员大将的“向上人头”一用？</a></li>
 <li><a href="/topimagenews/20230626/1900763.md" target="_blank">很多人不知道 在三驾马车后面 还有更重要的</a></li>
 <li><a href="/topimagenews/20230626/1900762.md" target="_blank">瓦格纳叛乱启示：普京不再是不可替代的？</a></li>
 <li><a href="/topimagenews/20230626/1900761.md" target="_blank">瓦格纳兵变后普京首发言：我最近的确睡得很晚</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230624/1900305.md" target="_blank">英国防部：瓦格纳挺进莫斯科 普里戈津：我们25,000人已做好赴死准备</a></li>
 <li><a href="/topimagenews/20230624/1900298.md" target="_blank">普里戈津回应普京电视讲话：总统“大错特错” 没有人会自首</a></li>
 <li><a href="/topimagenews/20230624/1900297.md" target="_blank">犀利！中国经济三驾马车新解！谁是车？谁是马？不惜激怒北京！韩重大战略部署 中俄受到威胁</a></li>
-<li><a href="/topimagenews/20230624/1900256.md" target="_blank">佣兵首脑要求俄军交出俄防长：俄参谋总长落跑 瓦格纳将追捕…</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
 <li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
 
 </ul>
 </div>
