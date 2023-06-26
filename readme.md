@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230625/1900513.md">【微博精粹】一觉醒来 就要见证历史了</a></li>
 <li><a href="/cbnews/20230625/1900529.md">好一场虎头蛇尾的兵变!分析:最大作用是彻底摧毁普京</a></li>
 <li><a href="/topimagenews/20230625/1900595.md">俄罗斯政变冲击下，中共又开始喊“惊涛骇浪”了！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230625/1900572.md">被“逼宫”！普京生涯最大耻辱：被迫城下之盟放走大厨</a></li>
 <li><a href="/cnnews/20230625/1900582.md">重要协定即将到期！中美有这样一份鲜为人知的协议</a></li>
+<li><a href="/topimagenews/20230625/1900572.md">被“逼宫”！普京生涯最大耻辱：被迫城下之盟放走大厨</a></li>
 <li><a href="/topimagenews/20230625/1900528.md">普里戈津命运如何？普京不会放过他！泽伦斯基顾问警告</a></li>
-<li><a href="/comments/20230625/1900630.md">俄罗斯兵变，雷声大雨点小。普里戈津与普京演双簧？揭秘瓦格纳雇佣兵的起家、与普京的关系，以及叛乱前后。</a></li>
 <li><a href="/headline/20230625/1900643.md">瓦格纳兵变流产俄罗斯高官即飞北京引关注</a></li>
+<li><a href="/comments/20230625/1900630.md">俄罗斯兵变，雷声大雨点小。普里戈津与普京演双簧？揭秘瓦格纳雇佣兵的起家、与普京的关系，以及叛乱前后。</a></li>
 <li><a href="/comments/20230625/1900642.md">普京与普里戈津彻底撕破脸，共军高级将领反武统被处决事件翻出，统一宣传遇中指革命！习近平怀疑中国人也造反</a></li>
 <li><a href="/sohnews/20230626/1900702.md">“普京被政变未遂后！习近平的心腹大患：王沪宁 王小洪 张又侠”《今日点击》（06/25/23）</a></li>
-<li><a href="/worldnews/20230625/1900581.md">瓦格纳兵变急刹车 美CIA前主管分析：还没结束</a></li>
 <li><a href="/cnnews/20230626/1900736.md">傻子才相信！俄政坛诡计重重 不是普里格津政变 而是普京与权贵内斗</a></li>
+<li><a href="/worldnews/20230625/1900581.md">瓦格纳兵变急刹车 美CIA前主管分析：还没结束</a></li>
 <li><a href="/sohnews/20230626/1900708.md">““俄罗斯不久将有新总统！” ‘普京厨师’此话一出 3小时后：瓦格纳撤兵！”No.01（06/25/23）铲除最亲密朋友 为此一招儿！</a></li>
 <li><a href="/topimagenews/20230625/1900644.md">普丁差点垮台 瓦格纳却退缩撤军 乌克兰批为德不卒</a></li>
 <li><a href="/comments/20230626/1900709.md">李燕铭：李克强团派团中央高层被一锅端仅一人留任 蔡奇陈希安插闽江新军接掌团中央 新任团中央第一书记阿东政治背景揭秘 蔡奇主导修改团章增加敏感字眼 团派团灭面临清洗 团派团灭内幕（29） 习连任后高层人事大洗牌（104） 习近平李克强明争暗斗内幕（104）</a></li>
-<li><a href="/comments/20230625/1900555.md">邓小平生前被殷秀梅羞辱？北大教授说...</a></li>
 <li><a href="/lifebaike/20230625/1900605.md">马桶里边黄渍洗不干净，教你一招，多厚的污垢都能一冲而净</a></li>
+<li><a href="/comments/20230625/1900555.md">邓小平生前被殷秀梅羞辱？北大教授说...</a></li>
 <li><a href="/baitai/20230625/1900657.md">借瓦格纳兵变发挥 太多「反贼」刷屏 中南海心惊</a></li>
 <li><a href="/comments/20230625/1900685.md">“润”学不止 上海中产父母寄望子女出国</a></li>
 <li><a href="/baitai/20230626/1900714.md">叼盘失误？胡锡进自删推断瓦格纳兵变下场 专家：中共不可能军援俄罗斯</a></li>
 <li><a href="/cbnews/20230625/1900645.md">中国网红大雁被游客一脚踢断颈子死亡</a></li>
+<li><a href="/funmedia/20230625/1900573.md">女孩翻看相册 发现20年前见过准婆婆 还救过自己</a></li>
 <li><a href="/comments/20230625/1900527.md">天亮时分：普里戈津突然撤退，一场政变戏剧性结束？谁在憋大招儿？几大诡异现象待解；普京硬汉形象崩塌，俄乌战争将进入新阶段（YouTube会员节目第23集 20230624）</a></li>
-<li><a href="/cnnews/20230625/1900524.md">iPhone，要大变样了</a></li>
+<li><a href="/lifebaike/20230625/1900590.md">手机丢失后第一时间要怎么做？绝不是报警，看完叮嘱家人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230626/1900819.md" target="_blank">民心思变！瓦格纳反叛者“变英雄” 撤离宛如明星走红毯</a></li>
+<li><a href="/topimagenews/20230626/1900818.md" target="_blank">【微博精粹】不是普里戈津怂了 是白鹅绑架了他妻儿</a></li>
 <li><a href="/topimagenews/20230626/1900804.md" target="_blank">习近平会发现，“每个人都有点像普里戈津”</a></li>
 <li><a href="/topimagenews/20230626/1900803.md" target="_blank">瓦格纳叛变，给普京致命一击</a></li>
 <li><a href="/topimagenews/20230626/1900788.md" target="_blank">清华大学，把中国教育的脸给丢尽了</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20230625/1900411.md" target="_blank">精灵出来了，普京遇到麻烦的时机再好不过</a></li>
 <li><a href="/topimagenews/20230625/1900406.md" target="_blank">热搜第一！俄罗斯爆发内乱 中国网友沸腾了</a></li>
 <li><a href="/topimagenews/20230625/1900405.md" target="_blank">普京的电视讲话：很不吉利、很可怜</a></li>
-<li><a href="/topimagenews/20230625/1900389.md" target="_blank">突发！普里戈津：同意停止在俄武装行动</a></li>
-<li><a href="/topimagenews/20230625/1900372.md" target="_blank">这段话吓坏中南海！瓦格纳政变竟然是一盘大棋？【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 <li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
 <li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 
 </ul>
 </div>
