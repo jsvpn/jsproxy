@@ -8,25 +8,25 @@
 <li><a href="/topimagenews/20230625/1900595.md">俄罗斯政变冲击下，中共又开始喊“惊涛骇浪”了！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230625/1900582.md">重要协定即将到期！中美有这样一份鲜为人知的协议</a></li>
 <li><a href="/cnnews/20230626/1900736.md">傻子才相信！俄政坛诡计重重 不是普里格津政变 而是普京与权贵内斗</a></li>
+<li><a href="/sohnews/20230626/1900702.md">“普京被政变未遂后！习近平的心腹大患：王沪宁 王小洪 张又侠”《今日点击》（06/25/23）</a></li>
 <li><a href="/comments/20230625/1900630.md">俄罗斯兵变，雷声大雨点小。普里戈津与普京演双簧？揭秘瓦格纳雇佣兵的起家、与普京的关系，以及叛乱前后。</a></li>
 <li><a href="/headline/20230625/1900643.md">瓦格纳兵变流产俄罗斯高官即飞北京引关注</a></li>
-<li><a href="/sohnews/20230626/1900702.md">“普京被政变未遂后！习近平的心腹大患：王沪宁 王小洪 张又侠”《今日点击》（06/25/23）</a></li>
 <li><a href="/comments/20230625/1900642.md">普京与普里戈津彻底撕破脸，共军高级将领反武统被处决事件翻出，统一宣传遇中指革命！习近平怀疑中国人也造反</a></li>
-<li><a href="/worldnews/20230625/1900581.md">瓦格纳兵变急刹车 美CIA前主管分析：还没结束</a></li>
 <li><a href="/topimagenews/20230626/1900745.md">人民币贬值：大窟窿能堵上么？</a></li>
 <li><a href="/cnnews/20230626/1900765.md">北京最大担忧可能成真 习最不想看到的结局</a></li>
+<li><a href="/worldnews/20230625/1900581.md">瓦格纳兵变急刹车 美CIA前主管分析：还没结束</a></li>
 <li><a href="/sohnews/20230626/1900708.md">““俄罗斯不久将有新总统！” ‘普京厨师’此话一出 3小时后：瓦格纳撤兵！”No.01（06/25/23）铲除最亲密朋友 为此一招儿！</a></li>
 <li><a href="/lifebaike/20230625/1900605.md">马桶里边黄渍洗不干净，教你一招，多厚的污垢都能一冲而净</a></li>
 <li><a href="/comments/20230626/1900709.md">李燕铭：李克强团派团中央高层被一锅端仅一人留任 蔡奇陈希安插闽江新军接掌团中央 新任团中央第一书记阿东政治背景揭秘 蔡奇主导修改团章增加敏感字眼 团派团灭面临清洗 团派团灭内幕（29） 习连任后高层人事大洗牌（104） 习近平李克强明争暗斗内幕（104）</a></li>
 <li><a href="/topimagenews/20230625/1900644.md">普丁差点垮台 瓦格纳却退缩撤军 乌克兰批为德不卒</a></li>
 <li><a href="/topimagenews/20230626/1900788.md">清华大学，把中国教育的脸给丢尽了</a></li>
+<li><a href="/cbnews/20230626/1900775.md">〖兲朝浮世绘〗瓦格纳军反水造成了两个严重后果</a></li>
 <li><a href="/yule/20230626/1900732.md">左小青晒照庆46岁生日，女儿颜值出人意料</a></li>
 <li><a href="/baitai/20230626/1900714.md">叼盘失误？胡锡进自删推断瓦格纳兵变下场 专家：中共不可能军援俄罗斯</a></li>
 <li><a href="/baitai/20230625/1900657.md">借瓦格纳兵变发挥 太多「反贼」刷屏 中南海心惊</a></li>
 <li><a href="/cbnews/20230625/1900645.md">中国网红大雁被游客一脚踢断颈子死亡</a></li>
 <li><a href="/lifebaike/20230625/1900590.md">手机丢失后第一时间要怎么做？绝不是报警，看完叮嘱家人</a></li>
 <li><a href="/comments/20230625/1900685.md">“润”学不止 上海中产父母寄望子女出国</a></li>
-<li><a href="/cbnews/20230626/1900775.md">〖兲朝浮世绘〗瓦格纳军反水造成了两个严重后果</a></li>
 <li><a href="/sohnews/20230626/1900720.md">“川普才智过人！泄密-习近平称王关键：握在普京之手！”No.03（06/25/23）习氏王朝：等待台湾人自我奉献</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
 <li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 
 </ul>
 </div>
