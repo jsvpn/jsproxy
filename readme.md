@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230625/1900595.md">俄罗斯政变冲击下，中共又开始喊“惊涛骇浪”了！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230626/1900702.md">“普京被政变未遂后！习近平的心腹大患：王沪宁 王小洪 张又侠”《今日点击》（06/25/23）</a></li>
 <li><a href="/cnnews/20230626/1900736.md">傻子才相信！俄政坛诡计重重 不是普里格津政变 而是普京与权贵内斗</a></li>
 <li><a href="/headline/20230625/1900643.md">瓦格纳兵变流产俄罗斯高官即飞北京引关注</a></li>
@@ -15,8 +14,8 @@
 <li><a href="/topimagenews/20230626/1900745.md">人民币贬值：大窟窿能堵上么？</a></li>
 <li><a href="/sohnews/20230626/1900708.md">““俄罗斯不久将有新总统！” ‘普京厨师’此话一出 3小时后：瓦格纳撤兵！”No.01（06/25/23）铲除最亲密朋友 为此一招儿！</a></li>
 <li><a href="/comments/20230626/1900709.md">李燕铭：李克强团派团中央高层被一锅端仅一人留任 蔡奇陈希安插闽江新军接掌团中央 新任团中央第一书记阿东政治背景揭秘 蔡奇主导修改团章增加敏感字眼 团派团灭面临清洗 团派团灭内幕（29） 习连任后高层人事大洗牌（104） 习近平李克强明争暗斗内幕（104）</a></li>
-<li><a href="/lifebaike/20230625/1900605.md">马桶里边黄渍洗不干净，教你一招，多厚的污垢都能一冲而净</a></li>
 <li><a href="/topimagenews/20230626/1900788.md">清华大学，把中国教育的脸给丢尽了</a></li>
+<li><a href="/lifebaike/20230625/1900605.md">马桶里边黄渍洗不干净，教你一招，多厚的污垢都能一冲而净</a></li>
 <li><a href="/cbnews/20230626/1900775.md">〖兲朝浮世绘〗瓦格纳军反水造成了两个严重后果</a></li>
 <li><a href="/topimagenews/20230625/1900644.md">普丁差点垮台 瓦格纳却退缩撤军 乌克兰批为德不卒</a></li>
 <li><a href="/yule/20230626/1900732.md">左小青晒照庆46岁生日，女儿颜值出人意料</a></li>
@@ -24,9 +23,10 @@
 <li><a href="/baitai/20230625/1900657.md">借瓦格纳兵变发挥 太多「反贼」刷屏 中南海心惊</a></li>
 <li><a href="/cbnews/20230625/1900645.md">中国网红大雁被游客一脚踢断颈子死亡</a></li>
 <li><a href="/comments/20230625/1900685.md">“润”学不止 上海中产父母寄望子女出国</a></li>
-<li><a href="/topimagenews/20230626/1900770.md">普京要借两员大将的“向上人头”一用？</a></li>
 <li><a href="/yule/20230626/1900799.md">47岁赵薇罕见露面，发福变胖素颜皱纹明显，胳膊淤青瞩目</a></li>
+<li><a href="/topimagenews/20230626/1900770.md">普京要借两员大将的“向上人头”一用？</a></li>
 <li><a href="/sohnews/20230626/1900720.md">“川普才智过人！泄密-习近平称王关键：握在普京之手！”No.03（06/25/23）习氏王朝：等待台湾人自我奉献</a></li>
+<li><a href="/topimagenews/20230626/1900818.md">【微博精粹】不是普里戈津怂了 是白鹅绑架了他妻儿</a></li>
 <li><a href="/headline/20230626/1900737.md">《法兰克福汇报》：北京的噩梦</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230626/1900903.md" target="_blank">威慑南海！美军B-52H“首次”印尼起飞 缩短航程加大打击力道</a></li>
 <li><a href="/cbnews/20230626/1900832.md" target="_blank">热到学校要停课了！地表飙70℃！北京高温创记录，学校可适时停课</a></li>
 <li><a href="/cbnews/20230626/1900805.md" target="_blank">这三字微博消失…北京紧张了？</a></li>
 <li><a href="/cbnews/20230626/1900789.md" target="_blank">显眼包还不好伪装！2米12小偷又落网 网叹：改行吧</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/cbnews/20230624/1900323.md" target="_blank">江峰：俄国瓦格纳军哗变 掉转枪口对准莫斯科 主持:方伟 嘉宾:章天亮 唐靖远 江峰【江峰时刻】</a></li>
 <li><a href="/comments/20230624/1900307.md" target="_blank">【直播】俄国内战全面爆发（1）</a></li>
 <li><a href="/cbnews/20230624/1900302.md" target="_blank">瓦格纳已控制第二个城市，普京发表紧急讲话</a></li>
-<li><a href="/cbnews/20230624/1900295.md" target="_blank">江峰：江峰就在华盛顿DC的高院门口！力挺川普</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230626/1900902.md" target="_blank">瓦格纳兵变 普京出狠招保面子？乌警告俄在4反应堆放炸药 就等“一命令”</a></li>
+<li><a href="/topimagenews/20230626/1900901.md" target="_blank">普京政府失民心！瓦格纳撤军 罗斯托夫市民不许俄警进城 发生冲突</a></li>
 <li><a href="/topimagenews/20230626/1900866.md" target="_blank">普京还在跑路？俄军将领曝行踪 外媒揭瓦格纳叛军下场</a></li>
 <li><a href="/topimagenews/20230626/1900865.md" target="_blank">1700多军车回防莫斯科! 趁俄叛变内乱 英国：乌军将展“重大进攻”</a></li>
 <li><a href="/topimagenews/20230626/1900864.md" target="_blank">对中共及其领导人幻想破灭 中国年轻人被“踢皮球”</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20230626/1900745.md" target="_blank">人民币贬值：大窟窿能堵上么？</a></li>
 <li><a href="/topimagenews/20230626/1900744.md" target="_blank">口音河南、IP属地河南，但“俄粉”就这么弱智…</a></li>
 <li><a href="/topimagenews/20230626/1900735.md" target="_blank">“所谓中国经济的三驾马车，也许是一个误区”</a></li>
-<li><a href="/topimagenews/20230625/1900644.md" target="_blank">普丁差点垮台 瓦格纳却退缩撤军 乌克兰批为德不卒</a></li>
-<li><a href="/topimagenews/20230625/1900639.md" target="_blank">俄罗斯兵变！瓦格纳停止推进后 莫斯科仍戒备森严</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
 
 </ul>
 </div>
