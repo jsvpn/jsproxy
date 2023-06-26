@@ -6,14 +6,13 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20230626/1900702.md">“普京被政变未遂后！习近平的心腹大患：王沪宁 王小洪 张又侠”《今日点击》（06/25/23）</a></li>
-<li><a href="/headline/20230625/1900643.md">瓦格纳兵变流产俄罗斯高官即飞北京引关注</a></li>
 <li><a href="/cnnews/20230626/1900736.md">傻子才相信！俄政坛诡计重重 不是普里格津政变 而是普京与权贵内斗</a></li>
+<li><a href="/headline/20230625/1900643.md">瓦格纳兵变流产俄罗斯高官即飞北京引关注</a></li>
 <li><a href="/comments/20230625/1900642.md">普京与普里戈津彻底撕破脸，共军高级将领反武统被处决事件翻出，统一宣传遇中指革命！习近平怀疑中国人也造反</a></li>
-<li><a href="/comments/20230625/1900630.md">俄罗斯兵变，雷声大雨点小。普里戈津与普京演双簧？揭秘瓦格纳雇佣兵的起家、与普京的关系，以及叛乱前后。</a></li>
 <li><a href="/cnnews/20230626/1900765.md">北京最大担忧可能成真 习最不想看到的结局</a></li>
-<li><a href="/topimagenews/20230626/1900745.md">人民币贬值：大窟窿能堵上么？</a></li>
-<li><a href="/sohnews/20230626/1900708.md">““俄罗斯不久将有新总统！” ‘普京厨师’此话一出 3小时后：瓦格纳撤兵！”No.01（06/25/23）铲除最亲密朋友 为此一招儿！</a></li>
 <li><a href="/comments/20230626/1900709.md">李燕铭：李克强团派团中央高层被一锅端仅一人留任 蔡奇陈希安插闽江新军接掌团中央 新任团中央第一书记阿东政治背景揭秘 蔡奇主导修改团章增加敏感字眼 团派团灭面临清洗 团派团灭内幕（29） 习连任后高层人事大洗牌（104） 习近平李克强明争暗斗内幕（104）</a></li>
+<li><a href="/sohnews/20230626/1900708.md">““俄罗斯不久将有新总统！” ‘普京厨师’此话一出 3小时后：瓦格纳撤兵！”No.01（06/25/23）铲除最亲密朋友 为此一招儿！</a></li>
+<li><a href="/topimagenews/20230626/1900745.md">人民币贬值：大窟窿能堵上么？</a></li>
 <li><a href="/topimagenews/20230626/1900788.md">清华大学，把中国教育的脸给丢尽了</a></li>
 <li><a href="/cbnews/20230626/1900775.md">〖兲朝浮世绘〗瓦格纳军反水造成了两个严重后果</a></li>
 <li><a href="/topimagenews/20230625/1900644.md">普丁差点垮台 瓦格纳却退缩撤军 乌克兰批为德不卒</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/yule/20230626/1900732.md">左小青晒照庆46岁生日，女儿颜值出人意料</a></li>
 <li><a href="/yule/20230626/1900799.md">47岁赵薇罕见露面，发福变胖素颜皱纹明显，胳膊淤青瞩目</a></li>
 <li><a href="/topimagenews/20230626/1900818.md">【微博精粹】不是普里戈津怂了 是白鹅绑架了他妻儿</a></li>
-<li><a href="/baitai/20230625/1900657.md">借瓦格纳兵变发挥 太多「反贼」刷屏 中南海心惊</a></li>
 <li><a href="/cbnews/20230625/1900645.md">中国网红大雁被游客一脚踢断颈子死亡</a></li>
+<li><a href="/baitai/20230625/1900657.md">借瓦格纳兵变发挥 太多「反贼」刷屏 中南海心惊</a></li>
 <li><a href="/comments/20230625/1900685.md">“润”学不止 上海中产父母寄望子女出国</a></li>
 <li><a href="/topimagenews/20230626/1900866.md">普京还在跑路？俄军将领曝行踪 外媒揭瓦格纳叛军下场</a></li>
+<li><a href="/comments/20230626/1900857.md">薄熙来倒台真相！不是王立军是韭菜</a></li>
 <li><a href="/topimagenews/20230626/1900770.md">普京要借两员大将的“向上人头”一用？</a></li>
 <li><a href="/sohnews/20230626/1900720.md">“川普才智过人！泄密-习近平称王关键：握在普京之手！”No.03（06/25/23）习氏王朝：等待台湾人自我奉献</a></li>
-<li><a href="/headline/20230626/1900737.md">《法兰克福汇报》：北京的噩梦</a></li>
+<li><a href="/ssgc/20230626/1900824.md">〖微博谈〗这就是普京的成色</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230626/1900942.md" target="_blank">北韩掀“脱北潮”金正恩吁团结 缺粮问题严重受刑人吃不饱传出人吃人</a></li>
 <li><a href="/topimagenews/20230626/1900902.md" target="_blank">瓦格纳兵变 普京出狠招保面子？乌警告俄在4反应堆放炸药 就等“一命令”</a></li>
 <li><a href="/topimagenews/20230626/1900901.md" target="_blank">普京政府失民心！瓦格纳撤军 罗斯托夫市民不许俄警进城 发生冲突</a></li>
 <li><a href="/topimagenews/20230626/1900866.md" target="_blank">普京还在跑路？俄军将领曝行踪 外媒揭瓦格纳叛军下场</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230626/1900761.md" target="_blank">瓦格纳兵变后普京首发言：我最近的确睡得很晚</a></li>
 <li><a href="/topimagenews/20230626/1900745.md" target="_blank">人民币贬值：大窟窿能堵上么？</a></li>
 <li><a href="/topimagenews/20230626/1900744.md" target="_blank">口音河南、IP属地河南，但“俄粉”就这么弱智…</a></li>
-<li><a href="/topimagenews/20230626/1900735.md" target="_blank">“所谓中国经济的三驾马车，也许是一个误区”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
 
 </ul>
 </div>
