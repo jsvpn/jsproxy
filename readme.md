@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230626/1900788.md">清华大学，把中国教育的脸给丢尽了</a></li>
 <li><a href="/comments/20230626/1900857.md">薄熙来倒台真相！不是王立军是韭菜</a></li>
 <li><a href="/topimagenews/20230626/1900866.md">普京还在跑路？俄军将领曝行踪 外媒揭瓦格纳叛军下场</a></li>
 <li><a href="/yule/20230626/1900799.md">47岁赵薇罕见露面，发福变胖素颜皱纹明显，胳膊淤青瞩目</a></li>
 <li><a href="/topimagenews/20230626/1901012.md">南京大学副院长偷吃人妻！电梯“壁咚激吻”狂揉臀 绿帽夫豁出去公布无码片</a></li>
 <li><a href="/topimagenews/20230627/1901109.md">令人震惊：英媒揭瓦格纳闪电撤军内幕</a></li>
-<li><a href="/topimagenews/20230626/1900818.md">【微博精粹】不是普里戈津怂了 是白鹅绑架了他妻儿</a></li>
 <li><a href="/ssgc/20230626/1900974.md">上天给习近平上了最生动的一课</a></li>
+<li><a href="/topimagenews/20230626/1900818.md">【微博精粹】不是普里戈津怂了 是白鹅绑架了他妻儿</a></li>
+<li><a href="/cbnews/20230627/1901082.md">与小三摩托车上“车震”？男子出轨照疯传 真相超爆笑</a></li>
 <li><a href="/cbnews/20230626/1900805.md">这三字微博消失…北京紧张了？</a></li>
 <li><a href="/topimagenews/20230626/1900942.md">北韩掀“脱北潮”金正恩吁团结 缺粮问题严重受刑人吃不饱传出人吃人</a></li>
-<li><a href="/cbnews/20230627/1901082.md">与小三摩托车上“车震”？男子出轨照疯传 真相超爆笑</a></li>
-<li><a href="/ssgc/20230626/1900824.md">〖微博谈〗这就是普京的成色</a></li>
 <li><a href="/cnnews/20230626/1900966.md">俄罗斯突然瓦解？英政府高层警告做好准备</a></li>
+<li><a href="/ssgc/20230626/1900824.md">〖微博谈〗这就是普京的成色</a></li>
 <li><a href="/topimagenews/20230626/1901038.md">比日本失落30年更惨！大陆黄金产业被击溃 引爆经济巨震</a></li>
 <li><a href="/lifebaike/20230626/1900931.md">不管房子多大，在墙角撒把食盐，作用太厉害了，看完快回家试一试</a></li>
 <li><a href="/topimagenews/20230626/1900902.md">瓦格纳兵变 普京出狠招保面子？乌警告俄在4反应堆放炸药 就等“一命令”</a></li>
 <li><a href="/topimagenews/20230626/1900863.md">怎么活？中国实际失业率高达80%！350名毕业生只有2人找到工作</a></li>
 <li><a href="/ssgc/20230626/1900951.md">德国机床企业对中国发通知 车床戴“镣铐” 移动位置即锁死</a></li>
 <li><a href="/baitai/20230626/1900932.md">澳大利亚总理分享手机安全建议：每天关机 5 分钟</a></li>
-<li><a href="/topimagenews/20230626/1900986.md">普丁没遵守承诺！俄媒爆：普里格津“叛变”刑事指控未撤销</a></li>
-<li><a href="/topimagenews/20230626/1900860.md">中国有很大的希望 但需要取消中共那些不会取消的政策</a></li>
 <li><a href="/topimagenews/20230626/1900865.md">1700多军车回防莫斯科! 趁俄叛变内乱 英国：乌军将展“重大进攻”</a></li>
 <li><a href="/topimagenews/20230626/1900985.md">太吓人！​​​​​​​中美货运价格仅剩零头！中国房价下降，开始比狠了</a></li>
+<li><a href="/topimagenews/20230626/1900986.md">普丁没遵守承诺！俄媒爆：普里格津“叛变”刑事指控未撤销</a></li>
+<li><a href="/topimagenews/20230626/1900860.md">中国有很大的希望 但需要取消中共那些不会取消的政策</a></li>
+<li><a href="/topimagenews/20230626/1900901.md">普京政府失民心！瓦格纳撤军 罗斯托夫市民不许俄警进城 发生冲突</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230627/1901219.md" target="_blank">【原汁原味】普京发表电视讲话，准备惩罚瓦格纳首领普里戈津。指责西方背后策划这场兵变。</a></li>
 <li><a href="/comments/20230627/1901203.md" target="_blank">起死回生！</a></li>
 <li><a href="/cbnews/20230627/1901175.md" target="_blank">江峰：普京终於公开露面并毁约，普利戈金叛国瓦格纳爱国？矛盾荒谬暴露普大帝一尊不保；叛乱流产原因曝光；哥本哈根秘密会谈，中共将正式弃俄？关於叛乱的几个疯传的谣言，北约情报给予澄清【20230626第19期】</a></li>
 <li><a href="/cbnews/20230627/1901167.md" target="_blank">〖兲朝浮世绘〗作风淫秽 能打床战</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230626/1900775.md" target="_blank">〖兲朝浮世绘〗瓦格纳军反水造成了两个严重后果</a></li>
 <li><a href="/comments/20230626/1900749.md" target="_blank">拍到外星人！</a></li>
 <li><a href="/cbnews/20230625/1900645.md" target="_blank">中国网红大雁被游客一脚踢断颈子死亡</a></li>
-<li><a href="/comments/20230625/1900630.md" target="_blank">俄罗斯兵变，雷声大雨点小。普里戈津与普京演双簧？揭秘瓦格纳雇佣兵的起家、与普京的关系，以及叛乱前后。</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230627/1901220.md" target="_blank">俄国事变扑朔迷离，普京已陷灭项泥沼</a></li>
+<li><a href="/comments/20230627/1901219.md" target="_blank">【原汁原味】普京发表电视讲话，准备惩罚瓦格纳首领普里戈津。指责西方背后策划这场兵变。</a></li>
+<li><a href="/comments/20230627/1901218.md" target="_blank">大咖重炮猛轰 “定于一尊” 90年前</a></li>
 <li><a href="/comments/20230627/1901203.md" target="_blank">起死回生！</a></li>
 <li><a href="/comments/20230627/1901202.md" target="_blank">陶杰：末路上普京的下一步能怎样走？</a></li>
 <li><a href="/comments/20230627/1901190.md" target="_blank">【独家重磅】李燕铭：蔡奇主导掀起中南海核心机构清洗风暴 李希连放狠话 中纪委四高官被抛出祭旗 李克强赵乐际心腹成为重点清洗目标 王沪宁韩正丁薛祥上海帮势力将被钳制 习近平连任后大清洗（41） 围剿赵乐际（16） 习家军接掌国务院（24） 习近平李克强明争暗斗内幕（105）</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230626/1900955.md" target="_blank">兵变失败内幕流出！普里戈津家人被劫持？兵变致普京虚弱瞬间曝光，厨子会被M口？乌克兰全线反攻</a></li>
 <li><a href="/comments/20230626/1900936.md" target="_blank">中国环保志工揭53只保育类鸟类遭电死 PO文遭公安传唤</a></li>
 <li><a href="/comments/20230626/1900858.md" target="_blank">农管拦路，大爷亮了</a></li>
-<li><a href="/comments/20230626/1900857.md" target="_blank">薄熙来倒台真相！不是王立军是韭菜</a></li>
-<li><a href="/comments/20230626/1900828.md" target="_blank">天亮时分：瓦格纳叛乱余波未平，普里戈津下落不明；普京清洗俄南部军区，是否会引发又一场兵变？埃尔多安背叛普里戈津？（政论天下第1041集 20230625）天亮时分</a></li>
-<li><a href="/comments/20230626/1900795.md" target="_blank">林保华：俄罗斯兵变一日结束？普京的苦难刚开始</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
 <li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 
 </ul>
 </div>
