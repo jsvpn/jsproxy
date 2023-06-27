@@ -19,13 +19,13 @@
 <li><a href="/cnnews/20230627/1901104.md">解放军胆寒？“泰坦号”内爆 牵出美军黑科技</a></li>
 <li><a href="/topimagenews/20230626/1900902.md">瓦格纳兵变 普京出狠招保面子？乌警告俄在4反应堆放炸药 就等“一命令”</a></li>
 <li><a href="/baitai/20230626/1900932.md">澳大利亚总理分享手机安全建议：每天关机 5 分钟</a></li>
-<li><a href="/topimagenews/20230627/1901120.md">兵变落幕后普京首发声明 瓦格纳自曝现状</a></li>
 <li><a href="/ssgc/20230626/1900951.md">德国机床企业对中国发通知 车床戴“镣铐” 移动位置即锁死</a></li>
+<li><a href="/topimagenews/20230627/1901120.md">兵变落幕后普京首发声明 瓦格纳自曝现状</a></li>
 <li><a href="/cbnews/20230627/1901167.md">〖兲朝浮世绘〗作风淫秽 能打床战</a></li>
 <li><a href="/topimagenews/20230626/1900985.md">太吓人！​​​​​​​中美货运价格仅剩零头！中国房价下降，开始比狠了</a></li>
 <li><a href="/topimagenews/20230627/1901158.md">轰6低空“驱离”美航母？中国网民不买账</a></li>
-<li><a href="/topimagenews/20230626/1900986.md">普丁没遵守承诺！俄媒爆：普里格津“叛变”刑事指控未撤销</a></li>
 <li><a href="/cnnews/20230627/1901160.md">穷疯了！四川一消息震惊网络，网友：一群败家玩意！【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230626/1900986.md">普丁没遵守承诺！俄媒爆：普里格津“叛变”刑事指控未撤销</a></li>
 <li><a href="/topimagenews/20230626/1900901.md">普京政府失民心！瓦格纳撤军 罗斯托夫市民不许俄警进城 发生冲突</a></li>
 <li><a href="/topimagenews/20230626/1900998.md">瓦格纳非真想打普丁？她分析首脑真实盘算：一般人玩不出这种大场面</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230627/1901291.md" target="_blank">王赫：普通中国人的遭遇就说明了一切</a></li>
 <li><a href="/comments/20230627/1901265.md" target="_blank">一尊亲自指挥，上海外贸凉凉&#8230;</a></li>
 <li><a href="/comments/20230627/1901261.md" target="_blank">川普华盛顿演讲，王者地位无人撼动。普里戈津首次打破沉默，说出兵变与撤退原因。</a></li>
 <li><a href="/comments/20230627/1901243.md" target="_blank">兵变三方尴尬登场！普京毁约宣布严惩？最大输家是普里戈津还是普京？是北京习近平！发生了什麽？？？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230626/1900988.md" target="_blank">【新闻最嘲点】普里戈津是谁？一个厨子的逆袭</a></li>
 <li><a href="/comments/20230626/1900958.md" target="_blank">习近平对中共有心灵深处的仇恨 — 曾节明</a></li>
 <li><a href="/comments/20230626/1900973.md" target="_blank">香港海关破获15亿元走私案 创历来最高纪录</a></li>
-<li><a href="/comments/20230626/1900972.md" target="_blank">瓦格纳速撤内幕！ 英军情人士：俄威胁普里格津家人性命 2.5万佣兵太膨风</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
 <li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
 
 </ul>
 </div>
