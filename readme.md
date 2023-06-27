@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20230626/1900857.md">薄熙来倒台真相！不是王立军是韭菜</a></li>
-<li><a href="/topimagenews/20230626/1900866.md">普京还在跑路？俄军将领曝行踪 外媒揭瓦格纳叛军下场</a></li>
 <li><a href="/topimagenews/20230626/1901012.md">南京大学副院长偷吃人妻！电梯“壁咚激吻”狂揉臀 绿帽夫豁出去公布无码片</a></li>
+<li><a href="/topimagenews/20230626/1900866.md">普京还在跑路？俄军将领曝行踪 外媒揭瓦格纳叛军下场</a></li>
 <li><a href="/topimagenews/20230627/1901109.md">令人震惊：英媒揭瓦格纳闪电撤军内幕</a></li>
 <li><a href="/ssgc/20230626/1900974.md">上天给习近平上了最生动的一课</a></li>
 <li><a href="/cbnews/20230627/1901082.md">与小三摩托车上“车震”？男子出轨照疯传 真相超爆笑</a></li>
 <li><a href="/topimagenews/20230626/1900942.md">北韩掀“脱北潮”金正恩吁团结 缺粮问题严重受刑人吃不饱传出人吃人</a></li>
 <li><a href="/cnnews/20230626/1900966.md">俄罗斯突然瓦解？英政府高层警告做好准备</a></li>
-<li><a href="/topimagenews/20230626/1901038.md">比日本失落30年更惨！大陆黄金产业被击溃 引爆经济巨震</a></li>
 <li><a href="/topimagenews/20230627/1901130.md">啥事都要烂尾？习近平这一愿景受冲击</a></li>
+<li><a href="/topimagenews/20230626/1901038.md">比日本失落30年更惨！大陆黄金产业被击溃 引爆经济巨震</a></li>
 <li><a href="/lifebaike/20230626/1900931.md">不管房子多大，在墙角撒把食盐，作用太厉害了，看完快回家试一试</a></li>
-<li><a href="/topimagenews/20230627/1901119.md">情况严重 普京政治生命进入倒计时</a></li>
 <li><a href="/topimagenews/20230626/1900863.md">怎么活？中国实际失业率高达80%！350名毕业生只有2人找到工作</a></li>
+<li><a href="/topimagenews/20230627/1901119.md">情况严重 普京政治生命进入倒计时</a></li>
 <li><a href="/cnnews/20230627/1901104.md">解放军胆寒？“泰坦号”内爆 牵出美军黑科技</a></li>
 <li><a href="/topimagenews/20230626/1900902.md">瓦格纳兵变 普京出狠招保面子？乌警告俄在4反应堆放炸药 就等“一命令”</a></li>
 <li><a href="/baitai/20230626/1900932.md">澳大利亚总理分享手机安全建议：每天关机 5 分钟</a></li>
 <li><a href="/topimagenews/20230627/1901120.md">兵变落幕后普京首发声明 瓦格纳自曝现状</a></li>
 <li><a href="/ssgc/20230626/1900951.md">德国机床企业对中国发通知 车床戴“镣铐” 移动位置即锁死</a></li>
-<li><a href="/topimagenews/20230626/1900860.md">中国有很大的希望 但需要取消中共那些不会取消的政策</a></li>
 <li><a href="/topimagenews/20230626/1900865.md">1700多军车回防莫斯科! 趁俄叛变内乱 英国：乌军将展“重大进攻”</a></li>
 <li><a href="/topimagenews/20230626/1900985.md">太吓人！​​​​​​​中美货运价格仅剩零头！中国房价下降，开始比狠了</a></li>
 <li><a href="/topimagenews/20230626/1900986.md">普丁没遵守承诺！俄媒爆：普里格津“叛变”刑事指控未撤销</a></li>
 <li><a href="/topimagenews/20230626/1900901.md">普京政府失民心！瓦格纳撤军 罗斯托夫市民不许俄警进城 发生冲突</a></li>
+<li><a href="/topimagenews/20230626/1900998.md">瓦格纳非真想打普丁？她分析首脑真实盘算：一般人玩不出这种大场面</a></li>
+<li><a href="/topimagenews/20230627/1901193.md">当头一棒！大萧条时代已经来临了…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 <li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 <li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
 
 </ul>
 </div>
