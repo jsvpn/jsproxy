@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/comments/20230626/1900857.md">薄熙来倒台真相！不是王立军是韭菜</a></li>
-<li><a href="/topimagenews/20230627/1901109.md">令人震惊：英媒揭瓦格纳闪电撤军内幕</a></li>
 <li><a href="/topimagenews/20230626/1900866.md">普京还在跑路？俄军将领曝行踪 外媒揭瓦格纳叛军下场</a></li>
+<li><a href="/topimagenews/20230627/1901109.md">令人震惊：英媒揭瓦格纳闪电撤军内幕</a></li>
 <li><a href="/topimagenews/20230626/1901012.md">南京大学副院长偷吃人妻！电梯“壁咚激吻”狂揉臀 绿帽夫豁出去公布无码片</a></li>
 <li><a href="/ssgc/20230626/1900974.md">上天给习近平上了最生动的一课</a></li>
 <li><a href="/cbnews/20230627/1901082.md">与小三摩托车上“车震”？男子出轨照疯传 真相超爆笑</a></li>
@@ -16,17 +16,17 @@
 <li><a href="/topimagenews/20230626/1901038.md">比日本失落30年更惨！大陆黄金产业被击溃 引爆经济巨震</a></li>
 <li><a href="/lifebaike/20230626/1900931.md">不管房子多大，在墙角撒把食盐，作用太厉害了，看完快回家试一试</a></li>
 <li><a href="/topimagenews/20230627/1901130.md">啥事都要烂尾？习近平这一愿景受冲击</a></li>
-<li><a href="/topimagenews/20230626/1900902.md">瓦格纳兵变 普京出狠招保面子？乌警告俄在4反应堆放炸药 就等“一命令”</a></li>
-<li><a href="/topimagenews/20230626/1900863.md">怎么活？中国实际失业率高达80%！350名毕业生只有2人找到工作</a></li>
 <li><a href="/cnnews/20230627/1901104.md">解放军胆寒？“泰坦号”内爆 牵出美军黑科技</a></li>
-<li><a href="/baitai/20230626/1900932.md">澳大利亚总理分享手机安全建议：每天关机 5 分钟</a></li>
+<li><a href="/topimagenews/20230626/1900863.md">怎么活？中国实际失业率高达80%！350名毕业生只有2人找到工作</a></li>
+<li><a href="/topimagenews/20230626/1900902.md">瓦格纳兵变 普京出狠招保面子？乌警告俄在4反应堆放炸药 就等“一命令”</a></li>
 <li><a href="/topimagenews/20230627/1901119.md">情况严重 普京政治生命进入倒计时</a></li>
+<li><a href="/baitai/20230626/1900932.md">澳大利亚总理分享手机安全建议：每天关机 5 分钟</a></li>
 <li><a href="/ssgc/20230626/1900951.md">德国机床企业对中国发通知 车床戴“镣铐” 移动位置即锁死</a></li>
+<li><a href="/topimagenews/20230627/1901120.md">兵变落幕后普京首发声明 瓦格纳自曝现状</a></li>
 <li><a href="/topimagenews/20230626/1900865.md">1700多军车回防莫斯科! 趁俄叛变内乱 英国：乌军将展“重大进攻”</a></li>
+<li><a href="/topimagenews/20230626/1900860.md">中国有很大的希望 但需要取消中共那些不会取消的政策</a></li>
 <li><a href="/topimagenews/20230626/1900985.md">太吓人！​​​​​​​中美货运价格仅剩零头！中国房价下降，开始比狠了</a></li>
 <li><a href="/topimagenews/20230626/1900986.md">普丁没遵守承诺！俄媒爆：普里格津“叛变”刑事指控未撤销</a></li>
-<li><a href="/topimagenews/20230627/1901120.md">兵变落幕后普京首发声明 瓦格纳自曝现状</a></li>
-<li><a href="/topimagenews/20230626/1900860.md">中国有很大的希望 但需要取消中共那些不会取消的政策</a></li>
 <li><a href="/topimagenews/20230626/1900901.md">普京政府失民心！瓦格纳撤军 罗斯托夫市民不许俄警进城 发生冲突</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230627/1901261.md" target="_blank">川普华盛顿演讲，王者地位无人撼动。普里戈津首次打破沉默，说出兵变与撤退原因。</a></li>
 <li><a href="/cbnews/20230627/1901237.md" target="_blank">反咬一口！北京按捺不住，让“零号病人”投书美媒….</a></li>
 <li><a href="/comments/20230627/1901219.md" target="_blank">【原汁原味】普京发表电视讲话，准备惩罚瓦格纳首领普里戈津。指责西方背后策划这场兵变。</a></li>
 <li><a href="/comments/20230627/1901203.md" target="_blank">起死回生！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230626/1900805.md" target="_blank">这三字微博消失…北京紧张了？</a></li>
 <li><a href="/cbnews/20230626/1900789.md" target="_blank">显眼包还不好伪装！2米12小偷又落网 网叹：改行吧</a></li>
 <li><a href="/cbnews/20230626/1900775.md" target="_blank">〖兲朝浮世绘〗瓦格纳军反水造成了两个严重后果</a></li>
-<li><a href="/comments/20230626/1900749.md" target="_blank">拍到外星人！</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230627/1901261.md" target="_blank">川普华盛顿演讲，王者地位无人撼动。普里戈津首次打破沉默，说出兵变与撤退原因。</a></li>
 <li><a href="/comments/20230627/1901243.md" target="_blank">兵变三方尴尬登场！普京毁约宣布严惩？最大输家是普里戈津还是普京？是北京习近平！发生了什麽？？？</a></li>
 <li><a href="/comments/20230627/1901234.md" target="_blank">天亮时分：传普里戈津带兵入白俄；绍伊古重新露面；最大输家是普京；发表五分钟电视讲话，普京避提普里戈津（政论天下第1042集 20230626）天亮时分</a></li>
 <li><a href="/comments/20230627/1901220.md" target="_blank">俄国事变扑朔迷离，普京已陷灭项泥沼</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230626/1900973.md" target="_blank">香港海关破获15亿元走私案 创历来最高纪录</a></li>
 <li><a href="/comments/20230626/1900972.md" target="_blank">瓦格纳速撤内幕！ 英军情人士：俄威胁普里格津家人性命 2.5万佣兵太膨风</a></li>
 <li><a href="/comments/20230626/1900957.md" target="_blank">川普在华盛顿DC保守派年会上发表主题讲话，誓言彻底消灭深层政府。</a></li>
-<li><a href="/comments/20230626/1900955.md" target="_blank">兵变失败内幕流出！普里戈津家人被劫持？兵变致普京虚弱瞬间曝光，厨子会被M口？乌克兰全线反攻</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 
 </ul>
 </div>
