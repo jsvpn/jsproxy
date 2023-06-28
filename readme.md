@@ -11,7 +11,6 @@
 <li><a href="/cbnews/20230628/1901680.md">〖兲朝浮世绘〗李强这次故意装蒜还是他就是个大草包？</a></li>
 <li><a href="/topimagenews/20230628/1901557.md">五名中国职业杀手喜提搞笑诺贝尔奖</a></li>
 <li><a href="/sohnews/20230628/1901518.md">中国几大行急抛美元，救市离岸人民币；赶超ChatGPT，中国科技公司扎堆研发AI机器人；传微信助手真人操控，官方急辟谣；离谱！夫妻双把对方送精神病院；鼠头鸭脖2.0，官方还敢打马虎眼</a></li>
-<li><a href="/cnnews/20230627/1901461.md">欧洲麻烦大了？不只经济火车头倒下 这国上百万个家庭恐破产</a></li>
 <li><a href="/topimagenews/20230628/1901556.md">李强狠批降风险 沙利文一语戳中北京死穴</a></li>
 <li><a href="/cbnews/20230628/1901718.md">上海人排起长队 烈日当头下只为抢个…</a></li>
 <li><a href="/headline/20230628/1901579.md">中国领导层无法承受中俄边境出现混乱局势</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/cbnews/20230628/1901473.md">广东江门赛龙舟“炸毛哥”出圈 一身肌肉、女网友来求婚</a></li>
 <li><a href="/cnnews/20230628/1901580.md">普里戈津已是半疯狂状态 …卢卡申科详述斡旋过程</a></li>
 <li><a href="/cnnews/20230628/1901734.md">中共傻眼！计划全国大洗脑，网友：不怕！不生了【阿波罗网报道】</a></li>
+<li><a href="/funmedia/20230628/1901765.md">国内“吃软饭”第一城：彩礼998万，好色成瘾…</a></li>
 <li><a href="/topimagenews/20230628/1901657.md">又一地产巨头走到了悬崖边缘</a></li>
 <li><a href="/ssgc/20230628/1901681.md">〖微博谈〗天朝很大，但世界更大</a></li>
-<li><a href="/funmedia/20230628/1901765.md">国内“吃软饭”第一城：彩礼998万，好色成瘾…</a></li>
-<li><a href="/topimagenews/20230628/1901596.md">瓦格纳还占领2机场与指挥中心! 打下7战机怕俄空军直接报复不敢撤出</a></li>
-<li><a href="/worldnews/20230628/1901510.md">普亭总统专机之一 即将抵达华盛顿杜勒斯机场</a></li>
 <li><a href="/finance/20230628/1901796.md">中国经济三大红利 北京当局几乎全毁了</a></li>
+<li><a href="/topimagenews/20230628/1901596.md">瓦格纳还占领2机场与指挥中心! 打下7战机怕俄空军直接报复不敢撤出</a></li>
+<li><a href="/topimagenews/20230628/1901782.md">普丁不顾民众安危 炸路阻瓦格纳 网批：俄罗斯已急疯了</a></li>
+<li><a href="/worldnews/20230628/1901510.md">普亭总统专机之一 即将抵达华盛顿杜勒斯机场</a></li>
 <li><a href="/topimagenews/20230628/1901698.md">普京亲口承认! 这下赖不掉了 提供了司法依据</a></li>
 <li><a href="/topimagenews/20230628/1901603.md">普丁称“放任兵变是避免流血” 瓦格纳首脑呛：我一天就可拿下乌克兰</a></li>
-<li><a href="/topimagenews/20230628/1901782.md">普丁不顾民众安危 炸路阻瓦格纳 网批：俄罗斯已急疯了</a></li>
+<li><a href="/ssgc/20230628/1901519.md">北京原国资委主任落马 什么是"严重政治问题书刊"？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 <li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
 
 </ul>
 </div>
