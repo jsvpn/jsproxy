@@ -8,10 +8,8 @@
 <li><a href="/sohnews/20230628/1901602.md">陈破空：实锤了！就是习近平摆谱惹的祸。还有诸多惊人细节。拜登称他是那个！布林肯接话：代表了所有人的看法。谢锋硬杠：咱们是全过程民主</a></li>
 <li><a href="/cbnews/20230628/1901680.md">〖兲朝浮世绘〗李强这次故意装蒜还是他就是个大草包？</a></li>
 <li><a href="/cbnews/20230628/1901718.md">上海人排起长队 烈日当头下只为抢个…</a></li>
-<li><a href="/headline/20230628/1901579.md">中国领导层无法承受中俄边境出现混乱局势</a></li>
 <li><a href="/topimagenews/20230628/1901755.md">大陆C919载客了！外媒曝1惊悚致命伤：小心他毁掉中共“骄傲”</a></li>
 <li><a href="/cnnews/20230628/1901734.md">中共傻眼！计划全国大洗脑，网友：不怕！不生了【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230628/1901580.md">普里戈津已是半疯狂状态 …卢卡申科详述斡旋过程</a></li>
 <li><a href="/finance/20230628/1901796.md">中国经济三大红利 北京当局几乎全毁了</a></li>
 <li><a href="/topimagenews/20230628/1901657.md">又一地产巨头走到了悬崖边缘</a></li>
 <li><a href="/funmedia/20230628/1901765.md">国内“吃软饭”第一城：彩礼998万，好色成瘾…</a></li>
@@ -25,9 +23,11 @@
 <li><a href="/topimagenews/20230628/1901743.md">普京岌岌可危 中南海坐卧不安</a></li>
 <li><a href="/cnnews/20230628/1901588.md">普里格津已成了“活死人” 他目前住在这种地方</a></li>
 <li><a href="/topimagenews/20230628/1901603.md">普丁称“放任兵变是避免流血” 瓦格纳首脑呛：我一天就可拿下乌克兰</a></li>
-<li><a href="/sohnews/20230628/1901807.md">俄罗斯总统专机紧急赴美，抓间谍或谈判？推特脸书格斗赛，马斯克必输无疑？人民日报发动物视频，暗藏颠覆信号？（2023.6.28）｜世界的十字路口 唐浩</a></li>
 <li><a href="/sohnews/20230628/1901805.md">中国承认克里米亚属于乌克兰？俄罗斯打台湾牌反戈一击？久病床前无孝子，中俄为自救开始互捅软肋？</a></li>
+<li><a href="/sohnews/20230628/1901807.md">俄罗斯总统专机紧急赴美，抓间谍或谈判？推特脸书格斗赛，马斯克必输无疑？人民日报发动物视频，暗藏颠覆信号？（2023.6.28）｜世界的十字路口 唐浩</a></li>
 <li><a href="/comments/20230628/1901684.md">美中情局长飞抵莫斯科 试图说服普京按下暂停键</a></li>
+<li><a href="/topimagenews/20230628/1901714.md">冷血割喉! 车臣部队虐杀瓦格纳佣兵？专家：若获普丁授意 恐再削俄军心</a></li>
+<li><a href="/headline/20230628/1901618.md">中国不反对将克里米亚归还给乌克兰</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230629/1901993.md" target="_blank">CSPAN现场影片 拜登：普京已成世界贱民</a></li>
 <li><a href="/topimagenews/20230629/1901968.md" target="_blank">俄特种部队夜袭瓦格纳营地 抓捕4名高级军官</a></li>
 <li><a href="/topimagenews/20230629/1901917.md" target="_blank">突发！演员吹奏中共红歌，突然当众倒下【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230628/1901829.md" target="_blank">中国最赚钱行业彻底凉了，不送外卖都是福报了；德国发通知：机床在中国享受孟晚舟式待遇</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20230628/1901556.md" target="_blank">李强狠批降风险 沙利文一语戳中北京死穴</a></li>
 <li><a href="/topimagenews/20230628/1901530.md" target="_blank">曝美国很快又将对中共出手…</a></li>
 <li><a href="/topimagenews/20230627/1901459.md" target="_blank">白俄总统证实：华格纳首脑已入境 将提供弃置军营容纳佣兵</a></li>
-<li><a href="/topimagenews/20230627/1901451.md" target="_blank">普丁谢军方“阻止内战” 近卫军透露瓦格纳兵变消息来源</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230629/1901995.md" target="_blank">张菁：专家建议水电煤气涨价 中共债务危机凸显</a></li>
+<li><a href="/comments/20230629/1901994.md" target="_blank">苏醒：民众失业 也失去了对中共的信心</a></li>
 <li><a href="/comments/20230629/1901987.md" target="_blank">网海拾贝:越来越多美国人认为中共是头号敌人</a></li>
 <li><a href="/comments/20230629/1901986.md" target="_blank">王赫：中国地方债风险莫测</a></li>
 <li><a href="/comments/20230629/1901985.md" target="_blank">王友群：俄“武装叛乱” 中俄关系现原形</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230628/1901674.md" target="_blank">俄作战命令：第26坦克团，没有增援，你团必须死守</a></li>
 <li><a href="/comments/20230628/1901670.md" target="_blank">俄军令人震惊的失败 世界惊呆</a></li>
 <li><a href="/comments/20230628/1901669.md" target="_blank">重要的是经济：有一种就业叫“全职儿女”</a></li>
-<li><a href="/comments/20230628/1901668.md" target="_blank">德媒：不改战狼本色？传秦刚长篇大论教训她</a></li>
-<li><a href="/comments/20230628/1901667.md" target="_blank">俄罗斯空天军消失的秘密 乌克兰决定重新洗牌</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
 <li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 
 </ul>
 </div>
