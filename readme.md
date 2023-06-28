@@ -16,18 +16,18 @@
 <li><a href="/cnnews/20230627/1901461.md">欧洲麻烦大了？不只经济火车头倒下 这国上百万个家庭恐破产</a></li>
 <li><a href="/topimagenews/20230628/1901556.md">李强狠批降风险 沙利文一语戳中北京死穴</a></li>
 <li><a href="/sohnews/20230628/1901518.md">中国几大行急抛美元，救市离岸人民币；赶超ChatGPT，中国科技公司扎堆研发AI机器人；传微信助手真人操控，官方急辟谣；离谱！夫妻双把对方送精神病院；鼠头鸭脖2.0，官方还敢打马虎眼</a></li>
-<li><a href="/cnnews/20230628/1901580.md">普里戈津已是半疯狂状态 …卢卡申科详述斡旋过程</a></li>
 <li><a href="/cbnews/20230628/1901473.md">广东江门赛龙舟“炸毛哥”出圈 一身肌肉、女网友来求婚</a></li>
+<li><a href="/cnnews/20230628/1901580.md">普里戈津已是半疯狂状态 …卢卡申科详述斡旋过程</a></li>
 <li><a href="/headline/20230628/1901579.md">中国领导层无法承受中俄边境出现混乱局势</a></li>
 <li><a href="/topimagenews/20230628/1901657.md">又一地产巨头走到了悬崖边缘</a></li>
 <li><a href="/topimagenews/20230628/1901596.md">瓦格纳还占领2机场与指挥中心! 打下7战机怕俄空军直接报复不敢撤出</a></li>
 <li><a href="/ssgc/20230628/1901681.md">〖微博谈〗天朝很大，但世界更大</a></li>
 <li><a href="/worldnews/20230628/1901510.md">普亭总统专机之一 即将抵达华盛顿杜勒斯机场</a></li>
-<li><a href="/topimagenews/20230627/1901459.md">白俄总统证实：华格纳首脑已入境 将提供弃置军营容纳佣兵</a></li>
 <li><a href="/topimagenews/20230628/1901603.md">普丁称“放任兵变是避免流血” 瓦格纳首脑呛：我一天就可拿下乌克兰</a></li>
+<li><a href="/topimagenews/20230627/1901459.md">白俄总统证实：华格纳首脑已入境 将提供弃置军营容纳佣兵</a></li>
 <li><a href="/sohnews/20230627/1901403.md">山东大学给黑人留学生配三个“女学伴”｜#时事金扫描 #shorts</a></li>
 <li><a href="/ssgc/20230628/1901519.md">北京原国资委主任落马 什么是"严重政治问题书刊"？</a></li>
-<li><a href="/headline/20230627/1901362.md">首批70名大湾区医护来港交流2个月 内地护士：在香港工作真系好开心</a></li>
+<li><a href="/headline/20230628/1901618.md">中国不反对将克里米亚归还给乌克兰</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230628/1901785.md" target="_blank">兵变之后，一个虚弱的全新普京已横空出世</a></li>
 <li><a href="/comments/20230628/1901770.md" target="_blank">何清涟：中国“橄榄型社会”终成南柯梦</a></li>
 <li><a href="/comments/20230628/1901736.md" target="_blank">不顾整体的个体主义：今天反人类死亡文化的主干 — 曾节明</a></li>
 <li><a href="/comments/20230628/1901732.md" target="_blank">“新闻自由金笔奖”首度在台揭晓 2伊朗记者狱中获奖</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230628/1901624.md" target="_blank">王安:评瓦格纳倒戈莫斯科事件</a></li>
 <li><a href="/comments/20230628/1901623.md" target="_blank">王臻明：瓦格纳集团的短暂兵变是巨变的前奏</a></li>
 <li><a href="/comments/20230628/1901616.md" target="_blank">川普指控史密斯非法泄露录音。法律学者：特别检察官应该进监狱。麦卡锡准备弹劾司法部长加兰，彻底查清真相。</a></li>
-<li><a href="/comments/20230628/1901601.md" target="_blank">美最高法院两记重判 如何影响美国未来【方伟时间-20230627】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 
 </ul>
 </div>
