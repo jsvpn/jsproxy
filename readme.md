@@ -8,7 +8,6 @@
 <li><a href="/cbnews/20230627/1901424.md">习近平女儿长这样？证件照被疯传 乡民惊呼：整形过了？</a></li>
 <li><a href="/topimagenews/20230627/1901346.md">瓦格纳“声东击西”？基辅没了 下一个轮到华沙…</a></li>
 <li><a href="/cnnews/20230627/1901312.md">李强遇最严重”高级黑“？ 网友笑称：这下要哭晕倒下了【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230627/1901278.md">闯大祸了！瓦格纳叛变途中击落俄“空中指挥所” 高级将领恐遇难</a></li>
 <li><a href="/finance/20230627/1901360.md">中国最赚钱的行业彻底凉了，不送外卖都是福报了</a></li>
 <li><a href="/cbnews/20230628/1901542.md">手机别存这4种照片！若有立刻删</a></li>
 <li><a href="/topimagenews/20230628/1901530.md">曝美国很快又将对中共出手…</a></li>
@@ -17,16 +16,17 @@
 <li><a href="/topimagenews/20230628/1901557.md">五名中国职业杀手喜提搞笑诺贝尔奖</a></li>
 <li><a href="/headline/20230627/1901313.md">网红吴晓波论高失业率遭禁言 学者讽「经济也不能说了」</a></li>
 <li><a href="/sohnews/20230628/1901602.md">陈破空：实锤了！就是习近平摆谱惹的祸。还有诸多惊人细节。拜登称他是那个！布林肯接话：代表了所有人的看法。谢锋硬杠：咱们是全过程民主</a></li>
-<li><a href="/topimagenews/20230628/1901556.md">李强狠批降风险 沙利文一语戳中北京死穴</a></li>
 <li><a href="/cnnews/20230627/1901461.md">欧洲麻烦大了？不只经济火车头倒下 这国上百万个家庭恐破产</a></li>
+<li><a href="/topimagenews/20230628/1901556.md">李强狠批降风险 沙利文一语戳中北京死穴</a></li>
 <li><a href="/cnnews/20230627/1901385.md">清华大学，把中国教育的脸给丢尽了；惊悚！中国不发工资要常态化？百强县欠薪半年</a></li>
 <li><a href="/sohnews/20230628/1901518.md">中国几大行急抛美元，救市离岸人民币；赶超ChatGPT，中国科技公司扎堆研发AI机器人；传微信助手真人操控，官方急辟谣；离谱！夫妻双把对方送精神病院；鼠头鸭脖2.0，官方还敢打马虎眼</a></li>
 <li><a href="/baitai/20230627/1901352.md">甲醛大户被揪出，开窗通风也没用</a></li>
-<li><a href="/cbnews/20230628/1901473.md">广东江门赛龙舟“炸毛哥”出圈 一身肌肉、女网友来求婚</a></li>
 <li><a href="/headline/20230628/1901579.md">中国领导层无法承受中俄边境出现混乱局势</a></li>
+<li><a href="/cbnews/20230628/1901473.md">广东江门赛龙舟“炸毛哥”出圈 一身肌肉、女网友来求婚</a></li>
 <li><a href="/cnnews/20230628/1901580.md">普里戈津已是半疯狂状态 …卢卡申科详述斡旋过程</a></li>
-<li><a href="/worldnews/20230628/1901510.md">普亭总统专机之一 即将抵达华盛顿杜勒斯机场</a></li>
+<li><a href="/cbnews/20230628/1901680.md">〖兲朝浮世绘〗李强这次故意装蒜还是他就是个大草包？</a></li>
 <li><a href="/topimagenews/20230628/1901596.md">瓦格纳还占领2机场与指挥中心! 打下7战机怕俄空军直接报复不敢撤出</a></li>
+<li><a href="/worldnews/20230628/1901510.md">普亭总统专机之一 即将抵达华盛顿杜勒斯机场</a></li>
 <li><a href="/topimagenews/20230627/1901332.md">俄罗斯内乱中共反应慢半拍 专家:习近平疑谁是中国版的“他”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230628/1901718.md" target="_blank">上海人排起长队 烈日当头下只为抢个…</a></li>
 <li><a href="/cbnews/20230628/1901680.md" target="_blank">〖兲朝浮世绘〗李强这次故意装蒜还是他就是个大草包？</a></li>
 <li><a href="/cbnews/20230628/1901665.md" target="_blank">大陆第一季结婚增4万对，离婚增12万对</a></li>
 <li><a href="/cbnews/20230628/1901664.md" target="_blank">江峰：习亲俄变“轻俄”，喻普京养虎为患；调停叛乱另有神秘人？乌克兰大喜，唯一能与乌军硬刚的瓦格纳被俄军自废武功。普京表彰军队不见苏罗维金大将、前国防部副部长，将被清算？【江峰漫谈20230627第690期】</a></li>
@@ -59,13 +60,16 @@
 <li><a href="/cbnews/20230627/1901175.md" target="_blank">江峰：普京终於公开露面并毁约，普利戈金叛国瓦格纳爱国？矛盾荒谬暴露普大帝一尊不保；叛乱流产原因曝光；哥本哈根秘密会谈，中共将正式弃俄？关於叛乱的几个疯传的谣言，北约情报给予澄清【20230626第19期】</a></li>
 <li><a href="/cbnews/20230627/1901167.md" target="_blank">〖兲朝浮世绘〗作风淫秽 能打床战</a></li>
 <li><a href="/comments/20230627/1901149.md" target="_blank">瓦格纳军譁变 让普京想到俄国的恶梦【方伟时间-20230626】</a></li>
-<li><a href="/comments/20230627/1901147.md" target="_blank">周子定：普利戈津和普京都搞砸了！未遂“兵变”，拉开“普京的俄国”失败序幕 ｜ 新闻烽火台 06/2626 分钟前</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230628/1901717.md" target="_blank">从近万米高空猎杀中共潜舰！美打造“飞行鱼雷”…</a></li>
+<li><a href="/topimagenews/20230628/1901716.md" target="_blank">针锋相对 美4军机紧随山东号航母</a></li>
+<li><a href="/topimagenews/20230628/1901715.md" target="_blank">扭转战局! 接受欧美训练 9个旅3.6万精锐乌军将开赴前线</a></li>
+<li><a href="/topimagenews/20230628/1901714.md" target="_blank">冷血割喉! 车臣部队虐杀瓦格纳佣兵？专家：若获普丁授意 恐再削俄军心</a></li>
 <li><a href="/topimagenews/20230628/1901699.md" target="_blank">乌军全线推进! 巴赫穆特两路反攻</a></li>
 <li><a href="/topimagenews/20230628/1901698.md" target="_blank">普京亲口承认! 这下赖不掉了 提供了司法依据</a></li>
 <li><a href="/topimagenews/20230628/1901697.md" target="_blank">2024总统最新民调 川普力压拜登</a></li>
@@ -87,16 +91,13 @@
 <li><a href="/topimagenews/20230627/1901254.md" target="_blank">热浪席卷中国及印度 CNN：人类接近生存极限</a></li>
 <li><a href="/topimagenews/20230627/1901253.md" target="_blank">【微博精粹】普大帝水淹脖子 习一尊水性如何</a></li>
 <li><a href="/topimagenews/20230627/1901247.md" target="_blank">不久的将来会与中共开战！美国人更相信美军【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230627/1901236.md" target="_blank">美掌握瓦格纳惊人兵变细节 盟友被蒙在鼓里？</a></li>
-<li><a href="/topimagenews/20230627/1901235.md" target="_blank">中共海空两栖新型飞行器亮相台海上空？遭网友打脸</a></li>
-<li><a href="/topimagenews/20230627/1901193.md" target="_blank">当头一棒！大萧条时代已经来临了…</a></li>
-<li><a href="/topimagenews/20230627/1901158.md" target="_blank">轰6低空“驱离”美航母？中国网民不买账</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230628/1901706.md" target="_blank">以死亡文化反专制不可取 — 曾节明</a></li>
 <li><a href="/comments/20230628/1901700.md" target="_blank">卡尔森第七集推特视频，击中了谎言的核心</a></li>
 <li><a href="/comments/20230628/1901696.md" target="_blank">AI威胁工作岗位？好，那就大政府来管理吧?</a></li>
 <li><a href="/comments/20230628/1901684.md" target="_blank">美中情局长飞抵莫斯科 试图说服普京按下暂停键</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230628/1901598.md" target="_blank">苏暁康：六四屠杀 38集团军军军长徐勤先抗命</a></li>
 <li><a href="/comments/20230628/1901587.md" target="_blank">惠虎宇：中华民国法统 台湾的护国神器</a></li>
 <li><a href="/comments/20230628/1901586.md" target="_blank">吴惠林：重拾亚当．史密斯的经济成长政策</a></li>
-<li><a href="/comments/20230628/1901585.md" target="_blank">王赫：从假日经济数据看中共国“消费降级”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
 <li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 
 </ul>
 </div>
