@@ -8,10 +8,10 @@
 <li><a href="/topimagenews/20230629/1901968.md">俄特种部队夜袭瓦格纳营地 抓捕4名高级军官</a></li>
 <li><a href="/cnnews/20230629/1901996.md">北京渔民捞上沉湖5年小轿车 里面坐一个女人</a></li>
 <li><a href="/sohnews/20230629/1901991.md">普京大清洗开始，大批将军士兵被捕；惊悚政变猛料曝光，普里戈津密谋抓人，绍伊古被扣，普京曾失控！</a></li>
-<li><a href="/cbnews/20230629/1902053.md">〖兲朝浮世绘〗四通桥勇士人间蒸发，中共还要抹去人们对四通桥的记忆</a></li>
 <li><a href="/cnnews/20230629/1902068.md">普京总统专机为何抵美？谜底揭晓</a></li>
-<li><a href="/yule/20230629/1902118.md">李亚鹏告别：一切都结束了 住的房子被强制执行</a></li>
+<li><a href="/cbnews/20230629/1902053.md">〖兲朝浮世绘〗四通桥勇士人间蒸发，中共还要抹去人们对四通桥的记忆</a></li>
 <li><a href="/sohnews/20230629/1902256.md">陈破空：突发：中共上将、火箭军司令被捕！里通外国？瓦格纳兵变意外结果：中俄关系生变！俄国召集南海会议，唯独拒邀中国</a></li>
+<li><a href="/yule/20230629/1902118.md">李亚鹏告别：一切都结束了 住的房子被强制执行</a></li>
 <li><a href="/yule/20230629/1902206.md">林青霞被曝离港,老公接貌美小三回家,私生子进门</a></li>
 <li><a href="/ssgc/20230629/1902073.md">〖微博谈〗晋凉的日子开始倒数了</a></li>
 <li><a href="/sohnews/20230629/1902148.md">文睿：就差下跪了，一尊，开始全面认怂，党媒文章不忍直视</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/health/20230629/1902042.md">男人想要守住“前列腺”，这4件事要少做，再想也要控制住</a></li>
 <li><a href="/sohnews/20230629/1902064.md">陈破空：习近平知错了？忽然改回会见形式。李强学刘备装笨？俄军上将突遭逮捕。兵变原本可以成功，但老普上当了？白俄总统披露内幕：双方用脏话谈判</a></li>
 <li><a href="/topimagenews/20230629/1902157.md">疯了！北京25000人干这活 全中国1年花10,000亿【阿波罗网报道】</a></li>
+<li><a href="/baitai/20230629/1902282.md">谷歌地球发现巨大的「水下墙」覆盖整个地球</a></li>
+<li><a href="/ccpdope/20230629/1902293.md">习近平话音刚落 “美国人民”就答复了</a></li>
 <li><a href="/comments/20230629/1902108.md">两退休高官上演雷人“特权任性”！清华院长冲塔：拒绝爱国教育，抨击党权力毁人！习近平突挺乌克兰</a></li>
 <li><a href="/cnnews/20230629/1902115.md">细节多多！卢卡申科激情爆料最全记录</a></li>
-<li><a href="/topimagenews/20230629/1902214.md">普京与车臣领导人卡德罗夫合照 疑是“蜡像”替身</a></li>
-<li><a href="/topimagenews/20230629/1901993.md">CSPAN现场影片 拜登：普京已成世界贱民</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
 <li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 <li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
 <li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
 
 </ul>
 </div>
