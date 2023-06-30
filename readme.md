@@ -11,10 +11,9 @@
 <li><a href="/ccpdope/20230629/1902293.md">习近平话音刚落 “美国人民”就答复了</a></li>
 <li><a href="/baitai/20230629/1902282.md">谷歌地球发现巨大的「水下墙」覆盖整个地球</a></li>
 <li><a href="/ccpdope/20230630/1902407.md">习提拔两名上将 火箭军司令被查</a></li>
-<li><a href="/topimagenews/20230629/1902224.md">“羞辱”普京没完没了 白俄总统太“白目”</a></li>
 <li><a href="/lifebaike/20230630/1902449.md">心理学：女大不避父的后果是什么？你根本无法想象</a></li>
-<li><a href="/lifebaike/20230630/1902445.md">3岁儿子误把502胶水滴进眼里，爸爸一举动救了娃，医生：干的漂亮</a></li>
 <li><a href="/sohnews/20230630/1902510.md">习近平女儿照片泄露 在美留学底细曝光｜ #时事金扫描 #金然</a></li>
+<li><a href="/lifebaike/20230630/1902445.md">3岁儿子误把502胶水滴进眼里，爸爸一举动救了娃，医生：干的漂亮</a></li>
 <li><a href="/baitai/20230630/1902412.md">习突然晋升上将 专家：中国爆兵变的两种可能</a></li>
 <li><a href="/lifebaike/20230630/1902354.md">这些大学专业被取消了</a></li>
 <li><a href="/cbnews/20230630/1902549.md">〖兲朝浮世绘〗这就是习总所说的 “内循环”？这是道德败坏的典范</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/topimagenews/20230630/1902535.md">【微博精粹】哈工大打响第一枪 AI美女主播抢饭碗</a></li>
 <li><a href="/worldnews/20230630/1902422.md">泽伦斯基顾问：乌军反攻不顺是因为这…</a></li>
 <li><a href="/comments/20230630/1902360.md">余茂春：中共打着人民旗号镇压人民</a></li>
-<li><a href="/topimagenews/20230629/1902319.md">美国最高院裁定 哈佛和北卡大学考虑种族因素招生政策违宪</a></li>
 <li><a href="/ssgc/20230630/1902517.md">〖微博谈〗赖帐——中共是专业团队</a></li>
+<li><a href="/topimagenews/20230629/1902319.md">美国最高院裁定 哈佛和北卡大学考虑种族因素招生政策违宪</a></li>
 <li><a href="/cnnews/20230630/1902395.md">突发意外：巨石30米处砸下，重庆大巴6乘客当场毙命</a></li>
 <li><a href="/baitai/20230630/1902353.md">美国最常见的10大类转基因食品 几乎每天都在食用</a></li>
+<li><a href="/sohnews/20230629/1902322.md">“习近平独裁摧毁党规缘由！深知中共摧毁一切 包括他自己”《今日点击》（06/29/23）中共国民只配中共压迫？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230630/1902653.md" target="_blank">力挫中共南海野心！印度宣布提前对菲交付超音速导弹…</a></li>
 <li><a href="/cbnews/20230630/1902601.md" target="_blank">香港国安法满三年：为基本法23条立法设时间表，两者有何差异</a></li>
 <li><a href="/cbnews/20230630/1902594.md" target="_blank">为军事行动准备？解放军电侦舰4月左去右回绕一圈 6月要右去左回再一次？</a></li>
 <li><a href="/cbnews/20230630/1902590.md" target="_blank">中美全面战争?解放军模拟测试 自曝海军3大弱点</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/comments/20230628/1901826.md" target="_blank">卡尔森推特秀第七集。泽连斯基30秒粉粹援乌理由。拜登接班人须具备两条件，全美仅一人合格。</a></li>
 <li><a href="/cbnews/20230628/1901718.md" target="_blank">上海人排起长队 烈日当头下只为抢个…</a></li>
 <li><a href="/cbnews/20230628/1901680.md" target="_blank">〖兲朝浮世绘〗李强这次故意装蒜还是他就是个大草包？</a></li>
-<li><a href="/cbnews/20230628/1901665.md" target="_blank">大陆第一季结婚增4万对，离婚增12万对</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230630/1902652.md" target="_blank">北约峰会将有“惊喜”?她“剧透”可能提供乌安全 保障并允战后加盟</a></li>
+<li><a href="/topimagenews/20230630/1902651.md" target="_blank">再军援神器!传美将送乌ATACMS导弹系统、集束炸弹 最快七月上战场</a></li>
 <li><a href="/topimagenews/20230630/1902609.md" target="_blank">大翻车！中国政法大学教授洗地 被网友痛骂“太不要脸了”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230630/1902582.md" target="_blank">取消对中防长李尚福制裁才能对话？美五角大厦这样回应~</a></li>
 <li><a href="/topimagenews/20230630/1902569.md" target="_blank">惊恐！瓦格纳兵变 俄寡头携巨款集体出逃 许多私人飞机开溜了</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20230629/1902111.md" target="_blank">拜登芝加哥演说：防范台湾成为下一个遭侵略对象</a></li>
 <li><a href="/topimagenews/20230629/1902103.md" target="_blank">瓦格纳新家？“这基地”火速动工卫星画面曝光</a></li>
 <li><a href="/topimagenews/20230629/1902059.md" target="_blank">中共怕了 鼠头鸭玩具全网被禁，商家可能损失数百万</a></li>
-<li><a href="/topimagenews/20230629/1902058.md" target="_blank">中共地方政府虚增收入美化帐面：或引发金融危机</a></li>
-<li><a href="/topimagenews/20230629/1901993.md" target="_blank">CSPAN现场影片 拜登：普京已成世界贱民</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
 <li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 <li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
 
 </ul>
 </div>
