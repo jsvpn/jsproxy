@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/ccpdope/20230629/1902293.md">习近平话音刚落 “美国人民”就答复了</a></li>
 <li><a href="/ccpdope/20230630/1902407.md">习提拔两名上将 火箭军司令被查</a></li>
 <li><a href="/lifebaike/20230630/1902449.md">心理学：女大不避父的后果是什么？你根本无法想象</a></li>
 <li><a href="/lifebaike/20230630/1902445.md">3岁儿子误把502胶水滴进眼里，爸爸一举动救了娃，医生：干的漂亮</a></li>
 <li><a href="/baitai/20230630/1902412.md">习突然晋升上将 专家：中国爆兵变的两种可能</a></li>
 <li><a href="/sohnews/20230630/1902510.md">习近平女儿照片泄露 在美留学底细曝光｜ #时事金扫描 #金然</a></li>
-<li><a href="/lifebaike/20230630/1902354.md">这些大学专业被取消了</a></li>
 <li><a href="/sohnews/20230630/1902545.md">外泄“习明泽”信息者被双开！是公安厅长！白俄疑为“瓦格纳”建基地，普里戈津飞机到处飞，玩障眼法？普京展开清算；泰坦号安全隐患大，每次下潜都是赌命；海底午夜区很恐怖，状况极其复杂｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/lifebaike/20230630/1902354.md">这些大学专业被取消了</a></li>
 <li><a href="/cbnews/20230630/1902549.md">〖兲朝浮世绘〗这就是习总所说的 “内循环”？这是道德败坏的典范</a></li>
+<li><a href="/topimagenews/20230630/1902609.md">大翻车！中国政法大学教授洗地 被网友痛骂“太不要脸了”【阿波罗网报道】</a></li>
 <li><a href="/worldnews/20230630/1902422.md">泽伦斯基顾问：乌军反攻不顺是因为这…</a></li>
 <li><a href="/topimagenews/20230630/1902582.md">取消对中防长李尚福制裁才能对话？美五角大厦这样回应~</a></li>
 <li><a href="/topimagenews/20230630/1902455.md">赚翻！俄罗斯小伙和姑娘做这事，狂坑中国人</a></li>
 <li><a href="/comments/20230630/1902360.md">余茂春：中共打着人民旗号镇压人民</a></li>
 <li><a href="/topimagenews/20230630/1902535.md">【微博精粹】哈工大打响第一枪 AI美女主播抢饭碗</a></li>
-<li><a href="/topimagenews/20230630/1902609.md">大翻车！中国政法大学教授洗地 被网友痛骂“太不要脸了”【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230630/1902597.md">中国产C919上海飞成都未返航 空客A320代执行回程</a></li>
 <li><a href="/ssgc/20230630/1902517.md">〖微博谈〗赖帐——中共是专业团队</a></li>
 <li><a href="/topimagenews/20230629/1902319.md">美国最高院裁定 哈佛和北卡大学考虑种族因素招生政策违宪</a></li>
 <li><a href="/cnnews/20230630/1902395.md">突发意外：巨石30米处砸下，重庆大巴6乘客当场毙命</a></li>
 <li><a href="/baitai/20230630/1902353.md">美国最常见的10大类转基因食品 几乎每天都在食用</a></li>
 <li><a href="/sohnews/20230629/1902322.md">“习近平独裁摧毁党规缘由！深知中共摧毁一切 包括他自己”《今日点击》（06/29/23）中共国民只配中共压迫？</a></li>
-<li><a href="/comments/20230630/1902557.md">现在轮到美国用“这招”对付中国了</a></li>
 <li><a href="/cbnews/20230630/1902532.md">江峰：合作无上限到分手无底线，中俄要崩----俄南海合作不算中共，中共撑乌收克里米亚；美国会最大代表团抵台，中共不敢“伴飞”“击落”，不敢报；真假普京，俄叛乱後军政大乱【江峰漫谈20230629第691期】</a></li>
+<li><a href="/comments/20230630/1902557.md">现在轮到美国用“这招”对付中国了</a></li>
+<li><a href="/cnnews/20230630/1902434.md">警告！中国正在步入“失去的十年”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
 <li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
 
 </ul>
 </div>
