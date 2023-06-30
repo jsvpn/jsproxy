@@ -8,8 +8,8 @@
 <li><a href="/ccpdope/20230630/1902407.md">习提拔两名上将 火箭军司令被查</a></li>
 <li><a href="/sohnews/20230630/1902510.md">习近平女儿照片泄露 在美留学底细曝光｜ #时事金扫描 #金然</a></li>
 <li><a href="/lifebaike/20230630/1902449.md">心理学：女大不避父的后果是什么？你根本无法想象</a></li>
-<li><a href="/lifebaike/20230630/1902445.md">3岁儿子误把502胶水滴进眼里，爸爸一举动救了娃，医生：干的漂亮</a></li>
 <li><a href="/baitai/20230630/1902412.md">习突然晋升上将 专家：中国爆兵变的两种可能</a></li>
+<li><a href="/lifebaike/20230630/1902445.md">3岁儿子误把502胶水滴进眼里，爸爸一举动救了娃，医生：干的漂亮</a></li>
 <li><a href="/sohnews/20230630/1902545.md">外泄“习明泽”信息者被双开！是公安厅长！白俄疑为“瓦格纳”建基地，普里戈津飞机到处飞，玩障眼法？普京展开清算；泰坦号安全隐患大，每次下潜都是赌命；海底午夜区很恐怖，状况极其复杂｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20230630/1902549.md">〖兲朝浮世绘〗这就是习总所说的 “内循环”？这是道德败坏的典范</a></li>
 <li><a href="/topimagenews/20230630/1902609.md">大翻车！中国政法大学教授洗地 被网友痛骂“太不要脸了”【阿波罗网报道】</a></li>
@@ -24,9 +24,9 @@
 <li><a href="/sohnews/20230630/1902644.md">在军事禁地罗布泊失踪，中国生物化学家彭加木遭遇什么？26年后，两具干 尸现身，官方为何隐瞒一具？悬案并不悬，尘封10年“办案日记”开口说话⋯⋯｜ #百年真相</a></li>
 <li><a href="/baitai/20230630/1902603.md">【404文库】七叔东山再起｜上海大概是穷疯了</a></li>
 <li><a href="/worldnews/20230630/1902663.md">普里格津大限将至？乌克兰情报局曝：普丁已向FSB下达刺杀命令</a></li>
+<li><a href="/topimagenews/20230630/1902687.md">中国经济三大红利 北京当局几乎全毁了；准备收拾谁？中南海自爆家丑事出有因</a></li>
 <li><a href="/sohnews/20230630/1902660.md">文睿：大消息来了，中国人的灾难，真的是没完没了</a></li>
 <li><a href="/cbnews/20230630/1902532.md">江峰：合作无上限到分手无底线，中俄要崩----俄南海合作不算中共，中共撑乌收克里米亚；美国会最大代表团抵台，中共不敢“伴飞”“击落”，不敢报；真假普京，俄叛乱後军政大乱【江峰漫谈20230629第691期】</a></li>
-<li><a href="/topimagenews/20230630/1902687.md">中国经济三大红利 北京当局几乎全毁了；准备收拾谁？中南海自爆家丑事出有因</a></li>
 <li><a href="/baitai/20230630/1902598.md">「内鬼」丛生 知情人曝：中共高官都好这个</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
 
 </ul>
 </div>
