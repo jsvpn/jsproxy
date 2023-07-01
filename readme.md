@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230630/1902510.md">习近平女儿照片泄露 在美留学底细曝光｜ #时事金扫描 #金然</a></li>
 <li><a href="/sohnews/20230630/1902545.md">外泄“习明泽”信息者被双开！是公安厅长！白俄疑为“瓦格纳”建基地，普里戈津飞机到处飞，玩障眼法？普京展开清算；泰坦号安全隐患大，每次下潜都是赌命；海底午夜区很恐怖，状况极其复杂｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20230630/1902549.md">〖兲朝浮世绘〗这就是习总所说的 “内循环”？这是道德败坏的典范</a></li>
 <li><a href="/topimagenews/20230630/1902609.md">大翻车！中国政法大学教授洗地 被网友痛骂“太不要脸了”【阿波罗网报道】</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/topimagenews/20230630/1902535.md">【微博精粹】哈工大打响第一枪 AI美女主播抢饭碗</a></li>
 <li><a href="/topimagenews/20230630/1902661.md">瓦格纳兵变吓坏习近平？共军疑出大事 网传火箭军司令遭“清洗”</a></li>
 <li><a href="/ssgc/20230630/1902597.md">中国产C919上海飞成都未返航 空客A320代执行回程</a></li>
-<li><a href="/ccpdope/20230630/1902744.md">习近平做梦也想不到 老美玩起了这一招</a></li>
 <li><a href="/topimagenews/20230701/1902826.md">404文：上海大概是穷疯了</a></li>
+<li><a href="/ccpdope/20230630/1902744.md">习近平做梦也想不到 老美玩起了这一招</a></li>
 <li><a href="/topimagenews/20230630/1902687.md">中国经济三大红利 北京当局几乎全毁了；准备收拾谁？中南海自爆家丑事出有因</a></li>
 <li><a href="/ssgc/20230630/1902517.md">〖微博谈〗赖帐——中共是专业团队</a></li>
 <li><a href="/sohnews/20230630/1902644.md">在军事禁地罗布泊失踪，中国生物化学家彭加木遭遇什么？26年后，两具干 尸现身，官方为何隐瞒一具？悬案并不悬，尘封10年“办案日记”开口说话⋯⋯｜ #百年真相</a></li>
 <li><a href="/topimagenews/20230630/1902700.md">普里格津还活着？！兵变后疑首度现身 “一指”露玄机</a></li>
 <li><a href="/cbnews/20230630/1902532.md">江峰：合作无上限到分手无底线，中俄要崩----俄南海合作不算中共，中共撑乌收克里米亚；美国会最大代表团抵台，中共不敢“伴飞”“击落”，不敢报；真假普京，俄叛乱後军政大乱【江峰漫谈20230629第691期】</a></li>
 <li><a href="/worldnews/20230630/1902663.md">普里格津大限将至？乌克兰情报局曝：普丁已向FSB下达刺杀命令</a></li>
-<li><a href="/baitai/20230630/1902603.md">【404文库】七叔东山再起｜上海大概是穷疯了</a></li>
 <li><a href="/sohnews/20230630/1902660.md">文睿：大消息来了，中国人的灾难，真的是没完没了</a></li>
+<li><a href="/baitai/20230630/1902603.md">【404文库】七叔东山再起｜上海大概是穷疯了</a></li>
 <li><a href="/ccpdope/20230701/1902780.md">小笑话：左起第三位是江泽民同志</a></li>
 <li><a href="/headline/20230630/1902699.md">习近平主持开会推雄安高质量建设 政治局会议减少台媒提是否因“一言九鼎”</a></li>
-<li><a href="/comments/20230630/1902557.md">现在轮到美国用“这招”对付中国了</a></li>
 <li><a href="/baitai/20230630/1902598.md">「内鬼」丛生 知情人曝：中共高官都好这个</a></li>
+<li><a href="/comments/20230630/1902557.md">现在轮到美国用“这招”对付中国了</a></li>
+<li><a href="/headline/20230630/1902656.md">华日：瓦格纳兵变坏了习近平全球外交棋局</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230701/1902931.md" target="_blank">强硬反制! 中共颁《对外关系法》对抗整个世界 专家：胁迫西方 前所未见</a></li>
+<li><a href="/cbnews/20230701/1902928.md" target="_blank">江峰：普京真要炸扎波罗热核电站？泽伦斯基令全国备手机紧急通告；俄安全局揭军方消灭的是乌军「蚊子部队」普京怒骂「白痴」！俄三支新雇佣军至巴赫姆特，最能打的瓦格纳不见了【江峰视界军事20230630第21期】</a></li>
 <li><a href="/comments/20230701/1902911.md" target="_blank">UFO新证据？！</a></li>
 <li><a href="/cbnews/20230701/1902907.md" target="_blank">解放军疑出大事 传火箭军司令习遭“清洗”</a></li>
 <li><a href="/cbnews/20230701/1902882.md" target="_blank">上海市民办签证大排长龙 黄牛4千一个号被疯抢</a></li>
@@ -58,14 +60,13 @@
 <li><a href="/comments/20230630/1902435.md" target="_blank">升学辅导校长 谈亚裔告哈佛案（二）【方伟时间-20230629】</a></li>
 <li><a href="/cbnews/20230630/1902414.md" target="_blank">哈佛等招生涉种族因素 最高法院裁定违宪</a></li>
 <li><a href="/cbnews/20230629/1902277.md" target="_blank">日拍万颗西瓜 听音辨瓜的“验瓜师”红了</a></li>
-<li><a href="/cbnews/20230629/1902141.md" target="_blank">女儿崩溃！妈妈误拆档案上热搜 网：毫无边界感</a></li>
-<li><a href="/cbnews/20230629/1902123.md" target="_blank">江峰：习近平称中美关系基础在民间遭美国人民打脸；美国会成立老虎小组加速对台军售交货！俄军国内吃瘪海外耍横军舰到台湾。海马斯俄乌发威，台海更好用！台湾更多！【江峰·视界·军事20230628第20期】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230701/1902930.md" target="_blank">CIA局长密访乌克兰 乌官员：年底夺回俄占领土、展开停火谈判</a></li>
 <li><a href="/topimagenews/20230701/1902905.md" target="_blank">国内又一颗时代眼泪 中国用户将无法在 Kindle上购买新书</a></li>
 <li><a href="/topimagenews/20230701/1902889.md" target="_blank">普里戈津在俄罗斯圣彼得堡被发现 乌军王牌突现赫尔松</a></li>
 <li><a href="/topimagenews/20230701/1902880.md" target="_blank">普京不是真的普京？突然亲民吻妹子 与人群玩自拍</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230630/1902431.md" target="_blank">中国人太难了：上班族魔咒：“35岁辞退嫌老，60岁退休嫌小”</a></li>
 <li><a href="/topimagenews/20230629/1902319.md" target="_blank">美国最高院裁定 哈佛和北卡大学考虑种族因素招生政策违宪</a></li>
 <li><a href="/topimagenews/20230629/1902318.md" target="_blank">末日博士罗比尼：全球经济酝酿“热带风暴” 将重创股市</a></li>
-<li><a href="/topimagenews/20230629/1902234.md" target="_blank">胡锡进炒股三天全绿了！中国股市前景如何？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230701/1902929.md" target="_blank">天亮时分：最新：普京下令干掉普里戈津，准备军中大清洗；芯片战升级，布林肯：中共不喜欢也得干；最高法院今做出三个重要裁决（政论天下第1046集 20230630）</a></li>
 <li><a href="/comments/20230701/1902922.md" target="_blank">黄意诚：北大家园食堂的“孤勇者”，暗流涌动的中国社会</a></li>
 <li><a href="/comments/20230701/1902921.md" target="_blank">凭什么？那时，普京赚钱不够普里戈津赚的十分之一</a></li>
 <li><a href="/comments/20230701/1902920.md" target="_blank">苏暁康：屠龙派</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230630/1902696.md" target="_blank">惊！在火星上拍到“甜甜圈岩石” 科学家解释不一</a></li>
 <li><a href="/comments/20230630/1902695.md" target="_blank">中南海定调对外关系 分析：战狼外交宣言</a></li>
 <li><a href="/comments/20230630/1902678.md" target="_blank">美军惊爆！人类回收UFO，遇到外星人！他在51区S4基地，钻研飞碟“穿越时空飞行”模式；公开的人类重大发现 竟是来自“地外”？！｜ #未解之谜 扶摇</a></li>
-<li><a href="/comments/20230630/1902672.md" target="_blank">至少600人被捕！法国非裔少年遭警枪杀引暴动 马克宏急开危机会议</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
 <li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
 
 </ul>
 </div>
