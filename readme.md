@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cbnews/20230701/1902882.md">上海市民办签证大排长龙 黄牛4千一个号被疯抢</a></li>
 <li><a href="/topimagenews/20230701/1902889.md">普里戈津在俄罗斯圣彼得堡被发现 乌军王牌突现赫尔松</a></li>
 <li><a href="/cnnews/20230701/1903037.md">罕见！习近平最新公开讲话 引用了邓小平的一句话【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230701/1902976.md">〖兲朝浮世绘〗围观升旗成了围观大便，好一个有味道的升旗仪式</a></li>
@@ -13,7 +12,6 @@
 <li><a href="/topimagenews/20230701/1903014.md">“5 个 20%”太恐怖! 专家批 : 这还是中国美化过的数字 直言“经济没救”</a></li>
 <li><a href="/yule/20230701/1902974.md">秦昊：伊能静 你有病得治</a></li>
 <li><a href="/lifebaike/20230701/1903052.md">柠檬能杀死12种癌，比化疗强一万倍？喝柠檬水能抗癌？真相来了</a></li>
-<li><a href="/comments/20230701/1902878.md">文昭：刺激消费，李强终於发力了！措施力度堪比当年的「最高指示」，感动了没？</a></li>
 <li><a href="/ssgc/20230701/1903098.md">政治局不务正业 习近平讲话透真相</a></li>
 <li><a href="/cnnews/20230701/1902973.md">王毅讲话又出糗！数千网友在线“踢场子”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230701/1902998.md">陆高铁站一男发狂捅人 一男一女遭“扑倒捅杀”捂肚阻喷血…酿一人死亡</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/sohnews/20230701/1903060.md">文睿：公开，批判全党，一尊急眼了，这次热闹可大了</a></li>
 <li><a href="/comments/20230701/1902963.md">重磅！普里戈津杀回俄罗斯？普京正式下令要他命！俄高层两部门火拼出人命！中国政法大学叫兽郭继承挺习大翻车</a></li>
 <li><a href="/baitai/20230701/1903042.md">郭汝瑰：隐藏在蒋介石身边的中共特务最终下场</a></li>
+<li><a href="/cnnews/20230701/1902896.md">惨剧！被假央企忽悠 甘肃还以为自己能赶超日本</a></li>
+<li><a href="/headline/20230701/1903129.md">普京脱手抛售人民币 遭指补刀</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230702/1903192.md" target="_blank">UFO穿越时空证据！</a></li>
 <li><a href="/cbnews/20230701/1903101.md" target="_blank">江峰：普京盯上了包子 在这儿下手了</a></li>
 <li><a href="/cbnews/20230701/1903020.md" target="_blank">日本首次确认：中共新型两栖攻击舰进入太平洋</a></li>
 <li><a href="/comments/20230701/1902994.md" target="_blank">首席大法官罗伯茨，罕见嘲讽三名自由派女大法官。美国最高法院重拳出击，拜登被气得直骂大法官不懂宪法；最高法院裁决，为川普提供竞选弹药。</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230630/1902553.md" target="_blank">“这种死法没见过” 男子离奇惨死，曝恐怖一幕</a></li>
 <li><a href="/cbnews/20230630/1902549.md" target="_blank">〖兲朝浮世绘〗这就是习总所说的 “内循环”？这是道德败坏的典范</a></li>
 <li><a href="/comments/20230630/1902542.md" target="_blank">保守派巨大胜利！最高法院内激烈博弈。揭秘平权行动如何演变成极左议程。美国最高法院裁定，哈佛和北卡基于平权行动的招生违宪。</a></li>
-<li><a href="/cbnews/20230630/1902532.md" target="_blank">江峰：合作无上限到分手无底线，中俄要崩&#8212;-俄南海合作不算中共，中共撑乌收克里米亚；美国会最大代表团抵台，中共不敢“伴飞”“击落”，不敢报；真假普京，俄叛乱後军政大乱【江峰漫谈20230629第691期】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230702/1903192.md" target="_blank">UFO穿越时空证据！</a></li>
 <li><a href="/comments/20230702/1903148.md" target="_blank">城管见人下菜碟的执法日常 厉害了我的公务员</a></li>
 <li><a href="/comments/20230701/1903112.md" target="_blank">文昭：提振经济的新举措，怎么听着像“忙时吃干、闲时吃稀”的最高指示？</a></li>
 <li><a href="/comments/20230701/1903111.md" target="_blank">文昭：刺激消费新政来了，啥样？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230701/1902908.md" target="_blank">颜纯钩:国民党气数已尽，柯文哲难当大任</a></li>
 <li><a href="/comments/20230701/1902881.md" target="_blank">韩秀｜我的新疆岁月：没有屋顶的劳改营，只进不出；观看批斗被打，昏迷3天无人问津；我是唯一有条件纪录这段历史的人 ｜#方菲时间</a></li>
 <li><a href="/comments/20230701/1902878.md" target="_blank">文昭：刺激消费，李强终於发力了！措施力度堪比当年的「最高指示」，感动了没？</a></li>
-<li><a href="/comments/20230701/1902858.md" target="_blank">【独家重磅】李燕铭：曾庆红江西帮大管家主动投案 江西省两任省长高危 其中一人曾安排孟建柱情妇私生子定居澳大利亚 习近平连任后大清洗（42） 习近平清洗江西帮围剿曾庆红（25）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 <li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
 <li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
 
 </ul>
 </div>
