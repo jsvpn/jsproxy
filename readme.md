@@ -6,22 +6,22 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230630/1902657.md">瓦格纳兵变后公开现身画怪脸 普京到底怎么了…</a></li>
+<li><a href="/ccpdope/20230630/1902744.md">习近平做梦也想不到 老美玩起了这一招</a></li>
 <li><a href="/topimagenews/20230630/1902661.md">瓦格纳兵变吓坏习近平？共军疑出大事 网传火箭军司令遭“清洗”</a></li>
 <li><a href="/topimagenews/20230701/1902826.md">404文：上海大概是穷疯了</a></li>
-<li><a href="/ccpdope/20230630/1902744.md">习近平做梦也想不到 老美玩起了这一招</a></li>
 <li><a href="/topimagenews/20230630/1902687.md">中国经济三大红利 北京当局几乎全毁了；准备收拾谁？中南海自爆家丑事出有因</a></li>
 <li><a href="/sohnews/20230630/1902644.md">在军事禁地罗布泊失踪，中国生物化学家彭加木遭遇什么？26年后，两具干 尸现身，官方为何隐瞒一具？悬案并不悬，尘封10年“办案日记”开口说话⋯⋯｜ #百年真相</a></li>
-<li><a href="/topimagenews/20230701/1902870.md">新的旧的，都不卖给中国</a></li>
 <li><a href="/cbnews/20230701/1902882.md">上海市民办签证大排长龙 黄牛4千一个号被疯抢</a></li>
+<li><a href="/topimagenews/20230701/1902870.md">新的旧的，都不卖给中国</a></li>
 <li><a href="/sohnews/20230630/1902660.md">文睿：大消息来了，中国人的灾难，真的是没完没了</a></li>
+<li><a href="/cbnews/20230701/1902812.md">中国情侣巴厘岛命案调查结果公布 警方详述过程</a></li>
 <li><a href="/topimagenews/20230630/1902700.md">普里格津还活着？！兵变后疑首度现身 “一指”露玄机</a></li>
 <li><a href="/ccpdope/20230701/1902780.md">小笑话：左起第三位是江泽民同志</a></li>
-<li><a href="/cbnews/20230701/1902812.md">中国情侣巴厘岛命案调查结果公布 警方详述过程</a></li>
 <li><a href="/worldnews/20230630/1902663.md">普里格津大限将至？乌克兰情报局曝：普丁已向FSB下达刺杀命令</a></li>
+<li><a href="/cnnews/20230701/1902871.md">马斯克又火了！最全“马斯克预言” 不敢多看</a></li>
 <li><a href="/headline/20230630/1902699.md">习近平主持开会推雄安高质量建设 政治局会议减少台媒提是否因“一言九鼎”</a></li>
 <li><a href="/topimagenews/20230701/1902845.md">倒塌的英雄神话——极品“乌奸”保尔.柯察金</a></li>
 <li><a href="/topimagenews/20230701/1902889.md">普里戈津在俄罗斯圣彼得堡被发现 乌军王牌突现赫尔松</a></li>
-<li><a href="/cnnews/20230701/1902871.md">马斯克又火了！最全“马斯克预言” 不敢多看</a></li>
 <li><a href="/cnnews/20230701/1902855.md">马兴瑞——保习近平连任的封疆维稳大员</a></li>
 <li><a href="/headline/20230630/1902656.md">华日：瓦格纳兵变坏了习近平全球外交棋局</a></li>
 <li><a href="/ccpdope/20230701/1902864.md">心惊肉跳 习近平七一前大喊护党</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
 <li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
 
 </ul>
 </div>
