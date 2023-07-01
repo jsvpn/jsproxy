@@ -18,16 +18,16 @@
 <li><a href="/cbnews/20230701/1902812.md">中国情侣巴厘岛命案调查结果公布 警方详述过程</a></li>
 <li><a href="/sohnews/20230630/1902660.md">文睿：大消息来了，中国人的灾难，真的是没完没了</a></li>
 <li><a href="/ccpdope/20230701/1902780.md">小笑话：左起第三位是江泽民同志</a></li>
-<li><a href="/baitai/20230630/1902603.md">【404文库】七叔东山再起｜上海大概是穷疯了</a></li>
 <li><a href="/worldnews/20230630/1902663.md">普里格津大限将至？乌克兰情报局曝：普丁已向FSB下达刺杀命令</a></li>
 <li><a href="/headline/20230630/1902699.md">习近平主持开会推雄安高质量建设 政治局会议减少台媒提是否因“一言九鼎”</a></li>
-<li><a href="/headline/20230630/1902656.md">华日：瓦格纳兵变坏了习近平全球外交棋局</a></li>
-<li><a href="/baitai/20230630/1902598.md">「内鬼」丛生 知情人曝：中共高官都好这个</a></li>
-<li><a href="/comments/20230630/1902557.md">现在轮到美国用“这招”对付中国了</a></li>
+<li><a href="/baitai/20230630/1902603.md">【404文库】七叔东山再起｜上海大概是穷疯了</a></li>
 <li><a href="/topimagenews/20230701/1902845.md">倒塌的英雄神话——极品“乌奸”保尔.柯察金</a></li>
-<li><a href="/lifebaike/20230630/1902615.md">洗个澡，命就没了？曾多人因洗澡去世…医生提醒：千万别这么洗</a></li>
-<li><a href="/comments/20230630/1902678.md">美军惊爆！人类回收UFO，遇到外星人！他在51区S4基地，钻研飞碟“穿越时空飞行”模式；公开的人类重大发现 竟是来自“地外”？！｜ #未解之谜 扶摇</a></li>
+<li><a href="/headline/20230630/1902656.md">华日：瓦格纳兵变坏了习近平全球外交棋局</a></li>
 <li><a href="/topimagenews/20230701/1902870.md">新的旧的，都不卖给中国</a></li>
+<li><a href="/baitai/20230630/1902598.md">「内鬼」丛生 知情人曝：中共高官都好这个</a></li>
+<li><a href="/comments/20230630/1902678.md">美军惊爆！人类回收UFO，遇到外星人！他在51区S4基地，钻研飞碟“穿越时空飞行”模式；公开的人类重大发现 竟是来自“地外”？！｜ #未解之谜 扶摇</a></li>
+<li><a href="/lifebaike/20230630/1902615.md">洗个澡，命就没了？曾多人因洗澡去世…医生提醒：千万别这么洗</a></li>
+<li><a href="/cbnews/20230701/1902882.md">上海市民办签证大排长龙 黄牛4千一个号被疯抢</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230701/1902984.md" target="_blank">揭祕UFO飞碟！</a></li>
 <li><a href="/cbnews/20230701/1902976.md" target="_blank">〖兲朝浮世绘〗围观升旗成了围观大便，好一个有味道的升旗仪式</a></li>
 <li><a href="/comments/20230701/1902937.md" target="_blank">最高法院四连案 拉住美国不下滑【方伟时间-06302023】</a></li>
 <li><a href="/cbnews/20230701/1902931.md" target="_blank">强硬反制! 中共颁《对外关系法》对抗整个世界 专家：胁迫西方 前所未见</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230630/1902444.md" target="_blank">横河：高院历史性判决影响重大！对美大学招生会有什么实际影响？｜新闻烽火台 06/29</a></li>
 <li><a href="/comments/20230630/1902437.md" target="_blank">诸葛亮长这样？！</a></li>
 <li><a href="/comments/20230630/1902436.md" target="_blank">升学辅导校长 谈亚裔告哈佛案（一）【方伟时间-20230629】</a></li>
-<li><a href="/comments/20230630/1902435.md" target="_blank">升学辅导校长 谈亚裔告哈佛案（二）【方伟时间-20230629】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230701/1902984.md" target="_blank">揭祕UFO飞碟！</a></li>
 <li><a href="/comments/20230701/1902971.md" target="_blank">热帖：美国历史性裁决，但亚裔真的赢了吗？</a></li>
 <li><a href="/comments/20230701/1902963.md" target="_blank">重磅！普里戈津杀回俄罗斯？普京正式下令要他命！俄高层两部门火拼出人命！中国政法大学叫兽郭继承挺习大翻车</a></li>
 <li><a href="/comments/20230701/1902950.md" target="_blank">敏敏郡主：最后的调查记者？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230701/1902847.md" target="_blank">王友群：蔡奇须正视的一个重大问题</a></li>
 <li><a href="/comments/20230701/1902846.md" target="_blank">袁斌：吴晓波被全网封杀与胡锡进变身股民</a></li>
 <li><a href="/comments/20230701/1902842.md" target="_blank">高学历就业也难 山东大学聘硕士任公寓管理员 惹议</a></li>
-<li><a href="/comments/20230701/1902841.md" target="_blank">亡党危机空前? 习近平罕见下令忠诚护党</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
 
 </ul>
 </div>
