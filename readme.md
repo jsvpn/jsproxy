@@ -23,9 +23,9 @@
 <li><a href="/ssgc/20230702/1903387.md">国之将亡必有妖孽：中共国的末世风情</a></li>
 <li><a href="/cnnews/20230702/1903179.md">习近平超美梦碎！中国风头最劲AI公司兜头一盆冷水</a></li>
 <li><a href="/ssgc/20230702/1903401.md">亲李克强的“国师”暗批习“抓权”？</a></li>
+<li><a href="/comments/20230702/1903399.md">高晓松国外公开露面 全是国内不敢说的 系列只能听八个样板戏的大陆人</a></li>
 <li><a href="/cnnews/20230702/1903297.md">突发！特斯拉官宣：现车大降价</a></li>
 <li><a href="/lifebaike/20230702/1903203.md">关灯蚊子嗡嗡叫，开了灯却找不到？看完涨知识了，现在知道还不晚</a></li>
-<li><a href="/comments/20230702/1903399.md">高晓松国外公开露面 全是国内不敢说的 系列只能听八个样板戏的大陆人</a></li>
 <li><a href="/baitai/20230702/1903302.md">【CDT报告汇】德国智库：习近平第三个任期下的中国将“得过且过” （外二篇）</a></li>
 <li><a href="/cnnews/20230702/1903234.md">中共脸丢大了！约70名官员申请赴台参展被拒</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230703/1903430.md" target="_blank">高晓松国外公开露面 全是国内不敢说的 系列文革穷的“薅羊毛” 诡异的摇篮曲</a></li>
 <li><a href="/comments/20230703/1903425.md" target="_blank">恒古的追寻 作者：楚天秋</a></li>
 <li><a href="/comments/20230702/1903407.md" target="_blank">中共会偷偷在古巴设导弹吗？哈佛等名校在招生过程中真的有歧视亚裔吗？｜方菲时间 07/01</a></li>
 <li><a href="/comments/20230702/1903399.md" target="_blank">高晓松国外公开露面 全是国内不敢说的 系列只能听八个样板戏的大陆人</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230702/1903201.md" target="_blank">天下事：习高喊“忠诚护党”凸显亡党忧患</a></li>
 <li><a href="/comments/20230702/1903200.md" target="_blank">中共彻底埋葬韬光养晦，为战狼外交披上“法治”外衣</a></li>
 <li><a href="/comments/20230702/1903196.md" target="_blank">周晓辉：高官看禁书被查 大陆秘密读者知多少</a></li>
-<li><a href="/comments/20230702/1903192.md" target="_blank">UFO穿越时空证据！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
 <li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
 <li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 
 </ul>
 </div>
