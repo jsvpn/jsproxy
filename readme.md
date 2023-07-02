@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230702/1903159.md">危机四伏！习近平当局要“颠覆”？</a></li>
 <li><a href="/topimagenews/20230702/1903245.md">“美女书记”落马：美国房产20多套，靠山倒台</a></li>
 <li><a href="/headline/20230702/1903164.md">美国国务院发布最新前往中国的旅行警示</a></li>
 <li><a href="/sohnews/20230702/1903182.md">中共火箭军出大事了! 军迷哀叹 全烂掉了｜ #时事金扫描 #金然</a></li>
@@ -17,8 +16,8 @@
 <li><a href="/sohnews/20230702/1903240.md">陈破空：共军出大事！前国防部长下落不明。上将托儿子把军事绝密交美方？党媒刊文佐证：有人身在曹营心在汉。心怀异心。北京高校：有人一提拥护就大翻车</a></li>
 <li><a href="/topimagenews/20230702/1903183.md">中共央行何时出手？正等待这个时机…..</a></li>
 <li><a href="/ssgc/20230702/1903387.md">国之将亡必有妖孽：中共国的末世风情</a></li>
-<li><a href="/comments/20230702/1903399.md">高晓松国外公开露面 全是国内不敢说的 系列只能听八个样板戏的大陆人</a></li>
 <li><a href="/ssgc/20230702/1903401.md">亲李克强的“国师”暗批习“抓权”？</a></li>
+<li><a href="/comments/20230702/1903399.md">高晓松国外公开露面 全是国内不敢说的 系列只能听八个样板戏的大陆人</a></li>
 <li><a href="/cnnews/20230702/1903179.md">习近平超美梦碎！中国风头最劲AI公司兜头一盆冷水</a></li>
 <li><a href="/cnnews/20230702/1903297.md">突发！特斯拉官宣：现车大降价</a></li>
 <li><a href="/lifebaike/20230702/1903203.md">关灯蚊子嗡嗡叫，开了灯却找不到？看完涨知识了，现在知道还不晚</a></li>
@@ -26,8 +25,9 @@
 <li><a href="/cnnews/20230702/1903234.md">中共脸丢大了！约70名官员申请赴台参展被拒</a></li>
 <li><a href="/cnnews/20230702/1903232.md">阿里“锦衣卫”蒋芳 送7名高层入狱 还能查马云</a></li>
 <li><a href="/sohnews/20230702/1903278.md">罕见！习引用邓小平讲话；“改革开放”真相被揭，邓小平的真面目；习近平喊：故国不堪回首！急避“苏联解体”；中俄权力“平衡木”都面临危机；“七一”港警如临大敌，三人一岗监视行人｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/worldnews/20230702/1903333.md">超越古希腊雕像的身材 健身网红猝逝年仅30岁</a></li>
 <li><a href="/cbnews/20230702/1903304.md">中共蚌埠官员蚌埠住了</a></li>
+<li><a href="/worldnews/20230702/1903333.md">超越古希腊雕像的身材 健身网红猝逝年仅30岁</a></li>
+<li><a href="/funmedia/20230702/1903219.md">这三句话，聪明的父母会守口如瓶，糊涂的父母逢人就说</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230703/1903461.md" target="_blank">李燕铭：习近平开政治局会议释放金融系统大整顿信号 一天三起重大人事任命 两名正部级高官同日调整包括一名中央委员 韩正原大管家调职 丁薛祥国务院大秘换人 钱袋子争夺战（43） 习连任后高层人事大洗牌（106） 习家军接掌国务院（25）</a></li>
+<li><a href="/comments/20230703/1903459.md" target="_blank">香港GDP超过1997年一倍 但出口已经连续跌13个月</a></li>
+<li><a href="/comments/20230703/1903458.md" target="_blank">中国大量购买天然气 为保能源安全</a></li>
 <li><a href="/comments/20230703/1903441.md" target="_blank">习近平武力攻台，谁来“清君侧”？</a></li>
 <li><a href="/comments/20230703/1903430.md" target="_blank">高晓松国外公开露面 全是国内不敢说的 系列文革穷的“薅羊毛” 诡异的摇篮曲</a></li>
 <li><a href="/comments/20230703/1903425.md" target="_blank">恒古的追寻 作者：楚天秋</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230702/1903243.md" target="_blank">塔克推特秀第8集，透露两大异常。揭开卡尔森即将要做的另一件大事。</a></li>
 <li><a href="/comments/20230702/1903228.md" target="_blank">蔡垒磊:中产的社会等级幻觉</a></li>
 <li><a href="/comments/20230702/1903210.md" target="_blank">高院案例 &#8211; 科罗拉多州的故事</a></li>
-<li><a href="/comments/20230702/1903202.md" target="_blank">名家专栏:中共在东南亚经济霸主地位塌陷</a></li>
-<li><a href="/comments/20230702/1903201.md" target="_blank">天下事：习高喊“忠诚护党”凸显亡党忧患</a></li>
-<li><a href="/comments/20230702/1903200.md" target="_blank">中共彻底埋葬韬光养晦，为战狼外交披上“法治”外衣</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
 <li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
 
 </ul>
 </div>
