@@ -8,26 +8,26 @@
 <li><a href="/cnnews/20230701/1903037.md">罕见！习近平最新公开讲话 引用了邓小平的一句话【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230701/1902976.md">〖兲朝浮世绘〗围观升旗成了围观大便，好一个有味道的升旗仪式</a></li>
 <li><a href="/topimagenews/20230701/1903094.md">今时今日 大陆房价泡沫已在破灭之中；警告！中国正在步入“失去的十年”</a></li>
-<li><a href="/yule/20230701/1902974.md">秦昊：伊能静 你有病得治</a></li>
 <li><a href="/topimagenews/20230702/1903157.md">西安教授晒与4个美女研究生合影 评论区满满恶意</a></li>
+<li><a href="/yule/20230701/1902974.md">秦昊：伊能静 你有病得治</a></li>
 <li><a href="/lifebaike/20230701/1903052.md">柠檬能杀死12种癌，比化疗强一万倍？喝柠檬水能抗癌？真相来了</a></li>
 <li><a href="/topimagenews/20230701/1903014.md">“5 个 20%”太恐怖! 专家批 : 这还是中国美化过的数字 直言“经济没救”</a></li>
 <li><a href="/cnnews/20230701/1902973.md">王毅讲话又出糗！数千网友在线“踢场子”【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230701/1902998.md">陆高铁站一男发狂捅人 一男一女遭“扑倒捅杀”捂肚阻喷血…酿一人死亡</a></li>
 <li><a href="/ssgc/20230701/1903098.md">政治局不务正业 习近平讲话透真相</a></li>
+<li><a href="/topimagenews/20230701/1902998.md">陆高铁站一男发狂捅人 一男一女遭“扑倒捅杀”捂肚阻喷血…酿一人死亡</a></li>
 <li><a href="/yule/20230702/1903155.md">秦岚“天选之臀”太抢眼 网友：好到逆天</a></li>
 <li><a href="/topimagenews/20230701/1902987.md">“骄傲”不了了！才1个月…大陆C919惊爆停飞！专家曝恐“1致命原因”</a></li>
-<li><a href="/sohnews/20230701/1903030.md">中国著名生物化学家彭加木在罗布泊军事禁区失踪⋯⋯真相究竟如何？｜ #百年真相</a></li>
 <li><a href="/topimagenews/20230702/1903159.md">危机四伏！习近平当局要“颠覆”？</a></li>
+<li><a href="/sohnews/20230701/1903030.md">中国著名生物化学家彭加木在罗布泊军事禁区失踪⋯⋯真相究竟如何？｜ #百年真相</a></li>
 <li><a href="/cbnews/20230701/1903101.md">江峰：普京盯上了包子 在这儿下手了</a></li>
 <li><a href="/ccpdope/20230702/1903141.md">罕见：中共军事代表团车队在缅甸遇袭</a></li>
-<li><a href="/ccpdope/20230702/1903145.md">「总统来了 蔡英文」 再看看对岸那头伟大领袖</a></li>
 <li><a href="/topimagenews/20230702/1903153.md">巴赫穆特要变天了！5万俄军就要遭合围</a></li>
-<li><a href="/ssgc/20230701/1902961.md">〖微博谈〗请美国加大力度</a></li>
+<li><a href="/ccpdope/20230702/1903145.md">「总统来了 蔡英文」 再看看对岸那头伟大领袖</a></li>
+<li><a href="/headline/20230702/1903164.md">美国国务院发布最新前往中国的旅行警示</a></li>
 <li><a href="/sohnews/20230702/1903150.md">“替习近平干脏活儿！纽约邮报大喊：永远不知道当今数十亿人 为何遭此？！😢”No.03（07/01/23）</a></li>
 <li><a href="/sohnews/20230701/1903060.md">文睿：公开，批判全党，一尊急眼了，这次热闹可大了</a></li>
-<li><a href="/headline/20230702/1903164.md">美国国务院发布最新前往中国的旅行警示</a></li>
 <li><a href="/health/20230701/1903049.md">一旦发现，多为晚期！肺癌早期5大症状，第4个最易忽视</a></li>
+<li><a href="/baitai/20230701/1903004.md">乌拟「智取」内讧俄军 惊人爆料：普京向美求和</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230702/1903287.md" target="_blank">看看人家蔡英文，再看看对岸那头伟大领袖</a></li>
+<li><a href="/comments/20230702/1903282.md" target="_blank">天亮时分：俄乌战争这时候结束？房市、股市、汇市均暴跌，到哪儿是个头？马斯克和扎克伯格都是武林高手，比武还在计划中（YouTube会员节目第24集 20230701）</a></li>
 <li><a href="/comments/20230702/1903274.md" target="_blank">怕人偷看iPhone3个小技巧 保密不怕骇</a></li>
 <li><a href="/comments/20230702/1903267.md" target="_blank">最高院判例 &#8211; 科罗拉多州的逆转故事</a></li>
 <li><a href="/comments/20230702/1903261.md" target="_blank">【杰森视角】人民币汇率已经失控？ 8分钟透彻理解人民币汇率控制机制！中国人都有躺平赚一万多元的机会！中共全球换钱背后的真相很吓人！俄国是如何祸害人民币的？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230701/1902971.md" target="_blank">热帖：美国历史性裁决，但亚裔真的赢了吗？</a></li>
 <li><a href="/comments/20230701/1902963.md" target="_blank">重磅！普里戈津杀回俄罗斯？普京正式下令要他命！俄高层两部门火拼出人命！中国政法大学叫兽郭继承挺习大翻车</a></li>
 <li><a href="/comments/20230701/1902950.md" target="_blank">敏敏郡主：最后的调查记者？</a></li>
-<li><a href="/comments/20230701/1902949.md" target="_blank">常识流通处：夫妻互送对方进精神病院，为什么令人背脊发凉</a></li>
-<li><a href="/comments/20230701/1902939.md" target="_blank">吕德文:武大教授吕德文：形式主义折腾得基层已经无法干正事了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
 
 </ul>
 </div>
