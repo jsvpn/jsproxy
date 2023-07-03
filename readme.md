@@ -5,11 +5,10 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/ccpdope/20230703/1903460.md">专家：习近平在中共政治局的发言透露着绝望</a></li>
 <li><a href="/topimagenews/20230703/1903487.md">小船要翻 习近平失算了？</a></li>
 <li><a href="/topimagenews/20230703/1903488.md">比经济学家想象的还糟！中共地方政府开始自卖自买了</a></li>
-<li><a href="/comments/20230703/1903481.md">姚诚：瓦格纳事件让习近平吸取两个教训；中共军人将在性命和金钱间选择；普京若下台中共也将倒台 ｜#方菲时间</a></li>
 <li><a href="/topimagenews/20230703/1903575.md">【微博精粹】末日将至 心乱如麻</a></li>
+<li><a href="/comments/20230703/1903481.md">姚诚：瓦格纳事件让习近平吸取两个教训；中共军人将在性命和金钱间选择；普京若下台中共也将倒台 ｜#方菲时间</a></li>
 <li><a href="/topimagenews/20230703/1903610.md">苦日子要来了?中共喉舌突然统一行动【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230703/1903642.md">知名社交平台突然倒闭！估值80亿，孙正义“踩雷”</a></li>
 <li><a href="/cnnews/20230703/1903580.md">朱镕基讲歪了一个放屁的段子，结果惊动了国务院</a></li>
@@ -20,11 +19,12 @@
 <li><a href="/worldnews/20230703/1903569.md">惊曝世界浩劫？！泽伦斯基：俄军已经开始撤离</a></li>
 <li><a href="/topimagenews/20230703/1903651.md">俄军阵亡人数已突破23万人！乌克兰轰爆顿内茨克俄军指挥部 击毙31人…</a></li>
 <li><a href="/topimagenews/20230703/1903498.md">和他人妻电梯里“可不描述”…杨副书记多监控录像流出</a></li>
-<li><a href="/topimagenews/20230703/1903597.md">乌军大突破 突破马拉托克马奇卡 俄军溃逃10公里</a></li>
 <li><a href="/cnnews/20230703/1903658.md">惨绝人寰灭门惨案！华裔中医一家被杀，尸身缠满胶带被裹成木乃伊</a></li>
+<li><a href="/topimagenews/20230703/1903597.md">乌军大突破 突破马拉托克马奇卡 俄军溃逃10公里</a></li>
 <li><a href="/baitai/20230703/1903482.md">大势已去？习近平自曝亡党危机 用一句唐诗形容它</a></li>
 <li><a href="/comments/20230703/1903685.md">习近平第三任期下的中国，将“得过且过”</a></li>
 <li><a href="/ssgc/20230703/1903566.md">〖微博谈〗那创造的财富哪里去了？</a></li>
+<li><a href="/sohnews/20230703/1903737.md">相互翻脸！习近平普京之间出事了｜ #时事金扫描 #金然 #shotrs</a></li>
 <li><a href="/topimagenews/20230703/1903519.md">高铁“七连踢”事件：这是辟的哪门子谣？</a></li>
 <li><a href="/cbnews/20230703/1903541.md">突发事故：广东双层大巴侧翻…现场曝光</a></li>
 <li><a href="/lifebaike/20230703/1903693.md">我在北京月租两万的房子里，不敢洗澡</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230704/1903866.md" target="_blank">男孩被逼吃粪后续 孩子已不认人 曝被迫和解内幕</a></li>
 <li><a href="/cbnews/20230704/1903852.md" target="_blank">美官员自曝：耶伦访中 应该不会见到他</a></li>
 <li><a href="/cbnews/20230704/1903851.md" target="_blank">刚出狱1年 中国科学家贺建奎又动“歪脑筋”</a></li>
 <li><a href="/cbnews/20230704/1903819.md" target="_blank">七一党媒旧文重刊习近平忧虑亡党：苏共倒台“不堪回首”</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20230702/1903253.md" target="_blank">下跪磕头道歉！浙江火车站清洁阿姨弄脏民众衣服</a></li>
 <li><a href="/comments/20230702/1903243.md" target="_blank">塔克推特秀第8集，透露两大异常。揭开卡尔森即将要做的另一件大事。</a></li>
 <li><a href="/comments/20230702/1903210.md" target="_blank">高院案例 &#8211; 科罗拉多州的故事</a></li>
-<li><a href="/comments/20230702/1903192.md" target="_blank">UFO穿越时空证据！</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230704/1903865.md" target="_blank">有大鱼！“北极鲶鱼”上热搜后 蔡徐坤“爆”了</a></li>
 <li><a href="/topimagenews/20230704/1903850.md" target="_blank">CBD也扛不住？ 北京甲级写字楼空置率将破20%</a></li>
 <li><a href="/topimagenews/20230704/1903814.md" target="_blank">中国政府经济顾问示警：青年失业问题恐引发政治危机</a></li>
 <li><a href="/topimagenews/20230703/1903691.md" target="_blank">停止招募新兵！瓦格纳集团在俄罗斯正式歇业…</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230703/1903440.md" target="_blank">网民玩笑虚拟的“山河大学”，浪漫？更是心酸</a></li>
 <li><a href="/topimagenews/20230703/1903439.md" target="_blank">北京马驹桥现场实录 底层之音，哀民生之多艰</a></li>
 <li><a href="/topimagenews/20230703/1903438.md" target="_blank">泽伦斯基：全世界都想夺普京性命</a></li>
-<li><a href="/topimagenews/20230702/1903342.md" target="_blank">翻墙百万人大推广！大陆网络惊现壮观一幕！【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
 
 </ul>
 </div>
