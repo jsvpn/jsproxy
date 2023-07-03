@@ -16,18 +16,18 @@
 <li><a href="/baitai/20230702/1903302.md">【CDT报告汇】德国智库：习近平第三个任期下的中国将“得过且过” （外二篇）</a></li>
 <li><a href="/topimagenews/20230703/1903439.md">北京马驹桥现场实录 底层之音，哀民生之多艰</a></li>
 <li><a href="/baitai/20230703/1903443.md">对抗习近平？央行黑龙江分行原副行长陈枫涉一罕见罪名</a></li>
-<li><a href="/sohnews/20230702/1903278.md">罕见！习引用邓小平讲话；“改革开放”真相被揭，邓小平的真面目；习近平喊：故国不堪回首！急避“苏联解体”；中俄权力“平衡木”都面临危机；“七一”港警如临大敌，三人一岗监视行人｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ccpdope/20230703/1903460.md">专家：习近平在中共政治局的发言透露着绝望</a></li>
+<li><a href="/sohnews/20230702/1903278.md">罕见！习引用邓小平讲话；“改革开放”真相被揭，邓小平的真面目；习近平喊：故国不堪回首！急避“苏联解体”；中俄权力“平衡木”都面临危机；“七一”港警如临大敌，三人一岗监视行人｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cnnews/20230703/1903442.md">骇人听闻！美国男生在教室对女老师“先奸后杀”</a></li>
 <li><a href="/comments/20230703/1903430.md">高晓松国外公开露面 全是国内不敢说的 系列文革穷的“薅羊毛” 诡异的摇篮曲</a></li>
 <li><a href="/worldnews/20230702/1903333.md">超越古希腊雕像的身材 健身网红猝逝年仅30岁</a></li>
-<li><a href="/cnnews/20230703/1903442.md">骇人听闻！美国男生在教室对女老师“先奸后杀”</a></li>
 <li><a href="/cbnews/20230702/1903304.md">中共蚌埠官员蚌埠住了</a></li>
 <li><a href="/baitai/20230702/1903322.md">美媒警告：中国版瓦格纳 助北京扩大影响力</a></li>
 <li><a href="/cbnews/20230702/1903331.md">人心不古！儿子在国外 94岁老人举报保姆虐待并拿走250多万</a></li>
 <li><a href="/health/20230702/1903354.md">肾衰来临，小便先知！提醒：小便出现4个异常，或是肾出问题了</a></li>
-<li><a href="/ssgc/20230702/1903307.md">习提拔两名上将与传火箭军司令被查</a></li>
 <li><a href="/bblog/20230702/1903289.md">〖微历史〗文革抄家的目的</a></li>
-<li><a href="/sohnews/20230702/1903413.md">健身运动员四💉后血液中发现重金属，享年30岁目前已离世😢</a></li>
+<li><a href="/ssgc/20230702/1903307.md">习提拔两名上将与传火箭军司令被查</a></li>
+<li><a href="/sohnews/20230702/1903369.md">文睿：做空，人民币，这次动作太可怕了，一尊麻烦大了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230703/1903567.md" target="_blank">普京声称全额资助瓦格纳打乌克兰 专家：更容易确定其战争罪</a></li>
 <li><a href="/topimagenews/20230703/1903562.md" target="_blank">占全喜：详解莫迪在美国会演讲百余次掌声</a></li>
 <li><a href="/topimagenews/20230703/1903561.md" target="_blank">普京“大哥变小弟”？俄成立中国外首个习近平研究中心</a></li>
 <li><a href="/topimagenews/20230703/1903560.md" target="_blank">“风暴阴影”弹无虚发！俄防空导弹系统无法拦截…</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230701/1903094.md" target="_blank">今时今日 大陆房价泡沫已在破灭之中；警告！中国正在步入“失去的十年”</a></li>
 <li><a href="/topimagenews/20230701/1903066.md" target="_blank">“5个20%”太恐怖！专家批:这还是中共美化过的数字 直言“经济没救”</a></li>
 <li><a href="/topimagenews/20230701/1903014.md" target="_blank">“5 个 20%”太恐怖! 专家批 : 这还是中国美化过的数字 直言“经济没救”</a></li>
-<li><a href="/topimagenews/20230701/1903008.md" target="_blank">史上最狂外送！为鼓舞士气 乌克兰后勤送披萨到前线战壕“还附带饮料”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230703/1903573.md" target="_blank">【经典电影】《精装追女仔》 国语粤语中字高清1080P 主演||周润发|张曼玉|张敏|郑裕玲|曾志伟|陈百祥 导演||王晶</a></li>
 <li><a href="/comments/20230703/1903558.md" target="_blank">天亮时分：习近平遭抵制，“七·一”再发亡党警告；俄罗斯甘当小弟？成立习近平思想研究所（政论天下第1047集 20230702）</a></li>
 <li><a href="/comments/20230703/1903549.md" target="_blank">荣剑：从民族主义走向国家主义 【长文慎入】</a></li>
 <li><a href="/comments/20230703/1903548.md" target="_blank">朱敬一：是经济冲突 更是价值战争</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230702/1903380.md" target="_blank">中国江西化工厂恐怖爆炸！“黑蘑菇云”冲天惊悚画面曝</a></li>
 <li><a href="/comments/20230702/1903379.md" target="_blank">瓦格纳兵变对乌克兰反攻有利 泽伦斯基：削弱俄罗斯实力</a></li>
 <li><a href="/comments/20230702/1903332.md" target="_blank">购中国无人机干嘛？俄方报关直说“特别军事行动”</a></li>
-<li><a href="/comments/20230702/1903315.md" target="_blank">修炼法轮功的好老师 家长哭求挽留</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
 
 </ul>
 </div>
