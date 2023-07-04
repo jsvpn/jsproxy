@@ -15,19 +15,19 @@
 <li><a href="/ssgc/20230704/1903954.md">〖微博谈〗人民币迟早玩成卢布</a></li>
 <li><a href="/headline/20230704/1903872.md">法媒：中国在距北京100多公里的雄安新区建大型火车站</a></li>
 <li><a href="/cnnews/20230704/1903835.md">日圆暴跌日本物价狂飙“吃饭成奢侈” 这国人爆集体返乡潮</a></li>
-<li><a href="/cbnews/20230704/1903980.md">〖兲朝浮世绘〗美国独立日居然也成了中共的G点</a></li>
 <li><a href="/cnnews/20230704/1904055.md">浙江21岁女新婚夜大出血险急性休克 手机找答案以为只处女膜破裂</a></li>
+<li><a href="/cbnews/20230704/1903980.md">〖兲朝浮世绘〗美国独立日居然也成了中共的G点</a></li>
 <li><a href="/cnnews/20230704/1903876.md">中共抢钱 中国遗赠税要来了….</a></li>
 <li><a href="/baitai/20230704/1904052.md">董卿作品遭大陆网络封杀</a></li>
 <li><a href="/topimagenews/20230704/1903895.md">恐引爆地缘争夺大战！中国在这发现大面积稀土矿藏</a></li>
-<li><a href="/cnnews/20230704/1903998.md">高温天气，逼疯电动车主</a></li>
 <li><a href="/cnnews/20230704/1903950.md">快讯：下半年中共首只“大老虎”落马</a></li>
+<li><a href="/cnnews/20230704/1903998.md">高温天气，逼疯电动车主</a></li>
+<li><a href="/ssgc/20230704/1904098.md">中国经济的死症是：中国人对习近平失去信心</a></li>
 <li><a href="/funmedia/20230704/1903927.md">为激发老虎的兽性，饲养员扔了只土狗进虎园，再去看时却疑惑了</a></li>
 <li><a href="/cnnews/20230704/1903859.md">华人曝光国际机场受骗经历 损失惨重 一周已4起</a></li>
-<li><a href="/ssgc/20230704/1904098.md">中国经济的死症是：中国人对习近平失去信心</a></li>
+<li><a href="/comments/20230704/1904129.md">习近平雄安计划疑遭抵制 蔡奇强令北京配合</a></li>
 <li><a href="/lifebaike/20230704/1904012.md">华人汇款回国钱没了，追也追不回来，就因为…</a></li>
 <li><a href="/baitai/20230704/1904085.md">知乎问答｜为什么感觉来中国旅行的外国人越来越少了？</a></li>
-<li><a href="/topimagenews/20230704/1903886.md">自娱自乐！中共管制个寂寞</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230705/1904202.md" target="_blank">天上来的 神仙水！</a></li>
 <li><a href="/cbnews/20230704/1904176.md" target="_blank">上海惊传汽车驾驶串连行凶“猎杀摩托小队”看到外地骑士直接撞</a></li>
 <li><a href="/comments/20230704/1904125.md" target="_blank">亨特笔记本电脑再爆新料，发现两项新罪。揭秘亨特案真正的幕后操盘手。联邦检察官大卫·韦斯说话，暗示自己权利有限。</a></li>
 <li><a href="/cbnews/20230704/1904042.md" target="_blank">如何避开中共火箭军攻击? 美太平洋司令：已列这3大重点 发展优势武器</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230703/1903481.md" target="_blank">姚诚：瓦格纳事件让习近平吸取两个教训；中共军人将在性命和金钱间选择；普京若下台中共也将倒台 ｜#方菲时间</a></li>
 <li><a href="/cbnews/20230703/1903470.md" target="_blank">〖兲朝浮世绘〗猫药神被判刑15年 救命的比害人的判刑都重？</a></li>
 <li><a href="/cbnews/20230703/1903424.md" target="_blank">虚拟“山河大学”火爆 中国教育不公再引关注</a></li>
-<li><a href="/comments/20230702/1903407.md" target="_blank">中共会偷偷在古巴设导弹吗？哈佛等名校在招生过程中真的有歧视亚裔吗？｜方菲时间 07/01</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230705/1904202.md" target="_blank">天上来的 神仙水！</a></li>
 <li><a href="/comments/20230704/1904163.md" target="_blank">李燕铭：原应急部部长黄明下属张福生落马 罪名曝光 副军职张福生曾在北京卫戍区警卫师及公安部任职 周永康落马前后 黄明多次被中纪委约谈一度被吓得半死 六名“610”头目相继落马 黄明面临调查 习近平清洗刀把子（五三） 江泽民江苏帮政变谋刺习近平 习绝地反击（三二）</a></li>
 <li><a href="/comments/20230704/1904132.md" target="_blank">文昭：人民币出海为什么被玩成了水稻上山？</a></li>
 <li><a href="/comments/20230704/1904131.md" target="_blank">文昭：美元世界老大的地位怎么来的？理解这段历史，就知道取代美元有多难了</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230704/1903884.md" target="_blank">文昭：人民币狂跌，货币战争是砸脚大棋？人民币出海玩成水稻上山，你搞懂了吗？</a></li>
 <li><a href="/comments/20230704/1903883.md" target="_blank">最后一代？烟草行业：我们有“N”代</a></li>
 <li><a href="/comments/20230704/1903880.md" target="_blank">美国防情报局惊爆，董经纬仍在美国，爆料当年投诚让习近平震惊，导致崔天凯被调离，秦刚火速上任。并爆拜登贿赂情报。</a></li>
-<li><a href="/comments/20230704/1903874.md" target="_blank">【独家重磅】李燕铭：习近平获普京暗助围剿曾庆红 反击江曾集团能源电力政变 逾20名能源电力高管密集落马 习清洗行动逼进江曾核心利益圈 习近平清洗石油帮围剿曾庆红（6） 习清洗能源系统反击江曾电力政变（3） 习近平连任后大清洗（43） 中南海政变与反政变（80）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
 
 </ul>
 </div>
