@@ -8,12 +8,11 @@
 <li><a href="/comments/20230704/1903880.md">美国防情报局惊爆，董经纬仍在美国，爆料当年投诚让习近平震惊，导致崔天凯被调离，秦刚火速上任。并爆拜登贿赂情报。</a></li>
 <li><a href="/topimagenews/20230704/1903946.md">女求职者“穿爆乳内衣”简历疯传，惊动上海当局</a></li>
 <li><a href="/topimagenews/20230704/1903865.md">有大鱼！“北极鲶鱼”上热搜后 蔡徐坤“爆”了</a></li>
-<li><a href="/cnnews/20230704/1903860.md">围观内蒙古人报志愿，心脏都给我吓停了</a></li>
 <li><a href="/topimagenews/20230704/1903969.md">【微博精粹】一个新中国将不期而至</a></li>
 <li><a href="/sohnews/20230704/1903890.md">再破例！央行急换人，习近平一大用意？430天一分钱拿不到，河南天桥现大型横幅，储户喊“还我存款”；应对威胁，台立委提“四不攻略”，让中共忌惮。</a></li>
+<li><a href="/headline/20230704/1903872.md">法媒：中国在距北京100多公里的雄安新区建大型火车站</a></li>
 <li><a href="/ssgc/20230704/1903954.md">〖微博谈〗人民币迟早玩成卢布</a></li>
 <li><a href="/topimagenews/20230704/1904040.md">中共要翻船！内斗用力过猛 执政合法性被连根动摇【阿波罗网报道】</a></li>
-<li><a href="/headline/20230704/1903872.md">法媒：中国在距北京100多公里的雄安新区建大型火车站</a></li>
 <li><a href="/cnnews/20230704/1904055.md">浙江21岁女新婚夜大出血险急性休克 手机找答案以为只处女膜破裂</a></li>
 <li><a href="/cbnews/20230704/1903980.md">〖兲朝浮世绘〗美国独立日居然也成了中共的G点</a></li>
 <li><a href="/cnnews/20230704/1903876.md">中共抢钱 中国遗赠税要来了….</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/cnnews/20230704/1903950.md">快讯：下半年中共首只“大老虎”落马</a></li>
 <li><a href="/cnnews/20230704/1903998.md">高温天气，逼疯电动车主</a></li>
 <li><a href="/funmedia/20230704/1903927.md">为激发老虎的兽性，饲养员扔了只土狗进虎园，再去看时却疑惑了</a></li>
-<li><a href="/cnnews/20230704/1903859.md">华人曝光国际机场受骗经历 损失惨重 一周已4起</a></li>
 <li><a href="/baitai/20230704/1904085.md">知乎问答｜为什么感觉来中国旅行的外国人越来越少了？</a></li>
 <li><a href="/lifebaike/20230704/1904012.md">华人汇款回国钱没了，追也追不回来，就因为…</a></li>
+<li><a href="/comments/20230704/1904102.md">日本最大黑帮甘拜下风 武警总医院丧尽天良</a></li>
 <li><a href="/topimagenews/20230704/1903886.md">自娱自乐！中共管制个寂寞</a></li>
+<li><a href="/cnnews/20230704/1904013.md">越南高考中文题火了！网友：每个空都意想不到…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230705/1904227.md" target="_blank">获IAEA通过 福岛核废水将排入大海 中共急跳脚</a></li>
 <li><a href="/comments/20230705/1904202.md" target="_blank">天上来的 神仙水！</a></li>
 <li><a href="/cbnews/20230704/1904176.md" target="_blank">上海惊传汽车驾驶串连行凶“猎杀摩托小队”看到外地骑士直接撞</a></li>
 <li><a href="/comments/20230704/1904125.md" target="_blank">亨特笔记本电脑再爆新料，发现两项新罪。揭秘亨特案真正的幕后操盘手。联邦检察官大卫·韦斯说话，暗示自己权利有限。</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230703/1903492.md" target="_blank">地外生命！</a></li>
 <li><a href="/comments/20230703/1903481.md" target="_blank">姚诚：瓦格纳事件让习近平吸取两个教训；中共军人将在性命和金钱间选择；普京若下台中共也将倒台 ｜#方菲时间</a></li>
 <li><a href="/cbnews/20230703/1903470.md" target="_blank">〖兲朝浮世绘〗猫药神被判刑15年 救命的比害人的判刑都重？</a></li>
-<li><a href="/cbnews/20230703/1903424.md" target="_blank">虚拟“山河大学”火爆 中国教育不公再引关注</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 <li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 <li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
 
 </ul>
 </div>
