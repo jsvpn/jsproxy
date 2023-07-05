@@ -8,25 +8,25 @@
 <li><a href="/finance/20230705/1904284.md">刷屏！中国突传重磅消息 后续影响难料</a></li>
 <li><a href="/worldnews/20230705/1904237.md">克宫发言人：美俄正在谈判....</a></li>
 <li><a href="/finance/20230705/1904199.md">中国用这招让人民币走升 在岸、离岸双双收复7.24</a></li>
-<li><a href="/finance/20230705/1904228.md">银行要求申报取款用途 浙男1做法逼哭柜员引热议</a></li>
-<li><a href="/cnnews/20230705/1904233.md">用不了多久，穷人只配走路和坐公交了</a></li>
 <li><a href="/sohnews/20230705/1904250.md">陈破空：突然！党媒统一放风：中国将有大事发生！土共用稀有金属反制欧美，加速脱钩！网民为何高兴？近期乌军一胜一败</a></li>
+<li><a href="/cnnews/20230705/1904233.md">用不了多久，穷人只配走路和坐公交了</a></li>
+<li><a href="/finance/20230705/1904228.md">银行要求申报取款用途 浙男1做法逼哭柜员引热议</a></li>
 <li><a href="/topimagenews/20230705/1904360.md">中国房地产业迟早要出大事！海啸一旦发生，谁也救不了</a></li>
 <li><a href="/topimagenews/20230705/1904443.md">中共失算了？反击芯片战祭镓、锗重拳 美媒惊曝惨痛代价</a></li>
 <li><a href="/topimagenews/20230705/1904283.md">余茂春出妙手！发表中共八十年前“颂美文”【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230705/1904193.md">上合峰会习近平、莫迪、普京同框 各怀心思 习最恐惧竟是这事</a></li>
 <li><a href="/topimagenews/20230705/1904265.md">他们下手最狠！对中国卡脖子的不止美国</a></li>
 <li><a href="/topimagenews/20230705/1904242.md">俄新版苏–75亮相！中媒贬损 毫不留情</a></li>
-<li><a href="/cbnews/20230705/1904362.md">〖兲朝浮世绘〗中共的根在德国和俄国，建议中共赶紧滚出中国</a></li>
+<li><a href="/sohnews/20230705/1904463.md">陈破空：习近平顶不住了！不得不紧急起用李克强和朱镕基的人马。但谁都救不了中国经济。习普二人各自诉苦，这次上合峰会由莫迪把持。直播与互动。美东7月5日早8点、即中港台7月6晚8点</a></li>
 <li><a href="/baitai/20230705/1904367.md">崔永元猛！发视频大骂新华社「造谣、胡说八道」</a></li>
+<li><a href="/cbnews/20230705/1904362.md">〖兲朝浮世绘〗中共的根在德国和俄国，建议中共赶紧滚出中国</a></li>
 <li><a href="/baitai/20230705/1904386.md">王毅一句话惹火 英美专家齐回怼 中国网友也嘲讽</a></li>
 <li><a href="/topimagenews/20230705/1904253.md">跟钱有仇？为什么来中国旅行的外国人越来越少了</a></li>
-<li><a href="/ccpdope/20230704/1904159.md">习近平和隋炀帝七大相似之处</a></li>
-<li><a href="/sohnews/20230705/1904463.md">陈破空：习近平顶不住了！不得不紧急起用李克强和朱镕基的人马。但谁都救不了中国经济。习普二人各自诉苦，这次上合峰会由莫迪把持。直播与互动。美东7月5日早8点、即中港台7月6晚8点</a></li>
-<li><a href="/cnnews/20230705/1904390.md">1800亿“金融帝国”巨震！重大投资失误曝光</a></li>
 <li><a href="/topimagenews/20230705/1904252.md">普京棘手了！普里戈津被曝 兵变前1反常举动后效应</a></li>
+<li><a href="/cnnews/20230705/1904390.md">1800亿“金融帝国”巨震！重大投资失误曝光</a></li>
 <li><a href="/finance/20230705/1904325.md">中国经济死结 中国人对习彻底死心</a></li>
 <li><a href="/topimagenews/20230705/1904393.md">网络笑喷！马保国：做人不能太“胡锡进” 【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230705/1904264.md">其妻曾是“白手套” 中国流亡企业家将赴美作证“中国民企一片荒凉”</a></li>
 <li><a href="/cbnews/20230704/1904176.md">上海惊传汽车驾驶串连行凶“猎杀摩托小队”看到外地骑士直接撞</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230705/1904554.md" target="_blank">孙子花4000元买条狗 河南老人上秤喊贵 网认同：句句在理</a></li>
 <li><a href="/comments/20230705/1904384.md" target="_blank">一堂课明白 从建国之父开始的美国左右派斗争史</a></li>
 <li><a href="/cbnews/20230705/1904404.md" target="_blank">少女“结婚40天离家出走”婆家急找人 她竟然才16岁</a></li>
 <li><a href="/cbnews/20230705/1904403.md" target="_blank">命重要还是玻璃重要？成都1男孩被锁车内 父母怕修车不愿破窗救人</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230704/1903852.md" target="_blank">美官员自曝：耶伦访中 应该不会见到他</a></li>
 <li><a href="/cbnews/20230704/1903851.md" target="_blank">刚出狱1年 中国科学家贺建奎又动“歪脑筋”</a></li>
 <li><a href="/cbnews/20230704/1903819.md" target="_blank">七一党媒旧文重刊习近平忧虑亡党：苏共倒台“不堪回首”</a></li>
-<li><a href="/comments/20230703/1903712.md" target="_blank">求神仙水！但这些人 就是得不到！她不吃不喝，返老还童，身体散香气！法官亲自验证 她从空气中取水；和神灵沟通，在狱中行神蹟，吓坏警察！｜ #未解之谜 扶摇</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 
 </ul>
 </div>
