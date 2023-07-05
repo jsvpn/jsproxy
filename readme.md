@@ -13,21 +13,21 @@
 <li><a href="/cnnews/20230704/1903998.md">高温天气，逼疯电动车主</a></li>
 <li><a href="/worldnews/20230705/1904237.md">克宫发言人：美俄正在谈判....</a></li>
 <li><a href="/comments/20230704/1904102.md">日本最大黑帮甘拜下风 武警总医院丧尽天良</a></li>
-<li><a href="/baitai/20230704/1904085.md">知乎问答｜为什么感觉来中国旅行的外国人越来越少了？</a></li>
 <li><a href="/lifebaike/20230704/1904012.md">华人汇款回国钱没了，追也追不回来，就因为…</a></li>
-<li><a href="/finance/20230705/1904228.md">银行要求申报取款用途 浙男1做法逼哭柜员引热议</a></li>
+<li><a href="/baitai/20230704/1904085.md">知乎问答｜为什么感觉来中国旅行的外国人越来越少了？</a></li>
 <li><a href="/cnnews/20230704/1904013.md">越南高考中文题火了！网友：每个空都意想不到…</a></li>
+<li><a href="/finance/20230705/1904228.md">银行要求申报取款用途 浙男1做法逼哭柜员引热议</a></li>
 <li><a href="/finance/20230705/1904199.md">中国用这招让人民币走升 在岸、离岸双双收复7.24</a></li>
 <li><a href="/cnnews/20230705/1904233.md">用不了多久，穷人只配走路和坐公交了</a></li>
-<li><a href="/baitai/20230704/1904096.md">日本政界元老：中国这一禁令 是侵台重要线索</a></li>
-<li><a href="/topimagenews/20230704/1904133.md">中共管制锗镓出口反制西方 业者：影响有限当不成筹码</a></li>
 <li><a href="/topimagenews/20230705/1904242.md">俄新版苏–75亮相！中媒贬损 毫不留情</a></li>
-<li><a href="/baitai/20230705/1904193.md">上合峰会习近平、莫迪、普京同框 各怀心思 习最恐惧竟是这事</a></li>
-<li><a href="/topimagenews/20230704/1904103.md">小红书“全国城市GDP前20名” 港澳台占一半 台北第1陆网崩溃</a></li>
-<li><a href="/baitai/20230704/1904051.md">中产阶层沦为「中惨阶层」 谢田：中国经济或负债倒退二十年</a></li>
-<li><a href="/sohnews/20230704/1904074.md">临终喊“我不吃毛泽东的饭！”求警卫“打我一枪吧！”他是彭德怀，被整最惨的中共元帅。｜ #百年真相</a></li>
-<li><a href="/finance/20230704/1904091.md">中国“国产”大飞机C919停飞 专家曝1致命原因；水稻上山已叫停 巨大损失谁买单？</a></li>
+<li><a href="/finance/20230705/1904284.md">刷屏！中国突传重磅消息 后续影响难料</a></li>
 <li><a href="/topimagenews/20230705/1904283.md">余茂春出妙手！发表中共八十年前“颂美文”【阿波罗网报道】</a></li>
+<li><a href="/baitai/20230704/1904096.md">日本政界元老：中国这一禁令 是侵台重要线索</a></li>
+<li><a href="/baitai/20230705/1904193.md">上合峰会习近平、莫迪、普京同框 各怀心思 习最恐惧竟是这事</a></li>
+<li><a href="/topimagenews/20230704/1904133.md">中共管制锗镓出口反制西方 业者：影响有限当不成筹码</a></li>
+<li><a href="/sohnews/20230705/1904250.md">陈破空：突然！党媒统一放风：中国将有大事发生！土共用稀有金属反制欧美，加速脱钩！网民为何高兴？近期乌军一胜一败</a></li>
+<li><a href="/baitai/20230704/1904051.md">中产阶层沦为「中惨阶层」 谢田：中国经济或负债倒退二十年</a></li>
+<li><a href="/topimagenews/20230704/1904103.md">小红书“全国城市GDP前20名” 港澳台占一半 台北第1陆网崩溃</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
 <li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
 
 </ul>
 </div>
