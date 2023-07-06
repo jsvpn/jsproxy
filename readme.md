@@ -10,24 +10,24 @@
 <li><a href="/cnnews/20230706/1904628.md">武汉中心医院的蔡莉书记，还是跑了…何等的无耻</a></li>
 <li><a href="/yule/20230705/1904543.md">哭了…李玟40秒告别音档疯传 成最后遗言</a></li>
 <li><a href="/cbnews/20230706/1904722.md">〖兲朝浮世绘〗中国出了个习近平 走到哪里扰民到哪里</a></li>
-<li><a href="/sohnews/20230706/1904782.md">打造“无人城”？！习近平到访苏州，场面夸张；天安门广场，中共获“大礼”！朱镕基旧部进京，获重用，习或朝中无人；北京严重车祸！祸及大领导车辆，高官都爱坐；阎明复离世；独立日烟花秀｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20230705/1904490.md">准备过苦日子！中国人将再遭无声抢劫…… 说好的“不抱孩子”还是妥协了，已面临颜色革命！</a></li>
+<li><a href="/sohnews/20230706/1904782.md">打造“无人城”？！习近平到访苏州，场面夸张；天安门广场，中共获“大礼”！朱镕基旧部进京，获重用，习或朝中无人；北京严重车祸！祸及大领导车辆，高官都爱坐；阎明复离世；独立日烟花秀｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ccpdope/20230706/1904650.md">揭秘：中共太子党三年疫情敲骨吸髓大发国难财</a></li>
 <li><a href="/cnnews/20230706/1904618.md">习近平亲自警告普京“这事”，乌方回应</a></li>
 <li><a href="/cnnews/20230706/1904644.md">他地位曾在毛之上 毛泽东剽窃军事思想 打压他半世纪</a></li>
-<li><a href="/baitai/20230705/1904520.md">CoCo李玟惊传轻生送医不治 家人悲痛证实</a></li>
 <li><a href="/sohnews/20230706/1904605.md">“克里姆林宫强烈否认！习近平与普京 极可能‘翻车’”No.05（07/05/23）</a></li>
+<li><a href="/baitai/20230705/1904520.md">CoCo李玟惊传轻生送医不治 家人悲痛证实</a></li>
 <li><a href="/yule/20230706/1904720.md">陈慧琳：41岁痛失双胞胎女儿 抱憾终生</a></li>
 <li><a href="/comments/20230706/1904641.md">如松：这事一旦发生 才是真正的惊天暴雷</a></li>
 <li><a href="/yule/20230705/1904542.md">李玟11年婚爆触礁暴瘦剩42公斤 传富商老公偷吃嫩妹</a></li>
 <li><a href="/finance/20230706/1904580.md">中国“第一高楼”地皮流拍 折让45%开价都无人问津</a></li>
 <li><a href="/ssgc/20230706/1904601.md">网红经济"淄博烧烤"降温 当地迎来"倒闭潮"</a></li>
 <li><a href="/ccpdope/20230705/1904522.md">崔永元：新华社这个谣没人信</a></li>
+<li><a href="/baitai/20230706/1904784.md">绝了！习言论被抓正着！ 莫迪把习与恐怖组织画等号 巧言各国反习【国际风云】</a></li>
 <li><a href="/worldnews/20230706/1904625.md">因为这，印度27岁女硕士被150名男子拒婚，愤而报警</a></li>
 <li><a href="/ccpdope/20230705/1904564.md">中共急了 浙江秦山核废水氚含量比日本福岛高6倍</a></li>
 <li><a href="/cbnews/20230706/1904633.md">震惊：同样是北京，这里却是另一番景象</a></li>
 <li><a href="/ssgc/20230706/1904686.md">〖微博谈〗勇者才能独立</a></li>
-<li><a href="/worldnews/20230706/1904626.md">俄兵一句话，狠打了普京的脸</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230706/1904886.md" target="_blank">苏州戒严迎习近平考察 习挨批“皇帝”出巡</a></li>
 <li><a href="/comments/20230706/1904868.md" target="_blank">【经典电影】《医痴叶天士》 国语中字高清1080P 主演：田小洁、刘思伟、苏茜微、薛俨、尚国伟 导演：方军亮</a></li>
 <li><a href="/comments/20230706/1904805.md" target="_blank">白宫白粉神秘加剧，或牵出拜登本人。马斯克与扎克伯格笼斗，急坏老母亲梅耶。扎克伯格推出应用程序，界面抄袭推特？</a></li>
 <li><a href="/comments/20230706/1904779.md" target="_blank">李玟轻生因受骗？马保国胡锡进互撕成大瓜；王毅新大东亚共荣圈离间美日韩？习近平指挥招魂？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230706/1904658.md" target="_blank">王友群：习近平身边“最危险的人”是谁？</a></li>
 <li><a href="/comments/20230706/1904651.md" target="_blank">【经典电影】《异域Ⅱ末路英雄》 主演||梁朝伟|庹宗华|吕良伟|柯俊雄|关之琳|叶全真|林志颖|吴孟达 导演||朱延平</a></li>
 <li><a href="/comments/20230706/1904641.md" target="_blank">如松：这事一旦发生 才是真正的惊天暴雷</a></li>
-<li><a href="/comments/20230706/1904640.md" target="_blank">时事金扫描：北京上万人监控“习近平”，谁是头号五毛</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
 <li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
 
 </ul>
 </div>
