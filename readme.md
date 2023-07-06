@@ -9,25 +9,25 @@
 <li><a href="/ccpdope/20230706/1904650.md">揭秘：中共太子党三年疫情敲骨吸髓大发国难财</a></li>
 <li><a href="/sohnews/20230706/1904782.md">打造“无人城”？！习近平到访苏州，场面夸张；天安门广场，中共获“大礼”！朱镕基旧部进京，获重用，习或朝中无人；北京严重车祸！祸及大领导车辆，高官都爱坐；阎明复离世；独立日烟花秀｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230706/1904826.md">内部报告！一些军队干部认为“经济生活紧张 中央要负责任 ”【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230706/1904644.md">他地位曾在毛之上 毛泽东剽窃军事思想 打压他半世纪</a></li>
 <li><a href="/baitai/20230706/1904861.md">习近平女儿个资泄露案再掀波澜 下属给习挖坑 背后涉政法高官？</a></li>
 <li><a href="/sohnews/20230706/1904873.md">陈破空：习近平终于怕了！他潜入苏州。彭丽媛逛空城。到处封路。煤气罐尽遭没收。满城遍布黑衣人！再也不敢公布行程。群众演员临时排练。直播与互动。美东7月6日早8点、即中港台7月6晚8点</a></li>
-<li><a href="/comments/20230706/1904641.md">如松：这事一旦发生 才是真正的惊天暴雷</a></li>
 <li><a href="/comments/20230706/1904886.md">苏州戒严迎习近平考察 习挨批“皇帝”出巡</a></li>
 <li><a href="/yule/20230706/1904720.md">陈慧琳：41岁痛失双胞胎女儿 抱憾终生</a></li>
 <li><a href="/baitai/20230706/1904874.md">前北京政协委员：从政治到经济全走到尽头</a></li>
 <li><a href="/topimagenews/20230706/1904834.md">大陆厂恐失iPhone15订单！韩媒爆1致命失误 出货量惨跌至零</a></li>
 <li><a href="/cnnews/20230706/1904790.md">“地表最帅和尚”出狱了，发一张图全网围观</a></li>
+<li><a href="/sohnews/20230706/1904940.md">🔥中国女没穿内裤试裙子后要退货，老板回应细思极恐；普京吓坏？！他曝兵变搭机远离莫斯科；虚晃一枪？俄将缴获巨资归还普里格津；中共GDP多大水分？雷丁汽车遭官员逼迫虚报产值3倍【阿波罗网AM】</a></li>
 <li><a href="/finance/20230706/1904780.md">人民币要跌破多少？ 洞察背后因素</a></li>
 <li><a href="/ssgc/20230706/1904686.md">〖微博谈〗勇者才能独立</a></li>
 <li><a href="/baitai/20230706/1904784.md">绝了！习言论被抓正着！ 莫迪把习与恐怖组织画等号 巧言各国反习【国际风云】</a></li>
 <li><a href="/headline/20230706/1904836.md">开玩笑都不可！中国高考生网上恶搞成立「山河大学」迅速被封禁</a></li>
 <li><a href="/topimagenews/20230706/1904843.md">李强和王毅使出同一招数！微笑之下暗藏杀机【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230706/1904940.md">🔥中国女没穿内裤试裙子后要退货，老板回应细思极恐；普京吓坏？！他曝兵变搭机远离莫斯科；虚晃一枪？俄将缴获巨资归还普里格津；中共GDP多大水分？雷丁汽车遭官员逼迫虚报产值3倍【阿波罗网AM】</a></li>
-<li><a href="/topimagenews/20230706/1904808.md">关键原料被卡喉！美对抗中共撂狠话 呛声找“这群人”助阵</a></li>
 <li><a href="/bblog/20230706/1904702.md">〖微历史〗果断润出的聪明人</a></li>
+<li><a href="/topimagenews/20230706/1904808.md">关键原料被卡喉！美对抗中共撂狠话 呛声找“这群人”助阵</a></li>
 <li><a href="/yule/20230706/1904682.md">李玟身前开刀复健画面曝光 痛苦表情令人不舍</a></li>
 <li><a href="/baitai/20230706/1904888.md">孙立平｜重视李昌平的警告：警惕县城经济萎缩到只剩“公仆经济”的地步</a></li>
+<li><a href="/comments/20230706/1904896.md">不想混了？北京四中上课讲“人权” 政府敢压迫 人民就该造反</a></li>
+<li><a href="/lifebaike/20230706/1904799.md">30岁陪丈夫移居海外，为生计文转码，结果…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230707/1905009.md" target="_blank">【经典电影】《新喜剧之王》 国语中字高清2160P 导演||周星驰 主演||王宝强|鄂靖文 《The New King of Comedy》 ENG SUB</a></li>
 <li><a href="/comments/20230706/1904942.md" target="_blank">【经典电影】《喜剧之王》 国语粤语高清720P 主演||周星驰|莫文蔚|张柏芝 导演||李力持|周星驰</a></li>
 <li><a href="/comments/20230706/1904917.md" target="_blank">【杜耀明评论】输入人才效果适得其反 全球通缉有助对抗遗忘</a></li>
 <li><a href="/comments/20230706/1904915.md" target="_blank">文昭：曾经的反美“王炸”大牌，是怎么管用的？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230706/1904692.md" target="_blank">丁东、邢小群：阎明复的精神遗产</a></li>
 <li><a href="/comments/20230706/1904683.md" target="_blank">就这口水，包治百病</a></li>
 <li><a href="/comments/20230706/1904678.md" target="_blank">解滨：中共为什么在美国如此猖狂？</a></li>
-<li><a href="/comments/20230706/1904669.md" target="_blank">文昭：4年前预言的反美「王炸」终於实施，这神器厉害在哪里？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 <li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 <li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
