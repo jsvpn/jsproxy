@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/finance/20230705/1904284.md">刷屏！中国突传重磅消息 后续影响难料</a></li>
 <li><a href="/topimagenews/20230705/1904360.md">中国房地产业迟早要出大事！海啸一旦发生，谁也救不了</a></li>
 <li><a href="/sohnews/20230705/1904463.md">陈破空：习近平顶不住了！不得不紧急起用李克强和朱镕基的人马。但谁都救不了中国经济。习普二人各自诉苦，这次上合峰会由莫迪把持。直播与互动。美东7月5日早8点、即中港台7月6晚8点</a></li>
 <li><a href="/topimagenews/20230705/1904443.md">中共失算了？反击芯片战祭镓、锗重拳 美媒惊曝惨痛代价</a></li>
-<li><a href="/topimagenews/20230705/1904283.md">余茂春出妙手！发表中共八十年前“颂美文”【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230705/1904367.md">崔永元猛！发视频大骂新华社「造谣、胡说八道」</a></li>
 <li><a href="/topimagenews/20230705/1904494.md">恐引爆地缘争夺大战！中国发现大面积稀土矿藏；欧美真枪实弹，中共接连挨打胡搅蛮缠</a></li>
 <li><a href="/ssgc/20230705/1904450.md">上海一小区居民与警冲突 多人受伤及被捕</a></li>
-<li><a href="/cbnews/20230705/1904362.md">〖兲朝浮世绘〗中共的根在德国和俄国，建议中共赶紧滚出中国</a></li>
 <li><a href="/baitai/20230705/1904433.md">怕颜色革命 习近平上合峰会吐真言 引爆网络</a></li>
+<li><a href="/cbnews/20230705/1904362.md">〖兲朝浮世绘〗中共的根在德国和俄国，建议中共赶紧滚出中国</a></li>
 <li><a href="/baitai/20230705/1904386.md">王毅一句话惹火 英美专家齐回怼 中国网友也嘲讽</a></li>
 <li><a href="/cnnews/20230705/1904390.md">1800亿“金融帝国”巨震！重大投资失误曝光</a></li>
+<li><a href="/yule/20230706/1904629.md">李玟自杀去世，背后的故事太残酷了</a></li>
 <li><a href="/finance/20230705/1904325.md">中国经济死结 中国人对习彻底死心</a></li>
 <li><a href="/health/20230705/1904406.md">体检正常，半年后发现晚期肺癌，都是因为这种检查惹的祸</a></li>
 <li><a href="/topimagenews/20230705/1904393.md">网络笑喷！马保国：做人不能太“胡锡进” 【阿波罗网报道】</a></li>
 <li><a href="/yule/20230705/1904543.md">哭了…李玟40秒告别音档疯传 成最后遗言</a></li>
-<li><a href="/yule/20230706/1904629.md">李玟自杀去世，背后的故事太残酷了</a></li>
 <li><a href="/cnnews/20230705/1904394.md">限韩令后 46家韩国大企业撤离中国</a></li>
 <li><a href="/health/20230705/1904405.md">1克就含有5亿霉菌？经常喝普洱茶，会不会致癌？真相来了</a></li>
 <li><a href="/baitai/20230705/1904520.md">CoCo李玟惊传轻生送医不治 家人悲痛证实</a></li>
 <li><a href="/sohnews/20230705/1904490.md">准备过苦日子！中国人将再遭无声抢劫…… 说好的“不抱孩子”还是妥协了，已面临颜色革命！</a></li>
+<li><a href="/cnnews/20230706/1904628.md">武汉中心医院的蔡莉书记，还是跑了…何等的无耻</a></li>
 <li><a href="/ssgc/20230705/1904322.md">〖微博谈〗民主颂–献给美国的独立纪念日</a></li>
 <li><a href="/comments/20230705/1904358.md">独立日的最佳礼物！川普任命的联邦法官下令，禁令拜登和联邦机构合谋，意义深远。白宫发现白粉，网络掀风暴，恶搞亨特扯罗斯福的线条与玩8球。</a></li>
+<li><a href="/yule/20230705/1904542.md">李玟11年婚爆触礁暴瘦剩42公斤 传富商老公偷吃嫩妹</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230706/1904692.md" target="_blank">丁东、邢小群：阎明复的精神遗产</a></li>
 <li><a href="/comments/20230706/1904683.md" target="_blank">就这口水，包治百病</a></li>
 <li><a href="/comments/20230706/1904678.md" target="_blank">解滨：中共为什么在美国如此猖狂？</a></li>
 <li><a href="/comments/20230706/1904669.md" target="_blank">文昭：4年前预言的反美「王炸」终於实施，这神器厉害在哪里？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230705/1904479.md" target="_blank">转发“女子自曝被警察强奸”文章 著名记者姐姐被跨省传唤</a></li>
 <li><a href="/comments/20230705/1904468.md" target="_blank">画面曝光！ 瓦格纳在白俄境内 建造野战营地中</a></li>
 <li><a href="/comments/20230705/1904467.md" target="_blank">白宫搜出古柯碱 拜登“吸毒儿”亨特涉重嫌</a></li>
-<li><a href="/comments/20230705/1904358.md" target="_blank">独立日的最佳礼物！川普任命的联邦法官下令，禁令拜登和联邦机构合谋，意义深远。白宫发现白粉，网络掀风暴，恶搞亨特扯罗斯福的线条与玩8球。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
 <li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 
 </ul>
 </div>
