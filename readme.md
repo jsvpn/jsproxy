@@ -16,18 +16,18 @@
 <li><a href="/comments/20230707/1905247.md">耶伦访华第一餐自费下馆子 早已对北京划红线</a></li>
 <li><a href="/topimagenews/20230707/1905225.md">李玟揭《好声音》内幕 疑遭报复当众惨摔 今1动作惹怒全网</a></li>
 <li><a href="/ssgc/20230707/1905182.md">王毅自取其辱 可见中共无朋友</a></li>
-<li><a href="/comments/20230707/1905245.md">当头一棒！习近平给李强“泼冷水”？ 淄博烧烤凉了</a></li>
 <li><a href="/topimagenews/20230708/1905347.md">中共86年最高绝密！陷中华民族于空前灾难之中【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230707/1905265.md">耶伦抵陆第1餐嗑云南菜 用餐这动作网大惊：老司机有练过</a></li>
+<li><a href="/comments/20230707/1905245.md">当头一棒！习近平给李强“泼冷水”？ 淄博烧烤凉了</a></li>
 <li><a href="/ssgc/20230707/1905103.md">〖微博谈〗达者不再兼济天下</a></li>
+<li><a href="/topimagenews/20230707/1905265.md">耶伦抵陆第1餐嗑云南菜 用餐这动作网大惊：老司机有练过</a></li>
 <li><a href="/comments/20230707/1905091.md">天亮时分：什麽信号？习告诉共军要“敢於打仗”！中日互免签证？普里戈津已经回到俄罗斯，克里姆林宫否认习近平劝它勿用核武器（政论天下第1051集 20230706）天亮时分</a></li>
 <li><a href="/comments/20230707/1905279.md">马里亚纳海沟 还不是最恐怖的！水下10000米惊现奇怪生物，进入不同的世界？！比火星可怕！｜ #未解之谜 扶摇</a></li>
 <li><a href="/topimagenews/20230707/1905258.md">郑州花34亿元人民币给河道贴磁砖…</a></li>
 <li><a href="/topimagenews/20230707/1905283.md">美前高官与俄重要人士就结束俄乌战秘密会谈？美称未批准支持、俄否认</a></li>
 <li><a href="/cbnews/20230707/1905133.md">江峰：乌军第一阶段反攻，书写战争历史；西方震惊：乌军用甚麽代替北约空优瓦解俄军作战系统六要素？战争一年多，乌军坦克反超俄军，质量更棒，「世界第二军」还轮不上共军？【江峰·视界·军事20230706第22期】</a></li>
 <li><a href="/sohnews/20230707/1905164.md">强势推进大东亚共荣圈，中共要求日本新加坡对华免签！相当于我要求三上悠亚给我她家钥匙</a></li>
-<li><a href="/ssgc/20230707/1905198.md">傅政华“天坛公馆”豪宅拍卖 低价求售却无人竞标</a></li>
 <li><a href="/baitai/20230707/1905291.md">习近平被军头背叛？危机中台海局势日渐紧张</a></li>
+<li><a href="/ssgc/20230707/1905198.md">傅政华“天坛公馆”豪宅拍卖 低价求售却无人竞标</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230708/1905451.md" target="_blank">30名中国人坐小艇穿越巴拿马 赴美中途被发现</a></li>
 <li><a href="/topimagenews/20230708/1905413.md" target="_blank">传通敌 最神秘部队内部出大事</a></li>
 <li><a href="/topimagenews/20230708/1905405.md" target="_blank">耶伦还在北京，拜登偏偏再下一张战帖</a></li>
 <li><a href="/topimagenews/20230708/1905360.md" target="_blank">普里格津被证实返俄又遭传将办集会 普亭威信面临挑战</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230706/1904808.md" target="_blank">关键原料被卡喉！美对抗中共撂狠话 呛声找“这群人”助阵</a></li>
 <li><a href="/topimagenews/20230706/1904807.md" target="_blank">普京吓坏了？！他曝兵变俄“强人”搭机远离莫斯科</a></li>
 <li><a href="/topimagenews/20230706/1904804.md" target="_blank">危险迫近：差90米就撞上 中菲4舰艇再爆冲突</a></li>
-<li><a href="/topimagenews/20230706/1904803.md" target="_blank">耶伦访京是来乞讨?学者:事实不言自明【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
 
 </ul>
 </div>
