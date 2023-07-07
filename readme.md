@@ -18,16 +18,16 @@
 <li><a href="/baitai/20230707/1905042.md">习近平到访苏州 安保出纰漏 彭丽媛逛街照曝光</a></li>
 <li><a href="/headline/20230706/1904836.md">开玩笑都不可！中国高考生网上恶搞成立「山河大学」迅速被封禁</a></li>
 <li><a href="/topimagenews/20230706/1904843.md">李强和王毅使出同一招数！微笑之下暗藏杀机【阿波罗网报道】</a></li>
+<li><a href="/baitai/20230707/1905021.md">谢金河：中国经济将出大问题 世界来到巨变关口</a></li>
 <li><a href="/topimagenews/20230706/1904808.md">关键原料被卡喉！美对抗中共撂狠话 呛声找“这群人”助阵</a></li>
 <li><a href="/cnnews/20230707/1905000.md">一天内击落5架！“爱国者”飞弹立功俄Su-34、35等先进战机遭击落</a></li>
 <li><a href="/baitai/20230706/1904906.md">好大的官威！交警查酒驾遇上警官 这一幕火爆网络 后续...</a></li>
 <li><a href="/baitai/20230707/1904965.md">:李承鹏 : 嘘，吃饭的时候不要说话</a></li>
-<li><a href="/baitai/20230707/1905021.md">谢金河：中国经济将出大问题 世界来到巨变关口</a></li>
 <li><a href="/comments/20230706/1904896.md">不想混了？北京四中上课讲“人权” 政府敢压迫 人民就该造反</a></li>
-<li><a href="/baitai/20230706/1904888.md">孙立平｜重视李昌平的警告：警惕县城经济萎缩到只剩“公仆经济”的地步</a></li>
 <li><a href="/cnnews/20230707/1905007.md">抗日最艰难时期 中共8位“元帅”在做什么？</a></li>
+<li><a href="/baitai/20230706/1904888.md">孙立平｜重视李昌平的警告：警惕县城经济萎缩到只剩“公仆经济”的地步</a></li>
 <li><a href="/ssgc/20230707/1904977.md">习近平连续视察南部、东部战区 用意何在？</a></li>
-<li><a href="/baitai/20230706/1904855.md">前北京政协委员将赴美作证 中共谩骂小札「砸锅」</a></li>
+<li><a href="/cbnews/20230707/1905053.md">〖兲朝浮世绘〗找个科长来装蒜 绝不给党找麻烦</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230707/1905167.md" target="_blank">白宫白粉地点又变了，最详细案情分析。川普预测结果。推特杀手上线，马斯克状告扎克伯格。20年前的历史将重演？扎克伯格11年发第一推。</a></li>
 <li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
 <li><a href="/comments/20230707/1905135.md" target="_blank">六月“骄傲月” 结果出人意外</a></li>
 <li><a href="/cbnews/20230707/1905133.md" target="_blank">江峰：乌军第一阶段反攻，书写战争历史；西方震惊：乌军用甚麽代替北约空优瓦解俄军作战系统六要素？战争一年多，乌军坦克反超俄军，质量更棒，「世界第二军」还轮不上共军？【江峰·视界·军事20230706第22期】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230705/1904362.md" target="_blank">〖兲朝浮世绘〗中共的根在德国和俄国，建议中共赶紧滚出中国</a></li>
 <li><a href="/comments/20230705/1904358.md" target="_blank">独立日的最佳礼物！川普任命的联邦法官下令，禁令拜登和联邦机构合谋，意义深远。白宫发现白粉，网络掀风暴，恶搞亨特扯罗斯福的线条与玩8球。</a></li>
 <li><a href="/cbnews/20230705/1904350.md" target="_blank">法官颁禁令 限制拜登政府审查社交媒体帖子</a></li>
-<li><a href="/comments/20230705/1904281.md" target="_blank">真实的神仙水！</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230707/1905167.md" target="_blank">白宫白粉地点又变了，最详细案情分析。川普预测结果。推特杀手上线，马斯克状告扎克伯格。20年前的历史将重演？扎克伯格11年发第一推。</a></li>
 <li><a href="/comments/20230707/1905145.md" target="_blank">【独家重磅】李燕铭：习近平清洗云南帮（三）云南省政协原副主席黄毅落马 隐秘牵连前常委李岚清 内幕揭秘 李岚清云南嫖宿女演员 演员丈夫到北京一状告到中纪委</a></li>
 <li><a href="/comments/20230707/1905144.md" target="_blank">【经典电影】《哪吒之灵珠重生》 国语中字高清2060P 主演||姚星彤|程启蒙|安琥|迟帅 导演||马丁</a></li>
 <li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230706/1904890.md" target="_blank">【未普评论】俄乌冲突，习近平为何总是误判？</a></li>
 <li><a href="/comments/20230706/1904886.md" target="_blank">苏州戒严迎习近平考察 习挨批“皇帝”出巡</a></li>
 <li><a href="/comments/20230706/1904868.md" target="_blank">【经典电影】《医痴叶天士》 国语中字高清1080P 主演：田小洁、刘思伟、苏茜微、薛俨、尚国伟 导演：方军亮</a></li>
-<li><a href="/comments/20230706/1904805.md" target="_blank">白宫白粉神秘加剧，或牵出拜登本人。马斯克与扎克伯格笼斗，急坏老母亲梅耶。扎克伯格推出应用程序，界面抄袭推特？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
 
 </ul>
 </div>
