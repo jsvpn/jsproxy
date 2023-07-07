@@ -9,13 +9,13 @@
 <li><a href="/comments/20230706/1904886.md">苏州戒严迎习近平考察 习挨批“皇帝”出巡</a></li>
 <li><a href="/baitai/20230706/1904874.md">前北京政协委员：从政治到经济全走到尽头</a></li>
 <li><a href="/baitai/20230707/1905042.md">习近平到访苏州 安保出纰漏 彭丽媛逛街照曝光</a></li>
-<li><a href="/topimagenews/20230707/1904999.md">网：习皇帝出巡 大规模“戒严”</a></li>
 <li><a href="/sohnews/20230706/1904940.md">🔥中国女没穿内裤试裙子后要退货，老板回应细思极恐；普京吓坏？！他曝兵变搭机远离莫斯科；虚晃一枪？俄将缴获巨资归还普里格津；中共GDP多大水分？雷丁汽车遭官员逼迫虚报产值3倍【阿波罗网AM】</a></li>
+<li><a href="/topimagenews/20230707/1904999.md">网：习皇帝出巡 大规模“戒严”</a></li>
 <li><a href="/yule/20230707/1904991.md">抢救李玟3个细节：她自杀后冲出浴室呼救…</a></li>
 <li><a href="/cnnews/20230707/1904990.md">德媒专访沈栋：习擅权斗、心狠手辣但愚蠢</a></li>
 <li><a href="/cbnews/20230707/1905053.md">〖兲朝浮世绘〗找个科长来装蒜 绝不给党找麻烦</a></li>
-<li><a href="/baitai/20230707/1905021.md">谢金河：中国经济将出大问题 世界来到巨变关口</a></li>
 <li><a href="/comments/20230707/1905128.md">【微博精粹】中国银行业出大事 金融危机将致</a></li>
+<li><a href="/baitai/20230707/1905021.md">谢金河：中国经济将出大问题 世界来到巨变关口</a></li>
 <li><a href="/baitai/20230706/1904906.md">好大的官威！交警查酒驾遇上警官 这一幕火爆网络 后续...</a></li>
 <li><a href="/cnnews/20230707/1905000.md">一天内击落5架！“爱国者”飞弹立功俄Su-34、35等先进战机遭击落</a></li>
 <li><a href="/cnnews/20230707/1905007.md">抗日最艰难时期 中共8位“元帅”在做什么？</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/baitai/20230706/1904888.md">孙立平｜重视李昌平的警告：警惕县城经济萎缩到只剩“公仆经济”的地步</a></li>
 <li><a href="/ssgc/20230707/1905103.md">〖微博谈〗达者不再兼济天下</a></li>
 <li><a href="/comments/20230707/1905091.md">天亮时分：什麽信号？习告诉共军要“敢於打仗”！中日互免签证？普里戈津已经回到俄罗斯，克里姆林宫否认习近平劝它勿用核武器（政论天下第1051集 20230706）天亮时分</a></li>
-<li><a href="/comments/20230706/1904912.md">【秦鹏观察】习要银行替地方政府背债 银行股暴跌</a></li>
 <li><a href="/topimagenews/20230707/1905199.md">惊人一幕！习近平视察东部战区 网友：赶上北朝鲜了！【阿波罗网报道】</a></li>
+<li><a href="/comments/20230706/1904912.md">【秦鹏观察】习要银行替地方政府背债 银行股暴跌</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
 <li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 
 </ul>
 </div>
