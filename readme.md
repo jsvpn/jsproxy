@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/comments/20230708/1905488.md">中共国最终可能的三种结局</a></li>
-<li><a href="/ccpdope/20230708/1905432.md">习近平戴口罩 秦刚消失多日 中南海再现异常</a></li>
 <li><a href="/baitai/20230708/1905586.md">中共火箭军再出事！网传副司令吴国华自杀</a></li>
-<li><a href="/sohnews/20230708/1905657.md">文睿：秦刚，出事儿了；一尊，耗尽最后一滴油</a></li>
 <li><a href="/cbnews/20230708/1905469.md">国企高官牵小三逛街最终结局出炉 男女均吞苦果</a></li>
-<li><a href="/topimagenews/20230708/1905613.md">露面了！中共社会工作部部长是他 专家：极权体制重建【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20230708/1905657.md">文睿：秦刚，出事儿了；一尊，耗尽最后一滴油</a></li>
 <li><a href="/cbnews/20230708/1905623.md">脚底抹油开溜！中国富人与精英加速出走</a></li>
+<li><a href="/topimagenews/20230708/1905613.md">露面了！中共社会工作部部长是他 专家：极权体制重建【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230708/1905463.md">〖微博谈〗删除错误的集体记忆</a></li>
 <li><a href="/cbnews/20230708/1905562.md">〖兲朝浮世绘〗中共不管饭 耶伦再次提中美不脱钩</a></li>
 <li><a href="/sohnews/20230708/1905571.md">火箭军副司令突传“死讯”！习近平战前整肃？前国防部长也遭殃，连推三项“恶法”，助推战端；“七七事变”谁开第一枪？中共特务和日军激进派齐出场；西安事变杀蒋未遂，中共不甘，策划事件｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230708/1905671.md">银行坏账吓坏高盛，中国经济饮鸩止渴到还总账时候；下一世界工厂在这</a></li>
 <li><a href="/funmedia/20230708/1905564.md">一位高人透漏的算命经验，惊呆了众多人</a></li>
-<li><a href="/comments/20230708/1905437.md">网海拾贝:中国经济是不是已无药可救</a></li>
-<li><a href="/yule/20230708/1905629.md">张曼玉晒巴黎独居生活 豪宅内素颜下厨做饭</a></li>
 <li><a href="/cnnews/20230708/1905439.md">这位亮警官证逃酒驾的大佬，被扒了</a></li>
+<li><a href="/yule/20230708/1905629.md">张曼玉晒巴黎独居生活 豪宅内素颜下厨做饭</a></li>
 <li><a href="/sohnews/20230708/1905550.md">北京高温破表 美大使馆不信邪自报气温｜ #时事金扫描 #金然</a></li>
 <li><a href="/yule/20230708/1905595.md">性格太直！那英发文悼念李玟，却收到上千条恶意评论</a></li>
 <li><a href="/cbnews/20230708/1905536.md">江峰：习近平被黑 ！「锚定」建军百年口号竟是愚蠢决策的讽刺！芯片之外另一生死决战领域：一带一路一沟--------海底电缆大布局中共输得很惨【江峰漫谈20230707第693期】</a></li>
 <li><a href="/baitai/20230708/1905587.md">耶伦访中前李强紧急做这事 分析：习下台也解决不了</a></li>
-<li><a href="/ssgc/20230708/1905670.md">6月疫情死人比5月多 中共难圆场</a></li>
 <li><a href="/yule/20230708/1905687.md">女星洪晓蕾出国旅游突然失联，现状曝光</a></li>
 <li><a href="/comments/20230708/1905484.md">天亮时分：近10亿美元罚款，蚂蚁集团破财免灾；秦刚暴病？12天不露面，汪文斌避而不答；耶伦中国行，拜登放大招（政论天下第1051集 20230706）天亮时分</a></li>
+<li><a href="/ssgc/20230708/1905670.md">6月疫情死人比5月多 中共难圆场</a></li>
 <li><a href="/health/20230708/1905615.md">柳叶刀：中国因饮食致死的不是油和糖，这三种吃法才是真要命</a></li>
+<li><a href="/topimagenews/20230708/1905513.md">乌克兰善用AI技术打击俄军：快到连西方都跟不上</a></li>
+<li><a href="/topimagenews/20230708/1905512.md">薅中共政府羊毛 这样可以7万变成12万？【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230709/1905770.md" target="_blank">王赫：中共管制镓锗出口是黔驴技穷</a></li>
 <li><a href="/comments/20230709/1905766.md" target="_blank">挖中国墙角 这两家俄罗斯公司想干啥</a></li>
 <li><a href="/comments/20230709/1905746.md" target="_blank">崇尚军国主义，北京要再造大东亚共荣圈？</a></li>
 <li><a href="/comments/20230709/1905744.md" target="_blank">【独家重磅】李燕铭：江绵恒马仔相里斌被异常免职科技部副部长 年仅56岁 相里斌获江绵恒培植内幕揭秘 江绵恒通过相里斌操控中共军工科技卫星 江绵恒暗黑帝国瓦解内幕（39） 习连任后高层人事大洗牌（107）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230708/1905488.md" target="_blank">中共国最终可能的三种结局</a></li>
 <li><a href="/comments/20230708/1905487.md" target="_blank">乌凌翔：Chip4+1中最重要的那个＋1</a></li>
 <li><a href="/comments/20230708/1905484.md" target="_blank">天亮时分：近10亿美元罚款，蚂蚁集团破财免灾；秦刚暴病？12天不露面，汪文斌避而不答；耶伦中国行，拜登放大招（政论天下第1051集 20230706）天亮时分</a></li>
-<li><a href="/comments/20230708/1905479.md" target="_blank">李濠仲：美方正往“≠陈水扁 ≒蔡英文”推论赖清德</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
 <li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
 
 </ul>
 </div>
