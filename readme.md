@@ -5,20 +5,19 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230708/1905413.md">传通敌 最神秘部队内部出大事</a></li>
 <li><a href="/comments/20230708/1905488.md">中共国最终可能的三种结局</a></li>
 <li><a href="/ccpdope/20230708/1905432.md">习近平戴口罩 秦刚消失多日 中南海再现异常</a></li>
 <li><a href="/baitai/20230708/1905586.md">中共火箭军再出事！网传副司令吴国华自杀</a></li>
 <li><a href="/sohnews/20230708/1905657.md">文睿：秦刚，出事儿了；一尊，耗尽最后一滴油</a></li>
 <li><a href="/cbnews/20230708/1905469.md">国企高官牵小三逛街最终结局出炉 男女均吞苦果</a></li>
-<li><a href="/cbnews/20230708/1905623.md">脚底抹油开溜！中国富人与精英加速出走</a></li>
 <li><a href="/topimagenews/20230708/1905613.md">露面了！中共社会工作部部长是他 专家：极权体制重建【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230708/1905623.md">脚底抹油开溜！中国富人与精英加速出走</a></li>
 <li><a href="/ssgc/20230708/1905463.md">〖微博谈〗删除错误的集体记忆</a></li>
 <li><a href="/cbnews/20230708/1905562.md">〖兲朝浮世绘〗中共不管饭 耶伦再次提中美不脱钩</a></li>
 <li><a href="/sohnews/20230708/1905571.md">火箭军副司令突传“死讯”！习近平战前整肃？前国防部长也遭殃，连推三项“恶法”，助推战端；“七七事变”谁开第一枪？中共特务和日军激进派齐出场；西安事变杀蒋未遂，中共不甘，策划事件｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230708/1905671.md">银行坏账吓坏高盛，中国经济饮鸩止渴到还总账时候；下一世界工厂在这</a></li>
-<li><a href="/sohnews/20230708/1905421.md">美俄密议乌克兰割地议和！拜登承认知情；军援大杀器定案！反攻大戏开演？普里戈津最新消息；蚂蚁金服交70亿买路钱</a></li>
 <li><a href="/funmedia/20230708/1905564.md">一位高人透漏的算命经验，惊呆了众多人</a></li>
+<li><a href="/sohnews/20230708/1905421.md">美俄密议乌克兰割地议和！拜登承认知情；军援大杀器定案！反攻大戏开演？普里戈津最新消息；蚂蚁金服交70亿买路钱</a></li>
 <li><a href="/comments/20230708/1905437.md">网海拾贝:中国经济是不是已无药可救</a></li>
 <li><a href="/yule/20230708/1905629.md">张曼玉晒巴黎独居生活 豪宅内素颜下厨做饭</a></li>
 <li><a href="/cnnews/20230708/1905439.md">这位亮警官证逃酒驾的大佬，被扒了</a></li>
@@ -26,6 +25,7 @@
 <li><a href="/yule/20230708/1905595.md">性格太直！那英发文悼念李玟，却收到上千条恶意评论</a></li>
 <li><a href="/cbnews/20230708/1905536.md">江峰：习近平被黑 ！「锚定」建军百年口号竟是愚蠢决策的讽刺！芯片之外另一生死决战领域：一带一路一沟--------海底电缆大布局中共输得很惨【江峰漫谈20230707第693期】</a></li>
 <li><a href="/baitai/20230708/1905587.md">耶伦访中前李强紧急做这事 分析：习下台也解决不了</a></li>
+<li><a href="/yule/20230708/1905687.md">女星洪晓蕾出国旅游突然失联，现状曝光</a></li>
 <li><a href="/ssgc/20230708/1905670.md">6月疫情死人比5月多 中共难圆场</a></li>
 <li><a href="/comments/20230708/1905484.md">天亮时分：近10亿美元罚款，蚂蚁集团破财免灾；秦刚暴病？12天不露面，汪文斌避而不答；耶伦中国行，拜登放大招（政论天下第1051集 20230706）天亮时分</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
 
 </ul>
 </div>
