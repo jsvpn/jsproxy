@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230708/1905413.md">传通敌 最神秘部队内部出大事</a></li>
-<li><a href="/baitai/20230708/1905385.md">北京整顿蚂蚁集团结果出炉 开出天价罚单 体制内专家急了</a></li>
 <li><a href="/lifebaike/20230708/1905388.md">解密“阴兵借道”：唐山地震“阴兵借道”事件</a></li>
 <li><a href="/comments/20230708/1905488.md">中共国最终可能的三种结局</a></li>
 <li><a href="/ccpdope/20230708/1905432.md">习近平戴口罩 秦刚消失多日 中南海再现异常</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/yule/20230708/1905629.md">张曼玉晒巴黎独居生活 豪宅内素颜下厨做饭</a></li>
 <li><a href="/sohnews/20230708/1905550.md">北京高温破表 美大使馆不信邪自报气温｜ #时事金扫描 #金然</a></li>
 <li><a href="/yule/20230708/1905595.md">性格太直！那英发文悼念李玟，却收到上千条恶意评论</a></li>
+<li><a href="/cbnews/20230708/1905536.md">江峰：习近平被黑 ！「锚定」建军百年口号竟是愚蠢决策的讽刺！芯片之外另一生死决战领域：一带一路一沟--------海底电缆大布局中共输得很惨【江峰漫谈20230707第693期】</a></li>
 <li><a href="/cnnews/20230708/1905390.md">续航牛逼症:史上最大电池的iPhone 来了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230709/1905734.md" target="_blank">美国法庭裁定：法轮功学员可向思科公司索赔</a></li>
 <li><a href="/comments/20230708/1905700.md" target="_blank">水下10000米 神祕生物！</a></li>
 <li><a href="/comments/20230708/1905699.md" target="_blank">它们 一辈子都在躺平！</a></li>
 <li><a href="/comments/20230708/1905698.md" target="_blank">上古时期的无头族 真的存在吗？（上）｜ #未解之谜 扶摇</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20230707/1905201.md" target="_blank">中共也有“瓦格纳”？收退伍特种兵为“一带一路”</a></li>
 <li><a href="/cbnews/20230707/1905193.md" target="_blank">若台海冲突 台湾惨、这3个国家也很危险</a></li>
 <li><a href="/cbnews/20230707/1905186.md" target="_blank">拜登4度喊高保台已“战略清晰”!美太平洋司令：只要总统下令随时出兵</a></li>
-<li><a href="/cbnews/20230707/1905171.md" target="_blank">中国官媒帮美国辟谣</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230709/1905732.md" target="_blank">中共限制镓锗出口 好兄弟宣布增产 党媒气炸</a></li>
 <li><a href="/topimagenews/20230708/1905671.md" target="_blank">银行坏账吓坏高盛，中国经济饮鸩止渴到还总账时候；下一世界工厂在这</a></li>
 <li><a href="/topimagenews/20230708/1905644.md" target="_blank">3大产业遭陆攻陷下场惨 谢金河：台湾爆1惊奇 中共抢也抢不走</a></li>
 <li><a href="/topimagenews/20230708/1905640.md" target="_blank">瓦格纳兵变 千亿卢布撤离俄罗斯！卢布汇率跌至15个月新低</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230707/1905136.md" target="_blank">别偷我钱！控俄安全部队借机大肆搜刮 普里格津怒了…</a></li>
 <li><a href="/topimagenews/20230707/1905121.md" target="_blank">李承鹏 : 嘘，吃饭的时候不要说话</a></li>
 <li><a href="/topimagenews/20230707/1905039.md" target="_blank">中共限镓锗出口！张益赡：台湾之光砷化镓4厂商股价反狂涨</a></li>
-<li><a href="/topimagenews/20230707/1904999.md" target="_blank">网：习皇帝出巡 大规模“戒严”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230709/1905734.md" target="_blank">美国法庭裁定：法轮功学员可向思科公司索赔</a></li>
 <li><a href="/comments/20230708/1905704.md" target="_blank">安倍晋三过世一周年 献花民众大排长龙 许多人泪流满面</a></li>
 <li><a href="/comments/20230708/1905700.md" target="_blank">水下10000米 神祕生物！</a></li>
 <li><a href="/comments/20230708/1905699.md" target="_blank">它们 一辈子都在躺平！</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230708/1905478.md" target="_blank">汤名晖:“俄罗斯战败只是时间问题” 中俄关系“无上限”背后的算盘</a></li>
 <li><a href="/comments/20230708/1905472.md" target="_blank">宋国诚：王毅：身穿西装的中国义和团外交拳匪大头领</a></li>
 <li><a href="/comments/20230708/1905456.md" target="_blank">文昭：重大信号！中国国有大银行评级下调，对你意味着什麽？「不可能的三位一体」发生了</a></li>
-<li><a href="/comments/20230708/1905438.md" target="_blank">名家专栏：印度的崛起</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
 <li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 
 </ul>
 </div>
