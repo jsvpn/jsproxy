@@ -12,15 +12,15 @@
 <li><a href="/sohnews/20230710/1906064.md">陈破空：墙内盛传：习近平在苏州发表秘密讲话！12条。讲了三个多小时。党报证实军队出事：小山头小圈子不断。他艰难重复八个字。直播与互动。美东7月9日晚8点、即中港台7月10日早8点</a></li>
 <li><a href="/topimagenews/20230710/1906108.md">架空一机构 习近平为台海冲突准备</a></li>
 <li><a href="/ccpdope/20230710/1906125.md">香港“大师级“丧命 习近平一瘸一拐上阵</a></li>
-<li><a href="/comments/20230710/1906179.md">习明泽惊现台湾媒体，整容术换脸？牵手门胡继勇被双开却无违纪，内幕爆党苦心保护胡书记，又双赢？</a></li>
 <li><a href="/cnnews/20230710/1906040.md">奇案！广东男子被人灌醉送火葬场，顶别人火化</a></li>
+<li><a href="/comments/20230710/1906179.md">习明泽惊现台湾媒体，整容术换脸？牵手门胡继勇被双开却无违纪，内幕爆党苦心保护胡书记，又双赢？</a></li>
 <li><a href="/ssgc/20230710/1906081.md">〖微博谈〗失控的离岸人民币</a></li>
 <li><a href="/baitai/20230710/1906240.md">经济太糟北京急了？罕见启用被罢免官员</a></li>
 <li><a href="/topimagenews/20230710/1906044.md">遇到冤大头，胃口真大？建交3个月 向中共讨200亿美元</a></li>
-<li><a href="/cnnews/20230710/1906079.md">近日一位黑眼圈领导火了！“裤衩”都被扒掉了</a></li>
 <li><a href="/topimagenews/20230710/1906163.md">【微博精粹】一夜变成残疾人国</a></li>
-<li><a href="/topimagenews/20230710/1906245.md">习近平一句话，泄露中共大秘密【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230710/1906176.md">〖兲朝浮世绘〗俄粉们的玻璃心就这么被恶狠狠地撕碎了</a></li>
+<li><a href="/cnnews/20230710/1906079.md">近日一位黑眼圈领导火了！“裤衩”都被扒掉了</a></li>
+<li><a href="/topimagenews/20230710/1906245.md">习近平一句话，泄露中共大秘密【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230710/1906086.md">弯道超车的中国新能源汽车，要被人直线超车了？</a></li>
 <li><a href="/comments/20230710/1906039.md">习近平与头号“中国版普里戈辛”</a></li>
 <li><a href="/ssgc/20230710/1906221.md">上海将率先推出“城市码”  疫情产物构建城市“治理体系”</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230711/1906426.md" target="_blank">评论 | 胡平：为什么要他们用笔记？</a></li>
 <li><a href="/comments/20230710/1906401.md" target="_blank">【经典电影】《倚天屠龙记之圣火雄风》 国语中字高清1080P 导演||王晶|姜国民 主演|林峰|文咏珊|古天乐|甄子丹|云千千|邱意浓</a></li>
 <li><a href="/comments/20230710/1906384.md" target="_blank">江苏路边垃圾桶 惊传捡到人类头骨</a></li>
 <li><a href="/comments/20230710/1906383.md" target="_blank">法媒爆︰瓦格纳首脑被“关押”在克里姆林宫 俄方：普京6/29日曾召见</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230710/1906114.md" target="_blank">李濠仲：王毅有所不知 欧美人没有分不清中日韩台</a></li>
 <li><a href="/comments/20230710/1906096.md" target="_blank">张杰：外交部长秦刚为何突然消失？</a></li>
 <li><a href="/comments/20230710/1906083.md" target="_blank">泰坦号 祭典泰坦尼克号</a></li>
-<li><a href="/comments/20230710/1906069.md" target="_blank">文昭：法国大骚乱是怎么来的，浪漫花都为何成了动乱之城？【会员样片】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
 <li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
 <li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
 
 </ul>
 </div>
