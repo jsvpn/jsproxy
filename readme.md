@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20230709/1905902.md">中国豆腐渣工程获“国家优质奖”高速桥梁突崩塌断裂画面曝光</a></li>
 <li><a href="/sohnews/20230709/1905940.md">习上台头五年的中共高层内斗，被称为“习江斗”。 那五年里，习查办了六个“妄图攫取党和国家权力”的“野心家、阴谋家”，分别是⋯⋯｜ #百年真相</a></li>
 <li><a href="/sohnews/20230709/1905969.md">陈破空：秦刚突然失踪！病重，或惨遭停职？不满王毅使坏。美国财长访中意外，首先见此人！见证习王朝无人可用。一餐饭教育中国人</a></li>
+<li><a href="/cnnews/20230709/1905918.md">中国900多万常住人口城市多条公交停运 发生了什么？</a></li>
 <li><a href="/sohnews/20230709/1906007.md">“习近平诡异无常！见面数位高官后 ⋯ 美财长耶伦被骂翻！”《今日点击》（07/09/23）</a></li>
 <li><a href="/topimagenews/20230710/1906038.md">又一超级独角兽破产：败光170亿，骗了20家VC/PE</a></li>
-<li><a href="/cnnews/20230709/1905918.md">中国900多万常住人口城市多条公交停运 发生了什么？</a></li>
 <li><a href="/cbnews/20230709/1905961.md">叶伦结束访中行程 称美中有“重大分歧”</a></li>
 <li><a href="/funmedia/20230709/1905964.md">罕见：航班机超重无法起飞 9人下机获补偿才升空</a></li>
-<li><a href="/ssgc/20230709/1905987.md">传火箭军副司令自杀 习攻台再添变数</a></li>
 <li><a href="/topimagenews/20230710/1906046.md">墙内被删热文：如此打工30年</a></li>
+<li><a href="/ssgc/20230709/1905987.md">传火箭军副司令自杀 习攻台再添变数</a></li>
 <li><a href="/yule/20230709/1905912.md">61岁马景涛再婚？新欢依偎他怀里呛前妻们</a></li>
-<li><a href="/comments/20230709/1905878.md">“牵手门”真相大白：那个隐身的女人呢</a></li>
-<li><a href="/cnnews/20230709/1905894.md">30名华人被捕：拜登新政这些人将无法移民美国</a></li>
+<li><a href="/cnnews/20230710/1906052.md">彻底失宠！中共混成这样了</a></li>
 <li><a href="/topimagenews/20230710/1906044.md">遇到冤大头，胃口真大？建交3个月 向中共讨200亿美元</a></li>
 <li><a href="/cnnews/20230710/1906040.md">奇案！广东男子被人灌醉送火葬场，顶别人火化</a></li>
+<li><a href="/cnnews/20230709/1905894.md">30名华人被捕：拜登新政这些人将无法移民美国</a></li>
 <li><a href="/lifebaike/20230709/1905934.md">每天6000步，竟然走掉3大慢性病！但关键是要这样走</a></li>
-<li><a href="/cnnews/20230710/1906052.md">彻底失宠！中共混成这样了</a></li>
 <li><a href="/yule/20230709/1905968.md">奖励平壤户口？金正恩热情地接见中国文艺工作者</a></li>
 <li><a href="/sohnews/20230710/1906035.md">““他拿了共产党的💰 脱不了身了！” 川普昨晚演讲的主题！”No.03（07/09/23）</a></li>
-<li><a href="/ssgc/20230709/1905974.md">北京密集开会放风示好，民企外企会回心转意吗？</a></li>
 <li><a href="/comments/20230710/1906039.md">习近平与头号“中国版普里戈辛”</a></li>
+<li><a href="/ssgc/20230709/1905974.md">北京密集开会放风示好，民企外企会回心转意吗？</a></li>
+<li><a href="/baitai/20230709/1905903.md">【网络民议】“收到，已恨，请国家放心”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230710/1906172.md" target="_blank">【经典电影】《道医傅青主》 国语中字高清1080P 导演||王国良 主演||褚强|王捷|王洪涛|黄哲</a></li>
+<li><a href="/comments/20230710/1906171.md" target="_blank">【经典电影】《武林外传》 国语中字高清1080P 主演||姚晨|闫妮|沙溢 编剧||宁财神 导演||尚敬</a></li>
 <li><a href="/comments/20230710/1906145.md" target="_blank">李燕铭：习近平视察东部战区 要求军队敢于打仗 东部战区政委敏感时刻换人 新任政委军旅经历非同寻常 习近平疑直接参与指挥环台军演 中情局局长：勿低估习近平对台湾野心 美国空军上将：习已召集台湾战争委员会 习强化军权内防政变对外备战（38） 习连任后高层人事大洗牌（108） 习连任后图谋武统台湾（23）</a></li>
 <li><a href="/comments/20230710/1906137.md" target="_blank">深度：乌战还要打多久？军援不利的真相</a></li>
 <li><a href="/comments/20230710/1906136.md" target="_blank">宋国诚：王毅：一个穿着西装的义和团份子</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230709/1905880.md" target="_blank">田进:北京马驹桥零工市场降薪了</a></li>
 <li><a href="/comments/20230709/1905879.md" target="_blank">重发：陶杰:带路党的宗师</a></li>
 <li><a href="/comments/20230709/1905878.md" target="_blank">“牵手门”真相大白：那个隐身的女人呢</a></li>
-<li><a href="/comments/20230709/1905875.md" target="_blank">天亮时分：中共火箭军出大事，副司令暴亡，传司令被抓；美向乌克兰提供集束炸弹，乌军迎来大杀器；拜登严厉警告习近平（YouTube会员节目第25集 20230708） Edited</a></li>
-<li><a href="/comments/20230709/1905867.md" target="_blank">“编程随想”与阮晓寰案:一位异见博主妻子的觉醒与追寻</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 
 </ul>
 </div>
