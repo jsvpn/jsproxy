@@ -5,8 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230709/1905969.md">陈破空：秦刚突然失踪！病重，或惨遭停职？不满王毅使坏。美国财长访中意外，首先见此人！见证习王朝无人可用。一餐饭教育中国人</a></li>
 <li><a href="/sohnews/20230709/1906007.md">“习近平诡异无常！见面数位高官后 ⋯ 美财长耶伦被骂翻！”《今日点击》（07/09/23）</a></li>
+<li><a href="/sohnews/20230709/1905969.md">陈破空：秦刚突然失踪！病重，或惨遭停职？不满王毅使坏。美国财长访中意外，首先见此人！见证习王朝无人可用。一餐饭教育中国人</a></li>
 <li><a href="/cbnews/20230709/1905961.md">叶伦结束访中行程 称美中有“重大分歧”</a></li>
 <li><a href="/topimagenews/20230710/1906038.md">又一超级独角兽破产：败光170亿，骗了20家VC/PE</a></li>
 <li><a href="/ssgc/20230709/1905987.md">传火箭军副司令自杀 习攻台再添变数</a></li>
@@ -17,17 +17,17 @@
 <li><a href="/sohnews/20230710/1906064.md">陈破空：墙内盛传：习近平在苏州发表秘密讲话！12条。讲了三个多小时。党报证实军队出事：小山头小圈子不断。他艰难重复八个字。直播与互动。美东7月9日晚8点、即中港台7月10日早8点</a></li>
 <li><a href="/cnnews/20230710/1906040.md">奇案！广东男子被人灌醉送火葬场，顶别人火化</a></li>
 <li><a href="/ccpdope/20230710/1906125.md">香港“大师级“丧命 习近平一瘸一拐上阵</a></li>
-<li><a href="/ssgc/20230710/1906081.md">〖微博谈〗失控的离岸人民币</a></li>
 <li><a href="/topimagenews/20230710/1906044.md">遇到冤大头，胃口真大？建交3个月 向中共讨200亿美元</a></li>
+<li><a href="/ssgc/20230710/1906081.md">〖微博谈〗失控的离岸人民币</a></li>
 <li><a href="/topimagenews/20230710/1906086.md">弯道超车的中国新能源汽车，要被人直线超车了？</a></li>
+<li><a href="/topimagenews/20230710/1906163.md">【微博精粹】一夜变成残疾人国</a></li>
 <li><a href="/cnnews/20230710/1906079.md">近日一位黑眼圈领导火了！“裤衩”都被扒掉了</a></li>
 <li><a href="/yule/20230709/1905968.md">奖励平壤户口？金正恩热情地接见中国文艺工作者</a></li>
-<li><a href="/topimagenews/20230710/1906163.md">【微博精粹】一夜变成残疾人国</a></li>
 <li><a href="/sohnews/20230710/1906035.md">““他拿了共产党的💰 脱不了身了！” 川普昨晚演讲的主题！”No.03（07/09/23）</a></li>
+<li><a href="/comments/20230710/1906179.md">习明泽惊现台湾媒体，整容术换脸？牵手门胡继勇被双开却无违纪，内幕爆党苦心保护胡书记，又双赢？</a></li>
 <li><a href="/comments/20230710/1906039.md">习近平与头号“中国版普里戈辛”</a></li>
 <li><a href="/topimagenews/20230710/1906078.md">俄军腐败骇人听闻！一驱逐舰舰长把自己船上的螺旋桨给偷着卖了</a></li>
-<li><a href="/ssgc/20230709/1905974.md">北京密集开会放风示好，民企外企会回心转意吗？</a></li>
-<li><a href="/headline/20230710/1906066.md">习近平要打仗  李强看见了彩虹</a></li>
+<li><a href="/cbnews/20230710/1906176.md">〖兲朝浮世绘〗俄粉们的玻璃心就这么被恶狠狠地撕碎了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230710/1906272.md" target="_blank">【经典电影】《倚天屠龙记之九阳神功》 国语中字高清1080P 导演||王晶|姜国民 主演|林峰|文咏珊|古天乐|甄子丹|云千千|邱意浓</a></li>
+<li><a href="/comments/20230710/1906271.md" target="_blank">张杰：王毅种族言论，让习的“人类命运共同体”现原形</a></li>
 <li><a href="/comments/20230710/1906186.md" target="_blank">明星聚集，公开挺川普。比赛中出现惊人一幕，全场疯狂。川普演讲，做好决斗准备。</a></li>
 <li><a href="/comments/20230710/1906179.md" target="_blank">习明泽惊现台湾媒体，整容术换脸？牵手门胡继勇被双开却无违纪，内幕爆党苦心保护胡书记，又双赢？</a></li>
 <li><a href="/comments/20230710/1906172.md" target="_blank">【经典电影】《道医傅青主》 国语中字高清1080P 导演||王国良 主演||褚强|王捷|王洪涛|黄哲</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230709/1905923.md" target="_blank">墙内频传习近平在苏州发表重要讲话</a></li>
 <li><a href="/comments/20230709/1905891.md" target="_blank">为何说乾隆六下江南是清朝走向下坡路的开始？</a></li>
 <li><a href="/comments/20230709/1905889.md" target="_blank">川普爱荷华演讲。在DQ给民众分发暴雪，现场沸腾。玛乔丽·泰勒·格林被自由党团除名，到底发生了什么？</a></li>
-<li><a href="/comments/20230709/1905888.md" target="_blank">真人真事 子弹等了20年才杀死目标！</a></li>
-<li><a href="/comments/20230709/1905880.md" target="_blank">田进:北京马驹桥零工市场降薪了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
 <li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
 <li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 
 </ul>
 </div>
