@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230709/1905942.md">出事了！中共军方高喊：坚决破除“小山头”“小圈子”【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230709/1905940.md">习上台头五年的中共高层内斗，被称为“习江斗”。 那五年里，习查办了六个“妄图攫取党和国家权力”的“野心家、阴谋家”，分别是⋯⋯｜ #百年真相</a></li>
 <li><a href="/sohnews/20230709/1905969.md">陈破空：秦刚突然失踪！病重，或惨遭停职？不满王毅使坏。美国财长访中意外，首先见此人！见证习王朝无人可用。一餐饭教育中国人</a></li>
 <li><a href="/sohnews/20230709/1906007.md">“习近平诡异无常！见面数位高官后 ⋯ 美财长耶伦被骂翻！”《今日点击》（07/09/23）</a></li>
 <li><a href="/cbnews/20230709/1905961.md">叶伦结束访中行程 称美中有“重大分歧”</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/topimagenews/20230710/1906108.md">架空一机构 习近平为台海冲突准备</a></li>
 <li><a href="/topimagenews/20230710/1906046.md">墙内被删热文：如此打工30年</a></li>
 <li><a href="/sohnews/20230710/1906064.md">陈破空：墙内盛传：习近平在苏州发表秘密讲话！12条。讲了三个多小时。党报证实军队出事：小山头小圈子不断。他艰难重复八个字。直播与互动。美东7月9日晚8点、即中港台7月10日早8点</a></li>
+<li><a href="/ccpdope/20230710/1906125.md">香港“大师级“丧命 习近平一瘸一拐上阵</a></li>
 <li><a href="/cnnews/20230710/1906040.md">奇案！广东男子被人灌醉送火葬场，顶别人火化</a></li>
 <li><a href="/ssgc/20230710/1906081.md">〖微博谈〗失控的离岸人民币</a></li>
 <li><a href="/topimagenews/20230710/1906044.md">遇到冤大头，胃口真大？建交3个月 向中共讨200亿美元</a></li>
-<li><a href="/ccpdope/20230710/1906125.md">香港“大师级“丧命 习近平一瘸一拐上阵</a></li>
 <li><a href="/topimagenews/20230710/1906086.md">弯道超车的中国新能源汽车，要被人直线超车了？</a></li>
 <li><a href="/cnnews/20230710/1906079.md">近日一位黑眼圈领导火了！“裤衩”都被扒掉了</a></li>
 <li><a href="/yule/20230709/1905968.md">奖励平壤户口？金正恩热情地接见中国文艺工作者</a></li>
 <li><a href="/sohnews/20230710/1906035.md">““他拿了共产党的💰 脱不了身了！” 川普昨晚演讲的主题！”No.03（07/09/23）</a></li>
+<li><a href="/topimagenews/20230710/1906163.md">【微博精粹】一夜变成残疾人国</a></li>
 <li><a href="/comments/20230710/1906039.md">习近平与头号“中国版普里戈辛”</a></li>
 <li><a href="/topimagenews/20230710/1906078.md">俄军腐败骇人听闻！一驱逐舰舰长把自己船上的螺旋桨给偷着卖了</a></li>
-<li><a href="/topimagenews/20230710/1906163.md">【微博精粹】一夜变成残疾人国</a></li>
+<li><a href="/ssgc/20230709/1905974.md">北京密集开会放风示好，民企外企会回心转意吗？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 <li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
 
 </ul>
 </div>
