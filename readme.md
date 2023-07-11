@@ -6,20 +6,19 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/baitai/20230710/1906241.md">秦刚消失半月原因曝光</a></li>
-<li><a href="/ccpdope/20230710/1906125.md">香港“大师级“丧命 习近平一瘸一拐上阵</a></li>
 <li><a href="/comments/20230710/1906179.md">习明泽惊现台湾媒体，整容术换脸？牵手门胡继勇被双开却无违纪，内幕爆党苦心保护胡书记，又双赢？</a></li>
 <li><a href="/baitai/20230710/1906240.md">经济太糟北京急了？罕见启用被罢免官员</a></li>
-<li><a href="/topimagenews/20230710/1906163.md">【微博精粹】一夜变成残疾人国</a></li>
 <li><a href="/cbnews/20230710/1906176.md">〖兲朝浮世绘〗俄粉们的玻璃心就这么被恶狠狠地撕碎了</a></li>
+<li><a href="/topimagenews/20230710/1906163.md">【微博精粹】一夜变成残疾人国</a></li>
 <li><a href="/topimagenews/20230710/1906245.md">习近平一句话，泄露中共大秘密【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230710/1906322.md">高级黑？胡锡进：体制内的人几乎没有不唉声叹气 他预言中共政权3种结局</a></li>
 <li><a href="/topimagenews/20230710/1906316.md">兵变之后首度获普丁接见 普里格津称将继续效忠普丁</a></li>
 <li><a href="/ssgc/20230710/1906221.md">上海将率先推出“城市码”  疫情产物构建城市“治理体系”</a></li>
+<li><a href="/cnnews/20230711/1906446.md">美国科学家让你8周年轻11岁，做法很简单</a></li>
 <li><a href="/topimagenews/20230710/1906193.md">完了！中俄加速“去美元化”？中共官媒证实俄罗斯近2个月抛售84.5亿人民币</a></li>
 <li><a href="/baitai/20230710/1906242.md">苏暁康：大国崛起已经烂尾</a></li>
 <li><a href="/sohnews/20230710/1906314.md">“独家”公安部内部文件：电信诈骗案异常严峻！电信诈骗层出不穷的真相是……只一类型诈骗破案率高！</a></li>
 <li><a href="/topimagenews/20230710/1906208.md">贵州“西江千户苗寨”烧了 烈焰冲天 有人从3楼跳下…</a></li>
-<li><a href="/cnnews/20230711/1906446.md">美国科学家让你8周年轻11岁，做法很简单</a></li>
 <li><a href="/topimagenews/20230710/1906181.md">干掉大陆“世界工厂”地位快成真？外媒曝越南惊人大跃进 变全球供应链要角</a></li>
 <li><a href="/cbnews/20230710/1906164.md">10多万网友冲塔！嘲讽中共说：这不得整个部队都判刑啊【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230710/1906161.md">毫无生气 清华大学教授讽刺习近平｜ #时事金扫描 #金然</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20230710/1906215.md">普京向普里戈津低头？传绍伊古被贬西伯利亚</a></li>
 <li><a href="/topimagenews/20230710/1906292.md">俄军攻击阿夫迪夫卡失败 “同样战术用五百天”网辣评：就是送人头罢了</a></li>
 <li><a href="/baitai/20230710/1906263.md">到了这个年纪，大脑会“断崖式”衰老</a></li>
+<li><a href="/baitai/20230711/1906410.md">青年失业危及政权？党媒号召树立「正确就业观」 遭十万网友骂翻</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230711/1906545.md" target="_blank">吴崑玉：台湾国防只会败在自己人的“腐蚀战”之下</a></li>
+<li><a href="/comments/20230711/1906544.md" target="_blank">张鸣：土匪军阀比思想家更能创造历史</a></li>
 <li><a href="/comments/20230711/1906528.md" target="_blank">天亮时分：普里戈津密会普京，俄军在巴赫穆特被包围；经济通缩，民生艰困，几大数据断崖式下跌；快速上升的债务让中共束手无策（政论天下第1054集 20230710）</a></li>
 <li><a href="/comments/20230711/1906510.md" target="_blank">耶伦的饭局，大棋论者看不懂</a></li>
 <li><a href="/comments/20230711/1906496.md" target="_blank">文昭：新数据，中国正式进入通缩新时代！传习近平苏州3小时20分讲话，也宣告了一个时代的开始</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230710/1906271.md" target="_blank">张杰：王毅种族言论，让习的“人类命运共同体”现原形</a></li>
 <li><a href="/comments/20230710/1906186.md" target="_blank">明星聚集，公开挺川普。比赛中出现惊人一幕，全场疯狂。川普演讲，做好决斗准备。</a></li>
 <li><a href="/comments/20230710/1906179.md" target="_blank">习明泽惊现台湾媒体，整容术换脸？牵手门胡继勇被双开却无违纪，内幕爆党苦心保护胡书记，又双赢？</a></li>
-<li><a href="/comments/20230710/1906172.md" target="_blank">【经典电影】《道医傅青主》 国语中字高清1080P 导演||王国良 主演||褚强|王捷|王洪涛|黄哲</a></li>
-<li><a href="/comments/20230710/1906171.md" target="_blank">【经典电影】《武林外传》 国语中字高清1080P 主演||姚晨|闫妮|沙溢 编剧||宁财神 导演||尚敬</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
 <li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
 
 </ul>
 </div>
