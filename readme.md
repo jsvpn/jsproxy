@@ -12,21 +12,21 @@
 <li><a href="/topimagenews/20230711/1906558.md">【微博精粹】躺平族小心！砖家又给主子出了狠毒建议</a></li>
 <li><a href="/topimagenews/20230711/1906497.md">外界低估中国经济崩坏程度 与中企人士对话惊讶发现</a></li>
 <li><a href="/cnnews/20230711/1906447.md">跳船挑战疯传！人夫当场断颈 妻目睹死亡瞬间</a></li>
-<li><a href="/cnnews/20230711/1906631.md">断供的留学：突然被抛入残酷世界！有人大二退学回国参加高考</a></li>
-<li><a href="/sohnews/20230711/1906522.md">刘亚洲被选入国防大学正军职以上干部培训班。这期培训班，在中共军内被称为“龙班”⋯⋯｜ #百年真相</a></li>
 <li><a href="/baitai/20230711/1906680.md">中共又打破一贯例 汪文斌罕见承认秦刚健康出问题</a></li>
+<li><a href="/sohnews/20230711/1906522.md">刘亚洲被选入国防大学正军职以上干部培训班。这期培训班，在中共军内被称为“龙班”⋯⋯｜ #百年真相</a></li>
+<li><a href="/cnnews/20230711/1906631.md">断供的留学：突然被抛入残酷世界！有人大二退学回国参加高考</a></li>
 <li><a href="/comments/20230711/1906467.md">习惨陷两难！用“他知道的方式”如何下手？</a></li>
-<li><a href="/cbnews/20230711/1906629.md">他看向习近平！人民日报发出特选照片【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230711/1906583.md">中共财政部大怒！泄密地方债黑洞【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230711/1906629.md">他看向习近平！人民日报发出特选照片【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230711/1906406.md">4.15亿中国人觉醒</a></li>
-<li><a href="/cnnews/20230711/1906448.md">降价200万卖房产只为美签 美领馆面签排队到明年</a></li>
-<li><a href="/yule/20230711/1906573.md">黄晓明章子怡被曝大瓜！眼尖的网友发现，两人退出共同持股的公司</a></li>
 <li><a href="/sohnews/20230711/1906694.md">为什么？！北京市公安局长疯整北京市公安局，留下惊人记录；惹翻北京从官场到民间，他最后结局如何？｜ #百年真相</a></li>
+<li><a href="/yule/20230711/1906573.md">黄晓明章子怡被曝大瓜！眼尖的网友发现，两人退出共同持股的公司</a></li>
 <li><a href="/topimagenews/20230711/1906661.md">俄潜艇指挥官晨跑遭暗杀 曾下令发射一枚巡航导弹造成27名乌克兰平民死亡</a></li>
+<li><a href="/cnnews/20230711/1906448.md">降价200万卖房产只为美签 美领馆面签排队到明年</a></li>
 <li><a href="/comments/20230711/1906496.md">文昭：新数据，中国正式进入通缩新时代！传习近平苏州3小时20分讲话，也宣告了一个时代的开始</a></li>
+<li><a href="/headline/20230711/1906678.md">人民日报号召年青人上山下乡 网民：领导子女也要以身作则</a></li>
 <li><a href="/topimagenews/20230711/1906595.md">断腿仍被送回前线！俄动员军自述弹药耗尽遭屠杀 妻子们联合拍片求援</a></li>
 <li><a href="/yule/20230711/1906454.md">李玟老公出轨照疑曝光 约会多位美女搂抱对方</a></li>
-<li><a href="/headline/20230711/1906678.md">人民日报号召年青人上山下乡 网民：领导子女也要以身作则</a></li>
 <li><a href="/worldnews/20230711/1906616.md">普京私生活遭扒！专属“幽灵列车”配高级SPA</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230711/1906809.md" target="_blank">李燕铭：中国年轻人开始爆发癌症 苏州大学附属医院候诊大厅全是白血病患者 捂不住了 噩耗才刚刚开始！知名博主惊爆：两年前反对疫苗的科学家们很多人遭到了暗杀 中共末日之病毒亡共（三四）</a></li>
 <li><a href="/comments/20230711/1906759.md" target="_blank">文昭：以史为鉴，为什么钱越贬值，央行越要加速印钞？</a></li>
 <li><a href="/comments/20230711/1906758.md" target="_blank">文昭：习近平这一件事，让所有刺激经济的举措无效；而且刺激有反作用</a></li>
 <li><a href="/comments/20230711/1906753.md" target="_blank">观音菩萨座骑有多厉害？龙都不是他的对手！</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230711/1906481.md" target="_blank">耶伦“点头哈腰”引发舆论譁然！为什么？美中关系能“见彩虹”吗？｜秦鹏 方菲 ｜新闻烽火台 07/10 #耶伦访华</a></li>
 <li><a href="/comments/20230711/1906475.md" target="_blank">美国总统大选一名主要参选人 誓言取消中国“永久正常贸易关系”资格</a></li>
 <li><a href="/comments/20230711/1906474.md" target="_blank">生存压力大 广州大学生和在职青年8%选“四不”</a></li>
-<li><a href="/comments/20230711/1906473.md" target="_blank">【经典电影】《人在囧途》 国语中字高清1080P 主演||徐峥|王宝强|张歆艺|左小青|李曼|李小璐 导演||叶伟民 监制||文隽</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
 <li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
