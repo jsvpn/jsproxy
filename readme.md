@@ -12,11 +12,10 @@
 <li><a href="/ssgc/20230710/1906221.md">上海将率先推出“城市码”  疫情产物构建城市“治理体系”</a></li>
 <li><a href="/topimagenews/20230710/1906316.md">兵变之后首度获普丁接见 普里格津称将继续效忠普丁</a></li>
 <li><a href="/cnnews/20230711/1906446.md">美国科学家让你8周年轻11岁，做法很简单</a></li>
-<li><a href="/headline/20230711/1906463.md">中国将启动新一轮国企改革 应对大国博弈</a></li>
 <li><a href="/baitai/20230710/1906242.md">苏暁康：大国崛起已经烂尾</a></li>
+<li><a href="/headline/20230711/1906463.md">中国将启动新一轮国企改革 应对大国博弈</a></li>
 <li><a href="/sohnews/20230710/1906314.md">“独家”公安部内部文件：电信诈骗案异常严峻！电信诈骗层出不穷的真相是……只一类型诈骗破案率高！</a></li>
 <li><a href="/cbnews/20230711/1906515.md">〖兲朝浮世绘〗耶伦见到中国副总理都三鞠躬 但俄罗斯大妈在习皇上前面趾高气昂</a></li>
-<li><a href="/topimagenews/20230710/1906208.md">贵州“西江千户苗寨”烧了 烈焰冲天 有人从3楼跳下…</a></li>
 <li><a href="/baitai/20230711/1906410.md">青年失业危及政权？党媒号召树立「正确就业观」 遭十万网友骂翻</a></li>
 <li><a href="/topimagenews/20230711/1906497.md">外界低估中国经济崩坏程度 与中企人士对话惊讶发现</a></li>
 <li><a href="/headline/20230710/1906282.md">耶伦访华鞠躬三次遭美国人质疑 见她的中国女经济学家被中国人骂叛徒</a></li>
@@ -25,6 +24,7 @@
 <li><a href="/cnnews/20230711/1906447.md">跳船挑战疯传！人夫当场断颈 妻目睹死亡瞬间</a></li>
 <li><a href="/baitai/20230710/1906263.md">到了这个年纪，大脑会“断崖式”衰老</a></li>
 <li><a href="/comments/20230711/1906467.md">习惨陷两难！用“他知道的方式”如何下手？</a></li>
+<li><a href="/topimagenews/20230711/1906558.md">【微博精粹】躺平族小心！砖家又给主子出了狠毒建议</a></li>
 <li><a href="/finance/20230710/1906236.md">人财两空，恐为中国未来发展埋下隐患</a></li>
 <li><a href="/headline/20230710/1906315.md">中国酝酿启动新版国企改革 称要做大做强做优</a></li>
 <li><a href="/baitai/20230711/1906406.md">4.15亿中国人觉醒</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230711/1906623.md" target="_blank">德媒：美中“和好”了，这是幻觉</a></li>
 <li><a href="/comments/20230711/1906597.md" target="_blank">闹剧一出接着一出 何时才是个头</a></li>
 <li><a href="/comments/20230711/1906594.md" target="_blank">英国人惊呼成龙可怕渣爹，弃女吴卓林遭围观！普京又把习近平玩了！中共儿子母亲仆人乱叫，共产共妻实现？</a></li>
 <li><a href="/comments/20230711/1906561.md" target="_blank">为什么在87个发展中国家中，越南的学校出类拔萃？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230710/1906348.md" target="_blank">俄媒︰俄军死亡人数逼近5万 高出官方数据8倍</a></li>
 <li><a href="/comments/20230710/1906347.md" target="_blank">中国再出重拳规管自媒体 炒作社会热点将被关闭</a></li>
 <li><a href="/comments/20230710/1906345.md" target="_blank">【文韬政论】《国安法》颁布三周年港府大动作打击异议人士</a></li>
-<li><a href="/comments/20230710/1906311.md" target="_blank">预言灵验！泰坦尼克号 没那么简单！层层叠叠、难以置信的巧合！他在巨大悲剧中，展现什么叫富而有德！｜ #未解之谜 扶摇</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 <li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 
 </ul>
 </div>
