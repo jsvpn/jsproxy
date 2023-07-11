@@ -8,15 +8,14 @@
 <li><a href="/cnnews/20230711/1906446.md">美国科学家让你8周年轻11岁，做法很简单</a></li>
 <li><a href="/cbnews/20230711/1906515.md">〖兲朝浮世绘〗耶伦见到中国副总理都三鞠躬 但俄罗斯大妈在习皇上前面趾高气昂</a></li>
 <li><a href="/headline/20230711/1906463.md">中国将启动新一轮国企改革 应对大国博弈</a></li>
-<li><a href="/baitai/20230711/1906410.md">青年失业危及政权？党媒号召树立「正确就业观」 遭十万网友骂翻</a></li>
 <li><a href="/topimagenews/20230711/1906558.md">【微博精粹】躺平族小心！砖家又给主子出了狠毒建议</a></li>
 <li><a href="/topimagenews/20230711/1906497.md">外界低估中国经济崩坏程度 与中企人士对话惊讶发现</a></li>
 <li><a href="/cnnews/20230711/1906447.md">跳船挑战疯传！人夫当场断颈 妻目睹死亡瞬间</a></li>
-<li><a href="/baitai/20230711/1906680.md">中共又打破一贯例 汪文斌罕见承认秦刚健康出问题</a></li>
 <li><a href="/sohnews/20230711/1906522.md">刘亚洲被选入国防大学正军职以上干部培训班。这期培训班，在中共军内被称为“龙班”⋯⋯｜ #百年真相</a></li>
+<li><a href="/baitai/20230711/1906680.md">中共又打破一贯例 汪文斌罕见承认秦刚健康出问题</a></li>
 <li><a href="/cnnews/20230711/1906631.md">断供的留学：突然被抛入残酷世界！有人大二退学回国参加高考</a></li>
-<li><a href="/comments/20230711/1906467.md">习惨陷两难！用“他知道的方式”如何下手？</a></li>
 <li><a href="/topimagenews/20230711/1906583.md">中共财政部大怒！泄密地方债黑洞【阿波罗网报道】</a></li>
+<li><a href="/comments/20230711/1906467.md">习惨陷两难！用“他知道的方式”如何下手？</a></li>
 <li><a href="/cbnews/20230711/1906629.md">他看向习近平！人民日报发出特选照片【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230711/1906694.md">为什么？！北京市公安局长疯整北京市公安局，留下惊人记录；惹翻北京从官场到民间，他最后结局如何？｜ #百年真相</a></li>
 <li><a href="/yule/20230711/1906573.md">黄晓明章子怡被曝大瓜！眼尖的网友发现，两人退出共同持股的公司</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20230711/1906595.md">断腿仍被送回前线！俄动员军自述弹药耗尽遭屠杀 妻子们联合拍片求援</a></li>
 <li><a href="/worldnews/20230711/1906616.md">普京私生活遭扒！专属“幽灵列车”配高级SPA</a></li>
 <li><a href="/lifebaike/20230711/1906663.md">鬼谷子：人生不顺，谨记三句话，福报不请自来</a></li>
+<li><a href="/ssgc/20230711/1906507.md">〖微博谈〗世界再大也容不下中共的称霸野心</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
 <li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
 
 </ul>
 </div>
