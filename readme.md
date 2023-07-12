@@ -14,18 +14,18 @@
 <li><a href="/topimagenews/20230712/1906818.md">被删评论！网友：但愿朝阳常照我土，莫忘烈士鲜血满地【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230712/1906895.md">为什么全国各地不再建大高楼 原因很魔幻</a></li>
 <li><a href="/yule/20230712/1906884.md">嫁入豪门前奏？网络疯传LISA约会世界首富之子</a></li>
-<li><a href="/topimagenews/20230712/1906966.md">房地产中介开始胡言乱语了…</a></li>
 <li><a href="/sohnews/20230711/1906697.md">文睿：朝鲜日报，当头一闷棍，一尊，你还能站得住吗？</a></li>
+<li><a href="/topimagenews/20230712/1906966.md">房地产中介开始胡言乱语了…</a></li>
 <li><a href="/headline/20230711/1906798.md">广东公务员集体降薪25%? 官方未表态</a></li>
 <li><a href="/baitai/20230712/1906890.md">军报社论无视习近平 释放什么信号？</a></li>
 <li><a href="/cbnews/20230712/1906857.md">软肋太多，北京急求美方合作</a></li>
 <li><a href="/ccpdope/20230712/1906821.md">发生了什么？乌克兰官员怒斥中共大外宣</a></li>
 <li><a href="/comments/20230711/1906809.md">李燕铭：中国年轻人开始爆发癌症 苏州大学附属医院候诊大厅全是白血病患者 捂不住了 噩耗才刚刚开始！知名博主惊爆：两年前反对疫苗的科学家们很多人遭到了暗杀 中共末日之病毒亡共（三四）</a></li>
+<li><a href="/cbnews/20230712/1907008.md">江峰：李毅再放狂言“9000万党员上战场，副省军以上高干一家一壮丁！”这回我不厚道的笑了；《人民日报》吹响上山下乡号角，比卢旺达和伊朗都糟，中国社会失业危机如何走到今天这步【漫谈20230711第694期】</a></li>
 <li><a href="/sohnews/20230711/1906700.md">中国通货紧缩来袭，吃不饱饭不远了？中国失业无药医，党媒文章透玄机？党媒洗脑翻车，青年怒怼中共罩门？（2023.7.11）｜世界的十字路口 唐浩</a></li>
 <li><a href="/sohnews/20230711/1906712.md">陈破空：惊奇！因反习遭查办的王岐山旧部，复出任职。耶伦三鞠躬是个什么梗？邀请六位中国女性午餐，遭老粉红骂翻</a></li>
-<li><a href="/ssgc/20230712/1906994.md">〖微博谈〗西方精英仍然把头埋在沙里</a></li>
 <li><a href="/comments/20230712/1906951.md">任正非雇李毅看大门？副军级干部跟李毅没完</a></li>
-<li><a href="/cbnews/20230712/1907008.md">江峰：李毅再放狂言“9000万党员上战场，副省军以上高干一家一壮丁！”这回我不厚道的笑了；《人民日报》吹响上山下乡号角，比卢旺达和伊朗都糟，中国社会失业危机如何走到今天这步【漫谈20230711第694期】</a></li>
+<li><a href="/ssgc/20230712/1906994.md">〖微博谈〗西方精英仍然把头埋在沙里</a></li>
 <li><a href="/sohnews/20230712/1906896.md">5名中纪委“内鬼”同日落马，习近平瞄准大鱼？啥原因？长沙男子喊“抢银行”，被抓；美财长耶伦前脚走，小粉红后脚开骂；2小时20万没了，湖北业主崩溃！</a></li>
 <li><a href="/worldnews/20230712/1906859.md">对中友好 发动政变掌权9年 他宣布退出政坛</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
 <li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 
 </ul>
 </div>
