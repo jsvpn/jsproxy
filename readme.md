@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/ccpdope/20230712/1906891.md">捂不住了！接种“灭活”疫苗的年轻人开始爆发癌症</a></li>
-<li><a href="/cnnews/20230712/1906864.md">中国重新开放，熄火</a></li>
 <li><a href="/cbnews/20230712/1907072.md">权力内斗升级！习近平重拳出击 剑指这条大鱼</a></li>
 <li><a href="/topimagenews/20230712/1906895.md">为什么全国各地不再建大高楼 原因很魔幻</a></li>
 <li><a href="/baitai/20230712/1906890.md">军报社论无视习近平 释放什么信号？</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/topimagenews/20230712/1906966.md">房地产中介开始胡言乱语了…</a></li>
 <li><a href="/sohnews/20230712/1907117.md">陈破空：习近平前脚刚走，苏州就出了怪事！无数人冲进医院。外界看不懂俄国！普京会见普里戈津。国防部长明升暗降，分管西伯利亚</a></li>
 <li><a href="/cbnews/20230712/1907008.md">江峰：李毅再放狂言“9000万党员上战场，副省军以上高干一家一壮丁！”这回我不厚道的笑了；《人民日报》吹响上山下乡号角，比卢旺达和伊朗都糟，中国社会失业危机如何走到今天这步【漫谈20230711第694期】</a></li>
-<li><a href="/cbnews/20230712/1906857.md">软肋太多，北京急求美方合作</a></li>
 <li><a href="/cbnews/20230712/1907053.md">安徽女子当街猥亵男子 网友回应更让人傻眼</a></li>
 <li><a href="/topimagenews/20230712/1907071.md">禁忌揭秘！中国900万粉丝官方抖音直播造假，网友一招逼下架</a></li>
 <li><a href="/comments/20230712/1906951.md">任正非雇李毅看大门？副军级干部跟李毅没完</a></li>
 <li><a href="/topimagenews/20230712/1907122.md">时代震撼！中国经历美国大萧条式经济危机，踩遍百年的坑！百年的亏再吃一遍</a></li>
 <li><a href="/ccpdope/20230712/1907186.md">秦刚出事！为什么副部长不能替补 要老王上阵？</a></li>
-<li><a href="/ssgc/20230712/1907103.md">中国高考生1300万 27所军校万名员额招不满 父母不愿子女当兵</a></li>
 <li><a href="/ssgc/20230712/1906994.md">〖微博谈〗西方精英仍然把头埋在沙里</a></li>
+<li><a href="/ssgc/20230712/1907103.md">中国高考生1300万 27所军校万名员额招不满 父母不愿子女当兵</a></li>
 <li><a href="/topimagenews/20230712/1907069.md">中国地方破产引降薪风暴！最高25%削减，裁员阴影接踵而至</a></li>
 <li><a href="/topimagenews/20230712/1907070.md">又打农民土地的主意！中共深改委会议这样说...【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230712/1906896.md">5名中纪委“内鬼”同日落马，习近平瞄准大鱼？啥原因？长沙男子喊“抢银行”，被抓；美财长耶伦前脚走，小粉红后脚开骂；2小时20万没了，湖北业主崩溃！</a></li>
 <li><a href="/finance/20230712/1906987.md">最严重危机时刻 中共地方政府事实破产</a></li>
 <li><a href="/cnnews/20230712/1907092.md">经济惨淡！中国银行惊见缩编、关门潮…</a></li>
-<li><a href="/worldnews/20230712/1906859.md">对中友好 发动政变掌权9年 他宣布退出政坛</a></li>
+<li><a href="/worldnews/20230712/1907135.md">泰坦号5死者经历“恐怖48秒”！专家：他们知道末日来临</a></li>
+<li><a href="/cnnews/20230712/1907043.md">入侵乌克兰 这下俄军要惨了</a></li>
+<li><a href="/lifebaike/20230712/1906925.md">尿毒症大多是吃出来的？提醒：这6种水果，再爱吃也别贪嘴</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
 <li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
 
 </ul>
 </div>
