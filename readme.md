@@ -6,10 +6,8 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/baitai/20230711/1906680.md">中共又打破一贯例 汪文斌罕见承认秦刚健康出问题</a></li>
-<li><a href="/cnnews/20230711/1906631.md">断供的留学：突然被抛入残酷世界！有人大二退学回国参加高考</a></li>
 <li><a href="/sohnews/20230711/1906762.md">“独家”夺人妻、玩❌女……权贵子弟帮太疯狂！外交部突发文预警赴美“公民”注意安全！</a></li>
 <li><a href="/sohnews/20230711/1906694.md">为什么？！北京市公安局长疯整北京市公安局，留下惊人记录；惹翻北京从官场到民间，他最后结局如何？｜ #百年真相</a></li>
-<li><a href="/cbnews/20230711/1906629.md">他看向习近平！人民日报发出特选照片【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20230711/1906789.md">全军为何急盼习近平下台</a></li>
 <li><a href="/ccpdope/20230712/1906891.md">捂不住了！接种“灭活”疫苗的年轻人开始爆发癌症</a></li>
 <li><a href="/headline/20230711/1906678.md">人民日报号召年青人上山下乡 网民：领导子女也要以身作则</a></li>
@@ -20,14 +18,16 @@
 <li><a href="/topimagenews/20230712/1906895.md">为什么全国各地不再建大高楼 原因很魔幻</a></li>
 <li><a href="/yule/20230712/1906884.md">嫁入豪门前奏？网络疯传LISA约会世界首富之子</a></li>
 <li><a href="/sohnews/20230711/1906697.md">文睿：朝鲜日报，当头一闷棍，一尊，你还能站得住吗？</a></li>
-<li><a href="/lifebaike/20230711/1906663.md">鬼谷子：人生不顺，谨记三句话，福报不请自来</a></li>
-<li><a href="/baitai/20230712/1906890.md">军报社论无视习近平 释放什么信号？</a></li>
-<li><a href="/headline/20230711/1906798.md">广东公务员集体降薪25%? 官方未表态</a></li>
 <li><a href="/topimagenews/20230712/1906966.md">房地产中介开始胡言乱语了…</a></li>
+<li><a href="/lifebaike/20230711/1906663.md">鬼谷子：人生不顺，谨记三句话，福报不请自来</a></li>
+<li><a href="/headline/20230711/1906798.md">广东公务员集体降薪25%? 官方未表态</a></li>
+<li><a href="/baitai/20230712/1906890.md">军报社论无视习近平 释放什么信号？</a></li>
 <li><a href="/yule/20230711/1906641.md">李玟婚姻太苦了！丈夫“1行为”如今被抖出 粉丝听完气炸：震惊三观了</a></li>
 <li><a href="/cbnews/20230712/1906857.md">软肋太多，北京急求美方合作</a></li>
 <li><a href="/ccpdope/20230712/1906821.md">发生了什么？乌克兰官员怒斥中共大外宣</a></li>
 <li><a href="/topimagenews/20230711/1906637.md">民众吓疯！陆医院外垃圾桶惊见“人类头盖骨”警：法医查证中</a></li>
+<li><a href="/comments/20230711/1906809.md">李燕铭：中国年轻人开始爆发癌症 苏州大学附属医院候诊大厅全是白血病患者 捂不住了 噩耗才刚刚开始！知名博主惊爆：两年前反对疫苗的科学家们很多人遭到了暗杀 中共末日之病毒亡共（三四）</a></li>
+<li><a href="/lifebaike/20230711/1906639.md">晚上睡觉前，最好在门把手上挂一条毛巾，很多人不懂，看完涨见识</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
 
 </ul>
 </div>
