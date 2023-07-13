@@ -20,14 +20,14 @@
 <li><a href="/topimagenews/20230713/1907527.md">人民日报玩砸了！第一宣传“典型” 竟然让人联想到...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230713/1907350.md">大冤种！一个举动竟让自己美国十年签证被吊销</a></li>
 <li><a href="/sohnews/20230713/1907415.md">秦刚病了挂了？被中纪委约谈，习近平怒斩秦刚？【新闻看点 李沐阳7.12】</a></li>
+<li><a href="/topimagenews/20230714/1907680.md">好大一个瓜？网传中外交部长秦刚因“她”出事</a></li>
 <li><a href="/sohnews/20230713/1907503.md">陈破空：赵夫人证实秦刚出事！喜极大喊：今天是个好日子！暗示赵立坚将出任外交部长？北京高校师生拒迁雄安，蔡奇头大，最怕白纸革命</a></li>
 <li><a href="/funmedia/20230713/1907398.md">这几个笑话笑了一晚上，发给你乐一乐，哈哈哈</a></li>
 <li><a href="/baitai/20230713/1907515.md">欺瞒习近平？港媒：战略支援部队司令巨干生恐出事</a></li>
-<li><a href="/ssgc/20230713/1907327.md">〖微博谈〗很多人对共匪的了解太肤浅</a></li>
 <li><a href="/cnnews/20230713/1907434.md">火车上被上铺男子凝视1小时，女子投诉，结果…</a></li>
-<li><a href="/topimagenews/20230714/1907680.md">好大一个瓜？网传中外交部长秦刚因“她”出事</a></li>
 <li><a href="/cbnews/20230713/1907418.md">江峰：成都召集升级版白纸革命，目标推翻独裁者！提前预告的运动中共有能力镇压麽？ 中南海开始抢劫银行，您的存款不再安全。耶伦北京之行成果在此，所有在华外企将惊恐撤离！【江峰漫谈20230712第695期】</a></li>
 <li><a href="/topimagenews/20230713/1907456.md">战况不利！俄“精锐部队”集体遭俘掳</a></li>
+<li><a href="/headline/20230713/1907542.md">“89”开明派阎明复今举告别式 胡锦涛蔡奇等送花圈 未提习近平</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230714/1907742.md" target="_blank">秦刚失踪18天，因为傅晓田吗？</a></li>
 <li><a href="/cbnews/20230714/1907681.md" target="_blank">习近平辣手摁灭“关键引擎”</a></li>
 <li><a href="/comments/20230713/1907633.md" target="_blank">预言应验！</a></li>
 <li><a href="/cbnews/20230713/1907575.md" target="_blank">江峰：西方不搞千军万马过独木桥原因在这儿</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230712/1907053.md" target="_blank">安徽女子当街猥亵男子 网友回应更让人傻眼</a></li>
 <li><a href="/comments/20230712/1907024.md" target="_blank">川普棋高一著，要求机密文件案延迟到2024年大选之后。上诉法院质疑，詹姆斯对川普的民事诉讼已国时效，或导致整个案件被撤销。</a></li>
 <li><a href="/cbnews/20230712/1907008.md" target="_blank">江峰：李毅再放狂言“9000万党员上战场，副省军以上高干一家一壮丁！”这回我不厚道的笑了；《人民日报》吹响上山下乡号角，比卢旺达和伊朗都糟，中国社会失业危机如何走到今天这步【漫谈20230711第694期】</a></li>
-<li><a href="/comments/20230712/1906990.md" target="_blank">网信办严控中国“网红” 自媒体人往何处去</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230714/1907742.md" target="_blank">秦刚失踪18天，因为傅晓田吗？</a></li>
+<li><a href="/comments/20230714/1907737.md" target="_blank">【独家重磅】李燕铭：河南省委副书记周霁黑马出任港澳办常务副主任 揭秘其与夏宝龙鲜为人知深层关系 港澳办主任夏宝龙接替人选有二 最终人选或出人意料 习家军接掌国务院（26） 习连任后高层人事大洗牌（110）</a></li>
 <li><a href="/comments/20230714/1907717.md" target="_blank">华尔街日报：习对外企施压导致中国经济熄火</a></li>
 <li><a href="/comments/20230714/1907677.md" target="_blank">【独家重磅】李燕铭：上海帮搅局北戴河会议 彭丽媛山东老乡炮轰澎湃新闻怒怼上海帮 澎湃新闻董事长上海报业集团副总经理程峰落马 韩正主导成立澎湃新闻上海报业集团或受牵连 澎湃历任总编辑背景揭秘 背后浮现李长春家族代理人 江泽民老巢上海被清洗（37） 文宣系统大清洗（33） 习近平连任后大清洗（46） 习近平决战江曾（88） 北戴河会议大战内幕（47） 第八常委彭丽媛（12）</a></li>
 <li><a href="/comments/20230713/1907633.md" target="_blank">预言应验！</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230713/1907400.md" target="_blank">艾晓明:只有说真话才值得追忆</a></li>
 <li><a href="/comments/20230713/1907391.md" target="_blank">【独家重磅】李燕铭：北戴河会前重磅打虎 上海人大常委会主任董云虎落马 情妇主播被带走 董云虎政治背景太吓人 牵连逾十正国级副国级高官涵盖三大政治派系 习近平释放多重政治清洗信号 震慑各路元老 中南海政治裂变酝酿巨大风暴 江泽民老巢上海被清洗（36） 文宣系统大清洗（32） 习近平连任后大清洗（45） 习近平决战江曾（87） 北戴河会议大战内幕（46）</a></li>
 <li><a href="/comments/20230713/1907382.md" target="_blank">北约意在东扩 中共以后天天碰“警察”</a></li>
-<li><a href="/comments/20230713/1907377.md" target="_blank">天亮时分：习要求提高对外开放水平，塔西佗陷阱还是顿悟了？北约公报视中共为系统性挑战，中共邀请普京访华；瑞典加入北约的代价（政论天下第1056集 20230712）</a></li>
-<li><a href="/comments/20230713/1907363.md" target="_blank">林保华：马英九基金会骗人应拒绝北大党委书记率团来</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
 <li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 
 </ul>
 </div>
