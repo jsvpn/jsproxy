@@ -8,9 +8,8 @@
 <li><a href="/comments/20230713/1907437.md">秦刚突传被中纪委拱了！光头李毅盯上习明泽丈夫！秦刚阴谋论涉男女or火箭军？</a></li>
 <li><a href="/sohnews/20230713/1907423.md">传中纪委拿下秦刚！存在忠诚问题？王小洪被指才是大隐患，中共党内唯一有“独立武装”！瓦格纳叛乱后，习很紧张，频用“老人”；秦刚或因“女人”惹祸，王岐山一句话点出“本质”｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20230713/1907346.md">上海人大常委会主任董云虎落马 传情妇主播也带走</a></li>
-<li><a href="/cbnews/20230713/1907270.md">中共若武力犯台，美国3天就“玩完”</a></li>
-<li><a href="/sohnews/20230713/1907305.md">秦刚消失近3周，网传被查可信吗？时间点诡异“巧合”，秦刚与火箭军事件居然有关？王毅的反常“替补”，和外交部删除“秦刚健康信息”说明了什么？</a></li>
 <li><a href="/baitai/20230713/1907580.md">秦刚消失因为她？传情人和儿子都爆光了</a></li>
+<li><a href="/sohnews/20230713/1907305.md">秦刚消失近3周，网传被查可信吗？时间点诡异“巧合”，秦刚与火箭军事件居然有关？王毅的反常“替补”，和外交部删除“秦刚健康信息”说明了什么？</a></li>
 <li><a href="/finance/20230713/1907290.md">中国经济恐正面临一个“更严重、更棘手”的问题</a></li>
 <li><a href="/ccpdope/20230713/1907484.md">这可能是一个信号：秦刚遇到的麻烦不小</a></li>
 <li><a href="/sohnews/20230713/1907317.md">陈破空：惊传秦刚遭中纪委约谈？包养情妇有私生子！幕后是权斗。中共又为两事跳脚：北约峰会宣言。欧盟通过芯片法。直播与互动。美东7月11日晚8点、即中港台7月12日早8点</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20230713/1907350.md">大冤种！一个举动竟让自己美国十年签证被吊销</a></li>
 <li><a href="/sohnews/20230713/1907415.md">秦刚病了挂了？被中纪委约谈，习近平怒斩秦刚？【新闻看点 李沐阳7.12】</a></li>
 <li><a href="/cnnews/20230713/1907291.md">快讯：马斯克宣布成立新公司 目标是要…</a></li>
+<li><a href="/sohnews/20230713/1907503.md">陈破空：赵夫人证实秦刚出事！喜极大喊：今天是个好日子！暗示赵立坚将出任外交部长？北京高校师生拒迁雄安，蔡奇头大，最怕白纸革命</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230714/1907677.md" target="_blank">【独家重磅】李燕铭：上海帮搅局北戴河会议 彭丽媛山东老乡炮轰澎湃新闻怒怼上海帮 澎湃新闻董事长上海报业集团副总经理程峰落马 韩正主导成立澎湃新闻上海报业集团或受牵连 澎湃历任总编辑背景揭秘 背后浮现李长春家族代理人 江泽民老巢上海被清洗（37） 文宣系统大清洗（33） 习近平连任后大清洗（46） 习近平决战江曾（88） 北戴河会议大战内幕（47） 第八常委彭丽媛（12）</a></li>
 <li><a href="/comments/20230713/1907633.md" target="_blank">预言应验！</a></li>
 <li><a href="/comments/20230713/1907609.md" target="_blank">文昭：反映弱势群体的自媒体面临被严打！怎么就负能量了？</a></li>
 <li><a href="/comments/20230713/1907608.md" target="_blank">文昭：严打自媒体后，社会极端事件或将大增</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230713/1907377.md" target="_blank">天亮时分：习要求提高对外开放水平，塔西佗陷阱还是顿悟了？北约公报视中共为系统性挑战，中共邀请普京访华；瑞典加入北约的代价（政论天下第1056集 20230712）</a></li>
 <li><a href="/comments/20230713/1907363.md" target="_blank">林保华：马英九基金会骗人应拒绝北大党委书记率团来</a></li>
 <li><a href="/comments/20230713/1907352.md" target="_blank">宋国诚：全球资源战争开打</a></li>
-<li><a href="/comments/20230713/1907351.md" target="_blank">吴惠林：政府“拼经济”、“救经济”的迷思</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
 <li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
 
 </ul>
 </div>
