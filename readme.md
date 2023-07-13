@@ -19,15 +19,15 @@
 <li><a href="/topimagenews/20230713/1907307.md">她最美！北约峰会，泽伦斯基夫妇甜翻了</a></li>
 <li><a href="/sohnews/20230713/1907357.md">秦刚挂了？</a></li>
 <li><a href="/topimagenews/20230713/1907350.md">大冤种！一个举动竟让自己美国十年签证被吊销</a></li>
-<li><a href="/topimagenews/20230712/1907157.md">薅中共羊毛 这样可以7万变成12万？李强开经济专家会问药 ；耶伦直言不讳批中共</a></li>
 <li><a href="/topimagenews/20230713/1907467.md">上海大老板替4情妇找保镳 要求先阉割</a></li>
-<li><a href="/cnnews/20230713/1907291.md">快讯：马斯克宣布成立新公司 目标是要…</a></li>
+<li><a href="/topimagenews/20230712/1907157.md">薅中共羊毛 这样可以7万变成12万？李强开经济专家会问药 ；耶伦直言不讳批中共</a></li>
+<li><a href="/ccpdope/20230713/1907484.md">这可能是一个信号：秦刚遇到的麻烦不小</a></li>
 <li><a href="/cbnews/20230713/1907426.md">〖兲朝浮世绘〗胡锡进又造谣 这就叫泽连斯基遭到冷遇了？</a></li>
+<li><a href="/cnnews/20230713/1907291.md">快讯：马斯克宣布成立新公司 目标是要…</a></li>
 <li><a href="/topimagenews/20230712/1907200.md">高喊“中华民国万岁！” 大陆网友再冲塔【阿波罗网报道】</a></li>
 <li><a href="/funmedia/20230713/1907398.md">这几个笑话笑了一晚上，发给你乐一乐，哈哈哈</a></li>
 <li><a href="/ssgc/20230713/1907267.md">美专家：中国或在12至18个月内攻打台湾</a></li>
 <li><a href="/topimagenews/20230713/1907288.md">开打！美国锁喉，中共报复，俄背后捅刀</a></li>
-<li><a href="/ccpdope/20230713/1907484.md">这可能是一个信号：秦刚遇到的麻烦不小</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230713/1907575.md" target="_blank">江峰：西方不搞千军万马过独木桥原因在这儿</a></li>
 <li><a href="/cbnews/20230713/1907536.md" target="_blank">美第七舰队证实“P-8A反潜机”飞越台湾海峡 展现对印太地区自由开放承诺</a></li>
 <li><a href="/cbnews/20230713/1907529.md" target="_blank">准备台海登陆战？可载10辆装甲运输车 中共“野牛级”气垫登陆艇曝光</a></li>
 <li><a href="/cbnews/20230713/1907528.md" target="_blank">竟敢“高级黑”习皇帝! 习近平苏州演讲内容遭恶搞 专家：暴其内心想法</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/comments/20230712/1906990.md" target="_blank">网信办严控中国“网红” 自媒体人往何处去</a></li>
 <li><a href="/cbnews/20230712/1906985.md" target="_blank">超罕见！四川天空出现“2个太阳”民众看呆</a></li>
 <li><a href="/cbnews/20230712/1906932.md" target="_blank">中共“天网”无所不在，监控让脱北者绝望</a></li>
-<li><a href="/comments/20230712/1906894.md" target="_blank">唐靖远：北约历史性峰会，你想不到的最大赢家！剑指中共，北约印太战略呼之欲出 ｜新闻烽火台 07/11</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230713/1907576.md" target="_blank">“冻龄”整整20岁！权威医师分享秘诀：每天必做3件事</a></li>
 <li><a href="/topimagenews/20230713/1907549.md" target="_blank">美通膨降又升息 逼死谁？谢金河：大陆恐有1未爆弹</a></li>
 <li><a href="/topimagenews/20230713/1907527.md" target="_blank">人民日报玩砸了！第一宣传“典型” 竟然让人联想到&#8230;【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230713/1907502.md" target="_blank">1小时20分钟！乌克兰加入北约 俄乌战争结束…</a></li>
@@ -90,13 +91,16 @@
 <li><a href="/topimagenews/20230712/1907069.md" target="_blank">中国地方破产引降薪风暴！最高25%削减，裁员阴影接踵而至</a></li>
 <li><a href="/topimagenews/20230712/1907066.md" target="_blank">川普发警告！拜登向乌提供集束弹药，把美国拖入第三次世界大战</a></li>
 <li><a href="/topimagenews/20230712/1907039.md" target="_blank">猛虎添翼!“载弹之王”美B-1B轰炸机将增高超音速导弹发射能力</a></li>
-<li><a href="/topimagenews/20230712/1907033.md" target="_blank">给中共下马威！美菲军演在南海黄岩岛海域划禁区 称将击沉中国造油轮</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230713/1907577.md" target="_blank">【未普评论】屡谈「极端情况」，习近平在暗示甚么？</a></li>
+<li><a href="/comments/20230713/1907556.md" target="_blank">蒙元、满清和英国殖民统治的异同 — 曾节明</a></li>
+<li><a href="/comments/20230713/1907573.md" target="_blank">普京受邀10月访中？ 克里姆林宫：已提上日程</a></li>
+<li><a href="/comments/20230713/1907572.md" target="_blank">美FBI局长曝：中国监控外资企业 要求公司设中共政治小组</a></li>
 <li><a href="/comments/20230713/1907547.md" target="_blank">美俄情报首长释俄乌和谈风向 泽伦斯基：寸土不让拒绝“割地求和”</a></li>
 <li><a href="/comments/20230713/1907481.md" target="_blank">“男女平等”是反人类的歪理邪说 — 曾节明</a></li>
 <li><a href="/comments/20230713/1907447.md" target="_blank">胡温时期取消的农业税竟被建议恢复 这不是笑话</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230713/1907346.md" target="_blank">上海人大常委会主任董云虎落马 传情妇主播也带走</a></li>
 <li><a href="/comments/20230713/1907326.md" target="_blank">大棒挥向“自媒体”，中共加强管控；经济螺旋下滑，“四不”青年真成最后一代；北约要“东进”，中共不干了 ｜唐靖远 Jason 方菲 David</a></li>
 <li><a href="/comments/20230713/1907323.md" target="_blank">文昭：网信办新13条，自媒体大屠杀到来！「出海」到YouTube的墙内主播们，大限近了</a></li>
-<li><a href="/comments/20230713/1907309.md" target="_blank">王赫：两组数据揭示中共迫害法轮功之惨烈</a></li>
-<li><a href="/comments/20230713/1907308.md" target="_blank">杨威：秦刚消失 王毅忙替补但身份尴尬</a></li>
-<li><a href="/comments/20230713/1907297.md" target="_blank">新闻大破解:北约推印太战略 台海有事出兵？</a></li>
-<li><a href="/comments/20230712/1907208.md" target="_blank">白宫宣布延续对香港实施的国家紧急状态令</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 <li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
 <li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 <li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 
 </ul>
 </div>
