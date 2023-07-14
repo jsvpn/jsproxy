@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/baitai/20230713/1907580.md">秦刚消失因为她？传情人和儿子都爆光了</a></li>
 <li><a href="/topimagenews/20230714/1907680.md">好大一个瓜？网传中外交部长秦刚因“她”出事</a></li>
 <li><a href="/comments/20230714/1907742.md">秦刚失踪18天，因为傅晓田吗？</a></li>
 <li><a href="/ssgc/20230714/1907722.md">〖微博谈〗习近平整人确实厉害</a></li>
@@ -13,14 +12,13 @@
 <li><a href="/sohnews/20230714/1907709.md">满屏吃瓜，秦刚情妇是她？港媒曝猛料：火箭军大案牵涉间谍气球，秦刚扮演什么角色？傅晓田的间谍嫌疑：差点搞定新西兰总理！</a></li>
 <li><a href="/comments/20230714/1907824.md">秦刚被双面间谍傅晓田拉下水？私生子手握铁证亮相惊呆全世界！赵立坚媳妇官宣：我家小赵是好官</a></li>
 <li><a href="/sohnews/20230714/1907797.md">秦刚情妇私生子曝光；傅晓田是双面间谍？豫商总裁揭秘？赵立坚将复出？【新闻看点 李沐阳7.13】</a></li>
-<li><a href="/cbnews/20230714/1907822.md">〖兲朝浮世绘〗秦刚十有八九是当不了外交部长了</a></li>
 <li><a href="/sohnews/20230714/1907732.md">太突然！正省级老虎任上落马，网络疯传情妇信息；罕见！谢锋突访五角大楼；中国现关店潮，宜家首家城市店也将关停。</a></li>
-<li><a href="/topimagenews/20230714/1907815.md">【微博精粹】专家：世事要变了</a></li>
+<li><a href="/cbnews/20230714/1907822.md">〖兲朝浮世绘〗秦刚十有八九是当不了外交部长了</a></li>
 <li><a href="/cnnews/20230714/1907685.md">清华“选美冠军”，被网暴了</a></li>
+<li><a href="/topimagenews/20230714/1907815.md">【微博精粹】专家：世事要变了</a></li>
 <li><a href="/comments/20230714/1907677.md">【独家重磅】李燕铭：上海帮搅局北戴河会议 彭丽媛山东老乡炮轰澎湃新闻怒怼上海帮 澎湃新闻董事长上海报业集团副总经理程峰落马 韩正主导成立澎湃新闻上海报业集团或受牵连 澎湃历任总编辑背景揭秘 背后浮现李长春家族代理人 江泽民老巢上海被清洗（37） 文宣系统大清洗（33） 习近平连任后大清洗（46） 习近平决战江曾（88） 北戴河会议大战内幕（47） 第八常委彭丽媛（12）</a></li>
 <li><a href="/ccpdope/20230714/1907791.md">深水区的权力游戏，李强与秦刚的暗战</a></li>
 <li><a href="/cbnews/20230714/1907681.md">习近平辣手摁灭“关键引擎”</a></li>
-<li><a href="/topimagenews/20230713/1907576.md">“冻龄”整整20岁！权威医师分享秘诀：每天必做3件事</a></li>
 <li><a href="/comments/20230713/1907633.md">预言应验！</a></li>
 <li><a href="/topimagenews/20230714/1907825.md">中国经济迎来虎狼药！改革倒逼新篇章【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230714/1907792.md">疯传秦刚情人是女间谍 火箭军头目全陷落；胡锡进叼盘惹恼马大师；中国面临恐怖通缩危机；北约谴责中共 泽连斯基夫妇受追捧。｜ #时事金扫描 #金然</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/baitai/20230713/1907584.md">克宫宣布普京将要访华 习担忧的极端情况就要来了？</a></li>
 <li><a href="/topimagenews/20230714/1907712.md">和中共对比强烈 日本政府机关 食堂长啥样</a></li>
 <li><a href="/topimagenews/20230714/1907713.md">毛贺关系的破裂与毛江的结合，都和周恩来夫妇有关</a></li>
+<li><a href="/lifebaike/20230714/1907665.md">撤出健身房的中产，都去爬楼了</a></li>
+<li><a href="/sohnews/20230714/1907841.md">“小秦刚”出世？中共副国级领导未现身，已“翻车”，大陆网友疯传绯闻，赵立坚妻喊“好日子”；秦刚情妇是凤凰名旦？采访秦刚画面曝光！此女过去一年突然低调，早有人怀疑秦刚？战狼成色狼｜新闻拍案惊奇 大宇</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230714/1907955.md" target="_blank">2米高白种外星人 最向往的 人体特殊器官！他进入立式飞碟，杀菌、穿特制服、吃蛋型物，掌握读心术！参观巨大海底基地⋯飞船覆蓋美军航母，超越声速移动！｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20230714/1907891.md" target="_blank">高级黑习近平？《人民日报》发文“上有所好，下必甚焉”！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230714/1907862.md" target="_blank">上海男子假冒银行高管“3年娶4妻” 诈1300万惨了…要被关11年半</a></li>
 <li><a href="/cbnews/20230714/1907852.md" target="_blank">奇葩言论！北师大教授胡必亮：让更多中国女生嫁给非洲黑人</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230713/1907418.md" target="_blank">江峰：成都召集升级版白纸革命，目标推翻独裁者！提前预告的运动中共有能力镇压麽？ 中南海开始抢劫银行，您的存款不再安全。耶伦北京之行成果在此，所有在华外企将惊恐撤离！【江峰漫谈20230712第695期】</a></li>
 <li><a href="/comments/20230713/1907382.md" target="_blank">北约意在东扩 中共以后天天碰“警察”</a></li>
 <li><a href="/cbnews/20230713/1907331.md" target="_blank">江峰：烧烤硕士家教博士的悲情</a></li>
-<li><a href="/comments/20230713/1907326.md" target="_blank">大棒挥向“自媒体”，中共加强管控；经济螺旋下滑，“四不”青年真成最后一代；北约要“东进”，中共不干了 ｜唐靖远 Jason 方菲 David</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230714/1907955.md" target="_blank">2米高白种外星人 最向往的 人体特殊器官！他进入立式飞碟，杀菌、穿特制服、吃蛋型物，掌握读心术！参观巨大海底基地⋯飞船覆蓋美军航母，超越声速移动！｜ #未解之谜 扶摇</a></li>
+<li><a href="/comments/20230714/1907944.md" target="_blank">上海宣传系统遭整肃 澎湃新闻董事长程峰被查落马</a></li>
 <li><a href="/comments/20230714/1907929.md" target="_blank">“王家军”冒头 中共公安部特勤局长换人 王小洪亲信上位</a></li>
 <li><a href="/comments/20230714/1907912.md" target="_blank">传光大集团前董事长唐双宁与妻子被带走调查</a></li>
 <li><a href="/comments/20230714/1907824.md" target="_blank">秦刚被双面间谍傅晓田拉下水？私生子手握铁证亮相惊呆全世界！赵立坚媳妇官宣：我家小赵是好官</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230713/1907577.md" target="_blank">【未普评论】屡谈「极端情况」，习近平在暗示甚么？</a></li>
 <li><a href="/comments/20230713/1907556.md" target="_blank">蒙元、满清和英国殖民统治的异同 — 曾节明</a></li>
 <li><a href="/comments/20230713/1907573.md" target="_blank">普京受邀10月访中？ 克里姆林宫：已提上日程</a></li>
-<li><a href="/comments/20230713/1907572.md" target="_blank">美FBI局长曝：中国监控外资企业 要求公司设中共政治小组</a></li>
-<li><a href="/comments/20230713/1907547.md" target="_blank">美俄情报首长释俄乌和谈风向 泽伦斯基：寸土不让拒绝“割地求和”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 <li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
 
 </ul>
 </div>
