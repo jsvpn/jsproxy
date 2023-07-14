@@ -13,8 +13,8 @@
 <li><a href="/sohnews/20230714/1907709.md">满屏吃瓜，秦刚情妇是她？港媒曝猛料：火箭军大案牵涉间谍气球，秦刚扮演什么角色？傅晓田的间谍嫌疑：差点搞定新西兰总理！</a></li>
 <li><a href="/comments/20230714/1907824.md">秦刚被双面间谍傅晓田拉下水？私生子手握铁证亮相惊呆全世界！赵立坚媳妇官宣：我家小赵是好官</a></li>
 <li><a href="/sohnews/20230714/1907797.md">秦刚情妇私生子曝光；傅晓田是双面间谍？豫商总裁揭秘？赵立坚将复出？【新闻看点 李沐阳7.13】</a></li>
-<li><a href="/sohnews/20230714/1907732.md">太突然！正省级老虎任上落马，网络疯传情妇信息；罕见！谢锋突访五角大楼；中国现关店潮，宜家首家城市店也将关停。</a></li>
 <li><a href="/cbnews/20230714/1907822.md">〖兲朝浮世绘〗秦刚十有八九是当不了外交部长了</a></li>
+<li><a href="/sohnews/20230714/1907732.md">太突然！正省级老虎任上落马，网络疯传情妇信息；罕见！谢锋突访五角大楼；中国现关店潮，宜家首家城市店也将关停。</a></li>
 <li><a href="/topimagenews/20230714/1907815.md">【微博精粹】专家：世事要变了</a></li>
 <li><a href="/cnnews/20230714/1907685.md">清华“选美冠军”，被网暴了</a></li>
 <li><a href="/comments/20230714/1907677.md">【独家重磅】李燕铭：上海帮搅局北戴河会议 彭丽媛山东老乡炮轰澎湃新闻怒怼上海帮 澎湃新闻董事长上海报业集团副总经理程峰落马 韩正主导成立澎湃新闻上海报业集团或受牵连 澎湃历任总编辑背景揭秘 背后浮现李长春家族代理人 江泽民老巢上海被清洗（37） 文宣系统大清洗（33） 习近平连任后大清洗（46） 习近平决战江曾（88） 北戴河会议大战内幕（47） 第八常委彭丽媛（12）</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/comments/20230713/1907633.md">预言应验！</a></li>
 <li><a href="/topimagenews/20230714/1907825.md">中国经济迎来虎狼药！改革倒逼新篇章【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230714/1907792.md">疯传秦刚情人是女间谍 火箭军头目全陷落；胡锡进叼盘惹恼马大师；中国面临恐怖通缩危机；北约谴责中共 泽连斯基夫妇受追捧。｜ #时事金扫描 #金然</a></li>
+<li><a href="/topimagenews/20230714/1907845.md">俄权力正在转移? 乌:普京或很快死亡 下代更危险</a></li>
 <li><a href="/baitai/20230713/1907584.md">克宫宣布普京将要访华 习担忧的极端情况就要来了？</a></li>
 <li><a href="/topimagenews/20230714/1907712.md">和中共对比强烈 日本政府机关 食堂长啥样</a></li>
 <li><a href="/topimagenews/20230714/1907713.md">毛贺关系的破裂与毛江的结合，都和周恩来夫妇有关</a></li>
-<li><a href="/topimagenews/20230714/1907845.md">俄权力正在转移? 乌:普京或很快死亡 下代更危险</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
 <li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
 
 </ul>
 </div>
