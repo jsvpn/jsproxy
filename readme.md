@@ -7,15 +7,15 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20230714/1907926.md">💥#秦刚失踪 三周, 卷入国安泄密大案?! 情妇恐是双面间谍, 病了是假, 软禁是真?! #中共火箭军 大地震, 习震怒清洗!【14072023】</a></li>
 <li><a href="/baitai/20230714/1907942.md">戾气比怨鬼还重？传北京再爆恶性事件 司机连捅三人致死 网友支招保平安：切记八字</a></li>
-<li><a href="/sohnews/20230715/1908135.md">傅晓田是哪家“燕子”？深挖开挂履历背后有“贵人”隐现；卷入“反习”内斗，刘长乐为何精心栽培傅晓田？微博高调“逼宫”，傅晓田算盘落空</a></li>
-<li><a href="/cnnews/20230715/1908076.md">中国突发重磅！老百姓小心 地方政府神秘换马甲</a></li>
 <li><a href="/cbnews/20230715/1908086.md">真有事？记者问秦刚何时回归 汪回应尬出天际</a></li>
+<li><a href="/cnnews/20230715/1908076.md">中国突发重磅！老百姓小心 地方政府神秘换马甲</a></li>
+<li><a href="/sohnews/20230715/1908135.md">傅晓田是哪家“燕子”？深挖开挂履历背后有“贵人”隐现；卷入“反习”内斗，刘长乐为何精心栽培傅晓田？微博高调“逼宫”，傅晓田算盘落空</a></li>
 <li><a href="/topimagenews/20230715/1908084.md">中外交部官网主要官员无秦刚 网民挖出一段视频</a></li>
 <li><a href="/sohnews/20230714/1908014.md">“意在重挫习近平！秦刚重病+情妇 皆为真！”《今日点击》（07/14/23）</a></li>
 <li><a href="/comments/20230714/1908011.md">秦刚隐身20天 传他与双面女谍有染 又指其涉火箭军司令李玉超案</a></li>
 <li><a href="/topimagenews/20230715/1908040.md">马斯克告诉中共高层 “数字超级智能”可能取代中共与接管国家</a></li>
-<li><a href="/baitai/20230714/1907960.md">习暗做人事部署 王小洪不安全？</a></li>
 <li><a href="/sohnews/20230715/1908247.md">好傅晓田公开逼宫，谢锋告发秦刚？根红苗正受栽培，王牌特务心很大【新闻看点 李沐阳7.14】</a></li>
+<li><a href="/baitai/20230714/1907960.md">习暗做人事部署 王小洪不安全？</a></li>
 <li><a href="/sohnews/20230714/1907930.md">文睿：公务员“哭了”，一个消息，引发大规模网络围观</a></li>
 <li><a href="/sohnews/20230714/1908009.md">神秘警示信号？人民日报暗指习近平；疑似北大博士生称李玟为“洋奴” 网民批藉过世艺人博流量；瓦格纳兵变“还没结束”美最高将领：俄面临混乱；世界最安全旅行地日本居首！最危险国家排第一是这KM 阿波罗网</a></li>
 <li><a href="/ccpdope/20230715/1908128.md">耐人寻味！秦刚和凤凰女主持的视频“有点问题”</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/ccpdope/20230715/1908062.md">公安部特勤局长换人 习近平埋下不定时炸弹</a></li>
 <li><a href="/yule/20230715/1908097.md">86西游记最贵女演员 演3分钟没台词 却成经典</a></li>
 <li><a href="/sohnews/20230715/1908039.md">“秦刚难解之难！傅晓田微博 披露了一切⋯ ”No.01（07/14/23）天意中的习氏王朝之结局</a></li>
+<li><a href="/sohnews/20230715/1908164.md">秦刚私生子未来要当外交部长；外交部长和间谍女的瓜田李下；秦刚卷入火箭军泄密案？｜薇羽看世间 第696期 20230714</a></li>
 <li><a href="/cnnews/20230715/1908078.md">金正恩的手机、香烟和饮料都是什么牌子</a></li>
-<li><a href="/comments/20230714/1907929.md">“王家军”冒头 中共公安部特勤局长换人 王小洪亲信上位</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
 <li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
 <li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
 <li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 
 </ul>
 </div>
