@@ -10,16 +10,14 @@
 <li><a href="/cnnews/20230715/1908076.md">中国突发重磅！老百姓小心 地方政府神秘换马甲</a></li>
 <li><a href="/sohnews/20230715/1908135.md">傅晓田是哪家“燕子”？深挖开挂履历背后有“贵人”隐现；卷入“反习”内斗，刘长乐为何精心栽培傅晓田？微博高调“逼宫”，傅晓田算盘落空</a></li>
 <li><a href="/sohnews/20230715/1908247.md">好傅晓田公开逼宫，谢锋告发秦刚？根红苗正受栽培，王牌特务心很大【新闻看点 李沐阳7.14】</a></li>
-<li><a href="/topimagenews/20230715/1908040.md">马斯克告诉中共高层 “数字超级智能”可能取代中共与接管国家</a></li>
 <li><a href="/ccpdope/20230715/1908128.md">耐人寻味！秦刚和凤凰女主持的视频“有点问题”</a></li>
 <li><a href="/topimagenews/20230715/1908312.md">吓坏中共！网友们冲塔：把我们当敌人的,一个都跑不掉【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230715/1908264.md">江峰：外长秦刚失踪、情妇被疑双面谍；王小洪特勤局长职移交，“王家军”做大震主？火箭军高层一锅端，对美军最有威胁兵种恐遭CIA离间计被习近平清洗。【江峰漫谈20230714第496期】</a></li>
 <li><a href="/comments/20230715/1908339.md">秦刚傅晓田三大新消息急坏赵立坚！携子逼婚被贬为庶民？红三代女间谍扳倒秦刚</a></li>
-<li><a href="/ssgc/20230715/1908149.md">〖微博谈〗他们的聪明和美国人的傻</a></li>
+<li><a href="/cbnews/20230715/1908264.md">江峰：外长秦刚失踪、情妇被疑双面谍；王小洪特勤局长职移交，“王家军”做大震主？火箭军高层一锅端，对美军最有威胁兵种恐遭CIA离间计被习近平清洗。【江峰漫谈20230714第496期】</a></li>
 <li><a href="/sohnews/20230715/1908361.md">被逼疯了! 习近平亡党危机 中国盛传:打台海不如打中南海 至少不必飘洋过海!泄密内鬼不只火箭军 传秦刚也被抓 中共整肃腥风血雨!@democraticTaiwanChannel</a></li>
-<li><a href="/topimagenews/20230715/1908106.md">接连说狠话，五角大楼在放什么信号</a></li>
+<li><a href="/ssgc/20230715/1908149.md">〖微博谈〗他们的聪明和美国人的傻</a></li>
 <li><a href="/cnnews/20230715/1908095.md">震惊！绿卡排期倒退3年，华人家庭团聚遥遥无期</a></li>
-<li><a href="/sohnews/20230715/1908039.md">“秦刚难解之难！傅晓田微博 披露了一切⋯ ”No.01（07/14/23）天意中的习氏王朝之结局</a></li>
+<li><a href="/topimagenews/20230715/1908106.md">接连说狠话，五角大楼在放什么信号</a></li>
 <li><a href="/cbnews/20230715/1908242.md">〖兲朝浮世绘〗中国寺庙创新能力第一：亡灵润美</a></li>
 <li><a href="/baitai/20230715/1908261.md">凤凰卫视主持傅晓田在微信火爆 网传曾为秦刚庆生</a></li>
 <li><a href="/ccpdope/20230715/1908062.md">公安部特勤局长换人 习近平埋下不定时炸弹</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/yule/20230715/1908097.md">86西游记最贵女演员 演3分钟没台词 却成经典</a></li>
 <li><a href="/yule/20230715/1908286.md">迪丽热巴机场穿着大胆 遭油腻男子咸猪手抚摸</a></li>
 <li><a href="/comments/20230715/1908335.md">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/cnnews/20230715/1908272.md">台湾不是中国一部分：美众院通过重磅法案</a></li>
+<li><a href="/cnnews/20230715/1908240.md">习近平转化轨道 彻底吸干老百姓钱包【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 <li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
 
 </ul>
 </div>
