@@ -13,21 +13,21 @@
 <li><a href="/sohnews/20230715/1908361.md">被逼疯了! 习近平亡党危机 中国盛传:打台海不如打中南海 至少不必飘洋过海!泄密内鬼不只火箭军 传秦刚也被抓 中共整肃腥风血雨!@democraticTaiwanChannel</a></li>
 <li><a href="/baitai/20230715/1908389.md">中国歌手新歌讽刺习近平 北京施压扬言要抓人</a></li>
 <li><a href="/baitai/20230715/1908261.md">凤凰卫视主持傅晓田在微信火爆 网传曾为秦刚庆生</a></li>
-<li><a href="/topimagenews/20230716/1908414.md">1岁“秦公子”照片流出 细节暗示老爸身份不简单</a></li>
 <li><a href="/sohnews/20230716/1908431.md">“傅晓田来头太大！秦刚拖习近平下水 ⋯ 独享专机 LA顶级豪宅 ”No.01（07/15/23）推文 微博大爆光</a></li>
-<li><a href="/cbnews/20230715/1908242.md">〖兲朝浮世绘〗中国寺庙创新能力第一：亡灵润美</a></li>
+<li><a href="/topimagenews/20230716/1908414.md">1岁“秦公子”照片流出 细节暗示老爸身份不简单</a></li>
 <li><a href="/comments/20230715/1908335.md">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
 <li><a href="/cnnews/20230715/1908360.md">中国经济学家独家爆料被封杀；经济重病迎来虎狼药？进入倒逼政改新时代</a></li>
 <li><a href="/sohnews/20230715/1908291.md">爸爸去哪儿秦刚特辑：中国外交部长消失二十天事件小调查，和我的猜想</a></li>
 <li><a href="/yule/20230715/1908286.md">迪丽热巴机场穿着大胆 遭油腻男子咸猪手抚摸</a></li>
-<li><a href="/sohnews/20230715/1908401.md">统计局发生了怪事，女同事都怀孕了⋯⋯</a></li>
 <li><a href="/sohnews/20230716/1908426.md">“习近平扛得住吗？火箭军司令被抓 副司令自杀 外长遭遇女间谍 ⋯”《今日点击》（07/15/23）</a></li>
+<li><a href="/sohnews/20230715/1908401.md">统计局发生了怪事，女同事都怀孕了⋯⋯</a></li>
 <li><a href="/cnnews/20230715/1908272.md">台湾不是中国一部分：美众院通过重磅法案</a></li>
-<li><a href="/cnnews/20230715/1908240.md">习近平转化轨道 彻底吸干老百姓钱包【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230715/1908244.md">中共央行重大表态！有这样的好事？【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20230716/1908406.md">【独家】李强的神秘夫人（視頻）</a></li>
 <li><a href="/comments/20230715/1908377.md">文昭：不要随便透露生日！外交部长秦刚绯闻女友的一条微博，什么都招了</a></li>
 <li><a href="/sohnews/20230716/1908466.md">傅晓田背景惊人，一个被中共重金扶持的艳谍上位史！双面艳谍情陷外交官，露骨微博贴文为逼宫！传火箭军泄密与傅晓田有关，秦刚因婚外情曝光被软禁！【新闻最嘲点 姜光宇】2023.0715</a></li>
+<li><a href="/health/20230715/1908314.md">冰箱里的肉冻多久就不能吃？一张表总结得清清楚楚</a></li>
+<li><a href="/sohnews/20230715/1908385.md">陈破空：终于，老习开始怀疑王小洪！迫令其交出要职。他是中国的普里戈津？私建王家军。汪文斌举止古怪，佐证秦刚出事</a></li>
+<li><a href="/topimagenews/20230716/1908467.md">秦刚绯闻女主傅晓田是谁？曾节目上与窦文涛、马家辉发生冲突</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230716/1908550.md" target="_blank">天亮时分：美国神秘部门，扼住中共咽喉；普京执意要去开会，南非头痛：抓还是不抓？三大经济指标，让中共越来越缺少发言权（YouTube会员节目第26集 20230715） Edited</a></li>
 <li><a href="/comments/20230716/1908544.md" target="_blank">石铭：近期中共对迫害法轮功仍然特别严重</a></li>
 <li><a href="/comments/20230716/1908543.md" target="_blank">广宇：体制福利之弊——何不食肉糜</a></li>
 <li><a href="/comments/20230716/1908522.md" target="_blank">京睿：90岁老人尸体半夜被刨坟火化律师：或构成“侮辱尸体罪”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230716/1908451.md" target="_blank">白纸革命2.0？中国人号召于成都世大运快闪抗议</a></li>
 <li><a href="/comments/20230716/1908450.md" target="_blank">从“躺平”到“四不” 大陆青年的无声反抗</a></li>
 <li><a href="/comments/20230716/1908447.md" target="_blank">【独家重磅】李燕铭：江泽民外甥操控东北财大帮 垄断中共金融系统半壁江山 李克强是隐形帮主 习近平出手拿下东北财大帮要员光大前董事长唐双宁 120名高危高官高管名单揭秘 江泽民外甥在薄熙来案宣判中被抛出曾传猝死 薄熙来大连机密项目牵涉江泽民 习近平连任后大清洗（49） 北戴河会议大战内幕（50） 钱袋子争夺战（46） 习近平李克强明争暗斗内幕（107） 辽宁帮覆灭记（18） 习近平决战江曾（91）</a></li>
-<li><a href="/comments/20230716/1908417.md" target="_blank">美中政治圈同时上演两大荒唐怪事</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 
 </ul>
 </div>
