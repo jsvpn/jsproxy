@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230716/1908415.md">傅晓田朋友圈晒秦刚、晒美国豪宅</a></li>
 <li><a href="/sohnews/20230716/1908431.md">“傅晓田来头太大！秦刚拖习近平下水 ⋯ 独享专机 LA顶级豪宅 ”No.01（07/15/23）推文 微博大爆光</a></li>
-<li><a href="/topimagenews/20230716/1908414.md">1岁“秦公子”照片流出 细节暗示老爸身份不简单</a></li>
 <li><a href="/sohnews/20230716/1908466.md">傅晓田背景惊人，一个被中共重金扶持的艳谍上位史！双面艳谍情陷外交官，露骨微博贴文为逼宫！传火箭军泄密与傅晓田有关，秦刚因婚外情曝光被软禁！【新闻最嘲点 姜光宇】2023.0715</a></li>
+<li><a href="/topimagenews/20230716/1908414.md">1岁“秦公子”照片流出 细节暗示老爸身份不简单</a></li>
 <li><a href="/sohnews/20230716/1908426.md">“习近平扛得住吗？火箭军司令被抓 副司令自杀 外长遭遇女间谍 ⋯”《今日点击》（07/15/23）</a></li>
 <li><a href="/topimagenews/20230716/1908467.md">秦刚绯闻女主傅晓田是谁？曾节目上与窦文涛、马家辉发生冲突</a></li>
 <li><a href="/sohnews/20230716/1908487.md">秦刚替人背锅？董云虎落马，背后有两个故事，上海宣传系统被清洗，美众院通过国防授权法有限制堕胎变性附加条款</a></li>
@@ -18,12 +18,12 @@
 <li><a href="/sohnews/20230716/1908622.md">陈破空：不敢相信！惊传秦刚已被脑梗死？多名上将灌药了结？傅美人为儿子取名证实了一切！某人大怒，绝不原谅通敌！但都是他自己提拔的人啊</a></li>
 <li><a href="/ssgc/20230716/1908493.md">〖微博谈〗大地上只有一个巨婴在裸奔</a></li>
 <li><a href="/sohnews/20230716/1908479.md">🔥中国这边会更严重，大招在后面，将中国银行剔除出美元结算系统？世界工厂换人…这3国是下一个大陆？曝电子5哥全杀进这；歌曲讽习近平；海外网友遭中共国安威胁；郑州小学强制家长轮流站岗【阿波罗网AL】</a></li>
-<li><a href="/topimagenews/20230716/1908516.md">神秘女人，豪掷22亿救下王健林</a></li>
 <li><a href="/baitai/20230716/1908634.md">孩子父亲不是秦刚？傅晓田和另一男人身处千万豪宅画面曝光</a></li>
+<li><a href="/topimagenews/20230716/1908516.md">神秘女人，豪掷22亿救下王健林</a></li>
 <li><a href="/cnnews/20230716/1908616.md">秦刚搜索量直冲第一！大陆网络一浪接着一浪【阿波罗网报道】</a></li>
 <li><a href="/worldnews/20230716/1908595.md">比电视剧更“狗血”！夫做DNA鉴定证实5岁女非亲生 妻喊冤揭崩溃真相</a></li>
-<li><a href="/cnnews/20230716/1908504.md">“穿丝袜等我”，这段群聊天记录要火</a></li>
 <li><a href="/headline/20230716/1908498.md">吴强： 中国已进入后极权时代</a></li>
+<li><a href="/cnnews/20230716/1908504.md">“穿丝袜等我”，这段群聊天记录要火</a></li>
 <li><a href="/cbnews/20230716/1908569.md">凌晨5点报案“家里全是虫” 警秒懂急叫救护车</a></li>
 <li><a href="/cbnews/20230716/1908596.md">恶！陆客入住3天“房间炸成垃圾山”家具全毁 业者扫到崩溃</a></li>
 <li><a href="/ccpdope/20230716/1908593.md">中共专家离奇死亡 军方或提前掌握新冠病毒</a></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230717/1908682.md" target="_blank">让欧洲华人美梦变恶梦 中国“运了吗”集运平台崩盘</a></li>
+<li><a href="/comments/20230717/1908681.md" target="_blank">反迫害24周年 多伦多千名法轮功学员大游行</a></li>
+<li><a href="/comments/20230717/1908680.md" target="_blank">中国“电荒”难倒中南海 李强、丁薛祥接连喊话</a></li>
 <li><a href="/comments/20230717/1908679.md" target="_blank">村官疑致14岁女产子 后告她诈骗送进监狱</a></li>
 <li><a href="/comments/20230716/1908661.md" target="_blank">【文昭思绪飞扬】《孙子兵法》是伪造的？是一场骗局？幕后操盘手是谁。。。</a></li>
 <li><a href="/comments/20230716/1908660.md" target="_blank">大陆警察扫黄创收 哈尔滨交警狂抓摩托</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230716/1908465.md" target="_blank">六名共和党候选人，参加首场总统论坛，卡尔森主持，提问直接犀利。彭斯、黑利和哈钦森，被逼问得方寸大乱。</a></li>
 <li><a href="/comments/20230716/1908458.md" target="_blank">吴惠林:企业家典范——洛克斐勒</a></li>
 <li><a href="/comments/20230716/1908457.md" target="_blank">吴奕军:中共《爱国主义教育法》能否让“不爱国的”滚出中国？</a></li>
-<li><a href="/comments/20230716/1908456.md" target="_blank">颜纯钩:回头路的回头路：中共机会主义的活命哲学</a></li>
-<li><a href="/comments/20230716/1908455.md" target="_blank">桑普:开始株连家人 台湾人非必要别前往中港澳</a></li>
-<li><a href="/comments/20230716/1908454.md" target="_blank">还在春梦中 不见不散：两位总统的烦恼</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
 <li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
 <li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
 
 </ul>
 </div>
