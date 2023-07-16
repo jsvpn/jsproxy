@@ -13,20 +13,20 @@
 <li><a href="/sohnews/20230715/1908361.md">被逼疯了! 习近平亡党危机 中国盛传:打台海不如打中南海 至少不必飘洋过海!泄密内鬼不只火箭军 传秦刚也被抓 中共整肃腥风血雨!@democraticTaiwanChannel</a></li>
 <li><a href="/baitai/20230715/1908389.md">中国歌手新歌讽刺习近平 北京施压扬言要抓人</a></li>
 <li><a href="/baitai/20230715/1908261.md">凤凰卫视主持傅晓田在微信火爆 网传曾为秦刚庆生</a></li>
-<li><a href="/comments/20230715/1908335.md">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/cbnews/20230715/1908242.md">〖兲朝浮世绘〗中国寺庙创新能力第一：亡灵润美</a></li>
 <li><a href="/topimagenews/20230716/1908414.md">1岁“秦公子”照片流出 细节暗示老爸身份不简单</a></li>
+<li><a href="/cbnews/20230715/1908242.md">〖兲朝浮世绘〗中国寺庙创新能力第一：亡灵润美</a></li>
+<li><a href="/comments/20230715/1908335.md">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
 <li><a href="/cnnews/20230715/1908360.md">中国经济学家独家爆料被封杀；经济重病迎来虎狼药？进入倒逼政改新时代</a></li>
 <li><a href="/sohnews/20230715/1908291.md">爸爸去哪儿秦刚特辑：中国外交部长消失二十天事件小调查，和我的猜想</a></li>
-<li><a href="/yule/20230715/1908286.md">迪丽热巴机场穿着大胆 遭油腻男子咸猪手抚摸</a></li>
 <li><a href="/sohnews/20230716/1908431.md">“傅晓田来头太大！秦刚拖习近平下水 ⋯ 独享专机 LA顶级豪宅 ”No.01（07/15/23）推文 微博大爆光</a></li>
+<li><a href="/yule/20230715/1908286.md">迪丽热巴机场穿着大胆 遭油腻男子咸猪手抚摸</a></li>
 <li><a href="/sohnews/20230715/1908401.md">统计局发生了怪事，女同事都怀孕了⋯⋯</a></li>
 <li><a href="/cnnews/20230715/1908272.md">台湾不是中国一部分：美众院通过重磅法案</a></li>
 <li><a href="/cnnews/20230715/1908240.md">习近平转化轨道 彻底吸干老百姓钱包【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230715/1908244.md">中共央行重大表态！有这样的好事？【阿波罗网报道】</a></li>
-<li><a href="/comments/20230715/1908377.md">文昭：不要随便透露生日！外交部长秦刚绯闻女友的一条微博，什么都招了</a></li>
-<li><a href="/ccpdope/20230716/1908406.md">【独家】李强的神秘夫人（視頻）</a></li>
 <li><a href="/sohnews/20230716/1908426.md">“习近平扛得住吗？火箭军司令被抓 副司令自杀 外长遭遇女间谍 ⋯”《今日点击》（07/15/23）</a></li>
+<li><a href="/topimagenews/20230715/1908244.md">中共央行重大表态！有这样的好事？【阿波罗网报道】</a></li>
+<li><a href="/ccpdope/20230716/1908406.md">【独家】李强的神秘夫人（視頻）</a></li>
+<li><a href="/comments/20230715/1908377.md">文昭：不要随便透露生日！外交部长秦刚绯闻女友的一条微博，什么都招了</a></li>
 <li><a href="/health/20230715/1908314.md">冰箱里的肉冻多久就不能吃？一张表总结得清清楚楚</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230716/1908518.md" target="_blank">姚明1家7口出游惹关注 网友：如置身巨人森林</a></li>
 <li><a href="/comments/20230716/1908511.md" target="_blank">【杰森视角】中共黑客技术忽然惊人升级！布林肯访问中国前对已经被中共了如指掌？一个网络间谍案暴露跨国信息公司全球布局的最大威胁！中共黑客比微软内部人员更清楚微软程序漏洞！美击败中共史上最强网络间谍案！</a></li>
 <li><a href="/comments/20230716/1908497.md" target="_blank">被外星人接走！</a></li>
 <li><a href="/comments/20230716/1908496.md" target="_blank">高院否决免学贷后 拜登又出新招</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/cbnews/20230714/1907891.md" target="_blank">高级黑习近平？《人民日报》发文“上有所好，下必甚焉”！【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230714/1907862.md" target="_blank">上海男子假冒银行高管“3年娶4妻” 诈1300万惨了…要被关11年半</a></li>
 <li><a href="/cbnews/20230714/1907852.md" target="_blank">奇葩言论！北师大教授胡必亮：让更多中国女生嫁给非洲黑人</a></li>
-<li><a href="/cbnews/20230714/1907822.md" target="_blank">〖兲朝浮世绘〗秦刚十有八九是当不了外交部长了</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230716/1908517.md" target="_blank">【微博精粹】总加速师再获新加冕：总熄火师</a></li>
+<li><a href="/topimagenews/20230716/1908516.md" target="_blank">神秘女人，豪掷22亿救下王健林</a></li>
 <li><a href="/topimagenews/20230716/1908467.md" target="_blank">秦刚绯闻女主傅晓田是谁？曾节目上与窦文涛、马家辉发生冲突</a></li>
 <li><a href="/topimagenews/20230716/1908444.md" target="_blank">未来五年内不会有人类程序员？ChatGPT时代程序员生存指南</a></li>
 <li><a href="/topimagenews/20230716/1908430.md" target="_blank">大变局下，全球“间谍之都”再度谍影幢幢</a></li>
@@ -89,14 +91,16 @@
 <li><a href="/topimagenews/20230714/1907844.md" target="_blank">惊掉下巴！北约峰会两大成果【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230714/1907825.md" target="_blank">中国经济迎来虎狼药！改革倒逼新篇章【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230714/1907815.md" target="_blank">【微博精粹】专家：世事要变了</a></li>
-<li><a href="/topimagenews/20230714/1907814.md" target="_blank">精彩全都录！拜登错把乌总统叫成普京 特鲁多回眸尬笑</a></li>
-<li><a href="/topimagenews/20230714/1907793.md" target="_blank">拜登：普京已输掉战争 承诺乌克兰会入北约</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230716/1908522.md" target="_blank">京睿：90岁老人尸体半夜被刨坟火化律师：或构成“侮辱尸体罪”</a></li>
+<li><a href="/comments/20230716/1908521.md" target="_blank">麦杰逊：穿丝袜等我？这段群聊天记录要火</a></li>
+<li><a href="/comments/20230716/1908520.md" target="_blank">魏春亮说:这样的正能量，病得不轻</a></li>
+<li><a href="/comments/20230716/1908519.md" target="_blank">译丛：不要指望独裁者自行退场</a></li>
 <li><a href="/comments/20230716/1908511.md" target="_blank">【杰森视角】中共黑客技术忽然惊人升级！布林肯访问中国前对已经被中共了如指掌？一个网络间谍案暴露跨国信息公司全球布局的最大威胁！中共黑客比微软内部人员更清楚微软程序漏洞！美击败中共史上最强网络间谍案！</a></li>
 <li><a href="/comments/20230716/1908508.md" target="_blank">袁红冰：创建《保卫自由台湾国际志愿军》宣言（修订版）</a></li>
 <li><a href="/comments/20230716/1908503.md" target="_blank">尹保云：中国思想界的两大鸦片：“西方没落说”和“文明无优劣”</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230716/1908417.md" target="_blank">美中政治圈同时上演两大荒唐怪事</a></li>
 <li><a href="/comments/20230715/1908398.md" target="_blank">【独家重磅】李燕铭：光大前董事长唐双宁落马深度内幕 李克强与唐双宁五重隐秘关联 李克强辽宁帮两心腹大管家与唐双宁鲜为人知关系曝光 李克强团派与曾庆红吴官正江西帮勾结内幕 团中央中青旅国有产权划转光大集团 习近平连任后大清洗（48） 北戴河会议大战内幕（49） 钱袋子争夺战（45） 习近平李克强明争暗斗内幕（106） 辽宁帮覆灭记（17） 习近平决战江曾（90）</a></li>
 <li><a href="/comments/20230715/1908395.md" target="_blank">【文昭谈古论今】消失的秦刚 中间谍美人计·被策反？</a></li>
-<li><a href="/comments/20230715/1908394.md" target="_blank">歌手自创讽习近平歌曲 中共国安跨海恐吓</a></li>
-<li><a href="/comments/20230715/1908377.md" target="_blank">文昭：不要随便透露生日！外交部长秦刚绯闻女友的一条微博，什么都招了</a></li>
-<li><a href="/comments/20230715/1908376.md" target="_blank">文昭：明明是一群色中饿鬼的官员，为什么全是道德标兵的人设？</a></li>
-<li><a href="/comments/20230715/1908345.md" target="_blank">袁红冰：《回归荒凉》（四）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
 <li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
 
 </ul>
 </div>
