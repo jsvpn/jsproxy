@@ -11,16 +11,15 @@
 <li><a href="/sohnews/20230716/1908431.md">“傅晓田来头太大！秦刚拖习近平下水 ⋯ 独享专机 LA顶级豪宅 ”No.01（07/15/23）推文 微博大爆光</a></li>
 <li><a href="/topimagenews/20230716/1908414.md">1岁“秦公子”照片流出 细节暗示老爸身份不简单</a></li>
 <li><a href="/sohnews/20230716/1908466.md">傅晓田背景惊人，一个被中共重金扶持的艳谍上位史！双面艳谍情陷外交官，露骨微博贴文为逼宫！传火箭军泄密与傅晓田有关，秦刚因婚外情曝光被软禁！【新闻最嘲点 姜光宇】2023.0715</a></li>
-<li><a href="/cnnews/20230715/1908360.md">中国经济学家独家爆料被封杀；经济重病迎来虎狼药？进入倒逼政改新时代</a></li>
 <li><a href="/sohnews/20230716/1908426.md">“习近平扛得住吗？火箭军司令被抓 副司令自杀 外长遭遇女间谍 ⋯”《今日点击》（07/15/23）</a></li>
 <li><a href="/sohnews/20230715/1908401.md">统计局发生了怪事，女同事都怀孕了⋯⋯</a></li>
 <li><a href="/topimagenews/20230716/1908467.md">秦刚绯闻女主傅晓田是谁？曾节目上与窦文涛、马家辉发生冲突</a></li>
 <li><a href="/sohnews/20230716/1908487.md">秦刚替人背锅？董云虎落马，背后有两个故事，上海宣传系统被清洗，美众院通过国防授权法有限制堕胎变性附加条款</a></li>
-<li><a href="/topimagenews/20230716/1908517.md">【微博精粹】总加速师再获新加冕：总熄火师</a></li>
 <li><a href="/ccpdope/20230716/1908406.md">【独家】李强的神秘夫人（視頻）</a></li>
-<li><a href="/sohnews/20230716/1908479.md">🔥中国这边会更严重，大招在后面，将中国银行剔除出美元结算系统？世界工厂换人…这3国是下一个大陆？曝电子5哥全杀进这；歌曲讽习近平；海外网友遭中共国安威胁；郑州小学强制家长轮流站岗【阿波罗网AL】</a></li>
-<li><a href="/ssgc/20230716/1908493.md">〖微博谈〗大地上只有一个巨婴在裸奔</a></li>
+<li><a href="/topimagenews/20230716/1908517.md">【微博精粹】总加速师再获新加冕：总熄火师</a></li>
 <li><a href="/baitai/20230716/1908580.md">秦刚消失3周 外交部最新回应火了</a></li>
+<li><a href="/ssgc/20230716/1908493.md">〖微博谈〗大地上只有一个巨婴在裸奔</a></li>
+<li><a href="/sohnews/20230716/1908479.md">🔥中国这边会更严重，大招在后面，将中国银行剔除出美元结算系统？世界工厂换人…这3国是下一个大陆？曝电子5哥全杀进这；歌曲讽习近平；海外网友遭中共国安威胁；郑州小学强制家长轮流站岗【阿波罗网AL】</a></li>
 <li><a href="/comments/20230715/1908377.md">文昭：不要随便透露生日！外交部长秦刚绯闻女友的一条微博，什么都招了</a></li>
 <li><a href="/topimagenews/20230716/1908516.md">神秘女人，豪掷22亿救下王健林</a></li>
 <li><a href="/sohnews/20230715/1908385.md">陈破空：终于，老习开始怀疑王小洪！迫令其交出要职。他是中国的普里戈津？私建王家军。汪文斌举止古怪，佐证秦刚出事</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/headline/20230716/1908498.md">吴强： 中国已进入后极权时代</a></li>
 <li><a href="/ccpdope/20230716/1908409.md">北戴河会议前 数十中共高官被密集查处</a></li>
 <li><a href="/ccpdope/20230716/1908410.md">“老百姓支离破碎怨气比厉鬼还重” 中国男告诫别得瑟</a></li>
+<li><a href="/comments/20230716/1908447.md">【独家重磅】李燕铭：江泽民外甥操控东北财大帮 垄断中共金融系统半壁江山 李克强是隐形帮主 习近平出手拿下东北财大帮要员光大前董事长唐双宁 120名高危高官高管名单揭秘 江泽民外甥在薄熙来案宣判中被抛出曾传猝死 薄熙来大连机密项目牵涉江泽民 习近平连任后大清洗（49） 北戴河会议大战内幕（50） 钱袋子争夺战（46） 习近平李克强明争暗斗内幕（107） 辽宁帮覆灭记（18） 习近平决战江曾（91）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230716/1908636.md" target="_blank">乌克兰与波兰证实瓦格纳雇佣军已抵白俄 并帮助训练该国士兵</a></li>
+<li><a href="/comments/20230716/1908635.md" target="_blank">美官员不断访中 共和党议员建议“暂停访中”</a></li>
 <li><a href="/comments/20230716/1908550.md" target="_blank">天亮时分：美国神秘部门，扼住中共咽喉；普京执意要去开会，南非头痛：抓还是不抓？三大经济指标，让中共越来越缺少发言权（YouTube会员节目第26集 20230715） Edited</a></li>
 <li><a href="/comments/20230716/1908544.md" target="_blank">石铭：近期中共对迫害法轮功仍然特别严重</a></li>
 <li><a href="/comments/20230716/1908543.md" target="_blank">广宇：体制福利之弊——何不食肉糜</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230716/1908453.md" target="_blank">沈舟：以北约为敌 中共军演闹剧自寻死路</a></li>
 <li><a href="/comments/20230716/1908452.md" target="_blank">“越来越多人不再为不公发声”的背后</a></li>
 <li><a href="/comments/20230716/1908451.md" target="_blank">白纸革命2.0？中国人号召于成都世大运快闪抗议</a></li>
-<li><a href="/comments/20230716/1908450.md" target="_blank">从“躺平”到“四不” 大陆青年的无声反抗</a></li>
-<li><a href="/comments/20230716/1908447.md" target="_blank">【独家重磅】李燕铭：江泽民外甥操控东北财大帮 垄断中共金融系统半壁江山 李克强是隐形帮主 习近平出手拿下东北财大帮要员光大前董事长唐双宁 120名高危高官高管名单揭秘 江泽民外甥在薄熙来案宣判中被抛出曾传猝死 薄熙来大连机密项目牵涉江泽民 习近平连任后大清洗（49） 北戴河会议大战内幕（50） 钱袋子争夺战（46） 习近平李克强明争暗斗内幕（107） 辽宁帮覆灭记（18） 习近平决战江曾（91）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
 <li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
 <li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
 
 </ul>
 </div>
