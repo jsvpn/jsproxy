@@ -20,14 +20,14 @@
 <li><a href="/baitai/20230718/1909328.md">要让秦刚彻底消失？文字「露面」都不行？美国务院这样说</a></li>
 <li><a href="/baitai/20230718/1909381.md">又一张照片露馅？传网友找到秦刚出轨关键证据</a></li>
 <li><a href="/topimagenews/20230718/1909252.md">傅晓田私生子泄密！ 秦刚“为党接盘”？【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230718/1909247.md">陈毅女婿搞他？秦刚夫人露面，毫不知情？傅晓田背后的金主是谁？秦刚当接盘侠被下套，倒习才是目标？｜薇羽看世间 第698期 20230717</a></li>
 <li><a href="/sohnews/20230718/1909357.md">秦刚失踪被拔官，中南海新权斗风高浪急？政法委动员大小特务，党内爆发间谍战？台湾716游行，中共盗用反而引火烧身？（2023.7.18）｜世界的十字路口 唐浩</a></li>
+<li><a href="/sohnews/20230718/1909247.md">陈毅女婿搞他？秦刚夫人露面，毫不知情？傅晓田背后的金主是谁？秦刚当接盘侠被下套，倒习才是目标？｜薇羽看世间 第698期 20230717</a></li>
 <li><a href="/cnnews/20230718/1909196.md">秦刚背景深厚 泄密中共王牌【阿波罗网报道】</a></li>
 <li><a href="/comments/20230718/1909118.md">秦刚，傅晓田，火箭军：中共“隐蔽战线”出了大问题！各方都在找后路，中共内部会有更多人投诚叛逃！｜姚诚 ｜新闻烽火台 07/17</a></li>
 <li><a href="/baitai/20230718/1909281.md">九所闻名世界的中国大学，被永远地取缔了</a></li>
-<li><a href="/ssgc/20230718/1909102.md">专栏 | 夜话中南海：傅二奶事小，“秦二世“事大</a></li>
 <li><a href="/baitai/20230718/1909405.md">网爆秦刚桃色丑闻再添新证 外交部网站释重磅信号 外媒分析其结果</a></li>
 <li><a href="/baitai/20230718/1909258.md">秦刚哪去了？外交部发言人毛宁灿烂笑容似意味深长</a></li>
+<li><a href="/cnnews/20230718/1909318.md">美国这招真把中共打回原形了！网友嘲讽中共：都是作的！【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230719/1909557.md" target="_blank">回头路的回头路 中共机会主义的活命哲学</a></li>
+<li><a href="/comments/20230719/1909556.md" target="_blank">王赫：法轮功真相广传 美国进一步反制中共迫害</a></li>
+<li><a href="/comments/20230719/1909555.md" target="_blank">被美卫星拍到“洗麦” 普京的“儿子”要栽了？</a></li>
+<li><a href="/comments/20230719/1909554.md" target="_blank">张文澜：土耳其又给大鹅一个王炸 北约的假想敌开始垮塌</a></li>
 <li><a href="/comments/20230719/1909544.md" target="_blank">前线俄军效仿普里戈津 普京危险了</a></li>
 <li><a href="/comments/20230719/1909525.md" target="_blank">习近平为何对处理秦刚犹豫不决｜#方菲时间</a></li>
 <li><a href="/comments/20230718/1909404.md" target="_blank">【秦鹏观察】中共公布上半年经济数据 引发网民嘲笑</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230718/1909129.md" target="_blank">毫不留情！绍伊古开始大清洗，普京在干嘛</a></li>
 <li><a href="/comments/20230718/1909128.md" target="_blank">日本最强穿越者的预言（1）！</a></li>
 <li><a href="/comments/20230718/1909127.md" target="_blank">文昭：中国经济「新三驾马车」开工了！都是谁？银行副行长月入数百元的新时代</a></li>
-<li><a href="/comments/20230718/1909118.md" target="_blank">秦刚，傅晓田，火箭军：中共“隐蔽战线”出了大问题！各方都在找后路，中共内部会有更多人投诚叛逃！｜姚诚 ｜新闻烽火台 07/17</a></li>
-<li><a href="/comments/20230718/1909032.md" target="_blank">【杜耀明评论】香港人口下滑：国安法无法应付的「软对抗」？</a></li>
-<li><a href="/comments/20230717/1908974.md" target="_blank">秦刚遭中共外交部官网除名 网曝：涉嫌叛变被普京告密</a></li>
-<li><a href="/comments/20230717/1908973.md" target="_blank">24小时让俄乌停火？ 川普：我会对泽伦斯基说“够了”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
 <li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 <li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
 
 </ul>
 </div>
