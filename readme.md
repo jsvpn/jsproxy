@@ -9,25 +9,25 @@
 <li><a href="/baitai/20230717/1908872.md">秦刚陷桃色丑闻 习近平成输家？</a></li>
 <li><a href="/sohnews/20230718/1909103.md">陈毅女婿设局，秦刚祸起“立储”？傅晓田第一金主曝光，牵出李鹏之女“外室”；阴谋论浮出：傅晓田真爱还是下套？</a></li>
 <li><a href="/topimagenews/20230717/1908940.md">习转轨，彻底吸干百姓钱；中共央行表态！好事？太迟，中南海急筹1会议</a></li>
-<li><a href="/topimagenews/20230718/1909086.md">网：中共最近剧情太猛</a></li>
 <li><a href="/comments/20230717/1908974.md">秦刚遭中共外交部官网除名 网曝：涉嫌叛变被普京告密</a></li>
+<li><a href="/topimagenews/20230718/1909086.md">网：中共最近剧情太猛</a></li>
 <li><a href="/ccpdope/20230718/1909038.md">习近平、秦刚、傅晓田之间真的有事？</a></li>
 <li><a href="/cnnews/20230718/1909088.md">女副市长：不是在开房，就是在开房的路上</a></li>
-<li><a href="/topimagenews/20230717/1908878.md">他们跪在军人脚下请求：不能烧哇！40年后...【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230718/1909031.md">秦刚的各种消息满天飞，他到底怎么了？有一点肯定就是他确实摊上大事了，那具体是什么？我们拨开云雾来逐一分析一下！【李军访谈20230717 第158期】</a></li>
+<li><a href="/topimagenews/20230717/1908878.md">他们跪在军人脚下请求：不能烧哇！40年后...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230717/1908948.md">“你老公出门了吗…穿丝袜等我”湖南省办微信群现偷情信息 网友热议</a></li>
 <li><a href="/topimagenews/20230718/1909113.md">在英国剑桥“傅晓田花园”里，挖呀挖</a></li>
 <li><a href="/cnnews/20230718/1909089.md">傅小姐的香港往事</a></li>
 <li><a href="/baitai/20230717/1908937.md">尴尬！女孩给警察送水？中共造假宣传当场被抓包 网友评论亮了</a></li>
 <li><a href="/comments/20230717/1908949.md">【新闻最嘲点】傅晓田背景惊人！一个被中共重金扶持的艳谍上位史</a></li>
-<li><a href="/ssgc/20230718/1909057.md">评论 | 胡平：秦刚怎么啦？</a></li>
 <li><a href="/yule/20230718/1909077.md">吴亦凡事件2年后 原来都美竹也不是“善茬”</a></li>
+<li><a href="/ssgc/20230718/1909057.md">评论 | 胡平：秦刚怎么啦？</a></li>
 <li><a href="/ssgc/20230718/1909102.md">专栏 | 夜话中南海：傅二奶事小，“秦二世“事大</a></li>
 <li><a href="/sohnews/20230718/1909034.md">“仍公开传递最新的资讯！傅晓田依旧充满期待 醉心于秦刚”No.02（07/17/23）#傅筱田秦刚</a></li>
-<li><a href="/cnnews/20230718/1909073.md">震惊！华人隐瞒中国银行账户 被美罚数百万美金</a></li>
-<li><a href="/topimagenews/20230718/1909087.md">遮羞布被撕 国产芯片极度依赖ARM 现在怎么办</a></li>
 <li><a href="/comments/20230718/1909118.md">秦刚，傅晓田，火箭军：中共“隐蔽战线”出了大问题！各方都在找后路，中共内部会有更多人投诚叛逃！｜姚诚 ｜新闻烽火台 07/17</a></li>
-<li><a href="/comments/20230717/1908941.md">其他预言 全部应验！就差最后一条 马上实现？！10万页！记录7天灵界亲眼所见：创造宇宙、太古历史，和⋯｜ #未解之谜 扶摇</a></li>
+<li><a href="/cnnews/20230718/1909073.md">震惊！华人隐瞒中国银行账户 被美罚数百万美金</a></li>
+<li><a href="/ssgc/20230718/1909136.md">〖微博谈〗编都编不出来</a></li>
+<li><a href="/topimagenews/20230718/1909087.md">遮羞布被撕 国产芯片极度依赖ARM 现在怎么办</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230718/1909276.md" target="_blank">习近平龙脉出大事！中共“战天斗地”从底部凿穿！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230718/1909269.md" target="_blank">全球最美女兵训练画面曝光</a></li>
 <li><a href="/topimagenews/20230718/1909252.md" target="_blank">傅晓田私生子泄密！ 秦刚“为党接盘”？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230718/1909251.md" target="_blank">浙江宣布除杭州市区外全面取消落户限制</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230717/1908807.md" target="_blank">深圳：这个魔咒打破了…</a></li>
 <li><a href="/topimagenews/20230717/1908806.md" target="_blank">【微博精粹】一尊：好日子还在后头 P民：眼下呢？</a></li>
 <li><a href="/topimagenews/20230717/1908805.md" target="_blank">日本又给北京泼了一盆冷水</a></li>
-<li><a href="/topimagenews/20230717/1908792.md" target="_blank">傅晓田不得了 这待遇习近平都没有 【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
 <li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
 
 </ul>
 </div>
