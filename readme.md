@@ -9,8 +9,8 @@
 <li><a href="/topimagenews/20230718/1909086.md">网：中共最近剧情太猛</a></li>
 <li><a href="/ccpdope/20230718/1909038.md">习近平、秦刚、傅晓田之间真的有事？</a></li>
 <li><a href="/sohnews/20230718/1909031.md">秦刚的各种消息满天飞，他到底怎么了？有一点肯定就是他确实摊上大事了，那具体是什么？我们拨开云雾来逐一分析一下！【李军访谈20230717 第158期】</a></li>
-<li><a href="/cnnews/20230718/1909088.md">女副市长：不是在开房，就是在开房的路上</a></li>
 <li><a href="/sohnews/20230718/1909283.md">美国国务院公布秦刚下落，全体公安干警只知有王不知有习，中共官僚巧妙周旋玩死习近平。《老灯开讲第338期》</a></li>
+<li><a href="/cnnews/20230718/1909088.md">女副市长：不是在开房，就是在开房的路上</a></li>
 <li><a href="/topimagenews/20230718/1909240.md">外交部有人要置秦傅于死地 秦刚傅晓田其实很悲惨【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230718/1909285.md">这国总理因为傅晓田闪电辞职</a></li>
 <li><a href="/cnnews/20230718/1909089.md">傅小姐的香港往事</a></li>
@@ -19,15 +19,15 @@
 <li><a href="/topimagenews/20230718/1909113.md">在英国剑桥“傅晓田花园”里，挖呀挖</a></li>
 <li><a href="/sohnews/20230718/1909273.md">傅晓田曾是“总理”情妇？火箭军专家“被车祸”，落马、暗S，风波不断！拜登“狠”说习近平：独裁、流氓，态度180度大转弯；中国流亡富商，以三个亲身事例揭露中共真实嘴脸｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/ssgc/20230718/1909136.md">〖微博谈〗编都编不出来</a></li>
-<li><a href="/ssgc/20230718/1909057.md">评论 | 胡平：秦刚怎么啦？</a></li>
 <li><a href="/topimagenews/20230718/1909276.md">习近平龙脉出大事！中共“战天斗地”从底部凿穿！【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20230718/1909057.md">评论 | 胡平：秦刚怎么啦？</a></li>
 <li><a href="/cbnews/20230718/1909205.md">〖兲朝浮世绘〗中国芯片被美国卡脖子到翻白眼的地步了</a></li>
 <li><a href="/yule/20230718/1909077.md">吴亦凡事件2年后 原来都美竹也不是“善茬”</a></li>
 <li><a href="/topimagenews/20230718/1909252.md">傅晓田私生子泄密！ 秦刚“为党接盘”？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230718/1909321.md">傅晓田在香港被他包养</a></li>
 <li><a href="/cnnews/20230718/1909196.md">秦刚背景深厚 泄密中共王牌【阿波罗网报道】</a></li>
-<li><a href="/comments/20230718/1909118.md">秦刚，傅晓田，火箭军：中共“隐蔽战线”出了大问题！各方都在找后路，中共内部会有更多人投诚叛逃！｜姚诚 ｜新闻烽火台 07/17</a></li>
 <li><a href="/sohnews/20230718/1909247.md">陈毅女婿搞他？秦刚夫人露面，毫不知情？傅晓田背后的金主是谁？秦刚当接盘侠被下套，倒习才是目标？｜薇羽看世间 第698期 20230717</a></li>
-<li><a href="/ssgc/20230718/1909102.md">专栏 | 夜话中南海：傅二奶事小，“秦二世“事大</a></li>
+<li><a href="/comments/20230718/1909118.md">秦刚，傅晓田，火箭军：中共“隐蔽战线”出了大问题！各方都在找后路，中共内部会有更多人投诚叛逃！｜姚诚 ｜新闻烽火台 07/17</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
 
 </ul>
 </div>
