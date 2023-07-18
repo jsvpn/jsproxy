@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20230717/1908940.md">习转轨，彻底吸干百姓钱；中共央行表态！好事？太迟，中南海急筹1会议</a></li>
 <li><a href="/comments/20230717/1908974.md">秦刚遭中共外交部官网除名 网曝：涉嫌叛变被普京告密</a></li>
 <li><a href="/topimagenews/20230717/1908806.md">【微博精粹】一尊：好日子还在后头 P民：眼下呢？</a></li>
-<li><a href="/ccpdope/20230718/1909038.md">习近平、秦刚、傅晓田之间真的有事？</a></li>
 <li><a href="/topimagenews/20230717/1908807.md">深圳：这个魔咒打破了…</a></li>
-<li><a href="/cnnews/20230717/1908804.md">德国爆猛料！习近平正和普京拉开距离</a></li>
-<li><a href="/topimagenews/20230717/1908878.md">他们跪在军人脚下请求：不能烧哇！40年后...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230718/1909086.md">网：中共最近剧情太猛</a></li>
-<li><a href="/sohnews/20230718/1909031.md">秦刚的各种消息满天飞，他到底怎么了？有一点肯定就是他确实摊上大事了，那具体是什么？我们拨开云雾来逐一分析一下！【李军访谈20230717 第158期】</a></li>
+<li><a href="/ccpdope/20230718/1909038.md">习近平、秦刚、傅晓田之间真的有事？</a></li>
+<li><a href="/cnnews/20230717/1908804.md">德国爆猛料！习近平正和普京拉开距离</a></li>
 <li><a href="/funmedia/20230717/1908808.md">女子放生老虎，5年后人虎再次相遇，老虎直接扑上去咬住她的头</a></li>
+<li><a href="/topimagenews/20230717/1908878.md">他们跪在军人脚下请求：不能烧哇！40年后...【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20230718/1909103.md">陈毅女婿设局，秦刚祸起“立储”？傅晓田第一金主曝光，牵出李鹏之女“外室”；阴谋论浮出：傅晓田真爱还是下套？</a></li>
+<li><a href="/sohnews/20230718/1909031.md">秦刚的各种消息满天飞，他到底怎么了？有一点肯定就是他确实摊上大事了，那具体是什么？我们拨开云雾来逐一分析一下！【李军访谈20230717 第158期】</a></li>
 <li><a href="/topimagenews/20230717/1908948.md">“你老公出门了吗…穿丝袜等我”湖南省办微信群现偷情信息 网友热议</a></li>
 <li><a href="/baitai/20230717/1908937.md">尴尬！女孩给警察送水？中共造假宣传当场被抓包 网友评论亮了</a></li>
-<li><a href="/sohnews/20230718/1909103.md">陈毅女婿设局，秦刚祸起“立储”？傅晓田第一金主曝光，牵出李鹏之女“外室”；阴谋论浮出：傅晓田真爱还是下套？</a></li>
 <li><a href="/sohnews/20230718/1909034.md">“仍公开传递最新的资讯！傅晓田依旧充满期待 醉心于秦刚”No.02（07/17/23）#傅筱田秦刚</a></li>
-<li><a href="/comments/20230717/1908949.md">【新闻最嘲点】傅晓田背景惊人！一个被中共重金扶持的艳谍上位史</a></li>
 <li><a href="/topimagenews/20230717/1908860.md">以邻为壑！中共在最危险地带盖“超级大坝” 印度专家担忧示警…</a></li>
+<li><a href="/comments/20230717/1908949.md">【新闻最嘲点】傅晓田背景惊人！一个被中共重金扶持的艳谍上位史</a></li>
 <li><a href="/lifebaike/20230717/1908893.md">不锈钢304和316到底有什么区别？今天总算长见识了，看了别被坑</a></li>
+<li><a href="/cnnews/20230718/1909088.md">女副市长：不是在开房，就是在开房的路上</a></li>
 <li><a href="/topimagenews/20230717/1908805.md">日本又给北京泼了一盆冷水</a></li>
-<li><a href="/sohnews/20230717/1908789.md">爸爸去哪儿秦刚特辑：傅晓田原来早就公示了她和秦刚的关系！我为什么要删除之前的视频。总结一下我的观点，并吐槽一些不靠谱的说法</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230718/1909173.md" target="_blank">【独家重磅】李燕铭：江泽民家族被病毒疫情围攻 江泽慧长期培植的接班人病亡年仅59岁 江绵恒独立王国两名青壮年院士与女教授接连病亡 江泽民母校上海交大院士教授密集病亡其中三人不到60岁 江泽民死江家族被清洗（16） 中共末日之病毒亡共（35）</a></li>
 <li><a href="/comments/20230718/1909129.md" target="_blank">毫不留情！绍伊古开始大清洗，普京在干嘛</a></li>
 <li><a href="/comments/20230718/1909128.md" target="_blank">日本最强穿越者的预言（1）！</a></li>
 <li><a href="/comments/20230718/1909127.md" target="_blank">文昭：中国经济「新三驾马车」开工了！都是谁？银行副行长月入数百元的新时代</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230717/1908763.md" target="_blank">“杀人放火金腰带，修桥补路无尸骸”的伟大复兴</a></li>
 <li><a href="/comments/20230717/1908762.md" target="_blank">塔利班谋求“靠拢”上合组织，终极目的是它？</a></li>
 <li><a href="/comments/20230717/1908756.md" target="_blank">【方菲时间】明居正：瓦格纳兵变，强化中共深层恐惧；不当乌克兰或香港，台湾要走出自己的路 ｜方菲时间 专访明居正（下）</a></li>
-<li><a href="/comments/20230717/1908730.md" target="_blank">文昭：“寻衅滋事”、私自架桥的黄德义，在美国会怎么判？【会员样片节选】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 
 </ul>
 </div>
