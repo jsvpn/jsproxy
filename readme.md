@@ -7,10 +7,9 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230717/1908929.md">秦刚真的危险了？疑遭中共外交部官网除名 学者：“习近平保不保秦刚都引发动荡”</a></li>
 <li><a href="/baitai/20230717/1908872.md">秦刚陷桃色丑闻 习近平成输家？</a></li>
-<li><a href="/topimagenews/20230717/1908851.md">榨干吃净！中国这些银行以断子绝孙的方式让无数韭菜血本无归【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20230718/1909103.md">陈毅女婿设局，秦刚祸起“立储”？傅晓田第一金主曝光，牵出李鹏之女“外室”；阴谋论浮出：傅晓田真爱还是下套？</a></li>
 <li><a href="/topimagenews/20230717/1908940.md">习转轨，彻底吸干百姓钱；中共央行表态！好事？太迟，中南海急筹1会议</a></li>
 <li><a href="/topimagenews/20230718/1909086.md">网：中共最近剧情太猛</a></li>
-<li><a href="/sohnews/20230718/1909103.md">陈毅女婿设局，秦刚祸起“立储”？傅晓田第一金主曝光，牵出李鹏之女“外室”；阴谋论浮出：傅晓田真爱还是下套？</a></li>
 <li><a href="/comments/20230717/1908974.md">秦刚遭中共外交部官网除名 网曝：涉嫌叛变被普京告密</a></li>
 <li><a href="/ccpdope/20230718/1909038.md">习近平、秦刚、傅晓田之间真的有事？</a></li>
 <li><a href="/cnnews/20230718/1909088.md">女副市长：不是在开房，就是在开房的路上</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/cnnews/20230718/1909089.md">傅小姐的香港往事</a></li>
 <li><a href="/baitai/20230717/1908937.md">尴尬！女孩给警察送水？中共造假宣传当场被抓包 网友评论亮了</a></li>
 <li><a href="/comments/20230717/1908949.md">【新闻最嘲点】傅晓田背景惊人！一个被中共重金扶持的艳谍上位史</a></li>
-<li><a href="/ssgc/20230718/1909057.md">评论 | 胡平：秦刚怎么啦？</a></li>
-<li><a href="/yule/20230718/1909077.md">吴亦凡事件2年后 原来都美竹也不是“善茬”</a></li>
 <li><a href="/topimagenews/20230718/1909113.md">在英国剑桥“傅晓田花园”里，挖呀挖</a></li>
+<li><a href="/yule/20230718/1909077.md">吴亦凡事件2年后 原来都美竹也不是“善茬”</a></li>
+<li><a href="/ssgc/20230718/1909057.md">评论 | 胡平：秦刚怎么啦？</a></li>
 <li><a href="/sohnews/20230718/1909034.md">“仍公开传递最新的资讯！傅晓田依旧充满期待 醉心于秦刚”No.02（07/17/23）#傅筱田秦刚</a></li>
 <li><a href="/topimagenews/20230717/1908860.md">以邻为壑！中共在最危险地带盖“超级大坝” 印度专家担忧示警…</a></li>
 <li><a href="/cnnews/20230718/1909073.md">震惊！华人隐瞒中国银行账户 被美罚数百万美金</a></li>
 <li><a href="/topimagenews/20230718/1909087.md">遮羞布被撕 国产芯片极度依赖ARM 现在怎么办</a></li>
 <li><a href="/lifebaike/20230717/1908893.md">不锈钢304和316到底有什么区别？今天总算长见识了，看了别被坑</a></li>
+<li><a href="/comments/20230717/1908941.md">其他预言 全部应验！就差最后一条 马上实现？！10万页！记录7天灵界亲眼所见：创造宇宙、太古历史，和⋯｜ #未解之谜 扶摇</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,9 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230718/1909252.md" target="_blank">傅晓田私生子泄密！ 秦刚“为党接盘”？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230718/1909251.md" target="_blank">浙江宣布除杭州市区外全面取消落户限制</a></li>
+<li><a href="/topimagenews/20230718/1909250.md" target="_blank">鲜为人知！傅晓田特别上位之路 色诱新西兰总理【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230718/1909240.md" target="_blank">外交部有人要置秦傅于死地 秦刚傅晓田其实很悲惨【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230718/1909211.md" target="_blank">【微博精粹】秦刚这颗大瓜 预示中共体制真要到头了</a></li>
 <li><a href="/topimagenews/20230718/1909193.md" target="_blank">乌克兰无人舰发挥不对称战优势 炸了克里米亚大桥气死普京</a></li>
@@ -88,9 +91,6 @@
 <li><a href="/topimagenews/20230717/1908805.md" target="_blank">日本又给北京泼了一盆冷水</a></li>
 <li><a href="/topimagenews/20230717/1908792.md" target="_blank">傅晓田不得了 这待遇习近平都没有 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230717/1908759.md" target="_blank">卡美帝脖子？中国稀土龙头企业利润惊现暴跌</a></li>
-<li><a href="/topimagenews/20230717/1908758.md" target="_blank">做空美股亏到崩溃？暴亏8778亿 含泪道歉信</a></li>
-<li><a href="/topimagenews/20230717/1908748.md" target="_blank">七千万人拒缴新农合保险？农民是穷，但绝不傻</a></li>
-<li><a href="/topimagenews/20230717/1908733.md" target="_blank">习近平打压外企，亲手摁灭中国经济关键引擎</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
 <li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
 
 </ul>
 </div>
