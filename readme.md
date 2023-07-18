@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230717/1908769.md">秦刚病死301，王小洪紧急召开公安厅局长秘密会议，国安部内乱共特大批叛逃。《老灯开讲第337期》</a></li>
 <li><a href="/topimagenews/20230717/1908792.md">傅晓田不得了 这待遇习近平都没有 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230717/1908929.md">秦刚真的危险了？疑遭中共外交部官网除名 学者：“习近平保不保秦刚都引发动荡”</a></li>
 <li><a href="/baitai/20230717/1908872.md">秦刚陷桃色丑闻 习近平成输家？</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/topimagenews/20230717/1908806.md">【微博精粹】一尊：好日子还在后头 P民：眼下呢？</a></li>
 <li><a href="/ccpdope/20230718/1909038.md">习近平、秦刚、傅晓田之间真的有事？</a></li>
 <li><a href="/topimagenews/20230717/1908807.md">深圳：这个魔咒打破了…</a></li>
-<li><a href="/topimagenews/20230717/1908878.md">他们跪在军人脚下请求：不能烧哇！40年后...【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230717/1908804.md">德国爆猛料！习近平正和普京拉开距离</a></li>
+<li><a href="/topimagenews/20230717/1908878.md">他们跪在军人脚下请求：不能烧哇！40年后...【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230718/1909086.md">网：中共最近剧情太猛</a></li>
+<li><a href="/sohnews/20230718/1909031.md">秦刚的各种消息满天飞，他到底怎么了？有一点肯定就是他确实摊上大事了，那具体是什么？我们拨开云雾来逐一分析一下！【李军访谈20230717 第158期】</a></li>
 <li><a href="/funmedia/20230717/1908808.md">女子放生老虎，5年后人虎再次相遇，老虎直接扑上去咬住她的头</a></li>
 <li><a href="/topimagenews/20230717/1908948.md">“你老公出门了吗…穿丝袜等我”湖南省办微信群现偷情信息 网友热议</a></li>
-<li><a href="/sohnews/20230718/1909031.md">秦刚的各种消息满天飞，他到底怎么了？有一点肯定就是他确实摊上大事了，那具体是什么？我们拨开云雾来逐一分析一下！【李军访谈20230717 第158期】</a></li>
 <li><a href="/baitai/20230717/1908937.md">尴尬！女孩给警察送水？中共造假宣传当场被抓包 网友评论亮了</a></li>
-<li><a href="/ssgc/20230717/1908767.md">〖微博谈〗所谓巨婴就是这样养成的</a></li>
-<li><a href="/topimagenews/20230718/1909086.md">网：中共最近剧情太猛</a></li>
-<li><a href="/comments/20230717/1908949.md">【新闻最嘲点】傅晓田背景惊人！一个被中共重金扶持的艳谍上位史</a></li>
+<li><a href="/sohnews/20230718/1909103.md">陈毅女婿设局，秦刚祸起“立储”？傅晓田第一金主曝光，牵出李鹏之女“外室”；阴谋论浮出：傅晓田真爱还是下套？</a></li>
 <li><a href="/sohnews/20230718/1909034.md">“仍公开传递最新的资讯！傅晓田依旧充满期待 醉心于秦刚”No.02（07/17/23）#傅筱田秦刚</a></li>
+<li><a href="/comments/20230717/1908949.md">【新闻最嘲点】傅晓田背景惊人！一个被中共重金扶持的艳谍上位史</a></li>
 <li><a href="/topimagenews/20230717/1908860.md">以邻为壑！中共在最危险地带盖“超级大坝” 印度专家担忧示警…</a></li>
 <li><a href="/lifebaike/20230717/1908893.md">不锈钢304和316到底有什么区别？今天总算长见识了，看了别被坑</a></li>
 <li><a href="/topimagenews/20230717/1908805.md">日本又给北京泼了一盆冷水</a></li>
+<li><a href="/sohnews/20230717/1908789.md">爸爸去哪儿秦刚特辑：傅晓田原来早就公示了她和秦刚的关系！我为什么要删除之前的视频。总结一下我的观点，并吐槽一些不靠谱的说法</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230718/1909155.md" target="_blank">克里米亚大桥再次遭袭 普京震怒原因曝光</a></li>
 <li><a href="/cbnews/20230718/1909140.md" target="_blank">美国思想领袖：【精彩片段】「神经打击武器」有多恐怖？中国百姓早已被实验？已经达到什麽程度？ | #新闻大家谈</a></li>
 <li><a href="/cbnews/20230718/1909139.md" target="_blank">美国思想领袖：【精彩片段】中国年轻人的四种生活方式？南方年轻人流向东北 这是啥信号？ | #新闻大家谈</a></li>
 <li><a href="/cbnews/20230718/1909138.md" target="_blank">美国思想领袖：【精彩片段】中共真的会开发对人伤害极大的脑神经打击武器？国际社会能否被终止其邪恶？| #新闻大家谈</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230716/1908666.md" target="_blank">江峰：情妇是间谍与普京告密，秦刚到底栽在谁手</a></li>
 <li><a href="/cbnews/20230716/1908642.md" target="_blank">江峰：情妇丑闻掩盖秦刚与火箭军叛乱瓜葛</a></li>
 <li><a href="/cbnews/20230716/1908596.md" target="_blank">恶！陆客入住3天“房间炸成垃圾山”家具全毁 业者扫到崩溃</a></li>
-<li><a href="/cbnews/20230716/1908587.md" target="_blank">实在太热！中国最大淡水湖2周竟缩水“这么多”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 
 </ul>
 </div>
