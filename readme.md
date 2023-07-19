@@ -8,23 +8,23 @@
 <li><a href="/baitai/20230718/1909381.md">又一张照片露馅？传网友找到秦刚出轨关键证据</a></li>
 <li><a href="/topimagenews/20230719/1909543.md">破除为秦刚焦头烂额传言？习亮相 做了两件事</a></li>
 <li><a href="/sohnews/20230718/1909357.md">秦刚失踪被拔官，中南海新权斗风高浪急？政法委动员大小特务，党内爆发间谍战？台湾716游行，中共盗用反而引火烧身？（2023.7.18）｜世界的十字路口 唐浩</a></li>
-<li><a href="/baitai/20230718/1909405.md">网爆秦刚桃色丑闻再添新证 外交部网站释重磅信号 外媒分析其结果</a></li>
 <li><a href="/topimagenews/20230719/1909694.md">“一支笔干翻习近平” 王岐山上报老大致秦刚东窗事发？【阿波罗网报道】</a></li>
+<li><a href="/baitai/20230718/1909405.md">网爆秦刚桃色丑闻再添新证 外交部网站释重磅信号 外媒分析其结果</a></li>
 <li><a href="/ccpdope/20230719/1909472.md">劲爆！红三代傅小姐的香港艳事</a></li>
 <li><a href="/sohnews/20230719/1909500.md">新冠病毒已发生失控性变异</a></li>
 <li><a href="/comments/20230719/1909525.md">习近平为何对处理秦刚犹豫不决｜#方菲时间</a></li>
-<li><a href="/sohnews/20230719/1909570.md">3迹象秦刚要凉？传秦刚做实被查暂居家中；傅晓田“丈夫”突失踪，私人专机目的地曝光；“秦傅”时间线释放什么信息？</a></li>
 <li><a href="/topimagenews/20230719/1909695.md">秦刚遭策反？“宫廷政变”之子揭秘：傅晓田手握中共机密【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20230719/1909570.md">3迹象秦刚要凉？传秦刚做实被查暂居家中；傅晓田“丈夫”突失踪，私人专机目的地曝光；“秦傅”时间线释放什么信息？</a></li>
 <li><a href="/topimagenews/20230719/1909580.md">在中国 鸭子已经忙不过来了</a></li>
 <li><a href="/topimagenews/20230719/1909584.md">俄南部军区副司令被斩首，袭击现场惨不忍睹</a></li>
 <li><a href="/sohnews/20230719/1909594.md">密谋另立储君，秦刚卷入反习势力漩涡！当年包养傅晓田的竟是他，依靠李小琳飞黄腾达，香港“盖兹比”的隐密往事！温家宝密令中纪委抓捕黎亮，李鹏亲自出手相救！【新闻最嘲点 姜光宇】2023.0718</a></li>
 <li><a href="/yule/20230719/1909532.md">48岁周迅43岁董洁同框 方知骨相美和皮相美区别</a></li>
+<li><a href="/comments/20230719/1909722.md">习近平撑不住了？秦刚处理结果很快公布！傅晓田航班资讯泄露：疑北京落地被抓！王毅胜利？</a></li>
 <li><a href="/topimagenews/20230719/1909579.md">赶紧割肉卖房吧</a></li>
 <li><a href="/cnnews/20230718/1909393.md">秦刚爆“出轨、私生子”证据曝光 1张照1句话露馅</a></li>
-<li><a href="/comments/20230719/1909722.md">习近平撑不住了？秦刚处理结果很快公布！傅晓田航班资讯泄露：疑北京落地被抓！王毅胜利？</a></li>
+<li><a href="/sohnews/20230719/1909478.md">再跌！美银不看好人民币，汇率将创新低；大财团要倒！中国房子卖不动，“一揽子”政策还好使吗？破产！欠债太多，恒大不再“保交楼”；中国基建飙没影？豪华高铁站无人去；不详兆？四川惊现双太阳</a></li>
 <li><a href="/sohnews/20230719/1909678.md">秦刚回不来了？傅晓田重要线索被挖出；私人日记爆时间点？“燕子”代孕生子？习近平遇难题【新闻看点 李沐阳7.18】</a></li>
 <li><a href="/topimagenews/20230719/1909612.md">一场海啸开始了…</a></li>
-<li><a href="/sohnews/20230719/1909478.md">再跌！美银不看好人民币，汇率将创新低；大财团要倒！中国房子卖不动，“一揽子”政策还好使吗？破产！欠债太多，恒大不再“保交楼”；中国基建飙没影？豪华高铁站无人去；不详兆？四川惊现双太阳</a></li>
 <li><a href="/sohnews/20230719/1909568.md">陈破空：最新：此人似已取代秦刚！毛宁笑了，整个外交部都幸灾乐祸。美方的说法有深意。直播与互动。美东7月18日晚8点、即中港台7月19日早8点</a></li>
 <li><a href="/cbnews/20230719/1909523.md">据数据统计：北京正下沉：6条地铁线已变形….</a></li>
 <li><a href="/cnnews/20230719/1909560.md">副军长余洪信开枪杀人后自杀之谜</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230719/1909811.md" target="_blank">杭州亚运 香港电竞选手ID含”光复“ 遭重罚禁赛3年</a></li>
 <li><a href="/comments/20230719/1909740.md" target="_blank">3迹象秦刚要凉？传秦刚做实被查&#8230;“秦傅”时间线释放什么信息？</a></li>
 <li><a href="/comments/20230719/1909722.md" target="_blank">习近平撑不住了？秦刚处理结果很快公布！傅晓田航班资讯泄露：疑北京落地被抓！王毅胜利？</a></li>
 <li><a href="/comments/20230719/1909689.md" target="_blank">恐怖预测：几周内爆发一场新的致命免疫逃逸变体疫情</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230719/1909557.md" target="_blank">回头路的回头路 中共机会主义的活命哲学</a></li>
 <li><a href="/comments/20230719/1909556.md" target="_blank">王赫：法轮功真相广传 美国进一步反制中共迫害</a></li>
 <li><a href="/comments/20230719/1909555.md" target="_blank">被美卫星拍到“洗麦” 普京的“儿子”要栽了？</a></li>
-<li><a href="/comments/20230719/1909554.md" target="_blank">张文澜：土耳其又给大鹅一个王炸 北约的假想敌开始垮塌</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 <li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 
 </ul>
 </div>
