@@ -22,12 +22,12 @@
 <li><a href="/topimagenews/20230720/1910112.md">傅晓田父母是谁 她的背后都有谁？</a></li>
 <li><a href="/topimagenews/20230720/1910038.md">大批中国游客突遭澳洲拒签 拒签率高达50%</a></li>
 <li><a href="/topimagenews/20230720/1910047.md">金与正破天荒！释更激烈挑衅信号？</a></li>
-<li><a href="/topimagenews/20230720/1910039.md">不该出现的逆天古物，是巧合还是另有隐情</a></li>
 <li><a href="/baitai/20230720/1910057.md">习近平真的没有腐败吗？</a></li>
+<li><a href="/topimagenews/20230720/1910039.md">不该出现的逆天古物，是巧合还是另有隐情</a></li>
+<li><a href="/baitai/20230720/1910195.md">秦刚失踪再曝新消息！中共驻美大使说漏嘴</a></li>
+<li><a href="/sohnews/20230720/1910182.md">驻美大使谢锋阴阳怪气谈秦刚，王小洪亲口讲诉与彭丽媛关系，北大团队统计青年失业率达46% 《老灯开讲第340期》</a></li>
 <li><a href="/sohnews/20230719/1909928.md">“危机向习氏王朝蔓延！舆论转向习近平的无能⋯⋯”No.02（07/19/23）</a></li>
 <li><a href="/sohnews/20230720/1910037.md">陈破空：快了！即将公布秦刚遭查处？不提间谍案！要把事情说成是正风肃纪。胡锡进暗示有一件事。傅晓田曾诱垮新西兰总理。直播与互动。美东7月19日晚8点、即中港台7月20日早8点</a></li>
-<li><a href="/sohnews/20230720/1910182.md">驻美大使谢锋阴阳怪气谈秦刚，王小洪亲口讲诉与彭丽媛关系，北大团队统计青年失业率达46% 《老灯开讲第340期》</a></li>
-<li><a href="/topimagenews/20230720/1909997.md">普京首次点头同意…中俄合作现新动向</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230720/1910281.md" target="_blank">美投资中国高科技引担忧 众院中国特设委员会启动调查</a></li>
 <li><a href="/comments/20230720/1910175.md" target="_blank">“前外长”秦刚？谢峰大笑：拭目以待！毛宁重磅预言：王毅回归！马姓副部长转正？基辛格赴北京救秦刚？</a></li>
 <li><a href="/comments/20230720/1910167.md" target="_blank">【独家重磅】李燕铭：秦刚异常隐身深度内幕（2） 秦刚出事传闻四起内斗激烈 习近平陷入两难 习与秦刚均成为输家 中纪委书记李希讲话泄露习近平不能完全掌握反腐领导权主动权 习近平派心腹蔡奇直接插手中央机关纪检事务主导中南海清洗行动 中办下发敏感文件 中南海政变与反政变（83） 北戴河会议大战内幕（53）</a></li>
 <li><a href="/comments/20230720/1910166.md" target="_blank">【独家重磅】李燕铭：秦刚异常隐身深度内幕（1） 秦刚染疫重症移植器官保命？傅晓田与秦刚绯闻被抛出掩盖疫情攻陷中南海及活摘器官黑幕？白宫披露的中共外交辞令暗藏伏笔 秦刚命运三种可能 秦刚上位之际中共外交系统数十人染疫死 近期中共青壮年党务高官接连病亡 中共末日之病毒亡共（36） 中南海政变与反政变（82） 北戴河会议大战内幕（52）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230720/1910028.md" target="_blank">文昭：秦刚持续失踪、王毅将代替出访；大瓜捂成大雷！阴谋的总後台抓到了，是他？</a></li>
 <li><a href="/comments/20230720/1910019.md" target="_blank">王友群：习近平保党、保权、保命？</a></li>
 <li><a href="/comments/20230720/1910018.md" target="_blank">周晓辉：百岁基辛格访华 美官方放话北京心凉</a></li>
-<li><a href="/comments/20230720/1910017.md" target="_blank">颜丹：山大女校长樊丽明逼良为娼后升职教育部</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
 
 </ul>
 </div>
