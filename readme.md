@@ -10,24 +10,24 @@
 <li><a href="/baitai/20230720/1910320.md">秦刚案调查重点变了 传国内局势已到极限</a></li>
 <li><a href="/baitai/20230720/1910195.md">秦刚失踪再曝新消息！中共驻美大使说漏嘴</a></li>
 <li><a href="/topimagenews/20230720/1910112.md">傅晓田父母是谁 她的背后都有谁？</a></li>
-<li><a href="/topimagenews/20230720/1910223.md">谢锋身体语言泄密！网友：秦刚出了严重问题！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230720/1910182.md">驻美大使谢锋阴阳怪气谈秦刚，王小洪亲口讲诉与彭丽媛关系，北大团队统计青年失业率达46% 《老灯开讲第340期》</a></li>
+<li><a href="/topimagenews/20230720/1910223.md">谢锋身体语言泄密！网友：秦刚出了严重问题！【阿波罗网报道】</a></li>
 <li><a href="/comments/20230720/1910175.md">“前外长”秦刚？谢峰大笑：拭目以待！毛宁重磅预言：王毅回归！马姓副部长转正？基辛格赴北京救秦刚？</a></li>
 <li><a href="/comments/20230720/1910297.md">秦刚消失之谜新解。傅晓田为何一反常态，高调晒出与秦刚的秘密？揭开傅晓田的面纱，她是如何炼成红燕子的？</a></li>
 <li><a href="/ccpdope/20230720/1910189.md">就为这个！百岁基辛格住着拐棍也要访问北京</a></li>
 <li><a href="/cnnews/20230720/1910263.md">不是新加坡！中国大陆富豪疯移民 美媒曝首选竟是这“国”</a></li>
-<li><a href="/topimagenews/20230720/1910038.md">大批中国游客突遭澳洲拒签 拒签率高达50%</a></li>
 <li><a href="/topimagenews/20230720/1910274.md">普京签下“羞辱性”协议! MI6透秘辛:普里格津早上是叛徒 晚上就被赦免了</a></li>
 <li><a href="/sohnews/20230720/1910280.md">陈破空：冒死前往中国救秦刚？百岁老人基辛格访中之谜。普京害怕被捕，放弃去南非开会。亚洲国家中，只有中国人对母国评价负面。直播与互动。美东7月20日早8点30、即中港台7月20晚8点30</a></li>
 <li><a href="/baitai/20230720/1910057.md">习近平真的没有腐败吗？</a></li>
 <li><a href="/topimagenews/20230720/1910047.md">金与正破天荒！释更激烈挑衅信号？</a></li>
 <li><a href="/headline/20230720/1910255.md">王沪宁地位角色愈趋重要</a></li>
-<li><a href="/topimagenews/20230720/1910039.md">不该出现的逆天古物，是巧合还是另有隐情</a></li>
 <li><a href="/cnnews/20230720/1910212.md">习近平被人“指明方向” ：大大方方的进行回应 【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230720/1910307.md">中共大外宣失败 最新民调让北京尴尬了</a></li>
 <li><a href="/ssgc/20230720/1910072.md">〖微博谈〗中共的绝望之举</a></li>
 <li><a href="/ssgc/20230720/1910285.md">中国经济已经危殆</a></li>
 <li><a href="/topimagenews/20230720/1910304.md">厉害了我的国！大陆风景区筏船工用桨打游客 推游客入河…</a></li>
+<li><a href="/finance/20230720/1910184.md">再一道就追上岳飞了! 中南海连发11文拼民营经济 网酸：信心能喊回来？</a></li>
+<li><a href="/sohnews/20230720/1910075.md">驻美大使谢锋被智库连番逼问秦刚下落，听完回答众人都哄笑起来，台上台下充满了快活的空气😄  这个主持人有点阴😈 （中文字幕）转载请注明译者</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230721/1910481.md" target="_blank">傅晓田是军方特务？秦刚出事是习近平的普里戈金事件 ｜#方菲时间 07/20</a></li>
 <li><a href="/cbnews/20230721/1910451.md" target="_blank">法轮功反迫害24周年 美国国会议员声援</a></li>
 <li><a href="/cbnews/20230721/1910446.md" target="_blank">习近平强硬回应美气候特使克里</a></li>
 <li><a href="/cbnews/20230720/1910315.md" target="_blank">家中突断电！渐冻人呼吸器停摆 1小时后恢复供电“人没了”</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230719/1909770.md" target="_blank">内幕曝光！习近平为何选中准备退休的他？</a></li>
 <li><a href="/cbnews/20230719/1909752.md" target="_blank">就怕你爆料、偷拍找麻烦！大陆低价旅游禁“2行业”参团</a></li>
 <li><a href="/cbnews/20230719/1909746.md" target="_blank">疑遭暗杀！38岁解放军“AI天才科学家” 官方称车祸意外</a></li>
-<li><a href="/cbnews/20230719/1909718.md" target="_blank">英奥尔顿勋爵议会演讲 揭中共活摘法轮功学员器官</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230721/1910481.md" target="_blank">傅晓田是军方特务？秦刚出事是习近平的普里戈金事件 ｜#方菲时间 07/20</a></li>
 <li><a href="/comments/20230721/1910392.md" target="_blank">陨石伤人第二例？法国女在阳台喝咖啡疑遭陨石击中</a></li>
 <li><a href="/comments/20230720/1910388.md" target="_blank">【独家重磅】李燕铭：李克强河南帮又一钱袋子被查 北戴河会前六天三金融虎落马 太子党陈元老巢被深度清洗 李克强与陈元隐秘关系浮现 习近平李克强明争暗斗内幕（108） 钱袋子争夺战（47） 习近平连任后大清洗（51） 北戴河会议大战内幕（54） 习清洗河南帮暗战李克强（20）</a></li>
 <li><a href="/comments/20230720/1910370.md" target="_blank">【杜耀明评论】广播规管双重标准 「宁左勿右」弄巧反拙</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230720/1910080.md" target="_blank">懂车帝:通报员工“到点下班”？比亚迪再上热搜</a></li>
 <li><a href="/comments/20230720/1910066.md" target="_blank">维舟的方舟：日本未必都好，但也没那么坏</a></li>
 <li><a href="/comments/20230720/1910065.md" target="_blank">立此存照：消失的他：外交部长秦刚去哪儿了？</a></li>
-<li><a href="/comments/20230720/1910056.md" target="_blank">坎农首次听证，试探审判日期。川普接到目标信，将第三次被起诉。川普一改过去，联合众议院议长和共和党委员会主席，协同反击特别检察官。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
 <li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
 <li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
 
 </ul>
 </div>
