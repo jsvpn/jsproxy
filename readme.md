@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20230720/1909983.md">惩罚来了，美政府通知武毒所….</a></li>
 <li><a href="/cnnews/20230720/1909973.md">真急了…连发十几条 中国放出重磅风向</a></li>
 <li><a href="/cbnews/20230720/1910071.md">〖兲朝浮世绘〗李强太闲 国务院吃饱撑的了？</a></li>
-<li><a href="/cbnews/20230720/1909984.md">秦刚复出无望？中外交部发布消息 1说法消失</a></li>
 <li><a href="/sohnews/20230720/1910159.md">秦刚死在301医院？传言失控！传秦刚身世显赫，是中共大佬之后；秦夫人“林彦”也被挖出；傅晓田是高级女谍？获大佬扶持，斥巨资打造精英人设；谢锋暗示秦刚复出？“北戴河”会有答案吗 ｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cbnews/20230720/1909984.md">秦刚复出无望？中外交部发布消息 1说法消失</a></li>
 <li><a href="/baitai/20230720/1910195.md">秦刚失踪再曝新消息！中共驻美大使说漏嘴</a></li>
 <li><a href="/ccpdope/20230720/1910005.md">习近平四大忧惧 全党上下为极端情况做准备</a></li>
-<li><a href="/cbnews/20230719/1909929.md">分析：习举棋不定 秦刚谜团欲盖弥彰 疑已是戴罪之身</a></li>
 <li><a href="/topimagenews/20230720/1910223.md">谢锋身体语言泄密！网友：秦刚出了严重问题！【阿波罗网报道】</a></li>
 <li><a href="/comments/20230720/1910175.md">“前外长”秦刚？谢峰大笑：拭目以待！毛宁重磅预言：王毅回归！马姓副部长转正？基辛格赴北京救秦刚？</a></li>
-<li><a href="/sohnews/20230720/1910182.md">驻美大使谢锋阴阳怪气谈秦刚，王小洪亲口讲诉与彭丽媛关系，北大团队统计青年失业率达46% 《老灯开讲第340期》</a></li>
 <li><a href="/topimagenews/20230720/1910112.md">傅晓田父母是谁 她的背后都有谁？</a></li>
+<li><a href="/sohnews/20230720/1910182.md">驻美大使谢锋阴阳怪气谈秦刚，王小洪亲口讲诉与彭丽媛关系，北大团队统计青年失业率达46% 《老灯开讲第340期》</a></li>
 <li><a href="/topimagenews/20230720/1910038.md">大批中国游客突遭澳洲拒签 拒签率高达50%</a></li>
 <li><a href="/ccpdope/20230720/1910189.md">就为这个！百岁基辛格住着拐棍也要访问北京</a></li>
-<li><a href="/baitai/20230720/1910057.md">习近平真的没有腐败吗？</a></li>
-<li><a href="/topimagenews/20230720/1910047.md">金与正破天荒！释更激烈挑衅信号？</a></li>
 <li><a href="/cnnews/20230720/1910263.md">不是新加坡！中国大陆富豪疯移民 美媒曝首选竟是这“国”</a></li>
-<li><a href="/topimagenews/20230720/1910039.md">不该出现的逆天古物，是巧合还是另有隐情</a></li>
+<li><a href="/baitai/20230720/1910057.md">习近平真的没有腐败吗？</a></li>
+<li><a href="/baitai/20230720/1910320.md">秦刚案调查重点变了 传国内局势已到极限</a></li>
+<li><a href="/topimagenews/20230720/1910047.md">金与正破天荒！释更激烈挑衅信号？</a></li>
 <li><a href="/topimagenews/20230720/1910274.md">普京签下“羞辱性”协议! MI6透秘辛:普里格津早上是叛徒 晚上就被赦免了</a></li>
+<li><a href="/topimagenews/20230720/1910039.md">不该出现的逆天古物，是巧合还是另有隐情</a></li>
+<li><a href="/cnnews/20230720/1910212.md">习近平被人“指明方向” ：大大方方的进行回应 【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230720/1910037.md">陈破空：快了！即将公布秦刚遭查处？不提间谍案！要把事情说成是正风肃纪。胡锡进暗示有一件事。傅晓田曾诱垮新西兰总理。直播与互动。美东7月19日晚8点、即中港台7月20日早8点</a></li>
-<li><a href="/sohnews/20230719/1909928.md">“危机向习氏王朝蔓延！舆论转向习近平的无能⋯⋯”No.02（07/19/23）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230720/1910388.md" target="_blank">【独家重磅】李燕铭：李克强河南帮又一钱袋子被查 北戴河会前六天三金融虎落马 太子党陈元老巢被深度清洗 李克强与陈元隐秘关系浮现 习近平李克强明争暗斗内幕（108） 钱袋子争夺战（47） 习近平连任后大清洗（51） 北戴河会议大战内幕（54） 习清洗河南帮暗战李克强（20）</a></li>
 <li><a href="/comments/20230720/1910370.md" target="_blank">【杜耀明评论】广播规管双重标准 「宁左勿右」弄巧反拙</a></li>
 <li><a href="/comments/20230720/1910344.md" target="_blank">文昭：秦刚的长时间消失，出么大的尴尬，归根到底还是得怪他</a></li>
 <li><a href="/comments/20230720/1910343.md" target="_blank">文昭：秦刚持续消失、问题不小，谁给他下的套？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230720/1910065.md" target="_blank">立此存照：消失的他：外交部长秦刚去哪儿了？</a></li>
 <li><a href="/comments/20230720/1910056.md" target="_blank">坎农首次听证，试探审判日期。川普接到目标信，将第三次被起诉。川普一改过去，联合众议院议长和共和党委员会主席，协同反击特别检察官。</a></li>
 <li><a href="/comments/20230720/1910054.md" target="_blank">日本最强穿越者的预言（3）！</a></li>
-<li><a href="/comments/20230720/1910051.md" target="_blank">秦刚依然不出现， 凶多吉少？川普又夸习近平，是高级黑吗？｜方伟 唐靖远 大宇 方菲 David ｜围炉夜话07/19</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
 <li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 <li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
 <li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
 
 </ul>
 </div>
