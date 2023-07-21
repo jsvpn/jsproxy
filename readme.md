@@ -12,8 +12,8 @@
 <li><a href="/yule/20230721/1910555.md">61岁叶倩文长这样！“无P图照”流出网全惊呆</a></li>
 <li><a href="/comments/20230721/1910481.md">傅晓田是军方特务？秦刚出事是习近平的普里戈金事件 ｜#方菲时间 07/20</a></li>
 <li><a href="/comments/20230721/1910573.md">递材料给彭丽媛 大腕耗资数百万 5人处极刑</a></li>
-<li><a href="/ccpdope/20230721/1910707.md">秦刚消失 他或接任中共外交部长</a></li>
 <li><a href="/topimagenews/20230721/1910592.md">中国全民进入地雷阵 温家宝预言成真【阿波罗网报道】</a></li>
+<li><a href="/ccpdope/20230721/1910707.md">秦刚消失 他或接任中共外交部长</a></li>
 <li><a href="/topimagenews/20230721/1910566.md">【微博精粹】失业率量变到造反质变 一步之遥</a></li>
 <li><a href="/cbnews/20230721/1910656.md">这首歌又把中共吓坏！怕人民发声都魔怔了【阿波罗网报道】</a></li>
 <li><a href="/headline/20230721/1910684.md">胡平：秦刚凶多吉少 习近平要保早保了</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/baitai/20230721/1910717.md">微博突现反共潮 习自曝统治危机</a></li>
 <li><a href="/topimagenews/20230721/1910632.md">令人震惊！看看基辛格当年干过什么！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230721/1910550.md">决策层惊慌失措！中共长记性了吗？</a></li>
-<li><a href="/topimagenews/20230721/1910591.md">习近平撞南墙要回头？中共31道“金牌”有用吗 【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230721/1910694.md">很多朋友都是从此绝交的，故事很短，却说穿了人性｜神传文化｜知识分享｜人生智慧语录 【晨曦晓屋】</a></li>
+<li><a href="/topimagenews/20230721/1910591.md">习近平撞南墙要回头？中共31道“金牌”有用吗 【阿波罗网报道】</a></li>
 <li><a href="/comments/20230721/1910578.md">两面人秦刚暴露！特务头子遭艳谍下属反噬，傅晓田揭战狼外交部长国安线作战秘密，习近平怒了</a></li>
 <li><a href="/topimagenews/20230721/1910685.md">航母烧钱如烧纸 专家：中国疲弱经济养不起4航母</a></li>
+<li><a href="/sohnews/20230721/1910572.md">彭真是她爷爷？傅晓田的背后力量；老辣主持套谢锋，秦刚果是这问题；换6心基辛格访华说情？习近平等一事；实名曝活摘全程【新闻看点 李沐阳7.20】</a></li>
 <li><a href="/sohnews/20230721/1910611.md">习近平完整谈话！接见基辛格；秦刚情况类似王立军？网友宁可相信秦刚“变狼人”，也不信“得重病”；秦刚失踪的另一种情形，因“政治调查”消失有多大可能？王毅谈秦刚，谢锋反应挨批 ｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/cbnews/20230721/1910593.md">上海大雨太夸张 气象专家详解</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230722/1910875.md" target="_blank">夏林：《红色赌盘》作者在美国国会山作证 讲述震撼故事</a></li>
+<li><a href="/comments/20230722/1910874.md" target="_blank">王赫：美中“关键矿产”之战</a></li>
+<li><a href="/comments/20230722/1910873.md" target="_blank">钟原：中共称促民企发展 反泄诸多乱象</a></li>
 <li><a href="/comments/20230722/1910838.md" target="_blank">胡锡进司马南沉默 “爱国”这两个字 他们根本不配</a></li>
 <li><a href="/comments/20230721/1910782.md" target="_blank">全球受热浪侵袭 NASA科学家示警：明年恐更热</a></li>
 <li><a href="/comments/20230721/1910781.md" target="_blank">猪队友！普京炸了乌克兰运往中国的6万吨粮食</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230720/1910370.md" target="_blank">【杜耀明评论】广播规管双重标准 「宁左勿右」弄巧反拙</a></li>
 <li><a href="/comments/20230720/1910344.md" target="_blank">文昭：秦刚的长时间消失，出么大的尴尬，归根到底还是得怪他</a></li>
 <li><a href="/comments/20230720/1910343.md" target="_blank">文昭：秦刚持续消失、问题不小，谁给他下的套？</a></li>
-<li><a href="/comments/20230720/1910324.md" target="_blank">川普夸习近平“铁腕统治14亿人” 称好莱坞少他这种人</a></li>
-<li><a href="/comments/20230720/1910305.md" target="_blank">【未普评论】用社会协商对话解决社会冲突，89民运是一场失败的伟大实验（上）</a></li>
-<li><a href="/comments/20230720/1910302.md" target="_blank">中国问题专家：中国与中东欧“16+1”合作机制奄奄一息</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
 <li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
 
 </ul>
 </div>
