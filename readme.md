@@ -13,21 +13,21 @@
 <li><a href="/topimagenews/20230721/1910566.md">【微博精粹】失业率量变到造反质变 一步之遥</a></li>
 <li><a href="/cbnews/20230721/1910656.md">这首歌又把中共吓坏！怕人民发声都魔怔了【阿波罗网报道】</a></li>
 <li><a href="/headline/20230721/1910684.md">胡平：秦刚凶多吉少 习近平要保早保了</a></li>
-<li><a href="/ssgc/20230721/1910523.md">〖微博谈〗哪有个人情义可言？</a></li>
 <li><a href="/baitai/20230721/1910717.md">微博突现反共潮 习自曝统治危机</a></li>
 <li><a href="/topimagenews/20230721/1910632.md">令人震惊！看看基辛格当年干过什么！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230721/1910550.md">决策层惊慌失措！中共长记性了吗？</a></li>
 <li><a href="/comments/20230721/1910578.md">两面人秦刚暴露！特务头子遭艳谍下属反噬，傅晓田揭战狼外交部长国安线作战秘密，习近平怒了</a></li>
+<li><a href="/topimagenews/20230721/1910550.md">决策层惊慌失措！中共长记性了吗？</a></li>
 <li><a href="/sohnews/20230721/1910694.md">很多朋友都是从此绝交的，故事很短，却说穿了人性｜神传文化｜知识分享｜人生智慧语录 【晨曦晓屋】</a></li>
 <li><a href="/topimagenews/20230721/1910591.md">习近平撞南墙要回头？中共31道“金牌”有用吗 【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230721/1910685.md">航母烧钱如烧纸 专家：中国疲弱经济养不起4航母</a></li>
 <li><a href="/yule/20230722/1910846.md">迪丽热巴生图曝光 胯臀太惊人 被质疑垫假屁股</a></li>
+<li><a href="/topimagenews/20230721/1910685.md">航母烧钱如烧纸 专家：中国疲弱经济养不起4航母</a></li>
 <li><a href="/topimagenews/20230721/1910744.md">清廉错了吗？中共党校副校长推“清廉餐” 被停职了</a></li>
-<li><a href="/cbnews/20230721/1910593.md">上海大雨太夸张 气象专家详解</a></li>
-<li><a href="/yule/20230721/1910622.md">央视主持朱迅近照曝光 被指整容失败像宋小宝</a></li>
-<li><a href="/ccpdope/20230722/1910811.md">习三连任遇政权危机？ 党媒爆官员“卷起袖子看”</a></li>
-<li><a href="/sohnews/20230721/1910572.md">彭真是她爷爷？傅晓田的背后力量；老辣主持套谢锋，秦刚果是这问题；换6心基辛格访华说情？习近平等一事；实名曝活摘全程【新闻看点 李沐阳7.20】</a></li>
 <li><a href="/sohnews/20230721/1910611.md">习近平完整谈话！接见基辛格；秦刚情况类似王立军？网友宁可相信秦刚“变狼人”，也不信“得重病”；秦刚失踪的另一种情形，因“政治调查”消失有多大可能？王毅谈秦刚，谢锋反应挨批 ｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cbnews/20230721/1910593.md">上海大雨太夸张 气象专家详解</a></li>
+<li><a href="/ccpdope/20230722/1910811.md">习三连任遇政权危机？ 党媒爆官员“卷起袖子看”</a></li>
+<li><a href="/yule/20230721/1910622.md">央视主持朱迅近照曝光 被指整容失败像宋小宝</a></li>
+<li><a href="/sohnews/20230721/1910572.md">彭真是她爷爷？傅晓田的背后力量；老辣主持套谢锋，秦刚果是这问题；换6心基辛格访华说情？习近平等一事；实名曝活摘全程【新闻看点 李沐阳7.20】</a></li>
+<li><a href="/topimagenews/20230721/1910743.md">盯上中国老百姓存款 商务部出招忽悠习近平；赶紧割肉卖房吧</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230722/1910952.md" target="_blank">处理秦刚方寸大乱，中共外交逼入穷巷</a></li>
+<li><a href="/comments/20230722/1910951.md" target="_blank">没有信仰的中国人，把历史当成了宗教</a></li>
+<li><a href="/comments/20230722/1910945.md" target="_blank">天亮时分：秦刚失踪近一月，再不现身恐丢官；基辛格奢华百岁宴，习近平要抓住拜登的胃？李强憋出的大招，还是大基建（政论天下第1063集 20230721）</a></li>
 <li><a href="/comments/20230722/1910943.md" target="_blank">白宫宣布七大公司将AI自律 真的假的？【方伟时间-20230721】</a></li>
 <li><a href="/comments/20230722/1910937.md" target="_blank">海涛:有些事很热闹，但不值得关注</a></li>
 <li><a href="/comments/20230722/1910936.md" target="_blank">李濠仲:布林肯不说 谁知道台湾已有10次副总统过境美国</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230721/1910725.md" target="_blank">力阻中国侵台 美智库学者：美日澳考虑组“护台联盟”</a></li>
 <li><a href="/comments/20230721/1910722.md" target="_blank">更多爆料！美军养外星人之地 就潜藏在51区旁！这12位顶级Q专家 早已掌握穿越、预知能力？！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230721/1910599.md" target="_blank">平等不是均贫富，而是每个人的尊严都被尊重</a></li>
-<li><a href="/comments/20230721/1910598.md" target="_blank">要求处理司马南的声音越来越多…</a></li>
-<li><a href="/comments/20230721/1910578.md" target="_blank">两面人秦刚暴露！特务头子遭艳谍下属反噬，傅晓田揭战狼外交部长国安线作战秘密，习近平怒了</a></li>
-<li><a href="/comments/20230721/1910573.md" target="_blank">递材料给彭丽媛 大腕耗资数百万 5人处极刑</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
 <li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
 
 </ul>
 </div>
