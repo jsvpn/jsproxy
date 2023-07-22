@@ -12,20 +12,20 @@
 <li><a href="/ccpdope/20230722/1910811.md">习三连任遇政权危机？ 党媒爆官员“卷起袖子看”</a></li>
 <li><a href="/comments/20230722/1910952.md">处理秦刚方寸大乱，中共外交逼入穷巷</a></li>
 <li><a href="/ccpdope/20230722/1910972.md">习欲保秦刚 傅晓田美梦成空</a></li>
-<li><a href="/comments/20230722/1910902.md">文昭：温家宝预言成真，习近平打倒昨天的自己！青年实际失业率46.5%，反推发现重大真相</a></li>
 <li><a href="/topimagenews/20230721/1910744.md">清廉错了吗？中共党校副校长推“清廉餐” 被停职了</a></li>
+<li><a href="/comments/20230722/1910902.md">文昭：温家宝预言成真，习近平打倒昨天的自己！青年实际失业率46.5%，反推发现重大真相</a></li>
 <li><a href="/topimagenews/20230721/1910743.md">盯上中国老百姓存款 商务部出招忽悠习近平；赶紧割肉卖房吧</a></li>
-<li><a href="/topimagenews/20230722/1910903.md">北大数学系四大才子，赴美留学全都一去不归</a></li>
 <li><a href="/topimagenews/20230722/1911064.md">郑州720地铁内视频热传！网友："他们以为的救世主，才是他们的刽子手”【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230722/1911001.md">〖兲朝浮世绘〗这次请基辛格来中国遛达不知花了多少钱？</a></li>
+<li><a href="/topimagenews/20230722/1910903.md">北大数学系四大才子，赴美留学全都一去不归</a></li>
 <li><a href="/topimagenews/20230722/1911073.md">内部人曝秦刚傅晓田5年前就搞一起 中共高层圈内人都知道【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230722/1911045.md">秦刚妻给“彭丽媛”送饼！消失太久，生死不明；太多人妒嫉秦刚“火箭式”升职，王毅是头号敌手；傅晓田早年访谈信息量大！傍上李小琳情人黎亮，她真是彭真之后吗；马朝旭是秦刚接任者？｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cbnews/20230722/1911001.md">〖兲朝浮世绘〗这次请基辛格来中国遛达不知花了多少钱？</a></li>
 <li><a href="/worldnews/20230722/1910858.md">华人一家五口竟睡在10平屋子里 意警方震惊</a></li>
 <li><a href="/yule/20230722/1910845.md">健身网红被210Kg杠铃压断颈 诡异角度前推身亡</a></li>
 <li><a href="/topimagenews/20230722/1911007.md">别想了！外资回流中国没指望…</a></li>
 <li><a href="/ssgc/20230722/1910847.md">变态辣椒：中国矿工狂潮</a></li>
-<li><a href="/topimagenews/20230722/1911005.md">中共疯狂造假！中国经济萧条 已肉眼可见了【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230722/1910946.md">秦刚上位秘辛，傅晓田案涉正国级？故地重游国宴款待，基辛格享祖宗待遇；双管齐下释信号，北京愿望将落空；共谍盗数十万个资，驻华大使遭骇【新闻看点 李沐阳7.21】</a></li>
+<li><a href="/topimagenews/20230722/1911005.md">中共疯狂造假！中国经济萧条 已肉眼可见了【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230722/1910954.md">中国放大招了！今夜，22个城市被点名</a></li>
 <li><a href="/headline/20230721/1910772.md">秦刚或被取代？马朝旭名字甚嚣尘上</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230722/1911136.md" target="_blank">【秦鹏观察】中南海连发11到文件力挺民企 网民呼吁把他抓起来</a></li>
 <li><a href="/comments/20230722/1911122.md" target="_blank">习近平极尽奢华接待基辛格 豪华宴曝光挨批腐败</a></li>
 <li><a href="/comments/20230722/1911121.md" target="_blank">全球最年轻富豪警告美国：AI是中国阿波罗计划</a></li>
 <li><a href="/comments/20230722/1911114.md" target="_blank">袁红冰：《回归荒凉》（五）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230722/1910902.md" target="_blank">文昭：温家宝预言成真，习近平打倒昨天的自己！青年实际失业率46.5%，反推发现重大真相</a></li>
 <li><a href="/comments/20230722/1910892.md" target="_blank">网海拾贝:中国经济复苏正从糟糕局面走向更糟糕</a></li>
 <li><a href="/comments/20230722/1910891.md" target="_blank">英慧：“新中国”，想说爱你不容易</a></li>
-<li><a href="/comments/20230722/1910875.md" target="_blank">夏林：《红色赌盘》作者在美国国会山作证 讲述震撼故事</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
 <li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
 
 </ul>
 </div>
