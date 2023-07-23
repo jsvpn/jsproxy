@@ -8,7 +8,6 @@
 <li><a href="/ccpdope/20230722/1911166.md">秦刚事件又抖出新料 这手法只有习才做得到</a></li>
 <li><a href="/baitai/20230723/1911229.md">中共七常委罕见场合亮相 分析指内部已出大问题</a></li>
 <li><a href="/cbnews/20230723/1911195.md">传秦刚夫人妙手送夫进习圈子 王毅获利最多？</a></li>
-<li><a href="/sohnews/20230722/1911129.md">紧急警告 中共现危机! 内忧外患 习思想瓦解 中国将…。火箭军泄密叛国 秦刚人间蒸发 中南海厚黑学!历史再给中国一次机会 选择马列 还是民主?@democraticTaiwanChannel</a></li>
 <li><a href="/comments/20230722/1911155.md">文昭：温家宝是不是影帝不知道，却一定是预言帝，11年前的预言成真</a></li>
 <li><a href="/cnnews/20230723/1911345.md">秦刚遭遇了什么？惊传外交部瘫痪 每个人都冻结【阿波罗网报道】</a></li>
 <li><a href="/yule/20230723/1911231.md">红二代秦奋与疑似谷爱凌现身奥地利 戴情侣款护具</a></li>
@@ -25,9 +24,10 @@
 <li><a href="/comments/20230723/1911356.md">细思极恐！中共领导们集体“裸奔”</a></li>
 <li><a href="/ssgc/20230723/1911244.md">〖微博谈〗治大国如过家家</a></li>
 <li><a href="/cnnews/20230723/1911214.md">他因甲骨文答卷让川大破格录取 现状却令人唏嘘</a></li>
-<li><a href="/comments/20230723/1911221.md">李燕铭：秦刚被传正被内部调查 王毅谢峰马朝旭联手倒秦？美官员曝秦刚出事之谜一细节涉彭丽媛 秦刚很可能成为中共最高领导集团内讧牺牲品 外交圈流传马朝旭或接任中共外交部长 秦刚异常隐身深度内幕（3） 北戴河会议大战内幕（55） 中南海政变与反政变（84）</a></li>
 <li><a href="/topimagenews/20230723/1911368.md">中情局长首度承认 美在中国情报网被破坏</a></li>
+<li><a href="/comments/20230723/1911221.md">李燕铭：秦刚被传正被内部调查 王毅谢峰马朝旭联手倒秦？美官员曝秦刚出事之谜一细节涉彭丽媛 秦刚很可能成为中共最高领导集团内讧牺牲品 外交圈流传马朝旭或接任中共外交部长 秦刚异常隐身深度内幕（3） 北戴河会议大战内幕（55） 中南海政变与反政变（84）</a></li>
 <li><a href="/comments/20230723/1911288.md">李燕铭：秦刚傅晓田绯闻牵出李鹏家族 傅晓田香港艳事曝光 《红色赌盘》作者沈栋曝秦刚身边经常美女环绕 秦刚傅晓田诡异时间线曝光 内部人曝秦刚傅晓田五年前就搞一起 傅晓田亲密合影男人间蒸发 凤凰台内部大乱 秦刚异常隐身深度内幕（4） 北戴河会议大战内幕（56） 中南海政变与反政变（85）</a></li>
+<li><a href="/cnnews/20230723/1911207.md">中国IKEA恶搞摆设太过头 网：担心员工精神状态</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230723/1911450.md" target="_blank">【静谈养生】芹菜这样吃 一个月就瘦了15斤</a></li>
 <li><a href="/comments/20230723/1911446.md" target="_blank">美国养外星人 基地！</a></li>
 <li><a href="/comments/20230723/1911444.md" target="_blank">罕见：两颗兄弟行星围绕同一颗恒星运行在同一轨道上</a></li>
 <li><a href="/comments/20230723/1911423.md" target="_blank">直播法轮功游行 干净世界遭中共黑客攻击</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230723/1911280.md" target="_blank">李濠仲:台美人向皮耶中心争取正名 当初做对了</a></li>
 <li><a href="/comments/20230723/1911279.md" target="_blank">名家专栏:办公楼空了 商业地产麻烦多多</a></li>
 <li><a href="/comments/20230723/1911256.md" target="_blank">网海拾贝:基辛格是来给中美关系钉棺材板的</a></li>
-<li><a href="/comments/20230723/1911255.md" target="_blank">还原真相：“基因编辑流氓”贺建奎重出江湖</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
 <li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
 
 </ul>
 </div>
