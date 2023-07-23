@@ -16,15 +16,15 @@
 <li><a href="/sohnews/20230723/1911227.md">邻居起底傅晓田，一次私密高端交际；傅晓田威胁告状，秦刚曾写承诺书；秦刚的为人，外交部的秘密【新闻看点 李沐阳7.22】</a></li>
 <li><a href="/topimagenews/20230723/1911202.md">神探李昌钰涉伪造谋杀案证据 面临天价赔偿金</a></li>
 <li><a href="/topimagenews/20230723/1911308.md">【微博精粹】P民可以但不限于吃草 变种猪饲料也准备好了</a></li>
+<li><a href="/sohnews/20230723/1911429.md">🔥中共高层酝酿更大内部清洗党内 反习势力“带头大哥”要惨</a></li>
 <li><a href="/lifebaike/20230723/1911400.md">定寿命长短的行为，运动第三，睡觉第二，第一很多人做不到</a></li>
 <li><a href="/headline/20230723/1911178.md">南华早报刊文问秦刚在哪里？称大多数分析认为秦刚离开的可能性越来越大</a></li>
 <li><a href="/comments/20230723/1911356.md">细思极恐！中共领导们集体“裸奔”</a></li>
-<li><a href="/sohnews/20230723/1911429.md">🔥中共高层酝酿更大内部清洗党内 反习势力“带头大哥”要惨</a></li>
 <li><a href="/topimagenews/20230723/1911368.md">中情局长首度承认 美在中国情报网被破坏</a></li>
-<li><a href="/ssgc/20230723/1911244.md">〖微博谈〗治大国如过家家</a></li>
 <li><a href="/cnnews/20230723/1911403.md">一盆凉水兜头浇下！中共央视刚一煽情 又挨众喷！【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230723/1911214.md">他因甲骨文答卷让川大破格录取 现状却令人唏嘘</a></li>
+<li><a href="/ssgc/20230723/1911244.md">〖微博谈〗治大国如过家家</a></li>
 <li><a href="/topimagenews/20230723/1911402.md">普京几分钟忘记谈话内容 遭质疑罹患老人痴呆</a></li>
+<li><a href="/cnnews/20230723/1911214.md">他因甲骨文答卷让川大破格录取 现状却令人唏嘘</a></li>
 <li><a href="/comments/20230723/1911221.md">李燕铭：秦刚被传正被内部调查 王毅谢峰马朝旭联手倒秦？美官员曝秦刚出事之谜一细节涉彭丽媛 秦刚很可能成为中共最高领导集团内讧牺牲品 外交圈流传马朝旭或接任中共外交部长 秦刚异常隐身深度内幕（3） 北戴河会议大战内幕（55） 中南海政变与反政变（84）</a></li>
 <li><a href="/comments/20230723/1911288.md">李燕铭：秦刚傅晓田绯闻牵出李鹏家族 傅晓田香港艳事曝光 《红色赌盘》作者沈栋曝秦刚身边经常美女环绕 秦刚傅晓田诡异时间线曝光 内部人曝秦刚傅晓田五年前就搞一起 傅晓田亲密合影男人间蒸发 凤凰台内部大乱 秦刚异常隐身深度内幕（4） 北戴河会议大战内幕（56） 中南海政变与反政变（85）</a></li>
 <li><a href="/funmedia/20230723/1911385.md">“约朋友去爬华山，没想到终结了一段友谊”：嫉妒使人面目全非 </a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 <li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
 
 </ul>
 </div>
