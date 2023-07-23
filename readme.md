@@ -15,19 +15,19 @@
 <li><a href="/ccpdope/20230722/1911166.md">秦刚事件又抖出新料 这手法只有习才做得到</a></li>
 <li><a href="/baitai/20230722/1911056.md">基辛格访中之际 美官员曝秦刚出事之谜 一细节涉彭丽媛</a></li>
 <li><a href="/topimagenews/20230722/1911126.md">中国最富小城，已经卷疯了；中国全民进入地雷阵 温家宝预言成真；习近平撞南墙要回头？</a></li>
-<li><a href="/sohnews/20230722/1911129.md">紧急警告 中共现危机! 内忧外患 习思想瓦解 中国将…。火箭军泄密叛国 秦刚人间蒸发 中南海厚黑学!历史再给中国一次机会 选择马列 还是民主?@democraticTaiwanChannel</a></li>
 <li><a href="/cbnews/20230723/1911195.md">传秦刚夫人妙手送夫进习圈子 王毅获利最多？</a></li>
+<li><a href="/sohnews/20230722/1911129.md">紧急警告 中共现危机! 内忧外患 习思想瓦解 中国将…。火箭军泄密叛国 秦刚人间蒸发 中南海厚黑学!历史再给中国一次机会 选择马列 还是民主?@democraticTaiwanChannel</a></li>
 <li><a href="/comments/20230722/1911155.md">文昭：温家宝是不是影帝不知道，却一定是预言帝，11年前的预言成真</a></li>
 <li><a href="/comments/20230722/1911137.md">【国际风云】秦刚上位与第一夫人有关？西安数千家长上访高唱《国际歌》</a></li>
 <li><a href="/sohnews/20230722/1911109.md">陈破空：惊爆：又有人失踪！秦夫人给彭丽媛送月饼。她和他早就好上了。美国高官微妙谈秦刚：不提一件事，就证明了那件事</a></li>
 <li><a href="/cbnews/20230722/1911033.md">江峰：基辛格三会中共国防部长，美国判断习近平这次动真格；许家印不装了，总负债终於面世市场炸懵圈；11条政令看绝望大陆，今天你“润”了麽？介绍一条可靠的路子【江峰漫谈20230721第699期】</a></li>
-<li><a href="/topimagenews/20230722/1911007.md">别想了！外资回流中国没指望…</a></li>
 <li><a href="/cbnews/20230722/1911052.md">秦刚“消失”不足为奇 这些中国名流也曾“失踪”</a></li>
+<li><a href="/topimagenews/20230722/1911007.md">别想了！外资回流中国没指望…</a></li>
 <li><a href="/topimagenews/20230722/1911005.md">中共疯狂造假！中国经济萧条 已肉眼可见了【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230722/1911158.md">印钞机开到报废，钱却没看见！习再出昏招……</a></li>
 <li><a href="/cnnews/20230722/1911028.md">400家银行将倒闭 亿万富翁投资者发出骇人警告</a></li>
-<li><a href="/finance/20230722/1911057.md">事关人民币，刚刚透露三个关键信息…</a></li>
 <li><a href="/baitai/20230723/1911229.md">中共七常委罕见场合亮相 分析指内部已出大问题</a></li>
+<li><a href="/finance/20230722/1911057.md">事关人民币，刚刚透露三个关键信息…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
 <li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
 <li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
 
 </ul>
 </div>
