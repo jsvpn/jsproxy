@@ -12,10 +12,10 @@
 <li><a href="/cbnews/20230723/1911195.md">传秦刚夫人妙手送夫进习圈子 王毅获利最多？</a></li>
 <li><a href="/sohnews/20230722/1911129.md">紧急警告 中共现危机! 内忧外患 习思想瓦解 中国将…。火箭军泄密叛国 秦刚人间蒸发 中南海厚黑学!历史再给中国一次机会 选择马列 还是民主?@democraticTaiwanChannel</a></li>
 <li><a href="/comments/20230722/1911155.md">文昭：温家宝是不是影帝不知道，却一定是预言帝，11年前的预言成真</a></li>
+<li><a href="/cnnews/20230723/1911345.md">秦刚遭遇了什么？惊传外交部瘫痪 每个人都冻结【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230723/1911218.md">陆数千人包围信访局！背后大老板是谁？这条利益链很粗【阿波罗网报道】</a></li>
 <li><a href="/yule/20230723/1911231.md">红二代秦奋与疑似谷爱凌现身奥地利 戴情侣款护具</a></li>
 <li><a href="/comments/20230722/1911137.md">【国际风云】秦刚上位与第一夫人有关？西安数千家长上访高唱《国际歌》</a></li>
-<li><a href="/cnnews/20230723/1911345.md">秦刚遭遇了什么？惊传外交部瘫痪 每个人都冻结【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230723/1911304.md">西安爆发抗议示威，中央军委开会出大事，傅晓田是前元老彭真孙女。《老灯开讲第342期》</a></li>
 <li><a href="/cbnews/20230723/1911203.md">中国女大生名字太可爱 秀身份证证明是真名</a></li>
 <li><a href="/topimagenews/20230723/1911202.md">神探李昌钰涉伪造谋杀案证据 面临天价赔偿金</a></li>
@@ -26,8 +26,8 @@
 <li><a href="/ssgc/20230723/1911244.md">〖微博谈〗治大国如过家家</a></li>
 <li><a href="/cnnews/20230723/1911214.md">他因甲骨文答卷让川大破格录取 现状却令人唏嘘</a></li>
 <li><a href="/comments/20230723/1911221.md">李燕铭：秦刚被传正被内部调查 王毅谢峰马朝旭联手倒秦？美官员曝秦刚出事之谜一细节涉彭丽媛 秦刚很可能成为中共最高领导集团内讧牺牲品 外交圈流传马朝旭或接任中共外交部长 秦刚异常隐身深度内幕（3） 北戴河会议大战内幕（55） 中南海政变与反政变（84）</a></li>
+<li><a href="/baitai/20230723/1911390.md">西安当局怕了！大雁塔紧急关闭 大唐不夜城取消演出</a></li>
 <li><a href="/comments/20230723/1911288.md">李燕铭：秦刚傅晓田绯闻牵出李鹏家族 傅晓田香港艳事曝光 《红色赌盘》作者沈栋曝秦刚身边经常美女环绕 秦刚傅晓田诡异时间线曝光 内部人曝秦刚傅晓田五年前就搞一起 傅晓田亲密合影男人间蒸发 凤凰台内部大乱 秦刚异常隐身深度内幕（4） 北戴河会议大战内幕（56） 中南海政变与反政变（85）</a></li>
-<li><a href="/comments/20230722/1911122.md">习近平极尽奢华接待基辛格 豪华宴曝光挨批腐败</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
 <li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 
 </ul>
 </div>
