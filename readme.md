@@ -10,24 +10,24 @@
 <li><a href="/cnnews/20230724/1911522.md">福建最大的雷，炸了！老板卷1000多亿跑路…</a></li>
 <li><a href="/sohnews/20230723/1911472.md">🔥习近平没有一手遮天，反遭打左右手，各种剧烈反抗齐上；颠覆现行政策，习恐要考虑这个选项；泽连斯基终于得到，F-16战机预计年底抵乌</a></li>
 <li><a href="/topimagenews/20230724/1911602.md">李强国常会下猛药！这吃相太难看了【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230724/1911493.md">事态升级：乌军集束弹药攻击俄本土</a></li>
 <li><a href="/cnnews/20230724/1911517.md">后果很严重！中共被隔绝在新世界贸易体外 WTO事实上被架空</a></li>
+<li><a href="/topimagenews/20230724/1911493.md">事态升级：乌军集束弹药攻击俄本土</a></li>
 <li><a href="/topimagenews/20230724/1911574.md">惊呆！学长揭密秦刚身世：管生不管养是禽兽特性 共产党人不遑多让</a></li>
 <li><a href="/topimagenews/20230724/1911495.md">公交停运背后的中国特色：每个司机要养三个闲人</a></li>
 <li><a href="/ccpdope/20230723/1911477.md">外交圈涉性丑闻不止秦刚 习怕中央崩角</a></li>
 <li><a href="/cnnews/20230724/1911499.md">惊天大阴谋？华人神探李昌钰翻车始末</a></li>
 <li><a href="/comments/20230724/1911510.md">李燕铭：秦刚异常隐身疑涉火箭军窝案 中情局局长与蔡奇会面后火箭军窝案爆发 傅晓田疑是江派曾庆红重点培养的色情间谍 火箭军秦刚傅晓田串在一起细思极恐 习近平震怒 军委紧急下令严管将领社交圈 秦刚异常隐身深度内幕（5） 北戴河会议大战内幕（57） 中南海政变与反政变（86） 习近平连任与中共末日（135） 习强化军权内防政变对外备战（39）</a></li>
+<li><a href="/ccpdope/20230724/1911667.md">李毅突发挑衅，直指习氏王朝</a></li>
 <li><a href="/ccpdope/20230724/1911658.md">袁弓夷：彭丽媛欲保秦刚 习近平想冷处理</a></li>
 <li><a href="/topimagenews/20230724/1911592.md">【微博精粹】普京最新伴侣</a></li>
-<li><a href="/ccpdope/20230724/1911667.md">李毅突发挑衅，直指习氏王朝</a></li>
 <li><a href="/comments/20230724/1911626.md">天亮时分：网传汪文斌取代秦刚，真的假的？习近平成都迎接白纸革命2.0（政论天下第1064集 20230723）</a></li>
 <li><a href="/ssgc/20230724/1911519.md">〖微博谈〗不除党治世不宁</a></li>
 <li><a href="/yule/20230724/1911506.md">恐怖中国金主差点杀了她 韩女星曝引退原因</a></li>
 <li><a href="/sohnews/20230724/1911565.md">文睿：上海，真不行了，一连串消息，太吓人了</a></li>
-<li><a href="/topimagenews/20230724/1911494.md">俄罗斯的“胡锡进”，被集束炸弹炸成了渣</a></li>
 <li><a href="/cnnews/20230724/1911635.md">更糟糕的在后头 六大国有银行奉旨 中国人存款变这样了【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230724/1911494.md">俄罗斯的“胡锡进”，被集束炸弹炸成了渣</a></li>
 <li><a href="/cnnews/20230724/1911535.md">官方统计揭中国新冠真实死亡人数，数据随后被删</a></li>
-<li><a href="/comments/20230724/1911640.md">彭丽媛围观审秦刚，习近平悔没早发现 #傅晓田？帅哥宋欣王若麟被党指为秦二世接盘侠！咋整？</a></li>
+<li><a href="/topimagenews/20230724/1911674.md">太惨了！齐齐哈尔34中体育馆楼顶坍塌 网友发现官媒细节【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230724/1911750.md" target="_blank">【文韬政论】谁的公平正义可以救台湾？</a></li>
 <li><a href="/comments/20230724/1911744.md" target="_blank">他18岁师从2位高隐大师，中国武术比赛夺冠！公开“点穴”祕诀、太极最高境界！仅靠一只手看病 准确率100%！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230724/1911729.md" target="_blank">卡尔森采访被软禁的网络名人安德鲁·泰特。第三部分，两个大男人，用最浅显的语言，嬉笑间说著最深刻的道理。防止被编程、被控制、被奴役。</a></li>
 <li><a href="/comments/20230724/1911656.md" target="_blank">深度：乌克兰战争真的像第一次世界大战吗？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230723/1911463.md" target="_blank">文昭：反攻受挫，俄乌重回消耗战模式，对中共是福是祸？</a></li>
 <li><a href="/comments/20230723/1911453.md" target="_blank">留澳小粉红高喊“支持种族灭绝维吾尔人” 网呼：驱逐出境</a></li>
 <li><a href="/comments/20230723/1911452.md" target="_blank">推特小鸟将成回忆 马斯克：明天上线新Logo</a></li>
-<li><a href="/comments/20230723/1911451.md" target="_blank">【新闻拍案惊奇】“西安抗议”全国关注！秦刚傅晓田5年前就开始交往</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
 <li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
 
 </ul>
 </div>
