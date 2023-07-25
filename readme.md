@@ -14,7 +14,6 @@
 <li><a href="/topimagenews/20230724/1911674.md">太惨了！齐齐哈尔34中体育馆楼顶坍塌 网友发现官媒细节【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230724/1911767.md">秦刚人间蒸发1个月！矢板明夫揭“倒台真正原因”</a></li>
 <li><a href="/ssgc/20230724/1911735.md">习近平所说的“惊涛骇浪”要来了？</a></li>
-<li><a href="/topimagenews/20230724/1911592.md">【微博精粹】普京最新伴侣</a></li>
 <li><a href="/cnnews/20230724/1911683.md">上海人感到心酸</a></li>
 <li><a href="/baitai/20230724/1911763.md">中南海安全仍有隐忧？习近平贴身保镖王少军死亡 官宣延迟3个月</a></li>
 <li><a href="/comments/20230724/1911626.md">天亮时分：网传汪文斌取代秦刚，真的假的？习近平成都迎接白纸革命2.0（政论天下第1064集 20230723）</a></li>
@@ -23,9 +22,10 @@
 <li><a href="/ccpdope/20230725/1911869.md">中国热传网文“上海搞成这样很难过” 引共鸣</a></li>
 <li><a href="/cbnews/20230725/1911855.md">前中央警卫局长王少军死亡 被延后近三月公布</a></li>
 <li><a href="/cnnews/20230724/1911635.md">更糟糕的在后头 六大国有银行奉旨 中国人存款变这样了【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20230725/1911914.md">人大抢开任免会2大异常，秦刚终局到来？！网传秦刚叛国罪，傅晓田案涉孟建柱，可信吗？前编导曝央视扭曲内幕</a></li>
 <li><a href="/topimagenews/20230725/1911852.md">中国“消费降级”时代来临 民众叹：复苏都在新闻里</a></li>
 <li><a href="/cnnews/20230724/1911644.md">病重的毛泽东独享 有专人负责拍摄内片观看</a></li>
-<li><a href="/sohnews/20230725/1911914.md">人大抢开任免会2大异常，秦刚终局到来？！网传秦刚叛国罪，傅晓田案涉孟建柱，可信吗？前编导曝央视扭曲内幕</a></li>
+<li><a href="/headline/20230725/1911871.md">习近平不再强调高科技、一带一路 提出「稳住外资外贸基本盘」</a></li>
 <li><a href="/baitai/20230724/1911712.md">刀郎正在以象征主义的方式……</a></li>
 <li><a href="/cbnews/20230724/1911664.md">湖北男打工回家发现妻儿“全变邻居的”！得知真相后超傻眼</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230725/1911997.md" target="_blank">大陆“芯片自主”梦难成真？日媒揭致命伤：高估这2件事</a></li>
+<li><a href="/topimagenews/20230725/1911996.md" target="_blank">【微博精粹】愿齐齐哈尔11个女孩子天堂托梦 抚慰伤心的父母</a></li>
 <li><a href="/topimagenews/20230725/1911972.md" target="_blank">华日独家：美中谈判内幕仍“卡卡”</a></li>
 <li><a href="/topimagenews/20230725/1911971.md" target="_blank">熟人“大爆”秦刚人品 秦刚失踪真因解密</a></li>
 <li><a href="/topimagenews/20230725/1911947.md" target="_blank">吓人！中国7月房市交易数据不寻常</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20230724/1911486.md" target="_blank">齐齐哈尔中学一体育馆发生坍塌 十余人被困 生死不明【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230723/1911402.md" target="_blank">普京几分钟忘记谈话内容 遭质疑罹患老人痴呆</a></li>
 <li><a href="/topimagenews/20230723/1911368.md" target="_blank">中情局长首度承认 美在中国情报网被破坏</a></li>
-<li><a href="/topimagenews/20230723/1911363.md" target="_blank">川普上台：对两岸都加数税 不承诺保台 立即终止俄乌战争等一长串</a></li>
-<li><a href="/topimagenews/20230723/1911330.md" target="_blank">中共扮演不光彩角色！俄开始试图干这事</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
 <li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
 
 </ul>
 </div>
