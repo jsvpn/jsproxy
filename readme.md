@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230724/1911767.md">秦刚人间蒸发1个月！矢板明夫揭“倒台真正原因”</a></li>
 <li><a href="/sohnews/20230725/1911914.md">人大抢开任免会2大异常，秦刚终局到来？！网传秦刚叛国罪，傅晓田案涉孟建柱，可信吗？前编导曝央视扭曲内幕</a></li>
 <li><a href="/topimagenews/20230725/1911971.md">熟人“大爆”秦刚人品 秦刚失踪真因解密</a></li>
 <li><a href="/cbnews/20230725/1911855.md">前中央警卫局长王少军死亡 被延后近三月公布</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/headline/20230725/1911871.md">习近平不再强调高科技、一带一路 提出「稳住外资外贸基本盘」</a></li>
 <li><a href="/topimagenews/20230725/1912088.md">这两段已说明问题！中共政治局会议解读</a></li>
 <li><a href="/topimagenews/20230725/1911852.md">中国“消费降级”时代来临 民众叹：复苏都在新闻里</a></li>
+<li><a href="/baitai/20230725/1912167.md">秦刚免职 王毅回炉 中共乏人可用？</a></li>
 <li><a href="/topimagenews/20230725/1912057.md">有种你就打看看！吁派战舰护乌克兰运粮船 美：俄若敢开火 就是向北约宣战</a></li>
 <li><a href="/headline/20230725/1911923.md">诡秘 秦刚消失1月无音信 原中央警卫局长死后3月才公布</a></li>
 <li><a href="/cnnews/20230725/1911893.md">痛骂那英汪峰等明星 刀郎新歌《罗刹海市》爆红</a></li>
 <li><a href="/cbnews/20230725/1912042.md">美在中国间谍网遭重创 CIA干员被当众处决</a></li>
 <li><a href="/ssgc/20230725/1911925.md">〖微博谈〗每一次灾祸都是重复</a></li>
 <li><a href="/comments/20230725/1911929.md">文昭：秦刚下落将揭晓；是叛国、还是间谍？《消失的刚》全剧高潮，习近平的人生低潮</a></li>
-<li><a href="/headline/20230725/1911915.md">经济形势严峻 习近平无计可施？</a></li>
+<li><a href="/baitai/20230725/1912078.md">美媒：中共向俄秘送军队装备照片流出</a></li>
 <li><a href="/comments/20230725/1911985.md">天亮时分：人大紧急开会，秦刚明天免职？白俄外交官透露秦刚秘闻；中共秘密武装一支俄罗斯军队（政论天下第1065集 20230724）天亮时分</a></li>
+<li><a href="/headline/20230725/1911915.md">经济形势严峻 习近平无计可施？</a></li>
 <li><a href="/bblog/20230725/1911933.md">〖微视野〗要面子 丢面子 找面子</a></li>
-<li><a href="/headline/20230725/1911946.md">“上海搞成这样很难过”网文热传</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230725/1912204.md" target="_blank">中共公布秦刚处理 问题比答案还多</a></li>
+<li><a href="/cbnews/20230725/1912197.md" target="_blank">昔批阿扁“苍蝇碰壁”秦刚三级跳创传奇 仍任国委动向待观察</a></li>
 <li><a href="/comments/20230725/1912172.md" target="_blank">推特正式更名，马斯克为何对X情有独钟？奥巴马大厨溺水马萨葡萄园，引外界质疑。</a></li>
 <li><a href="/cbnews/20230725/1912091.md" target="_blank">宝宝五行缺火！花钱取名名字有“8个火” 老师点名同学笑翻：果然火了</a></li>
 <li><a href="/cbnews/20230725/1912090.md" target="_blank">8岁女童遭2男孩“弹弓射眼”失明！家长未道歉 警方1原因不予立案</a></li>
@@ -58,14 +60,13 @@
 <li><a href="/cbnews/20230724/1911594.md" target="_blank">上海变“海上”了 中国多地暴雨 紫禁城不积水？</a></li>
 <li><a href="/cbnews/20230724/1911593.md" target="_blank">和谐宜居？一个富豪移民、穷人偷渡的国家</a></li>
 <li><a href="/cbnews/20230724/1911553.md" target="_blank">在长沙街头，他杀害了妻子</a></li>
-<li><a href="/comments/20230724/1911533.md" target="_blank">外星人在这！</a></li>
-<li><a href="/cbnews/20230724/1911496.md" target="_blank">共产党人爱企业老总：党和民企又相爱了？</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230725/1912196.md" target="_blank">普丁任性侵犯中共利益 德媒：莫斯科要留意北京耐心有限</a></li>
 <li><a href="/topimagenews/20230725/1912184.md" target="_blank">秦刚被免职 ！网传与美女主播婚外情私生子被约谈</a></li>
 <li><a href="/topimagenews/20230725/1912158.md" target="_blank">更糟糕的在后头 六大国有银行奉旨 中国人存款变这样了；李强国常会下猛药</a></li>
 <li><a href="/topimagenews/20230725/1912126.md" target="_blank">稀土不再是中共杀手锏？外媒揭这国惊人进展：出乎意料</a></li>
@@ -90,13 +91,15 @@
 <li><a href="/topimagenews/20230724/1911679.md" target="_blank">还在梦想“工业立市”? 深圳“腾笼换鸟”换空城 台企撤离逾8千人失业</a></li>
 <li><a href="/topimagenews/20230724/1911674.md" target="_blank">太惨了！齐齐哈尔34中体育馆楼顶坍塌 网友发现官媒细节【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230724/1911602.md" target="_blank">李强国常会下猛药！这吃相太难看了【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230724/1911592.md" target="_blank">【微博精粹】普京最新伴侣</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230725/1912204.md" target="_blank">中共公布秦刚处理 问题比答案还多</a></li>
+<li><a href="/comments/20230725/1912195.md" target="_blank">文昭：秦刚出事，让习近平体制受到严重撼动，或被“挖墙角”</a></li>
+<li><a href="/comments/20230725/1912194.md" target="_blank">【新闻拍案惊奇】秦刚跟彭丽媛关系深？卷入军中夺权？</a></li>
 <li><a href="/comments/20230725/1912172.md" target="_blank">推特正式更名，马斯克为何对X情有独钟？奥巴马大厨溺水马萨葡萄园，引外界质疑。</a></li>
 <li><a href="/comments/20230725/1912162.md" target="_blank">【财经拆局】「托市」后楼市乱象丛生 楼市步入冰河期？</a></li>
 <li><a href="/comments/20230725/1912156.md" target="_blank">天亮时分：突发！秦刚免职，王毅回任外交部长；秦刚留任国务委员，原因未公布；三大异常现象待解（政论天下第1065集 20230724）天亮时分</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230725/1911860.md" target="_blank">中国房市危机昭然若揭：“鬼城”今成探险地</a></li>
 <li><a href="/comments/20230725/1911859.md" target="_blank">香港加籍前骑警为中共收集情报 协助恐吓目标人物</a></li>
 <li><a href="/comments/20230724/1911796.md" target="_blank">袁弓夷儿子女儿和已公开脱离关系的儿媳容海恩被国安带着调查</a></li>
-<li><a href="/comments/20230724/1911766.md" target="_blank">影片流出！齐齐哈尔一中学体育馆坍塌酿11死 公安阻家长认尸</a></li>
-<li><a href="/comments/20230724/1911750.md" target="_blank">【文韬政论】谁的公平正义可以救台湾？</a></li>
-<li><a href="/comments/20230724/1911744.md" target="_blank">他18岁师从2位高隐大师，中国武术比赛夺冠！公开“点穴”祕诀、太极最高境界！仅靠一只手看病 准确率100%！｜ #未解之谜 扶摇</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
 
 </ul>
 </div>
