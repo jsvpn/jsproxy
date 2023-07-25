@@ -10,12 +10,12 @@
 <li><a href="/ccpdope/20230724/1911658.md">袁弓夷：彭丽媛欲保秦刚 习近平想冷处理</a></li>
 <li><a href="/baitai/20230724/1911745.md">北京重要会议现异常 中共军中或出大事</a></li>
 <li><a href="/cbnews/20230724/1911741.md">〖兲朝浮世绘〗刀郎新歌《罗刹海市》惹争议 歌词到底在讽刺谁？</a></li>
-<li><a href="/topimagenews/20230724/1911674.md">太惨了！齐齐哈尔34中体育馆楼顶坍塌 网友发现官媒细节【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230724/1911767.md">秦刚人间蒸发1个月！矢板明夫揭“倒台真正原因”</a></li>
+<li><a href="/topimagenews/20230724/1911674.md">太惨了！齐齐哈尔34中体育馆楼顶坍塌 网友发现官媒细节【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230724/1911735.md">习近平所说的“惊涛骇浪”要来了？</a></li>
 <li><a href="/cnnews/20230724/1911683.md">上海人感到心酸</a></li>
-<li><a href="/baitai/20230724/1911763.md">中南海安全仍有隐忧？习近平贴身保镖王少军死亡 官宣延迟3个月</a></li>
 <li><a href="/comments/20230724/1911626.md">天亮时分：网传汪文斌取代秦刚，真的假的？习近平成都迎接白纸革命2.0（政论天下第1064集 20230723）</a></li>
+<li><a href="/baitai/20230724/1911763.md">中南海安全仍有隐忧？习近平贴身保镖王少军死亡 官宣延迟3个月</a></li>
 <li><a href="/cnnews/20230724/1911739.md">中国经济到底萎缩多少？揭秘至少是这个数；中国金融海啸背景危机出现了</a></li>
 <li><a href="/comments/20230724/1911640.md">彭丽媛围观审秦刚，习近平悔没早发现 #傅晓田？帅哥宋欣王若麟被党指为秦二世接盘侠！咋整？</a></li>
 <li><a href="/sohnews/20230725/1911914.md">人大抢开任免会2大异常，秦刚终局到来？！网传秦刚叛国罪，傅晓田案涉孟建柱，可信吗？前编导曝央视扭曲内幕</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230725/1912017.md" target="_blank">刀郎新歌《罗刹海市》献给那英？联手汪峰杨坤高晓松封杀刀郎失败！粉丝冲进那英空间狂欢，齐齐哈尔第三十四中学家属情绪稳定？</a></li>
 <li><a href="/comments/20230725/1911985.md" target="_blank">天亮时分：人大紧急开会，秦刚明天免职？白俄外交官透露秦刚秘闻；中共秘密武装一支俄罗斯军队（政论天下第1065集 20230724）天亮时分</a></li>
 <li><a href="/comments/20230725/1911979.md" target="_blank">他们满世界找敌人，堵死自己的出路</a></li>
 <li><a href="/comments/20230725/1911970.md" target="_blank">小鸟飞走、大叉入住，推特什么情况？【方伟时间-20230724】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230724/1911642.md" target="_blank">从独生子女到鼓励生育，“专家”们到底懂不懂？</a></li>
 <li><a href="/comments/20230724/1911640.md" target="_blank">彭丽媛围观审秦刚，习近平悔没早发现 #傅晓田？帅哥宋欣王若麟被党指为秦二世接盘侠！咋整？</a></li>
 <li><a href="/comments/20230724/1911626.md" target="_blank">天亮时分：网传汪文斌取代秦刚，真的假的？习近平成都迎接白纸革命2.0（政论天下第1064集 20230723）</a></li>
-<li><a href="/comments/20230724/1911620.md" target="_blank">民营经济应当离场？论厚脸皮，我只服吴某平</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
 <li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
 
 </ul>
 </div>
