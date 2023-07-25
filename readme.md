@@ -8,7 +8,6 @@
 <li><a href="/sohnews/20230725/1911914.md">人大抢开任免会2大异常，秦刚终局到来？！网传秦刚叛国罪，傅晓田案涉孟建柱，可信吗？前编导曝央视扭曲内幕</a></li>
 <li><a href="/topimagenews/20230725/1911971.md">熟人“大爆”秦刚人品 秦刚失踪真因解密</a></li>
 <li><a href="/baitai/20230725/1911965.md">秦刚风波再曝猛料 学者：这种事只有习做得出来</a></li>
-<li><a href="/ccpdope/20230725/1911869.md">中国热传网文“上海搞成这样很难过” 引共鸣</a></li>
 <li><a href="/sohnews/20230725/1911930.md">面对中国最近的经济危局、政治乱像，习近平和李强已经无计可施了。什么民营经济31招也都是空招、烂招。而最近政局也是诡异连连，中共正在走向“出大事”的前夜。【李军访谈20230724第159期】</a></li>
 <li><a href="/baitai/20230725/1912167.md">秦刚免职 王毅回炉 中共乏人可用？</a></li>
 <li><a href="/finance/20230725/1912019.md">习近平破天荒！终于低头了【阿波罗网报道】</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/sohnews/20230725/1912052.md">齐齐哈尔34中事件重磅内幕，习远平秦刚争夺傅晓田，新加坡总理李显龙嘲讽包子。《老灯开讲第344期》</a></li>
 <li><a href="/headline/20230725/1911871.md">习近平不再强调高科技、一带一路 提出「稳住外资外贸基本盘」</a></li>
 <li><a href="/comments/20230725/1912156.md">天亮时分：突发！秦刚免职，王毅回任外交部长；秦刚留任国务委员，原因未公布；三大异常现象待解（政论天下第1065集 20230724）天亮时分</a></li>
-<li><a href="/sohnews/20230725/1912161.md">评“政治局会议”文章被删除！字越少事越大，习近平又一口号要烂尾……中国人不反抗？数据会打脸很多人！</a></li>
 <li><a href="/topimagenews/20230725/1912158.md">更糟糕的在后头 六大国有银行奉旨 中国人存款变这样了；李强国常会下猛药</a></li>
+<li><a href="/sohnews/20230725/1912161.md">评“政治局会议”文章被删除！字越少事越大，习近平又一口号要烂尾……中国人不反抗？数据会打脸很多人！</a></li>
 <li><a href="/topimagenews/20230725/1912184.md">秦刚被免职 ！网传与美女主播婚外情私生子被约谈</a></li>
 <li><a href="/cbnews/20230725/1912042.md">美在中国间谍网遭重创 CIA干员被当众处决</a></li>
+<li><a href="/ccpdope/20230725/1912190.md">习近平挥泪免秦刚 王毅回炉 证实内斗传言</a></li>
 <li><a href="/cnnews/20230725/1911893.md">痛骂那英汪峰等明星 刀郎新歌《罗刹海市》爆红</a></li>
+<li><a href="/ssgc/20230725/1912147.md">秦刚消失满月被免职 王毅回任中国外交部部长</a></li>
 <li><a href="/topimagenews/20230725/1912126.md">稀土不再是中共杀手锏？外媒揭这国惊人进展：出乎意料</a></li>
 <li><a href="/topimagenews/20230725/1912057.md">有种你就打看看！吁派战舰护乌克兰运粮船 美：俄若敢开火 就是向北约宣战</a></li>
-<li><a href="/ccpdope/20230725/1912190.md">习近平挥泪免秦刚 王毅回炉 证实内斗传言</a></li>
-<li><a href="/ssgc/20230725/1912147.md">秦刚消失满月被免职 王毅回任中国外交部部长</a></li>
 <li><a href="/headline/20230725/1911923.md">诡秘 秦刚消失1月无音信 原中央警卫局长死后3月才公布</a></li>
 <li><a href="/baitai/20230725/1912078.md">美媒：中共向俄秘送军队装备照片流出</a></li>
+<li><a href="/comments/20230725/1912204.md">中共公布秦刚处理 问题比答案还多</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
 <li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
 <li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
 
 </ul>
 </div>
