@@ -7,14 +7,13 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230726/1912389.md">秦刚之后，还有一个大瓜</a></li>
 <li><a href="/topimagenews/20230726/1912378.md">秦刚被免职 政敌幸灾乐祸 连发五张“内涵图”【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230726/1912320.md">〖兲朝浮世绘〗如果不是经济快要不行了 他们会被放出来吗？</a></li>
 <li><a href="/topimagenews/20230726/1912408.md">上海地铁疯狂一幕：禁欲的东亚人 早就想发疯了</a></li>
 <li><a href="/cbnews/20230726/1912438.md">江峰：一场集体逼宫戏的第一节落幕，秦刚免职，王毅回锅，新任老部长为何尴尬；吃瓜群众看傅晓田和秦刚瓜熟蒂落，还是走入一片瓜田？外交部还有哪些力量在跃跃欲试？【江峰漫谈20230725第702期】</a></li>
 <li><a href="/comments/20230726/1912386.md">天亮时分：秦刚免职後续，为何留任国务委员？谢峰和赵立坚很嗨；美国常务副国务卿退休，鹰派登场；蔡英文感染新冠（政论天下第1067集 20230725）天亮时分</a></li>
 <li><a href="/sohnews/20230726/1912468.md">“名副其实第一外事宠臣！秦刚丢外长保国务委员之职！”No.01</a></li>
 <li><a href="/baitai/20230726/1912382.md">秦刚终于被免职！他到底出了什么事？ 香港警方带走香港实业家袁弓夷的长女、儿子 目的是什么？【主持】高洁 【嘉宾】香港实业家 袁弓夷 时事评论员 唐靖远【焦点解读】07/25/2023</a></li>
-<li><a href="/sohnews/20230726/1912474.md">中共军方噩耗频传，谁搞叛变？秦刚丢官丢一半，掩盖什么？秦刚失踪，中国经济要失血？王毅回任外长，美日韩当心？（2023.7.26）｜世界的十字路口 唐浩</a></li>
 <li><a href="/sohnews/20230726/1912371.md">谜团：秦刚为何被免职？王毅能得意多久？习近平有多无奈？齐齐哈尔体育馆杯具，官媒继续玩文字游戏愚弄百姓！【新闻最嘲点 姜光宇】2023.0725</a></li>
+<li><a href="/sohnews/20230726/1912474.md">中共军方噩耗频传，谁搞叛变？秦刚丢官丢一半，掩盖什么？秦刚失踪，中国经济要失血？王毅回任外长，美日韩当心？（2023.7.26）｜世界的十字路口 唐浩</a></li>
 <li><a href="/sohnews/20230726/1912437.md">不给习近平面子？秦刚早已被架空；敏感时刻，中共三次推他当“挡箭牌”；俄罗斯战事不利，修改法律扩大征兵；新“轴心国”？中俄代表团本周奔赴朝鲜</a></li>
 <li><a href="/cnnews/20230726/1912449.md">彻底疯魔了！中国房地产最牛的两位大佬 抛出重磅“炸弹”</a></li>
 <li><a href="/sohnews/20230726/1912475.md">🔥《推背图》预言习之宿命, #秦刚被免职, #王毅 看似赢实则输! 外交部内斗烧到习, 习被架在火上烤而不自知! 秦刚案几近落幕, 血腥搏杀, 忠诚度检验才刚刚开始!【260723】</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/comments/20230726/1912348.md">文昭：秦刚事件，说明习近平缺少“伟大领袖”的一项标配</a></li>
 <li><a href="/cnnews/20230726/1912450.md">定局了 中共红朝覆灭！ “试问哪一个王朝覆灭不是从财政亏空开始”【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230726/1912485.md">陈破空：还有大戏！秦刚免职当天，习家军人物遭重判！谢锋忽然缺席，说受伤？政治局会议紧张，军队背叛让习近平最怕最尴尬</a></li>
+<li><a href="/sohnews/20230726/1912495.md">🔥秦刚被免，发言人毛宁被连番连问，有个问题结巴了；秦刚6月初照片被翻出，坐姿随意，无精打彩；习近平尴尬撤秦刚，党媒跟进暗批；离了大谱，缅北诈骗犯儿子要来上北大了</a></li>
 <li><a href="/topimagenews/20230726/1912365.md">离了大谱，缅北诈骗犯儿子要来上北大了</a></li>
 <li><a href="/lishi/20230726/1912345.md">海军副司令蹊跷投井自杀？他杀？</a></li>
-<li><a href="/sohnews/20230726/1912495.md">🔥秦刚被免，发言人毛宁被连番连问，有个问题结巴了；秦刚6月初照片被翻出，坐姿随意，无精打彩；习近平尴尬撤秦刚，党媒跟进暗批；离了大谱，缅北诈骗犯儿子要来上北大了</a></li>
 <li><a href="/cbnews/20230726/1912379.md">美国南方司令部：中共已进入红色警戒区</a></li>
 <li><a href="/ssgc/20230726/1912346.md">〖微博谈〗这种舆论环境也太窒息了</a></li>
+<li><a href="/sohnews/20230726/1912461.md">“细思极恐”中共官媒看照片惊呼；美军兵推图 里面蕴含什么玄机？13国联合军演 剑指何方？规避制裁 中共秘密支援俄爹？中俄关系“无上限” 你信？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
 <li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
 
 </ul>
 </div>
