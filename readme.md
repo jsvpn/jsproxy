@@ -11,23 +11,23 @@
 <li><a href="/cnnews/20230726/1912304.md">豪宅状态更新 傅晓田少年到中年时期照片被曝光</a></li>
 <li><a href="/cbnews/20230726/1912320.md">〖兲朝浮世绘〗如果不是经济快要不行了 他们会被放出来吗？</a></li>
 <li><a href="/topimagenews/20230726/1912408.md">上海地铁疯狂一幕：禁欲的东亚人 早就想发疯了</a></li>
-<li><a href="/comments/20230726/1912283.md">王毅清空外交部秦刚信息！秦刚被习近平亲自免职引发划清界限运动，秦力真家族要起诉？</a></li>
 <li><a href="/cbnews/20230726/1912438.md">江峰：一场集体逼宫戏的第一节落幕，秦刚免职，王毅回锅，新任老部长为何尴尬；吃瓜群众看傅晓田和秦刚瓜熟蒂落，还是走入一片瓜田？外交部还有哪些力量在跃跃欲试？【江峰漫谈20230725第702期】</a></li>
 <li><a href="/comments/20230726/1912386.md">天亮时分：秦刚免职後续，为何留任国务委员？谢峰和赵立坚很嗨；美国常务副国务卿退休，鹰派登场；蔡英文感染新冠（政论天下第1067集 20230725）天亮时分</a></li>
 <li><a href="/sohnews/20230726/1912468.md">“名副其实第一外事宠臣！秦刚丢外长保国务委员之职！”No.01</a></li>
 <li><a href="/baitai/20230726/1912382.md">秦刚终于被免职！他到底出了什么事？ 香港警方带走香港实业家袁弓夷的长女、儿子 目的是什么？【主持】高洁 【嘉宾】香港实业家 袁弓夷 时事评论员 唐靖远【焦点解读】07/25/2023</a></li>
 <li><a href="/sohnews/20230726/1912474.md">中共军方噩耗频传，谁搞叛变？秦刚丢官丢一半，掩盖什么？秦刚失踪，中国经济要失血？王毅回任外长，美日韩当心？（2023.7.26）｜世界的十字路口 唐浩</a></li>
-<li><a href="/comments/20230726/1912300.md">秦刚被免职，官方不提原因，外交部网站已查无此人；剧终还是下半场上演？｜江峰 唐靖远 方伟 方菲 David ｜围炉夜话 07/25</a></li>
 <li><a href="/sohnews/20230726/1912371.md">谜团：秦刚为何被免职？王毅能得意多久？习近平有多无奈？齐齐哈尔体育馆杯具，官媒继续玩文字游戏愚弄百姓！【新闻最嘲点 姜光宇】2023.0725</a></li>
+<li><a href="/comments/20230726/1912300.md">秦刚被免职，官方不提原因，外交部网站已查无此人；剧终还是下半场上演？｜江峰 唐靖远 方伟 方菲 David ｜围炉夜话 07/25</a></li>
 <li><a href="/sohnews/20230726/1912437.md">不给习近平面子？秦刚早已被架空；敏感时刻，中共三次推他当“挡箭牌”；俄罗斯战事不利，修改法律扩大征兵；新“轴心国”？中俄代表团本周奔赴朝鲜</a></li>
 <li><a href="/cnnews/20230726/1912449.md">彻底疯魔了！中国房地产最牛的两位大佬 抛出重磅“炸弹”</a></li>
+<li><a href="/sohnews/20230726/1912475.md">🔥《推背图》预言习之宿命, #秦刚被免职, #王毅 看似赢实则输! 外交部内斗烧到习, 习被架在火上烤而不自知! 秦刚案几近落幕, 血腥搏杀, 忠诚度检验才刚刚开始!【260723】</a></li>
 <li><a href="/sohnews/20230726/1912457.md">文睿：秦刚，外长被免，为何留任国务委员？各种痛点一次说清</a></li>
 <li><a href="/sohnews/20230726/1912465.md">成都会出事吗，习近平亲临！紧张管控如临战；秦刚活动信息一扫而空！是否恢复成重要风向标；王毅敢跟习斗吗？习不彻底拿下秦刚是为了面子吗？高官“在职生重病”早有先例</a></li>
-<li><a href="/sohnews/20230726/1912475.md">🔥《推背图》预言习之宿命, #秦刚被免职, #王毅 看似赢实则输! 外交部内斗烧到习, 习被架在火上烤而不自知! 秦刚案几近落幕, 血腥搏杀, 忠诚度检验才刚刚开始!【260723】</a></li>
 <li><a href="/comments/20230726/1912348.md">文昭：秦刚事件，说明习近平缺少“伟大领袖”的一项标配</a></li>
 <li><a href="/cnnews/20230726/1912450.md">定局了 中共红朝覆灭！ “试问哪一个王朝覆灭不是从财政亏空开始”【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230726/1912303.md">任免秦刚当天 一个加拿大人再次被拉出“示众”</a></li>
 <li><a href="/topimagenews/20230726/1912365.md">离了大谱，缅北诈骗犯儿子要来上北大了</a></li>
+<li><a href="/cbnews/20230726/1912302.md">秦刚谜题只解了一半 中共形象更差了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 
 </ul>
 </div>
