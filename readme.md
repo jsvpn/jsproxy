@@ -18,15 +18,15 @@
 <li><a href="/sohnews/20230726/1912468.md">“名副其实第一外事宠臣！秦刚丢外长保国务委员之职！”No.01</a></li>
 <li><a href="/baitai/20230726/1912382.md">秦刚终于被免职！他到底出了什么事？ 香港警方带走香港实业家袁弓夷的长女、儿子 目的是什么？【主持】高洁 【嘉宾】香港实业家 袁弓夷 时事评论员 唐靖远【焦点解读】07/25/2023</a></li>
 <li><a href="/sohnews/20230726/1912371.md">谜团：秦刚为何被免职？王毅能得意多久？习近平有多无奈？齐齐哈尔体育馆杯具，官媒继续玩文字游戏愚弄百姓！【新闻最嘲点 姜光宇】2023.0725</a></li>
-<li><a href="/sohnews/20230726/1912437.md">不给习近平面子？秦刚早已被架空；敏感时刻，中共三次推他当“挡箭牌”；俄罗斯战事不利，修改法律扩大征兵；新“轴心国”？中俄代表团本周奔赴朝鲜</a></li>
 <li><a href="/comments/20230726/1912300.md">秦刚被免职，官方不提原因，外交部网站已查无此人；剧终还是下半场上演？｜江峰 唐靖远 方伟 方菲 David ｜围炉夜话 07/25</a></li>
-<li><a href="/cnnews/20230726/1912449.md">彻底疯魔了！中国房地产最牛的两位大佬 抛出重磅“炸弹”</a></li>
+<li><a href="/sohnews/20230726/1912437.md">不给习近平面子？秦刚早已被架空；敏感时刻，中共三次推他当“挡箭牌”；俄罗斯战事不利，修改法律扩大征兵；新“轴心国”？中俄代表团本周奔赴朝鲜</a></li>
 <li><a href="/sohnews/20230726/1912474.md">中共军方噩耗频传，谁搞叛变？秦刚丢官丢一半，掩盖什么？秦刚失踪，中国经济要失血？王毅回任外长，美日韩当心？（2023.7.26）｜世界的十字路口 唐浩</a></li>
+<li><a href="/cnnews/20230726/1912449.md">彻底疯魔了！中国房地产最牛的两位大佬 抛出重磅“炸弹”</a></li>
 <li><a href="/sohnews/20230726/1912457.md">文睿：秦刚，外长被免，为何留任国务委员？各种痛点一次说清</a></li>
 <li><a href="/sohnews/20230726/1912465.md">成都会出事吗，习近平亲临！紧张管控如临战；秦刚活动信息一扫而空！是否恢复成重要风向标；王毅敢跟习斗吗？习不彻底拿下秦刚是为了面子吗？高官“在职生重病”早有先例</a></li>
+<li><a href="/sohnews/20230726/1912475.md">🔥《推背图》预言习之宿命, #秦刚被免职, #王毅 看似赢实则输! 外交部内斗烧到习, 习被架在火上烤而不自知! 秦刚案几近落幕, 血腥搏杀, 忠诚度检验才刚刚开始!【260723】</a></li>
 <li><a href="/comments/20230726/1912348.md">文昭：秦刚事件，说明习近平缺少“伟大领袖”的一项标配</a></li>
 <li><a href="/cnnews/20230726/1912450.md">定局了 中共红朝覆灭！ “试问哪一个王朝覆灭不是从财政亏空开始”【阿波罗网报道】</a></li>
-<li><a href="/headline/20230726/1912271.md">FT：秦刚和谢峰互不待见</a></li>
 <li><a href="/cbnews/20230726/1912303.md">任免秦刚当天 一个加拿大人再次被拉出“示众”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
 <li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 <li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 
 </ul>
 </div>
