@@ -8,8 +8,8 @@
 <li><a href="/topimagenews/20230725/1911971.md">熟人“大爆”秦刚人品 秦刚失踪真因解密</a></li>
 <li><a href="/baitai/20230725/1911965.md">秦刚风波再曝猛料 学者：这种事只有习做得出来</a></li>
 <li><a href="/finance/20230725/1912019.md">习近平破天荒！终于低头了【阿波罗网报道】</a></li>
-<li><a href="/baitai/20230725/1912167.md">秦刚免职 王毅回炉 中共乏人可用？</a></li>
 <li><a href="/sohnews/20230725/1912052.md">齐齐哈尔34中事件重磅内幕，习远平秦刚争夺傅晓田，新加坡总理李显龙嘲讽包子。《老灯开讲第344期》</a></li>
+<li><a href="/baitai/20230725/1912167.md">秦刚免职 王毅回炉 中共乏人可用？</a></li>
 <li><a href="/topimagenews/20230725/1912088.md">这两段已说明问题！中共政治局会议解读</a></li>
 <li><a href="/sohnews/20230725/1912079.md">秦刚跟彭丽媛关系深？他如何走入习近平“小圈子”；消失一整月，卷入军事泄密和气球事件？傅晓田早就不简单；齐齐哈尔体育馆坍塌，723也成敏感日；马斯克梦回99年，“X”取代推特蓝鸟｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20230725/1912156.md">天亮时分：突发！秦刚免职，王毅回任外交部长；秦刚留任国务委员，原因未公布；三大异常现象待解（政论天下第1065集 20230724）天亮时分</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230726/1912365.md" target="_blank">离了大谱，缅北诈骗犯儿子要来上北大了</a></li>
 <li><a href="/topimagenews/20230725/1912196.md" target="_blank">普丁任性侵犯中共利益 德媒：莫斯科要留意北京耐心有限</a></li>
 <li><a href="/topimagenews/20230725/1912184.md" target="_blank">秦刚被免职 ！网传与美女主播婚外情私生子被约谈</a></li>
 <li><a href="/topimagenews/20230725/1912158.md" target="_blank">更糟糕的在后头 六大国有银行奉旨 中国人存款变这样了；李强国常会下猛药</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20230724/1911680.md" target="_blank">中共与俄国将在这里冲突? 瓦格纳重返非洲 专家 : 威胁到北京当地利益</a></li>
 <li><a href="/topimagenews/20230724/1911679.md" target="_blank">还在梦想“工业立市”? 深圳“腾笼换鸟”换空城 台企撤离逾8千人失业</a></li>
 <li><a href="/topimagenews/20230724/1911674.md" target="_blank">太惨了！齐齐哈尔34中体育馆楼顶坍塌 网友发现官媒细节【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230724/1911602.md" target="_blank">李强国常会下猛药！这吃相太难看了【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230726/1912369.md" target="_blank">如松:300万亿美元超级泡沫，雪崩时分…</a></li>
+<li><a href="/comments/20230726/1912368.md" target="_blank">克宫沉默：失去的红线</a></li>
 <li><a href="/comments/20230726/1912348.md" target="_blank">文昭：秦刚事件，说明习近平缺少“伟大领袖”的一项标配</a></li>
 <li><a href="/comments/20230726/1912329.md" target="_blank">吴玉：《接班人2》影评——和我们每一个人都有关的真相</a></li>
 <li><a href="/comments/20230726/1912328.md" target="_blank">梁少华：从消失的秦刚外长看中国的强制失踪制度</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230725/1912044.md" target="_blank">莫斯科要仔细听 北京正向基辅靠近</a></li>
 <li><a href="/comments/20230725/1912017.md" target="_blank">刀郎新歌《罗刹海市》献给那英？联手汪峰杨坤高晓松封杀刀郎失败！粉丝冲进那英空间狂欢，齐齐哈尔第三十四中学家属情绪稳定？</a></li>
 <li><a href="/comments/20230725/1911985.md" target="_blank">天亮时分：人大紧急开会，秦刚明天免职？白俄外交官透露秦刚秘闻；中共秘密武装一支俄罗斯军队（政论天下第1065集 20230724）天亮时分</a></li>
-<li><a href="/comments/20230725/1911979.md" target="_blank">他们满世界找敌人，堵死自己的出路</a></li>
-<li><a href="/comments/20230725/1911970.md" target="_blank">小鸟飞走、大叉入住，推特什么情况？【方伟时间-20230724】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
 <li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
 <li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 <li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
