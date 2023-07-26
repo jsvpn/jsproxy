@@ -6,8 +6,8 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/ccpdope/20230725/1912237.md">有消息了！秦刚安全着陆</a></li>
-<li><a href="/comments/20230726/1912301.md">李燕铭：秦刚被免去外交部长 内幕消息称秦刚犯叛国罪 网传秦刚已在301医院病亡 外交部官网火速撤下所有秦刚新闻报道 中共有难言之隐 秦刚曾长期负责习近平彭丽媛外交礼宾 习家军第一块多米诺骨牌倒了…… 秦刚出事深度内幕（7） 北戴河会议大战内幕（61） 中南海政变与反政变（90） 习近平连任与中共末日（139） 习连任后高层人事大洗牌（112）</a></li>
 <li><a href="/topimagenews/20230726/1912389.md">秦刚之后，还有一个大瓜</a></li>
+<li><a href="/comments/20230726/1912301.md">李燕铭：秦刚被免去外交部长 内幕消息称秦刚犯叛国罪 网传秦刚已在301医院病亡 外交部官网火速撤下所有秦刚新闻报道 中共有难言之隐 秦刚曾长期负责习近平彭丽媛外交礼宾 习家军第一块多米诺骨牌倒了…… 秦刚出事深度内幕（7） 北戴河会议大战内幕（61） 中南海政变与反政变（90） 习近平连任与中共末日（139） 习连任后高层人事大洗牌（112）</a></li>
 <li><a href="/topimagenews/20230726/1912378.md">秦刚被免职 政敌幸灾乐祸 连发五张“内涵图”【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230726/1912280.md">斗赢？秦刚案落幕，王毅回锅任职；勾结！与马云交易密集，中共高官判死缓；威胁！中共禁企业说真话，否则不能上市；数据造假！雷丁汽车案，多名官员被罚；笑哭！中国诈骗短信“枪决通知”还上门服务</a></li>
 <li><a href="/cnnews/20230726/1912304.md">豪宅状态更新 傅晓田少年到中年时期照片被曝光</a></li>
@@ -18,16 +18,16 @@
 <li><a href="/comments/20230726/1912386.md">天亮时分：秦刚免职後续，为何留任国务委员？谢峰和赵立坚很嗨；美国常务副国务卿退休，鹰派登场；蔡英文感染新冠（政论天下第1067集 20230725）天亮时分</a></li>
 <li><a href="/sohnews/20230725/1912242.md">“无罪免职留高位 习近平‘处理秦刚’ 留下更多恐惧”《今日点击》（07/25/23）</a></li>
 <li><a href="/baitai/20230726/1912382.md">秦刚终于被免职！他到底出了什么事？ 香港警方带走香港实业家袁弓夷的长女、儿子 目的是什么？【主持】高洁 【嘉宾】香港实业家 袁弓夷 时事评论员 唐靖远【焦点解读】07/25/2023</a></li>
-<li><a href="/sohnews/20230726/1912371.md">谜团：秦刚为何被免职？王毅能得意多久？习近平有多无奈？齐齐哈尔体育馆杯具，官媒继续玩文字游戏愚弄百姓！【新闻最嘲点 姜光宇】2023.0725</a></li>
-<li><a href="/comments/20230726/1912300.md">秦刚被免职，官方不提原因，外交部网站已查无此人；剧终还是下半场上演？｜江峰 唐靖远 方伟 方菲 David ｜围炉夜话 07/25</a></li>
-<li><a href="/sohnews/20230726/1912437.md">不给习近平面子？秦刚早已被架空；敏感时刻，中共三次推他当“挡箭牌”；俄罗斯战事不利，修改法律扩大征兵；新“轴心国”？中俄代表团本周奔赴朝鲜</a></li>
 <li><a href="/sohnews/20230726/1912468.md">“名副其实第一外事宠臣！秦刚丢外长保国务委员之职！”No.01</a></li>
-<li><a href="/comments/20230726/1912348.md">文昭：秦刚事件，说明习近平缺少“伟大领袖”的一项标配</a></li>
+<li><a href="/sohnews/20230726/1912371.md">谜团：秦刚为何被免职？王毅能得意多久？习近平有多无奈？齐齐哈尔体育馆杯具，官媒继续玩文字游戏愚弄百姓！【新闻最嘲点 姜光宇】2023.0725</a></li>
+<li><a href="/sohnews/20230726/1912437.md">不给习近平面子？秦刚早已被架空；敏感时刻，中共三次推他当“挡箭牌”；俄罗斯战事不利，修改法律扩大征兵；新“轴心国”？中俄代表团本周奔赴朝鲜</a></li>
+<li><a href="/comments/20230726/1912300.md">秦刚被免职，官方不提原因，外交部网站已查无此人；剧终还是下半场上演？｜江峰 唐靖远 方伟 方菲 David ｜围炉夜话 07/25</a></li>
 <li><a href="/sohnews/20230726/1912457.md">文睿：秦刚，外长被免，为何留任国务委员？各种痛点一次说清</a></li>
-<li><a href="/headline/20230726/1912271.md">FT：秦刚和谢峰互不待见</a></li>
+<li><a href="/comments/20230726/1912348.md">文昭：秦刚事件，说明习近平缺少“伟大领袖”的一项标配</a></li>
 <li><a href="/cnnews/20230726/1912449.md">彻底疯魔了！中国房地产最牛的两位大佬 抛出重磅“炸弹”</a></li>
+<li><a href="/headline/20230726/1912271.md">FT：秦刚和谢峰互不待见</a></li>
 <li><a href="/cnnews/20230726/1912450.md">定局了 中共红朝覆灭！ “试问哪一个王朝覆灭不是从财政亏空开始”【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230726/1912365.md">离了大谱，缅北诈骗犯儿子要来上北大了</a></li>
+<li><a href="/cbnews/20230726/1912303.md">任免秦刚当天 一个加拿大人再次被拉出“示众”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230726/1912500.md" target="_blank">外交部网站删光秦刚资讯 一张照片露端倪 恐6月初就知道自己不妙</a></li>
+<li><a href="/comments/20230726/1912499.md" target="_blank">【新闻拍案惊奇】秦刚得了啥病？成都会出事吗？习近平亲临</a></li>
 <li><a href="/comments/20230726/1912487.md" target="_blank">麦卡锡态度转变，准备启动弹劾。亨特画作2买家及背后交易曝光，原来都是谎言。</a></li>
 <li><a href="/comments/20230726/1912467.md" target="_blank">习近平回信港中学促爱国 论者料爱国教育在港将加强 家长可能“用脚投票”</a></li>
 <li><a href="/comments/20230726/1912466.md" target="_blank">白宫指华换外长 不影响中美沟通 分析指习近平权力和路线未受影响</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230726/1912301.md" target="_blank">李燕铭：秦刚被免去外交部长 内幕消息称秦刚犯叛国罪 网传秦刚已在301医院病亡 外交部官网火速撤下所有秦刚新闻报道 中共有难言之隐 秦刚曾长期负责习近平彭丽媛外交礼宾 习家军第一块多米诺骨牌倒了…… 秦刚出事深度内幕（7） 北戴河会议大战内幕（61） 中南海政变与反政变（90） 习近平连任与中共末日（139） 习连任后高层人事大洗牌（112）</a></li>
 <li><a href="/comments/20230726/1912300.md" target="_blank">秦刚被免职，官方不提原因，外交部网站已查无此人；剧终还是下半场上演？｜江峰 唐靖远 方伟 方菲 David ｜围炉夜话 07/25</a></li>
 <li><a href="/comments/20230726/1912292.md" target="_blank">秦刚免职外交部无人接班，王毅以政治局委员之尊重操旧业</a></li>
-<li><a href="/comments/20230726/1912290.md" target="_blank">美媒: 中共秘密向俄罗斯运送足够一支军队的装备</a></li>
-<li><a href="/comments/20230726/1912289.md" target="_blank">程晓农：习近平的执政恐惧</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
 <li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 
 </ul>
 </div>
