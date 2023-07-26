@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/finance/20230725/1912019.md">习近平破天荒！终于低头了【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230725/1912052.md">齐齐哈尔34中事件重磅内幕，习远平秦刚争夺傅晓田，新加坡总理李显龙嘲讽包子。《老灯开讲第344期》</a></li>
 <li><a href="/baitai/20230725/1912167.md">秦刚免职 王毅回炉 中共乏人可用？</a></li>
 <li><a href="/sohnews/20230725/1912079.md">秦刚跟彭丽媛关系深？他如何走入习近平“小圈子”；消失一整月，卷入军事泄密和气球事件？傅晓田早就不简单；齐齐哈尔体育馆坍塌，723也成敏感日；马斯克梦回99年，“X”取代推特蓝鸟｜新闻拍案惊奇 大宇</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cbnews/20230725/1912042.md">美在中国间谍网遭重创 CIA干员被当众处决</a></li>
 <li><a href="/ccpdope/20230725/1912190.md">习近平挥泪免秦刚 王毅回炉 证实内斗传言</a></li>
 <li><a href="/ccpdope/20230725/1912237.md">有消息了！秦刚安全着陆</a></li>
-<li><a href="/comments/20230725/1912204.md">中共公布秦刚处理 问题比答案还多</a></li>
 <li><a href="/comments/20230726/1912301.md">李燕铭：秦刚被免去外交部长 内幕消息称秦刚犯叛国罪 网传秦刚已在301医院病亡 外交部官网火速撤下所有秦刚新闻报道 中共有难言之隐 秦刚曾长期负责习近平彭丽媛外交礼宾 习家军第一块多米诺骨牌倒了…… 秦刚出事深度内幕（7） 北戴河会议大战内幕（61） 中南海政变与反政变（90） 习近平连任与中共末日（139） 习连任后高层人事大洗牌（112）</a></li>
+<li><a href="/comments/20230725/1912204.md">中共公布秦刚处理 问题比答案还多</a></li>
+<li><a href="/cnnews/20230726/1912304.md">豪宅状态更新 傅晓田少年到中年时期照片被曝光</a></li>
 <li><a href="/sohnews/20230726/1912280.md">斗赢？秦刚案落幕，王毅回锅任职；勾结！与马云交易密集，中共高官判死缓；威胁！中共禁企业说真话，否则不能上市；数据造假！雷丁汽车案，多名官员被罚；笑哭！中国诈骗短信“枪决通知”还上门服务</a></li>
 <li><a href="/topimagenews/20230725/1912057.md">有种你就打看看！吁派战舰护乌克兰运粮船 美：俄若敢开火 就是向北约宣战</a></li>
 <li><a href="/comments/20230726/1912283.md">王毅清空外交部秦刚信息！秦刚被习近平亲自免职引发划清界限运动，秦力真家族要起诉？</a></li>
-<li><a href="/cnnews/20230726/1912304.md">豪宅状态更新 傅晓田少年到中年时期照片被曝光</a></li>
 <li><a href="/topimagenews/20230725/1912126.md">稀土不再是中共杀手锏？外媒揭这国惊人进展：出乎意料</a></li>
 <li><a href="/ssgc/20230725/1912147.md">秦刚消失满月被免职 王毅回任中国外交部部长</a></li>
 <li><a href="/baitai/20230725/1912078.md">美媒：中共向俄秘送军队装备照片流出</a></li>
 <li><a href="/cbnews/20230726/1912320.md">〖兲朝浮世绘〗如果不是经济快要不行了 他们会被放出来吗？</a></li>
 <li><a href="/sohnews/20230725/1912165.md">文睿：新华社：秦刚被免职，王毅任外交部长，全都乱套了</a></li>
+<li><a href="/headline/20230725/1912157.md">中国外交部长秦刚被免职</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230726/1912448.md" target="_blank">维舟:齐齐哈尔的塌房</a></li>
+<li><a href="/comments/20230726/1912447.md" target="_blank">德媒：齐齐哈尔体育馆事故：孩子遇难家长无处沟通、没有安抚</a></li>
+<li><a href="/comments/20230726/1912446.md" target="_blank">网络民议：她们不是“11”这么一个冰冷的数字，而是应该被记得</a></li>
+<li><a href="/comments/20230726/1912445.md" target="_blank">顾礼先生：这一次，齐齐哈尔的哭声，彻底将形式主义揭了个底朝天</a></li>
 <li><a href="/comments/20230726/1912421.md" target="_blank">404文：我最好的朋友全走了——一份不完整的齐齐哈尔坍塌遇难名单</a></li>
 <li><a href="/comments/20230726/1912420.md" target="_blank">苏暁康：国家恐怖主义</a></li>
 <li><a href="/comments/20230726/1912419.md" target="_blank">董立文：秦刚失踪或有助于缓和中、美关系</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230726/1912283.md" target="_blank">王毅清空外交部秦刚信息！秦刚被习近平亲自免职引发划清界限运动，秦力真家族要起诉？</a></li>
 <li><a href="/comments/20230726/1912254.md" target="_blank">美中可能就芬太尼危机达成潜在协议</a></li>
 <li><a href="/comments/20230725/1912226.md" target="_blank">【新闻最嘲点】刀郎和那英的恩怨 《罗刹海市》内涵惊人</a></li>
-<li><a href="/comments/20230725/1912204.md" target="_blank">中共公布秦刚处理 问题比答案还多</a></li>
-<li><a href="/comments/20230725/1912195.md" target="_blank">文昭：秦刚出事，让习近平体制受到严重撼动，或被“挖墙角”</a></li>
-<li><a href="/comments/20230725/1912194.md" target="_blank">【新闻拍案惊奇】秦刚跟彭丽媛关系深？卷入军中夺权？</a></li>
-<li><a href="/comments/20230725/1912172.md" target="_blank">推特正式更名，马斯克为何对X情有独钟？奥巴马大厨溺水马萨葡萄园，引外界质疑。</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
 <li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
