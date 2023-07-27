@@ -8,7 +8,6 @@
 <li><a href="/sohnews/20230727/1912508.md">“秦刚被免职后！傅晓田更新了自己的微博”No.01（07/26/23）与习近平很默契！#秦刚傅晓田</a></li>
 <li><a href="/sohnews/20230727/1912532.md">北戴河会议严重左转，中央警卫局现任局长暗害前局长，成都青年用白纸迎接习近平。《老灯开讲第345期》</a></li>
 <li><a href="/comments/20230726/1912500.md">外交部网站删光秦刚资讯 一张照片露端倪 恐6月初就知道自己不妙</a></li>
-<li><a href="/sohnews/20230726/1912485.md">陈破空：还有大戏！秦刚免职当天，习家军人物遭重判！谢锋忽然缺席，说受伤？政治局会议紧张，军队背叛让习近平最怕最尴尬</a></li>
 <li><a href="/sohnews/20230726/1912495.md">🔥秦刚被免，发言人毛宁被连番连问，有个问题结巴了；秦刚6月初照片被翻出，坐姿随意，无精打彩；习近平尴尬撤秦刚，党媒跟进暗批；离了大谱，缅北诈骗犯儿子要来上北大了</a></li>
 <li><a href="/sohnews/20230727/1912528.md">史无前例！外交部奇葩记者会，毛宁咬死一句话；党媒头版暗示秦刚出事原因；缓期执行与“社死”有关？秦刚驻美外交秘闻</a></li>
 <li><a href="/topimagenews/20230727/1912849.md">习近平亲信接连“被消失”！秦刚之外 还有一位重量级大员</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/cnnews/20230727/1912646.md">形势严峻！北京等10省市高度戒备</a></li>
 <li><a href="/cnnews/20230727/1912644.md">小学生作文《热死了》火了，老师：我拜你为师吧</a></li>
 <li><a href="/comments/20230727/1912825.md">神秘茶友现身：我和秦刚一起长大，秦刚身世在这，你们全猜错了！吴亦凡救秦刚彻底失败</a></li>
-<li><a href="/yule/20230727/1912663.md">貂蝉长相被还原了！陆网曝：超像当今1女星 红到你我都听过</a></li>
 <li><a href="/topimagenews/20230727/1912880.md">中共高层史所未见厮杀 秦刚事件另一只靴子</a></li>
-<li><a href="/cnnews/20230727/1912616.md">“政令不出中南海” 独裁政府折腾不到老百姓了【阿波罗网报道】</a></li>
+<li><a href="/yule/20230727/1912663.md">貂蝉长相被还原了！陆网曝：超像当今1女星 红到你我都听过</a></li>
 <li><a href="/topimagenews/20230727/1912848.md">临终之前不放过！中共用极无耻手段性虐待 旁边有人全程录像</a></li>
+<li><a href="/cnnews/20230727/1912616.md">“政令不出中南海” 独裁政府折腾不到老百姓了【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230726/1912490.md">秦刚落幕，吴亦凡三次救场；蔡英文染疫，拜登或面临弹劾；马斯克抛弃推特要建微信；金砖国家峯会普京避险，中国富豪“润”向何方</a></li>
 <li><a href="/cnnews/20230727/1912658.md">惊曝！秦刚的存在威胁到外交系统人身家性命</a></li>
+<li><a href="/ssgc/20230727/1912747.md">〖微博谈〗这戏还得演下去</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230727/1912988.md" target="_blank">【未普评论】用社会协商对话解决社会冲突，89民运是一场失败的伟大实验（中）</a></li>
 <li><a href="/comments/20230727/1912983.md" target="_blank">麦康奈尔突然凝固。川普任命的女法官否决亨特认罪协议。拷问检察官，现场惊愕。</a></li>
 <li><a href="/comments/20230727/1912875.md" target="_blank">刀郎 《山歌寥哉》11首完整版 歌词+lyric MV 序曲/罗刹海市/花妖/镜听/路南柯/颠倒歌/画壁/珠儿/翩翩/画皮/未来的底片</a></li>
 <li><a href="/comments/20230727/1912865.md" target="_blank">菁英论坛：军情斗国安 秦刚中枪</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230727/1912585.md" target="_blank">陆客：对《爱国主义教育法》的重要讲解</a></li>
 <li><a href="/comments/20230727/1912584.md" target="_blank">惠虎宇：中华民国战胜中共的上兵之道</a></li>
 <li><a href="/comments/20230727/1912583.md" target="_blank">周晓辉：王毅再任外长有因 秦刚未卸国务委员</a></li>
-<li><a href="/comments/20230727/1912582.md" target="_blank">秦刚丢官丢一半有玄机？兵变逼近中南海</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
 <li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
 
 </ul>
 </div>
