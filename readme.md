@@ -11,23 +11,23 @@
 <li><a href="/comments/20230727/1912582.md">秦刚丢官丢一半有玄机？兵变逼近中南海</a></li>
 <li><a href="/topimagenews/20230727/1912849.md">习近平亲信接连“被消失”！秦刚之外 还有一位重量级大员</a></li>
 <li><a href="/sohnews/20230727/1912513.md">“老天要灭中共！新驻美大使为秦刚：付出惨重代价！”No.03（07/26/23）#秦刚傅晓田</a></li>
-<li><a href="/sohnews/20230727/1912543.md">傅晓田起步无期？旧帖被翻列罪状；20连问寻秦，间谍头子早出事？【新闻看点 李沐阳7.26】</a></li>
-<li><a href="/cnnews/20230727/1912652.md">秦刚是在美间谍网最大情报头子？解放军出大事了?</a></li>
 <li><a href="/cnnews/20230727/1912646.md">形势严峻！北京等10省市高度戒备</a></li>
-<li><a href="/sohnews/20230727/1912533.md">秦刚大事不妙？党媒发文释放信号；怕什么？齐齐哈尔坍塌案，家长不签字，不让见孩子遗体；王毅回锅，头衔未变，过渡性外长？</a></li>
+<li><a href="/cnnews/20230727/1912652.md">秦刚是在美间谍网最大情报头子？解放军出大事了?</a></li>
+<li><a href="/sohnews/20230727/1912543.md">傅晓田起步无期？旧帖被翻列罪状；20连问寻秦，间谍头子早出事？【新闻看点 李沐阳7.26】</a></li>
 <li><a href="/cbnews/20230727/1912740.md">〖兲朝浮世绘〗发言人毛宁心里当时应该装了一万匹羊驼在奔腾</a></li>
+<li><a href="/sohnews/20230727/1912533.md">秦刚大事不妙？党媒发文释放信号；怕什么？齐齐哈尔坍塌案，家长不签字，不让见孩子遗体；王毅回锅，头衔未变，过渡性外长？</a></li>
 <li><a href="/topimagenews/20230727/1912939.md">太有才了！记者把中共发言人问的绷不住了【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230727/1912880.md">中共高层史所未见厮杀 秦刚事件另一只靴子</a></li>
 <li><a href="/cbnews/20230727/1912912.md">秦刚卷入火箭军泄密案? 前副司令惊传被自杀</a></li>
+<li><a href="/topimagenews/20230727/1912880.md">中共高层史所未见厮杀 秦刚事件另一只靴子</a></li>
 <li><a href="/comments/20230727/1912825.md">神秘茶友现身：我和秦刚一起长大，秦刚身世在这，你们全猜错了！吴亦凡救秦刚彻底失败</a></li>
 <li><a href="/cnnews/20230727/1912644.md">小学生作文《热死了》火了，老师：我拜你为师吧</a></li>
 <li><a href="/yule/20230727/1912663.md">貂蝉长相被还原了！陆网曝：超像当今1女星 红到你我都听过</a></li>
 <li><a href="/topimagenews/20230727/1912848.md">临终之前不放过！中共用极无耻手段性虐待 旁边有人全程录像</a></li>
 <li><a href="/cnnews/20230727/1912658.md">惊曝！秦刚的存在威胁到外交系统人身家性命</a></li>
 <li><a href="/cnnews/20230727/1912616.md">“政令不出中南海” 独裁政府折腾不到老百姓了【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230726/1912505.md">“中南海闹鬼！秦刚一词-中央与外交部：阴阳两重天！”《今日点击》（07/26/23）#秦刚傅晓田</a></li>
 <li><a href="/topimagenews/20230727/1912847.md">秦刚被送到秦城监狱? 矢板明夫：习政权远远没有外部想的那么安定</a></li>
 <li><a href="/ssgc/20230727/1912747.md">〖微博谈〗这戏还得演下去</a></li>
+<li><a href="/cnnews/20230727/1912648.md">惊人一幕：天津南开小学密密麻麻跪倒一片</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 
 </ul>
 </div>
