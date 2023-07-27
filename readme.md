@@ -5,14 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230727/1912532.md">北戴河会议严重左转，中央警卫局现任局长暗害前局长，成都青年用白纸迎接习近平。《老灯开讲第345期》</a></li>
 <li><a href="/comments/20230727/1912582.md">秦刚丢官丢一半有玄机？兵变逼近中南海</a></li>
 <li><a href="/topimagenews/20230727/1912849.md">习近平亲信接连“被消失”！秦刚之外 还有一位重量级大员</a></li>
 <li><a href="/cnnews/20230727/1912646.md">形势严峻！北京等10省市高度戒备</a></li>
 <li><a href="/cnnews/20230727/1912652.md">秦刚是在美间谍网最大情报头子？解放军出大事了?</a></li>
 <li><a href="/sohnews/20230727/1912543.md">傅晓田起步无期？旧帖被翻列罪状；20连问寻秦，间谍头子早出事？【新闻看点 李沐阳7.26】</a></li>
 <li><a href="/cbnews/20230727/1912740.md">〖兲朝浮世绘〗发言人毛宁心里当时应该装了一万匹羊驼在奔腾</a></li>
-<li><a href="/sohnews/20230727/1912533.md">秦刚大事不妙？党媒发文释放信号；怕什么？齐齐哈尔坍塌案，家长不签字，不让见孩子遗体；王毅回锅，头衔未变，过渡性外长？</a></li>
 <li><a href="/topimagenews/20230727/1912939.md">太有才了！记者把中共发言人问的绷不住了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230727/1912880.md">中共高层史所未见厮杀 秦刚事件另一只靴子</a></li>
 <li><a href="/cbnews/20230727/1912912.md">秦刚卷入火箭军泄密案? 前副司令惊传被自杀</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/ssgc/20230727/1912995.md">中泽克二：秦刚被免职与回应拜登言论有关</a></li>
 <li><a href="/baitai/20230727/1912977.md">泪奔！中国密集上演「中年个体户失败记」30多万餐厅倒闭 老板崩溃砸店</a></li>
 <li><a href="/topimagenews/20230727/1912949.md">乌防空系统立功！用战略轰炸机投射 俄36枚巡弋导弹遭击落</a></li>
+<li><a href="/ssgc/20230727/1912747.md">〖微博谈〗这戏还得演下去</a></li>
+<li><a href="/cnnews/20230727/1912648.md">惊人一幕：天津南开小学密密麻麻跪倒一片</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230728/1913131.md" target="_blank">吴嘉隆：中国银行可能撑不住了！耶伦来中国摸底，美国准备应对中国的金融危机；中共新经济班子毫无对策，对民企政策就是这4个字！｜#方菲时间</a></li>
 <li><a href="/comments/20230727/1912983.md" target="_blank">麦康奈尔突然凝固。川普任命的女法官否决亨特认罪协议。拷问检察官，现场惊愕。</a></li>
 <li><a href="/cbnews/20230727/1912925.md" target="_blank">太惨了！未婚妻偷吃 3宝爸怒找准岳父退婚“讨12万聘礼”惨遇害</a></li>
 <li><a href="/cbnews/20230727/1912912.md" target="_blank">秦刚卷入火箭军泄密案? 前副司令惊传被自杀</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/comments/20230726/1912300.md" target="_blank">秦刚被免职，官方不提原因，外交部网站已查无此人；剧终还是下半场上演？｜江峰 唐靖远 方伟 方菲 David ｜围炉夜话 07/25</a></li>
 <li><a href="/cbnews/20230725/1912232.md" target="_blank">中国外交部官网 秦刚的部长数据已被清空</a></li>
 <li><a href="/comments/20230725/1912204.md" target="_blank">中共公布秦刚处理 问题比答案还多</a></li>
-<li><a href="/cbnews/20230725/1912197.md" target="_blank">昔批阿扁“苍蝇碰壁”秦刚三级跳创传奇 仍任国委动向待观察</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230728/1913128.md" target="_blank">事实远超想象！这颗深藏已久的雷 随时可能引爆</a></li>
+<li><a href="/topimagenews/20230728/1913127.md" target="_blank">反攻第二阶段！乌军突然猛攻 突破俄第一道防线</a></li>
 <li><a href="/topimagenews/20230728/1913075.md" target="_blank">美再升息 谢金河：全球金融杀戮战才刚开始 香港有苦难言</a></li>
 <li><a href="/topimagenews/20230727/1912949.md" target="_blank">乌防空系统立功！用战略轰炸机投射 俄36枚巡弋导弹遭击落</a></li>
 <li><a href="/topimagenews/20230727/1912940.md" target="_blank">美有“非人类”飞行员遗骸! 前情报官控 :白宫搞“逆向工程”隐瞒UFO资讯</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20230725/1912126.md" target="_blank">稀土不再是中共杀手锏？外媒揭这国惊人进展：出乎意料</a></li>
 <li><a href="/topimagenews/20230725/1912125.md" target="_blank">可停航母! 中共在柬埔寨建码头 美忧情势复杂化：“不能任意轰炸”</a></li>
 <li><a href="/topimagenews/20230725/1912117.md" target="_blank">乌军巴赫穆特突破！壕沟战 成功歼灭俄军并前进…</a></li>
-<li><a href="/topimagenews/20230725/1912089.md" target="_blank">俄罗斯玩“危险游戏”？俄袭击罗马尼亚对岸雷尼港粮仓 波兰急派装甲车赴边界…</a></li>
-<li><a href="/topimagenews/20230725/1912088.md" target="_blank">这两段已说明问题！中共政治局会议解读</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230728/1913131.md" target="_blank">吴嘉隆：中国银行可能撑不住了！耶伦来中国摸底，美国准备应对中国的金融危机；中共新经济班子毫无对策，对民企政策就是这4个字！｜#方菲时间</a></li>
 <li><a href="/comments/20230728/1913052.md" target="_blank">评论 | 魏京生：习近平的靴子</a></li>
 <li><a href="/comments/20230727/1913029.md" target="_blank">马斯克直接拿走@X帐号 原用户帐号被改成@12345678998765</a></li>
 <li><a href="/comments/20230727/1913026.md" target="_blank">【独家重磅】李燕铭：亲美派外交部长秦刚诡异下台 一年前亲俄派外交部常务副部长乐玉成被调离贬职 中共亲美亲俄外交路线之争激烈异常 秦刚事件三大赢家和两大输家 习近平一人无法决定秦刚命运 秦刚出事前后普京铁杆亲信与红粉知己接连访华 细思极恐内幕揭秘 秦刚出事深度内幕（9） 北戴河会议大战内幕（63） 中南海政变与反政变（92） 习近平连任与中共末日（141）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230727/1912591.md" target="_blank">译丛：俄罗斯面临的新威胁：邻国中共国</a></li>
 <li><a href="/comments/20230727/1912590.md" target="_blank">译丛:共产主义的致命弱点、威慑力和汲取苏联教训</a></li>
 <li><a href="/comments/20230727/1912589.md" target="_blank">民间秩序与官方秩序</a></li>
-<li><a href="/comments/20230727/1912588.md" target="_blank">林保华：韩战停战七十周年启示</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
 <li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 
 </ul>
 </div>
