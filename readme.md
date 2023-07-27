@@ -8,26 +8,26 @@
 <li><a href="/sohnews/20230727/1912508.md">“秦刚被免职后！傅晓田更新了自己的微博”No.01（07/26/23）与习近平很默契！#秦刚傅晓田</a></li>
 <li><a href="/sohnews/20230727/1912532.md">北戴河会议严重左转，中央警卫局现任局长暗害前局长，成都青年用白纸迎接习近平。《老灯开讲第345期》</a></li>
 <li><a href="/comments/20230726/1912500.md">外交部网站删光秦刚资讯 一张照片露端倪 恐6月初就知道自己不妙</a></li>
-<li><a href="/sohnews/20230726/1912495.md">🔥秦刚被免，发言人毛宁被连番连问，有个问题结巴了；秦刚6月初照片被翻出，坐姿随意，无精打彩；习近平尴尬撤秦刚，党媒跟进暗批；离了大谱，缅北诈骗犯儿子要来上北大了</a></li>
 <li><a href="/sohnews/20230727/1912528.md">史无前例！外交部奇葩记者会，毛宁咬死一句话；党媒头版暗示秦刚出事原因；缓期执行与“社死”有关？秦刚驻美外交秘闻</a></li>
 <li><a href="/topimagenews/20230727/1912849.md">习近平亲信接连“被消失”！秦刚之外 还有一位重量级大员</a></li>
 <li><a href="/comments/20230727/1912582.md">秦刚丢官丢一半有玄机？兵变逼近中南海</a></li>
 <li><a href="/sohnews/20230727/1912513.md">“老天要灭中共！新驻美大使为秦刚：付出惨重代价！”No.03（07/26/23）#秦刚傅晓田</a></li>
-<li><a href="/cbnews/20230727/1912740.md">〖兲朝浮世绘〗发言人毛宁心里当时应该装了一万匹羊驼在奔腾</a></li>
 <li><a href="/sohnews/20230727/1912543.md">傅晓田起步无期？旧帖被翻列罪状；20连问寻秦，间谍头子早出事？【新闻看点 李沐阳7.26】</a></li>
+<li><a href="/cbnews/20230727/1912740.md">〖兲朝浮世绘〗发言人毛宁心里当时应该装了一万匹羊驼在奔腾</a></li>
 <li><a href="/cnnews/20230727/1912652.md">秦刚是在美间谍网最大情报头子？解放军出大事了?</a></li>
 <li><a href="/sohnews/20230727/1912533.md">秦刚大事不妙？党媒发文释放信号；怕什么？齐齐哈尔坍塌案，家长不签字，不让见孩子遗体；王毅回锅，头衔未变，过渡性外长？</a></li>
 <li><a href="/cnnews/20230727/1912646.md">形势严峻！北京等10省市高度戒备</a></li>
-<li><a href="/cnnews/20230727/1912644.md">小学生作文《热死了》火了，老师：我拜你为师吧</a></li>
 <li><a href="/comments/20230727/1912825.md">神秘茶友现身：我和秦刚一起长大，秦刚身世在这，你们全猜错了！吴亦凡救秦刚彻底失败</a></li>
+<li><a href="/cnnews/20230727/1912644.md">小学生作文《热死了》火了，老师：我拜你为师吧</a></li>
 <li><a href="/topimagenews/20230727/1912880.md">中共高层史所未见厮杀 秦刚事件另一只靴子</a></li>
 <li><a href="/yule/20230727/1912663.md">貂蝉长相被还原了！陆网曝：超像当今1女星 红到你我都听过</a></li>
 <li><a href="/topimagenews/20230727/1912848.md">临终之前不放过！中共用极无耻手段性虐待 旁边有人全程录像</a></li>
-<li><a href="/cnnews/20230727/1912616.md">“政令不出中南海” 独裁政府折腾不到老百姓了【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230727/1912658.md">惊曝！秦刚的存在威胁到外交系统人身家性命</a></li>
 <li><a href="/cbnews/20230727/1912912.md">秦刚卷入火箭军泄密案? 前副司令惊传被自杀</a></li>
-<li><a href="/ssgc/20230727/1912747.md">〖微博谈〗这戏还得演下去</a></li>
+<li><a href="/cnnews/20230727/1912658.md">惊曝！秦刚的存在威胁到外交系统人身家性命</a></li>
+<li><a href="/cnnews/20230727/1912616.md">“政令不出中南海” 独裁政府折腾不到老百姓了【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230726/1912505.md">“中南海闹鬼！秦刚一词-中央与外交部：阴阳两重天！”《今日点击》（07/26/23）#秦刚傅晓田</a></li>
+<li><a href="/ssgc/20230727/1912747.md">〖微博谈〗这戏还得演下去</a></li>
+<li><a href="/topimagenews/20230727/1912847.md">秦刚被送到秦城监狱? 矢板明夫：习政权远远没有外部想的那么安定</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230727/1913000.md" target="_blank">文昭：秦刚被免，只是热剧第一季季终，下一个大瓜在这里</a></li>
 <li><a href="/comments/20230727/1912988.md" target="_blank">【未普评论】用社会协商对话解决社会冲突，89民运是一场失败的伟大实验（中）</a></li>
 <li><a href="/comments/20230727/1912983.md" target="_blank">麦康奈尔突然凝固。川普任命的女法官否决亨特认罪协议。拷问检察官，现场惊愕。</a></li>
 <li><a href="/comments/20230727/1912875.md" target="_blank">刀郎 《山歌寥哉》11首完整版 歌词+lyric MV 序曲/罗刹海市/花妖/镜听/路南柯/颠倒歌/画壁/珠儿/翩翩/画皮/未来的底片</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230727/1912586.md" target="_blank">网海拾贝:经济形势严峻 习近平无计可施</a></li>
 <li><a href="/comments/20230727/1912585.md" target="_blank">陆客：对《爱国主义教育法》的重要讲解</a></li>
 <li><a href="/comments/20230727/1912584.md" target="_blank">惠虎宇：中华民国战胜中共的上兵之道</a></li>
-<li><a href="/comments/20230727/1912583.md" target="_blank">周晓辉：王毅再任外长有因 秦刚未卸国务委员</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
 
 </ul>
 </div>
