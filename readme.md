@@ -7,7 +7,6 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230728/1913225.md">突发！外交部重新上架秦刚信息 习意欲何为</a></li>
 <li><a href="/cnnews/20230728/1913093.md">齐齐哈尔塌顶事故后，一个神秘家族出现了….</a></li>
-<li><a href="/ssgc/20230727/1912995.md">中泽克二：秦刚被免职与回应拜登言论有关</a></li>
 <li><a href="/sohnews/20230728/1913069.md">“有人保他！秦刚有下落了 习氏中共遇天敌：女人”No.03（07/27/23）</a></li>
 <li><a href="/comments/20230728/1913223.md">天亮时分：正国级大人物将去世，会是谁？秦刚为何免职，全国政协委员如是说；中共外交困境日益加剧（政论天下第1069集 20230727）天亮时分</a></li>
 <li><a href="/comments/20230728/1913131.md">吴嘉隆：中国银行可能撑不住了！耶伦来中国摸底，美国准备应对中国的金融危机；中共新经济班子毫无对策，对民企政策就是这4个字！｜#方菲时间</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/topimagenews/20230728/1913075.md">美再升息 谢金河：全球金融杀戮战才刚开始 香港有苦难言</a></li>
 <li><a href="/topimagenews/20230728/1913174.md">傅晓田不简单 传这国总理遭色诱被迫闪电辞职</a></li>
 <li><a href="/topimagenews/20230728/1913240.md">震惊中国 国际悍然！许家印为什么可以全身而退？【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230728/1913276.md">江峰：傅晓田真正贵人早在黎亮之前；火箭军一锅端真相大白，祸首是它！秦刚促美国高层连续访华，也种下被举报落马祸根；上海齐齐哈尔路草木皆兵；普京访华，中共亲俄抗美战狼回归【江峰漫谈20230727第703期】</a></li>
 <li><a href="/topimagenews/20230728/1913128.md">事实远超想象！这颗深藏已久的雷 随时可能引爆</a></li>
+<li><a href="/cbnews/20230728/1913276.md">江峰：傅晓田真正贵人早在黎亮之前；火箭军一锅端真相大白，祸首是它！秦刚促美国高层连续访华，也种下被举报落马祸根；上海齐齐哈尔路草木皆兵；普京访华，中共亲俄抗美战狼回归【江峰漫谈20230727第703期】</a></li>
 <li><a href="/cbnews/20230728/1913258.md">〖兲朝浮世绘〗跟着党的指挥走 中圈套了吧</a></li>
 <li><a href="/headline/20230728/1913126.md">秘不发丧 从火箭军副司令吴国华神秘死亡说起</a></li>
 <li><a href="/cnnews/20230728/1913117.md">爱妻每天站门口迎接丈夫下班 竟产生深远影响</a></li>
-<li><a href="/cbnews/20230728/1913226.md">王毅直飞成都陪习近平 外交部再拒谈秦刚</a></li>
 <li><a href="/comments/20230728/1913277.md">更多秦刚身世资讯流出！秦刚认真跪舔习近平到魔怔程度，西方外交官惊爆：逆淘汰坑了好孩子</a></li>
+<li><a href="/cbnews/20230728/1913226.md">王毅直飞成都陪习近平 外交部再拒谈秦刚</a></li>
 <li><a href="/cnnews/20230728/1913088.md">神秘消失的傅小姐</a></li>
 <li><a href="/sohnews/20230728/1913108.md">两大军头神秘猝死，军方为何秘不发丧？传网络APP准备“变灰”，最高层重量级人物出事？3大敏感时间点诡异同步；秦刚复现外交部网站</a></li>
+<li><a href="/cbnews/20230728/1913292.md">消失跟外遇无关！财经网美：秦刚是习近平舔狗，风头过了还有前程</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
 
 </ul>
 </div>
