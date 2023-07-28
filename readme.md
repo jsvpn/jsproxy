@@ -10,24 +10,24 @@
 <li><a href="/baitai/20230727/1912990.md">台湾学者分析 习围魏救赵 中共军队出大事</a></li>
 <li><a href="/cnnews/20230728/1913093.md">齐齐哈尔塌顶事故后，一个神秘家族出现了….</a></li>
 <li><a href="/comments/20230728/1913131.md">吴嘉隆：中国银行可能撑不住了！耶伦来中国摸底，美国准备应对中国的金融危机；中共新经济班子毫无对策，对民企政策就是这4个字！｜#方菲时间</a></li>
-<li><a href="/ccpdope/20230727/1912992.md">火箭军前副司令吴国华7月初已死 官方为何密不发丧</a></li>
+<li><a href="/topimagenews/20230728/1913225.md">突发！外交部重新上架秦刚信息 习意欲何为</a></li>
 <li><a href="/ssgc/20230727/1912995.md">中泽克二：秦刚被免职与回应拜登言论有关</a></li>
+<li><a href="/ccpdope/20230727/1912992.md">火箭军前副司令吴国华7月初已死 官方为何密不发丧</a></li>
 <li><a href="/headline/20230727/1912951.md">黑龙江体育馆坍塌 家长不满签保密协议才可认尸与官员对骂</a></li>
 <li><a href="/baitai/20230727/1912977.md">泪奔！中国密集上演「中年个体户失败记」30多万餐厅倒闭 老板崩溃砸店</a></li>
 <li><a href="/baitai/20230728/1913068.md">刀郎的新歌，为什么要“生儿维特根斯坦”</a></li>
 <li><a href="/sohnews/20230728/1913069.md">“有人保他！秦刚有下落了 习氏中共遇天敌：女人”No.03（07/27/23）</a></li>
 <li><a href="/topimagenews/20230728/1913075.md">美再升息 谢金河：全球金融杀戮战才刚开始 香港有苦难言</a></li>
 <li><a href="/topimagenews/20230727/1912949.md">乌防空系统立功！用战略轰炸机投射 俄36枚巡弋导弹遭击落</a></li>
-<li><a href="/topimagenews/20230728/1913225.md">突发！外交部重新上架秦刚信息 习意欲何为</a></li>
 <li><a href="/cnnews/20230727/1913020.md">秦刚情妇“渗透总理”！微博没注销要把他斗臭</a></li>
 <li><a href="/topimagenews/20230727/1912908.md">习将出席的成都世大运 禁止特斯拉开入管制区域</a></li>
 <li><a href="/ssgc/20230728/1913121.md">〖微博谈〗所有的政治问题都归结为一件事</a></li>
 <li><a href="/comments/20230727/1912983.md">麦康奈尔突然凝固。川普任命的女法官否决亨特认罪协议。拷问检察官，现场惊愕。</a></li>
+<li><a href="/topimagenews/20230728/1913128.md">事实远超想象！这颗深藏已久的雷 随时可能引爆</a></li>
+<li><a href="/cnnews/20230728/1913117.md">爱妻每天站门口迎接丈夫下班 竟产生深远影响</a></li>
 <li><a href="/topimagenews/20230727/1912940.md">美有“非人类”飞行员遗骸! 前情报官控 :白宫搞“逆向工程”隐瞒UFO资讯</a></li>
 <li><a href="/topimagenews/20230727/1912909.md">美防长:中共若武力犯台 美4航母将发兵助国军…</a></li>
 <li><a href="/cbnews/20230727/1912898.md">中少将在美狂言不计代价统一台湾！美参院马上打脸：联大2758决议不涉台</a></li>
-<li><a href="/cnnews/20230728/1913088.md">神秘消失的傅小姐</a></li>
-<li><a href="/cnnews/20230728/1913117.md">爱妻每天站门口迎接丈夫下班 竟产生深远影响</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
 
 </ul>
 </div>
