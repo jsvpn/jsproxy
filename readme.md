@@ -13,7 +13,6 @@
 <li><a href="/sohnews/20230728/1913293.md">冒死听床：傅晓田竟然是习总的女人，秦刚只是代持；王小洪要做枪杀总统的金载圭；火箭军副司令吴国华自尽消息公布。《老灯开讲第346期》</a></li>
 <li><a href="/baitai/20230728/1913068.md">刀郎的新歌，为什么要“生儿维特根斯坦”</a></li>
 <li><a href="/topimagenews/20230728/1913336.md">新剧情出现！王毅又出状况！中共外交不断“开创新局面”【阿波罗网】</a></li>
-<li><a href="/cnnews/20230727/1913020.md">秦刚情妇“渗透总理”！微博没注销要把他斗臭</a></li>
 <li><a href="/ssgc/20230728/1913121.md">〖微博谈〗所有的政治问题都归结为一件事</a></li>
 <li><a href="/topimagenews/20230728/1913075.md">美再升息 谢金河：全球金融杀戮战才刚开始 香港有苦难言</a></li>
 <li><a href="/topimagenews/20230728/1913174.md">傅晓田不简单 传这国总理遭色诱被迫闪电辞职</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/cbnews/20230728/1913276.md">江峰：傅晓田真正贵人早在黎亮之前；火箭军一锅端真相大白，祸首是它！秦刚促美国高层连续访华，也种下被举报落马祸根；上海齐齐哈尔路草木皆兵；普京访华，中共亲俄抗美战狼回归【江峰漫谈20230727第703期】</a></li>
 <li><a href="/topimagenews/20230728/1913128.md">事实远超想象！这颗深藏已久的雷 随时可能引爆</a></li>
 <li><a href="/cbnews/20230728/1913258.md">〖兲朝浮世绘〗跟着党的指挥走 中圈套了吧</a></li>
-<li><a href="/headline/20230728/1913126.md">秘不发丧 从火箭军副司令吴国华神秘死亡说起</a></li>
 <li><a href="/comments/20230728/1913277.md">更多秦刚身世资讯流出！秦刚认真跪舔习近平到魔怔程度，西方外交官惊爆：逆淘汰坑了好孩子</a></li>
-<li><a href="/cnnews/20230728/1913117.md">爱妻每天站门口迎接丈夫下班 竟产生深远影响</a></li>
+<li><a href="/headline/20230728/1913126.md">秘不发丧 从火箭军副司令吴国华神秘死亡说起</a></li>
 <li><a href="/cbnews/20230728/1913226.md">王毅直飞成都陪习近平 外交部再拒谈秦刚</a></li>
+<li><a href="/cnnews/20230728/1913117.md">爱妻每天站门口迎接丈夫下班 竟产生深远影响</a></li>
 <li><a href="/cnnews/20230728/1913088.md">神秘消失的傅小姐</a></li>
 <li><a href="/cbnews/20230728/1913292.md">消失跟外遇无关！财经网美：秦刚是习近平舔狗，风头过了还有前程</a></li>
 <li><a href="/sohnews/20230728/1913108.md">两大军头神秘猝死，军方为何秘不发丧？传网络APP准备“变灰”，最高层重量级人物出事？3大敏感时间点诡异同步；秦刚复现外交部网站</a></li>
+<li><a href="/sohnews/20230727/1913038.md">“习近平梦想💭：王沪宁-收台湾 蔡奇主内 秦刚主外”《今日点击》（07/27/23）人算不如天算#秦刚傅晓田</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 <li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
 <li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 <li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
 
 </ul>
 </div>
