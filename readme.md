@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20230729/1913604.md">北京撕破脸！美揭中共军援俄</a></li>
 <li><a href="/topimagenews/20230729/1913539.md">战狼没用！一个小国竟然救出604名被贩卖中国人</a></li>
 <li><a href="/comments/20230729/1913641.md">菁英论坛:北京上海同出大事 中共气数将尽</a></li>
+<li><a href="/headline/20230729/1913818.md">吴祚来：王毅在外交部的内部讲话（请勿外传）</a></li>
 <li><a href="/cnnews/20230729/1913764.md">成都大运会 习近平被砸场子！中共内斗暗流涌动【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230729/1913584.md">〖兲朝浮世绘〗在印度挣钱必须全交，一卢比也别想带走</a></li>
 <li><a href="/topimagenews/20230729/1913760.md">中南海堵住了 难怪大家会想很多</a></li>
-<li><a href="/headline/20230729/1913818.md">吴祚来：王毅在外交部的内部讲话（请勿外传）</a></li>
 <li><a href="/baitai/20230729/1913779.md">官方公告露端倪 防长李尚福危矣？火箭军成大清洗风暴眼</a></li>
 <li><a href="/yule/20230729/1913623.md">刀郎名下公司，全部注销！拒接受采访</a></li>
 <li><a href="/comments/20230729/1913745.md">【新闻拍案惊奇】北京知情人曝秦刚出事经过</a></li>
 <li><a href="/baitai/20230729/1913724.md">危机！习近平治国，“四子”中的“三子”都出了大问题！普京示弱？普里戈津高调现身俄非峰会 【国际风云】危机！习近平治国，“四子”中的“三子”都出了大问题！普京示弱？普里戈津高调现身俄非峰会 【国际风云】</a></li>
-<li><a href="/sohnews/20230729/1913777.md">王芳突然被转移 事件升级？｜ #百年真相</a></li>
-<li><a href="/sohnews/20230729/1913797.md">秦刚重回外交部网站，处罚到此为止？能把几件事全部联系起来的爆料，APEC美国不邀请李家超，中共“严正交涉”</a></li>
-<li><a href="/comments/20230729/1913602.md">文昭：刀郎新歌《罗刹海市》的後一半隐喻才真厉害，却无人能懂！会实现吗？</a></li>
 <li><a href="/sohnews/20230729/1913832.md">🔥习近平“挥泪斩战书” ？女儿女婿惹事生非…；大逆转 栗战书女儿获任香港“太平绅士”曾被曝奢华豪宅；布林肯：俄防长访朝鲜 意在寻求武器；美情报总监报告：中共支持对俄持续战事起关键作用【阿波罗网AL】</a></li>
+<li><a href="/sohnews/20230729/1913797.md">秦刚重回外交部网站，处罚到此为止？能把几件事全部联系起来的爆料，APEC美国不邀请李家超，中共“严正交涉”</a></li>
+<li><a href="/sohnews/20230729/1913777.md">王芳突然被转移 事件升级？｜ #百年真相</a></li>
+<li><a href="/comments/20230729/1913602.md">文昭：刀郎新歌《罗刹海市》的後一半隐喻才真厉害，却无人能懂！会实现吗？</a></li>
 <li><a href="/comments/20230729/1913599.md">中国70%以上的民企已经消失！打压民企是中共“初心”；北上广深房价大跌，1%以上房屋已经断供 ｜胡力任｜#方菲时间</a></li>
-<li><a href="/topimagenews/20230729/1913551.md">战狼还是外交美男子？台媒讲述王毅的几件事</a></li>
+<li><a href="/sohnews/20230729/1913812.md">成都大运会“气象武器”曝光，万人戴尿布迎接习近平；台风“杜苏芮”福建肆虐；秦刚回马枪，外交部网站再现；台议员吕美玲引众怒宣布退党；香港高院拒绝禁歌。</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
 <li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
 
 </ul>
 </div>
