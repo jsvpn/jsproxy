@@ -17,17 +17,17 @@
 <li><a href="/cnnews/20230729/1913764.md">成都大运会 习近平被砸场子！中共内斗暗流涌动【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230729/1913584.md">〖兲朝浮世绘〗在印度挣钱必须全交，一卢比也别想带走</a></li>
 <li><a href="/topimagenews/20230729/1913760.md">中南海堵住了 难怪大家会想很多</a></li>
+<li><a href="/headline/20230729/1913818.md">吴祚来：王毅在外交部的内部讲话（请勿外传）</a></li>
 <li><a href="/baitai/20230729/1913779.md">官方公告露端倪 防长李尚福危矣？火箭军成大清洗风暴眼</a></li>
 <li><a href="/yule/20230729/1913623.md">刀郎名下公司，全部注销！拒接受采访</a></li>
-<li><a href="/headline/20230729/1913818.md">吴祚来：王毅在外交部的内部讲话（请勿外传）</a></li>
 <li><a href="/comments/20230729/1913745.md">【新闻拍案惊奇】北京知情人曝秦刚出事经过</a></li>
 <li><a href="/baitai/20230729/1913724.md">危机！习近平治国，“四子”中的“三子”都出了大问题！普京示弱？普里戈津高调现身俄非峰会 【国际风云】危机！习近平治国，“四子”中的“三子”都出了大问题！普京示弱？普里戈津高调现身俄非峰会 【国际风云】</a></li>
 <li><a href="/sohnews/20230729/1913777.md">王芳突然被转移 事件升级？｜ #百年真相</a></li>
-<li><a href="/comments/20230729/1913602.md">文昭：刀郎新歌《罗刹海市》的後一半隐喻才真厉害，却无人能懂！会实现吗？</a></li>
-<li><a href="/comments/20230729/1913599.md">中国70%以上的民企已经消失！打压民企是中共“初心”；北上广深房价大跌，1%以上房屋已经断供 ｜胡力任｜#方菲时间</a></li>
 <li><a href="/sohnews/20230729/1913797.md">秦刚重回外交部网站，处罚到此为止？能把几件事全部联系起来的爆料，APEC美国不邀请李家超，中共“严正交涉”</a></li>
+<li><a href="/comments/20230729/1913602.md">文昭：刀郎新歌《罗刹海市》的後一半隐喻才真厉害，却无人能懂！会实现吗？</a></li>
+<li><a href="/sohnews/20230729/1913832.md">🔥习近平“挥泪斩战书” ？女儿女婿惹事生非…；大逆转 栗战书女儿获任香港“太平绅士”曾被曝奢华豪宅；布林肯：俄防长访朝鲜 意在寻求武器；美情报总监报告：中共支持对俄持续战事起关键作用【阿波罗网AL】</a></li>
+<li><a href="/comments/20230729/1913599.md">中国70%以上的民企已经消失！打压民企是中共“初心”；北上广深房价大跌，1%以上房屋已经断供 ｜胡力任｜#方菲时间</a></li>
 <li><a href="/topimagenews/20230729/1913551.md">战狼还是外交美男子？台媒讲述王毅的几件事</a></li>
-<li><a href="/sohnews/20230729/1913647.md">俄军第一道防线大破！普京求和谈？俄海军阅兵节在即，提心吊胆装新系统；尼日尔兵变，俄叛军大赞，不忘推销雇佣军服务；“杜苏芮”夜入江西8小时，直逼中南海！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
 <li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
 
 </ul>
 </div>
