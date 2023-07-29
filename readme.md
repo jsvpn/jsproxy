@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20230728/1913443.md">秦刚回到官网！秦刚讨好习近平细节曝光，习近平尴尬无人可用，齐齐哈尔家长被逼签字，孩子走了还是软肋（小木谈天第364 20230728）</a></li>
 <li><a href="/topimagenews/20230728/1913399.md">定局 中共红朝覆灭！王朝都是财空始覆灭；“政令不出中南海” 独裁政权折腾不到老百姓</a></li>
-<li><a href="/ssgc/20230728/1913415.md">习近平之乱：高层乱，官场乱，内政外交乱</a></li>
 <li><a href="/ccpdope/20230729/1913486.md">知情人：秦刚犯大忌 红二代借刀杀人</a></li>
+<li><a href="/ssgc/20230728/1913415.md">习近平之乱：高层乱，官场乱，内政外交乱</a></li>
 <li><a href="/cnnews/20230728/1913402.md">前外长大热门乐玉成 被免去国家广电总局副局长职务</a></li>
 <li><a href="/sohnews/20230729/1913553.md">火箭军团灭坐实！吴国华上吊地点照片曝光！案件规模远超孙力军，习近平攻台受重挫；一份招标举报通告暗藏什么信息？</a></li>
 <li><a href="/cbnews/20230728/1913410.md">中国啤酒节“酒是假的、肉也假的” 德女抨击：吃完隔天就拉肚子</a></li>
@@ -16,15 +16,15 @@
 <li><a href="/ssgc/20230729/1913589.md">〖微博谈〗秦刚事件尚未落幕</a></li>
 <li><a href="/sohnews/20230728/1913420.md">秦刚“死而复生”……中共中央党报指桑骂槐！</a></li>
 <li><a href="/sohnews/20230729/1913590.md">胆大包天斩立决，习98字批示；傅晓田闺蜜删帖，三峡石头运剑桥；秦刚成心腹宠臣的秘密【新闻看点 李沐阳7.28】</a></li>
-<li><a href="/yule/20230728/1913371.md">杨坤回应《罗刹海市》不给刀郎道歉,小心眼暴露</a></li>
-<li><a href="/topimagenews/20230729/1913604.md">北京撕破脸！美揭中共军援俄</a></li>
 <li><a href="/sohnews/20230729/1913691.md">秦刚真实出身；女同学透漏秦刚火箭窜升，背后仅一人。</a></li>
+<li><a href="/topimagenews/20230729/1913604.md">北京撕破脸！美揭中共军援俄</a></li>
 <li><a href="/topimagenews/20230729/1913539.md">战狼没用！一个小国竟然救出604名被贩卖中国人</a></li>
 <li><a href="/comments/20230729/1913641.md">菁英论坛:北京上海同出大事 中共气数将尽</a></li>
+<li><a href="/cbnews/20230729/1913584.md">〖兲朝浮世绘〗在印度挣钱必须全交，一卢比也别想带走</a></li>
 <li><a href="/sohnews/20230728/1913449.md">浙江公安厅长王芳，被称为毛泽东的“大警卫员”，与毛吃饭、喝酒、聊天。但到十年“文革”，王芳却倒了大霉，被整了足足8年，这是为什么呢？｜ #百年真相</a></li>
 <li><a href="/yule/20230729/1913623.md">刀郎名下公司，全部注销！拒接受采访</a></li>
-<li><a href="/cbnews/20230729/1913584.md">〖兲朝浮世绘〗在印度挣钱必须全交，一卢比也别想带走</a></li>
 <li><a href="/sohnews/20230728/1913390.md">习还敢出兵台海？12项关键线索，预见中共出兵时机？四大凶险，拖垮中共动武计画？（2023.7.28）｜世界的十字路口 唐浩</a></li>
+<li><a href="/sohnews/20230729/1913647.md">俄军第一道防线大破！普京求和谈？俄海军阅兵节在即，提心吊胆装新系统；尼日尔兵变，俄叛军大赞，不忘推销雇佣军服务；“杜苏芮”夜入江西8小时，直逼中南海！</a></li>
 <li><a href="/comments/20230729/1913602.md">文昭：刀郎新歌《罗刹海市》的後一半隐喻才真厉害，却无人能懂！会实现吗？</a></li>
 <li><a href="/topimagenews/20230728/1913395.md">万安演习画面传中国！陆网惊呼：台湾有战斗力</a></li>
 <li><a href="/sohnews/20230728/1913441.md">🔥秦刚倒台 王毅被策反 习皇帝宝座动摇；中共国国际地位惨跌！遭24国踩脸；习近平出席大运会开幕 要求关窗拉窗帘 市内禁遥控器；消失跟外遇无关！财经网美：秦刚是习舔狗，风头过了还有前程【阿波罗网AZ】</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
 <li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
 
 </ul>
 </div>
