@@ -13,21 +13,21 @@
 <li><a href="/cnnews/20230728/1913402.md">前外长大热门乐玉成 被免去国家广电总局副局长职务</a></li>
 <li><a href="/sohnews/20230729/1913553.md">火箭军团灭坐实！吴国华上吊地点照片曝光！案件规模远超孙力军，习近平攻台受重挫；一份招标举报通告暗藏什么信息？</a></li>
 <li><a href="/ccpdope/20230729/1913486.md">知情人：秦刚犯大忌 红二代借刀杀人</a></li>
-<li><a href="/cbnews/20230729/1913541.md">3人被带走 港媒确认火箭军高层出事</a></li>
 <li><a href="/cbnews/20230728/1913410.md">中国啤酒节“酒是假的、肉也假的” 德女抨击：吃完隔天就拉肚子</a></li>
+<li><a href="/cbnews/20230729/1913541.md">3人被带走 港媒确认火箭军高层出事</a></li>
 <li><a href="/yule/20230728/1913371.md">杨坤回应《罗刹海市》不给刀郎道歉,小心眼暴露</a></li>
 <li><a href="/ssgc/20230729/1913589.md">〖微博谈〗秦刚事件尚未落幕</a></li>
 <li><a href="/sohnews/20230728/1913420.md">秦刚“死而复生”……中共中央党报指桑骂槐！</a></li>
 <li><a href="/yule/20230728/1913360.md">撕破脸 李玟老公突然宣布放弃财产 二姐反应曝光</a></li>
 <li><a href="/topimagenews/20230729/1913604.md">北京撕破脸！美揭中共军援俄</a></li>
-<li><a href="/cnnews/20230728/1913327.md">秽土转生？秦刚任内资讯 被中共外交部重新上架 历任外长名单仍不见他</a></li>
 <li><a href="/topimagenews/20230729/1913539.md">战狼没用！一个小国竟然救出604名被贩卖中国人</a></li>
+<li><a href="/cnnews/20230728/1913327.md">秽土转生？秦刚任内资讯 被中共外交部重新上架 历任外长名单仍不见他</a></li>
 <li><a href="/sohnews/20230728/1913449.md">浙江公安厅长王芳，被称为毛泽东的“大警卫员”，与毛吃饭、喝酒、聊天。但到十年“文革”，王芳却倒了大霉，被整了足足8年，这是为什么呢？｜ #百年真相</a></li>
+<li><a href="/sohnews/20230729/1913590.md">胆大包天斩立决，习98字批示；傅晓田闺蜜删帖，三峡石头运剑桥；秦刚成心腹宠臣的秘密【新闻看点 李沐阳7.28】</a></li>
 <li><a href="/headline/20230728/1913349.md">美媒∶华府决禁香港领袖赴美出席APEC峰会 习近平出席现变数</a></li>
-<li><a href="/cnnews/hknews/20230728/1913302.md">台“美女”检察官不堪旧照流出 他崩溃不想面对</a></li>
 <li><a href="/sohnews/20230728/1913390.md">习还敢出兵台海？12项关键线索，预见中共出兵时机？四大凶险，拖垮中共动武计画？（2023.7.28）｜世界的十字路口 唐浩</a></li>
 <li><a href="/topimagenews/20230728/1913306.md">向后撤和逃跑的俄军开枪！“抖音军”最新大片 车臣军队战场“惊慌失措”…</a></li>
-<li><a href="/sohnews/20230729/1913590.md">胆大包天斩立决，习98字批示；傅晓田闺蜜删帖，三峡石头运剑桥；秦刚成心腹宠臣的秘密【新闻看点 李沐阳7.28】</a></li>
+<li><a href="/sohnews/20230728/1913441.md">🔥秦刚倒台 王毅被策反 习皇帝宝座动摇；中共国国际地位惨跌！遭24国踩脸；习近平出席大运会开幕 要求关窗拉窗帘 市内禁遥控器；消失跟外遇无关！财经网美：秦刚是习舔狗，风头过了还有前程【阿波罗网AZ】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 <li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
 
 </ul>
 </div>
