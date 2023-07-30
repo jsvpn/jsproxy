@@ -11,20 +11,20 @@
 <li><a href="/comments/20230730/1913985.md">【杰森视角】习近平近期为何让他的两员爱将失踪？中共政坛进入一个野心家用尽心机的时代！习近平为维护‘祖脉’再毁一省级大员！李玉超和秦刚有共同点！在一个最“二”的日子，习‘祖脉’被挖断！</a></li>
 <li><a href="/topimagenews/20230730/1913886.md">习近平新考验 到底来还是不来新一波考验</a></li>
 <li><a href="/topimagenews/20230730/1913897.md">纽时曝中共埋下“定时炸弹”！ 美正在追踪</a></li>
-<li><a href="/comments/20230730/1913872.md">栗战书女儿获任香港“太平绅士” 曾被曝奢华豪宅</a></li>
 <li><a href="/topimagenews/20230730/1914045.md">河北衡水发生大爆炸 现场一片狼藉 伤亡不明【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230730/1914053.md">打脸习近平！马克龙刚刚这样说，立刻被广而告之【阿波罗网报道】</a></li>
 <li><a href="/comments/20230730/1913910.md">发现存活外星人！</a></li>
+<li><a href="/topimagenews/20230730/1914053.md">打脸习近平！马克龙刚刚这样说，立刻被广而告之【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230730/1913907.md">〖微博谈〗这是对“信用”二字的莫大讽刺</a></li>
+<li><a href="/cbnews/20230730/1914127.md">赴美签证全面收紧 分析：仅仅是个开始</a></li>
 <li><a href="/cbnews/20230730/1914054.md">一边是盛世歌舞 一边是紧张维稳 成都大运会引热议</a></li>
 <li><a href="/comments/20230730/1913878.md">还原真相:共军首席AI专家冯旸赫的“七一之殇”</a></li>
-<li><a href="/cbnews/20230730/1914127.md">赴美签证全面收紧 分析：仅仅是个开始</a></li>
-<li><a href="/topimagenews/20230730/1914023.md">百年不遇！中国经济正在失去这大好机会</a></li>
 <li><a href="/topimagenews/20230730/1913889.md">又见实名举报 川大老师睡了自己的女博士助手</a></li>
+<li><a href="/topimagenews/20230730/1914023.md">百年不遇！中国经济正在失去这大好机会</a></li>
 <li><a href="/topimagenews/20230730/1913984.md">【微博精粹】生是软肋 死也是软肋</a></li>
 <li><a href="/topimagenews/20230730/1914017.md">零元蹭饭 中国大学生涌入美国超市 拿小纸杯混吃混喝/视频</a></li>
 <li><a href="/finance/20230730/1914055.md">中国消费再降级 青年人从“躺平”到“摆烂”</a></li>
 <li><a href="/topimagenews/20230730/1914052.md">“发大财”？巴基斯坦一带一路十周年 巴企怒：都给中国赚走了</a></li>
+<li><a href="/comments/20230730/1914124.md">秦刚事件对中共的3重影响；刀郎《罗刹海市》横空出世，为何点燃无数人心中的火？｜#方菲时间 07/29</a></li>
 <li><a href="/comments/20230730/1914095.md">刀郎新歌《罗刹海市》最土翻唱+最震解读！精准预言秦刚傅晓田火箭军窝案？现象级传播震了</a></li>
 <li><a href="/worldnews/20230730/1913956.md">印度孟买巨蟒直冲13楼 全身遭水泥裹住险成雕像</a></li>
 <li><a href="/topimagenews/20230730/1913990.md">快讯:莫斯科空域禁飞！乌无人机炸俄大楼曝光</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
 
 </ul>
 </div>
