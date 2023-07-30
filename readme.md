@@ -11,22 +11,22 @@
 <li><a href="/topimagenews/20230730/1913885.md">傅晓田在香港 想和这位高官女婿生孩子</a></li>
 <li><a href="/sohnews/20230730/1913855.md">“王沪宁将亡于台湾！习近平的余生 为台湾🇹🇼而存在！”No.01（07/29/23）#秦刚 #火箭部队 #台湾</a></li>
 <li><a href="/topimagenews/20230730/1913886.md">习近平新考验 到底来还是不来新一波考验</a></li>
-<li><a href="/comments/20230730/1913872.md">栗战书女儿获任香港“太平绅士” 曾被曝奢华豪宅</a></li>
 <li><a href="/yule/20230730/1913974.md">全网祝贺刀郎《罗刹海市》新歌发布,只有田震说得一针见血</a></li>
+<li><a href="/comments/20230730/1913872.md">栗战书女儿获任香港“太平绅士” 曾被曝奢华豪宅</a></li>
 <li><a href="/topimagenews/20230730/1913897.md">纽时曝中共埋下“定时炸弹”！ 美正在追踪</a></li>
 <li><a href="/comments/20230730/1913985.md">【杰森视角】习近平近期为何让他的两员爱将失踪？中共政坛进入一个野心家用尽心机的时代！习近平为维护‘祖脉’再毁一省级大员！李玉超和秦刚有共同点！在一个最“二”的日子，习‘祖脉’被挖断！</a></li>
-<li><a href="/ssgc/20230730/1913907.md">〖微博谈〗这是对“信用”二字的莫大讽刺</a></li>
-<li><a href="/comments/20230730/1913910.md">发现存活外星人！</a></li>
-<li><a href="/comments/20230730/1913878.md">还原真相:共军首席AI专家冯旸赫的“七一之殇”</a></li>
 <li><a href="/topimagenews/20230730/1914045.md">河北衡水发生大爆炸 现场一片狼藉 伤亡不明【阿波罗网报道】</a></li>
+<li><a href="/comments/20230730/1913910.md">发现存活外星人！</a></li>
+<li><a href="/ssgc/20230730/1913907.md">〖微博谈〗这是对“信用”二字的莫大讽刺</a></li>
+<li><a href="/topimagenews/20230730/1914053.md">打脸习近平！马克龙刚刚这样说，立刻被广而告之【阿波罗网报道】</a></li>
+<li><a href="/comments/20230730/1913878.md">还原真相:共军首席AI专家冯旸赫的“七一之殇”</a></li>
 <li><a href="/topimagenews/20230730/1913889.md">又见实名举报 川大老师睡了自己的女博士助手</a></li>
 <li><a href="/topimagenews/20230730/1913984.md">【微博精粹】生是软肋 死也是软肋</a></li>
-<li><a href="/ccpdope/20230730/1913846.md">你想不到的！习近平引红楼梦自曝亡党方式</a></li>
-<li><a href="/topimagenews/20230730/1914053.md">打脸习近平！马克龙刚刚这样说，立刻被广而告之【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230730/1914017.md">零元蹭饭 中国大学生涌入美国超市 拿小纸杯混吃混喝/视频</a></li>
-<li><a href="/topimagenews/20230730/1914023.md">百年不遇！中国经济正在失去这大好机会</a></li>
-<li><a href="/topimagenews/20230730/1913990.md">快讯:莫斯科空域禁飞！乌无人机炸俄大楼曝光</a></li>
 <li><a href="/cbnews/20230730/1914054.md">一边是盛世歌舞 一边是紧张维稳 成都大运会引热议</a></li>
+<li><a href="/ccpdope/20230730/1913846.md">你想不到的！习近平引红楼梦自曝亡党方式</a></li>
+<li><a href="/topimagenews/20230730/1914023.md">百年不遇！中国经济正在失去这大好机会</a></li>
+<li><a href="/topimagenews/20230730/1914017.md">零元蹭饭 中国大学生涌入美国超市 拿小纸杯混吃混喝/视频</a></li>
+<li><a href="/topimagenews/20230730/1913990.md">快讯:莫斯科空域禁飞！乌无人机炸俄大楼曝光</a></li>
 <li><a href="/worldnews/20230730/1913956.md">印度孟买巨蟒直冲13楼 全身遭水泥裹住险成雕像</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230730/1914124.md" target="_blank">秦刚事件对中共的3重影响；刀郎《罗刹海市》横空出世，为何点燃无数人心中的火？｜#方菲时间 07/29</a></li>
 <li><a href="/comments/20230730/1914096.md" target="_blank">令人惊叹的一幕：川普爱荷华演讲，响起著名爱国疗伤颂歌。川普宾州演讲，对共和党犀牛提出最严厉警告。#</a></li>
 <li><a href="/cbnews/20230730/1914054.md" target="_blank">一边是盛世歌舞 一边是紧张维稳 成都大运会引热议</a></li>
 <li><a href="/cbnews/20230730/1914043.md" target="_blank">重庆轨道闪爆 乘客被困车厢40分钟后砸开玻璃，律师：无需担责</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230729/1913599.md" target="_blank">中国70%以上的民企已经消失！打压民企是中共“初心”；北上广深房价大跌，1%以上房屋已经断供 ｜胡力任｜#方菲时间</a></li>
 <li><a href="/cbnews/20230729/1913584.md" target="_blank">〖兲朝浮世绘〗在印度挣钱必须全交，一卢比也别想带走</a></li>
 <li><a href="/cbnews/20230729/1913542.md" target="_blank">这武器让中共特别不高兴！中共跳脚：勿走绝路</a></li>
-<li><a href="/cbnews/20230729/1913541.md" target="_blank">3人被带走 港媒确认火箭军高层出事</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230730/1914124.md" target="_blank">秦刚事件对中共的3重影响；刀郎《罗刹海市》横空出世，为何点燃无数人心中的火？｜#方菲时间 07/29</a></li>
+<li><a href="/comments/20230730/1914123.md" target="_blank">【新闻拍案惊奇】鲜为人知的 俄军“性暴行”</a></li>
+<li><a href="/comments/20230730/1914122.md" target="_blank">【文昭谈古论今】《罗刹海市》的后一半隐喻才真厉害</a></li>
+<li><a href="/comments/20230730/1914121.md" target="_blank">美智库24国大规模民调显示：逾2/3民众对中国持负评</a></li>
 <li><a href="/comments/20230730/1914106.md" target="_blank">《唐诗三百首》微电影第11集 贾岛《寻隐者不遇》</a></li>
 <li><a href="/comments/20230730/1914096.md" target="_blank">令人惊叹的一幕：川普爱荷华演讲，响起著名爱国疗伤颂歌。川普宾州演讲，对共和党犀牛提出最严厉警告。#</a></li>
 <li><a href="/comments/20230730/1914095.md" target="_blank">刀郎新歌《罗刹海市》最土翻唱+最震解读！精准预言秦刚傅晓田火箭军窝案？现象级传播震了</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230730/1913903.md" target="_blank">苏晓康：核设施和武器弹药比孩子更重要，五千个川娃被活埋</a></li>
 <li><a href="/comments/20230730/1913895.md" target="_blank">文昭：刀郎新歌《罗刹海市》出圈的原因，简单说就是：你爽我就爽</a></li>
 <li><a href="/comments/20230730/1913882.md" target="_blank">一真溅雪:戴高乐主义阴魂不散</a></li>
-<li><a href="/comments/20230730/1913881.md" target="_blank">李濠仲：多少人看到郭台铭 会打消由商转政念头</a></li>
-<li><a href="/comments/20230730/1913880.md" target="_blank">王赫：从餐饮业倒闭潮谈中国经济衰蔽</a></li>
-<li><a href="/comments/20230730/1913879.md" target="_blank">袁斌：齐市坍塌事故，为何家长成了敌人？</a></li>
-<li><a href="/comments/20230730/1913878.md" target="_blank">还原真相:共军首席AI专家冯旸赫的“七一之殇”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
 
 </ul>
 </div>
