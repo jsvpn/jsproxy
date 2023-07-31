@@ -13,21 +13,21 @@
 <li><a href="/sohnews/20230731/1914247.md">张又侠策划兵变，34中遇难学生家长要大开杀戒，中央政法委不堪压力打击电诈。《老灯开讲第348期》</a></li>
 <li><a href="/sohnews/20230731/1914137.md">“习近平三架马车被毁其二！曾庆红阴影浮现 耍弄蔡奇”《今日点击》（07/30/23）#秦刚 #中共内斗</a></li>
 <li><a href="/topimagenews/20230731/1914186.md">中共地方财政穷疯了？中共国太离谱</a></li>
-<li><a href="/baitai/20230731/1914157.md">英媒爆王毅最头痛的事 熟识者这样形容他</a></li>
-<li><a href="/cbnews/20230731/1914330.md">退役武警造反！聚上海警局高喊：“司令出来”、“还我房子”，网哗然【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230731/1914277.md">军委副主席张又侠策划兵变，34中遇难学生家长要大开杀戒，中央政法委开会打击电诈。《老灯开讲第348期》</a></li>
-<li><a href="/cnnews/20230731/1914170.md">情况危急！中国国运、命门命悬一线</a></li>
 <li><a href="/comments/20230731/1914339.md">习近平清洗火箭军 外国专家揭内幕</a></li>
+<li><a href="/baitai/20230731/1914157.md">英媒爆王毅最头痛的事 熟识者这样形容他</a></li>
+<li><a href="/sohnews/20230731/1914277.md">军委副主席张又侠策划兵变，34中遇难学生家长要大开杀戒，中央政法委开会打击电诈。《老灯开讲第348期》</a></li>
+<li><a href="/cbnews/20230731/1914330.md">退役武警造反！聚上海警局高喊：“司令出来”、“还我房子”，网哗然【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230731/1914170.md">情况危急！中国国运、命门命悬一线</a></li>
 <li><a href="/ssgc/20230731/1914252.md">〖微博谈〗习朝末日来临的新症状</a></li>
+<li><a href="/topimagenews/20230731/1914377.md">秦刚没被情人放倒 痛脚被抓惨翻车？</a></li>
 <li><a href="/cbnews/20230731/1914267.md">〖兲朝浮世绘〗深情拉着习哥哥的手，不给钱俺就不撒手</a></li>
 <li><a href="/health/20230731/1914195.md">退休医生坦言：寿命长不是靠多走路和多睡觉，而是坚持这2件小事</a></li>
-<li><a href="/topimagenews/20230731/1914377.md">秦刚没被情人放倒 痛脚被抓惨翻车？</a></li>
 <li><a href="/comments/20230731/1914215.md">中南海现兵变魅影？三个诡异时间点</a></li>
-<li><a href="/cnnews/20230731/1914183.md">习近平这封信应“写进历史”？</a></li>
 <li><a href="/ssgc/20230731/1914295.md">秦刚被免外长 大戏还在后头</a></li>
+<li><a href="/cnnews/20230731/1914183.md">习近平这封信应“写进历史”？</a></li>
+<li><a href="/cnnews/20230731/1914369.md">台风“杜苏芮”酿北京强降雨！“千年大计”雄安新区丑态毕露 大批车辆遭冲走</a></li>
 <li><a href="/topimagenews/20230731/1914161.md">大反攻：乌军突入纵深！越来越老的俄军战俘…</a></li>
 <li><a href="/topimagenews/20230731/1914274.md">拜登一道追杀令 大陆AI巨头爆掉！溃败现况曝光：输惨了</a></li>
-<li><a href="/topimagenews/20230731/1914264.md">【微博精粹】大运会：发现敌人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230801/1914478.md" target="_blank">中国称高性能无人机具军用属性 将管制出口</a></li>
 <li><a href="/comments/20230731/1914459.md" target="_blank">火箭军被整肃后大洗牌 海军王厚斌接任司令员 空军徐西盛任政委</a></li>
 <li><a href="/comments/20230731/1914417.md" target="_blank">【杜耀明评论】何桂蓝法庭答辩当头棒喝 立法会初选案审讯错重点？</a></li>
 <li><a href="/comments/20230731/1914402.md" target="_blank">卢沟桥新桥塌了！台风尾狂扫致北京洪灾2死 快递仓成水上中心</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230731/1914144.md" target="_blank">李燕铭：火箭军出大事 习近平严防暗杀 往返四川不敢坐专机 新华网报道泄露习安保重大机密 蔡奇何卫东王小洪率三路人马环卫习近平 习参观三星堆博物馆“天地人神”展陈 逗留四川四天回京途中临时停驻老家陕西 两正国级六副国级大阵仗陪同 中南海政变与反政变（97） 北戴河会议大战内幕（68） 习近平连任与中共末日（146） 习强化军权内防政变对外备战（44） 火箭军窝案深度内幕（5）</a></li>
 <li><a href="/comments/20230730/1914124.md" target="_blank">秦刚事件对中共的3重影响；刀郎《罗刹海市》横空出世，为何点燃无数人心中的火？｜#方菲时间 07/29</a></li>
 <li><a href="/comments/20230730/1914123.md" target="_blank">【新闻拍案惊奇】鲜为人知的 俄军“性暴行”</a></li>
-<li><a href="/comments/20230730/1914122.md" target="_blank">【文昭谈古论今】《罗刹海市》的后一半隐喻才真厉害</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 <li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 
 </ul>
 </div>
