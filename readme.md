@@ -9,11 +9,11 @@
 <li><a href="/comments/20230731/1914339.md">习近平清洗火箭军 外国专家揭内幕</a></li>
 <li><a href="/cbnews/20230731/1914330.md">退役武警造反！聚上海警局高喊：“司令出来”、“还我房子”，网哗然【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230731/1914377.md">秦刚没被情人放倒 痛脚被抓惨翻车？</a></li>
-<li><a href="/topimagenews/20230731/1914424.md">共军火箭军司令员意外换人 海军王厚斌升上将接任创先例</a></li>
 <li><a href="/cnnews/20230731/1914369.md">台风“杜苏芮”酿北京强降雨！“千年大计”雄安新区丑态毕露 大批车辆遭冲走</a></li>
+<li><a href="/topimagenews/20230731/1914424.md">共军火箭军司令员意外换人 海军王厚斌升上将接任创先例</a></li>
 <li><a href="/sohnews/20230801/1914548.md">习近平亲自官宣：火箭军2巨头出事！泄密祸起进口芯片？真相可能出人意料！《罗刹海市》流量狂卷80亿，央视反常力挺！</a></li>
-<li><a href="/cbnews/20230731/1914461.md">习贴身禁卫军头死后三个月被宣布 惊传灭门？</a></li>
 <li><a href="/ssgc/20230731/1914295.md">秦刚被免外长 大戏还在后头</a></li>
+<li><a href="/cbnews/20230731/1914461.md">习贴身禁卫军头死后三个月被宣布 惊传灭门？</a></li>
 <li><a href="/yule/20230801/1914539.md">追思会最后一刻 李玟的体面被一声怒吼撕碎</a></li>
 <li><a href="/baitai/20230731/1914397.md">中南海几件大事同时发作 背后藏爆炸性消息</a></li>
 <li><a href="/topimagenews/20230801/1914560.md">丢尽脸！中国队国际大赛集体扮僵尸 全网怒</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/ccpdope/20230731/1914343.md">秦刚被免职当天，中共驻美大使谢峰摔伤不是巧合</a></li>
 <li><a href="/topimagenews/20230731/1914391.md">习近平信心膨胀 美国能答应吗？ 难倒中共！这招能拔出经济泥潭？；中共政府何时出手？</a></li>
 <li><a href="/cbnews/20230801/1914516.md">风暴直扑北京 中共高层外出避险？</a></li>
+<li><a href="/comments/20230801/1914562.md">火箭军新任司令，习近平看重他就2个字！外行指导内行削弱军力；军队还会爆更大的雷？｜姚诚 ｜新闻烽火台 07/31</a></li>
 <li><a href="/baitai/20230801/1914493.md">北京推“反恐法” 出门就要查身份 引发恐慌</a></li>
 <li><a href="/comments/20230731/1914292.md">习近平还能支持普京多久</a></li>
-<li><a href="/comments/20230801/1914562.md">火箭军新任司令，习近平看重他就2个字！外行指导内行削弱军力；军队还会爆更大的雷？｜姚诚 ｜新闻烽火台 07/31</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 <li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
 <li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
 
 </ul>
 </div>
