@@ -5,9 +5,7 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230731/1914329.md">习近平这一动作，证实中共军中确实出大事了！【阿波罗网报道】</a></li>
 <li><a href="/comments/20230731/1914339.md">习近平清洗火箭军 外国专家揭内幕</a></li>
-<li><a href="/cbnews/20230731/1914330.md">退役武警造反！聚上海警局高喊：“司令出来”、“还我房子”，网哗然【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230731/1914377.md">秦刚没被情人放倒 痛脚被抓惨翻车？</a></li>
 <li><a href="/cnnews/20230731/1914369.md">台风“杜苏芮”酿北京强降雨！“千年大计”雄安新区丑态毕露 大批车辆遭冲走</a></li>
 <li><a href="/topimagenews/20230731/1914424.md">共军火箭军司令员意外换人 海军王厚斌升上将接任创先例</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/baitai/20230801/1914578.md">习面临关键时刻 搞不好出大事</a></li>
 <li><a href="/ssgc/20230801/1914576.md">〖微博谈〗成也小聪明 败也小聪明</a></li>
 <li><a href="/baitai/20230801/1914493.md">北京推“反恐法” 出门就要查身份 引发恐慌</a></li>
+<li><a href="/sohnews/20230801/1914524.md">在经历了一系列折腾后，中国经济的引擎上海终于跌倒了，今年上半年的GDP实际上比去年下半年跌了16%，一片萧条。李强因为封城成了“历史罪人”，那习近平呢？【李军访谈20230731第161期】</a></li>
+<li><a href="/sohnews/20230731/1914367.md">文睿：被人，当猴儿耍，一尊，这次成了国际大笑话了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230801/1914716.md" target="_blank">习近平亲自官宣：火箭军2巨头出事！泄密祸起进口芯片？远见快评</a></li>
 <li><a href="/comments/20230801/1914658.md" target="_blank">内溃外患，习近平治军只剩一招？</a></li>
 <li><a href="/comments/20230801/1914654.md" target="_blank">火箭军头目全换外行，习自废武功！外交部记者会关门？习近平砸钜资假扮“万国来朝”，成都大运会金正恩笑惨</a></li>
 <li><a href="/comments/20230801/1914625.md" target="_blank">天亮时分：火箭军高层全换，习近平满脸忧色；习近平和军队高层，到底谁在逼谁打台湾？暴雨成灾、故宫进水，连人带车被冲走（政论天下第1072集 20230731）天亮时分</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230731/1914292.md" target="_blank">习近平还能支持普京多久</a></li>
 <li><a href="/comments/20230731/1914276.md" target="_blank">邓聿文：秦刚、火箭军及不透明的中国政治</a></li>
 <li><a href="/comments/20230731/1914249.md" target="_blank">军警持械寻仇 隐情惊人</a></li>
-<li><a href="/comments/20230731/1914248.md" target="_blank">张3丰：中国青年失业率到四成意味着什么</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
 <li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 
 </ul>
 </div>
