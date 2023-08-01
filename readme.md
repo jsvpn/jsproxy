@@ -19,15 +19,15 @@
 <li><a href="/ssgc/20230731/1914295.md">秦刚被免外长 大戏还在后头</a></li>
 <li><a href="/baitai/20230731/1914397.md">中南海几件大事同时发作 背后藏爆炸性消息</a></li>
 <li><a href="/topimagenews/20230731/1914274.md">拜登一道追杀令 大陆AI巨头爆掉！溃败现况曝光：输惨了</a></li>
-<li><a href="/sohnews/20230731/1914372.md">军队出大事习近平紧急整肃❗️❗️❗️高级将领接连死亡秘不发丧，澎湃新闻原文被删……</a></li>
+<li><a href="/sohnews/20230801/1914548.md">习近平亲自官宣：火箭军2巨头出事！泄密祸起进口芯片？真相可能出人意料！《罗刹海市》流量狂卷80亿，央视反常力挺！</a></li>
 <li><a href="/comments/20230731/1914338.md">分析：习近平“摔跟头” 秦刚下台谢锋摔伤不寻常</a></li>
+<li><a href="/sohnews/20230731/1914372.md">军队出大事习近平紧急整肃❗️❗️❗️高级将领接连死亡秘不发丧，澎湃新闻原文被删……</a></li>
 <li><a href="/topimagenews/20230731/1914264.md">【微博精粹】大运会：发现敌人</a></li>
 <li><a href="/cbnews/20230731/1914412.md">直击北京洪灾现场：桥断 车冲走 尸体漂浮【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230731/1914361.md">天灾还是人祸？ 北京山洪爆发触目惊心 冲走大量汽车至少2死 河北乘客爬天窗自救</a></li>
+<li><a href="/yule/20230801/1914539.md">追思会最后一刻 李玟的体面被一声怒吼撕碎</a></li>
 <li><a href="/topimagenews/20230731/1914391.md">习近平信心膨胀 美国能答应吗？ 难倒中共！这招能拔出经济泥潭？；中共政府何时出手？</a></li>
-<li><a href="/cnnews/20230731/1914281.md">彭德怀是怎样处理毛岸英之死的？</a></li>
 <li><a href="/ccpdope/20230731/1914343.md">秦刚被免职当天，中共驻美大使谢峰摔伤不是巧合</a></li>
-<li><a href="/sohnews/20230801/1914548.md">习近平亲自官宣：火箭军2巨头出事！泄密祸起进口芯片？真相可能出人意料！《罗刹海市》流量狂卷80亿，央视反常力挺！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230801/1914610.md" target="_blank">【独家重磅】李燕铭：国防部长李尚福涉火箭军窝案 曾庆红江西帮要员李尚福是江绵恒心腹马仔 内幕揭秘 军委装备发展部倒查六年 习近平对军委副主席张又侠网开一面 剑指李尚福 火箭军窝案深度内幕（8） 习强化军权内防政变对外备战（47） 中南海政变与反政变（100） 北戴河会议大战内幕（71） 习近平连任后大清洗（54） 江泽民死江家族被清洗（20） 习近平决战江曾（94） 江绵恒暗黑帝国瓦解内幕（43）</a></li>
 <li><a href="/comments/20230801/1914601.md" target="_blank">英雄飞跃巅峰 虎击长空 万里雄风</a></li>
 <li><a href="/comments/20230801/1914571.md" target="_blank">文昭：颤抖吧，新肃反时代来了！秦刚只是开始，火箭军高层「全军覆灭」；还有更多&#8230;</a></li>
 <li><a href="/comments/20230801/1914562.md" target="_blank">火箭军新任司令，习近平看重他就2个字！外行指导内行削弱军力；军队还会爆更大的雷？｜姚诚 ｜新闻烽火台 07/31</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230731/1914238.md" target="_blank">汤名晖：秦刚造成的外交困境 让回锅老将很难收拾</a></li>
 <li><a href="/comments/20230731/1914237.md" target="_blank">何清涟专栏：秦刚宦海沉没缘由何在？</a></li>
 <li><a href="/comments/20230731/1914235.md" target="_blank">马背上的英国女人，下跪的中国家长</a></li>
-<li><a href="/comments/20230731/1914227.md" target="_blank">天亮时分：外交部记者会休会两周；莫斯科遭无人机轰炸，泽伦斯基：战争将回到俄境内；七十年轮回，朝鲜战争再站队（政论天下第1071集 20230730）天亮时分</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
 <li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 
 </ul>
 </div>
