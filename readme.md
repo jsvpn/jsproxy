@@ -21,13 +21,13 @@
 <li><a href="/cnnews/20230801/1914690.md">美国超级巨头突然宣布倒闭，3万名员工失业</a></li>
 <li><a href="/topimagenews/20230801/1914627.md">中国大逃杀模式上演！融资百亿的好日子彻底凉</a></li>
 <li><a href="/cbnews/20230801/1914670.md">江峰：火箭军新司令政委上任原班人马尽墨，习近平发此公告指明要斗国防部长李尚福，军委第一副主席张又侠露面却悬了；最惨北京水灾！曝习治水吸魂大法；缅北人质被救原来美国出手。【江峰漫谈20230731第704期】</a></li>
+<li><a href="/topimagenews/20230801/1914738.md">“毙了，毙了，五枪打的死死的，肯定是活不了了..."【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230801/1914493.md">北京推“反恐法” 出门就要查身份 引发恐慌</a></li>
 <li><a href="/sohnews/20230801/1914524.md">在经历了一系列折腾后，中国经济的引擎上海终于跌倒了，今年上半年的GDP实际上比去年下半年跌了16%，一片萧条。李强因为封城成了“历史罪人”，那习近平呢？【李军访谈20230731第161期】</a></li>
-<li><a href="/comments/20230801/1914610.md">【独家重磅】李燕铭：国防部长李尚福涉火箭军窝案 曾庆红江西帮要员李尚福是江绵恒心腹马仔 内幕揭秘 军委装备发展部倒查六年 习近平对军委副主席张又侠网开一面 剑指李尚福 火箭军窝案深度内幕（8） 习强化军权内防政变对外备战（47） 中南海政变与反政变（100） 北戴河会议大战内幕（71） 习近平连任后大清洗（54） 江泽民死江家族被清洗（20） 习近平决战江曾（94） 江绵恒暗黑帝国瓦解内幕（43）</a></li>
 <li><a href="/cbnews/20230801/1914628.md">“回锅”王毅的旧照被扒</a></li>
-<li><a href="/cbnews/20230801/1914656.md">网传六百年不积水的北京故宫，这回尴尬了？</a></li>
+<li><a href="/comments/20230801/1914610.md">【独家重磅】李燕铭：国防部长李尚福涉火箭军窝案 曾庆红江西帮要员李尚福是江绵恒心腹马仔 内幕揭秘 军委装备发展部倒查六年 习近平对军委副主席张又侠网开一面 剑指李尚福 火箭军窝案深度内幕（8） 习强化军权内防政变对外备战（47） 中南海政变与反政变（100） 北戴河会议大战内幕（71） 习近平连任后大清洗（54） 江泽民死江家族被清洗（20） 习近平决战江曾（94） 江绵恒暗黑帝国瓦解内幕（43）</a></li>
 <li><a href="/headline/20230731/1914454.md">多名解放军要员离奇死或被查 分析：或独裁引不满习近平铲除异己</a></li>
-<li><a href="/cnnews/20230801/1914563.md">马斯克投的飞行汽车，爆单了</a></li>
+<li><a href="/cbnews/20230801/1914656.md">网传六百年不积水的北京故宫，这回尴尬了？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230801/1914813.md" target="_blank">文昭：告诉你原因，为何99%的人认为不靠谱的事，英明领袖会认为靠谱</a></li>
 <li><a href="/comments/20230801/1914810.md" target="_blank">【财经拆局】「信心比黄金重要」，要挽回民企信心，但民营企业家还会受骗吗？</a></li>
 <li><a href="/comments/20230801/1914799.md" target="_blank">齐齐哈尔34中体育馆坍塌11死 官方敷衍 连校方悼文都涉抄袭</a></li>
 <li><a href="/comments/20230801/1914798.md" target="_blank">保北京 泄洪祸及河北 涿州全城危急民怨沸腾</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230731/1914459.md" target="_blank">火箭军被整肃后大洗牌 海军王厚斌接任司令员 空军徐西盛任政委</a></li>
 <li><a href="/comments/20230731/1914417.md" target="_blank">【杜耀明评论】何桂蓝法庭答辩当头棒喝 立法会初选案审讯错重点？</a></li>
 <li><a href="/comments/20230731/1914402.md" target="_blank">卢沟桥新桥塌了！台风尾狂扫致北京洪灾2死 快递仓成水上中心</a></li>
-<li><a href="/comments/20230731/1914400.md" target="_blank">神通第一的目犍连为什么会被乱石砸死？7月15中元节原来并非鬼节，原来背后有个感人的故事……。慈母堕入地狱，拥有神通的儿子做了什么，才能让她飞升天国？｜ #未解之谜 扶摇</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 
 </ul>
 </div>
