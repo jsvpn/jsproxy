@@ -5,8 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230801/1914560.md">丢尽脸！中国队国际大赛集体扮僵尸 全网怒</a></li>
-<li><a href="/comments/20230801/1914562.md">火箭军新任司令，习近平看重他就2个字！外行指导内行削弱军力；军队还会爆更大的雷？｜姚诚 ｜新闻烽火台 07/31</a></li>
 <li><a href="/baitai/20230801/1914578.md">习面临关键时刻 搞不好出大事</a></li>
 <li><a href="/sohnews/20230801/1914693.md">张又侠任命亲信掌管火箭军，马朝旭妹夫李光酒局被抓，胡锦涛朱镕基哪位病逝。《老灯开讲第349期》</a></li>
 <li><a href="/ccpdope/20230801/1914651.md">毛用这样的目光望着他的私生子</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/baitai/20230801/1914791.md">火箭军换人 习又一大败笔 前军官：打台湾已成泡影</a></li>
 <li><a href="/topimagenews/20230801/1914834.md">北京“最贵酒店”被暴雨冲垮！大厅被泥水冲刷 造景全消失</a></li>
 <li><a href="/comments/20230801/1914610.md">【独家重磅】李燕铭：国防部长李尚福涉火箭军窝案 曾庆红江西帮要员李尚福是江绵恒心腹马仔 内幕揭秘 军委装备发展部倒查六年 习近平对军委副主席张又侠网开一面 剑指李尚福 火箭军窝案深度内幕（8） 习强化军权内防政变对外备战（47） 中南海政变与反政变（100） 北戴河会议大战内幕（71） 习近平连任后大清洗（54） 江泽民死江家族被清洗（20） 习近平决战江曾（94） 江绵恒暗黑帝国瓦解内幕（43）</a></li>
-<li><a href="/cnnews/20230801/1914563.md">马斯克投的飞行汽车，爆单了</a></li>
+<li><a href="/comments/20230801/1914796.md">火箭军高层被火箭式撤换 余茂春揭习近平用意</a></li>
+<li><a href="/cnnews/20230801/1914573.md">刀郎磨刀13年！播放量达60亿 《罗刹海市》风波升级</a></li>
+<li><a href="/lifebaike/20230801/1914639.md">面试官：我儿子是你儿子的爸爸，那我是你的谁？职场新人机智应对</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230802/1914945.md" target="_blank">夏林：加拿大联邦政府大改组 挑战在前方</a></li>
+<li><a href="/comments/20230802/1914944.md" target="_blank">金言：刀郎《罗刹海市》为何异常火爆？</a></li>
+<li><a href="/comments/20230802/1914943.md" target="_blank">东方霞：剪除邪恶的羽翼——聊聊忠臣奸臣与“文王伐崇”</a></li>
+<li><a href="/comments/20230802/1914942.md" target="_blank">梁少华：中国律师的囚徒困境</a></li>
+<li><a href="/comments/20230802/1914941.md" target="_blank">袁斌：齐市遇难者头七才过，当局为何就清空悼念现场？</a></li>
+<li><a href="/comments/20230802/1914938.md" target="_blank">文昭：中国历史上的“密不发丧”事件如今再现，意味着什么？</a></li>
 <li><a href="/comments/20230802/1914932.md" target="_blank">王赫：中共管制无人机出口是对美妥协</a></li>
 <li><a href="/comments/20230802/1914922.md" target="_blank">军事围堵中共（12） 美军在西太构建导弹墙围堵共军 美海军部署新型潜艇将用于执行秘密任务 美海军投资研发高超音速反舰导弹 美防长访巴新加强军事存在 美日运输机变身导弹射手 日本发布新版《防卫白皮书》研发远程导弹 韩美商定签署军品供应安全协议 印度成功研发反辐射导弹</a></li>
 <li><a href="/comments/20230802/1914915.md" target="_blank">川普：俄乌冲突爆发和我有关 梅德韦杰夫：如果俄失去领土将动用核武器 普京：不希望与美发生直接军事冲突 美国务卿：俄防长绍伊古访朝是为确保武器供应 俄罗斯公务部门禁止使用iPhone等设备 瓦格纳逼近苏瓦乌基走廊 国际时局追踪（8）</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20230801/1914625.md" target="_blank">天亮时分：火箭军高层全换，习近平满脸忧色；习近平和军队高层，到底谁在逼谁打台湾？暴雨成灾、故宫进水，连人带车被冲走（政论天下第1072集 20230731）天亮时分</a></li>
 <li><a href="/comments/20230801/1914610.md" target="_blank">【独家重磅】李燕铭：国防部长李尚福涉火箭军窝案 曾庆红江西帮要员李尚福是江绵恒心腹马仔 内幕揭秘 军委装备发展部倒查六年 习近平对军委副主席张又侠网开一面 剑指李尚福 火箭军窝案深度内幕（8） 习强化军权内防政变对外备战（47） 中南海政变与反政变（100） 北戴河会议大战内幕（71） 习近平连任后大清洗（54） 江泽民死江家族被清洗（20） 习近平决战江曾（94） 江绵恒暗黑帝国瓦解内幕（43）</a></li>
 <li><a href="/comments/20230801/1914601.md" target="_blank">英雄飞跃巅峰 虎击长空 万里雄风</a></li>
-<li><a href="/comments/20230801/1914571.md" target="_blank">文昭：颤抖吧，新肃反时代来了！秦刚只是开始，火箭军高层「全军覆灭」；还有更多&#8230;</a></li>
-<li><a href="/comments/20230801/1914562.md" target="_blank">火箭军新任司令，习近平看重他就2个字！外行指导内行削弱军力；军队还会爆更大的雷？｜姚诚 ｜新闻烽火台 07/31</a></li>
-<li><a href="/comments/20230801/1914557.md" target="_blank">入木三分！说唱歌手艾斯·库伯说出美国最底层的声音。从反川到挺川，从挺拜到抛弃……民众开始觉醒。#卡尔森 #川普 #拜登</a></li>
-<li><a href="/comments/20230801/1914492.md" target="_blank">专栏 | 劳工通讯：安徽马鞍山市慈湖高新区金星钛白集团有限公司发生有限空间作业事故，造成工人死亡 (一)</a></li>
-<li><a href="/comments/20230801/1914489.md" target="_blank">评论 | 王丹：秦刚事件的两大疑点</a></li>
-<li><a href="/comments/20230801/1914478.md" target="_blank">中国称高性能无人机具军用属性 将管制出口</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
 <li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 
 </ul>
 </div>
