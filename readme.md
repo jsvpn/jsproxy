@@ -14,20 +14,20 @@
 <li><a href="/cnnews/20230802/1914913.md">中国女足，拿着世界一流薪资踢不出一流水平</a></li>
 <li><a href="/cbnews/20230802/1914918.md">美搞大事 继火箭军后 CASI再爆解放军大改组 要导致共军殉爆</a></li>
 <li><a href="/worldnews/20230802/1915096.md">发出警告！日媒突然大幅报道这事</a></li>
-<li><a href="/cbnews/20230802/1915112.md">涿州人敢拼！奋起抵抗强制泄洪保护家园！与警冲突【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230802/1915017.md">这回，乌军要玩大的</a></li>
+<li><a href="/cbnews/20230802/1915112.md">涿州人敢拼！奋起抵抗强制泄洪保护家园！与警冲突【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230802/1915115.md">中共海军又爆出重大泄密案，华北特大洪灾习近平选择躺平，官媒宣称不会派兵打击缅北电诈。《老灯开讲第350期》</a></li>
 <li><a href="/baitai/20230802/1915164.md">白夜飞行员｜作为一个涿州人，我来给大家复述一下到底发生了什么</a></li>
-<li><a href="/topimagenews/20230802/1914950.md">北京气炸！南太小国授权美军检查可疑船只</a></li>
 <li><a href="/cnnews/20230802/1915152.md">中国最大资产管理集团暴雷！15万投资人 企业客户5000家陷人间惨剧【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230802/1915118.md">北京遇140年来最大雨 涿州3河交界最惨烈 大批灾民等无救援</a></li>
+<li><a href="/topimagenews/20230802/1914950.md">北京气炸！南太小国授权美军检查可疑船只</a></li>
 <li><a href="/cnnews/20230802/1914981.md">人间悲剧！多伦多24岁留学生送外卖被杀！妈妈崩溃自杀</a></li>
+<li><a href="/cbnews/20230802/1915118.md">北京遇140年来最大雨 涿州3河交界最惨烈 大批灾民等无救援</a></li>
 <li><a href="/worldnews/20230802/1915041.md">俄女遭囚地牢14年沦性奴1号 性奴2号遭分尸狠吃</a></li>
 <li><a href="/cnnews/20230802/1914908.md">全球暴雨洪涝 东京却把自己变成一块“海绵”</a></li>
 <li><a href="/ccpdope/20230802/1915130.md">唐山打人案无真相 四名受害者生死成谜</a></li>
+<li><a href="/sohnews/20230802/1915201.md">习近平立威八一大楼，天安门和故宫被淹；北京雄安双双陷落，世界第一大机场成汪洋；川普二次被刑事起诉四大罪名；俄政府大楼连续被攻击</a></li>
 <li><a href="/sohnews/20230802/1915092.md">习承认“重大人员伤亡”！北京泄洪，河北70万人涿州“二河夹击”，全城沦陷，居民抱怨撤离不力；京最贵酒店被毁，雄安以北“白沟镇”半夜转移；水灾危急时刻，习近平晋升火箭军新司令｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20230802/1915032.md">保北京半夜11点开始泄洪，涿州全灭！ 习近平承认重大伤亡！官宣11死27失踪可信吗？【主持】高洁 【嘉宾】时事评论员 唐靖远【焦点解读】</a></li>
-<li><a href="/baitai/20230802/1915063.md">从1968年北京江湖角度看习近平</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 <li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
 
 </ul>
 </div>
