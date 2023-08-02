@@ -14,19 +14,19 @@
 <li><a href="/headline/20230801/1914750.md">中央为保北京弃天津东淀 邻近地区近百万人紧急撤离</a></li>
 <li><a href="/topimagenews/20230801/1914788.md">地方财政穷疯了？中共国太离谱；情况危急！中共国运、命门命悬一线；转嫁到老百姓身上了</a></li>
 <li><a href="/topimagenews/20230801/1914681.md">以色列开了第一枪! 不甩俄威胁 运粮船经黑海驶向乌克兰 美机伴飞保护</a></li>
+<li><a href="/cbnews/20230802/1914917.md">惊爆！秦刚难辞其咎 王毅披挂上阵难收场</a></li>
 <li><a href="/cbnews/20230801/1914670.md">江峰：火箭军新司令政委上任原班人马尽墨，习近平发此公告指明要斗国防部长李尚福，军委第一副主席张又侠露面却悬了；最惨北京水灾！曝习治水吸魂大法；缅北人质被救原来美国出手。【江峰漫谈20230731第704期】</a></li>
 <li><a href="/cbnews/20230801/1914723.md">解放军火箭军丑闻牵连广？ 10要员现况不明</a></li>
-<li><a href="/cbnews/20230802/1914917.md">惊爆！秦刚难辞其咎 王毅披挂上阵难收场</a></li>
 <li><a href="/headline/20230801/1914707.md">「温家宝白手套」段伟红消失5年后首现身 前夫拟到美国会作证</a></li>
 <li><a href="/topimagenews/20230801/1914753.md">气爆？用布盖起来就好！福州餐厅气爆炸掉整条街 中共急删文</a></li>
 <li><a href="/cbnews/20230801/1914628.md">“回锅”王毅的旧照被扒</a></li>
 <li><a href="/topimagenews/20230801/1914834.md">北京“最贵酒店”被暴雨冲垮！大厅被泥水冲刷 造景全消失</a></li>
-<li><a href="/cbnews/20230801/1914656.md">网传六百年不积水的北京故宫，这回尴尬了？</a></li>
 <li><a href="/baitai/20230801/1914791.md">火箭军换人 习又一大败笔 前军官：打台湾已成泡影</a></li>
+<li><a href="/cbnews/20230801/1914656.md">网传六百年不积水的北京故宫，这回尴尬了？</a></li>
 <li><a href="/topimagenews/20230802/1914876.md">浙江一电动车直冲灯柱“瞬间解体起火” 女驾驶惨死当场</a></li>
+<li><a href="/baitai/20230802/1914895.md">火箭军让习近平在全世界前出丑？美曝共军更多机密 习压力重重 或有更坏事发生</a></li>
 <li><a href="/topimagenews/20230802/1914862.md">当孩子的面？ 美女博士实名举报川大教授骗睡</a></li>
 <li><a href="/comments/20230801/1914796.md">火箭军高层被火箭式撤换 余茂春揭习近平用意</a></li>
-<li><a href="/baitai/20230802/1914895.md">火箭军让习近平在全世界前出丑？美曝共军更多机密 习压力重重 或有更坏事发生</a></li>
 <li><a href="/lifebaike/20230801/1914639.md">面试官：我儿子是你儿子的爸爸，那我是你的谁？职场新人机智应对</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230802/1915015.md" target="_blank">英媒：调查：中共国以家人作“人质”对海外维吾尔异见者进行跨国镇压</a></li>
+<li><a href="/comments/20230802/1915014.md" target="_blank">文庙：老炮们闲侃翻墙及火箭军秘史</a></li>
+<li><a href="/comments/20230802/1915013.md" target="_blank">《洗脑：毛泽东和后毛时代的中国和世界》导论：洗脑和中共——研究的新突破和新开端</a></li>
 <li><a href="/comments/20230802/1914994.md" target="_blank">Shorts 2</a></li>
 <li><a href="/comments/20230802/1914952.md" target="_blank">颜纯钩: 天灾人祸：人民的苦难是政权的毒药</a></li>
 <li><a href="/comments/20230802/1914945.md" target="_blank">夏林：加拿大联邦政府大改组 挑战在前方</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230801/1914783.md" target="_blank">拜登噩梦。亨特商业伙伴证词直接指向拜登。科默与麦卡锡就弹劾拜登进行沟通。#拜登 #弹劾 #国会听证</a></li>
 <li><a href="/comments/20230801/1914746.md" target="_blank">都在转发刀郎被美国封杀 他真敢编，你也真敢信</a></li>
 <li><a href="/comments/20230801/1914716.md" target="_blank">习近平亲自官宣：火箭军2巨头出事！泄密祸起进口芯片？远见快评</a></li>
-<li><a href="/comments/20230801/1914658.md" target="_blank">内溃外患，习近平治军只剩一招？</a></li>
-<li><a href="/comments/20230801/1914654.md" target="_blank">火箭军头目全换外行，习自废武功！外交部记者会关门？习近平砸钜资假扮“万国来朝”，成都大运会金正恩笑惨</a></li>
-<li><a href="/comments/20230801/1914625.md" target="_blank">天亮时分：火箭军高层全换，习近平满脸忧色；习近平和军队高层，到底谁在逼谁打台湾？暴雨成灾、故宫进水，连人带车被冲走（政论天下第1072集 20230731）天亮时分</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
 <li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 
 </ul>
 </div>
