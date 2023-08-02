@@ -10,7 +10,6 @@
 <li><a href="/topimagenews/20230802/1915116.md">天怒！北京最大暴雨原因找到了 都是中共干的蠢事【阿波罗网报道】</a></li>
 <li><a href="/finance/20230802/1914907.md">传中植系暴雷！中国史无前例的大型债权违约</a></li>
 <li><a href="/ssgc/20230802/1914955.md">〖微博谈〗看看党国领导人会不会走出中南海</a></li>
-<li><a href="/topimagenews/20230802/1914876.md">浙江一电动车直冲灯柱“瞬间解体起火” 女驾驶惨死当场</a></li>
 <li><a href="/cbnews/20230802/1915033.md">〖兲朝浮世绘〗别整天慰问外国了，关心一下北京灾民吧</a></li>
 <li><a href="/cbnews/20230802/1914970.md">人人自危时代到来了！中共国安部最新发文 反间谍工作...</a></li>
 <li><a href="/cnnews/20230802/1914913.md">中国女足，拿着世界一流薪资踢不出一流水平</a></li>
@@ -21,13 +20,14 @@
 <li><a href="/topimagenews/20230802/1915017.md">这回，乌军要玩大的</a></li>
 <li><a href="/cbnews/20230802/1915118.md">北京遇140年来最大雨 涿州3河交界最惨烈 大批灾民等无救援</a></li>
 <li><a href="/topimagenews/20230802/1914950.md">北京气炸！南太小国授权美军检查可疑船只</a></li>
-<li><a href="/worldnews/20230802/1915041.md">俄女遭囚地牢14年沦性奴1号 性奴2号遭分尸狠吃</a></li>
 <li><a href="/cnnews/20230802/1914981.md">人间悲剧！多伦多24岁留学生送外卖被杀！妈妈崩溃自杀</a></li>
+<li><a href="/worldnews/20230802/1915041.md">俄女遭囚地牢14年沦性奴1号 性奴2号遭分尸狠吃</a></li>
 <li><a href="/cnnews/20230802/1914908.md">全球暴雨洪涝 东京却把自己变成一块“海绵”</a></li>
 <li><a href="/headline/20230802/1914888.md">“周围一切都在崩塌” 中国2亿散户正撤离股市</a></li>
 <li><a href="/ccpdope/20230802/1915130.md">唐山打人案无真相 四名受害者生死成谜</a></li>
 <li><a href="/cnnews/20230802/1915152.md">中国最大资产管理集团暴雷！15万投资人 企业客户5000家陷人间惨剧【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230802/1915092.md">习承认“重大人员伤亡”！北京泄洪，河北70万人涿州“二河夹击”，全城沦陷，居民抱怨撤离不力；京最贵酒店被毁，雄安以北“白沟镇”半夜转移；水灾危急时刻，习近平晋升火箭军新司令｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/baitai/20230802/1915032.md">保北京半夜11点开始泄洪，涿州全灭！ 习近平承认重大伤亡！官宣11死27失踪可信吗？【主持】高洁 【嘉宾】时事评论员 唐靖远【焦点解读】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230803/1915247.md" target="_blank">专栏 | 民主沙龙：中国人讲中国事 （2023-08-01）</a></li>
 <li><a href="/comments/20230803/1915238.md" target="_blank">专栏 | 劳工通讯：安徽马鞍山市慈湖高新区金星钛白集团有限公司发生有限空间作业事故，造成工人死亡 (二)</a></li>
 <li><a href="/comments/20230802/1915223.md" target="_blank">无预警泄洪保京淹河北 涿州求救呼声不断 民怨沸腾</a></li>
 <li><a href="/comments/20230802/1915221.md" target="_blank">中国宝能集团董事长姚振华因欠薪在集团总部被围殴</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230802/1914941.md" target="_blank">袁斌：齐市遇难者头七才过，当局为何就清空悼念现场？</a></li>
 <li><a href="/comments/20230802/1914938.md" target="_blank">文昭：中国历史上的“密不发丧”事件如今再现，意味着什么？</a></li>
 <li><a href="/comments/20230802/1914932.md" target="_blank">王赫：中共管制无人机出口是对美妥协</a></li>
-<li><a href="/comments/20230802/1914922.md" target="_blank">军事围堵中共（12） 美军在西太构建导弹墙围堵共军 美海军部署新型潜艇将用于执行秘密任务 美海军投资研发高超音速反舰导弹 美防长访巴新加强军事存在 美日运输机变身导弹射手 日本发布新版《防卫白皮书》研发远程导弹 韩美商定签署军品供应安全协议 印度成功研发反辐射导弹</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
 
 </ul>
 </div>
