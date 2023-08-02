@@ -5,22 +5,20 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cbnews/20230802/1914917.md">惊爆！秦刚难辞其咎 王毅披挂上阵难收场</a></li>
 <li><a href="/topimagenews/20230802/1915116.md">天怒！北京最大暴雨原因找到了 都是中共干的蠢事【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230802/1914955.md">〖微博谈〗看看党国领导人会不会走出中南海</a></li>
 <li><a href="/cbnews/20230802/1915033.md">〖兲朝浮世绘〗别整天慰问外国了，关心一下北京灾民吧</a></li>
 <li><a href="/cbnews/20230802/1914970.md">人人自危时代到来了！中共国安部最新发文 反间谍工作...</a></li>
-<li><a href="/cbnews/20230802/1914918.md">美搞大事 继火箭军后 CASI再爆解放军大改组 要导致共军殉爆</a></li>
 <li><a href="/worldnews/20230802/1915096.md">发出警告！日媒突然大幅报道这事</a></li>
 <li><a href="/topimagenews/20230802/1915017.md">这回，乌军要玩大的</a></li>
 <li><a href="/cbnews/20230802/1915112.md">涿州人敢拼！奋起抵抗强制泄洪保护家园！与警冲突【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230802/1915115.md">中共海军又爆出重大泄密案，华北特大洪灾习近平选择躺平，官媒宣称不会派兵打击缅北电诈。《老灯开讲第350期》</a></li>
+<li><a href="/sohnews/20230802/1915201.md">习近平立威八一大楼，天安门和故宫被淹；北京雄安双双陷落，世界第一大机场成汪洋；川普二次被刑事起诉四大罪名；俄政府大楼连续被攻击</a></li>
 <li><a href="/baitai/20230802/1915164.md">白夜飞行员｜作为一个涿州人，我来给大家复述一下到底发生了什么</a></li>
-<li><a href="/cnnews/20230802/1915152.md">中国最大资产管理集团暴雷！15万投资人 企业客户5000家陷人间惨剧【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230802/1914981.md">人间悲剧！多伦多24岁留学生送外卖被杀！妈妈崩溃自杀</a></li>
+<li><a href="/cnnews/20230802/1915152.md">中国最大资产管理集团暴雷！15万投资人 企业客户5000家陷人间惨剧【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230802/1914950.md">北京气炸！南太小国授权美军检查可疑船只</a></li>
 <li><a href="/cbnews/20230802/1915118.md">北京遇140年来最大雨 涿州3河交界最惨烈 大批灾民等无救援</a></li>
-<li><a href="/sohnews/20230802/1915201.md">习近平立威八一大楼，天安门和故宫被淹；北京雄安双双陷落，世界第一大机场成汪洋；川普二次被刑事起诉四大罪名；俄政府大楼连续被攻击</a></li>
 <li><a href="/worldnews/20230802/1915041.md">俄女遭囚地牢14年沦性奴1号 性奴2号遭分尸狠吃</a></li>
 <li><a href="/ccpdope/20230802/1915130.md">唐山打人案无真相 四名受害者生死成谜</a></li>
 <li><a href="/sohnews/20230802/1915092.md">习承认“重大人员伤亡”！北京泄洪，河北70万人涿州“二河夹击”，全城沦陷，居民抱怨撤离不力；京最贵酒店被毁，雄安以北“白沟镇”半夜转移；水灾危急时刻，习近平晋升火箭军新司令｜新闻拍案惊奇 大宇</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/baitai/20230802/1915063.md">从1968年北京江湖角度看习近平</a></li>
 <li><a href="/cbnews/20230802/1915117.md">网怒：狼性！12岁女童Coser被“众人施压猥亵” 警察：闹着玩..</a></li>
 <li><a href="/sohnews/20230802/1914921.md">北京暴雨泄洪事前无通知，涿州遭灭顶之灾一夜水涨6米！官方称河堤决口需转移，背后有惊悚内幕！全民变“反贼”，狂讽习近平</a></li>
+<li><a href="/comments/20230802/1915034.md">【独家重磅】李燕铭：前政治局委员北京书记刘淇大秘 北戴河会议前夕被查 曾庆红同学刘淇获江泽民提拔曾对王岐山下狠手 刘淇家族贪腐丑闻曝光 刘淇多名副部级旧部落马 北戴河会议大战内幕（72） 习近平连任后大清洗（55） 北京帮覆灭记（15）</a></li>
+<li><a href="/topimagenews/20230802/1915052.md">美媒：美国制裁无法阻止普丁侵略乌克兰 但可以让习近平犯台前三思</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
 <li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
 
 </ul>
 </div>
