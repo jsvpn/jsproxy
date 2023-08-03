@@ -11,17 +11,17 @@
 <li><a href="/cbnews/20230802/1915112.md">涿州人敢拼！奋起抵抗强制泄洪保护家园！与警冲突【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230802/1915115.md">中共海军又爆出重大泄密案，华北特大洪灾习近平选择躺平，官媒宣称不会派兵打击缅北电诈。《老灯开讲第350期》</a></li>
 <li><a href="/topimagenews/20230802/1915017.md">这回，乌军要玩大的</a></li>
-<li><a href="/cnnews/20230802/1915152.md">中国最大资产管理集团暴雷！15万投资人 企业客户5000家陷人间惨剧【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230803/1915297.md">习近平开始自我纠错了</a></li>
+<li><a href="/cnnews/20230802/1915152.md">中国最大资产管理集团暴雷！15万投资人 企业客户5000家陷人间惨剧【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230802/1915164.md">白夜飞行员｜作为一个涿州人，我来给大家复述一下到底发生了什么</a></li>
 <li><a href="/sohnews/20230802/1915201.md">习近平立威八一大楼，天安门和故宫被淹；北京雄安双双陷落，世界第一大机场成汪洋；川普二次被刑事起诉四大罪名；俄政府大楼连续被攻击</a></li>
+<li><a href="/topimagenews/20230803/1915296.md">习近平不安恐慌，“所有谣言都是真的”</a></li>
 <li><a href="/worldnews/20230802/1915041.md">俄女遭囚地牢14年沦性奴1号 性奴2号遭分尸狠吃</a></li>
 <li><a href="/cbnews/20230802/1915118.md">北京遇140年来最大雨 涿州3河交界最惨烈 大批灾民等无救援</a></li>
-<li><a href="/topimagenews/20230803/1915296.md">习近平不安恐慌，“所有谣言都是真的”</a></li>
 <li><a href="/ccpdope/20230802/1915130.md">唐山打人案无真相 四名受害者生死成谜</a></li>
 <li><a href="/baitai/20230802/1915032.md">保北京半夜11点开始泄洪，涿州全灭！ 习近平承认重大伤亡！官宣11死27失踪可信吗？【主持】高洁 【嘉宾】时事评论员 唐靖远【焦点解读】</a></li>
-<li><a href="/sohnews/20230802/1915092.md">习承认“重大人员伤亡”！北京泄洪，河北70万人涿州“二河夹击”，全城沦陷，居民抱怨撤离不力；京最贵酒店被毁，雄安以北“白沟镇”半夜转移；水灾危急时刻，习近平晋升火箭军新司令｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20230802/1915117.md">网怒：狼性！12岁女童Coser被“众人施压猥亵” 警察：闹着玩..</a></li>
+<li><a href="/sohnews/20230802/1915092.md">习承认“重大人员伤亡”！北京泄洪，河北70万人涿州“二河夹击”，全城沦陷，居民抱怨撤离不力；京最贵酒店被毁，雄安以北“白沟镇”半夜转移；水灾危急时刻，习近平晋升火箭军新司令｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20230802/1915063.md">从1968年北京江湖角度看习近平</a></li>
 <li><a href="/topimagenews/20230802/1915087.md">苹果代工被整碗捧去？大陆对头变新宠儿 外媒曝2关键原因</a></li>
 <li><a href="/comments/20230802/1915034.md">【独家重磅】李燕铭：前政治局委员北京书记刘淇大秘 北戴河会议前夕被查 曾庆红同学刘淇获江泽民提拔曾对王岐山下狠手 刘淇家族贪腐丑闻曝光 刘淇多名副部级旧部落马 北戴河会议大战内幕（72） 习近平连任后大清洗（55） 北京帮覆灭记（15）</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230803/1915372.md" target="_blank">林保华：柯郭难合郭台铭当然希望柯文哲民调下滑才有望“并购”</a></li>
+<li><a href="/comments/20230803/1915371.md" target="_blank">英媒：中国任命火箭军新领导层 引发军中“清洗”猜测</a></li>
 <li><a href="/comments/20230803/1915359.md" target="_blank">林保华：习近平坐立难安，共军面临大清洗</a></li>
 <li><a href="/comments/20230803/1915354.md" target="_blank">杨宪宏:美国众议院通过“台湾国际团结法案” 关系到台湾未来的国家定位</a></li>
 <li><a href="/comments/20230803/1915339.md" target="_blank">文昭：罗刹海市成真！习近平学大禹、招来大雨，雄安千年大计受重创</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230802/1915050.md" target="_blank">天亮时分：北京泄洪，水淹天津涿州；川普再遭联邦起诉四项罪名；中美俄复现常温超导体，物理学上的颠覆性发现（政论天下第1073集 20230801）</a></li>
 <li><a href="/comments/20230802/1915034.md" target="_blank">【独家重磅】李燕铭：前政治局委员北京书记刘淇大秘 北戴河会议前夕被查 曾庆红同学刘淇获江泽民提拔曾对王岐山下狠手 刘淇家族贪腐丑闻曝光 刘淇多名副部级旧部落马 北戴河会议大战内幕（72） 习近平连任后大清洗（55） 北京帮覆灭记（15）</a></li>
 <li><a href="/comments/20230802/1915025.md" target="_blank">石头掉下来只要没砸到我，它就不存在</a></li>
-<li><a href="/comments/20230802/1915023.md" target="_blank">立此存照：大量AI应用从中国区App Store下架，苹果：根据中方命令</a></li>
-<li><a href="/comments/20230802/1915022.md" target="_blank">北京的洪峰下，没有哪一场灾难是没有经过预演</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
 <li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
 
 </ul>
 </div>
