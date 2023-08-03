@@ -12,8 +12,8 @@
 <li><a href="/comments/20230803/1915403.md">天亮时分：火箭军间谍案疑云，副司令女儿突发声；两亿散户撤离股市，中国经济在崩塌；涿州百万人遭灾，只为保雄安一座空城（政论天下第1074集 20230802）</a></li>
 <li><a href="/cbnews/20230803/1915433.md">〖兲朝浮世绘〗看看邻国家的领导 俺们的习总藏哪儿去了？</a></li>
 <li><a href="/topimagenews/20230803/1915455.md">惊呆！北京落后成这样 在中国还是最好的</a></li>
-<li><a href="/sohnews/20230803/1915514.md">习近平关于洪灾的阴毒批示，特警强扒泄洪口抓捕阻拦农民，秦刚案终于真相大白。《老灯开讲第351期》</a></li>
 <li><a href="/yule/20230803/1915421.md">低调25年，刀郎隐藏多年的二婚妻子，竟是我们熟悉的她</a></li>
+<li><a href="/sohnews/20230803/1915514.md">习近平关于洪灾的阴毒批示，特警强扒泄洪口抓捕阻拦农民，秦刚案终于真相大白。《老灯开讲第351期》</a></li>
 <li><a href="/ccpdope/20230803/1915571.md">秦刚王毅权斗内幕 秦执行习秘密外交 普京捏住习把柄</a></li>
 <li><a href="/comments/20230803/1915551.md">事关习近平的脸面？专家揭北京泄洪另有隐情</a></li>
 <li><a href="/yule/20230803/1915471.md">罗刹海市风波升级！谷建芬评价那英：长个好嗓子 配个狗脑子</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/baitai/20230803/1915501.md">中共露流氓嘴脸：为保雄安、北京大兴机场 淹你白淹</a></li>
 <li><a href="/baitai/20230803/1915602.md">习近平保颜面 涿州惨遭灭顶？河北书记一句话全网震怒</a></li>
 <li><a href="/worldnews/20230803/1915440.md">空姐曝航空“潜规则” 吁准备这些物品</a></li>
-<li><a href="/cnnews/20230803/1915512.md">可怕！洛杉矶发现水桶 救生员打开后吓瘫</a></li>
 <li><a href="/cbnews/20230803/1915607.md">中国夫妻生出“金发碧眼”女婴 爸爸：孩子是我的</a></li>
+<li><a href="/cnnews/20230803/1915512.md">可怕！洛杉矶发现水桶 救生员打开后吓瘫</a></li>
 <li><a href="/topimagenews/20230803/1915358.md">警报声不断 中国遭遇“水炸弹”袭击</a></li>
 <li><a href="/cbnews/20230803/1915352.md">消失6年后女富商现身，惊曝卷入孙政才案</a></li>
 <li><a href="/baitai/20230803/1915473.md">【麻辣总局】习近平新皮肤上架：↗↘↗</a></li>
-<li><a href="/baitai/20230803/1915323.md">这次轮到海军 美国智库再爆料 习还要大清洗？</a></li>
+<li><a href="/baitai/20230803/1915560.md">火箭军军变背后 藏习近平重要企图</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230804/1915737.md" target="_blank">周孝正：中国没有天灾，只有人祸 ｜新闻烽火台 08/03</a></li>
 <li><a href="/cbnews/20230804/1915673.md" target="_blank">扛不住了？北京愿上谈判桌</a></li>
 <li><a href="/cbnews/20230804/1915650.md" target="_blank">黑龙江暴雨酿桥梁坍塌2车落水 大量稻田被淹没</a></li>
 <li><a href="/cbnews/20230803/1915607.md" target="_blank">中国夫妻生出“金发碧眼”女婴 爸爸：孩子是我的</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/cbnews/20230803/1915279.md" target="_blank">重磅！白宫首度释出这招军援台湾</a></li>
 <li><a href="/cbnews/20230803/1915278.md" target="_blank">美国思想领袖：【精彩片段】北京泄洪殃及周边 人祸大於天灾？ | #新闻大家谈</a></li>
 <li><a href="/cbnews/20230803/1915277.md" target="_blank">美国思想领袖：【精彩片段】北京洪水泛滥 习近平承认出现「重大伤亡」一场洪水 冲毁「海绵城市」神话| #新闻大家谈</a></li>
-<li><a href="/cbnews/20230803/1915252.md" target="_blank">泄洪保北京？大水围困河北：涿州13万人受灾 全城呼救</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230804/1915739.md" target="_blank">北京盘算落空 西方企业发生重大转变</a></li>
 <li><a href="/topimagenews/20230804/1915691.md" target="_blank">北京红十字会呼吁捐款 网友们纷纷捐出1分 还有很多人提醒谨防诈骗</a></li>
 <li><a href="/topimagenews/20230804/1915672.md" target="_blank">“习近平中了反间计，会消停两三年了”</a></li>
 <li><a href="/topimagenews/20230804/1915614.md" target="_blank">惠誉之乱造成全球股市动荡 美股及AI股回跌其实是这原因</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230802/1914862.md" target="_blank">当孩子的面？ 美女博士实名举报川大教授骗睡</a></li>
 <li><a href="/topimagenews/20230801/1914834.md" target="_blank">北京“最贵酒店”被暴雨冲垮！大厅被泥水冲刷 造景全消失</a></li>
 <li><a href="/topimagenews/20230801/1914833.md" target="_blank">杜苏芮重创河北！社区淹到2楼300多人受困 网友惊呼：我的天</a></li>
-<li><a href="/topimagenews/20230801/1914788.md" target="_blank">地方财政穷疯了？中共国太离谱；情况危急！中共国运、命门命悬一线；转嫁到老百姓身上了</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230804/1915737.md" target="_blank">周孝正：中国没有天灾，只有人祸 ｜新闻烽火台 08/03</a></li>
 <li><a href="/comments/20230803/1915600.md" target="_blank">台风环流转袭东北 黑龙江洪灾 桥梁塌陷汽车被困</a></li>
 <li><a href="/comments/20230803/1915599.md" target="_blank">河北省委书记一句“当好首都护城河” 涿州垫背引发网怒</a></li>
 <li><a href="/comments/20230803/1915598.md" target="_blank">错了！七月十五 是大日子 不是鬼节！</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230803/1915338.md" target="_blank">北京河北洪水，郑州水灾翻版；涿州人的命不是命？全民抓特务的时代又回来了？｜唐靖远 秦鹏 薇羽 方菲 David ｜围炉夜话08/02</a></li>
 <li><a href="/comments/20230803/1915335.md" target="_blank">网海拾贝:故宫去年蹋门今年淹水，中共政权要垮？</a></li>
 <li><a href="/comments/20230803/1915334.md" target="_blank">王赫：命悬一线！情况比你想的还要糟</a></li>
-<li><a href="/comments/20230803/1915333.md" target="_blank">英文党报奉旨放风？哪个将领情愿提着脑袋玩</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 <li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 
 </ul>
 </div>
