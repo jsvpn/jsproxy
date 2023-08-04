@@ -7,19 +7,18 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230804/1915672.md">“习近平中了反间计，会消停两三年了”</a></li>
 <li><a href="/cbnews/20230804/1915673.md">扛不住了？北京愿上谈判桌</a></li>
-<li><a href="/ccpdope/20230804/1915648.md">罔顾百姓生死泄洪只为保北京 灾民:门头沟死人满地都是</a></li>
 <li><a href="/topimagenews/20230804/1915920.md">准备动手了！中共两办发出“恐怖文件” 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230804/1915691.md">北京红十字会呼吁捐款 网友们纷纷捐出1分 还有很多人提醒谨防诈骗</a></li>
 <li><a href="/yule/20230804/1915687.md">58岁老戏骨一家三代定居美国，住豪宅开游艇</a></li>
 <li><a href="/comments/20230804/1915845.md">【微博精粹】习近平泡水中亲自指挥救灾 有图为证</a></li>
-<li><a href="/sohnews/20230804/1915921.md">领袖们北戴河歌舞升平，战略支援部队司令巨干生串联反习，省委书记视察洪灾皮鞋油亮。《老灯开讲第352期》</a></li>
 <li><a href="/cbnews/20230804/1915861.md">江峰：雄安这个秘密至今未敢公开；习近平从不现身灾区的真相，军队72小时黄金救援期一过就进场，不为救人为什麽而来？政府夜扒堤坝捉现行；民间救援队遭灾民不解委屈离开【江峰漫谈20230803第707期】</a></li>
+<li><a href="/sohnews/20230804/1915921.md">领袖们北戴河歌舞升平，战略支援部队司令巨干生串联反习，省委书记视察洪灾皮鞋油亮。《老灯开讲第352期》</a></li>
+<li><a href="/ccpdope/20230804/1915940.md">秦刚王毅权斗内幕</a></li>
 <li><a href="/cbnews/20230804/1915814.md">〖兲朝浮世绘〗老百姓呼天喊地苦求救援 党卫军熟视无睹表态效忠</a></li>
 <li><a href="/topimagenews/20230804/1915739.md">北京盘算落空 西方企业发生重大转变</a></li>
-<li><a href="/ccpdope/20230804/1915940.md">秦刚王毅权斗内幕</a></li>
 <li><a href="/headline/20230804/1915698.md">海外旅客不来了！中国另一大麻烦</a></li>
-<li><a href="/ssgc/20230804/1915735.md">〖微博谈〗水治大愚</a></li>
 <li><a href="/topimagenews/20230804/1915935.md">涿州蓝天救援队倒卖物资 与其他救援队发生冲突【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20230804/1915735.md">〖微博谈〗水治大愚</a></li>
 <li><a href="/headline/20230804/1915931.md">华北水灾无阻中共高层北戴河「度假」 分析：习认为北戴河会议更有意义</a></li>
 <li><a href="/ccpdope/20230804/1915891.md">网上开始有人怀念江泽民时代了</a></li>
 <li><a href="/cnnews/20230804/1915829.md">习秘请风水师？保着母亲躲开了低级联想</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20230804/1915857.md">意大利称一带一路 “邪恶” 中共破口大骂</a></li>
 <li><a href="/cnnews/20230804/1915683.md">2023年中国最惨的男人出现了</a></li>
 <li><a href="/yule/20230804/1915762.md">汪峰演唱会观众齐喊刀郎 大片空座好尴尬</a></li>
+<li><a href="/ssgc/20230804/1915971.md">河北一把手不去涿州救灾 在雄安穿皮鞋视察</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 <li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
