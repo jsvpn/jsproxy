@@ -7,18 +7,17 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/ccpdope/20230803/1915571.md">秦刚王毅权斗内幕 秦执行习秘密外交 普京捏住习把柄</a></li>
 <li><a href="/topimagenews/20230804/1915672.md">“习近平中了反间计，会消停两三年了”</a></li>
-<li><a href="/comments/20230803/1915551.md">事关习近平的脸面？专家揭北京泄洪另有隐情</a></li>
 <li><a href="/cbnews/20230804/1915673.md">扛不住了？北京愿上谈判桌</a></li>
 <li><a href="/baitai/20230803/1915602.md">习近平保颜面 涿州惨遭灭顶？河北书记一句话全网震怒</a></li>
 <li><a href="/ccpdope/20230804/1915648.md">罔顾百姓生死泄洪只为保北京 灾民:门头沟死人满地都是</a></li>
 <li><a href="/topimagenews/20230804/1915691.md">北京红十字会呼吁捐款 网友们纷纷捐出1分 还有很多人提醒谨防诈骗</a></li>
 <li><a href="/cbnews/20230803/1915607.md">中国夫妻生出“金发碧眼”女婴 爸爸：孩子是我的</a></li>
 <li><a href="/yule/20230804/1915687.md">58岁老戏骨一家三代定居美国，住豪宅开游艇</a></li>
-<li><a href="/comments/20230804/1915845.md">【微博精粹】习近平泡水中亲自指挥救灾 有图为证</a></li>
 <li><a href="/topimagenews/20230804/1915739.md">北京盘算落空 西方企业发生重大转变</a></li>
+<li><a href="/comments/20230804/1915845.md">【微博精粹】习近平泡水中亲自指挥救灾 有图为证</a></li>
+<li><a href="/cbnews/20230804/1915861.md">江峰：雄安这个秘密至今未敢公开；习近平从不现身灾区的真相，军队72小时黄金救援期一过就进场，不为救人为什麽而来？政府夜扒堤坝捉现行；民间救援队遭灾民不解委屈离开【江峰漫谈20230803第707期】</a></li>
 <li><a href="/headline/20230804/1915698.md">海外旅客不来了！中国另一大麻烦</a></li>
 <li><a href="/cbnews/20230804/1915814.md">〖兲朝浮世绘〗老百姓呼天喊地苦求救援 党卫军熟视无睹表态效忠</a></li>
-<li><a href="/cbnews/20230804/1915861.md">江峰：雄安这个秘密至今未敢公开；习近平从不现身灾区的真相，军队72小时黄金救援期一过就进场，不为救人为什麽而来？政府夜扒堤坝捉现行；民间救援队遭灾民不解委屈离开【江峰漫谈20230803第707期】</a></li>
 <li><a href="/ssgc/20230804/1915735.md">〖微博谈〗水治大愚</a></li>
 <li><a href="/baitai/20230803/1915560.md">火箭军军变背后 藏习近平重要企图</a></li>
 <li><a href="/cnnews/20230804/1915679.md">遗体全都碳化!4人惨死罗布泊 到底是谁的锅?</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20230804/1915829.md">习秘请风水师？保着母亲躲开了低级联想</a></li>
 <li><a href="/topimagenews/20230804/1915857.md">意大利称一带一路 “邪恶” 中共破口大骂</a></li>
 <li><a href="/lifebaike/20230804/1915752.md">越没本事的父母，越喜欢逢人就炫耀这2样东西，实在是很掉价</a></li>
+<li><a href="/lifebaike/20230804/1915758.md">手机放口袋里，记得要关闭这个功能，很多人还不知道，涨知识了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 
 </ul>
 </div>
