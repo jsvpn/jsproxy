@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/ccpdope/20230803/1915571.md">秦刚王毅权斗内幕 秦执行习秘密外交 普京捏住习把柄</a></li>
 <li><a href="/topimagenews/20230804/1915672.md">“习近平中了反间计，会消停两三年了”</a></li>
 <li><a href="/cbnews/20230804/1915673.md">扛不住了？北京愿上谈判桌</a></li>
 <li><a href="/baitai/20230803/1915602.md">习近平保颜面 涿州惨遭灭顶？河北书记一句话全网震怒</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/topimagenews/20230804/1915691.md">北京红十字会呼吁捐款 网友们纷纷捐出1分 还有很多人提醒谨防诈骗</a></li>
 <li><a href="/cbnews/20230803/1915607.md">中国夫妻生出“金发碧眼”女婴 爸爸：孩子是我的</a></li>
 <li><a href="/yule/20230804/1915687.md">58岁老戏骨一家三代定居美国，住豪宅开游艇</a></li>
+<li><a href="/cbnews/20230804/1915861.md">江峰：雄安这个秘密至今未敢公开；习近平从不现身灾区的真相，军队72小时黄金救援期一过就进场，不为救人为什麽而来？政府夜扒堤坝捉现行；民间救援队遭灾民不解委屈离开【江峰漫谈20230803第707期】</a></li>
 <li><a href="/topimagenews/20230804/1915739.md">北京盘算落空 西方企业发生重大转变</a></li>
 <li><a href="/comments/20230804/1915845.md">【微博精粹】习近平泡水中亲自指挥救灾 有图为证</a></li>
-<li><a href="/cbnews/20230804/1915861.md">江峰：雄安这个秘密至今未敢公开；习近平从不现身灾区的真相，军队72小时黄金救援期一过就进场，不为救人为什麽而来？政府夜扒堤坝捉现行；民间救援队遭灾民不解委屈离开【江峰漫谈20230803第707期】</a></li>
 <li><a href="/headline/20230804/1915698.md">海外旅客不来了！中国另一大麻烦</a></li>
 <li><a href="/cbnews/20230804/1915814.md">〖兲朝浮世绘〗老百姓呼天喊地苦求救援 党卫军熟视无睹表态效忠</a></li>
 <li><a href="/ssgc/20230804/1915735.md">〖微博谈〗水治大愚</a></li>
+<li><a href="/topimagenews/20230804/1915920.md">准备动手了！中共两办发出“恐怖文件” 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230804/1915679.md">遗体全都碳化!4人惨死罗布泊 到底是谁的锅?</a></li>
 <li><a href="/topimagenews/20230804/1915748.md">前中共解放军参谋：中共现在用奴才、不用人才</a></li>
-<li><a href="/cnnews/20230804/1915683.md">2023年中国最惨的男人出现了</a></li>
-<li><a href="/cnnews/20230804/1915829.md">习秘请风水师？保着母亲躲开了低级联想</a></li>
-<li><a href="/yule/20230804/1915762.md">汪峰演唱会观众齐喊刀郎 大片空座好尴尬</a></li>
-<li><a href="/topimagenews/20230804/1915920.md">准备动手了！中共两办发出“恐怖文件” 【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230804/1915857.md">意大利称一带一路 “邪恶” 中共破口大骂</a></li>
 <li><a href="/sohnews/20230804/1915921.md">领袖们北戴河歌舞升平，战略支援部队司令巨干生串联反习，省委书记视察洪灾皮鞋油亮。《老灯开讲第352期》</a></li>
+<li><a href="/cnnews/20230804/1915829.md">习秘请风水师？保着母亲躲开了低级联想</a></li>
+<li><a href="/cnnews/20230804/1915683.md">2023年中国最惨的男人出现了</a></li>
+<li><a href="/yule/20230804/1915762.md">汪峰演唱会观众齐喊刀郎 大片空座好尴尬</a></li>
+<li><a href="/topimagenews/20230804/1915857.md">意大利称一带一路 “邪恶” 中共破口大骂</a></li>
 <li><a href="/lifebaike/20230804/1915752.md">越没本事的父母，越喜欢逢人就炫耀这2样东西，实在是很掉价</a></li>
+<li><a href="/lifebaike/20230804/1915758.md">手机放口袋里，记得要关闭这个功能，很多人还不知道，涨知识了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
 <li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
 
 </ul>
 </div>
