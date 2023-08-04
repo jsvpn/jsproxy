@@ -12,22 +12,22 @@
 <li><a href="/comments/20230803/1915403.md">天亮时分：火箭军间谍案疑云，副司令女儿突发声；两亿散户撤离股市，中国经济在崩塌；涿州百万人遭灾，只为保雄安一座空城（政论天下第1074集 20230802）</a></li>
 <li><a href="/cbnews/20230803/1915433.md">〖兲朝浮世绘〗看看邻国家的领导 俺们的习总藏哪儿去了？</a></li>
 <li><a href="/topimagenews/20230803/1915455.md">惊呆！北京落后成这样 在中国还是最好的</a></li>
-<li><a href="/yule/20230803/1915421.md">低调25年，刀郎隐藏多年的二婚妻子，竟是我们熟悉的她</a></li>
 <li><a href="/sohnews/20230803/1915514.md">习近平关于洪灾的阴毒批示，特警强扒泄洪口抓捕阻拦农民，秦刚案终于真相大白。《老灯开讲第351期》</a></li>
+<li><a href="/yule/20230803/1915421.md">低调25年，刀郎隐藏多年的二婚妻子，竟是我们熟悉的她</a></li>
 <li><a href="/ccpdope/20230803/1915571.md">秦刚王毅权斗内幕 秦执行习秘密外交 普京捏住习把柄</a></li>
 <li><a href="/comments/20230803/1915551.md">事关习近平的脸面？专家揭北京泄洪另有隐情</a></li>
 <li><a href="/yule/20230803/1915471.md">罗刹海市风波升级！谷建芬评价那英：长个好嗓子 配个狗脑子</a></li>
 <li><a href="/baitai/20230803/1915485.md">火箭军出事后美又爆海军情报 评：习在军中回天无力</a></li>
 <li><a href="/ccpdope/20230803/1915510.md">习近平收紧对内掌控权！港澳特务系统大清洗 曾庆红人马被撤换</a></li>
-<li><a href="/baitai/20230803/1915501.md">中共露流氓嘴脸：为保雄安、北京大兴机场 淹你白淹</a></li>
 <li><a href="/baitai/20230803/1915602.md">习近平保颜面 涿州惨遭灭顶？河北书记一句话全网震怒</a></li>
+<li><a href="/baitai/20230803/1915501.md">中共露流氓嘴脸：为保雄安、北京大兴机场 淹你白淹</a></li>
 <li><a href="/cbnews/20230803/1915607.md">中国夫妻生出“金发碧眼”女婴 爸爸：孩子是我的</a></li>
 <li><a href="/worldnews/20230803/1915440.md">空姐曝航空“潜规则” 吁准备这些物品</a></li>
 <li><a href="/cnnews/20230803/1915512.md">可怕！洛杉矶发现水桶 救生员打开后吓瘫</a></li>
+<li><a href="/ccpdope/20230804/1915648.md">罔顾百姓生死泄洪只为保北京 灾民:门头沟死人满地都是</a></li>
 <li><a href="/topimagenews/20230803/1915358.md">警报声不断 中国遭遇“水炸弹”袭击</a></li>
-<li><a href="/cbnews/20230803/1915352.md">消失6年后女富商现身，惊曝卷入孙政才案</a></li>
+<li><a href="/topimagenews/20230804/1915672.md">“习近平中了反间计，会消停两三年了”</a></li>
 <li><a href="/sohnews/20230803/1915538.md">陈破空：又一上将司令消失！习近平论治水爆红，大家都觉得他是全才！洪水汹涌，北京到处都是浮尸！不再出动军队抗洪救灾之谜</a></li>
-<li><a href="/baitai/20230803/1915473.md">【麻辣总局】习近平新皮肤上架：↗↘↗</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
 <li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
 
 </ul>
 </div>
