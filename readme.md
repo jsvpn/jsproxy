@@ -8,8 +8,8 @@
 <li><a href="/ccpdope/20230804/1915940.md">秦刚王毅权斗内幕</a></li>
 <li><a href="/headline/20230804/1915931.md">华北水灾无阻中共高层北戴河「度假」 分析：习认为北戴河会议更有意义</a></li>
 <li><a href="/ssgc/20230804/1915971.md">河北一把手不去涿州救灾 在雄安穿皮鞋视察</a></li>
-<li><a href="/baitai/20230805/1916127.md">北京猜到普京没时间了？习近平疑现重大转变</a></li>
 <li><a href="/topimagenews/20230804/1915935.md">涿州蓝天救援队倒卖物资 与其他救援队发生冲突【阿波罗网报道】</a></li>
+<li><a href="/baitai/20230805/1916127.md">北京猜到普京没时间了？习近平疑现重大转变</a></li>
 <li><a href="/cnnews/20230805/1916081.md">中美航母对决首公开？26架飞机环形包围山东舰</a></li>
 <li><a href="/sohnews/20230804/1915968.md">陈破空：河北省委书记厉害了！笑嘻嘻视察水灾。习主席惊现洪水现场？央视抢拍！救援物质堆放不发供摆拍。逼走民间救援队。高速公路排队收费。酒店狂涨价。首播：美东8月4日周五晚8点、即中港台8月5日周六早8点</a></li>
 <li><a href="/finance/20230805/1916040.md">美国正努力抽干中国池塘的水 中国恐深陷泥沼</a></li>
@@ -17,15 +17,15 @@
 <li><a href="/topimagenews/20230805/1916131.md">心冷！在中国的外企：我们烦了….</a></li>
 <li><a href="/topimagenews/20230805/1916173.md">中共政府接连出台提振措施 欧洲经济学家看不下去了</a></li>
 <li><a href="/sohnews/20230805/1916070.md">“习近平毁了这一切！发生于习近平访美之后”No.03（08/04/23）</a></li>
-<li><a href="/cnnews/20230805/1916105.md">伤害彭德怀的真凶不是林彪？原来是他</a></li>
 <li><a href="/cnnews/20230805/1916080.md">就在今天，红十字会又被网友们羞辱了</a></li>
+<li><a href="/cnnews/20230805/1916105.md">伤害彭德怀的真凶不是林彪？原来是他</a></li>
 <li><a href="/topimagenews/20230804/1916003.md">乌克兰辣妹操真枪成超狂狙击手！一场乌俄战弃商从戎</a></li>
 <li><a href="/ssgc/20230805/1916117.md">〖微博谈〗侥幸或苟且，结局亦无差异</a></li>
 <li><a href="/topimagenews/20230805/1916139.md">印度发布重磅新规 “逼迫”世界科企迁出中国</a></li>
 <li><a href="/topimagenews/20230805/1916075.md">中国小粉红博主讲述入境俄罗斯被拒 中共怒批俄方</a></li>
 <li><a href="/cbnews/20230805/1916166.md">涿州惨成泄洪区 习近平难辞其咎</a></li>
-<li><a href="/yule/20230805/1916133.md">内娱老板打着培养女团的幌子 实则选妃</a></li>
 <li><a href="/topimagenews/20230805/1916165.md">北京被蒙在鼓里！50年来首次 日台联手赢下这一局</a></li>
+<li><a href="/yule/20230805/1916133.md">内娱老板打着培养女团的幌子 实则选妃</a></li>
 <li><a href="/baitai/20230804/1915977.md">郭台铭就台海发重磅警报？习近平或中计</a></li>
 <li><a href="/sohnews/20230804/1916010.md">🔥涉签证欺诈 中共国防七子留学生纽约被捕 最高判10年；中共救灾用“演”的！央视报导谎言被拆穿；演“猪八戒”谢宁被困涿州 摆摊卖菜惨上加惨；中共末任铁道部长盛光祖受审 曾靠江泽民高升</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
 
 </ul>
 </div>
