@@ -16,8 +16,8 @@
 <li><a href="/sohnews/20230805/1916223.md">消失5年_《红色赌盘》作者前妻首度现身</a></li>
 <li><a href="/sohnews/20230805/1916230.md">被困涿州_漂浮求生_95后：想写遗言</a></li>
 <li><a href="/sohnews/20230805/1916246.md">央视把人祸说成天灾引发河北霸州民愤，政府门口游行示威遭镇压双方大战！我找到了央视造假的新证据</a></li>
-<li><a href="/sohnews/20230805/1916227.md">检方认了！在川普案作虚假陈述</a></li>
 <li><a href="/sohnews/20230805/1916250.md">🔥中共最终不得已妥协 霸州泄洪致灾却撒谎 民市府抗议遭镇压；乌军全歼俄装甲集群 俄强烈警告吉尔吉斯；民怒! 央视造假 霸州实是泄洪不是暴雨；黑省一村庄被洪水淹没 吉林舒兰副市长被冲走【阿波罗网AL】</a></li>
+<li><a href="/sohnews/20230805/1916227.md">检方认了！在川普案作虚假陈述</a></li>
 <li><a href="/sohnews/20230805/1916243.md">陈破空：陈破空说段子：河北省委书记向总书记邀功请赏、要求升官。结果</a></li>
 <li><a href="/comments/20230805/1916195.md">刀郎新歌爆红后现身新疆党委学习 官媒报导被秒删</a></li>
 <li><a href="/sohnews/20230805/1916215.md">“救不过来了！”_河北危急_救援队被迫撤离</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230806/1916297.md" target="_blank">北京被淹跟海绵城市有关？</a></li>
+<li><a href="/comments/20230806/1916296.md" target="_blank">水淹涿州罪魁祸首是&#8230; ｜#方菲时间</a></li>
 <li><a href="/comments/20230806/1916293.md" target="_blank">【杰森视角】世界突然对中国失去兴趣！经济现实逼迫中共官员成土匪！中国经济看不到任何“正能量”！碧桂园将沦为第二个恒大？习近平十年工程又烂尾！</a></li>
 <li><a href="/comments/20230806/1916270.md" target="_blank">阿彻141页证词公布，揭从未听说过的惊人内幕，涉车峰等中共线人。拜登问题严重了！点燃麦卡锡弹劾调查。#亨特 #拜登 #国会作证</a></li>
 <li><a href="/comments/20230805/1916203.md" target="_blank">前世记忆！</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230803/1915607.md" target="_blank">中国夫妻生出“金发碧眼”女婴 爸爸：孩子是我的</a></li>
 <li><a href="/comments/20230803/1915598.md" target="_blank">错了！七月十五 是大日子 不是鬼节！</a></li>
 <li><a href="/comments/20230803/1915556.md" target="_blank">川普律师提出应诉策略。头号“同谋”朱利安尼击桌痛骂史密斯。律师揭露司法部险恶用意。#史密斯 #朱利安尼 #起诉川普</a></li>
-<li><a href="/cbnews/20230803/1915508.md" target="_blank">还在盖方舱医院！东北网友见公告傻眼：全国都拆了</a></li>
-<li><a href="/cbnews/20230803/1915479.md" target="_blank">百年一遇！陆华北淹水疏散近百万人！死亡数疑造假 机场也被淹了&#8230;</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230806/1916297.md" target="_blank">北京被淹跟海绵城市有关？</a></li>
+<li><a href="/comments/20230806/1916296.md" target="_blank">水淹涿州罪魁祸首是&#8230; ｜#方菲时间</a></li>
 <li><a href="/comments/20230806/1916293.md" target="_blank">【杰森视角】世界突然对中国失去兴趣！经济现实逼迫中共官员成土匪！中国经济看不到任何“正能量”！碧桂园将沦为第二个恒大？习近平十年工程又烂尾！</a></li>
 <li><a href="/comments/20230806/1916281.md" target="_blank">传河北高碑店半夜挖堤泄洪 村民反抗起冲突</a></li>
 <li><a href="/comments/20230806/1916274.md" target="_blank">习近平忧军队哗变？军报发声听习指挥 绝对忠诚</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230804/1915967.md" target="_blank">3岁男孩，跑到前世家庭认亲！震惊不信轮回的基督徒家人！男子投胎仇家！妻子跑到转生家庭，追问⋯｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230804/1915856.md" target="_blank">放弃涿州“SI”保雄安一个月！习近平治水夺多少命？汪峰开视频赞美刀郎：万分尊重，给他打93分</a></li>
 <li><a href="/comments/20230804/1915850.md" target="_blank">【独家重磅】李燕铭：江绵恒顶风作案挑衅习近平 火箭军窝案延烧北戴河会议 江绵恒两大独立王国高调合作 展示对军工核心技术掌控权 火箭军窝案深度内幕（11） 中南海政变与反政变（103） 北戴河会议大战内幕（75） 习近平连任与中共末日（150） 江泽民死江家族被清洗（22） 习近平决战江曾（96） 江绵恒暗黑帝国瓦解内幕（45）</a></li>
-<li><a href="/comments/20230804/1915845.md" target="_blank">【微博精粹】习近平泡水中亲自指挥救灾 有图为证</a></li>
-<li><a href="/comments/20230804/1915833.md" target="_blank">李燕铭：火箭军提交一份报告令习震怒 习清洗火箭军部署三军核武统一指挥藏重要企图 内部消息：15万火箭军官兵愤怒蔓延军内外 军队反习势力集结 战略支援部队司令巨乾生上将缺席军方高层集体露面传被查 美中情报战激烈交锋 美军方智库再爆中共海军情报 火箭军窝案深度内幕（10） 中南海政变与反政变（102） 习强化军权内防政变对外备战（49） 北戴河会议大战内幕（74） 习近平连任与中共末日（149）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 
 </ul>
 </div>
