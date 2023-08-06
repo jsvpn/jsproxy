@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230805/1916242.md">习近平要从内部掏空台湾；河北二次泄洪，习与大佬秘聚北戴河；台湾大选真谛，到底选谁；美抓捕2华裔军中间谍，著名侨领法拉盛蹊跷自尽。</a></li>
 <li><a href="/sohnews/20230806/1916289.md">副市长没了？蔡奇侄子求泄洪；掘堤通知曝光，城西水仍深，媒体记者国骂涿州官员【新闻看点 李沐阳8.5】</a></li>
 <li><a href="/sohnews/20230806/1916291.md">天怒人怨山东大地震，河北灾民开始暴动抗议，张国清王小洪匆匆离开北戴河。《老灯开讲第353期》</a></li>
 <li><a href="/sohnews/20230805/1916246.md">央视把人祸说成天灾引发河北霸州民愤，政府门口游行示威遭镇压双方大战！我找到了央视造假的新证据</a></li>
@@ -14,20 +13,21 @@
 <li><a href="/sohnews/20230805/1916243.md">陈破空：陈破空说段子：河北省委书记向总书记邀功请赏、要求升官。结果</a></li>
 <li><a href="/comments/20230806/1916293.md">【杰森视角】世界突然对中国失去兴趣！经济现实逼迫中共官员成土匪！中国经济看不到任何“正能量”！碧桂园将沦为第二个恒大？习近平十年工程又烂尾！</a></li>
 <li><a href="/comments/20230806/1916272.md">舒兰市副市长等4人被洪水冲走失联 传都已去世</a></li>
-<li><a href="/sohnews/20230806/1916303.md">20230806直播：对俄罗斯态度出现重大转变，习近平要跳船？涿州干部禽兽不如！河北人三定律，中国粮仓秋收全泡汤；对华投资基本停止，中国金融命脉日渐枯竭。（20230806 第1040期）</a></li>
 <li><a href="/sohnews/20230806/1916280.md">美东亲共侨领离奇自缢，恐牵扯泄密遭灭口！福建长乐为何会成为偷渡之乡？地下钱庄到底有多牛，超出你的想像！藏在集装箱里的致富之路！‘新闻最嘲点 姜光宇’2023.0805</a></li>
-<li><a href="/comments/20230806/1916297.md">北京被淹跟海绵城市有关？</a></li>
+<li><a href="/sohnews/20230806/1916303.md">20230806直播：对俄罗斯态度出现重大转变，习近平要跳船？涿州干部禽兽不如！河北人三定律，中国粮仓秋收全泡汤；对华投资基本停止，中国金融命脉日渐枯竭。（20230806 第1040期）</a></li>
 <li><a href="/sohnews/20230806/1916316.md">退水还要一个月？！涿州成堰塞湖，保雄安，中共疯了；华北悲歌：一开门都是“浮S”；河北人聚集政府前抗议“泄洪”！党官私扣物资，民间救援队因“恶意直播”遇阻；中共旧照宣传抗洪被抓包｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20230805/1916252.md">五公民被拒入境 中共驻俄大使馆罕见发声“要说法”</a></li>
-<li><a href="/sohnews/20230806/1916287.md">他被称为商界之神，曾离踏入黑道只差一步！越在人生顶峰时刻、做出的决定越出人意料【文昭思绪飞扬274期】</a></li>
+<li><a href="/comments/20230806/1916297.md">北京被淹跟海绵城市有关？</a></li>
+<li><a href="/cbnews/20230806/1916398.md">习自知大势不妙！中国人要准备面对一个旷古未有大乱世</a></li>
 <li><a href="/sohnews/20230806/1916268.md">陈破空：突发！河北爆激烈冲突。救灾全是摆拍和造假，终于激起民变！华春莹配音走红。政府不作为，到处都是浮尸和腐尸。无数家园被毁。直播：美东8月5日周六晚8点、即中港台8月6日周日早8点</a></li>
+<li><a href="/sohnews/20230806/1916287.md">他被称为商界之神，曾离踏入黑道只差一步！越在人生顶峰时刻、做出的决定越出人意料【文昭思绪飞扬274期】</a></li>
 <li><a href="/comments/20230806/1916274.md">习近平忧军队哗变？军报发声听习指挥 绝对忠诚</a></li>
+<li><a href="/sohnews/20230806/1916326.md">齐齐哈尔34中街道 便衣遍布</a></li>
 <li><a href="/sohnews/20230806/1916306.md">🔥🔥东三省大洪灾，副市长被冲走❗</a></li>
 <li><a href="/sohnews/20230806/1916283.md">不想长老人斑 多吃这些食物 #shorts</a></li>
 <li><a href="/sohnews/20230806/1916282.md">两名华裔士兵被控卖情报给中共。如果罪名成立，可能被剥夺国籍，所有华人都应该感谢这些美国人八辈祖宗</a></li>
-<li><a href="/sohnews/20230806/1916326.md">齐齐哈尔34中街道 便衣遍布</a></li>
-<li><a href="/sohnews/20230806/1916313.md">文睿：大水滔天，地震又来了，中国，正在变成一片死亡之地</a></li>
-<li><a href="/comments/20230805/1916251.md">中国各地爆出“仍在招标”方舱医院 网友被黑幕惊呆</a></li>
+<li><a href="/cbnews/20230806/1916387.md">永定河决口！河北告急</a></li>
+<li><a href="/cbnews/20230806/1916382.md">涿州到底什么样了？一段视频流出泄密【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 <li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 
 </ul>
 </div>
