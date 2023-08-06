@@ -7,27 +7,27 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20230805/1916231.md">习近平整肃军队没完？东部战区悄悄换人</a></li>
 <li><a href="/sohnews/20230805/1916242.md">习近平要从内部掏空台湾；河北二次泄洪，习与大佬秘聚北戴河；台湾大选真谛，到底选谁；美抓捕2华裔军中间谍，著名侨领法拉盛蹊跷自尽。</a></li>
-<li><a href="/sohnews/20230805/1916225.md">信心崩溃！2亿散户撤离_中国A股前景堪忧</a></li>
 <li><a href="/sohnews/20230805/1916238.md">踌躇滿志的侨领林建新突然死亡，自杀还是他杀？谁最有动机？两华裔海军人员被起诉，害己害人｜ 横河观点 2023.08.04</a></li>
 <li><a href="/sohnews/20230806/1916289.md">副市长没了？蔡奇侄子求泄洪；掘堤通知曝光，城西水仍深，媒体记者国骂涿州官员【新闻看点 李沐阳8.5】</a></li>
-<li><a href="/sohnews/20230805/1916237.md">文睿：中国，居然，到了这一步，我不说你一定想不到</a></li>
 <li><a href="/sohnews/20230806/1916291.md">天怒人怨山东大地震，河北灾民开始暴动抗议，张国清王小洪匆匆离开北戴河。《老灯开讲第353期》</a></li>
+<li><a href="/sohnews/20230805/1916237.md">文睿：中国，居然，到了这一步，我不说你一定想不到</a></li>
 <li><a href="/sohnews/20230805/1916235.md">打台湾..不是习近平说了算!中共攻台三大障碍?台湾经济靠中国 还是中国经济靠台湾? 中国梦碎  断手断脚也要逃出中国!撤资不容易 想保资金 只有一方法@democraticTaiwanChannel</a></li>
-<li><a href="/sohnews/20230805/1916223.md">消失5年_《红色赌盘》作者前妻首度现身</a></li>
 <li><a href="/sohnews/20230805/1916230.md">被困涿州_漂浮求生_95后：想写遗言</a></li>
 <li><a href="/sohnews/20230805/1916246.md">央视把人祸说成天灾引发河北霸州民愤，政府门口游行示威遭镇压双方大战！我找到了央视造假的新证据</a></li>
 <li><a href="/comments/20230806/1916281.md">传河北高碑店半夜挖堤泄洪 村民反抗起冲突</a></li>
 <li><a href="/sohnews/20230805/1916250.md">🔥中共最终不得已妥协 霸州泄洪致灾却撒谎 民市府抗议遭镇压；乌军全歼俄装甲集群 俄强烈警告吉尔吉斯；民怒! 央视造假 霸州实是泄洪不是暴雨；黑省一村庄被洪水淹没 吉林舒兰副市长被冲走【阿波罗网AL】</a></li>
 <li><a href="/sohnews/20230805/1916227.md">检方认了！在川普案作虚假陈述</a></li>
 <li><a href="/sohnews/20230805/1916243.md">陈破空：陈破空说段子：河北省委书记向总书记邀功请赏、要求升官。结果</a></li>
-<li><a href="/comments/20230806/1916272.md">舒兰市副市长等4人被洪水冲走失联 传都已去世</a></li>
 <li><a href="/comments/20230806/1916293.md">【杰森视角】世界突然对中国失去兴趣！经济现实逼迫中共官员成土匪！中国经济看不到任何“正能量”！碧桂园将沦为第二个恒大？习近平十年工程又烂尾！</a></li>
+<li><a href="/comments/20230806/1916272.md">舒兰市副市长等4人被洪水冲走失联 传都已去世</a></li>
 <li><a href="/sohnews/20230806/1916280.md">美东亲共侨领离奇自缢，恐牵扯泄密遭灭口！福建长乐为何会成为偷渡之乡？地下钱庄到底有多牛，超出你的想像！藏在集装箱里的致富之路！‘新闻最嘲点 姜光宇’2023.0805</a></li>
 <li><a href="/worldnews/20230805/1916239.md">亚马逊内部人员泄露机密信息给平台卖家，在Telegram等平台上出售</a></li>
 <li><a href="/comments/20230805/1916252.md">五公民被拒入境 中共驻俄大使馆罕见发声“要说法”</a></li>
+<li><a href="/comments/20230806/1916297.md">北京被淹跟海绵城市有关？</a></li>
 <li><a href="/comments/20230806/1916274.md">习近平忧军队哗变？军报发声听习指挥 绝对忠诚</a></li>
 <li><a href="/sohnews/20230806/1916283.md">不想长老人斑 多吃这些食物 #shorts</a></li>
-<li><a href="/comments/20230806/1916297.md">北京被淹跟海绵城市有关？</a></li>
+<li><a href="/sohnews/20230805/1916228.md">遭挪用134亿_恒大物业复牌暴跌47</a></li>
+<li><a href="/sohnews/20230806/1916268.md">陈破空：突发！河北爆激烈冲突。救灾全是摆拍和造假，终于激起民变！华春莹配音走红。政府不作为，到处都是浮尸和腐尸。无数家园被毁。直播：美东8月5日周六晚8点、即中港台8月6日周日早8点</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230806/1916318.md" target="_blank">【新闻拍案惊奇】北京天津震感强烈！水灾地震齐来 华北祸不单行</a></li>
+<li><a href="/comments/20230806/1916317.md" target="_blank">山东德州凌晨5.5“极浅地震” 北京、天津震感强烈</a></li>
 <li><a href="/comments/20230806/1916297.md" target="_blank">北京被淹跟海绵城市有关？</a></li>
 <li><a href="/comments/20230806/1916296.md" target="_blank">水淹涿州罪魁祸首是&#8230; ｜#方菲时间</a></li>
 <li><a href="/comments/20230806/1916293.md" target="_blank">【杰森视角】世界突然对中国失去兴趣！经济现实逼迫中共官员成土匪！中国经济看不到任何“正能量”！碧桂园将沦为第二个恒大？习近平十年工程又烂尾！</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230805/1916111.md" target="_blank">乌军无人艇大杀四方！俄罗斯黑海舰队危矣</a></li>
 <li><a href="/comments/20230805/1916102.md" target="_blank">川普在法庭遭法官羞辱，回新泽西不忘祝福新人。莱克最大胆设想，省去弹劾拜登。麦卡锡质疑起诉的时机。#起诉川普 #麦卡锡 #川普</a></li>
 <li><a href="/comments/20230804/1915967.md" target="_blank">3岁男孩，跑到前世家庭认亲！震惊不信轮回的基督徒家人！男子投胎仇家！妻子跑到转生家庭，追问⋯｜ #未解之谜 扶摇</a></li>
-<li><a href="/comments/20230804/1915856.md" target="_blank">放弃涿州“SI”保雄安一个月！习近平治水夺多少命？汪峰开视频赞美刀郎：万分尊重，给他打93分</a></li>
-<li><a href="/comments/20230804/1915850.md" target="_blank">【独家重磅】李燕铭：江绵恒顶风作案挑衅习近平 火箭军窝案延烧北戴河会议 江绵恒两大独立王国高调合作 展示对军工核心技术掌控权 火箭军窝案深度内幕（11） 中南海政变与反政变（103） 北戴河会议大战内幕（75） 习近平连任与中共末日（150） 江泽民死江家族被清洗（22） 习近平决战江曾（96） 江绵恒暗黑帝国瓦解内幕（45）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
 <li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
 
 </ul>
 </div>
