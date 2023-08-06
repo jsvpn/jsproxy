@@ -14,8 +14,8 @@
 <li><a href="/sohnews/20230805/1916246.md">央视把人祸说成天灾引发河北霸州民愤，政府门口游行示威遭镇压双方大战！我找到了央视造假的新证据</a></li>
 <li><a href="/sohnews/20230805/1916250.md">🔥中共最终不得已妥协 霸州泄洪致灾却撒谎 民市府抗议遭镇压；乌军全歼俄装甲集群 俄强烈警告吉尔吉斯；民怒! 央视造假 霸州实是泄洪不是暴雨；黑省一村庄被洪水淹没 吉林舒兰副市长被冲走【阿波罗网AL】</a></li>
 <li><a href="/comments/20230806/1916281.md">传河北高碑店半夜挖堤泄洪 村民反抗起冲突</a></li>
-<li><a href="/comments/20230806/1916293.md">【杰森视角】世界突然对中国失去兴趣！经济现实逼迫中共官员成土匪！中国经济看不到任何“正能量”！碧桂园将沦为第二个恒大？习近平十年工程又烂尾！</a></li>
 <li><a href="/sohnews/20230805/1916243.md">陈破空：陈破空说段子：河北省委书记向总书记邀功请赏、要求升官。结果</a></li>
+<li><a href="/comments/20230806/1916293.md">【杰森视角】世界突然对中国失去兴趣！经济现实逼迫中共官员成土匪！中国经济看不到任何“正能量”！碧桂园将沦为第二个恒大？习近平十年工程又烂尾！</a></li>
 <li><a href="/comments/20230806/1916272.md">舒兰市副市长等4人被洪水冲走失联 传都已去世</a></li>
 <li><a href="/sohnews/20230806/1916303.md">20230806直播：对俄罗斯态度出现重大转变，习近平要跳船？涿州干部禽兽不如！河北人三定律，中国粮仓秋收全泡汤；对华投资基本停止，中国金融命脉日渐枯竭。（20230806 第1040期）</a></li>
 <li><a href="/sohnews/20230806/1916280.md">美东亲共侨领离奇自缢，恐牵扯泄密遭灭口！福建长乐为何会成为偷渡之乡？地下钱庄到底有多牛，超出你的想像！藏在集装箱里的致富之路！‘新闻最嘲点 姜光宇’2023.0805</a></li>
@@ -25,9 +25,9 @@
 <li><a href="/sohnews/20230806/1916268.md">陈破空：突发！河北爆激烈冲突。救灾全是摆拍和造假，终于激起民变！华春莹配音走红。政府不作为，到处都是浮尸和腐尸。无数家园被毁。直播：美东8月5日周六晚8点、即中港台8月6日周日早8点</a></li>
 <li><a href="/comments/20230806/1916274.md">习近平忧军队哗变？军报发声听习指挥 绝对忠诚</a></li>
 <li><a href="/sohnews/20230806/1916283.md">不想长老人斑 多吃这些食物 #shorts</a></li>
+<li><a href="/sohnews/20230806/1916287.md">他被称为商界之神，曾离踏入黑道只差一步！越在人生顶峰时刻、做出的决定越出人意料【文昭思绪飞扬274期】</a></li>
 <li><a href="/sohnews/20230806/1916282.md">两名华裔士兵被控卖情报给中共。如果罪名成立，可能被剥夺国籍，所有华人都应该感谢这些美国人八辈祖宗</a></li>
 <li><a href="/sohnews/20230806/1916306.md">🔥🔥东三省大洪灾，副市长被冲走❗</a></li>
-<li><a href="/sohnews/20230806/1916287.md">他被称为商界之神，曾离踏入黑道只差一步！越在人生顶峰时刻、做出的决定越出人意料【文昭思绪飞扬274期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230806/1916490.md" target="_blank">蒋勋：阅读《红楼梦》是一种学习“宽容”的过程</a></li>
+<li><a href="/comments/20230806/1916489.md" target="_blank">子野:中国传统对现代化的启发——秦晖《传统十论》的读书札记</a></li>
+<li><a href="/comments/20230806/1916488.md" target="_blank">魏春亮：胡锡进的苦心白费了</a></li>
+<li><a href="/comments/20230806/1916487.md" target="_blank">竹不倒：底线在被击穿</a></li>
+<li><a href="/comments/20230806/1916485.md" target="_blank">404文：涿州故事：他们为什么丧失人性？</a></li>
+<li><a href="/comments/20230806/1916484.md" target="_blank">杨乃悟：钱多得无处可去</a></li>
 <li><a href="/comments/20230806/1916483.md" target="_blank">苏暁康：讨中、制裁、脱钩</a></li>
 <li><a href="/comments/20230806/1916482.md" target="_blank">陶杰：川普被控什么罪？</a></li>
 <li><a href="/comments/20230806/1916481.md" target="_blank">颜纯钩:习氏为表中共为里，搞死中共搞衰中国</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20230806/1916317.md" target="_blank">山东德州凌晨5.5“极浅地震” 北京、天津震感强烈</a></li>
 <li><a href="/comments/20230806/1916297.md" target="_blank">北京被淹跟海绵城市有关？</a></li>
 <li><a href="/comments/20230806/1916296.md" target="_blank">水淹涿州罪魁祸首是&#8230; ｜#方菲时间</a></li>
-<li><a href="/comments/20230806/1916293.md" target="_blank">【杰森视角】世界突然对中国失去兴趣！经济现实逼迫中共官员成土匪！中国经济看不到任何“正能量”！碧桂园将沦为第二个恒大？习近平十年工程又烂尾！</a></li>
-<li><a href="/comments/20230806/1916281.md" target="_blank">传河北高碑店半夜挖堤泄洪 村民反抗起冲突</a></li>
-<li><a href="/comments/20230806/1916274.md" target="_blank">习近平忧军队哗变？军报发声听习指挥 绝对忠诚</a></li>
-<li><a href="/comments/20230806/1916272.md" target="_blank">舒兰市副市长等4人被洪水冲走失联 传都已去世</a></li>
-<li><a href="/comments/20230806/1916270.md" target="_blank">阿彻141页证词公布，揭从未听说过的惊人内幕，涉车峰等中共线人。拜登问题严重了！点燃麦卡锡弹劾调查。#亨特 #拜登 #国会作证</a></li>
-<li><a href="/comments/20230805/1916252.md" target="_blank">五公民被拒入境 中共驻俄大使馆罕见发声“要说法”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 <li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 <li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
 
 </ul>
 </div>
