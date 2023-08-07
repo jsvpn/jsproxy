@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cbnews/20230806/1916794.md">江峰：中央军委获俄乌情报震惊。撕破脸 ！中共参加没有俄罗斯的乌克兰和平国际会议，循泽连斯基和平蓝图；普京被囚信息茧房主动认罪；中共侨领蹊跷「轻生」，华裔美海军充当共谍【江峰视界军事20230804第27集】</a></li>
 <li><a href="/topimagenews/20230807/1916956.md">中国医疗行业变天！两大佬落马，155名院长被查</a></li>
 <li><a href="/topimagenews/20230807/1916987.md">北京警方，为什么不他妈的抓人</a></li>
 <li><a href="/cbnews/20230807/1917029.md">平众怒？习近平坐不住了 委派他急赴灾区</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/topimagenews/20230807/1917027.md">危急！4个方向的洪水正奔向这座城市…</a></li>
 <li><a href="/funmedia/20230807/1917009.md">东北野鸡泛滥成灾，为什么连吃货都无能为力？农民直言：不敢碰</a></li>
 <li><a href="/topimagenews/20230807/1917127.md">最要害的八个字！中共新华社马屁文章惊现“最大亮点”【阿波罗网报道】</a></li>
-<li><a href="/comments/20230806/1916798.md">涿州记者看见恐怖现场吓得换工作！中共隐瞒涿州水灾S亡人数一千倍！舒兰副市长被洪水冲走丢命，“罗刹国赈灾”遭封杀</a></li>
 <li><a href="/topimagenews/20230807/1917053.md">习近平心心念念之地 更要命的还在后面</a></li>
 <li><a href="/cbnews/20230807/1917106.md">〖兲朝浮世绘〗洪水退去 才现尸体</a></li>
 <li><a href="/topimagenews/20230807/1917026.md">涿州大逃亡：“祖国，我真特码的爱你啊”</a></li>
 <li><a href="/cbnews/20230807/1917112.md">笑死了！上海63岁退休教授旅游巴士讲笑话 讲到一半...</a></li>
 <li><a href="/comments/20230807/1916982.md">开始封口？官员集体躺平？武警接管涿州防信息外泄</a></li>
-<li><a href="/yule/20230807/1917016.md">香港知名女星被曝移居加拿大 丈夫留在国内赚钱</a></li>
-<li><a href="/baitai/20230807/1917125.md">武警全面接管涿州救援 试图掩盖遍野横尸</a></li>
-<li><a href="/topimagenews/20230807/1916957.md">河北人生存三大定律？当河北人到底是有多惨</a></li>
 <li><a href="/baitai/20230807/1917142.md">李嘉诚超低价卖房 内地网民：他知道危机要来了</a></li>
+<li><a href="/baitai/20230807/1917125.md">武警全面接管涿州救援 试图掩盖遍野横尸</a></li>
+<li><a href="/yule/20230807/1917016.md">香港知名女星被曝移居加拿大 丈夫留在国内赚钱</a></li>
+<li><a href="/topimagenews/20230807/1916957.md">河北人生存三大定律？当河北人到底是有多惨</a></li>
 <li><a href="/topimagenews/20230807/1917062.md">“暴风之影”炸毁克里米亚桥梁 乌克兰切断“俄罗斯两条重要交通路线”</a></li>
 <li><a href="/ssgc/20230807/1917044.md">〖微博谈〗做党国特务划不来</a></li>
 <li><a href="/cbnews/20230807/1917117.md">离奇！中国夫妻却生“混血儿”惹议，丈夫一句话震惊全场</a></li>
+<li><a href="/health/20230807/1917128.md">男性160-188cm标准体重对照表，若你“达标”的话，就无需减肥了</a></li>
+<li><a href="/cnnews/20230807/1916995.md">金融圈突炸响雷！传奇富豪被判无期徒刑？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230807/1917265.md" target="_blank">时事大家谈：洪水滔滔，习近平在哪里“亲自指挥”？“护城河”论惹众怒，中国民智渐开？</a></li>
 <li><a href="/comments/20230807/1917226.md" target="_blank">评论 &#8211; 傅申奇：天灾还是人祸</a></li>
 <li><a href="/comments/20230807/1917204.md" target="_blank">北京驻港机构日益活跃 角色加重 有指削“两制”损国际地位 有称是助港</a></li>
 <li><a href="/comments/20230807/1917202.md" target="_blank">【文韬政论】台湾当年民主转型期种下的高等教育祸根</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230807/1916977.md" target="_blank">川普说10个字，史密斯连夜申请保护令。川普：再来一个起诉，选举将完美结束。#川普演讲 #史密斯 #保护令</a></li>
 <li><a href="/comments/20230807/1916938.md" target="_blank">【独家重磅】李燕铭：火箭军窝案发酵 北戴河会期打虎 北航副校长张广涉火箭军窝案落马 与二炮司令及出事战略支援部队副司令有一层隐秘关系 北航与火箭军战略支援部队窝案深度关联 内幕揭秘 火箭军窝案深度内幕（13） 北戴河会议大战内幕（78） 习近平连任后大清洗（58） 习强化军权内防政变对外备战（50）</a></li>
 <li><a href="/comments/20230807/1916818.md" target="_blank">专栏 &#8211; 劳工通讯：安徽马鞍山市慈湖高新区金星钛白集团有限公司发生有限空间作业事故，造成工人死亡 (三)</a></li>
-<li><a href="/comments/20230807/1916817.md" target="_blank">专栏 &#8211; 解读新疆：日本维吾尔族女性赢得国会席位；又有两家中国公司商品被禁</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
 <li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
 
 </ul>
 </div>
