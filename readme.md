@@ -10,24 +10,24 @@
 <li><a href="/finance/20230806/1916412.md">新华社激情发布重磅消息 中国网民冷眼相对；中国大逃杀模式上演 融资百亿好日子彻底凉</a></li>
 <li><a href="/cbnews/20230806/1916382.md">涿州到底什么样了？一段视频流出泄密【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230806/1916387.md">永定河决口！河北告急</a></li>
-<li><a href="/sohnews/20230806/1916316.md">退水还要一个月？！涿州成堰塞湖，保雄安，中共疯了；华北悲歌：一开门都是“浮S”；河北人聚集政府前抗议“泄洪”！党官私扣物资，民间救援队因“恶意直播”遇阻；中共旧照宣传抗洪被抓包｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20230806/1916534.md">上海滩第一交际花，吊打一切假名媛</a></li>
+<li><a href="/sohnews/20230806/1916316.md">退水还要一个月？！涿州成堰塞湖，保雄安，中共疯了；华北悲歌：一开门都是“浮S”；河北人聚集政府前抗议“泄洪”！党官私扣物资，民间救援队因“恶意直播”遇阻；中共旧照宣传抗洪被抓包｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/finance/20230806/1916413.md">发生一边倒现象，中国又一个行业要解体了？</a></li>
 <li><a href="/cbnews/20230806/1916390.md">【微博精粹】南方周末大骂涿州各级匪官：畜生！毫无“尿性”</a></li>
 <li><a href="/sohnews/20230806/1916303.md">20230806直播：对俄罗斯态度出现重大转变，习近平要跳船？涿州干部禽兽不如！河北人三定律，中国粮仓秋收全泡汤；对华投资基本停止，中国金融命脉日渐枯竭。（20230806 第1040期）</a></li>
-<li><a href="/sohnews/20230806/1916326.md">齐齐哈尔34中街道 便衣遍布</a></li>
 <li><a href="/cbnews/20230806/1916794.md">江峰：中央军委获俄乌情报震惊。撕破脸 ！中共参加没有俄罗斯的乌克兰和平国际会议，循泽连斯基和平蓝图；普京被囚信息茧房主动认罪；中共侨领蹊跷「轻生」，华裔美海军充当共谍【江峰视界军事20230804第27集】</a></li>
-<li><a href="/cbnews/20230806/1916388.md">洪水滔天 中共高官集体消失 央视忙造假被踢爆</a></li>
+<li><a href="/sohnews/20230806/1916326.md">齐齐哈尔34中街道 便衣遍布</a></li>
 <li><a href="/topimagenews/20230807/1916956.md">中国医疗行业变天！两大佬落马，155名院长被查</a></li>
+<li><a href="/cbnews/20230806/1916388.md">洪水滔天 中共高官集体消失 央视忙造假被踢爆</a></li>
 <li><a href="/ssgc/20230806/1916688.md">秦刚可能是被“隐蔽战线的战友”搞下台的</a></li>
 <li><a href="/topimagenews/20230806/1916372.md">重创中国人的心！中共把非中国藉捧上天【阿波罗网报道】</a></li>
-<li><a href="/comments/20230806/1916297.md">北京被淹跟海绵城市有关？</a></li>
+<li><a href="/topimagenews/20230807/1916958.md">为实现习近平的目标 他们出国留学</a></li>
 <li><a href="/cbnews/20230806/1916385.md">中国版行人地狱？山东2行人过马路1场景吓坏全网</a></li>
 <li><a href="/health/20230806/1916464.md">哈佛大学公布对身体最有益的五项运动！跑步没入榜</a></li>
-<li><a href="/topimagenews/20230807/1916958.md">为实现习近平的目标 他们出国留学</a></li>
 <li><a href="/cnnews/20230806/1916527.md">淫魔副主席：包养9个情妇，其中4个火辣警花</a></li>
 <li><a href="/comments/20230806/1916798.md">涿州记者看见恐怖现场吓得换工作！中共隐瞒涿州水灾S亡人数一千倍！舒兰副市长被洪水冲走丢命，“罗刹国赈灾”遭封杀</a></li>
 <li><a href="/topimagenews/20230806/1916371.md">中共新华社摆拍露馅！全网展示自己造假【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230807/1916957.md">河北人生存三大定律？当河北人到底是有多惨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
 <li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
 
 </ul>
 </div>
