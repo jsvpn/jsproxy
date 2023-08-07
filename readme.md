@@ -18,8 +18,8 @@
 <li><a href="/topimagenews/20230807/1916987.md">北京警方，为什么不他妈的抓人</a></li>
 <li><a href="/cbnews/20230807/1917029.md">平众怒？习近平坐不住了 委派他急赴灾区</a></li>
 <li><a href="/ssgc/20230806/1916688.md">秦刚可能是被“隐蔽战线的战友”搞下台的</a></li>
-<li><a href="/topimagenews/20230807/1916958.md">为实现习近平的目标 他们出国留学</a></li>
 <li><a href="/cbnews/20230806/1916388.md">洪水滔天 中共高官集体消失 央视忙造假被踢爆</a></li>
+<li><a href="/topimagenews/20230807/1916958.md">为实现习近平的目标 他们出国留学</a></li>
 <li><a href="/topimagenews/20230807/1916975.md">什么情况！外籍人士可以进体制内工作？</a></li>
 <li><a href="/topimagenews/20230806/1916372.md">重创中国人的心！中共把非中国藉捧上天【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230807/1917027.md">危急！4个方向的洪水正奔向这座城市…</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/cnnews/20230806/1916527.md">淫魔副主席：包养9个情妇，其中4个火辣警花</a></li>
 <li><a href="/cbnews/20230806/1916671.md">〖兲朝浮世绘〗一记马屁书记笑，无人知是洪水来</a></li>
 <li><a href="/health/20230806/1916464.md">哈佛大学公布对身体最有益的五项运动！跑步没入榜</a></li>
-<li><a href="/topimagenews/20230807/1916957.md">河北人生存三大定律？当河北人到底是有多惨</a></li>
+<li><a href="/funmedia/20230807/1917009.md">东北野鸡泛滥成灾，为什么连吃货都无能为力？农民直言：不敢碰</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230807/1917146.md" target="_blank">中国洪灾 泽伦斯基发中文推慰问 网友：愿早日击败侵略者</a></li>
 <li><a href="/comments/20230807/1917145.md" target="_blank">七常委疑隐身北戴河 习近平派副总理灾区灭火</a></li>
 <li><a href="/comments/20230807/1917088.md" target="_blank">朝韩“统一”梦想的褪色和幻灭</a></li>
 <li><a href="/comments/20230807/1917047.md" target="_blank">【微博精粹】对中国人最狠的都是“中国人”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230806/1916797.md" target="_blank">毛宁诡异一笑！秦二世暴露贪官二奶村，党官齐怒！傅晓田做局逼习出蠢棋？李小琳情夫扯出秦刚</a></li>
 <li><a href="/comments/20230806/1916737.md" target="_blank">【独家重磅】李燕铭：火箭军窝案延烧朝鲜 金正恩与习近平同步逮捕十多名核武专家 朝鲜核武受中共江泽民集团深度操控 朝鲜五次核爆时与中共高层内部生死博杀密切关联 内幕揭秘 火箭军窝案深度内幕（12） 中南海政变与反政变（104） 江绵恒暗黑帝国瓦解内幕（46） 北戴河会议大战内幕（77） 江泽民死江家族被清洗（23） 习近平决战江曾（97）</a></li>
 <li><a href="/comments/20230806/1916736.md" target="_blank">李燕铭：天灭中共大戏上演 北京连遭沙尘暴高温暴雨洪灾袭击 习近平论治水出版不到两周北京河北遭洪灾 中南海底下挖暗道故宫一周内两次被淹 风水师：水淹紫禁城习王朝不稳 习近平连任与中共末日（152） 中共末日之天灭中共（1）</a></li>
-<li><a href="/comments/20230806/1916735.md" target="_blank">【独家重磅】李燕铭：习率五常委北戴河会前离京 两常委贴身随扈 三常委品字形防卫 唯独赵乐际被困京城并被习亲信李强丁薛祥接力“看管” 赵乐际青海旧部北戴河会前落马 赵乐际正部级前大管家高危 北戴河会议大战内幕（76） 围剿赵乐际（18） 青海帮覆灭记（6） 习近平连任与中共末日（151）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
 
 </ul>
 </div>
