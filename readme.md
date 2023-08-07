@@ -10,14 +10,14 @@
 <li><a href="/cbnews/20230807/1917029.md">平众怒？习近平坐不住了 委派他急赴灾区</a></li>
 <li><a href="/topimagenews/20230807/1917027.md">危急！4个方向的洪水正奔向这座城市…</a></li>
 <li><a href="/topimagenews/20230807/1916958.md">为实现习近平的目标 他们出国留学</a></li>
+<li><a href="/funmedia/20230807/1917009.md">东北野鸡泛滥成灾，为什么连吃货都无能为力？农民直言：不敢碰</a></li>
 <li><a href="/topimagenews/20230807/1916975.md">什么情况！外籍人士可以进体制内工作？</a></li>
 <li><a href="/sohnews/20230807/1917104.md">战争动员：中共中央即将做出重大部署，王小洪紧急召开全国公安厅局长会议，河北人的三定律。《老灯开讲第354期》</a></li>
-<li><a href="/funmedia/20230807/1917009.md">东北野鸡泛滥成灾，为什么连吃货都无能为力？农民直言：不敢碰</a></li>
-<li><a href="/topimagenews/20230807/1917127.md">最要害的八个字！中共新华社马屁文章惊现“最大亮点”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230807/1917053.md">习近平心心念念之地 更要命的还在后面</a></li>
+<li><a href="/topimagenews/20230807/1917127.md">最要害的八个字！中共新华社马屁文章惊现“最大亮点”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230807/1917026.md">涿州大逃亡：“祖国，我真特码的爱你啊”</a></li>
-<li><a href="/cbnews/20230807/1917106.md">〖兲朝浮世绘〗洪水退去 才现尸体</a></li>
 <li><a href="/comments/20230807/1916982.md">开始封口？官员集体躺平？武警接管涿州防信息外泄</a></li>
+<li><a href="/cbnews/20230807/1917106.md">〖兲朝浮世绘〗洪水退去 才现尸体</a></li>
 <li><a href="/cbnews/20230807/1917112.md">笑死了！上海63岁退休教授旅游巴士讲笑话 讲到一半...</a></li>
 <li><a href="/baitai/20230807/1917142.md">李嘉诚超低价卖房 内地网民：他知道危机要来了</a></li>
 <li><a href="/baitai/20230807/1917125.md">武警全面接管涿州救援 试图掩盖遍野横尸</a></li>
@@ -25,8 +25,8 @@
 <li><a href="/topimagenews/20230807/1916957.md">河北人生存三大定律？当河北人到底是有多惨</a></li>
 <li><a href="/cbnews/20230807/1917144.md">北京救援队员不幸牺牲，可恶又可悲的一幕出现了</a></li>
 <li><a href="/topimagenews/20230807/1917062.md">“暴风之影”炸毁克里米亚桥梁 乌克兰切断“俄罗斯两条重要交通路线”</a></li>
-<li><a href="/health/20230807/1917128.md">男性160-188cm标准体重对照表，若你“达标”的话，就无需减肥了</a></li>
 <li><a href="/cbnews/20230807/1917117.md">离奇！中国夫妻却生“混血儿”惹议，丈夫一句话震惊全场</a></li>
+<li><a href="/health/20230807/1917128.md">男性160-188cm标准体重对照表，若你“达标”的话，就无需减肥了</a></li>
 <li><a href="/ssgc/20230807/1917044.md">〖微博谈〗做党国特务划不来</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230808/1917303.md" target="_blank">李燕铭：快要改朝换代了！台风卡努诡异90度急转弯将进入中国东北 湖北惊现血月 河北平山六月飞雪 山东5.5级地震5个半小时59次余震 地震前后多地天空变红燕子满天飞 北京洪水房山区龙王庙安然无恙 习近平连任与中共末日（153） 中共末日之天灭中共（2）</a></li>
 <li><a href="/comments/20230808/1917286.md" target="_blank">时事大家谈：洪水滔滔，习近平在哪里“亲自指挥”？</a></li>
 <li><a href="/comments/20230808/1917285.md" target="_blank">时事大家谈：“护城河”论惹众怒，中国民智渐开？</a></li>
 <li><a href="/comments/20230807/1917265.md" target="_blank">时事大家谈：洪水滔滔，习近平在哪里“亲自指挥”？“护城河”论惹众怒，中国民智渐开？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230807/1916981.md" target="_blank">平原地震异象：红光 燕子乱飞 虫子满地爬</a></li>
 <li><a href="/comments/20230807/1916980.md" target="_blank">泽连斯基、蔡英文慰问中国灾民 中共高层集体消失</a></li>
 <li><a href="/comments/20230807/1916979.md" target="_blank">李嘉诚长实集团“七折”抛售房产 震动香港楼市</a></li>
-<li><a href="/comments/20230807/1916977.md" target="_blank">川普说10个字，史密斯连夜申请保护令。川普：再来一个起诉，选举将完美结束。#川普演讲 #史密斯 #保护令</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
 <li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
 <li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
 
 </ul>
 </div>
