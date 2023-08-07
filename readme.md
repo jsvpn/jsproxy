@@ -14,16 +14,16 @@
 <li><a href="/topimagenews/20230807/1916975.md">什么情况！外籍人士可以进体制内工作？</a></li>
 <li><a href="/topimagenews/20230807/1917027.md">危急！4个方向的洪水正奔向这座城市…</a></li>
 <li><a href="/cbnews/20230806/1916671.md">〖兲朝浮世绘〗一记马屁书记笑，无人知是洪水来</a></li>
+<li><a href="/sohnews/20230807/1917104.md">战争动员：中共中央即将做出重大部署，王小洪紧急召开全国公安厅局长会议，河北人的三定律。《老灯开讲第354期》</a></li>
 <li><a href="/funmedia/20230807/1917009.md">东北野鸡泛滥成灾，为什么连吃货都无能为力？农民直言：不敢碰</a></li>
-<li><a href="/topimagenews/20230807/1916957.md">河北人生存三大定律？当河北人到底是有多惨</a></li>
-<li><a href="/topimagenews/20230807/1917026.md">涿州大逃亡：“祖国，我真特码的爱你啊”</a></li>
-<li><a href="/topimagenews/20230807/1917053.md">习近平心心念念之地 更要命的还在后面</a></li>
 <li><a href="/comments/20230806/1916798.md">涿州记者看见恐怖现场吓得换工作！中共隐瞒涿州水灾S亡人数一千倍！舒兰副市长被洪水冲走丢命，“罗刹国赈灾”遭封杀</a></li>
+<li><a href="/topimagenews/20230807/1917053.md">习近平心心念念之地 更要命的还在后面</a></li>
+<li><a href="/topimagenews/20230807/1917026.md">涿州大逃亡：“祖国，我真特码的爱你啊”</a></li>
+<li><a href="/topimagenews/20230807/1916957.md">河北人生存三大定律？当河北人到底是有多惨</a></li>
 <li><a href="/yule/20230807/1917016.md">香港知名女星被曝移居加拿大 丈夫留在国内赚钱</a></li>
 <li><a href="/comments/20230807/1916982.md">开始封口？官员集体躺平？武警接管涿州防信息外泄</a></li>
-<li><a href="/sohnews/20230807/1917104.md">战争动员：中共中央即将做出重大部署，王小洪紧急召开全国公安厅局长会议，河北人的三定律。《老灯开讲第354期》</a></li>
-<li><a href="/topimagenews/20230807/1917062.md">“暴风之影”炸毁克里米亚桥梁 乌克兰切断“俄罗斯两条重要交通路线”</a></li>
 <li><a href="/cbnews/20230807/1917106.md">〖兲朝浮世绘〗洪水退去 才现尸体</a></li>
+<li><a href="/topimagenews/20230807/1917062.md">“暴风之影”炸毁克里米亚桥梁 乌克兰切断“俄罗斯两条重要交通路线”</a></li>
 <li><a href="/ssgc/20230807/1917044.md">〖微博谈〗做党国特务划不来</a></li>
 <li><a href="/comments/20230806/1916797.md">毛宁诡异一笑！秦二世暴露贪官二奶村，党官齐怒！傅晓田做局逼习出蠢棋？李小琳情夫扯出秦刚</a></li>
 <li><a href="/cnnews/20230807/1916995.md">金融圈突炸响雷！传奇富豪被判无期徒刑？</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230807/1917190.md" target="_blank">【2024美国大选】政坛奇观之 川普越被起诉 支持率越高</a></li>
 <li><a href="/comments/20230807/1917160.md" target="_blank">伦敦景点遭“爱国小留”喷上“社会主义核心价值观” 网友二次创作成“反共墙”</a></li>
 <li><a href="/comments/20230807/1917159.md" target="_blank">涿州官员被斥“骗捐” 前中媒记者︰“只知道对党忠诚” 禽兽不如</a></li>
 <li><a href="/comments/20230807/1917146.md" target="_blank">中国洪灾 泽伦斯基发中文推慰问 网友：愿早日击败侵略者</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230806/1916800.md" target="_blank">天亮时分：突发：山东平原县大地震，波及半个中国；习近平外交三次大考，一次失败，两次等待失败；天灾让中国人组织起来了（YouTube会员节目第29集 20230805）</a></li>
 <li><a href="/comments/20230806/1916799.md" target="_blank">天亮时分：中联部被定性为间谍机构，中美隐蔽战线激烈交锋，外国人都被吓跑了；河北水灾三大怪相，党政军悉数缺席（政论天下第1076集 20230804）天亮时分</a></li>
 <li><a href="/comments/20230806/1916798.md" target="_blank">涿州记者看见恐怖现场吓得换工作！中共隐瞒涿州水灾S亡人数一千倍！舒兰副市长被洪水冲走丢命，“罗刹国赈灾”遭封杀</a></li>
-<li><a href="/comments/20230806/1916797.md" target="_blank">毛宁诡异一笑！秦二世暴露贪官二奶村，党官齐怒！傅晓田做局逼习出蠢棋？李小琳情夫扯出秦刚</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
 <li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
 
 </ul>
 </div>
