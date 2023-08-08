@@ -5,16 +5,14 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/baitai/20230807/1917142.md">李嘉诚超低价卖房 内地网民：他知道危机要来了</a></li>
 <li><a href="/baitai/20230807/1917205.md">中央军委释放诡异信号 习要求军队准备打仗？</a></li>
 <li><a href="/topimagenews/20230808/1917362.md">内幕：涿州大乱！省里和市里掐起来了 记者都干不下去了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230808/1917381.md">这个视频被赞爆！华春英莹突意外火出圈【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230807/1917144.md">北京救援队员不幸牺牲，可恶又可悲的一幕出现了</a></li>
 <li><a href="/comments/20230808/1917303.md">李燕铭：快要改朝换代了！台风卡努诡异90度急转弯将进入中国东北 湖北惊现血月 河北平山六月飞雪 山东5.5级地震5个半小时59次余震 地震前后多地天空变红燕子满天飞 北京洪水房山区龙王庙安然无恙 习近平连任与中共末日（153） 中共末日之天灭中共（2）</a></li>
 <li><a href="/topimagenews/20230808/1917455.md">【微博精粹】全中国唯一一个捐款的 还被吓回去了</a></li>
 <li><a href="/ssgc/20230807/1917214.md">著名企业家万润南（上）：习近平是坏皇帝 邓小平是好皇帝｜观点</a></li>
-<li><a href="/headline/20230807/1917255.md">解放军直升机疑坠涿州灾区10馀军政官员死 官方拒回应</a></li>
 <li><a href="/baitai/20230808/1917316.md">北戴河休假开始？秦刚案大戏在后头</a></li>
+<li><a href="/headline/20230807/1917255.md">解放军直升机疑坠涿州灾区10馀军政官员死 官方拒回应</a></li>
 <li><a href="/topimagenews/20230808/1917418.md">泽连斯基遭袭！俄被疑派女谍行刺 现遭逮捕</a></li>
 <li><a href="/baitai/20230808/1917355.md">抑郁症的人，多半会有这3句“口头禅”</a></li>
 <li><a href="/cbnews/20230808/1917494.md">〖兲朝浮世绘〗过把瘾就死：一个人的阅兵</a></li>
@@ -24,10 +22,12 @@
 <li><a href="/comments/20230807/1917145.md">七常委疑隐身北戴河 习近平派副总理灾区灭火</a></li>
 <li><a href="/cnnews/20230808/1917341.md">医疗反腐刚刚开启，就有人吓破胆了</a></li>
 <li><a href="/yule/20230808/1917343.md">小S在具俊晔首尔豪宅尬舞 婆婆反应太真实</a></li>
-<li><a href="/baitai/20230807/1917141.md">中共炮击菲律宾补给船 美国发声</a></li>
 <li><a href="/cnnews/20230808/1917363.md">霸州47个村庄灭顶！国家机密不能告诉老百姓【阿波罗网报道】</a></li>
 <li><a href="/headline/20230808/1917361.md">秦始皇陵墓结构过于复杂 难以通向地底</a></li>
 <li><a href="/lifebaike/20230808/1917407.md">含钾是香蕉的12倍！一补钾、二强免疫、三润肠、夏天吃正合适</a></li>
+<li><a href="/ssgc/20230808/1917396.md">〖微博谈〗毕竟你的自由是假装出来的</a></li>
+<li><a href="/sohnews/20230808/1917378.md">诡异！台风“卡努”急转，又回中国，气象分析师示警；灾情现状如何？网民：看了心酸；东北多村房屋夷为平地；涿州洪水渐退，人畜尸体显露，街道一片狼藉；说明什么？北京洪水，房山龙王庙安然无恙</a></li>
+<li><a href="/ssgc/20230807/1917198.md">官员豺狼心 副总理露面难平民愤</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230808/1917579.md" target="_blank">镇压? 救灾? 武警已接管灾区 涿州下达灾情封口令 死亡人数成最高机密</a></li>
 <li><a href="/cbnews/20230808/1917534.md" target="_blank">江峰：红十字会再造假，西装供灾区，为了迎接领导视察吗？乌克兰和台湾发慰问电遭粉红讽刺，朝俄无感，美日欧备援，谁对中国人真心？摆拍的共军成抖音军，李强的国务院呢？【江峰漫谈20230807第708期】</a></li>
 <li><a href="/cbnews/20230808/1917494.md" target="_blank">〖兲朝浮世绘〗过把瘾就死：一个人的阅兵</a></li>
 <li><a href="/cbnews/20230808/1917435.md" target="_blank">拉开三战序幕？瓦格纳异动连连 东欧北约急增兵</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230807/1917106.md" target="_blank">〖兲朝浮世绘〗洪水退去 才现尸体</a></li>
 <li><a href="/cbnews/20230807/1917087.md" target="_blank">乌克兰反攻两个月后，为何进展如此缓慢？</a></li>
 <li><a href="/cbnews/20230807/1917086.md" target="_blank">中国将成为日俄领土之争的最后赢家？</a></li>
-<li><a href="/cbnews/20230807/1917063.md" target="_blank">5楼住户高空丢垃圾20年 上海女被检举反呛：我背景很硬，不老实就抓你走</a></li>
 
 </ul>
 </div>
@@ -129,30 +129,30 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 <li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 <li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 
 </ul>
