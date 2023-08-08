@@ -16,18 +16,18 @@
 <li><a href="/cbnews/20230807/1917117.md">离奇！中国夫妻却生“混血儿”惹议，丈夫一句话震惊全场</a></li>
 <li><a href="/cbnews/20230807/1917144.md">北京救援队员不幸牺牲，可恶又可悲的一幕出现了</a></li>
 <li><a href="/comments/20230808/1917303.md">李燕铭：快要改朝换代了！台风卡努诡异90度急转弯将进入中国东北 湖北惊现血月 河北平山六月飞雪 山东5.5级地震5个半小时59次余震 地震前后多地天空变红燕子满天飞 北京洪水房山区龙王庙安然无恙 习近平连任与中共末日（153） 中共末日之天灭中共（2）</a></li>
-<li><a href="/health/20230807/1917128.md">男性160-188cm标准体重对照表，若你“达标”的话，就无需减肥了</a></li>
 <li><a href="/topimagenews/20230808/1917381.md">这个视频被赞爆！华春英莹突意外火出圈【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230807/1917214.md">著名企业家万润南（上）：习近平是坏皇帝 邓小平是好皇帝｜观点</a></li>
+<li><a href="/health/20230807/1917128.md">男性160-188cm标准体重对照表，若你“达标”的话，就无需减肥了</a></li>
 <li><a href="/headline/20230807/1917255.md">解放军直升机疑坠涿州灾区10馀军政官员死 官方拒回应</a></li>
 <li><a href="/baitai/20230808/1917316.md">北戴河休假开始？秦刚案大戏在后头</a></li>
-<li><a href="/ccpdope/20230808/1917325.md">中国惊现血月、六月飘雪 民众:快要改朝换代</a></li>
-<li><a href="/cbnews/20230807/1917116.md">毛骨悚然：男子过深圳海关，竟是“五毒教教主”</a></li>
-<li><a href="/sohnews/20230807/1917151.md">文睿：三个，深水炸弹来了，楼市，陷入了一片灭顶之灾</a></li>
 <li><a href="/baitai/20230808/1917355.md">抑郁症的人，多半会有这3句“口头禅”</a></li>
+<li><a href="/cbnews/20230807/1917116.md">毛骨悚然：男子过深圳海关，竟是“五毒教教主”</a></li>
+<li><a href="/ccpdope/20230808/1917325.md">中国惊现血月、六月飘雪 民众:快要改朝换代</a></li>
+<li><a href="/sohnews/20230807/1917151.md">文睿：三个，深水炸弹来了，楼市，陷入了一片灭顶之灾</a></li>
 <li><a href="/baitai/20230807/1917141.md">中共炮击菲律宾补给船 美国发声</a></li>
 <li><a href="/comments/20230807/1917145.md">七常委疑隐身北戴河 习近平派副总理灾区灭火</a></li>
-<li><a href="/fanqiang/20230807/1916695.md">研究指出中国国家防火长城（GFW ）已经失去精准性</a></li>
+<li><a href="/yule/20230808/1917343.md">小S在具俊晔首尔豪宅尬舞 婆婆反应太真实</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230808/1917508.md" target="_blank">习近平《大愚治水》“黑猪白猪论”震动各界！河北省委书记被涿州人指鼻子骂惨！党媒爆北京水灾部分真相，七常委北戴河表决：山东地震不许6.4级</a></li>
+<li><a href="/comments/20230808/1917501.md" target="_blank">辉瑞发言人在澳大利亚参议院听证会上承认，辉瑞员工获得了特殊疫苗</a></li>
 <li><a href="/comments/20230808/1917497.md" target="_blank">河北日报，那盗来的正能量</a></li>
 <li><a href="/comments/20230808/1917453.md" target="_blank">天亮时分：中共南海撒野，将触发美菲安保机制；天人感应？各地异象频发；国安副部长叛逃？有消息了（政论天下第1078集 20230807）</a></li>
 <li><a href="/comments/20230808/1917444.md" target="_blank">宋国诚：一场无声的隐形政变──剖析中共“火箭军事件”</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230807/1917159.md" target="_blank">涿州官员被斥“骗捐” 前中媒记者︰“只知道对党忠诚” 禽兽不如</a></li>
 <li><a href="/comments/20230807/1917146.md" target="_blank">中国洪灾 泽伦斯基发中文推慰问 网友：愿早日击败侵略者</a></li>
 <li><a href="/comments/20230807/1917145.md" target="_blank">七常委疑隐身北戴河 习近平派副总理灾区灭火</a></li>
-<li><a href="/comments/20230807/1917088.md" target="_blank">朝韩“统一”梦想的褪色和幻灭</a></li>
-<li><a href="/comments/20230807/1917047.md" target="_blank">【微博精粹】对中国人最狠的都是“中国人”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
 
 </ul>
 </div>
