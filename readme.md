@@ -5,10 +5,8 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230808/1917362.md">内幕：涿州大乱！省里和市里掐起来了 记者都干不下去了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230808/1917381.md">这个视频被赞爆！华春英莹突意外火出圈【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230808/1917455.md">【微博精粹】全中国唯一一个捐款的 还被吓回去了</a></li>
-<li><a href="/baitai/20230808/1917355.md">抑郁症的人，多半会有这3句“口头禅”</a></li>
 <li><a href="/topimagenews/20230808/1917600.md">一场新的政治运动开始了！这行业风声鹤唳...【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230808/1917494.md">〖兲朝浮世绘〗过把瘾就死：一个人的阅兵</a></li>
 <li><a href="/topimagenews/20230808/1917563.md">笑喷！中共造假被逮个正着 老百姓现场指导：你这么整不对劲儿【阿波罗网报道】</a></li>
@@ -21,13 +19,15 @@
 <li><a href="/comments/20230808/1917508.md">习近平《大愚治水》“黑猪白猪论”震动各界！河北省委书记被涿州人指鼻子骂惨！党媒爆北京水灾部分真相，七常委北戴河表决：山东地震不许6.4级</a></li>
 <li><a href="/baitai/20230808/1917649.md">云南男子当街砍人 恐怖画面曝光 伤亡人数成国家机密？</a></li>
 <li><a href="/topimagenews/20230808/1917511.md">中共很难进入强国之列！拜登对抗中共最狠1招…</a></li>
-<li><a href="/cnnews/20230808/1917363.md">霸州47个村庄灭顶！国家机密不能告诉老百姓【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230808/1917509.md">中国各地异象频发，8月12日还有八级以上大地震？奇了！北京房山大水过后狼藉遍野，唯独龙王庙安然无恙！｜薇羽看世间 第715期 20230807</a></li>
 <li><a href="/baitai/20230808/1917658.md">习近平8月要动兵？美将军警告北京 这样做可能垮台</a></li>
 <li><a href="/sohnews/20230808/1917631.md">听完这三个真实故事，你还不反对中共？！｜ #百年真相</a></li>
 <li><a href="/ssgc/20230808/1917396.md">〖微博谈〗毕竟你的自由是假装出来的</a></li>
 <li><a href="/ccpdope/20230808/1917614.md">九河入洼地 雄安新区怎么选出来的</a></li>
 <li><a href="/cnnews/20230808/1917564.md">突发！万达集团高级副总裁刘海波被带走</a></li>
+<li><a href="/ccpdope/20230808/1917689.md">习近平性格的六个糟糠特点</a></li>
+<li><a href="/lifebaike/20230808/1917407.md">含钾是香蕉的12倍！一补钾、二强免疫、三润肠、夏天吃正合适</a></li>
+<li><a href="/comments/20230808/1917501.md">辉瑞发言人在澳大利亚参议院听证会上承认，辉瑞员工获得了特殊疫苗</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,10 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230809/1917799.md" target="_blank">真疯了！中共强迫外企学习“习思想”</a></li>
+<li><a href="/topimagenews/20230809/1917798.md" target="_blank">公海轮船上，他专门割中国人的腰子</a></li>
+<li><a href="/topimagenews/20230809/1917797.md" target="_blank">为了收割你，车企想了哪些坏主意</a></li>
+<li><a href="/topimagenews/20230809/1917796.md" target="_blank">俄70枚空袭武器半夜偷袭 乌铁路、机场陷入火海</a></li>
 <li><a href="/topimagenews/20230809/1917764.md" target="_blank">圣僧圆寂2个月“肉身零腐化” 信徒目睹惊呆全跪拜</a></li>
 <li><a href="/topimagenews/20230808/1917684.md" target="_blank">比抗日时还少！中国院士：今年大陆出生人口或700万至800多万</a></li>
 <li><a href="/topimagenews/20230808/1917672.md" target="_blank">比恒大更大的雷！地产巨头碧桂园恐爆雷 她：习大大不救不行</a></li>
@@ -87,10 +91,6 @@
 <li><a href="/topimagenews/20230808/1917362.md" target="_blank">内幕：涿州大乱！省里和市里掐起来了 记者都干不下去了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230807/1917127.md" target="_blank">最要害的八个字！中共新华社马屁文章惊现“最大亮点”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230807/1917062.md" target="_blank">“暴风之影”炸毁克里米亚桥梁 乌克兰切断“俄罗斯两条重要交通路线”</a></li>
-<li><a href="/topimagenews/20230807/1917053.md" target="_blank">习近平心心念念之地 更要命的还在后面</a></li>
-<li><a href="/topimagenews/20230807/1917052.md" target="_blank">改变战争型态！美军陆战队获得LRFL远程火力发射机 可打击1600公里外敌舰</a></li>
-<li><a href="/topimagenews/20230807/1917027.md" target="_blank">危急！4个方向的洪水正奔向这座城市…</a></li>
-<li><a href="/topimagenews/20230807/1917026.md" target="_blank">涿州大逃亡：“祖国，我真特码的爱你啊”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 <li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
 
 </ul>
 </div>
