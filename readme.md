@@ -17,17 +17,17 @@
 <li><a href="/topimagenews/20230809/1917799.md">真疯了！中共强迫外企学习“习思想”</a></li>
 <li><a href="/topimagenews/20230808/1917511.md">中共很难进入强国之列！拜登对抗中共最狠1招…</a></li>
 <li><a href="/sohnews/20230808/1917509.md">中国各地异象频发，8月12日还有八级以上大地震？奇了！北京房山大水过后狼藉遍野，唯独龙王庙安然无恙！｜薇羽看世间 第715期 20230807</a></li>
+<li><a href="/topimagenews/20230809/1917813.md">风起云涌！中国多地掀起反抗大潮</a></li>
 <li><a href="/ccpdope/20230808/1917689.md">习近平性格的六个糟糠特点</a></li>
 <li><a href="/sohnews/20230808/1917631.md">听完这三个真实故事，你还不反对中共？！｜ #百年真相</a></li>
-<li><a href="/topimagenews/20230809/1917813.md">风起云涌！中国多地掀起反抗大潮</a></li>
-<li><a href="/ccpdope/20230808/1917614.md">九河入洼地 雄安新区怎么选出来的</a></li>
 <li><a href="/topimagenews/20230809/1917798.md">公海轮船上，他专门割中国人的腰子</a></li>
+<li><a href="/ccpdope/20230808/1917614.md">九河入洼地 雄安新区怎么选出来的</a></li>
+<li><a href="/comments/20230808/1917716.md">李燕铭：火箭军隐形政变早已发生 习近平发现火箭军和战支部队高级将领都是两面人 四大战区接连调整换将 两名军委委员高危 习近平密谋备战 军报密集发文释异常信号 中南海政变与反政变（106） 习强化军权内防政变对外备战（51） 北戴河会议大战内幕（80） 火箭军窝案深度内幕（14）</a></li>
 <li><a href="/cnnews/20230808/1917564.md">突发！万达集团高级副总裁刘海波被带走</a></li>
 <li><a href="/topimagenews/20230808/1917684.md">比抗日时还少！中国院士：今年大陆出生人口或700万至800多万</a></li>
-<li><a href="/comments/20230808/1917716.md">李燕铭：火箭军隐形政变早已发生 习近平发现火箭军和战支部队高级将领都是两面人 四大战区接连调整换将 两名军委委员高危 习近平密谋备战 军报密集发文释异常信号 中南海政变与反政变（106） 习强化军权内防政变对外备战（51） 北戴河会议大战内幕（80） 火箭军窝案深度内幕（14）</a></li>
 <li><a href="/sohnews/20230809/1917743.md">“华尔街日报：外商纷纷离去 进出口贸易额连续暴跌 ⋯ 习近平你咋儿办？”《今日点击》（08/08/23）</a></li>
 <li><a href="/cnnews/20230808/1917662.md">iPhone电量持续下降？专家曝2种App惹得祸</a></li>
-<li><a href="/comments/20230808/1917501.md">辉瑞发言人在澳大利亚参议院听证会上承认，辉瑞员工获得了特殊疫苗</a></li>
+<li><a href="/topimagenews/20230809/1917822.md">裁撤所有应届生！中国大厂撑不下去了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230809/1917939.md" target="_blank">地方逼宫中央！中共政局加速畸变</a></li>
 <li><a href="/comments/20230809/1917932.md" target="_blank">海外华人性命攸关！北京大佬泄密“隐蔽战线”</a></li>
 <li><a href="/comments/20230809/1917929.md" target="_blank">天亮时分：美乌沙特设局，中共掉入陷阱；医疗反腐，全民返贫；李嘉诚扔出深水炸弹，香港已成无望之地（政论天下第1079集 20230808）天亮时分</a></li>
 <li><a href="/comments/20230809/1917923.md" target="_blank">坎农识破检察官计谋，多重打击史密斯。奥巴马任命的法官，深层背景被挖出，川普提两个重要要求。#</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230809/1917805.md" target="_blank">网海拾贝：涿州市委书记市长去哪了？中共高层哪去了？</a></li>
 <li><a href="/comments/20230809/1917804.md" target="_blank">吴惠林：现代人应该读亚当·史密斯的《原富》</a></li>
 <li><a href="/comments/20230809/1917803.md" target="_blank">杨威：中共利用南海转移视线却给习添乱</a></li>
-<li><a href="/comments/20230808/1917731.md" target="_blank">时事大家谈：习近平部署“隐蔽战线” 锁定美台？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
 <li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
 
 </ul>
 </div>
