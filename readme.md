@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20230809/1917899.md">官员爆料：洪灾是河北省政府的惊天阴谋，八月中旬共军攻打东沙岛，挽救中共的十条建议。《老灯开讲第355期》</a></li>
-<li><a href="/topimagenews/20230809/1917822.md">裁撤所有应届生！中国大厂撑不下去了</a></li>
 <li><a href="/comments/20230809/1917939.md">地方逼宫中央！中共政局加速畸变</a></li>
 <li><a href="/topimagenews/20230809/1918040.md">什么信号？北京自来水突然变凉！特殊信号引发热议【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230809/1917849.md">韩战中有60多名中国女兵被俘，只有一女选择回国，结果很惨【欺世大观】  230</a></li>
@@ -20,7 +19,6 @@
 <li><a href="/topimagenews/20230809/1917954.md">信号意义都不容小觑！习普友谊裂痕初现</a></li>
 <li><a href="/topimagenews/20230809/1918160.md">傲视全球黑科技 北京红十字会救灾不沾泥白鞋子横空出世</a></li>
 <li><a href="/worldnews/20230809/1917846.md">北京竟已“渗透”到这个地步</a></li>
-<li><a href="/comments/20230809/1917825.md">唐靖远：医疗反腐，变相割韭菜；80%资源用于权贵，民众注定是医疗乱象受害者 ｜新闻烽火台 08/08</a></li>
 <li><a href="/comments/20230809/1918108.md">【独家重磅】李燕铭：习近平攻陷江泽民老巢剑指江绵恒 上海帮医药生工系统面临深度清洗 江绵恒暗黑帝国正在瓦解 上海市逾十部门四大动作密集响应医药反腐风暴 上海赛伦生物董事长范志和被抓 中南海政变与反政变（108） 北戴河会议大战内幕（82） 江绵恒暗黑帝国瓦解内幕（49） 江泽民死江家族被清洗（26） 习近平连任后大清洗（61） 习近平决战江曾（100） 江泽民老巢上海被清洗（38）</a></li>
 <li><a href="/cnnews/20230809/1918006.md">下一个大麻烦 1万亿美元的大雷要爆？</a></li>
 <li><a href="/cbnews/20230809/1918016.md">持新西兰护照回国 华人女孩被告知“国籍冲突”</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/topimagenews/20230809/1918028.md">我们能从35度提升到2500度！俄坦克、阵地遇袭爆炸 乌军...</a></li>
 <li><a href="/comments/20230809/1917932.md">海外华人性命攸关！北京大佬泄密“隐蔽战线”</a></li>
 <li><a href="/cbnews/20230809/1918161.md">她拒买47元水果竟遭老板呛“穷货”拦住 爸赶来救女更火爆</a></li>
+<li><a href="/comments/20230809/1917956.md">王友群：习近平的用人与政局的凶险</a></li>
+<li><a href="/topimagenews/20230809/1917952.md">“宇宙房企”要倒？不知道又有多少人要失业了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230810/1918274.md" target="_blank">母亲鼓励儿子成间谍？美强力反击中共军中渗透；中共开始查移民资料，海外华人小心了！小粉红伦敦涂鸦激起反共浪潮 ｜方伟 唐靖远 林晓旭 方菲 David</a></li>
 <li><a href="/cbnews/20230810/1918266.md" target="_blank">江峰：灾後涿州开启老乡害老乡模式</a></li>
 <li><a href="/cbnews/20230810/1918238.md" target="_blank">美国思想领袖：【精彩片段】中国7月进出口降幅超预期 经济放缓中共如何解决社会乱象？ &#8211; #新闻大家谈</a></li>
 <li><a href="/cbnews/20230810/1918229.md" target="_blank">美国思想领袖：【精彩片段】中共实在没有经济来源 掀医疗行业反腐风暴 ？能解决百姓昂贵医疗费吗？- #新闻大家谈</a></li>
@@ -59,13 +60,14 @@
 <li><a href="/comments/20230808/1917652.md" target="_blank">方伟，辛恬探索“美国建国之旅”</a></li>
 <li><a href="/cbnews/20230808/1917601.md" target="_blank">洪涝才过 怪台卡努转弯又来？ 中国东北恐再受创</a></li>
 <li><a href="/cbnews/20230808/1917579.md" target="_blank">镇压? 救灾? 武警已接管灾区 涿州下达灾情封口令 死亡人数成最高机密</a></li>
-<li><a href="/cbnews/20230808/1917534.md" target="_blank">江峰：红十字会再造假，西装供灾区，为了迎接领导视察吗？乌克兰和台湾发慰问电遭粉红讽刺，朝俄无感，美日欧备援，谁对中国人真心？摆拍的共军成抖音军，李强的国务院呢？【江峰漫谈20230807第708期】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230810/1918277.md" target="_blank">中国田径队的“女神”，一夜之间塌房了</a></li>
+<li><a href="/topimagenews/20230810/1918276.md" target="_blank">乌方爆料：美国原本要给乌克兰的钱，却转给了…</a></li>
 <li><a href="/topimagenews/20230810/1918239.md" target="_blank">手眼通天 双面间谍惨遭灭口？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230809/1918160.md" target="_blank">傲视全球黑科技 北京红十字会救灾不沾泥白鞋子横空出世</a></li>
 <li><a href="/topimagenews/20230809/1918040.md" target="_blank">什么信号？北京自来水突然变凉！特殊信号引发热议【阿波罗网报道】</a></li>
@@ -89,14 +91,16 @@
 <li><a href="/topimagenews/20230808/1917617.md" target="_blank">成功拦截俄军攻击！基辅已成全球最强防卫城市…</a></li>
 <li><a href="/topimagenews/20230808/1917600.md" target="_blank">一场新的政治运动开始了！这行业风声鹤唳&#8230;【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230808/1917563.md" target="_blank">笑喷！中共造假被逮个正着 老百姓现场指导：你这么整不对劲儿【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230808/1917554.md" target="_blank">中共海警水炮打菲律宾补给船 战略专家分析目的在试探“这一条底线”</a></li>
-<li><a href="/topimagenews/20230808/1917545.md" target="_blank">“美团外卖”低薪资、休假、大热天强迫出勤！员工控当局装瞎…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230810/1918281.md" target="_blank">袁斌：涿州几乎全境被淹，为何市政府没被淹？</a></li>
+<li><a href="/comments/20230810/1918280.md" target="_blank">千百度：造假宣传知多少，“救灾事迹”沦笑柄</a></li>
+<li><a href="/comments/20230810/1918279.md" target="_blank">王赫：“二十大”以来中共政治加速畸变</a></li>
+<li><a href="/comments/20230810/1918274.md" target="_blank">母亲鼓励儿子成间谍？美强力反击中共军中渗透；中共开始查移民资料，海外华人小心了！小粉红伦敦涂鸦激起反共浪潮 ｜方伟 唐靖远 林晓旭 方菲 David</a></li>
 <li><a href="/comments/20230810/1918267.md" target="_blank">文昭：锤爆最新力作：医院倒查20年！为什麽是20年？这场风暴给大众会带来什麽？</a></li>
 <li><a href="/comments/20230810/1918236.md" target="_blank">碧桂园爆雷 分析：中国房地产危机进入新阶段</a></li>
 <li><a href="/comments/20230809/1918171.md" target="_blank">时事大家谈：小粉红伦敦涂鸦 “威权主义价值观的入侵”？</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230809/1917905.md" target="_blank">中共在全球各地打造新版“地下党”【方伟时间-20230808】</a></li>
 <li><a href="/comments/20230809/1917894.md" target="_blank">文清 徐简：英国华人纷访伦敦墙：这是中国的民主墙</a></li>
 <li><a href="/comments/20230809/1917893.md" target="_blank">贩财局:碧桂园终于承认暴雷了</a></li>
-<li><a href="/comments/20230809/1917892.md" target="_blank">孤独图书馆：洪水退去后的涿州：报废的汽车、庄稼，无家可归</a></li>
-<li><a href="/comments/20230809/1917876.md" target="_blank">【独家重磅】李燕铭：习近平王岐山四亲信联手重磅行动 大阵仗清洗汪洋胡春华老巢 吹响围剿江绵恒暗黑帝国冲锋号 习点江绵恒曾庆红死穴 北戴河会敏感期掀医药反腐风暴 倒查20年暗藏玄机 国家审计署报告触目惊心 清洗行动逼近江曾核心罪恶 中南海政变与反政变（107） 北戴河会议大战内幕（81） 江绵恒暗黑帝国瓦解内幕（48） 江泽民死江家族被清洗（25） 习近平连任后大清洗（60） 习近平决战江曾（99）</a></li>
-<li><a href="/comments/20230809/1917864.md" target="_blank">苏稳中：台美军事、经贸合作加温落实准军事同盟态势</a></li>
-<li><a href="/comments/20230809/1917863.md" target="_blank">译丛：中共和外企——一些可能相关的历史</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 <li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
 <li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 
 </ul>
 </div>
