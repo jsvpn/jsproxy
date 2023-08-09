@@ -13,21 +13,21 @@
 <li><a href="/topimagenews/20230808/1917418.md">泽连斯基遭袭！俄被疑派女谍行刺 现遭逮捕</a></li>
 <li><a href="/topimagenews/20230808/1917672.md">比恒大更大的雷！地产巨头碧桂园恐爆雷 她：习大大不救不行</a></li>
 <li><a href="/health/20230808/1917574.md">男性最“耗阳”行为，烟酒未上榜，排第一的，多数人不重视</a></li>
-<li><a href="/topimagenews/20230808/1917645.md">表面完全看不出！它将重创中国家家户户；印度发重磅新规“逼迫”世界科企迁出中国</a></li>
 <li><a href="/comments/20230808/1917508.md">习近平《大愚治水》“黑猪白猪论”震动各界！河北省委书记被涿州人指鼻子骂惨！党媒爆北京水灾部分真相，七常委北戴河表决：山东地震不许6.4级</a></li>
+<li><a href="/topimagenews/20230808/1917645.md">表面完全看不出！它将重创中国家家户户；印度发重磅新规“逼迫”世界科企迁出中国</a></li>
 <li><a href="/yule/20230808/1917425.md">世界小姐雅典娜被骗卖东南亚 交80万赎金未果</a></li>
 <li><a href="/baitai/20230808/1917649.md">云南男子当街砍人 恐怖画面曝光 伤亡人数成国家机密？</a></li>
 <li><a href="/baitai/20230808/1917658.md">习近平8月要动兵？美将军警告北京 这样做可能垮台</a></li>
 <li><a href="/topimagenews/20230808/1917511.md">中共很难进入强国之列！拜登对抗中共最狠1招…</a></li>
 <li><a href="/sohnews/20230808/1917509.md">中国各地异象频发，8月12日还有八级以上大地震？奇了！北京房山大水过后狼藉遍野，唯独龙王庙安然无恙！｜薇羽看世间 第715期 20230807</a></li>
 <li><a href="/sohnews/20230808/1917631.md">听完这三个真实故事，你还不反对中共？！｜ #百年真相</a></li>
-<li><a href="/ssgc/20230808/1917396.md">〖微博谈〗毕竟你的自由是假装出来的</a></li>
 <li><a href="/ccpdope/20230808/1917689.md">习近平性格的六个糟糠特点</a></li>
 <li><a href="/ccpdope/20230808/1917614.md">九河入洼地 雄安新区怎么选出来的</a></li>
 <li><a href="/cnnews/20230808/1917564.md">突发！万达集团高级副总裁刘海波被带走</a></li>
 <li><a href="/lifebaike/20230808/1917407.md">含钾是香蕉的12倍！一补钾、二强免疫、三润肠、夏天吃正合适</a></li>
 <li><a href="/comments/20230808/1917501.md">辉瑞发言人在澳大利亚参议院听证会上承认，辉瑞员工获得了特殊疫苗</a></li>
 <li><a href="/topimagenews/20230808/1917684.md">比抗日时还少！中国院士：今年大陆出生人口或700万至800多万</a></li>
+<li><a href="/comments/20230808/1917716.md">李燕铭：火箭军隐形政变早已发生 习近平发现火箭军和战支部队高级将领都是两面人 四大战区接连调整换将 两名军委委员高危 习近平密谋备战 军报密集发文释异常信号 中南海政变与反政变（106） 习强化军权内防政变对外备战（51） 北戴河会议大战内幕（80） 火箭军窝案深度内幕（14）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230809/1917836.md" target="_blank">苏晓康：亚细亚的洪水与制度</a></li>
+<li><a href="/comments/20230809/1917835.md" target="_blank">净园财经：前景黯淡 中国出生人口断崖下跌</a></li>
 <li><a href="/comments/20230809/1917825.md" target="_blank">唐靖远：医疗反腐，变相割韭菜；80%资源用于权贵，民众注定是医疗乱象受害者 ｜新闻烽火台 08/08</a></li>
 <li><a href="/comments/20230809/1917824.md" target="_blank">周晓辉：官媒高调宣传军方抗洪救灾透何信息</a></li>
 <li><a href="/comments/20230809/1917805.md" target="_blank">网海拾贝：涿州市委书记市长去哪了？中共高层哪去了？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230808/1917423.md" target="_blank">“美国真正的创始人” 是个法国人</a></li>
 <li><a href="/comments/20230808/1917389.md" target="_blank">吴建民：小粉红敢去北京街头写自由民主吗？“社会主义”入侵激怒自由社会，后果严重 ｜新闻烽火台 08/07</a></li>
 <li><a href="/comments/20230808/1917382.md" target="_blank">大咖乔·罗根转变立场，支持川普2024。徳桑蒂斯对2020年大选首次表态。彭斯遭诘问。#乔·罗根 #川普 #2024</a></li>
-<li><a href="/comments/20230808/1917380.md" target="_blank">文昭：太离奇，台风「卡努」90度大拐弯真要来中国了！灾变、民变、政变也真的在发生中</a></li>
-<li><a href="/comments/20230808/1917356.md" target="_blank">【独家重磅】李燕铭：习近平火线反击江绵恒挑衅 部署清洗江绵恒暗黑帝国 十部委局联合行动 彭丽媛老乡栗战书旧部中纪委女将下令集中查处一批案件形成声势震慑 逾150人被抓 江绵恒暗黑帝国瓦解内幕（47） 江泽民死江家族被清洗（24） 习近平连任后大清洗（59） 北戴河会议大战内幕（79） 中南海政变与反政变（105） 习近平决战江曾（98）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
 
 </ul>
 </div>
