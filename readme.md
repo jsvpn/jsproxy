@@ -15,19 +15,19 @@
 <li><a href="/comments/20230809/1917939.md">地方逼宫中央！中共政局加速畸变</a></li>
 <li><a href="/sohnews/20230809/1917849.md">韩战中有60多名中国女兵被俘，只有一女选择回国，结果很惨【欺世大观】  230</a></li>
 <li><a href="/sohnews/20230809/1917743.md">“华尔街日报：外商纷纷离去 进出口贸易额连续暴跌 ⋯ 习近平你咋儿办？”《今日点击》（08/08/23）</a></li>
+<li><a href="/topimagenews/20230809/1918040.md">什么信号？北京自来水突然变凉！特殊信号引发热议【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230809/1917976.md">南京女高官落马 背后的李源潮危险？</a></li>
 <li><a href="/topimagenews/20230809/1917930.md">习总理想很丰满 这里的现实却超级骨感</a></li>
-<li><a href="/topimagenews/20230808/1917684.md">比抗日时还少！中国院士：今年大陆出生人口或700万至800多万</a></li>
-<li><a href="/cbnews/20230809/1917957.md">〖兲朝浮世绘〗当前中国最大的矛盾是中共享权享钱和人矿无权无钱的矛盾</a></li>
 <li><a href="/topimagenews/20230809/1918015.md">中共凉凉！张忠谋给中共连倒三盆冷水！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230809/1918040.md">什么信号？北京自来水突然变凉！特殊信号引发热议【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230809/1917957.md">〖兲朝浮世绘〗当前中国最大的矛盾是中共享权享钱和人矿无权无钱的矛盾</a></li>
 <li><a href="/topimagenews/20230809/1917954.md">信号意义都不容小觑！习普友谊裂痕初现</a></li>
+<li><a href="/ssgc/20230809/1917840.md">〖微博谈〗都是人祸</a></li>
 <li><a href="/cbnews/20230809/1917857.md">家贼难防！和金正日私交甚好 中共“最高级别间谍”曝光</a></li>
 <li><a href="/worldnews/20230809/1917846.md">北京竟已“渗透”到这个地步</a></li>
-<li><a href="/ssgc/20230809/1917840.md">〖微博谈〗都是人祸</a></li>
-<li><a href="/topimagenews/20230809/1917764.md">圣僧圆寂2个月“肉身零腐化” 信徒目睹惊呆全跪拜</a></li>
 <li><a href="/comments/20230809/1917825.md">唐靖远：医疗反腐，变相割韭菜；80%资源用于权贵，民众注定是医疗乱象受害者 ｜新闻烽火台 08/08</a></li>
-<li><a href="/cnnews/20230808/1917686.md">马斯克租屋内部曝光 陆网民：世界首富住得太清贫了</a></li>
+<li><a href="/topimagenews/20230809/1917764.md">圣僧圆寂2个月“肉身零腐化” 信徒目睹惊呆全跪拜</a></li>
+<li><a href="/sohnews/20230809/1917768.md">股票领跌！中国通货紧缩加剧；真回“解放前”！新生儿少到惊人；双降！中国出口创新低；腐败？万达高管被带走；认命！知名手机放弃自制芯片，应届生“倒霉”；1500亿没了！中国医药市值大跌</a></li>
+<li><a href="/baitai/20230809/1917839.md">大连财政告急，连警察工资也被拖欠，中国「粮仓」地区遭重创，中国人粮食陷入危机【每日头条】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230809/1918129.md" target="_blank">意外发现：火星自转加速1天比1天短！ 科学家不知道原因</a></li>
+<li><a href="/comments/20230809/1918128.md" target="_blank">LinkedIn 全面退出中国 西方社群媒体在墙内成绝响</a></li>
+<li><a href="/comments/20230809/1918127.md" target="_blank">【秦鹏观察】最大房企碧桂园也要倒！传杨惠妍父女被边控</a></li>
 <li><a href="/comments/20230809/1918108.md" target="_blank">【独家重磅】李燕铭：习近平攻陷江泽民老巢剑指江绵恒 上海帮医药生工系统面临深度清洗 江绵恒暗黑帝国正在瓦解 上海市逾十部门四大动作密集响应医药反腐风暴 上海赛伦生物董事长范志和被抓 中南海政变与反政变（108） 北戴河会议大战内幕（82） 江绵恒暗黑帝国瓦解内幕（49） 江泽民死江家族被清洗（26） 习近平连任后大清洗（61） 习近平决战江曾（100） 江泽民老巢上海被清洗（38）</a></li>
 <li><a href="/comments/20230809/1918103.md" target="_blank">【梁京评论】河北水患与中国的「乱世焦虑」</a></li>
 <li><a href="/comments/20230809/1918081.md" target="_blank">袁红冰：《回归荒凉》（八）</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230809/1917861.md" target="_blank">曾建元：幸福国家下公民社会的贫困——以国会监督与华人民主事业为例</a></li>
 <li><a href="/comments/20230809/1917860.md" target="_blank">麦杰逊:红十字会的又一个细节被扒出来了</a></li>
 <li><a href="/comments/20230809/1917848.md" target="_blank">中共无以求生！中共国一片末世风景</a></li>
-<li><a href="/comments/20230809/1917836.md" target="_blank">苏晓康：亚细亚的洪水与制度</a></li>
-<li><a href="/comments/20230809/1917835.md" target="_blank">净园财经：前景黯淡 中国出生人口断崖下跌</a></li>
-<li><a href="/comments/20230809/1917825.md" target="_blank">唐靖远：医疗反腐，变相割韭菜；80%资源用于权贵，民众注定是医疗乱象受害者 ｜新闻烽火台 08/08</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
 <li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
