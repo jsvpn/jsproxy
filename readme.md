@@ -9,8 +9,8 @@
 <li><a href="/ccpdope/20230810/1918204.md">中共国一片哀鸿遍野的末世风景</a></li>
 <li><a href="/topimagenews/20230810/1918239.md">手眼通天 双面间谍惨遭灭口？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230810/1918357.md">〖兲朝浮世绘〗李强真是个称职的好奴才</a></li>
-<li><a href="/cnnews/20230810/1918233.md">李嘉诚老去，豪门巨变</a></li>
 <li><a href="/funmedia/20230810/1918376.md">性欲与寿命的关系！还好今天看到</a></li>
+<li><a href="/cnnews/20230810/1918233.md">李嘉诚老去，豪门巨变</a></li>
 <li><a href="/baitai/20230810/1918211.md">林保华：习近平为何不去现场赈灾？</a></li>
 <li><a href="/sohnews/20230810/1918275.md">隐身多日，李强终于露面，释放什么信号？山东和四川突发地震，北京草地喷热水，河北虫群大迁徙，异象频现，大地震前兆？灾民很惨！地方政府没钱赔偿，原因是什么？</a></li>
 <li><a href="/comments/20230810/1918337.md">天亮时分：最大移民公司老板被捕，中共倒查所有跑路富豪；碧桂园违约，房地产已经无药可救；拜登签署行政令，管制对华投资（政论天下第1080集 20230809）天亮时分</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/ccpdope/20230810/1918387.md">习近平面对一场无声的隐形政变</a></li>
 <li><a href="/topimagenews/20230810/1918276.md">乌方爆料：美国原本要给乌克兰的钱，却转给了…</a></li>
 <li><a href="/sohnews/20230810/1918441.md">有“大佬”已脑死？就等高层拍板“拔管”；山东、四川同日地震！胡锦涛到底怎么了，最近被媒体提到是7月中；北京土地冒气，黑龙江天变色，碧桂园爆雷，灾异频生，胡会被中共“定点死亡”吗｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/cnnews/20230810/1918268.md">狼性不再？中国时下年轻人三观正在扭转…</a></li>
 <li><a href="/ccpdope/20230810/1918480.md">中共军队出大事 三大不寻常</a></li>
+<li><a href="/cnnews/20230810/1918268.md">狼性不再？中国时下年轻人三观正在扭转…</a></li>
 <li><a href="/sohnews/20230810/1918461.md">文睿：邓亚萍，被抓了？时局，一日千里的乱起来了</a></li>
 <li><a href="/topimagenews/20230810/1918351.md">突发：这国总统候选人遇刺，头部中弹亡</a></li>
 <li><a href="/cbnews/20230810/1918432.md">陆客团可赴日本、韩国 中国旅游解禁 网友崩溃</a></li>
 <li><a href="/ccpdope/20230810/1918386.md">在周永康的庇护下 他包养9个情妇，阶阶高升</a></li>
 <li><a href="/sohnews/20230810/1918429.md">陈破空：天津突遭军管，到处都是军人！李强露面开会，直接甩锅习近平。北京呈现大地震前兆！俄乌杀红了眼，泽伦斯基险遭暗杀。莫斯科大爆炸</a></li>
-<li><a href="/cbnews/20230810/1918218.md">比抗战时期还低…中国这一危机就在眼前</a></li>
+<li><a href="/baitai/20230810/1918494.md">人人离不开的日用品，正在降低你的免疫力</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
 <li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
 
 </ul>
 </div>
