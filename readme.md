@@ -13,21 +13,21 @@
 <li><a href="/topimagenews/20230809/1918160.md">傲视全球黑科技 北京红十字会救灾不沾泥白鞋子横空出世</a></li>
 <li><a href="/comments/20230809/1918108.md">【独家重磅】李燕铭：习近平攻陷江泽民老巢剑指江绵恒 上海帮医药生工系统面临深度清洗 江绵恒暗黑帝国正在瓦解 上海市逾十部门四大动作密集响应医药反腐风暴 上海赛伦生物董事长范志和被抓 中南海政变与反政变（108） 北戴河会议大战内幕（82） 江绵恒暗黑帝国瓦解内幕（49） 江泽民死江家族被清洗（26） 习近平连任后大清洗（61） 习近平决战江曾（100） 江泽民老巢上海被清洗（38）</a></li>
 <li><a href="/ccpdope/20230810/1918204.md">中共国一片哀鸿遍野的末世风景</a></li>
-<li><a href="/cnnews/20230809/1918006.md">下一个大麻烦 1万亿美元的大雷要爆？</a></li>
 <li><a href="/cbnews/20230809/1918016.md">持新西兰护照回国 华人女孩被告知“国籍冲突”</a></li>
 <li><a href="/topimagenews/20230810/1918276.md">乌方爆料：美国原本要给乌克兰的钱，却转给了…</a></li>
 <li><a href="/cnnews/20230810/1918233.md">李嘉诚老去，豪门巨变</a></li>
 <li><a href="/sohnews/20230810/1918275.md">隐身多日，李强终于露面，释放什么信号？山东和四川突发地震，北京草地喷热水，河北虫群大迁徙，异象频现，大地震前兆？灾民很惨！地方政府没钱赔偿，原因是什么？</a></li>
 <li><a href="/topimagenews/20230809/1918028.md">我们能从35度提升到2500度！俄坦克、阵地遇袭爆炸 乌军...</a></li>
 <li><a href="/baitai/20230810/1918211.md">林保华：习近平为何不去现场赈灾？</a></li>
+<li><a href="/cbnews/20230810/1918357.md">〖兲朝浮世绘〗李强真是个称职的好奴才</a></li>
 <li><a href="/cnnews/20230810/1918268.md">狼性不再？中国时下年轻人三观正在扭转…</a></li>
+<li><a href="/comments/20230810/1918337.md">天亮时分：最大移民公司老板被捕，中共倒查所有跑路富豪；碧桂园违约，房地产已经无药可救；拜登签署行政令，管制对华投资（政论天下第1080集 20230809）天亮时分</a></li>
 <li><a href="/cbnews/20230809/1918161.md">她拒买47元水果竟遭老板呛“穷货”拦住 爸赶来救女更火爆</a></li>
 <li><a href="/baitai/20230809/1918107.md">又一巨雷悬半空 分析：一场中国式危机将超出想像</a></li>
-<li><a href="/comments/20230810/1918337.md">天亮时分：最大移民公司老板被捕，中共倒查所有跑路富豪；碧桂园违约，房地产已经无药可救；拜登签署行政令，管制对华投资（政论天下第1080集 20230809）天亮时分</a></li>
-<li><a href="/cbnews/20230810/1918357.md">〖兲朝浮世绘〗李强真是个称职的好奴才</a></li>
-<li><a href="/finance/20230809/1918004.md">中国上演2020年底以来从未出现的一幕</a></li>
-<li><a href="/baitai/20230809/1918113.md">习若攻台后果很严重 日前首相强硬发声 北京激烈反弹</a></li>
+<li><a href="/ssgc/20230810/1918350.md">〖微博谈〗接下来的事情将是最痛苦的</a></li>
 <li><a href="/comments/20230810/1918236.md">碧桂园爆雷 分析：中国房地产危机进入新阶段</a></li>
+<li><a href="/baitai/20230809/1918113.md">习若攻台后果很严重 日前首相强硬发声 北京激烈反弹</a></li>
+<li><a href="/cbnews/20230809/1918018.md">吓人！她肚子里有“蟒蛇”? 杭州女子患“这种病” 手术竟取出...</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
 <li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
 
 </ul>
 </div>
