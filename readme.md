@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/funmedia/20230810/1918376.md">性欲与寿命的关系！还好今天看到</a></li>
 <li><a href="/topimagenews/20230810/1918469.md">一张照片，泄露了中共军队的真正战斗力【阿波罗网报道】</a></li>
 <li><a href="/worldnews/20230810/1918433.md">中共气昏了！美国竟然通过这个法案 余茂春：解决外交史上...</a></li>
 <li><a href="/sohnews/20230810/1918441.md">有“大佬”已脑死？就等高层拍板“拔管”；山东、四川同日地震！胡锦涛到底怎么了，最近被媒体提到是7月中；北京土地冒气，黑龙江天变色，碧桂园爆雷，灾异频生，胡会被中共“定点死亡”吗｜新闻拍案惊奇 大宇</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/comments/20230810/1918514.md">劝习近平回头？中国学者10条建议引关注</a></li>
 <li><a href="/ccpdope/20230810/1918480.md">中共军队出大事 三大不寻常</a></li>
 <li><a href="/sohnews/20230810/1918461.md">文睿：邓亚萍，被抓了？时局，一日千里的乱起来了</a></li>
-<li><a href="/cbnews/20230810/1918432.md">陆客团可赴日本、韩国 中国旅游解禁 网友崩溃</a></li>
 <li><a href="/topimagenews/20230811/1918690.md">爆料：习近平最大喜好！明的暗的一大堆保镖…【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230810/1918432.md">陆客团可赴日本、韩国 中国旅游解禁 网友崩溃</a></li>
 <li><a href="/ccpdope/20230810/1918386.md">在周永康的庇护下 他包养9个情妇，阶阶高升</a></li>
 <li><a href="/baitai/20230810/1918494.md">人人离不开的日用品，正在降低你的免疫力</a></li>
 <li><a href="/sohnews/20230810/1918429.md">陈破空：天津突遭军管，到处都是军人！李强露面开会，直接甩锅习近平。北京呈现大地震前兆！俄乌杀红了眼，泽伦斯基险遭暗杀。莫斯科大爆炸</a></li>
-<li><a href="/baitai/20230810/1918526.md">富裕的浙江也没钱了？政府发文定机关过「紧日子」标准 网民这样回应</a></li>
 <li><a href="/headline/20230811/1918628.md">新华社发文定调 高干病房不能取消</a></li>
+<li><a href="/baitai/20230810/1918526.md">富裕的浙江也没钱了？政府发文定机关过「紧日子」标准 网民这样回应</a></li>
+<li><a href="/sohnews/20230811/1918647.md">大时代开启！拜登抛“王炸”禁令断生路；习近平严打“海外关系”，上海最大移民中介被查！16军政要员直升机坠亡洪水，全网封杀！</a></li>
 <li><a href="/topimagenews/20230810/1918503.md">美军6代战机将掀空战革命</a></li>
 <li><a href="/cbnews/20230810/1918532.md">江峰：他们击败了俄罗斯 现开始对中共开战</a></li>
-<li><a href="/sohnews/20230811/1918647.md">大时代开启！拜登抛“王炸”禁令断生路；习近平严打“海外关系”，上海最大移民中介被查！16军政要员直升机坠亡洪水，全网封杀！</a></li>
-<li><a href="/baitai/20230810/1918443.md">移民中介公司董事被抓 「大时代」开始？</a></li>
-<li><a href="/cnnews/20230810/1918475.md">中国新制上路！App过审才给用 中国网友怒了：根本倒退10年</a></li>
 <li><a href="/ccpdope/20230810/1918575.md">习近平野心太大本事太小 中共走向末路是命</a></li>
+<li><a href="/baitai/20230810/1918443.md">移民中介公司董事被抓 「大时代」开始？</a></li>
+<li><a href="/ssgc/20230810/1918545.md">中共高层聚集北戴河 暗流涌动</a></li>
+<li><a href="/cbnews/20230810/1918487.md">陆23岁正妹“一次拔57颗牙”！医见X光照兴奋叫实习医全来：很罕见</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230811/1918816.md" target="_blank">江峰：全民行动！说不出春晚小品台词就是间谍，海归也算！最大移民公司女老板被抓，中共索要经办移民名单；共军动动手指打赢美军？华为之後，美英将全球封杀这类产品【江峰漫谈20230810第710期】</a></li>
+<li><a href="/cbnews/20230811/1918811.md" target="_blank">〖兲朝浮世绘〗伟大领袖最新指示：“马院姓马，在马言马。”</a></li>
 <li><a href="/cbnews/20230811/1918801.md" target="_blank">美日台只是障眼法！这才是中俄联合巡航战略目标</a></li>
 <li><a href="/comments/20230811/1918755.md" target="_blank">美国祭出投资禁令 中共陷另一重包围【方伟时间-20230810】</a></li>
 <li><a href="/comments/20230811/1918736.md" target="_blank">川普越打压越受欢迎。盛赞诺姆，巧讽克里斯蒂。徳桑蒂斯临阵换竞选经理。#川普 #徳桑蒂斯 #共和党初选</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230810/1918219.md" target="_blank">俄乌战况胶着！俄军被困，一天发动508次炮击</a></li>
 <li><a href="/cbnews/20230810/1918218.md" target="_blank">比抗战时期还低…中国这一危机就在眼前</a></li>
 <li><a href="/cbnews/20230810/1918214.md" target="_blank">美国思想领袖：【精彩片段】罕见血月 地表喷水预示什麽？历代异象出现改朝换代？ &#8211; #新闻大家谈</a></li>
-<li><a href="/cbnews/20230809/1918161.md" target="_blank">她拒买47元水果竟遭老板呛“穷货”拦住 爸赶来救女更火爆</a></li>
-<li><a href="/cbnews/20230809/1918018.md" target="_blank">吓人！她肚子里有“蟒蛇”? 杭州女子患“这种病” 手术竟取出&#8230;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 <li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
 
 </ul>
 </div>
