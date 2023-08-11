@@ -9,11 +9,10 @@
 <li><a href="/baitai/20230811/1918642.md">习近平让党内元老全消失？ 日媒爆北戴河会议内幕</a></li>
 <li><a href="/topimagenews/20230811/1918690.md">爆料：习近平最大喜好！明的暗的一大堆保镖…【阿波罗网报道】</a></li>
 <li><a href="/headline/20230811/1918628.md">新华社发文定调 高干病房不能取消</a></li>
-<li><a href="/baitai/20230810/1918526.md">富裕的浙江也没钱了？政府发文定机关过「紧日子」标准 网民这样回应</a></li>
 <li><a href="/cnnews/20230811/1918713.md">移民的至暗时刻，终于还是来了…</a></li>
-<li><a href="/ccpdope/20230810/1918575.md">习近平野心太大本事太小 中共走向末路是命</a></li>
 <li><a href="/sohnews/20230811/1918647.md">大时代开启！拜登抛“王炸”禁令断生路；习近平严打“海外关系”，上海最大移民中介被查！16军政要员直升机坠亡洪水，全网封杀！</a></li>
 <li><a href="/topimagenews/20230811/1918798.md">擂响战鼓！大陆六万民众 发出家族召集令！用生命保护家族宗祠【阿波罗网报道】</a></li>
+<li><a href="/ccpdope/20230810/1918575.md">习近平野心太大本事太小 中共走向末路是命</a></li>
 <li><a href="/cnnews/20230811/1918824.md">中国教育部叫停私立学校，或在2年内全部取消</a></li>
 <li><a href="/cbnews/20230810/1918532.md">江峰：他们击败了俄罗斯 现开始对中共开战</a></li>
 <li><a href="/topimagenews/20230811/1918777.md">【微博精粹】弃千年古城涿州 保千年一梦雄安</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/cnnews/20230811/1918773.md">最严厉警告：拜登称中国为“定时炸弹”</a></li>
 <li><a href="/ssgc/20230811/1918756.md">〖微博谈〗现如今只不过是法宝再用</a></li>
 <li><a href="/comments/20230811/1918717.md">李燕铭：习近平命悬一线 天灭中共进行时！北戴河会敏感期中共末日征兆云集 北京河北异象纷呈 三伏天下雪大雁南飞 虫群转圈地面喷水 山东四川同日地震 吉林河流决口 黑龙江青海发布暴雨红色预警 昆明滇池鱼群死亡 内蒙古大兴安岭密集发生雷击林火 习近平连任与中共末日（154） 中共末日之天灭中共（3）</a></li>
+<li><a href="/topimagenews/20230811/1918903.md">比印度神童还准? 习近平亡国“三个陷阱”全应验！通缩危机引政权动摇</a></li>
 <li><a href="/headline/20230811/1918589.md">传上海最大赴美移民公司老板被捕 公安恰拘一同姓女子 网称要经办的移美者档案</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230811/1918976.md" target="_blank">如何赢2024？有一环节不能忽视。迟到3年的调查报告，揭民主党竞选黑幕。班农提出严厉警告。#</a></li>
 <li><a href="/cbnews/20230811/1918838.md" target="_blank">3个月内2人死 长沙湘雅三院医护联名举报科主任</a></li>
 <li><a href="/cbnews/20230811/1918816.md" target="_blank">江峰：全民行动！说不出春晚小品台词就是间谍，海归也算！最大移民公司女老板被抓，中共索要经办移民名单；共军动动手指打赢美军？华为之後，美英将全球封杀这类产品【江峰漫谈20230810第710期】</a></li>
 <li><a href="/cbnews/20230811/1918811.md" target="_blank">〖兲朝浮世绘〗伟大领袖最新指示：“马院姓马，在马言马。”</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230810/1918238.md" target="_blank">美国思想领袖：【精彩片段】中国7月进出口降幅超预期 经济放缓中共如何解决社会乱象？ &#8211; #新闻大家谈</a></li>
 <li><a href="/cbnews/20230810/1918229.md" target="_blank">美国思想领袖：【精彩片段】中共实在没有经济来源 掀医疗行业反腐风暴 ？能解决百姓昂贵医疗费吗？- #新闻大家谈</a></li>
 <li><a href="/cbnews/20230810/1918219.md" target="_blank">俄乌战况胶着！俄军被困，一天发动508次炮击</a></li>
-<li><a href="/cbnews/20230810/1918218.md" target="_blank">比抗战时期还低…中国这一危机就在眼前</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230811/1918976.md" target="_blank">如何赢2024？有一环节不能忽视。迟到3年的调查报告，揭民主党竞选黑幕。班农提出严厉警告。#</a></li>
 <li><a href="/comments/20230811/1918970.md" target="_blank">野火席卷夏威夷酿53死 民众跳海求生 万人撤离</a></li>
 <li><a href="/comments/20230811/1918945.md" target="_blank">官媒突出习近平新名号“实干家” 高级黑？</a></li>
 <li><a href="/comments/20230811/1918944.md" target="_blank">中共自曝军工人员泄密 美中暗战公开化</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230810/1918519.md" target="_blank">史密斯秘密搜查令，马斯克拒执行被罚35万。拜登银行账单公布，原来都是真的！#马斯克 #拜登 #史密斯</a></li>
 <li><a href="/comments/20230810/1918514.md" target="_blank">劝习近平回头？中国学者10条建议引关注</a></li>
 <li><a href="/comments/20230810/1918392.md" target="_blank">【新闻大破解】麻生访台破疑美疑日论 释何信息</a></li>
-<li><a href="/comments/20230810/1918360.md" target="_blank">网络民议:你是怎么样看待三令五申刺激消费的？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
 <li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
 
 </ul>
 </div>
