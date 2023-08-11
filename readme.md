@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230810/1918469.md">一张照片，泄露了中共军队的真正战斗力【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230810/1918441.md">有“大佬”已脑死？就等高层拍板“拔管”；山东、四川同日地震！胡锦涛到底怎么了，最近被媒体提到是7月中；北京土地冒气，黑龙江天变色，碧桂园爆雷，灾异频生，胡会被中共“定点死亡”吗｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20230810/1918530.md">何梅被抓震撼整个移民圈 背景不简单事件或另有内幕</a></li>
 <li><a href="/baitai/20230811/1918642.md">习近平让党内元老全消失？ 日媒爆北戴河会议内幕</a></li>
 <li><a href="/comments/20230810/1918514.md">劝习近平回头？中国学者10条建议引关注</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/cbnews/20230810/1918487.md">陆23岁正妹“一次拔57颗牙”！医见X光照兴奋叫实习医全来：很罕见</a></li>
 <li><a href="/cnnews/20230810/1918475.md">中国新制上路！App过审才给用 中国网友怒了：根本倒退10年</a></li>
 <li><a href="/ssgc/20230810/1918545.md">中共高层聚集北戴河 暗流涌动</a></li>
-<li><a href="/baitai/20230810/1918443.md">移民中介公司董事被抓 「大时代」开始？</a></li>
+<li><a href="/cnnews/20230811/1918655.md">华府这一拳有多猛！？北京发声，恼羞成怒</a></li>
 <li><a href="/lifebaike/20230811/1918614.md">上岸第一剑，为什么要先斩意中人</a></li>
 <li><a href="/cnnews/20230811/1918602.md">14岁华裔“炫富网红”惊传离世 家人表示“巨大的悲痛”</a></li>
-<li><a href="/cnnews/20230811/1918655.md">华府这一拳有多猛！？北京发声，恼羞成怒</a></li>
+<li><a href="/topimagenews/20230811/1918668.md">真不知道老百姓可怎么活！看这些视频 心都碎了【阿波罗网报导】</a></li>
+<li><a href="/topimagenews/20230811/1918777.md">【微博精粹】弃千年古城涿州 保千年一梦雄安</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
 
 </ul>
 </div>
