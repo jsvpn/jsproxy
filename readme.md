@@ -16,10 +16,10 @@
 <li><a href="/sohnews/20230810/1918441.md">有“大佬”已脑死？就等高层拍板“拔管”；山东、四川同日地震！胡锦涛到底怎么了，最近被媒体提到是7月中；北京土地冒气，黑龙江天变色，碧桂园爆雷，灾异频生，胡会被中共“定点死亡”吗｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20230810/1918514.md">劝习近平回头？中国学者10条建议引关注</a></li>
 <li><a href="/ccpdope/20230810/1918480.md">中共军队出大事 三大不寻常</a></li>
+<li><a href="/baitai/20230811/1918642.md">习近平让党内元老全消失？ 日媒爆北戴河会议内幕</a></li>
 <li><a href="/sohnews/20230810/1918461.md">文睿：邓亚萍，被抓了？时局，一日千里的乱起来了</a></li>
 <li><a href="/cbnews/20230810/1918432.md">陆客团可赴日本、韩国 中国旅游解禁 网友崩溃</a></li>
 <li><a href="/topimagenews/20230810/1918351.md">突发：这国总统候选人遇刺，头部中弹亡</a></li>
-<li><a href="/baitai/20230811/1918642.md">习近平让党内元老全消失？ 日媒爆北戴河会议内幕</a></li>
 <li><a href="/baitai/20230810/1918494.md">人人离不开的日用品，正在降低你的免疫力</a></li>
 <li><a href="/ccpdope/20230810/1918386.md">在周永康的庇护下 他包养9个情妇，阶阶高升</a></li>
 <li><a href="/sohnews/20230810/1918429.md">陈破空：天津突遭军管，到处都是军人！李强露面开会，直接甩锅习近平。北京呈现大地震前兆！俄乌杀红了眼，泽伦斯基险遭暗杀。莫斯科大爆炸</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230811/1918736.md" target="_blank">川普越打压越受欢迎。盛赞诺姆，巧讽克里斯蒂。徳桑蒂斯临阵换竞选经理。#川普 #徳桑蒂斯 #共和党初选</a></li>
+<li><a href="/comments/20230811/1918734.md" target="_blank">王维洛：北京门头沟洪水的根本原因是对永定河的改造；雄安排水能力号称远高北京，但不敢给出暴雨公式；海绵城市是中共又一面子工程 ｜王维洛谈北京洪灾（上）｜#方菲时间</a></li>
 <li><a href="/cbnews/20230811/1918676.md" target="_blank">容海恩现象：国安法下香港议员的“大义灭亲”与家庭关系变迁</a></li>
 <li><a href="/cbnews/20230810/1918532.md" target="_blank">江峰：他们击败了俄罗斯 现开始对中共开战</a></li>
 <li><a href="/comments/20230810/1918519.md" target="_blank">史密斯秘密搜查令，马斯克拒执行被罚35万。拜登银行账单公布，原来都是真的！#马斯克 #拜登 #史密斯</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230809/1918018.md" target="_blank">吓人！她肚子里有“蟒蛇”? 杭州女子患“这种病” 手术竟取出&#8230;</a></li>
 <li><a href="/cbnews/20230809/1918016.md" target="_blank">持新西兰护照回国 华人女孩被告知“国籍冲突”</a></li>
 <li><a href="/cbnews/20230809/1917976.md" target="_blank">南京女高官落马 背后的李源潮危险？</a></li>
-<li><a href="/cbnews/20230809/1917975.md" target="_blank">检控：加州22岁华裔水兵母要他向中国传递军情</a></li>
-<li><a href="/cbnews/20230809/1917957.md" target="_blank">〖兲朝浮世绘〗当前中国最大的矛盾是中共享权享钱和人矿无权无钱的矛盾</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230811/1918736.md" target="_blank">川普越打压越受欢迎。盛赞诺姆，巧讽克里斯蒂。徳桑蒂斯临阵换竞选经理。#川普 #徳桑蒂斯 #共和党初选</a></li>
+<li><a href="/comments/20230811/1918734.md" target="_blank">王维洛：北京门头沟洪水的根本原因是对永定河的改造；雄安排水能力号称远高北京，但不敢给出暴雨公式；海绵城市是中共又一面子工程 ｜王维洛谈北京洪灾（上）｜#方菲时间</a></li>
 <li><a href="/comments/20230811/1918717.md" target="_blank">李燕铭：习近平命悬一线 天灭中共进行时！北戴河会敏感期中共末日征兆云集 北京河北异象纷呈 三伏天下雪大雁南飞 虫群转圈地面喷水 山东四川同日地震 吉林河流决口 黑龙江青海发布暴雨红色预警 昆明滇池鱼群死亡 内蒙古大兴安岭密集发生雷击林火 习近平连任与中共末日（154） 中共末日之天灭中共（3）</a></li>
 <li><a href="/comments/20230811/1918711.md" target="_blank">文昭：医院被倒查20年，还有谁被吓尿了？</a></li>
 <li><a href="/comments/20230811/1918627.md" target="_blank">【未普评论】火箭军人事变动极不寻常</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230810/1918281.md" target="_blank">袁斌：涿州几乎全境被淹，为何市政府没被淹？</a></li>
 <li><a href="/comments/20230810/1918280.md" target="_blank">千百度：造假宣传知多少，“救灾事迹”沦笑柄</a></li>
 <li><a href="/comments/20230810/1918279.md" target="_blank">王赫：“二十大”以来中共政治加速畸变</a></li>
-<li><a href="/comments/20230810/1918274.md" target="_blank">母亲鼓励儿子成间谍？美强力反击中共军中渗透；中共开始查移民资料，海外华人小心了！小粉红伦敦涂鸦激起反共浪潮 ｜方伟 唐靖远 林晓旭 方菲 David</a></li>
-<li><a href="/comments/20230810/1918267.md" target="_blank">文昭：锤爆最新力作：医院倒查20年！为什麽是20年？这场风暴给大众会带来什麽？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
 <li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
 
 </ul>
 </div>
