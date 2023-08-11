@@ -16,17 +16,17 @@
 <li><a href="/cnnews/20230811/1918655.md">华府这一拳有多猛！？北京发声，恼羞成怒</a></li>
 <li><a href="/cbnews/20230811/1918811.md">〖兲朝浮世绘〗伟大领袖最新指示：“马院姓马，在马言马。”</a></li>
 <li><a href="/topimagenews/20230811/1918777.md">【微博精粹】弃千年古城涿州 保千年一梦雄安</a></li>
-<li><a href="/lifebaike/20230811/1918614.md">上岸第一剑，为什么要先斩意中人</a></li>
 <li><a href="/topimagenews/20230811/1918903.md">比印度神童还准? 习近平亡国“三个陷阱”全应验！通缩危机引政权动摇</a></li>
+<li><a href="/lifebaike/20230811/1918614.md">上岸第一剑，为什么要先斩意中人</a></li>
 <li><a href="/topimagenews/20230811/1918668.md">真不知道老百姓可怎么活！看这些视频 心都碎了【阿波罗网报导】</a></li>
+<li><a href="/topimagenews/20230811/1918942.md">刚翻新完祖宅突遭强拆 江苏男怒撞拆迁队酿2死8伤</a></li>
 <li><a href="/cnnews/20230811/1918602.md">14岁华裔“炫富网红”惊传离世 家人表示“巨大的悲痛”</a></li>
 <li><a href="/cnnews/20230811/1918773.md">最严厉警告：拜登称中国为“定时炸弹”</a></li>
 <li><a href="/ssgc/20230811/1918756.md">〖微博谈〗现如今只不过是法宝再用</a></li>
-<li><a href="/topimagenews/20230811/1918942.md">刚翻新完祖宅突遭强拆 江苏男怒撞拆迁队酿2死8伤</a></li>
 <li><a href="/topimagenews/20230811/1918637.md">北大教授：2.8亿中国人年收入不足8400元 话题引爆网络</a></li>
 <li><a href="/baitai/20230811/1918810.md">爆料：中国前奥运金牌得主涉贪被调查 影响超李铁</a></li>
-<li><a href="/comments/20230811/1918717.md">李燕铭：习近平命悬一线 天灭中共进行时！北戴河会敏感期中共末日征兆云集 北京河北异象纷呈 三伏天下雪大雁南飞 虫群转圈地面喷水 山东四川同日地震 吉林河流决口 黑龙江青海发布暴雨红色预警 昆明滇池鱼群死亡 内蒙古大兴安岭密集发生雷击林火 习近平连任与中共末日（154） 中共末日之天灭中共（3）</a></li>
 <li><a href="/topimagenews/20230811/1918829.md">中国经济极度危险！美智库喂解药先毒杀中共【阿波罗网报道】</a></li>
+<li><a href="/comments/20230811/1918717.md">李燕铭：习近平命悬一线 天灭中共进行时！北戴河会敏感期中共末日征兆云集 北京河北异象纷呈 三伏天下雪大雁南飞 虫群转圈地面喷水 山东四川同日地震 吉林河流决口 黑龙江青海发布暴雨红色预警 昆明滇池鱼群死亡 内蒙古大兴安岭密集发生雷击林火 习近平连任与中共末日（154） 中共末日之天灭中共（3）</a></li>
 <li><a href="/yule/20230811/1918879.md">知名女星看破红尘出家 罕见露面变慈眉善目</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 
 </ul>
 </div>
