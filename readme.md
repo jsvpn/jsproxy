@@ -5,9 +5,7 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/topimagenews/20230812/1919185.md">恶心极了！女药代X贿赂曝光：无T、松扣、随时…</a></li>
 <li><a href="/topimagenews/20230812/1919219.md">影片疯传！“这狗官”车震女下属还自拍 公司LOGO入镜</a></li>
-<li><a href="/finance/20230812/1919186.md">突然间面临崩溃 北京束手无策</a></li>
 <li><a href="/sohnews/20230812/1919353.md">北戴河会议习近平羞辱李强，共军将领集体“不服习”，仅八月以来就发生了太多大事。《老灯开讲第357期》</a></li>
 <li><a href="/topimagenews/20230812/1919333.md">墙内哀嚎：中国工信部发最新公告，网友看傻</a></li>
 <li><a href="/ssgc/20230812/1919429.md">北京龙气散尽 改朝换代就在眼前</a></li>
@@ -20,14 +18,16 @@
 <li><a href="/comments/20230812/1919417.md">文昭：切记不要搞错了！中国关闭国门、人们不能出国，会在这个时刻到来</a></li>
 <li><a href="/cbnews/20230812/1919221.md">11中国大妈坚持“水上跳广场舞较美”被冲走酿7死</a></li>
 <li><a href="/comments/20230812/1919464.md">【独家重磅】李燕铭：习近平北戴河会前抄底江泽民老家 李源潮情妇被查 南京苏州两高官应声落马 习部署决战江曾 彭丽媛老乡王岐山陈希旧部受命清洗江苏帮 曾三年清洗吉林帮逾百厅官 习近平决战江曾（103） 江泽民死江家族被清洗（28） 江泽民江苏帮政变谋刺习近平习绝地反击（36） 习近平连任后大清洗（64） 北戴河会议大战内幕（85） 中南海政变与反政变（110）</a></li>
-<li><a href="/ssgc/20230812/1919229.md">〖微博谈〗但明天呢？</a></li>
 <li><a href="/cbnews/20230812/1919266.md">这水很深有猫腻:3干部与人妻夜泳,她溺毙3人逃离</a></li>
+<li><a href="/ssgc/20230812/1919229.md">〖微博谈〗但明天呢？</a></li>
 <li><a href="/cnnews/20230812/1919255.md">金融圈炸锅 中国版雷曼要来？爆雷规模达3千500亿！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230812/1919377.md">田地挖到生锈铁剑！重庆农民磨成菜刀切菜 专家惊：是清朝“青龙剑”</a></li>
 <li><a href="/topimagenews/20230812/1919381.md">不只电动车？！吴子嘉曝拜登谋算：想歼灭中共“2领域”发展</a></li>
 <li><a href="/sports/20230812/1919352.md">网上疯传:奥运冠军邓亚萍涉贪腐,被带走调查</a></li>
+<li><a href="/yule/20230812/1919355.md">梁朝伟被传和女星日本生子 刘嘉玲PO照泄心声</a></li>
 <li><a href="/topimagenews/20230812/1919288.md">拜登突喊中共是定时炸弹 背后不寻常 细思极恐</a></li>
 <li><a href="/ccpdope/20230812/1919330.md">中共内斗很精彩 习近平不去灾区只为躲暗杀</a></li>
+<li><a href="/baitai/20230812/1919424.md">秦刚还好吗 谢锋摔伤后现状首度曝光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230813/1919521.md" target="_blank">谁真正控制按钮？高层异动 中共向国际传达信号</a></li>
+<li><a href="/comments/20230813/1919519.md" target="_blank">文昭：一分钟解释透彻：为何无比忠诚的你，也是祖国眼中潜在的间谍？</a></li>
 <li><a href="/comments/20230813/1919515.md" target="_blank">陈思敏：北京老牌IVD公司贱卖案中案</a></li>
 <li><a href="/comments/20230813/1919514.md" target="_blank">金言：北京龙气散尽 改朝换代就在眼前</a></li>
 <li><a href="/comments/20230813/1919513.md" target="_blank">王赫：沙尘暴、“杜苏芮”台风与“天意”</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230812/1919187.md" target="_blank">王维洛：中共对海河流域的改造是最彻底的，党指挥水，想淹哪里就淹哪里；为何泄洪不预警？地势高的涿州如何为地势低的雄安分洪 ｜ 王维洛谈北京洪灾（下）｜#方菲时间</a></li>
 <li><a href="/comments/20230812/1919177.md" target="_blank">文昭：倒计时开始，抓走资派了！知名移民公司老板「走资」被抓，中国人还能安全出国、回国吗？</a></li>
 <li><a href="/comments/20230812/1919159.md" target="_blank">邓英士：孔子治世之道</a></li>
-<li><a href="/comments/20230812/1919158.md" target="_blank">郑涛：铲除中共恶魔，重塑光明未来</a></li>
-<li><a href="/comments/20230812/1919157.md" target="_blank">杨宁：温州黄氏男儿签下生死状保祠堂的启示</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
 <li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 
 </ul>
 </div>
