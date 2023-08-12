@@ -11,23 +11,23 @@
 <li><a href="/sohnews/20230812/1919353.md">北戴河会议习近平羞辱李强，共军将领集体“不服习”，仅八月以来就发生了太多大事。《老灯开讲第357期》</a></li>
 <li><a href="/topimagenews/20230812/1919333.md">墙内哀嚎：中国工信部发最新公告，网友看傻</a></li>
 <li><a href="/ssgc/20230812/1919429.md">北京龙气散尽 改朝换代就在眼前</a></li>
-<li><a href="/baitai/20230812/1919180.md">传中国两年内取消私立学校</a></li>
 <li><a href="/cbnews/20230812/1919329.md">〖兲朝浮世绘〗李毅、金灿荣都开始反水 难道是被中共遗弃了？</a></li>
 <li><a href="/sohnews/20230812/1919178.md">为什么习近平一定要弄死徐才厚？不是单纯政治因素，还与三个女人相关！</a></li>
 <li><a href="/topimagenews/20230812/1919418.md">大惊 中共印钞机废了 中国银行放贷数量激降9成</a></li>
-<li><a href="/baitai/20230812/1919433.md">中国金融圈深夜炸雷 学者预警来日大难</a></li>
 <li><a href="/yule/20230812/1919302.md">梁朝伟疑偷吃小25岁女星 日本置产还有私生子</a></li>
+<li><a href="/baitai/20230812/1919433.md">中国金融圈深夜炸雷 学者预警来日大难</a></li>
 <li><a href="/topimagenews/20230812/1919354.md">敏感时刻晒习近平“金句” 新华社低级红高级黑？【阿波罗网报道】</a></li>
 <li><a href="/comments/20230812/1919417.md">文昭：切记不要搞错了！中国关闭国门、人们不能出国，会在这个时刻到来</a></li>
 <li><a href="/cbnews/20230812/1919221.md">11中国大妈坚持“水上跳广场舞较美”被冲走酿7死</a></li>
-<li><a href="/ssgc/20230812/1919229.md">〖微博谈〗但明天呢？</a></li>
-<li><a href="/cnnews/20230812/1919255.md">金融圈炸锅 中国版雷曼要来？爆雷规模达3千500亿！【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230812/1919266.md">这水很深有猫腻:3干部与人妻夜泳,她溺毙3人逃离</a></li>
 <li><a href="/comments/20230812/1919464.md">【独家重磅】李燕铭：习近平北戴河会前抄底江泽民老家 李源潮情妇被查 南京苏州两高官应声落马 习部署决战江曾 彭丽媛老乡王岐山陈希旧部受命清洗江苏帮 曾三年清洗吉林帮逾百厅官 习近平决战江曾（103） 江泽民死江家族被清洗（28） 江泽民江苏帮政变谋刺习近平习绝地反击（36） 习近平连任后大清洗（64） 北戴河会议大战内幕（85） 中南海政变与反政变（110）</a></li>
+<li><a href="/ssgc/20230812/1919229.md">〖微博谈〗但明天呢？</a></li>
+<li><a href="/cbnews/20230812/1919266.md">这水很深有猫腻:3干部与人妻夜泳,她溺毙3人逃离</a></li>
+<li><a href="/cnnews/20230812/1919255.md">金融圈炸锅 中国版雷曼要来？爆雷规模达3千500亿！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230812/1919377.md">田地挖到生锈铁剑！重庆农民磨成菜刀切菜 专家惊：是清朝“青龙剑”</a></li>
 <li><a href="/topimagenews/20230812/1919381.md">不只电动车？！吴子嘉曝拜登谋算：想歼灭中共“2领域”发展</a></li>
 <li><a href="/sports/20230812/1919352.md">网上疯传:奥运冠军邓亚萍涉贪腐,被带走调查</a></li>
 <li><a href="/topimagenews/20230812/1919288.md">拜登突喊中共是定时炸弹 背后不寻常 细思极恐</a></li>
+<li><a href="/ccpdope/20230812/1919330.md">中共内斗很精彩 习近平不去灾区只为躲暗杀</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230813/1919515.md" target="_blank">陈思敏：北京老牌IVD公司贱卖案中案</a></li>
+<li><a href="/comments/20230813/1919514.md" target="_blank">金言：北京龙气散尽 改朝换代就在眼前</a></li>
+<li><a href="/comments/20230813/1919513.md" target="_blank">王赫：沙尘暴、“杜苏芮”台风与“天意”</a></li>
 <li><a href="/comments/20230812/1919464.md" target="_blank">【独家重磅】李燕铭：习近平北戴河会前抄底江泽民老家 李源潮情妇被查 南京苏州两高官应声落马 习部署决战江曾 彭丽媛老乡王岐山陈希旧部受命清洗江苏帮 曾三年清洗吉林帮逾百厅官 习近平决战江曾（103） 江泽民死江家族被清洗（28） 江泽民江苏帮政变谋刺习近平习绝地反击（36） 习近平连任后大清洗（64） 北戴河会议大战内幕（85） 中南海政变与反政变（110）</a></li>
 <li><a href="/comments/20230812/1919449.md" target="_blank">上海最大移民中介老板被抓；华人不要再两边跑了！伦敦涂鸦墙事件是“半扇门楣裱真情”；灾祸频发下民众的三重自救 ｜#方菲时间 08/12</a></li>
 <li><a href="/comments/20230812/1919441.md" target="_blank">前国会警察局长桑德，接受卡尔森专访，还原1.6事件真相。#国会警察局长 #桑德 #卡尔森</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230812/1919159.md" target="_blank">邓英士：孔子治世之道</a></li>
 <li><a href="/comments/20230812/1919158.md" target="_blank">郑涛：铲除中共恶魔，重塑光明未来</a></li>
 <li><a href="/comments/20230812/1919157.md" target="_blank">杨宁：温州黄氏男儿签下生死状保祠堂的启示</a></li>
-<li><a href="/comments/20230812/1919156.md" target="_blank">网海拾贝:如今党国很缺钱，要斩一批肥鹅</a></li>
-<li><a href="/comments/20230812/1919155.md" target="_blank">袁斌：满朝文武，谁会绝对忠诚习近平？</a></li>
-<li><a href="/comments/20230812/1919059.md" target="_blank">《封神演义》第十七回 苏妲己置造虿盆</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
 <li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
 <li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
 
 </ul>
 </div>
