@@ -23,11 +23,11 @@
 <li><a href="/ssgc/20230811/1919052.md">美国商务部就中国解除旅游团赴美的限制发表声明</a></li>
 <li><a href="/topimagenews/20230812/1919153.md">拜登发出备战信号 后果将“难以想像”</a></li>
 <li><a href="/cbnews/20230812/1919221.md">11中国大妈坚持“水上跳广场舞较美”被冲走酿7死</a></li>
-<li><a href="/cbnews/20230812/1919115.md">留学3年回国见前男友准备跟妈妈求婚 她吓傻了</a></li>
 <li><a href="/ssgc/20230812/1919229.md">〖微博谈〗但明天呢？</a></li>
+<li><a href="/cbnews/20230812/1919115.md">留学3年回国见前男友准备跟妈妈求婚 她吓傻了</a></li>
 <li><a href="/cnnews/20230812/1919255.md">金融圈炸锅 中国版雷曼要来？爆雷规模达3千500亿！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230812/1919152.md">6比6！ 中日舰艇台湾海峡对峙</a></li>
-<li><a href="/cbnews/20230812/1919266.md">这水很深有猫腻:3干部与人妻夜泳,她溺毙3人逃离</a></li>
+<li><a href="/topimagenews/20230812/1919354.md">敏感时刻晒习近平“金句” 新华社低级红高级黑？【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230812/1919441.md" target="_blank">前国会警察局长桑德，接受卡尔森专访，还原1.6事件真相。#国会警察局长 #桑德 #卡尔森</a></li>
+<li><a href="/cbnews/20230812/1919439.md" target="_blank">江峰：佳能撤厂发钜额补贴，原因在这</a></li>
 <li><a href="/cbnews/20230812/1919371.md" target="_blank">云南3岁弟鼻血流不停 奶奶误信偏方 鼻腔糜烂休克险死 医给3止血法</a></li>
 <li><a href="/cbnews/20230812/1919339.md" target="_blank">对比热络出国 陆Q1境外旅客仅5.2万人 华尔街日报：外国人不去中国了</a></li>
 <li><a href="/cbnews/20230812/1919331.md" target="_blank">江峰：谁是大特务？习近平为美国对华资本限制令提供三大领域标靶！麻生太郎出访台湾，级别之高都够中共打导弹抗议了，却罕见沉默，独家内幕深度揭露【江峰漫谈20230811第711期】</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20230811/1918736.md" target="_blank">川普越打压越受欢迎。盛赞诺姆，巧讽克里斯蒂。徳桑蒂斯临阵换竞选经理。#川普 #徳桑蒂斯 #共和党初选</a></li>
 <li><a href="/comments/20230811/1918734.md" target="_blank">王维洛：北京门头沟洪水的根本原因是对永定河的改造；雄安排水能力号称远高北京，但不敢给出暴雨公式；海绵城市是中共又一面子工程 ｜王维洛谈北京洪灾（上）｜#方菲时间</a></li>
 <li><a href="/cbnews/20230811/1918676.md" target="_blank">容海恩现象：国安法下香港议员的“大义灭亲”与家庭关系变迁</a></li>
-<li><a href="/cbnews/20230810/1918532.md" target="_blank">江峰：他们击败了俄罗斯 现开始对中共开战</a></li>
-<li><a href="/comments/20230810/1918519.md" target="_blank">史密斯秘密搜查令，马斯克拒执行被罚35万。拜登银行账单公布，原来都是真的！#马斯克 #拜登 #史密斯</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230812/1919441.md" target="_blank">前国会警察局长桑德，接受卡尔森专访，还原1.6事件真相。#国会警察局长 #桑德 #卡尔森</a></li>
 <li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
 <li><a href="/comments/20230812/1919423.md" target="_blank">袁红冰：《回归荒凉》（九）</a></li>
 <li><a href="/comments/20230812/1919422.md" target="_blank">渖涧松：她那年十九岁（连载一）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230812/1919059.md" target="_blank">《封神演义》第十七回 苏妲己置造虿盆</a></li>
 <li><a href="/comments/20230811/1919054.md" target="_blank">时事大家谈：领英败退中国，美国商界精英看中共为何次次走眼？&#160;</a></li>
 <li><a href="/comments/20230811/1919053.md" target="_blank">时事大家谈：千亿富豪姚振华被当街群殴，当局为何不表态不行动？</a></li>
-<li><a href="/comments/20230811/1919037.md" target="_blank">时事大家谈：千亿富豪姚振华被当街群殴，当局为何不表态不行动？领英败退中国，美国商界精英看中共为何次次走眼？&#160;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
 
 </ul>
 </div>
