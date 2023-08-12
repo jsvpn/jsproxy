@@ -12,19 +12,19 @@
 <li><a href="/topimagenews/20230811/1918903.md">比印度神童还准? 习近平亡国“三个陷阱”全应验！通缩危机引政权动摇</a></li>
 <li><a href="/topimagenews/20230811/1918777.md">【微博精粹】弃千年古城涿州 保千年一梦雄安</a></li>
 <li><a href="/baitai/20230811/1918810.md">爆料：中国前奥运金牌得主涉贪被调查 影响超李铁</a></li>
-<li><a href="/ssgc/20230811/1918756.md">〖微博谈〗现如今只不过是法宝再用</a></li>
 <li><a href="/topimagenews/20230811/1918829.md">中国经济极度危险！美智库喂解药先毒杀中共【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20230811/1918756.md">〖微博谈〗现如今只不过是法宝再用</a></li>
 <li><a href="/cnnews/20230811/1918907.md">说啥也没人信了！中共正在咀嚼自己种下的苦果【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230811/1919045.md">🔥火箭军泄密民间传开 内部人士看美军详细报告：倒吸冷气；卖命中共！多重身份纽约侨领被捕；中国为何没有？台湾先进微滞洪遍地开花 美丽防灾共存！认怂？马斯克：和札克伯格“铁笼辩论”也不错</a></li>
 <li><a href="/sohnews/20230811/1918978.md">习近平的新名号</a></li>
 <li><a href="/baitai/20230811/1918971.md">NASA为什么急于删除这张图像？难道是火星上的外星飞船？</a></li>
 <li><a href="/topimagenews/20230812/1919065.md">江苏扬州强拆激怒住户 开车直撞执法队 现场视频流出【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230812/1919137.md">一个大时代到来！习端掉白手套中转站 有意让这特权阶级返贫【阿波罗网报道】</a></li>
 <li><a href="/yule/20230811/1918879.md">知名女星看破红尘出家 罕见露面变慈眉善目</a></li>
+<li><a href="/cnnews/20230811/1918850.md">明星幼儿园女老师出轨学生爸 惨被正宫游街示众</a></li>
 <li><a href="/ssgc/20230811/1918973.md">来日大难：李嘉诚甩卖新盘的微言大义</a></li>
 <li><a href="/headline/20230811/1918933.md">澳籍华人成蕾被中国拘留三年 首发公开信：每年只有10小时站在阳光下</a></li>
 <li><a href="/cnnews/20230811/1918773.md">最严厉警告：拜登称中国为“定时炸弹”</a></li>
-<li><a href="/cnnews/20230811/1918850.md">明星幼儿园女老师出轨学生爸 惨被正宫游街示众</a></li>
-<li><a href="/topimagenews/20230812/1919137.md">一个大时代到来！习端掉白手套中转站 有意让这特权阶级返贫【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230811/1918981.md">拜登发最严厉警告 习复制毛诡计掀起新运动</a></li>
 <li><a href="/lifebaike/20230811/1918831.md">手机的监听开关要关闭，不然你看过什么，大数据就给你推送什么</a></li>
 <li><a href="/funmedia/20230811/1918759.md">“男不娶五，娶五命苦；女不嫁六，嫁六福休</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
 <li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 
 </ul>
 </div>
