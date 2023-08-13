@@ -16,13 +16,13 @@
 <li><a href="/comments/20230813/1919521.md">谁真正控制按钮？高层异动 中共向国际传达信号</a></li>
 <li><a href="/ccpdope/20230813/1919481.md">半月内十大麻烦来袭 中共开启垮台模式？</a></li>
 <li><a href="/cbnews/20230813/1919627.md">金主杀网美“再奸尸割下体” 想赔钱换命</a></li>
-<li><a href="/worldnews/20230813/1919545.md">蜘蛛咬一口“连续2天金枪不倒” 秘鲁水电工哀号</a></li>
 <li><a href="/sohnews/20230813/1919510.md">【新闻烽火台8/11】北戴河会议危机四伏 中共如何活？｜横河 David</a></li>
-<li><a href="/headline/20230813/1919509.md">中国地方政府债务超过94万亿 北京派出工作组&quot;查帐&quot;</a></li>
-<li><a href="/cnnews/20230813/1919499.md">跑路大捷 李嘉诚扔大雷 港媒曝首轮超额认购60倍</a></li>
-<li><a href="/topimagenews/20230813/1919651.md">美国签证重回“地狱难度”？赴美留学生一举动 或面临十年监禁</a></li>
-<li><a href="/ssgc/20230813/1919623.md">〖微博谈〗这也是一种倔强吧</a></li>
+<li><a href="/worldnews/20230813/1919545.md">蜘蛛咬一口“连续2天金枪不倒” 秘鲁水电工哀号</a></li>
 <li><a href="/topimagenews/20230813/1919679.md">谢金河：李嘉诚开第一枪 是大变化的起点！当年出清这国 结局...</a></li>
+<li><a href="/headline/20230813/1919509.md">中国地方政府债务超过94万亿 北京派出工作组&quot;查帐&quot;</a></li>
+<li><a href="/ssgc/20230813/1919623.md">〖微博谈〗这也是一种倔强吧</a></li>
+<li><a href="/topimagenews/20230813/1919651.md">美国签证重回“地狱难度”？赴美留学生一举动 或面临十年监禁</a></li>
+<li><a href="/cnnews/20230813/1919499.md">跑路大捷 李嘉诚扔大雷 港媒曝首轮超额认购60倍</a></li>
 <li><a href="/finance/20230813/1919543.md">郑州高中生继承百万房产“半价卖掉” 原因傻眼</a></li>
 <li><a href="/comments/20230813/1919514.md">金言：北京龙气散尽 改朝换代就在眼前</a></li>
 <li><a href="/sohnews/20230813/1919474.md">🔥人民日报造反? 习近平缺席灾区；一盘大棋：习大比拼毛泽东；中共当局危机四伏 致命威胁如影随形；马斯克与扎克伯格“约架”场地定下：史诗级地点【阿波罗网AL】</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230813/1919754.md" target="_blank">初战爱荷华，川普亮相博览会，其他候选人顿时黯然失色！#爱荷华 #州博览会 #川普</a></li>
+<li><a href="/cbnews/20230813/1919750.md" target="_blank">江峰：习近平也要做蛋炒饭了 #习近平</a></li>
 <li><a href="/comments/20230813/1919745.md" target="_blank">爆笑！中共国的新苏联笑话：啥啥啥&#8230; #方菲时间 #中国经济 #台海</a></li>
 <li><a href="/cbnews/20230813/1919640.md" target="_blank">江峰：克里米亚大桥遭S200袭击，失败还是试探？格拉西莫夫下达密令：军事间谍渗透空降军要叛乱；俄军官揭俄军造假；卢布活成了笑话，习被普京拖下水，拜登称中共经济是定时炸弹【江峰·视界20230812第28期】</a></li>
 <li><a href="/cbnews/20230813/1919627.md" target="_blank">金主杀网美“再奸尸割下体” 想赔钱换命</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/comments/20230812/1919187.md" target="_blank">王维洛：中共对海河流域的改造是最彻底的，党指挥水，想淹哪里就淹哪里；为何泄洪不预警？地势高的涿州如何为地势低的雄安分洪 ｜ 王维洛谈北京洪灾（下）｜#方菲时间</a></li>
 <li><a href="/cbnews/20230812/1919145.md" target="_blank">江峰：最近在海外的最好别回来了</a></li>
 <li><a href="/cbnews/20230812/1919136.md" target="_blank">美国思想领袖：【精彩片段】中共开打生化超限战？实验室地点悬疑 美国有关部门是否太大意？- #新闻大家谈</a></li>
-<li><a href="/cbnews/20230812/1919115.md" target="_blank">留学3年回国见前男友准备跟妈妈求婚 她吓傻了</a></li>
-<li><a href="/cbnews/20230812/1919112.md" target="_blank">美国思想领袖：【精彩片段】加州仓库惊现病毒实验室 涉事公司是谁？背後有无政治力量介入？- #新闻大家谈</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230813/1919754.md" target="_blank">初战爱荷华，川普亮相博览会，其他候选人顿时黯然失色！#爱荷华 #州博览会 #川普</a></li>
 <li><a href="/comments/20230813/1919745.md" target="_blank">爆笑！中共国的新苏联笑话：啥啥啥&#8230; #方菲时间 #中国经济 #台海</a></li>
 <li><a href="/comments/20230813/1919737.md" target="_blank">中国3财政官员曝秘辛 网上爆红后遭速删</a></li>
 <li><a href="/comments/20230813/1919736.md" target="_blank">习近平持续隐身 分析：中南海另类泄洪覆盖全国</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230813/1919519.md" target="_blank">文昭：一分钟解释透彻：为何无比忠诚的你，也是祖国眼中潜在的间谍？</a></li>
 <li><a href="/comments/20230813/1919515.md" target="_blank">陈思敏：北京老牌IVD公司贱卖案中案</a></li>
 <li><a href="/comments/20230813/1919514.md" target="_blank">金言：北京龙气散尽 改朝换代就在眼前</a></li>
-<li><a href="/comments/20230813/1919513.md" target="_blank">王赫：沙尘暴、“杜苏芮”台风与“天意”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
 
 </ul>
 </div>
