@@ -10,24 +10,24 @@
 <li><a href="/ssgc/20230812/1919429.md">北京龙气散尽 改朝换代就在眼前</a></li>
 <li><a href="/sohnews/20230812/1919178.md">为什么习近平一定要弄死徐才厚？不是单纯政治因素，还与三个女人相关！</a></li>
 <li><a href="/cbnews/20230812/1919329.md">〖兲朝浮世绘〗李毅、金灿荣都开始反水 难道是被中共遗弃了？</a></li>
-<li><a href="/yule/20230812/1919302.md">梁朝伟疑偷吃小25岁女星 日本置产还有私生子</a></li>
 <li><a href="/topimagenews/20230812/1919418.md">大惊 中共印钞机废了 中国银行放贷数量激降9成</a></li>
 <li><a href="/baitai/20230812/1919433.md">中国金融圈深夜炸雷 学者预警来日大难</a></li>
 <li><a href="/topimagenews/20230812/1919354.md">敏感时刻晒习近平“金句” 新华社低级红高级黑？【阿波罗网报道】</a></li>
 <li><a href="/comments/20230812/1919417.md">文昭：切记不要搞错了！中国关闭国门、人们不能出国，会在这个时刻到来</a></li>
 <li><a href="/comments/20230812/1919464.md">【独家重磅】李燕铭：习近平北戴河会前抄底江泽民老家 李源潮情妇被查 南京苏州两高官应声落马 习部署决战江曾 彭丽媛老乡王岐山陈希旧部受命清洗江苏帮 曾三年清洗吉林帮逾百厅官 习近平决战江曾（103） 江泽民死江家族被清洗（28） 江泽民江苏帮政变谋刺习近平习绝地反击（36） 习近平连任后大清洗（64） 北戴河会议大战内幕（85） 中南海政变与反政变（110）</a></li>
 <li><a href="/cnnews/20230812/1919377.md">田地挖到生锈铁剑！重庆农民磨成菜刀切菜 专家惊：是清朝“青龙剑”</a></li>
-<li><a href="/topimagenews/20230812/1919381.md">不只电动车？！吴子嘉曝拜登谋算：想歼灭中共“2领域”发展</a></li>
 <li><a href="/sports/20230812/1919352.md">网上疯传:奥运冠军邓亚萍涉贪腐,被带走调查</a></li>
-<li><a href="/topimagenews/20230812/1919288.md">拜登突喊中共是定时炸弹 背后不寻常 细思极恐</a></li>
+<li><a href="/topimagenews/20230812/1919381.md">不只电动车？！吴子嘉曝拜登谋算：想歼灭中共“2领域”发展</a></li>
 <li><a href="/yule/20230812/1919355.md">梁朝伟被传和女星日本生子 刘嘉玲PO照泄心声</a></li>
-<li><a href="/baitai/20230812/1919424.md">秦刚还好吗 谢锋摔伤后现状首度曝光</a></li>
 <li><a href="/baitai/20230812/1919452.md">突发：美中增加航班</a></li>
-<li><a href="/comments/20230812/1919449.md">上海最大移民中介老板被抓；华人不要再两边跑了！伦敦涂鸦墙事件是“半扇门楣裱真情”；灾祸频发下民众的三重自救 ｜#方菲时间 08/12</a></li>
 <li><a href="/ccpdope/20230813/1919481.md">半月内十大麻烦来袭 中共开启垮台模式？</a></li>
+<li><a href="/baitai/20230812/1919424.md">秦刚还好吗 谢锋摔伤后现状首度曝光</a></li>
+<li><a href="/comments/20230812/1919449.md">上海最大移民中介老板被抓；华人不要再两边跑了！伦敦涂鸦墙事件是“半扇门楣裱真情”；灾祸频发下民众的三重自救 ｜#方菲时间 08/12</a></li>
 <li><a href="/baitai/20230812/1919461.md">余杰：习近平最恐惧的事情是什麽？</a></li>
 <li><a href="/ccpdope/20230812/1919330.md">中共内斗很精彩 习近平不去灾区只为躲暗杀</a></li>
+<li><a href="/headline/20230813/1919512.md">拜登尖锐评价习近平用意何在</a></li>
 <li><a href="/cnnews/20230813/1919499.md">跑路大捷 李嘉诚扔大雷 港媒曝首轮超额认购60倍</a></li>
+<li><a href="/cnnews/20230812/1919334.md">江西旅游住旅馆开抽屉竟发现“10万纸钞” 男子急报警才知险落入圈套</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230813/1919640.md" target="_blank">江峰：克里米亚大桥遭S200袭击，失败还是试探？格拉西莫夫下达密令：军事间谍渗透空降军要叛乱；俄军官揭俄军造假；卢布活成了笑话，习被普京拖下水，拜登称中共经济是定时炸弹【江峰·视界20230812第28期】</a></li>
 <li><a href="/cbnews/20230813/1919627.md" target="_blank">金主杀网美“再奸尸割下体” 想赔钱换命</a></li>
 <li><a href="/cbnews/20230813/1919584.md" target="_blank">出租房变垃圾山长蛆 山东女租客仍淡定滑手机</a></li>
 <li><a href="/comments/20230813/1919575.md" target="_blank">【杰森视角】中共做大税收的办法超出一般人的智商！解开中共地方财政诡秘运作内幕！中国医药行业遭报应，有原因！习近平建立官吏内卷机制！海归成为中国人眼里‘行走的50万’？中国现在谁是安全的？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230812/1919115.md" target="_blank">留学3年回国见前男友准备跟妈妈求婚 她吓傻了</a></li>
 <li><a href="/cbnews/20230812/1919112.md" target="_blank">美国思想领袖：【精彩片段】加州仓库惊现病毒实验室 涉事公司是谁？背後有无政治力量介入？- #新闻大家谈</a></li>
 <li><a href="/comments/20230811/1918986.md" target="_blank">地球五大龙脉，根基都在瑶池这，竟在人间这样显现？！抓到一点，就发达了！｜ #未解之谜 扶摇</a></li>
-<li><a href="/comments/20230811/1918976.md" target="_blank">如何赢2024？有一环节不能忽视。迟到3年的调查报告，揭民主党竞选黑幕。班农提出严厉警告。#</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
 <li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 <li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
 
 </ul>
 </div>
