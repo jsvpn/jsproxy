@@ -16,10 +16,10 @@
 <li><a href="/headline/20230813/1919512.md">拜登尖锐评价习近平用意何在</a></li>
 <li><a href="/baitai/20230812/1919452.md">突发：美中增加航班</a></li>
 <li><a href="/comments/20230812/1919449.md">上海最大移民中介老板被抓；华人不要再两边跑了！伦敦涂鸦墙事件是“半扇门楣裱真情”；灾祸频发下民众的三重自救 ｜#方菲时间 08/12</a></li>
+<li><a href="/sohnews/20230813/1919659.md">习即将发动金门马祖战争，战时状态下的民众出路，刀郎终于因罗刹海市被封杀。《老灯开讲第358期》</a></li>
 <li><a href="/comments/20230813/1919521.md">谁真正控制按钮？高层异动 中共向国际传达信号</a></li>
 <li><a href="/ccpdope/20230813/1919481.md">半月内十大麻烦来袭 中共开启垮台模式？</a></li>
 <li><a href="/baitai/20230812/1919424.md">秦刚还好吗 谢锋摔伤后现状首度曝光</a></li>
-<li><a href="/sohnews/20230813/1919659.md">习即将发动金门马祖战争，战时状态下的民众出路，刀郎终于因罗刹海市被封杀。《老灯开讲第358期》</a></li>
 <li><a href="/cbnews/20230813/1919627.md">金主杀网美“再奸尸割下体” 想赔钱换命</a></li>
 <li><a href="/worldnews/20230813/1919545.md">蜘蛛咬一口“连续2天金枪不倒” 秘鲁水电工哀号</a></li>
 <li><a href="/sohnews/20230813/1919510.md">【新闻烽火台8/11】北戴河会议危机四伏 中共如何活？｜横河 David</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/cnnews/20230813/1919499.md">跑路大捷 李嘉诚扔大雷 港媒曝首轮超额认购60倍</a></li>
 <li><a href="/ssgc/20230813/1919623.md">〖微博谈〗这也是一种倔强吧</a></li>
 <li><a href="/finance/20230813/1919543.md">郑州高中生继承百万房产“半价卖掉” 原因傻眼</a></li>
-<li><a href="/sohnews/20230813/1919474.md">🔥人民日报造反? 习近平缺席灾区；一盘大棋：习大比拼毛泽东；中共当局危机四伏 致命威胁如影随形；马斯克与扎克伯格“约架”场地定下：史诗级地点【阿波罗网AL】</a></li>
+<li><a href="/comments/20230813/1919514.md">金言：北京龙气散尽 改朝换代就在眼前</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230813/1919736.md" target="_blank">习近平持续隐身 分析：中南海另类泄洪覆盖全国</a></li>
+<li><a href="/comments/20230813/1919735.md" target="_blank">文昭：伦敦「社会主义核心价值观」涂鸦打脸事件，真的很社会主义价值观！【会员样片节选】</a></li>
 <li><a href="/comments/20230813/1919633.md" target="_blank">兽爷：消失的他们</a></li>
 <li><a href="/comments/20230813/1919632.md" target="_blank">亮见：院长书记都拿下，老百姓看病的问题就解决了吗？</a></li>
 <li><a href="/comments/20230813/1919631.md" target="_blank">“双备案”到“多备案”中共刁难律师变本加厉</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230813/1919513.md" target="_blank">王赫：沙尘暴、“杜苏芮”台风与“天意”</a></li>
 <li><a href="/comments/20230812/1919464.md" target="_blank">【独家重磅】李燕铭：习近平北戴河会前抄底江泽民老家 李源潮情妇被查 南京苏州两高官应声落马 习部署决战江曾 彭丽媛老乡王岐山陈希旧部受命清洗江苏帮 曾三年清洗吉林帮逾百厅官 习近平决战江曾（103） 江泽民死江家族被清洗（28） 江泽民江苏帮政变谋刺习近平习绝地反击（36） 习近平连任后大清洗（64） 北戴河会议大战内幕（85） 中南海政变与反政变（110）</a></li>
 <li><a href="/comments/20230812/1919449.md" target="_blank">上海最大移民中介老板被抓；华人不要再两边跑了！伦敦涂鸦墙事件是“半扇门楣裱真情”；灾祸频发下民众的三重自救 ｜#方菲时间 08/12</a></li>
-<li><a href="/comments/20230812/1919441.md" target="_blank">前国会警察局长桑德，接受卡尔森专访，还原1.6事件真相。#国会警察局长 #桑德 #卡尔森</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
 <li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
 <li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 
 </ul>
 </div>
