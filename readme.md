@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230812/1919353.md">北戴河会议习近平羞辱李强，共军将领集体“不服习”，仅八月以来就发生了太多大事。《老灯开讲第357期》</a></li>
 <li><a href="/ssgc/20230812/1919429.md">北京龙气散尽 改朝换代就在眼前</a></li>
 <li><a href="/baitai/20230812/1919433.md">中国金融圈深夜炸雷 学者预警来日大难</a></li>
 <li><a href="/topimagenews/20230812/1919418.md">大惊 中共印钞机废了 中国银行放贷数量激降9成</a></li>
@@ -13,21 +12,22 @@
 <li><a href="/comments/20230812/1919417.md">文昭：切记不要搞错了！中国关闭国门、人们不能出国，会在这个时刻到来</a></li>
 <li><a href="/comments/20230812/1919464.md">【独家重磅】李燕铭：习近平北戴河会前抄底江泽民老家 李源潮情妇被查 南京苏州两高官应声落马 习部署决战江曾 彭丽媛老乡王岐山陈希旧部受命清洗江苏帮 曾三年清洗吉林帮逾百厅官 习近平决战江曾（103） 江泽民死江家族被清洗（28） 江泽民江苏帮政变谋刺习近平习绝地反击（36） 习近平连任后大清洗（64） 北戴河会议大战内幕（85） 中南海政变与反政变（110）</a></li>
 <li><a href="/cnnews/20230812/1919377.md">田地挖到生锈铁剑！重庆农民磨成菜刀切菜 专家惊：是清朝“青龙剑”</a></li>
-<li><a href="/sports/20230812/1919352.md">网上疯传:奥运冠军邓亚萍涉贪腐,被带走调查</a></li>
+<li><a href="/sohnews/20230813/1919567.md">邓亚萍双规坐实？柯P令人忧心；台商的血与泪，参选人真为台湾好吗？【新闻看点 李沐阳8.12】</a></li>
 <li><a href="/headline/20230813/1919512.md">拜登尖锐评价习近平用意何在</a></li>
 <li><a href="/topimagenews/20230812/1919381.md">不只电动车？！吴子嘉曝拜登谋算：想歼灭中共“2领域”发展</a></li>
-<li><a href="/sohnews/20230813/1919567.md">邓亚萍双规坐实？柯P令人忧心；台商的血与泪，参选人真为台湾好吗？【新闻看点 李沐阳8.12】</a></li>
 <li><a href="/baitai/20230812/1919461.md">余杰：习近平最恐惧的事情是什麽？</a></li>
+<li><a href="/comments/20230813/1919521.md">谁真正控制按钮？高层异动 中共向国际传达信号</a></li>
 <li><a href="/yule/20230812/1919355.md">梁朝伟被传和女星日本生子 刘嘉玲PO照泄心声</a></li>
 <li><a href="/comments/20230812/1919449.md">上海最大移民中介老板被抓；华人不要再两边跑了！伦敦涂鸦墙事件是“半扇门楣裱真情”；灾祸频发下民众的三重自救 ｜#方菲时间 08/12</a></li>
-<li><a href="/comments/20230813/1919521.md">谁真正控制按钮？高层异动 中共向国际传达信号</a></li>
-<li><a href="/baitai/20230812/1919452.md">突发：美中增加航班</a></li>
 <li><a href="/ccpdope/20230813/1919481.md">半月内十大麻烦来袭 中共开启垮台模式？</a></li>
+<li><a href="/baitai/20230812/1919452.md">突发：美中增加航班</a></li>
 <li><a href="/baitai/20230812/1919424.md">秦刚还好吗 谢锋摔伤后现状首度曝光</a></li>
 <li><a href="/headline/20230813/1919509.md">中国地方政府债务超过94万亿 北京派出工作组&quot;查帐&quot;</a></li>
 <li><a href="/cnnews/20230813/1919499.md">跑路大捷 李嘉诚扔大雷 港媒曝首轮超额认购60倍</a></li>
 <li><a href="/sohnews/20230813/1919510.md">【新闻烽火台8/11】北戴河会议危机四伏 中共如何活？｜横河 David</a></li>
 <li><a href="/worldnews/20230813/1919545.md">蜘蛛咬一口“连续2天金枪不倒” 秘鲁水电工哀号</a></li>
+<li><a href="/comments/20230813/1919514.md">金言：北京龙气散尽 改朝换代就在眼前</a></li>
+<li><a href="/cnnews/20230812/1919367.md">90后“天才首富”被捕入狱,2300亿大案轰动全美</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
 
 </ul>
 </div>
