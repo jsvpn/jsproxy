@@ -10,24 +10,24 @@
 <li><a href="/comments/20230812/1919464.md">【独家重磅】李燕铭：习近平北戴河会前抄底江泽民老家 李源潮情妇被查 南京苏州两高官应声落马 习部署决战江曾 彭丽媛老乡王岐山陈希旧部受命清洗江苏帮 曾三年清洗吉林帮逾百厅官 习近平决战江曾（103） 江泽民死江家族被清洗（28） 江泽民江苏帮政变谋刺习近平习绝地反击（36） 习近平连任后大清洗（64） 北戴河会议大战内幕（85） 中南海政变与反政变（110）</a></li>
 <li><a href="/sohnews/20230813/1919567.md">邓亚萍双规坐实？柯P令人忧心；台商的血与泪，参选人真为台湾好吗？【新闻看点 李沐阳8.12】</a></li>
 <li><a href="/topimagenews/20230813/1919605.md">【微博精粹】习主席是102年来最被看好的终极灭共天才</a></li>
+<li><a href="/sohnews/20230813/1919659.md">习即将发动金门马祖战争，战时状态下的民众出路，刀郎终于因罗刹海市被封杀。《老灯开讲第358期》</a></li>
 <li><a href="/baitai/20230812/1919461.md">余杰：习近平最恐惧的事情是什麽？</a></li>
 <li><a href="/headline/20230813/1919512.md">拜登尖锐评价习近平用意何在</a></li>
-<li><a href="/sohnews/20230813/1919659.md">习即将发动金门马祖战争，战时状态下的民众出路，刀郎终于因罗刹海市被封杀。《老灯开讲第358期》</a></li>
 <li><a href="/baitai/20230812/1919452.md">突发：美中增加航班</a></li>
 <li><a href="/comments/20230812/1919449.md">上海最大移民中介老板被抓；华人不要再两边跑了！伦敦涂鸦墙事件是“半扇门楣裱真情”；灾祸频发下民众的三重自救 ｜#方菲时间 08/12</a></li>
-<li><a href="/comments/20230813/1919521.md">谁真正控制按钮？高层异动 中共向国际传达信号</a></li>
 <li><a href="/ccpdope/20230813/1919481.md">半月内十大麻烦来袭 中共开启垮台模式？</a></li>
-<li><a href="/baitai/20230812/1919424.md">秦刚还好吗 谢锋摔伤后现状首度曝光</a></li>
+<li><a href="/comments/20230813/1919521.md">谁真正控制按钮？高层异动 中共向国际传达信号</a></li>
 <li><a href="/cbnews/20230813/1919627.md">金主杀网美“再奸尸割下体” 想赔钱换命</a></li>
 <li><a href="/worldnews/20230813/1919545.md">蜘蛛咬一口“连续2天金枪不倒” 秘鲁水电工哀号</a></li>
 <li><a href="/sohnews/20230813/1919510.md">【新闻烽火台8/11】北戴河会议危机四伏 中共如何活？｜横河 David</a></li>
 <li><a href="/headline/20230813/1919509.md">中国地方政府债务超过94万亿 北京派出工作组&quot;查帐&quot;</a></li>
 <li><a href="/cnnews/20230813/1919499.md">跑路大捷 李嘉诚扔大雷 港媒曝首轮超额认购60倍</a></li>
 <li><a href="/ssgc/20230813/1919623.md">〖微博谈〗这也是一种倔强吧</a></li>
+<li><a href="/topimagenews/20230813/1919651.md">美国签证重回“地狱难度”？赴美留学生一举动 或面临十年监禁</a></li>
 <li><a href="/finance/20230813/1919543.md">郑州高中生继承百万房产“半价卖掉” 原因傻眼</a></li>
 <li><a href="/comments/20230813/1919514.md">金言：北京龙气散尽 改朝换代就在眼前</a></li>
 <li><a href="/sohnews/20230813/1919474.md">🔥人民日报造反? 习近平缺席灾区；一盘大棋：习大比拼毛泽东；中共当局危机四伏 致命威胁如影随形；马斯克与扎克伯格“约架”场地定下：史诗级地点【阿波罗网AL】</a></li>
-<li><a href="/topimagenews/20230813/1919651.md">美国签证重回“地狱难度”？赴美留学生一举动 或面临十年监禁</a></li>
+<li><a href="/headline/20230813/1919541.md">中国医疗界反腐风声鹤唳 甚至出现夫妻反目</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
 <li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
 <li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
 
 </ul>
 </div>
