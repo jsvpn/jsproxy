@@ -16,14 +16,14 @@
 <li><a href="/topimagenews/20230813/1919651.md">美国签证重回“地狱难度”？赴美留学生一举动 或面临十年监禁</a></li>
 <li><a href="/comments/20230813/1919736.md">习近平持续隐身 分析：中南海另类泄洪覆盖全国</a></li>
 <li><a href="/ccpdope/20230813/1919783.md">大难之前 李嘉诚发出一个政治信号</a></li>
-<li><a href="/topimagenews/20230813/1919650.md">军情六处：中共绝对是俄侵略帮凶 还助缅甸暴行</a></li>
 <li><a href="/finance/20230814/1919813.md">炸了！碧桂园突然宣布…</a></li>
+<li><a href="/topimagenews/20230813/1919650.md">军情六处：中共绝对是俄侵略帮凶 还助缅甸暴行</a></li>
 <li><a href="/topimagenews/20230813/1919663.md">山东潍坊高密开发区发生大爆炸 数人倒在地上【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230813/1919623.md">〖微博谈〗这也是一种倔强吧</a></li>
+<li><a href="/sohnews/20230814/1919796.md">“国务院突发24条！免勒索条款 吸引外商 ⋯”No.01（08/13/23）</a></li>
 <li><a href="/sohnews/20230814/1919787.md">“反台独抗议者全消失！全球懵菜：习近平出事儿啦？”《今日点击》（08/13/23）</a></li>
 <li><a href="/ssgc/20230813/1919779.md">中共即将灭亡 如何才能保命？</a></li>
 <li><a href="/lifebaike/20230813/1919708.md">客厅沙发选布的还是皮的好？听老师傅一说，懊悔没早知道</a></li>
-<li><a href="/sohnews/20230814/1919796.md">“国务院突发24条！免勒索条款 吸引外商 ⋯”No.01（08/13/23）</a></li>
 <li><a href="/topimagenews/20230813/1919660.md">你有枪吗？中国没枪的债权人 要不好过了</a></li>
 <li><a href="/cbnews/20230813/1919750.md">江峰：习近平也要做蛋炒饭了 #习近平</a></li>
 <li><a href="/comments/20230813/1919745.md">爆笑！中共国的新苏联笑话：啥啥啥... #方菲时间 #中国经济 #台海</a></li>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230814/1919863.md" target="_blank">乌克兰悲剧：“战场归来的丈夫变成了怪物”</a></li>
+<li><a href="/topimagenews/20230814/1919862.md" target="_blank">向习近平要人！全球各大城市同步发起大规模抗议【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230814/1919814.md" target="_blank">美国财政部将出新规 禁止匿名以现金购豪宅</a></li>
 <li><a href="/topimagenews/20230814/1919812.md" target="_blank">有人只剩下半身！山东某地突发爆炸</a></li>
 <li><a href="/topimagenews/20230813/1919679.md" target="_blank">谢金河：李嘉诚开第一枪 是大变化的起点！当年出清这国 结局&#8230;</a></li>
@@ -89,14 +91,16 @@
 <li><a href="/topimagenews/20230812/1919185.md" target="_blank">恶心极了！女药代X贿赂曝光：无T、松扣、随时…</a></li>
 <li><a href="/topimagenews/20230812/1919154.md" target="_blank">市长情妇贪污6359万被判死刑，睡遍整个行业</a></li>
 <li><a href="/topimagenews/20230812/1919153.md" target="_blank">拜登发出备战信号 后果将“难以想像”</a></li>
-<li><a href="/topimagenews/20230812/1919152.md" target="_blank">6比6！ 中日舰艇台湾海峡对峙</a></li>
-<li><a href="/topimagenews/20230812/1919137.md" target="_blank">一个大时代到来！习端掉白手套中转站 有意让这特权阶级返贫【阿波罗网报道】</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230814/1919870.md" target="_blank">中国白领陷入了“恐慌” 苏联笑话复兴</a></li>
+<li><a href="/comments/20230814/1919869.md" target="_blank">何清涟： 经济全球化 美中双引擎正分道扬镳</a></li>
+<li><a href="/comments/20230814/1919868.md" target="_blank">老外为什么不爱去中国旅游了</a></li>
+<li><a href="/comments/20230814/1919867.md" target="_blank">郑立：是想要尊重别人 才反对物化别人</a></li>
 <li><a href="/comments/20230814/1919836.md" target="_blank">“如果我们想要扼住其喉咙 中共真的无能为力”</a></li>
 <li><a href="/comments/20230814/1919835.md" target="_blank">性贿赂！医疗反腐整出热搜了</a></li>
 <li><a href="/comments/20230814/1919797.md" target="_blank">拍到宇宙问号？！</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230813/1919592.md" target="_blank">法轮功学员唱《为你而来》狱友一路掌声送别</a></li>
 <li><a href="/comments/20230813/1919575.md" target="_blank">【杰森视角】中共做大税收的办法超出一般人的智商！解开中共地方财政诡秘运作内幕！中国医药行业遭报应，有原因！习近平建立官吏内卷机制！海归成为中国人眼里‘行走的50万’？中国现在谁是安全的？</a></li>
 <li><a href="/comments/20230813/1919574.md" target="_blank">毕虎：“无政治立场”背后的政治立场</a></li>
-<li><a href="/comments/20230813/1919573.md" target="_blank">王庆民-以邻为壑的河北泄洪——简评泄洪的选址、方式、影响、善后</a></li>
-<li><a href="/comments/20230813/1919572.md" target="_blank">王维洛:北京永定河分洪加重河北省涿州市洪水灾害的实证</a></li>
-<li><a href="/comments/20230813/1919569.md" target="_blank">天亮时分：卡努登陆辽宁，丧钟为谁而鸣？美国三次救了中共，不会再有第四次了（YouTube会员节目第30集 20230812）</a></li>
-<li><a href="/comments/20230813/1919565.md" target="_blank">王友群：中共即将灭亡 如何才能保命？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
 <li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
 
 </ul>
 </div>
