@@ -7,15 +7,14 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/finance/20230814/1919813.md">炸了！碧桂园突然宣布…</a></li>
 <li><a href="/sohnews/20230814/1920011.md">陈破空：惊传胡锦涛去世！习近平秘不发丧？害怕引爆举国示威。秘召全国公安局长开会。赖清德访美，亲共团体罕见消失。反间谍法逼走特斯拉。一群大妈跳红舞，突然。直播：美东8月14日早8点30、中港台8月14晚8点30</a></li>
-<li><a href="/sohnews/20230814/1919787.md">“反台独抗议者全消失！全球懵菜：习近平出事儿啦？”《今日点击》（08/13/23）</a></li>
 <li><a href="/topimagenews/20230814/1919912.md">【微博精粹】拜登刚说完滴答作响的炸弹 扬州先炸了</a></li>
-<li><a href="/comments/20230814/1919835.md">性贿赂！医疗反腐整出热搜了</a></li>
 <li><a href="/topimagenews/20230814/1919862.md">向习近平要人！全球各大城市同步发起大规模抗议【阿波罗网报道】</a></li>
+<li><a href="/comments/20230814/1919835.md">性贿赂！医疗反腐整出热搜了</a></li>
 <li><a href="/topimagenews/20230814/1919812.md">有人只剩下半身！山东某地突发爆炸</a></li>
 <li><a href="/headline/20230814/1919804.md">聿文视界：北戴河、火箭军和习近平权力现状的评估</a></li>
+<li><a href="/topimagenews/20230814/1920034.md">不是断崖式下降是断流！外国对中国投资降剩1/20 专家:别再搞政治正确</a></li>
 <li><a href="/sohnews/20230814/1919796.md">“国务院突发24条！免勒索条款 吸引外商 ⋯”No.01（08/13/23）</a></li>
 <li><a href="/topimagenews/20230814/1919950.md">人民币将暴露废纸本相 严重威胁亿万中国人【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230814/1920034.md">不是断崖式下降是断流！外国对中国投资降剩1/20 专家:别再搞政治正确</a></li>
 <li><a href="/cbnews/20230814/1919941.md">〖兲朝浮世绘〗洋大爷们快来玩呀，这次绝对不玩仙人跳</a></li>
 <li><a href="/cbnews/20230814/1919885.md">山西卫浴店老板娘外出，万万没想到的一幕发生了…</a></li>
 <li><a href="/lifebaike/20230814/1919998.md">被“日本主妇”惊艳到了：不穿花裙子，少穿运动鞋，反而高级气质</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/headline/20230814/1919832.md">全民抓间谍让外商唯恐避之不及 中国公布24条欲挽救外资</a></li>
 <li><a href="/lifebaike/20230814/1920006.md">三等父母“讲道理”，二等父母“做规划”，一等父母这么做…</a></li>
 <li><a href="/cbnews/20230814/1919963.md">美国为对手准备了“晴天霹雳”</a></li>
+<li><a href="/baitai/20230814/1920084.md">中国经济史诗级崩塌 习或开始一场豪赌</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230815/1920170.md" target="_blank">时事大家谈：欧洲缺席一带一路峰会，北京未邀请还是请不来？</a></li>
+<li><a href="/comments/20230815/1920163.md" target="_blank">江苏盐城突刮龙卷风 酿2死15伤283农舍受损</a></li>
 <li><a href="/comments/20230815/1920161.md" target="_blank">《红孩儿十八赢》走红网络 中国摇滚“耳光乐队”遭中共全面封杀</a></li>
 <li><a href="/comments/20230814/1920157.md" target="_blank">时事大家谈：“坏人遇到麻烦会做坏事”，拜登为何说中国是“定时炸弹”？欧洲缺席一带一路峰会，北京未邀请还是请不来？</a></li>
 <li><a href="/comments/20230814/1920128.md" target="_blank">高智晟失踪六周年 声援集会全球展开</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230813/1919761.md" target="_blank">山东潍坊疑燃气爆炸 网疯传有人“头部被炸没了”</a></li>
 <li><a href="/comments/20230813/1919760.md" target="_blank">中国房地产开发商碧桂园 11档公司债停止交易 财务危机越演越烈</a></li>
 <li><a href="/comments/20230813/1919759.md" target="_blank">【新闻最嘲点】三代歌王争霸 香港的巨星时代</a></li>
-<li><a href="/comments/20230813/1919754.md" target="_blank">初战爱荷华，川普亮相博览会，其他候选人顿时黯然失色！#爱荷华 #州博览会 #川普</a></li>
-<li><a href="/comments/20230813/1919745.md" target="_blank">爆笑！中共国的新苏联笑话：啥啥啥&#8230; #方菲时间 #中国经济 #台海</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
 <li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
 
 </ul>
 </div>
