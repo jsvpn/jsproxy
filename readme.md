@@ -6,28 +6,28 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/baitai/20230815/1920275.md">医院病人排队抢着出院，连高干病房的都空了。各大医院被曝已经尽可能不做手术，主刀医生都被拖去审查【每日头条】</a></li>
-<li><a href="/finance/20230815/1920214.md">黄金急跌 中国传来更多坏消息</a></li>
 <li><a href="/baitai/20230815/1920288.md">坏人坏事习近平</a></li>
-<li><a href="/cnnews/20230815/1920226.md">网友出国 怀疑中国这条路“走错了 ”</a></li>
 <li><a href="/topimagenews/20230815/1920259.md">从秦刚事件、俄乌战争 看习近平敢不敢“武统”台湾？</a></li>
 <li><a href="/sohnews/20230815/1920433.md">国防部长李尚福突然访俄建立军事同盟，中纪委公布抓捕马朝旭亲属，山东莱州钢厂大爆炸死伤惨重。《老灯开讲第360期》</a></li>
 <li><a href="/finance/20230815/1920393.md">突然叫停统计青年失业率 中共给出这荒唐解释</a></li>
 <li><a href="/topimagenews/20230815/1920363.md">美国封印大陆芯片业 接下来打电动车？他爆比亚迪的“华为时刻”到了</a></li>
 <li><a href="/ssgc/20230815/1920286.md">〖微博谈〗问题根本不是经济方面</a></li>
 <li><a href="/cbnews/20230815/1920386.md">〖兲朝浮世绘〗真正的奇迹发生在美国的夏威夷毛伊岛</a></li>
-<li><a href="/sohnews/20230815/1920437.md">32岁复旦女博士临终遗言：人这一生，最该看透两件事，无数人看一次哭一次｜传统文化｜知识分享｜人生智慧 【晨曦晓屋】</a></li>
 <li><a href="/sohnews/20230815/1920430.md">习近平北戴河密会 形势严峻束手无策</a></li>
+<li><a href="/sohnews/20230815/1920437.md">32岁复旦女博士临终遗言：人这一生，最该看透两件事，无数人看一次哭一次｜传统文化｜知识分享｜人生智慧 【晨曦晓屋】</a></li>
 <li><a href="/comments/20230815/1920336.md">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
 <li><a href="/sohnews/20230815/1920448.md">向习近平要人</a></li>
-<li><a href="/sohnews/20230815/1920348.md">红二代发力官媒“群黑”，习近平成一面破鼓？中国不久将变革？灾后定损无期，屋内蝇虫遍地；台商30年的感悟，权钱女色攻心【新闻看点 李沐阳8.14】</a></li>
 <li><a href="/sohnews/20230815/1920277.md">暴跌59%！死亡螺旋加恶性循环，再出多少条政策也没用了……</a></li>
+<li><a href="/sohnews/20230815/1920348.md">红二代发力官媒“群黑”，习近平成一面破鼓？中国不久将变革？灾后定损无期，屋内蝇虫遍地；台商30年的感悟，权钱女色攻心【新闻看点 李沐阳8.14】</a></li>
 <li><a href="/topimagenews/20230815/1920346.md">【微博精粹】沉船时刻——慢镜头</a></li>
 <li><a href="/comments/20230815/1920459.md">惊现 李白真迹！</a></li>
+<li><a href="/comments/20230815/1920451.md">中共国安部：云南学校退休干部拟组敢死队颠覆政权</a></li>
 <li><a href="/sohnews/20230815/1920438.md">中共官场贪腐全景！五大特色：没有他们做不到的，只有你想不到的⋯⋯｜ #百年真相</a></li>
 <li><a href="/finance/20230815/1920234.md">中国经济遭遇决定性打击？担忧扩大</a></li>
-<li><a href="/comments/20230815/1920451.md">中共国安部：云南学校退休干部拟组敢死队颠覆政权</a></li>
 <li><a href="/comments/20230815/1920366.md">颜纯鈎：大崩溃… 这一天不会太远了</a></li>
 <li><a href="/sohnews/20230815/1920422.md">当局下封口令 数据严重失真</a></li>
+<li><a href="/topimagenews/20230815/1920362.md">拜登投资禁令杀大陆！被毁掉的竟是香港 专家爆残酷真相</a></li>
+<li><a href="/sohnews/20230815/1920429.md">医药代表潜规则 “54321返利”曝光</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 <li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
 
 </ul>
 </div>
