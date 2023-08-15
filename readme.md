@@ -8,14 +8,14 @@
 <li><a href="/sohnews/20230814/1920011.md">陈破空：惊传胡锦涛去世！习近平秘不发丧？害怕引爆举国示威。秘召全国公安局长开会。赖清德访美，亲共团体罕见消失。反间谍法逼走特斯拉。一群大妈跳红舞，突然。直播：美东8月14日早8点30、中港台8月14晚8点30</a></li>
 <li><a href="/topimagenews/20230814/1919950.md">人民币将暴露废纸本相 严重威胁亿万中国人【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230814/1920034.md">不是断崖式下降是断流！外国对中国投资降剩1/20 专家:别再搞政治正确</a></li>
-<li><a href="/lifebaike/20230814/1919998.md">被“日本主妇”惊艳到了：不穿花裙子，少穿运动鞋，反而高级气质</a></li>
 <li><a href="/baitai/20230814/1920084.md">中国经济史诗级崩塌 习或开始一场豪赌</a></li>
+<li><a href="/lifebaike/20230814/1919998.md">被“日本主妇”惊艳到了：不穿花裙子，少穿运动鞋，反而高级气质</a></li>
 <li><a href="/baitai/20230815/1920201.md">网惊：这方向不对啊？专家：只有一种可能 习或准备动武【红朝禁闻】</a></li>
 <li><a href="/baitai/20230814/1920098.md">习近平一语成谶？美媒：北戴河不平静 习权大厦开始松动</a></li>
 <li><a href="/sohnews/20230814/1920020.md">莫言的家乡发生大爆炸，美军宣布与中共军队发生战争，医疗腐败是行政管理腐败。《老灯开讲第359期》</a></li>
+<li><a href="/baitai/20230815/1920275.md">医院病人排队抢着出院，连高干病房的都空了。各大医院被曝已经尽可能不做手术，主刀医生都被拖去审查【每日头条】</a></li>
 <li><a href="/topimagenews/20230814/1920117.md">其实是男生？大陆“这2位”女子运动员遭世界田径联会除名</a></li>
 <li><a href="/finance/20230815/1920214.md">黄金急跌 中国传来更多坏消息</a></li>
-<li><a href="/baitai/20230815/1920275.md">医院病人排队抢着出院，连高干病房的都空了。各大医院被曝已经尽可能不做手术，主刀医生都被拖去审查【每日头条】</a></li>
 <li><a href="/lifebaike/20230814/1920006.md">三等父母“讲道理”，二等父母“做规划”，一等父母这么做…</a></li>
 <li><a href="/cbnews/20230814/1919963.md">美国为对手准备了“晴天霹雳”</a></li>
 <li><a href="/cnnews/20230815/1920226.md">网友出国 怀疑中国这条路“走错了 ”</a></li>
@@ -26,7 +26,7 @@
 <li><a href="/cnnews/20230814/1919969.md">美国女子因“正能量”中文纹身 被知名餐厅拒了</a></li>
 <li><a href="/baitai/20230814/1920146.md">柴静携新片出山 《陌生人》预告一小时后即封禁！原因竟是这个？</a></li>
 <li><a href="/headline/20230815/1920184.md">美国网络安全官员警告：如果台海战事爆发，北京可能攻击美国关键基础设施</a></li>
-<li><a href="/topimagenews/20230814/1919991.md">胜负已分! 美祭出投资禁令 中共一句话泄了气【阿波罗网报道】</a></li>
+<li><a href="/finance/20230815/1920234.md">中国经济遭遇决定性打击？担忧扩大</a></li>
 <li><a href="/headline/20230814/1919974.md">罕见！山东省上空惊现完美轮辐状降水云系</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 <li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
 
 </ul>
 </div>
