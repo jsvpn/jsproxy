@@ -6,10 +6,8 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/sohnews/20230816/1920522.md">中共退休干部领导武装起义，丁薛祥说压力叠加已到关键期，中共垮台的三种路径。《老灯开讲第361期》</a></li>
-<li><a href="/sohnews/20230816/1920494.md">太奇怪！中融信托风暴无人管，习近平已躺平？中国大妈快哭了！上海黄金飙涨，专家揭原因；洪灾过后，灾民赔偿无望，被迫外出求生；又揪出“内鬼”，前大连政协主席被捕。</a></li>
 <li><a href="/topimagenews/20230816/1920587.md">协和医生全家赴美 在美机场被捕 面临20年刑期</a></li>
 <li><a href="/cbnews/20230816/1920604.md">暗伏巨大阴谋！新的一场政治运动开始了【阿波罗网报道】</a></li>
-<li><a href="/comments/20230816/1920493.md">央行降息，人民币再创新低：汇率还守得住吗？｜秦鹏 方菲 ｜新闻烽火台 08/15</a></li>
 <li><a href="/sohnews/20230816/1920535.md">辽宁政法委书记被查</a></li>
 <li><a href="/sohnews/20230816/1920503.md">一个清白的女孩被抹黑成荡妇，父亲被逼划开胸部“挖黑心”！令人发指的黑故事【欺世大观】233</a></li>
 <li><a href="/sohnews/20230816/1920553.md">陈破空：陈破空说段子：李强想去视察水灾，习近平不准。最后</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/comments/20230816/1920497.md">柴静新纪录片《陌生人》预告片在大陆被封杀</a></li>
 <li><a href="/sohnews/20230816/1920533.md">天灾不断 习近平继续隐身 灾区危险七常委无一现身</a></li>
 <li><a href="/worldnews/20230816/1920636.md">被北京激怒 菲律宾动手了</a></li>
+<li><a href="/comments/20230816/1920957.md">儿子实名举报亲爹 邓亚萍被队医曝黑幕</a></li>
+<li><a href="/funmedia/20230816/1920610.md">情绪稳定，是一个人的顶级魅力</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230817/1921269.md" target="_blank">钟原：北戴河聚会散场 没招勉强捧核心</a></li>
+<li><a href="/comments/20230817/1921268.md" target="_blank">新闻看点：习近平已预感崩溃</a></li>
+<li><a href="/comments/20230817/1921267.md" target="_blank">周晓辉：中共耍鬼心眼 被俄朝戳破</a></li>
+<li><a href="/comments/20230817/1921266.md" target="_blank">王赫：国际资金应加强防备中共“做坏事”</a></li>
+<li><a href="/comments/20230817/1921265.md" target="_blank">网海拾贝:中共国衰落的幽灵将带来大量新风险</a></li>
 <li><a href="/comments/20230817/1921262.md" target="_blank">文昭：统计局、央行多难穿帮，宣告大失控时代到来！铁拳怎样闪崩，有人示范过一次</a></li>
 <li><a href="/comments/20230817/1921260.md" target="_blank">间谍就在身边？经济崩塌下，中共抓间谍转移焦点；全民举报，株连三代，文革再现；川普被四度起诉｜唐靖远 薇羽 方伟 方菲 David</a></li>
 <li><a href="/comments/20230817/1921254.md" target="_blank">习近平隐身半月 丁薛祥代习讲话 中国经济全面示警</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230816/1920754.md" target="_blank">评论 &#8211; 陈破空：党媒越来越有趣，对习近平是赞还是黑？</a></li>
 <li><a href="/comments/20230816/1920753.md" target="_blank">评论 &#8211; 王丹：中国经济的未来：是&#8221;危机&#8221;还是&#8221;崩溃&#8221;？</a></li>
 <li><a href="/comments/20230816/1920752.md" target="_blank">评论 &#8211; 魏京生：习近平的障眼法 &#8211; 运动</a></li>
-<li><a href="/comments/20230816/1920684.md" target="_blank">王友群：继续迫害法轮功者死路一条</a></li>
-<li><a href="/comments/20230816/1920683.md" target="_blank">德媒：金融界危机不断 中国信托业巨头陷财务困境</a></li>
-<li><a href="/comments/20230816/1920682.md" target="_blank">英媒：失业率：中国停止发布青年失业数据，今年以来屡创历史新高</a></li>
-<li><a href="/comments/20230816/1920681.md" target="_blank">网络民议：如果不能数据向好，那就不公布数据</a></li>
-<li><a href="/comments/20230816/1920679.md" target="_blank">看世相:失业率居高不下的问题终于解决了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
 <li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
 
 </ul>
 </div>
