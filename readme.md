@@ -10,24 +10,24 @@
 <li><a href="/sohnews/20230815/1920430.md">习近平北戴河密会 形势严峻束手无策</a></li>
 <li><a href="/sohnews/20230815/1920437.md">32岁复旦女博士临终遗言：人这一生，最该看透两件事，无数人看一次哭一次｜传统文化｜知识分享｜人生智慧 【晨曦晓屋】</a></li>
 <li><a href="/sohnews/20230815/1920448.md">向习近平要人</a></li>
-<li><a href="/comments/20230815/1920459.md">惊现 李白真迹！</a></li>
 <li><a href="/comments/20230815/1920451.md">中共国安部：云南学校退休干部拟组敢死队颠覆政权</a></li>
+<li><a href="/comments/20230815/1920459.md">惊现 李白真迹！</a></li>
 <li><a href="/sohnews/20230816/1920488.md">中国经济断崖，人民币汇率大跌，习近平谋脱困要“干坏事”？美军史无前例出动6航母全球应变，李尚福密访两俄，“民主三国”对标“独裁三国”</a></li>
-<li><a href="/sohnews/20230815/1920438.md">中共官场贪腐全景！五大特色：没有他们做不到的，只有你想不到的⋯⋯｜ #百年真相</a></li>
 <li><a href="/sohnews/20230816/1920486.md">传中共公安也欠薪，地方政府没钱？编不了！青年失业率太高，官方拒发布数据；降息！人民币汇率急跌；抛售潮！中国股票不香了；反共“敢死队”，竟是老干部组织；急删！央视女主持复出，新片又被禁。</a></li>
+<li><a href="/sohnews/20230815/1920438.md">中共官场贪腐全景！五大特色：没有他们做不到的，只有你想不到的⋯⋯｜ #百年真相</a></li>
 <li><a href="/sohnews/20230815/1920422.md">当局下封口令 数据严重失真</a></li>
 <li><a href="/sohnews/20230815/1920429.md">医药代表潜规则 “54321返利”曝光</a></li>
+<li><a href="/sohnews/20230816/1920494.md">太奇怪！中融信托风暴无人管，习近平已躺平？中国大妈快哭了！上海黄金飙涨，专家揭原因；洪灾过后，灾民赔偿无望，被迫外出求生；又揪出“内鬼”，前大连政协主席被捕。</a></li>
 <li><a href="/sohnews/20230815/1920469.md">🔥大崩溃… 这一天不会太远了；国军美女飞行员多次驾战机驱离共军；川普第4度遭起诉 被控涉嫌推翻大选结果；啥信号？他坐上飞机出发去莫斯科 北京这才公布</a></li>
 <li><a href="/sohnews/20230815/1920454.md">最富公司都不捐！灾区捐款名单黑幕惊人｜ #时事金扫描 #金然</a></li>
+<li><a href="/comments/20230816/1920493.md">央行降息，人民币再创新低：汇率还守得住吗？｜秦鹏 方菲 ｜新闻烽火台 08/15</a></li>
 <li><a href="/sohnews/20230815/1920432.md">文睿：正式破7.3，人民币，失控，或将加速冲垮一切</a></li>
 <li><a href="/sohnews/20230815/1920443.md">💰北京卫健委开“廉洁账户”, 上缴受贿金即可贪腐变“廉洁”?! 习近平为何热衷于“倒查20年”, 细看习近平近3年举措, 会有一个惊人发现: 习皇要让中国回到贫穷封闭的90年代中后期!【150823】</a></li>
-<li><a href="/comments/20230816/1920493.md">央行降息，人民币再创新低：汇率还守得住吗？｜秦鹏 方菲 ｜新闻烽火台 08/15</a></li>
-<li><a href="/sohnews/20230816/1920494.md">太奇怪！中融信托风暴无人管，习近平已躺平？中国大妈快哭了！上海黄金飙涨，专家揭原因；洪灾过后，灾民赔偿无望，被迫外出求生；又揪出“内鬼”，前大连政协主席被捕。</a></li>
 <li><a href="/sohnews/20230815/1920419.md">投资90亿，一夜之间没了？</a></li>
 <li><a href="/sohnews/20230815/1920439.md">碧桂园与中融信托爆雷，中国金融核灾降临？中植系财务瘟疫蔓延，中国房市全面崩塌？赖清德访美，中共佣兵闹笑话？中共混合战失灵，自曝败象？（2023.8.15）｜世界的十字路口 唐浩</a></li>
-<li><a href="/sohnews/20230816/1920478.md">中融信托爆雷恐引发房地产融资恶性循环；叛国罪？美国杜邦涉嫌泄露关键技术给华峰集团；美三大军种有史以来首次群龙无首；美法院短暂公布对川普2020选举指控；斯科特阻止中共在爱荷华州买田</a></li>
 <li><a href="/comments/20230816/1920496.md">中共暂停发布青年失业率引热议：实在编不下去了</a></li>
-<li><a href="/comments/20230816/1920497.md">柴静新纪录片《陌生人》预告片在大陆被封杀</a></li>
+<li><a href="/sohnews/20230816/1920503.md">一个清白的女孩被抹黑成荡妇，父亲被逼划开胸部“挖黑心”！令人发指的黑故事【欺世大观】233</a></li>
+<li><a href="/sohnews/20230816/1920478.md">中融信托爆雷恐引发房地产融资恶性循环；叛国罪？美国杜邦涉嫌泄露关键技术给华峰集团；美三大军种有史以来首次群龙无首；美法院短暂公布对川普2020选举指控；斯科特阻止中共在爱荷华州买田</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
 <li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
 
 </ul>
 </div>
