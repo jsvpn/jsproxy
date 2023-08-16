@@ -17,15 +17,15 @@
 <li><a href="/comments/20230816/1920493.md">央行降息，人民币再创新低：汇率还守得住吗？｜秦鹏 方菲 ｜新闻烽火台 08/15</a></li>
 <li><a href="/sohnews/20230815/1920469.md">🔥大崩溃… 这一天不会太远了；国军美女飞行员多次驾战机驱离共军；川普第4度遭起诉 被控涉嫌推翻大选结果；啥信号？他坐上飞机出发去莫斯科 北京这才公布</a></li>
 <li><a href="/sohnews/20230816/1920503.md">一个清白的女孩被抹黑成荡妇，父亲被逼划开胸部“挖黑心”！令人发指的黑故事【欺世大观】233</a></li>
-<li><a href="/sohnews/20230815/1920454.md">最富公司都不捐！灾区捐款名单黑幕惊人｜ #时事金扫描 #金然</a></li>
 <li><a href="/comments/20230816/1920496.md">中共暂停发布青年失业率引热议：实在编不下去了</a></li>
+<li><a href="/sohnews/20230815/1920454.md">最富公司都不捐！灾区捐款名单黑幕惊人｜ #时事金扫描 #金然</a></li>
 <li><a href="/sohnews/20230815/1920432.md">文睿：正式破7.3，人民币，失控，或将加速冲垮一切</a></li>
+<li><a href="/sohnews/20230816/1920522.md">中共退休干部领导武装起义，丁薛祥说压力叠加已到关键期，中共垮台的三种路径。《老灯开讲第361期》</a></li>
 <li><a href="/sohnews/20230815/1920443.md">💰北京卫健委开“廉洁账户”, 上缴受贿金即可贪腐变“廉洁”?! 习近平为何热衷于“倒查20年”, 细看习近平近3年举措, 会有一个惊人发现: 习皇要让中国回到贫穷封闭的90年代中后期!【150823】</a></li>
 <li><a href="/sohnews/20230816/1920502.md">Costco五大必买 /不必买</a></li>
 <li><a href="/comments/20230816/1920497.md">柴静新纪录片《陌生人》预告片在大陆被封杀</a></li>
 <li><a href="/sohnews/20230815/1920439.md">碧桂园与中融信托爆雷，中国金融核灾降临？中植系财务瘟疫蔓延，中国房市全面崩塌？赖清德访美，中共佣兵闹笑话？中共混合战失灵，自曝败象？（2023.8.15）｜世界的十字路口 唐浩</a></li>
 <li><a href="/sohnews/20230816/1920478.md">中融信托爆雷恐引发房地产融资恶性循环；叛国罪？美国杜邦涉嫌泄露关键技术给华峰集团；美三大军种有史以来首次群龙无首；美法院短暂公布对川普2020选举指控；斯科特阻止中共在爱荷华州买田</a></li>
-<li><a href="/sohnews/20230816/1920522.md">中共退休干部领导武装起义，丁薛祥说压力叠加已到关键期，中共垮台的三种路径。《老灯开讲第361期》</a></li>
 <li><a href="/sohnews/20230816/1920507.md">敢死队欲推翻中共，经济支柱出大问题；三市齐挫中共玩悬，习近平预感崩溃【新闻看点 李沐阳8.15】</a></li>
 <li><a href="/sohnews/20230815/1920449.md">美国大公司为何不惜引发众怒 “干革命”支持“觉醒”？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 
 </ul>
 </div>
