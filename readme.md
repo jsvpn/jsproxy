@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20230815/1920433.md">国防部长李尚福突然访俄建立军事同盟，中纪委公布抓捕马朝旭亲属，山东莱州钢厂大爆炸死伤惨重。《老灯开讲第360期》</a></li>
 <li><a href="/finance/20230815/1920393.md">突然叫停统计青年失业率 中共给出这荒唐解释</a></li>
 <li><a href="/sohnews/20230815/1920430.md">习近平北戴河密会 形势严峻束手无策</a></li>
-<li><a href="/topimagenews/20230815/1920363.md">美国封印大陆芯片业 接下来打电动车？他爆比亚迪的“华为时刻”到了</a></li>
 <li><a href="/cbnews/20230815/1920386.md">〖兲朝浮世绘〗真正的奇迹发生在美国的夏威夷毛伊岛</a></li>
 <li><a href="/sohnews/20230815/1920437.md">32岁复旦女博士临终遗言：人这一生，最该看透两件事，无数人看一次哭一次｜传统文化｜知识分享｜人生智慧 【晨曦晓屋】</a></li>
 <li><a href="/sohnews/20230815/1920448.md">向习近平要人</a></li>
 <li><a href="/comments/20230815/1920459.md">惊现 李白真迹！</a></li>
 <li><a href="/comments/20230815/1920451.md">中共国安部：云南学校退休干部拟组敢死队颠覆政权</a></li>
 <li><a href="/sohnews/20230816/1920486.md">传中共公安也欠薪，地方政府没钱？编不了！青年失业率太高，官方拒发布数据；降息！人民币汇率急跌；抛售潮！中国股票不香了；反共“敢死队”，竟是老干部组织；急删！央视女主持复出，新片又被禁。</a></li>
-<li><a href="/sohnews/20230815/1920438.md">中共官场贪腐全景！五大特色：没有他们做不到的，只有你想不到的⋯⋯｜ #百年真相</a></li>
 <li><a href="/sohnews/20230816/1920488.md">中国经济断崖，人民币汇率大跌，习近平谋脱困要“干坏事”？美军史无前例出动6航母全球应变，李尚福密访两俄，“民主三国”对标“独裁三国”</a></li>
-<li><a href="/comments/20230815/1920366.md">颜纯鈎：大崩溃… 这一天不会太远了</a></li>
-<li><a href="/topimagenews/20230815/1920362.md">拜登投资禁令杀大陆！被毁掉的竟是香港 专家爆残酷真相</a></li>
+<li><a href="/sohnews/20230815/1920438.md">中共官场贪腐全景！五大特色：没有他们做不到的，只有你想不到的⋯⋯｜ #百年真相</a></li>
 <li><a href="/sohnews/20230815/1920422.md">当局下封口令 数据严重失真</a></li>
 <li><a href="/sohnews/20230815/1920429.md">医药代表潜规则 “54321返利”曝光</a></li>
-<li><a href="/comments/20230815/1920377.md">解密柴静新片《陌生人》1小时被封杀原因！党媒酸习近平不亲临抗洪，团中央抓社交媒体境外势力，全被王朔魔咒言中</a></li>
 <li><a href="/sohnews/20230815/1920383.md">医疗腐败的制度性根源！医疗反腐目标2万亿！某医院3天交3亿；医疗行业的滚滚财源哪里来？｜薇羽看世间 第721期 20230814</a></li>
+<li><a href="/comments/20230815/1920377.md">解密柴静新片《陌生人》1小时被封杀原因！党媒酸习近平不亲临抗洪，团中央抓社交媒体境外势力，全被王朔魔咒言中</a></li>
 <li><a href="/sohnews/20230815/1920454.md">最富公司都不捐！灾区捐款名单黑幕惊人｜ #时事金扫描 #金然</a></li>
 <li><a href="/sohnews/20230815/1920469.md">🔥大崩溃… 这一天不会太远了；国军美女飞行员多次驾战机驱离共军；川普第4度遭起诉 被控涉嫌推翻大选结果；啥信号？他坐上飞机出发去莫斯科 北京这才公布</a></li>
 <li><a href="/sohnews/20230815/1920443.md">💰北京卫健委开“廉洁账户”, 上缴受贿金即可贪腐变“廉洁”?! 习近平为何热衷于“倒查20年”, 细看习近平近3年举措, 会有一个惊人发现: 习皇要让中国回到贫穷封闭的90年代中后期!【150823】</a></li>
 <li><a href="/sohnews/20230815/1920432.md">文睿：正式破7.3，人民币，失控，或将加速冲垮一切</a></li>
+<li><a href="/sohnews/20230815/1920419.md">投资90亿，一夜之间没了？</a></li>
+<li><a href="/sohnews/20230815/1920439.md">碧桂园与中融信托爆雷，中国金融核灾降临？中植系财务瘟疫蔓延，中国房市全面崩塌？赖清德访美，中共佣兵闹笑话？中共混合战失灵，自曝败象？（2023.8.15）｜世界的十字路口 唐浩</a></li>
+<li><a href="/sohnews/20230816/1920478.md">中融信托爆雷恐引发房地产融资恶性循环；叛国罪？美国杜邦涉嫌泄露关键技术给华峰集团；美三大军种有史以来首次群龙无首；美法院短暂公布对川普2020选举指控；斯科特阻止中共在爱荷华州买田</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
 <li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 
 </ul>
 </div>
