@@ -13,8 +13,8 @@
 <li><a href="/sohnews/20230816/1920535.md">辽宁政法委书记被查</a></li>
 <li><a href="/sohnews/20230816/1920503.md">一个清白的女孩被抹黑成荡妇，父亲被逼划开胸部“挖黑心”！令人发指的黑故事【欺世大观】233</a></li>
 <li><a href="/sohnews/20230816/1920553.md">陈破空：陈破空说段子：李强想去视察水灾，习近平不准。最后</a></li>
-<li><a href="/comments/20230816/1920496.md">中共暂停发布青年失业率引热议：实在编不下去了</a></li>
 <li><a href="/topimagenews/20230816/1921056.md">北京无力止血！中国翻天覆地巨变要来？掌控战略物资 中共悄悄下令…</a></li>
+<li><a href="/comments/20230816/1920496.md">中共暂停发布青年失业率引热议：实在编不下去了</a></li>
 <li><a href="/sohnews/20230816/1920525.md">人民币成付不起的阿斗，官方经济数据显示，加速倒车；中共喉舌接棒高级黑？两个字恐激怒习近平；中共国安部：退休官员组“敢死队”密谋颠覆政权；泽连斯基上前线</a></li>
 <li><a href="/sohnews/20230816/1920502.md">Costco五大必买 /不必买</a></li>
 <li><a href="/topimagenews/20230816/1920589.md">究竟是何事让中共如此提心吊胆</a></li>
@@ -23,8 +23,8 @@
 <li><a href="/topimagenews/20230816/1920588.md">只密谋袭击派出所？中共国安部揭间谍案 被批搞笑：“至少打个省政府”</a></li>
 <li><a href="/sohnews/20230816/1920547.md">习近平一语成谶 陷危机 中南海束手无策</a></li>
 <li><a href="/comments/20230816/1920555.md">文昭：坏了，这件事表明社会上没人能赚得到钱了</a></li>
-<li><a href="/sohnews/20230816/1920542.md">海外投资人撤退 中国对冲基金惨了</a></li>
 <li><a href="/baitai/20230816/1921067.md">分析：习见大势不妙 开始准备危险游戏</a></li>
+<li><a href="/sohnews/20230816/1920542.md">海外投资人撤退 中国对冲基金惨了</a></li>
 <li><a href="/comments/20230816/1920497.md">柴静新纪录片《陌生人》预告片在大陆被封杀</a></li>
 <li><a href="/sohnews/20230816/1920533.md">天灾不断 习近平继续隐身 灾区危险七常委无一现身</a></li>
 <li><a href="/worldnews/20230816/1920636.md">被北京激怒 菲律宾动手了</a></li>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230817/1921261.md" target="_blank">美国思想领袖：【精彩片段】中共老干部组建推翻政权的敢死队 国安自曝将成为百姓将效仿材料？ &#8211; #热点互动</a></li>
+<li><a href="/comments/20230817/1921260.md" target="_blank">间谍就在身边？经济崩塌下，中共抓间谍转移焦点；全民举报，株连三代，文革再现；川普被四度起诉｜唐靖远 薇羽 方伟 方菲 David</a></li>
 <li><a href="/cbnews/20230817/1921251.md" target="_blank">美国思想领袖：【精彩片段】中共经济爆雷不断 中共头上都悬有哪些经济大雷？ 经济危机近在眼前？- #热点互动</a></li>
 <li><a href="/comments/20230817/1921241.md" target="_blank">劫匪洗劫豪华名店 洛杉矶日渐沈沦 ｜方伟时间</a></li>
 <li><a href="/cbnews/20230817/1921240.md" target="_blank">从习近平到普京，年迈独裁者的危险之处</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230816/1920597.md" target="_blank">两大妈参观兵马俑疯狂“互吐口水” 网：当场变羊驼</a></li>
 <li><a href="/cbnews/20230816/1920596.md" target="_blank">3醉男搭讪路人遭反杀 遇山东猛女“单刀1挑3”全身挂彩…超糗画面曝光</a></li>
 <li><a href="/cbnews/20230816/1920595.md" target="_blank">长沙人夫当街砍妻“刀插脖子上”…17岁女儿在旁 狂砸1物仍救不了妈妈</a></li>
-<li><a href="/cbnews/20230816/1920594.md" target="_blank">吓死中共！众网友公开露脸：只要给枪！真正的敌人一个也跑不了【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230816/1920593.md" target="_blank">挖辽金古墓“突下大雨”！3人一氧化碳中毒亡 盗墓集团6人自首投案</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230817/1921262.md" target="_blank">文昭：统计局、央行多难穿帮，宣告大失控时代到来！铁拳怎样闪崩，有人示范过一次</a></li>
+<li><a href="/comments/20230817/1921260.md" target="_blank">间谍就在身边？经济崩塌下，中共抓间谍转移焦点；全民举报，株连三代，文革再现；川普被四度起诉｜唐靖远 薇羽 方伟 方菲 David</a></li>
 <li><a href="/comments/20230817/1921254.md" target="_blank">习近平隐身半月 丁薛祥代习讲话 中国经济全面示警</a></li>
 <li><a href="/comments/20230817/1921241.md" target="_blank">劫匪洗劫豪华名店 洛杉矶日渐沈沦 ｜方伟时间</a></li>
 <li><a href="/comments/20230816/1921122.md" target="_blank">时事大家谈：上海最大移民中介被查 外“润”风险增加？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230816/1920682.md" target="_blank">英媒：失业率：中国停止发布青年失业数据，今年以来屡创历史新高</a></li>
 <li><a href="/comments/20230816/1920681.md" target="_blank">网络民议：如果不能数据向好，那就不公布数据</a></li>
 <li><a href="/comments/20230816/1920679.md" target="_blank">看世相:失业率居高不下的问题终于解决了</a></li>
-<li><a href="/comments/20230816/1920678.md" target="_blank">苏暁康：香港沦陷的后果</a></li>
-<li><a href="/comments/20230816/1920677.md" target="_blank">蔡霞:极权政权正在摧毁我们民族和祖国</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 <li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 
 </ul>
 </div>
