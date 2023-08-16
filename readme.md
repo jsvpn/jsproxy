@@ -8,11 +8,11 @@
 <li><a href="/sohnews/20230816/1920488.md">中国经济断崖，人民币汇率大跌，习近平谋脱困要“干坏事”？美军史无前例出动6航母全球应变，李尚福密访两俄，“民主三国”对标“独裁三国”</a></li>
 <li><a href="/sohnews/20230816/1920486.md">传中共公安也欠薪，地方政府没钱？编不了！青年失业率太高，官方拒发布数据；降息！人民币汇率急跌；抛售潮！中国股票不香了；反共“敢死队”，竟是老干部组织；急删！央视女主持复出，新片又被禁。</a></li>
 <li><a href="/sohnews/20230816/1920522.md">中共退休干部领导武装起义，丁薛祥说压力叠加已到关键期，中共垮台的三种路径。《老灯开讲第361期》</a></li>
-<li><a href="/topimagenews/20230816/1920587.md">协和医生全家赴美 在美机场被捕 面临20年刑期</a></li>
 <li><a href="/sohnews/20230816/1920494.md">太奇怪！中融信托风暴无人管，习近平已躺平？中国大妈快哭了！上海黄金飙涨，专家揭原因；洪灾过后，灾民赔偿无望，被迫外出求生；又揪出“内鬼”，前大连政协主席被捕。</a></li>
+<li><a href="/topimagenews/20230816/1920587.md">协和医生全家赴美 在美机场被捕 面临20年刑期</a></li>
+<li><a href="/cbnews/20230816/1920604.md">暗伏巨大阴谋！新的一场政治运动开始了【阿波罗网报道】</a></li>
 <li><a href="/comments/20230816/1920493.md">央行降息，人民币再创新低：汇率还守得住吗？｜秦鹏 方菲 ｜新闻烽火台 08/15</a></li>
 <li><a href="/sohnews/20230816/1920535.md">辽宁政法委书记被查</a></li>
-<li><a href="/cbnews/20230816/1920604.md">暗伏巨大阴谋！新的一场政治运动开始了【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230816/1920553.md">陈破空：陈破空说段子：李强想去视察水灾，习近平不准。最后</a></li>
 <li><a href="/sohnews/20230816/1920503.md">一个清白的女孩被抹黑成荡妇，父亲被逼划开胸部“挖黑心”！令人发指的黑故事【欺世大观】233</a></li>
 <li><a href="/comments/20230816/1920496.md">中共暂停发布青年失业率引热议：实在编不下去了</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/sohnews/20230816/1920502.md">Costco五大必买 /不必买</a></li>
 <li><a href="/sohnews/20230816/1920507.md">敢死队欲推翻中共，经济支柱出大问题；三市齐挫中共玩悬，习近平预感崩溃【新闻看点 李沐阳8.15】</a></li>
 <li><a href="/sohnews/20230816/1920547.md">习近平一语成谶 陷危机 中南海束手无策</a></li>
-<li><a href="/comments/20230816/1920497.md">柴静新纪录片《陌生人》预告片在大陆被封杀</a></li>
-<li><a href="/sohnews/20230816/1920542.md">海外投资人撤退 中国对冲基金惨了</a></li>
 <li><a href="/topimagenews/20230816/1920589.md">究竟是何事让中共如此提心吊胆</a></li>
-<li><a href="/sohnews/20230816/1920533.md">天灾不断 习近平继续隐身 灾区危险七常委无一现身</a></li>
+<li><a href="/sohnews/20230816/1920542.md">海外投资人撤退 中国对冲基金惨了</a></li>
+<li><a href="/comments/20230816/1920497.md">柴静新纪录片《陌生人》预告片在大陆被封杀</a></li>
 <li><a href="/topimagenews/20230816/1920588.md">只密谋袭击派出所？中共国安部揭间谍案 被批搞笑：“至少打个省政府”</a></li>
+<li><a href="/sohnews/20230816/1920533.md">天灾不断 习近平继续隐身 灾区危险七常委无一现身</a></li>
 <li><a href="/comments/20230816/1920555.md">文昭：坏了，这件事表明社会上没人能赚得到钱了</a></li>
 <li><a href="/sohnews/20230816/1920478.md">中融信托爆雷恐引发房地产融资恶性循环；叛国罪？美国杜邦涉嫌泄露关键技术给华峰集团；美三大军种有史以来首次群龙无首；美法院短暂公布对川普2020选举指控；斯科特阻止中共在爱荷华州买田</a></li>
-<li><a href="/sohnews/20230816/1920531.md">“一带一路”再爆惨案 中国工程队遇击传4亡</a></li>
+<li><a href="/worldnews/20230816/1920636.md">被北京激怒 菲律宾动手了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
 
 </ul>
 </div>
