@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230815/1920448.md">向习近平要人</a></li>
 <li><a href="/comments/20230815/1920451.md">中共国安部：云南学校退休干部拟组敢死队颠覆政权</a></li>
 <li><a href="/comments/20230815/1920459.md">惊现 李白真迹！</a></li>
 <li><a href="/sohnews/20230816/1920488.md">中国经济断崖，人民币汇率大跌，习近平谋脱困要“干坏事”？美军史无前例出动6航母全球应变，李尚福密访两俄，“民主三国”对标“独裁三国”</a></li>
@@ -21,12 +20,13 @@
 <li><a href="/comments/20230816/1920496.md">中共暂停发布青年失业率引热议：实在编不下去了</a></li>
 <li><a href="/sohnews/20230816/1920502.md">Costco五大必买 /不必买</a></li>
 <li><a href="/sohnews/20230816/1920507.md">敢死队欲推翻中共，经济支柱出大问题；三市齐挫中共玩悬，习近平预感崩溃【新闻看点 李沐阳8.15】</a></li>
+<li><a href="/sohnews/20230816/1920533.md">天灾不断 习近平继续隐身 灾区危险七常委无一现身</a></li>
 <li><a href="/comments/20230816/1920497.md">柴静新纪录片《陌生人》预告片在大陆被封杀</a></li>
 <li><a href="/sohnews/20230816/1920478.md">中融信托爆雷恐引发房地产融资恶性循环；叛国罪？美国杜邦涉嫌泄露关键技术给华峰集团；美三大军种有史以来首次群龙无首；美法院短暂公布对川普2020选举指控；斯科特阻止中共在爱荷华州买田</a></li>
-<li><a href="/sohnews/20230816/1920533.md">天灾不断 习近平继续隐身 灾区危险七常委无一现身</a></li>
-<li><a href="/comments/20230816/1920495.md">半年巨亏近200亿 国企远洋集团开盘大跌近15%</a></li>
 <li><a href="/sohnews/20230816/1920531.md">“一带一路”再爆惨案 中国工程队遇击传4亡</a></li>
-<li><a href="/sohnews/20230815/1920449.md">美国大公司为何不惜引发众怒 “干革命”支持“觉醒”？</a></li>
+<li><a href="/comments/20230816/1920495.md">半年巨亏近200亿 国企远洋集团开盘大跌近15%</a></li>
+<li><a href="/topimagenews/20230816/1920587.md">协和医生全家赴美 在美机场被捕 面临20年刑期</a></li>
+<li><a href="/sohnews/20230816/1920553.md">陈破空：陈破空说段子：李强想去视察水灾，习近平不准。最后</a></li>
 <li><a href="/sohnews/20230816/1920505.md">碧桂园最终难逃崩盘命运！碧桂园和恒大这些地产企业到底是不是庞氏骗局？人生最惨：钱在中植，房在碧桂园，老婆是医药代表！‘新闻最嘲点 姜光宇’2023.0815</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230816/1920942.md" target="_blank">〖兲朝浮世绘〗嘲笑台湾青年人失业率高，中共居然放了个大招</a></li>
 <li><a href="/comments/20230816/1920880.md" target="_blank">川普将发布终极报告，指控将被撤销。鲁特精彩檄文，点窃贼死穴。检察官威利斯或遭调查。#乔治亚州 #检察官 #起诉川普</a></li>
 <li><a href="/cbnews/20230816/1920605.md" target="_blank">中共又在南海大兴土木！最近越南中建岛惊见机场跑道 专家忧仿美EABO</a></li>
 <li><a href="/cbnews/20230816/1920604.md" target="_blank">暗伏巨大阴谋！新的一场政治运动开始了【阿波罗网报道】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230815/1920386.md" target="_blank">〖兲朝浮世绘〗真正的奇迹发生在美国的夏威夷毛伊岛</a></li>
 <li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
 <li><a href="/comments/20230815/1920328.md" target="_blank">碧桂园和中植连环爆雷 金融风暴将至？｜谢田 方菲 ｜新闻烽火台 08/14</a></li>
-<li><a href="/comments/20230815/1920314.md" target="_blank">劫匪洗劫豪华名店 洛杉矶日渐沈沦【方伟时间-20230814】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230816/1920950.md" target="_blank">【文昭谈古论今】中国经济跳水式逼近崩溃 还剩多少时间？</a></li>
 <li><a href="/comments/20230816/1920880.md" target="_blank">川普将发布终极报告，指控将被撤销。鲁特精彩檄文，点窃贼死穴。检察官威利斯或遭调查。#乔治亚州 #检察官 #起诉川普</a></li>
 <li><a href="/comments/20230816/1920817.md" target="_blank">时事大家谈：高层再聚北戴河 今年麻烦特别多？赖清德过境美国 习近平左右为难？</a></li>
 <li><a href="/comments/20230816/1920766.md" target="_blank">【财经拆局】「天下围中」 美制裁升级推动脱钩 香港卷入风眼损资金自由港</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230816/1920556.md" target="_blank">文昭：中国房地产巨头接连爆雷，比雷曼惨多了</a></li>
 <li><a href="/comments/20230816/1920555.md" target="_blank">文昭：坏了，这件事表明社会上没人能赚得到钱了</a></li>
 <li><a href="/comments/20230816/1920508.md" target="_blank">川普被乔治亚州刑事起诉 会入狱吗？【方伟时间-20230815】</a></li>
-<li><a href="/comments/20230816/1920497.md" target="_blank">柴静新纪录片《陌生人》预告片在大陆被封杀</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
 <li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
 <li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
 
 </ul>
 </div>
