@@ -16,15 +16,15 @@
 <li><a href="/topimagenews/20230816/1920589.md">究竟是何事让中共如此提心吊胆</a></li>
 <li><a href="/comments/20230816/1920672.md">还原真相：陷入中共官场百慕大的秦刚</a></li>
 <li><a href="/topimagenews/20230816/1920588.md">只密谋袭击派出所？中共国安部揭间谍案 被批搞笑：“至少打个省政府”</a></li>
-<li><a href="/baitai/20230816/1921067.md">分析：习见大势不妙 开始准备危险游戏</a></li>
 <li><a href="/topimagenews/20230817/1921220.md">中国恒大深夜突发公告！许家印离婚？</a></li>
+<li><a href="/baitai/20230816/1921067.md">分析：习见大势不妙 开始准备危险游戏</a></li>
 <li><a href="/sohnews/20230816/1920547.md">习近平一语成谶 陷危机 中南海束手无策</a></li>
 <li><a href="/comments/20230816/1920555.md">文昭：坏了，这件事表明社会上没人能赚得到钱了</a></li>
 <li><a href="/topimagenews/20230817/1921161.md">天津小贩刀捅3名城管 倒在血泊中 众人围观【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230816/1920542.md">海外投资人撤退 中国对冲基金惨了</a></li>
+<li><a href="/ccpdope/20230817/1921198.md">北戴河聚会散场 核心没招还想称霸世界</a></li>
 <li><a href="/worldnews/20230816/1920636.md">被北京激怒 菲律宾动手了</a></li>
 <li><a href="/sohnews/20230816/1920533.md">天灾不断 习近平继续隐身 灾区危险七常委无一现身</a></li>
-<li><a href="/ccpdope/20230817/1921198.md">北戴河聚会散场 核心没招还想称霸世界</a></li>
 <li><a href="/comments/20230816/1920957.md">儿子实名举报亲爹 邓亚萍被队医曝黑幕</a></li>
 <li><a href="/cbnews/20230816/1920942.md">〖兲朝浮世绘〗嘲笑台湾青年人失业率高，中共居然放了个大招</a></li>
 <li><a href="/funmedia/20230816/1920610.md">情绪稳定，是一个人的顶级魅力</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230817/1921389.md" target="_blank">〖兲朝浮世绘〗五毛主席遭遇社会主义铁拳哀嚎：共产党怎么这么坏</a></li>
 <li><a href="/cbnews/20230817/1921356.md" target="_blank">江峰：习近平发出对美国西方最强谩骂全面撕破脸！从盟友到宿敌，历史告诉我们下一步就是清除西方文化甚至全面战争！抓间谍多年陈案新炒作，大学生第一课抓间谍；经济数据一步看懂。【江峰漫谈20230816第713期】</a></li>
 <li><a href="/cbnews/20230817/1921337.md" target="_blank">对习持负面看法高达84% 半数美国人支持军援台湾</a></li>
 <li><a href="/cbnews/20230817/1921261.md" target="_blank">美国思想领袖：【精彩片段】中共老干部组建推翻政权的敢死队 国安自曝将成为百姓将效仿材料？ &#8211; #热点互动</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230816/1920600.md" target="_blank">江苏男子接客服电话后 账户多出15万人民币</a></li>
 <li><a href="/cbnews/20230816/1920599.md" target="_blank">上海交大禁外卖骑手入校 收“过路费”?</a></li>
 <li><a href="/cbnews/20230816/1920598.md" target="_blank">盗图牟利反告原著侵权 摄影师怒批视觉中国“真的是离谱了”</a></li>
-<li><a href="/cbnews/20230816/1920597.md" target="_blank">两大妈参观兵马俑疯狂“互吐口水” 网：当场变羊驼</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230817/1921371.md" target="_blank">王友群：盘点中俄同床异梦十二件大事</a></li>
+<li><a href="/comments/20230817/1921369.md" target="_blank">觅真：好人不应该被关在监狱里</a></li>
+<li><a href="/comments/20230817/1921368.md" target="_blank">冰川思想库：中年人，不配有失业数据</a></li>
+<li><a href="/comments/20230817/1921367.md" target="_blank">麦杰逊:暂停公布青年失业率，让我想到了之前的一个新闻</a></li>
 <li><a href="/comments/20230817/1921357.md" target="_blank">天亮时分：中共干部招募敢死队，欲暴力推翻习近平；央行意外降息，人民币大幅贬值，中共输掉汇率保卫战；习一招解决青年失业率问题；（政论天下第1085集 20230816）天亮时分</a></li>
 <li><a href="/comments/20230817/1921349.md" target="_blank">王维洛:被夸大的海河流域的水库大坝工程</a></li>
 <li><a href="/comments/20230817/1921348.md" target="_blank">关凤祥：点评奇文《国情对策》</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230817/1921254.md" target="_blank">习近平隐身半月 丁薛祥代习讲话 中国经济全面示警</a></li>
 <li><a href="/comments/20230817/1921241.md" target="_blank">劫匪洗劫豪华名店 洛杉矶日渐沈沦 ｜方伟时间</a></li>
 <li><a href="/comments/20230816/1921122.md" target="_blank">时事大家谈：上海最大移民中介被查 外“润”风险增加？</a></li>
-<li><a href="/comments/20230816/1921121.md" target="_blank">时事大家谈：中国医药反腐风暴持续升级 给民众带来什么？</a></li>
-<li><a href="/comments/20230816/1921089.md" target="_blank">时事大家谈：中国医药反腐风暴持续升级 给民众带来什么？上海最大移民中介被查 外“润”风险增加？</a></li>
-<li><a href="/comments/20230816/1921058.md" target="_blank">【梁京评论】习近平「大事不妙」的全球风险</a></li>
-<li><a href="/comments/20230816/1921049.md" target="_blank">天亮时分：中共防长秘访俄罗斯，必遭美国反击；中植系暴雷，10万高净值人群受影响，金融危机蔓延全社会，演变成习近平权力危机（政论天下第1084集 20230814）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 <li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
 
 </ul>
 </div>
