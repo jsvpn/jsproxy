@@ -10,24 +10,24 @@
 <li><a href="/comments/20230817/1921268.md">新闻看点：习近平已预感崩溃</a></li>
 <li><a href="/topimagenews/20230817/1921220.md">中国恒大深夜突发公告！许家印离婚？</a></li>
 <li><a href="/ccpdope/20230817/1921198.md">北戴河聚会散场 核心没招还想称霸世界</a></li>
-<li><a href="/topimagenews/20230817/1921161.md">天津小贩刀捅3名城管 倒在血泊中 众人围观【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230817/1921457.md">北戴河决议：事业单位反腐、全民抓特务、强化领袖崇拜、有限战争。《老灯开讲第362期》</a></li>
 <li><a href="/topimagenews/20230817/1921319.md">内蒙重大惊悚车祸 警拒公布死伤</a></li>
 <li><a href="/baitai/20230817/1921421.md">中国多地百姓罢工、反抗 「火药桶」一触即发？</a></li>
 <li><a href="/baitai/20230817/1921443.md">新疆兵团副司令抗习被捕？习向全党发「重要指示」</a></li>
 <li><a href="/ssgc/20230817/1921282.md">〖微博谈〗运动的一大特点就是算老账</a></li>
-<li><a href="/cbnews/20230817/1921221.md">山东13岁少女刀砍3男血溅当场，真相是…网炸了</a></li>
-<li><a href="/cbnews/20230817/1921389.md">〖兲朝浮世绘〗五毛主席遭遇社会主义铁拳哀嚎：共产党怎么这么坏</a></li>
-<li><a href="/headline/20230817/1921489.md">秦刚“更”消失 国务院全体国务委员会议没有他</a></li>
 <li><a href="/topimagenews/20230817/1921551.md">媳妇搞上大20岁学校主任！电梯搂抱全被拍 婆婆崩溃：她还不回家</a></li>
+<li><a href="/cbnews/20230817/1921389.md">〖兲朝浮世绘〗五毛主席遭遇社会主义铁拳哀嚎：共产党怎么这么坏</a></li>
+<li><a href="/cbnews/20230817/1921221.md">山东13岁少女刀砍3男血溅当场，真相是…网炸了</a></li>
+<li><a href="/headline/20230817/1921489.md">秦刚“更”消失 国务院全体国务委员会议没有他</a></li>
 <li><a href="/cbnews/20230817/1921356.md">江峰：习近平发出对美国西方最强谩骂全面撕破脸！从盟友到宿敌，历史告诉我们下一步就是清除西方文化甚至全面战争！抓间谍多年陈案新炒作，大学生第一课抓间谍；经济数据一步看懂。【江峰漫谈20230816第713期】</a></li>
 <li><a href="/baitai/20230817/1921281.md">人民日报又「指名方向」，还牵连十二万海外养老的退休干部，其在国外的老婆孩子、小三、金银财产都悬了？【每日头条】</a></li>
 <li><a href="/finance/20230817/1921224.md">经济颓势下，李强开会全力宣誓，但…</a></li>
-<li><a href="/topimagenews/20230817/1921445.md">美撒下芯片封杀网 大陆设备商悲叹惊人苦果：落后这么多</a></li>
-<li><a href="/headline/20230817/1921490.md">中国猛抛美元冀救人民币</a></li>
 <li><a href="/headline/20230817/1921512.md">美联社关注习近平在中国经济困难时的讲话</a></li>
+<li><a href="/topimagenews/20230817/1921445.md">美撒下芯片封杀网 大陆设备商悲叹惊人苦果：落后这么多</a></li>
+<li><a href="/baitai/20230817/1921545.md">秦刚持续隐身 外交部官网再现异常</a></li>
+<li><a href="/headline/20230817/1921490.md">中国猛抛美元冀救人民币</a></li>
+<li><a href="/baitai/20230817/1921557.md">习近平消失了？学者警告：中国前景可怕</a></li>
 <li><a href="/cnnews/20230817/1921373.md">为送女友，男子买机票却不搭飞机，结果惨了</a></li>
-<li><a href="/finance/20230817/1921459.md">突发：中国一地 促销卖房 不限跌幅</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230818/1921653.md" target="_blank">全球投资人对北京振兴经济承诺失去信心 中国股市大跌</a></li>
+<li><a href="/comments/20230818/1921652.md" target="_blank">美商务部长雷蒙多下周可望访华</a></li>
 <li><a href="/comments/20230818/1921632.md" target="_blank">不满反北京言论 中国恢复旅行团出境游名单排除加拿大</a></li>
 <li><a href="/comments/20230818/1921631.md" target="_blank">【话聚天下】全民抓间谍！株连三代？</a></li>
 <li><a href="/comments/20230817/1921624.md" target="_blank">李燕铭：秦刚命运疑在北戴河会议决定 缺席国务院全体会议 中共外交部官网信息有变 前外媒记者披露秦刚鲜为人知往事：秦刚出事或因太有狼性 中共外交系统异常状况频现 美国五角大楼与中共外交部罕见高官对话 中共驻美大使谢锋带伤露面 原外交部常务副部长乐玉成被免职 秦刚出事深度内幕（13） 北戴河会议大战内幕（89）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230817/1921357.md" target="_blank">天亮时分：中共干部招募敢死队，欲暴力推翻习近平；央行意外降息，人民币大幅贬值，中共输掉汇率保卫战；习一招解决青年失业率问题；（政论天下第1085集 20230816）天亮时分</a></li>
 <li><a href="/comments/20230817/1921349.md" target="_blank">王维洛:被夸大的海河流域的水库大坝工程</a></li>
 <li><a href="/comments/20230817/1921348.md" target="_blank">关凤祥：点评奇文《国情对策》</a></li>
-<li><a href="/comments/20230817/1921347.md" target="_blank">德媒：中国去年生育率降至1.09 再创新低</a></li>
-<li><a href="/comments/20230817/1921346.md" target="_blank">中国暂停公布青年失业率 掩耳盗铃解决问题？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 <li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
 
 </ul>
 </div>
