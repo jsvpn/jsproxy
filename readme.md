@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/cbnews/20230817/1921222.md">上任以来最强硬批判！习近平突然痛骂西方国家</a></li>
 <li><a href="/sohnews/20230817/1921286.md">人民币汇率大概率破8，国人现在急需做一事；80%大学生失业，纸面就业真相；长实降价卖房，许家印离婚避雷？习近平抓金融“元凶”？【新闻看点 李沐阳8.16】</a></li>
 <li><a href="/comments/20230817/1921268.md">新闻看点：习近平已预感崩溃</a></li>
-<li><a href="/topimagenews/20230817/1921220.md">中国恒大深夜突发公告！许家印离婚？</a></li>
 <li><a href="/sohnews/20230817/1921457.md">北戴河决议：事业单位反腐、全民抓特务、强化领袖崇拜、有限战争。《老灯开讲第362期》</a></li>
 <li><a href="/topimagenews/20230817/1921319.md">内蒙重大惊悚车祸 警拒公布死伤</a></li>
-<li><a href="/baitai/20230817/1921421.md">中国多地百姓罢工、反抗 「火药桶」一触即发？</a></li>
 <li><a href="/baitai/20230817/1921443.md">新疆兵团副司令抗习被捕？习向全党发「重要指示」</a></li>
+<li><a href="/baitai/20230817/1921421.md">中国多地百姓罢工、反抗 「火药桶」一触即发？</a></li>
 <li><a href="/topimagenews/20230817/1921551.md">媳妇搞上大20岁学校主任！电梯搂抱全被拍 婆婆崩溃：她还不回家</a></li>
 <li><a href="/ssgc/20230817/1921282.md">〖微博谈〗运动的一大特点就是算老账</a></li>
-<li><a href="/cbnews/20230817/1921221.md">山东13岁少女刀砍3男血溅当场，真相是…网炸了</a></li>
 <li><a href="/baitai/20230817/1921557.md">习近平消失了？学者警告：中国前景可怕</a></li>
 <li><a href="/cbnews/20230817/1921389.md">〖兲朝浮世绘〗五毛主席遭遇社会主义铁拳哀嚎：共产党怎么这么坏</a></li>
 <li><a href="/baitai/20230817/1921545.md">秦刚持续隐身 外交部官网再现异常</a></li>
 <li><a href="/cbnews/20230817/1921356.md">江峰：习近平发出对美国西方最强谩骂全面撕破脸！从盟友到宿敌，历史告诉我们下一步就是清除西方文化甚至全面战争！抓间谍多年陈案新炒作，大学生第一课抓间谍；经济数据一步看懂。【江峰漫谈20230816第713期】</a></li>
 <li><a href="/headline/20230817/1921489.md">秦刚“更”消失 国务院全体国务委员会议没有他</a></li>
 <li><a href="/baitai/20230817/1921281.md">人民日报又「指名方向」，还牵连十二万海外养老的退休干部，其在国外的老婆孩子、小三、金银财产都悬了？【每日头条】</a></li>
-<li><a href="/finance/20230817/1921224.md">经济颓势下，李强开会全力宣誓，但…</a></li>
 <li><a href="/headline/20230817/1921512.md">美联社关注习近平在中国经济困难时的讲话</a></li>
 <li><a href="/topimagenews/20230817/1921445.md">美撒下芯片封杀网 大陆设备商悲叹惊人苦果：落后这么多</a></li>
-<li><a href="/headline/20230817/1921490.md">中国猛抛美元冀救人民币</a></li>
 <li><a href="/topimagenews/20230817/1921550.md">医界水很深？中国药厂女业务泪曝“5年睡百人换业绩”：保险套随时带着</a></li>
+<li><a href="/headline/20230817/1921490.md">中国猛抛美元冀救人民币</a></li>
 <li><a href="/cnnews/20230817/1921373.md">为送女友，男子买机票却不搭飞机，结果惨了</a></li>
+<li><a href="/sohnews/20230817/1921466.md">习隐身半个月，传奇葩指示！云南反共“敢S队”更多细节；恒大被立案！银行业也要塌？金融风暴近在咫尺；三驾马车全熄火！股市撤资；“疫情后繁荣”没门了；国安高级黑习近平？｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/finance/20230817/1921459.md">突发：中国一地 促销卖房 不限跌幅</a></li>
+<li><a href="/topimagenews/20230817/1921549.md">接单星巴克！大陆外送员“在家自己泡”双头赚 惊人获利曝光</a></li>
+<li><a href="/funmedia/20230817/1921402.md">5年观察1000对夫妻：婚姻最舒服的状态，不是如胶似漆，不是相敬如宾，而是……</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230818/1921704.md" target="_blank">中共央行顾问发最紧迫呼吁 习无计可施 新行长陷险境【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230818/1921693.md" target="_blank">中共正开始发出可怕信号 全球债市抛售浪潮更为凶猛</a></li>
 <li><a href="/topimagenews/20230817/1921551.md" target="_blank">媳妇搞上大20岁学校主任！电梯搂抱全被拍 婆婆崩溃：她还不回家</a></li>
 <li><a href="/topimagenews/20230817/1921550.md" target="_blank">医界水很深？中国药厂女业务泪曝“5年睡百人换业绩”：保险套随时带着</a></li>
 <li><a href="/topimagenews/20230817/1921549.md" target="_blank">接单星巴克！大陆外送员“在家自己泡”双头赚 惊人获利曝光</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20230815/1920259.md" target="_blank">从秦刚事件、俄乌战争 看习近平敢不敢“武统”台湾？</a></li>
 <li><a href="/topimagenews/20230815/1920363.md" target="_blank">美国封印大陆芯片业 接下来打电动车？他爆比亚迪的“华为时刻”到了</a></li>
 <li><a href="/topimagenews/20230815/1920362.md" target="_blank">拜登投资禁令杀大陆！被毁掉的竟是香港 专家爆残酷真相</a></li>
-<li><a href="/topimagenews/20230815/1920347.md" target="_blank">你是它的成员吗？你就是黑帮的一分子</a></li>
-<li><a href="/topimagenews/20230815/1920346.md" target="_blank">【微博精粹】沉船时刻——慢镜头</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
 <li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 <li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
 
 </ul>
 </div>
