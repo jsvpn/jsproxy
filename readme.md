@@ -9,8 +9,8 @@
 <li><a href="/sohnews/20230817/1921286.md">人民币汇率大概率破8，国人现在急需做一事；80%大学生失业，纸面就业真相；长实降价卖房，许家印离婚避雷？习近平抓金融“元凶”？【新闻看点 李沐阳8.16】</a></li>
 <li><a href="/comments/20230817/1921268.md">新闻看点：习近平已预感崩溃</a></li>
 <li><a href="/topimagenews/20230817/1921220.md">中国恒大深夜突发公告！许家印离婚？</a></li>
-<li><a href="/topimagenews/20230817/1921161.md">天津小贩刀捅3名城管 倒在血泊中 众人围观【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20230817/1921198.md">北戴河聚会散场 核心没招还想称霸世界</a></li>
+<li><a href="/topimagenews/20230817/1921161.md">天津小贩刀捅3名城管 倒在血泊中 众人围观【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230817/1921457.md">北戴河决议：事业单位反腐、全民抓特务、强化领袖崇拜、有限战争。《老灯开讲第362期》</a></li>
 <li><a href="/topimagenews/20230817/1921319.md">内蒙重大惊悚车祸 警拒公布死伤</a></li>
 <li><a href="/baitai/20230817/1921421.md">中国多地百姓罢工、反抗 「火药桶」一触即发？</a></li>
@@ -19,14 +19,14 @@
 <li><a href="/cbnews/20230817/1921221.md">山东13岁少女刀砍3男血溅当场，真相是…网炸了</a></li>
 <li><a href="/cbnews/20230817/1921389.md">〖兲朝浮世绘〗五毛主席遭遇社会主义铁拳哀嚎：共产党怎么这么坏</a></li>
 <li><a href="/headline/20230817/1921489.md">秦刚“更”消失 国务院全体国务委员会议没有他</a></li>
-<li><a href="/cbnews/20230817/1921356.md">江峰：习近平发出对美国西方最强谩骂全面撕破脸！从盟友到宿敌，历史告诉我们下一步就是清除西方文化甚至全面战争！抓间谍多年陈案新炒作，大学生第一课抓间谍；经济数据一步看懂。【江峰漫谈20230816第713期】</a></li>
 <li><a href="/topimagenews/20230817/1921551.md">媳妇搞上大20岁学校主任！电梯搂抱全被拍 婆婆崩溃：她还不回家</a></li>
+<li><a href="/cbnews/20230817/1921356.md">江峰：习近平发出对美国西方最强谩骂全面撕破脸！从盟友到宿敌，历史告诉我们下一步就是清除西方文化甚至全面战争！抓间谍多年陈案新炒作，大学生第一课抓间谍；经济数据一步看懂。【江峰漫谈20230816第713期】</a></li>
 <li><a href="/baitai/20230817/1921281.md">人民日报又「指名方向」，还牵连十二万海外养老的退休干部，其在国外的老婆孩子、小三、金银财产都悬了？【每日头条】</a></li>
 <li><a href="/finance/20230817/1921224.md">经济颓势下，李强开会全力宣誓，但…</a></li>
 <li><a href="/topimagenews/20230817/1921445.md">美撒下芯片封杀网 大陆设备商悲叹惊人苦果：落后这么多</a></li>
 <li><a href="/headline/20230817/1921490.md">中国猛抛美元冀救人民币</a></li>
-<li><a href="/cnnews/20230817/1921373.md">为送女友，男子买机票却不搭飞机，结果惨了</a></li>
 <li><a href="/headline/20230817/1921512.md">美联社关注习近平在中国经济困难时的讲话</a></li>
+<li><a href="/cnnews/20230817/1921373.md">为送女友，男子买机票却不搭飞机，结果惨了</a></li>
 <li><a href="/finance/20230817/1921459.md">突发：中国一地 促销卖房 不限跌幅</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
 <li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
 
 </ul>
 </div>
