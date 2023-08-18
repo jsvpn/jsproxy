@@ -5,19 +5,17 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/baitai/20230817/1921557.md">习近平消失了？学者警告：中国前景可怕</a></li>
 <li><a href="/topimagenews/20230818/1921693.md">中共正开始发出可怕信号 全球债市抛售浪潮更为凶猛</a></li>
 <li><a href="/topimagenews/20230818/1921752.md">当年以为习近平“听话”的人 全都悔死了</a></li>
 <li><a href="/cbnews/20230818/1921680.md">习近平不停自掘坟墓 中共崩溃成共识</a></li>
 <li><a href="/cbnews/20230818/1921871.md">江峰：神隐18天习近平开启株连九族模式：党员干部须交代完整家族关系，否则对党不忠！涿州洪水赔偿先政审，一套房子上限4万元人民币；两名国务委员缺席国务院会议【江峰漫谈20230817第714期】</a></li>
 <li><a href="/ccpdope/20230818/1921689.md">1976再临中国 拜登示警 习不知祸之将至？</a></li>
-<li><a href="/topimagenews/20230818/1921843.md">【微博精粹】马户从工具箱中掏出最后一个大杀器</a></li>
 <li><a href="/sohnews/20230818/1921751.md">元老发难习近平；中共大招能稳汇率？“中植系”将出事？15万人一夜返贫？万亿级老总要完？【新闻看点 李沐阳8.17】</a></li>
+<li><a href="/topimagenews/20230818/1921843.md">【微博精粹】马户从工具箱中掏出最后一个大杀器</a></li>
 <li><a href="/finance/20230818/1921759.md">中共真要“打土豪”了？网传8月份开始...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230818/1921704.md">中共央行顾问发最紧迫呼吁 习无计可施 新行长陷险境【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230818/1921877.md">〖兲朝浮世绘〗太上皇一出 群娱退散</a></li>
 <li><a href="/ccpdope/20230817/1921581.md">新闻看点：惊雷滚滚 习近平已预感崩溃</a></li>
-<li><a href="/headline/20230817/1921561.md">路透社问：为什么中国不急于解决陷入困境的经济？</a></li>
+<li><a href="/cbnews/20230818/1921877.md">〖兲朝浮世绘〗太上皇一出 群娱退散</a></li>
 <li><a href="/baitai/20230818/1921757.md">中国经济将走向大崩溃</a></li>
 <li><a href="/lifebaike/20230818/1921768.md">心脏支架手术后还能活几年？医生实话实说：支撑生命的是这五点认知</a></li>
 <li><a href="/sohnews/20230818/1921786.md">习近平大战徐才厚，拿刘源当枪使；徐才厚暗杀刘源，四连击惊险异常</a></li>
@@ -27,7 +25,9 @@
 <li><a href="/topimagenews/20230818/1921753.md">恒大集团在纽约申请破产保护！依破产法第15章</a></li>
 <li><a href="/topimagenews/20230818/1921880.md">比外界所知更严重！中国影子银行巨头正在进行大动作【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230818/1921976.md">路透：此事重于一切 中共不急于救经济</a></li>
+<li><a href="/topimagenews/20230818/1922000.md">温家宝警示习近平，字字珠玑【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20230818/1921668.md">背后目的令人担忧！中共承认全国基因调查</a></li>
+<li><a href="/ssgc/20230818/1921699.md">变态辣椒：全都看不见</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230818/1922050.md" target="_blank">程翔：认识中共对香港和西方的渗透</a></li>
+<li><a href="/comments/20230818/1922049.md" target="_blank">像毒品易上瘾又难戒！ 最新研究：沉迷短视频恐患“抖音脑”</a></li>
 <li><a href="/comments/20230818/1922047.md" target="_blank">北京四中课堂 独裁者没有好下场！“民主”是潮流？【老北京茶馆】</a></li>
 <li><a href="/comments/20230818/1922042.md" target="_blank">小罗伯特点名道姓揭肯尼迪遇刺真相。蓬佩奥承认有过失。川普一句话说出未解密原因。#肯尼迪 #卡尔森 #蓬佩奥</a></li>
 <li><a href="/comments/20230818/1922041.md" target="_blank">美国人还不知道，那就是通天神树！神震怒下令废弃《圣经》中的通天塔，同一时间，东方世界绝地天通？！变成 第三类接触 聚集地？｜ #未解之谜 扶摇</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230817/1921624.md" target="_blank">李燕铭：秦刚命运疑在北戴河会议决定 缺席国务院全体会议 中共外交部官网信息有变 前外媒记者披露秦刚鲜为人知往事：秦刚出事或因太有狼性 中共外交系统异常状况频现 美国五角大楼与中共外交部罕见高官对话 中共驻美大使谢锋带伤露面 原外交部常务副部长乐玉成被免职 秦刚出事深度内幕（13） 北戴河会议大战内幕（89）</a></li>
 <li><a href="/comments/20230817/1921617.md" target="_blank">时事大家谈： 中国政府依旧否认经济陷通缩，只因束手无策？</a></li>
 <li><a href="/comments/20230817/1921602.md" target="_blank">时事大家谈： 暂停公布青年失业率，北京掩盖数据的样子比数据本身更难看？中国政府依旧否认经济陷通缩，只因束手无策？</a></li>
-<li><a href="/comments/20230817/1921577.md" target="_blank">【未普评论】习近平的行为很难预测（上）</a></li>
-<li><a href="/comments/20230817/1921575.md" target="_blank">神助攻的天津城！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
 <li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
 
 </ul>
 </div>
