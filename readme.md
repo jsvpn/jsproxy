@@ -7,10 +7,9 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230817/1921551.md">媳妇搞上大20岁学校主任！电梯搂抱全被拍 婆婆崩溃：她还不回家</a></li>
 <li><a href="/baitai/20230817/1921557.md">习近平消失了？学者警告：中国前景可怕</a></li>
-<li><a href="/baitai/20230817/1921545.md">秦刚持续隐身 外交部官网再现异常</a></li>
 <li><a href="/topimagenews/20230818/1921693.md">中共正开始发出可怕信号 全球债市抛售浪潮更为凶猛</a></li>
-<li><a href="/topimagenews/20230817/1921550.md">医界水很深？中国药厂女业务泪曝“5年睡百人换业绩”：保险套随时带着</a></li>
 <li><a href="/topimagenews/20230818/1921752.md">当年以为习近平“听话”的人 全都悔死了</a></li>
+<li><a href="/topimagenews/20230817/1921550.md">医界水很深？中国药厂女业务泪曝“5年睡百人换业绩”：保险套随时带着</a></li>
 <li><a href="/cbnews/20230818/1921680.md">习近平不停自掘坟墓 中共崩溃成共识</a></li>
 <li><a href="/cbnews/20230818/1921871.md">江峰：神隐18天习近平开启株连九族模式：党员干部须交代完整家族关系，否则对党不忠！涿州洪水赔偿先政审，一套房子上限4万元人民币；两名国务委员缺席国务院会议【江峰漫谈20230817第714期】</a></li>
 <li><a href="/ccpdope/20230818/1921689.md">1976再临中国 拜登示警 习不知祸之将至？</a></li>
@@ -24,10 +23,11 @@
 <li><a href="/headline/20230817/1921561.md">路透社问：为什么中国不急于解决陷入困境的经济？</a></li>
 <li><a href="/baitai/20230818/1921757.md">中国经济将走向大崩溃</a></li>
 <li><a href="/lifebaike/20230818/1921768.md">心脏支架手术后还能活几年？医生实话实说：支撑生命的是这五点认知</a></li>
-<li><a href="/comments/20230817/1921575.md">神助攻的天津城！</a></li>
 <li><a href="/comments/20230818/1921804.md">红卫兵女司令 惨被“嘎腰子”</a></li>
-<li><a href="/topimagenews/20230818/1921753.md">恒大集团在纽约申请破产保护！依破产法第15章</a></li>
+<li><a href="/comments/20230817/1921575.md">神助攻的天津城！</a></li>
+<li><a href="/sohnews/20230818/1921786.md">习近平大战徐才厚，拿刘源当枪使；徐才厚暗杀刘源，四连击惊险异常</a></li>
 <li><a href="/ssgc/20230818/1921818.md">〖微博谈〗居然真的做到了</a></li>
+<li><a href="/topimagenews/20230818/1921753.md">恒大集团在纽约申请破产保护！依破产法第15章</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230818/1922042.md" target="_blank">小罗伯特点名道姓揭肯尼迪遇刺真相。蓬佩奥承认有过失。川普一句话说出未解密原因。#肯尼迪 #卡尔森 #蓬佩奥</a></li>
+<li><a href="/comments/20230818/1922041.md" target="_blank">美国人还不知道，那就是通天神树！神震怒下令废弃《圣经》中的通天塔，同一时间，东方世界绝地天通？！变成 第三类接触 聚集地？｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20230818/1922001.md" target="_blank">厦门诊疗室惨叫一声…爸妈冲进见“4岁女儿失禁亡”！残忍枉死真相曝</a></li>
 <li><a href="/cbnews/20230818/1921960.md" target="_blank">浙江20岁女子疑似情伤坠楼身亡 围观者怂恿“不跳看不起你”</a></li>
 <li><a href="/cbnews/20230818/1921953.md" target="_blank">中国博士也上当：被骗到缅甸工作1年</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230817/1921261.md" target="_blank">美国思想领袖：【精彩片段】中共老干部组建推翻政权的敢死队 国安自曝将成为百姓将效仿材料？ &#8211; #热点互动</a></li>
 <li><a href="/comments/20230817/1921260.md" target="_blank">间谍就在身边？经济崩塌下，中共抓间谍转移焦点；全民举报，株连三代，文革再现；川普被四度起诉｜唐靖远 薇羽 方伟 方菲 David</a></li>
 <li><a href="/cbnews/20230817/1921251.md" target="_blank">美国思想领袖：【精彩片段】中共经济爆雷不断 中共头上都悬有哪些经济大雷？ 经济危机近在眼前？- #热点互动</a></li>
-<li><a href="/comments/20230817/1921241.md" target="_blank">劫匪洗劫豪华名店 洛杉矶日渐沈沦 ｜方伟时间</a></li>
-<li><a href="/cbnews/20230817/1921240.md" target="_blank">从习近平到普京，年迈独裁者的危险之处</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230818/1922042.md" target="_blank">小罗伯特点名道姓揭肯尼迪遇刺真相。蓬佩奥承认有过失。川普一句话说出未解密原因。#肯尼迪 #卡尔森 #蓬佩奥</a></li>
+<li><a href="/comments/20230818/1922041.md" target="_blank">美国人还不知道，那就是通天神树！神震怒下令废弃《圣经》中的通天塔，同一时间，东方世界绝地天通？！变成 第三类接触 聚集地？｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230818/1922034.md" target="_blank">大学与社会发展息息相关 ——举报破坏、误转讯息、巴山夜雨</a></li>
 <li><a href="/comments/20230818/1921958.md" target="_blank">李玟生前控诉《中国好声音》 录音曝光</a></li>
 <li><a href="/comments/20230818/1921957.md" target="_blank">习近平被找到了？主持洪灾会议 但全程没画面</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230817/1921577.md" target="_blank">【未普评论】习近平的行为很难预测（上）</a></li>
 <li><a href="/comments/20230817/1921575.md" target="_blank">神助攻的天津城！</a></li>
 <li><a href="/comments/20230817/1921573.md" target="_blank">文昭：国家统计局为何停更青年失业率？是要躲避一个更大的穿帮</a></li>
-<li><a href="/comments/20230817/1921556.md" target="_blank">乌克兰要割地才能加入北约？白宫明确“立场从未改变”</a></li>
-<li><a href="/comments/20230817/1921554.md" target="_blank">马来西亚小型飞机坠毁10人死亡 残骸砸中汽车驾驶、骑士烧成焦尸</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
 <li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
 
 </ul>
 </div>
