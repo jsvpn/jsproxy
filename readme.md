@@ -7,8 +7,8 @@
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230818/1921752.md">当年以为习近平“听话”的人 全都悔死了</a></li>
 <li><a href="/topimagenews/20230818/1921693.md">中共正开始发出可怕信号 全球债市抛售浪潮更为凶猛</a></li>
-<li><a href="/cbnews/20230818/1921680.md">习近平不停自掘坟墓 中共崩溃成共识</a></li>
 <li><a href="/finance/20230818/1921759.md">中共真要“打土豪”了？网传8月份开始...【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230818/1921680.md">习近平不停自掘坟墓 中共崩溃成共识</a></li>
 <li><a href="/cbnews/20230818/1921871.md">江峰：神隐18天习近平开启株连九族模式：党员干部须交代完整家族关系，否则对党不忠！涿州洪水赔偿先政审，一套房子上限4万元人民币；两名国务委员缺席国务院会议【江峰漫谈20230817第714期】</a></li>
 <li><a href="/topimagenews/20230818/1922000.md">温家宝警示习近平，字字珠玑【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230818/1921751.md">元老发难习近平；中共大招能稳汇率？“中植系”将出事？15万人一夜返贫？万亿级老总要完？【新闻看点 李沐阳8.17】</a></li>
@@ -19,15 +19,15 @@
 <li><a href="/baitai/20230818/1921757.md">中国经济将走向大崩溃</a></li>
 <li><a href="/cbnews/20230818/1921877.md">〖兲朝浮世绘〗太上皇一出 群娱退散</a></li>
 <li><a href="/lifebaike/20230818/1921768.md">心脏支架手术后还能活几年？医生实话实说：支撑生命的是这五点认知</a></li>
-<li><a href="/sohnews/20230818/1921786.md">习近平大战徐才厚，拿刘源当枪使；徐才厚暗杀刘源，四连击惊险异常</a></li>
-<li><a href="/topimagenews/20230818/1921987.md">民怨沸腾 洪灾十几天后河北省长才到灾区视察 遭民众围堵 【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230818/1921979.md">太应景了！中共最害怕的一张照片 此时重现网络！ 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230818/1922031.md">中共按下“恐慌按钮”！三则消息引爆市场；警惕！中国这产业已达到引爆点；失业率飙升</a></li>
-<li><a href="/comments/20230818/1921804.md">红卫兵女司令 惨被“嘎腰子”</a></li>
+<li><a href="/sohnews/20230818/1921786.md">习近平大战徐才厚，拿刘源当枪使；徐才厚暗杀刘源，四连击惊险异常</a></li>
+<li><a href="/topimagenews/20230818/1921987.md">民怨沸腾 洪灾十几天后河北省长才到灾区视察 遭民众围堵 【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20230818/1921954.md">王毅在外交部的内部讲话(请勿外传)</a></li>
+<li><a href="/baitai/20230818/1922043.md">传中共八月开始要出狠招 中产人人难逃？</a></li>
+<li><a href="/comments/20230818/1921804.md">红卫兵女司令 惨被“嘎腰子”</a></li>
 <li><a href="/ssgc/20230818/1921818.md">〖微博谈〗居然真的做到了</a></li>
 <li><a href="/topimagenews/20230818/1921880.md">比外界所知更严重！中国影子银行巨头正在进行大动作【阿波罗网报道】</a></li>
-<li><a href="/baitai/20230818/1922043.md">传中共八月开始要出狠招 中产人人难逃？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
 <li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
 <li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
 
 </ul>
 </div>
