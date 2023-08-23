@@ -19,15 +19,15 @@
 <li><a href="/topimagenews/20230822/1923674.md">暴跌99%“浓眉大眼”的2000亿巨头也崩了？“超级央行”重拳出击 经济全球化剔除中共</a></li>
 <li><a href="/topimagenews/20230822/1923740.md">“我们家是上流社会人士…”南方电网员工老婆高调炫富惹争议</a></li>
 <li><a href="/baitai/20230822/1923598.md">不只房地产、金融 中国又一行业龙头暴雷</a></li>
+<li><a href="/finance/20230823/1923863.md">中国最隐秘的富豪，在非洲出事了？</a></li>
 <li><a href="/topimagenews/20230822/1923465.md">【微博精粹】老毛送我们下农村吃苦 老习派你们上前线吃当归</a></li>
 <li><a href="/sohnews/20230822/1923514.md">文睿：第一张“大字报”，炮打习近平，一尊，或被大规模群殴</a></li>
-<li><a href="/finance/20230823/1923863.md">中国最隐秘的富豪，在非洲出事了？</a></li>
-<li><a href="/baitai/20230822/1923712.md">中国某省要裁员20% 评论指习亲信关键时刻将反目</a></li>
 <li><a href="/comments/20230822/1923772.md">【独家重磅】李燕铭：曾庆红发动大外宣造势金融政变 国际大媒体同期密集发文唱衰中国经济 报道记者共同特征揭秘 细思极恐 北戴河会后江曾集团政变反习行动升级 习近平高危酝酿绝地反击 习近平决战江曾（109） 中南海政变与反政变（116） 北戴河会议大战内幕（91） 钱袋子争夺战（51） 中共末日之经济危机（19） 习近平连任与中共末日（159） 文宣系统大清洗（34）</a></li>
+<li><a href="/baitai/20230822/1923712.md">中国某省要裁员20% 评论指习亲信关键时刻将反目</a></li>
 <li><a href="/sohnews/20230822/1923526.md">中国疫苗的副作用大面积爆发 可有应对之法？</a></li>
 <li><a href="/health/20230822/1923601.md">被评为世界上最抗癌的蔬菜 还可以在家水耕种植</a></li>
+<li><a href="/topimagenews/20230823/1923861.md">会大举蔓延至全世界？全球静待中国“明斯基时刻”</a></li>
 <li><a href="/ccpdope/20230822/1923649.md">长痛不如短痛：中共崩溃后，中国会怎么样？</a></li>
-<li><a href="/headline/20230822/1923743.md">疑为转移人口至雄安 京城发起腾退运动 百万企业倒闭百姓失业</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230823/1923989.md" target="_blank">刘梦熊：中国经济逆转最根本的原因在政治</a></li>
+<li><a href="/comments/20230823/1923988.md" target="_blank">许成钢：“它害怕资本主义，它害怕和平演变，那它害怕的正好就是这个东西”</a></li>
+<li><a href="/comments/20230823/1923987.md" target="_blank">暴财经pro：铁饭碗，也保不住了</a></li>
+<li><a href="/comments/20230823/1923986.md" target="_blank">网络民议：限生机构摇身一变变催生</a></li>
+<li><a href="/comments/20230823/1923985.md" target="_blank">鸡汤不是汤：“皮带哥”的足球之路，恒大集团破产史</a></li>
 <li><a href="/comments/20230823/1923938.md" target="_blank">用牙齿做眼睛 你敢相信吗？</a></li>
 <li><a href="/comments/20230823/1923920.md" target="_blank">英媒：中国医生和医药代表看反腐风暴 “不改不行”的医疗系统该怎么改</a></li>
 <li><a href="/comments/20230823/1923919.md" target="_blank">译丛:波兰前总统瓦文萨告诫青年摈弃社会主义</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230822/1923692.md" target="_blank">问织女谁干的？ 天津高楼凶猛大火 陕西煤矿爆炸11人亡</a></li>
 <li><a href="/comments/20230822/1923691.md" target="_blank">关于秦刚失踪和被免职 叶公子：外交部不专业答问 是在训练中国人革命</a></li>
 <li><a href="/comments/20230822/1923682.md" target="_blank">陈佩斯爆粗口点赞中国好声音</a></li>
-<li><a href="/comments/20230822/1923678.md" target="_blank">黑社会！揭开甜心认罪协议的幕后运作。亨特律师提蛮横要求，检察官被吓坏。#亨特 #检察官 #甜心交易</a></li>
-<li><a href="/comments/20230822/1923661.md" target="_blank">【财经拆局】「掩耳盗铃」——中国隐藏数据能愚昧市场吗？香港特区将亦步亦趋？</a></li>
-<li><a href="/comments/20230822/1923506.md" target="_blank">两岸小粉红叛变惊动习近平，保党基本盘大塌方？金星、韩红、陈佩斯声讨中国好声音，力挺李玟</a></li>
-<li><a href="/comments/20230822/1923502.md" target="_blank">有意思…北京这次老实多了</a></li>
-<li><a href="/comments/20230822/1923477.md" target="_blank">天亮时分：全球倒习，唱衰中共经济；40年繁荣落幕，会触发全球经济危机吗？银行永久冻结部分账户？（政论天下第1088集 20230820）天亮时分</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
 <li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
