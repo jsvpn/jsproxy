@@ -10,7 +10,6 @@
 <li><a href="/sohnews/20230823/1924119.md">中共海军093潜艇沉没事件真相，胡锦涛逝世温家宝拒绝参与治丧内幕，国家卫健委主任马晓伟被抓。《老灯开讲第366期》</a></li>
 <li><a href="/topimagenews/20230823/1924140.md">反习第二炮打响！习近平后院起火【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230823/1923969.md">中共核潜艇家门口出事，习近平心神不宁；107人全数遇难？美中潜艇硬碰硬？【新闻看点 李沐阳8.21】</a></li>
-<li><a href="/headline/20230823/1923880.md">推特上的中国：习近平去哪了？中国领导人意外缺席一场重要金砖峰会论坛</a></li>
 <li><a href="/topimagenews/20230823/1924041.md">打脸！中共7000吨级潜舰会走水深不到150米海峡？</a></li>
 <li><a href="/ccpdope/20230823/1924058.md">即将被中共引渡处决 百亿大佬抖出惊天黑幕</a></li>
 <li><a href="/sohnews/20230823/1924043.md">习近平金砖峰会重大会议神秘失踪！吃饭的时候才来！中国外交系统竭力掩饰！目前为止最靠谱的一种可能性</a></li>
@@ -18,15 +17,16 @@
 <li><a href="/baitai/20230823/1924137.md">方方：大势已去。但是有些话还是要说说的</a></li>
 <li><a href="/baitai/20230823/1924244.md">习近平现身金砖领袖晚宴 画面曝光 缺席重要论坛原因是这个？</a></li>
 <li><a href="/topimagenews/20230823/1923902.md">她是缅北诈骗集团女王? 与“果敢王”关系密切</a></li>
+<li><a href="/topimagenews/20230824/1924311.md">突发！俄飞机失事 瓦格纳集团首领普里格津遇难死亡</a></li>
 <li><a href="/yule/20230823/1923994.md">田震被问怎么评价那英 冷冷说了三个字</a></li>
 <li><a href="/topimagenews/20230823/1924051.md">为了脸 中共太“厉害”了</a></li>
 <li><a href="/baitai/20230823/1924044.md">习近平解决雄安空城出新招？北京突下令「腾退」 企业血本无归 百万人失业【国际风云】</a></li>
 <li><a href="/topimagenews/20230823/1923999.md">媒体焦点大新闻：中共在大批杀戮…</a></li>
-<li><a href="/topimagenews/20230824/1924311.md">突发！俄飞机失事 瓦格纳集团首领普里格津遇难死亡</a></li>
 <li><a href="/ssgc/20230823/1923910.md">〖微博谈〗都保不了</a></li>
 <li><a href="/cnnews/20230823/1923960.md">倒习檄文出现！网友惊呼：炮打习近平 一张大字报 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230823/1924020.md">习近平去哪儿了？ 美媒：陆领导人缺席重要金砖峰会论坛</a></li>
 <li><a href="/cbnews/20230823/1923944.md">反习战斗檄文出炉？习近平该醒醒了【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20230824/1924303.md">“习近平遭遇何事？最后一刻取消演讲 一蹶不振？国内通稿：刻意掩盖式回避”《今日点击》（08/23/23）</a></li>
 <li><a href="/baitai/20230823/1923896.md">要出事习心不稳？习前脚走 后脚天津「精准」起火，火焰革命？金砖国各怀鬼胎，多国与中共断交【每日头条】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230824/1924395.md" target="_blank">为什么中国的房地产危机如此难以解决</a></li>
 <li><a href="/topimagenews/20230824/1924373.md" target="_blank">习近平对金砖峰会“高度重视”，背后目的曝光</a></li>
 <li><a href="/topimagenews/20230824/1924344.md" target="_blank">重磅报告出炉：经济黯淡之下，中国人正在改变…</a></li>
 <li><a href="/topimagenews/20230824/1924343.md" target="_blank">习突玩失踪引猜测，华春莹反应更奇怪</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20230822/1923674.md" target="_blank">暴跌99%“浓眉大眼”的2000亿巨头也崩了？“超级央行”重拳出击 经济全球化剔除中共</a></li>
 <li><a href="/topimagenews/20230822/1923617.md" target="_blank">传菲国突破中共15艘船舰封锁网 完成仁爱礁运补 “下台阶”都想好了…</a></li>
 <li><a href="/topimagenews/20230822/1923594.md" target="_blank">乌军发布令人不寒而栗影片 普京开紧急会议</a></li>
-<li><a href="/topimagenews/20230822/1923545.md" target="_blank">中共093型核潜舰台海失事全员罹难？专家、国防部这么说…</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230824/1924390.md" target="_blank">觅真：最近又有很多中共官员遭恶报或被曝光</a></li>
+<li><a href="/comments/20230824/1924389.md" target="_blank">周晓辉：习近平南非取消演讲背后有何因？</a></li>
 <li><a href="/comments/20230824/1924376.md" target="_blank">千百度：每个涿州被毁的家都是对中共人祸的无声控诉</a></li>
 <li><a href="/comments/20230824/1924375.md" target="_blank">新州：中共有资格谈赔偿吗？</a></li>
 <li><a href="/comments/20230824/1924374.md" target="_blank">袁斌：中共为何对曝光声讨“好声音”的舆论一概放行？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230823/1923987.md" target="_blank">暴财经pro：铁饭碗，也保不住了</a></li>
 <li><a href="/comments/20230823/1923986.md" target="_blank">网络民议：限生机构摇身一变变催生</a></li>
 <li><a href="/comments/20230823/1923985.md" target="_blank">鸡汤不是汤：“皮带哥”的足球之路，恒大集团破产史</a></li>
-<li><a href="/comments/20230823/1923938.md" target="_blank">用牙齿做眼睛 你敢相信吗？</a></li>
-<li><a href="/comments/20230823/1923920.md" target="_blank">英媒：中国医生和医药代表看反腐风暴 “不改不行”的医疗系统该怎么改</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
 <li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
 <li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
 
 </ul>
 </div>
