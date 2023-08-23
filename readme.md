@@ -8,18 +8,17 @@
 <li><a href="/finance/20230823/1923863.md">中国最隐秘的富豪，在非洲出事了？</a></li>
 <li><a href="/comments/20230823/1923898.md">横河：习近平缺席峰会演讲或与内斗有关；联合早报文章重砲轰习，体制内联手；改革开放的祸根早就埋下，中共体制不可能进行政治改革 ｜新闻烽火台 08/22</a></li>
 <li><a href="/topimagenews/20230823/1923971.md">炮轰习近平！反习战斗檄文出世 遭速删【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230823/1923805.md">前央视大咖主持沦“摆摊卖字画” 憔悴模样曝光</a></li>
 <li><a href="/sohnews/20230823/1924119.md">中共海军093潜艇沉没事件真相，胡锦涛逝世温家宝拒绝参与治丧内幕，国家卫健委主任马晓伟被抓。《老灯开讲第366期》</a></li>
 <li><a href="/cnnews/20230823/1923852.md">德媒：北京功不可没，暴风雨即将来临</a></li>
 <li><a href="/topimagenews/20230823/1924140.md">反习第二炮打响！习近平后院起火【阿波罗网报道】</a></li>
 <li><a href="/headline/20230823/1923880.md">推特上的中国：习近平去哪了？中国领导人意外缺席一场重要金砖峰会论坛</a></li>
-<li><a href="/topimagenews/20230823/1923861.md">会大举蔓延至全世界？全球静待中国“明斯基时刻”</a></li>
 <li><a href="/sohnews/20230823/1923969.md">中共核潜艇家门口出事，习近平心神不宁；107人全数遇难？美中潜艇硬碰硬？【新闻看点 李沐阳8.21】</a></li>
+<li><a href="/topimagenews/20230823/1923861.md">会大举蔓延至全世界？全球静待中国“明斯基时刻”</a></li>
 <li><a href="/sohnews/20230823/1924043.md">习近平金砖峰会重大会议神秘失踪！吃饭的时候才来！中国外交系统竭力掩饰！目前为止最靠谱的一种可能性</a></li>
 <li><a href="/topimagenews/20230823/1924041.md">打脸！中共7000吨级潜舰会走水深不到150米海峡？</a></li>
 <li><a href="/ccpdope/20230823/1924058.md">即将被中共引渡处决 百亿大佬抖出惊天黑幕</a></li>
-<li><a href="/baitai/20230823/1924137.md">方方：大势已去。但是有些话还是要说说的</a></li>
 <li><a href="/topimagenews/20230823/1923902.md">她是缅北诈骗集团女王? 与“果敢王”关系密切</a></li>
+<li><a href="/baitai/20230823/1924137.md">方方：大势已去。但是有些话还是要说说的</a></li>
 <li><a href="/comments/20230823/1924194.md">画面曝光： 习近平赴南非步履蹒跚多次闭目养神</a></li>
 <li><a href="/yule/20230823/1923994.md">田震被问怎么评价那英 冷冷说了三个字</a></li>
 <li><a href="/topimagenews/20230823/1924051.md">为了脸 中共太“厉害”了</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20230823/1923854.md">网传中共核潜舰出事 竟是郭文贵同路人放出</a></li>
 <li><a href="/ssgc/20230823/1923910.md">〖微博谈〗都保不了</a></li>
 <li><a href="/cnnews/20230823/1923960.md">倒习檄文出现！网友惊呼：炮打习近平 一张大字报 【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230823/1924020.md">习近平去哪儿了？ 美媒：陆领导人缺席重要金砖峰会论坛</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
 <li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 
 </ul>
 </div>
