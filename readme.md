@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230822/1923478.md">事关全体国人的爆炸性新闻，中共高层密谋习近平的后事，赶紧做重新封控的准备。《老灯开讲第365期》</a></li>
 <li><a href="/topimagenews/20230822/1923545.md">中共093型核潜舰台海失事全员罹难？专家、国防部这么说…</a></li>
 <li><a href="/cbnews/20230822/1923505.md">〖兲朝浮世绘〗大字报：香港商人刘梦熊炮打习近平</a></li>
 <li><a href="/topimagenews/20230822/1923594.md">乌军发布令人不寒而栗影片 普京开紧急会议</a></li>
@@ -16,17 +15,18 @@
 <li><a href="/cbnews/20230822/1923675.md">惊传中共核潜舰沉台海？专家：恐爆辐射危机</a></li>
 <li><a href="/topimagenews/20230823/1923805.md">前央视大咖主持沦“摆摊卖字画” 憔悴模样曝光</a></li>
 <li><a href="/health/20230822/1923637.md">别再吃了！哈佛：这些食物正在让你的肠道发炎</a></li>
-<li><a href="/topimagenews/20230822/1923674.md">暴跌99%“浓眉大眼”的2000亿巨头也崩了？“超级央行”重拳出击 经济全球化剔除中共</a></li>
 <li><a href="/finance/20230823/1923863.md">中国最隐秘的富豪，在非洲出事了？</a></li>
+<li><a href="/topimagenews/20230822/1923674.md">暴跌99%“浓眉大眼”的2000亿巨头也崩了？“超级央行”重拳出击 经济全球化剔除中共</a></li>
 <li><a href="/topimagenews/20230822/1923740.md">“我们家是上流社会人士…”南方电网员工老婆高调炫富惹争议</a></li>
 <li><a href="/baitai/20230822/1923598.md">不只房地产、金融 中国又一行业龙头暴雷</a></li>
+<li><a href="/topimagenews/20230823/1923861.md">会大举蔓延至全世界？全球静待中国“明斯基时刻”</a></li>
+<li><a href="/cnnews/20230823/1923852.md">德媒：北京功不可没，暴风雨即将来临</a></li>
 <li><a href="/sohnews/20230822/1923514.md">文睿：第一张“大字报”，炮打习近平，一尊，或被大规模群殴</a></li>
 <li><a href="/comments/20230822/1923772.md">【独家重磅】李燕铭：曾庆红发动大外宣造势金融政变 国际大媒体同期密集发文唱衰中国经济 报道记者共同特征揭秘 细思极恐 北戴河会后江曾集团政变反习行动升级 习近平高危酝酿绝地反击 习近平决战江曾（109） 中南海政变与反政变（116） 北戴河会议大战内幕（91） 钱袋子争夺战（51） 中共末日之经济危机（19） 习近平连任与中共末日（159） 文宣系统大清洗（34）</a></li>
-<li><a href="/topimagenews/20230823/1923861.md">会大举蔓延至全世界？全球静待中国“明斯基时刻”</a></li>
 <li><a href="/baitai/20230822/1923712.md">中国某省要裁员20% 评论指习亲信关键时刻将反目</a></li>
 <li><a href="/sohnews/20230822/1923526.md">中国疫苗的副作用大面积爆发 可有应对之法？</a></li>
-<li><a href="/cnnews/20230823/1923852.md">德媒：北京功不可没，暴风雨即将来临</a></li>
 <li><a href="/health/20230822/1923601.md">被评为世界上最抗癌的蔬菜 还可以在家水耕种植</a></li>
+<li><a href="/headline/20230822/1923743.md">疑为转移人口至雄安 京城发起腾退运动 百万企业倒闭百姓失业</a></li>
 <li><a href="/ccpdope/20230822/1923649.md">长痛不如短痛：中共崩溃后，中国会怎么样？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230823/1924017.md" target="_blank">郑毅有话说:说一件我最近经历的惊人的事</a></li>
+<li><a href="/comments/20230823/1924016.md" target="_blank">404：码头青年：大清都亡了多少年了，跳个僵尸舞怎么了？</a></li>
+<li><a href="/comments/20230823/1924015.md" target="_blank">寻访奥威尔，才懂得他对我们是多么重要</a></li>
+<li><a href="/comments/20230823/1924012.md" target="_blank">天亮时分：原因不明！习近平南非突然隐身，缺席重要演讲；强行将北京人口驱至雄安，或导致数百万人失业；全球坐等中国“明斯基”时刻（政论天下第1090集 20230822）天亮时分</a></li>
 <li><a href="/comments/20230823/1924006.md" target="_blank">谁夺第二？【方伟时间-20230822】</a></li>
 <li><a href="/comments/20230823/1924003.md" target="_blank">张菁：讨伐中共专制 推到暴政轮回的篱笆</a></li>
 <li><a href="/comments/20230823/1923989.md" target="_blank">刘梦熊：中国经济逆转最根本的原因在政治</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230822/1923772.md" target="_blank">【独家重磅】李燕铭：曾庆红发动大外宣造势金融政变 国际大媒体同期密集发文唱衰中国经济 报道记者共同特征揭秘 细思极恐 北戴河会后江曾集团政变反习行动升级 习近平高危酝酿绝地反击 习近平决战江曾（109） 中南海政变与反政变（116） 北戴河会议大战内幕（91） 钱袋子争夺战（51） 中共末日之经济危机（19） 习近平连任与中共末日（159） 文宣系统大清洗（34）</a></li>
 <li><a href="/comments/20230822/1923754.md" target="_blank">山雨欲来？美国敦促公民即刻离开白俄罗斯</a></li>
 <li><a href="/comments/20230822/1923753.md" target="_blank">【文昭谈古论今】中国首个省公务员将裁20%！猜猜是谁？</a></li>
-<li><a href="/comments/20230822/1923745.md" target="_blank">时事大家谈：连环爆雷 金融海啸涌进中南海？“台湾当归” 喊爽的还是另有用意？</a></li>
-<li><a href="/comments/20230822/1923719.md" target="_blank">文昭：西南某省被要求公务员裁20%，猜猜看，哪个省中招？</a></li>
-<li><a href="/comments/20230822/1923709.md" target="_blank">对话古老的灵魂！</a></li>
-<li><a href="/comments/20230822/1923692.md" target="_blank">问织女谁干的？ 天津高楼凶猛大火 陕西煤矿爆炸11人亡</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
 <li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
 <li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
 
 </ul>
 </div>
