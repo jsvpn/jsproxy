@@ -5,11 +5,10 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/sohnews/20230823/1924119.md">中共海军093潜艇沉没事件真相，胡锦涛逝世温家宝拒绝参与治丧内幕，国家卫健委主任马晓伟被抓。《老灯开讲第366期》</a></li>
 <li><a href="/topimagenews/20230823/1924140.md">反习第二炮打响！习近平后院起火【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230823/1924043.md">习近平金砖峰会重大会议神秘失踪！吃饭的时候才来！中国外交系统竭力掩饰！目前为止最靠谱的一种可能性</a></li>
-<li><a href="/comments/20230823/1924194.md">画面曝光： 习近平赴南非步履蹒跚多次闭目养神</a></li>
 <li><a href="/baitai/20230823/1924137.md">方方：大势已去。但是有些话还是要说说的</a></li>
+<li><a href="/comments/20230823/1924194.md">画面曝光： 习近平赴南非步履蹒跚多次闭目养神</a></li>
 <li><a href="/baitai/20230823/1924244.md">习近平现身金砖领袖晚宴 画面曝光 缺席重要论坛原因是这个？</a></li>
 <li><a href="/cnnews/20230824/1924346.md">画面疯传！金砖峰会，习近平翻译被保安扭住…</a></li>
 <li><a href="/topimagenews/20230824/1924311.md">突发！俄飞机失事 瓦格纳集团首领普里格津遇难死亡</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/comments/20230824/1924372.md">金砖峰会走红毯 习近平无人护驾寸步难行</a></li>
 <li><a href="/topimagenews/20230824/1924344.md">重磅报告出炉：经济黯淡之下，中国人正在改变…</a></li>
 <li><a href="/topimagenews/20230824/1924343.md">习突玩失踪引猜测，华春莹反应更奇怪</a></li>
-<li><a href="/sohnews/20230824/1924351.md">普里戈津坠机身亡，瓦格纳高层被一锅端！传防空导弹击落，普京暗杀令兑现；瓦格纳炸锅嚷报复，俄内战一触即发？</a></li>
 <li><a href="/topimagenews/20230824/1924318.md">新语录？习近平喊“中国没有称王称霸的基因” 各界热议登热搜</a></li>
-<li><a href="/cnnews/20230824/1924360.md">高层震动 首宗平民女子大闹中南海事件</a></li>
+<li><a href="/sohnews/20230824/1924351.md">普里戈津坠机身亡，瓦格纳高层被一锅端！传防空导弹击落，普京暗杀令兑现；瓦格纳炸锅嚷报复，俄内战一触即发？</a></li>
 <li><a href="/baitai/20230823/1924243.md">霸州爆大规模抗议 民众怒砸政府大门 后面还有大戏？</a></li>
+<li><a href="/cnnews/20230824/1924360.md">高层震动 首宗平民女子大闹中南海事件</a></li>
 <li><a href="/cnnews/20230824/1924363.md">曝中国百万网红在菲律宾被绑架，凌虐惨照网络疯传</a></li>
 <li><a href="/comments/20230824/1924413.md">文昭：普里戈津死了、习近平在南非出事故！事故的背後全是故事</a></li>
 <li><a href="/cnnews/20230824/1924319.md">真沉了？传陆核潜舰意外 美“不死凤凰”核侦察机南海现踪</a></li>
 <li><a href="/cnnews/20230823/1924161.md">“有钱不买河边地 有钱不娶活汉妻”啥意思？</a></li>
-<li><a href="/finance/20230823/1924111.md">很麻烦！现在的经济形势：没人信了</a></li>
+<li><a href="/sohnews/20230824/1924241.md">金砖峰会爆笑一幕：习近平的翻译被门卫粗暴地塞进了门缝😂！老习一脸懵逼。昨天习缺席重大会议之谜似乎已经解开了</a></li>
 <li><a href="/topimagenews/20230824/1924373.md">习近平对金砖峰会“高度重视”，背后目的曝光</a></li>
 <li><a href="/topimagenews/20230824/1924430.md">震撼！俄证实普里格津坠机身亡 10人罹难仅寻获8具遗体</a></li>
+<li><a href="/sohnews/20230823/1924170.md">南海实拍！中共八艘船为什么拦不住菲律宾两艘小艇？因为天上飞着美国的飞机</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
 <li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
 
 </ul>
 </div>
