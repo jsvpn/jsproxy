@@ -18,9 +18,9 @@
 <li><a href="/topimagenews/20230823/1924051.md">为了脸 中共太“厉害”了</a></li>
 <li><a href="/sohnews/20230824/1924303.md">“习近平遭遇何事？最后一刻取消演讲 一蹶不振？国内通稿：刻意掩盖式回避”《今日点击》（08/23/23）</a></li>
 <li><a href="/topimagenews/20230824/1924343.md">习突玩失踪引猜测，华春莹反应更奇怪</a></li>
+<li><a href="/comments/20230824/1924372.md">金砖峰会走红毯 习近平无人护驾寸步难行</a></li>
 <li><a href="/sohnews/20230824/1924351.md">普里戈津坠机身亡，瓦格纳高层被一锅端！传防空导弹击落，普京暗杀令兑现；瓦格纳炸锅嚷报复，俄内战一触即发？</a></li>
 <li><a href="/topimagenews/20230824/1924318.md">新语录？习近平喊“中国没有称王称霸的基因” 各界热议登热搜</a></li>
-<li><a href="/comments/20230824/1924372.md">金砖峰会走红毯 习近平无人护驾寸步难行</a></li>
 <li><a href="/cnnews/20230824/1924360.md">高层震动 首宗平民女子大闹中南海事件</a></li>
 <li><a href="/cnnews/20230824/1924363.md">曝中国百万网红在菲律宾被绑架，凌虐惨照网络疯传</a></li>
 <li><a href="/cnnews/20230824/1924319.md">真沉了？传陆核潜舰意外 美“不死凤凰”核侦察机南海现踪</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230824/1924532.md" target="_blank">习起头普京紧跟，中俄对西方发起猛烈抨击</a></li>
 <li><a href="/cbnews/20230824/1924523.md" target="_blank">江峰：普利戈金座机被导弹击落，瓦戈纳军事领袖乌特金同时丧生，谁干的？！乌克兰？中情局？还是与他拥有同样一批民族主义铁杆拥趸的普京？这两个关键因素，决定是谁下的手。【江峰漫谈20230823第718期】</a></li>
 <li><a href="/cbnews/20230824/1924518.md" target="_blank">〖兲朝浮世绘〗好不容易去金砖峰会拽一圈 还没参加工商论坛</a></li>
 <li><a href="/cbnews/20230824/1924500.md" target="_blank">到底去哪了？习无故缺席金砖论坛却又现身晚宴</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/comments/20230823/1923938.md" target="_blank">用牙齿做眼睛 你敢相信吗？</a></li>
 <li><a href="/comments/20230823/1923898.md" target="_blank">横河：习近平缺席峰会演讲或与内斗有关；联合早报文章重砲轰习，体制内联手；改革开放的祸根早就埋下，中共体制不可能进行政治改革 ｜新闻烽火台 08/22</a></li>
 <li><a href="/comments/20230822/1923709.md" target="_blank">对话古老的灵魂！</a></li>
-<li><a href="/cbnews/20230822/1923706.md" target="_blank">最新数据显示中国生育率大幅降至1.09 仅高于韩国香港</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230824/1924531.md" target="_blank">诡异：普里格任生死成谜，网传他改变航线返回莫斯科</a></li>
 <li><a href="/topimagenews/20230824/1924498.md" target="_blank">“不忠等于自取灭亡，普京不会原谅任何人”</a></li>
 <li><a href="/topimagenews/20230824/1924430.md" target="_blank">震撼！俄证实普里格津坠机身亡 10人罹难仅寻获8具遗体</a></li>
 <li><a href="/topimagenews/20230824/1924415.md" target="_blank">乌克兰再收复一处战略地！但最惨的还在这里</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20230823/1923875.md" target="_blank">尴尬…国民吃了霸王餐 总理被别国总统当面要钱</a></li>
 <li><a href="/topimagenews/20230823/1923861.md" target="_blank">会大举蔓延至全世界？全球静待中国“明斯基时刻”</a></li>
 <li><a href="/topimagenews/20230823/1923860.md" target="_blank">3份文件建构历史转折 北京自酿苦酒自己喝</a></li>
-<li><a href="/topimagenews/20230823/1923817.md" target="_blank">经济危机蔓延！中国健身龙头也爆雷 多地门店传出停业、欠薪</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230824/1924540.md" target="_blank">王友群：中共经济惊雷阵阵 根子在哪里？</a></li>
+<li><a href="/comments/20230824/1924539.md" target="_blank">菁英论坛:习近平金砖梦难圆 中共战备升级</a></li>
 <li><a href="/comments/20230824/1924524.md" target="_blank">普里戈津遭坠机丧命！习近平随从在南非遭锤，一尊慌了！ 反习势力趁金砖峰会发讨习檄文，习家军全怂了？</a></li>
 <li><a href="/comments/20230824/1924487.md" target="_blank">麟阁经略：“我老公行贿30万入职，是电力系统的上流人士”</a></li>
 <li><a href="/comments/20230824/1924486.md" target="_blank">林保华：中共高层异象对台陷于混乱</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230823/1924211.md" target="_blank">香港富商刘梦熊发反习檄文： “问题在经济、根子在政治”</a></li>
 <li><a href="/comments/20230823/1924196.md" target="_blank">【新闻拍案惊奇】香港富豪列习近平“四大罪状”</a></li>
 <li><a href="/comments/20230823/1924195.md" target="_blank">【新闻速递】《中国好声音》全面崩溃 刀郎疑似被封杀</a></li>
-<li><a href="/comments/20230823/1924194.md" target="_blank">画面曝光： 习近平赴南非步履蹒跚多次闭目养神</a></li>
-<li><a href="/comments/20230823/1924188.md" target="_blank">【梁京评论】自由世界为甚么为最坏的可能做准备？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
 <li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
 
 </ul>
 </div>
