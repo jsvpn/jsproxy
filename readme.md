@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20230823/1924041.md">打脸！中共7000吨级潜舰会走水深不到150米海峡？</a></li>
 <li><a href="/ccpdope/20230823/1924058.md">即将被中共引渡处决 百亿大佬抖出惊天黑幕</a></li>
 <li><a href="/sohnews/20230823/1924043.md">习近平金砖峰会重大会议神秘失踪！吃饭的时候才来！中国外交系统竭力掩饰！目前为止最靠谱的一种可能性</a></li>
-<li><a href="/comments/20230823/1924194.md">画面曝光： 习近平赴南非步履蹒跚多次闭目养神</a></li>
 <li><a href="/baitai/20230823/1924137.md">方方：大势已去。但是有些话还是要说说的</a></li>
+<li><a href="/comments/20230823/1924194.md">画面曝光： 习近平赴南非步履蹒跚多次闭目养神</a></li>
 <li><a href="/baitai/20230823/1924244.md">习近平现身金砖领袖晚宴 画面曝光 缺席重要论坛原因是这个？</a></li>
-<li><a href="/topimagenews/20230823/1923902.md">她是缅北诈骗集团女王? 与“果敢王”关系密切</a></li>
 <li><a href="/topimagenews/20230824/1924311.md">突发！俄飞机失事 瓦格纳集团首领普里格津遇难死亡</a></li>
 <li><a href="/yule/20230823/1923994.md">田震被问怎么评价那英 冷冷说了三个字</a></li>
 <li><a href="/topimagenews/20230823/1924051.md">为了脸 中共太“厉害”了</a></li>
 <li><a href="/baitai/20230823/1924044.md">习近平解决雄安空城出新招？北京突下令「腾退」 企业血本无归 百万人失业【国际风云】</a></li>
 <li><a href="/topimagenews/20230823/1923999.md">媒体焦点大新闻：中共在大批杀戮…</a></li>
-<li><a href="/ssgc/20230823/1923910.md">〖微博谈〗都保不了</a></li>
-<li><a href="/cnnews/20230823/1923960.md">倒习檄文出现！网友惊呼：炮打习近平 一张大字报 【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230824/1924303.md">“习近平遭遇何事？最后一刻取消演讲 一蹶不振？国内通稿：刻意掩盖式回避”《今日点击》（08/23/23）</a></li>
+<li><a href="/cnnews/20230823/1923960.md">倒习檄文出现！网友惊呼：炮打习近平 一张大字报 【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230823/1924020.md">习近平去哪儿了？ 美媒：陆领导人缺席重要金砖峰会论坛</a></li>
 <li><a href="/cbnews/20230823/1923944.md">反习战斗檄文出炉？习近平该醒醒了【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230823/1924161.md">“有钱不买河边地 有钱不娶活汉妻”啥意思？</a></li>
 <li><a href="/finance/20230823/1924111.md">很麻烦！现在的经济形势：没人信了</a></li>
+<li><a href="/baitai/20230823/1924102.md">外访期间也玩消失？习近平缺席金砖峰会重要论坛 专家惊呼：不对劲</a></li>
+<li><a href="/topimagenews/20230824/1924318.md">新语录？习近平喊“中国没有称王称霸的基因” 各界热议登热搜</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230824/1924413.md" target="_blank">文昭：普里戈津死了、习近平在南非出事故！事故的背後全是故事</a></li>
+<li><a href="/comments/20230824/1924405.md" target="_blank">陈鹏顺：从伦敦涂鸦事情看中共治下的国民素质和中共大外宣的溃败</a></li>
+<li><a href="/comments/20230824/1924404.md" target="_blank">黄亚生：进入苏联模式中国科技已经输了</a></li>
 <li><a href="/comments/20230824/1924398.md" target="_blank">普里戈津死了！普京曾说他不原谅背叛；金砖峰会习近平举止异常，身体出状况了？中国经济会倒退数十年？｜唐靖远 大宇 Jason 方菲 David ｜围炉夜话 08/23</a></li>
 <li><a href="/comments/20230824/1924390.md" target="_blank">觅真：最近又有很多中共官员遭恶报或被曝光</a></li>
 <li><a href="/comments/20230824/1924389.md" target="_blank">周晓辉：习近平南非取消演讲背后有何因？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230823/1924006.md" target="_blank">谁夺第二？【方伟时间-20230822】</a></li>
 <li><a href="/comments/20230823/1924003.md" target="_blank">张菁：讨伐中共专制 推到暴政轮回的篱笆</a></li>
 <li><a href="/comments/20230823/1923989.md" target="_blank">刘梦熊：中国经济逆转最根本的原因在政治</a></li>
-<li><a href="/comments/20230823/1923988.md" target="_blank">许成钢：“它害怕资本主义，它害怕和平演变，那它害怕的正好就是这个东西”</a></li>
-<li><a href="/comments/20230823/1923987.md" target="_blank">暴财经pro：铁饭碗，也保不住了</a></li>
-<li><a href="/comments/20230823/1923986.md" target="_blank">网络民议：限生机构摇身一变变催生</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 <li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 
 </ul>
 </div>
