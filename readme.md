@@ -5,13 +5,12 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
-<li><a href="/comments/20230823/1924194.md">画面曝光： 习近平赴南非步履蹒跚多次闭目养神</a></li>
 <li><a href="/baitai/20230823/1924244.md">习近平现身金砖领袖晚宴 画面曝光 缺席重要论坛原因是这个？</a></li>
 <li><a href="/cnnews/20230824/1924346.md">画面疯传！金砖峰会，习近平翻译被保安扭住…</a></li>
 <li><a href="/sohnews/20230824/1924303.md">“习近平遭遇何事？最后一刻取消演讲 一蹶不振？国内通稿：刻意掩盖式回避”《今日点击》（08/23/23）</a></li>
 <li><a href="/topimagenews/20230824/1924311.md">突发！俄飞机失事 瓦格纳集团首领普里格津遇难死亡</a></li>
-<li><a href="/topimagenews/20230824/1924344.md">重磅报告出炉：经济黯淡之下，中国人正在改变…</a></li>
 <li><a href="/comments/20230824/1924372.md">金砖峰会走红毯 习近平无人护驾寸步难行</a></li>
+<li><a href="/topimagenews/20230824/1924344.md">重磅报告出炉：经济黯淡之下，中国人正在改变…</a></li>
 <li><a href="/baitai/20230823/1924243.md">霸州爆大规模抗议 民众怒砸政府大门 后面还有大戏？</a></li>
 <li><a href="/topimagenews/20230824/1924343.md">习突玩失踪引猜测，华春莹反应更奇怪</a></li>
 <li><a href="/topimagenews/20230824/1924318.md">新语录？习近平喊“中国没有称王称霸的基因” 各界热议登热搜</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/sohnews/20230824/1924351.md">普里戈津坠机身亡，瓦格纳高层被一锅端！传防空导弹击落，普京暗杀令兑现；瓦格纳炸锅嚷报复，俄内战一触即发？</a></li>
 <li><a href="/cnnews/20230824/1924363.md">曝中国百万网红在菲律宾被绑架，凌虐惨照网络疯传</a></li>
 <li><a href="/comments/20230824/1924413.md">文昭：普里戈津死了、习近平在南非出事故！事故的背後全是故事</a></li>
-<li><a href="/cnnews/20230824/1924319.md">真沉了？传陆核潜舰意外 美“不死凤凰”核侦察机南海现踪</a></li>
 <li><a href="/sohnews/20230824/1924241.md">金砖峰会爆笑一幕：习近平的翻译被门卫粗暴地塞进了门缝😂！老习一脸懵逼。昨天习缺席重大会议之谜似乎已经解开了</a></li>
+<li><a href="/cnnews/20230824/1924319.md">真沉了？传陆核潜舰意外 美“不死凤凰”核侦察机南海现踪</a></li>
+<li><a href="/baitai/20230824/1924592.md">中国人醒了？党媒消息遭群起嘲讽 网管也不管了</a></li>
 <li><a href="/ssgc/20230824/1924424.md">〖微博谈〗一个无法岁静的时代</a></li>
-<li><a href="/topimagenews/20230824/1924430.md">震撼！俄证实普里格津坠机身亡 10人罹难仅寻获8具遗体</a></li>
-<li><a href="/topimagenews/20230824/1924373.md">习近平对金砖峰会“高度重视”，背后目的曝光</a></li>
 <li><a href="/cbnews/20230824/1924518.md">〖兲朝浮世绘〗好不容易去金砖峰会拽一圈 还没参加工商论坛</a></li>
+<li><a href="/topimagenews/20230824/1924373.md">习近平对金砖峰会“高度重视”，背后目的曝光</a></li>
+<li><a href="/topimagenews/20230824/1924430.md">震撼！俄证实普里格津坠机身亡 10人罹难仅寻获8具遗体</a></li>
 <li><a href="/sohnews/20230824/1924350.md">普利戈津居然熬到今天，金砖峰会上习随从被拦截，秦刚哪去了？王文涛代读画饼给谁看，刘梦熊联合早报为谁代言｜ 横河观点 2023.08.23</a></li>
 <li><a href="/topimagenews/20230824/1924414.md">瓦格纳首脑普里格津坠机亡？97秒目击片“高空坠地爆炸起火”</a></li>
-<li><a href="/baitai/20230824/1924592.md">中国人醒了？党媒消息遭群起嘲讽 网管也不管了</a></li>
+<li><a href="/sohnews/20230824/1924557.md">王小洪吸取普里戈任教训造反到底，霸州灾民暴动捣毁市政府，国家卫健委主任马晓伟落马被抓。《老灯开讲第367期》</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230824/1924668.md" target="_blank">金砖峰会插曲：助手被拦门外 习近平只身入场</a></li>
 <li><a href="/comments/20230824/1924667.md" target="_blank">【未普评论】习近平的行为很难预测（下）</a></li>
 <li><a href="/comments/20230824/1924540.md" target="_blank">王友群：中共经济惊雷阵阵 根子在哪里？</a></li>
 <li><a href="/comments/20230824/1924539.md" target="_blank">菁英论坛:习近平金砖梦难圆 中共战备升级</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230823/1924232.md" target="_blank">川普不参加共和党首场初选辩论的真正原因。川普留后手。CNN向川普举白旗。#初选辩论 #川普 #2024年大选</a></li>
 <li><a href="/comments/20230823/1924213.md" target="_blank">昂宿星人 这么漂亮？！</a></li>
 <li><a href="/comments/20230823/1924211.md" target="_blank">香港富商刘梦熊发反习檄文： “问题在经济、根子在政治”</a></li>
-<li><a href="/comments/20230823/1924196.md" target="_blank">【新闻拍案惊奇】香港富豪列习近平“四大罪状”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 <li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
 <li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
 
 </ul>
 </div>
