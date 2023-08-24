@@ -21,13 +21,13 @@
 <li><a href="/sohnews/20230824/1924303.md">“习近平遭遇何事？最后一刻取消演讲 一蹶不振？国内通稿：刻意掩盖式回避”《今日点击》（08/23/23）</a></li>
 <li><a href="/baitai/20230823/1924044.md">习近平解决雄安空城出新招？北京突下令「腾退」 企业血本无归 百万人失业【国际风云】</a></li>
 <li><a href="/topimagenews/20230823/1923999.md">媒体焦点大新闻：中共在大批杀戮…</a></li>
-<li><a href="/cnnews/20230823/1923960.md">倒习檄文出现！网友惊呼：炮打习近平 一张大字报 【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230823/1924020.md">习近平去哪儿了？ 美媒：陆领导人缺席重要金砖峰会论坛</a></li>
-<li><a href="/cbnews/20230823/1923944.md">反习战斗檄文出炉？习近平该醒醒了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230824/1924318.md">新语录？习近平喊“中国没有称王称霸的基因” 各界热议登热搜</a></li>
-<li><a href="/cnnews/20230823/1924161.md">“有钱不买河边地 有钱不娶活汉妻”啥意思？</a></li>
+<li><a href="/cbnews/20230823/1924020.md">习近平去哪儿了？ 美媒：陆领导人缺席重要金砖峰会论坛</a></li>
+<li><a href="/cnnews/20230824/1924346.md">画面疯传！金砖峰会，习近平翻译被保安扭住…</a></li>
+<li><a href="/topimagenews/20230824/1924344.md">重磅报告出炉：经济黯淡之下，中国人正在改变…</a></li>
 <li><a href="/finance/20230823/1924111.md">很麻烦！现在的经济形势：没人信了</a></li>
 <li><a href="/baitai/20230823/1924102.md">外访期间也玩消失？习近平缺席金砖峰会重要论坛 专家惊呼：不对劲</a></li>
+<li><a href="/baitai/20230823/1924243.md">霸州爆大规模抗议 民众怒砸政府大门 后面还有大戏？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230824/1924430.md" target="_blank">震撼！俄证实普里格津坠机身亡 10人罹难仅寻获8具遗体</a></li>
 <li><a href="/topimagenews/20230824/1924415.md" target="_blank">乌克兰再收复一处战略地！但最惨的还在这里</a></li>
 <li><a href="/topimagenews/20230824/1924414.md" target="_blank">瓦格纳首脑普里格津坠机亡？97秒目击片“高空坠地爆炸起火”</a></li>
 <li><a href="/topimagenews/20230824/1924401.md" target="_blank">“我老公行贿30万 年入50万 是电力系统上流人士”</a></li>
@@ -90,13 +91,16 @@
 <li><a href="/topimagenews/20230823/1923860.md" target="_blank">3份文件建构历史转折 北京自酿苦酒自己喝</a></li>
 <li><a href="/topimagenews/20230823/1923817.md" target="_blank">经济危机蔓延！中国健身龙头也爆雷 多地门店传出停业、欠薪</a></li>
 <li><a href="/topimagenews/20230823/1923805.md" target="_blank">前央视大咖主持沦“摆摊卖字画” 憔悴模样曝光</a></li>
-<li><a href="/topimagenews/20230822/1923740.md" target="_blank">“我们家是上流社会人士…”南方电网员工老婆高调炫富惹争议</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230824/1924437.md" target="_blank">西坡原创：穷得只剩下骄傲了</a></li>
+<li><a href="/comments/20230824/1924436.md" target="_blank">维舟：生还是不生，是你能决定的吗？</a></li>
+<li><a href="/comments/20230824/1924435.md" target="_blank">老牌恶棍：“西方伪史论”为何在中国如此盛行？</a></li>
+<li><a href="/comments/20230824/1924429.md" target="_blank">天亮时分：普里戈津丧命，座机被击落，普京的沉默说明一切；习近平南非又出意外，翻译被死死按住；秦刚命运月底揭晓？（政论天下第1091集 20230823）</a></li>
 <li><a href="/comments/20230824/1924413.md" target="_blank">文昭：普里戈津死了、习近平在南非出事故！事故的背後全是故事</a></li>
 <li><a href="/comments/20230824/1924405.md" target="_blank">陈鹏顺：从伦敦涂鸦事情看中共治下的国民素质和中共大外宣的溃败</a></li>
 <li><a href="/comments/20230824/1924404.md" target="_blank">黄亚生：进入苏联模式中国科技已经输了</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230823/1924017.md" target="_blank">郑毅有话说:说一件我最近经历的惊人的事</a></li>
 <li><a href="/comments/20230823/1924016.md" target="_blank">404：码头青年：大清都亡了多少年了，跳个僵尸舞怎么了？</a></li>
 <li><a href="/comments/20230823/1924015.md" target="_blank">寻访奥威尔，才懂得他对我们是多么重要</a></li>
-<li><a href="/comments/20230823/1924012.md" target="_blank">天亮时分：原因不明！习近平南非突然隐身，缺席重要演讲；强行将北京人口驱至雄安，或导致数百万人失业；全球坐等中国“明斯基”时刻（政论天下第1090集 20230822）天亮时分</a></li>
-<li><a href="/comments/20230823/1924006.md" target="_blank">谁夺第二？【方伟时间-20230822】</a></li>
-<li><a href="/comments/20230823/1924003.md" target="_blank">张菁：讨伐中共专制 推到暴政轮回的篱笆</a></li>
-<li><a href="/comments/20230823/1923989.md" target="_blank">刘梦熊：中国经济逆转最根本的原因在政治</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
 
 </ul>
 </div>
