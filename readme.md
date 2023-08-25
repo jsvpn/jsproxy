@@ -9,8 +9,8 @@
 <li><a href="/topimagenews/20230824/1924639.md">是他！被南非保镖一把推开的是习近平的...【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230824/1924592.md">中国人醒了？党媒消息遭群起嘲讽 网管也不管了</a></li>
 <li><a href="/baitai/20230824/1924675.md">确实出事了？习异常表现引国际关注</a></li>
-<li><a href="/cbnews/20230824/1924614.md">中共093潜舰 惊传在台海出事 美专家说话了</a></li>
 <li><a href="/sohnews/20230824/1924557.md">王小洪吸取普里戈任教训造反到底，霸州灾民暴动捣毁市政府，国家卫健委主任马晓伟落马被抓。《老灯开讲第367期》</a></li>
+<li><a href="/cbnews/20230824/1924614.md">中共093潜舰 惊传在台海出事 美专家说话了</a></li>
 <li><a href="/cbnews/20230824/1924518.md">〖兲朝浮世绘〗好不容易去金砖峰会拽一圈 还没参加工商论坛</a></li>
 <li><a href="/comments/20230824/1924711.md">【独家重磅】李燕铭：习近平外访险象环生 彭丽媛坐镇京城高调率两文宣高官现身 剑拔弩张迎战曾庆红文宣政变 彭丽媛幕后掌控 文宣系统大清洗箭在弦上 第八常委彭丽媛（13） 习近平决战江曾（111） 中南海政变与反政变（118） 习近平连任与中共末日（161） 文宣系统大清洗（35）</a></li>
 <li><a href="/baitai/20230824/1924661.md">马云「现身」 最新言论曝光</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/topimagenews/20230824/1924531.md">诡异：普里格任生死成谜，网传他改变航线返回莫斯科</a></li>
 <li><a href="/topimagenews/20230824/1924692.md">简单粗暴！普丁疑公开处决佣兵首脑 但恐落入独裁者陷阱</a></li>
 <li><a href="/topimagenews/20230824/1924588.md">比李嘉诚7折卖房还狠 香港又一豪门打对折参战</a></li>
+<li><a href="/cbnews/20230825/1924823.md">经济困难之际 习出人意料豪送百亿美金</a></li>
+<li><a href="/topimagenews/20230825/1924821.md">为何炸飞机而非惯用手段？网8字神解超精辟</a></li>
 <li><a href="/comments/20230824/1924680.md">【新闻拍案惊奇】普京干掉普里戈津？习近平南非不敢发言怕被刺？</a></li>
 <li><a href="/topimagenews/20230824/1924597.md">叛变后坠机不单纯？瓦格纳高层几乎灭团 坠毁机型20年来仅一起事故</a></li>
+<li><a href="/topimagenews/20230825/1924781.md">普里格津坠机亡 前MI6高官：俄商界高层早已发包要处理他</a></li>
 <li><a href="/cnnews/20230824/1924541.md">瓦格纳为普里格任复仇 扬言兵变占领克里姆林宫</a></li>
-<li><a href="/lifebaike/20230824/1924470.md">拿香港身份，有多少人后悔了？</a></li>
-<li><a href="/topimagenews/20230825/1924821.md">为何炸飞机而非惯用手段？网8字神解超精辟</a></li>
-<li><a href="/cbnews/20230825/1924823.md">经济困难之际 习出人意料豪送百亿美金</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230825/1924920.md" target="_blank">600位拥有紫色眼睛的人⋯⋯</a></li>
 <li><a href="/cbnews/20230825/1924823.md" target="_blank">经济困难之际 习出人意料豪送百亿美金</a></li>
 <li><a href="/cbnews/20230825/1924822.md" target="_blank">普里戈津死了，习近平领导下的中国更难了</a></li>
 <li><a href="/cbnews/20230824/1924714.md" target="_blank">外媒称瓦格纳创始人死于飞机失事 大陆外交部回应了</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230823/1924127.md" target="_blank">微创手术割到血管！福建10岁女童“全身血液喷干”脑死 暗黑内幕曝</a></li>
 <li><a href="/cbnews/20230823/1924029.md" target="_blank">江峰：金正恩灾区痛斥干部不作为国人喊好，北朝鲜“李强”负罪下台？中共核潜艇台海沉没传言真伪辨，国军掌握一秘密大杀器。王毅身份怪异党报主动申辩；白俄罗斯要出事儿！【江峰漫谈20230822第717期】</a></li>
 <li><a href="/cbnews/20230823/1924020.md" target="_blank">习近平去哪儿了？ 美媒：陆领导人缺席重要金砖峰会论坛</a></li>
-<li><a href="/comments/20230823/1924006.md" target="_blank">谁夺第二？【方伟时间-20230822】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230825/1924920.md" target="_blank">600位拥有紫色眼睛的人⋯⋯</a></li>
+<li><a href="/comments/20230825/1924908.md" target="_blank">《钢铁是怎样炼成的》骗了习近平 也骗了中国</a></li>
+<li><a href="/comments/20230825/1924907.md" target="_blank">李濠仲：对政客的“抖音脑”应有警觉</a></li>
+<li><a href="/comments/20230825/1924906.md" target="_blank">蔡明芳：挽救中国经济 先取消“反间谍法”</a></li>
+<li><a href="/comments/20230825/1924905.md" target="_blank">蔡明芳：恒大、碧桂园违约仅是中国经济困境的缩影</a></li>
+<li><a href="/comments/20230825/1924904.md" target="_blank">宋国诚：解析美日韩“大卫营峰会”</a></li>
 <li><a href="/comments/20230824/1924718.md" target="_blank">热点快评：普里戈津坠机丧命，您感到意外吗？</a></li>
 <li><a href="/comments/20230824/1924717.md" target="_blank">时事大家谈：房地产加速失控，中国经济濒临悬崖？ “问题在经济根子在政治”，中共有勇气对症下药吗？</a></li>
 <li><a href="/comments/20230824/1924711.md" target="_blank">【独家重磅】李燕铭：习近平外访险象环生 彭丽媛坐镇京城高调率两文宣高官现身 剑拔弩张迎战曾庆红文宣政变 彭丽媛幕后掌控 文宣系统大清洗箭在弦上 第八常委彭丽媛（13） 习近平决战江曾（111） 中南海政变与反政变（118） 习近平连任与中共末日（161） 文宣系统大清洗（35）</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20230824/1924486.md" target="_blank">林保华：中共高层异象对台陷于混乱</a></li>
 <li><a href="/comments/20230824/1924437.md" target="_blank">西坡原创：穷得只剩下骄傲了</a></li>
 <li><a href="/comments/20230824/1924436.md" target="_blank">维舟：生还是不生，是你能决定的吗？</a></li>
-<li><a href="/comments/20230824/1924435.md" target="_blank">老牌恶棍：“西方伪史论”为何在中国如此盛行？</a></li>
-<li><a href="/comments/20230824/1924429.md" target="_blank">天亮时分：普里戈津丧命，座机被击落，普京的沉默说明一切；习近平南非又出意外，翻译被死死按住；秦刚命运月底揭晓？（政论天下第1091集 20230823）</a></li>
-<li><a href="/comments/20230824/1924413.md" target="_blank">文昭：普里戈津死了、习近平在南非出事故！事故的背後全是故事</a></li>
-<li><a href="/comments/20230824/1924405.md" target="_blank">陈鹏顺：从伦敦涂鸦事情看中共治下的国民素质和中共大外宣的溃败</a></li>
-<li><a href="/comments/20230824/1924404.md" target="_blank">黄亚生：进入苏联模式中国科技已经输了</a></li>
-<li><a href="/comments/20230824/1924398.md" target="_blank">普里戈津死了！普京曾说他不原谅背叛；金砖峰会习近平举止异常，身体出状况了？中国经济会倒退数十年？｜唐靖远 大宇 Jason 方菲 David ｜围炉夜话 08/23</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
 <li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
 <li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
 
 </ul>
 </div>
