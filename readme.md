@@ -15,19 +15,19 @@
 <li><a href="/topimagenews/20230825/1924854.md">习握手出状况！巴西总统抓着他的手才完成合照</a></li>
 <li><a href="/cbnews/20230825/1924823.md">经济困难之际 习出人意料豪送百亿美金</a></li>
 <li><a href="/topimagenews/20230825/1924855.md">美银警告：人民币恐跌至7.7</a></li>
-<li><a href="/topimagenews/20230825/1924821.md">为何炸飞机而非惯用手段？网8字神解超精辟</a></li>
 <li><a href="/topimagenews/20230824/1924622.md">陆百万美女网红游菲遭绑架 全身瘀青照疯传！警方不管 商会出手了…</a></li>
+<li><a href="/topimagenews/20230825/1924821.md">为何炸飞机而非惯用手段？网8字神解超精辟</a></li>
 <li><a href="/cbnews/20230825/1924822.md">普里戈津死了，习近平领导下的中国更难了</a></li>
 <li><a href="/topimagenews/20230824/1924623.md">瓦格纳首脑普里戈津坠机影片疯传 俄国警方出动特警封锁坠机现场</a></li>
 <li><a href="/topimagenews/20230824/1924692.md">简单粗暴！普丁疑公开处决佣兵首脑 但恐落入独裁者陷阱</a></li>
-<li><a href="/topimagenews/20230825/1924781.md">普里格津坠机亡 前MI6高官：俄商界高层早已发包要处理他</a></li>
-<li><a href="/ccpdope/20230825/1924817.md">幽默：国际法庭拘扣习近平 中共外交部被骗走二亿</a></li>
-<li><a href="/topimagenews/20230824/1924744.md">坠机有隐情？ 瓦格纳专机空姐怨“不明原因延误” 最后发文曝</a></li>
 <li><a href="/topimagenews/20230825/1924949.md">【微博精粹】再卖力唱衰 也不如它自己滴答作响</a></li>
+<li><a href="/topimagenews/20230825/1924781.md">普里格津坠机亡 前MI6高官：俄商界高层早已发包要处理他</a></li>
+<li><a href="/topimagenews/20230824/1924744.md">坠机有隐情？ 瓦格纳专机空姐怨“不明原因延误” 最后发文曝</a></li>
+<li><a href="/ccpdope/20230825/1924817.md">幽默：国际法庭拘扣习近平 中共外交部被骗走二亿</a></li>
 <li><a href="/comments/20230824/1924680.md">【新闻拍案惊奇】普京干掉普里戈津？习近平南非不敢发言怕被刺？</a></li>
 <li><a href="/topimagenews/20230825/1924867.md">普里格津坠机身亡 俄官场沉默 泽伦斯基发话</a></li>
 <li><a href="/finance/20230825/1924824.md">一群大佬的“中国梦”逐渐破灭</a></li>
-<li><a href="/sohnews/20230825/1924818.md">日本开排核废水，中共全网“暴动”大骂；全民抢盐背后另有真正危机；普京猫哭老鼠，瓦格纳加入乌克兰！习近平怕死玩“消失”！</a></li>
+<li><a href="/baitai/20230825/1924888.md">传中共备战升级 西方在做最坏准备？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 <li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
 <li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
 
 </ul>
 </div>
