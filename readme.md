@@ -9,7 +9,6 @@
 <li><a href="/topimagenews/20230824/1924639.md">是他！被南非保镖一把推开的是习近平的...【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230824/1924592.md">中国人醒了？党媒消息遭群起嘲讽 网管也不管了</a></li>
 <li><a href="/baitai/20230824/1924675.md">确实出事了？习异常表现引国际关注</a></li>
-<li><a href="/sohnews/20230824/1924241.md">金砖峰会爆笑一幕：习近平的翻译被门卫粗暴地塞进了门缝😂！老习一脸懵逼。昨天习缺席重大会议之谜似乎已经解开了</a></li>
 <li><a href="/cbnews/20230824/1924614.md">中共093潜舰 惊传在台海出事 美专家说话了</a></li>
 <li><a href="/sohnews/20230824/1924557.md">王小洪吸取普里戈任教训造反到底，霸州灾民暴动捣毁市政府，国家卫健委主任马晓伟落马被抓。《老灯开讲第367期》</a></li>
 <li><a href="/cbnews/20230824/1924518.md">〖兲朝浮世绘〗好不容易去金砖峰会拽一圈 还没参加工商论坛</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/baitai/20230824/1924661.md">马云「现身」 最新言论曝光</a></li>
 <li><a href="/ssgc/20230824/1924687.md">习近平南非取消演讲背后有何因？</a></li>
 <li><a href="/comments/20230824/1924524.md">普里戈津遭坠机丧命！习近平随从在南非遭锤，一尊慌了！ 反习势力趁金砖峰会发讨习檄文，习家军全怂了？</a></li>
-<li><a href="/topimagenews/20230824/1924430.md">震撼！俄证实普里格津坠机身亡 10人罹难仅寻获8具遗体</a></li>
 <li><a href="/cbnews/20230824/1924500.md">到底去哪了？习无故缺席金砖论坛却又现身晚宴</a></li>
 <li><a href="/topimagenews/20230824/1924622.md">陆百万美女网红游菲遭绑架 全身瘀青照疯传！警方不管 商会出手了…</a></li>
 <li><a href="/topimagenews/20230824/1924623.md">瓦格纳首脑普里戈津坠机影片疯传 俄国警方出动特警封锁坠机现场</a></li>
 <li><a href="/topimagenews/20230824/1924531.md">诡异：普里格任生死成谜，网传他改变航线返回莫斯科</a></li>
 <li><a href="/topimagenews/20230824/1924692.md">简单粗暴！普丁疑公开处决佣兵首脑 但恐落入独裁者陷阱</a></li>
 <li><a href="/topimagenews/20230824/1924588.md">比李嘉诚7折卖房还狠 香港又一豪门打对折参战</a></li>
-<li><a href="/sohnews/20230824/1924428.md">普里戈津无了，瓦格纳誓言报仇；翻译被拒习发呆，一脸倦容身体有恙？100万将被冻结？转帐不能超5000；“内鬼”勾结犯罪，8千万手机号背后【新闻看点 李沐阳8.23】</a></li>
 <li><a href="/comments/20230824/1924680.md">【新闻拍案惊奇】普京干掉普里戈津？习近平南非不敢发言怕被刺？</a></li>
 <li><a href="/topimagenews/20230824/1924597.md">叛变后坠机不单纯？瓦格纳高层几乎灭团 坠毁机型20年来仅一起事故</a></li>
 <li><a href="/cnnews/20230824/1924541.md">瓦格纳为普里格任复仇 扬言兵变占领克里姆林宫</a></li>
+<li><a href="/lifebaike/20230824/1924470.md">拿香港身份，有多少人后悔了？</a></li>
+<li><a href="/topimagenews/20230825/1924821.md">为何炸飞机而非惯用手段？网8字神解超精辟</a></li>
+<li><a href="/cbnews/20230825/1924823.md">经济困难之际 习出人意料豪送百亿美金</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
 <li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
 
 </ul>
 </div>
