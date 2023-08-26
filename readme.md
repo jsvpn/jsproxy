@@ -10,24 +10,24 @@
 <li><a href="/topimagenews/20230825/1925151.md">市场惶恐！中共毫不留情祭出雷霆手段；炮轰习近平！反习战斗檄文出世</a></li>
 <li><a href="/cbnews/20230825/1925013.md">24死！莫迪峰会上单刀直入，向习抛出这个问题</a></li>
 <li><a href="/cbnews/20230825/1924970.md">〖兲朝浮世绘〗完了 除了撒币啥也不会了</a></li>
-<li><a href="/topimagenews/20230825/1924949.md">【微博精粹】再卖力唱衰 也不如它自己滴答作响</a></li>
 <li><a href="/baitai/20230825/1925027.md">习近平无故缺席金砖论坛 真正原因被揭</a></li>
+<li><a href="/topimagenews/20230825/1924949.md">【微博精粹】再卖力唱衰 也不如它自己滴答作响</a></li>
 <li><a href="/baitai/20230825/1925089.md">纽约时报：中国的经济危机有多可怕</a></li>
 <li><a href="/cnnews/20230825/1924968.md">中共卫健委主任从病房被带走? 官方终于回应</a></li>
 <li><a href="/finance/20230825/1924999.md">金砖峰会习意外宣布！真的是不顾国内百姓了【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230825/1925029.md">反习势力浮出水面？盛雪：换下习近平 中共镇压民众不会变</a></li>
 <li><a href="/yule/20230825/1924959.md">84岁李双江露面嘴歪唇白显憔悴 李天一移美挥霍</a></li>
 <li><a href="/yule/20230825/1925100.md">《好声音》再被爆猛料 某男冠军是花3000万买的</a></li>
+<li><a href="/topimagenews/20230826/1925318.md">北京很焦虑 很可能演变成暴力流血事件</a></li>
 <li><a href="/cbnews/20230825/1925106.md">福岛排核废水中国专家逆风发文 小粉红痛骂汉奸</a></li>
 <li><a href="/topimagenews/20230825/1925171.md">瓦格纳头子死因传克宫“鸿门宴”设局 红酒炸弹空中引爆</a></li>
 <li><a href="/comments/20230825/1925002.md">习近平金砖握手又出状况！莫迪眼神吓坏习近平？爆笑大抢盐：北京上海被党的日本福岛鬼故事玩残了</a></li>
-<li><a href="/ssgc/20230825/1924963.md">〖微博谈〗被愚弄而不自知</a></li>
 <li><a href="/health/20230825/1924930.md">日本“公布”长寿的5个好习惯，跑步排末尾，第一很少有人能坚持</a></li>
+<li><a href="/ssgc/20230825/1924963.md">〖微博谈〗被愚弄而不自知</a></li>
 <li><a href="/topimagenews/20230825/1924993.md">正牌红三代 撼动世界看中国 中共领导人始终不知道的…</a></li>
 <li><a href="/topimagenews/20230825/1925010.md">普里戈津坠亡首位嫌犯出现？他离奇没登机兼失踪</a></li>
-<li><a href="/topimagenews/20230826/1925318.md">北京很焦虑 很可能演变成暴力流血事件</a></li>
-<li><a href="/cnnews/20230825/1925083.md">又掉大瓜了！小三高调举报：湖南官员婚内出轨，上班时间开房</a></li>
 <li><a href="/topimagenews/20230825/1925098.md">阻崩盘 降价补差价! 深圳推“保价”楼盘 有开发商破产 500业主慌了</a></li>
+<li><a href="/cnnews/20230825/1925083.md">又掉大瓜了！小三高调举报：湖南官员婚内出轨，上班时间开房</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230826/1925408.md" target="_blank">数字说话：当好人比贪污和杀人更危险</a></li>
+<li><a href="/comments/20230826/1925407.md" target="_blank">陶杰：“金砖五国论坛”的虚无主义</a></li>
 <li><a href="/comments/20230826/1925376.md" target="_blank">缅北电诈特区, 源于缅共军区的独立王国</a></li>
 <li><a href="/comments/20230826/1925374.md" target="_blank">对话严歌苓(下)：一篇文章触怒中共，遭全面封杀；从座上宾到维权人士，我没有变；中国已经烂到膏肓，物极必反 ｜#方菲时间</a></li>
 <li><a href="/comments/20230826/1925370.md" target="_blank">文昭：智商感人！反核废水、禁日本水产品，锤爆中国两产业！抢盐潮准确标示现政权基本盘；</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230825/1925214.md" target="_blank">美国建国之旅：首站 &#8211; 五月花号</a></li>
 <li><a href="/comments/20230825/1925165.md" target="_blank">金砖峰会合影 习近平的两次尴尬握手【老北京茶馆】</a></li>
 <li><a href="/comments/20230825/1925154.md" target="_blank">最耐人寻味的聊斋故事，比罗刹海市还夸张！人神有别｜画壁｜三生三世｜很多人不知道，蒲松龄轮回转世，续写《聊斋志异》！｜ #未解之谜 扶摇</a></li>
-<li><a href="/comments/20230825/1925049.md" target="_blank">历史证明，盐的地位并不低于板蓝根</a></li>
-<li><a href="/comments/20230825/1925002.md" target="_blank">习近平金砖握手又出状况！莫迪眼神吓坏习近平？爆笑大抢盐：北京上海被党的日本福岛鬼故事玩残了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
 
 </ul>
 </div>
