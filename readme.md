@@ -11,23 +11,23 @@
 <li><a href="/cbnews/20230825/1924970.md">〖兲朝浮世绘〗完了 除了撒币啥也不会了</a></li>
 <li><a href="/baitai/20230825/1925027.md">习近平无故缺席金砖论坛 真正原因被揭</a></li>
 <li><a href="/baitai/20230825/1925089.md">纽约时报：中国的经济危机有多可怕</a></li>
-<li><a href="/cnnews/20230825/1924968.md">中共卫健委主任从病房被带走? 官方终于回应</a></li>
 <li><a href="/finance/20230825/1924999.md">金砖峰会习意外宣布！真的是不顾国内百姓了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230826/1925318.md">北京很焦虑 很可能演变成暴力流血事件</a></li>
 <li><a href="/baitai/20230825/1925029.md">反习势力浮出水面？盛雪：换下习近平 中共镇压民众不会变</a></li>
 <li><a href="/yule/20230825/1925100.md">《好声音》再被爆猛料 某男冠军是花3000万买的</a></li>
 <li><a href="/cbnews/20230825/1925106.md">福岛排核废水中国专家逆风发文 小粉红痛骂汉奸</a></li>
-<li><a href="/topimagenews/20230825/1925171.md">瓦格纳头子死因传克宫“鸿门宴”设局 红酒炸弹空中引爆</a></li>
 <li><a href="/comments/20230825/1925002.md">习近平金砖握手又出状况！莫迪眼神吓坏习近平？爆笑大抢盐：北京上海被党的日本福岛鬼故事玩残了</a></li>
-<li><a href="/ssgc/20230825/1924963.md">〖微博谈〗被愚弄而不自知</a></li>
-<li><a href="/topimagenews/20230825/1924993.md">正牌红三代 撼动世界看中国 中共领导人始终不知道的…</a></li>
+<li><a href="/topimagenews/20230825/1925171.md">瓦格纳头子死因传克宫“鸿门宴”设局 红酒炸弹空中引爆</a></li>
 <li><a href="/topimagenews/20230825/1925010.md">普里戈津坠亡首位嫌犯出现？他离奇没登机兼失踪</a></li>
+<li><a href="/topimagenews/20230825/1924993.md">正牌红三代 撼动世界看中国 中共领导人始终不知道的…</a></li>
+<li><a href="/cnnews/20230826/1925339.md">文武百官的夫人都陪过毛泽东</a></li>
 <li><a href="/topimagenews/20230825/1925098.md">阻崩盘 降价补差价! 深圳推“保价”楼盘 有开发商破产 500业主慌了</a></li>
 <li><a href="/cnnews/20230825/1925083.md">又掉大瓜了！小三高调举报：湖南官员婚内出轨，上班时间开房</a></li>
 <li><a href="/ccpdope/20230826/1925263.md">郑州水灾真相 中共又一最高机密</a></li>
-<li><a href="/cnnews/20230826/1925339.md">文武百官的夫人都陪过毛泽东</a></li>
 <li><a href="/topimagenews/20230825/1925008.md">被封号文：“你不用信任日本人，信任国际原子能机构就好”</a></li>
+<li><a href="/topimagenews/20230826/1925317.md">中共经济危机日甚！北京恐加快步伐…..</a></li>
 <li><a href="/yule/20230825/1925198.md">毛阿敏久违现身机场，瘦成皮包骨，满眼疲惫</a></li>
+<li><a href="/cbnews/20230826/1925319.md">下马威先到！雷蒙多将访北京 24小时内连出2重拳</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230826/1925449.md" target="_blank">彭硕：中国人在国内要受到多少歧视？</a></li>
+<li><a href="/comments/20230826/1925448.md" target="_blank">网海拾贝:从上面看人人拥护领袖，从下面看个个包藏祸心</a></li>
+<li><a href="/comments/20230826/1925447.md" target="_blank">吴奕军:中国青年失业率盖牌乱象只是冰山一角？</a></li>
+<li><a href="/comments/20230826/1925440.md" target="_blank">【独家重磅】李燕铭：胡锦涛被传疑似中毒身亡 程序员接到灰色处理网站通知 温家宝要求追查胡锦涛死因？胡锦涛敏感时刻“露面” 辟谣？ 习近平连任与中共末日（163） 团派团灭内幕（30）</a></li>
 <li><a href="/comments/20230826/1925430.md" target="_blank">天亮时分：习近平南非两大事故，显示政权已难以为继，一切只因这四个字；普里戈津的最後日子，谁在跟他做一样的事？（政论天下第1093集 20230825）天亮时分</a></li>
 <li><a href="/comments/20230826/1925428.md" target="_blank">川普-卡尔森-马斯克联手，拜登司法部惊恐。拉马斯瓦米是共和党版奥巴马，还是深层政府的人？鲁特的精辟分析。#川普 #卡尔森 #马斯克</a></li>
 <li><a href="/comments/20230826/1925408.md" target="_blank">数字说话：当好人比贪污和杀人更危险</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230826/1925274.md" target="_blank">August 25, 2023</a></li>
 <li><a href="/comments/20230826/1925253.md" target="_blank">时事大家谈：外中国动真格砸“铁饭碗”，是否政府真的没钱了？&#160;</a></li>
 <li><a href="/comments/20230826/1925252.md" target="_blank">时事大家谈：雷蒙多出访北京，困难时刻中国想让华盛顿帮一把？</a></li>
-<li><a href="/comments/20230826/1925248.md" target="_blank">解迷金砖会议上习近平的“消失”之谜│方伟时间</a></li>
-<li><a href="/comments/20230825/1925218.md" target="_blank">川普被拍大头照，以自己被羞辱唤醒民众。川普重返推特，贴面部照片，吹响反攻号角。#川普 #大头照 #推特</a></li>
-<li><a href="/comments/20230825/1925215.md" target="_blank">时事大家谈：雷蒙多出访北京，困难时刻中国想让华盛顿帮一把？外中国动真格砸“铁饭碗”，是否政府真的没钱了？&#160;</a></li>
-<li><a href="/comments/20230825/1925214.md" target="_blank">美国建国之旅：首站 &#8211; 五月花号</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
 
 </ul>
 </div>
