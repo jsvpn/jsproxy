@@ -13,21 +13,21 @@
 <li><a href="/yule/20230825/1925100.md">《好声音》再被爆猛料 某男冠军是花3000万买的</a></li>
 <li><a href="/cbnews/20230825/1925106.md">福岛排核废水中国专家逆风发文 小粉红痛骂汉奸</a></li>
 <li><a href="/topimagenews/20230825/1925171.md">瓦格纳头子死因传克宫“鸿门宴”设局 红酒炸弹空中引爆</a></li>
-<li><a href="/cnnews/20230826/1925378.md">第一批做近视手术的人后悔了：并发症太多</a></li>
 <li><a href="/sohnews/20230826/1925402.md">蔡奇双眼浮肿，官媒围攻习近平；为何一错再错？习近平有一个目的；赖清德再释善意，诸葛亮预言两岸；美在台部署核导？武装攻台是绝路【新闻看点 李沐阳8.25】</a></li>
+<li><a href="/cnnews/20230826/1925378.md">第一批做近视手术的人后悔了：并发症太多</a></li>
 <li><a href="/ccpdope/20230826/1925263.md">郑州水灾真相 中共又一最高机密</a></li>
 <li><a href="/topimagenews/20230826/1925317.md">中共经济危机日甚！北京恐加快步伐…..</a></li>
+<li><a href="/cbnews/20230826/1925394.md">当下一个悲哀的事实，饭局越来越少了…</a></li>
 <li><a href="/cbnews/20230826/1925319.md">下马威先到！雷蒙多将访北京 24小时内连出2重拳</a></li>
 <li><a href="/cnnews/20230825/1925083.md">又掉大瓜了！小三高调举报：湖南官员婚内出轨，上班时间开房</a></li>
 <li><a href="/topimagenews/20230825/1925098.md">阻崩盘 降价补差价! 深圳推“保价”楼盘 有开发商破产 500业主慌了</a></li>
-<li><a href="/cbnews/20230826/1925394.md">当下一个悲哀的事实，饭局越来越少了…</a></li>
 <li><a href="/topimagenews/20230826/1925352.md">华尔街日报：六图解析中国民众信心危机 将拖累整体经济</a></li>
-<li><a href="/yule/20230826/1925325.md">那英抛售4.5亿豪宅？看似傻大姐的她资产惊人</a></li>
 <li><a href="/yule/20230825/1925198.md">毛阿敏久违现身机场，瘦成皮包骨，满眼疲惫</a></li>
+<li><a href="/yule/20230826/1925325.md">那英抛售4.5亿豪宅？看似傻大姐的她资产惊人</a></li>
 <li><a href="/comments/20230826/1925334.md">处死爱将后，这个魔头走向了变态</a></li>
+<li><a href="/ccpdope/20230826/1925382.md">危机四伏 习近平已然孤家寡人</a></li>
 <li><a href="/cnnews/20230825/1925229.md">现金资产再次为王 22年来首见</a></li>
 <li><a href="/worldnews/20230826/1925309.md">美国务院声明全文：日本从福岛排放经处理水的程序“安全、透明并基于科学”，美方表示“满意”</a></li>
-<li><a href="/ccpdope/20230826/1925382.md">危机四伏 习近平已然孤家寡人</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
 <li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 <li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
 
 </ul>
 </div>
