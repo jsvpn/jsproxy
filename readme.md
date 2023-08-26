@@ -6,7 +6,6 @@
 <ul>
 <li><b><a href="http://d2.v2rss.gq/64.mp4" target="_blank">六四图片视频</a></b></li>
 <li><a href="/topimagenews/20230825/1925151.md">市场惶恐！中共毫不留情祭出雷霆手段；炮轰习近平！反习战斗檄文出世</a></li>
-<li><a href="/baitai/20230825/1925089.md">纽约时报：中国的经济危机有多可怕</a></li>
 <li><a href="/topimagenews/20230826/1925318.md">北京很焦虑 很可能演变成暴力流血事件</a></li>
 <li><a href="/yule/20230825/1925100.md">《好声音》再被爆猛料 某男冠军是花3000万买的</a></li>
 <li><a href="/cnnews/20230826/1925339.md">文武百官的夫人都陪过毛泽东</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/cbnews/20230826/1925394.md">当下一个悲哀的事实，饭局越来越少了…</a></li>
 <li><a href="/cnnews/20230826/1925378.md">第一批做近视手术的人后悔了：并发症太多</a></li>
 <li><a href="/topimagenews/20230826/1925317.md">中共经济危机日甚！北京恐加快步伐…..</a></li>
-<li><a href="/cnnews/20230825/1925083.md">又掉大瓜了！小三高调举报：湖南官员婚内出轨，上班时间开房</a></li>
 <li><a href="/topimagenews/20230825/1925098.md">阻崩盘 降价补差价! 深圳推“保价”楼盘 有开发商破产 500业主慌了</a></li>
 <li><a href="/cbnews/20230826/1925319.md">下马威先到！雷蒙多将访北京 24小时内连出2重拳</a></li>
-<li><a href="/topimagenews/20230826/1925352.md">华尔街日报：六图解析中国民众信心危机 将拖累整体经济</a></li>
 <li><a href="/yule/20230825/1925198.md">毛阿敏久违现身机场，瘦成皮包骨，满眼疲惫</a></li>
+<li><a href="/topimagenews/20230826/1925352.md">华尔街日报：六图解析中国民众信心危机 将拖累整体经济</a></li>
 <li><a href="/yule/20230826/1925325.md">那英抛售4.5亿豪宅？看似傻大姐的她资产惊人</a></li>
 <li><a href="/comments/20230826/1925334.md">处死爱将后，这个魔头走向了变态</a></li>
-<li><a href="/ccpdope/20230826/1925382.md">危机四伏 习近平已然孤家寡人</a></li>
-<li><a href="/topimagenews/20230826/1925458.md">揭密中产移民套路！移民中介赚的中介费只是小数点后的点缀</a></li>
 <li><a href="/cnnews/20230825/1925229.md">现金资产再次为王 22年来首见</a></li>
+<li><a href="/topimagenews/20230826/1925458.md">揭密中产移民套路！移民中介赚的中介费只是小数点后的点缀</a></li>
+<li><a href="/ccpdope/20230826/1925382.md">危机四伏 习近平已然孤家寡人</a></li>
 <li><a href="/baitai/20230825/1925216.md">中共封杀日本核处理水排海的科普文</a></li>
+<li><a href="/worldnews/20230826/1925418.md">卢卡申科爆猛料！普丁亲自通知普里格津“暗杀计划”</a></li>
+<li><a href="/worldnews/20230826/1925309.md">美国务院声明全文：日本从福岛排放经处理水的程序“安全、透明并基于科学”，美方表示“满意”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
 <li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
 
 </ul>
 </div>
