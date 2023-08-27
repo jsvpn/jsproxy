@@ -15,19 +15,19 @@
 <li><a href="/sohnews/20230826/1925617.md">习近平被坑惨，恒大复牌！李嘉诚看透中国的未来……</a></li>
 <li><a href="/topimagenews/20230827/1925688.md">网惊：习亲自台独！南非 “大型乳化现场”</a></li>
 <li><a href="/sohnews/20230826/1925632.md">福岛释放核废水，中国专家竟然签字批准；温家宝吃福岛污染蔬菜，大赞味道好；美前总统赴监狱拍大头照，重返推特日内点击超两亿。</a></li>
-<li><a href="/lifebaike/20230826/1925585.md">近半离婚夫妇说 引起冲突的头号原因竟是这件事</a></li>
 <li><a href="/topimagenews/20230827/1925790.md">傅政华的后宫和私生女</a></li>
+<li><a href="/lifebaike/20230826/1925585.md">近半离婚夫妇说 引起冲突的头号原因竟是这件事</a></li>
 <li><a href="/cnnews/20230827/1925694.md">有多少中国人润到美国生活了？数据惊人</a></li>
 <li><a href="/finance/20230826/1925518.md">习近平是笨拙的政策制定者！ 经济学人 :为何疫情后中国经济无法复甦?</a></li>
 <li><a href="/headline/20230827/1925690.md">中国人：大张旗鼓地庆祝辞职</a></li>
-<li><a href="/headline/20230827/1925657.md">习近平抵达新疆赞当地稳定</a></li>
-<li><a href="/sohnews/20230826/1925606.md">中共最怕的事发生了…亚太钢铁阵容第三战线成形 军火再强也挡不住! 中国房企连环爆 北京想救不能救 因为还有更严重的核弹级…@democraticTaiwanChannel</a></li>
 <li><a href="/worldnews/20230827/1925735.md">中国留学生在日本被执行死刑，遗书只留一字</a></li>
 <li><a href="/topimagenews/20230827/1925763.md">潘石屹跑了！留下一屁股债不还了</a></li>
+<li><a href="/sohnews/20230826/1925606.md">中共最怕的事发生了…亚太钢铁阵容第三战线成形 军火再强也挡不住! 中国房企连环爆 北京想救不能救 因为还有更严重的核弹级…@democraticTaiwanChannel</a></li>
+<li><a href="/headline/20230827/1925657.md">习近平抵达新疆赞当地稳定</a></li>
+<li><a href="/sohnews/20230827/1925729.md">神秘预言：中共最后一任领导人将薨在任上！破解习近平面相吉凶！他是全世界最怕死的领导人！‘新闻最嘲点 姜光宇’2023.0826</a></li>
+<li><a href="/lifebaike/20230827/1925722.md">42岁男子不痛不痒，却查出肝癌，医生：身体这3处发臭，早做筛查</a></li>
 <li><a href="/yule/20230826/1925588.md">梁朝伟到底爱不爱刘嘉玲？三个举动揭露真实情况</a></li>
 <li><a href="/sohnews/20230826/1925625.md">“涛哥直播”8月26日早 主题：美媒：离不开秦刚呀 😂 ⋯ 与印度总理莫迪会面 再出状况 ⋯⋯ 诺兰新片《奥本海默》：看到了川普身影 ⋯科学摧毁了人类！</a></li>
-<li><a href="/headline/20230826/1925594.md">中国纪检监察罕见一天抓6内鬼官员</a></li>
-<li><a href="/cbnews/20230826/1925543.md">够全中国人吃3万年：河南这县的盐到底有多少？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
 <li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 
 </ul>
 </div>
