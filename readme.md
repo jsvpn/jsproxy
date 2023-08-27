@@ -12,18 +12,18 @@
 <li><a href="/topimagenews/20230827/1925688.md">网惊：习亲自台独！南非 “大型乳化现场”</a></li>
 <li><a href="/worldnews/20230827/1925735.md">中国留学生在日本被执行死刑，遗书只留一字</a></li>
 <li><a href="/sohnews/20230827/1925729.md">神秘预言：中共最后一任领导人将薨在任上！破解习近平面相吉凶！他是全世界最怕死的领导人！‘新闻最嘲点 姜光宇’2023.0826</a></li>
-<li><a href="/sohnews/20230827/1925888.md">文睿：李强，提出辞职？另一场大戏，拉开了序幕，睁大眼睛仔细看</a></li>
 <li><a href="/headline/20230827/1925690.md">中国人：大张旗鼓地庆祝辞职</a></li>
+<li><a href="/sohnews/20230827/1925888.md">文睿：李强，提出辞职？另一场大戏，拉开了序幕，睁大眼睛仔细看</a></li>
 <li><a href="/cnnews/20230827/1925694.md">有多少中国人润到美国生活了？数据惊人</a></li>
 <li><a href="/topimagenews/20230827/1925763.md">潘石屹跑了！留下一屁股债不还了</a></li>
 <li><a href="/topimagenews/20230827/1925857.md">“好声音”爆女选手花3000万人民币买冠军</a></li>
-<li><a href="/ssgc/20230827/1925803.md">〖微博谈〗谣言比新闻联播更可信</a></li>
 <li><a href="/ssgc/20230827/1925883.md">习近平的面相、权力与生死</a></li>
-<li><a href="/baitai/20230827/1925920.md">余茂春：一个幻想的破灭</a></li>
+<li><a href="/ssgc/20230827/1925803.md">〖微博谈〗谣言比新闻联播更可信</a></li>
 <li><a href="/baitai/20230827/1925885.md">李强高调捧习近平 分析：中共到最后一代</a></li>
+<li><a href="/baitai/20230827/1925920.md">余茂春：一个幻想的破灭</a></li>
 <li><a href="/cbnews/20230827/1925707.md">习近平的终极大招！台湾首当其冲，中国大难临头，先行“点火”才能求生！（2023年8月26日）</a></li>
-<li><a href="/topimagenews/20230827/1925806.md">【微博精粹】境外鱼跪谢习主席 “最美逆行者”放生</a></li>
 <li><a href="/ccpdope/20230827/1925934.md">习近平回国直奔新疆引猜测 分析：怕北京不安全</a></li>
+<li><a href="/topimagenews/20230827/1925806.md">【微博精粹】境外鱼跪谢习主席 “最美逆行者”放生</a></li>
 <li><a href="/lifebaike/20230827/1925722.md">42岁男子不痛不痒，却查出肝癌，医生：身体这3处发臭，早做筛查</a></li>
 <li><a href="/lifebaike/20230827/1925719.md">“花青素之王”不是蓝莓，竟然是它！多吃抗氧化，还能降低患冠心病风险</a></li>
 <li><a href="/cnnews/20230827/1925746.md">2024年，这五件事老百姓别碰</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
 <li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
 <li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
 
 </ul>
 </div>
