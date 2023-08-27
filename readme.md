@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20230827/1925696.md">触到北京逆鳞 网易新闻B站被封</a></li>
 <li><a href="/topimagenews/20230827/1925790.md">傅政华的后宫和私生女</a></li>
 <li><a href="/sohnews/20230826/1925632.md">福岛释放核废水，中国专家竟然签字批准；温家宝吃福岛污染蔬菜，大赞味道好；美前总统赴监狱拍大头照，重返推特日内点击超两亿。</a></li>
+<li><a href="/sohnews/20230827/1925877.md">李强悍然提出辞职及其逢迎政治，习明泽必受追究的罪恶，国人抢盐之后抢粮抢夺武器。《老灯开讲第370期》</a></li>
 <li><a href="/topimagenews/20230827/1925688.md">网惊：习亲自台独！南非 “大型乳化现场”</a></li>
 <li><a href="/worldnews/20230827/1925735.md">中国留学生在日本被执行死刑，遗书只留一字</a></li>
-<li><a href="/sohnews/20230827/1925877.md">李强悍然提出辞职及其逢迎政治，习明泽必受追究的罪恶，国人抢盐之后抢粮抢夺武器。《老灯开讲第370期》</a></li>
 <li><a href="/sohnews/20230827/1925729.md">神秘预言：中共最后一任领导人将薨在任上！破解习近平面相吉凶！他是全世界最怕死的领导人！‘新闻最嘲点 姜光宇’2023.0826</a></li>
 <li><a href="/headline/20230827/1925690.md">中国人：大张旗鼓地庆祝辞职</a></li>
 <li><a href="/cnnews/20230827/1925694.md">有多少中国人润到美国生活了？数据惊人</a></li>
 <li><a href="/topimagenews/20230827/1925763.md">潘石屹跑了！留下一屁股债不还了</a></li>
 <li><a href="/ssgc/20230827/1925803.md">〖微博谈〗谣言比新闻联播更可信</a></li>
-<li><a href="/topimagenews/20230827/1925857.md">“好声音”爆女选手花3000万人民币买冠军</a></li>
-<li><a href="/headline/20230827/1925657.md">习近平抵达新疆赞当地稳定</a></li>
 <li><a href="/ssgc/20230827/1925883.md">习近平的面相、权力与生死</a></li>
 <li><a href="/sohnews/20230827/1925888.md">文睿：李强，提出辞职？另一场大戏，拉开了序幕，睁大眼睛仔细看</a></li>
+<li><a href="/topimagenews/20230827/1925857.md">“好声音”爆女选手花3000万人民币买冠军</a></li>
+<li><a href="/headline/20230827/1925657.md">习近平抵达新疆赞当地稳定</a></li>
 <li><a href="/topimagenews/20230827/1925806.md">【微博精粹】境外鱼跪谢习主席 “最美逆行者”放生</a></li>
 <li><a href="/lifebaike/20230827/1925722.md">42岁男子不痛不痒，却查出肝癌，医生：身体这3处发臭，早做筛查</a></li>
 <li><a href="/lifebaike/20230827/1925719.md">“花青素之王”不是蓝莓，竟然是它！多吃抗氧化，还能降低患冠心病风险</a></li>
-<li><a href="/topimagenews/20230827/1925762.md">全球最会搞钱的女人 长这样 一天就能赚110多万</a></li>
-<li><a href="/cnnews/20230827/1925746.md">2024年，这五件事老百姓别碰</a></li>
-<li><a href="/topimagenews/20230827/1925825.md">中印暗战？莫迪没明讲 但大家都知他说谁</a></li>
 <li><a href="/baitai/20230827/1925885.md">李强高调捧习近平 分析：中共到最后一代</a></li>
+<li><a href="/cbnews/20230827/1925707.md">习近平的终极大招！台湾首当其冲，中国大难临头，先行“点火”才能求生！（2023年8月26日）</a></li>
+<li><a href="/cnnews/20230827/1925746.md">2024年，这五件事老百姓别碰</a></li>
+<li><a href="/topimagenews/20230827/1925762.md">全球最会搞钱的女人 长这样 一天就能赚110多万</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
 
 </ul>
 </div>
