@@ -21,10 +21,10 @@
 <li><a href="/sohnews/20230826/1925632.md">福岛释放核废水，中国专家竟然签字批准；温家宝吃福岛污染蔬菜，大赞味道好；美前总统赴监狱拍大头照，重返推特日内点击超两亿。</a></li>
 <li><a href="/lifebaike/20230826/1925585.md">近半离婚夫妇说 引起冲突的头号原因竟是这件事</a></li>
 <li><a href="/finance/20230826/1925518.md">习近平是笨拙的政策制定者！ 经济学人 :为何疫情后中国经济无法复甦?</a></li>
-<li><a href="/sohnews/20230826/1925606.md">中共最怕的事发生了…亚太钢铁阵容第三战线成形 军火再强也挡不住! 中国房企连环爆 北京想救不能救 因为还有更严重的核弹级…@democraticTaiwanChannel</a></li>
-<li><a href="/headline/20230827/1925657.md">习近平抵达新疆赞当地稳定</a></li>
 <li><a href="/headline/20230827/1925690.md">中国人：大张旗鼓地庆祝辞职</a></li>
+<li><a href="/sohnews/20230826/1925606.md">中共最怕的事发生了…亚太钢铁阵容第三战线成形 军火再强也挡不住! 中国房企连环爆 北京想救不能救 因为还有更严重的核弹级…@democraticTaiwanChannel</a></li>
 <li><a href="/cnnews/20230827/1925694.md">有多少中国人润到美国生活了？数据惊人</a></li>
+<li><a href="/headline/20230827/1925657.md">习近平抵达新疆赞当地稳定</a></li>
 <li><a href="/yule/20230826/1925498.md">那英机场踹人被挖出 被爆抛售4.5亿人民币豪宅</a></li>
 <li><a href="/yule/20230826/1925588.md">梁朝伟到底爱不爱刘嘉玲？三个举动揭露真实情况</a></li>
 <li><a href="/headline/20230826/1925594.md">中国纪检监察罕见一天抓6内鬼官员</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230827/1925806.md" target="_blank">【微博精粹】境外鱼跪谢习主席 “最美逆行者”放生</a></li>
 <li><a href="/topimagenews/20230827/1925790.md" target="_blank">傅政华的后宫和私生女</a></li>
 <li><a href="/topimagenews/20230827/1925763.md" target="_blank">潘石屹跑了！留下一屁股债不还了</a></li>
 <li><a href="/topimagenews/20230827/1925762.md" target="_blank">全球最会搞钱的女人 长这样 一天就能赚110多万</a></li>
@@ -90,13 +91,18 @@
 <li><a href="/topimagenews/20230825/1924993.md" target="_blank">正牌红三代 撼动世界看中国 中共领导人始终不知道的…</a></li>
 <li><a href="/topimagenews/20230825/1924949.md" target="_blank">【微博精粹】再卖力唱衰 也不如它自己滴答作响</a></li>
 <li><a href="/topimagenews/20230825/1924948.md" target="_blank">毁习总龙脉大罪！惊爆：强征地建习陵 地方官把原村落拆光</a></li>
-<li><a href="/topimagenews/20230825/1924926.md" target="_blank">川普的嫌犯大头照公布 付20万交保后闪离</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230827/1925813.md" target="_blank">医疗反腐，你骂普通医生干吗？</a></li>
+<li><a href="/comments/20230827/1925812.md" target="_blank">纽太普同学：当年核辐射要囤盐，12年后因为核污染水囤盐</a></li>
+<li><a href="/comments/20230827/1925811.md" target="_blank">亮见：官官相护，整整5个月，“北极鲶鱼”就这样逃之夭夭了？</a></li>
+<li><a href="/comments/20230827/1925810.md" target="_blank">我还是想吃日料</a></li>
+<li><a href="/comments/20230827/1925809.md" target="_blank">顾意:盐重了 无盐可救</a></li>
+<li><a href="/comments/20230827/1925805.md" target="_blank">天亮时分：习近平金砖扩容计划，出现新变数！新一波仇日宣传，谁是操盘手？共和党初选辩论，谁是赢家？（YouTube会员节目第32集 20230826）</a></li>
 <li><a href="/comments/20230827/1925798.md" target="_blank">404：“反核废水运动”的结局就是让自己下不来台</a></li>
 <li><a href="/comments/20230827/1925796.md" target="_blank">【杰森视角】美国政府揭普里戈津坠机真相！普京没参与谋杀普里戈津？为什么说日本核废水事件可能伤害很多中国人？普里戈津其实是普京的另一个自我！世界理解教父普京如何统治俄国，却看不懂习近平如何统治中国！</a></li>
 <li><a href="/comments/20230827/1925780.md" target="_blank">【独家重磅】李燕铭：习近平严防政变暗杀 金砖峰会后不回京直落新疆 习家军七名国级高官迎驾 蔡奇何卫东王小洪率中南海保镖及军警三路人马环卫习 政法委书记陈文清一动作细思极恐 瓦格纳集团创始人普里戈任坠机身亡像极林彪事件 火箭军出大事习近平国内不敢坐专机 中南海政变与反政变（120） 习近平连任与中共末日（164）</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20230826/1925643.md" target="_blank">【红朝黑史】毛泽东奢华特供“7501工程” 中南海绝密档案解密</a></li>
 <li><a href="/comments/20230826/1925641.md" target="_blank">从坠机到探索真相 ——打击虚假讯息与政治立场？</a></li>
 <li><a href="/comments/20230826/1925640.md" target="_blank">中国籍旅美化学博士生门缝“放毒”害邻居 只因不存在的噪音</a></li>
-<li><a href="/comments/20230826/1925631.md" target="_blank">文昭：大叔大妈们，这是您第三回抢盐了！咱长点心行吗？</a></li>
-<li><a href="/comments/20230826/1925604.md" target="_blank">卡尔森专访川普，多次提最敏感问题。川普的回答让卡尔森极不放心。#卡尔森 #川普 #推特秀</a></li>
-<li><a href="/comments/20230826/1925603.md" target="_blank">渖涧松：她那年十九岁（连载三）</a></li>
-<li><a href="/comments/20230826/1925596.md" target="_blank">袁红冰：《回归荒凉》（十一）</a></li>
-<li><a href="/comments/20230826/1925480.md" target="_blank">杜政:“全能的习近平”与新时代“逢迎政治”之祸</a></li>
-<li><a href="/comments/20230826/1925449.md" target="_blank">彭硕：中国人在国内要受到多少歧视？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 <li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
 
 </ul>
 </div>
