@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/ccpdope/20230827/1925934.md">习近平回国直奔新疆引猜测 分析：怕北京不安全</a></li>
 <li><a href="/sohnews/20230828/1925973.md">“新疆出事？习近平偕同蔡奇-陈文清-王小洪：全部到现场！”《今日点击》（08/27/23）</a></li>
 <li><a href="/topimagenews/20230828/1926002.md">一航班抓了上百人！回国注意！中共海关上新武器</a></li>
 <li><a href="/topimagenews/20230828/1925998.md">川音“淫魔”校长：一共88名女教师 他霸占87人？</a></li>
 <li><a href="/topimagenews/20230828/1926119.md">中国最大民营银行陷危机【阿波罗网报道】</a></li>
 <li><a href="/headline/20230827/1925945.md">习近平回国后没有回京 先到新疆</a></li>
 <li><a href="/headline/20230827/1925949.md">习近平反腐正剑指医药 有预测下一刀砍向财经</a></li>
-<li><a href="/cbnews/20230828/1926116.md">〖兲朝浮世绘〗河北霸州的遍地灾民无处可居 习近平眼神不好看不见吗？</a></li>
 <li><a href="/topimagenews/20230828/1926030.md">限制老干部出国养老？</a></li>
+<li><a href="/cbnews/20230828/1926116.md">〖兲朝浮世绘〗河北霸州的遍地灾民无处可居 习近平眼神不好看不见吗？</a></li>
 <li><a href="/topimagenews/20230828/1926013.md">苦日子在后头…中国自然村锐减超百万！县城在消失 铁饭碗在消失</a></li>
 <li><a href="/headline/20230828/1925992.md">法国记者看中国宣布的“印花税减半”</a></li>
-<li><a href="/baitai/20230827/1925938.md">粉红反日情绪高涨 中共要失控？日本已发警告</a></li>
-<li><a href="/cnnews/20230828/1926129.md">个个千娇百媚，许老板解散了恒大歌舞团</a></li>
 <li><a href="/topimagenews/20230828/1926215.md">冰雪皇帝落马，谷爱凌利益链曝光</a></li>
+<li><a href="/cnnews/20230828/1926129.md">个个千娇百媚，许老板解散了恒大歌舞团</a></li>
 <li><a href="/baitai/20230828/1925983.md">【404文库】福岛废水：“你既然稀释到比喝的水更安全，何不喝了它呢？”（外二篇）</a></li>
 <li><a href="/comments/20230828/1926108.md">大卫营突袭北京？这份声明分量很重</a></li>
 <li><a href="/topimagenews/20230828/1926104.md">【微博精粹】政协委员周带鱼又跳出来抗日救习了</a></li>
 <li><a href="/topimagenews/20230828/1926105.md">2024QS世界大学排名榜 清北与华五普跌</a></li>
-<li><a href="/headline/20230827/1925950.md">中国明天起大幅减少股市印花税</a></li>
 <li><a href="/ssgc/20230828/1926189.md">〖微博谈〗吓成这样，怕什么呢？</a></li>
+<li><a href="/headline/20230827/1925950.md">中国明天起大幅减少股市印花税</a></li>
 <li><a href="/topimagenews/20230828/1926136.md">海外“神秘”产业链曝光！背后是无止境的敲诈</a></li>
+<li><a href="/finance/20230828/1926207.md">武汉楼市逐渐失控</a></li>
 <li><a href="/topimagenews/20230828/1926079.md">一声“爸爸救救我！”闻者断肠，中共大撒币 绝望多少家庭【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230828/1925994.md">华人圈炸了！澳洲最新移民配额公布 各州狂砍70%</a></li>
+<li><a href="/topimagenews/20230828/1926202.md">军中一片肃杀之气！习近平看家部队喊话【阿波罗网报道】</a></li>
+<li><a href="/yule/20230828/1926138.md">18岁成为大佬的女人，被赵薇横刀夺爱，她是王晶唯一不敢撩的女星</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230828/1926271.md" target="_blank">江西农大被共产 大跃进卷土重来</a></li>
 <li><a href="/comments/20230828/1926266.md" target="_blank">【杜耀明评论】武力威吓台湾无感 「和平使者」不知所云</a></li>
 <li><a href="/comments/20230828/1926265.md" target="_blank">总统都慌了！美军核文件丢失，FBI被命令拆掉整列火车！核辐射机密都在这！｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230828/1926201.md" target="_blank">女子带记忆转世！</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230827/1925813.md" target="_blank">医疗反腐，你骂普通医生干吗？</a></li>
 <li><a href="/comments/20230827/1925812.md" target="_blank">纽太普同学：当年核辐射要囤盐，12年后因为核污染水囤盐</a></li>
 <li><a href="/comments/20230827/1925811.md" target="_blank">亮见：官官相护，整整5个月，“北极鲶鱼”就这样逃之夭夭了？</a></li>
-<li><a href="/comments/20230827/1925810.md" target="_blank">我还是想吃日料</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
 <li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
 
 </ul>
 </div>
