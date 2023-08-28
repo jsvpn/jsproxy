@@ -20,14 +20,14 @@
 <li><a href="/cnnews/20230828/1926209.md">当年威震北京城的各位大哥，如今怎么样了？</a></li>
 <li><a href="/sohnews/20230828/1926226.md">陈破空：习近平停留新疆，北京有事？脱口说出原来是台湾啊！南非失踪之谜，为俄国贡献中国方案？涉入普里戈津事件。首播：美东时间8月28日早8点、中港台8月28日晚8点</a></li>
 <li><a href="/topimagenews/20230828/1926104.md">【微博精粹】政协委员周带鱼又跳出来抗日救习了</a></li>
-<li><a href="/topimagenews/20230828/1926136.md">海外“神秘”产业链曝光！背后是无止境的敲诈</a></li>
 <li><a href="/headline/20230828/1926258.md">聿文视界：对习不满和失望，中国当下社会情绪处于某种临界点</a></li>
+<li><a href="/topimagenews/20230828/1926136.md">海外“神秘”产业链曝光！背后是无止境的敲诈</a></li>
 <li><a href="/topimagenews/20230828/1926105.md">2024QS世界大学排名榜 清北与华五普跌</a></li>
 <li><a href="/topimagenews/20230828/1926289.md">中国房价大跌 中共救市也不见抄底潮？网揭原因：谁敢买</a></li>
 <li><a href="/yule/20230828/1926138.md">18岁成为大佬的女人，被赵薇横刀夺爱，她是王晶唯一不敢撩的女星</a></li>
 <li><a href="/topimagenews/20230828/1926079.md">一声“爸爸救救我！”闻者断肠，中共大撒币 绝望多少家庭【阿波罗网报道】</a></li>
+<li><a href="/comments/20230828/1926336.md">日本最神预言家 准确率95%：末日将在距今7年内到来</a></li>
 <li><a href="/sohnews/20230828/1926275.md">八次喊稳定！习近平不回京直奔新疆……五大领域全面崩塌，坚决不给国人发钱，死了这条心吧……</a></li>
-<li><a href="/cnnews/20230828/1926230.md">全球灾难日”？中国百姓的财富 就这样被中共折腾没了 ；华日：中国民众信心危机</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230829/1926461.md" target="_blank">美国思想领袖：【精彩片段】煽动反日「回旋标」中共将自食其果？从抢盐到拒吃海鲜 中国人的恐惧从何而来？- #新闻大家谈</a></li>
 <li><a href="/cbnews/20230829/1926447.md" target="_blank">美国思想领袖：【精彩片段】习近平回国反常地直奔新疆 究竟发生了什麽？中组部直接连线 命基层向习效忠- #新闻大家谈</a></li>
 <li><a href="/comments/20230829/1926390.md" target="_blank">美国建国之旅（采访）：一位加拿大资深金融人士</a></li>
 <li><a href="/cbnews/20230828/1925118.md" target="_blank">骚扰法轮功学员 多伦多年轻女子被捕</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230827/1925826.md" target="_blank">缅甸诈团最新拐人手法曝 陆媒：诓“公司旅游”骗出国 逃生者&#8230;</a></li>
 <li><a href="/cbnews/20230827/1925797.md" target="_blank">针对日本核废水 “周带鱼”委员提议“夺人眼球”</a></li>
 <li><a href="/comments/20230827/1925796.md" target="_blank">【杰森视角】美国政府揭普里戈津坠机真相！普京没参与谋杀普里戈津？为什么说日本核废水事件可能伤害很多中国人？普里戈津其实是普京的另一个自我！世界理解教父普京如何统治俄国，却看不懂习近平如何统治中国！</a></li>
-<li><a href="/cbnews/20230827/1925795.md" target="_blank">江峰：普利戈金竟然跟他同一架飞机！百思不得其解 #普利戈金</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230829/1926460.md" target="_blank">分析：习近平反腐连砍五刀 下一步锁定两机构</a></li>
+<li><a href="/comments/20230829/1926459.md" target="_blank">匈牙利“背老婆”大赛 立陶宛夫妇获胜</a></li>
+<li><a href="/comments/20230829/1926458.md" target="_blank">京鹿子绞染工艺展 独一无二的传统之美</a></li>
 <li><a href="/comments/20230829/1926457.md" target="_blank">新研究称仅需22人即可建立火星殖民地</a></li>
 <li><a href="/comments/20230829/1926437.md" target="_blank">习近平再释“铁腕治疆”信号 大量机密曾被曝光</a></li>
 <li><a href="/comments/20230829/1926390.md" target="_blank">美国建国之旅（采访）：一位加拿大资深金融人士</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230828/1926055.md" target="_blank">汤名晖：大卫营峰会对台声明 形同对中国的一次突袭</a></li>
 <li><a href="/comments/20230828/1926054.md" target="_blank">维舟：“中国最安全”，你知道外面有多危险？</a></li>
 <li><a href="/comments/20230828/1926053.md" target="_blank">刘山：问题在刘梦熊，根子在保皇思想</a></li>
-<li><a href="/comments/20230828/1926016.md" target="_blank">“北极鲶鱼”们窃笑：处理结果没出来，人已润了</a></li>
-<li><a href="/comments/20230828/1926015.md" target="_blank">先毒日本 后毒美国 你该高兴才是</a></li>
-<li><a href="/comments/20230828/1926012.md" target="_blank">文昭：後泄洪时代的中国：泄洪区不仅是地理、更是身份概念；有各种「泄洪区」【会员样片节选】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
 <li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
 <li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
 
 </ul>
 </div>
