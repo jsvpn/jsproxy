@@ -6,8 +6,8 @@
 <ul>
 
 <li><a href="/ccpdope/20230827/1925934.md">习近平回国直奔新疆引猜测 分析：怕北京不安全</a></li>
-<li><a href="/topimagenews/20230828/1926002.md">一航班抓了上百人！回国注意！中共海关上新武器</a></li>
 <li><a href="/sohnews/20230828/1925973.md">“新疆出事？习近平偕同蔡奇-陈文清-王小洪：全部到现场！”《今日点击》（08/27/23）</a></li>
+<li><a href="/topimagenews/20230828/1926002.md">一航班抓了上百人！回国注意！中共海关上新武器</a></li>
 <li><a href="/baitai/20230827/1925920.md">余茂春：一个幻想的破灭</a></li>
 <li><a href="/topimagenews/20230828/1925998.md">川音“淫魔”校长：一共88名女教师 他霸占87人？</a></li>
 <li><a href="/headline/20230827/1925945.md">习近平回国后没有回京 先到新疆</a></li>
@@ -18,16 +18,16 @@
 <li><a href="/topimagenews/20230828/1926013.md">苦日子在后头…中国自然村锐减超百万！县城在消失 铁饭碗在消失</a></li>
 <li><a href="/baitai/20230827/1925938.md">粉红反日情绪高涨 中共要失控？日本已发警告</a></li>
 <li><a href="/headline/20230828/1925992.md">法国记者看中国宣布的“印花税减半”</a></li>
-<li><a href="/worldnews/20230827/1925919.md">力挺普里格津 他有望成瓦格纳新首脑 普京小心了</a></li>
 <li><a href="/cnnews/20230827/1925921.md">保时捷Cayenne“扛住”1吨重钢柱：车商最强广告</a></li>
 <li><a href="/baitai/20230828/1925983.md">【404文库】福岛废水：“你既然稀释到比喝的水更安全，何不喝了它呢？”（外二篇）</a></li>
-<li><a href="/headline/20230827/1925950.md">中国明天起大幅减少股市印花税</a></li>
 <li><a href="/comments/20230828/1926108.md">大卫营突袭北京？这份声明分量很重</a></li>
+<li><a href="/headline/20230827/1925950.md">中国明天起大幅减少股市印花税</a></li>
 <li><a href="/topimagenews/20230828/1926104.md">【微博精粹】政协委员周带鱼又跳出来抗日救习了</a></li>
 <li><a href="/topimagenews/20230828/1926105.md">2024QS世界大学排名榜 清北与华五普跌</a></li>
-<li><a href="/cnnews/20230828/1925994.md">华人圈炸了！澳洲最新移民配额公布 各州狂砍70%</a></li>
-<li><a href="/topimagenews/20230828/1926079.md">一声“爸爸救救我！”闻者断肠，中共大撒币 绝望多少家庭【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230828/1926129.md">个个千娇百媚，许老板解散了恒大歌舞团</a></li>
+<li><a href="/topimagenews/20230828/1926079.md">一声“爸爸救救我！”闻者断肠，中共大撒币 绝望多少家庭【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230828/1925994.md">华人圈炸了！澳洲最新移民配额公布 各州狂砍70%</a></li>
+<li><a href="/baitai/20230828/1925968.md">老牌恶棍｜日本排放核废水的是与非，一个普通人的判断</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
 <li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
 
 </ul>
 </div>
