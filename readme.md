@@ -16,10 +16,10 @@
 <li><a href="/sohnews/20230828/1925973.md">“新疆出事？习近平偕同蔡奇-陈文清-王小洪：全部到现场！”《今日点击》（08/27/23）</a></li>
 <li><a href="/cbnews/20230827/1925707.md">习近平的终极大招！台湾首当其冲，中国大难临头，先行“点火”才能求生！（2023年8月26日）</a></li>
 <li><a href="/topimagenews/20230827/1925806.md">【微博精粹】境外鱼跪谢习主席 “最美逆行者”放生</a></li>
-<li><a href="/topimagenews/20230827/1925825.md">中印暗战？莫迪没明讲 但大家都知他说谁</a></li>
-<li><a href="/headline/20230827/1925945.md">习近平回国后没有回京 先到新疆</a></li>
 <li><a href="/topimagenews/20230828/1926002.md">一航班抓了上百人！回国注意！中共海关上新武器</a></li>
+<li><a href="/topimagenews/20230827/1925825.md">中印暗战？莫迪没明讲 但大家都知他说谁</a></li>
 <li><a href="/topimagenews/20230828/1925998.md">川音“淫魔”校长：一共88名女教师 他霸占87人？</a></li>
+<li><a href="/headline/20230827/1925945.md">习近平回国后没有回京 先到新疆</a></li>
 <li><a href="/headline/20230827/1925949.md">习近平反腐正剑指医药 有预测下一刀砍向财经</a></li>
 <li><a href="/baitai/20230827/1925938.md">粉红反日情绪高涨 中共要失控？日本已发警告</a></li>
 <li><a href="/worldnews/20230827/1925919.md">力挺普里格津 他有望成瓦格纳新首脑 普京小心了</a></li>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230828/1926105.md" target="_blank">2024QS世界大学排名榜 清北与华五普跌</a></li>
+<li><a href="/topimagenews/20230828/1926104.md" target="_blank">【微博精粹】政协委员周带鱼又跳出来抗日救习了</a></li>
 <li><a href="/topimagenews/20230828/1926079.md" target="_blank">一声“爸爸救救我！”闻者断肠，中共大撒币 绝望多少家庭【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230828/1926040.md" target="_blank">中国电动车坟场的草，长得比车还高</a></li>
 <li><a href="/topimagenews/20230828/1926030.md" target="_blank">限制老干部出国养老？</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20230826/1925317.md" target="_blank">中共经济危机日甚！北京恐加快步伐…..</a></li>
 <li><a href="/topimagenews/20230825/1925227.md" target="_blank">马斯克不用 TikTok了 原因很有“马斯克”风格</a></li>
 <li><a href="/topimagenews/20230825/1925226.md" target="_blank">瓦格纳首脑真死了？克宫首度回应却不证实：此事完成再说</a></li>
-<li><a href="/topimagenews/20230825/1925177.md" target="_blank">俄佣兵头子“死了” 恐打坏普丁在这大计划</a></li>
-<li><a href="/topimagenews/20230825/1925171.md" target="_blank">瓦格纳头子死因传克宫“鸿门宴”设局 红酒炸弹空中引爆</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230828/1926103.md" target="_blank">天亮时分：注意中国海关新武器，直接锁上你的行李；风向变了？中国房价来到拐点；习近平回国第一站去了新疆，释放什麽信号？（政论天下第1094集 20230827）天亮时分</a></li>
 <li><a href="/comments/20230828/1926089.md" target="_blank">史上最遥远的恒星！</a></li>
 <li><a href="/comments/20230828/1926059.md" target="_blank">何清涟：习近平力搬“新三座大山”房产与教育搬了个寂寞</a></li>
 <li><a href="/comments/20230828/1926058.md" target="_blank">习近平该想想：从普里戈金，看与黑帮合作后果</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230827/1925805.md" target="_blank">天亮时分：习近平金砖扩容计划，出现新变数！新一波仇日宣传，谁是操盘手？共和党初选辩论，谁是赢家？（YouTube会员节目第32集 20230826）</a></li>
 <li><a href="/comments/20230827/1925798.md" target="_blank">404：“反核废水运动”的结局就是让自己下不来台</a></li>
 <li><a href="/comments/20230827/1925796.md" target="_blank">【杰森视角】美国政府揭普里戈津坠机真相！普京没参与谋杀普里戈津？为什么说日本核废水事件可能伤害很多中国人？普里戈津其实是普京的另一个自我！世界理解教父普京如何统治俄国，却看不懂习近平如何统治中国！</a></li>
-<li><a href="/comments/20230827/1925780.md" target="_blank">【独家重磅】李燕铭：习近平严防政变暗杀 金砖峰会后不回京直落新疆 习家军七名国级高官迎驾 蔡奇何卫东王小洪率中南海保镖及军警三路人马环卫习 政法委书记陈文清一动作细思极恐 瓦格纳集团创始人普里戈任坠机身亡像极林彪事件 火箭军出大事习近平国内不敢坐专机 中南海政变与反政变（120） 习近平连任与中共末日（164）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
 <li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
 
 </ul>
 </div>
