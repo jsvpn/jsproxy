@@ -17,17 +17,17 @@
 <li><a href="/topimagenews/20230828/1925998.md">川音“淫魔”校长：一共88名女教师 他霸占87人？</a></li>
 <li><a href="/headline/20230827/1925945.md">习近平回国后没有回京 先到新疆</a></li>
 <li><a href="/headline/20230827/1925949.md">习近平反腐正剑指医药 有预测下一刀砍向财经</a></li>
-<li><a href="/headline/20230828/1925992.md">法国记者看中国宣布的“印花税减半”</a></li>
 <li><a href="/topimagenews/20230828/1926013.md">苦日子在后头…中国自然村锐减超百万！县城在消失 铁饭碗在消失</a></li>
+<li><a href="/headline/20230828/1925992.md">法国记者看中国宣布的“印花税减半”</a></li>
 <li><a href="/baitai/20230827/1925938.md">粉红反日情绪高涨 中共要失控？日本已发警告</a></li>
-<li><a href="/worldnews/20230827/1925919.md">力挺普里格津 他有望成瓦格纳新首脑 普京小心了</a></li>
-<li><a href="/cbnews/20230827/1925898.md">不爽日本排核废水 老板“怒砸日料店”：改开中餐厅 网爆砸</a></li>
-<li><a href="/cnnews/20230827/1925921.md">保时捷Cayenne“扛住”1吨重钢柱：车商最强广告</a></li>
-<li><a href="/ccpdope/20230827/1925893.md">谁得利？禁43亿日本海鲜坑死3万亿中国渔业</a></li>
 <li><a href="/topimagenews/20230828/1926030.md">限制老干部出国养老？</a></li>
+<li><a href="/worldnews/20230827/1925919.md">力挺普里格津 他有望成瓦格纳新首脑 普京小心了</a></li>
+<li><a href="/cnnews/20230827/1925921.md">保时捷Cayenne“扛住”1吨重钢柱：车商最强广告</a></li>
+<li><a href="/cbnews/20230827/1925898.md">不爽日本排核废水 老板“怒砸日料店”：改开中餐厅 网爆砸</a></li>
+<li><a href="/ccpdope/20230827/1925893.md">谁得利？禁43亿日本海鲜坑死3万亿中国渔业</a></li>
 <li><a href="/headline/20230827/1925950.md">中国明天起大幅减少股市印花税</a></li>
+<li><a href="/topimagenews/20230828/1926119.md">中国最大民营银行陷危机【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230828/1925983.md">【404文库】福岛废水：“你既然稀释到比喝的水更安全，何不喝了它呢？”（外二篇）</a></li>
-<li><a href="/ccpdope/20230827/1925863.md">老毛的胆突突与习近平的肝颤颤</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230828/1926161.md" target="_blank">青岛日本人学校遭掷石 日使馆警戒反日示威</a></li>
 <li><a href="/cbnews/20230828/1926122.md" target="_blank">忧中国人激动 北京日侨学校“架路障”</a></li>
 <li><a href="/cbnews/20230828/1926116.md" target="_blank">〖兲朝浮世绘〗河北霸州的遍地灾民无处可居 习近平眼神不好看不见吗？</a></li>
 <li><a href="/comments/20230828/1926089.md" target="_blank">史上最遥远的恒星！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230826/1925604.md" target="_blank">卡尔森专访川普，多次提最敏感问题。川普的回答让卡尔森极不放心。#卡尔森 #川普 #推特秀</a></li>
 <li><a href="/cbnews/20230826/1925544.md" target="_blank">“好声音”停播：限娱令时代崛起 被黑幕终结</a></li>
 <li><a href="/cbnews/20230826/1925543.md" target="_blank">够全中国人吃3万年：河南这县的盐到底有多少？</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
 <li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
 
 </ul>
 </div>
