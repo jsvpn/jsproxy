@@ -10,24 +10,24 @@
 <li><a href="/baitai/20230828/1926278.md">习异动 坦克车队现身京畿</a></li>
 <li><a href="/topimagenews/20230828/1926202.md">军中一片肃杀之气！习近平看家部队喊话【阿波罗网报道】</a></li>
 <li><a href="/yule/20230828/1926223.md">金星回法国定居 变男相 被偶遇穿金戴银</a></li>
-<li><a href="/ssgc/20230828/1926189.md">〖微博谈〗吓成这样，怕什么呢？</a></li>
 <li><a href="/cnnews/20230828/1926209.md">当年威震北京城的各位大哥，如今怎么样了？</a></li>
 <li><a href="/topimagenews/20230829/1926440.md">乌军攻下罗博季涅！2万人尸山血海惨烈猛攻</a></li>
 <li><a href="/headline/20230828/1926258.md">聿文视界：对习不满和失望，中国当下社会情绪处于某种临界点</a></li>
-<li><a href="/comments/20230829/1926460.md">分析：习近平反腐连砍五刀 下一步锁定两机构</a></li>
-<li><a href="/sohnews/20230828/1926226.md">陈破空：习近平停留新疆，北京有事？脱口说出原来是台湾啊！南非失踪之谜，为俄国贡献中国方案？涉入普里戈津事件。首播：美东时间8月28日早8点、中港台8月28日晚8点</a></li>
-<li><a href="/topimagenews/20230829/1926465.md">土地真的卖不动了，公务员们的工资怎么办？</a></li>
 <li><a href="/sohnews/20230829/1926503.md">习近平出访张又侠在北京搞事，马朝旭白手套李光离奇暴亡，中国好声音导师收钱价目表。《老灯开讲第371期》</a></li>
+<li><a href="/sohnews/20230828/1926226.md">陈破空：习近平停留新疆，北京有事？脱口说出原来是台湾啊！南非失踪之谜，为俄国贡献中国方案？涉入普里戈津事件。首播：美东时间8月28日早8点、中港台8月28日晚8点</a></li>
+<li><a href="/comments/20230829/1926460.md">分析：习近平反腐连砍五刀 下一步锁定两机构</a></li>
+<li><a href="/topimagenews/20230829/1926465.md">土地真的卖不动了，公务员们的工资怎么办？</a></li>
 <li><a href="/topimagenews/20230828/1926289.md">中国房价大跌 中共救市也不见抄底潮？网揭原因：谁敢买</a></li>
 <li><a href="/comments/20230828/1926336.md">日本最神预言家 准确率95%：末日将在距今7年内到来</a></li>
 <li><a href="/baitai/20230829/1926414.md">专家给中国经济开救命药 习为何拒绝？学者：一最重要行业就要倒【红朝禁闻】</a></li>
-<li><a href="/sohnews/20230828/1926275.md">八次喊稳定！习近平不回京直奔新疆……五大领域全面崩塌，坚决不给国人发钱，死了这条心吧……</a></li>
-<li><a href="/ccpdope/20230828/1926312.md">德媒：北京厚颜无耻且虚伪</a></li>
 <li><a href="/topimagenews/20230829/1926555.md">【微博精粹】一尊的屎尿都从南非打包回了华夏吗</a></li>
+<li><a href="/sohnews/20230828/1926275.md">八次喊稳定！习近平不回京直奔新疆……五大领域全面崩塌，坚决不给国人发钱，死了这条心吧……</a></li>
+<li><a href="/comments/20230829/1926490.md">诡异事件连发 红二代出手解决习近平？</a></li>
+<li><a href="/ccpdope/20230828/1926312.md">德媒：北京厚颜无耻且虚伪</a></li>
 <li><a href="/headline/20230828/1926277.md">黄浦江封：中国的内部脱钩已经开始</a></li>
 <li><a href="/headline/20230828/1926303.md">纽约时报：习近平近几个月来几乎不提经济了</a></li>
 <li><a href="/baitai/20230829/1926387.md">iPhone 15将登场 售价逆势上涨 或成历代最轻机种</a></li>
-<li><a href="/comments/20230829/1926490.md">诡异事件连发 红二代出手解决习近平？</a></li>
+<li><a href="/cnnews/20230828/1926230.md">全球灾难日”？中国百姓的财富 就这样被中共折腾没了 ；华日：中国民众信心危机</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
 <li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
 <li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
 
 </ul>
 </div>
