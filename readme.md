@@ -10,24 +10,24 @@
 <li><a href="/sohnews/20230830/1926892.md">张又侠李桥铭趁习出访串联搞事，马朝旭白手套李光离奇暴毙，中国好声音导师收钱价目表。《老灯开讲第371期》</a></li>
 <li><a href="/topimagenews/20230830/1927151.md">这是好消息吗？习或甩锅 危险至极</a></li>
 <li><a href="/comments/20230830/1926960.md">暴露大问题！中共官场清一色“白衬衫”</a></li>
-<li><a href="/topimagenews/20230830/1926947.md">耻辱！中国竟输给了这个国家</a></li>
 <li><a href="/topimagenews/20230830/1927081.md">直扒中共底裤！2省沦陷太惨 韭菜们温饱机会都快没了</a></li>
+<li><a href="/topimagenews/20230830/1926947.md">耻辱！中国竟输给了这个国家</a></li>
 <li><a href="/lifebaike/20230830/1926942.md">一件怪事突然发生了</a></li>
 <li><a href="/baitai/20230830/1927237.md">李强提两请求均遭拒 评：美已对中「选择性脱钩」</a></li>
 <li><a href="/sohnews/20230830/1927178.md">洪水淹中共保定军营，伤亡重！大陆记者：消息属实！网页做灰、微信疯传、点赞变蜡烛，一切似曾相识，胡锦涛去世，会复刻胡耀邦引发的学潮吗？传言指温家宝拒绝参与治丧委员会，背后原因惊人｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/topimagenews/20230830/1927222.md">中国最大民营银行陷危机；苦日子在后头 中国自然村锐减超百万！县城在消失 铁饭碗在消失</a></li>
 <li><a href="/cnnews/20230830/1926943.md">关联非凡：前贵州省委书记孙志刚和许家印</a></li>
-<li><a href="/cnnews/20230830/1926944.md">中国最富作家：娶3房妻子却晚景凄凉</a></li>
+<li><a href="/topimagenews/20230830/1927222.md">中国最大民营银行陷危机；苦日子在后头 中国自然村锐减超百万！县城在消失 铁饭碗在消失</a></li>
 <li><a href="/sohnews/20230830/1926999.md">中共连番异动，张又侠向习发难？郭台铭参选总统，情愿受中共控制？蓝白将联手参选？【新闻看点 李沐阳8.29】</a></li>
+<li><a href="/cnnews/20230830/1926944.md">中国最富作家：娶3房妻子却晚景凄凉</a></li>
 <li><a href="/cbnews/20230830/1927129.md">〖兲朝浮世绘〗大学生拍马屁居然也内卷</a></li>
-<li><a href="/cnnews/20230830/1927019.md">4600亿，孙正义“杀疯”了</a></li>
 <li><a href="/topimagenews/20230830/1927221.md">吓死中共！网友评“带路”：终于可以报仇雪恨 6721个赞！【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230830/1927019.md">4600亿，孙正义“杀疯”了</a></li>
 <li><a href="/lifebaike/20230830/1927087.md">麦当劳点餐，一对母子对话令人窒息：“中国式家长真的很会让人发疯”</a></li>
-<li><a href="/sohnews/20230830/1926897.md">“独家推荐：习近平要求全球倒向“习氏王朝” 而不是打开国门”No.03（08/29/23）#中国时局</a></li>
-<li><a href="/lifebaike/20230830/1927180.md">聪明的人烂在肚子里的3句话，糊涂人却逢人就说</a></li>
-<li><a href="/baitai/20230830/1927207.md">这种维生素是抗癌利器，可全球10亿人缺它</a></li>
-<li><a href="/sohnews/20230830/1927238.md">陈破空：惊传习近平曾在南非中风？马晓伟泄密遭带走。忽又被放回？国际原子能总干事说话了！日本要把中共告上世贸组织。段子。直播与互动：美东时间8月30日早8点、中港台8月30日晚8点</a></li>
 <li><a href="/sohnews/20230830/1927244.md">文睿：华为，又出来丢人，一棍子，把你的5G打回原形</a></li>
+<li><a href="/sohnews/20230830/1927238.md">陈破空：惊传习近平曾在南非中风？马晓伟泄密遭带走。忽又被放回？国际原子能总干事说话了！日本要把中共告上世贸组织。段子。直播与互动：美东时间8月30日早8点、中港台8月30日晚8点</a></li>
+<li><a href="/baitai/20230830/1927207.md">这种维生素是抗癌利器，可全球10亿人缺它</a></li>
+<li><a href="/lifebaike/20230830/1927180.md">聪明的人烂在肚子里的3句话，糊涂人却逢人就说</a></li>
+<li><a href="/sohnews/20230830/1926897.md">“独家推荐：习近平要求全球倒向“习氏王朝” 而不是打开国门”No.03（08/29/23）#中国时局</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -130,30 +130,30 @@
 <h3>必看经典好文</h3>
 <ul>
 <li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
 
 </ul>
 </div>
