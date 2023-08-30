@@ -6,16 +6,15 @@
 <ul>
 
 <li><a href="/ccpdope/20230830/1926907.md">铁腕惊人！习近平秘密讲话内容曝光</a></li>
-<li><a href="/sohnews/20230830/1926892.md">张又侠李桥铭趁习出访串联搞事，马朝旭白手套李光离奇暴毙，中国好声音导师收钱价目表。《老灯开讲第371期》</a></li>
 <li><a href="/topimagenews/20230830/1927151.md">这是好消息吗？习或甩锅 危险至极</a></li>
 <li><a href="/comments/20230830/1926960.md">暴露大问题！中共官场清一色“白衬衫”</a></li>
 <li><a href="/topimagenews/20230830/1927081.md">直扒中共底裤！2省沦陷太惨 韭菜们温饱机会都快没了</a></li>
 <li><a href="/topimagenews/20230830/1926947.md">耻辱！中国竟输给了这个国家</a></li>
 <li><a href="/baitai/20230830/1927237.md">李强提两请求均遭拒 评：美已对中「选择性脱钩」</a></li>
 <li><a href="/lifebaike/20230830/1926942.md">一件怪事突然发生了</a></li>
+<li><a href="/baitai/20230830/1927320.md">胡锦涛不行了？美媒被爆准备为他写讣告</a></li>
 <li><a href="/sohnews/20230830/1927178.md">洪水淹中共保定军营，伤亡重！大陆记者：消息属实！网页做灰、微信疯传、点赞变蜡烛，一切似曾相识，胡锦涛去世，会复刻胡耀邦引发的学潮吗？传言指温家宝拒绝参与治丧委员会，背后原因惊人｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20230830/1926943.md">关联非凡：前贵州省委书记孙志刚和许家印</a></li>
-<li><a href="/baitai/20230830/1927320.md">胡锦涛不行了？美媒被爆准备为他写讣告</a></li>
 <li><a href="/topimagenews/20230830/1927222.md">中国最大民营银行陷危机；苦日子在后头 中国自然村锐减超百万！县城在消失 铁饭碗在消失</a></li>
 <li><a href="/sohnews/20230830/1926999.md">中共连番异动，张又侠向习发难？郭台铭参选总统，情愿受中共控制？蓝白将联手参选？【新闻看点 李沐阳8.29】</a></li>
 <li><a href="/cnnews/20230830/1926944.md">中国最富作家：娶3房妻子却晚景凄凉</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/topimagenews/20230830/1927221.md">吓死中共！网友评“带路”：终于可以报仇雪恨 6721个赞！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230830/1927238.md">陈破空：惊传习近平曾在南非中风？马晓伟泄密遭带走。忽又被放回？国际原子能总干事说话了！日本要把中共告上世贸组织。段子。直播与互动：美东时间8月30日早8点、中港台8月30日晚8点</a></li>
 <li><a href="/sohnews/20230830/1927244.md">文睿：华为，又出来丢人，一棍子，把你的5G打回原形</a></li>
-<li><a href="/cnnews/20230830/1927019.md">4600亿，孙正义“杀疯”了</a></li>
 <li><a href="/comments/20230830/1927243.md">北京大量店铺关门 日本核废水可能扳倒中国房地产</a></li>
+<li><a href="/cnnews/20230830/1927019.md">4600亿，孙正义“杀疯”了</a></li>
 <li><a href="/lifebaike/20230830/1927087.md">麦当劳点餐，一对母子对话令人窒息：“中国式家长真的很会让人发疯”</a></li>
 <li><a href="/baitai/20230830/1927207.md">这种维生素是抗癌利器，可全球10亿人缺它</a></li>
 <li><a href="/lifebaike/20230830/1927180.md">聪明的人烂在肚子里的3句话，糊涂人却逢人就说</a></li>
+<li><a href="/sohnews/20230830/1926897.md">“独家推荐：习近平要求全球倒向“习氏王朝” 而不是打开国门”No.03（08/29/23）#中国时局</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
 <li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">🏆【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
 
 </ul>
 </div>
