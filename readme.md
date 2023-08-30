@@ -19,15 +19,15 @@
 <li><a href="/sohnews/20230830/1926892.md">张又侠李桥铭趁习出访串联搞事，马朝旭白手套李光离奇暴毙，中国好声音导师收钱价目表。《老灯开讲第371期》</a></li>
 <li><a href="/cbnews/20230829/1926764.md">江峰：习近平人民币汇率战拼尽中国家底 #习近平</a></li>
 <li><a href="/cbnews/20230829/1926790.md">老板外遇“小三竟然是侄女” 板娘怒制海报痛斥长期通奸</a></li>
-<li><a href="/baitai/20230829/1926778.md">南京再现大量军车 红二代会否反习？</a></li>
-<li><a href="/comments/20230830/1926884.md">【独家重磅】李燕铭：李克强卷入医药腐败窝案 正部级旧部被查 李克强与落马贵州省委书记孙志刚七层隐秘关系揭秘 一层比一层惊人 李克强与江泽民有着不同寻常的关联 细思极恐 习近平李克强明争暗斗内幕（111） 习近平连任后大清洗（70） 贵州省委书记孙志刚落马深度内幕（2） 贵州帮覆灭记（6） 江绵恒暗黑帝国瓦解内幕（53）</a></li>
-<li><a href="/renquan/20230829/1926674.md">繁华落幕 中国经济崩溃开端</a></li>
 <li><a href="/topimagenews/20230830/1926947.md">耻辱！中国竟输给了这个国家</a></li>
+<li><a href="/comments/20230830/1926884.md">【独家重磅】李燕铭：李克强卷入医药腐败窝案 正部级旧部被查 李克强与落马贵州省委书记孙志刚七层隐秘关系揭秘 一层比一层惊人 李克强与江泽民有着不同寻常的关联 细思极恐 习近平李克强明争暗斗内幕（111） 习近平连任后大清洗（70） 贵州省委书记孙志刚落马深度内幕（2） 贵州帮覆灭记（6） 江绵恒暗黑帝国瓦解内幕（53）</a></li>
+<li><a href="/baitai/20230829/1926778.md">南京再现大量军车 红二代会否反习？</a></li>
+<li><a href="/renquan/20230829/1926674.md">繁华落幕 中国经济崩溃开端</a></li>
 <li><a href="/topimagenews/20230829/1926598.md">中俄遭打脸！华尔街也看走眼了</a></li>
 <li><a href="/baitai/20230829/1926703.md">日本的排放丑行再次证明了“蠢就是坏”</a></li>
 <li><a href="/comments/20230829/1926756.md">俞正声前“大秘” 贵州原省委书记孙志刚被查</a></li>
-<li><a href="/comments/20230829/1926594.md">【独家重磅】李燕铭：前常委俞正声大管家孙志刚被查 医药反腐风暴首个正部级高官落马 孙志刚涉活摘器官 牵连江绵恒马仔陈竺与张德江吉林帮大佬李斌 内幕揭秘 习近平连任后大清洗（69） 江绵恒暗黑帝国瓦解内幕（52） 贵州帮覆灭记（5） 习近平决战江曾（114） 贵州省委书记孙志刚落马深度内幕（1）</a></li>
 <li><a href="/cbnews/20230829/1926691.md">科学家发现量子纠缠“太极图”</a></li>
+<li><a href="/sohnews/20230829/1926772.md">中国好声音停播,水太深牵扯高层❗️❗️❗️幕后最大金主被挖出……金星避祸远走他乡！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230830/1927121.md" target="_blank">共和党人警告拜登：我们来找你了！国家档案馆被迫承认，拜登使用假名参与儿子商业交易。川普催促麦卡锡行动。#拜登 #麦卡锡 #弹劾</a></li>
 <li><a href="/cbnews/20230830/1927098.md" target="_blank">被小龙虾刺伤 杭州男子3天后亡 医揭致命关键</a></li>
 <li><a href="/cbnews/20230830/1926923.md" target="_blank">联合国报告:数十万人被贩卖在诈骗中心工作。大多数受害者来自东南亚国家以及中国、台湾等，也有一些是从遥远的非洲和拉丁美洲招募的。</a></li>
 <li><a href="/cbnews/20230830/1927003.md" target="_blank">中共忠实信徒！享寿107岁 加国人类学家北京辞世</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230829/1926464.md" target="_blank">美国思想领袖：【精彩片段】国际原子能组织认可日本排放的安全性 中国为何禁水产品 并掀起反日潮？- #新闻大家谈</a></li>
 <li><a href="/cbnews/20230829/1926461.md" target="_blank">美国思想领袖：【精彩片段】煽动反日「回旋标」中共将自食其果？从抢盐到拒吃海鲜 中国人的恐惧从何而来？- #新闻大家谈</a></li>
 <li><a href="/cbnews/20230829/1926447.md" target="_blank">美国思想领袖：【精彩片段】习近平回国反常地直奔新疆 究竟发生了什麽？中组部直接连线 命基层向习效忠- #新闻大家谈</a></li>
-<li><a href="/comments/20230829/1926390.md" target="_blank">美国建国之旅（采访）：一位加拿大资深金融人士</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230830/1927121.md" target="_blank">共和党人警告拜登：我们来找你了！国家档案馆被迫承认，拜登使用假名参与儿子商业交易。川普催促麦卡锡行动。#拜登 #麦卡锡 #弹劾</a></li>
 <li><a href="/comments/20230830/1927102.md" target="_blank">美商务部长访华，3处细节不同以往</a></li>
 <li><a href="/comments/20230830/1927086.md" target="_blank">404文: 刘夙的科技世界 删文致歉通知</a></li>
 <li><a href="/comments/20230830/1927070.md" target="_blank">关不羽：房地产已到临界点，如何避免最坏结果？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230830/1926948.md" target="_blank">王赫：雷蒙多访华与美中软硬交锋</a></li>
 <li><a href="/comments/20230830/1926884.md" target="_blank">【独家重磅】李燕铭：李克强卷入医药腐败窝案 正部级旧部被查 李克强与落马贵州省委书记孙志刚七层隐秘关系揭秘 一层比一层惊人 李克强与江泽民有着不同寻常的关联 细思极恐 习近平李克强明争暗斗内幕（111） 习近平连任后大清洗（70） 贵州省委书记孙志刚落马深度内幕（2） 贵州帮覆灭记（6） 江绵恒暗黑帝国瓦解内幕（53）</a></li>
 <li><a href="/comments/20230830/1926876.md" target="_blank">（重发清晰版）美国建国之旅（采访）：加拿大资深金融人士</a></li>
-<li><a href="/comments/20230829/1926852.md" target="_blank">时事大家谈：美商务部长访华 寻求“艰难平衡”？中国出台“认房不认贷”政策 能救活房市吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
 
 </ul>
 </div>
