@@ -17,17 +17,17 @@
 <li><a href="/comments/20230831/1927471.md">文昭：习近平突临新疆，那里藏着他最大的秘密、和最大的灾难！是什麽？</a></li>
 <li><a href="/comments/20230831/1927627.md">胡锦涛讣告纷纷草拟，密不发丧还是拔管障碍？习近平反日急刹车？党说海水很乾净</a></li>
 <li><a href="/cbnews/20230831/1927718.md">网传驻扎保定的一支共军被水淹全军覆没</a></li>
-<li><a href="/cbnews/20230831/1927635.md">〖兲朝浮世绘〗在党组织面前，任何明星只能是待宰羔羊</a></li>
 <li><a href="/baitai/20230831/1927753.md">雷蒙多访华 习近平一特殊举动释不寻常信号</a></li>
+<li><a href="/cbnews/20230831/1927635.md">〖兲朝浮世绘〗在党组织面前，任何明星只能是待宰羔羊</a></li>
 <li><a href="/topimagenews/20230831/1927487.md">重磅消息：中共政府对中融出手了</a></li>
 <li><a href="/cnnews/20230831/1927488.md">没想到，珠海核辐射数值全国第二，仅次于西藏</a></li>
 <li><a href="/ccpdope/20230831/1927588.md">火箭军高层暗杀习遭一锅端 推背图预言军人政变 习胆战心惊</a></li>
-<li><a href="/cnnews/20230831/1927490.md">知名童星杀人后潜逃 通缉照曝光 网友炸翻</a></li>
 <li><a href="/yule/20230831/1927730.md">刘嘉玲无修图素颜照流出 57岁真面目全看光</a></li>
+<li><a href="/cnnews/20230831/1927490.md">知名童星杀人后潜逃 通缉照曝光 网友炸翻</a></li>
 <li><a href="/topimagenews/20230831/1927696.md">中国人觉醒！中共禁播纪录片《我家住在烂尾楼》吸引近百万人观看</a></li>
-<li><a href="/yule/20230831/1927592.md">那英，果然被网友猜中了！陆媒2点分析：她的作法很聪明</a></li>
+<li><a href="/topimagenews/20230831/1927802.md">共军核潜舰沉没台海？中共噤声10天说话了</a></li>
 <li><a href="/sohnews/20230831/1927348.md">中国留日学生：我去找了那个辱华居酒店老板，没想到他竟然是这种人！👹</a></li>
-<li><a href="/topimagenews/20230831/1927705.md">去向成谜 许家印被爆疑似遭软禁,不能随意见人</a></li>
+<li><a href="/yule/20230831/1927592.md">那英，果然被网友猜中了！陆媒2点分析：她的作法很聪明</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230901/1927889.md" target="_blank">【杜耀明评论】 北京除外，郭台铭参选皆大欢喜</a></li>
 <li><a href="/comments/20230901/1927887.md" target="_blank">苏联偷了？！</a></li>
 <li><a href="/comments/20230831/1927860.md" target="_blank">时事大家谈：雷蒙多访华释放善意，美国乐见中国经济崩溃吗？</a></li>
 <li><a href="/comments/20230831/1927859.md" target="_blank">时事大家谈：中国要经济纾困，应该给老百姓直接发现金吗？雷蒙多访华释放善意，美国乐见中国经济崩溃吗？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230831/1927523.md" target="_blank">德媒：雷蒙多会李强：美商称中国变得“难以投资”</a></li>
 <li><a href="/comments/20230831/1927503.md" target="_blank">吴祚来：征檄文讨伐中共，唤民心颜色革命</a></li>
 <li><a href="/comments/20230831/1927502.md" target="_blank">陈纯：中共国国家主义的分裂</a></li>
-<li><a href="/comments/20230831/1927474.md" target="_blank">周晓辉：日本召见中共大使 北京倒打一耙正遭反噬</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 
 </ul>
 </div>
