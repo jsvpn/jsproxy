@@ -11,23 +11,23 @@
 <li><a href="/sohnews/20230830/1927178.md">洪水淹中共保定军营，伤亡重！大陆记者：消息属实！网页做灰、微信疯传、点赞变蜡烛，一切似曾相识，胡锦涛去世，会复刻胡耀邦引发的学潮吗？传言指温家宝拒绝参与治丧委员会，背后原因惊人｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20230830/1927320.md">胡锦涛不行了？美媒被爆准备为他写讣告</a></li>
 <li><a href="/topimagenews/20230830/1927222.md">中国最大民营银行陷危机；苦日子在后头 中国自然村锐减超百万！县城在消失 铁饭碗在消失</a></li>
-<li><a href="/cbnews/20230830/1927129.md">〖兲朝浮世绘〗大学生拍马屁居然也内卷</a></li>
 <li><a href="/sohnews/20230830/1927238.md">陈破空：惊传习近平曾在南非中风？马晓伟泄密遭带走。忽又被放回？国际原子能总干事说话了！日本要把中共告上世贸组织。段子。直播与互动：美东时间8月30日早8点、中港台8月30日晚8点</a></li>
+<li><a href="/cbnews/20230830/1927129.md">〖兲朝浮世绘〗大学生拍马屁居然也内卷</a></li>
 <li><a href="/topimagenews/20230830/1927221.md">吓死中共！网友评“带路”：终于可以报仇雪恨 6721个赞！【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230830/1927019.md">4600亿，孙正义“杀疯”了</a></li>
+<li><a href="/cbnews/20230831/1927437.md">惊传！美媒已着手写胡锦涛的讣告</a></li>
 <li><a href="/topimagenews/20230831/1927436.md">习近平还能撑多久？</a></li>
 <li><a href="/sohnews/20230830/1927244.md">文睿：华为，又出来丢人，一棍子，把你的5G打回原形</a></li>
-<li><a href="/cbnews/20230831/1927437.md">惊传！美媒已着手写胡锦涛的讣告</a></li>
-<li><a href="/comments/20230830/1927243.md">北京大量店铺关门 日本核废水可能扳倒中国房地产</a></li>
+<li><a href="/sohnews/20230831/1927439.md">重磅：美媒准备胡锦涛死讯报导，传等习近平拍板拔管！担心政变？习近平不发丧突抓高官；疫情重燃上热搜，新毒株背后真相</a></li>
 <li><a href="/comments/20230830/1927299.md">活捉四人帮的宫廷政变会在习身上发生？</a></li>
+<li><a href="/comments/20230830/1927243.md">北京大量店铺关门 日本核废水可能扳倒中国房地产</a></li>
 <li><a href="/baitai/20230830/1927207.md">这种维生素是抗癌利器，可全球10亿人缺它</a></li>
 <li><a href="/topimagenews/20230830/1927365.md">中共大翻车！各国华人网友齐喷：大使馆电话从没打通过 ！【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230831/1927439.md">重磅：美媒准备胡锦涛死讯报导，传等习近平拍板拔管！担心政变？习近平不发丧突抓高官；疫情重燃上热搜，新毒株背后真相</a></li>
 <li><a href="/lifebaike/20230830/1927087.md">麦当劳点餐，一对母子对话令人窒息：“中国式家长真的很会让人发疯”</a></li>
 <li><a href="/lifebaike/20230830/1927180.md">聪明的人烂在肚子里的3句话，糊涂人却逢人就说</a></li>
 <li><a href="/topimagenews/20230830/1927141.md">到处都在冒火! 俄罗斯遭开战以来最大袭击</a></li>
 <li><a href="/comments/20230830/1927068.md">蔡慎坤：习近平这是在警告俞正声？</a></li>
 <li><a href="/comments/20230830/1927240.md">俞正声大管家孙志刚落马 传家人4月已被带走调查</a></li>
+<li><a href="/ccpdope/20230830/1927148.md">习近平出访南非前 出现多个危险信号</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230831/1927560.md" target="_blank">中国经济遭重创，正是西方应自我批评的时候</a></li>
 <li><a href="/comments/20230831/1927541.md" target="_blank">天亮时分：美媒开始准备胡锦涛的讣告，政治危机在向习近平走来；脸书删除7700个中共大外宣账号；中共出手救助信托公司（政论天下第1097集 20230830）天亮时分</a></li>
 <li><a href="/comments/20230831/1927523.md" target="_blank">德媒：雷蒙多会李强：美商称中国变得“难以投资”</a></li>
 <li><a href="/comments/20230831/1927503.md" target="_blank">吴祚来：征檄文讨伐中共，唤民心颜色革命</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230830/1927242.md" target="_blank">“立会好声音”大会宣布停办 容海恩早三小时率先“跳船”</a></li>
 <li><a href="/comments/20230830/1927241.md" target="_blank">雷蒙多：许多美企反映无法在中国投资且风险太大 中方反驳</a></li>
 <li><a href="/comments/20230830/1927240.md" target="_blank">俞正声大管家孙志刚落马 传家人4月已被带走调查</a></li>
-<li><a href="/comments/20230830/1927143.md" target="_blank">中共几代掌权秘笈 源自这项与人民的隐形交易？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
 <li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
 
 </ul>
 </div>
