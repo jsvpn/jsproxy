@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230903/1928760.md" target="_blank">乐乐法利：让反共变成一件很酷的事；我也想站着把钱挣了；学好中文让我与中国人产生共鸣 ｜#方菲时间下午3:21</a></li>
 <li><a href="/cbnews/20230903/1928755.md" target="_blank">江峰：程晓农与江峰畅谈大爆内幕：刀郎和《罗刹海市》爆红背後中共的操控与失控；碧桂园和李嘉诚，大亨们谁是真聪明？火箭军军头们被一窝端的真实背景，竟然跟程晓农的神秘包裹有关系</a></li>
 <li><a href="/cbnews/20230903/1928742.md" target="_blank">习近平爱炒作，总用这招展现全球影响力</a></li>
 <li><a href="/comments/20230903/1928697.md" target="_blank">美军核弹机密！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230902/1928354.md" target="_blank">美国思想领袖：中共始末：蛇始蛇终？</a></li>
 <li><a href="/cbnews/20230902/1928353.md" target="_blank">美国思想领袖：【精彩片段】 中共为建立政权 撒下一个最大谎言 台海终局有定数？独夫心态强烈 习「白头翁」处境凶险 ？- #新闻大家谈</a></li>
 <li><a href="/cbnews/20230902/1928352.md" target="_blank">美国思想领袖：【精彩片段】中共始末：蛇始蛇终？习近平在躲避什麽？自知《铁板图》明示其结局？- #新闻大家谈</a></li>
-<li><a href="/cbnews/20230902/1928342.md" target="_blank">江峰：认房不认贷解析：掏空韭菜的钱包！习近平房住不炒的房产清零政策终结为时已晚！社保金个人帐户的钱不是个人的？！年轻人开始拒缴社保【江峰漫谈20230901第722期】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230903/1928761.md" target="_blank">文昭：中国式现代化，就是“蒸汽朋克”式的现代化，什么是蒸气朋克？</a></li>
+<li><a href="/comments/20230903/1928760.md" target="_blank">乐乐法利：让反共变成一件很酷的事；我也想站着把钱挣了；学好中文让我与中国人产生共鸣 ｜#方菲时间下午3:21</a></li>
 <li><a href="/comments/20230903/1928750.md" target="_blank">这是要迫不及待的割韭菜了？</a></li>
 <li><a href="/comments/20230903/1928736.md" target="_blank">“喷子”一代比一代狠！莫言被举报是间谍</a></li>
 <li><a href="/comments/20230903/1928697.md" target="_blank">美军核弹机密！</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230902/1928457.md" target="_blank">谢田：中国人面对的三个世界性难题</a></li>
 <li><a href="/comments/20230902/1928456.md" target="_blank">石正丽评选院士，终将迎来“烧马户、杀又鸟”</a></li>
 <li><a href="/comments/20230902/1928455.md" target="_blank">魔幻现实的中国，鲁山715万雕塑一点也不贵</a></li>
-<li><a href="/comments/20230902/1928366.md" target="_blank">文昭：总理李强两项要求当面被拒；习近平成「工业斯巴达总书记」！中国能实现工业斯巴达吗？</a></li>
-<li><a href="/comments/20230902/1928355.md" target="_blank">天亮时分：政治局会议承认，中共缺乏执政本领；认房不认贷，能拉动房地产吗？中共富人的财富不是钱，而是穷人（政论天下第1099集 20230901）天亮时分</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
 
 </ul>
 </div>
