@@ -12,22 +12,22 @@
 <li><a href="/baitai/20230902/1928205.md">习掌控军队出大问题？国防部坐实魏凤和真出事了；中共铁杆儿变心？地缘政治或大逆转；不管咋样洗也是脏东西！石正丽候选中科院士【环球看点】</a></li>
 <li><a href="/ccpdope/20230902/1928224.md">李克强为什么突然现身敦煌？</a></li>
 <li><a href="/topimagenews/20230902/1928576.md">莫言被举报为“文化间谍” 网友： 回来了，全都回来了【阿波罗网报道】</a></li>
-<li><a href="/yule/20230902/1928094.md">83岁著名演员将巨额遗产留给保姆 亲人怒了</a></li>
 <li><a href="/cnnews/20230902/1928633.md">以假乱真！华为、阿里巴巴等上百家企业向中国当局申请深伪许可</a></li>
+<li><a href="/yule/20230902/1928094.md">83岁著名演员将巨额遗产留给保姆 亲人怒了</a></li>
 <li><a href="/headline/20230902/1928123.md">习近平或缺席G20由李强顶替 分析：健康问题加上怕出国后被夺权</a></li>
 <li><a href="/ssgc/20230902/1928612.md">中共政治局会议承认缺乏执政本领</a></li>
 <li><a href="/sohnews/20230902/1928657.md">一尊震怒❗️❗️❗️李强泄洪，解放军精锐损失惨重，谁惹的祸？</a></li>
 <li><a href="/yule/20230902/1928090.md">赵本山徒孙爆料：章子怡汪峰已离婚 家产分完了</a></li>
 <li><a href="/comments/20230902/1928228.md">中共防长魏凤和出事？军方首次回应“失踪”传闻</a></li>
 <li><a href="/sohnews/20230902/1928377.md">🔥🔥中共部队坦克飞机瞬息间全毁❗军队怨气冲天 习近平不敢吭声❗</a></li>
+<li><a href="/sohnews/20230902/1927997.md">政变计划《2014工程预案》骇人听闻！薄熙来准备大开杀戒，斩首胡温习！（新四人帮政变始末一）</a></li>
 <li><a href="/topimagenews/20230902/1928386.md">中国经济更大风暴 震惊：270家银行机构违约【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230902/1928625.md">东风27真的击中了美国航母吗？美国是吓尿了，还是看笑了？东风27射程8000公里？末端速度15马赫？｜ #探索时分</a></li>
 <li><a href="/yule/20230902/1928096.md">网传曾志伟入股缅北诈骗“被带走调查”！港警回应了</a></li>
 <li><a href="/ssgc/20230902/1928613.md">〖微博谈〗小孩子都明白的道理</a></li>
-<li><a href="/sohnews/20230902/1927997.md">政变计划《2014工程预案》骇人听闻！薄熙来准备大开杀戒，斩首胡温习！（新四人帮政变始末一）</a></li>
-<li><a href="/baitai/20230902/1928563.md">爆料：李强拍马酿大祸 共军精锐部队遭毁令习震怒</a></li>
+<li><a href="/sohnews/20230902/1928625.md">东风27真的击中了美国航母吗？美国是吓尿了，还是看笑了？东风27射程8000公里？末端速度15马赫？｜ #探索时分</a></li>
 <li><a href="/cbnews/20230902/1928644.md">两件事到位，中共垮台！（一平论政，2023年9月2日）</a></li>
-<li><a href="/cbnews/20230902/1928397.md">中国新版地图纳入黑瞎子岛 莫斯科沉默3天回应</a></li>
+<li><a href="/baitai/20230902/1928563.md">爆料：李强拍马酿大祸 共军精锐部队遭毁令习震怒</a></li>
+<li><a href="/ssgc/20230902/1928663.md">大“戏”近平 习要何去何从</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
 <li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
 
 </ul>
 </div>
