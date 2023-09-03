@@ -14,7 +14,6 @@
 <li><a href="/yule/20230903/1928910.md">白百何离婚的消息 刷爆了社交媒体</a></li>
 <li><a href="/sohnews/20230903/1928929.md">台湾震撼承认中华人民共和国合法与独立，清华大学公开贴出反习大字报，作家莫言被举报是间谍。《老灯开讲第375期》</a></li>
 <li><a href="/comments/20230903/1928966.md">新疆天池惊现龙？ 目击者：银色的，15米长</a></li>
-<li><a href="/topimagenews/20230903/1928756.md">最近！北京某仁医院医护降薪！夜班费减半</a></li>
 <li><a href="/health/20230903/1928933.md">“锌”是男性之宝，年过50，多吃4种高锌食物，精力足身体棒</a></li>
 <li><a href="/cbnews/20230903/1928915.md">重庆2和尚背国际精品包“行情破26万” 照片惊呆网：社会在走行情要有</a></li>
 <li><a href="/ccpdope/20230903/1928963.md">著名作家习近平</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/cnnews/20230903/1928791.md">高校教授送外卖一个月 犀利发问恐触逆鳞</a></li>
 <li><a href="/ssgc/20230903/1928974.md">中共外交已乱章法</a></li>
 <li><a href="/comments/20230903/1928971.md">马斯克指责洛杉矶精英学校给变性女儿洗脑，让她成为狂热的共产主义者。这让马斯克决心收购推特。#马斯克 #共产主义 #推特</a></li>
+<li><a href="/sohnews/20230903/1929004.md">🔥胆大妄为！对习近平反腐的天大讽刺；被菲狠甩21分！成史上最烂姚明脸超臭陆球迷气炸逼下台；中共新殖民主义遭暴力反噬中国公民送命；中共新版地图惹议美反击不实海洋主张和北京胁迫行径</a></li>
 <li><a href="/baitai/20230903/1928921.md">崔永元痛骂中共农业部是大骗子</a></li>
 <li><a href="/cnnews/20230903/1928846.md">别在吹了！Mate60pro上手三天 我说点实话吧</a></li>
-<li><a href="/sohnews/20230903/1929004.md">🔥胆大妄为！对习近平反腐的天大讽刺；被菲狠甩21分！成史上最烂姚明脸超臭陆球迷气炸逼下台；中共新殖民主义遭暴力反噬中国公民送命；中共新版地图惹议美反击不实海洋主张和北京胁迫行径</a></li>
-<li><a href="/sohnews/20230903/1928967.md">文睿：一尊，又来戏码了，求饶，哀嚎声充斥人民日报，再做一集</a></li>
-<li><a href="/cbnews/20230903/1928755.md">江峰：程晓农与江峰畅谈大爆内幕：刀郎和《罗刹海市》爆红背後中共的操控与失控；碧桂园和李嘉诚，大亨们谁是真聪明？火箭军军头们被一窝端的真实背景，竟然跟程晓农的神秘包裹有关系</a></li>
+<li><a href="/cbnews/20230904/1929015.md">李佳琦悖论再现 大陆播主书写“彭载舟”被断直播</a></li>
 <li><a href="/cbnews/20230903/1928862.md">担心吃到辐射海鲜…家用检测仪卖翻 陆女“蒸大闸蟹测试”吓傻</a></li>
+<li><a href="/sohnews/20230903/1928967.md">文睿：一尊，又来戏码了，求饶，哀嚎声充斥人民日报，再做一集</a></li>
+<li><a href="/ccpdope/20230903/1928877.md">韩国总统尹锡悦：共产主义靠造假和煽动而生存</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
 <li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
 
 </ul>
 </div>
