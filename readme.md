@@ -14,17 +14,17 @@
 <li><a href="/yule/20230902/1928094.md">83岁著名演员将巨额遗产留给保姆 亲人怒了</a></li>
 <li><a href="/topimagenews/20230902/1928576.md">莫言被举报为“文化间谍” 网友： 回来了，全都回来了【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230902/1928633.md">以假乱真！华为、阿里巴巴等上百家企业向中国当局申请深伪许可</a></li>
-<li><a href="/sohnews/20230902/1928657.md">一尊震怒❗️❗️❗️李强泄洪，解放军精锐损失惨重，谁惹的祸？</a></li>
 <li><a href="/headline/20230902/1928123.md">习近平或缺席G20由李强顶替 分析：健康问题加上怕出国后被夺权</a></li>
-<li><a href="/ssgc/20230902/1928612.md">中共政治局会议承认缺乏执政本领</a></li>
+<li><a href="/sohnews/20230902/1928657.md">一尊震怒❗️❗️❗️李强泄洪，解放军精锐损失惨重，谁惹的祸？</a></li>
 <li><a href="/sohnews/20230902/1927997.md">政变计划《2014工程预案》骇人听闻！薄熙来准备大开杀戒，斩首胡温习！（新四人帮政变始末一）</a></li>
+<li><a href="/ssgc/20230902/1928612.md">中共政治局会议承认缺乏执政本领</a></li>
 <li><a href="/yule/20230902/1928090.md">赵本山徒孙爆料：章子怡汪峰已离婚 家产分完了</a></li>
 <li><a href="/sohnews/20230902/1928377.md">🔥🔥中共部队坦克飞机瞬息间全毁❗军队怨气冲天 习近平不敢吭声❗</a></li>
 <li><a href="/comments/20230902/1928228.md">中共防长魏凤和出事？军方首次回应“失踪”传闻</a></li>
 <li><a href="/topimagenews/20230902/1928386.md">中国经济更大风暴 震惊：270家银行机构违约【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230902/1928644.md">两件事到位，中共垮台！（一平论政，2023年9月2日）</a></li>
-<li><a href="/ssgc/20230902/1928613.md">〖微博谈〗小孩子都明白的道理</a></li>
 <li><a href="/ssgc/20230902/1928663.md">大“戏”近平 习要何去何从</a></li>
+<li><a href="/ssgc/20230902/1928613.md">〖微博谈〗小孩子都明白的道理</a></li>
 <li><a href="/baitai/20230902/1928563.md">爆料：李强拍马酿大祸 共军精锐部队遭毁令习震怒</a></li>
 <li><a href="/yule/20230902/1928096.md">网传曾志伟入股缅北诈骗“被带走调查”！港警回应了</a></li>
 <li><a href="/sohnews/20230902/1928625.md">东风27真的击中了美国航母吗？美国是吓尿了，还是看笑了？东风27射程8000公里？末端速度15马赫？｜ #探索时分</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
 <li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
 
 </ul>
 </div>
