@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20230903/1928741.md">女虎五毒俱全！包养15个小伙供自己玩乐 还拉女儿一起玩</a></li>
 <li><a href="/finance/20230903/1928749.md">最近几年，尽量不要定期大额存款</a></li>
 <li><a href="/sohnews/20230903/1928711.md">专业机构揭底华为芯片，骗局是这样练成的？！涿州驻军惨被灭顶，引爆新版“习李斗”？</a></li>
-<li><a href="/finance/20230903/1928743.md">降薪，裁员！华为的“亲儿子”完了…</a></li>
 <li><a href="/topimagenews/20230903/1928947.md">中共军队有人要反？军中喉舌又喊：部队跑不了、阴谋家反不了...【阿波罗网报道】</a></li>
+<li><a href="/finance/20230903/1928743.md">降薪，裁员！华为的“亲儿子”完了…</a></li>
 <li><a href="/topimagenews/20230903/1928841.md">【微博精粹】停炒反日没用 习总学岸田吃福岛海鲜管用</a></li>
-<li><a href="/baitai/20230903/1928758.md">中国各地爆发三阳 两大新变异株威力惊人</a></li>
 <li><a href="/comments/20230903/1928854.md">天亮时分：人大公布新任免决定，秦刚状况令人失望；千万顶流账号被封，又惹到习近平了？房市利好刺激下，挂牌数剧增（YouTube会员节目第33集 20230902）</a></li>
+<li><a href="/baitai/20230903/1928758.md">中国各地爆发三阳 两大新变异株威力惊人</a></li>
+<li><a href="/sohnews/20230903/1928929.md">台湾震撼承认中华人民共和国合法与独立，清华大学公开贴出反习大字报，作家莫言被举报是间谍。《老灯开讲第375期》</a></li>
 <li><a href="/yule/20230903/1928910.md">白百何离婚的消息 刷爆了社交媒体</a></li>
 <li><a href="/ccpdope/20230903/1928732.md">中共官员党校培训 有高官酒醉死亡 还有带情妇的</a></li>
-<li><a href="/sohnews/20230903/1928929.md">台湾震撼承认中华人民共和国合法与独立，清华大学公开贴出反习大字报，作家莫言被举报是间谍。《老灯开讲第375期》</a></li>
 <li><a href="/sohnews/20230903/1928830.md">270家银行违约，大萧条已到，习近平将对台开战？台湾军力有多强！【新闻看点 李沐阳9.2】</a></li>
 <li><a href="/cnnews/20230903/1928747.md">公职女陪领导喝酒常醉卧街头 夫连发12视频爆料</a></li>
+<li><a href="/comments/20230903/1928970.md">军头肩章藏暗器？习近平不敢回京，保命成大难题！李强保雄安水淹精锐部队；军方宣布军头歇菜，南非辱华了？</a></li>
 <li><a href="/topimagenews/20230903/1928756.md">最近！北京某仁医院医护降薪！夜班费减半</a></li>
 <li><a href="/cnnews/20230903/1928737.md">难得，白宫终于传来乌军反攻好消息</a></li>
-<li><a href="/comments/20230903/1928970.md">军头肩章藏暗器？习近平不敢回京，保命成大难题！李强保雄安水淹精锐部队；军方宣布军头歇菜，南非辱华了？</a></li>
 <li><a href="/comments/20230903/1928750.md">这是要迫不及待的割韭菜了？</a></li>
-<li><a href="/cbnews/20230903/1928915.md">重庆2和尚背国际精品包“行情破26万” 照片惊呆网：社会在走行情要有</a></li>
 <li><a href="/health/20230903/1928933.md">“锌”是男性之宝，年过50，多吃4种高锌食物，精力足身体棒</a></li>
-<li><a href="/cnnews/20230903/1928791.md">高校教授送外卖一个月 犀利发问恐触逆鳞</a></li>
+<li><a href="/cbnews/20230903/1928915.md">重庆2和尚背国际精品包“行情破26万” 照片惊呆网：社会在走行情要有</a></li>
+<li><a href="/comments/20230903/1928966.md">新疆天池惊现龙？ 目击者：银色的，15米长</a></li>
 <li><a href="/sohnews/20230903/1928890.md">“人大常委会任免通告：也无火箭部队消息 ⋯⋯”No.06（09/02/23）</a></li>
-<li><a href="/cbnews/20230903/1928742.md">习近平爱炒作，总用这招展现全球影响力</a></li>
-<li><a href="/sohnews/20230903/1928705.md">“震惊四座新民调！ 蹦跳11%点 被最严厉指控后 共和党选民报复性全面倒向川普！”No.03（09/02/23）</a></li>
+<li><a href="/cnnews/20230903/1928791.md">高校教授送外卖一个月 犀利发问恐触逆鳞</a></li>
+<li><a href="/ccpdope/20230903/1928963.md">著名作家习近平</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230903/1929007.md" target="_blank">佳士工友现场声援团：站起来吧饱受压迫的中国人</a></li>
 <li><a href="/comments/20230903/1928971.md" target="_blank">马斯克指责洛杉矶精英学校给变性女儿洗脑，让她成为狂热的共产主义者。这让马斯克决心收购推特。#马斯克 #共产主义 #推特</a></li>
 <li><a href="/comments/20230903/1928970.md" target="_blank">军头肩章藏暗器？习近平不敢回京，保命成大难题！李强保雄安水淹精锐部队；军方宣布军头歇菜，南非辱华了？</a></li>
 <li><a href="/comments/20230903/1928966.md" target="_blank">新疆天池惊现龙？ 目击者：银色的，15米长</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230903/1928760.md" target="_blank">乐乐法利：让反共变成一件很酷的事；我也想站着把钱挣了；学好中文让我与中国人产生共鸣 ｜#方菲时间下午3:21</a></li>
 <li><a href="/comments/20230903/1928750.md" target="_blank">这是要迫不及待的割韭菜了？</a></li>
 <li><a href="/comments/20230903/1928736.md" target="_blank">“喷子”一代比一代狠！莫言被举报是间谍</a></li>
-<li><a href="/comments/20230903/1928697.md" target="_blank">美军核弹机密！</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
 <li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
 
 </ul>
 </div>
