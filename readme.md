@@ -9,23 +9,23 @@
 <li><a href="/topimagenews/20230903/1928947.md">中共军队有人要反？军中喉舌又喊：部队跑不了、阴谋家反不了...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230903/1928841.md">【微博精粹】停炒反日没用 习总学岸田吃福岛海鲜管用</a></li>
 <li><a href="/comments/20230903/1928970.md">军头肩章藏暗器？习近平不敢回京，保命成大难题！李强保雄安水淹精锐部队；军方宣布军头歇菜，南非辱华了？</a></li>
-<li><a href="/sohnews/20230903/1928830.md">270家银行违约，大萧条已到，习近平将对台开战？台湾军力有多强！【新闻看点 李沐阳9.2】</a></li>
 <li><a href="/yule/20230903/1928910.md">白百何离婚的消息 刷爆了社交媒体</a></li>
 <li><a href="/sohnews/20230903/1928929.md">台湾震撼承认中华人民共和国合法与独立，清华大学公开贴出反习大字报，作家莫言被举报是间谍。《老灯开讲第375期》</a></li>
 <li><a href="/comments/20230903/1928966.md">新疆天池惊现龙？ 目击者：银色的，15米长</a></li>
 <li><a href="/topimagenews/20230904/1929046.md">“监督你妈，滚！”，他骂出了多少党官的心声</a></li>
+<li><a href="/topimagenews/20230904/1929045.md">中国疯传他丧命！遭本尊现身猛抽脸</a></li>
 <li><a href="/health/20230903/1928933.md">“锌”是男性之宝，年过50，多吃4种高锌食物，精力足身体棒</a></li>
 <li><a href="/cbnews/20230903/1928915.md">重庆2和尚背国际精品包“行情破26万” 照片惊呆网：社会在走行情要有</a></li>
-<li><a href="/topimagenews/20230904/1929045.md">中国疯传他丧命！遭本尊现身猛抽脸</a></li>
 <li><a href="/ccpdope/20230903/1928963.md">著名作家习近平</a></li>
 <li><a href="/ssgc/20230903/1928974.md">中共外交已乱章法</a></li>
 <li><a href="/cbnews/20230904/1929015.md">李佳琦悖论再现 大陆播主书写“彭载舟”被断直播</a></li>
 <li><a href="/sohnews/20230903/1928890.md">“人大常委会任免通告：也无火箭部队消息 ⋯⋯”No.06（09/02/23）</a></li>
-<li><a href="/comments/20230903/1928971.md">马斯克指责洛杉矶精英学校给变性女儿洗脑，让她成为狂热的共产主义者。这让马斯克决心收购推特。#马斯克 #共产主义 #推特</a></li>
-<li><a href="/cnnews/20230903/1928846.md">别在吹了！Mate60pro上手三天 我说点实话吧</a></li>
 <li><a href="/sohnews/20230903/1929004.md">🔥胆大妄为！对习近平反腐的天大讽刺；被菲狠甩21分！成史上最烂姚明脸超臭陆球迷气炸逼下台；中共新殖民主义遭暴力反噬中国公民送命；中共新版地图惹议美反击不实海洋主张和北京胁迫行径</a></li>
+<li><a href="/comments/20230903/1928971.md">马斯克指责洛杉矶精英学校给变性女儿洗脑，让她成为狂热的共产主义者。这让马斯克决心收购推特。#马斯克 #共产主义 #推特</a></li>
 <li><a href="/baitai/20230904/1929044.md">啥情况？宋祖儿事未了 又一中国女星出事了</a></li>
+<li><a href="/cnnews/20230903/1928846.md">别在吹了！Mate60pro上手三天 我说点实话吧</a></li>
 <li><a href="/comments/20230903/1929014.md">中国地底下存在巨大的“超级水漏斗”</a></li>
+<li><a href="/ccpdope/20230904/1929043.md">日本抗议有效！中共立即龟缩称“近海水质向好”</a></li>
 <li><a href="/baitai/20230903/1928921.md">崔永元痛骂中共农业部是大骗子</a></li>
 <li><a href="/sohnews/20230903/1928967.md">文睿：一尊，又来戏码了，求饶，哀嚎声充斥人民日报，再做一集</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230904/1929122.md" target="_blank">抢盐不是问题 无脑才是问题</a></li>
+<li><a href="/comments/20230904/1929121.md" target="_blank">小民之心：中国经济危机加剧 习近平用另类思维</a></li>
+<li><a href="/comments/20230904/1929120.md" target="_blank">当差未必可以当国：侯友宜如李家超之不济</a></li>
 <li><a href="/comments/20230904/1929108.md" target="_blank">一架飞机夺江山 美军傻做了猪队友</a></li>
 <li><a href="/comments/20230904/1929107.md" target="_blank">吴奕军：被低估的里程碑：美日韩峰会确定“联手抗中”</a></li>
 <li><a href="/comments/20230904/1929099.md" target="_blank">天亮时分：传李强决定水淹涿州，瘫痪坦克旅和航空大队，习近平暴怒；又一军中少将落马（政论天下第1100集 20230903）天亮时分</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230903/1928832.md" target="_blank">网络民议:断缴社保的年轻人都是怎么想的？</a></li>
 <li><a href="/comments/20230903/1928809.md" target="_blank">德媒：拯救股市 中国证监会宣布阶段性收紧IPO</a></li>
 <li><a href="/comments/20230903/1928770.md" target="_blank">萧育和：安兰德的意志宇宙与美国保守主义</a></li>
-<li><a href="/comments/20230903/1928769.md" target="_blank">政治低能恼羞成怒 郭台铭为赖清德助选</a></li>
-<li><a href="/comments/20230903/1928768.md" target="_blank">宋国诚: 还给台湾一个公道</a></li>
-<li><a href="/comments/20230903/1928767.md" target="_blank">网海拾贝:中共硬把对中友好的日本逼成了自己的对手</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
 <li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 
 </ul>
 </div>
