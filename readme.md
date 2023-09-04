@@ -17,17 +17,17 @@
 <li><a href="/topimagenews/20230904/1929147.md">【微博精粹】有人“核威胁”习近平</a></li>
 <li><a href="/ccpdope/20230904/1929043.md">日本抗议有效！中共立即龟缩称“近海水质向好”</a></li>
 <li><a href="/cbnews/20230904/1929102.md">持西方护照回国，华人女孩被告知 “国籍冲突”</a></li>
+<li><a href="/lifebaike/20230904/1929252.md">哈佛耗时75年研究发现：长大后有出息的孩子，往往都会有4大特征</a></li>
 <li><a href="/cnnews/20230904/1929178.md">北京被地方干趴下了！特警激战法警 场面混乱【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20230904/1929168.md">李强水淹中共精锐装甲部队 习大怒</a></li>
 <li><a href="/cnnews/20230904/1929095.md">云南“翘臀”行长敛1.5亿元60个情人，夜夜笙歌</a></li>
-<li><a href="/comments/20230903/1929014.md">中国地底下存在巨大的“超级水漏斗”</a></li>
-<li><a href="/lifebaike/20230904/1929252.md">哈佛耗时75年研究发现：长大后有出息的孩子，往往都会有4大特征</a></li>
-<li><a href="/comments/20230904/1929099.md">天亮时分：传李强决定水淹涿州，瘫痪坦克旅和航空大队，习近平暴怒；又一军中少将落马（政论天下第1100集 20230903）天亮时分</a></li>
 <li><a href="/comments/20230904/1929257.md">习近平亲信王小洪又卸一职 许甘露接掌警察协会</a></li>
+<li><a href="/comments/20230904/1929099.md">天亮时分：传李强决定水淹涿州，瘫痪坦克旅和航空大队，习近平暴怒；又一军中少将落马（政论天下第1100集 20230903）天亮时分</a></li>
 <li><a href="/cbnews/20230904/1929156.md">〖兲朝浮世绘〗跪求无用 人民当立</a></li>
 <li><a href="/topimagenews/20230904/1929146.md">瞒不住?大白天 上海出现一幕令人惊异的天象</a></li>
-<li><a href="/ssgc/20230904/1929128.md">〖微博谈〗向全世界谢罪是唯一出路</a></li>
 <li><a href="/cnnews/20230904/1929165.md">习近平狂妄至极 看到这就傻眼了；中国经济能硬着陆？“看爆发有多严重”</a></li>
+<li><a href="/ssgc/20230904/1929128.md">〖微博谈〗向全世界谢罪是唯一出路</a></li>
+<li><a href="/topimagenews/20230904/1929225.md">中美军方高层密会破局？中共控美这4点 美拿“这个”回敬 气坏北京</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230904/1929350.md" target="_blank">时事大家谈：石正丽入围中科院院士，新冠溯源再起波澜？&#160;&#160;&#160;</a></li>
+<li><a href="/comments/20230904/1929349.md" target="_blank">时事大家谈：习近平若真缺席G-20峰会，背后考量是什么？石正丽入围中科院院士，新冠溯源再起波澜？&#160;&#160;&#160;</a></li>
 <li><a href="/comments/20230904/1929335.md" target="_blank">为什么现在的“士子”写不出先秦诸子 文章的格局？高瑜：谁培养的精英？</a></li>
 <li><a href="/comments/20230904/1929333.md" target="_blank">专栏 &#8211; 劳工通讯：福建省闽侯县顺邦防护科技有限公司拖欠工人工资引发罢工 (八)</a></li>
 <li><a href="/comments/20230904/1929306.md" target="_blank">【文韬政论】政府干预手段改变不了中港股市半生不死的局面</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230903/1928966.md" target="_blank">新疆天池惊现龙？ 目击者：银色的，15米长</a></li>
 <li><a href="/comments/20230903/1928965.md" target="_blank">乌克兰空军：在敖德萨击毁22架俄国无人机</a></li>
 <li><a href="/comments/20230903/1928960.md" target="_blank">美警员因公殉职 大批同事代他送幼子上学</a></li>
-<li><a href="/comments/20230903/1928869.md" target="_blank">庆明：少奶奶的智慧</a></li>
-<li><a href="/comments/20230903/1928868.md" target="_blank">有感于老人被中共迫害</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
 <li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
 
 </ul>
 </div>
