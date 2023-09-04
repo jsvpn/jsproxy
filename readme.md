@@ -10,11 +10,10 @@
 <li><a href="/topimagenews/20230904/1929045.md">中国疯传他丧命！遭本尊现身猛抽脸</a></li>
 <li><a href="/comments/20230903/1928966.md">新疆天池惊现龙？ 目击者：银色的，15米长</a></li>
 <li><a href="/ssgc/20230903/1928974.md">中共外交已乱章法</a></li>
-<li><a href="/ccpdope/20230903/1928963.md">著名作家习近平</a></li>
+<li><a href="/topimagenews/20230904/1929180.md">中国大规模运动真的来了</a></li>
 <li><a href="/lifebaike/20230904/1929088.md">世界卫生组织呼吁：停止使用电饭煲，否则会诱发肝癌？告诉你真相</a></li>
 <li><a href="/cbnews/20230904/1929015.md">李佳琦悖论再现 大陆播主书写“彭载舟”被断直播</a></li>
 <li><a href="/topimagenews/20230904/1929147.md">【微博精粹】有人“核威胁”习近平</a></li>
-<li><a href="/topimagenews/20230904/1929180.md">中国大规模运动真的来了</a></li>
 <li><a href="/baitai/20230904/1929044.md">啥情况？宋祖儿事未了 又一中国女星出事了</a></li>
 <li><a href="/sohnews/20230903/1929004.md">🔥胆大妄为！对习近平反腐的天大讽刺；被菲狠甩21分！成史上最烂姚明脸超臭陆球迷气炸逼下台；中共新殖民主义遭暴力反噬中国公民送命；中共新版地图惹议美反击不实海洋主张和北京胁迫行径</a></li>
 <li><a href="/cbnews/20230904/1929102.md">持西方护照回国，华人女孩被告知 “国籍冲突”</a></li>
@@ -24,9 +23,10 @@
 <li><a href="/cnnews/20230904/1929095.md">云南“翘臀”行长敛1.5亿元60个情人，夜夜笙歌</a></li>
 <li><a href="/comments/20230903/1928971.md">马斯克指责洛杉矶精英学校给变性女儿洗脑，让她成为狂热的共产主义者。这让马斯克决心收购推特。#马斯克 #共产主义 #推特</a></li>
 <li><a href="/comments/20230903/1929014.md">中国地底下存在巨大的“超级水漏斗”</a></li>
-<li><a href="/comments/20230904/1929099.md">天亮时分：传李强决定水淹涿州，瘫痪坦克旅和航空大队，习近平暴怒；又一军中少将落马（政论天下第1100集 20230903）天亮时分</a></li>
 <li><a href="/ccpdope/20230904/1929168.md">李强水淹中共精锐装甲部队 习大怒</a></li>
+<li><a href="/comments/20230904/1929099.md">天亮时分：传李强决定水淹涿州，瘫痪坦克旅和航空大队，习近平暴怒；又一军中少将落马（政论天下第1100集 20230903）天亮时分</a></li>
 <li><a href="/ssgc/20230904/1929128.md">〖微博谈〗向全世界谢罪是唯一出路</a></li>
+<li><a href="/cbnews/20230904/1929156.md">〖兲朝浮世绘〗跪求无用 人民当立</a></li>
 <li><a href="/topimagenews/20230904/1929146.md">瞒不住?大白天 上海出现一幕令人惊异的天象</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
 <li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
 <li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 
 </ul>
 </div>
