@@ -8,10 +8,8 @@
 <li><a href="/sohnews/20230905/1929386.md">中纪委正式通报秦刚案件，军队反习将领不惜用泄密止战，习帮主已迎来被全民清算的时刻。《老灯开讲第376期》</a></li>
 <li><a href="/topimagenews/20230905/1929441.md">国企女副总上演“3人共浴”，聊天内容曝光</a></li>
 <li><a href="/topimagenews/20230905/1929477.md">中俄突传重磅消息</a></li>
-<li><a href="/baitai/20230904/1929320.md">反抗！传河南相继爆发学生「起义」 教师静坐抗议</a></li>
 <li><a href="/sohnews/20230905/1929438.md">习近平推特开账号，5万关注者被“禁评”；传习明泽操刀，一尊亲自示范大外宣想干嘛？5大领域出招捞救命稻草，习近平急眼了？</a></li>
 <li><a href="/topimagenews/20230905/1929533.md">【微博精粹】三哥更狠 连习总中南海卧室都夺了</a></li>
-<li><a href="/ccpdope/20230904/1929321.md">中共少将曝光多人不信党再度流传</a></li>
 <li><a href="/cbnews/20230905/1929398.md">中共少将曝光多名“内奸”再度流传</a></li>
 <li><a href="/cbnews/20230905/1929574.md">〖兲朝浮世绘〗既然没有众星捧月的待遇 就让李强出一回风头吧</a></li>
 <li><a href="/topimagenews/20230905/1929361.md">乌克兰军情局长声称 真正的普丁已消失一年多</a></li>
@@ -20,14 +18,16 @@
 <li><a href="/topimagenews/20230905/1929535.md">中共低调成立一个“神秘”机构</a></li>
 <li><a href="/topimagenews/20230905/1929448.md">他们将引爆大雷？“职业背债人”横空出世</a></li>
 <li><a href="/cnnews/20230905/1929490.md">实际破产的西南大省云南有多惨？</a></li>
-<li><a href="/headline/20230905/1929356.md">华为5G手机7纳米芯片引发热议 专家：美国禁令下难有突破</a></li>
 <li><a href="/topimagenews/20230905/1929659.md">习近平也翻墙？“习”X平台官方帐号曝光 “严禁留言”遭网酸爆</a></li>
-<li><a href="/baitai/20230905/1929385.md">集体逃命？数十个UFO从快爆发火山口鱼贯飞出 场面震撼</a></li>
-<li><a href="/ssgc/20230905/1929546.md">〖微博谈〗搬石头砸脚就是这样玩的</a></li>
+<li><a href="/headline/20230905/1929356.md">华为5G手机7纳米芯片引发热议 专家：美国禁令下难有突破</a></li>
 <li><a href="/topimagenews/20230905/1929624.md">被删！“重大信号”文章引发热议 网友：把人气管掐住做人工呼吸【阿波罗网报道】</a></li>
+<li><a href="/baitai/20230905/1929385.md">集体逃命？数十个UFO从快爆发火山口鱼贯飞出 场面震撼</a></li>
 <li><a href="/lifebaike/20230905/1929578.md">为什么这么多人不愿做肠镜？院士：做一次肠镜，或保你5年无肠癌</a></li>
+<li><a href="/ssgc/20230905/1929546.md">〖微博谈〗搬石头砸脚就是这样玩的</a></li>
 <li><a href="/topimagenews/20230905/1929470.md">中共大力放款俄罗斯 真实意图不只乌战….</a></li>
 <li><a href="/topimagenews/20230905/1929554.md">让人心惊胆颤目瞪口呆！山西财政竟然搞出溃堤式下滑速度</a></li>
+<li><a href="/ssgc/20230905/1929419.md">专栏 - 夜话中南海：贵州省委前书记孙志刚突然被查的前因后果</a></li>
+<li><a href="/cnnews/20230905/1929488.md">华为5G复活惹怒美？ 华邮爆或祭“更大制裁”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230905/1929729.md" target="_blank">文昭：习近平开通个人推特账号，为什么过去10多年一直不开？</a></li>
 <li><a href="/comments/20230905/1929724.md" target="_blank">【财经拆局】香港言论自由是否到了尽头？</a></li>
 <li><a href="/comments/20230905/1929532.md" target="_blank">天亮时分：中共外交凶兆！习近平的“空椅子”；普京这个要挟，显示俄罗斯真的没钱了；异常！中共国安部出来定义中美关系（政论天下第1101集 20230904）天亮时分</a></li>
 <li><a href="/comments/20230905/1929531.md" target="_blank">惊心动魄！马斯克接管前夜，绝情报复推特高管，省2亿美元。让FTX创始人“滚”。命令“所有该死的鸟都必须离开”。#马斯克 #收购推特 #阿格拉瓦尔</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230904/1929122.md" target="_blank">抢盐不是问题 无脑才是问题</a></li>
 <li><a href="/comments/20230904/1929121.md" target="_blank">小民之心：中国经济危机加剧 习近平用另类思维</a></li>
 <li><a href="/comments/20230904/1929120.md" target="_blank">当差未必可以当国：侯友宜如李家超之不济</a></li>
-<li><a href="/comments/20230904/1929108.md" target="_blank">一架飞机夺江山 美军傻做了猪队友</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
 
 </ul>
 </div>
