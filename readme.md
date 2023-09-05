@@ -21,8 +21,8 @@
 <li><a href="/sohnews/20230905/1929679.md">陈破空：缺席G20内幕：习近平要排场，莫迪一口回拒！记者反复问，毛宁暗示老习病重？普京成功把中朝拉下水。中共重金援助俄罗斯。金正恩将访俄。直播与互动：美东时间9月5日早8点、即中港台9月5日晚8点</a></li>
 <li><a href="/ccpdope/20230905/1929741.md">中共军报发文印证核潜艇出事 影响军心</a></li>
 <li><a href="/ssgc/20230905/1929546.md">〖微博谈〗搬石头砸脚就是这样玩的</a></li>
-<li><a href="/topimagenews/20230905/1929554.md">让人心惊胆颤目瞪口呆！山西财政竟然搞出溃堤式下滑速度</a></li>
 <li><a href="/sohnews/20230905/1929560.md">官宣习近平缺席G20峰会，连遭打击彻底自闭。“好头颈，谁当斫之”，有两个末代皇帝比崇祯更像习，把一手好牌打得稀烂最后躺平等死</a></li>
+<li><a href="/topimagenews/20230905/1929554.md">让人心惊胆颤目瞪口呆！山西财政竟然搞出溃堤式下滑速度</a></li>
 <li><a href="/baitai/20230905/1929648.md">欲盖弥彰 河北一市委书记上衣被P掉LOGO 登热搜</a></li>
 <li><a href="/topimagenews/20230905/1929592.md">A股退市大潮席卷中国</a></li>
 <li><a href="/cnnews/20230905/1929666.md">港迎新营性侵案连环爆 学姐被强吻摸下体...洗澡强拉浴帘看光光</a></li>
@@ -66,6 +66,8 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230906/1929876.md" target="_blank">被乌军无人机打怕了? 俄战机上布满轮胎防挨炸</a></li>
+<li><a href="/topimagenews/20230906/1929875.md" target="_blank">习近平正在自毁多年形象</a></li>
 <li><a href="/topimagenews/20230906/1929841.md" target="_blank">中国人持外国绿卡出境 被严查2小时 竟因为这件事</a></li>
 <li><a href="/topimagenews/20230906/1929840.md" target="_blank">金融爆雷 ！中国多地抗议 北京白衣人殴打民众</a></li>
 <li><a href="/topimagenews/20230906/1929839.md" target="_blank">章泽天国外带娃 女儿似父 外籍保姆随行</a></li>
@@ -89,14 +91,13 @@
 <li><a href="/topimagenews/20230905/1929533.md" target="_blank">【微博精粹】三哥更狠 连习总中南海卧室都夺了</a></li>
 <li><a href="/topimagenews/20230905/1929497.md" target="_blank">纽时：普里格津身亡隔日 “末日将军”苏洛维金获释</a></li>
 <li><a href="/topimagenews/20230905/1929478.md" target="_blank">华人冒着巨大生命危险亲历走线来美：就算真死了也值</a></li>
-<li><a href="/topimagenews/20230905/1929477.md" target="_blank">中俄突传重磅消息</a></li>
-<li><a href="/topimagenews/20230905/1929470.md" target="_blank">中共大力放款俄罗斯 真实意图不只乌战….</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230906/1929874.md" target="_blank">文昭：2023版中国地图惹争议；为何地图开疆，效果很夯？</a></li>
 <li><a href="/comments/20230906/1929855.md" target="_blank">与日本核废水排放有关的10个关键问题</a></li>
 <li><a href="/comments/20230906/1929854.md" target="_blank">梁少华：左手反间谍，右手促开放</a></li>
 <li><a href="/comments/20230906/1929853.md" target="_blank">王赫：也谈习近平缺席G20峰会</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230905/1929363.md" target="_blank">罗刹海市 你听懂了吗？</a></li>
 <li><a href="/comments/20230905/1929358.md" target="_blank">时事大家谈：习近平若真缺席G-20峰会，背后考量是什么？</a></li>
 <li><a href="/comments/20230904/1929350.md" target="_blank">时事大家谈：石正丽入围中科院院士，新冠溯源再起波澜？&#160;&#160;&#160;</a></li>
-<li><a href="/comments/20230904/1929349.md" target="_blank">时事大家谈：习近平若真缺席G-20峰会，背后考量是什么？石正丽入围中科院院士，新冠溯源再起波澜？&#160;&#160;&#160;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
 <li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
 <li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 
 </ul>
 </div>
