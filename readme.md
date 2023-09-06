@@ -8,22 +8,22 @@
 <li><a href="/sohnews/20230905/1929692.md">中共火箭军5名军头被一锅端，涉政变？！习近平最担忧的已在发生？｜ #百年真相</a></li>
 <li><a href="/ccpdope/20230906/1929824.md">曝北戴河会议多细节！习被元老们斥责 很沮丧</a></li>
 <li><a href="/sohnews/20230906/1929835.md">曾庆红组团元老京郊密议逼宫；习近平北戴河大发雷霆，一句话李强震惊；习明泽推特开号，秀“父女自拍照”</a></li>
-<li><a href="/headline/20230905/1929701.md">拆解华为新手机 显示芯片技术突破</a></li>
 <li><a href="/ccpdope/20230905/1929741.md">中共军报发文印证核潜艇出事 影响军心</a></li>
-<li><a href="/topimagenews/20230906/1929841.md">中国人持外国绿卡出境 被严查2小时 竟因为这件事</a></li>
+<li><a href="/headline/20230905/1929701.md">拆解华为新手机 显示芯片技术突破</a></li>
 <li><a href="/ccpdope/20230906/1929850.md">刘源:近平掌舵离不开熙来二哥辅佐</a></li>
+<li><a href="/topimagenews/20230906/1929841.md">中国人持外国绿卡出境 被严查2小时 竟因为这件事</a></li>
 <li><a href="/sohnews/20230906/1929772.md">日经新闻爆习近平在北戴河会议上被曾庆红警告，回来对李强泄愤：我给邓江胡擦了十年屁股都擦不干净，怪我吗？</a></li>
 <li><a href="/cbnews/20230906/1929862.md">日媒：习近平在北戴河遭元老挑战</a></li>
-<li><a href="/comments/20230906/1929901.md">习明泽的推特是她本人写的吗？北戴河元老发难，习不服，躺平还是对抗？｜横河 方菲 ｜新闻烽火台 09/05</a></li>
 <li><a href="/sohnews/20230906/1929946.md">“雷暴哮喘”真相，内蒙古严重H泄漏？习近平下令保密？核辐射半个中国？习近平父女开推，无黄推关注台大选；【新闻看点 李沐阳9.5】</a></li>
+<li><a href="/comments/20230906/1929901.md">习明泽的推特是她本人写的吗？北戴河元老发难，习不服，躺平还是对抗？｜横河 方菲 ｜新闻烽火台 09/05</a></li>
 <li><a href="/topimagenews/20230906/1929875.md">习近平正在自毁多年形象</a></li>
 <li><a href="/cnnews/20230906/1929847.md">江苏副省长色欲熏天 挪用公款陪美女 敛财2100万</a></li>
-<li><a href="/cnnews/20230906/1929819.md">你可能每晚对手机做这事 苹果警告绝不要做</a></li>
-<li><a href="/topimagenews/20230906/1929826.md">艾多根突向俄罗斯“宣战”！原因曝 普丁傻眼看他</a></li>
-<li><a href="/ssgc/20230906/1929924.md">〖微博谈〗真是三十年河东啊</a></li>
-<li><a href="/comments/20230906/1929787.md">火了！刀郎的另一首歌！</a></li>
 <li><a href="/cbnews/20230906/1930033.md">〖兲朝浮世绘〗习近平在北戴河吃元老们的瘪子了？</a></li>
+<li><a href="/cnnews/20230906/1929819.md">你可能每晚对手机做这事 苹果警告绝不要做</a></li>
+<li><a href="/ssgc/20230906/1929924.md">〖微博谈〗真是三十年河东啊</a></li>
+<li><a href="/topimagenews/20230906/1929826.md">艾多根突向俄罗斯“宣战”！原因曝 普丁傻眼看他</a></li>
 <li><a href="/comments/20230906/1929996.md">闯祸？习亲信突转变腔调 头脑发昏手伸太长</a></li>
+<li><a href="/comments/20230906/1929787.md">火了！刀郎的另一首歌！</a></li>
 <li><a href="/ccpdope/20230906/1929851.md">李强水淹王牌部队 习大骂官员没个顶用</a></li>
 <li><a href="/topimagenews/20230906/1929839.md">章泽天国外带娃 女儿似父 外籍保姆随行</a></li>
 <li><a href="/baitai/20230906/1929945.md">中国女星上日本节目谈核废水 言论令网友傻眼</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
 <li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
 
 </ul>
 </div>
