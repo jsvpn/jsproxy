@@ -8,11 +8,10 @@
 <li><a href="/sohnews/20230906/1929946.md">“雷暴哮喘”真相，内蒙古严重H泄漏？习近平下令保密？核辐射半个中国？习近平父女开推，无黄推关注台大选；【新闻看点 李沐阳9.5】</a></li>
 <li><a href="/sohnews/20230906/1929772.md">日经新闻爆习近平在北戴河会议上被曾庆红警告，回来对李强泄愤：我给邓江胡擦了十年屁股都擦不干净，怪我吗？</a></li>
 <li><a href="/comments/20230906/1929901.md">习明泽的推特是她本人写的吗？北戴河元老发难，习不服，躺平还是对抗？｜横河 方菲 ｜新闻烽火台 09/05</a></li>
-<li><a href="/topimagenews/20230906/1929875.md">习近平正在自毁多年形象</a></li>
 <li><a href="/cbnews/20230906/1930033.md">〖兲朝浮世绘〗习近平在北戴河吃元老们的瘪子了？</a></li>
 <li><a href="/comments/20230906/1930141.md">习近平“自拍照”流出 神秘推特账号引猜测</a></li>
-<li><a href="/cbnews/20230906/1930084.md">日媒报导习近平受中共元老指责 王丹存疑 网：元老们不想活了</a></li>
 <li><a href="/comments/20230906/1930088.md">党内元老密谋造反？北戴河内幕惊人</a></li>
+<li><a href="/cbnews/20230906/1930084.md">日媒报导习近平受中共元老指责 王丹存疑 网：元老们不想活了</a></li>
 <li><a href="/comments/20230906/1929996.md">闯祸？习亲信突转变腔调 头脑发昏手伸太长</a></li>
 <li><a href="/ssgc/20230906/1929924.md">〖微博谈〗真是三十年河东啊</a></li>
 <li><a href="/topimagenews/20230906/1930079.md">中共军队出现不听指挥之人？军报高喊：别错误期待！【阿波罗网报道】</a></li>
@@ -25,9 +24,10 @@
 <li><a href="/finance/20230906/1930046.md">疯了！一大堆免费的东西突然开始收费</a></li>
 <li><a href="/topimagenews/20230906/1929947.md">中国不再适合投资</a></li>
 <li><a href="/topimagenews/20230906/1930042.md">上海土著悔断肠！“体面人谁会买浦东的房子”？</a></li>
-<li><a href="/sohnews/20230906/1930001.md">雷暴现象？传内蒙鄂尔多斯煤矿出现辐射病，两司机亡，辐射源进一步扩散，下雨导致核污染暴发？｜薇羽看世间 第737期 20230905</a></li>
 <li><a href="/headline/20230906/1930202.md">疑似习近平独生女X帐号发了习近平微笑自拍照？</a></li>
+<li><a href="/sohnews/20230906/1930001.md">雷暴现象？传内蒙鄂尔多斯煤矿出现辐射病，两司机亡，辐射源进一步扩散，下雨导致核污染暴发？｜薇羽看世间 第737期 20230905</a></li>
 <li><a href="/comments/20230906/1929991.md">社保的庞氏骗局破产问题</a></li>
+<li><a href="/headline/20230906/1930139.md">中国官媒开帐号宣传习思想传遭涌负评</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
 <li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
 
 </ul>
 </div>
