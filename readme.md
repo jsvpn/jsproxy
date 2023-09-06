@@ -8,8 +8,8 @@
 <li><a href="/ccpdope/20230906/1929824.md">曝北戴河会议多细节！习被元老们斥责 很沮丧</a></li>
 <li><a href="/sohnews/20230906/1929835.md">曾庆红组团元老京郊密议逼宫；习近平北戴河大发雷霆，一句话李强震惊；习明泽推特开号，秀“父女自拍照”</a></li>
 <li><a href="/ccpdope/20230906/1929850.md">刘源:近平掌舵离不开熙来二哥辅佐</a></li>
-<li><a href="/topimagenews/20230906/1929841.md">中国人持外国绿卡出境 被严查2小时 竟因为这件事</a></li>
 <li><a href="/sohnews/20230906/1929946.md">“雷暴哮喘”真相，内蒙古严重H泄漏？习近平下令保密？核辐射半个中国？习近平父女开推，无黄推关注台大选；【新闻看点 李沐阳9.5】</a></li>
+<li><a href="/topimagenews/20230906/1929841.md">中国人持外国绿卡出境 被严查2小时 竟因为这件事</a></li>
 <li><a href="/cbnews/20230906/1929862.md">日媒：习近平在北戴河遭元老挑战</a></li>
 <li><a href="/comments/20230906/1929901.md">习明泽的推特是她本人写的吗？北戴河元老发难，习不服，躺平还是对抗？｜横河 方菲 ｜新闻烽火台 09/05</a></li>
 <li><a href="/sohnews/20230906/1929772.md">日经新闻爆习近平在北戴河会议上被曾庆红警告，回来对李强泄愤：我给邓江胡擦了十年屁股都擦不干净，怪我吗？</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/comments/20230906/1930088.md">党内元老密谋造反？北戴河内幕惊人</a></li>
 <li><a href="/cnnews/20230906/1929819.md">你可能每晚对手机做这事 苹果警告绝不要做</a></li>
 <li><a href="/comments/20230906/1929996.md">闯祸？习亲信突转变腔调 头脑发昏手伸太长</a></li>
+<li><a href="/comments/20230906/1930141.md">习近平“自拍照”流出 神秘推特账号引猜测</a></li>
 <li><a href="/ssgc/20230906/1929924.md">〖微博谈〗真是三十年河东啊</a></li>
 <li><a href="/topimagenews/20230906/1929826.md">艾多根突向俄罗斯“宣战”！原因曝 普丁傻眼看他</a></li>
-<li><a href="/comments/20230906/1930141.md">习近平“自拍照”流出 神秘推特账号引猜测</a></li>
-<li><a href="/comments/20230906/1929787.md">火了！刀郎的另一首歌！</a></li>
 <li><a href="/topimagenews/20230906/1930079.md">中共军队出现不听指挥之人？军报高喊：别错误期待！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230906/1930019.md">老底遭揭太不堪！华为突破美锁喉？【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20230906/1929851.md">李强水淹王牌部队 习大骂官员没个顶用</a></li>
 <li><a href="/baitai/20230906/1929945.md">中国女星上日本节目谈核废水 言论令网友傻眼</a></li>
+<li><a href="/headline/20230906/1930114.md">中国禁止公务员在工作中使用iPhone</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230907/1930247.md" target="_blank">阎王为什么这么凶他？</a></li>
 <li><a href="/cbnews/20230906/1930213.md" target="_blank">千万分之一的机会 河北车主摇中X99999车牌</a></li>
 <li><a href="/cbnews/20230906/1930212.md" target="_blank">他买40年老屋挖出装满现金6罐头 打开吓坏：价值5.9万美元</a></li>
 <li><a href="/cbnews/20230906/1930179.md" target="_blank">中共官媒开帐号宣传习思想传遭涌负评</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230906/1929929.md" target="_blank">杭州男子钓到70斤鳡鱼 放弃开车一路背回家</a></li>
 <li><a href="/comments/20230906/1929901.md" target="_blank">习明泽的推特是她本人写的吗？北戴河元老发难，习不服，躺平还是对抗？｜横河 方菲 ｜新闻烽火台 09/05</a></li>
 <li><a href="/cbnews/20230906/1929862.md" target="_blank">日媒：习近平在北戴河遭元老挑战</a></li>
-<li><a href="/cbnews/20230906/1929842.md" target="_blank">拉横幅吃早餐，都是高人啊</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230907/1930247.md" target="_blank">阎王为什么这么凶他？</a></li>
+<li><a href="/comments/20230907/1930244.md" target="_blank">时事大家谈：拜登访问越南缺席东盟 利用越南制衡中国？</a></li>
 <li><a href="/comments/20230906/1930233.md" target="_blank">时事大家谈：重庆实施反间谍条例 又回到全民抓“特务”的时代？ &#160;</a></li>
 <li><a href="/comments/20230906/1930222.md" target="_blank">时事大家谈：拜登访问越南缺席东盟 利用越南制衡中国？重庆实施反间谍条例 又回到全民抓“特务”的时代？ &#160;</a></li>
 <li><a href="/comments/20230906/1930199.md" target="_blank">不给莫迪面子？习近平首度缺席G20 原因扑朔迷离</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230906/1930009.md" target="_blank">皇上的老师 说出的预言！</a></li>
 <li><a href="/comments/20230906/1929996.md" target="_blank">闯祸？习亲信突转变腔调 头脑发昏手伸太长</a></li>
 <li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20230906/1929964.md" target="_blank">天亮时分：北戴河会议，习近平遭元老斥责？中国经济困境，李强不想当背锅侠；“伤害中华民族感情罪”首先伤害的是中国经济（政论天下第1102集 20230905）</a></li>
-<li><a href="/comments/20230906/1929953.md" target="_blank">杨宁： 中国人身在辐中不知辐 打骚扰电话却听真相</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
 <li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 
 </ul>
 </div>
