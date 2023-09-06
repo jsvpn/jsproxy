@@ -5,14 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/ccpdope/20230906/1929850.md">刘源:近平掌舵离不开熙来二哥辅佐</a></li>
 <li><a href="/sohnews/20230906/1929946.md">“雷暴哮喘”真相，内蒙古严重H泄漏？习近平下令保密？核辐射半个中国？习近平父女开推，无黄推关注台大选；【新闻看点 李沐阳9.5】</a></li>
 <li><a href="/sohnews/20230906/1929772.md">日经新闻爆习近平在北戴河会议上被曾庆红警告，回来对李强泄愤：我给邓江胡擦了十年屁股都擦不干净，怪我吗？</a></li>
 <li><a href="/cbnews/20230906/1929862.md">日媒：习近平在北戴河遭元老挑战</a></li>
 <li><a href="/comments/20230906/1929901.md">习明泽的推特是她本人写的吗？北戴河元老发难，习不服，躺平还是对抗？｜横河 方菲 ｜新闻烽火台 09/05</a></li>
 <li><a href="/topimagenews/20230906/1929875.md">习近平正在自毁多年形象</a></li>
-<li><a href="/comments/20230906/1930141.md">习近平“自拍照”流出 神秘推特账号引猜测</a></li>
 <li><a href="/cbnews/20230906/1930033.md">〖兲朝浮世绘〗习近平在北戴河吃元老们的瘪子了？</a></li>
+<li><a href="/comments/20230906/1930141.md">习近平“自拍照”流出 神秘推特账号引猜测</a></li>
 <li><a href="/cbnews/20230906/1930084.md">日媒报导习近平受中共元老指责 王丹存疑 网：元老们不想活了</a></li>
 <li><a href="/comments/20230906/1930088.md">党内元老密谋造反？北戴河内幕惊人</a></li>
 <li><a href="/comments/20230906/1929996.md">闯祸？习亲信突转变腔调 头脑发昏手伸太长</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/topimagenews/20230906/1930079.md">中共军队出现不听指挥之人？军报高喊：别错误期待！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230906/1930019.md">老底遭揭太不堪！华为突破美锁喉？【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230906/1930178.md">赵薇遭当局封杀2年 胞兄用一句话形容近况</a></li>
-<li><a href="/ccpdope/20230906/1929851.md">李强水淹王牌部队 习大骂官员没个顶用</a></li>
-<li><a href="/headline/20230906/1930114.md">中国禁止公务员在工作中使用iPhone</a></li>
 <li><a href="/headline/20230906/1930142.md">日媒爆习近平于北戴河遭中共元老斥责 习会后：「罪责在我吗？」</a></li>
+<li><a href="/headline/20230906/1930114.md">中国禁止公务员在工作中使用iPhone</a></li>
 <li><a href="/baitai/20230906/1929945.md">中国女星上日本节目谈核废水 言论令网友傻眼</a></li>
 <li><a href="/topimagenews/20230906/1930043.md">什么叫差距？一个上海土著女孩 那一刻了解自己的一无所有</a></li>
 <li><a href="/topimagenews/20230906/1929947.md">中国不再适合投资</a></li>
 <li><a href="/finance/20230906/1930046.md">疯了！一大堆免费的东西突然开始收费</a></li>
 <li><a href="/topimagenews/20230906/1930042.md">上海土著悔断肠！“体面人谁会买浦东的房子”？</a></li>
+<li><a href="/headline/20230906/1930202.md">疑似习近平独生女X帐号发了习近平微笑自拍照？</a></li>
+<li><a href="/sohnews/20230906/1930001.md">雷暴现象？传内蒙鄂尔多斯煤矿出现辐射病，两司机亡，辐射源进一步扩散，下雨导致核污染暴发？｜薇羽看世间 第737期 20230905</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230907/1930319.md" target="_blank">洪耀南:中共火箭军大清洗背后原因——贪腐、泄密</a></li>
+<li><a href="/comments/20230907/1930318.md" target="_blank">袁斌:李强会辞职吗？</a></li>
 <li><a href="/comments/20230907/1930247.md" target="_blank">阎王为什么这么凶他？</a></li>
 <li><a href="/comments/20230907/1930244.md" target="_blank">时事大家谈：拜登访问越南缺席东盟 利用越南制衡中国？</a></li>
 <li><a href="/comments/20230906/1930233.md" target="_blank">时事大家谈：重庆实施反间谍条例 又回到全民抓“特务”的时代？ &#160;</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230906/1930012.md" target="_blank">关于乾隆的预言！</a></li>
 <li><a href="/comments/20230906/1930010.md" target="_blank">清朝的结局</a></li>
 <li><a href="/comments/20230906/1930009.md" target="_blank">皇上的老师 说出的预言！</a></li>
-<li><a href="/comments/20230906/1929996.md" target="_blank">闯祸？习亲信突转变腔调 头脑发昏手伸太长</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
 <li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
 
 </ul>
 </div>
