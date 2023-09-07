@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20230907/1930315.md">习明泽推文称“我爸”，大秀多辆劳斯莱斯；痛批秦刚，揭傅筱田间谍底牌！全国禁用iPhone！习近平放脱钩大招</a></li>
 <li><a href="/comments/20230906/1930141.md">习近平“自拍照”流出 神秘推特账号引猜测</a></li>
 <li><a href="/cbnews/20230906/1930084.md">日媒报导习近平受中共元老指责 王丹存疑 网：元老们不想活了</a></li>
+<li><a href="/sohnews/20230907/1930336.md">曾庆红率元老公开反习，即将在哈尔滨举行中俄朝三方密会，习近平推特账户横空出世。《老灯开讲第377期》</a></li>
 <li><a href="/topimagenews/20230907/1930303.md">惊曝！乌情报局长：普京早已死亡</a></li>
 <li><a href="/topimagenews/20230906/1930079.md">中共军队出现不听指挥之人？军报高喊：别错误期待！【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230907/1930336.md">曾庆红率元老公开反习，即将在哈尔滨举行中俄朝三方密会，习近平推特账户横空出世。《老灯开讲第377期》</a></li>
 <li><a href="/baitai/20230906/1930178.md">赵薇遭当局封杀2年 胞兄用一句话形容近况</a></li>
 <li><a href="/baitai/20230907/1930275.md">知名媒体人习瑞跳楼身亡 网络疯传最后一期视频 网友：来世不做中共国人</a></li>
 <li><a href="/comments/20230907/1930335.md">文昭：终於来了？深藏多年的他领衔逼宫习近平；惊悚宫变？那你还不懂什麽叫惊悚...</a></li>
-<li><a href="/topimagenews/20230907/1930305.md">俄军遭痛击四处奔逃，一段令人震惊的影片流出…</a></li>
-<li><a href="/headline/20230906/1930142.md">日媒爆习近平于北戴河遭中共元老斥责 习会后：「罪责在我吗？」</a></li>
-<li><a href="/headline/20230906/1930114.md">中国禁止公务员在工作中使用iPhone</a></li>
 <li><a href="/ccpdope/20230907/1930381.md">全国医疗反腐突然静悄悄</a></li>
-<li><a href="/cbnews/20230907/1930306.md">习近平缺席G20，向世界发出一个明确信号</a></li>
+<li><a href="/headline/20230906/1930114.md">中国禁止公务员在工作中使用iPhone</a></li>
+<li><a href="/headline/20230906/1930142.md">日媒爆习近平于北戴河遭中共元老斥责 习会后：「罪责在我吗？」</a></li>
+<li><a href="/topimagenews/20230907/1930305.md">俄军遭痛击四处奔逃，一段令人震惊的影片流出…</a></li>
 <li><a href="/topimagenews/20230907/1930343.md">同时发布川普、奥巴马女儿照片 网友不忍直视</a></li>
-<li><a href="/topimagenews/20230907/1930304.md">首当其冲：中国这行业的好日子已经一去不复返</a></li>
+<li><a href="/cbnews/20230907/1930306.md">习近平缺席G20，向世界发出一个明确信号</a></li>
 <li><a href="/headline/20230906/1930202.md">疑似习近平独生女X帐号发了习近平微笑自拍照？</a></li>
 <li><a href="/comments/20230907/1930337.md">消息一出 震惊世界！习近平最怕这个</a></li>
+<li><a href="/topimagenews/20230907/1930304.md">首当其冲：中国这行业的好日子已经一去不复返</a></li>
 <li><a href="/baitai/20230906/1930177.md">美军十年来首次大动作 直捣京津门户</a></li>
 <li><a href="/cbnews/20230907/1930307.md">习掌舵离不开熙来二哥辅佐 刘少奇之子刘源亲爆料【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230906/1930099.md">台风洪水淘空路基轰！广州1栋大楼应声倒</a></li>
-<li><a href="/headline/20230906/1930139.md">中国官媒开帐号宣传习思想传遭涌负评</a></li>
+<li><a href="/ssgc/20230907/1930380.md">〖微博谈〗你怎么还上街了？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 <li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 
 </ul>
 </div>
