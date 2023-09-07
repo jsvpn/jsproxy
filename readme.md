@@ -6,18 +6,14 @@
 <ul>
 
 <li><a href="/sohnews/20230907/1930315.md">习明泽推文称“我爸”，大秀多辆劳斯莱斯；痛批秦刚，揭傅筱田间谍底牌！全国禁用iPhone！习近平放脱钩大招</a></li>
-<li><a href="/topimagenews/20230907/1930303.md">惊曝！乌情报局长：普京早已死亡</a></li>
 <li><a href="/sohnews/20230907/1930336.md">曾庆红率元老公开反习，即将在哈尔滨举行中俄朝三方密会，习近平推特账户横空出世。《老灯开讲第377期》</a></li>
 <li><a href="/ccpdope/20230907/1930381.md">全国医疗反腐突然静悄悄</a></li>
 <li><a href="/comments/20230907/1930335.md">文昭：终於来了？深藏多年的他领衔逼宫习近平；惊悚宫变？那你还不懂什麽叫惊悚...</a></li>
-<li><a href="/cbnews/20230907/1930306.md">习近平缺席G20，向世界发出一个明确信号</a></li>
 <li><a href="/topimagenews/20230907/1930343.md">同时发布川普、奥巴马女儿照片 网友不忍直视</a></li>
 <li><a href="/worldnews/20230907/1930508.md">气氛紧张，李强和岸田文雄吵起来了互呛【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230907/1930626.md">《好声音》事态升级！那英完了？中央纪委对她展开正式调查</a></li>
-<li><a href="/topimagenews/20230907/1930304.md">首当其冲：中国这行业的好日子已经一去不复返</a></li>
-<li><a href="/ccpdope/20230907/1930632.md">内蒙古严重核洩漏波及半个中国 习近平下令保密</a></li>
 <li><a href="/topimagenews/20230907/1930560.md">点名拜登！疑似”习明泽“账号对习近平不参加G20表态！【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230907/1930305.md">俄军遭痛击四处奔逃，一段令人震惊的影片流出…</a></li>
+<li><a href="/ccpdope/20230907/1930632.md">内蒙古严重核洩漏波及半个中国 习近平下令保密</a></li>
 <li><a href="/comments/20230907/1930337.md">消息一出 震惊世界！习近平最怕这个</a></li>
 <li><a href="/cbnews/20230907/1930398.md">元老们在习眼皮底下串联谋反？惊曝：他们都在装孙子！【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20230907/1930473.md">突发！全球最大资管公司宣布撤出中国</a></li>
@@ -26,8 +22,12 @@
 <li><a href="/cbnews/20230907/1930456.md">〖兲朝浮世绘〗韭菜们对英国工人只能羡慕嫉妒恨了</a></li>
 <li><a href="/topimagenews/20230907/1930559.md">惊！公务员也讨薪：半年没发工资！中国多地现讨薪潮 【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230907/1930380.md">〖微博谈〗你怎么还上街了？</a></li>
-<li><a href="/cbnews/20230907/1930307.md">习掌舵离不开熙来二哥辅佐 刘少奇之子刘源亲爆料【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230907/1930522.md">河南22岁正妹出门拿快递离奇失踪 3个月后找到人…家属崩溃</a></li>
+<li><a href="/sohnews/20230907/1930585.md">恐怖的“新疆三文鱼”，入脑入心入魂。一个国家可以堕落到这种程度...</a></li>
+<li><a href="/baitai/20230907/1930631.md">习泽明诡异「现身」舆论炸锅 习被政敌暗算？</a></li>
+<li><a href="/comments/20230907/1930587.md">奥巴马前同志再曝内幕。奥巴马同学揭更可怕真相。盖茨警告麦卡锡，阻止弹劾拜登，议长职位将不保。#奥巴马 #卡尔森 #麦卡锡</a></li>
+<li><a href="/topimagenews/20230907/1930551.md">华为新机突破美国封锁？外媒揪2大疑点：过时产品</a></li>
+<li><a href="/comments/20230907/1930458.md">习明泽喊我爸爸最棒坐实推特X帐号身份？痛斥傅晓田间谍出轨，洗清秦刚一件事！反美反日挺俄酷似小粉红？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
 <li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
 
 </ul>
 </div>
