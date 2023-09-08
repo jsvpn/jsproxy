@@ -13,19 +13,19 @@
 <li><a href="/topimagenews/20230908/1930771.md">傅晓田与搞权色交易的深圳市长</a></li>
 <li><a href="/sohnews/20230907/1930585.md">恐怖的“新疆三文鱼”，入脑入心入魂。一个国家可以堕落到这种程度...</a></li>
 <li><a href="/comments/20230907/1930587.md">奥巴马前同志再曝内幕。奥巴马同学揭更可怕真相。盖茨警告麦卡锡，阻止弹劾拜登，议长职位将不保。#奥巴马 #卡尔森 #麦卡锡</a></li>
-<li><a href="/baitai/20230907/1930631.md">习泽明诡异「现身」舆论炸锅 习被政敌暗算？</a></li>
 <li><a href="/ccpdope/20230907/1930684.md">新闻看点：灾难来了！核辐射超切尔诺贝利 上海也现怪病</a></li>
-<li><a href="/cnnews/20230908/1930783.md">404文：国产手机突破7nm芯片，用了什么“魔法”</a></li>
-<li><a href="/headline/20230908/1930731.md">习近平风和日丽视察一个月前的洪灾</a></li>
+<li><a href="/baitai/20230907/1930631.md">习泽明诡异「现身」舆论炸锅 习被政敌暗算？</a></li>
 <li><a href="/topimagenews/20230908/1930899.md">这家芯片大厂踩了红线?华为手机藏着2个惊人零件</a></li>
+<li><a href="/headline/20230908/1930731.md">习近平风和日丽视察一个月前的洪灾</a></li>
+<li><a href="/cnnews/20230908/1930783.md">404文：国产手机突破7nm芯片，用了什么“魔法”</a></li>
 <li><a href="/topimagenews/20230908/1930889.md">【微博精粹】沦陷区一件要命事 反日“核排”瞬间过时</a></li>
-<li><a href="/topimagenews/20230908/1930847.md">钱颖一：中国教育的今天，就是中国经济的明天</a></li>
 <li><a href="/headline/20230907/1930668.md">秦刚后李尚福传或也出事？</a></li>
+<li><a href="/topimagenews/20230908/1930847.md">钱颖一：中国教育的今天，就是中国经济的明天</a></li>
 <li><a href="/ssgc/20230908/1930878.md">〖微博谈〗但是中国做到了</a></li>
 <li><a href="/ssgc/20230907/1930657.md">北戴河爆料蹊跷 谁在放风？</a></li>
 <li><a href="/sohnews/20230908/1930865.md">内蒙古曝核泄露 核粉尘飘到北京天津 习近平和美驻北京大使纷纷离京；视频曝习公主纽约顶级公寓；喝福岛核废水官员辟谣；赖清德住宅惹争议。｜ #时事金扫描 #金然</a></li>
-<li><a href="/baitai/20230907/1930577.md">太残忍 男老师打碎小学女生头骨 尺子插进5cm 引全网愤怒</a></li>
 <li><a href="/comments/20230907/1930638.md">【新闻拍案惊奇】习近平有危险？习公主“专车”曝光？</a></li>
+<li><a href="/baitai/20230907/1930577.md">太残忍 男老师打碎小学女生头骨 尺子插进5cm 引全网愤怒</a></li>
 <li><a href="/sohnews/20230908/1930779.md">陈破空：快讯：国防部长李尚福被查？治安法引爆争议：谁伤害了民族感情？乌克兰情报：普京早已死亡？所见都是替身。直播与互动：美东时间9月7日晚8点、即中港台9月8早8点</a></li>
 <li><a href="/topimagenews/20230907/1930659.md">美“复制者计划” 让习近平每天都觉得“今天不适合”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
 
 </ul>
 </div>
