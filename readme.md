@@ -12,7 +12,6 @@
 <li><a href="/topimagenews/20230908/1930792.md">秦刚人间蒸发后，网传中共防长李尚福被查</a></li>
 <li><a href="/topimagenews/20230908/1930771.md">傅晓田与搞权色交易的深圳市长</a></li>
 <li><a href="/sohnews/20230907/1930585.md">恐怖的“新疆三文鱼”，入脑入心入魂。一个国家可以堕落到这种程度...</a></li>
-<li><a href="/comments/20230907/1930587.md">奥巴马前同志再曝内幕。奥巴马同学揭更可怕真相。盖茨警告麦卡锡，阻止弹劾拜登，议长职位将不保。#奥巴马 #卡尔森 #麦卡锡</a></li>
 <li><a href="/ccpdope/20230907/1930684.md">新闻看点：灾难来了！核辐射超切尔诺贝利 上海也现怪病</a></li>
 <li><a href="/baitai/20230907/1930631.md">习泽明诡异「现身」舆论炸锅 习被政敌暗算？</a></li>
 <li><a href="/topimagenews/20230908/1930899.md">这家芯片大厂踩了红线?华为手机藏着2个惊人零件</a></li>
@@ -26,6 +25,7 @@
 <li><a href="/ssgc/20230907/1930657.md">北戴河爆料蹊跷 谁在放风？</a></li>
 <li><a href="/comments/20230907/1930638.md">【新闻拍案惊奇】习近平有危险？习公主“专车”曝光？</a></li>
 <li><a href="/sohnews/20230908/1930779.md">陈破空：快讯：国防部长李尚福被查？治安法引爆争议：谁伤害了民族感情？乌克兰情报：普京早已死亡？所见都是替身。直播与互动：美东时间9月7日晚8点、即中港台9月8早8点</a></li>
+<li><a href="/cbnews/20230908/1930918.md">江峰：国防部长也要人间蒸发？李尚福被拿下未经证实却早有预兆；华为Mate60实现土法大炼芯片突破？美国权威机构揭底，习近平被摆一道；苹果被暗算，距离官宣全面禁止还有多远【江峰漫谈20230907第725期】</a></li>
 <li><a href="/topimagenews/20230907/1930659.md">美“复制者计划” 让习近平每天都觉得“今天不适合”</a></li>
 <li><a href="/cbnews/20230908/1930772.md">美媒：在很多方面，中国都在走下坡路</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230908/1931016.md" target="_blank">前福克斯名嘴梅根·凯利，接种后出现免疫系统问题。川普首次公开关注疫苗副作用，揭拜登封锁政策的真正目的。#凯利 #川普 #拜登</a></li>
 <li><a href="/cbnews/20230908/1930954.md" target="_blank">中共解放军“乱入”美加日东海军演！加媒：“对峙”FFH-341达3小时</a></li>
 <li><a href="/cbnews/20230908/1930945.md" target="_blank">深圳水库泄洪水全排海? 现场报导市区大淹水 官媒踢爆官员谎言</a></li>
 <li><a href="/cbnews/20230908/1930944.md" target="_blank">村民 :令人发指！福州500人暴力强拆民房 还把人打到送医</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230907/1930445.md" target="_blank">习不去G20释放强烈信号，中共恐加速与西方切割</a></li>
 <li><a href="/cbnews/20230907/1930444.md" target="_blank">苹果门店警报响起，看监控惊了：她生生咬断了…</a></li>
 <li><a href="/comments/20230907/1930439.md" target="_blank">可能瘫痪地球的 外太空超级武器</a></li>
-<li><a href="/cbnews/20230907/1930210.md" target="_blank">最神奇的物理实验，双缝干涉实验详解，未来改变过去，平行宇宙之间的相互影响</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230908/1931016.md" target="_blank">前福克斯名嘴梅根·凯利，接种后出现免疫系统问题。川普首次公开关注疫苗副作用，揭拜登封锁政策的真正目的。#凯利 #川普 #拜登</a></li>
 <li><a href="/comments/20230908/1930930.md" target="_blank">中国特有的权威老大？民间产生巨浪时 就是大革命爆发前夜</a></li>
 <li><a href="/comments/20230908/1930898.md" target="_blank">习近平被建议到抗洪前线作秀後大喊：你们要害死我！曾庆红北戴河逼宫後效应蔓延：李强要倒楣？</a></li>
 <li><a href="/comments/20230908/1930892.md" target="_blank">习明泽秀豪车 习近平放大招</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230907/1930604.md" target="_blank">【未普评论】中共洗脑进入「二加二等于五」的新阶段</a></li>
 <li><a href="/comments/20230907/1930587.md" target="_blank">奥巴马前同志再曝内幕。奥巴马同学揭更可怕真相。盖茨警告麦卡锡，阻止弹劾拜登，议长职位将不保。#奥巴马 #卡尔森 #麦卡锡</a></li>
 <li><a href="/comments/20230907/1930533.md" target="_blank">日媒：岸田文雄与李强就核废水、禁海鲜当面互斥</a></li>
-<li><a href="/comments/20230907/1930514.md" target="_blank">海葵来袭 福建直接经济损失逾50亿元 云雨带续西移广东</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
 <li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
 <li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
 
 </ul>
 </div>
