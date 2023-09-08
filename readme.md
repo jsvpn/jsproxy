@@ -7,27 +7,27 @@
 
 <li><a href="/ccpdope/20230907/1930632.md">内蒙古严重核洩漏波及半个中国 习近平下令保密</a></li>
 <li><a href="/topimagenews/20230907/1930626.md">《好声音》事态升级！那英完了？中央纪委对她展开正式调查</a></li>
-<li><a href="/topimagenews/20230907/1930560.md">点名拜登！疑似”习明泽“账号对习近平不参加G20表态！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230908/1930742.md">习近平果然到达哈市密会普京金三，惊天大料国防部长李尚福被抓，内蒙大规模哮喘是核雾染。《老灯开讲第378期》</a></li>
 <li><a href="/comments/20230907/1930637.md">终于来了？深藏多年的他领衔逼宫习近平</a></li>
 <li><a href="/topimagenews/20230908/1930792.md">秦刚人间蒸发后，网传中共防长李尚福被查</a></li>
-<li><a href="/topimagenews/20230907/1930559.md">惊！公务员也讨薪：半年没发工资！中国多地现讨薪潮 【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230908/1930771.md">傅晓田与搞权色交易的深圳市长</a></li>
-<li><a href="/comments/20230907/1930587.md">奥巴马前同志再曝内幕。奥巴马同学揭更可怕真相。盖茨警告麦卡锡，阻止弹劾拜登，议长职位将不保。#奥巴马 #卡尔森 #麦卡锡</a></li>
 <li><a href="/sohnews/20230907/1930585.md">恐怖的“新疆三文鱼”，入脑入心入魂。一个国家可以堕落到这种程度...</a></li>
+<li><a href="/comments/20230907/1930587.md">奥巴马前同志再曝内幕。奥巴马同学揭更可怕真相。盖茨警告麦卡锡，阻止弹劾拜登，议长职位将不保。#奥巴马 #卡尔森 #麦卡锡</a></li>
 <li><a href="/baitai/20230907/1930631.md">习泽明诡异「现身」舆论炸锅 习被政敌暗算？</a></li>
 <li><a href="/ccpdope/20230907/1930684.md">新闻看点：灾难来了！核辐射超切尔诺贝利 上海也现怪病</a></li>
 <li><a href="/cnnews/20230908/1930783.md">404文：国产手机突破7nm芯片，用了什么“魔法”</a></li>
 <li><a href="/headline/20230908/1930731.md">习近平风和日丽视察一个月前的洪灾</a></li>
 <li><a href="/topimagenews/20230908/1930899.md">这家芯片大厂踩了红线?华为手机藏着2个惊人零件</a></li>
-<li><a href="/topimagenews/20230908/1930847.md">钱颖一：中国教育的今天，就是中国经济的明天</a></li>
 <li><a href="/topimagenews/20230908/1930889.md">【微博精粹】沦陷区一件要命事 反日“核排”瞬间过时</a></li>
+<li><a href="/topimagenews/20230908/1930847.md">钱颖一：中国教育的今天，就是中国经济的明天</a></li>
 <li><a href="/ssgc/20230908/1930878.md">〖微博谈〗但是中国做到了</a></li>
 <li><a href="/headline/20230907/1930668.md">秦刚后李尚福传或也出事？</a></li>
 <li><a href="/ssgc/20230907/1930657.md">北戴河爆料蹊跷 谁在放风？</a></li>
+<li><a href="/sohnews/20230908/1930865.md">内蒙古曝核泄露 核粉尘飘到北京天津 习近平和美驻北京大使纷纷离京；视频曝习公主纽约顶级公寓；喝福岛核废水官员辟谣；赖清德住宅惹争议。｜ #时事金扫描 #金然</a></li>
 <li><a href="/baitai/20230907/1930577.md">太残忍 男老师打碎小学女生头骨 尺子插进5cm 引全网愤怒</a></li>
 <li><a href="/comments/20230907/1930638.md">【新闻拍案惊奇】习近平有危险？习公主“专车”曝光？</a></li>
-<li><a href="/sohnews/20230908/1930865.md">内蒙古曝核泄露 核粉尘飘到北京天津 习近平和美驻北京大使纷纷离京；视频曝习公主纽约顶级公寓；喝福岛核废水官员辟谣；赖清德住宅惹争议。｜ #时事金扫描 #金然</a></li>
+<li><a href="/sohnews/20230908/1930779.md">陈破空：快讯：国防部长李尚福被查？治安法引爆争议：谁伤害了民族感情？乌克兰情报：普京早已死亡？所见都是替身。直播与互动：美东时间9月7日晚8点、即中港台9月8早8点</a></li>
+<li><a href="/topimagenews/20230907/1930659.md">美“复制者计划” 让习近平每天都觉得“今天不适合”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
 
 </ul>
 </div>
