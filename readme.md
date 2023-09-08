@@ -9,7 +9,6 @@
 <li><a href="/topimagenews/20230908/1930792.md">秦刚人间蒸发后，网传中共防长李尚福被查</a></li>
 <li><a href="/topimagenews/20230908/1930771.md">傅晓田与搞权色交易的深圳市长</a></li>
 <li><a href="/topimagenews/20230908/1930899.md">这家芯片大厂踩了红线?华为手机藏着2个惊人零件</a></li>
-<li><a href="/headline/20230908/1930731.md">习近平风和日丽视察一个月前的洪灾</a></li>
 <li><a href="/cnnews/20230908/1930783.md">404文：国产手机突破7nm芯片，用了什么“魔法”</a></li>
 <li><a href="/sohnews/20230908/1930865.md">内蒙古曝核泄露 核粉尘飘到北京天津 习近平和美驻北京大使纷纷离京；视频曝习公主纽约顶级公寓；喝福岛核废水官员辟谣；赖清德住宅惹争议。｜ #时事金扫描 #金然</a></li>
 <li><a href="/topimagenews/20230908/1930889.md">【微博精粹】沦陷区一件要命事 反日“核排”瞬间过时</a></li>
@@ -18,9 +17,9 @@
 <li><a href="/topimagenews/20230908/1930990.md">中共东部战区一动作引嘲讽 网友：还以为是击沉了美国潜艇【阿波罗网报道】</a></li>
 <li><a href="/comments/20230908/1931065.md">未来已被安排！预言明确2025年“转折点”大巨变？！第13首诗：红朝覆灭在即？第14首诗：历史终局！深度解读预言诗“国运”呼应《推背图》｜ #未解之谜 扶摇</a></li>
 <li><a href="/ssgc/20230908/1930878.md">〖微博谈〗但是中国做到了</a></li>
+<li><a href="/topimagenews/20230908/1931100.md">真有潜规则？中国美女总裁自爆被建商邀吃饭 到场惊见“多人运动”</a></li>
 <li><a href="/cbnews/20230908/1930918.md">江峰：国防部长也要人间蒸发？李尚福被拿下未经证实却早有预兆；华为Mate60实现土法大炼芯片突破？美国权威机构揭底，习近平被摆一道；苹果被暗算，距离官宣全面禁止还有多远【江峰漫谈20230907第725期】</a></li>
 <li><a href="/cbnews/20230908/1930942.md">〖兲朝浮世绘〗日本的房贷政策真是太伤害中国人民的感情了</a></li>
-<li><a href="/topimagenews/20230908/1931100.md">真有潜规则？中国美女总裁自爆被建商邀吃饭 到场惊见“多人运动”</a></li>
 <li><a href="/baitai/20230908/1931060.md">真的只高兴几天？美高调布局调查华为新款手机 北京回应了</a></li>
 <li><a href="/comments/20230908/1930892.md">习明泽秀豪车 习近平放大招</a></li>
 <li><a href="/baitai/20230908/1930965.md">「核泄漏」影响半个中国？传北京已出动「防化团」</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/topimagenews/20230908/1930881.md">颠覆中共霸主地位 美国重大发现改写世界格局</a></li>
 <li><a href="/sohnews/20230908/1930779.md">陈破空：快讯：国防部长李尚福被查？治安法引爆争议：谁伤害了民族感情？乌克兰情报：普京早已死亡？所见都是替身。直播与互动：美东时间9月7日晚8点、即中港台9月8早8点</a></li>
 <li><a href="/cbnews/20230908/1930772.md">美媒：在很多方面，中国都在走下坡路</a></li>
+<li><a href="/cnnews/20230908/1930986.md">弃香港泄洪保住深圳？网上炸锅 港人忆涿州事件</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
 <li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
 <li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 
 </ul>
 </div>
