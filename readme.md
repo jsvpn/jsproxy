@@ -11,19 +11,19 @@
 <li><a href="/cnnews/20230909/1931212.md">张闻天遗孀：周恩来奢华中共高层多人不满</a></li>
 <li><a href="/cnnews/20230909/1931290.md">中国女商人天天狂存现金 结果惨了</a></li>
 <li><a href="/cnnews/20230909/1931292.md">金正恩访俄“极乐列车” 美女随侍 龙虾美酒俱全</a></li>
-<li><a href="/sohnews/20230909/1931315.md">元老联手向习近平发难，高层内斗决战在即！曾庆红用错斗争方式，改个套路可置习死地！（一平论政2023年9月8日）</a></li>
 <li><a href="/comments/20230909/1931398.md">猛料！习近平力阻“死在任上”，按推背图双预言对火箭军下手！香港洪灾习赴东北指挥救灾，为防曾庆红刺杀</a></li>
+<li><a href="/sohnews/20230909/1931315.md">元老联手向习近平发难，高层内斗决战在即！曾庆红用错斗争方式，改个套路可置习死地！（一平论政2023年9月8日）</a></li>
 <li><a href="/topimagenews/20230909/1931327.md">突发重磅！美正式对华为手机芯片启动调查 更多管制措施要收紧？</a></li>
 <li><a href="/comments/20230909/1931262.md">文昭：东盟峰会李强爆发严重争吵；一项重要指标中国「归零」到1978年以前！一堆军阀也不如一个人可怕</a></li>
 <li><a href="/cbnews/20230909/1931412.md">江峰：那英被查，《中国好声音》被停，中纪委的终极目标是他！中国电影电视文艺圈真正的掌门人浮出水面；王芳马里乌波尔歌剧院唱红歌遭乌克兰外交抗议，无底限，一人干翻中乌关系【江峰漫谈20230908第726期】</a></li>
+<li><a href="/ssgc/20230909/1931518.md">一盘死棋临终，曾庆红发难只是一声哀嚎</a></li>
 <li><a href="/topimagenews/20230909/1931494.md">全中国仅2匹！“汗血宝马”身价狂飙9位数 饲主：绝对不卖</a></li>
 <li><a href="/topimagenews/20230909/1931473.md">用笔给习近平挖坑！中共人民日报高级黑【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20230909/1931518.md">一盘死棋临终，曾庆红发难只是一声哀嚎</a></li>
 <li><a href="/ssgc/20230909/1931269.md">〖微博谈〗所以什么样的坏事都敢干</a></li>
 <li><a href="/cbnews/20230909/1931360.md">〖兲朝浮世绘〗大独裁国腐败国要为别国培养独裁者、反腐人才？</a></li>
+<li><a href="/sohnews/20230909/1931528.md">杯具！乌克兰人坟头唱歌的王芳炸了，不但炸出她老公，还炸出一串带鱼，这下要被一锅端了，完全是蠢死的！顺带还坑了习近平</a></li>
 <li><a href="/comments/20230909/1931286.md">真的要打仗了吗？</a></li>
 <li><a href="/topimagenews/20230909/1931250.md">中共扩大封杀 还有哪家公司是安全的？</a></li>
-<li><a href="/sohnews/20230909/1931528.md">杯具！乌克兰人坟头唱歌的王芳炸了，不但炸出她老公，还炸出一串带鱼，这下要被一锅端了，完全是蠢死的！顺带还坑了习近平</a></li>
 <li><a href="/topimagenews/20230909/1931221.md">中国大五毛之妻在此地高唱《喀秋莎》引民愤 乌克兰抗议</a></li>
 <li><a href="/topimagenews/20230909/1931237.md">圣经末日预言出现3征兆？信徒惊：跟记载一样</a></li>
 <li><a href="/topimagenews/20230909/1931224.md">司马南出了一个难题</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
 <li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
 
 </ul>
 </div>
