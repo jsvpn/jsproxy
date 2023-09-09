@@ -7,27 +7,27 @@
 
 <li><a href="/topimagenews/20230908/1930899.md">这家芯片大厂踩了红线?华为手机藏着2个惊人零件</a></li>
 <li><a href="/sohnews/20230908/1930988.md">中共军官爆料！习不出席G20原因揭晓；深圳、香港爆洪水！习哈尔滨之旅，安保严到离谱；为什么说，曾庆红不仅会率大佬上书习近平，还会跟他.拼.命？“My Moment”推主越查越明｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/topimagenews/20230908/1930889.md">【微博精粹】沦陷区一件要命事 反日“核排”瞬间过时</a></li>
 <li><a href="/topimagenews/20230908/1931100.md">真有潜规则？中国美女总裁自爆被建商邀吃饭 到场惊见“多人运动”</a></li>
-<li><a href="/comments/20230908/1931065.md">未来已被安排！预言明确2025年“转折点”大巨变？！第13首诗：红朝覆灭在即？第14首诗：历史终局！深度解读预言诗“国运”呼应《推背图》｜ #未解之谜 扶摇</a></li>
 <li><a href="/topimagenews/20230908/1930990.md">中共东部战区一动作引嘲讽 网友：还以为是击沉了美国潜艇【阿波罗网报道】</a></li>
+<li><a href="/comments/20230908/1931065.md">未来已被安排！预言明确2025年“转折点”大巨变？！第13首诗：红朝覆灭在即？第14首诗：历史终局！深度解读预言诗“国运”呼应《推背图》｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20230908/1930918.md">江峰：国防部长也要人间蒸发？李尚福被拿下未经证实却早有预兆；华为Mate60实现土法大炼芯片突破？美国权威机构揭底，习近平被摆一道；苹果被暗算，距离官宣全面禁止还有多远【江峰漫谈20230907第725期】</a></li>
 <li><a href="/cbnews/20230908/1930942.md">〖兲朝浮世绘〗日本的房贷政策真是太伤害中国人民的感情了</a></li>
 <li><a href="/ccpdope/20230909/1931184.md">李强低头念稿老调重弹不入流 东盟峰会上受冷落</a></li>
 <li><a href="/baitai/20230908/1931060.md">真的只高兴几天？美高调布局调查华为新款手机 北京回应了</a></li>
-<li><a href="/comments/20230908/1930892.md">习明泽秀豪车 习近平放大招</a></li>
 <li><a href="/topimagenews/20230909/1931209.md">彭博爆炸消息！北京两线作战噩梦将成真？</a></li>
+<li><a href="/comments/20230908/1930892.md">习明泽秀豪车 习近平放大招</a></li>
 <li><a href="/baitai/20230908/1930965.md">「核泄漏」影响半个中国？传北京已出动「防化团」</a></li>
+<li><a href="/cnnews/20230909/1931212.md">张闻天遗孀：周恩来奢华中共高层多人不满</a></li>
 <li><a href="/cnnews/20230908/1930986.md">弃香港泄洪保住深圳？网上炸锅 港人忆涿州事件</a></li>
 <li><a href="/sohnews/20230908/1931076.md">大排长队！中国人转移资金热门方式｜ #时事金扫描 #金然</a></li>
 <li><a href="/lifebaike/20230908/1930972.md">“入户见6物，家败人难富”，不是迷信，看看你家有吗？</a></li>
-<li><a href="/cnnews/20230909/1931212.md">张闻天遗孀：周恩来奢华中共高层多人不满</a></li>
+<li><a href="/baitai/20230909/1931259.md">习突然视察灾区所为何来？分析：中共元老自寻死路</a></li>
 <li><a href="/comments/20230908/1930898.md">习近平被建议到抗洪前线作秀後大喊：你们要害死我！曾庆红北戴河逼宫後效应蔓延：李强要倒楣？</a></li>
 <li><a href="/lifebaike/20230909/1931164.md">被重口味毁掉的中国人</a></li>
 <li><a href="/sohnews/20230908/1931009.md">莫迪东盟峰会强势出击，高调替东盟撑腰南海，无视李强孤立中共，印度和越南加速站队美国实锤</a></li>
 <li><a href="/sohnews/20230908/1931015.md">陈破空：华为经历一阵狂欢后，麻烦来了！央视泼冷水。中日在东盟峰会翻脸互呛。特鲁多强势表态：中加关系没有和解余地。直播与互动：美东时间9月8日早8点30、即中港台9月8日晚8点30</a></li>
 <li><a href="/headline/20230908/1931086.md">过千电诈人员送中充替罪羊 知情人：中国保护下犯罪集团逍遥法外</a></li>
-<li><a href="/baitai/20230909/1931259.md">习突然视察灾区所为何来？分析：中共元老自寻死路</a></li>
+<li><a href="/topimagenews/20230908/1931116.md">11万非法移民涌入避难 市长“核爆级”发声：纽约即将毁灭</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230909/1931341.md" target="_blank">江峰：习近平对抗美国绝招：有用的白痴</a></li>
 <li><a href="/cbnews/20230909/1931316.md" target="_blank">不去G20：习近平留北京 会这两国总统</a></li>
 <li><a href="/cbnews/20230909/1931303.md" target="_blank">总设计师是皇帝的梦，北京“园中园”，很有故事</a></li>
 <li><a href="/comments/20230909/1931264.md" target="_blank">从中国企业家的悲剧 看美国成功的缘由【方伟时间-20230908】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230907/1930655.md" target="_blank">恐怖程度不断升级！最完整的双缝干涉实验演变史【边界系列】♾️ 想开亿点</a></li>
 <li><a href="/cbnews/20230907/1930627.md" target="_blank">恐怖:湖南教师疑打碎学生头骨,开颅手术花5小时</a></li>
 <li><a href="/comments/20230907/1930587.md" target="_blank">奥巴马前同志再曝内幕。奥巴马同学揭更可怕真相。盖茨警告麦卡锡，阻止弹劾拜登，议长职位将不保。#奥巴马 #卡尔森 #麦卡锡</a></li>
-<li><a href="/cbnews/20230907/1930522.md" target="_blank">河南22岁正妹出门拿快递离奇失踪 3个月后找到人…家属崩溃</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
 
 </ul>
 </div>
