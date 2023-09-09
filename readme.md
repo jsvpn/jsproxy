@@ -13,21 +13,21 @@
 <li><a href="/baitai/20230908/1931060.md">真的只高兴几天？美高调布局调查华为新款手机 北京回应了</a></li>
 <li><a href="/baitai/20230909/1931259.md">习突然视察灾区所为何来？分析：中共元老自寻死路</a></li>
 <li><a href="/ccpdope/20230909/1931184.md">李强低头念稿老调重弹不入流 东盟峰会上受冷落</a></li>
-<li><a href="/baitai/20230908/1930965.md">「核泄漏」影响半个中国？传北京已出动「防化团」</a></li>
 <li><a href="/cnnews/20230909/1931212.md">张闻天遗孀：周恩来奢华中共高层多人不满</a></li>
 <li><a href="/cnnews/20230908/1930986.md">弃香港泄洪保住深圳？网上炸锅 港人忆涿州事件</a></li>
-<li><a href="/lifebaike/20230908/1930972.md">“入户见6物，家败人难富”，不是迷信，看看你家有吗？</a></li>
 <li><a href="/sohnews/20230908/1931076.md">大排长队！中国人转移资金热门方式｜ #时事金扫描 #金然</a></li>
-<li><a href="/lifebaike/20230909/1931164.md">被重口味毁掉的中国人</a></li>
 <li><a href="/cnnews/20230909/1931290.md">中国女商人天天狂存现金 结果惨了</a></li>
+<li><a href="/lifebaike/20230909/1931164.md">被重口味毁掉的中国人</a></li>
 <li><a href="/cnnews/20230909/1931292.md">金正恩访俄“极乐列车” 美女随侍 龙虾美酒俱全</a></li>
 <li><a href="/comments/20230909/1931262.md">文昭：东盟峰会李强爆发严重争吵；一项重要指标中国「归零」到1978年以前！一堆军阀也不如一个人可怕</a></li>
+<li><a href="/topimagenews/20230909/1931327.md">突发重磅！美正式对华为手机芯片启动调查 更多管制措施要收紧？</a></li>
 <li><a href="/topimagenews/20230908/1931116.md">11万非法移民涌入避难 市长“核爆级”发声：纽约即将毁灭</a></li>
 <li><a href="/headline/20230908/1931086.md">过千电诈人员送中充替罪羊 知情人：中国保护下犯罪集团逍遥法外</a></li>
 <li><a href="/sohnews/20230908/1931009.md">莫迪东盟峰会强势出击，高调替东盟撑腰南海，无视李强孤立中共，印度和越南加速站队美国实锤</a></li>
 <li><a href="/sohnews/20230908/1931015.md">陈破空：华为经历一阵狂欢后，麻烦来了！央视泼冷水。中日在东盟峰会翻脸互呛。特鲁多强势表态：中加关系没有和解余地。直播与互动：美东时间9月8日早8点30、即中港台9月8日晚8点30</a></li>
-<li><a href="/topimagenews/20230909/1931327.md">突发重磅！美正式对华为手机芯片启动调查 更多管制措施要收紧？</a></li>
 <li><a href="/topimagenews/20230909/1931221.md">中国大五毛之妻在此地高唱《喀秋莎》引民愤 乌克兰抗议</a></li>
+<li><a href="/ssgc/20230909/1931269.md">〖微博谈〗所以什么样的坏事都敢干</a></li>
+<li><a href="/topimagenews/20230909/1931250.md">中共扩大封杀 还有哪家公司是安全的？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
 <li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
 
 </ul>
 </div>
