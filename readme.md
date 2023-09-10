@@ -13,21 +13,21 @@
 <li><a href="/sohnews/20230909/1931528.md">杯具！乌克兰人坟头唱歌的王芳炸了，不但炸出她老公，还炸出一串带鱼，这下要被一锅端了，完全是蠢死的！顺带还坑了习近平</a></li>
 <li><a href="/sohnews/20230910/1931577.md">大清洗到来！传张又侠李尚福出事；火箭军团灭祸起两本书，习近平原来最怕这个？！</a></li>
 <li><a href="/topimagenews/20230909/1931494.md">全中国仅2匹！“汗血宝马”身价狂飙9位数 饲主：绝对不卖</a></li>
-<li><a href="/cbnews/20230909/1931360.md">〖兲朝浮世绘〗大独裁国腐败国要为别国培养独裁者、反腐人才？</a></li>
 <li><a href="/cbnews/20230910/1931619.md">真出事？北京传风声 解放军内部已展开究责</a></li>
 <li><a href="/topimagenews/20230910/1931590.md">出人意料！G20宣言出炉 两点内容让中俄不爽</a></li>
 <li><a href="/sohnews/20230909/1931515.md">陈破空：李强出席峰会倍受冷落！两个微妙表现，返京后可能挨批。中国歌手反了！在乌克兰被炸剧院废墟上高歌，竟是中华民族的国耻歌。直播：美东时间9月9日早8点45、即中港台9月9日晚8点45</a></li>
 <li><a href="/ccpdope/20230910/1931574.md">内蒙核泄漏 习全副武装防核射 怕预言应验端掉火箭军高层</a></li>
 <li><a href="/sports/20230910/1931595.md">杭州亚运“出大事” 海报赫见这两字</a></li>
 <li><a href="/sohnews/20230909/1931552.md">王芳《喀秋莎》全网暴怒，周小平回应全是雷，中国国籍的原罪，深圳泄洪祸及香港，桂民海的悲惨遭遇，乌克兰反击（小木谈天第375 20230909）</a></li>
-<li><a href="/cnnews/20230909/1931481.md">陕西男坚持2268天到河边磨针！超硬钢筋变尖了 网友全看傻</a></li>
 <li><a href="/cnnews/20230910/1931597.md">鸡肋般的东西，中国卖不动，老外却疯抢</a></li>
+<li><a href="/cnnews/20230909/1931481.md">陕西男坚持2268天到河边磨针！超硬钢筋变尖了 网友全看傻</a></li>
 <li><a href="/comments/20230909/1931556.md">拜习会添变数！中国突取消王毅访美行程 改派韩正出席联合国大会</a></li>
 <li><a href="/sohnews/20230909/1931530.md">价值上亿！观览习公主纽约顶级公寓｜ #时事金扫描 #金然</a></li>
+<li><a href="/cnnews/20230910/1931596.md">突发，原茅台集团董事长袁仁国狱中病逝</a></li>
 <li><a href="/cnnews/20230909/1931496.md">立刻更新你的苹果设备 苹果被曝安全漏洞</a></li>
+<li><a href="/topimagenews/20230910/1931636.md">爆炸消息泄漏！国防布遮不住 北京传风声</a></li>
 <li><a href="/cbnews/20230909/1931397.md">江峰：日本海鲜放开了，没毒了还是没招了</a></li>
 <li><a href="/cbnews/20230909/1931413.md">中国经济深陷泥沼 剑桥学者：“北京共识”消亡</a></li>
-<li><a href="/cnnews/20230910/1931596.md">突发，原茅台集团董事长袁仁国狱中病逝</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230910/1931738.md" target="_blank">两场外交盛事，一条扩大的裂痕</a></li>
+<li><a href="/comments/20230910/1931737.md" target="_blank">颜纯钩:联大在即 美英合踩红线 北京遭遇最致命压力</a></li>
+<li><a href="/comments/20230910/1931736.md" target="_blank">i看见：北极鲶鱼最新进展</a></li>
+<li><a href="/comments/20230910/1931735.md" target="_blank">魏春亮：《治安管理处罚法》草案的问题，可能不止第34条</a></li>
+<li><a href="/comments/20230910/1931734.md" target="_blank">江西公示“从事舆论监督记者”名单：规范行业，还是限制监督？</a></li>
 <li><a href="/comments/20230910/1931706.md" target="_blank">天亮时分：《圣经》末日预言三徵兆出现，习近平成惊弓之鸟；中共核潜艇爆炸新证据，中央军委与战区互相甩锅（YouTube会员节目第34集 20230909）</a></li>
 <li><a href="/comments/20230910/1931704.md" target="_blank">【杰森视角】习近平班子驾驭国人有新招！中共保汇率，为何且战且退？中共银行分支现商票违约井喷! 设“伤害中华民族感情”罪是习近平下大招！社会舆论逆向淘汰今后会更彻底！中国经济达到新的动态平衡？</a></li>
 <li><a href="/comments/20230910/1931696.md" target="_blank">周夫人废墟上演绎《喀秋莎》，这不是伤害中乌两国人民的感情吗？</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230910/1931614.md" target="_blank">袁斌:习现身北方灾区 党魁作秀一代不如一代</a></li>
 <li><a href="/comments/20230910/1931570.md" target="_blank">新发现！“月球南极”软着陆</a></li>
 <li><a href="/comments/20230910/1931569.md" target="_blank">《治安管理法》被乌龙 误伤民族感情</a></li>
-<li><a href="/comments/20230909/1931559.md" target="_blank">【独家重磅】李燕铭：习近平连环动作瓦解江绵恒生化政变 两会与北戴河会敏感期接管江绵恒上海帮病毒生工基地 江绵恒心腹马仔陈竺卸职之际 习切断江绵恒上海帮与国际王牌病毒生工机构重要勾连渠道 习近平决战江曾（121） 江泽民死江家族被清洗（32） 江泽民老巢上海被清洗（42） 江绵恒暗黑帝国瓦解内幕（56） 中南海政变与反政变（124）</a></li>
-<li><a href="/comments/20230909/1931556.md" target="_blank">拜习会添变数！中国突取消王毅访美行程 改派韩正出席联合国大会</a></li>
-<li><a href="/comments/20230909/1931555.md" target="_blank">杭州亚运海报将台湾列为“国家” 照片疯传 网上热议</a></li>
-<li><a href="/comments/20230909/1931542.md" target="_blank">文昭：习近平缺席G20峰会，民营企业家们可以洗洗睡了</a></li>
-<li><a href="/comments/20230909/1931512.md" target="_blank">纽约市长快崩溃，大骂德州州长是疯子，谴责拜登辜负纽约。德州抨击亚当斯是伪君子。#亚当斯 #拜登 #非法移民</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
 <li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
 
 </ul>
 </div>
