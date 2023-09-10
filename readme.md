@@ -13,21 +13,21 @@
 <li><a href="/sohnews/20230909/1931515.md">陈破空：李强出席峰会倍受冷落！两个微妙表现，返京后可能挨批。中国歌手反了！在乌克兰被炸剧院废墟上高歌，竟是中华民族的国耻歌。直播：美东时间9月9日早8点45、即中港台9月9日晚8点45</a></li>
 <li><a href="/topimagenews/20230910/1931590.md">出人意料！G20宣言出炉 两点内容让中俄不爽</a></li>
 <li><a href="/ccpdope/20230910/1931574.md">内蒙核泄漏 习全副武装防核射 怕预言应验端掉火箭军高层</a></li>
-<li><a href="/comments/20230910/1931626.md">鄂尔多斯核泄漏真相是什么？中国首例核辐射受害者的悲惨人生 ｜赵兰健 ｜新闻烽火台 09/09</a></li>
 <li><a href="/sohnews/20230909/1931552.md">王芳《喀秋莎》全网暴怒，周小平回应全是雷，中国国籍的原罪，深圳泄洪祸及香港，桂民海的悲惨遭遇，乌克兰反击（小木谈天第375 20230909）</a></li>
+<li><a href="/comments/20230910/1931626.md">鄂尔多斯核泄漏真相是什么？中国首例核辐射受害者的悲惨人生 ｜赵兰健 ｜新闻烽火台 09/09</a></li>
 <li><a href="/sports/20230910/1931595.md">杭州亚运“出大事” 海报赫见这两字</a></li>
 <li><a href="/cnnews/20230910/1931597.md">鸡肋般的东西，中国卖不动，老外却疯抢</a></li>
 <li><a href="/topimagenews/20230910/1931638.md">北京撒泼搅局铁板钉钉的事</a></li>
 <li><a href="/comments/20230909/1931556.md">拜习会添变数！中国突取消王毅访美行程 改派韩正出席联合国大会</a></li>
+<li><a href="/cnnews/20230910/1931741.md">“皇后区成卖淫之区”，女子光天化日公然拉客</a></li>
 <li><a href="/cnnews/20230910/1931667.md">“连旗袍都不准穿了，暴风雨就要来了”</a></li>
 <li><a href="/cnnews/20230910/1931596.md">突发，原茅台集团董事长袁仁国狱中病逝</a></li>
-<li><a href="/cnnews/20230910/1931741.md">“皇后区成卖淫之区”，女子光天化日公然拉客</a></li>
 <li><a href="/ccpdope/20230910/1931623.md">内幕！习近平为何把火箭军一锅端</a></li>
+<li><a href="/topimagenews/20230910/1931781.md">惊人内幕：习近平的安保做到这程度 彻底重建总统套房</a></li>
 <li><a href="/sohnews/20230909/1931530.md">价值上亿！观览习公主纽约顶级公寓｜ #时事金扫描 #金然</a></li>
 <li><a href="/topimagenews/20230910/1931717.md">【微博精粹】教科书级盛况 赵国做到了股债汇市同时扑街</a></li>
 <li><a href="/cnnews/20230910/1931598.md">看似英勇，北京实则打草惊蛇</a></li>
-<li><a href="/topimagenews/20230910/1931781.md">惊人内幕：习近平的安保做到这程度 彻底重建总统套房</a></li>
-<li><a href="/ssgc/20230909/1931517.md">习现身北方灾区 党魁作秀一代不如一代</a></li>
+<li><a href="/lifebaike/20230910/1931653.md">哈佛研究发现：娃智商高低3岁能看出，高智商娃一般有3个坏毛病</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
 <li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 <li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 
 </ul>
 </div>
