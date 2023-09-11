@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230912/1932310.md" target="_blank">美国思想领袖：【精彩片段】王芳在错误的地方唱了错误的歌成为国际事件？周小平嗅危机急删帖？「伤害民族感情」将遭罚？ 中共「玻璃心」法条惹议- #新闻大家谈</a></li>
 <li><a href="/cbnews/20230912/1932302.md" target="_blank">美国思想领袖：【精彩片段】英国再捉中共间谍 李强G20连遭尴尬 非正常缺席与超寻常安保 习近平怎麽了？- #新闻大家谈</a></li>
 <li><a href="/cbnews/20230912/1932256.md" target="_blank">中国打探西方情报5大技俩 黑客、间谍和海外警察局</a></li>
 <li><a href="/comments/20230911/1932174.md" target="_blank">惊人内幕！马斯克阻止乌克兰发动珍珠港式袭击始末。泽伦斯基与马斯克闹翻，拜登向马斯克发出威胁。#马斯克 #乌克兰 #星链</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230910/1931708.md" target="_blank">习近平被中共元老痛骂？矢板明夫：不排除共产党内部人士混淆视听</a></li>
 <li><a href="/comments/20230910/1931704.md" target="_blank">【杰森视角】习近平班子驾驭国人有新招！中共保汇率，为何且战且退？中共银行分支现商票违约井喷! 设“伤害中华民族感情”罪是习近平下大招！社会舆论逆向淘汰今后会更彻底！中国经济达到新的动态平衡？</a></li>
 <li><a href="/comments/20230910/1931626.md" target="_blank">鄂尔多斯核泄漏真相是什么？中国首例核辐射受害者的悲惨人生 ｜赵兰健 ｜新闻烽火台 09/09</a></li>
-<li><a href="/cbnews/20230910/1931625.md" target="_blank">江峰：华为跟火箭军抢芯片？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230912/1932313.md" target="_blank">胡锡进下场，李佳琦估计要完蛋了</a></li>
+<li><a href="/comments/20230912/1932312.md" target="_blank">收网！拜登亚洲行达成3大突破 北京干着急</a></li>
+<li><a href="/comments/20230912/1932311.md" target="_blank">张3丰：反对第34条，就是为未来的自己辩护</a></li>
 <li><a href="/comments/20230912/1932255.md" target="_blank">时事大家谈：没有习近平的G-20峰会：美印主导有何看点？</a></li>
 <li><a href="/comments/20230911/1932250.md" target="_blank">时事大家谈：没有习近平的G-20峰会：美印主导有何看点？“中国跌倒印度吃饱”，印度将是下一个中国？</a></li>
 <li><a href="/comments/20230911/1932241.md" target="_blank">李燕铭：消息：习近平相信暗杀预言 认为预言中的政变暗杀与火箭军对应 两本民间奇书预言习近平遭政变暗杀 习相信佛家超自然力量 罕见参观“天地人神”展陈 江泽民父子深度操控二炮火箭军 习国内不敢坐飞机 习面临生死抉择 一线生机稍纵即逝 习近平决战江曾（122） 习近平连任后大清洗（79） 中南海政变与反政变（125） 火箭军窝案深度内幕（17） 习近平连任与中共末日（167）</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230911/1932010.md" target="_blank">你所不知道的爱马仕: 古埃及《托特预言》</a></li>
 <li><a href="/comments/20230911/1932011.md" target="_blank">小民之心：又传中共元老救中共</a></li>
 <li><a href="/comments/20230911/1932009.md" target="_blank">梁胡之争：中国最大的敌人是谁？</a></li>
-<li><a href="/comments/20230911/1932008.md" target="_blank">【科普时刻】中国国产手机突破7nm芯片用了什么“魔法”</a></li>
-<li><a href="/comments/20230911/1931994.md" target="_blank">宋国诚：莫迪的全球治理哲学──新德里峰会的意义与成就</a></li>
-<li><a href="/comments/20230911/1931993.md" target="_blank">何清涟：美国芯片制裁的成功是灰色的</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
 
 </ul>
 </div>
