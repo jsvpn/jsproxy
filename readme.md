@@ -10,8 +10,8 @@
 <li><a href="/sohnews/20230910/1931771.md">习害怕坐飞机！原定“访美”之行生变？习近平身边有高人！火箭军司令“李玉超”遭拿下，跟《推背图》有关，至少两幅画令习“触目惊心”；杭州亚运将台湾称国家；中共推法，“伤害感情”是罪｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20230910/1931816.md">习近平被中共元老当面痛骂？ 矢板明夫提一判断真假标准</a></li>
 <li><a href="/topimagenews/20230911/1931923.md">猛料！普里格津还活着 普京活不久了</a></li>
-<li><a href="/comments/20230910/1931834.md">那英遭中纪委调查，习明泽发力介入？习近平扫平火箭军又爆新料：怕白毛鸟成林彪号二</a></li>
 <li><a href="/cnnews/20230910/1931784.md">慈禧年轻时漂亮吗?五世外孙女照片曝光,一模一样</a></li>
+<li><a href="/comments/20230910/1931834.md">那英遭中纪委调查，习明泽发力介入？习近平扫平火箭军又爆新料：怕白毛鸟成林彪号二</a></li>
 <li><a href="/cnnews/20230910/1931776.md">传中共国防部部长李尚福因涉贪腐和严重违纪被查</a></li>
 <li><a href="/topimagenews/20230910/1931872.md">中共核潜舰黄海爆炸？家属等不到官兵回家对外求援 上百人疑全数罹难</a></li>
 <li><a href="/topimagenews/20230910/1931791.md">习近平第一个违法! 中共立法管控着装:穿衣是政治问题【阿波罗网报道】</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/topimagenews/20230910/1931884.md">陆“iPhone禁令”再扩大？FT曝：从核电厂到内蒙医院全限制</a></li>
 <li><a href="/sohnews/20230910/1931774.md">美国大使证实中国防长李尚福出事，印度明确表态将参与台海战争，伤害民族感情属于犯法。《老灯开讲第379期》</a></li>
 <li><a href="/topimagenews/20230911/1931924.md">不提观点，看习总器重的周小平一句话有多少语病</a></li>
+<li><a href="/sohnews/20230911/1931940.md">陈破空：突发！海军司令遭带走。潜艇事件实锤。副主席话中有话！拜登透露某人缺席原因。李强处处碰壁。惊传普里戈津还活着？首播：美东时间9月10日晚8点、即中港台9月11早8点</a></li>
 <li><a href="/baitai/20230910/1931832.md">【CDT报告汇】中国经济可能下滑，但不要指望政权崩溃（外二篇）</a></li>
 <li><a href="/ssgc/20230910/1931840.md">习近平考察黑龙江灾区的蹊跷之处</a></li>
-<li><a href="/sohnews/20230911/1931940.md">陈破空：突发！海军司令遭带走。潜艇事件实锤。副主席话中有话！拜登透露某人缺席原因。李强处处碰壁。惊传普里戈津还活着？首播：美东时间9月10日晚8点、即中港台9月11早8点</a></li>
 <li><a href="/baitai/20230910/1931827.md">《美国医学会内科医学》：40岁后最佳运动方式出炉</a></li>
+<li><a href="/cnnews/20230911/1931974.md">中共一可怕计划即将全面启动？历史将再次重演？【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230910/1931837.md">文睿：华为，给自己的，棺材，订上了最后一颗钉子，欢迎华为水军给我送流量</a></li>
 <li><a href="/topimagenews/20230911/1931907.md">拜登：中国经济困境削弱中共入侵台湾能力 国内问题使习近平分身乏术</a></li>
 <li><a href="/headline/20230910/1931823.md">英国首相直面中国总理 指责中国干涉英国议会民主</a></li>
-<li><a href="/comments/20230910/1931867.md">预言！中国近代！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -105,8 +105,8 @@
 <li><a href="/comments/20230911/1932025.md" target="_blank">【独家重磅】李燕铭：山西省委副书记商黎光落马 团派高官保定市委副书记商黎兵被免职 网曝商黎家族纵横河北政坛内幕 河北多名团派背景高官落马或贬职 均为李克强团派旧部 河北籍国级部级高官超过200人政治能量惊人 习引爆商黎家族窝案剑指更大老虎 习近平连任后大清洗（78） 河北帮覆灭记（19） 山西帮覆灭记（3） 习近平李克强明争暗斗内幕（113） 团派团灭内幕（31）</a></li>
 <li><a href="/comments/20230911/1932013.md" target="_blank">不忘惊世血案 一睹凶徒嘴脸</a></li>
 <li><a href="/comments/20230911/1932012.md" target="_blank">赵晓：中国人的认知最终将决定中国有什么样的世界和未来</a></li>
-<li><a href="/comments/20230911/1932010.md" target="_blank">你所不知道的爱马仕: 古埃及《托特预言》</a></li>
 <li><a href="/comments/20230911/1932011.md" target="_blank">小民之心：又传中共元老救中共</a></li>
+<li><a href="/comments/20230911/1932010.md" target="_blank">你所不知道的爱马仕: 古埃及《托特预言》</a></li>
 <li><a href="/comments/20230911/1932009.md" target="_blank">梁胡之争：中国最大的敌人是谁？</a></li>
 <li><a href="/comments/20230911/1932008.md" target="_blank">【科普时刻】中国国产手机突破7nm芯片用了什么“魔法”</a></li>
 <li><a href="/comments/20230911/1931994.md" target="_blank">宋国诚：莫迪的全球治理哲学──新德里峰会的意义与成就</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
 
 </ul>
 </div>
