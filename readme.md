@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20230910/1931872.md">中共核潜舰黄海爆炸？家属等不到官兵回家对外求援 上百人疑全数罹难</a></li>
 <li><a href="/topimagenews/20230910/1931791.md">习近平第一个违法! 中共立法管控着装:穿衣是政治问题【阿波罗网报道】</a></li>
 <li><a href="/headline/20230911/1931921.md">李强见拜登为何秘而不宣？</a></li>
+<li><a href="/cnnews/20230911/1931974.md">中共一可怕计划即将全面启动？历史将再次重演？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230910/1931793.md">菲律宾母羊产下“半人半猪”怪胎 尖叫一声后“全家都死了”</a></li>
 <li><a href="/sohnews/20230911/1931940.md">陈破空：突发！海军司令遭带走。潜艇事件实锤。副主席话中有话！拜登透露某人缺席原因。李强处处碰壁。惊传普里戈津还活着？首播：美东时间9月10日晚8点、即中港台9月11早8点</a></li>
-<li><a href="/cnnews/20230911/1931974.md">中共一可怕计划即将全面启动？历史将再次重演？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230910/1931884.md">陆“iPhone禁令”再扩大？FT曝：从核电厂到内蒙医院全限制</a></li>
 <li><a href="/topimagenews/20230911/1931924.md">不提观点，看习总器重的周小平一句话有多少语病</a></li>
 <li><a href="/baitai/20230910/1931832.md">【CDT报告汇】中国经济可能下滑，但不要指望政权崩溃（外二篇）</a></li>
 <li><a href="/ssgc/20230910/1931840.md">习近平考察黑龙江灾区的蹊跷之处</a></li>
-<li><a href="/topimagenews/20230911/1932050.md">【微博精粹】强国人读完弱国日本贷款政策 100%哭晕在厕所</a></li>
 <li><a href="/yule/20230911/1931977.md">国家一级演员定居加拿大 游山玩水路边起舞</a></li>
+<li><a href="/topimagenews/20230911/1932050.md">【微博精粹】强国人读完弱国日本贷款政策 100%哭晕在厕所</a></li>
+<li><a href="/topimagenews/20230911/1931986.md">扎克伯格这一举动，将让中国90%大模型公司死亡</a></li>
 <li><a href="/baitai/20230910/1931827.md">《美国医学会内科医学》：40岁后最佳运动方式出炉</a></li>
+<li><a href="/ssgc/20230911/1932024.md">〖微博谈〗习近平一战企图将成梦幻</a></li>
 <li><a href="/sohnews/20230910/1931837.md">文睿：华为，给自己的，棺材，订上了最后一颗钉子，欢迎华为水军给我送流量</a></li>
 <li><a href="/topimagenews/20230911/1931907.md">拜登：中国经济困境削弱中共入侵台湾能力 国内问题使习近平分身乏术</a></li>
-<li><a href="/topimagenews/20230911/1931986.md">扎克伯格这一举动，将让中国90%大模型公司死亡</a></li>
-<li><a href="/ssgc/20230911/1932024.md">〖微博谈〗习近平一战企图将成梦幻</a></li>
+<li><a href="/baitai/20230911/1931947.md">周杰伦阿信薛之谦中国演唱会纷纷出现身体不适</a></li>
 <li><a href="/comments/20230910/1931867.md">预言！中国近代！</a></li>
-<li><a href="/topimagenews/20230911/1931922.md">中国最神秘富豪 许家印昔日金主 1个亿怎么就难倒了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
 
 </ul>
 </div>
