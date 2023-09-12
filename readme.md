@@ -12,22 +12,22 @@
 <li><a href="/sohnews/20230912/1932326.md">南非曝习近平怕死内幕：家具床垫全自带！厨师查三代！没文化？党媒诡异齐唱亡国之音；王芳献歌俄爹举世哗然</a></li>
 <li><a href="/topimagenews/20230912/1932444.md">【微博精粹】股民别哭 墙国要发金圆券了</a></li>
 <li><a href="/comments/20230912/1932359.md">诚：李尚福很可能已出事；习担心生命安全，越是身边人越疑心；中共军队有可能譁变？｜新闻烽火台 09/11</a></li>
-<li><a href="/topimagenews/20230912/1932366.md">杀气腾腾的中共央行 意外暴露了底线</a></li>
 <li><a href="/ccpdope/20230911/1932188.md">中共为何不敢公开G20宣言全文（上）</a></li>
+<li><a href="/topimagenews/20230912/1932366.md">杀气腾腾的中共央行 意外暴露了底线</a></li>
 <li><a href="/sohnews/20230911/1932221.md">🔥突发：重庆警击毙69岁老妇民怨四起细节曝光；中共国将成大号的朝鲜？习近平讲话释特殊信号；普里格津还活着？ 躲这儿等普京死；中国青年和习近平幕僚谁能赢？；泽连斯基：反攻俄军有进展</a></li>
 <li><a href="/cbnews/20230912/1932486.md">〖兲朝浮世绘〗官媒齐唱亡国曲：西湖歌舞几时休？</a></li>
 <li><a href="/comments/20230912/1932313.md">胡锡进下场，李佳琦估计要完蛋了</a></li>
-<li><a href="/topimagenews/20230911/1932198.md">中共潜艇爆炸是假新闻？于北辰：浮出来给大家看看</a></li>
-<li><a href="/comments/20230911/1932174.md">惊人内幕！马斯克阻止乌克兰发动珍珠港式袭击始末。泽伦斯基与马斯克闹翻，拜登向马斯克发出威胁。#马斯克 #乌克兰 #星链</a></li>
 <li><a href="/cbnews/20230912/1932502.md">重磅！传多位中共军火大佬被抓</a></li>
+<li><a href="/topimagenews/20230911/1932198.md">中共潜艇爆炸是假新闻？于北辰：浮出来给大家看看</a></li>
 <li><a href="/yule/20230912/1932482.md">张钧甯搭飞机请乘客讲话小声“下机得知对方身份”尬喊：想挖洞钻进去</a></li>
-<li><a href="/cbnews/20230912/1932321.md">梅洛尼见李强 亲自送达“判决书”</a></li>
+<li><a href="/comments/20230911/1932174.md">惊人内幕！马斯克阻止乌克兰发动珍珠港式袭击始末。泽伦斯基与马斯克闹翻，拜登向马斯克发出威胁。#马斯克 #乌克兰 #星链</a></li>
 <li><a href="/comments/20230912/1932491.md">最可怕《推背图》现世！四位背弓人全姓李？中共新一轮军队大清洗登场！习近平为阻止此图应验，不惜全军覆灭？</a></li>
+<li><a href="/cbnews/20230912/1932321.md">梅洛尼见李强 亲自送达“判决书”</a></li>
 <li><a href="/cnnews/20230912/1932379.md">史上最大泡沫要破了？加拿大传来令人不安的消息</a></li>
 <li><a href="/cnnews/20230912/1932328.md">港圈“冻龄富婆”近照，这张脸竟有61岁！？</a></li>
 <li><a href="/worldnews/20230912/1932420.md">被问习近平与李强 拜登表现让主持人果断收场</a></li>
-<li><a href="/cnnews/20230912/1932329.md">“爸妈送我留学后破产了，我没学上了…”</a></li>
 <li><a href="/topimagenews/20230912/1932524.md">中国房地产巨头股价连日反弹“S猫跳”? 突发重磅！美正式对华为手机芯片启动调查紧？</a></li>
+<li><a href="/cnnews/20230912/1932329.md">“爸妈送我留学后破产了，我没学上了…”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
 <li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 
 </ul>
 </div>
