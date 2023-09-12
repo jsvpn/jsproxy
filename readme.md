@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20230911/1932109.md">温家宝的万言上书，流浪东北习近平不敢回北京，东北我心中永远的痛。《老灯开讲第380期》</a></li>
 <li><a href="/cnnews/20230911/1932135.md">官场现行记！中央空降的广西市委副书记，竟是刑满释放人员</a></li>
 <li><a href="/baitai/20230911/1932175.md">中共外交系统出大事？中南海权贵或铤而走险</a></li>
 <li><a href="/topimagenews/20230912/1932320.md">无所不用其极 华为新手机1真相被曝</a></li>
@@ -17,15 +16,16 @@
 <li><a href="/sohnews/20230912/1932326.md">南非曝习近平怕死内幕：家具床垫全自带！厨师查三代！没文化？党媒诡异齐唱亡国之音；王芳献歌俄爹举世哗然</a></li>
 <li><a href="/comments/20230912/1932359.md">诚：李尚福很可能已出事；习担心生命安全，越是身边人越疑心；中共军队有可能譁变？｜新闻烽火台 09/11</a></li>
 <li><a href="/topimagenews/20230912/1932366.md">杀气腾腾的中共央行 意外暴露了底线</a></li>
-<li><a href="/ccpdope/20230911/1932188.md">中共为何不敢公开G20宣言全文（上）</a></li>
 <li><a href="/topimagenews/20230912/1932444.md">【微博精粹】股民别哭 墙国要发金圆券了</a></li>
+<li><a href="/ccpdope/20230911/1932188.md">中共为何不敢公开G20宣言全文（上）</a></li>
 <li><a href="/cbnews/20230912/1932321.md">梅洛尼见李强 亲自送达“判决书”</a></li>
 <li><a href="/sohnews/20230911/1932221.md">🔥突发：重庆警击毙69岁老妇民怨四起细节曝光；中共国将成大号的朝鲜？习近平讲话释特殊信号；普里格津还活着？ 躲这儿等普京死；中国青年和习近平幕僚谁能赢？；泽连斯基：反攻俄军有进展</a></li>
 <li><a href="/cnnews/20230911/1932131.md">下周太重要了！“3件大事”恐彻底改变科技市场</a></li>
 <li><a href="/topimagenews/20230911/1932198.md">中共潜艇爆炸是假新闻？于北辰：浮出来给大家看看</a></li>
 <li><a href="/comments/20230911/1932174.md">惊人内幕！马斯克阻止乌克兰发动珍珠港式袭击始末。泽伦斯基与马斯克闹翻，拜登向马斯克发出威胁。#马斯克 #乌克兰 #星链</a></li>
-<li><a href="/cnnews/20230912/1932328.md">港圈“冻龄富婆”近照，这张脸竟有61岁！？</a></li>
 <li><a href="/comments/20230912/1932313.md">胡锡进下场，李佳琦估计要完蛋了</a></li>
+<li><a href="/cnnews/20230912/1932328.md">港圈“冻龄富婆”近照，这张脸竟有61岁！？</a></li>
+<li><a href="/cnnews/20230912/1932379.md">史上最大泡沫要破了？加拿大传来令人不安的消息</a></li>
 <li><a href="/worldnews/20230911/1932134.md">美军最高将领：乌克兰只剩下30多天时间了</a></li>
 <li><a href="/cnnews/20230912/1932329.md">“爸妈送我留学后破产了，我没学上了…”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230912/1932571.md" target="_blank">70条鳄鱼出逃 海葵洪水淹广东茂名养殖场 民众尽量别外出</a></li>
 <li><a href="/cbnews/20230912/1932555.md" target="_blank">这条罪名，没人知道红线在哪</a></li>
 <li><a href="/cbnews/20230912/1932537.md" target="_blank">海葵台风登陆大陆多日残余环流西移 洪灾蔓延至广西</a></li>
 <li><a href="/cbnews/20230912/1932526.md" target="_blank">广东男失恋卖黄金 “当街怒撒15000元”纸钞散落一地</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230911/1932035.md" target="_blank">江峰：周带鱼王芳恶心完国人开始恶心世界了</a></li>
 <li><a href="/comments/20230911/1932010.md" target="_blank">你所不知道的爱马仕: 古埃及《托特预言》</a></li>
 <li><a href="/cbnews/20230911/1931988.md" target="_blank">卤味店取名“秦始皇”，就把民族感情伤害了？</a></li>
-<li><a href="/cbnews/20230911/1931926.md" target="_blank">中共一心提升战力 锁定“退役美军”当种子教官</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230912/1932575.md" target="_blank">防政变怕暗杀 习攥紧军权却埋下大患</a></li>
 <li><a href="/comments/20230912/1932491.md" target="_blank">最可怕《推背图》现世！四位背弓人全姓李？中共新一轮军队大清洗登场！习近平为阻止此图应验，不惜全军覆灭？</a></li>
 <li><a href="/comments/20230912/1932445.md" target="_blank">发火有罪吗？ 【方伟时间-20230911】</a></li>
 <li><a href="/comments/20230912/1932431.md" target="_blank">天亮时分：习近平夸张安保秘闻曝光，缺席G20三大损失追悔莫及；李强被维稳消声；乌克兰只剩下30多天的时间；金正恩动身去见普京，自寻绝路的失败联盟（政论天下第1107集 20230911）天亮时分</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230911/1932056.md" target="_blank">中国百姓最大的生存智慧：啥都别信</a></li>
 <li><a href="/comments/20230911/1932041.md" target="_blank">中国数字时代：在马里乌波尔剧院废墟上唱《喀秋莎》的傻波一</a></li>
 <li><a href="/comments/20230911/1932036.md" target="_blank">天亮时分：美印结盟的成果：印度准备介入台海战争；意大利退出一带一路，G20提出抗衡计划；习近平生变，将缺席旧金山APEC会议？（政论天下第1106集 20230910）天亮时分</a></li>
-<li><a href="/comments/20230911/1932025.md" target="_blank">【独家重磅】李燕铭：山西省委副书记商黎光落马 团派高官保定市委副书记商黎兵被免职 网曝商黎家族纵横河北政坛内幕 河北多名团派背景高官落马或贬职 均为李克强团派旧部 河北籍国级部级高官超过200人政治能量惊人 习引爆商黎家族窝案剑指更大老虎 习近平连任后大清洗（78） 河北帮覆灭记（19） 山西帮覆灭记（3） 习近平李克强明争暗斗内幕（113） 团派团灭内幕（31）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
 <li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
 
 </ul>
 </div>
