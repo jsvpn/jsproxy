@@ -10,7 +10,6 @@
 <li><a href="/comments/20230912/1932359.md">诚：李尚福很可能已出事；习担心生命安全，越是身边人越疑心；中共军队有可能譁变？｜新闻烽火台 09/11</a></li>
 <li><a href="/topimagenews/20230912/1932444.md">【微博精粹】股民别哭 墙国要发金圆券了</a></li>
 <li><a href="/topimagenews/20230912/1932366.md">杀气腾腾的中共央行 意外暴露了底线</a></li>
-<li><a href="/comments/20230912/1932313.md">胡锡进下场，李佳琦估计要完蛋了</a></li>
 <li><a href="/cbnews/20230912/1932502.md">重磅！传多位中共军火大佬被抓</a></li>
 <li><a href="/cbnews/20230912/1932486.md">〖兲朝浮世绘〗官媒齐唱亡国曲：西湖歌舞几时休？</a></li>
 <li><a href="/topimagenews/20230912/1932590.md">图文并茂！中共军方科普“翻墙” ！“自己动手，丰衣足食”【阿波罗网报道】</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/sohnews/20230912/1932616.md">人在家中坐，祸从天上降。中共两弹元勋姚桐斌，吃著饭突然被冲进来的人戕害。官方至今拒彻查元凶，背后黑幕直通中南海。</a></li>
 <li><a href="/cbnews/20230912/1932321.md">梅洛尼见李强 亲自送达“判决书”</a></li>
 <li><a href="/yule/20230912/1932482.md">张钧甯搭飞机请乘客讲话小声“下机得知对方身份”尬喊：想挖洞钻进去</a></li>
-<li><a href="/baitai/20230912/1932662.md">习防刺客更多细节曝光 前中校分析李尚福下落</a></li>
 <li><a href="/sohnews/20230912/1932634.md">陈破空：快讯：国防部长李尚福果然出事！毛宁一句话证实。下一个目标是他？拜登会见了李强，蔡奇不准报道。王芳夫妇在俄高调举行记者会。首播：美东时间9月12日早8点30、即中港台9月12日晚8点30</a></li>
+<li><a href="/baitai/20230912/1932662.md">习防刺客更多细节曝光 前中校分析李尚福下落</a></li>
 <li><a href="/sohnews/20230912/1932443.md">中国外交部毛宁对周小平王芳访俄引乌克兰外交部谴责一事的回应！💢⚡️😂🤣</a></li>
 <li><a href="/comments/20230912/1932491.md">最可怕《推背图》现世！四位背弓人全姓李？中共新一轮军队大清洗登场！习近平为阻止此图应验，不惜全军覆灭？</a></li>
 <li><a href="/cnnews/20230912/1932328.md">港圈“冻龄富婆”近照，这张脸竟有61岁！？</a></li>
-<li><a href="/cnnews/20230912/1932507.md">中国房市突然巨震</a></li>
 <li><a href="/topimagenews/20230912/1932524.md">中国房地产巨头股价连日反弹“S猫跳”? 突发重磅！美正式对华为手机芯片启动调查紧？</a></li>
+<li><a href="/cnnews/20230912/1932507.md">中国房市突然巨震</a></li>
 <li><a href="/finance/20230912/1932592.md">中国恐走向全面金融危机</a></li>
 <li><a href="/worldnews/20230912/1932420.md">被问习近平与李强 拜登表现让主持人果断收场</a></li>
 <li><a href="/ccpdope/20230912/1932632.md">习近平两大动作令人费解 答案在这</a></li>
+<li><a href="/comments/20230912/1932575.md">防政变怕暗杀 习攥紧军权却埋下大患</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
 <li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
 
 </ul>
 </div>
