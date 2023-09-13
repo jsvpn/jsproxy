@@ -11,23 +11,23 @@
 <li><a href="/sohnews/20230912/1932634.md">陈破空：快讯：国防部长李尚福果然出事！毛宁一句话证实。下一个目标是他？拜登会见了李强，蔡奇不准报道。王芳夫妇在俄高调举行记者会。首播：美东时间9月12日早8点30、即中港台9月12日晚8点30</a></li>
 <li><a href="/sohnews/20230912/1932443.md">中国外交部毛宁对周小平王芳访俄引乌克兰外交部谴责一事的回应！💢⚡️😂🤣</a></li>
 <li><a href="/cnnews/20230913/1932848.md">户口本有这“4个字”，基本无缘公务员</a></li>
-<li><a href="/topimagenews/20230912/1932524.md">中国房地产巨头股价连日反弹“S猫跳”? 突发重磅！美正式对华为手机芯片启动调查紧？</a></li>
 <li><a href="/finance/20230912/1932592.md">中国恐走向全面金融危机</a></li>
 <li><a href="/ccpdope/20230912/1932632.md">习近平两大动作令人费解 答案在这</a></li>
-<li><a href="/sohnews/20230912/1932655.md">亡党有多远？习近平遭遇前所未有的四大危机，每个都无解……</a></li>
 <li><a href="/ccpdope/20230913/1932815.md">李强见拜登 中共官媒全面封杀</a></li>
+<li><a href="/sohnews/20230912/1932655.md">亡党有多远？习近平遭遇前所未有的四大危机，每个都无解……</a></li>
 <li><a href="/baitai/20230913/1932753.md">王沪宁再添新头衔 被指「世界上最危险的人」</a></li>
-<li><a href="/lifebaike/20230913/1932793.md">费尽心机传位 毛二代吃喝玩乐当大官</a></li>
 <li><a href="/comments/20230912/1932575.md">防政变怕暗杀 习攥紧军权却埋下大患</a></li>
-<li><a href="/cbnews/20230912/1932584.md">《好声音》试水温失败！知情人士透露：已调查完，等风声过就复播</a></li>
 <li><a href="/comments/20230913/1932863.md">董明珠婚宴私照流出：蹭不进的圈子 尴尬了</a></li>
+<li><a href="/lifebaike/20230913/1932793.md">费尽心机传位 毛二代吃喝玩乐当大官</a></li>
+<li><a href="/cbnews/20230912/1932584.md">《好声音》试水温失败！知情人士透露：已调查完，等风声过就复播</a></li>
+<li><a href="/comments/20230913/1932864.md">习退居二线？李强认输求和</a></li>
 <li><a href="/comments/20230913/1932820.md">文昭：事关中国未来的一件生死大事躲不过，2023年底前一定会到来</a></li>
 <li><a href="/comments/20230913/1932802.md">杨威：中共为何不敢公开G20宣言全文</a></li>
-<li><a href="/cbnews/20230912/1932525.md">党媒误用南宋诗宣传杭州亚运 挨批文化水准太低</a></li>
-<li><a href="/cbnews/20230912/1932715.md">10元、30道菜任选 摆拍完就被扔掉 合肥“盒饭姐”停业</a></li>
 <li><a href="/cnnews/20230913/1932825.md">北京的一份重磅文件，发出了什么信号</a></li>
-<li><a href="/sohnews/20230912/1932645.md">推背图示警，2024年习近平很凶险？习昼夜防暗算，拖累中国未来悲观？习保党不退，真命天子将现身？（2023.9.12）｜世界的十字路口 唐浩</a></li>
+<li><a href="/cbnews/20230912/1932715.md">10元、30道菜任选 摆拍完就被扔掉 合肥“盒饭姐”停业</a></li>
 <li><a href="/sohnews/20230913/1932767.md">“习近平没事儿吧？可能拒绝APEC  不去77国峰会 联大 ⋯”No.02（09/12/23）#习近平APEC</a></li>
+<li><a href="/health/20230913/1932824.md">最佳入睡时间，这个时间睡觉，10分钟抵2小时</a></li>
+<li><a href="/sohnews/20230912/1932645.md">推背图示警，2024年习近平很凶险？习昼夜防暗算，拖累中国未来悲观？习保党不退，真命天子将现身？（2023.9.12）｜世界的十字路口 唐浩</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230913/1932996.md" target="_blank">十字路口：推背图千年预警 习近平将遇凶险？</a></li>
 <li><a href="/comments/20230913/1932980.md" target="_blank">王毅被隔离写检查！故意让习近平在南非出丑？李佳琦又说错话！近一半真粉取关！王芳闯大祸：乌台联手</a></li>
 <li><a href="/comments/20230913/1932932.md" target="_blank">天亮时分：李尚福出事？外交部如是说；中共对台工作新思路？推出“两岸融合发展示范区”；美国国会启动拜登弹劾调查（政论天下第1108集 20230912）天亮时分</a></li>
 <li><a href="/comments/20230913/1932916.md" target="_blank">404文:抛开立场观点不谈，且看周小平写一句话能犯多少语病</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230912/1932722.md" target="_blank">时事大家谈：金正恩会普京 各取所需？</a></li>
 <li><a href="/comments/20230912/1932721.md" target="_blank">时事大家谈：美越变成战略伙伴 对中国有何影响？</a></li>
 <li><a href="/comments/20230912/1932706.md" target="_blank">济南中新国际城的业主再维权 警察大批到场</a></li>
-<li><a href="/comments/20230912/1932696.md" target="_blank">时事大家谈：美越变成战略伙伴 对中国有何影响？金正恩会普京 各取所需？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
 
 </ul>
 </div>
