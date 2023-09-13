@@ -27,7 +27,7 @@
 <li><a href="/topimagenews/20230913/1933104.md">中国最富裕5城市Q2首现招聘降薪 上海砍9％最明显</a></li>
 <li><a href="/ccpdope/20230913/1933136.md">习近平的九个决策错误源自哪里？</a></li>
 <li><a href="/ssgc/20230913/1932945.md">〖微博谈〗原来粉红也会抑郁</a></li>
-<li><a href="/cnnews/20230913/1933061.md">周恩来是怕林彪不跑 李作鹏十年才后明白</a></li>
+<li><a href="/comments/20230913/1933150.md">金砖峰会让习近平难堪 中国外长王毅传被勒令写检讨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230914/1933247.md" target="_blank">美国思想领袖：【精彩片段】红朝再现凶兆？中共官媒齐唱亡党曲 竟然没有一家官媒看出喻意 &#8211; #新闻大家谈</a></li>
+<li><a href="/cbnews/20230914/1933246.md" target="_blank">美国思想领袖：【精彩片段】中共防长李尚福失踪两周 北京再爆秘事？- #新闻大家谈</a></li>
 <li><a href="/cbnews/20230913/1933048.md" target="_blank">南昌幼儿园开学5天就倒闭！1原因让家长超傻眼：刚缴了1万7学费</a></li>
 <li><a href="/cbnews/20230913/1933030.md" target="_blank">离谱至极！山东男住院8天突病逝…遗体“被消失”家属怒：毁尸灭迹&#8230;</a></li>
 <li><a href="/cbnews/20230913/1933022.md" target="_blank">官宣：268家旅行社中国团客赴俄罗斯免签</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230912/1932486.md" target="_blank">〖兲朝浮世绘〗官媒齐唱亡国曲：西湖歌舞几时休？</a></li>
 <li><a href="/cbnews/20230912/1932457.md" target="_blank">俞敏洪：最多时一年吃300片安眠药</a></li>
 <li><a href="/comments/20230912/1932445.md" target="_blank">发火有罪吗？ 【方伟时间-20230911】</a></li>
-<li><a href="/cbnews/20230912/1932432.md" target="_blank">网：这四个畜生！称乌是纳粹，北约炸剧院！周小平夫妇接受俄专访</a></li>
-<li><a href="/comments/20230912/1932359.md" target="_blank">诚：李尚福很可能已出事；习担心生命安全，越是身边人越疑心；中共军队有可能譁变？｜新闻烽火台 09/11</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230914/1933245.md" target="_blank">茅台前董事长袁仁国猝死 更多细节曝光</a></li>
 <li><a href="/comments/20230914/1933232.md" target="_blank">【独家重磅】李燕铭：中共防长李尚福异常消失两周 是否出事即将揭盅 李尚福是曾庆红江西帮要员及江绵恒心腹马仔 李尚福前军级副手涉间谍案被查 与江泽民江绵恒父子隐秘关联 习近平决战江曾（123） 习近平连任后大清洗（80） 中南海政变与反政变（126） 火箭军窝案深度内幕（18） 习近平连任与中共末日（168） 习强化军权内防政变对外备战（55）</a></li>
 <li><a href="/comments/20230913/1933202.md" target="_blank">时事大家谈：中国扩大苹果手机禁令，北京为何对多年老友下重手？</a></li>
 <li><a href="/comments/20230913/1933201.md" target="_blank">时事大家谈：中共在东盟又开新“党校”，输出专制与腐败?</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230913/1932842.md" target="_blank">陈奎德 :“后9.11时代”和中国面临的选择</a></li>
 <li><a href="/comments/20230913/1932841.md" target="_blank">陈奎德 ：人类文明的警钟</a></li>
 <li><a href="/comments/20230913/1932840.md" target="_blank">苏暁康：“九一一”抒怀</a></li>
-<li><a href="/comments/20230913/1932839.md" target="_blank">杜政：习近平重整军权防政变地方“缴枪”却延误救灾</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 <li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
 
 </ul>
 </div>
