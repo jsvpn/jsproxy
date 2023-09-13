@@ -16,17 +16,17 @@
 <li><a href="/sohnews/20230913/1933037.md">习近平退居二线，王毅出事李肇星出山，习马上整肃张又侠。《老灯开讲第382期》</a></li>
 <li><a href="/lifebaike/20230913/1932793.md">费尽心机传位 毛二代吃喝玩乐当大官</a></li>
 <li><a href="/health/20230913/1932824.md">最佳入睡时间，这个时间睡觉，10分钟抵2小时</a></li>
-<li><a href="/baitai/20230913/1933053.md">金砖峰会办事不力惹恼习近平 王毅出事了？</a></li>
 <li><a href="/topimagenews/20230913/1932909.md">四市齐杀！一个极其惨烈的时刻即将到来</a></li>
+<li><a href="/baitai/20230913/1933053.md">金砖峰会办事不力惹恼习近平 王毅出事了？</a></li>
 <li><a href="/sohnews/20230913/1933084.md">文睿：外交大乱，82岁，李肇星，重新出来给一尊工作，全都乱套了</a></li>
 <li><a href="/topimagenews/20230913/1933039.md">中共军队中竟出现这种现象！军队微信号承认了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230913/1932981.md">你准备好了吗？解体苏联的重要推手向中共国袭来；中共封锁iPhone行动达到高潮？</a></li>
 <li><a href="/comments/20230913/1932820.md">文昭：事关中国未来的一件生死大事躲不过，2023年底前一定会到来</a></li>
 <li><a href="/comments/20230913/1932802.md">杨威：中共为何不敢公开G20宣言全文</a></li>
-<li><a href="/sohnews/20230913/1932767.md">“习近平没事儿吧？可能拒绝APEC  不去77国峰会 联大 ⋯”No.02（09/12/23）#习近平APEC</a></li>
 <li><a href="/topimagenews/20230913/1932834.md">间谍疑云挥之不去，王沪宁新官上任受瞩目</a></li>
 <li><a href="/topimagenews/20230913/1933104.md">中国最富裕5城市Q2首现招聘降薪 上海砍9％最明显</a></li>
 <li><a href="/ssgc/20230913/1932945.md">〖微博谈〗原来粉红也会抑郁</a></li>
+<li><a href="/ccpdope/20230913/1933136.md">习近平的九个决策错误源自哪里？</a></li>
 <li><a href="/ssgc/20230913/1932784.md">散布假信息 美议员要求中国驻美大使公开道歉</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230914/1933232.md" target="_blank">【独家重磅】李燕铭：中共防长李尚福异常消失两周 是否出事即将揭盅 李尚福是曾庆红江西帮要员及江绵恒心腹马仔 李尚福前军级副手涉间谍案被查 与江泽民江绵恒父子隐秘关联 习近平决战江曾（123） 习近平连任后大清洗（80） 中南海政变与反政变（126） 火箭军窝案深度内幕（18） 习近平连任与中共末日（168） 习强化军权内防政变对外备战（55）</a></li>
 <li><a href="/comments/20230913/1933202.md" target="_blank">时事大家谈：中国扩大苹果手机禁令，北京为何对多年老友下重手？</a></li>
 <li><a href="/comments/20230913/1933201.md" target="_blank">时事大家谈：中共在东盟又开新“党校”，输出专制与腐败?</a></li>
 <li><a href="/comments/20230913/1933196.md" target="_blank">【梁京评论】再议中国模式与庞氏骗局（中）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230913/1932841.md" target="_blank">陈奎德 ：人类文明的警钟</a></li>
 <li><a href="/comments/20230913/1932840.md" target="_blank">苏暁康：“九一一”抒怀</a></li>
 <li><a href="/comments/20230913/1932839.md" target="_blank">杜政：习近平重整军权防政变地方“缴枪”却延误救灾</a></li>
-<li><a href="/comments/20230913/1932838.md" target="_blank">中文互联网，为何走向慢性死亡？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
