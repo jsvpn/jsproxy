@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/sohnews/20230912/1932616.md">人在家中坐，祸从天上降。中共两弹元勋姚桐斌，吃著饭突然被冲进来的人戕害。官方至今拒彻查元凶，背后黑幕直通中南海。</a></li>
-<li><a href="/topimagenews/20230912/1932590.md">图文并茂！中共军方科普“翻墙” ！“自己动手，丰衣足食”【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230912/1932662.md">习防刺客更多细节曝光 前中校分析李尚福下落</a></li>
 <li><a href="/cnnews/20230913/1932848.md">户口本有这“4个字”，基本无缘公务员</a></li>
 <li><a href="/sohnews/20230912/1932634.md">陈破空：快讯：国防部长李尚福果然出事！毛宁一句话证实。下一个目标是他？拜登会见了李强，蔡奇不准报道。王芳夫妇在俄高调举行记者会。首播：美东时间9月12日早8点30、即中港台9月12日晚8点30</a></li>
-<li><a href="/finance/20230912/1932592.md">中国恐走向全面金融危机</a></li>
-<li><a href="/comments/20230913/1932864.md">习退居二线？李强认输求和</a></li>
 <li><a href="/ccpdope/20230912/1932632.md">习近平两大动作令人费解 答案在这</a></li>
+<li><a href="/comments/20230913/1932864.md">习退居二线？李强认输求和</a></li>
 <li><a href="/comments/20230913/1932863.md">董明珠婚宴私照流出：蹭不进的圈子 尴尬了</a></li>
 <li><a href="/ccpdope/20230913/1932815.md">李强见拜登 中共官媒全面封杀</a></li>
 <li><a href="/sohnews/20230912/1932655.md">亡党有多远？习近平遭遇前所未有的四大危机，每个都无解……</a></li>
 <li><a href="/baitai/20230913/1932753.md">王沪宁再添新头衔 被指「世界上最危险的人」</a></li>
 <li><a href="/cnnews/20230913/1932825.md">北京的一份重磅文件，发出了什么信号</a></li>
+<li><a href="/topimagenews/20230913/1932954.md">日媒最新报道：李尚福失踪与这事有关</a></li>
 <li><a href="/lifebaike/20230913/1932793.md">费尽心机传位 毛二代吃喝玩乐当大官</a></li>
 <li><a href="/health/20230913/1932824.md">最佳入睡时间，这个时间睡觉，10分钟抵2小时</a></li>
 <li><a href="/comments/20230913/1932820.md">文昭：事关中国未来的一件生死大事躲不过，2023年底前一定会到来</a></li>
-<li><a href="/topimagenews/20230913/1932954.md">日媒最新报道：李尚福失踪与这事有关</a></li>
 <li><a href="/topimagenews/20230913/1932909.md">四市齐杀！一个极其惨烈的时刻即将到来</a></li>
 <li><a href="/comments/20230913/1932802.md">杨威：中共为何不敢公开G20宣言全文</a></li>
 <li><a href="/cbnews/20230912/1932715.md">10元、30道菜任选 摆拍完就被扔掉 合肥“盒饭姐”停业</a></li>
 <li><a href="/sohnews/20230913/1932767.md">“习近平没事儿吧？可能拒绝APEC  不去77国峰会 联大 ⋯”No.02（09/12/23）#习近平APEC</a></li>
 <li><a href="/sohnews/20230912/1932645.md">推背图示警，2024年习近平很凶险？习昼夜防暗算，拖累中国未来悲观？习保党不退，真命天子将现身？（2023.9.12）｜世界的十字路口 唐浩</a></li>
 <li><a href="/topimagenews/20230913/1932834.md">间谍疑云挥之不去，王沪宁新官上任受瞩目</a></li>
+<li><a href="/ssgc/20230912/1932698.md">中共显摆称造出5G芯片，引发美国强硬回应</a></li>
+<li><a href="/ssgc/20230913/1932784.md">散布假信息 美议员要求中国驻美大使公开道歉</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
 <li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
 
 </ul>
 </div>
