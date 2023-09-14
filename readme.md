@@ -7,13 +7,13 @@
 
 <li><a href="/topimagenews/20230914/1933256.md">减薪40% ！中国最富裕城市的“中国梦”正在破灭</a></li>
 <li><a href="/comments/20230914/1933245.md">茅台前董事长袁仁国猝死 更多细节曝光</a></li>
-<li><a href="/ccpdope/20230913/1933136.md">习近平的九个决策错误源自哪里？</a></li>
 <li><a href="/ccpdope/20230914/1933225.md">传闻回锅外长王毅也出事了</a></li>
+<li><a href="/ccpdope/20230913/1933136.md">习近平的九个决策错误源自哪里？</a></li>
 <li><a href="/cbnews/20230914/1933410.md">〖兲朝浮世绘〗网传中共总装备部出事，一天抓走七个将军</a></li>
 <li><a href="/sohnews/20230914/1933261.md">习近平4大危机罩顶，李尚福祸起儿子坑爹？欧盟调查中国电动车；日韩内阁大换血，强硬派全面上台！王毅也出事了？</a></li>
+<li><a href="/topimagenews/20230914/1933443.md">重磅人物身份暴露？陆媒急删重大任命【阿波罗网报道】</a></li>
 <li><a href="/comments/20230913/1933150.md">金砖峰会让习近平难堪 中国外长王毅传被勒令写检讨</a></li>
 <li><a href="/cnnews/20230914/1933267.md">周恩来与将军妻子有染 高层个个玩女人 2个人除外</a></li>
-<li><a href="/topimagenews/20230914/1933443.md">重磅人物身份暴露？陆媒急删重大任命【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230913/1933163.md">河南办大学生精液质量比拼 网民评论亮了</a></li>
 <li><a href="/baitai/20230914/1933298.md">王毅李尚福传最新消息 习被千年预警吓坏？</a></li>
 <li><a href="/baitai/20230914/1933231.md">提防普京？金正恩随从准备座椅画面曝光 与习近平有一拼</a></li>
@@ -21,12 +21,12 @@
 <li><a href="/sohnews/20230914/1933450.md">李强出事：其马仔上海国资委主任白廷辉被双规，军工大佬以及装备系统将领大批被抓，习近平振兴东北的两大损招。《老灯开讲第383期》</a></li>
 <li><a href="/cbnews/20230914/1933271.md">江峰：那英被查，目标直指中国文艺圈真正老大</a></li>
 <li><a href="/cbnews/20230914/1933302.md">网传：华西医院女医生捅了男同事后自杀…</a></li>
-<li><a href="/sohnews/20230913/1933115.md">潜艇爆炸是真的，中共犯台梦碎？摩根大通CEO、拜登认证中共无力攻台？台湾公布国防报告书，战略藏神秘大招？美国扶植印度越南，三招放倒中共？（2023.9.13）｜世界的十字路口 唐浩</a></li>
 <li><a href="/sohnews/20230914/1933345.md">83岁李肇星复出，王毅惹事将被废？李尚福转污点证人？贴身监控张又侠？一天抓7个将军，张又侠大秘落马；台三军一级战备，日换鹰派防卫相【新闻看点 李沐阳9.12】</a></li>
 <li><a href="/topimagenews/20230914/1933255.md">结束访问，金正恩对俄罗斯明确表态</a></li>
 <li><a href="/sohnews/20230914/1933292.md">陈破空：惊传：总装备部遭一网打尽？七将领被抓，包括三名副部长，张又侠大秘。普京接待金正恩，乌克兰送上见面礼：炸毁俄国两艘昂贵潜艇。直播与互动：美东时间9月13日晚8点、即中港台9月14早8点</a></li>
 <li><a href="/topimagenews/20230914/1933313.md">真的有外星人！墨西哥国会公开2具外星人尸体 身形全曝光</a></li>
 <li><a href="/sohnews/20230913/1933185.md">🔥反常！习政敌鲜血染红的时代被捧上天；习退居二线？李强认输求和；被乌“便宜货”耍得团团转 俄惨失数百导弹、无人机【阿波罗网WS】</a></li>
+<li><a href="/topimagenews/20230914/1933329.md">美国的最后一张“抗中共”拼图到位</a></li>
 <li><a href="/comments/20230914/1933301.md">文昭：习主席身边的人「无一生还」？又一副国级失踪；谣言和事实，不是非黑即白</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 <li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
 <li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
 
 </ul>
 </div>
