@@ -13,20 +13,20 @@
 <li><a href="/topimagenews/20230914/1933443.md">重磅人物身份暴露？陆媒急删重大任命【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230914/1933267.md">周恩来与将军妻子有染 高层个个玩女人 2个人除外</a></li>
 <li><a href="/baitai/20230914/1933298.md">王毅李尚福传最新消息 习被千年预警吓坏？</a></li>
-<li><a href="/baitai/20230913/1933163.md">河南办大学生精液质量比拼 网民评论亮了</a></li>
 <li><a href="/sohnews/20230914/1933450.md">李强出事：其马仔上海国资委主任白廷辉被双规，军工大佬以及装备系统将领大批被抓，习近平振兴东北的两大损招。《老灯开讲第383期》</a></li>
 <li><a href="/baitai/20230914/1933231.md">提防普京？金正恩随从准备座椅画面曝光 与习近平有一拼</a></li>
-<li><a href="/topimagenews/20230914/1933412.md">普京见金正恩时不断抖腿，诡异动作再惹质疑</a></li>
 <li><a href="/cbnews/20230914/1933271.md">江峰：那英被查，目标直指中国文艺圈真正老大</a></li>
+<li><a href="/topimagenews/20230914/1933412.md">普京见金正恩时不断抖腿，诡异动作再惹质疑</a></li>
 <li><a href="/cbnews/20230914/1933302.md">网传：华西医院女医生捅了男同事后自杀…</a></li>
 <li><a href="/sohnews/20230914/1933345.md">83岁李肇星复出，王毅惹事将被废？李尚福转污点证人？贴身监控张又侠？一天抓7个将军，张又侠大秘落马；台三军一级战备，日换鹰派防卫相【新闻看点 李沐阳9.12】</a></li>
 <li><a href="/topimagenews/20230914/1933255.md">结束访问，金正恩对俄罗斯明确表态</a></li>
 <li><a href="/sohnews/20230914/1933452.md">李强被官媒强制“销声”！拜登给说漏了；习内阁成高危职业！战略支援部队高层，被怀疑与火箭军联手威胁习；习回国先到新疆，王小洪“护驾”，谜底揭晓；当俄国人面，金正恩随扈仔细检查座椅｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/topimagenews/20230914/1933526.md">评中共歼-20战机 美将领不客气了</a></li>
 <li><a href="/sohnews/20230914/1933292.md">陈破空：惊传：总装备部遭一网打尽？七将领被抓，包括三名副部长，张又侠大秘。普京接待金正恩，乌克兰送上见面礼：炸毁俄国两艘昂贵潜艇。直播与互动：美东时间9月13日晚8点、即中港台9月14早8点</a></li>
 <li><a href="/topimagenews/20230914/1933329.md">美国的最后一张“抗中共”拼图到位</a></li>
 <li><a href="/topimagenews/20230914/1933313.md">真的有外星人！墨西哥国会公开2具外星人尸体 身形全曝光</a></li>
 <li><a href="/sohnews/20230913/1933185.md">🔥反常！习政敌鲜血染红的时代被捧上天；习退居二线？李强认输求和；被乌“便宜货”耍得团团转 俄惨失数百导弹、无人机【阿波罗网WS】</a></li>
-<li><a href="/topimagenews/20230914/1933526.md">评中共歼-20战机 美将领不客气了</a></li>
+<li><a href="/comments/20230914/1933301.md">文昭：习主席身边的人「无一生还」？又一副国级失踪；谣言和事实，不是非黑即白</a></li>
 <li><a href="/topimagenews/20230914/1933385.md">习近平画饼充饥 中南海脚步凌乱频遭打脸【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230914/1933582.md" target="_blank">上海13岁国中女“对全班同学下毒” 23人体育课后拿水就喝中招</a></li>
 <li><a href="/topimagenews/20230914/1933562.md" target="_blank">抢钱喽！陆房市低迷土地卖不动 地方财政困难靠罚款补缺额</a></li>
 <li><a href="/topimagenews/20230914/1933561.md" target="_blank">华日：iPhone 15未能在中国引发轰动 市场前景面临挑战</a></li>
 <li><a href="/topimagenews/20230914/1933526.md" target="_blank">评中共歼-20战机 美将领不客气了</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230913/1932981.md" target="_blank">你准备好了吗？解体苏联的重要推手向中共国袭来；中共封锁iPhone行动达到高潮？</a></li>
 <li><a href="/topimagenews/20230913/1932954.md" target="_blank">日媒最新报道：李尚福失踪与这事有关</a></li>
 <li><a href="/topimagenews/20230913/1932909.md" target="_blank">四市齐杀！一个极其惨烈的时刻即将到来</a></li>
-<li><a href="/topimagenews/20230913/1932893.md" target="_blank">被乌“便宜货”耍得团团转 俄惨失数百导弹、无人机</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
 <li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
 
 </ul>
 </div>
