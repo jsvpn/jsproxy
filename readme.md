@@ -12,17 +12,17 @@
 <li><a href="/sohnews/20230913/1933084.md">文睿：外交大乱，82岁，李肇星，重新出来给一尊工作，全都乱套了</a></li>
 <li><a href="/topimagenews/20230913/1933039.md">中共军队中竟出现这种现象！军队微信号承认了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230914/1933256.md">减薪40% ！中国最富裕城市的“中国梦”正在破灭</a></li>
-<li><a href="/topimagenews/20230913/1932981.md">你准备好了吗？解体苏联的重要推手向中共国袭来；中共封锁iPhone行动达到高潮？</a></li>
 <li><a href="/comments/20230914/1933245.md">茅台前董事长袁仁国猝死 更多细节曝光</a></li>
+<li><a href="/topimagenews/20230913/1932981.md">你准备好了吗？解体苏联的重要推手向中共国袭来；中共封锁iPhone行动达到高潮？</a></li>
 <li><a href="/ccpdope/20230914/1933225.md">传闻回锅外长王毅也出事了</a></li>
 <li><a href="/topimagenews/20230913/1933104.md">中国最富裕5城市Q2首现招聘降薪 上海砍9％最明显</a></li>
 <li><a href="/ccpdope/20230913/1933136.md">习近平的九个决策错误源自哪里？</a></li>
-<li><a href="/comments/20230913/1933150.md">金砖峰会让习近平难堪 中国外长王毅传被勒令写检讨</a></li>
 <li><a href="/sohnews/20230914/1933261.md">习近平4大危机罩顶，李尚福祸起儿子坑爹？欧盟调查中国电动车；日韩内阁大换血，强硬派全面上台！王毅也出事了？</a></li>
+<li><a href="/comments/20230913/1933150.md">金砖峰会让习近平难堪 中国外长王毅传被勒令写检讨</a></li>
 <li><a href="/cnnews/20230914/1933267.md">周恩来与将军妻子有染 高层个个玩女人 2个人除外</a></li>
 <li><a href="/baitai/20230913/1933163.md">河南办大学生精液质量比拼 网民评论亮了</a></li>
-<li><a href="/cnnews/20230913/1933061.md">周恩来是怕林彪不跑 李作鹏十年才后明白</a></li>
 <li><a href="/headline/20230913/1933057.md">中国称政府部委没有禁止使用苹果手机</a></li>
+<li><a href="/cnnews/20230913/1933061.md">周恩来是怕林彪不跑 李作鹏十年才后明白</a></li>
 <li><a href="/sohnews/20230913/1933115.md">潜艇爆炸是真的，中共犯台梦碎？摩根大通CEO、拜登认证中共无力攻台？台湾公布国防报告书，战略藏神秘大招？美国扶植印度越南，三招放倒中共？（2023.9.13）｜世界的十字路口 唐浩</a></li>
 <li><a href="/baitai/20230914/1933231.md">提防普京？金正恩随从准备座椅画面曝光 与习近平有一拼</a></li>
 <li><a href="/sohnews/20230913/1933096.md">陈破空：南非爆料：习近平到访炫富，大搞排场，随从500人，包下两家酒店，从北京运去全套家俱，重建总统套房！金正恩前往俄国，搭乘豪华极乐专列。首播：美东时间9月13日早8点、即中港台9月13日晚8点</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230914/1933414.md" target="_blank">因发布镇书记喝酒身亡5个月后还在“主持工作”，我被跨省“传唤”</a></li>
 <li><a href="/comments/20230914/1933401.md" target="_blank">福建先和台湾“统一”？占领离岛会是武统第一步？美中渐行渐远，印度会取代中国吗？｜唐靖远 Jason 方菲 David ｜围炉夜话 09/13</a></li>
 <li><a href="/comments/20230914/1933389.md" target="_blank">那个NG：排海之后，日本旅游崩了吗？</a></li>
 <li><a href="/comments/20230914/1933388.md" target="_blank">敏敏郡主：不瞎举报，不上纲上线，就是给教师最好的礼物</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230914/1933232.md" target="_blank">【独家重磅】李燕铭：中共防长李尚福异常消失两周 是否出事即将揭盅 李尚福是曾庆红江西帮要员及江绵恒心腹马仔 李尚福前军级副手涉间谍案被查 与江泽民江绵恒父子隐秘关联 习近平决战江曾（123） 习近平连任后大清洗（80） 中南海政变与反政变（126） 火箭军窝案深度内幕（18） 习近平连任与中共末日（168） 习强化军权内防政变对外备战（55）</a></li>
 <li><a href="/comments/20230913/1933202.md" target="_blank">时事大家谈：中国扩大苹果手机禁令，北京为何对多年老友下重手？</a></li>
 <li><a href="/comments/20230913/1933201.md" target="_blank">时事大家谈：中共在东盟又开新“党校”，输出专制与腐败?</a></li>
-<li><a href="/comments/20230913/1933196.md" target="_blank">【梁京评论】再议中国模式与庞氏骗局（中）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
 <li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
 
 </ul>
 </div>
