@@ -5,11 +5,9 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20230914/1933261.md">习近平4大危机罩顶，李尚福祸起儿子坑爹？欧盟调查中国电动车；日韩内阁大换血，强硬派全面上台！王毅也出事了？</a></li>
 <li><a href="/cbnews/20230914/1933410.md">〖兲朝浮世绘〗网传中共总装备部出事，一天抓走七个将军</a></li>
 <li><a href="/baitai/20230914/1933298.md">王毅李尚福传最新消息 习被千年预警吓坏？</a></li>
 <li><a href="/topimagenews/20230914/1933443.md">重磅人物身份暴露？陆媒急删重大任命【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20230914/1933267.md">周恩来与将军妻子有染 高层个个玩女人 2个人除外</a></li>
 <li><a href="/cbnews/20230914/1933271.md">江峰：那英被查，目标直指中国文艺圈真正老大</a></li>
 <li><a href="/sohnews/20230914/1933450.md">李强出事：其马仔上海国资委主任白廷辉被双规，军工大佬以及装备系统将领大批被抓，习近平振兴东北的两大损招。《老灯开讲第383期》</a></li>
 <li><a href="/cbnews/20230914/1933302.md">网传：华西医院女医生捅了男同事后自杀…</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/comments/20230914/1933301.md">文昭：习主席身边的人「无一生还」？又一副国级失踪；谣言和事实，不是非黑即白</a></li>
 <li><a href="/topimagenews/20230914/1933385.md">习近平画饼充饥 中南海脚步凌乱频遭打脸【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230914/1933541.md">陈破空：王毅出事！闭门写检讨，访美遭取消。杨振宁娇妻是日本间谍？党报巧用亡国诗比喻杭州亚运会，紧急删除！直播与互动：美东时间9月14日早8点30、即中港台9月14日晚8点30</a></li>
+<li><a href="/baitai/20230914/1933539.md">王毅「出事」？还是北京的手腕？</a></li>
+<li><a href="/yule/20230914/1933449.md">田朴珺素颜大变,脸僵唇厚 嫁王石已融入名流圈</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230915/1933848.md" target="_blank">普京见金正恩绝望了? 习默不作声五味杂陈【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230914/1933684.md" target="_blank">路透：人行要求中银行外汇暂缓平仓 缓和人民币贬值压力</a></li>
 <li><a href="/topimagenews/20230914/1933683.md" target="_blank">白宫致函主流媒体促“严审弹劾拜登案报导” 引发反弹</a></li>
 <li><a href="/topimagenews/20230914/1933682.md" target="_blank">3大车厂将罢工 拜登的政治挑战 恐冲击全美国经济</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20230914/1933255.md" target="_blank">结束访问，金正恩对俄罗斯明确表态</a></li>
 <li><a href="/topimagenews/20230914/1933210.md" target="_blank">梵高600万欧元名画失窃3年半 装IKEA购物袋归还 黑帮收购内幕曝光</a></li>
 <li><a href="/topimagenews/20230913/1933104.md" target="_blank">中国最富裕5城市Q2首现招聘降薪 上海砍9％最明显</a></li>
-<li><a href="/topimagenews/20230913/1933047.md" target="_blank">没在怕的！才传遭乱入、跟监、激光光照射 另一艘加舰12日驶入黄海</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230915/1933822.md" target="_blank">传白厅官员“威胁”停助反中共的港人组织 在英港人忧至寒蝉效应</a></li>
+<li><a href="/comments/20230915/1933821.md" target="_blank">【撤资潮】NAB 18个月内关闭香港办事处 转至上海新加坡及日本</a></li>
 <li><a href="/comments/20230915/1933766.md" target="_blank">李燕铭：习近平清洗行动逼进江泽民家族核心地带 江绵恒心腹陈竺亲信下属焦红被异常免职国家药监局局长 曾被政治局常委会要求做检查 焦红老家山东省药监局原副局长史国生被查 药监系统官员及药企高管密集被查 上海首当其冲 习近平决战江曾（124） 习近平连任后大清洗（81） 江绵恒暗黑帝国瓦解内幕（57） 江泽民死江家族被清洗（33） 山东帮覆灭记（12） 江泽民老巢上海被清洗（43）</a></li>
 <li><a href="/comments/20230915/1933712.md" target="_blank">时事大家谈：民生凋敝垂危处 “西湖歌舞几时休”？ 《喀秋莎》事件继续发酵 “战地玫瑰”还是道德沦丧？</a></li>
 <li><a href="/comments/20230915/1933699.md" target="_blank">【杜耀明评论】特区领导班子一夜露底 违反习总指示罪莫大焉</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230914/1933304.md" target="_blank">陈奎德：美国言论自由是神话吗？</a></li>
 <li><a href="/comments/20230914/1933301.md" target="_blank">文昭：习主席身边的人「无一生还」？又一副国级失踪；谣言和事实，不是非黑即白</a></li>
 <li><a href="/comments/20230914/1933295.md" target="_blank">立此存照：《习近平著作选读》线装本出版发行</a></li>
-<li><a href="/comments/20230914/1933294.md" target="_blank">可以不纪念，但别为恐怖主义站台</a></li>
-<li><a href="/comments/20230914/1933287.md" target="_blank">中共第一个向塔利班阿富汗任命新大使</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
 <li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
 <li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 
 </ul>
 </div>
