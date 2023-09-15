@@ -16,8 +16,8 @@
 <li><a href="/comments/20230915/1934062.md">突发！金正恩携小厮高调辱华！王毅噩梦刚刚到来；李佳琦被党怀疑境外势力？民间感谢他</a></li>
 <li><a href="/topimagenews/20230915/1933872.md">热搜：小伙批评中国 大妈锁喉围观民众叫好</a></li>
 <li><a href="/ssgc/20230915/1933829.md">〖微博谈〗央行杀气腾腾的表态暴露了底线</a></li>
-<li><a href="/baitai/20230915/1934104.md">「身带金剑」之人出现？习抓刺客 王小洪副手刘钊被免</a></li>
 <li><a href="/cbnews/20230915/1934123.md">〖兲朝浮世绘〗中共确定这不是在讽刺习总是大撒币？</a></li>
+<li><a href="/baitai/20230915/1934104.md">「身带金剑」之人出现？习抓刺客 王小洪副手刘钊被免</a></li>
 <li><a href="/topimagenews/20230915/1934150.md">惊人！江苏200多家国企掀退台大潮 不再为政府举债融资；中共禁苹果手机内情 能全面禁止？</a></li>
 <li><a href="/topimagenews/20230915/1934055.md">倒计时，中国经济存亡之战；杀气腾腾的中共，意外暴露了“最怕”；别再砸钱救房企</a></li>
 <li><a href="/topimagenews/20230915/1934200.md">果粉注意！中国买的iPhone15这功能不能用</a></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230916/1934344.md" target="_blank">川普：纯电动车对联合汽车工会和美国消费者都是灾难</a></li>
 <li><a href="/topimagenews/20230916/1934314.md" target="_blank">“沽空大师”钱隆斯：中国增长模式倘失灵 恐酿全球风险</a></li>
 <li><a href="/topimagenews/20230916/1934297.md" target="_blank">中美相争！印度得利 连这间华企都忍辱赴印抢市场…</a></li>
 <li><a href="/topimagenews/20230916/1934274.md" target="_blank">嘴上吐槽身体诚实！陆iPhone 15 Pro京东预约逼近300万</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230914/1933684.md" target="_blank">路透：人行要求中银行外汇暂缓平仓 缓和人民币贬值压力</a></li>
 <li><a href="/topimagenews/20230914/1933683.md" target="_blank">白宫致函主流媒体促“严审弹劾拜登案报导” 引发反弹</a></li>
 <li><a href="/topimagenews/20230914/1933682.md" target="_blank">3大车厂将罢工 拜登的政治挑战 恐冲击全美国经济</a></li>
-<li><a href="/topimagenews/20230914/1933681.md" target="_blank">裸睡被捉奸在床 山西2司法所长偷情被元配举报</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230916/1934342.md" target="_blank">男子火车上被女子锁喉 称其伤害民族感情</a></li>
 <li><a href="/comments/20230916/1934332.md" target="_blank">李燕铭：中共防长李尚福被查内幕曝光 李尚福供出装备部八名将领 军委副主席张又侠前首席大秘被带走调查 中共官员暗示还有进一步的清洗 张又侠高危 中南海政变与反政变（127） 习近平决战江曾（125） 习近平连任后大清洗（82） 习强化军权内防政变对外备战（56） 火箭军窝案深度内幕（19） 习近平连任与中共末日（169）</a></li>
 <li><a href="/comments/20230916/1934330.md" target="_blank">习近平怕秘书不忠？蔡奇传达指令 强调政治站位</a></li>
 <li><a href="/comments/20230916/1934329.md" target="_blank">习近平清洗军队敏感时刻 火箭军被批曝露“短板”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230915/1933990.md" target="_blank">金观涛：明明知道大倒退将会发生 却不能阻止它</a></li>
 <li><a href="/comments/20230915/1933978.md" target="_blank">从云端跌进猪圈 一号战狼姚登山</a></li>
 <li><a href="/comments/20230915/1933969.md" target="_blank">天亮时分：真出事儿了？！李尚福突然取消外访，官方又说健康原因；华尔街参与台海战争的兵棋推演；欧洲也要跟中共打贸易战（政论天下第1110集 20230914）天亮时分</a></li>
-<li><a href="/comments/20230915/1933952.md" target="_blank">左挎老毛 右挽江青 一号战狼沉浮录</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
 
 </ul>
 </div>
