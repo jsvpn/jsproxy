@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20230914/1933412.md">普京见金正恩时不断抖腿，诡异动作再惹质疑</a></li>
 <li><a href="/sohnews/20230914/1933452.md">李强被官媒强制“销声”！拜登给说漏了；习内阁成高危职业！战略支援部队高层，被怀疑与火箭军联手威胁习；习回国先到新疆，王小洪“护驾”，谜底揭晓；当俄国人面，金正恩随扈仔细检查座椅｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20230914/1933498.md">【秦鹏观察】习近平二大将出事儿 中国房地产彻底凉了</a></li>
-<li><a href="/cnnews/20230914/1933522.md">拿中共军级干部当猴耍？政治运动出尽洋相【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20230914/1933534.md">【未普评论】曾庆红们看到了甚么？</a></li>
-<li><a href="/topimagenews/20230914/1933582.md">上海13岁国中女“对全班同学下毒” 23人体育课后拿水就喝中招</a></li>
-<li><a href="/cbnews/20230915/1933813.md">〖兲朝浮世绘〗这样的正国级离休干部中共官员们是不屑于当的</a></li>
-<li><a href="/comments/20230914/1933678.md">李克强大笑现身敦煌，几个意思？郭台铭涉共言论遭党还击！习近平无缘G20？粉红恶意信党，石正丽变女院士？</a></li>
+<li><a href="/cnnews/20230914/1933522.md">拿中共军级干部当猴耍？政治运动出尽洋相【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230915/1933873.md">央行拔网线了，人民币大跌才是刚开始</a></li>
+<li><a href="/cbnews/20230915/1933813.md">〖兲朝浮世绘〗这样的正国级离休干部中共官员们是不屑于当的</a></li>
+<li><a href="/topimagenews/20230914/1933582.md">上海13岁国中女“对全班同学下毒” 23人体育课后拿水就喝中招</a></li>
+<li><a href="/comments/20230914/1933678.md">李克强大笑现身敦煌，几个意思？郭台铭涉共言论遭党还击！习近平无缘G20？粉红恶意信党，石正丽变女院士？</a></li>
 <li><a href="/topimagenews/20230914/1933480.md">G20可疑中共包包监视各国元首? 中印对峙12小时</a></li>
 <li><a href="/sohnews/20230914/1933541.md">陈破空：王毅出事！闭门写检讨，访美遭取消。杨振宁娇妻是日本间谍？党报巧用亡国诗比喻杭州亚运会，紧急删除！直播与互动：美东时间9月14日早8点30、即中港台9月14日晚8点30</a></li>
 <li><a href="/topimagenews/20230914/1933385.md">习近平画饼充饥 中南海脚步凌乱频遭打脸【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230914/1933539.md">王毅「出事」？还是北京的手腕？</a></li>
 <li><a href="/yule/20230914/1933449.md">田朴珺素颜大变,脸僵唇厚 嫁王石已融入名流圈</a></li>
 <li><a href="/ssgc/20230914/1933399.md">〖微博谈〗央行对大量购买美元的企业加强审查</a></li>
-<li><a href="/cnnews/hknews/20230914/1933413.md">郭台铭副手竟是明星婆婆，她一现身网友全傻了</a></li>
+<li><a href="/topimagenews/20230915/1933848.md">普京见金正恩绝望了? 习默不作声五味杂陈【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230914/1933589.md">王毅也消失了，但不是被抓起来打屁股，更像是逃避现实。美俄压力的还不够大，朝鲜也来出难题</a></li>
+<li><a href="/cnnews/hknews/20230914/1933413.md">郭台铭副手竟是明星婆婆，她一现身网友全傻了</a></li>
 <li><a href="/baitai/20230914/1933569.md">四通桥勇士彭立发妻女遭「东师古式」囚禁 首位探访者遭遇曝光</a></li>
-<li><a href="/topimagenews/20230914/1933681.md">裸睡被捉奸在床 山西2司法所长偷情被元配举报</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230915/1933952.md" target="_blank">左挎老毛 右挽江青 一号战狼沉浮录</a></li>
+<li><a href="/comments/20230915/1933951.md" target="_blank">蔡明芳：问题在“中国选择性公布经济数据”</a></li>
 <li><a href="/comments/20230915/1933911.md" target="_blank">兵变？政变？民变？中共会以何种方式走向终结 ｜#方菲时间 09/14</a></li>
 <li><a href="/comments/20230915/1933870.md" target="_blank">王小洪副手刘钊被免 公安部高官已有多人落马</a></li>
 <li><a href="/comments/20230915/1933869.md" target="_blank">半个中国看见UFO冲上热搜第一</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230914/1933371.md" target="_blank">川普内线曝光。揭开麦卡锡，突然启动弹劾调查拜登的真正原因。盖茨对麦卡锡发出最后通牒。#弹劾拜登 #麦卡锡 #弹劾调查</a></li>
 <li><a href="/comments/20230914/1933346.md" target="_blank">天亮时分：李佳琦含泪道歉，为什么倒霉的又是他？台海史上最大挑衅，共军国军导弹彼此锁定对方目标；王毅出大事儿？（政论天下第1109集 20230913）</a></li>
 <li><a href="/comments/20230914/1933308.md" target="_blank">G20印度战略：“新香料之路”抗衡“一带一路”</a></li>
-<li><a href="/comments/20230914/1933307.md" target="_blank">美媒：中共国利用AI散播夏威夷山火阴谋论，对美虚假信息战升温</a></li>
-<li><a href="/comments/20230914/1933306.md" target="_blank">陶杰：面对中国间谍丑闻的英国首相</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
 <li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
 <li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
 
 </ul>
 </div>
