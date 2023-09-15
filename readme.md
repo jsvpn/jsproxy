@@ -15,19 +15,19 @@
 <li><a href="/cbnews/20230915/1933874.md">神秘接待菜单惊呆纪委干部</a></li>
 <li><a href="/sohnews/20230915/1934046.md">王小洪对习近平的五大恨，中纪委抓捕李海涛剑指栗战书，越南官员证实李尚福被查，美国“让中国慢下来”的17条措施。《老灯开讲第384期》</a></li>
 <li><a href="/topimagenews/20230914/1933681.md">裸睡被捉奸在床 山西2司法所长偷情被元配举报</a></li>
-<li><a href="/topimagenews/20230915/1933872.md">热搜：小伙批评中国 大妈锁喉围观民众叫好</a></li>
-<li><a href="/ssgc/20230915/1933829.md">〖微博谈〗央行杀气腾腾的表态暴露了底线</a></li>
 <li><a href="/topimagenews/20230915/1934055.md">倒计时，中国经济存亡之战；杀气腾腾的中共，意外暴露了“最怕”；别再砸钱救房企</a></li>
 <li><a href="/comments/20230915/1934062.md">突发！金正恩携小厮高调辱华！王毅噩梦刚刚到来；李佳琦被党怀疑境外势力？民间感谢他</a></li>
+<li><a href="/topimagenews/20230915/1933872.md">热搜：小伙批评中国 大妈锁喉围观民众叫好</a></li>
+<li><a href="/ssgc/20230915/1933829.md">〖微博谈〗央行杀气腾腾的表态暴露了底线</a></li>
 <li><a href="/comments/20230915/1933766.md">李燕铭：习近平清洗行动逼进江泽民家族核心地带 江绵恒心腹陈竺亲信下属焦红被异常免职国家药监局局长 曾被政治局常委会要求做检查 焦红老家山东省药监局原副局长史国生被查 药监系统官员及药企高管密集被查 上海首当其冲 习近平决战江曾（124） 习近平连任后大清洗（81） 江绵恒暗黑帝国瓦解内幕（57） 江泽民死江家族被清洗（33） 山东帮覆灭记（12） 江泽民老巢上海被清洗（43）</a></li>
 <li><a href="/sohnews/20230915/1933820.md">陈破空：泄密！习的保健医生尽遭带走。茅台酒老总遭灭口！曾同老习共饮。亲近彭丽媛的文艺界红人被捕。直播：美东时间9月14日晚8点、即中港台9月15早8点</a></li>
 <li><a href="/comments/20230915/1933911.md">兵变？政变？民变？中共会以何种方式走向终结 ｜#方菲时间 09/14</a></li>
 <li><a href="/sohnews/20230914/1933589.md">王毅也消失了，但不是被抓起来打屁股，更像是逃避现实。美俄压力的还不够大，朝鲜也来出难题</a></li>
 <li><a href="/baitai/20230914/1933569.md">四通桥勇士彭立发妻女遭「东师古式」囚禁 首位探访者遭遇曝光</a></li>
+<li><a href="/cnnews/20230915/1933959.md">iPhone 15可随便拿条安卓线充电? 苹果给出答案</a></li>
 <li><a href="/topimagenews/20230914/1933684.md">路透：人行要求中银行外汇暂缓平仓 缓和人民币贬值压力</a></li>
 <li><a href="/lifebaike/20230915/1933851.md">胡邓暗斗！中共为刘少奇平反内幕</a></li>
 <li><a href="/cnnews/20230914/1933564.md">iPhone 15陆销售踢铁板 日媒曝关键原因：跟华为无关</a></li>
-<li><a href="/cnnews/20230915/1933959.md">iPhone 15可随便拿条安卓线充电? 苹果给出答案</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230915/1934164.md" target="_blank">“四通桥勇士”彭立发失联近一年 妻女被软禁、亲友遭严密监控</a></li>
+<li><a href="/comments/20230915/1934163.md" target="_blank">马斯克偷偷关闭“星链”阻乌军袭击俄军舰 美参议院要彻查</a></li>
 <li><a href="/comments/20230915/1934063.md" target="_blank">亨特被控三项重罪，或面临25年监禁。左媒罕见炮轰拜登，不适合再次竞选。佩洛西放风，拜登应该退出竞选2024。#拜登 #弹劾调查 #佩洛西</a></li>
 <li><a href="/comments/20230915/1934062.md" target="_blank">突发！金正恩携小厮高调辱华！王毅噩梦刚刚到来；李佳琦被党怀疑境外势力？民间感谢他</a></li>
 <li><a href="/comments/20230915/1934035.md" target="_blank">王子落马【方伟时间-20230914】</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230914/1933595.md" target="_blank">文昭：你对谣言的印象错了，谣言有可能不是在扭曲事实、而是在塑造事实</a></li>
 <li><a href="/comments/20230914/1933498.md" target="_blank">【秦鹏观察】习近平二大将出事儿 中国房地产彻底凉了</a></li>
 <li><a href="/comments/20230914/1933497.md" target="_blank">【新闻拍案惊奇】李强被官媒强制“销声”！654飞弹旅最威胁中南海？</a></li>
-<li><a href="/comments/20230914/1933440.md" target="_blank">菁英论坛:习的安全恐惧来自中共末日危机</a></li>
-<li><a href="/comments/20230914/1933431.md" target="_blank">弹劾将至【方伟时间-20230913】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
 <li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
 <li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
 
 </ul>
 </div>
