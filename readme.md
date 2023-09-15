@@ -16,16 +16,16 @@
 <li><a href="/comments/20230915/1934062.md">突发！金正恩携小厮高调辱华！王毅噩梦刚刚到来；李佳琦被党怀疑境外势力？民间感谢他</a></li>
 <li><a href="/topimagenews/20230915/1933872.md">热搜：小伙批评中国 大妈锁喉围观民众叫好</a></li>
 <li><a href="/ssgc/20230915/1933829.md">〖微博谈〗央行杀气腾腾的表态暴露了底线</a></li>
-<li><a href="/topimagenews/20230915/1934055.md">倒计时，中国经济存亡之战；杀气腾腾的中共，意外暴露了“最怕”；别再砸钱救房企</a></li>
-<li><a href="/topimagenews/20230914/1933681.md">裸睡被捉奸在床 山西2司法所长偷情被元配举报</a></li>
 <li><a href="/baitai/20230915/1934104.md">「身带金剑」之人出现？习抓刺客 王小洪副手刘钊被免</a></li>
 <li><a href="/comments/20230915/1933766.md">李燕铭：习近平清洗行动逼进江泽民家族核心地带 江绵恒心腹陈竺亲信下属焦红被异常免职国家药监局局长 曾被政治局常委会要求做检查 焦红老家山东省药监局原副局长史国生被查 药监系统官员及药企高管密集被查 上海首当其冲 习近平决战江曾（124） 习近平连任后大清洗（81） 江绵恒暗黑帝国瓦解内幕（57） 江泽民死江家族被清洗（33） 山东帮覆灭记（12） 江泽民老巢上海被清洗（43）</a></li>
-<li><a href="/sohnews/20230915/1933820.md">陈破空：泄密！习的保健医生尽遭带走。茅台酒老总遭灭口！曾同老习共饮。亲近彭丽媛的文艺界红人被捕。直播：美东时间9月14日晚8点、即中港台9月15早8点</a></li>
+<li><a href="/topimagenews/20230914/1933681.md">裸睡被捉奸在床 山西2司法所长偷情被元配举报</a></li>
+<li><a href="/topimagenews/20230915/1934055.md">倒计时，中国经济存亡之战；杀气腾腾的中共，意外暴露了“最怕”；别再砸钱救房企</a></li>
 <li><a href="/sohnews/20230915/1933934.md">突发！中国国防部长李尚福真的去陪秦刚了，美国政府推断他正接受调查。背后可能的原因</a></li>
-<li><a href="/comments/20230915/1933911.md">兵变？政变？民变？中共会以何种方式走向终结 ｜#方菲时间 09/14</a></li>
 <li><a href="/cbnews/20230915/1934123.md">〖兲朝浮世绘〗中共确定这不是在讽刺习总是大撒币？</a></li>
-<li><a href="/cnnews/20230915/1933959.md">iPhone 15可随便拿条安卓线充电? 苹果给出答案</a></li>
+<li><a href="/sohnews/20230915/1933820.md">陈破空：泄密！习的保健医生尽遭带走。茅台酒老总遭灭口！曾同老习共饮。亲近彭丽媛的文艺界红人被捕。直播：美东时间9月14日晚8点、即中港台9月15早8点</a></li>
+<li><a href="/comments/20230915/1933911.md">兵变？政变？民变？中共会以何种方式走向终结 ｜#方菲时间 09/14</a></li>
 <li><a href="/topimagenews/20230915/1934150.md">惊人！江苏200多家国企掀退台大潮 不再为政府举债融资；中共禁苹果手机内情 能全面禁止？</a></li>
+<li><a href="/cnnews/20230915/1933959.md">iPhone 15可随便拿条安卓线充电? 苹果给出答案</a></li>
 <li><a href="/topimagenews/20230915/1934002.md">【微博精粹】李佳琦的第三步竞猜</a></li>
 <li><a href="/lifebaike/20230915/1933851.md">胡邓暗斗！中共为刘少奇平反内幕</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230915/1934237.md" target="_blank">路透：李尚福因“采购贪渎”接受调查 8名高阶官员也在列</a></li>
 <li><a href="/topimagenews/20230915/1934200.md" target="_blank">果粉注意！中国买的iPhone15这功能不能用</a></li>
 <li><a href="/topimagenews/20230915/1934182.md" target="_blank">住饭店选“哪一楼”最安全？美前特工这样说</a></li>
 <li><a href="/topimagenews/20230915/1934150.md" target="_blank">惊人！江苏200多家国企掀退台大潮 不再为政府举债融资；中共禁苹果手机内情 能全面禁止？</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230914/1933518.md" target="_blank">郭台铭搭赖佩霞参选！中国网友断言：“他”胜选没有悬念了</a></li>
 <li><a href="/topimagenews/20230914/1933480.md" target="_blank">G20可疑中共包包监视各国元首? 中印对峙12小时</a></li>
 <li><a href="/topimagenews/20230914/1933468.md" target="_blank">华尔街兵推 两岸战争导致全球金融崩盘</a></li>
-<li><a href="/topimagenews/20230914/1933443.md" target="_blank">重磅人物身份暴露？陆媒急删重大任命【阿波罗网报道】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
 
 </ul>
 </div>
