@@ -7,13 +7,12 @@
 
 <li><a href="/cnnews/20230916/1934379.md">卓琳自杀急送305医院 曾庆红放出多个毒招</a></li>
 <li><a href="/topimagenews/20230916/1934389.md">北极鲶鱼爷爷关系网第一弹：同小组 多人落马</a></li>
-<li><a href="/topimagenews/20230915/1934200.md">果粉注意！中国买的iPhone15这功能不能用</a></li>
 <li><a href="/topimagenews/20230915/1934237.md">路透：李尚福因“采购贪渎”接受调查 8名高阶官员也在列</a></li>
 <li><a href="/comments/20230916/1934332.md">李燕铭：中共防长李尚福被查内幕曝光 李尚福供出装备部八名将领 军委副主席张又侠前首席大秘被带走调查 中共官员暗示还有进一步的清洗 张又侠高危 中南海政变与反政变（127） 习近平决战江曾（125） 习近平连任后大清洗（82） 习强化军权内防政变对外备战（56） 火箭军窝案深度内幕（19） 习近平连任与中共末日（169）</a></li>
 <li><a href="/finance/20230916/1934375.md">比房价下跌更难受的4件事，正在全国逐步上演</a></li>
 <li><a href="/comments/20230915/1934234.md">时事大家谈：中国严禁一对一家教，真实意图是什么？“带货一哥”李佳琦再次翻车，点燃了众生皆苦的底层愤怒？&#160;</a></li>
-<li><a href="/sohnews/20230916/1934438.md">习近平发火了！魏凤和隔离审查，李尚福早被解职；军购弊案被追究？供出8人旧罪被翻【新闻看点 李沐阳9.15】</a></li>
 <li><a href="/sohnews/20230916/1934624.md">李尚福被查震撼内幕，张又侠策划反习兵变，王沪宁用邓小平玩弄习近平。《老灯开讲第385期》</a></li>
+<li><a href="/sohnews/20230916/1934438.md">习近平发火了！魏凤和隔离审查，李尚福早被解职；军购弊案被追究？供出8人旧罪被翻【新闻看点 李沐阳9.15】</a></li>
 <li><a href="/cnnews/20230916/1934381.md">王思聪与21岁新欢高调秀恩爱 女方晒豪宅内景</a></li>
 <li><a href="/cbnews/20230916/1934481.md">女儿“越长越像洋娃娃” 四川夫妻亲子鉴定得知真相傻眼：这不可能吧</a></li>
 <li><a href="/lifebaike/20230916/1934393.md">45岁一家移民加拿大后，真实生活超乎想象</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/comments/20230916/1934462.md">天亮时分：确认李尚福上周被抓，君疑臣则诛，臣疑君则反，习近平已经离政变不远；蔡奇变赵高，习近平变秦二世（政论天下第1111集 20230915）天亮时分</a></li>
 <li><a href="/cbnews/20230916/1934542.md">〖兲朝浮世绘〗中共生怕马斯克的自由思想带坏了中国人</a></li>
 <li><a href="/sohnews/20230916/1934615.md">北京酒店、地铁、街道全盘查！中共军方“装备发展部”多人短时间密集落马，军方高层人心惶惶；李玉超是秘书告密？习清理李克强“政治遗产”；高级智囊“向东”遭免｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/topimagenews/20230916/1934274.md">嘴上吐槽身体诚实！陆iPhone 15 Pro京东预约逼近300万</a></li>
 <li><a href="/sohnews/20230916/1934467.md">🔥🔥惊掉门牙❗吉林省公检法系统被组团卖到缅甸当猪崽❗是报应吗❓</a></li>
+<li><a href="/topimagenews/20230916/1934274.md">嘴上吐槽身体诚实！陆iPhone 15 Pro京东预约逼近300万</a></li>
 <li><a href="/cbnews/20230916/1934466.md">朝鲜已开始军援俄国 中国恐成最大输家</a></li>
-<li><a href="/cnnews/20230916/1934418.md">原中央党校副校长揭密中国官场三大定律</a></li>
 <li><a href="/cnnews/20230916/1934384.md">北京异常活跃 习定下近期目标</a></li>
+<li><a href="/cnnews/20230916/1934418.md">原中央党校副校长揭密中国官场三大定律</a></li>
 <li><a href="/comments/20230916/1934330.md">习近平怕秘书不忠？蔡奇传达指令 强调政治站位</a></li>
+<li><a href="/topimagenews/20230916/1934344.md">川普：纯电动车对联合汽车工会和美国消费者都是灾难</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
 <li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 
 </ul>
 </div>
