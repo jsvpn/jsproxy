@@ -17,14 +17,14 @@
 <li><a href="/comments/20230916/1934410.md">文昭：暗室惊雷，习近平这个动作相当於拔插头了...中南海瞬间黑屏</a></li>
 <li><a href="/comments/20230916/1934462.md">天亮时分：确认李尚福上周被抓，君疑臣则诛，臣疑君则反，习近平已经离政变不远；蔡奇变赵高，习近平变秦二世（政论天下第1111集 20230915）天亮时分</a></li>
 <li><a href="/topimagenews/20230916/1934650.md">中国经济走入制度性陷阱，神仙难救；中共央行再放大招，网热议；白宫密谋新世界经济格局</a></li>
-<li><a href="/comments/20230916/1934670.md">李尚福遭熬鹰手段？为何供出8个同案？习近平军队大清洗集结号：批火箭军！张又侠危了</a></li>
 <li><a href="/sohnews/20230916/1934693.md">国防部长李尚福被抓，触犯习縂最大忌讳；外交部长王毅被指在家检讨，习近平对高官频下重手；北京气氛诡异，警察对海外游客深夜查房。</a></li>
+<li><a href="/comments/20230916/1934670.md">李尚福遭熬鹰手段？为何供出8个同案？习近平军队大清洗集结号：批火箭军！张又侠危了</a></li>
 <li><a href="/sohnews/20230916/1934667.md">陈破空：快讯：总参谋长失踪？缺席重要会议。彭丽媛单独出场有深意！金正恩摆出真正老大派头，碾压习普。直播与互动：美东时间9月16日早8点30、即中港台9月16日晚8点30</a></li>
 <li><a href="/sohnews/20230916/1934615.md">北京酒店、地铁、街道全盘查！中共军方“装备发展部”多人短时间密集落马，军方高层人心惶惶；李玉超是秘书告密？习清理李克强“政治遗产”；高级智囊“向东”遭免｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20230916/1934628.md">文睿：张又侠，出现重大异常，一尊，这次坐到火山口上了</a></li>
 <li><a href="/cbnews/20230916/1934542.md">〖兲朝浮世绘〗中共生怕马斯克的自由思想带坏了中国人</a></li>
-<li><a href="/cbnews/20230916/1934466.md">朝鲜已开始军援俄国 中国恐成最大输家</a></li>
 <li><a href="/topimagenews/20230916/1934632.md">杠上了要出大事！中欧大战一触即发【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230916/1934466.md">朝鲜已开始军援俄国 中国恐成最大输家</a></li>
 <li><a href="/topimagenews/20230916/1934633.md">中国历史课本“仅7行字”带过新冠疫情！网酸：伟大的动态清零没提？</a></li>
 <li><a href="/sohnews/20230916/1934467.md">🔥🔥惊掉门牙❗吉林省公检法系统被组团卖到缅甸当猪崽❗是报应吗❓</a></li>
 <li><a href="/sohnews/20230916/1934675.md">李尚福谣言再兑现，军改系习近平又一烂尾工程，星链引发的调查和争议｜ 横河观点 2023.09.15</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230917/1934767.md" target="_blank">马斯克谈台湾   聪明到顶 糊涂到家</a></li>
 <li><a href="/comments/20230916/1934709.md" target="_blank">川普接受“仇人”梅根·凯利专访。凯利问得犀利，川普答得精彩：为赢得2024，坐牢也不惜。#凯利 #川普 #竞选2024</a></li>
 <li><a href="/cbnews/20230916/1934595.md" target="_blank">恐怖！泉州男子生吃海鲜后 右腿发黑 ICU抢救 手术4次惨截肢保命</a></li>
 <li><a href="/cbnews/20230916/1934593.md" target="_blank">打完麻醉被放置！山东男躺手术台上等开刀 医师竟都下班了</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230915/1934123.md" target="_blank">〖兲朝浮世绘〗中共确定这不是在讽刺习总是大撒币？</a></li>
 <li><a href="/cbnews/20230915/1934106.md" target="_blank">可怕！湖南4岁男童“撑伞26楼跳下”奇迹生还…近况曝光</a></li>
 <li><a href="/cbnews/20230915/1934105.md" target="_blank">火爆一时 淄博鹤岗知道了,做网红拉动不了经济</a></li>
-<li><a href="/cbnews/20230915/1934100.md" target="_blank">中共发明新词“慢就业” 舆论讽：丧事喜办</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230917/1934767.md" target="_blank">马斯克谈台湾   聪明到顶 糊涂到家</a></li>
 <li><a href="/comments/20230916/1934722.md" target="_blank">李燕铭：王岐山又一旧部被查 工行前纪委书记刘立宪投案 或牵连证监会主席易会满与上海帮金融大佬姜建清 习近平连任后大清洗（85） 钱袋子争夺战（54）</a></li>
 <li><a href="/comments/20230916/1934709.md" target="_blank">川普接受“仇人”梅根·凯利专访。凯利问得犀利，川普答得精彩：为赢得2024，坐牢也不惜。#凯利 #川普 #竞选2024</a></li>
 <li><a href="/comments/20230916/1934705.md" target="_blank">李燕铭：习近平考察后黑龙江官场震荡 黑龙江原省委书记王宪魁大管家李海涛落马 李海涛曾任团派上海帮江西帮两正部级高官第一副手 彭丽媛山东老乡蔡奇旧部升任黑龙江副省长 北大荒农垦集团分公司党委书记王春明被查 习近平连任后大清洗（84） 黑龙江帮覆灭记（3） 团派团灭内幕（32）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230916/1934427.md" target="_blank">赵兰健：独家！李尚福被查后招供，牵出8名装备部高官落马！国外儿子被收买，类似火箭军案？｜新闻烽火台 09/15</a></li>
 <li><a href="/comments/20230916/1934410.md" target="_blank">文昭：暗室惊雷，习近平这个动作相当於拔插头了&#8230;中南海瞬间黑屏</a></li>
 <li><a href="/comments/20230916/1934408.md" target="_blank">李燕铭：上海市国资委主任白廷辉落马 隐秘关联江绵康巨额贪腐大案 江绵康惊人贪腐黑幕曝光 习近平决战江曾（126） 习近平连任后大清洗（83） 江泽民死江家族被清洗（34） 江泽民老巢上海被清洗（44）） 钱袋子争夺战（53）</a></li>
-<li><a href="/comments/20230916/1934406.md" target="_blank">加州超级荒唐法律 夺父母监护权【方伟时间-20230914】</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
 <li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
 
 </ul>
 </div>
