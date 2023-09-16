@@ -11,23 +11,23 @@
 <li><a href="/comments/20230916/1934332.md">李燕铭：中共防长李尚福被查内幕曝光 李尚福供出装备部八名将领 军委副主席张又侠前首席大秘被带走调查 中共官员暗示还有进一步的清洗 张又侠高危 中南海政变与反政变（127） 习近平决战江曾（125） 习近平连任后大清洗（82） 习强化军权内防政变对外备战（56） 火箭军窝案深度内幕（19） 习近平连任与中共末日（169）</a></li>
 <li><a href="/finance/20230916/1934375.md">比房价下跌更难受的4件事，正在全国逐步上演</a></li>
 <li><a href="/sohnews/20230916/1934438.md">习近平发火了！魏凤和隔离审查，李尚福早被解职；军购弊案被追究？供出8人旧罪被翻【新闻看点 李沐阳9.15】</a></li>
-<li><a href="/cnnews/20230916/1934381.md">王思聪与21岁新欢高调秀恩爱 女方晒豪宅内景</a></li>
 <li><a href="/cbnews/20230916/1934481.md">女儿“越长越像洋娃娃” 四川夫妻亲子鉴定得知真相傻眼：这不可能吧</a></li>
+<li><a href="/cnnews/20230916/1934381.md">王思聪与21岁新欢高调秀恩爱 女方晒豪宅内景</a></li>
 <li><a href="/lifebaike/20230916/1934393.md">45岁一家移民加拿大后，真实生活超乎想象</a></li>
 <li><a href="/cbnews/20230916/1934592.md">家长交流“是奸情”！重庆女出轨孩子同学爸 更惊爆睡过多位男家长</a></li>
 <li><a href="/comments/20230916/1934410.md">文昭：暗室惊雷，习近平这个动作相当於拔插头了...中南海瞬间黑屏</a></li>
-<li><a href="/sohnews/20230916/1934615.md">北京酒店、地铁、街道全盘查！中共军方“装备发展部”多人短时间密集落马，军方高层人心惶惶；李玉超是秘书告密？习清理李克强“政治遗产”；高级智囊“向东”遭免｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/comments/20230916/1934462.md">天亮时分：确认李尚福上周被抓，君疑臣则诛，臣疑君则反，习近平已经离政变不远；蔡奇变赵高，习近平变秦二世（政论天下第1111集 20230915）天亮时分</a></li>
+<li><a href="/sohnews/20230916/1934615.md">北京酒店、地铁、街道全盘查！中共军方“装备发展部”多人短时间密集落马，军方高层人心惶惶；李玉超是秘书告密？习清理李克强“政治遗产”；高级智囊“向东”遭免｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/topimagenews/20230916/1934650.md">中国经济走入制度性陷阱，神仙难救；中共央行再放大招，网热议；白宫密谋新世界经济格局</a></li>
 <li><a href="/sohnews/20230916/1934628.md">文睿：张又侠，出现重大异常，一尊，这次坐到火山口上了</a></li>
 <li><a href="/cbnews/20230916/1934542.md">〖兲朝浮世绘〗中共生怕马斯克的自由思想带坏了中国人</a></li>
-<li><a href="/topimagenews/20230916/1934650.md">中国经济走入制度性陷阱，神仙难救；中共央行再放大招，网热议；白宫密谋新世界经济格局</a></li>
 <li><a href="/cbnews/20230916/1934466.md">朝鲜已开始军援俄国 中国恐成最大输家</a></li>
+<li><a href="/comments/20230916/1934670.md">李尚福遭熬鹰手段？为何供出8个同案？习近平军队大清洗集结号：批火箭军！张又侠危了</a></li>
+<li><a href="/topimagenews/20230916/1934633.md">中国历史课本“仅7行字”带过新冠疫情！网酸：伟大的动态清零没提？</a></li>
 <li><a href="/sohnews/20230916/1934467.md">🔥🔥惊掉门牙❗吉林省公检法系统被组团卖到缅甸当猪崽❗是报应吗❓</a></li>
 <li><a href="/topimagenews/20230916/1934274.md">嘴上吐槽身体诚实！陆iPhone 15 Pro京东预约逼近300万</a></li>
-<li><a href="/cnnews/20230916/1934418.md">原中央党校副校长揭密中国官场三大定律</a></li>
+<li><a href="/topimagenews/20230916/1934632.md">杠上了要出大事！中欧大战一触即发【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230916/1934384.md">北京异常活跃 习定下近期目标</a></li>
-<li><a href="/topimagenews/20230916/1934633.md">中国历史课本“仅7行字”带过新冠疫情！网酸：伟大的动态清零没提？</a></li>
-<li><a href="/comments/20230916/1934330.md">习近平怕秘书不忠？蔡奇传达指令 强调政治站位</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230916/1934722.md" target="_blank">李燕铭：王岐山又一旧部被查 工行前纪委书记刘立宪投案 或牵连证监会主席易会满与上海帮金融大佬姜建清 习近平连任后大清洗（85） 钱袋子争夺战（54）</a></li>
 <li><a href="/comments/20230916/1934709.md" target="_blank">川普接受“仇人”梅根·凯利专访。凯利问得犀利，川普答得精彩：为赢得2024，坐牢也不惜。#凯利 #川普 #竞选2024</a></li>
 <li><a href="/comments/20230916/1934705.md" target="_blank">李燕铭：习近平考察后黑龙江官场震荡 黑龙江原省委书记王宪魁大管家李海涛落马 李海涛曾任团派上海帮江西帮两正部级高官第一副手 彭丽媛山东老乡蔡奇旧部升任黑龙江副省长 北大荒农垦集团分公司党委书记王春明被查 习近平连任后大清洗（84） 黑龙江帮覆灭记（3） 团派团灭内幕（32）</a></li>
 <li><a href="/comments/20230916/1934701.md" target="_blank">文昭：国防部长李尚福处于“量子叠加态”，这个现象被称为“薛定谔的李尚福”</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230916/1934410.md" target="_blank">文昭：暗室惊雷，习近平这个动作相当於拔插头了&#8230;中南海瞬间黑屏</a></li>
 <li><a href="/comments/20230916/1934408.md" target="_blank">李燕铭：上海市国资委主任白廷辉落马 隐秘关联江绵康巨额贪腐大案 江绵康惊人贪腐黑幕曝光 习近平决战江曾（126） 习近平连任后大清洗（83） 江泽民死江家族被清洗（34） 江泽民老巢上海被清洗（44）） 钱袋子争夺战（53）</a></li>
 <li><a href="/comments/20230916/1934406.md" target="_blank">加州超级荒唐法律 夺父母监护权【方伟时间-20230914】</a></li>
-<li><a href="/comments/20230916/1934403.md" target="_blank">网海拾贝:以前的亚洲金融中心，快成金融中心遗址了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 <li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
 <li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
 
 </ul>
 </div>
