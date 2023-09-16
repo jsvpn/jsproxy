@@ -7,8 +7,8 @@
 
 <li><a href="/sohnews/20230915/1933934.md">突发！中国国防部长李尚福真的去陪秦刚了，美国政府推断他正接受调查。背后可能的原因</a></li>
 <li><a href="/cbnews/20230915/1934123.md">〖兲朝浮世绘〗中共确定这不是在讽刺习总是大撒币？</a></li>
-<li><a href="/cnnews/20230916/1934379.md">卓琳自杀急送305医院 曾庆红放出多个毒招</a></li>
 <li><a href="/baitai/20230915/1934104.md">「身带金剑」之人出现？习抓刺客 王小洪副手刘钊被免</a></li>
+<li><a href="/cnnews/20230916/1934379.md">卓琳自杀急送305医院 曾庆红放出多个毒招</a></li>
 <li><a href="/topimagenews/20230915/1934150.md">惊人！江苏200多家国企掀退台大潮 不再为政府举债融资；中共禁苹果手机内情 能全面禁止？</a></li>
 <li><a href="/topimagenews/20230916/1934389.md">北极鲶鱼爷爷关系网第一弹：同小组 多人落马</a></li>
 <li><a href="/topimagenews/20230915/1934200.md">果粉注意！中国买的iPhone15这功能不能用</a></li>
@@ -17,15 +17,15 @@
 <li><a href="/comments/20230916/1934332.md">李燕铭：中共防长李尚福被查内幕曝光 李尚福供出装备部八名将领 军委副主席张又侠前首席大秘被带走调查 中共官员暗示还有进一步的清洗 张又侠高危 中南海政变与反政变（127） 习近平决战江曾（125） 习近平连任后大清洗（82） 习强化军权内防政变对外备战（56） 火箭军窝案深度内幕（19） 习近平连任与中共末日（169）</a></li>
 <li><a href="/finance/20230916/1934375.md">比房价下跌更难受的4件事，正在全国逐步上演</a></li>
 <li><a href="/comments/20230915/1934234.md">时事大家谈：中国严禁一对一家教，真实意图是什么？“带货一哥”李佳琦再次翻车，点燃了众生皆苦的底层愤怒？&#160;</a></li>
-<li><a href="/cnnews/20230916/1934381.md">王思聪与21岁新欢高调秀恩爱 女方晒豪宅内景</a></li>
 <li><a href="/comments/20230915/1934192.md">《推背图》46象，预言了这事！雷暴哮喘的真相！中子流冲散人体染色体，日本真实核灾83天全记录！｜ #未解之谜 扶摇</a></li>
+<li><a href="/cnnews/20230916/1934381.md">王思聪与21岁新欢高调秀恩爱 女方晒豪宅内景</a></li>
 <li><a href="/lifebaike/20230916/1934393.md">45岁一家移民加拿大后，真实生活超乎想象</a></li>
 <li><a href="/comments/20230916/1934410.md">文昭：暗室惊雷，习近平这个动作相当於拔插头了...中南海瞬间黑屏</a></li>
-<li><a href="/topimagenews/20230915/1934182.md">住饭店选“哪一楼”最安全？美前特工这样说</a></li>
 <li><a href="/sohnews/20230916/1934438.md">习近平发火了！魏凤和隔离审查，李尚福早被解职；军购弊案被追究？供出8人旧罪被翻【新闻看点 李沐阳9.15】</a></li>
-<li><a href="/topimagenews/20230916/1934274.md">嘴上吐槽身体诚实！陆iPhone 15 Pro京东预约逼近300万</a></li>
-<li><a href="/cbnews/20230915/1934106.md">可怕！湖南4岁男童“撑伞26楼跳下”奇迹生还…近况曝光</a></li>
+<li><a href="/topimagenews/20230915/1934182.md">住饭店选“哪一楼”最安全？美前特工这样说</a></li>
 <li><a href="/baitai/20230915/1934097.md">中共在空中海上密集演习 专家：共军或突袭台湾</a></li>
+<li><a href="/cbnews/20230915/1934106.md">可怕！湖南4岁男童“撑伞26楼跳下”奇迹生还…近况曝光</a></li>
+<li><a href="/topimagenews/20230916/1934274.md">嘴上吐槽身体诚实！陆iPhone 15 Pro京东预约逼近300万</a></li>
 <li><a href="/cbnews/20230915/1934099.md">郑州瀑布边拍美照！她下秒“为捡手机”狂坠40米惨死 最后身影曝光</a></li>
 <li><a href="/cnnews/20230916/1934384.md">北京异常活跃 习定下近期目标</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230916/1934595.md" target="_blank">恐怖！泉州男子生吃海鲜后 右腿发黑 ICU抢救 手术4次惨截肢保命</a></li>
 <li><a href="/cbnews/20230916/1934593.md" target="_blank">打完麻醉被放置！山东男躺手术台上等开刀 医师竟都下班了</a></li>
 <li><a href="/cbnews/20230916/1934592.md" target="_blank">家长交流“是奸情”！重庆女出轨孩子同学爸 更惊爆睡过多位男家长</a></li>
 <li><a href="/cbnews/20230916/1934568.md" target="_blank">江峰：车臣头目卡德罗夫陷重昏迷，普京失普里戈津左膀再失右臂，下毒猜测有依据麽？美情报机构证实李尚福被查，军中红二代清洗扩大；金普会乌军送大礼，土制导弹炸翻S400+潜艇【江峰漫谈20230915第730期】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230915/1934105.md" target="_blank">火爆一时 淄博鹤岗知道了,做网红拉动不了经济</a></li>
 <li><a href="/cbnews/20230915/1934100.md" target="_blank">中共发明新词“慢就业” 舆论讽：丧事喜办</a></li>
 <li><a href="/cbnews/20230915/1934099.md" target="_blank">郑州瀑布边拍美照！她下秒“为捡手机”狂坠40米惨死 最后身影曝光</a></li>
-<li><a href="/cbnews/20230915/1934093.md" target="_blank">陕西榆林再通报 荒漠化地区违建高尔夫球场 已全面关停</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
 <li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
 
 </ul>
 </div>
