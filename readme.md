@@ -11,23 +11,23 @@
 <li><a href="/sohnews/20230917/1934785.md">陈破空：惊传秦刚那样离世？有人打算隐瞒到底。军报承认中共民心丧尽！作战有短板。乌军奏捷，全歼俄军72旅。直播与互动：美东时间9月16日晚8点30、即中港台9月17早8点30</a></li>
 <li><a href="/comments/20230917/1934816.md">众叛亲离根基动摇，习近平陷孤绝处境</a></li>
 <li><a href="/headline/20230917/1934732.md">解放军清理门户 习近平借查办李尚福向中共太子党宣战?</a></li>
-<li><a href="/cbnews/20230917/1934779.md">祸不单行 中共火箭军最大威胁来了</a></li>
 <li><a href="/topimagenews/20230917/1934958.md">习近平要曾庆红交代香港银行千亿美元巨款背景</a></li>
+<li><a href="/cbnews/20230917/1934779.md">祸不单行 中共火箭军最大威胁来了</a></li>
 <li><a href="/comments/20230917/1934781.md">世纪大和解，中美正式迎来极限撕杀……</a></li>
 <li><a href="/topimagenews/20230917/1934942.md">全跑了 1.37万亿元人民币外资流出 中国经济风雨飘摇</a></li>
 <li><a href="/cbnews/20230917/1934827.md">央视照妖镜来了 瞬间暴露大明星们真实状态</a></li>
 <li><a href="/ccpdope/20230917/1934838.md">中共权力分配出现异常 外界始料未及</a></li>
-<li><a href="/finance/20230917/1934829.md">大势所趋！铁饭碗没了</a></li>
 <li><a href="/topimagenews/20230917/1934980.md">担心田明建事件再现？中共军方突然这么说【阿波罗网报道】</a></li>
+<li><a href="/finance/20230917/1934829.md">大势所趋！铁饭碗没了</a></li>
 <li><a href="/comments/20230917/1934787.md">北京正被亲密盟友“逼宫”</a></li>
+<li><a href="/baitai/20230917/1935013.md">习近平正被围攻？前军官再报猛料</a></li>
+<li><a href="/headline/20230917/1934986.md">查李尚福 国际担心习近平政权</a></li>
 <li><a href="/baitai/20230917/1934805.md">内幕：装备部是太子党钱袋子 火箭军对习不忠</a></li>
 <li><a href="/cnnews/20230917/1934851.md">中美重磅！美国会：立即撤回80亿美金</a></li>
 <li><a href="/lifebaike/20230917/1934953.md">人过六十，不管兄弟姐妹关系多好，都不能轻易亮出这3张底牌</a></li>
-<li><a href="/headline/20230917/1934986.md">查李尚福 国际担心习近平政权</a></li>
-<li><a href="/funmedia/20230917/1934841.md">西藏路边的白色帐篷为啥不能进？藏民表示：进去容易出来难呐</a></li>
 <li><a href="/ssgc/20230917/1934875.md">〖微博谈〗习能招来 也能挥去</a></li>
+<li><a href="/funmedia/20230917/1934841.md">西藏路边的白色帐篷为啥不能进？藏民表示：进去容易出来难呐</a></li>
 <li><a href="/cnnews/20230917/1934782.md">乌军全歼俄第72旅 俄第247空降师师长被击毙</a></li>
-<li><a href="/sohnews/20230917/1934894.md">张志新被割喉，毛远新遭现世报，女儿和外孙女都是哑吧；毛远新的储君梦是如何破碎的？【历史真相】｜薇羽看世间</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
 <li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
 <li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
 
 </ul>
 </div>
