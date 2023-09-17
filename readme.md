@@ -7,7 +7,6 @@
 
 <li><a href="/cnnews/20230917/1934793.md">同一天，中国几个平台全都崩了…</a></li>
 <li><a href="/sohnews/20230917/1934943.md">秦刚自尽讣告21天后公布，蔡奇统管政府事务架空李强，习肃清红二代为政治变革。《老灯开讲第386期》</a></li>
-<li><a href="/sohnews/20230917/1934785.md">陈破空：惊传秦刚那样离世？有人打算隐瞒到底。军报承认中共民心丧尽！作战有短板。乌军奏捷，全歼俄军72旅。直播与互动：美东时间9月16日晚8点30、即中港台9月17早8点30</a></li>
 <li><a href="/comments/20230917/1934816.md">众叛亲离根基动摇，习近平陷孤绝处境</a></li>
 <li><a href="/baitai/20230917/1935013.md">习近平正被围攻？前军官再报猛料</a></li>
 <li><a href="/topimagenews/20230917/1934958.md">习近平要曾庆红交代香港银行千亿美元巨款背景</a></li>
@@ -16,7 +15,6 @@
 <li><a href="/topimagenews/20230917/1934942.md">全跑了 1.37万亿元人民币外资流出 中国经济风雨飘摇</a></li>
 <li><a href="/finance/20230917/1934829.md">大势所趋！铁饭碗没了</a></li>
 <li><a href="/topimagenews/20230917/1934980.md">担心田明建事件再现？中共军方突然这么说【阿波罗网报道】</a></li>
-<li><a href="/comments/20230917/1934787.md">北京正被亲密盟友“逼宫”</a></li>
 <li><a href="/headline/20230917/1934986.md">查李尚福 国际担心习近平政权</a></li>
 <li><a href="/baitai/20230917/1934805.md">内幕：装备部是太子党钱袋子 火箭军对习不忠</a></li>
 <li><a href="/cnnews/20230917/1934851.md">中美重磅！美国会：立即撤回80亿美金</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/comments/20230917/1934918.md">暗合政变预言? 军委副主席如今和习近平关系微妙</a></li>
 <li><a href="/cbnews/20230917/1934858.md">百斤杠铃压喉咙 武汉男卧推 挣扎一分钟后身亡</a></li>
 <li><a href="/health/20230917/1934813.md">2种鱼已被列入“致癌名单”，吃多了会致癌？这些食物也在其中</a></li>
+<li><a href="/cbnews/20230917/1934931.md">疯狂挖鼻孔！四川女罹鼻窦炎7年 医开刀惊见“10多团真菌”?翻</a></li>
+<li><a href="/lifebaike/20230917/1935025.md">【老照片】中共党史不愿提及的照片 汪精卫的一任秘书竟然是……</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230918/1935077.md" target="_blank">天亮时分：与官僚博弈完败收场，习近平结局堪忧；王毅终于露面，跑到马耳他见沙利文（政论天下第1112集 20230916）</a></li>
 <li><a href="/comments/20230918/1935041.md" target="_blank">【独家重磅】李燕铭：中共党员染疫死亡人数惊人 中组部统计公报现重大异常 赵乐际执掌中组部期间党员人数公然造假 习近平亲信陈希接掌中组部后低级手法掩饰欲盖弥彰 中共末日之病毒亡共（39） 习近平连任与中共末日（170）</a></li>
 <li><a href="/comments/20230917/1935017.md" target="_blank">【文昭谈古论今】习近平拔插头了······</a></li>
 <li><a href="/comments/20230917/1934918.md" target="_blank">暗合政变预言? 军委副主席如今和习近平关系微妙</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230917/1934799.md" target="_blank">钟原：军队大事迭出 中共政局添变数</a></li>
 <li><a href="/comments/20230917/1934797.md" target="_blank">文昭：习近平愤而拔插头，会有什么后果？</a></li>
 <li><a href="/comments/20230917/1934787.md" target="_blank">北京正被亲密盟友“逼宫”</a></li>
-<li><a href="/comments/20230917/1934781.md" target="_blank">世纪大和解，中美正式迎来极限撕杀……</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 <li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
 
 </ul>
 </div>
