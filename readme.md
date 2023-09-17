@@ -10,24 +10,24 @@
 <li><a href="/sohnews/20230917/1934943.md">秦刚自尽讣告21天后公布，蔡奇统管政府事务架空李强，习肃清红二代为政治变革。《老灯开讲第386期》</a></li>
 <li><a href="/sohnews/20230917/1934785.md">陈破空：惊传秦刚那样离世？有人打算隐瞒到底。军报承认中共民心丧尽！作战有短板。乌军奏捷，全歼俄军72旅。直播与互动：美东时间9月16日晚8点30、即中港台9月17早8点30</a></li>
 <li><a href="/comments/20230917/1934816.md">众叛亲离根基动摇，习近平陷孤绝处境</a></li>
-<li><a href="/headline/20230917/1934732.md">解放军清理门户 习近平借查办李尚福向中共太子党宣战?</a></li>
 <li><a href="/cbnews/20230917/1934779.md">祸不单行 中共火箭军最大威胁来了</a></li>
 <li><a href="/topimagenews/20230917/1934958.md">习近平要曾庆红交代香港银行千亿美元巨款背景</a></li>
 <li><a href="/comments/20230917/1934781.md">世纪大和解，中美正式迎来极限撕杀……</a></li>
 <li><a href="/ccpdope/20230917/1934838.md">中共权力分配出现异常 外界始料未及</a></li>
 <li><a href="/topimagenews/20230917/1934942.md">全跑了 1.37万亿元人民币外资流出 中国经济风雨飘摇</a></li>
-<li><a href="/topimagenews/20230917/1934980.md">担心田明建事件再现？中共军方突然这么说【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230917/1934827.md">央视照妖镜来了 瞬间暴露大明星们真实状态</a></li>
-<li><a href="/finance/20230917/1934829.md">大势所趋！铁饭碗没了</a></li>
+<li><a href="/topimagenews/20230917/1934980.md">担心田明建事件再现？中共军方突然这么说【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230917/1935013.md">习近平正被围攻？前军官再报猛料</a></li>
+<li><a href="/finance/20230917/1934829.md">大势所趋！铁饭碗没了</a></li>
 <li><a href="/headline/20230917/1934986.md">查李尚福 国际担心习近平政权</a></li>
 <li><a href="/comments/20230917/1934787.md">北京正被亲密盟友“逼宫”</a></li>
-<li><a href="/baitai/20230917/1934805.md">内幕：装备部是太子党钱袋子 火箭军对习不忠</a></li>
 <li><a href="/cnnews/20230917/1934851.md">中美重磅！美国会：立即撤回80亿美金</a></li>
+<li><a href="/baitai/20230917/1934805.md">内幕：装备部是太子党钱袋子 火箭军对习不忠</a></li>
 <li><a href="/lifebaike/20230917/1934953.md">人过六十，不管兄弟姐妹关系多好，都不能轻易亮出这3张底牌</a></li>
 <li><a href="/ssgc/20230917/1934875.md">〖微博谈〗习能招来 也能挥去</a></li>
 <li><a href="/funmedia/20230917/1934841.md">西藏路边的白色帐篷为啥不能进？藏民表示：进去容易出来难呐</a></li>
 <li><a href="/cnnews/20230917/1934782.md">乌军全歼俄第72旅 俄第247空降师师长被击毙</a></li>
+<li><a href="/sohnews/20230917/1934894.md">张志新被割喉，毛远新遭现世报，女儿和外孙女都是哑吧；毛远新的储君梦是如何破碎的？【历史真相】｜薇羽看世间</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
 <li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
 
 </ul>
 </div>
