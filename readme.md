@@ -10,24 +10,24 @@
 <li><a href="/cnnews/20230918/1935059.md">浙江高中美女师惊爆“淫乱同校12教师” 工作群组发讯：我只是拿你玩玩</a></li>
 <li><a href="/topimagenews/20230918/1935168.md">〖微博谈〗中南海上演《无人生还》 静等咽气</a></li>
 <li><a href="/lifebaike/20230917/1935025.md">【老照片】中共党史不愿提及的照片 汪精卫的一任秘书竟然是……</a></li>
-<li><a href="/baitai/20230917/1934992.md">体内有癌，睡眠先知</a></li>
 <li><a href="/cnnews/20230918/1935053.md">张柏芝3儿生父被揭露？中国红三代富商发声明辟谣</a></li>
 <li><a href="/topimagenews/20230918/1935055.md">日媒曝北京暗中要求电动车厂、半导体用国产零件 未达标恐受罚</a></li>
 <li><a href="/topimagenews/20230918/1935100.md">关停！中国零售“收购王”“超市一哥”撑不住了？</a></li>
 <li><a href="/ccpdope/20230917/1935005.md">浅析中共的「借口传声术」：曾克强踢走习近平</a></li>
+<li><a href="/sohnews/20230917/1935002.md">文睿：我说啥了，华为，就是一个笑话，现在服了吧？欢迎华为水军给我送流量</a></li>
 <li><a href="/topimagenews/20230918/1935085.md">不实?美女班主任自曝与校书记三次开房收30万</a></li>
 <li><a href="/ssgc/20230918/1935176.md">〖微博谈〗国家很忙</a></li>
-<li><a href="/sohnews/20230917/1935002.md">文睿：我说啥了，华为，就是一个笑话，现在服了吧？欢迎华为水军给我送流量</a></li>
 <li><a href="/cnnews/20230918/1935033.md">华人血统辣妻传遭马斯克偷吃 Google创办人低调离婚了</a></li>
-<li><a href="/cnnews/20230918/1935089.md">女子在夜市比这个手势，路过网友立刻报警</a></li>
+<li><a href="/cbnews/20230918/1935188.md">〖兲朝浮世绘〗还敢恶意唉声叹气吗？</a></li>
 <li><a href="/cbnews/20230918/1935099.md">江峰：普京给习近平的绝笔信</a></li>
+<li><a href="/cnnews/20230918/1935089.md">女子在夜市比这个手势，路过网友立刻报警</a></li>
 <li><a href="/cnnews/20230918/1935043.md">每年夺2万人性命！“最致命”泰国菜恐致癌</a></li>
 <li><a href="/topimagenews/20230918/1935060.md">马斯克曾因这件事差点丧命 对特斯拉工程师大发飙</a></li>
-<li><a href="/cbnews/20230918/1935188.md">〖兲朝浮世绘〗还敢恶意唉声叹气吗？</a></li>
-<li><a href="/sohnews/20230917/1934998.md">中共看了也害怕，俄罗斯最强防空武器S400，如何被乌克兰海王星反舰导弹击毁？｜ #探索时分</a></li>
 <li><a href="/ssgc/20230917/1935026.md">步秦刚李尚福后尘的“下一个”会是谁？</a></li>
 <li><a href="/comments/20230918/1935081.md">文昭：东北，请不要为我哭泣！什麽导致了东北10多年的振而不兴？泣之以泪、继之以血【会员样片节选】</a></li>
 <li><a href="/sohnews/20230917/1935014.md">西方资本撤离再加速！韭菜放风期提前结束！大内爆的日子不远了｜政经孙老师 Mr. Sun Official</a></li>
+<li><a href="/cbnews/20230918/1935102.md">郑州一个烟头致全楼验DNA？！案例太多，已成大患</a></li>
+<li><a href="/bblog/20230918/1935093.md">〖微历史〗结果连印第安人长什么样都不知道</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
 
 </ul>
 </div>
