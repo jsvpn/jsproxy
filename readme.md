@@ -10,8 +10,8 @@
 <li><a href="/topimagenews/20230918/1935326.md">曾庆红被千亿美元巨款逼急了？江派突然敲打习近平【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230918/1935099.md">江峰：普京给习近平的绝笔信</a></li>
 <li><a href="/topimagenews/20230918/1935100.md">关停！中国零售“收购王”“超市一哥”撑不住了？</a></li>
-<li><a href="/topimagenews/20230918/1935085.md">不实?美女班主任自曝与校书记三次开房收30万</a></li>
 <li><a href="/cbnews/20230918/1935188.md">〖兲朝浮世绘〗还敢恶意唉声叹气吗？</a></li>
+<li><a href="/topimagenews/20230918/1935085.md">不实?美女班主任自曝与校书记三次开房收30万</a></li>
 <li><a href="/baitai/20230918/1935375.md">李尚福风波不容忽视 分析指真正的血雨腥风要来了</a></li>
 <li><a href="/ssgc/20230918/1935176.md">〖微博谈〗国家很忙</a></li>
 <li><a href="/sohnews/20230918/1935273.md">“习氏王朝未立先崩！所有独裁者完结篇的定数 ⋯⋯ 不忠与阴谋”No 01（09 17 23）</a></li>
@@ -27,7 +27,7 @@
 <li><a href="/headline/20230918/1935310.md">习近平再被称是独裁者 中国“强烈不满”德国外长言论</a></li>
 <li><a href="/cbnews/20230918/1935102.md">郑州一个烟头致全楼验DNA？！案例太多，已成大患</a></li>
 <li><a href="/comments/20230918/1935081.md">文昭：东北，请不要为我哭泣！什麽导致了东北10多年的振而不兴？泣之以泪、继之以血【会员样片节选】</a></li>
-<li><a href="/comments/20230918/1935370.md">习仲勋陵园龙穴所在？</a></li>
+<li><a href="/comments/20230918/1935405.md">香港评论家颜纯钩：习近平众判亲离 自毁江山 宛如明末崇祯帝</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230919/1935522.md" target="_blank">美国思想领袖：【精彩片段】中共高层动荡 习近平有何终极目标？蔡奇据称下两大命令 限制习外交活动 &#8211; #新闻大家谈</a></li>
+<li><a href="/cbnews/20230919/1935521.md" target="_blank">美国思想领袖：【精彩片段】张又侠步李尚福後尘被失踪？习近平清洗军头有何目的？- #新闻大家谈</a></li>
 <li><a href="/cbnews/20230918/1935417.md" target="_blank">国务院：布林肯与中国国家副主席韩正 将在纽约会面</a></li>
 <li><a href="/comments/20230918/1935373.md" target="_blank">推背图预言之灾</a></li>
 <li><a href="/comments/20230918/1935372.md" target="_blank">推背图46象</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230918/1935099.md" target="_blank">江峰：普京给习近平的绝笔信</a></li>
 <li><a href="/comments/20230918/1935095.md" target="_blank">宋征时: 北京戒严部队番号、代号索引</a></li>
 <li><a href="/cbnews/20230918/1935086.md" target="_blank">谈谈“预制菜进校园”：林冲牌预制菜</a></li>
-<li><a href="/cbnews/20230917/1934957.md" target="_blank">美国防部评估：中共是最大的生物战威胁</a></li>
-<li><a href="/cbnews/20230917/1934931.md" target="_blank">疯狂挖鼻孔！四川女罹鼻窦炎7年 医开刀惊见“10多团真菌”?翻</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 <li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 
 </ul>
 </div>
