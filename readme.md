@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/sohnews/20230917/1934943.md">秦刚自尽讣告21天后公布，蔡奇统管政府事务架空李强，习肃清红二代为政治变革。《老灯开讲第386期》</a></li>
-<li><a href="/topimagenews/20230917/1934958.md">习近平要曾庆红交代香港银行千亿美元巨款背景</a></li>
 <li><a href="/baitai/20230917/1935013.md">习近平正被围攻？前军官再报猛料</a></li>
+<li><a href="/topimagenews/20230917/1934958.md">习近平要曾庆红交代香港银行千亿美元巨款背景</a></li>
 <li><a href="/topimagenews/20230917/1934942.md">全跑了 1.37万亿元人民币外资流出 中国经济风雨飘摇</a></li>
 <li><a href="/topimagenews/20230917/1934980.md">担心田明建事件再现？中共军方突然这么说【阿波罗网报道】</a></li>
 <li><a href="/headline/20230917/1934986.md">查李尚福 国际担心习近平政权</a></li>
 <li><a href="/cnnews/20230918/1935059.md">浙江高中美女师惊爆“淫乱同校12教师” 工作群组发讯：我只是拿你玩玩</a></li>
-<li><a href="/ssgc/20230917/1934875.md">〖微博谈〗习能招来 也能挥去</a></li>
 <li><a href="/lifebaike/20230917/1934953.md">人过六十，不管兄弟姐妹关系多好，都不能轻易亮出这3张底牌</a></li>
+<li><a href="/ssgc/20230917/1934875.md">〖微博谈〗习能招来 也能挥去</a></li>
 <li><a href="/sohnews/20230917/1934894.md">张志新被割喉，毛远新遭现世报，女儿和外孙女都是哑吧；毛远新的储君梦是如何破碎的？【历史真相】｜薇羽看世间</a></li>
 <li><a href="/cbnews/20230917/1934931.md">疯狂挖鼻孔！四川女罹鼻窦炎7年 医开刀惊见“10多团真菌”?翻</a></li>
-<li><a href="/comments/20230917/1934918.md">暗合政变预言? 军委副主席如今和习近平关系微妙</a></li>
+<li><a href="/comments/20230918/1935077.md">天亮时分：与官僚博弈完败收场，习近平结局堪忧；王毅终于露面，跑到马耳他见沙利文（政论天下第1112集 20230916）</a></li>
 <li><a href="/lifebaike/20230917/1935025.md">【老照片】中共党史不愿提及的照片 汪精卫的一任秘书竟然是……</a></li>
+<li><a href="/comments/20230917/1934918.md">暗合政变预言? 军委副主席如今和习近平关系微妙</a></li>
 <li><a href="/baitai/20230917/1934992.md">体内有癌，睡眠先知</a></li>
 <li><a href="/cnnews/20230918/1935053.md">张柏芝3儿生父被揭露？中国红三代富商发声明辟谣</a></li>
-<li><a href="/cbnews/20230917/1934858.md">百斤杠铃压喉咙 武汉男卧推 挣扎一分钟后身亡</a></li>
-<li><a href="/comments/20230918/1935077.md">天亮时分：与官僚博弈完败收场，习近平结局堪忧；王毅终于露面，跑到马耳他见沙利文（政论天下第1112集 20230916）</a></li>
 <li><a href="/sohnews/20230917/1935002.md">文睿：我说啥了，华为，就是一个笑话，现在服了吧？欢迎华为水军给我送流量</a></li>
 <li><a href="/topimagenews/20230918/1935055.md">日媒曝北京暗中要求电动车厂、半导体用国产零件 未达标恐受罚</a></li>
-<li><a href="/comments/20230917/1934854.md">【杰森视角】习近平新近提拔的高官为何不断人间消失？下一个消失的中共高官会是谁？火箭军高层被习安排在李玉超身边的线人出卖！装备发展部表面在挖李尚福的黑材料，结果却可能引出大鱼！习的动机你完全想不到！</a></li>
 <li><a href="/ccpdope/20230917/1935005.md">浅析中共的「借口传声术」：曾克强踢走习近平</a></li>
 <li><a href="/topimagenews/20230917/1934929.md">销量百万!中国79元“赛博保健品”引爆今年最大惨案</a></li>
 <li><a href="/comments/20230917/1934897.md">天亮时分：李尚福之後，军委副主席张又侠也失踪；最後基本盘崩塌，习近平要向太子党开战（YouTube会员节目第35集 20230916）天亮时分 Edited</a></li>
+<li><a href="/cnnews/20230918/1935033.md">华人血统辣妻传遭马斯克偷吃 Google创办人低调离婚了</a></li>
+<li><a href="/cnnews/20230918/1935043.md">每年夺2万人性命！“最致命”泰国菜恐致癌</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230918/1935168.md" target="_blank">〖微博谈〗中南海上演《无人生还》 静等咽气</a></li>
 <li><a href="/topimagenews/20230918/1935160.md" target="_blank">针对中共 印度将在中印边界旁建设世界最高海拔军用机场</a></li>
 <li><a href="/topimagenews/20230918/1935159.md" target="_blank">全球生技泡沫爆裂 西方风险投资快速撤离中国生技制药业</a></li>
 <li><a href="/topimagenews/20230918/1935136.md" target="_blank">中共间谍气球在美情搜？美军参谋长终于说了</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230916/1934297.md" target="_blank">中美相争！印度得利 连这间华企都忍辱赴印抢市场…</a></li>
 <li><a href="/topimagenews/20230916/1934274.md" target="_blank">嘴上吐槽身体诚实！陆iPhone 15 Pro京东预约逼近300万</a></li>
 <li><a href="/topimagenews/20230915/1934263.md" target="_blank">美三大车厂大罢工要求比照高层加薪4成 福特：加了会破产</a></li>
-<li><a href="/topimagenews/20230915/1934262.md" target="_blank">乌克兰续轰克里米亚！摧毁俄罗斯S-400防空系统 12亿美元没了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
 <li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
 
 </ul>
 </div>
