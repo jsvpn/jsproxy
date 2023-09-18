@@ -6,10 +6,9 @@
 <ul>
 
 <li><a href="/sohnews/20230917/1934943.md">秦刚自尽讣告21天后公布，蔡奇统管政府事务架空李强，习肃清红二代为政治变革。《老灯开讲第386期》</a></li>
-<li><a href="/comments/20230917/1934816.md">众叛亲离根基动摇，习近平陷孤绝处境</a></li>
 <li><a href="/topimagenews/20230917/1934958.md">习近平要曾庆红交代香港银行千亿美元巨款背景</a></li>
-<li><a href="/baitai/20230917/1935013.md">习近平正被围攻？前军官再报猛料</a></li>
 <li><a href="/ccpdope/20230917/1934838.md">中共权力分配出现异常 外界始料未及</a></li>
+<li><a href="/baitai/20230917/1935013.md">习近平正被围攻？前军官再报猛料</a></li>
 <li><a href="/cbnews/20230917/1934827.md">央视照妖镜来了 瞬间暴露大明星们真实状态</a></li>
 <li><a href="/topimagenews/20230917/1934942.md">全跑了 1.37万亿元人民币外资流出 中国经济风雨飘摇</a></li>
 <li><a href="/finance/20230917/1934829.md">大势所趋！铁饭碗没了</a></li>
@@ -17,17 +16,18 @@
 <li><a href="/headline/20230917/1934986.md">查李尚福 国际担心习近平政权</a></li>
 <li><a href="/cnnews/20230917/1934851.md">中美重磅！美国会：立即撤回80亿美金</a></li>
 <li><a href="/lifebaike/20230917/1934953.md">人过六十，不管兄弟姐妹关系多好，都不能轻易亮出这3张底牌</a></li>
+<li><a href="/cnnews/20230918/1935059.md">浙江高中美女师惊爆“淫乱同校12教师” 工作群组发讯：我只是拿你玩玩</a></li>
 <li><a href="/ssgc/20230917/1934875.md">〖微博谈〗习能招来 也能挥去</a></li>
 <li><a href="/funmedia/20230917/1934841.md">西藏路边的白色帐篷为啥不能进？藏民表示：进去容易出来难呐</a></li>
-<li><a href="/cnnews/20230918/1935059.md">浙江高中美女师惊爆“淫乱同校12教师” 工作群组发讯：我只是拿你玩玩</a></li>
-<li><a href="/cbnews/20230917/1934931.md">疯狂挖鼻孔！四川女罹鼻窦炎7年 医开刀惊见“10多团真菌”?翻</a></li>
-<li><a href="/sohnews/20230917/1934894.md">张志新被割喉，毛远新遭现世报，女儿和外孙女都是哑吧；毛远新的储君梦是如何破碎的？【历史真相】｜薇羽看世间</a></li>
 <li><a href="/comments/20230917/1934918.md">暗合政变预言? 军委副主席如今和习近平关系微妙</a></li>
+<li><a href="/sohnews/20230917/1934894.md">张志新被割喉，毛远新遭现世报，女儿和外孙女都是哑吧；毛远新的储君梦是如何破碎的？【历史真相】｜薇羽看世间</a></li>
+<li><a href="/cbnews/20230917/1934931.md">疯狂挖鼻孔！四川女罹鼻窦炎7年 医开刀惊见“10多团真菌”?翻</a></li>
 <li><a href="/baitai/20230917/1934992.md">体内有癌，睡眠先知</a></li>
 <li><a href="/cbnews/20230917/1934858.md">百斤杠铃压喉咙 武汉男卧推 挣扎一分钟后身亡</a></li>
-<li><a href="/health/20230917/1934813.md">2种鱼已被列入“致癌名单”，吃多了会致癌？这些食物也在其中</a></li>
 <li><a href="/lifebaike/20230917/1935025.md">【老照片】中共党史不愿提及的照片 汪精卫的一任秘书竟然是……</a></li>
+<li><a href="/cnnews/20230918/1935053.md">张柏芝3儿生父被揭露？中国红三代富商发声明辟谣</a></li>
 <li><a href="/sohnews/20230917/1935002.md">文睿：我说啥了，华为，就是一个笑话，现在服了吧？欢迎华为水军给我送流量</a></li>
+<li><a href="/comments/20230917/1934854.md">【杰森视角】习近平新近提拔的高官为何不断人间消失？下一个消失的中共高官会是谁？火箭军高层被习安排在李玉超身边的线人出卖！装备发展部表面在挖李尚福的黑材料，结果却可能引出大鱼！习的动机你完全想不到！</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,11 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230918/1935103.md" target="_blank">这种事，只有中国做得到 新《治安管理处罚法》</a></li>
+<li><a href="/cbnews/20230918/1935102.md" target="_blank">郑州一个烟头致全楼验DNA？！案例太多，已成大患</a></li>
+<li><a href="/cbnews/20230918/1935101.md" target="_blank">在武汉，医生知道真相…但他们被下令保持沉默</a></li>
+<li><a href="/cbnews/20230918/1935099.md" target="_blank">江峰：普京给习近平的绝笔信</a></li>
+<li><a href="/comments/20230918/1935095.md" target="_blank">宋征时: 北京戒严部队番号、代号索引</a></li>
 <li><a href="/cbnews/20230918/1935086.md" target="_blank">谈谈“预制菜进校园”：林冲牌预制菜</a></li>
 <li><a href="/cbnews/20230917/1934957.md" target="_blank">美国防部评估：中共是最大的生物战威胁</a></li>
 <li><a href="/cbnews/20230917/1934931.md" target="_blank">疯狂挖鼻孔！四川女罹鼻窦炎7年 医开刀惊见“10多团真菌”?翻</a></li>
@@ -55,17 +60,14 @@
 <li><a href="/cbnews/20230916/1934592.md" target="_blank">家长交流“是奸情”！重庆女出轨孩子同学爸 更惊爆睡过多位男家长</a></li>
 <li><a href="/cbnews/20230916/1934568.md" target="_blank">江峰：车臣头目卡德罗夫陷重昏迷，普京失普里戈津左膀再失右臂，下毒猜测有依据麽？美情报机构证实李尚福被查，军中红二代清洗扩大；金普会乌军送大礼，土制导弹炸翻S400+潜艇【江峰漫谈20230915第730期】</a></li>
 <li><a href="/comments/20230916/1934563.md" target="_blank">感人一幕！川普在美国关注女性峰会上发表讲话，观众一起为川普祈祷，愿神保佑川普平安。</a></li>
-<li><a href="/cbnews/20230916/1934542.md" target="_blank">〖兲朝浮世绘〗中共生怕马斯克的自由思想带坏了中国人</a></li>
-<li><a href="/cbnews/20230916/1934481.md" target="_blank">女儿“越长越像洋娃娃” 四川夫妻亲子鉴定得知真相傻眼：这不可能吧</a></li>
-<li><a href="/cbnews/20230916/1934480.md" target="_blank">中科院博士获救后揭缅北诈骗细节 惹来一片质疑</a></li>
-<li><a href="/cbnews/20230916/1934466.md" target="_blank">朝鲜已开始军援俄国 中国恐成最大输家</a></li>
-<li><a href="/cbnews/20230916/1934465.md" target="_blank">堂堂中共国防部长也消失 路透：李尚福及军委会8官员因采购遭调查</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230918/1935100.md" target="_blank">关停！中国零售“收购王”“超市一哥”撑不住了？</a></li>
+<li><a href="/comments/20230918/1935095.md" target="_blank">宋征时: 北京戒严部队番号、代号索引</a></li>
 <li><a href="/topimagenews/20230918/1935085.md" target="_blank">不实?美女班主任自曝与校书记三次开房收30万</a></li>
 <li><a href="/topimagenews/20230918/1935060.md" target="_blank">马斯克曾因这件事差点丧命 对特斯拉工程师大发飙</a></li>
 <li><a href="/topimagenews/20230918/1935055.md" target="_blank">日媒曝北京暗中要求电动车厂、半导体用国产零件 未达标恐受罚</a></li>
@@ -89,14 +91,17 @@
 <li><a href="/topimagenews/20230915/1934251.md" target="_blank">美海军情报文档曝光 估中共造舰产能是美国的200多倍</a></li>
 <li><a href="/topimagenews/20230915/1934250.md" target="_blank">川普批司法体制双标：一种是专对付川普 一种是对待拜登盟友</a></li>
 <li><a href="/topimagenews/20230915/1934237.md" target="_blank">路透：李尚福因“采购贪渎”接受调查 8名高阶官员也在列</a></li>
-<li><a href="/topimagenews/20230915/1934200.md" target="_blank">果粉注意！中国买的iPhone15这功能不能用</a></li>
-<li><a href="/topimagenews/20230915/1934182.md" target="_blank">住饭店选“哪一楼”最安全？美前特工这样说</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230918/1935105.md" target="_blank">你的孩子不会成功就对了（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230918/1935115.md" target="_blank">王文胜：印中边境冲突注定无解</a></li>
+<li><a href="/comments/20230918/1935114.md" target="_blank">汤名晖：“普金会”是在为十月入冬后的铁与血预作准备</a></li>
+<li><a href="/comments/20230918/1935113.md" target="_blank">【首发】剥开习近平&#8221;人类命运共同体&#8221;的伪装</a></li>
+<li><a href="/comments/20230918/1935095.md" target="_blank">宋征时: 北京戒严部队番号、代号索引</a></li>
 <li><a href="/comments/20230918/1935081.md" target="_blank">文昭：东北，请不要为我哭泣！什麽导致了东北10多年的振而不兴？泣之以泪、继之以血【会员样片节选】</a></li>
 <li><a href="/comments/20230918/1935077.md" target="_blank">天亮时分：与官僚博弈完败收场，习近平结局堪忧；王毅终于露面，跑到马耳他见沙利文（政论天下第1112集 20230916）</a></li>
 <li><a href="/comments/20230918/1935041.md" target="_blank">【独家重磅】李燕铭：中共党员染疫死亡人数惊人 中组部统计公报现重大异常 赵乐际执掌中组部期间党员人数公然造假 习近平亲信陈希接掌中组部后低级手法掩饰欲盖弥彰 中共末日之病毒亡共（39） 习近平连任与中共末日（170）</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230917/1934816.md" target="_blank">众叛亲离根基动摇，习近平陷孤绝处境</a></li>
 <li><a href="/comments/20230917/1934804.md" target="_blank">新州：中共末日哀鸣“抓特务”</a></li>
 <li><a href="/comments/20230917/1934803.md" target="_blank">英慧：红蝗梦幻灭</a></li>
-<li><a href="/comments/20230917/1934802.md" target="_blank">李彦白：中共对台认知战触目惊心 台湾需反击</a></li>
-<li><a href="/comments/20230917/1934801.md" target="_blank">周晓辉：张又侠获得习的全然信任了吗？</a></li>
-<li><a href="/comments/20230917/1934800.md" target="_blank">网海拾贝：“薛定谔的李尚福”</a></li>
-<li><a href="/comments/20230917/1934799.md" target="_blank">钟原：军队大事迭出 中共政局添变数</a></li>
-<li><a href="/comments/20230917/1934797.md" target="_blank">文昭：习近平愤而拔插头，会有什么后果？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
 <li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
 
 </ul>
 </div>
