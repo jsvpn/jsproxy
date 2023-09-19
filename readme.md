@@ -22,12 +22,12 @@
 <li><a href="/sohnews/20230918/1935291.md">陈破空：逃过一劫！王毅重新露面。传神秘人保下他！老习服软，让他跟美方密谈两天。军报影射他乱作为：拍脑袋做决定！躺平，摆烂</a></li>
 <li><a href="/headline/20230918/1935310.md">习近平再被称是独裁者 中国“强烈不满”德国外长言论</a></li>
 <li><a href="/comments/20230918/1935405.md">香港评论家颜纯钩：习近平众判亲离 自毁江山 宛如明末崇祯帝</a></li>
+<li><a href="/comments/20230919/1935535.md">习近平嗜饮茅台 茅台酒成红色传统官场祸水 马英九只听到一小段</a></li>
 <li><a href="/comments/20230918/1935370.md">习仲勋陵园龙穴所在？</a></li>
 <li><a href="/ssgc/20230918/1935400.md">何清涟：中国防长李尚福及军工集团被整肃的来龙去脉</a></li>
-<li><a href="/comments/20230918/1935371.md">秦岭违建别墅案：保龙脉大戏</a></li>
-<li><a href="/comments/20230919/1935535.md">习近平嗜饮茅台 茅台酒成红色传统官场祸水 马英九只听到一小段</a></li>
 <li><a href="/topimagenews/20230918/1935401.md">华为新机的死穴？高层爆国产芯片是“小学生面对博士生”</a></li>
-<li><a href="/cbnews/20230918/1935196.md">浙江女骑车遭8大狗“站整排包围”！浪浪见她1反应尴尬了：这女人太狠</a></li>
+<li><a href="/comments/20230918/1935371.md">秦岭违建别墅案：保龙脉大戏</a></li>
+<li><a href="/topimagenews/20230919/1935583.md">全球第二要离开中国！转向这三国生产</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230919/1935712.md" target="_blank">江峰：军队巨变！中央军委2副主席4委员存活一半，军队大清洗进入白热化。张又侠世交重臣也难保，国防部长李尚福倒台，6个月的参谋总长刘振立夭寿。军报开始自曝家丑。【江峰漫谈20230918第731期】</a></li>
 <li><a href="/comments/20230919/1935685.md" target="_blank">加州放纵派五法案并进 夺加州教育大权【方伟时间-20230918】</a></li>
 <li><a href="/comments/20230919/1935663.md" target="_blank">特勤局特工打破60年沉默，肯尼迪遇刺真相现转机。小罗伯特·肯尼迪险遭暗杀，寻求保护被拜登拒绝。#肯尼迪 #魔幻子弹 #小罗伯特</a></li>
 <li><a href="/cbnews/20230919/1935654.md" target="_blank">“9958”配捐后 数十名白血病患儿救命钱被卷走</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230918/1935219.md" target="_blank">土到极致就是潮？杭州地铁广告“土”出圈了</a></li>
 <li><a href="/cbnews/20230918/1935207.md" target="_blank">江苏员工体检报告被写“智商偏低” 网炸锅反击医生：没事找事？</a></li>
 <li><a href="/cbnews/20230918/1935196.md" target="_blank">浙江女骑车遭8大狗“站整排包围”！浪浪见她1反应尴尬了：这女人太狠</a></li>
-<li><a href="/cbnews/20230918/1935188.md" target="_blank">〖兲朝浮世绘〗还敢恶意唉声叹气吗？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">你的孩子不会成功就对了（3）&#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
 
 </ul>
 </div>
