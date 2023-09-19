@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/topimagenews/20230919/1935762.md">最新消息！中共内部通报秦刚落马原因</a></li>
-<li><a href="/cbnews/20230919/1935561.md">“王沙会”多细节：中美最后窗口即将关闭</a></li>
 <li><a href="/finance/20230919/1935584.md">开始雷霆式抓人了</a></li>
 <li><a href="/comments/20230919/1935720.md">习近平突抓军委纪检书记张升民，王毅痛哭骂自己一文不值求放过！习决战红二代，8人名单曝光</a></li>
 <li><a href="/topimagenews/20230919/1935672.md">【微博精粹】赵党万万想不到 浓眉大眼的谭书记叛变革命了</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/cbnews/20230919/1935727.md">〖兲朝浮世绘〗要把一尊打造成“神”是一件非常艰难的事情</a></li>
 <li><a href="/finance/20230919/1935746.md">从未发生的一幕正在中国上演</a></li>
 <li><a href="/topimagenews/20230919/1935722.md">好日子正在远去 坏日子正在到来</a></li>
-<li><a href="/cbnews/20230919/1935712.md">江峰：军队巨变！中央军委2副主席4委员存活一半，军队大清洗进入白热化。张又侠世交重臣也难保，国防部长李尚福倒台，6个月的参谋总长刘振立夭寿。军报开始自曝家丑。【江峰漫谈20230918第731期】</a></li>
 <li><a href="/topimagenews/20230919/1935867.md">秦刚丢官行踪成谜 华尔街日报爆：驻美期间婚外情、有私生子</a></li>
-<li><a href="/sohnews/20230919/1935563.md">陈破空：纵酒误国？疯传习近平嗜饮故事！连马英九都提供旁证。难怪国政大乱！王毅闭门检讨内幕，丢尽老脸！直播与互动：美东时间9月18日晚8点30、即中港台9月19早8点30</a></li>
+<li><a href="/cbnews/20230919/1935712.md">江峰：军队巨变！中央军委2副主席4委员存活一半，军队大清洗进入白热化。张又侠世交重臣也难保，国防部长李尚福倒台，6个月的参谋总长刘振立夭寿。军报开始自曝家丑。【江峰漫谈20230918第731期】</a></li>
 <li><a href="/sohnews/20230919/1935411.md">独家：王毅似乎已不再是外交部长，谁会接任？过去五天诸多迷之操作显示，中共或许正在积极说服俄罗斯和谈</a></li>
 <li><a href="/ccpdope/20230919/1935768.md">政局惊人动荡 习政权到底出了什么事？</a></li>
+<li><a href="/topimagenews/20230919/1935918.md">碧桂园仅是开场？ WSJ：更大的地产危机正威胁中国经济</a></li>
+<li><a href="/cnnews/20230919/1935733.md">中共军方高层又出事? 李尚福后 张升民“打虎”得罪不少高官 可能“落马”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230920/1936040.md" target="_blank">余茂春：两大误判令中共在内外方针上走向歧途</a></li>
+<li><a href="/comments/20230920/1936039.md" target="_blank">周晓辉：11月会有习拜会吗?</a></li>
+<li><a href="/comments/20230920/1936038.md" target="_blank">夏林：食碗面反碗底 加国两议员为中共辩护为哪般？</a></li>
 <li><a href="/comments/20230920/1936026.md" target="_blank">吴奕军：这新规是信号！中共正在纳粹化</a></li>
 <li><a href="/comments/20230920/1935959.md" target="_blank">时事大家谈：第78届联合国大会特别节目</a></li>
 <li><a href="/comments/20230919/1935923.md" target="_blank">【秦鹏观察】怕军人造反习近平强调为官兵解决困难 预制菜进校园</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230919/1935653.md" target="_blank">天亮时分：从全球唱衰中共经济，到全球倒习；王毅不寻常的欧洲之行，中朝俄三国貌合神离（政论天下第1113集 20230918）天亮时分</a></li>
 <li><a href="/comments/20230919/1935643.md" target="_blank">宋国诚：这种事，只有中国做得到</a></li>
 <li><a href="/comments/20230919/1935640.md" target="_blank">杨宪宏：习特勒玩垮中国：不知亡国近 杭州当汴州</a></li>
-<li><a href="/comments/20230919/1935594.md" target="_blank">恒大财富法人被抓，金融骗局无解；华尔街银行高官被要求学习思想，外资能忍到几时？｜谢田 方菲 ｜新闻烽火台 09/18</a></li>
-<li><a href="/comments/20230919/1935581.md" target="_blank">文昭：无法再拖延了，恒大高层被抓！因为更致命的TA已经登场了&#8230;</a></li>
-<li><a href="/comments/20230919/1935535.md" target="_blank">习近平嗜饮茅台 茅台酒成红色传统官场祸水 马英九只听到一小段</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
 <li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
 
 </ul>
 </div>
