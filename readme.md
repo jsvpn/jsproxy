@@ -7,27 +7,27 @@
 
 <li><a href="/topimagenews/20230918/1935326.md">曾庆红被千亿美元巨款逼急了？江派突然敲打习近平【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230918/1935375.md">李尚福风波不容忽视 分析指真正的血雨腥风要来了</a></li>
-<li><a href="/lifebaike/20230918/1935200.md">手机的飞行模式，原来这么厉害，天天都用得上，很多人还不知道</a></li>
 <li><a href="/sohnews/20230918/1935273.md">“习氏王朝未立先崩！所有独裁者完结篇的定数 ⋯⋯ 不忠与阴谋”No 01（09 17 23）</a></li>
 <li><a href="/cnnews/20230918/1935214.md">华为根本打不赢苹果？知名分析师不忍了！真心话太残酷</a></li>
 <li><a href="/baitai/20230918/1935374.md">中共内部一片混乱 习近平顾虑安全已到「着魔」？</a></li>
 <li><a href="/topimagenews/20230919/1935531.md">惊曝习总加速师给“帝国的掘墓人”超高待遇</a></li>
-<li><a href="/worldnews/20230918/1935197.md">惊曝：金正恩访俄其实是向中共表达不满</a></li>
 <li><a href="/comments/20230918/1935365.md">最有力证据！他最担心的预言！正解《推背图》46象！爆冷成语，一语成谶！惊现背后插刀的人！朝代根基！秦岭龙脉之争，中华风水界暗流涌动！｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20230919/1935561.md">“王沙会”多细节：中美最后窗口即将关闭</a></li>
 <li><a href="/cbnews/20230918/1935219.md">土到极致就是潮？杭州地铁广告“土”出圈了</a></li>
 <li><a href="/ccpdope/20230919/1935466.md">王毅过关内幕 习近平实现野心的两手策略</a></li>
-<li><a href="/topimagenews/20230918/1935268.md">中国中小银行命悬一线；3年后中国经济更艰难 转口贸易下一步就是替代；杠上了要出大事</a></li>
 <li><a href="/comments/20230919/1935535.md">习近平嗜饮茅台 茅台酒成红色传统官场祸水 马英九只听到一小段</a></li>
+<li><a href="/topimagenews/20230918/1935268.md">中国中小银行命悬一线；3年后中国经济更艰难 转口贸易下一步就是替代；杠上了要出大事</a></li>
 <li><a href="/sohnews/20230918/1935291.md">陈破空：逃过一劫！王毅重新露面。传神秘人保下他！老习服软，让他跟美方密谈两天。军报影射他乱作为：拍脑袋做决定！躺平，摆烂</a></li>
 <li><a href="/headline/20230918/1935310.md">习近平再被称是独裁者 中国“强烈不满”德国外长言论</a></li>
+<li><a href="/topimagenews/20230919/1935583.md">全球第二要离开中国！转向这三国生产</a></li>
 <li><a href="/comments/20230918/1935405.md">香港评论家颜纯钩：习近平众判亲离 自毁江山 宛如明末崇祯帝</a></li>
 <li><a href="/comments/20230918/1935370.md">习仲勋陵园龙穴所在？</a></li>
-<li><a href="/topimagenews/20230919/1935583.md">全球第二要离开中国！转向这三国生产</a></li>
 <li><a href="/cnnews/20230919/1935551.md">中国迄今最严重的危机！？美媒预告</a></li>
 <li><a href="/ssgc/20230918/1935400.md">何清涟：中国防长李尚福及军工集团被整肃的来龙去脉</a></li>
 <li><a href="/topimagenews/20230918/1935401.md">华为新机的死穴？高层爆国产芯片是“小学生面对博士生”</a></li>
+<li><a href="/sohnews/20230919/1935563.md">陈破空：纵酒误国？疯传习近平嗜饮故事！连马英九都提供旁证。难怪国政大乱！王毅闭门检讨内幕，丢尽老脸！直播与互动：美东时间9月18日晚8点30、即中港台9月19早8点30</a></li>
 <li><a href="/comments/20230918/1935371.md">秦岭违建别墅案：保龙脉大戏</a></li>
+<li><a href="/ccpdope/20230919/1935526.md">习不信任赵乐际内幕 李尚福失踪产生四大影响</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20230919/1935732.md" target="_blank">李尚福被抓 大概率发生令习切齿事件</a></li>
 <li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
 <li><a href="/comments/20230919/1935720.md" target="_blank">习近平突抓军委纪检书记张升民，王毅痛哭骂自己一文不值求放过！习决战红二代，8人名单曝光</a></li>
 <li><a href="/comments/20230919/1935685.md" target="_blank">加州放纵派五法案并进 夺加州教育大权【方伟时间-20230918】</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230918/1935391.md" target="_blank">【文韬政论】美俄中外交战升级下的全球地缘政治前景</a></li>
 <li><a href="/comments/20230918/1935373.md" target="_blank">推背图预言之灾</a></li>
 <li><a href="/comments/20230918/1935372.md" target="_blank">推背图46象</a></li>
-<li><a href="/comments/20230918/1935371.md" target="_blank">秦岭违建别墅案：保龙脉大戏</a></li>
-<li><a href="/comments/20230918/1935370.md" target="_blank">习仲勋陵园龙穴所在？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 <li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">你的孩子不会成功就对了（4） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
 
 </ul>
 </div>
