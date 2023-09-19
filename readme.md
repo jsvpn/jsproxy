@@ -11,10 +11,9 @@
 <li><a href="/cbnews/20230919/1935561.md">“王沙会”多细节：中美最后窗口即将关闭</a></li>
 <li><a href="/comments/20230919/1935535.md">习近平嗜饮茅台 茅台酒成红色传统官场祸水 马英九只听到一小段</a></li>
 <li><a href="/comments/20230919/1935720.md">习近平突抓军委纪检书记张升民，王毅痛哭骂自己一文不值求放过！习决战红二代，8人名单曝光</a></li>
-<li><a href="/topimagenews/20230919/1935672.md">【微博精粹】赵党万万想不到 浓眉大眼的谭书记叛变革命了</a></li>
 <li><a href="/finance/20230919/1935584.md">开始雷霆式抓人了</a></li>
+<li><a href="/topimagenews/20230919/1935672.md">【微博精粹】赵党万万想不到 浓眉大眼的谭书记叛变革命了</a></li>
 <li><a href="/topimagenews/20230919/1935744.md">习近平面临最头疼问题 军队、地方静悄悄全是...【阿波罗网报道】</a></li>
-<li><a href="/comments/20230918/1935405.md">香港评论家颜纯钩：习近平众判亲离 自毁江山 宛如明末崇祯帝</a></li>
 <li><a href="/topimagenews/20230919/1935583.md">全球第二要离开中国！转向这三国生产</a></li>
 <li><a href="/cnnews/20230919/1935551.md">中国迄今最严重的危机！？美媒预告</a></li>
 <li><a href="/baitai/20230919/1935726.md">习动手了？传与上海江家有关联高官被抓到北京</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/finance/20230919/1935746.md">从未发生的一幕正在中国上演</a></li>
 <li><a href="/topimagenews/20230919/1935722.md">好日子正在远去 坏日子正在到来</a></li>
 <li><a href="/sohnews/20230919/1935563.md">陈破空：纵酒误国？疯传习近平嗜饮故事！连马英九都提供旁证。难怪国政大乱！王毅闭门检讨内幕，丢尽老脸！直播与互动：美东时间9月18日晚8点30、即中港台9月19早8点30</a></li>
-<li><a href="/ccpdope/20230919/1935526.md">习不信任赵乐际内幕 李尚福失踪产生四大影响</a></li>
 <li><a href="/cbnews/20230919/1935712.md">江峰：军队巨变！中央军委2副主席4委员存活一半，军队大清洗进入白热化。张又侠世交重臣也难保，国防部长李尚福倒台，6个月的参谋总长刘振立夭寿。军报开始自曝家丑。【江峰漫谈20230918第731期】</a></li>
 <li><a href="/cbnews/20230919/1935727.md">〖兲朝浮世绘〗要把一尊打造成“神”是一件非常艰难的事情</a></li>
-<li><a href="/sohnews/20230919/1935411.md">独家：王毅似乎已不再是外交部长，谁会接任？过去五天诸多迷之操作显示，中共或许正在积极说服俄罗斯和谈</a></li>
+<li><a href="/ccpdope/20230919/1935526.md">习不信任赵乐际内幕 李尚福失踪产生四大影响</a></li>
 <li><a href="/topimagenews/20230919/1935798.md">许家印大结局要来？恒大多人被捕 股价急挫；关停！中国零售收购王超市一哥撑不住了？</a></li>
+<li><a href="/sohnews/20230919/1935411.md">独家：王毅似乎已不再是外交部长，谁会接任？过去五天诸多迷之操作显示，中共或许正在积极说服俄罗斯和谈</a></li>
+<li><a href="/baitai/20230919/1935604.md">中国演员怒摔苹果手机喊不买了 结果耐人寻味</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230919/1935906.md" target="_blank">北京9月起停止出口无人机 俄罗斯部分机型断货</a></li>
 <li><a href="/comments/20230919/1935890.md" target="_blank">文昭：想知着你是怎么被割的吗？收割者是这样玩弄韭菜的“极限心理的”&#8230;</a></li>
 <li><a href="/comments/20230919/1935877.md" target="_blank">美FBI局长警告︰中国骇客规模超过所有主要竞争对手</a></li>
 <li><a href="/comments/20230919/1935876.md" target="_blank">瑞士媒体：习近平搞垮经济 中产阶级的耐心快达极限</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230918/1935448.md" target="_blank">专栏 &#8211; 劳工通讯：广东中山市永明电子有限公司持续发生劳资冲突 (一)</a></li>
 <li><a href="/comments/20230918/1935441.md" target="_blank">评论 &#8211; 王丹：习近平深陷“独裁者困境”</a></li>
 <li><a href="/comments/20230918/1935432.md" target="_blank">时事大家谈：外长防长接连失踪，怎么看中共近期的官场震动？美德外长齐批北京独裁，中国渐成西方最大威胁？</a></li>
-<li><a href="/comments/20230918/1935424.md" target="_blank">台湾东北海域发生6.8级左右地震</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
 <li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
 <li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">你的孩子不会成功就对了（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
 
 </ul>
 </div>
