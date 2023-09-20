@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/topimagenews/20230920/1936016.md">李尚福被抓细节曝光</a></li>
-<li><a href="/baitai/20230919/1935820.md">中国中产阶级要造反？ 外媒发文警告习近平正面临一大危机</a></li>
 <li><a href="/baitai/20230919/1935870.md">中共罕见出兵所为何来？习或遭遇消极兵变</a></li>
 <li><a href="/sohnews/20230919/1935846.md">陈破空：惊传张升民被带走？上将，军纪委书记。中央军委停摆！党内通报秦刚案：轻轻地，仅聚焦婚外情。直播与互动：美东时间9月19日早8点30、即中港台9月19日晚8点30</a></li>
 <li><a href="/ccpdope/20230919/1935844.md">习近平步步惊心 九个决策错误</a></li>
@@ -15,19 +14,20 @@
 <li><a href="/topimagenews/20230919/1935867.md">秦刚丢官行踪成谜 华尔街日报爆：驻美期间婚外情、有私生子</a></li>
 <li><a href="/lifebaike/20230920/1936018.md">三大美女貌如天仙 个个悲惨死去</a></li>
 <li><a href="/cbnews/20230920/1936046.md">中国重机女神隧道自撞身亡 男友悲痛证实</a></li>
-<li><a href="/comments/20230920/1936026.md">吴奕军：这新规是信号！中共正在纳粹化</a></li>
 <li><a href="/sohnews/20230920/1936096.md">秦刚傅晓田卖国？习明泽美宅曝光；秦刚案被掩盖的真相【新闻看点 李沐阳9.19】</a></li>
+<li><a href="/comments/20230920/1936026.md">吴奕军：这新规是信号！中共正在纳粹化</a></li>
 <li><a href="/topimagenews/20230919/1935918.md">碧桂园仅是开场？ WSJ：更大的地产危机正威胁中国经济</a></li>
 <li><a href="/topimagenews/20230920/1936068.md">中国这组官民数据 对比太强烈了</a></li>
 <li><a href="/topimagenews/20230920/1936023.md">欧盟发难！北京需澄清一个问题</a></li>
-<li><a href="/comments/20230920/1936070.md">外媒爆料：秦刚受了“秦二世”的拖累？从秦刚到火箭军到李尚福，习已失控？｜横河 方菲 ｜新闻烽火台 09/19</a></li>
 <li><a href="/headline/20230919/1935908.md">华日: 中国高层通报秦刚事件 重点审查两类官员</a></li>
+<li><a href="/comments/20230920/1936070.md">外媒爆料：秦刚受了“秦二世”的拖累？从秦刚到火箭军到李尚福，习已失控？｜横河 方菲 ｜新闻烽火台 09/19</a></li>
 <li><a href="/cnnews/20230920/1936021.md">杨开慧发现毛泽东污辱了她的堂妹</a></li>
-<li><a href="/ccpdope/20230919/1935821.md">李尚福被抓坐实 习对谁都不放心</a></li>
+<li><a href="/sohnews/20230920/1936264.md">张又侠王小洪京西宾馆密会，习与军队关系已经剑拔弩张，三上将被查导致习末日来临。《老灯开讲第388期》</a></li>
 <li><a href="/yule/20230920/1936028.md">41岁全智贤零滤镜近照曝光，真实颜值惊呆网友/动图</a></li>
 <li><a href="/comments/20230919/1935876.md">瑞士媒体：习近平搞垮经济 中产阶级的耐心快达极限</a></li>
 <li><a href="/sohnews/20230919/1935863.md">美媒警告❗️中国迄今为止最严重的危机，人民币贬值更雪上加霜……</a></li>
 <li><a href="/comments/20230920/1936045.md">文昭：恒大爆雷还算温柔的，有更灭霸级的爆雷登场了...</a></li>
+<li><a href="/comments/20230920/1936040.md">余茂春：两大误判令中共在内外方针上走向歧途</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
 <li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">你的孩子不会成功就对了（3）&#8211;教育避坑指南</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
 
 </ul>
 </div>
