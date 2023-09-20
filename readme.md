@@ -6,10 +6,9 @@
 <ul>
 
 <li><a href="/topimagenews/20230920/1936016.md">李尚福被抓细节曝光</a></li>
-<li><a href="/sohnews/20230920/1935980.md">“独家报导！秦刚罪名被通告 ⋯ 傅晓田-逼婚两败俱伤”No.03（09/19/23）#秦刚#傅晓田</a></li>
 <li><a href="/sohnews/20230920/1936096.md">秦刚傅晓田卖国？习明泽美宅曝光；秦刚案被掩盖的真相【新闻看点 李沐阳9.19】</a></li>
-<li><a href="/lifebaike/20230920/1936018.md">三大美女貌如天仙 个个悲惨死去</a></li>
 <li><a href="/sohnews/20230920/1936264.md">张又侠王小洪京西宾馆密会，习与军队关系已经剑拔弩张，三上将被查导致习末日来临。《老灯开讲第388期》</a></li>
+<li><a href="/lifebaike/20230920/1936018.md">三大美女貌如天仙 个个悲惨死去</a></li>
 <li><a href="/comments/20230920/1936026.md">吴奕军：这新规是信号！中共正在纳粹化</a></li>
 <li><a href="/cbnews/20230920/1936046.md">中国重机女神隧道自撞身亡 男友悲痛证实</a></li>
 <li><a href="/topimagenews/20230920/1936326.md">北京开始雷霆式抓人了；全球第二要离开中国！转向这三国生产；疯狂抛售</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/sohnews/20230920/1936133.md">普京强行访华，王毅欲哭无泪，半年前约的炮含着泪打完？习近平罕见对美示好，G7要求中共对俄施压，中共会与俄切割断臂求生？</a></li>
 <li><a href="/comments/20230920/1936070.md">外媒爆料：秦刚受了“秦二世”的拖累？从秦刚到火箭军到李尚福，习已失控？｜横河 方菲 ｜新闻烽火台 09/19</a></li>
 <li><a href="/topimagenews/20230920/1936023.md">欧盟发难！北京需澄清一个问题</a></li>
-<li><a href="/sohnews/20230920/1936270.md">王芳周小平立功了！中国强拆苏军雕像，因为被举报喀秋莎是辱华歌曲！搞笑的是喀秋莎其实很冤枉，中共煽动民粹自食其果</a></li>
 <li><a href="/topimagenews/20230920/1936300.md">债务风暴 中国这行业全军覆灭</a></li>
-<li><a href="/comments/20230920/1936241.md">李承鹏精辟短评:这就是当下的中国</a></li>
+<li><a href="/sohnews/20230920/1936270.md">王芳周小平立功了！中国强拆苏军雕像，因为被举报喀秋莎是辱华歌曲！搞笑的是喀秋莎其实很冤枉，中共煽动民粹自食其果</a></li>
 <li><a href="/sohnews/20230920/1936357.md">陈破空：北京空气紧张！满城密布暗岗。李尚福被捕细节曝光：在办公室傻等。遭制裁后反而投美。张升民出事因老习迷信？头痛张又侠。直播与互动：美东时间9月20日早8点、即中港台9月20日晚8点</a></li>
-<li><a href="/comments/20230920/1936232.md">储君秦刚突遭外媒吊打，王毅报复性喂料？秦二世惹怒习近平？NO！秦刚在《推背图》中可怕身份被识破</a></li>
+<li><a href="/comments/20230920/1936241.md">李承鹏精辟短评:这就是当下的中国</a></li>
 <li><a href="/sohnews/20230920/1936361.md">文睿：军队大地震，对抗一尊，三路人马，或正在大规模集结</a></li>
+<li><a href="/comments/20230920/1936232.md">储君秦刚突遭外媒吊打，王毅报复性喂料？秦二世惹怒习近平？NO！秦刚在《推背图》中可怕身份被识破</a></li>
 <li><a href="/baitai/20230920/1936377.md">美媒曝秦刚案内幕 学者讨论习政权终局</a></li>
 <li><a href="/cnnews/20230920/1936021.md">杨开慧发现毛泽东污辱了她的堂妹</a></li>
 <li><a href="/ssgc/20230920/1936092.md">〖微博谈〗一切只是时间问题</a></li>
 <li><a href="/comments/20230920/1936045.md">文昭：恒大爆雷还算温柔的，有更灭霸级的爆雷登场了...</a></li>
+<li><a href="/worldnews/20230920/1936272.md">原形毕露 中俄干脆耍流氓</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
 <li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
 
 </ul>
 </div>
