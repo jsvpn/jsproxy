@@ -14,20 +14,20 @@
 <li><a href="/topimagenews/20230920/1936300.md">债务风暴 中国这行业全军覆灭</a></li>
 <li><a href="/comments/20230920/1936241.md">李承鹏精辟短评:这就是当下的中国</a></li>
 <li><a href="/sohnews/20230920/1936357.md">陈破空：北京空气紧张！满城密布暗岗。李尚福被捕细节曝光：在办公室傻等。遭制裁后反而投美。张升民出事因老习迷信？头痛张又侠。直播与互动：美东时间9月20日早8点、即中港台9月20日晚8点</a></li>
-<li><a href="/sohnews/20230920/1936361.md">文睿：军队大地震，对抗一尊，三路人马，或正在大规模集结</a></li>
 <li><a href="/topimagenews/20230921/1936505.md">内部消息：秦刚还没有被完全打倒 要给习近平拱火【阿波罗网报导】</a></li>
-<li><a href="/comments/20230920/1936232.md">储君秦刚突遭外媒吊打，王毅报复性喂料？秦二世惹怒习近平？NO！秦刚在《推背图》中可怕身份被识破</a></li>
+<li><a href="/sohnews/20230920/1936361.md">文睿：军队大地震，对抗一尊，三路人马，或正在大规模集结</a></li>
+<li><a href="/topimagenews/20230921/1936504.md">传习被外交部包了饺子，只有生闷气的份【阿波罗网报导】</a></li>
 <li><a href="/sohnews/20230920/1936421.md">🔥中共高层再现倒习潮 习近平焦头烂额；原形毕露 中俄干脆耍流氓；中共到了重要历史节点？ 海外异议人士评估习政权结局【阿波罗网WS】</a></li>
 <li><a href="/baitai/20230920/1936443.md">网爆习近平现身义乌 现安保疏漏 大阵仗封路惹民怨</a></li>
-<li><a href="/topimagenews/20230921/1936504.md">传习被外交部包了饺子，只有生闷气的份【阿波罗网报导】</a></li>
-<li><a href="/cbnews/20230920/1936213.md">江峰：中央军委张升民再传出事儿，军中清洗向後勤、政工系统蔓延，二十大军委习家军仅存一人外全军覆没；竟不如王毅，李强总理专机待遇被褫夺，亲信被拿下，前途未卜【江峰漫谈20230919第732期】</a></li>
+<li><a href="/comments/20230920/1936232.md">储君秦刚突遭外媒吊打，王毅报复性喂料？秦二世惹怒习近平？NO！秦刚在《推背图》中可怕身份被识破</a></li>
 <li><a href="/worldnews/20230920/1936272.md">原形毕露 中俄干脆耍流氓</a></li>
+<li><a href="/cbnews/20230920/1936213.md">江峰：中央军委张升民再传出事儿，军中清洗向後勤、政工系统蔓延，二十大军委习家军仅存一人外全军覆没；竟不如王毅，李强总理专机待遇被褫夺，亲信被拿下，前途未卜【江峰漫谈20230919第732期】</a></li>
 <li><a href="/ssgc/20230920/1936379.md">习近平在国外接连被称独裁者意味着什么？</a></li>
 <li><a href="/finance/20230920/1936312.md">中国经济困境！教师解聘 制衣厂没生意 铁路欠薪</a></li>
 <li><a href="/baitai/20230920/1936221.md">传中央军纪委书记张升民也出事 「习家军」结局诡异？</a></li>
 <li><a href="/topimagenews/20230920/1936423.md">以为落榜…中国妇人悲惨过30年才知录取书被盗领</a></li>
+<li><a href="/finance/20230921/1936528.md">中国缩影：GDP排行全国第二大省 南京公务员开始发不出工资【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230920/1936191.md">习身边的高僧朋友！习近平是有神论者吗，独裁、左转、保党，都是为了抓权？习在正定县的一段往事，习仲勋对气功的批示｜新闻拍案惊奇 大宇 #路易斯湖出镜｜干净宇论</a></li>
-<li><a href="/funmedia/20230920/1936256.md">7个幽默笑话，传递一下太好笑~</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,10 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230921/1936658.md" target="_blank">海边的西塞罗:你猜，她敢不敢去锁“北极鲶鱼”的喉？</a></li>
+<li><a href="/comments/20230921/1936657.md" target="_blank">历史心发现:这些同事，让我彻底放弃了在国内生孩的想法</a></li>
+<li><a href="/comments/20230921/1936656.md" target="_blank">预制菜进校园最大的问题不是食品安全，而是营养缺陷</a></li>
+<li><a href="/comments/20230921/1936655.md" target="_blank">你不是很“心疼”印第安人么？怎么还嫌人家长得“辱华”？</a></li>
 <li><a href="/comments/20230921/1936646.md" target="_blank">吴奕军：从纳粹不得违背民族健康情感到中共伤害中华民族感情入罪</a></li>
 <li><a href="/comments/20230921/1936645.md" target="_blank">天亮时分：习近平会证明给我们看——反腐败亡党；中亚五国投靠美国；美国国债达到33万亿，已经难以为继？（政论天下第1115集 20230920）天亮时分</a></li>
 <li><a href="/comments/20230921/1936625.md" target="_blank">中国社会一个惊人的事实：事出反常必有妖</a></li>
@@ -118,10 +122,6 @@
 <li><a href="/comments/20230921/1936542.md" target="_blank">文昭：秦刚还有另一种前途；李尚福被抓细节曝光！当中央军委也被「团灭」後，会发生什麽？</a></li>
 <li><a href="/comments/20230921/1936536.md" target="_blank">何清涟：这三件事，决定未来“美中之战”走向</a></li>
 <li><a href="/comments/20230921/1936447.md" target="_blank">中国江苏遭3龙卷风侵袭 10死8伤千栋房屋受损</a></li>
-<li><a href="/comments/20230921/1936446.md" target="_blank">【秦鹏观察】融创在美申请破产保护 房地产正变金融危机</a></li>
-<li><a href="/comments/20230921/1936444.md" target="_blank">不忍了！美国商务部长“炮轰”华为</a></li>
-<li><a href="/comments/20230920/1936433.md" target="_blank">时事大家谈：谭德塞呼吁重启新冠溯源 敦促中国全面准入</a></li>
-<li><a href="/comments/20230920/1936432.md" target="_blank">时事大家谈：王毅访问俄罗斯 北京如何拿捏中俄关系？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 
 </ul>
 </div>
