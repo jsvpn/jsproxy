@@ -10,24 +10,24 @@
 <li><a href="/sohnews/20230921/1936736.md">习秘赴浙江王小洪去江苏，张又侠鱼死网破换来妥协，陈一新成为习最后依靠。《老灯开讲第389期》</a></li>
 <li><a href="/cbnews/20230921/1936681.md">〖兲朝浮世绘〗脱钩在即，未来十年估计是用不着英语了 ……</a></li>
 <li><a href="/comments/20230921/1936542.md">文昭：秦刚还有另一种前途；李尚福被抓细节曝光！当中央军委也被「团灭」後，会发生什麽？</a></li>
-<li><a href="/baitai/20230921/1936827.md">军队元老北戴河沉默施压习近平 军委恐被团灭？广州惊现大量军车</a></li>
 <li><a href="/comments/20230921/1936625.md">中国社会一个惊人的事实：事出反常必有妖</a></li>
+<li><a href="/baitai/20230921/1936827.md">军队元老北戴河沉默施压习近平 军委恐被团灭？广州惊现大量军车</a></li>
 <li><a href="/baitai/20230921/1936547.md">习要打破三条底线？分析：张又侠是关键</a></li>
 <li><a href="/topimagenews/20230921/1936593.md">被轰造假，“千年外星人”被送验，结果却出人意料</a></li>
 <li><a href="/topimagenews/20230921/1936709.md">多次嘲讽习近平＋爆料 美驻日大使惊传被封口</a></li>
 <li><a href="/topimagenews/20230921/1936796.md">习近平躺枪？邓小平：“那就干脆叫‘清华中学’、‘清华小学’，还叫什么大学！’”【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230921/1936829.md">波兰开第一枪！宣布不再供应武器给乌克兰</a></li>
 <li><a href="/cbnews/20230921/1936770.md">中国烧烤店再传爆炸 江苏整条街被炸毁 现场画面曝光</a></li>
+<li><a href="/topimagenews/20230921/1936829.md">波兰开第一枪！宣布不再供应武器给乌克兰</a></li>
 <li><a href="/topimagenews/20230921/1936836.md">中芯7奈米暴雷 专家惊曝2大问题难解</a></li>
 <li><a href="/yule/20230921/1936604.md">“北大校花”北漂13年后，回老家卖臭豆腐</a></li>
 <li><a href="/ccpdope/20230921/1936856.md">这阵势彻底泄露秘密：习近平来了</a></li>
 <li><a href="/topimagenews/20230921/1936708.md">川普长子发文称老爸已死，震撼网 原来是…</a></li>
-<li><a href="/ccpdope/20230921/1936879.md">中央军委传四人出事 全军会议仅苗华出席</a></li>
 <li><a href="/topimagenews/20230921/1936843.md">拜登240亿军援卡关！乌克兰下月起恐面临武器断供</a></li>
+<li><a href="/ccpdope/20230921/1936879.md">中央军委传四人出事 全军会议仅苗华出席</a></li>
 <li><a href="/topimagenews/20230921/1936562.md">中共提这要求简直逆天 特殊存在美国银行不玩了【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230921/1936883.md">17岁重庆女自曝 实习被安排帮男客洗澡、保养前列腺</a></li>
 <li><a href="/topimagenews/20230921/1936693.md">王毅的头衔之谜引发困惑 国务院会议他该坐哪？</a></li>
 <li><a href="/finance/20230921/1936763.md">刚刚，广州打响楼市第一枪，京沪深会跟进吗</a></li>
-<li><a href="/health/20230921/1936596.md">烟瘾、酒瘾、色瘾，哪个更“折寿”？听一句劝：50岁后，别太贪心</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
 <li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">你的孩子不会成功就对了（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
 <li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
 
 </ul>
 </div>
