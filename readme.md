@@ -15,19 +15,19 @@
 <li><a href="/sohnews/20230920/1936421.md">🔥中共高层再现倒习潮 习近平焦头烂额；原形毕露 中俄干脆耍流氓；中共到了重要历史节点？ 海外异议人士评估习政权结局【阿波罗网WS】</a></li>
 <li><a href="/finance/20230921/1936528.md">中国缩影：GDP排行全国第二大省 南京公务员开始发不出工资【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230920/1936379.md">习近平在国外接连被称独裁者意味着什么？</a></li>
+<li><a href="/cbnews/20230921/1936681.md">〖兲朝浮世绘〗脱钩在即，未来十年估计是用不着英语了 ……</a></li>
 <li><a href="/comments/20230921/1936542.md">文昭：秦刚还有另一种前途；李尚福被抓细节曝光！当中央军委也被「团灭」後，会发生什麽？</a></li>
 <li><a href="/topimagenews/20230921/1936593.md">被轰造假，“千年外星人”被送验，结果却出人意料</a></li>
-<li><a href="/cbnews/20230921/1936681.md">〖兲朝浮世绘〗脱钩在即，未来十年估计是用不着英语了 ……</a></li>
 <li><a href="/comments/20230921/1936625.md">中国社会一个惊人的事实：事出反常必有妖</a></li>
 <li><a href="/topimagenews/20230920/1936423.md">以为落榜…中国妇人悲惨过30年才知录取书被盗领</a></li>
 <li><a href="/baitai/20230921/1936547.md">习要打破三条底线？分析：张又侠是关键</a></li>
 <li><a href="/headline/20230921/1936529.md">中国放松签证要求振兴旅游业</a></li>
 <li><a href="/ccpdope/20230921/1936517.md">血洗「带弓军人」 习近平「著魔」</a></li>
-<li><a href="/yule/20230921/1936604.md">“北大校花”北漂13年后，回老家卖臭豆腐</a></li>
-<li><a href="/lifebaike/20230921/1936520.md">为什么在中国和日本之间，爱因斯坦选择了日本？</a></li>
 <li><a href="/topimagenews/20230921/1936709.md">多次嘲讽习近平＋爆料 美驻日大使惊传被封口</a></li>
+<li><a href="/yule/20230921/1936604.md">“北大校花”北漂13年后，回老家卖臭豆腐</a></li>
+<li><a href="/sohnews/20230921/1936736.md">习秘赴浙江王小洪去江苏，张又侠鱼死网破换来妥协，陈一新成为习最后依靠。《老灯开讲第389期》</a></li>
+<li><a href="/lifebaike/20230921/1936520.md">为什么在中国和日本之间，爱因斯坦选择了日本？</a></li>
 <li><a href="/topimagenews/20230921/1936562.md">中共提这要求简直逆天 特殊存在美国银行不玩了【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230921/1936468.md">水炮攻击视同“战争行为”! 补给仁爱礁屡遭中共阻挠 菲总司令放狠话</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
 <li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
 <li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
 
 </ul>
 </div>
