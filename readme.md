@@ -8,7 +8,6 @@
 <li><a href="/sohnews/20230922/1936977.md">女子在商场怒喊：习近平你配当国家主席吗？！粉红从日本回国 追悔莫及！浙江 河北接连大火！红眼病大爆发！老百姓 都啥样了！河南特大暴雨现洪灾！存了150万取不出来 ！“润美”雨林骑马走线！ #新闻前线</a></li>
 <li><a href="/ccpdope/20230921/1936856.md">这阵势彻底泄露秘密：习近平来了</a></li>
 <li><a href="/sohnews/20230922/1937021.md">北戴河会议上一军中大老坐习身旁，一句话没说却压得一尊喘不过气！是否抓张又侠，就看李尚福的了！张又侠真的就是那个带弓人吗？‘新闻最嘲点 姜光宇’2023.0921</a></li>
-<li><a href="/topimagenews/20230921/1936836.md">中芯7奈米暴雷 专家惊曝2大问题难解</a></li>
 <li><a href="/cbnews/20230921/1936883.md">17岁重庆女自曝 实习被安排帮男客洗澡、保养前列腺</a></li>
 <li><a href="/cbnews/20230922/1937006.md">中共军方异动 传联合参谋长任中共新国防部长</a></li>
 <li><a href="/ccpdope/20230921/1936879.md">中央军委传四人出事 全军会议仅苗华出席</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/baitai/20230922/1936965.md">我终于明白了大舅30多年前所言的真正含义</a></li>
 <li><a href="/finance/20230922/1937104.md">突发，史诗级大松绑</a></li>
 <li><a href="/baitai/20230922/1937003.md">秦刚案真相大白？分析：背后有更多疑点</a></li>
+<li><a href="/topimagenews/20230922/1937212.md">习近平要去灵隐寺？寺里竟藏着这东西！让人大跌眼镜【阿波罗网报道】</a></li>
 <li><a href="/ccpdope/20230921/1936890.md">习近平要动邓家势力？邓朴方残联位置被替换</a></li>
 <li><a href="/cnnews/20230922/1936968.md">中国大陆 这句话现在真的非常流行【阿波罗网】</a></li>
 <li><a href="/cbnews/20230922/1937151.md">江峰：习家军闽浙帮互斗，公安国安两把刀，中央军委残留三把枪。习近平一行丧服视察义乌，为中国微小企业送终？杭州亚运3000亿讨欢心，中共专机接叙总统阿萨德访华建反美同盟【江峰漫谈20230921第733期】</a></li>
 <li><a href="/cnnews/20230922/1937059.md">美签拒签率飙升 网友总结“京城第一杀手”</a></li>
 <li><a href="/comments/20230922/1937125.md">“泰国免签，狗都不去”</a></li>
 <li><a href="/baitai/20230921/1936844.md">习近平遇阻不敢动手？分析：攻台仍是最重要</a></li>
-<li><a href="/topimagenews/20230922/1937212.md">习近平要去灵隐寺？寺里竟藏着这东西！让人大跌眼镜【阿波罗网报道】</a></li>
-<li><a href="/baitai/20230922/1937042.md">习近平浙江行透诡异 再推恐怖「枫桥经验」？！ 还在扩大！恒大财富高官继续被抓！股市大跌，恒大声明不影响经营？【主持】高洁 【嘉宾】时事评论员 秦鹏【焦点解读】09/21/2023</a></li>
 <li><a href="/cnnews/20230922/1936979.md">枪决赵紫阳父亲的大会 他装胃病不去参加</a></li>
+<li><a href="/baitai/20230922/1937042.md">习近平浙江行透诡异 再推恐怖「枫桥经验」？！ 还在扩大！恒大财富高官继续被抓！股市大跌，恒大声明不影响经营？【主持】高洁 【嘉宾】时事评论员 秦鹏【焦点解读】09/21/2023</a></li>
 <li><a href="/ssgc/20230922/1936955.md">习近平为保中共地位 不惜牺牲经济发展</a></li>
+<li><a href="/ssgc/20230922/1937111.md">〖微博谈〗牛仔治国和太监治国的区别</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
 <li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
 
 </ul>
 </div>
