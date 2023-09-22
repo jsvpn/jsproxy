@@ -9,9 +9,9 @@
 <li><a href="/topimagenews/20230921/1936825.md">中共三号是下一个？有信号了！被忽视的大事【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230921/1936681.md">〖兲朝浮世绘〗脱钩在即，未来十年估计是用不着英语了 ……</a></li>
 <li><a href="/baitai/20230921/1936827.md">军队元老北戴河沉默施压习近平 军委恐被团灭？广州惊现大量军车</a></li>
-<li><a href="/topimagenews/20230921/1936796.md">习近平躺枪？邓小平：“那就干脆叫‘清华中学’、‘清华小学’，还叫什么大学！’”【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230921/1936709.md">多次嘲讽习近平＋爆料 美驻日大使惊传被封口</a></li>
 <li><a href="/sohnews/20230922/1936977.md">女子在商场怒喊：习近平你配当国家主席吗？！粉红从日本回国 追悔莫及！浙江 河北接连大火！红眼病大爆发！老百姓 都啥样了！河南特大暴雨现洪灾！存了150万取不出来 ！“润美”雨林骑马走线！ #新闻前线</a></li>
+<li><a href="/topimagenews/20230921/1936709.md">多次嘲讽习近平＋爆料 美驻日大使惊传被封口</a></li>
+<li><a href="/topimagenews/20230921/1936796.md">习近平躺枪？邓小平：“那就干脆叫‘清华中学’、‘清华小学’，还叫什么大学！’”【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230921/1936770.md">中国烧烤店再传爆炸 江苏整条街被炸毁 现场画面曝光</a></li>
 <li><a href="/topimagenews/20230921/1936836.md">中芯7奈米暴雷 专家惊曝2大问题难解</a></li>
 <li><a href="/topimagenews/20230921/1936829.md">波兰开第一枪！宣布不再供应武器给乌克兰</a></li>
@@ -20,14 +20,14 @@
 <li><a href="/ccpdope/20230921/1936879.md">中央军委传四人出事 全军会议仅苗华出席</a></li>
 <li><a href="/cbnews/20230921/1936883.md">17岁重庆女自曝 实习被安排帮男客洗澡、保养前列腺</a></li>
 <li><a href="/topimagenews/20230921/1936708.md">川普长子发文称老爸已死，震撼网 原来是…</a></li>
-<li><a href="/topimagenews/20230921/1936693.md">王毅的头衔之谜引发困惑 国务院会议他该坐哪？</a></li>
-<li><a href="/finance/20230921/1936763.md">刚刚，广州打响楼市第一枪，京沪深会跟进吗</a></li>
 <li><a href="/sohnews/20230922/1936993.md">陈破空：袭击？老习豪华车队横行浙江，附近高速突然爆炸起火！蘑菇云腾空。杭州迎来七国领导人！大国外交令人乍舌。直播与互动：美东时间9月21日晚8点30、即中港台9月22早8点30</a></li>
+<li><a href="/finance/20230921/1936763.md">刚刚，广州打响楼市第一枪，京沪深会跟进吗</a></li>
+<li><a href="/topimagenews/20230921/1936693.md">王毅的头衔之谜引发困惑 国务院会议他该坐哪？</a></li>
 <li><a href="/baitai/20230921/1936811.md">MeetFun说｜西安交通大学打响了取消英语的第一枪</a></li>
 <li><a href="/ccpdope/20230921/1936890.md">习近平要动邓家势力？邓朴方残联位置被替换</a></li>
 <li><a href="/baitai/20230921/1936844.md">习近平遇阻不敢动手？分析：攻台仍是最重要</a></li>
-<li><a href="/cbnews/20230921/1936786.md">日子太平淡…人夫月薪6000元竟“抖内”女主播1.2亿！疯狂手段曝</a></li>
 <li><a href="/cbnews/20230922/1937006.md">中共军方异动 传联合参谋长任中共新国防部长</a></li>
+<li><a href="/cbnews/20230921/1936786.md">日子太平淡…人夫月薪6000元竟“抖内”女主播1.2亿！疯狂手段曝</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230922/1937117.md" target="_blank">黄面孔，或将成为一种负债</a></li>
+<li><a href="/comments/20230922/1937116.md" target="_blank">林世钰：按美国大学排名择校，你在刻舟求剑吗？</a></li>
+<li><a href="/comments/20230922/1937115.md" target="_blank">博爱的中华民族关心世上的一切，唯独不关心自己</a></li>
+<li><a href="/comments/20230922/1937114.md" target="_blank">乌战超一年 鼓吹东风饱和攻击无敌实是痴人说梦</a></li>
+<li><a href="/comments/20230922/1937113.md" target="_blank">百年封堵 得寸进尺</a></li>
 <li><a href="/comments/20230922/1937098.md" target="_blank">加兰国会听证，表演赛奥斯卡影帝。出生于前苏联的女议员，将司法部比作克格勃。#司法部长 #听证会 #加兰</a></li>
 <li><a href="/comments/20230922/1937092.md" target="_blank">美国反施战狼外交，推动中共内部瓦解</a></li>
 <li><a href="/comments/20230922/1937091.md" target="_blank">马克思荒淫 恩格斯更甚 长期包三个奶</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230921/1905929.md" target="_blank">你的孩子不会成功就对了（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
 <li><a href="/comments/20230921/1936658.md" target="_blank">海边的西塞罗:你猜，她敢不敢去锁“北极鲶鱼”的喉？</a></li>
 <li><a href="/comments/20230921/1936657.md" target="_blank">历史心发现:这些同事，让我彻底放弃了在国内生孩的想法</a></li>
-<li><a href="/comments/20230921/1936656.md" target="_blank">预制菜进校园最大的问题不是食品安全，而是营养缺陷</a></li>
-<li><a href="/comments/20230921/1936655.md" target="_blank">你不是很“心疼”印第安人么？怎么还嫌人家长得“辱华”？</a></li>
-<li><a href="/comments/20230921/1936646.md" target="_blank">吴奕军：从纳粹不得违背民族健康情感到中共伤害中华民族感情入罪</a></li>
-<li><a href="/comments/20230921/1936645.md" target="_blank">天亮时分：习近平会证明给我们看——反腐败亡党；中亚五国投靠美国；美国国债达到33万亿，已经难以为继？（政论天下第1115集 20230920）天亮时分</a></li>
-<li><a href="/comments/20230921/1936625.md" target="_blank">中国社会一个惊人的事实：事出反常必有妖</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
 <li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
 
 </ul>
 </div>
