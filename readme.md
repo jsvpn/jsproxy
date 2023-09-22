@@ -6,15 +6,14 @@
 <ul>
 
 <li><a href="/sohnews/20230922/1937021.md">北戴河会议上一军中大老坐习身旁，一句话没说却压得一尊喘不过气！是否抓张又侠，就看李尚福的了！张又侠真的就是那个带弓人吗？‘新闻最嘲点 姜光宇’2023.0921</a></li>
-<li><a href="/cbnews/20230922/1937006.md">中共军方异动 传联合参谋长任中共新国防部长</a></li>
 <li><a href="/finance/20230922/1937104.md">突发，史诗级大松绑</a></li>
 <li><a href="/topimagenews/20230922/1937212.md">习近平要去灵隐寺？寺里竟藏着这东西！让人大跌眼镜【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230922/1937227.md">赊刀人预言习近平</a></li>
 <li><a href="/topimagenews/20230922/1937103.md">【微博精粹】牺牲你一个 世界就得救</a></li>
 <li><a href="/cbnews/20230922/1937213.md">李尚福失踪 军报突然发文:这是个别领导落马原因</a></li>
 <li><a href="/cbnews/20230922/1937151.md">江峰：习家军闽浙帮互斗，公安国安两把刀，中央军委残留三把枪。习近平一行丧服视察义乌，为中国微小企业送终？杭州亚运3000亿讨欢心，中共专机接叙总统阿萨德访华建反美同盟【江峰漫谈20230921第733期】</a></li>
-<li><a href="/sohnews/20230922/1937307.md">病毒溯源关键人物：石正丽发表新冠病毒最新惊人研究。</a></li>
 <li><a href="/sohnews/20230922/1937192.md">杭州女子在商场疾呼习近平下台，共军老将迟浩田坐镇反习，中央军委只剩苗华一人。《老灯开讲第390期》</a></li>
+<li><a href="/sohnews/20230922/1937307.md">病毒溯源关键人物：石正丽发表新冠病毒最新惊人研究。</a></li>
 <li><a href="/itnews/20230922/1937255.md">中芯国际在其 7nm 芯片上使用了相对落后的光刻机，但也的确取得了突破</a></li>
 <li><a href="/cbnews/20230922/1937241.md">上海1天高达900例,开学后病例猛增!多地紧急提醒</a></li>
 <li><a href="/cnnews/20230922/1937059.md">美签拒签率飙升 网友总结“京城第一杀手”</a></li>
@@ -25,9 +24,10 @@
 <li><a href="/ssgc/20230922/1937111.md">〖微博谈〗牛仔治国和太监治国的区别</a></li>
 <li><a href="/baitai/20230922/1937042.md">习近平浙江行透诡异 再推恐怖「枫桥经验」？！ 还在扩大！恒大财富高官继续被抓！股市大跌，恒大声明不影响经营？【主持】高洁 【嘉宾】时事评论员 秦鹏【焦点解读】09/21/2023</a></li>
 <li><a href="/topimagenews/20230922/1937162.md">“枫桥经验” 2.0版再现！习近平浙江行传递斗争信号</a></li>
-<li><a href="/headline/20230922/1937005.md">经济低迷 杭州亚运会极尽豪奢受质疑</a></li>
 <li><a href="/comments/20230922/1937083.md">天亮时分：传曾庆红迟浩田北戴河施压习近平；美推出法案，禁止庇护中共党员；波兰和乌克兰闹翻？立陶宛紧急斡旋（政论天下第1116集 20230921）天亮时分</a></li>
-<li><a href="/headline/20230922/1937008.md">韩正联大发言: 愿尽最大努力争取和平统一台湾 场外维吾尔人抗议: 回去清理你的后院</a></li>
+<li><a href="/topimagenews/20230922/1937375.md">华日：中共战机不只是简单绕台飞行 而是真的在演练</a></li>
+<li><a href="/sohnews/20230922/1937369.md">逮著张高丽，吓尿江泽民，中共官场最怕的一个人；与霍金同病不相怜，绝症老军医获真笈重生；掌“恶人榜”伸张正义，哈佛学者弃医行侠专克中共酷吏</a></li>
+<li><a href="/sohnews/20230922/1937287.md">【中共不要看】曾庆红迟浩田叫板习，真的假的？习设圈套追拿曾庆红？火箭军又一上将落马，另有不可告人内幕？（2023.9.22）｜世界的十字路口 唐浩</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230923/1937518.md" target="_blank">文昭：重磅，史诗级的松绑来了！中国经济能逆天改命吗？</a></li>
+<li><a href="/comments/20230923/1937511.md" target="_blank">英慧：高铁锁喉女</a></li>
+<li><a href="/comments/20230923/1937510.md" target="_blank">网海拾贝:中共政权进入解体模式</a></li>
+<li><a href="/comments/20230923/1937509.md" target="_blank">徐客：习近平曾在杭州自曝嗜饮茅台 李强吹捧</a></li>
+<li><a href="/comments/20230923/1937508.md" target="_blank">呈实：日本失去30年 中国将失落若干年</a></li>
 <li><a href="/comments/20230923/1937502.md" target="_blank">钟原：中共高层到处走 假装没事却难掩内斗激烈</a></li>
 <li><a href="/comments/20230923/1937501.md" target="_blank">王赫：中国与日韩贸易状况大变</a></li>
 <li><a href="/comments/20230923/1937500.md" target="_blank">中共将领接连消失 军委发文揭官员落马原因</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230922/1937298.md" target="_blank">种族歧视还是种族优惠？ ——澳洲“原住民之声”疑问</a></li>
 <li><a href="/comments/20230922/1937297.md" target="_blank">美驻日大使：中国禁日本水产 渔船却在日本沿岸捕鱼</a></li>
 <li><a href="/comments/20230922/1937215.md" target="_blank">若李尚福涉腐 对习近平的国防政策将有何影响</a></li>
-<li><a href="/comments/20230922/1937195.md" target="_blank">习近平最恨之入骨的报告 这份耻辱至今仍未终结</a></li>
-<li><a href="/comments/20230922/1937156.md" target="_blank">当下美国种种乱象 我们能怎么办？</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">你的孩子不会成功就对了（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230922/1937125.md" target="_blank">“泰国免签，狗都不去”</a></li>
-<li><a href="/comments/20230922/1937117.md" target="_blank">黄面孔，或将成为一种负债</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 
 </ul>
 </div>
