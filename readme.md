@@ -8,7 +8,6 @@
 <li><a href="/sohnews/20230921/1936736.md">习秘赴浙江王小洪去江苏，张又侠鱼死网破换来妥协，陈一新成为习最后依靠。《老灯开讲第389期》</a></li>
 <li><a href="/topimagenews/20230921/1936825.md">中共三号是下一个？有信号了！被忽视的大事【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230921/1936681.md">〖兲朝浮世绘〗脱钩在即，未来十年估计是用不着英语了 ……</a></li>
-<li><a href="/comments/20230921/1936625.md">中国社会一个惊人的事实：事出反常必有妖</a></li>
 <li><a href="/baitai/20230921/1936827.md">军队元老北戴河沉默施压习近平 军委恐被团灭？广州惊现大量军车</a></li>
 <li><a href="/topimagenews/20230921/1936796.md">习近平躺枪？邓小平：“那就干脆叫‘清华中学’、‘清华小学’，还叫什么大学！’”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230921/1936709.md">多次嘲讽习近平＋爆料 美驻日大使惊传被封口</a></li>
@@ -25,8 +24,9 @@
 <li><a href="/finance/20230921/1936763.md">刚刚，广州打响楼市第一枪，京沪深会跟进吗</a></li>
 <li><a href="/baitai/20230921/1936811.md">MeetFun说｜西安交通大学打响了取消英语的第一枪</a></li>
 <li><a href="/baitai/20230921/1936844.md">习近平遇阻不敢动手？分析：攻台仍是最重要</a></li>
-<li><a href="/comments/20230921/1936645.md">天亮时分：习近平会证明给我们看——反腐败亡党；中亚五国投靠美国；美国国债达到33万亿，已经难以为继？（政论天下第1115集 20230920）天亮时分</a></li>
+<li><a href="/sohnews/20230922/1936993.md">陈破空：袭击？老习豪华车队横行浙江，附近高速突然爆炸起火！蘑菇云腾空。杭州迎来七国领导人！大国外交令人乍舌。直播与互动：美东时间9月21日晚8点30、即中港台9月22早8点30</a></li>
 <li><a href="/ccpdope/20230921/1936890.md">习近平要动邓家势力？邓朴方残联位置被替换</a></li>
+<li><a href="/comments/20230921/1936645.md">天亮时分：习近平会证明给我们看——反腐败亡党；中亚五国投靠美国；美国国债达到33万亿，已经难以为继？（政论天下第1115集 20230920）天亮时分</a></li>
 <li><a href="/cbnews/20230921/1936786.md">日子太平淡…人夫月薪6000元竟“抖内”女主播1.2亿！疯狂手段曝</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230922/1937055.md" target="_blank">李濠仲：阿尔巴尼亚总理教育俄罗斯大使</a></li>
+<li><a href="/comments/20230922/1937054.md" target="_blank">何与怀：“伤害中华民族感情”背后就是要人人自危 全民互撕</a></li>
 <li><a href="/comments/20230922/1937004.md" target="_blank">文昭：俄乌战局最新情况，预示台海的一种新剧本&#8230;</a></li>
 <li><a href="/comments/20230922/1936920.md" target="_blank">时事大家谈：两日逾150架次，中国军机近日为何频繁扰台？</a></li>
 <li><a href="/comments/20230922/1936919.md" target="_blank">时事大家谈：习近平称美中“应该也必须”和平共处，有意释放信号？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230921/1936623.md" target="_blank">反思·美国名校为何限制亚裔录取</a></li>
 <li><a href="/comments/20230921/1936622.md" target="_blank">魏春亮：不是苹果辱华，是有人需要苹果辱华</a></li>
 <li><a href="/comments/20230921/1936621.md" target="_blank">陶杰：牛津、牛棚、鸡棚，和酱缸</a></li>
-<li><a href="/comments/20230921/1936620.md" target="_blank">林保华：下架民进党，何许人上台？</a></li>
-<li><a href="/comments/20230921/1936619.md" target="_blank">明年总统大选，是台湾人生死存亡之关口</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
 <li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
 
 </ul>
 </div>
