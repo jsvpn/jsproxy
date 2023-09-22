@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/topimagenews/20230921/1936825.md">中共三号是下一个？有信号了！被忽视的大事【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230921/1936827.md">军队元老北戴河沉默施压习近平 军委恐被团灭？广州惊现大量军车</a></li>
 <li><a href="/sohnews/20230922/1936977.md">女子在商场怒喊：习近平你配当国家主席吗？！粉红从日本回国 追悔莫及！浙江 河北接连大火！红眼病大爆发！老百姓 都啥样了！河南特大暴雨现洪灾！存了150万取不出来 ！“润美”雨林骑马走线！ #新闻前线</a></li>
 <li><a href="/ccpdope/20230921/1936856.md">这阵势彻底泄露秘密：习近平来了</a></li>
@@ -13,8 +12,8 @@
 <li><a href="/topimagenews/20230921/1936836.md">中芯7奈米暴雷 专家惊曝2大问题难解</a></li>
 <li><a href="/topimagenews/20230921/1936829.md">波兰开第一枪！宣布不再供应武器给乌克兰</a></li>
 <li><a href="/cbnews/20230921/1936883.md">17岁重庆女自曝 实习被安排帮男客洗澡、保养前列腺</a></li>
-<li><a href="/cbnews/20230922/1937006.md">中共军方异动 传联合参谋长任中共新国防部长</a></li>
 <li><a href="/ccpdope/20230921/1936879.md">中央军委传四人出事 全军会议仅苗华出席</a></li>
+<li><a href="/cbnews/20230922/1937006.md">中共军方异动 传联合参谋长任中共新国防部长</a></li>
 <li><a href="/sohnews/20230922/1936993.md">陈破空：袭击？老习豪华车队横行浙江，附近高速突然爆炸起火！蘑菇云腾空。杭州迎来七国领导人！大国外交令人乍舌。直播与互动：美东时间9月21日晚8点30、即中港台9月22早8点30</a></li>
 <li><a href="/topimagenews/20230921/1936843.md">拜登240亿军援卡关！乌克兰下月起恐面临武器断供</a></li>
 <li><a href="/topimagenews/20230922/1937103.md">【微博精粹】牺牲你一个 世界就得救</a></li>
@@ -25,6 +24,7 @@
 <li><a href="/cnnews/20230922/1936968.md">中国大陆 这句话现在真的非常流行【阿波罗网】</a></li>
 <li><a href="/cnnews/20230922/1937059.md">美签拒签率飙升 网友总结“京城第一杀手”</a></li>
 <li><a href="/baitai/20230921/1936844.md">习近平遇阻不敢动手？分析：攻台仍是最重要</a></li>
+<li><a href="/comments/20230922/1937125.md">“泰国免签，狗都不去”</a></li>
 <li><a href="/cnnews/20230922/1936979.md">枪决赵紫阳父亲的大会 他装胃病不去参加</a></li>
 <li><a href="/ssgc/20230922/1936955.md">习近平为保中共地位 不惜牺牲经济发展</a></li>
 <li><a href="/baitai/20230922/1937042.md">习近平浙江行透诡异 再推恐怖「枫桥经验」？！ 还在扩大！恒大财富高官继续被抓！股市大跌，恒大声明不影响经营？【主持】高洁 【嘉宾】时事评论员 秦鹏【焦点解读】09/21/2023</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
 <li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
 
 </ul>
 </div>
