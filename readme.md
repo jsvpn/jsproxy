@@ -16,10 +16,9 @@
 <li><a href="/cbnews/20230922/1937241.md">上海1天高达900例,开学后病例猛增!多地紧急提醒</a></li>
 <li><a href="/sohnews/20230922/1937307.md">病毒溯源关键人物：石正丽发表新冠病毒最新惊人研究。</a></li>
 <li><a href="/comments/20230922/1937195.md">习近平最恨之入骨的报告 这份耻辱至今仍未终结</a></li>
-<li><a href="/cnnews/20230922/1937059.md">美签拒签率飙升 网友总结“京城第一杀手”</a></li>
 <li><a href="/cnnews/20230922/1937128.md">三湘第一女巨贪 “睡服”40多个官员 狱中怀孕</a></li>
-<li><a href="/topimagenews/20230922/1937174.md">震惊！中华民族绝根断种残酷危机【阿波罗网报道】</a></li>
 <li><a href="/comments/20230922/1937125.md">“泰国免签，狗都不去”</a></li>
+<li><a href="/topimagenews/20230922/1937174.md">震惊！中华民族绝根断种残酷危机【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230922/1937111.md">〖微博谈〗牛仔治国和太监治国的区别</a></li>
 <li><a href="/ccpdope/20230923/1937435.md">习突访「枫桥经验」馆 引政治运动升级猜测</a></li>
 <li><a href="/topimagenews/20230922/1937162.md">“枫桥经验” 2.0版再现！习近平浙江行传递斗争信号</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/comments/20230922/1937083.md">天亮时分：传曾庆红迟浩田北戴河施压习近平；美推出法案，禁止庇护中共党员；波兰和乌克兰闹翻？立陶宛紧急斡旋（政论天下第1116集 20230921）天亮时分</a></li>
 <li><a href="/cbnews/20230922/1937172.md">〖博谈编译〗它们是在进行实战演练</a></li>
 <li><a href="/sohnews/20230922/1937287.md">【中共不要看】曾庆红迟浩田叫板习，真的假的？习设圈套追拿曾庆红？火箭军又一上将落马，另有不可告人内幕？（2023.9.22）｜世界的十字路口 唐浩</a></li>
+<li><a href="/topimagenews/20230922/1937368.md">阿拉斯加钓客捕获梦幻鱼 蓝色鱼肉煎熟惊奇变化</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230923/1937566.md" target="_blank">专访王友琴：“我改变不了暴行，但是我可以写下来”; 亲历红八月杀戮，采访上千人，纪录文革受难者；420元“平反”一条人命；幸存者的屈辱和恐惧 ｜#方菲时间</a></li>
 <li><a href="/cbnews/20230923/1937544.md" target="_blank">凌晨1点排队…中国人爱国热潮拦不住苹果热</a></li>
 <li><a href="/cbnews/20230923/1937497.md" target="_blank">央视导播“有毒” 亚运火炬竟现这幕场景</a></li>
 <li><a href="/cbnews/20230923/1937488.md" target="_blank">江峰：走俄罗斯老路，打胜仗一点希望都没有 #习近平 #俄乌战争</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230922/1937098.md" target="_blank">加兰国会听证，表演赛奥斯卡影帝。出生于前苏联的女议员，将司法部比作克格勃。#司法部长 #听证会 #加兰</a></li>
 <li><a href="/cbnews/20230922/1937044.md" target="_blank">解放军三行动被看破</a></li>
 <li><a href="/cbnews/20230922/1937043.md" target="_blank">郑州女生在“戒网瘾学校”遭教官性侵 学校封锁丑闻</a></li>
-<li><a href="/cbnews/20230922/1937006.md" target="_blank">中共军方异动 传联合参谋长任中共新国防部长</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230923/1937571.md" target="_blank">李志宁：中国：一个几乎完全没有人民福利的国家</a></li>
+<li><a href="/comments/20230923/1937566.md" target="_blank">专访王友琴：“我改变不了暴行，但是我可以写下来”; 亲历红八月杀戮，采访上千人，纪录文革受难者；420元“平反”一条人命；幸存者的屈辱和恐惧 ｜#方菲时间</a></li>
+<li><a href="/comments/20230923/1937563.md" target="_blank">天亮时分：邓朴方卸任残联主席，习邓两家三世恩怨，习近平报一箭之仇；中共大规模海空军演练，为台海战争做准备？（政论天下第1117集 20230922）</a></li>
 <li><a href="/comments/20230923/1937553.md" target="_blank">苏暁康：陆定一老婆严慰冰匿名信引发的风波</a></li>
 <li><a href="/comments/20230923/1937552.md" target="_blank">吴惠林：第十章 现代婚姻经济学</a></li>
 <li><a href="/comments/20230923/1937518.md" target="_blank">文昭：重磅，史诗级的松绑来了！中国经济能逆天改命吗？</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230922/1937347.md" target="_blank">魏斯博士（上）：地球会经历三个阶段</a></li>
 <li><a href="/comments/20230922/1937346.md" target="_blank">魏斯博士（上）：生命的目的</a></li>
 <li><a href="/comments/20230922/1937319.md" target="_blank">中国“神童”跌落神坛 无固定工作在家躺平</a></li>
-<li><a href="/comments/20230922/1937311.md" target="_blank">小学生吃预制菜是谣言？“为人民服务”从娃娃抓起</a></li>
-<li><a href="/comments/20230922/1937309.md" target="_blank">他知道！地球被安排的命运：巨变、三个阶段！所有被催眠的人，都看到这一奇特景象！来生充满各种可能，就取决于当下！｜ #未解之谜 扶摇</a></li>
-<li><a href="/comments/20230922/1937298.md" target="_blank">种族歧视还是种族优惠？ ——澳洲“原住民之声”疑问</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
+<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
 <li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
 
 </ul>
 </div>
