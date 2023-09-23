@@ -20,14 +20,14 @@
 <li><a href="/sohnews/20230923/1937577.md">🔥🔥 习近平麻烦大了❗为躲生死劫到千年古刹烧香拜佛 ❗《铁板图》《推背图》预言习近平末日❗</a></li>
 <li><a href="/baitai/20230923/1937717.md">习邀非佛教国元首去灵隐寺？评：中共党魁进庙问题大 </a></li>
 <li><a href="/topimagenews/20230923/1937674.md">亚塞拜然承认“误杀”俄军副司令! 俄民情激愤 外媒批普京想“大事化小”</a></li>
+<li><a href="/renquan/20230923/1937813.md">上海多人被上门看守或带走失联</a></li>
 <li><a href="/sohnews/20230923/1937285.md">北京朝阳住建委抛售囤了十几年的几百套毛坯房，没人买... 中国房市和经济的死局早就种下，习近平只是完美接盘侠</a></li>
-<li><a href="/comments/20230923/1937502.md">钟原：中共高层到处走 假装没事却难掩内斗激烈</a></li>
 <li><a href="/sohnews/20230923/1937561.md">张又侠过关了？火箭军果欲行刺？李尚福参与谋反？异象频现有大事？【新闻看点 李沐阳9.22】</a></li>
 <li><a href="/comments/20230923/1937509.md">徐客：习近平曾在杭州自曝嗜饮茅台 李强吹捧</a></li>
 <li><a href="/topimagenews/20230923/1937663.md">深夜突发！A股见证历史：中融信托大股东，突然主动退市</a></li>
 <li><a href="/cbnews/20230923/1937649.md">江峰：预制菜国家推动内幕，备战清库存！神秘核酸王做预制菜，紧跟习近平每一步大棋？无锚印钞启动，财政崩银行倒一夜间；茶具窃听器不需电池，党建要求海外党员成为独立生存窃听器【江峰漫谈20230922第734期】</a></li>
-<li><a href="/renquan/20230923/1937813.md">上海多人被上门看守或带走失联</a></li>
 <li><a href="/sohnews/20230923/1937643.md">文睿：终于，对邓朴方，下手了，一尊，彻底走上了一条不归之路</a></li>
+<li><a href="/sohnews/20230923/1937786.md">后果有多严重？中国无锚印钞时代真的来了，化债方案即将出炉……</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230924/1937881.md" target="_blank">重击北京！芯片大厂纷纷将被迫撤出中国?</a></li>
 <li><a href="/topimagenews/20230924/1937879.md" target="_blank">500年猛鬼古堡超凶 他们拍到“白衣幽灵”灵异照</a></li>
 <li><a href="/topimagenews/20230924/1937878.md" target="_blank">美“默默公布”UFO幽浮证据 美军战机被神秘球体骚扰</a></li>
 <li><a href="/topimagenews/20230924/1937872.md" target="_blank">试水反弹激烈 中共让步 正试另外一个重大政策【阿波罗网报道】</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230922/1937183.md" target="_blank">为什么有人特别喜欢台湾？中国网友曝“真实在台经历”：大为震惊</a></li>
 <li><a href="/topimagenews/20230922/1937182.md" target="_blank">揭秘：中共当局铁心对付地产商 不需要动用终极杀招【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230922/1937174.md" target="_blank">震惊！中华民族绝根断种残酷危机【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230922/1937162.md" target="_blank">“枫桥经验” 2.0版再现！习近平浙江行传递斗争信号</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
 <li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">你的孩子不会成功就对了（3）&#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 <li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
 
 </ul>
 </div>
