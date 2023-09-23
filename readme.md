@@ -13,20 +13,20 @@
 <li><a href="/topimagenews/20230923/1937534.md">从女主播卖身升到海南卫视一把手：包养霸占男下属</a></li>
 <li><a href="/ccpdope/20230923/1937473.md">「一图胜千言」 看看中共正在干些啥？</a></li>
 <li><a href="/lifebaike/20230923/1937521.md">许世友漂亮女儿终身未嫁之谜：与林彪儿子的往事</a></li>
-<li><a href="/baitai/20230923/1937633.md">习近平亲信取代邓朴方 邓家有大麻烦？</a></li>
-<li><a href="/topimagenews/20230923/1937519.md">卫星图像曝光：美中俄异动 全球紧张</a></li>
 <li><a href="/worldnews/20230923/1937735.md">下一场大流行病来了 专家曝恐比新冠多死好几百万人</a></li>
+<li><a href="/topimagenews/20230923/1937519.md">卫星图像曝光：美中俄异动 全球紧张</a></li>
+<li><a href="/baitai/20230923/1937633.md">习近平亲信取代邓朴方 邓家有大麻烦？</a></li>
 <li><a href="/cnnews/20230923/1937716.md">大吃一惊！黑龙江小县城现状不看不知道</a></li>
 <li><a href="/cnnews/20230923/1937493.md">因无法偿还债务被人告上法庭的中国总理</a></li>
 <li><a href="/ssgc/20230923/1937641.md">〖微博谈〗对外传递出清晰的斗争信号</a></li>
-<li><a href="/baitai/20230923/1937717.md">习邀非佛教国元首去灵隐寺？评：中共党魁进庙问题大 </a></li>
 <li><a href="/sohnews/20230923/1937577.md">🔥🔥 习近平麻烦大了❗为躲生死劫到千年古刹烧香拜佛 ❗《铁板图》《推背图》预言习近平末日❗</a></li>
+<li><a href="/baitai/20230923/1937717.md">习邀非佛教国元首去灵隐寺？评：中共党魁进庙问题大 </a></li>
 <li><a href="/topimagenews/20230923/1937674.md">亚塞拜然承认“误杀”俄军副司令! 俄民情激愤 外媒批普京想“大事化小”</a></li>
+<li><a href="/sohnews/20230923/1937762.md">陈破空：惊爆200名将军被捕！李尚福下落即将公布。张又侠被逼到墙角。党媒放风：交友不慎。苹果新手机开卖，北京上海大排长龙挤爆头。直播与互动：美东时间9月23日早8点30、即中港台9月23日晚8点30</a></li>
 <li><a href="/comments/20230923/1937502.md">钟原：中共高层到处走 假装没事却难掩内斗激烈</a></li>
 <li><a href="/sohnews/20230923/1937285.md">北京朝阳住建委抛售囤了十几年的几百套毛坯房，没人买... 中国房市和经济的死局早就种下，习近平只是完美接盘侠</a></li>
-<li><a href="/sohnews/20230923/1937561.md">张又侠过关了？火箭军果欲行刺？李尚福参与谋反？异象频现有大事？【新闻看点 李沐阳9.22】</a></li>
 <li><a href="/sohnews/20230923/1937432.md">“外交部黑手👋！ 点炮儿秦刚 习近平自爆其丑”No.02（09/22/23）</a></li>
-<li><a href="/sohnews/20230923/1937762.md">陈破空：惊爆200名将军被捕！李尚福下落即将公布。张又侠被逼到墙角。党媒放风：交友不慎。苹果新手机开卖，北京上海大排长龙挤爆头。直播与互动：美东时间9月23日早8点30、即中港台9月23日晚8点30</a></li>
+<li><a href="/sohnews/20230923/1937561.md">张又侠过关了？火箭军果欲行刺？李尚福参与谋反？异象频现有大事？【新闻看点 李沐阳9.22】</a></li>
 <li><a href="/comments/20230923/1937509.md">徐客：习近平曾在杭州自曝嗜饮茅台 李强吹捧</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
 <li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">你的孩子不会成功就对了（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">你的孩子不会成功就对了（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
 
 </ul>
 </div>
