@@ -19,15 +19,15 @@
 <li><a href="/cnnews/20230922/1937128.md">三湘第一女巨贪 “睡服”40多个官员 狱中怀孕</a></li>
 <li><a href="/comments/20230922/1937125.md">“泰国免签，狗都不去”</a></li>
 <li><a href="/topimagenews/20230922/1937174.md">震惊！中华民族绝根断种残酷危机【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20230922/1937111.md">〖微博谈〗牛仔治国和太监治国的区别</a></li>
 <li><a href="/ccpdope/20230923/1937435.md">习突访「枫桥经验」馆 引政治运动升级猜测</a></li>
+<li><a href="/ssgc/20230922/1937111.md">〖微博谈〗牛仔治国和太监治国的区别</a></li>
 <li><a href="/topimagenews/20230922/1937162.md">“枫桥经验” 2.0版再现！习近平浙江行传递斗争信号</a></li>
 <li><a href="/sohnews/20230922/1937369.md">逮著张高丽，吓尿江泽民，中共官场最怕的一个人；与霍金同病不相怜，绝症老军医获真笈重生；掌“恶人榜”伸张正义，哈佛学者弃医行侠专克中共酷吏</a></li>
 <li><a href="/topimagenews/20230922/1937375.md">华日：中共战机不只是简单绕台飞行 而是真的在演练</a></li>
-<li><a href="/comments/20230922/1937083.md">天亮时分：传曾庆红迟浩田北戴河施压习近平；美推出法案，禁止庇护中共党员；波兰和乌克兰闹翻？立陶宛紧急斡旋（政论天下第1116集 20230921）天亮时分</a></li>
 <li><a href="/cbnews/20230922/1937172.md">〖博谈编译〗它们是在进行实战演练</a></li>
 <li><a href="/sohnews/20230922/1937287.md">【中共不要看】曾庆红迟浩田叫板习，真的假的？习设圈套追拿曾庆红？火箭军又一上将落马，另有不可告人内幕？（2023.9.22）｜世界的十字路口 唐浩</a></li>
 <li><a href="/topimagenews/20230922/1937368.md">阿拉斯加钓客捕获梦幻鱼 蓝色鱼肉煎熟惊奇变化</a></li>
+<li><a href="/ccpdope/20230923/1937473.md">「一图胜千言」 看看中共正在干些啥？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230923/1937581.md" target="_blank">武汉2岁男童“这1举动”害人摔成伤残！法院判赔11万 父母脸绿了</a></li>
+<li><a href="/cbnews/20230923/1937580.md" target="_blank">渔夫放生“136kg革龟”隔天捕获破百斤鲳鱼 嗨喊：龟哥给我好运</a></li>
 <li><a href="/comments/20230923/1937566.md" target="_blank">专访王友琴：“我改变不了暴行，但是我可以写下来”; 亲历红八月杀戮，采访上千人，纪录文革受难者；420元“平反”一条人命；幸存者的屈辱和恐惧 ｜#方菲时间</a></li>
 <li><a href="/cbnews/20230923/1937544.md" target="_blank">凌晨1点排队…中国人爱国热潮拦不住苹果热</a></li>
 <li><a href="/cbnews/20230923/1937497.md" target="_blank">央视导播“有毒” 亚运火炬竟现这幕场景</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20230922/1937038.md" target="_blank">贻祸中国人5000年的灾难，居然藏埋在这几个地方，现在你很可能正在受害！【文昭思绪飞扬287期】</a></li>
 <li><a href="/cbnews/20230922/1937151.md" target="_blank">江峰：习家军闽浙帮互斗，公安国安两把刀，中央军委残留三把枪。习近平一行丧服视察义乌，为中国微小企业送终？杭州亚运3000亿讨欢心，中共专机接叙总统阿萨德访华建反美同盟【江峰漫谈20230921第733期】</a></li>
 <li><a href="/comments/20230922/1937098.md" target="_blank">加兰国会听证，表演赛奥斯卡影帝。出生于前苏联的女议员，将司法部比作克格勃。#司法部长 #听证会 #加兰</a></li>
-<li><a href="/cbnews/20230922/1937044.md" target="_blank">解放军三行动被看破</a></li>
-<li><a href="/cbnews/20230922/1937043.md" target="_blank">郑州女生在“戒网瘾学校”遭教官性侵 学校封锁丑闻</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230923/1937585.md" target="_blank">王安娜：赵乐际安在否——-铁杆被清洗</a></li>
+<li><a href="/comments/20230923/1937584.md" target="_blank">孙立平对当前经济形势的几点看法</a></li>
 <li><a href="/comments/20230923/1937571.md" target="_blank">李志宁：中国：一个几乎完全没有人民福利的国家</a></li>
 <li><a href="/comments/20230923/1937566.md" target="_blank">专访王友琴：“我改变不了暴行，但是我可以写下来”; 亲历红八月杀戮，采访上千人，纪录文革受难者；420元“平反”一条人命；幸存者的屈辱和恐惧 ｜#方菲时间</a></li>
 <li><a href="/comments/20230923/1937563.md" target="_blank">天亮时分：邓朴方卸任残联主席，习邓两家三世恩怨，习近平报一箭之仇；中共大规模海空军演练，为台海战争做准备？（政论天下第1117集 20230922）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230922/1937349.md" target="_blank">魏斯博士（上）：独特的人生</a></li>
 <li><a href="/comments/20230922/1937348.md" target="_blank">魏斯博士（上）：前瞻来生</a></li>
 <li><a href="/comments/20230922/1937347.md" target="_blank">魏斯博士（上）：地球会经历三个阶段</a></li>
-<li><a href="/comments/20230922/1937346.md" target="_blank">魏斯博士（上）：生命的目的</a></li>
-<li><a href="/comments/20230922/1937319.md" target="_blank">中国“神童”跌落神坛 无固定工作在家躺平</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
 
 </ul>
 </div>
