@@ -17,17 +17,17 @@
 <li><a href="/sohnews/20230923/1937786.md">后果有多严重？中国无锚印钞时代真的来了，化债方案即将出炉……</a></li>
 <li><a href="/topimagenews/20230924/1937881.md">重击北京！芯片大厂纷纷将被迫撤出中国?</a></li>
 <li><a href="/cbnews/20230924/1937978.md">亚运会上，中共安排女学生冒充朝鲜拉拉队被揭穿，火了！【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230924/1937993.md">胡锦涛“退场”，胡春华“出局”成也“王储”败也“王储”；西藏福地，成就二胡，北京凶险，双杀师徒；贫民王储踏破草鞋，梦断寒秋；末代红朝绝杀争位，团起团灭</a></li>
 <li><a href="/ccpdope/20230924/1937828.md">清洗军队内幕：习近平遭厌恶 疑心病发作</a></li>
+<li><a href="/sohnews/20230924/1937993.md">胡锦涛“退场”，胡春华“出局”成也“王储”败也“王储”；西藏福地，成就二胡，北京凶险，双杀师徒；贫民王储踏破草鞋，梦断寒秋；末代红朝绝杀争位，团起团灭</a></li>
 <li><a href="/comments/20230924/1937995.md">灵隐寺惊现习近平最害怕的事？杭州亚运会凶兆抢镜！专机接送外国元首，撒币没有最贱，只有更贱</a></li>
 <li><a href="/cnnews/20230924/1937944.md">贵州一个被拐26年姑娘的复仇 电影都不敢这么拍</a></li>
-<li><a href="/sohnews/20230924/1937885.md">陈破空：亚运会尴尬事：习会见韩国总理，主动提出访韩，该总理却遭罢免！假焰火，假啦啦队。白卫兵惊魂杭州。直播与互动：美东时间9月23日晚8点30、即中港台9月24早8点30</a></li>
 <li><a href="/cbnews/20230924/1937933.md">中共“军中七霸”连倒4个！习清洗力度引这担忧</a></li>
-<li><a href="/sohnews/20230924/1937950.md">巴比伦大淫妇结局预示中共必亡</a></li>
+<li><a href="/sohnews/20230924/1937885.md">陈破空：亚运会尴尬事：习会见韩国总理，主动提出访韩，该总理却遭罢免！假焰火，假啦啦队。白卫兵惊魂杭州。直播与互动：美东时间9月23日晚8点30、即中港台9月24早8点30</a></li>
+<li><a href="/sohnews/20230924/1938004.md">广州美领馆签证排长队！上海批发市场大量倒闭 老牌商场一片凄凉！重庆巫山暴雨洪水泛滥！北京重大事故 上海宝钢着火！杭州亚运会开幕式烟花秀作假！高校生骂快递小哥 言语不堪入耳！#网络视频 #新闻前线</a></li>
 <li><a href="/cnnews/20230924/1937945.md">习近平的手段！中国市场惊现非同寻常一幕</a></li>
-<li><a href="/cbnews/20230924/1937837.md">江峰：全国缺钱 杭州撒币 全为一人风光 #习近平 #杭州亚运会</a></li>
+<li><a href="/sohnews/20230924/1937950.md">巴比伦大淫妇结局预示中共必亡</a></li>
 <li><a href="/comments/20230924/1937915.md">书单：“北极鲶鱼事件”惊动央媒：真相揭开，我真的怕了</a></li>
-<li><a href="/comments/20230924/1937861.md">习近平现身灵隐寺附近 千年古寺迎叙国总统惹议</a></li>
+<li><a href="/cbnews/20230924/1937837.md">江峰：全国缺钱 杭州撒币 全为一人风光 #习近平 #杭州亚运会</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
 <li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
 <li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
 
 </ul>
 </div>
