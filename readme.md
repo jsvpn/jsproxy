@@ -7,7 +7,6 @@
 
 <li><a href="/baitai/20230923/1937579.md">江派再放风 已找好代替习近平的人选？</a></li>
 <li><a href="/topimagenews/20230923/1937719.md">所有中国人要小心了！中共疾控局发出诡异通知【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230923/1937534.md">从女主播卖身升到海南卫视一把手：包养霸占男下属</a></li>
 <li><a href="/worldnews/20230923/1937735.md">下一场大流行病来了 专家曝恐比新冠多死好几百万人</a></li>
 <li><a href="/baitai/20230923/1937633.md">习近平亲信取代邓朴方 邓家有大麻烦？</a></li>
 <li><a href="/baitai/20230923/1937779.md">各种坏消息不断 习近平坐不住要求和</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/sohnews/20230923/1937561.md">张又侠过关了？火箭军果欲行刺？李尚福参与谋反？异象频现有大事？【新闻看点 李沐阳9.22】</a></li>
 <li><a href="/topimagenews/20230923/1937663.md">深夜突发！A股见证历史：中融信托大股东，突然主动退市</a></li>
 <li><a href="/cbnews/20230923/1937649.md">江峰：预制菜国家推动内幕，备战清库存！神秘核酸王做预制菜，紧跟习近平每一步大棋？无锚印钞启动，财政崩银行倒一夜间；茶具窃听器不需电池，党建要求海外党员成为独立生存窃听器【江峰漫谈20230922第734期】</a></li>
-<li><a href="/sohnews/20230923/1937643.md">文睿：终于，对邓朴方，下手了，一尊，彻底走上了一条不归之路</a></li>
+<li><a href="/baitai/20230924/1937830.md">习近平携彭丽媛亮相亚运开幕式 邀请叙利亚总统是不祥之兆？中印爆新外交冲突</a></li>
 <li><a href="/sohnews/20230923/1937786.md">后果有多严重？中国无锚印钞时代真的来了，化债方案即将出炉……</a></li>
+<li><a href="/sohnews/20230923/1937643.md">文睿：终于，对邓朴方，下手了，一尊，彻底走上了一条不归之路</a></li>
 <li><a href="/comments/20230923/1937563.md">天亮时分：邓朴方卸任残联主席，习邓两家三世恩怨，习近平报一箭之仇；中共大规模海空军演练，为台海战争做准备？（政论天下第1117集 20230922）</a></li>
-<li><a href="/sohnews/20230923/1937600.md">习近平视察义乌 外卖小伙骂乌龟儿子｜ #时事金扫描 #金然</a></li>
 <li><a href="/topimagenews/20230923/1937743.md">活活把学生累死？广东学生军训期间过劳死引网怒【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20230923/1937600.md">习近平视察义乌 外卖小伙骂乌龟儿子｜ #时事金扫描 #金然</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230924/1937904.md" target="_blank">参议院230年的规矩，因一人而打破。民主党高层出现分裂。深度剖析费特曼规则的幕后之战。#费特曼 #舒默 #参议员着装</a></li>
 <li><a href="/cbnews/20230924/1937873.md" target="_blank">中美谍报战！给达成“拜习会”投上阴影</a></li>
 <li><a href="/cbnews/20230924/1937870.md" target="_blank">〖博谈编译〗即使中国有14亿人口，也无法填满所有的空置房屋</a></li>
 <li><a href="/cbnews/20230924/1937838.md" target="_blank">江峰：德国人对中国经济也开始扭头而去</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230922/1937346.md" target="_blank">魏斯博士（上）：生命的目的</a></li>
 <li><a href="/cbnews/20230922/1937341.md" target="_blank">剑指中共 美严限获补贴芯企 商务部长透露真相…</a></li>
 <li><a href="/comments/20230922/1937309.md" target="_blank">他知道！地球被安排的命运：巨变、三个阶段！所有被催眠的人，都看到这一奇特景象！来生充满各种可能，就取决于当下！｜ #未解之谜 扶摇</a></li>
-<li><a href="/cbnews/20230922/1937242.md" target="_blank">对抗中国水下长城 美重启冷战反潜间谍网</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230924/1937904.md" target="_blank">参议院230年的规矩，因一人而打破。民主党高层出现分裂。深度剖析费特曼规则的幕后之战。#费特曼 #舒默 #参议员着装</a></li>
+<li><a href="/comments/20230924/1937901.md" target="_blank">张菁：印度总理的财产公示与中共的越反越腐</a></li>
+<li><a href="/comments/20230924/1937900.md" target="_blank">王赫：应对台海危局 美军突出实战化部署</a></li>
 <li><a href="/comments/20230924/1937890.md" target="_blank">文昭：这样，中国房地产业的逆天格局就破了</a></li>
 <li><a href="/comments/20230924/1937863.md" target="_blank">一叶知秋立秋到 秋季养生三心法和好食材</a></li>
 <li><a href="/comments/20230924/1937862.md" target="_blank">成都“飞龙在天”视频疯传 舆论热议</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20230923/1937591.md" target="_blank">小民之心：中国剧变前夜勇敢发出呐喊</a></li>
 <li><a href="/comments/20230923/1937585.md" target="_blank">王安娜：赵乐际安在否——-铁杆被清洗</a></li>
 <li><a href="/comments/20230923/1937584.md" target="_blank">孙立平对当前经济形势的几点看法</a></li>
-<li><a href="/comments/20230923/1937571.md" target="_blank">李志宁：中国：一个几乎完全没有人民福利的国家</a></li>
-<li><a href="/comments/20230923/1937566.md" target="_blank">专访王友琴：“我改变不了暴行，但是我可以写下来”; 亲历红八月杀戮，采访上千人，纪录文革受难者；420元“平反”一条人命；幸存者的屈辱和恐惧 ｜#方菲时间</a></li>
-<li><a href="/comments/20230923/1937563.md" target="_blank">天亮时分：邓朴方卸任残联主席，习邓两家三世恩怨，习近平报一箭之仇；中共大规模海空军演练，为台海战争做准备？（政论天下第1117集 20230922）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
 <li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
+<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
 
 </ul>
 </div>
