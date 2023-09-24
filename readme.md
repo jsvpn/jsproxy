@@ -6,7 +6,6 @@
 <ul>
 
 <li><a href="/cnnews/20230924/1937921.md">打起来了！大批海军家属和中共士兵打成一片！【阿波罗网报道】</a></li>
-<li><a href="/baitai/20230924/1937830.md">习近平携彭丽媛亮相亚运开幕式 邀请叙利亚总统是不祥之兆？中印爆新外交冲突</a></li>
 <li><a href="/topimagenews/20230924/1937872.md">试水反弹激烈 中共让步 正试另外一个重大政策【阿波罗网报道】</a></li>
 <li><a href="/comments/20230924/1937862.md">成都“飞龙在天”视频疯传 舆论热议</a></li>
 <li><a href="/sports/20230924/1937943.md">杭州亚运开幕式 央视直播突然跳出“1画面”</a></li>
@@ -14,13 +13,13 @@
 <li><a href="/cbnews/20230924/1937978.md">亚运会上，中共安排女学生冒充朝鲜拉拉队被揭穿，火了！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230924/1937993.md">胡锦涛“退场”，胡春华“出局”成也“王储”败也“王储”；西藏福地，成就二胡，北京凶险，双杀师徒；贫民王储踏破草鞋，梦断寒秋；末代红朝绝杀争位，团起团灭</a></li>
 <li><a href="/topimagenews/20230924/1937881.md">重击北京！芯片大厂纷纷将被迫撤出中国?</a></li>
-<li><a href="/comments/20230924/1937995.md">灵隐寺惊现习近平最害怕的事？杭州亚运会凶兆抢镜！专机接送外国元首，撒币没有最贱，只有更贱</a></li>
 <li><a href="/sohnews/20230924/1938088.md">陈破空：习御医动向神秘，泄露他的病情？杭州亚运会尴尬：卖不出门票。满城贴封条。乌军突袭，俄黑海舰队几乎全军覆没。直播与互动：美东时间9月24日早8点30、即中港台9月24日晚8点30</a></li>
+<li><a href="/comments/20230924/1937995.md">灵隐寺惊现习近平最害怕的事？杭州亚运会凶兆抢镜！专机接送外国元首，撒币没有最贱，只有更贱</a></li>
 <li><a href="/topimagenews/20230924/1938044.md">限制海外提钱？网友纷纷反馈：ATM取不出钱！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20230924/1937944.md">贵州一个被拐26年姑娘的复仇 电影都不敢这么拍</a></li>
 <li><a href="/sohnews/20230924/1938037.md">惊天阴谋：军头们用导弹攻击习的专机，中纪委抓内鬼剑指赵乐际，李克强大秘沈阳市委书记曾维被查。《老灯开讲第391期》</a></li>
-<li><a href="/cbnews/20230924/1937933.md">中共“军中七霸”连倒4个！习清洗力度引这担忧</a></li>
 <li><a href="/ccpdope/20230924/1938094.md">劲爆！中国新生代用这种方法公开“辱包”</a></li>
+<li><a href="/cbnews/20230924/1937933.md">中共“军中七霸”连倒4个！习清洗力度引这担忧</a></li>
 <li><a href="/sohnews/20230924/1937885.md">陈破空：亚运会尴尬事：习会见韩国总理，主动提出访韩，该总理却遭罢免！假焰火，假啦啦队。白卫兵惊魂杭州。直播与互动：美东时间9月23日晚8点30、即中港台9月24早8点30</a></li>
 <li><a href="/sohnews/20230924/1938004.md">广州美领馆签证排长队！上海批发市场大量倒闭 老牌商场一片凄凉！重庆巫山暴雨洪水泛滥！北京重大事故 上海宝钢着火！杭州亚运会开幕式烟花秀作假！高校生骂快递小哥 言语不堪入耳！#网络视频 #新闻前线</a></li>
 <li><a href="/cnnews/20230924/1937945.md">习近平的手段！中国市场惊现非同寻常一幕</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20230924/1938043.md">iPhone15爆灾情 科技博主傻眼：很失望</a></li>
 <li><a href="/sohnews/20230924/1938045.md">文睿：杭州，一尊，彻底沦为”弃儿“，拉黑”习近平“，全球大合唱，太给力了</a></li>
 <li><a href="/lifebaike/20230924/1938008.md">为什么住酒店 要开着卫生间灯睡觉？</a></li>
+<li><a href="/cbnews/20230924/1937837.md">江峰：全国缺钱 杭州撒币 全为一人风光 #习近平 #杭州亚运会</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
-<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
-<li><a href="/topimagenews/20180408/925060.md" target="_blank">纪录片：恐怖的疫苗真相之谜-Vaccination-The Hidden Truth(1998) 纪录片：疫苗接种-隐藏的真相</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
 <li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
 
 </ul>
 </div>
