@@ -27,7 +27,7 @@
 <li><a href="/baitai/20230924/1938104.md">【立此存照】我翻墙访问国际互联网打工被公安处罚百万</a></li>
 <li><a href="/cbnews/20230924/1938035.md">模特拍照“踩祠堂八仙桌”惹怒潮汕人 主办单位急发千字文灭火</a></li>
 <li><a href="/headline/20230924/1938087.md">李尚福真因交友不慎落马？解放军报再促高官净化社交圈</a></li>
-<li><a href="/ssgc/20230924/1938125.md">灵隐寺迎外宾 习到底信什么？</a></li>
+<li><a href="/yule/20230925/1938186.md">孙红雷移民澳洲，网友：不信他人品，但信他嗅觉</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230925/1938308.md" target="_blank">否决AB 957后 州长纽森放水AB223【方伟时间-20230924】</a></li>
 <li><a href="/cbnews/20230925/1938282.md" target="_blank">哭笑不得：广东一盒经历了人情世故的五仁月饼</a></li>
 <li><a href="/cbnews/20230925/1938242.md" target="_blank">杭州亚运：末日的奢华</a></li>
 <li><a href="/cbnews/20230925/1938241.md" target="_blank">5岁儿一句话，母亲吓得立马查监控，一看崩溃了</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230924/1937838.md" target="_blank">江峰：德国人对中国经济也开始扭头而去</a></li>
 <li><a href="/cbnews/20230924/1937837.md" target="_blank">江峰：全国缺钱 杭州撒币 全为一人风光 #习近平 #杭州亚运会</a></li>
 <li><a href="/cbnews/20230923/1937803.md" target="_blank">〖兲朝浮世绘〗杭州亚运会 独裁者们的盛宴</a></li>
-<li><a href="/cbnews/20230923/1937675.md" target="_blank">福建烂尾楼业主聚集大喊“警察是人民的警察”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230925/1938308.md" target="_blank">否决AB 957后 州长纽森放水AB223【方伟时间-20230924】</a></li>
+<li><a href="/comments/20230925/1938299.md" target="_blank">天亮时分：预制菜之争，到底争什麽？一个简单的解决方案（政论天下第1118集 20230924）天亮时分</a></li>
 <li><a href="/comments/20230925/1938296.md" target="_blank">日媒报道杭州亚运会，有的在头版，有的在…</a></li>
 <li><a href="/comments/20230925/1938293.md" target="_blank">范宕：照此牺牲速度，俄军的将领够用吗？</a></li>
 <li><a href="/comments/20230925/1938274.md" target="_blank">跟匪共开干 敢死队再现</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230924/1937956.md" target="_blank">抖音用户发起“实名支持8小时工作制”接力</a></li>
 <li><a href="/comments/20230924/1937955.md" target="_blank">敏感青年：这三年，有钱人真是过得越来越好</a></li>
 <li><a href="/comments/20230924/1937941.md" target="_blank">王友群:中共高官频“失踪” 中国人被蒙在鼓里…</a></li>
-<li><a href="/comments/20230924/1937940.md" target="_blank">英媒：BBC调查揭露TikTok算法如何助长反社会行为</a></li>
-<li><a href="/comments/20230924/1937915.md" target="_blank">书单：“北极鲶鱼事件”惊动央媒：真相揭开，我真的怕了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
 <li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
 <li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
 <li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
 
 </ul>
 </div>
