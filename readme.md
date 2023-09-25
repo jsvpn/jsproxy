@@ -19,10 +19,10 @@
 <li><a href="/headline/20230925/1938134.md">中国病毒专家石正丽警告：冠状病毒疫情“极可能”再次爆发</a></li>
 <li><a href="/yule/20230925/1938186.md">孙红雷移民澳洲，网友：不信他人品，但信他嗅觉</a></li>
 <li><a href="/cbnews/20230924/1938038.md">习闭关锁国 如重返清末：亚运拒2媒体 禁3运动员</a></li>
+<li><a href="/ssgc/20230925/1938231.md">〖微博谈〗中共最后的盛宴</a></li>
 <li><a href="/cbnews/20230925/1938195.md">习近平最不能容忍这点 高官都如芒在背</a></li>
 <li><a href="/baitai/20230924/1938104.md">【立此存照】我翻墙访问国际互联网打工被公安处罚百万</a></li>
 <li><a href="/cbnews/20230924/1938035.md">模特拍照“踩祠堂八仙桌”惹怒潮汕人 主办单位急发千字文灭火</a></li>
-<li><a href="/ssgc/20230925/1938231.md">〖微博谈〗中共最后的盛宴</a></li>
 <li><a href="/headline/20230924/1938087.md">李尚福真因交友不慎落马？解放军报再促高官净化社交圈</a></li>
 <li><a href="/topimagenews/20230925/1938153.md">恒大突取消债务重整会议 WSJ：中国房市危机恐恶化</a></li>
 <li><a href="/ssgc/20230924/1938125.md">灵隐寺迎外宾 习到底信什么？</a></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
 <li><a href="/cbnews/20230925/1938334.md" target="_blank">西安交大抛弃了英文，杭州亚运会选择了英语</a></li>
 <li><a href="/cbnews/20230925/1938325.md" target="_blank">印度政府参与国外谋杀？证据源于五眼同盟的监控</a></li>
 <li><a href="/comments/20230925/1938308.md" target="_blank">否决AB 957后 州长纽森放水AB223【方伟时间-20230924】</a></li>
@@ -59,13 +60,13 @@
 <li><a href="/comments/20230924/1937904.md" target="_blank">参议院230年的规矩，因一人而打破。民主党高层出现分裂。深度剖析费特曼规则的幕后之战。#费特曼 #舒默 #参议员着装</a></li>
 <li><a href="/cbnews/20230924/1937873.md" target="_blank">中美谍报战！给达成“拜习会”投上阴影</a></li>
 <li><a href="/cbnews/20230924/1937870.md" target="_blank">〖博谈编译〗即使中国有14亿人口，也无法填满所有的空置房屋</a></li>
-<li><a href="/cbnews/20230924/1937838.md" target="_blank">江峰：德国人对中国经济也开始扭头而去</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
 <li><a href="/topimagenews/20230925/1938292.md" target="_blank">【微博精粹】卖核酸的又开始卖预制菜了</a></li>
 <li><a href="/topimagenews/20230925/1938233.md" target="_blank">震怒！山西大同小学生男男性侵案，学校隐瞒，坏父母被扒</a></li>
 <li><a href="/topimagenews/20230925/1938214.md" target="_blank">习近平创建 “北交所”收到手续费，恐连缴水电都不够 港股竟奄奄一息</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230923/1937543.md" target="_blank">疯狂的一天：乌军奇袭俄克里米亚基地和指挥中心</a></li>
 <li><a href="/topimagenews/20230923/1937535.md" target="_blank">里程碑！乌克兰装甲车突破俄罗斯东南防线</a></li>
 <li><a href="/topimagenews/20230923/1937534.md" target="_blank">从女主播卖身升到海南卫视一把手：包养霸占男下属</a></li>
-<li><a href="/topimagenews/20230923/1937533.md" target="_blank">美国高招釜底抽薪，中共下月如何接招</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
 <li><a href="/comments/20230925/1938336.md" target="_blank">教育部说对预制菜持“审慎”态度，你敢信吗？</a></li>
 <li><a href="/comments/20230925/1938335.md" target="_blank">引发举国沸腾的“国产光刻机工厂”，是假消息？</a></li>
 <li><a href="/comments/20230925/1938308.md" target="_blank">否决AB 957后 州长纽森放水AB223【方伟时间-20230924】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230924/1937991.md" target="_blank">喜马拉雅山的形成，不是你想的那样！</a></li>
 <li><a href="/comments/20230924/1937971.md" target="_blank">【杰森视角】中共军队近期在台湾海峡行为诡异！恒大为何放弃了它唯一的救命稻草？“枫桥经验”是习近平的制胜宝典？习近平需要一个3000多亿的亚运会！习近平的统治策略不需要发展经济？</a></li>
 <li><a href="/comments/20230924/1937968.md" target="_blank">李燕铭：上海官场人事大洗牌 暗藏多重清洗信号 公安高官被调虎离山跨界贬职 多所高校领导同期换人 上海体育大学校长副校长大换血 江泽民老巢上海被清洗（45） 习近平连任后大清洗（88） 习近平清洗刀把子（62） 习连任后高层人事大洗牌（115）</a></li>
-<li><a href="/comments/20230924/1937956.md" target="_blank">抖音用户发起“实名支持8小时工作制”接力</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
 <li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
 
 </ul>
 </div>
