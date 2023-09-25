@@ -12,21 +12,21 @@
 <li><a href="/cbnews/20230925/1938195.md">习近平最不能容忍这点 高官都如芒在背</a></li>
 <li><a href="/yule/20230925/1938186.md">孙红雷移民澳洲，网友：不信他人品，但信他嗅觉</a></li>
 <li><a href="/ssgc/20230925/1938231.md">〖微博谈〗中共最后的盛宴</a></li>
-<li><a href="/sohnews/20230925/1938423.md">陈破空：北戴河内幕：老将军沉默现身，习近平顿时惶恐。他向拜登提条件：不得推翻他！杭州亚运会，处处不祥之兆。直播与互动：美东时间9月25日早8点30、即中港台9月25日晚8点30</a></li>
 <li><a href="/cbnews/20230925/1938241.md">5岁儿一句话，母亲吓得立马查监控，一看崩溃了</a></li>
+<li><a href="/sohnews/20230925/1938423.md">陈破空：北戴河内幕：老将军沉默现身，习近平顿时惶恐。他向拜登提条件：不得推翻他！杭州亚运会，处处不祥之兆。直播与互动：美东时间9月25日早8点30、即中港台9月25日晚8点30</a></li>
 <li><a href="/topimagenews/20230925/1938292.md">【微博精粹】卖核酸的又开始卖预制菜了</a></li>
 <li><a href="/cbnews/20230925/1938370.md">〖兲朝浮世绘〗中国女毒王发声：冠状病毒疫情极可能再次爆发</a></li>
 <li><a href="/topimagenews/20230925/1938377.md">一张可怕的大网正接近完成！预制菜背后水很深【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230925/1938439.md">中国杭州亚运会 长队表演 外国人一脸懵逼</a></li>
-<li><a href="/topimagenews/20230925/1938153.md">恒大突取消债务重整会议 WSJ：中国房市危机恐恶化</a></li>
 <li><a href="/topimagenews/20230925/1938233.md">震怒！山西大同小学生男男性侵案，学校隐瞒，坏父母被扒</a></li>
 <li><a href="/baitai/20230925/1938403.md">石正丽突发疫情再爆发警告 入殓师透惊人内幕：中国因疫死亡人士不少于三亿</a></li>
 <li><a href="/ccpdope/20230925/1938192.md">安徽入殓师：全国疫情死人不少于3亿人</a></li>
-<li><a href="/cnnews/20230925/1938258.md">高校刘书记显风流：“从嘴巴到身体都要照顾到”</a></li>
+<li><a href="/ccpdope/20230925/1938431.md">试解赊刀人对习近平的预言</a></li>
 <li><a href="/sohnews/20230925/1938306.md">江泽民在弥留之际被“拔管子”；身世与死亡都迷雾重重；江沦为中共新贵“维稳”的“代价”</a></li>
+<li><a href="/cnnews/20230925/1938258.md">高校刘书记显风流：“从嘴巴到身体都要照顾到”</a></li>
 <li><a href="/cbnews/20230925/1938334.md">西安交大抛弃了英文，杭州亚运会选择了英语</a></li>
 <li><a href="/cnnews/20230925/1938183.md">拷问领导：你们子孙去美国，让我孩子不学英文？</a></li>
-<li><a href="/ccpdope/20230925/1938431.md">试解赊刀人对习近平的预言</a></li>
+<li><a href="/sohnews/20230925/1938373.md">文睿：消息，炸一片，财政，进入临界点，倒计时正式开始了</a></li>
 <li><a href="/comments/20230925/1938407.md">中共防长李尚福出事 老上级张又侠高危</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
 
 </ul>
 </div>
