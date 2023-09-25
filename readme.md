@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20230924/1938037.md">惊天阴谋：军头们用导弹攻击习的专机，中纪委抓内鬼剑指赵乐际，李克强大秘沈阳市委书记曾维被查。《老灯开讲第391期》</a></li>
 <li><a href="/sohnews/20230924/1938088.md">陈破空：习御医动向神秘，泄露他的病情？杭州亚运会尴尬：卖不出门票。满城贴封条。乌军突袭，俄黑海舰队几乎全军覆没。直播与互动：美东时间9月24日早8点30、即中港台9月24日晚8点30</a></li>
 <li><a href="/ccpdope/20230924/1938094.md">劲爆！中国新生代用这种方法公开“辱包”</a></li>
 <li><a href="/topimagenews/20230924/1938044.md">限制海外提钱？网友纷纷反馈：ATM取不出钱！【阿波罗网报道】</a></li>
@@ -18,7 +17,6 @@
 <li><a href="/topimagenews/20230925/1938214.md">习近平创建 “北交所”收到手续费，恐连缴水电都不够 港股竟奄奄一息</a></li>
 <li><a href="/headline/20230925/1938134.md">中国病毒专家石正丽警告：冠状病毒疫情“极可能”再次爆发</a></li>
 <li><a href="/ssgc/20230925/1938231.md">〖微博谈〗中共最后的盛宴</a></li>
-<li><a href="/cbnews/20230924/1938038.md">习闭关锁国 如重返清末：亚运拒2媒体 禁3运动员</a></li>
 <li><a href="/yule/20230925/1938186.md">孙红雷移民澳洲，网友：不信他人品，但信他嗅觉</a></li>
 <li><a href="/cbnews/20230925/1938195.md">习近平最不能容忍这点 高官都如芒在背</a></li>
 <li><a href="/baitai/20230924/1938104.md">【立此存照】我翻墙访问国际互联网打工被公安处罚百万</a></li>
@@ -27,6 +25,8 @@
 <li><a href="/ssgc/20230924/1938125.md">灵隐寺迎外宾 习到底信什么？</a></li>
 <li><a href="/cnnews/20230924/1938047.md">美专家：洗澡时“腋下至少要洗30秒”</a></li>
 <li><a href="/ccpdope/20230925/1938192.md">安徽入殓师：全国疫情死人不少于3亿人</a></li>
+<li><a href="/topimagenews/20230925/1938233.md">震怒！山西大同小学生男男性侵案，学校隐瞒，坏父母被扒</a></li>
+<li><a href="/cbnews/20230925/1938241.md">5岁儿一句话，母亲吓得立马查监控，一看崩溃了</a></li>
 <li><a href="/baitai/20230924/1938112.md">恶劣超想象！山西惊爆小学生霸凌性侵同学 全网愤怒</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230925/1938370.md" target="_blank">〖兲朝浮世绘〗中国女毒王发声：冠状病毒疫情极可能再次爆发</a></li>
 <li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
 <li><a href="/cbnews/20230925/1938334.md" target="_blank">西安交大抛弃了英文，杭州亚运会选择了英语</a></li>
 <li><a href="/cbnews/20230925/1938325.md" target="_blank">印度政府参与国外谋杀？证据源于五眼同盟的监控</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230924/1937932.md" target="_blank">极端安保让杭州变大监狱</a></li>
 <li><a href="/comments/20230924/1937904.md" target="_blank">参议院230年的规矩，因一人而打破。民主党高层出现分裂。深度剖析费特曼规则的幕后之战。#费特曼 #舒默 #参议员着装</a></li>
 <li><a href="/cbnews/20230924/1937873.md" target="_blank">中美谍报战！给达成“拜习会”投上阴影</a></li>
-<li><a href="/cbnews/20230924/1937870.md" target="_blank">〖博谈编译〗即使中国有14亿人口，也无法填满所有的空置房屋</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230925/1938368.md" target="_blank">知情人：习近平私下也骂共产党 后来背弃承诺</a></li>
 <li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
 <li><a href="/comments/20230925/1938336.md" target="_blank">教育部说对预制菜持“审慎”态度，你敢信吗？</a></li>
 <li><a href="/comments/20230925/1938335.md" target="_blank">引发举国沸腾的“国产光刻机工厂”，是假消息？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230924/1937992.md" target="_blank">中共对捅到心口来这刀 竟然吞了下去</a></li>
 <li><a href="/comments/20230924/1937991.md" target="_blank">喜马拉雅山的形成，不是你想的那样！</a></li>
 <li><a href="/comments/20230924/1937971.md" target="_blank">【杰森视角】中共军队近期在台湾海峡行为诡异！恒大为何放弃了它唯一的救命稻草？“枫桥经验”是习近平的制胜宝典？习近平需要一个3000多亿的亚运会！习近平的统治策略不需要发展经济？</a></li>
-<li><a href="/comments/20230924/1937968.md" target="_blank">李燕铭：上海官场人事大洗牌 暗藏多重清洗信号 公安高官被调虎离山跨界贬职 多所高校领导同期换人 上海体育大学校长副校长大换血 江泽民老巢上海被清洗（45） 习近平连任后大清洗（88） 习近平清洗刀把子（62） 习连任后高层人事大洗牌（115）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
 <li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
 
 </ul>
 </div>
