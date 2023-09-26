@@ -5,14 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20230925/1938364.md">习近平接班前也大骂共产党，习远平小姨子张珊珊再出江湖，核子集团垄断预制菜市场。《老灯开讲第392期》</a></li>
 <li><a href="/cbnews/20230925/1938370.md">〖兲朝浮世绘〗中国女毒王发声：冠状病毒疫情极可能再次爆发</a></li>
 <li><a href="/cbnews/20230925/1938439.md">中国杭州亚运会 长队表演 外国人一脸懵逼</a></li>
 <li><a href="/sohnews/20230925/1938423.md">陈破空：北戴河内幕：老将军沉默现身，习近平顿时惶恐。他向拜登提条件：不得推翻他！杭州亚运会，处处不祥之兆。直播与互动：美东时间9月25日早8点30、即中港台9月25日晚8点30</a></li>
-<li><a href="/cnnews/20230926/1938651.md">政商勾结、千万豪宅，网传李强妻女超强简历</a></li>
 <li><a href="/topimagenews/20230925/1938377.md">一张可怕的大网正接近完成！预制菜背后水很深【阿波罗网报道】</a></li>
-<li><a href="/baitai/20230925/1938403.md">石正丽突发疫情再爆发警告 入殓师透惊人内幕：中国因疫死亡人士不少于三亿</a></li>
+<li><a href="/cnnews/20230926/1938651.md">政商勾结、千万豪宅，网传李强妻女超强简历</a></li>
 <li><a href="/topimagenews/20230926/1938756.md">胡锦涛20大被架离会场一幕终于有答案了?</a></li>
+<li><a href="/baitai/20230925/1938403.md">石正丽突发疫情再爆发警告 入殓师透惊人内幕：中国因疫死亡人士不少于三亿</a></li>
 <li><a href="/cbnews/20230926/1938626.md">杭州亚运：末日的奢华 雨中一溜美女场景尴尬了</a></li>
 <li><a href="/topimagenews/20230925/1938507.md">微信占手机破100G内存 网民怒：资源被霸占又不敢删</a></li>
 <li><a href="/sohnews/20230926/1938620.md">让人想不到的原因，导致习近平亲手毁掉昔日仰仗的军头魏凤和</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/sohnews/20230926/1938659.md">亚运徽标惊现习名字！中共兴也亚运亡也亚运？屡现亡国兆，习近平灵隐寺秘密拜鬼？石正丽开口发警告，致命毒株来了？</a></li>
 <li><a href="/comments/20230925/1938407.md">中共防长李尚福出事 老上级张又侠高危</a></li>
 <li><a href="/lifebaike/20230926/1938704.md">被重庆女生街拍惊艳到了，裙不上膝，鞋穿平底，洋气高级不撞款</a></li>
-<li><a href="/sohnews/20230926/1938564.md">杭州亚运会 安排年轻美女不停跳 #shorts</a></li>
 <li><a href="/comments/20230925/1938368.md">知情人：习近平私下也骂共产党 后来背弃承诺</a></li>
+<li><a href="/sohnews/20230926/1938564.md">杭州亚运会 安排年轻美女不停跳 #shorts</a></li>
 <li><a href="/sohnews/20230925/1938373.md">文睿：消息，炸一片，财政，进入临界点，倒计时正式开始了</a></li>
 <li><a href="/finance/20230925/1938450.md">濒临崩溃！中国房地产危机拉响新警报</a></li>
 <li><a href="/itnews/20230925/1938406.md">胡锡进评论：程序员“翻墙”打工被罚没百万</a></li>
 <li><a href="/sohnews/20230925/1938427.md">文睿：华为，就是一个，无耻的笑话，今天，真是到了令人发指的程度，欢迎华为水军给我送流量</a></li>
+<li><a href="/topimagenews/20230926/1938710.md">【微博精粹】堂会+宴席的土冒儿境界</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
 <li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
 
 </ul>
 </div>
