@@ -13,21 +13,21 @@
 <li><a href="/cnnews/20230926/1938651.md">政商勾结、千万豪宅，网传李强妻女超强简历</a></li>
 <li><a href="/baitai/20230925/1938403.md">石正丽突发疫情再爆发警告 入殓师透惊人内幕：中国因疫死亡人士不少于三亿</a></li>
 <li><a href="/cbnews/20230926/1938626.md">杭州亚运：末日的奢华 雨中一溜美女场景尴尬了</a></li>
+<li><a href="/topimagenews/20230926/1938756.md">胡锦涛20大被架离会场一幕终于有答案了?</a></li>
 <li><a href="/topimagenews/20230925/1938507.md">微信占手机破100G内存 网民怒：资源被霸占又不敢删</a></li>
 <li><a href="/sohnews/20230926/1938620.md">让人想不到的原因，导致习近平亲手毁掉昔日仰仗的军头魏凤和</a></li>
 <li><a href="/topimagenews/20230925/1938468.md">重庆已婚中学副校长、主任 出差同房过夜 网酸深夜交流吗？</a></li>
 <li><a href="/ccpdope/20230925/1938431.md">试解赊刀人对习近平的预言</a></li>
-<li><a href="/topimagenews/20230926/1938756.md">胡锦涛20大被架离会场一幕终于有答案了?</a></li>
 <li><a href="/comments/20230926/1938661.md">文昭：中国第一个直辖市已传爆雷！这个城市曾远超北京，却为何殒落？</a></li>
-<li><a href="/comments/20230925/1938407.md">中共防长李尚福出事 老上级张又侠高危</a></li>
 <li><a href="/sohnews/20230926/1938659.md">亚运徽标惊现习名字！中共兴也亚运亡也亚运？屡现亡国兆，习近平灵隐寺秘密拜鬼？石正丽开口发警告，致命毒株来了？</a></li>
-<li><a href="/comments/20230925/1938368.md">知情人：习近平私下也骂共产党 后来背弃承诺</a></li>
+<li><a href="/comments/20230925/1938407.md">中共防长李尚福出事 老上级张又侠高危</a></li>
 <li><a href="/sohnews/20230926/1938564.md">杭州亚运会 安排年轻美女不停跳 #shorts</a></li>
+<li><a href="/comments/20230925/1938368.md">知情人：习近平私下也骂共产党 后来背弃承诺</a></li>
 <li><a href="/sohnews/20230925/1938373.md">文睿：消息，炸一片，财政，进入临界点，倒计时正式开始了</a></li>
 <li><a href="/finance/20230925/1938450.md">濒临崩溃！中国房地产危机拉响新警报</a></li>
 <li><a href="/itnews/20230925/1938406.md">胡锡进评论：程序员“翻墙”打工被罚没百万</a></li>
 <li><a href="/sohnews/20230925/1938427.md">文睿：华为，就是一个，无耻的笑话，今天，真是到了令人发指的程度，欢迎华为水军给我送流量</a></li>
-<li><a href="/lifebaike/20230925/1938359.md">父母最大的成功，是在这3件事上不管孩子，越不管，越有出息</a></li>
+<li><a href="/lifebaike/20230926/1938704.md">被重庆女生街拍惊艳到了，裙不上膝，鞋穿平底，洋气高级不撞款</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
 
 </ul>
 </div>
