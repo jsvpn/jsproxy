@@ -11,8 +11,8 @@
 <li><a href="/sohnews/20230926/1938620.md">让人想不到的原因，导致习近平亲手毁掉昔日仰仗的军头魏凤和</a></li>
 <li><a href="/comments/20230926/1938661.md">文昭：中国第一个直辖市已传爆雷！这个城市曾远超北京，却为何殒落？</a></li>
 <li><a href="/sohnews/20230926/1938837.md">惨烈清洗军委只剩何卫东一人，中共爆出李强震撼黑料，习为何大整自己亲信。《老灯开讲第393期》</a></li>
-<li><a href="/sohnews/20230926/1938659.md">亚运徽标惊现习名字！中共兴也亚运亡也亚运？屡现亡国兆，习近平灵隐寺秘密拜鬼？石正丽开口发警告，致命毒株来了？</a></li>
 <li><a href="/lifebaike/20230926/1938704.md">被重庆女生街拍惊艳到了，裙不上膝，鞋穿平底，洋气高级不撞款</a></li>
+<li><a href="/sohnews/20230926/1938659.md">亚运徽标惊现习名字！中共兴也亚运亡也亚运？屡现亡国兆，习近平灵隐寺秘密拜鬼？石正丽开口发警告，致命毒株来了？</a></li>
 <li><a href="/comments/20230926/1938709.md">天亮时分：疑似李强妻女照片曝光，习近平杀的就是亲信；恒大取消350亿美元债务重组计划，破产清算开始？程序员翻墙导致百万收入被没收（政论天下第1119集 20230925）天亮时分</a></li>
 <li><a href="/cbnews/20230926/1938847.md">李承鹏：魔王预言已应验 杀人屠夫大剌剌站在灵隐寺大殿</a></li>
 <li><a href="/sohnews/20230926/1938908.md">陈破空：重磅！老习要对李强下手？李家族突遭爆料！家产800亿。与马云关系密切。妻住千万豪宅。女儿嫁老外。资料详实骇人，疑来自高层。直播与互动：美东时间9月26日早8点30、即中港台9月26日晚8点30</a></li>
@@ -35,6 +35,10 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230927/1939068.md" target="_blank">魏斯博士（下）：精妙的轮回比喻</a></li>
+<li><a href="/comments/20230927/1939067.md" target="_blank">魏斯博士（下）：古老的精神都是科学</a></li>
+<li><a href="/comments/20230927/1939066.md" target="_blank">魏斯博士（下）：与道家神仙同游</a></li>
+<li><a href="/comments/20230927/1939065.md" target="_blank">魏斯博士（下）：女儿患白内障好了！</a></li>
 <li><a href="/cbnews/20230927/1939022.md" target="_blank">江峰：核酸大王做预制菜 朝中他撑腰 #习近平 #预制菜</a></li>
 <li><a href="/cbnews/20230926/1938962.md" target="_blank">假的！老富豪娶美女嫩妻照片爆红 唬烂网红被抓去关</a></li>
 <li><a href="/cbnews/20230926/1938951.md" target="_blank">中国狮子不愿当韭菜造反啦！被铁棍狂戳暴怒“撕咬驯兽师”</a></li>
@@ -56,10 +60,6 @@
 <li><a href="/cbnews/20230925/1938434.md" target="_blank">删帖：中国小学4年级男生性侵犯男同学2年 全网震怒</a></li>
 <li><a href="/cbnews/20230925/1938370.md" target="_blank">〖兲朝浮世绘〗中国女毒王发声：冠状病毒疫情极可能再次爆发</a></li>
 <li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20230925/1938334.md" target="_blank">西安交大抛弃了英文，杭州亚运会选择了英语</a></li>
-<li><a href="/cbnews/20230925/1938325.md" target="_blank">印度政府参与国外谋杀？证据源于五眼同盟的监控</a></li>
-<li><a href="/comments/20230925/1938308.md" target="_blank">否决AB 957后 州长纽森放水AB223【方伟时间-20230924】</a></li>
-<li><a href="/cbnews/20230925/1938282.md" target="_blank">哭笑不得：广东一盒经历了人情世故的五仁月饼</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,11 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230927/1939068.md" target="_blank">魏斯博士（下）：精妙的轮回比喻</a></li>
+<li><a href="/comments/20230927/1939067.md" target="_blank">魏斯博士（下）：古老的精神都是科学</a></li>
+<li><a href="/comments/20230927/1939066.md" target="_blank">魏斯博士（下）：与道家神仙同游</a></li>
+<li><a href="/comments/20230927/1939065.md" target="_blank">魏斯博士（下）：女儿患白内障好了！</a></li>
+<li><a href="/comments/20230927/1939053.md" target="_blank">新唐人首届选美大赛 12国32选手齐聚纽约</a></li>
 <li><a href="/comments/20230926/1938990.md" target="_blank">时事大家谈：李尚福“交友不慎”落马？习近平再提“净化社交圈”</a></li>
 <li><a href="/comments/20230926/1938985.md" target="_blank">【新闻拍案惊奇】“中共牌位”进寺庙！亚运消耗3000亿</a></li>
 <li><a href="/comments/20230926/1938981.md" target="_blank">时事大家谈：李尚福“交友不慎”落马？习近平再提“净化社交圈”；台防长称“敌情异常” 解放军攻台准备曝光？</a></li>
@@ -117,11 +122,6 @@
 <li><a href="/comments/20230926/1938682.md" target="_blank">扒一扒中共欺世惑众的牌坊</a></li>
 <li><a href="/comments/20230926/1938672.md" target="_blank">北京没面子 德媒：会叫的狗不咬人</a></li>
 <li><a href="/comments/20230926/1938661.md" target="_blank">文昭：中国第一个直辖市已传爆雷！这个城市曾远超北京，却为何殒落？</a></li>
-<li><a href="/comments/20230926/1938649.md" target="_blank">石正丽为何发“疫情将再来”警告？更危险病毒已被研发出来？｜林晓旭 方菲｜新闻烽火台 09/25</a></li>
-<li><a href="/comments/20230925/1938548.md" target="_blank">【独家重磅】李燕铭：习近平连环引爆五大窝案围剿赵乐际 为长期执政清障 江泽民曾庆红长期培植接班人选赵乐际内幕揭秘 习亲信李希受命追杀赵乐际 赵乐际铁杆心腹落马 中纪委约谈三百人 青海官场人心惶惶 习近平连任后大清洗（90） 围剿赵乐际（20） 青海帮覆灭记（8） 团派团灭内幕（33） 习近平决战江曾（129）</a></li>
-<li><a href="/comments/20230925/1938526.md" target="_blank">时事大家谈：中国“永远是发展中国家”，西方国家为何不认同？</a></li>
-<li><a href="/comments/20230925/1938525.md" target="_blank">时事大家谈：杭州无竞争承办亚运会，“冤大头”当的值不值？</a></li>
-<li><a href="/comments/20230925/1938524.md" target="_blank">时事大家谈：杭州无竞争承办亚运会，“冤大头”当的值不值？中国“永远是发展中国家”，西方国家为何不认同？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
 <li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 
 </ul>
 </div>
