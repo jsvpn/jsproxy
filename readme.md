@@ -8,11 +8,10 @@
 <li><a href="/topimagenews/20230926/1938756.md">胡锦涛20大被架离会场一幕终于有答案了?</a></li>
 <li><a href="/cnnews/20230926/1938651.md">政商勾结、千万豪宅，网传李强妻女超强简历</a></li>
 <li><a href="/cbnews/20230926/1938626.md">杭州亚运：末日的奢华 雨中一溜美女场景尴尬了</a></li>
-<li><a href="/sohnews/20230926/1938620.md">让人想不到的原因，导致习近平亲手毁掉昔日仰仗的军头魏凤和</a></li>
 <li><a href="/comments/20230926/1938661.md">文昭：中国第一个直辖市已传爆雷！这个城市曾远超北京，却为何殒落？</a></li>
 <li><a href="/sohnews/20230926/1938837.md">惨烈清洗军委只剩何卫东一人，中共爆出李强震撼黑料，习为何大整自己亲信。《老灯开讲第393期》</a></li>
-<li><a href="/sohnews/20230926/1938659.md">亚运徽标惊现习名字！中共兴也亚运亡也亚运？屡现亡国兆，习近平灵隐寺秘密拜鬼？石正丽开口发警告，致命毒株来了？</a></li>
 <li><a href="/lifebaike/20230926/1938704.md">被重庆女生街拍惊艳到了，裙不上膝，鞋穿平底，洋气高级不撞款</a></li>
+<li><a href="/sohnews/20230926/1938659.md">亚运徽标惊现习名字！中共兴也亚运亡也亚运？屡现亡国兆，习近平灵隐寺秘密拜鬼？石正丽开口发警告，致命毒株来了？</a></li>
 <li><a href="/comments/20230926/1938709.md">天亮时分：疑似李强妻女照片曝光，习近平杀的就是亲信；恒大取消350亿美元债务重组计划，破产清算开始？程序员翻墙导致百万收入被没收（政论天下第1119集 20230925）天亮时分</a></li>
 <li><a href="/cbnews/20230926/1938847.md">李承鹏：魔王预言已应验 杀人屠夫大剌剌站在灵隐寺大殿</a></li>
 <li><a href="/sohnews/20230926/1938908.md">陈破空：重磅！老习要对李强下手？李家族突遭爆料！家产800亿。与马云关系密切。妻住千万豪宅。女儿嫁老外。资料详实骇人，疑来自高层。直播与互动：美东时间9月26日早8点30、即中港台9月26日晚8点30</a></li>
@@ -22,12 +21,13 @@
 <li><a href="/baitai/20230926/1938856.md">杭州亚运会透不祥之兆？ 亚洲各国不给面子</a></li>
 <li><a href="/baitai/20230926/1938675.md">上海医院爆满 医生示警今年病毒与以往不同</a></li>
 <li><a href="/ccpdope/20230926/1938753.md">王毅和沙利文谈了什么？ 你想像不到</a></li>
-<li><a href="/topimagenews/20230926/1938882.md">大重构，大崩溃，大避险</a></li>
 <li><a href="/comments/20230926/1938806.md">杭州亚运会活人祭画面流出？习近平萨德抱团凶兆弥漫，互骗外交底裤被扒！开幕式外国政要倒楣？</a></li>
+<li><a href="/topimagenews/20230926/1938882.md">大重构，大崩溃，大避险</a></li>
 <li><a href="/baitai/20230926/1938782.md">余茂春：习近平提3大要求 拜登全答应 结果更糟；公安抢钱？ 程序员翻墙打工 百万收入被没收 【国际风云】</a></li>
 <li><a href="/comments/20230926/1938649.md">石正丽为何发“疫情将再来”警告？更危险病毒已被研发出来？｜林晓旭 方菲｜新闻烽火台 09/25</a></li>
 <li><a href="/cnnews/20230926/1938851.md">习近平真和火箭军干上了！再度进行一大动作【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230926/1938713.md">中秋过后有大事？习近平将大抓捕？疫情又升级；日本人来鸿：守住善良！【新闻看点 李沐阳9.25】</a></li>
+<li><a href="/ssgc/20230926/1938693.md">〖微博谈〗说抢劫多难听啊</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
 <li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
 
 </ul>
 </div>
