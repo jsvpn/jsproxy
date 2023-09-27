@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/topimagenews/20230926/1938756.md">胡锦涛20大被架离会场一幕终于有答案了?</a></li>
-<li><a href="/comments/20230926/1938661.md">文昭：中国第一个直辖市已传爆雷！这个城市曾远超北京，却为何殒落？</a></li>
 <li><a href="/sohnews/20230926/1938837.md">惨烈清洗军委只剩何卫东一人，中共爆出李强震撼黑料，习为何大整自己亲信。《老灯开讲第393期》</a></li>
 <li><a href="/lifebaike/20230926/1938704.md">被重庆女生街拍惊艳到了，裙不上膝，鞋穿平底，洋气高级不撞款</a></li>
-<li><a href="/sohnews/20230926/1938659.md">亚运徽标惊现习名字！中共兴也亚运亡也亚运？屡现亡国兆，习近平灵隐寺秘密拜鬼？石正丽开口发警告，致命毒株来了？</a></li>
 <li><a href="/comments/20230926/1938709.md">天亮时分：疑似李强妻女照片曝光，习近平杀的就是亲信；恒大取消350亿美元债务重组计划，破产清算开始？程序员翻墙导致百万收入被没收（政论天下第1119集 20230925）天亮时分</a></li>
 <li><a href="/cbnews/20230926/1938847.md">李承鹏：魔王预言已应验 杀人屠夫大剌剌站在灵隐寺大殿</a></li>
 <li><a href="/sohnews/20230926/1938908.md">陈破空：重磅！老习要对李强下手？李家族突遭爆料！家产800亿。与马云关系密切。妻住千万豪宅。女儿嫁老外。资料详实骇人，疑来自高层。直播与互动：美东时间9月26日早8点30、即中港台9月26日晚8点30</a></li>
+<li><a href="/ccpdope/20230927/1939041.md">一条让习近平吓的屁滚尿流的消息</a></li>
 <li><a href="/topimagenews/20230926/1938710.md">【微博精粹】堂会+宴席的土冒儿境界</a></li>
 <li><a href="/cbnews/20230926/1938783.md">〖兲朝浮世绘〗不以盈利为目的还投资干啥？人民日报编辑这智商好弱鸡</a></li>
 <li><a href="/cbnews/20230926/1938861.md">美总统候选人警告：习想赢，正为战争做准备</a></li>
-<li><a href="/ccpdope/20230927/1939041.md">一条让习近平吓的屁滚尿流的消息</a></li>
 <li><a href="/baitai/20230926/1938856.md">杭州亚运会透不祥之兆？ 亚洲各国不给面子</a></li>
+<li><a href="/topimagenews/20230927/1939024.md">人币贬值 22%大陆中产未来3年不出国游 所为何事？</a></li>
 <li><a href="/baitai/20230926/1938675.md">上海医院爆满 医生示警今年病毒与以往不同</a></li>
 <li><a href="/ccpdope/20230926/1938753.md">王毅和沙利文谈了什么？ 你想像不到</a></li>
-<li><a href="/topimagenews/20230927/1939024.md">人币贬值 22%大陆中产未来3年不出国游 所为何事？</a></li>
 <li><a href="/topimagenews/20230926/1938882.md">大重构，大崩溃，大避险</a></li>
 <li><a href="/comments/20230926/1938806.md">杭州亚运会活人祭画面流出？习近平萨德抱团凶兆弥漫，互骗外交底裤被扒！开幕式外国政要倒楣？</a></li>
 <li><a href="/baitai/20230926/1938782.md">余茂春：习近平提3大要求 拜登全答应 结果更糟；公安抢钱？ 程序员翻墙打工 百万收入被没收 【国际风云】</a></li>
-<li><a href="/cnnews/20230926/1938851.md">习近平真和火箭军干上了！再度进行一大动作【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230926/1938938.md">中共权斗大逆转？传习军师对外制造障眼法</a></li>
+<li><a href="/topimagenews/20230927/1939092.md">惊爆习超级恐怖绝密 逃美中国知名媒体人一口气曝5大事【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230926/1938851.md">习近平真和火箭军干上了！再度进行一大动作【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230926/1938713.md">中秋过后有大事？习近平将大抓捕？疫情又升级；日本人来鸿：守住善良！【新闻看点 李沐阳9.25】</a></li>
 <li><a href="/ssgc/20230926/1938693.md">〖微博谈〗说抢劫多难听啊</a></li>
+<li><a href="/worldnews/20230926/1938944.md">“被炸死”的黑海舰队司令在俄电视中现身</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230927/1939141.md" target="_blank">发明自由：同样被殖民，南北美为何大相径庭？</a></li>
+<li><a href="/comments/20230927/1939140.md" target="_blank">袁斌：嚣张炫富案成热搜 权力傲慢何时休？</a></li>
 <li><a href="/comments/20230927/1939126.md" target="_blank">王友群：曾庆红借助迟浩田逼宫习近平？</a></li>
 <li><a href="/comments/20230927/1939125.md" target="_blank">吴惠林：第十二章 健康也是一种财货</a></li>
 <li><a href="/comments/20230927/1939124.md" target="_blank">网海拾贝：杭州亚运，中共最后的盛宴</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230926/1938806.md" target="_blank">杭州亚运会活人祭画面流出？习近平萨德抱团凶兆弥漫，互骗外交底裤被扒！开幕式外国政要倒楣？</a></li>
 <li><a href="/comments/20230926/1938769.md" target="_blank">中共财政走向破产 只剩下最后三条路</a></li>
 <li><a href="/comments/20230926/1938731.md" target="_blank">加州侵夺父母教育权之际 北卡扩大父母权利【方伟时间-20230925】</a></li>
-<li><a href="/comments/20230926/1938709.md" target="_blank">天亮时分：疑似李强妻女照片曝光，习近平杀的就是亲信；恒大取消350亿美元债务重组计划，破产清算开始？程序员翻墙导致百万收入被没收（政论天下第1119集 20230925）天亮时分</a></li>
-<li><a href="/comments/20230926/1938701.md" target="_blank">中国派专机接杀人屠夫去杭州 巴沙尔大剌剌站在灵隐寺大雄宝殿</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
 
 </ul>
 </div>
