@@ -12,8 +12,8 @@
 <li><a href="/sohnews/20230927/1939360.md">习近平搞死栗战书报仇雪恨，大同小学霸凌事件说明中共的极端邪恶，歌曲《大梦》超过《罗刹海市》。《老灯开讲第394期》</a></li>
 <li><a href="/topimagenews/20230927/1939347.md">公务员无薪水！专家揭“南京恐破产”：中国经济倒退10年</a></li>
 <li><a href="/ccpdope/20230928/1939548.md">被捕时激烈反抗 许家印与多名高层被拿下</a></li>
-<li><a href="/sohnews/20230927/1939390.md">网曝习近平不为人知的细节，军方大调整即将开！史诗级救市失败！更严重危机即将到来……</a></li>
 <li><a href="/topimagenews/20230927/1939357.md">4000%暴涨潮将重演？华尔街巨头不约而同发信号</a></li>
+<li><a href="/sohnews/20230927/1939390.md">网曝习近平不为人知的细节，军方大调整即将开！史诗级救市失败！更严重危机即将到来……</a></li>
 <li><a href="/cbnews/20230927/1939242.md">习大清洗内幕曝光 传火箭军主导刺杀兵变</a></li>
 <li><a href="/topimagenews/20230927/1939364.md">全是套路！这才是C919第一张海外合同的真相</a></li>
 <li><a href="/cbnews/20230927/1939234.md">〖兲朝浮世绘〗同一个城市 不同的世界</a></li>
@@ -24,10 +24,10 @@
 <li><a href="/baitai/20230927/1939417.md">习要重复毛泽东老路？分析：中共发危险信号</a></li>
 <li><a href="/cbnews/20230927/1939243.md">秘密信件曝光 北京正暗中捣鬼</a></li>
 <li><a href="/topimagenews/20230927/1939279.md">房地产市场的真正危机即将到来…</a></li>
-<li><a href="/sohnews/20230927/1939375.md">陈破空：快讯：总装备部长许学强失踪！上将，李尚福的继任者。传出军方大改组，但这些人选都可能很快出事。党媒再发信号，王毅外长当不稳。直播与互动：美东时间9月27日早8点30、即中港台9月27日晚8点30</a></li>
-<li><a href="/ccpdope/20230927/1939459.md">李尚福到底因何激怒习近平？</a></li>
-<li><a href="/cbnews/20230927/1939298.md">“终结朝鲜政权” 东北亚面临重要历史关头</a></li>
 <li><a href="/cnnews/20230928/1939554.md">诡异！这大概是习近平最怕14亿人看到的视频？</a></li>
+<li><a href="/ccpdope/20230927/1939459.md">李尚福到底因何激怒习近平？</a></li>
+<li><a href="/sohnews/20230927/1939375.md">陈破空：快讯：总装备部长许学强失踪！上将，李尚福的继任者。传出军方大改组，但这些人选都可能很快出事。党媒再发信号，王毅外长当不稳。直播与互动：美东时间9月27日早8点30、即中港台9月27日晚8点30</a></li>
+<li><a href="/cbnews/20230927/1939298.md">“终结朝鲜政权” 东北亚面临重要历史关头</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230928/1939677.md" target="_blank">纽约极左法官，豪夺川普私人财产，下令吊销企业证书。估价海湖庄园，竟然低于市场价20倍！#川普集团 #纽约法官 #总检察长</a></li>
 <li><a href="/comments/20230928/1939662.md" target="_blank">许家印被监控，恒大面临瓦解；杭州亚运凸显“盛世”奇葩，钱从哪来？美国政府为何会面临关门？｜方伟 唐靖远 Jason David 方菲 ｜围炉夜话 09/27</a></li>
 <li><a href="/cbnews/20230928/1939650.md" target="_blank">美国务院电邮遭骇 中国黑客疑盗走6万封电邮</a></li>
 <li><a href="/cbnews/20230928/1939649.md" target="_blank">江峰：李强女高调招商，违二十大《高干直系家属禁止经商新规》，上海封城搞特权，爆料营造其下台民意和舆论准备；习近平用赵乐际打王岐山，如今李希有样学样，赵铁杆被查，牵连百官【江峰漫谈20230927第736期】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230927/1939065.md" target="_blank">魏斯博士（下）：女儿患白内障好了！</a></li>
 <li><a href="/cbnews/20230927/1939022.md" target="_blank">江峰：核酸大王做预制菜 朝中他撑腰 #习近平 #预制菜</a></li>
 <li><a href="/cbnews/20230926/1938962.md" target="_blank">假的！老富豪娶美女嫩妻照片爆红 唬烂网红被抓去关</a></li>
-<li><a href="/cbnews/20230926/1938951.md" target="_blank">中国狮子不愿当韭菜造反啦！被铁棍狂戳暴怒“撕咬驯兽师”</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230928/1939677.md" target="_blank">纽约极左法官，豪夺川普私人财产，下令吊销企业证书。估价海湖庄园，竟然低于市场价20倍！#川普集团 #纽约法官 #总检察长</a></li>
 <li><a href="/comments/20230928/1939662.md" target="_blank">许家印被监控，恒大面临瓦解；杭州亚运凸显“盛世”奇葩，钱从哪来？美国政府为何会面临关门？｜方伟 唐靖远 Jason David 方菲 ｜围炉夜话 09/27</a></li>
 <li><a href="/comments/20230928/1939658.md" target="_blank">武汉各大商场处境艰难，部分商场纷纷闭店</a></li>
 <li><a href="/comments/20230928/1939657.md" target="_blank">一网友因拍摄政府食堂饭菜价格表被捕</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230927/1939442.md" target="_blank">时事大家谈：华为发布会不提新手机 “啃”不动苹果？中国推出减持新规 能否稳住股市？</a></li>
 <li><a href="/comments/20230927/1939412.md" target="_blank">【梁京评论】习近平权斗有术、治国无能的政治灾难（上）</a></li>
 <li><a href="/comments/20230927/1939406.md" target="_blank">港媒：共军高层人事大调整 传刘振立接替李尚福任国防部长</a></li>
-<li><a href="/comments/20230927/1939405.md" target="_blank">韦伯望远镜发现令人惊叹、有史以来最远的“爱因斯坦环”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
 <li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
 
 </ul>
 </div>
