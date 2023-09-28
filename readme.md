@@ -10,23 +10,23 @@
 <li><a href="/cnnews/20230928/1939554.md">诡异！这大概是习近平最怕14亿人看到的视频？</a></li>
 <li><a href="/sohnews/20230928/1939544.md">轮到李强？妻女及洋女婿政商关系曝光；大管家被抓，张又侠再缺席重磅会议；许家印为何现在被“监视居住”？</a></li>
 <li><a href="/topimagenews/20230928/1939628.md">WSJ：中国正考虑放开房价任跌，风暴即将开始？</a></li>
-<li><a href="/finance/20230927/1939368.md">昨天听到领导一句毛骨悚然的话真相了【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230927/1939417.md">习要重复毛泽东老路？分析：中共发危险信号</a></li>
+<li><a href="/cbnews/20230928/1939543.md">秦刚和李尚福接连消失后，中共官宣政治局会议</a></li>
 <li><a href="/cbnews/20230928/1939563.md">频繁出走，习近平已觉察到中南海不安全？</a></li>
 <li><a href="/ccpdope/20230927/1939459.md">李尚福到底因何激怒习近平？</a></li>
-<li><a href="/cbnews/20230928/1939543.md">秦刚和李尚福接连消失后，中共官宣政治局会议</a></li>
 <li><a href="/ssgc/20230928/1939608.md">〖微博谈〗把不眠之夜留给习近平主席吧</a></li>
 <li><a href="/baitai/20230928/1939573.md">赵乐际坏了习的大事已难补救 故意的？难怪习对他下手…；郑爽「代孕」弃养重登热搜 给谁挡枪？【环球看点】</a></li>
 <li><a href="/sohnews/20230927/1939375.md">陈破空：快讯：总装备部长许学强失踪！上将，李尚福的继任者。传出军方大改组，但这些人选都可能很快出事。党媒再发信号，王毅外长当不稳。直播与互动：美东时间9月27日早8点30、即中港台9月27日晚8点30</a></li>
+<li><a href="/sohnews/20230928/1939739.md">王岐山警告习：改革会亡党、掉脑袋？！邓朴方卸任残联名誉主席，保利集团“太子党”也悬了？李尚福防长职位，传出两名接任人选；军队高层多人缺席重要会议；前外交官透露：共军政委海外泄密｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20230928/1939564.md">上海外国人走光 经济大萧条；烟火没了 商铺大量倒闭 老牌商场都撑不住；浦东机场冷冷清清；上海失业者很难找到工作  #新闻前线</a></li>
 <li><a href="/headline/20230928/1939504.md">黄浦江封：白纸革命还在继续：中国爆发反修例运动</a></li>
-<li><a href="/sohnews/20230928/1939739.md">王岐山警告习：改革会亡党、掉脑袋？！邓朴方卸任残联名誉主席，保利集团“太子党”也悬了？李尚福防长职位，传出两名接任人选；军队高层多人缺席重要会议；前外交官透露：共军政委海外泄密｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/sohnews/20230928/1939630.md">张又侠出事做实？巨干生被抓？许学强要出事？李强被放料，习近平干女儿的特权【新闻看点 李沐阳9.27】</a></li>
 <li><a href="/sohnews/20230928/1939752.md">政治局会议习与张又侠公开冲突，北京天桥又出现反习标语，许家印与保镖暴力反抗抓捕。《老灯开讲第395期》</a></li>
 <li><a href="/cbnews/20230928/1939704.md">〖兲朝浮世绘〗恒大的许家印被指定监视居住？早为儿子安排好后路</a></li>
+<li><a href="/sohnews/20230928/1939630.md">张又侠出事做实？巨干生被抓？许学强要出事？李强被放料，习近平干女儿的特权【新闻看点 李沐阳9.27】</a></li>
 <li><a href="/comments/20230928/1939600.md">文昭：又爆大丑闻，总理李强很可能有个洋女婿！秦刚哭晕在厕所...许家印已被监视居住，终於要剧终了</a></li>
 <li><a href="/comments/20230927/1939406.md">港媒：共军高层人事大调整 传刘振立接替李尚福任国防部长</a></li>
 <li><a href="/sohnews/20230927/1939376.md">习近平为保政权不管经济❗️人口问题比想像更严重！  #garytalk #干净世界德传媒 #德传媒</a></li>
+<li><a href="/baitai/20230927/1939373.md">唐山事件翻版！两女拒给微信号遭嚣张男当街暴打火爆网络</a></li>
 <li><a href="/comments/20230927/1939412.md">【梁京评论】习近平权斗有术、治国无能的政治灾难（上）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230928/1939801.md" target="_blank">全世界大法弟子恭祝师尊中秋快乐</a></li>
+<li><a href="/comments/20230928/1939800.md" target="_blank">陈茂波访英3天“打酱油” 评论：港府陷外交尴尬</a></li>
 <li><a href="/comments/20230928/1939755.md" target="_blank">【文昭谈古论今】李强可能有个洋女婿！秦刚哭晕在厕所</a></li>
 <li><a href="/comments/20230928/1939754.md" target="_blank">【新闻最嘲点】封神背后的资本局比电影更精彩！一位资本大鳄的隐密往事</a></li>
 <li><a href="/comments/20230928/1939688.md" target="_blank">星回:部分影视作品宣称“公海杀人不犯法”，是否属实？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230928/1939584.md" target="_blank">王赫：中国房企海外融资陷绝境</a></li>
 <li><a href="/comments/20230928/1939553.md" target="_blank">“中国这样做，是极其危险的”</a></li>
 <li><a href="/comments/20230928/1939481.md" target="_blank">传恒大集团许家印遭中国警方带走并软禁</a></li>
-<li><a href="/comments/20230928/1939480.md" target="_blank">【新闻拍案惊奇】李强妻女信息遭公开！英媒再谈秦刚傅晓田</a></li>
-<li><a href="/comments/20230927/1939456.md" target="_blank">时事大家谈：中国推出减持新规 能否稳住股市？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
 <li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
-<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
 
 </ul>
 </div>
