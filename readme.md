@@ -10,7 +10,6 @@
 <li><a href="/sohnews/20230928/1939544.md">轮到李强？妻女及洋女婿政商关系曝光；大管家被抓，张又侠再缺席重磅会议；许家印为何现在被“监视居住”？</a></li>
 <li><a href="/topimagenews/20230928/1939628.md">WSJ：中国正考虑放开房价任跌，风暴即将开始？</a></li>
 <li><a href="/sohnews/20230928/1939752.md">政治局会议习与张又侠公开冲突，北京天桥又出现反习标语，许家印与保镖暴力反抗抓捕。《老灯开讲第395期》</a></li>
-<li><a href="/ccpdope/20230927/1939459.md">李尚福到底因何激怒习近平？</a></li>
 <li><a href="/cbnews/20230928/1939543.md">秦刚和李尚福接连消失后，中共官宣政治局会议</a></li>
 <li><a href="/cbnews/20230928/1939563.md">频繁出走，习近平已觉察到中南海不安全？</a></li>
 <li><a href="/topimagenews/20230928/1939771.md">许家印曝雷内幕：有2个条件说什么也不接受【阿波罗网报道】</a></li>
@@ -22,11 +21,12 @@
 <li><a href="/ccpdope/20230928/1939731.md">习决定牺牲许家印 矢板明夫：抓他祭旗没想到这么快</a></li>
 <li><a href="/sohnews/20230928/1939630.md">张又侠出事做实？巨干生被抓？许学强要出事？李强被放料，习近平干女儿的特权【新闻看点 李沐阳9.27】</a></li>
 <li><a href="/headline/20230928/1939504.md">黄浦江封：白纸革命还在继续：中国爆发反修例运动</a></li>
+<li><a href="/baitai/20230928/1939854.md">难怪大整军 传习差点被刺杀 港媒揭大批将领被调查</a></li>
 <li><a href="/cnnews/20230928/1939757.md">惊爆吃人？！广西柳州饭店骨头吃出外科手术使用的钛钢钉🥵</a></li>
 <li><a href="/comments/20230928/1939600.md">文昭：又爆大丑闻，总理李强很可能有个洋女婿！秦刚哭晕在厕所...许家印已被监视居住，终於要剧终了</a></li>
-<li><a href="/topimagenews/20230928/1939772.md">中共秘密派人到美国巨头搞党建被踢爆【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20230928/1939649.md">江峰：李强女高调招商，违二十大《高干直系家属禁止经商新规》，上海封城搞特权，爆料营造其下台民意和舆论准备；习近平用赵乐际打王岐山，如今李希有样学样，赵铁杆被查，牵连百官【江峰漫谈20230927第736期】</a></li>
 <li><a href="/ccpdope/20230928/1939777.md">清洗带弓军人 习近平著魔</a></li>
+<li><a href="/cbnews/20230928/1939649.md">江峰：李强女高调招商，违二十大《高干直系家属禁止经商新规》，上海封城搞特权，爆料营造其下台民意和舆论准备；习近平用赵乐际打王岐山，如今李希有样学样，赵铁杆被查，牵连百官【江峰漫谈20230927第736期】</a></li>
+<li><a href="/topimagenews/20230928/1939772.md">中共秘密派人到美国巨头搞党建被踢爆【阿波罗网报道】</a></li>
 <li><a href="/bblog/20230928/1939607.md">〖微历史〗民变在即，便掠之于商</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230928/1939900.md" target="_blank">布林肯另一面 操电吉他“音乐外交”全场惊呆了</a></li>
 <li><a href="/topimagenews/20230928/1939890.md" target="_blank">“砰”…持续3秒！中国多地传神秘巨响 网友议论纷纷：部队在打炮</a></li>
 <li><a href="/topimagenews/20230928/1939889.md" target="_blank">恒大集团证实：许家印涉嫌违法犯罪被抓 股票暂停交易</a></li>
 <li><a href="/topimagenews/20230928/1939856.md" target="_blank">日本6成企业家认为在中国业务风险上升 警惕感加强</a></li>
@@ -90,13 +91,14 @@
 <li><a href="/topimagenews/20230927/1939092.md" target="_blank">惊爆习超级恐怖绝密 逃美中国知名媒体人一口气曝5大事【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230927/1939024.md" target="_blank">人币贬值 22%大陆中产未来3年不出国游 所为何事？</a></li>
 <li><a href="/topimagenews/20230926/1938975.md" target="_blank">中国这行业4万亿无监管终极诱惑会怎样？【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20230926/1938882.md" target="_blank">大重构，大崩溃，大避险</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230928/1939896.md" target="_blank">时事大家谈：恒大老板许家印被警方控制，其兴衰讲述了怎样的“中国故事”？习近平为何再提毛时代的“枫桥经验”？</a></li>
+<li><a href="/comments/20230928/1939894.md" target="_blank">传言成预言！恒大许家印因涉嫌违法被采取强制措施</a></li>
 <li><a href="/comments/20230928/1939882.md" target="_blank">奇怪：华邮发布总统民调 然后贬损自己【方伟时间-20230928】</a></li>
 <li><a href="/comments/20230928/1939781.md" target="_blank">防止你的孩子不成功（11） &#8211;教育避坑指南</a></li>
 <li><a href="/comments/20230928/1939851.md" target="_blank">【未普评论】习近平的攻台意图（下）</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230928/1939590.md" target="_blank">网海拾贝:习近平反腐：从清洗政敌到清洗亲信</a></li>
 <li><a href="/comments/20230928/1939589.md" target="_blank">袁斌：预制菜进校园与机关工作餐和亚运会美食</a></li>
 <li><a href="/comments/20230928/1939588.md" target="_blank">钟原：习近平四处游走 中南海不安全？</a></li>
-<li><a href="/comments/20230928/1939587.md" target="_blank">特稿:进化假说使科学误入歧途</a></li>
-<li><a href="/comments/20230928/1939586.md" target="_blank">陆仁：中共就是犯罪团伙，根本无权进入联合国</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
 <li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
 <li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
 
 </ul>
 </div>
