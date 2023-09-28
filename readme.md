@@ -7,7 +7,6 @@
 
 <li><a href="/cbnews/20230927/1939326.md">胡锦涛被架离20大最新3点内幕 据说海里已经确认【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230927/1939257.md">江峰：李强丑闻重创习家军！朱熔基温家宝退位前後家族腐败曝光敲打本人，李任总理仅半年被爆料剑指习近平。与马云、江派重臣私交犯大忌，会成为秦刚第三麽？【江峰漫谈20230926第735期】</a></li>
-<li><a href="/finance/20230927/1939154.md">没钱了 中国突全国上调这种缴费 还补交前8个月【阿波罗网报道】</a></li>
 <li><a href="/comments/20230927/1939258.md">傅晓田母子遭官宣！秦刚阻止晓田阳光行动失败！赵立坚病了？代孕生子证实间谍身份？</a></li>
 <li><a href="/topimagenews/20230927/1939325.md">惊爆内幕：栗战书竟不是习近平铁杆【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230927/1939360.md">习近平搞死栗战书报仇雪恨，大同小学霸凌事件说明中共的极端邪恶，歌曲《大梦》超过《罗刹海市》。《老灯开讲第394期》</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/ssgc/20230927/1939312.md">彭博：恒大董事局主席许家印被警方带走</a></li>
 <li><a href="/topimagenews/20230927/1939365.md">大崩溃，大避险，大重构；中国房市今传噩耗 许家印们离进去不远了？！惨败</a></li>
 <li><a href="/topimagenews/20230927/1939348.md">“特斯拉赶紧走吧，别在中国干了” 一条消息引发众怒【阿波罗网报道】</a></li>
+<li><a href="/ccpdope/20230928/1939548.md">被捕时激烈反抗 许家印与多名高层被拿下</a></li>
 <li><a href="/finance/20230927/1939368.md">昨天听到领导一句毛骨悚然的话真相了【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20230927/1939148.md">〖微博谈〗一不小心就辱华</a></li>
 <li><a href="/topimagenews/20230927/1939279.md">房地产市场的真正危机即将到来…</a></li>
 <li><a href="/cbnews/20230927/1939243.md">秘密信件曝光 北京正暗中捣鬼</a></li>
 <li><a href="/baitai/20230927/1939417.md">习要重复毛泽东老路？分析：中共发危险信号</a></li>
 <li><a href="/sohnews/20230927/1939375.md">陈破空：快讯：总装备部长许学强失踪！上将，李尚福的继任者。传出军方大改组，但这些人选都可能很快出事。党媒再发信号，王毅外长当不稳。直播与互动：美东时间9月27日早8点30、即中港台9月27日晚8点30</a></li>
 <li><a href="/cbnews/20230927/1939298.md">“终结朝鲜政权” 东北亚面临重要历史关头</a></li>
-<li><a href="/ccpdope/20230928/1939548.md">被捕时激烈反抗 许家印与多名高层被拿下</a></li>
+<li><a href="/ccpdope/20230927/1939459.md">李尚福到底因何激怒习近平？</a></li>
+<li><a href="/sohnews/20230927/1939297.md">习是李强女儿干爹？李强妻女信息遭公开！308人涉纽约华人区“卖Y”大案！堪比缅北？英媒再谈秦刚，傅晓田找人代孕，跟正宫争名分？中共政府食堂享低价特供，亚运200多菜肴才20不到｜新闻拍案惊奇 大宇</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/cbnews/20211017/1639767.md" target="_blank">由《西游记》想到的管理问题</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
 <li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
 
 </ul>
 </div>
