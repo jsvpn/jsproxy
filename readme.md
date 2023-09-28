@@ -8,26 +8,26 @@
 <li><a href="/ccpdope/20230928/1939548.md">被捕时激烈反抗 许家印与多名高层被拿下</a></li>
 <li><a href="/cnnews/20230928/1939554.md">诡异！这大概是习近平最怕14亿人看到的视频？</a></li>
 <li><a href="/sohnews/20230928/1939544.md">轮到李强？妻女及洋女婿政商关系曝光；大管家被抓，张又侠再缺席重磅会议；许家印为何现在被“监视居住”？</a></li>
-<li><a href="/topimagenews/20230928/1939628.md">WSJ：中国正考虑放开房价任跌，风暴即将开始？</a></li>
 <li><a href="/sohnews/20230928/1939752.md">政治局会议习与张又侠公开冲突，北京天桥又出现反习标语，许家印与保镖暴力反抗抓捕。《老灯开讲第395期》</a></li>
+<li><a href="/topimagenews/20230928/1939628.md">WSJ：中国正考虑放开房价任跌，风暴即将开始？</a></li>
+<li><a href="/sohnews/20230928/1939739.md">王岐山警告习：改革会亡党、掉脑袋？！邓朴方卸任残联名誉主席，保利集团“太子党”也悬了？李尚福防长职位，传出两名接任人选；军队高层多人缺席重要会议；前外交官透露：共军政委海外泄密｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20230928/1939543.md">秦刚和李尚福接连消失后，中共官宣政治局会议</a></li>
 <li><a href="/ccpdope/20230927/1939459.md">李尚福到底因何激怒习近平？</a></li>
-<li><a href="/sohnews/20230928/1939739.md">王岐山警告习：改革会亡党、掉脑袋？！邓朴方卸任残联名誉主席，保利集团“太子党”也悬了？李尚福防长职位，传出两名接任人选；军队高层多人缺席重要会议；前外交官透露：共军政委海外泄密｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cbnews/20230928/1939563.md">频繁出走，习近平已觉察到中南海不安全？</a></li>
 <li><a href="/baitai/20230927/1939417.md">习要重复毛泽东老路？分析：中共发危险信号</a></li>
 <li><a href="/ssgc/20230928/1939608.md">〖微博谈〗把不眠之夜留给习近平主席吧</a></li>
 <li><a href="/baitai/20230928/1939573.md">赵乐际坏了习的大事已难补救 故意的？难怪习对他下手…；郑爽「代孕」弃养重登热搜 给谁挡枪？【环球看点】</a></li>
 <li><a href="/sohnews/20230928/1939564.md">上海外国人走光 经济大萧条；烟火没了 商铺大量倒闭 老牌商场都撑不住；浦东机场冷冷清清；上海失业者很难找到工作  #新闻前线</a></li>
 <li><a href="/cbnews/20230928/1939704.md">〖兲朝浮世绘〗恒大的许家印被指定监视居住？早为儿子安排好后路</a></li>
-<li><a href="/headline/20230928/1939504.md">黄浦江封：白纸革命还在继续：中国爆发反修例运动</a></li>
 <li><a href="/sohnews/20230928/1939630.md">张又侠出事做实？巨干生被抓？许学强要出事？李强被放料，习近平干女儿的特权【新闻看点 李沐阳9.27】</a></li>
+<li><a href="/headline/20230928/1939504.md">黄浦江封：白纸革命还在继续：中国爆发反修例运动</a></li>
 <li><a href="/ccpdope/20230928/1939731.md">习决定牺牲许家印 矢板明夫：抓他祭旗没想到这么快</a></li>
 <li><a href="/comments/20230928/1939600.md">文昭：又爆大丑闻，总理李强很可能有个洋女婿！秦刚哭晕在厕所...许家印已被监视居住，终於要剧终了</a></li>
+<li><a href="/topimagenews/20230928/1939771.md">许家印曝雷内幕：有2个条件说什么也不接受【阿波罗网报道】</a></li>
 <li><a href="/comments/20230927/1939406.md">港媒：共军高层人事大调整 传刘振立接替李尚福任国防部长</a></li>
 <li><a href="/cbnews/20230928/1939649.md">江峰：李强女高调招商，违二十大《高干直系家属禁止经商新规》，上海封城搞特权，爆料营造其下台民意和舆论准备；习近平用赵乐际打王岐山，如今李希有样学样，赵铁杆被查，牵连百官【江峰漫谈20230927第736期】</a></li>
 <li><a href="/comments/20230927/1939412.md">【梁京评论】习近平权斗有术、治国无能的政治灾难（上）</a></li>
 <li><a href="/topimagenews/20230927/1939423.md">汽车工会喊加薪40％ 马斯克看不下去了！惊爆这惨烈下场</a></li>
-<li><a href="/baitai/20230927/1939427.md">中国驻美使领馆敦促中国公民登记个人信息 华人反对声浪高涨</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230928/1939849.md" target="_blank">俄杀手无人机惊现大量西方零件 乌克兰点名7大国</a></li>
 <li><a href="/topimagenews/20230928/1939796.md" target="_blank">中共这一野心如不遏止，将“给世界政治经济带来巨大灾难”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230928/1939772.md" target="_blank">中共秘密派人到美国巨头搞党建被踢爆【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230928/1939771.md" target="_blank">许家印曝雷内幕：有2个条件说什么也不接受【阿波罗网报道】</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230926/1938820.md" target="_blank">骂上热搜！“上半年中国股民人均盈利3.9万”？网友大骂：不要脸！【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230926/1938819.md" target="_blank">俄军官泄黑海舰队绝密 导致团灭 竟是为了这</a></li>
 <li><a href="/topimagenews/20230926/1938756.md" target="_blank">胡锦涛20大被架离会场一幕终于有答案了?</a></li>
-<li><a href="/topimagenews/20230926/1938746.md" target="_blank">Fed升息至7%？戴蒙：世界是否准备好因应 “将要退潮了”</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230928/1939851.md" target="_blank">【未普评论】习近平的攻台意图（下）</a></li>
 <li><a href="/comments/20230928/1939828.md" target="_blank">继《罗刹海市》后《大梦》爆红！ “该怎么办？”唱尽人的一生</a></li>
 <li><a href="/comments/20230928/1939801.md" target="_blank">全世界大法弟子恭祝师尊中秋快乐</a></li>
 <li><a href="/comments/20230928/1939800.md" target="_blank">陈茂波访英3天“打酱油” 评论：港府陷外交尴尬</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230928/1939586.md" target="_blank">陆仁：中共就是犯罪团伙，根本无权进入联合国</a></li>
 <li><a href="/comments/20230928/1939585.md" target="_blank">颜纯钩:高科技时代的战争，武器才是决定因素</a></li>
 <li><a href="/comments/20230928/1939584.md" target="_blank">王赫：中国房企海外融资陷绝境</a></li>
-<li><a href="/comments/20230928/1939553.md" target="_blank">“中国这样做，是极其危险的”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
 <li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
 <li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
 
 </ul>
 </div>
