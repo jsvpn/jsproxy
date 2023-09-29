@@ -10,7 +10,6 @@
 <li><a href="/sohnews/20230929/1940062.md">下一个落马的竟是李强？蚂蚁金服占股五百亿，马云对李强真大方！李强妻女详细资料被曝光，疑一尊授意！书记任上不遗余力为女儿拿项目，洋女婿公司版图曝光！‘新闻最嘲点 姜光宇’2023.0928</a></li>
 <li><a href="/topimagenews/20230929/1940014.md">李尚福消失另有内情？传他和其他将领“不听话”</a></li>
 <li><a href="/sohnews/20230929/1940271.md">李尚福坚决反对攻台被习清算，老常委张德江怒斥习近平，恒大歌舞团情色公关。《老灯开讲第396期》</a></li>
-<li><a href="/ccpdope/20230929/1939958.md">李强家族被曝贪腐 中共高层内斗盯上二号人物？</a></li>
 <li><a href="/cbnews/20230929/1940154.md">〖兲朝浮世绘〗中共给了许家印很久吐钱的机会 但是他配合与否都小命难保</a></li>
 <li><a href="/baitai/20230929/1939979.md">日经亚洲再爆猛料 中共元老逼宫惹怒习近平 邓小平子遭殃</a></li>
 <li><a href="/sohnews/20230929/1940174.md">习近平“十一”晚宴再提统一！常委各有心事，习“抢”李强话筒；公安系统传“赵乐际”正在被查，秦岭别墅案再被提及；许家印要“跑路”致祸？“前妻”或藏海外，其子或成人质｜新闻拍案惊奇 大宇</a></li>
@@ -18,16 +17,17 @@
 <li><a href="/sohnews/20230929/1940277.md">陈破空：国庆节异常！老习排斥李强。19人挤在一桌。气氛沉重。中共要求今后亚运会都在杭州举行，遭亚奥理事会断然拒绝。直播与互动：美东时间9月29日早8点30、即中港台9月29日晚8点30</a></li>
 <li><a href="/topimagenews/20230929/1940254.md">上海的房东们开始扛不住了；中共公务员铁饭碗破了，年薪削2成；4000%暴涨潮将重演？</a></li>
 <li><a href="/cbnews/20230929/1940028.md">担忧北京变心，朝鲜“被迫放人”表忠</a></li>
-<li><a href="/topimagenews/20230929/1940260.md">这三种黄金千万别碰，碰了就血本无归 共产党一定会退回黄金专营【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230929/1940304.md">政治局常委被弱化 “十一”活动现异常</a></li>
+<li><a href="/topimagenews/20230929/1940260.md">这三种黄金千万别碰，碰了就血本无归 共产党一定会退回黄金专营【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230929/1940049.md">江峰：李强爆料撕碎习家军阵营 #习近平 #李强</a></li>
 <li><a href="/cnnews/20230929/1940036.md">一篇帖子在中国盛传，民众很不安…..</a></li>
 <li><a href="/yule/20230929/1940119.md">中国男明星惊传嫖娼、出轨、卖淫 两男星急发声明</a></li>
-<li><a href="/sohnews/20230929/1939992.md">“鞋子落地！“涉嫌多项罪名 被强制措施” 早已秘密离婚 完成💰转移 ⋯”No.06（09/28/23）</a></li>
 <li><a href="/baitai/20230929/1939969.md">兄弟被团灭 传许家印和保镳剧烈反抗 学者：骨牌效应现 民变不远【红朝禁闻】</a></li>
-<li><a href="/ccpdope/20230929/1939959.md">习要亲手肢解恒大？网友揭许家印陈年往事</a></li>
 <li><a href="/topimagenews/20230929/1940334.md">许家印被带走,恒大歌舞团浮出水面,个个千娇百媚</a></li>
+<li><a href="/sohnews/20230929/1939992.md">“鞋子落地！“涉嫌多项罪名 被强制措施” 早已秘密离婚 完成💰转移 ⋯”No.06（09/28/23）</a></li>
+<li><a href="/baitai/20230929/1940303.md">北戴河第三神秘人被曝光 中共关键会议卡壳？</a></li>
 <li><a href="/sohnews/20230929/1940003.md">许家印被抓官宣，“异地指监”有多可怕？为什么说许家印案重点不在债务在口供？张德江被曝参与北戴河逼宫，习近平激斗三派；</a></li>
+<li><a href="/cnnews/20230929/1940127.md">突传重大消息！ 彭博:中国启动1370亿美元计划应对地方债</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
 
 </ul>
 </div>
