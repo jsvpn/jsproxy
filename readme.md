@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/topimagenews/20230929/1940185.md">习近平最新讲话 恐激怒无数百姓【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20230929/1940062.md">下一个落马的竟是李强？蚂蚁金服占股五百亿，马云对李强真大方！李强妻女详细资料被曝光，疑一尊授意！书记任上不遗余力为女儿拿项目，洋女婿公司版图曝光！‘新闻最嘲点 姜光宇’2023.0928</a></li>
 <li><a href="/cbnews/20230929/1940154.md">〖兲朝浮世绘〗中共给了许家印很久吐钱的机会 但是他配合与否都小命难保</a></li>
 <li><a href="/sohnews/20230929/1940271.md">李尚福坚决反对攻台被习清算，老常委张德江怒斥习近平，恒大歌舞团情色公关。《老灯开讲第396期》</a></li>
 <li><a href="/sohnews/20230929/1940174.md">习近平“十一”晚宴再提统一！常委各有心事，习“抢”李强话筒；公安系统传“赵乐际”正在被查，秦岭别墅案再被提及；许家印要“跑路”致祸？“前妻”或藏海外，其子或成人质｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/sohnews/20230929/1940277.md">陈破空：国庆节异常！老习排斥李强。19人挤在一桌。气氛沉重。中共要求今后亚运会都在杭州举行，遭亚奥理事会断然拒绝。直播与互动：美东时间9月29日早8点30、即中港台9月29日晚8点30</a></li>
 <li><a href="/topimagenews/20230929/1940334.md">许家印被带走,恒大歌舞团浮出水面,个个千娇百媚</a></li>
-<li><a href="/ssgc/20230929/1940304.md">政治局常委被弱化 “十一”活动现异常</a></li>
 <li><a href="/topimagenews/20230929/1940254.md">上海的房东们开始扛不住了；中共公务员铁饭碗破了，年薪削2成；4000%暴涨潮将重演？</a></li>
-<li><a href="/cbnews/20230929/1940049.md">江峰：李强爆料撕碎习家军阵营 #习近平 #李强</a></li>
+<li><a href="/ssgc/20230929/1940304.md">政治局常委被弱化 “十一”活动现异常</a></li>
 <li><a href="/topimagenews/20230929/1940260.md">这三种黄金千万别碰，碰了就血本无归 共产党一定会退回黄金专营【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230929/1940303.md">北戴河第三神秘人被曝光 中共关键会议卡壳？</a></li>
 <li><a href="/yule/20230929/1940119.md">中国男明星惊传嫖娼、出轨、卖淫 两男星急发声明</a></li>
 <li><a href="/cnnews/20230929/1940127.md">突传重大消息！ 彭博:中国启动1370亿美元计划应对地方债</a></li>
-<li><a href="/ssgc/20230929/1940059.md">〖微博谈〗北京实际上要摧毁现行国际秩序</a></li>
-<li><a href="/comments/20230929/1940050.md">文昭：总理李强妻子、女儿被起底，爆料和听床的区别在哪儿？</a></li>
+<li><a href="/ccpdope/20230930/1940380.md">【内幕】习近平放弃政治承诺 步入险境</a></li>
+<li><a href="/finance/20230929/1940147.md">马云最信任的人动手了，菜鸟打响第一枪</a></li>
 <li><a href="/baitai/20230929/1940222.md">王毅暗示逼美让步？华府送回三只大熊猫释信号</a></li>
 <li><a href="/cnnews/20230929/1940248.md">许家印被抓 谢金河：会有更多骨牌跟着倒下 中国要调整20年甚至更多</a></li>
-<li><a href="/finance/20230929/1940147.md">马云最信任的人动手了，菜鸟打响第一枪</a></li>
 <li><a href="/cbnews/20230929/1940164.md">曝许家印前妻7月下旬已飞离香港 现行踪成谜</a></li>
 <li><a href="/comments/20230929/1940095.md">天亮时分：「国庆」招待会三大诡异，习近平搞不定高层人事；许家印被捕，将被起诉多项罪名，房地产狂欢的落幕（政论天下第1122集 20230928）天亮时分</a></li>
+<li><a href="/headline/20230929/1940328.md">大陆公务员欠薪潮迅速蔓延 多个经济大省曝财政危机</a></li>
 <li><a href="/ccpdope/20230929/1940296.md">邓朴方彻底退场 习近平「加把锁」</a></li>
 <li><a href="/cbnews/20230929/1940136.md">江峰：恒大最後哀歌，为何此时抓捕许家印？市场负面影响将与中央房地产利好政策相悖？内幕一，所有利好无力回天，房地产辉煌二十年结束；二，要有罪人为习打压房产市场责任背锅【江峰漫谈20230928第737期】</a></li>
+<li><a href="/topimagenews/20230929/1940312.md">另类杀器？白俄“正妹军团”操练照曝光 俄女学生抢入军训</a></li>
+<li><a href="/ssgc/20230929/1940262.md">京沪等地事业单位降薪降绩效奖   网民热议“全民降薪”时代</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,9 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230930/1940491.md" target="_blank">规模庞大惊动美国 这里已成“中国租界”</a></li>
+<li><a href="/cbnews/20230930/1940490.md" target="_blank">未曾宣布 北京耗资数十亿美金“开战”</a></li>
+<li><a href="/cbnews/20230930/1940489.md" target="_blank">有图有真相，许家印“配偶”丁玉梅为加拿大籍</a></li>
 <li><a href="/cbnews/20230930/1940474.md" target="_blank">中东将有重大变局 北京不在局中</a></li>
 <li><a href="/cbnews/20230930/1940471.md" target="_blank">江峰：秦刚男女关系是继承党的优良传统啊， 怎麽挨整了？ #习近平 #秦刚</a></li>
 <li><a href="/cbnews/20230930/1940434.md" target="_blank">美国思想领袖：【精彩片段】「改非」换汤不换药 官员隐身吃空饷百姓买单 盘剥农民 贪官截留惠农资金 &#8211; #新闻大家谈</a></li>
@@ -57,15 +60,14 @@
 <li><a href="/comments/20230929/1940078.md" target="_blank">王友琴：习近平文革中曾被打被游街 ｜#方菲时间</a></li>
 <li><a href="/comments/20230929/1940067.md" target="_blank">共和党第二场初选辩论，川普没出席却成最大赢家。拉马斯瓦米成出气筒。现场评出最令人讨厌的人。克里斯蒂给川普起外号。#初选辩论 #川普 #德桑蒂斯</a></li>
 <li><a href="/cbnews/20230929/1940051.md" target="_blank">提早半年交货 美空军又有新神器</a></li>
-<li><a href="/cbnews/20230929/1940049.md" target="_blank">江峰：李强爆料撕碎习家军阵营 #习近平 #李强</a></li>
-<li><a href="/comments/20230929/1940042.md" target="_blank">达拉斯民主党市长跳槽 投入共和党【方伟时间-20230928】</a></li>
-<li><a href="/cbnews/20230929/1940028.md" target="_blank">担忧北京变心，朝鲜“被迫放人”表忠</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230930/1940488.md" target="_blank">十一后开铡！习近平将惩处李尚福、王大忠为黄海潜舰事故担责</a></li>
+<li><a href="/topimagenews/20230930/1940487.md" target="_blank">许家印为儿买的信托有3个特点 最后一条简直无敌</a></li>
 <li><a href="/topimagenews/20230930/1940454.md" target="_blank">中共军情异常 渤海存有不可说的秘密</a></li>
 <li><a href="/topimagenews/20230929/1940352.md" target="_blank">消息人士：恒大出售3200万美元豪华超级游艇解决财务危机</a></li>
 <li><a href="/topimagenews/20230929/1940334.md" target="_blank">许家印被带走,恒大歌舞团浮出水面,个个千娇百媚</a></li>
@@ -89,8 +91,6 @@
 <li><a href="/topimagenews/20230928/1939628.md" target="_blank">WSJ：中国正考虑放开房价任跌，风暴即将开始？</a></li>
 <li><a href="/topimagenews/20230927/1939434.md" target="_blank">美科技股溃堤 7大巨头不到3个月市值蒸发逾1兆美元</a></li>
 <li><a href="/topimagenews/20230927/1939423.md" target="_blank">汽车工会喊加薪40％ 马斯克看不下去了！惊爆这惨烈下场</a></li>
-<li><a href="/topimagenews/20230927/1939408.md" target="_blank">亚洲金融风暴快了？这国企业债务破纪录 惊人数字曝光</a></li>
-<li><a href="/topimagenews/20230927/1939407.md" target="_blank">北京600亿房产董座下跪借钱 谢金河曝陆房市危机：14亿人救不了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
 <li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/comments/20230924/1938058.md" target="_blank">防止你的孩子不成功（9） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
 <li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
 <li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
 
 </ul>
 </div>
