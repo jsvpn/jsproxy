@@ -8,11 +8,10 @@
 <li><a href="/sohnews/20230928/1939752.md">政治局会议习与张又侠公开冲突，北京天桥又出现反习标语，许家印与保镖暴力反抗抓捕。《老灯开讲第395期》</a></li>
 <li><a href="/topimagenews/20230928/1939771.md">许家印曝雷内幕：有2个条件说什么也不接受【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230928/1939854.md">难怪大整军 传习差点被刺杀 港媒揭大批将领被调查</a></li>
-<li><a href="/sohnews/20230928/1939739.md">王岐山警告习：改革会亡党、掉脑袋？！邓朴方卸任残联名誉主席，保利集团“太子党”也悬了？李尚福防长职位，传出两名接任人选；军队高层多人缺席重要会议；前外交官透露：共军政委海外泄密｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20230929/1940000.md">三观碎了....网传文章：习近平决策二三事</a></li>
 <li><a href="/sohnews/20230928/1939847.md">政治局开会重点就一句话！谁敢投资中国？你的收入可能是违法的⋯⋯</a></li>
-<li><a href="/cnnews/20230928/1939757.md">惊爆吃人？！广西柳州饭店骨头吃出外科手术使用的钛钢钉🥵</a></li>
 <li><a href="/baitai/20230928/1939869.md">重磅消息不断！习近平决定弃掉许家印？当局开始收网 恒大金融帝国轰然坍塌</a></li>
+<li><a href="/cnnews/20230928/1939757.md">惊爆吃人？！广西柳州饭店骨头吃出外科手术使用的钛钢钉🥵</a></li>
 <li><a href="/topimagenews/20230929/1940014.md">李尚福消失另有内情？传他和其他将领“不听话”</a></li>
 <li><a href="/sohnews/20230928/1939837.md">文睿：来了，内蒙古，第一枪，一尊，饥不择食开始乱来了</a></li>
 <li><a href="/topimagenews/20230929/1939939.md">中国经济多糟？看中秋猪肉需求就知</a></li>
@@ -20,14 +19,15 @@
 <li><a href="/topimagenews/20230928/1939890.md">“砰”…持续3秒！中国多地传神秘巨响 网友议论纷纷：部队在打炮</a></li>
 <li><a href="/ccpdope/20230929/1939958.md">李强家族被曝贪腐 中共高层内斗盯上二号人物？</a></li>
 <li><a href="/topimagenews/20230928/1939772.md">中共秘密派人到美国巨头搞党建被踢爆【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20230929/1940032.md">一张信息量很大的图！感觉到阵阵寒意</a></li>
 <li><a href="/ccpdope/20230928/1939777.md">清洗带弓军人 习近平著魔</a></li>
 <li><a href="/headline/20230929/1939933.md">许家印丧失自由对中国和世界意味着什么</a></li>
-<li><a href="/cnnews/20230929/1940032.md">一张信息量很大的图！感觉到阵阵寒意</a></li>
-<li><a href="/baitai/20230929/1939979.md">日经亚洲再爆猛料 中共元老逼宫惹怒习近平 邓小平子遭殃</a></li>
 <li><a href="/sohnews/20230928/1939833.md">陈破空：严重政治事件：杭州亚运会会征出自殡仪馆！许家印因激烈反抗，遭戴上手铐脚镣。外媒：习当局将放开房价任跌。直播与互动：美东时间9月28日早8点30、即中港台9月28日晚8点30</a></li>
+<li><a href="/baitai/20230929/1939979.md">日经亚洲再爆猛料 中共元老逼宫惹怒习近平 邓小平子遭殃</a></li>
 <li><a href="/sohnews/20230929/1939992.md">“鞋子落地！“涉嫌多项罪名 被强制措施” 早已秘密离婚 完成💰转移 ⋯”No.06（09/28/23）</a></li>
-<li><a href="/baitai/20230929/1939969.md">兄弟被团灭 传许家印和保镳剧烈反抗 学者：骨牌效应现 民变不远【红朝禁闻】</a></li>
 <li><a href="/sohnews/20230928/1939484.md">习近平喜欢秦刚 就像毛泽东喜欢华国锋</a></li>
+<li><a href="/baitai/20230929/1939969.md">兄弟被团灭 传许家印和保镳剧烈反抗 学者：骨牌效应现 民变不远【红朝禁闻】</a></li>
+<li><a href="/cbnews/20230929/1940028.md">担忧北京变心，朝鲜“被迫放人”表忠</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
 <li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
 
 </ul>
 </div>
