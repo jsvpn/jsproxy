@@ -18,16 +18,16 @@
 <li><a href="/sohnews/20230929/1940174.md">习近平“十一”晚宴再提统一！常委各有心事，习“抢”李强话筒；公安系统传“赵乐际”正在被查，秦岭别墅案再被提及；许家印要“跑路”致祸？“前妻”或藏海外，其子或成人质｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20230929/1940032.md">一张信息量很大的图！感觉到阵阵寒意</a></li>
 <li><a href="/topimagenews/20230929/1940254.md">上海的房东们开始扛不住了；中共公务员铁饭碗破了，年薪削2成；4000%暴涨潮将重演？</a></li>
-<li><a href="/cbnews/20230929/1940028.md">担忧北京变心，朝鲜“被迫放人”表忠</a></li>
 <li><a href="/sohnews/20230929/1940277.md">陈破空：国庆节异常！老习排斥李强。19人挤在一桌。气氛沉重。中共要求今后亚运会都在杭州举行，遭亚奥理事会断然拒绝。直播与互动：美东时间9月29日早8点30、即中港台9月29日晚8点30</a></li>
-<li><a href="/cbnews/20230929/1940049.md">江峰：李强爆料撕碎习家军阵营 #习近平 #李强</a></li>
+<li><a href="/cbnews/20230929/1940028.md">担忧北京变心，朝鲜“被迫放人”表忠</a></li>
 <li><a href="/topimagenews/20230929/1940260.md">这三种黄金千万别碰，碰了就血本无归 共产党一定会退回黄金专营【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20230929/1940049.md">江峰：李强爆料撕碎习家军阵营 #习近平 #李强</a></li>
 <li><a href="/cnnews/20230929/1940036.md">一篇帖子在中国盛传，民众很不安…..</a></li>
-<li><a href="/baitai/20230929/1939969.md">兄弟被团灭 传许家印和保镳剧烈反抗 学者：骨牌效应现 民变不远【红朝禁闻】</a></li>
 <li><a href="/sohnews/20230929/1939992.md">“鞋子落地！“涉嫌多项罪名 被强制措施” 早已秘密离婚 完成💰转移 ⋯”No.06（09/28/23）</a></li>
+<li><a href="/baitai/20230929/1939969.md">兄弟被团灭 传许家印和保镳剧烈反抗 学者：骨牌效应现 民变不远【红朝禁闻】</a></li>
 <li><a href="/ccpdope/20230929/1939959.md">习要亲手肢解恒大？网友揭许家印陈年往事</a></li>
 <li><a href="/yule/20230929/1940119.md">中国男明星惊传嫖娼、出轨、卖淫 两男星急发声明</a></li>
-<li><a href="/sohnews/20230929/1940003.md">许家印被抓官宣，“异地指监”有多可怕？为什么说许家印案重点不在债务在口供？张德江被曝参与北戴河逼宫，习近平激斗三派；</a></li>
+<li><a href="/ssgc/20230929/1940304.md">政治局常委被弱化 “十一”活动现异常</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230930/1940374.md" target="_blank">评论 &#8211; 唯色：《杀劫》2023年最新修订版与前两版有何不同？(五)</a></li>
+<li><a href="/comments/20230930/1940372.md" target="_blank">时事大家谈：菲律宾拆掉南海浮动障碍，为何小马克斯对北京越来越强硬？</a></li>
 <li><a href="/comments/20230929/1940358.md" target="_blank">时事大家谈：北京高层怪事不断，中国政局出现斯大林逻辑?</a></li>
 <li><a href="/comments/20230929/1940348.md" target="_blank">时事大家谈：菲律宾拆掉南海浮动障碍，为何小马克斯对北京越来越强硬？北京高层怪事不断，中国政局出现斯大林逻辑?</a></li>
 <li><a href="/comments/20230929/1940321.md" target="_blank">【杜耀明评论】香港式法治：政治执法宁枉毋纵 经济规管松散怠慢</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20230929/1940042.md" target="_blank">达拉斯民主党市长跳槽 投入共和党【方伟时间-20230928】</a></li>
 <li><a href="/comments/20230929/1939935.md" target="_blank">时事大家谈：习近平为何再提毛时代的“枫桥经验”？</a></li>
 <li><a href="/comments/20230929/1939934.md" target="_blank">时事大家谈：恒大老板许家印被警方控制，其兴衰讲述了怎样的“中国故事”？</a></li>
-<li><a href="/comments/20230928/1939896.md" target="_blank">时事大家谈：恒大老板许家印被警方控制，其兴衰讲述了怎样的“中国故事”？习近平为何再提毛时代的“枫桥经验”？</a></li>
-<li><a href="/comments/20230928/1939894.md" target="_blank">传言成预言！恒大许家印因涉嫌违法被采取强制措施</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
 <li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
 
 </ul>
 </div>
