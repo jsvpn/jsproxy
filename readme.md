@@ -18,15 +18,15 @@
 <li><a href="/ssgc/20230929/1940304.md">政治局常委被弱化 “十一”活动现异常</a></li>
 <li><a href="/topimagenews/20230929/1940254.md">上海的房东们开始扛不住了；中共公务员铁饭碗破了，年薪削2成；4000%暴涨潮将重演？</a></li>
 <li><a href="/cbnews/20230929/1940028.md">担忧北京变心，朝鲜“被迫放人”表忠</a></li>
-<li><a href="/topimagenews/20230929/1940260.md">这三种黄金千万别碰，碰了就血本无归 共产党一定会退回黄金专营【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230929/1940334.md">许家印被带走,恒大歌舞团浮出水面,个个千娇百媚</a></li>
+<li><a href="/topimagenews/20230929/1940260.md">这三种黄金千万别碰，碰了就血本无归 共产党一定会退回黄金专营【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20230929/1940049.md">江峰：李强爆料撕碎习家军阵营 #习近平 #李强</a></li>
 <li><a href="/baitai/20230929/1940303.md">北戴河第三神秘人被曝光 中共关键会议卡壳？</a></li>
 <li><a href="/cnnews/20230929/1940036.md">一篇帖子在中国盛传，民众很不安…..</a></li>
 <li><a href="/yule/20230929/1940119.md">中国男明星惊传嫖娼、出轨、卖淫 两男星急发声明</a></li>
 <li><a href="/sohnews/20230929/1939992.md">“鞋子落地！“涉嫌多项罪名 被强制措施” 早已秘密离婚 完成💰转移 ⋯”No.06（09/28/23）</a></li>
-<li><a href="/sohnews/20230929/1940003.md">许家印被抓官宣，“异地指监”有多可怕？为什么说许家印案重点不在债务在口供？张德江被曝参与北戴河逼宫，习近平激斗三派；</a></li>
 <li><a href="/cnnews/20230929/1940127.md">突传重大消息！ 彭博:中国启动1370亿美元计划应对地方债</a></li>
+<li><a href="/sohnews/20230929/1940003.md">许家印被抓官宣，“异地指监”有多可怕？为什么说许家印案重点不在债务在口供？张德江被曝参与北戴河逼宫，习近平激斗三派；</a></li>
 <li><a href="/ssgc/20230929/1940059.md">〖微博谈〗北京实际上要摧毁现行国际秩序</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230930/1940428.md" target="_blank">美国思想领袖：【精彩片段】怪象频发 多地绿化为何靠「喷」？糊弄上级 劳民伤财 「退耕还林」尽出荒唐事 &#8211; #新闻大家谈</a></li>
 <li><a href="/comments/20230929/1940292.md" target="_blank">川普底特律演讲，与拜登争夺2024年蓝领选票。众议院获得拜登银行记录，中共的钱寄往拜登住址。#川普 #拜登 #底特律</a></li>
 <li><a href="/comments/20230929/1940291.md" target="_blank">神秘力量吓坏外星人，飞逃出墨西哥火山口。｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20230929/1940290.md" target="_blank">墨西哥外星人事件大揭秘：外星人遗体？！</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20230928/1939882.md" target="_blank">奇怪：华邮发布总统民调 然后贬损自己【方伟时间-20230928】</a></li>
 <li><a href="/cbnews/20230928/1939881.md" target="_blank">华为总裁3子女 姓氏全都不一样！他曾亲口吐原因</a></li>
 <li><a href="/cbnews/20230928/1939756.md" target="_blank">马方先生谈中共大力推行预制菜！最后才是亮点</a></li>
-<li><a href="/cbnews/20230928/1939704.md" target="_blank">〖兲朝浮世绘〗恒大的许家印被指定监视居住？早为儿子安排好后路</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
 <li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
-<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
 
 </ul>
 </div>
