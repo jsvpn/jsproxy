@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20230928/1939847.md">政治局开会重点就一句话！谁敢投资中国？你的收入可能是违法的⋯⋯</a></li>
 <li><a href="/topimagenews/20230929/1940000.md">三观碎了....网传文章：习近平决策二三事</a></li>
 <li><a href="/baitai/20230928/1939869.md">重磅消息不断！习近平决定弃掉许家印？当局开始收网 恒大金融帝国轰然坍塌</a></li>
-<li><a href="/sohnews/20230928/1939837.md">文睿：来了，内蒙古，第一枪，一尊，饥不择食开始乱来了</a></li>
-<li><a href="/topimagenews/20230929/1939939.md">中国经济多糟？看中秋猪肉需求就知</a></li>
-<li><a href="/topimagenews/20230929/1940014.md">李尚福消失另有内情？传他和其他将领“不听话”</a></li>
 <li><a href="/topimagenews/20230929/1940185.md">习近平最新讲话 恐激怒无数百姓【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230929/1939939.md">中国经济多糟？看中秋猪肉需求就知</a></li>
+<li><a href="/sohnews/20230928/1939837.md">文睿：来了，内蒙古，第一枪，一尊，饥不择食开始乱来了</a></li>
+<li><a href="/topimagenews/20230929/1940014.md">李尚福消失另有内情？传他和其他将领“不听话”</a></li>
 <li><a href="/sohnews/20230929/1940062.md">下一个落马的竟是李强？蚂蚁金服占股五百亿，马云对李强真大方！李强妻女详细资料被曝光，疑一尊授意！书记任上不遗余力为女儿拿项目，洋女婿公司版图曝光！‘新闻最嘲点 姜光宇’2023.0928</a></li>
 <li><a href="/topimagenews/20230928/1939890.md">“砰”…持续3秒！中国多地传神秘巨响 网友议论纷纷：部队在打炮</a></li>
 <li><a href="/ccpdope/20230929/1939958.md">李强家族被曝贪腐 中共高层内斗盯上二号人物？</a></li>
 <li><a href="/cbnews/20230929/1940154.md">〖兲朝浮世绘〗中共给了许家印很久吐钱的机会 但是他配合与否都小命难保</a></li>
 <li><a href="/headline/20230929/1939933.md">许家印丧失自由对中国和世界意味着什么</a></li>
-<li><a href="/sohnews/20230928/1939833.md">陈破空：严重政治事件：杭州亚运会会征出自殡仪馆！许家印因激烈反抗，遭戴上手铐脚镣。外媒：习当局将放开房价任跌。直播与互动：美东时间9月28日早8点30、即中港台9月28日晚8点30</a></li>
 <li><a href="/sohnews/20230929/1940174.md">习近平“十一”晚宴再提统一！常委各有心事，习“抢”李强话筒；公安系统传“赵乐际”正在被查，秦岭别墅案再被提及；许家印要“跑路”致祸？“前妻”或藏海外，其子或成人质｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20230929/1939979.md">日经亚洲再爆猛料 中共元老逼宫惹怒习近平 邓小平子遭殃</a></li>
 <li><a href="/cnnews/20230929/1940032.md">一张信息量很大的图！感觉到阵阵寒意</a></li>
-<li><a href="/sohnews/20230929/1939992.md">“鞋子落地！“涉嫌多项罪名 被强制措施” 早已秘密离婚 完成💰转移 ⋯”No.06（09/28/23）</a></li>
 <li><a href="/cbnews/20230929/1940028.md">担忧北京变心，朝鲜“被迫放人”表忠</a></li>
+<li><a href="/sohnews/20230929/1939992.md">“鞋子落地！“涉嫌多项罪名 被强制措施” 早已秘密离婚 完成💰转移 ⋯”No.06（09/28/23）</a></li>
 <li><a href="/baitai/20230929/1939969.md">兄弟被团灭 传许家印和保镳剧烈反抗 学者：骨牌效应现 民变不远【红朝禁闻】</a></li>
 <li><a href="/cbnews/20230929/1940049.md">江峰：李强爆料撕碎习家军阵营 #习近平 #李强</a></li>
 <li><a href="/ccpdope/20230929/1939959.md">习要亲手肢解恒大？网友揭许家印陈年往事</a></li>
 <li><a href="/sohnews/20230928/1939484.md">习近平喜欢秦刚 就像毛泽东喜欢华国锋</a></li>
+<li><a href="/cnnews/20230929/1940036.md">一篇帖子在中国盛传，民众很不安…..</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200527/783191.md" target="_blank">《乐舞仙踪》</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
+<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
 
 </ul>
 </div>
