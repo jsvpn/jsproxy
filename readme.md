@@ -11,23 +11,23 @@
 <li><a href="/topimagenews/20230929/1940014.md">李尚福消失另有内情？传他和其他将领“不听话”</a></li>
 <li><a href="/sohnews/20230929/1940062.md">下一个落马的竟是李强？蚂蚁金服占股五百亿，马云对李强真大方！李强妻女详细资料被曝光，疑一尊授意！书记任上不遗余力为女儿拿项目，洋女婿公司版图曝光！‘新闻最嘲点 姜光宇’2023.0928</a></li>
 <li><a href="/ccpdope/20230929/1939958.md">李强家族被曝贪腐 中共高层内斗盯上二号人物？</a></li>
-<li><a href="/topimagenews/20230928/1939890.md">“砰”…持续3秒！中国多地传神秘巨响 网友议论纷纷：部队在打炮</a></li>
 <li><a href="/cbnews/20230929/1940154.md">〖兲朝浮世绘〗中共给了许家印很久吐钱的机会 但是他配合与否都小命难保</a></li>
 <li><a href="/headline/20230929/1939933.md">许家印丧失自由对中国和世界意味着什么</a></li>
 <li><a href="/sohnews/20230929/1940174.md">习近平“十一”晚宴再提统一！常委各有心事，习“抢”李强话筒；公安系统传“赵乐际”正在被查，秦岭别墅案再被提及；许家印要“跑路”致祸？“前妻”或藏海外，其子或成人质｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/baitai/20230929/1939979.md">日经亚洲再爆猛料 中共元老逼宫惹怒习近平 邓小平子遭殃</a></li>
 <li><a href="/sohnews/20230929/1940271.md">李尚福坚决反对攻台被习清算，老常委张德江怒斥习近平，恒大歌舞团情色公关。《老灯开讲第396期》</a></li>
+<li><a href="/baitai/20230929/1939979.md">日经亚洲再爆猛料 中共元老逼宫惹怒习近平 邓小平子遭殃</a></li>
 <li><a href="/cnnews/20230929/1940032.md">一张信息量很大的图！感觉到阵阵寒意</a></li>
 <li><a href="/cbnews/20230929/1940028.md">担忧北京变心，朝鲜“被迫放人”表忠</a></li>
+<li><a href="/topimagenews/20230929/1940254.md">上海的房东们开始扛不住了；中共公务员铁饭碗破了，年薪削2成；4000%暴涨潮将重演？</a></li>
 <li><a href="/cbnews/20230929/1940049.md">江峰：李强爆料撕碎习家军阵营 #习近平 #李强</a></li>
-<li><a href="/sohnews/20230929/1939992.md">“鞋子落地！“涉嫌多项罪名 被强制措施” 早已秘密离婚 完成💰转移 ⋯”No.06（09/28/23）</a></li>
 <li><a href="/baitai/20230929/1939969.md">兄弟被团灭 传许家印和保镳剧烈反抗 学者：骨牌效应现 民变不远【红朝禁闻】</a></li>
+<li><a href="/sohnews/20230929/1939992.md">“鞋子落地！“涉嫌多项罪名 被强制措施” 早已秘密离婚 完成💰转移 ⋯”No.06（09/28/23）</a></li>
+<li><a href="/cnnews/20230929/1940036.md">一篇帖子在中国盛传，民众很不安…..</a></li>
 <li><a href="/ccpdope/20230929/1939959.md">习要亲手肢解恒大？网友揭许家印陈年往事</a></li>
 <li><a href="/yule/20230929/1940119.md">中国男明星惊传嫖娼、出轨、卖淫 两男星急发声明</a></li>
-<li><a href="/cnnews/20230929/1940036.md">一篇帖子在中国盛传，民众很不安…..</a></li>
-<li><a href="/sohnews/20230928/1939484.md">习近平喜欢秦刚 就像毛泽东喜欢华国锋</a></li>
-<li><a href="/topimagenews/20230929/1940254.md">上海的房东们开始扛不住了；中共公务员铁饭碗破了，年薪削2成；4000%暴涨潮将重演？</a></li>
 <li><a href="/sohnews/20230929/1940003.md">许家印被抓官宣，“异地指监”有多可怕？为什么说许家印案重点不在债务在口供？张德江被曝参与北戴河逼宫，习近平激斗三派；</a></li>
+<li><a href="/topimagenews/20230929/1940260.md">这三种黄金千万别碰，碰了就血本无归 共产党一定会退回黄金专营【阿波罗网报道】</a></li>
+<li><a href="/ssgc/20230929/1940059.md">〖微博谈〗北京实际上要摧毁现行国际秩序</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20230929/1940334.md" target="_blank">许家印被带走,恒大歌舞团浮出水面,个个千娇百媚</a></li>
 <li><a href="/topimagenews/20230929/1940326.md" target="_blank">“猫熊外交” 失败？英美澳动物园宣布将送回 明年恐“全美无猫熊”</a></li>
 <li><a href="/topimagenews/20230929/1940312.md" target="_blank">另类杀器？白俄“正妹军团”操练照曝光 俄女学生抢入军训</a></li>
 <li><a href="/topimagenews/20230929/1940260.md" target="_blank">这三种黄金千万别碰，碰了就血本无归 共产党一定会退回黄金专营【阿波罗网报道】</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20230927/1939407.md" target="_blank">北京600亿房产董座下跪借钱 谢金河曝陆房市危机：14亿人救不了</a></li>
 <li><a href="/topimagenews/20230927/1939365.md" target="_blank">大崩溃，大避险，大重构；中国房市今传噩耗 许家印们离进去不远了？！惨败</a></li>
 <li><a href="/topimagenews/20230927/1939364.md" target="_blank">全是套路！这才是C919第一张海外合同的真相</a></li>
-<li><a href="/topimagenews/20230927/1939357.md" target="_blank">4000%暴涨潮将重演？华尔街巨头不约而同发信号</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230929/1940348.md" target="_blank">时事大家谈：菲律宾拆掉南海浮动障碍，为何小马克斯对北京越来越强硬？北京高层怪事不断，中国政局出现斯大林逻辑?</a></li>
 <li><a href="/comments/20230929/1940321.md" target="_blank">【杜耀明评论】香港式法治：政治执法宁枉毋纵 经济规管松散怠慢</a></li>
 <li><a href="/comments/20230929/1940320.md" target="_blank">中国人权律师团特稿 &#8211; 家园・乐土・理想国（三）</a></li>
 <li><a href="/comments/20230929/1940319.md" target="_blank">中国人权律师团特稿 &#8211; 中国人权律师团特稿-家园・乐土・理想国（二）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20230928/1939896.md" target="_blank">时事大家谈：恒大老板许家印被警方控制，其兴衰讲述了怎样的“中国故事”？习近平为何再提毛时代的“枫桥经验”？</a></li>
 <li><a href="/comments/20230928/1939894.md" target="_blank">传言成预言！恒大许家印因涉嫌违法被采取强制措施</a></li>
 <li><a href="/comments/20230928/1939882.md" target="_blank">奇怪：华邮发布总统民调 然后贬损自己【方伟时间-20230928】</a></li>
-<li><a href="/comments/20230928/1939781.md" target="_blank">防止你的孩子不成功（11） &#8211;教育避坑指南</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
 <li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
 
 </ul>
 </div>
