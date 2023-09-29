@@ -12,7 +12,6 @@
 <li><a href="/sohnews/20230929/1940271.md">李尚福坚决反对攻台被习清算，老常委张德江怒斥习近平，恒大歌舞团情色公关。《老灯开讲第396期》</a></li>
 <li><a href="/cbnews/20230929/1940154.md">〖兲朝浮世绘〗中共给了许家印很久吐钱的机会 但是他配合与否都小命难保</a></li>
 <li><a href="/sohnews/20230929/1940174.md">习近平“十一”晚宴再提统一！常委各有心事，习“抢”李强话筒；公安系统传“赵乐际”正在被查，秦岭别墅案再被提及；许家印要“跑路”致祸？“前妻”或藏海外，其子或成人质｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/baitai/20230929/1939979.md">日经亚洲再爆猛料 中共元老逼宫惹怒习近平 邓小平子遭殃</a></li>
 <li><a href="/cnnews/20230929/1940032.md">一张信息量很大的图！感觉到阵阵寒意</a></li>
 <li><a href="/sohnews/20230929/1940277.md">陈破空：国庆节异常！老习排斥李强。19人挤在一桌。气氛沉重。中共要求今后亚运会都在杭州举行，遭亚奥理事会断然拒绝。直播与互动：美东时间9月29日早8点30、即中港台9月29日晚8点30</a></li>
 <li><a href="/ssgc/20230929/1940304.md">政治局常委被弱化 “十一”活动现异常</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/cnnews/20230929/1940127.md">突传重大消息！ 彭博:中国启动1370亿美元计划应对地方债</a></li>
 <li><a href="/sohnews/20230929/1940003.md">许家印被抓官宣，“异地指监”有多可怕？为什么说许家印案重点不在债务在口供？张德江被曝参与北戴河逼宫，习近平激斗三派；</a></li>
 <li><a href="/ssgc/20230929/1940059.md">〖微博谈〗北京实际上要摧毁现行国际秩序</a></li>
+<li><a href="/comments/20230929/1940050.md">文昭：总理李强妻子、女儿被起底，爆料和听床的区别在哪儿？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20230930/1940434.md" target="_blank">美国思想领袖：【精彩片段】「改非」换汤不换药 官员隐身吃空饷百姓买单 盘剥农民 贪官截留惠农资金 &#8211; #新闻大家谈</a></li>
 <li><a href="/cbnews/20230930/1940428.md" target="_blank">美国思想领袖：【精彩片段】怪象频发 多地绿化为何靠「喷」？糊弄上级 劳民伤财 「退耕还林」尽出荒唐事 &#8211; #新闻大家谈</a></li>
 <li><a href="/comments/20230929/1940292.md" target="_blank">川普底特律演讲，与拜登争夺2024年蓝领选票。众议院获得拜登银行记录，中共的钱寄往拜登住址。#川普 #拜登 #底特律</a></li>
 <li><a href="/comments/20230929/1940291.md" target="_blank">神秘力量吓坏外星人，飞逃出墨西哥火山口。｜ #未解之谜 扶摇</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230929/1940028.md" target="_blank">担忧北京变心，朝鲜“被迫放人”表忠</a></li>
 <li><a href="/comments/20230928/1939882.md" target="_blank">奇怪：华邮发布总统民调 然后贬损自己【方伟时间-20230928】</a></li>
 <li><a href="/cbnews/20230928/1939881.md" target="_blank">华为总裁3子女 姓氏全都不一样！他曾亲口吐原因</a></li>
-<li><a href="/cbnews/20230928/1939756.md" target="_blank">马方先生谈中共大力推行预制菜！最后才是亮点</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
-<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
-<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
 <li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
 
 </ul>
 </div>
