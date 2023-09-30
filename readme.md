@@ -8,26 +8,26 @@
 <li><a href="/cnnews/20230930/1940447.md">毛泽东“通房大丫头”怎样提成了正部级“高干”</a></li>
 <li><a href="/cnnews/20230930/1940458.md">惊爆中共市长供出省委书记 结果党魁拍板判市长死刑【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230930/1940488.md">十一后开铡！习近平将惩处李尚福、王大忠为黄海潜舰事故担责</a></li>
-<li><a href="/comments/20230930/1940625.md">惊：胡锦涛又被架出去了！习近平发威，常委变小厮！杭州亚运会重大灵异事件惊呆世界！外籍运动员怕了</a></li>
 <li><a href="/cnnews/20230930/1940479.md">许老板背后的女人和台前的女星</a></li>
+<li><a href="/comments/20230930/1940625.md">惊：胡锦涛又被架出去了！习近平发威，常委变小厮！杭州亚运会重大灵异事件惊呆世界！外籍运动员怕了</a></li>
 <li><a href="/topimagenews/20230930/1940454.md">中共军情异常 渤海存有不可说的秘密</a></li>
 <li><a href="/ccpdope/20230930/1940380.md">【内幕】习近平放弃政治承诺 步入险境</a></li>
 <li><a href="/ccpdope/20230930/1940628.md">习近平国庆演讲大爆江胡内幕（内部脱稿版）</a></li>
-<li><a href="/sohnews/20230930/1940500.md">中国国际航班归零 京津广沪机场空荡荡；中国梦结束 广州商业中心瘫痪 中秋北京西站客流稀少；最惨淡中秋 中国经济的“晴雨表”#新闻前线</a></li>
 <li><a href="/topimagenews/20230930/1940487.md">许家印为儿买的信托有3个特点 最后一条简直无敌</a></li>
-<li><a href="/cbnews/20230930/1940573.md">〖兲朝浮世绘〗许家印进去后，下一个是谁？</a></li>
+<li><a href="/sohnews/20230930/1940500.md">中国国际航班归零 京津广沪机场空荡荡；中国梦结束 广州商业中心瘫痪 中秋北京西站客流稀少；最惨淡中秋 中国经济的“晴雨表”#新闻前线</a></li>
 <li><a href="/baitai/20230930/1940483.md">十一招待会几大异常 习拿下许家印 麻烦才刚开始</a></li>
+<li><a href="/cbnews/20230930/1940573.md">〖兲朝浮世绘〗许家印进去后，下一个是谁？</a></li>
 <li><a href="/baitai/20230930/1940496.md">李强家族被曝光党乱已达核心层</a></li>
 <li><a href="/sohnews/20230930/1940461.md">陈破空：国宴变鸿门宴，惊现一桌男女武装军人！防备张又侠对老习动手？就在主桌前。北京到处查人。中共要求今后亚运会都在杭州举办，结果。直播与互动：美东时间9月29日下午8点30、即中港台9月30早8点30</a></li>
-<li><a href="/ccpdope/20230930/1940450.md">秦刚新传闻之四大谜团</a></li>
 <li><a href="/topimagenews/20230930/1940703.md">中国兰州校长等多人被曝围殴学生 同行老师:打死了送医院</a></li>
-<li><a href="/topimagenews/20230930/1940633.md">习近平谈“大敌” 党内斗争浮出水面【阿波罗网报道】</a></li>
+<li><a href="/ccpdope/20230930/1940450.md">秦刚新传闻之四大谜团</a></li>
 <li><a href="/finance/20230930/1940594.md">许家印二儿子被抓照片曝光 前年刚卖洛杉矶豪宅</a></li>
+<li><a href="/topimagenews/20230930/1940633.md">习近平谈“大敌” 党内斗争浮出水面【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20230930/1940430.md">中国将恢复免签政策 以提振国际旅游业</a></li>
 <li><a href="/cbnews/20230930/1940474.md">中东将有重大变局 北京不在局中</a></li>
 <li><a href="/lifebaike/20230930/1940508.md">为什么日本女性很少得妇科病？可能与这4种因素有关，值得学习</a></li>
-<li><a href="/cbnews/20230930/1940491.md">规模庞大惊动美国 这里已成“中国租界”</a></li>
 <li><a href="/ccpdope/20230930/1940653.md">习近平反腐「越反越腐」 坊传三则经典笑话</a></li>
+<li><a href="/cbnews/20230930/1940491.md">规模庞大惊动美国 这里已成“中国租界”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
 <li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
 
 </ul>
 </div>
