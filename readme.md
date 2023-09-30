@@ -19,12 +19,12 @@
 <li><a href="/cnnews/20230929/1940127.md">突传重大消息！ 彭博:中国启动1370亿美元计划应对地方债</a></li>
 <li><a href="/ccpdope/20230930/1940380.md">【内幕】习近平放弃政治承诺 步入险境</a></li>
 <li><a href="/finance/20230929/1940147.md">马云最信任的人动手了，菜鸟打响第一枪</a></li>
+<li><a href="/cnnews/20230930/1940447.md">毛泽东“通房大丫头”怎样提成了正部级“高干”</a></li>
+<li><a href="/cnnews/20230930/1940458.md">惊爆中共市长供出省委书记 结果党魁拍板判市长死刑【阿波罗网报道】</a></li>
 <li><a href="/baitai/20230929/1940222.md">王毅暗示逼美让步？华府送回三只大熊猫释信号</a></li>
 <li><a href="/cnnews/20230929/1940248.md">许家印被抓 谢金河：会有更多骨牌跟着倒下 中国要调整20年甚至更多</a></li>
 <li><a href="/comments/20230929/1940095.md">天亮时分：「国庆」招待会三大诡异，习近平搞不定高层人事；许家印被捕，将被起诉多项罪名，房地产狂欢的落幕（政论天下第1122集 20230928）天亮时分</a></li>
 <li><a href="/cbnews/20230929/1940164.md">曝许家印前妻7月下旬已飞离香港 现行踪成谜</a></li>
-<li><a href="/cnnews/20230930/1940447.md">毛泽东“通房大丫头”怎样提成了正部级“高干”</a></li>
-<li><a href="/topimagenews/20230929/1940312.md">另类杀器？白俄“正妹军团”操练照曝光 俄女学生抢入军训</a></li>
 <li><a href="/cbnews/20230929/1940136.md">江峰：恒大最後哀歌，为何此时抓捕许家印？市场负面影响将与中央房地产利好政策相悖？内幕一，所有利好无力回天，房地产辉煌二十年结束；二，要有罪人为习打压房产市场责任背锅【江峰漫谈20230928第737期】</a></li>
 <li><a href="/ccpdope/20230929/1940296.md">邓朴方彻底退场 习近平「加把锁」</a></li>
 <li><a href="/headline/20230929/1940328.md">大陆公务员欠薪潮迅速蔓延 多个经济大省曝财政危机</a></li>
@@ -97,6 +97,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20230930/1940534.md" target="_blank">颜纯钩: 走过死亡幽谷，一生风浪都是坦途</a></li>
+<li><a href="/comments/20230930/1940533.md" target="_blank">网海拾贝:许家印被带走 恒大帝国轰然倒塌</a></li>
+<li><a href="/comments/20230930/1940532.md" target="_blank">袁斌：奇葩！国防部发言人居然“不了解”李尚福的去向</a></li>
+<li><a href="/comments/20230930/1940531.md" target="_blank">杨宁：月饼被欧盟拒入境 在国内也卖不动</a></li>
+<li><a href="/comments/20230930/1940530.md" target="_blank">钟原：政治局常委被弱化 “十一”活动现异常</a></li>
+<li><a href="/comments/20230930/1940529.md" target="_blank">王友群：习、曾斗的又一个标志性事件</a></li>
+<li><a href="/comments/20230930/1940528.md" target="_blank">王赫：从蓝佛安入主财政部谈习近平用人</a></li>
 <li><a href="/comments/20230930/1940502.md" target="_blank">芝加哥市长要开国营商店 美国疯了吗？</a></li>
 <li><a href="/comments/20230930/1940472.md" target="_blank">文昭：国资抛房套现、夺路出逃，预示大雪崩将至！「高不见顶、深不见底」的中国经济是这样造成的&#8230;</a></li>
 <li><a href="/comments/20230930/1940463.md" target="_blank">天亮时分：台海热战之兵棋推演，中美台博弈大战略，章天亮、江峰、唐靖远深度对话（台湾大选2024 牵动世界格局的选择系列节目第1集）</a></li>
@@ -115,13 +122,6 @@
 <li><a href="/comments/20230929/1940288.md" target="_blank">墨西哥外星人事件大揭秘：造假前科</a></li>
 <li><a href="/comments/20230929/1940287.md" target="_blank">墨西哥外星人事件大揭秘：UFO火山大逃亡？</a></li>
 <li><a href="/comments/20230929/1940275.md" target="_blank">防止你的孩子不成功（12）-教育避坑指南</a></li>
-<li><a href="/comments/20230929/1940266.md" target="_blank">中秋节习俗与神奇事儿知多少？</a></li>
-<li><a href="/comments/20230929/1940159.md" target="_blank">亮贱辱华！阿萨德狂赚2000亿成杭州亚运会唯一赢家？习近平亲自指挥撒币辱华大联欢，马云李强都傻了</a></li>
-<li><a href="/comments/20230929/1940102.md" target="_blank">红二代紧急呼吁共产党员反叛 惨遭枪决后又平反</a></li>
-<li><a href="/comments/20230929/1940098.md" target="_blank">中秋节快乐🌸 月圆人团圆🌕 #扶摇</a></li>
-<li><a href="/comments/20230929/1940095.md" target="_blank">天亮时分：「国庆」招待会三大诡异，习近平搞不定高层人事；许家印被捕，将被起诉多项罪名，房地产狂欢的落幕（政论天下第1122集 20230928）天亮时分</a></li>
-<li><a href="/comments/20230929/1940078.md" target="_blank">王友琴：习近平文革中曾被打被游街 ｜#方菲时间</a></li>
-<li><a href="/comments/20230929/1940067.md" target="_blank">共和党第二场初选辩论，川普没出席却成最大赢家。拉马斯瓦米成出气筒。现场评出最令人讨厌的人。克里斯蒂给川普起外号。#初选辩论 #川普 #德桑蒂斯</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/topimagenews/20180602/951960.md" target="_blank">魔鬼在统治着我们的世界(13)：政治篇(下)</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
 
 </ul>
 </div>
