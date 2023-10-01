@@ -7,8 +7,8 @@
 
 <li><a href="/cnnews/20231001/1940809.md">知名男主持饭局私照：不要高估你和任何人的关系</a></li>
 <li><a href="/cnnews/20231001/1940822.md">许家印出事后，母校上演一出大戏！ 网民很感慨</a></li>
-<li><a href="/ccpdope/20231001/1940851.md">失踪八个多月 胡锦涛境遇谜团</a></li>
 <li><a href="/cnnews/20231001/1940821.md">网传许家印神秘私生女，颜值漂亮生活奢侈</a></li>
+<li><a href="/ccpdope/20231001/1940851.md">失踪八个多月 胡锦涛境遇谜团</a></li>
 <li><a href="/ccpdope/20231001/1940788.md">中国开始了全民降薪和全民负债时代</a></li>
 <li><a href="/topimagenews/20231001/1940962.md">北京机场这一幕 戳破了号称“最火”的长假</a></li>
 <li><a href="/sohnews/20231001/1940999.md">说透所有问题：习近平的震撼内部讲话，战备经济取代正常经济，中共统治正式进入垃圾时间。《老灯开讲第397期》</a></li>
@@ -16,16 +16,16 @@
 <li><a href="/headline/20231001/1940786.md">中国国庆喧闹之声掩盖着官场大清洗，军界高官“全家照”又有蹊跷</a></li>
 <li><a href="/ssgc/20231001/1940943.md">〖微博谈〗中国进入大动荡时代</a></li>
 <li><a href="/baitai/20231001/1940849.md">中共要垮？一线城市警察也降薪 经济大省财政枯竭</a></li>
-<li><a href="/topimagenews/20231001/1940934.md">管中窥豹：浙东外贸小企业彻底凉了</a></li>
 <li><a href="/cnnews/20231001/1940795.md">习担忧 红二代干部圈子造反精神特别浓厚 不停有小动作【阿波罗网报道】</a></li>
-<li><a href="/baitai/20230930/1940754.md">北京要有大动作？ 国企大举抛售房产释讯号</a></li>
+<li><a href="/topimagenews/20231001/1940934.md">管中窥豹：浙东外贸小企业彻底凉了</a></li>
 <li><a href="/sohnews/20231001/1940964.md">下一个是“王健林”？习清洗商界，抓了许家印还没完；曾庆红是许家后台，现在要弃卒保车；许家印在恒大爆雷前就转走千亿资产？他可能早被控制；中共企业假装“外资”航空公司，专买C919｜新闻拍案惊奇 大宇</a></li>
+<li><a href="/cnnews/20231001/1941005.md">过早移转财产 他们悲剧了</a></li>
 <li><a href="/topimagenews/20231001/1940806.md">全球首富遭调查！ 跟许家印比简直不算事</a></li>
 <li><a href="/comments/20231001/1940824.md">天亮时分：习近平的灾难在三年后显现；为什么权力从来都不能战胜市场？（YouTube会员节目第37集 20230930） Edited</a></li>
 <li><a href="/sports/20231001/1940820.md">爆大冷！中国天团负于日本印度 无缘四强</a></li>
-<li><a href="/cnnews/20231001/1941005.md">过早移转财产 他们悲剧了</a></li>
 <li><a href="/comments/20231001/1940910.md">蔡慎坤；走着瞧 许和习在演一场苦肉计？</a></li>
 <li><a href="/topimagenews/20231001/1940900.md">剑指中共！G7将有大动作</a></li>
+<li><a href="/cbnews/20231001/1941035.md">经济差 8天连假国内旅行创纪录 长城被塞爆网笑“3分钟走2步”</a></li>
 <li><a href="/topimagenews/20231001/1940931.md">【微博精粹】沦陷区国殇日 一个好消息一个坏消息</a></li>
 <li><a href="/sohnews/20231001/1940850.md">陈破空：实锤，第五名上将出事！战略支援部队司令。天安门惊人一幕：张又侠遭特务首脑近身包夹。直播与互动：美东时间9月30日下午8点30、即中港台9月30早8点30</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
 <li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
 
 </ul>
 </div>
