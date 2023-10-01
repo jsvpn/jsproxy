@@ -7,26 +7,26 @@
 
 <li><a href="/cnnews/20231001/1940809.md">知名男主持饭局私照：不要高估你和任何人的关系</a></li>
 <li><a href="/cnnews/20231001/1940822.md">许家印出事后，母校上演一出大戏！ 网民很感慨</a></li>
-<li><a href="/cnnews/20231001/1940821.md">网传许家印神秘私生女，颜值漂亮生活奢侈</a></li>
 <li><a href="/ccpdope/20231001/1940851.md">失踪八个多月 胡锦涛境遇谜团</a></li>
+<li><a href="/cnnews/20231001/1940821.md">网传许家印神秘私生女，颜值漂亮生活奢侈</a></li>
 <li><a href="/ccpdope/20231001/1940788.md">中国开始了全民降薪和全民负债时代</a></li>
 <li><a href="/topimagenews/20231001/1940962.md">北京机场这一幕 戳破了号称“最火”的长假</a></li>
 <li><a href="/sohnews/20231001/1940999.md">说透所有问题：习近平的震撼内部讲话，战备经济取代正常经济，中共统治正式进入垃圾时间。《老灯开讲第397期》</a></li>
 <li><a href="/headline/20231001/1940786.md">中国国庆喧闹之声掩盖着官场大清洗，军界高官“全家照”又有蹊跷</a></li>
 <li><a href="/ssgc/20231001/1940943.md">〖微博谈〗中国进入大动荡时代</a></li>
 <li><a href="/baitai/20231001/1940849.md">中共要垮？一线城市警察也降薪 经济大省财政枯竭</a></li>
-<li><a href="/cnnews/20231001/1940795.md">习担忧 红二代干部圈子造反精神特别浓厚 不停有小动作【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231001/1940934.md">管中窥豹：浙东外贸小企业彻底凉了</a></li>
+<li><a href="/cnnews/20231001/1940795.md">习担忧 红二代干部圈子造反精神特别浓厚 不停有小动作【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20231001/1941035.md">经济差 8天连假国内旅行创纪录 长城被塞爆网笑“3分钟走2步”</a></li>
 <li><a href="/sohnews/20231001/1940964.md">下一个是“王健林”？习清洗商界，抓了许家印还没完；曾庆红是许家后台，现在要弃卒保车；许家印在恒大爆雷前就转走千亿资产？他可能早被控制；中共企业假装“外资”航空公司，专买C919｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20231001/1941005.md">过早移转财产 他们悲剧了</a></li>
-<li><a href="/cbnews/20231001/1941035.md">经济差 8天连假国内旅行创纪录 长城被塞爆网笑“3分钟走2步”</a></li>
 <li><a href="/topimagenews/20231001/1940806.md">全球首富遭调查！ 跟许家印比简直不算事</a></li>
 <li><a href="/comments/20231001/1940824.md">天亮时分：习近平的灾难在三年后显现；为什么权力从来都不能战胜市场？（YouTube会员节目第37集 20230930） Edited</a></li>
 <li><a href="/comments/20231001/1940910.md">蔡慎坤；走着瞧 许和习在演一场苦肉计？</a></li>
 <li><a href="/sports/20231001/1940820.md">爆大冷！中国天团负于日本印度 无缘四强</a></li>
 <li><a href="/topimagenews/20231001/1940900.md">剑指中共！G7将有大动作</a></li>
-<li><a href="/topimagenews/20231001/1940931.md">【微博精粹】沦陷区国殇日 一个好消息一个坏消息</a></li>
 <li><a href="/topimagenews/20231001/1941025.md">“把柳传志扔进垃圾桶” 胡锡进吓得直“激灵” 网友评论不敢回应【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20231001/1940931.md">【微博精粹】沦陷区国殇日 一个好消息一个坏消息</a></li>
 <li><a href="/sohnews/20231001/1940850.md">陈破空：实锤，第五名上将出事！战略支援部队司令。天安门惊人一幕：张又侠遭特务首脑近身包夹。直播与互动：美东时间9月30日下午8点30、即中港台9月30早8点30</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231002/1941086.md" target="_blank">【独家重磅】李燕铭：疫情死亡人数惊人 楼市无人接盘 十户余一惊人预言正在一步步应验 许家印被抓中国楼市变天 习近平考虑放开房价任跌 中南海放风暗藏甩锅问责信号：朱镕基开启住宅商品化 李克强吹大楼市泡沫 中南海政变与反政变（134） 习近平决战江曾（133） 习近平连任后大清洗（94） 钱袋子争夺战（59） 许家印恒大危机深度内幕（42） 中共末日之病毒亡共（40） 习近平连任与中共末日（172）</a></li>
 <li><a href="/comments/20231001/1941075.md" target="_blank">悉尼大学中国留学生“悉尼维熊”在“国殇日”ni现场演讲</a></li>
 <li><a href="/comments/20231001/1941058.md" target="_blank">国庆黄金周旅游项目：高速公路逮公鸡</a></li>
 <li><a href="/comments/20231001/1941039.md" target="_blank">示威“嗌咪”拉低口罩 5秒被控违法 被告批刁难民间团体</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231001/1940870.md" target="_blank">专家：中共垮台“大势如此 谁也动不了”</a></li>
 <li><a href="/comments/20231001/1940866.md" target="_blank">吴奕军：本届联合国大会特别关注国际地缘安全局势</a></li>
 <li><a href="/comments/20231001/1940865.md" target="_blank">汤名晖:国造潜舰是台湾民主发展的精神象征</a></li>
-<li><a href="/comments/20231001/1940864.md" target="_blank">李靖宇：经济大梦碎 中共杠上经济学？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
 <li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/bannedvideo/20210301/1495768.md" target="_blank">【馨香雅句】山川异域 风月同天 背后的故事</a></li>
-<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
 
 </ul>
 </div>
