@@ -8,26 +8,26 @@
 <li><a href="/topimagenews/20230930/1940633.md">习近平谈“大敌” 党内斗争浮出水面【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230930/1940703.md">中国兰州校长等多人被曝围殴学生 同行老师:打死了送医院</a></li>
 <li><a href="/cnnews/20231001/1940809.md">知名男主持饭局私照：不要高估你和任何人的关系</a></li>
-<li><a href="/sohnews/20230930/1940731.md">陈破空：惊传许家印被打成重伤？假离婚，财富已转移。国庆长假，中国人蜂拥到日本旅游。日本企业大举撤离中国。直播与互动：美东时间9月30日早8点30、即中港台9月30日晚8点30</a></li>
 <li><a href="/ccpdope/20230930/1940653.md">习近平反腐「越反越腐」 坊传三则经典笑话</a></li>
+<li><a href="/sohnews/20230930/1940731.md">陈破空：惊传许家印被打成重伤？假离婚，财富已转移。国庆长假，中国人蜂拥到日本旅游。日本企业大举撤离中国。直播与互动：美东时间9月30日早8点30、即中港台9月30日晚8点30</a></li>
 <li><a href="/cnnews/20231001/1940822.md">许家印出事后，母校上演一出大戏！ 网民很感慨</a></li>
 <li><a href="/ccpdope/20230930/1940719.md">习近平的神秘疾病 与中南海「御医」</a></li>
 <li><a href="/cnnews/20231001/1940821.md">网传许家印神秘私生女，颜值漂亮生活奢侈</a></li>
 <li><a href="/sohnews/20230930/1940746.md">习中央在大会堂集体合拍僵尸片； 创纪录暴雨淹没纽约市；十一长假期瘫痪式拥堵，中国人最爱这些地方；中秋双黄月饼受欢迎，两招教你鉴别真假。</a></li>
 <li><a href="/ccpdope/20231001/1940788.md">中国开始了全民降薪和全民负债时代</a></li>
 <li><a href="/baitai/20230930/1940741.md">一篇贴文让中国人陷忧虑 智库警告：小心浩劫降临</a></li>
-<li><a href="/cbnews/20230930/1940725.md">《红色轮盘》作者：许家印在砧板上很久了</a></li>
 <li><a href="/ccpdope/20231001/1940851.md">失踪八个多月 胡锦涛境遇谜团</a></li>
+<li><a href="/cbnews/20230930/1940725.md">《红色轮盘》作者：许家印在砧板上很久了</a></li>
 <li><a href="/sohnews/20230930/1940733.md">三派元老施压，习近平疯狂报复！邓朴方退出、许家印被抓竟牵涉北戴河……</a></li>
+<li><a href="/ccpdope/20230930/1940762.md">习近平「十一」招待会防暗杀？</a></li>
 <li><a href="/headline/20231001/1940786.md">中国国庆喧闹之声掩盖着官场大清洗，军界高官“全家照”又有蹊跷</a></li>
 <li><a href="/cnnews/20231001/1940795.md">习担忧 红二代干部圈子造反精神特别浓厚 不停有小动作【阿波罗网报道】</a></li>
-<li><a href="/ccpdope/20230930/1940762.md">习近平「十一」招待会防暗杀？</a></li>
-<li><a href="/topimagenews/20230930/1940686.md">三种黄金千万别碰否则血本无归 中共定会黄金专营；突传大消息！中共启动万亿应对地方债</a></li>
 <li><a href="/sohnews/20230930/1940692.md">揭开李尚福失踪之谜，习近平强军梦难圆；防红二代兵变，习信预言清理藏“弓”带“箭”人；亲俄反美不由衷，李尚福成“两面人”。</a></li>
-<li><a href="/topimagenews/20230930/1940685.md">同时大谈“翻墙”！中共大外宣和胡锡进要“从良”？【阿波罗网报道】</a></li>
+<li><a href="/topimagenews/20230930/1940686.md">三种黄金千万别碰否则血本无归 中共定会黄金专营；突传大消息！中共启动万亿应对地方债</a></li>
 <li><a href="/baitai/20230930/1940754.md">北京要有大动作？ 国企大举抛售房产释讯号</a></li>
-<li><a href="/topimagenews/20230930/1940700.md">美国大选出现变数！肯尼迪侄子将宣布独立参选</a></li>
+<li><a href="/topimagenews/20230930/1940685.md">同时大谈“翻墙”！中共大外宣和胡锡进要“从良”？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231001/1940806.md">全球首富遭调查！ 跟许家印比简直不算事</a></li>
+<li><a href="/topimagenews/20230930/1940700.md">美国大选出现变数！肯尼迪侄子将宣布独立参选</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
 
 </ul>
 </div>
