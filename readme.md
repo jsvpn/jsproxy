@@ -8,26 +8,26 @@
 <li><a href="/comments/20230930/1940625.md">惊：胡锦涛又被架出去了！习近平发威，常委变小厮！杭州亚运会重大灵异事件惊呆世界！外籍运动员怕了</a></li>
 <li><a href="/ccpdope/20230930/1940628.md">习近平国庆演讲大爆江胡内幕（内部脱稿版）</a></li>
 <li><a href="/cbnews/20230930/1940573.md">〖兲朝浮世绘〗许家印进去后，下一个是谁？</a></li>
-<li><a href="/topimagenews/20230930/1940703.md">中国兰州校长等多人被曝围殴学生 同行老师:打死了送医院</a></li>
 <li><a href="/finance/20230930/1940594.md">许家印二儿子被抓照片曝光 前年刚卖洛杉矶豪宅</a></li>
+<li><a href="/topimagenews/20230930/1940703.md">中国兰州校长等多人被曝围殴学生 同行老师:打死了送医院</a></li>
 <li><a href="/topimagenews/20230930/1940633.md">习近平谈“大敌” 党内斗争浮出水面【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20230930/1940731.md">陈破空：惊传许家印被打成重伤？假离婚，财富已转移。国庆长假，中国人蜂拥到日本旅游。日本企业大举撤离中国。直播与互动：美东时间9月30日早8点30、即中港台9月30日晚8点30</a></li>
-<li><a href="/ccpdope/20230930/1940719.md">习近平的神秘疾病 与中南海「御医」</a></li>
 <li><a href="/ccpdope/20230930/1940653.md">习近平反腐「越反越腐」 坊传三则经典笑话</a></li>
+<li><a href="/ccpdope/20230930/1940719.md">习近平的神秘疾病 与中南海「御医」</a></li>
 <li><a href="/ccpdope/20231001/1940788.md">中国开始了全民降薪和全民负债时代</a></li>
 <li><a href="/baitai/20230930/1940741.md">一篇贴文让中国人陷忧虑 智库警告：小心浩劫降临</a></li>
 <li><a href="/sohnews/20230930/1940746.md">习中央在大会堂集体合拍僵尸片； 创纪录暴雨淹没纽约市；十一长假期瘫痪式拥堵，中国人最爱这些地方；中秋双黄月饼受欢迎，两招教你鉴别真假。</a></li>
 <li><a href="/cbnews/20230930/1940725.md">《红色轮盘》作者：许家印在砧板上很久了</a></li>
+<li><a href="/sohnews/20230930/1940733.md">三派元老施压，习近平疯狂报复！邓朴方退出、许家印被抓竟牵涉北戴河……</a></li>
 <li><a href="/topimagenews/20230930/1940686.md">三种黄金千万别碰否则血本无归 中共定会黄金专营；突传大消息！中共启动万亿应对地方债</a></li>
 <li><a href="/sohnews/20230930/1940692.md">揭开李尚福失踪之谜，习近平强军梦难圆；防红二代兵变，习信预言清理藏“弓”带“箭”人；亲俄反美不由衷，李尚福成“两面人”。</a></li>
-<li><a href="/sohnews/20230930/1940733.md">三派元老施压，习近平疯狂报复！邓朴方退出、许家印被抓竟牵涉北戴河……</a></li>
 <li><a href="/topimagenews/20230930/1940685.md">同时大谈“翻墙”！中共大外宣和胡锡进要“从良”？【阿波罗网报道】</a></li>
 <li><a href="/headline/20231001/1940786.md">中国国庆喧闹之声掩盖着官场大清洗，军界高官“全家照”又有蹊跷</a></li>
 <li><a href="/topimagenews/20230930/1940700.md">美国大选出现变数！肯尼迪侄子将宣布独立参选</a></li>
-<li><a href="/sohnews/20230930/1940558.md">中国全网封杀“翻墙罚百万“事件，承德公安改处罚书改上瘾了😂，媒体内涵承德的罚款经济学，被罚的小伙子仍在坚持工作</a></li>
-<li><a href="/baitai/20230930/1940627.md">许家印机关算尽转移财产 棋差一招命难保 内斗激烈 习的亲信被下台 是江派阴谋？【国际风云】</a></li>
-<li><a href="/lifebaike/20230930/1940599.md">上海独生女被姨妈做局吃绝户 算计人心到极致</a></li>
 <li><a href="/ccpdope/20230930/1940762.md">习近平「十一」招待会防暗杀？</a></li>
+<li><a href="/sohnews/20230930/1940558.md">中国全网封杀“翻墙罚百万“事件，承德公安改处罚书改上瘾了😂，媒体内涵承德的罚款经济学，被罚的小伙子仍在坚持工作</a></li>
+<li><a href="/lifebaike/20230930/1940599.md">上海独生女被姨妈做局吃绝户 算计人心到极致</a></li>
+<li><a href="/baitai/20230930/1940627.md">许家印机关算尽转移财产 棋差一招命难保 内斗激烈 习的亲信被下台 是江派阴谋？【国际风云】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231001/1940900.md" target="_blank">剑指中共！G7将有大动作</a></li>
 <li><a href="/topimagenews/20231001/1940874.md" target="_blank">亚运会台湾队惊天逆转！中国队教练惨遭球迷出征</a></li>
 <li><a href="/topimagenews/20231001/1940837.md" target="_blank">10年翻4倍？“润”的捷径 中国资本蜂拥来这里</a></li>
 <li><a href="/topimagenews/20231001/1940836.md" target="_blank">没想到，亲密盟友对北京发火</a></li>
@@ -90,7 +91,6 @@
 <li><a href="/topimagenews/20230929/1940254.md" target="_blank">上海的房东们开始扛不住了；中共公务员铁饭碗破了，年薪削2成；4000%暴涨潮将重演？</a></li>
 <li><a href="/topimagenews/20230929/1940185.md" target="_blank">习近平最新讲话 恐激怒无数百姓【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20230929/1940137.md" target="_blank">【微博精粹】全人类逃不过三件事：生 死 辱华</a></li>
-<li><a href="/topimagenews/20230929/1940014.md" target="_blank">李尚福消失另有内情？传他和其他将领“不听话”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
+<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
 <li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
 
 </ul>
 </div>
