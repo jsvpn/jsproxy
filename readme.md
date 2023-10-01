@@ -6,15 +6,14 @@
 <ul>
 
 <li><a href="/sohnews/20230930/1940731.md">陈破空：惊传许家印被打成重伤？假离婚，财富已转移。国庆长假，中国人蜂拥到日本旅游。日本企业大举撤离中国。直播与互动：美东时间9月30日早8点30、即中港台9月30日晚8点30</a></li>
-<li><a href="/ccpdope/20230930/1940719.md">习近平的神秘疾病 与中南海「御医」</a></li>
 <li><a href="/sohnews/20230930/1940746.md">习中央在大会堂集体合拍僵尸片； 创纪录暴雨淹没纽约市；十一长假期瘫痪式拥堵，中国人最爱这些地方；中秋双黄月饼受欢迎，两招教你鉴别真假。</a></li>
 <li><a href="/cnnews/20231001/1940809.md">知名男主持饭局私照：不要高估你和任何人的关系</a></li>
 <li><a href="/cnnews/20231001/1940822.md">许家印出事后，母校上演一出大戏！ 网民很感慨</a></li>
 <li><a href="/ccpdope/20231001/1940788.md">中国开始了全民降薪和全民负债时代</a></li>
 <li><a href="/cnnews/20231001/1940821.md">网传许家印神秘私生女，颜值漂亮生活奢侈</a></li>
 <li><a href="/baitai/20230930/1940741.md">一篇贴文让中国人陷忧虑 智库警告：小心浩劫降临</a></li>
-<li><a href="/ccpdope/20231001/1940851.md">失踪八个多月 胡锦涛境遇谜团</a></li>
 <li><a href="/topimagenews/20231001/1940962.md">北京机场这一幕 戳破了号称“最火”的长假</a></li>
+<li><a href="/ccpdope/20231001/1940851.md">失踪八个多月 胡锦涛境遇谜团</a></li>
 <li><a href="/sohnews/20230930/1940733.md">三派元老施压，习近平疯狂报复！邓朴方退出、许家印被抓竟牵涉北戴河……</a></li>
 <li><a href="/cbnews/20230930/1940725.md">《红色轮盘》作者：许家印在砧板上很久了</a></li>
 <li><a href="/ccpdope/20230930/1940762.md">习近平「十一」招待会防暗杀？</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/topimagenews/20231001/1940934.md">管中窥豹：浙东外贸小企业彻底凉了</a></li>
 <li><a href="/baitai/20231001/1940849.md">中共要垮？一线城市警察也降薪 经济大省财政枯竭</a></li>
 <li><a href="/cnnews/20231001/1940795.md">习担忧 红二代干部圈子造反精神特别浓厚 不停有小动作【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231001/1940806.md">全球首富遭调查！ 跟许家印比简直不算事</a></li>
 <li><a href="/baitai/20230930/1940754.md">北京要有大动作？ 国企大举抛售房产释讯号</a></li>
+<li><a href="/topimagenews/20231001/1940806.md">全球首富遭调查！ 跟许家印比简直不算事</a></li>
 <li><a href="/comments/20231001/1940824.md">天亮时分：习近平的灾难在三年后显现；为什么权力从来都不能战胜市场？（YouTube会员节目第37集 20230930） Edited</a></li>
 <li><a href="/sports/20231001/1940820.md">爆大冷！中国天团负于日本印度 无缘四强</a></li>
-<li><a href="/sohnews/20230930/1940715.md">文睿：精神，确实不正常了，一尊，两大消息压垮一大片网络</a></li>
+<li><a href="/comments/20231001/1940910.md">蔡慎坤；走着瞧 许和习在演一场苦肉计？</a></li>
+<li><a href="/topimagenews/20231001/1940900.md">剑指中共！G7将有大动作</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
 <li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
 <li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/lifebaike/20161111/612348.md" target="_blank">仕宦当做执金吾 娶妻当得阴丽华</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
 
 </ul>
 </div>
