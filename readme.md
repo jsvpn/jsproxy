@@ -5,9 +5,7 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cnnews/20231001/1940822.md">许家印出事后，母校上演一出大戏！ 网民很感慨</a></li>
 <li><a href="/ccpdope/20231001/1940851.md">失踪八个多月 胡锦涛境遇谜团</a></li>
-<li><a href="/cnnews/20231001/1940821.md">网传许家印神秘私生女，颜值漂亮生活奢侈</a></li>
 <li><a href="/topimagenews/20231001/1940962.md">北京机场这一幕 戳破了号称“最火”的长假</a></li>
 <li><a href="/sohnews/20231001/1940999.md">说透所有问题：习近平的震撼内部讲话，战备经济取代正常经济，中共统治正式进入垃圾时间。《老灯开讲第397期》</a></li>
 <li><a href="/ssgc/20231001/1940943.md">〖微博谈〗中国进入大动荡时代</a></li>
@@ -17,17 +15,19 @@
 <li><a href="/sohnews/20231001/1940964.md">下一个是“王健林”？习清洗商界，抓了许家印还没完；曾庆红是许家后台，现在要弃卒保车；许家印在恒大爆雷前就转走千亿资产？他可能早被控制；中共企业假装“外资”航空公司，专买C919｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20231001/1941005.md">过早移转财产 他们悲剧了</a></li>
 <li><a href="/baitai/20231001/1941064.md">恒大歌舞团美女云聚、疑似许家印豪宅网络曝光 令人咋舌</a></li>
-<li><a href="/comments/20231001/1940824.md">天亮时分：习近平的灾难在三年后显现；为什么权力从来都不能战胜市场？（YouTube会员节目第37集 20230930） Edited</a></li>
 <li><a href="/comments/20231001/1940910.md">蔡慎坤；走着瞧 许和习在演一场苦肉计？</a></li>
-<li><a href="/sports/20231001/1940820.md">爆大冷！中国天团负于日本印度 无缘四强</a></li>
 <li><a href="/topimagenews/20231001/1940900.md">剑指中共！G7将有大动作</a></li>
 <li><a href="/topimagenews/20231001/1941025.md">“把柳传志扔进垃圾桶” 胡锡进吓得直“激灵” 网友评论不敢回应【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231001/1940931.md">【微博精粹】沦陷区国殇日 一个好消息一个坏消息</a></li>
 <li><a href="/health/20231001/1940971.md">消化科医生：马上停止吃这种水果，吃得越多，癌细胞越兴奋</a></li>
 <li><a href="/sohnews/20231001/1940850.md">陈破空：实锤，第五名上将出事！战略支援部队司令。天安门惊人一幕：张又侠遭特务首脑近身包夹。直播与互动：美东时间9月30日下午8点30、即中港台9月30早8点30</a></li>
 <li><a href="/baitai/20231001/1941034.md">房市危机酿悲剧 38岁「中国巴菲特」突传噩耗 上海男欠款2百万绝望跳楼</a></li>
-<li><a href="/topimagenews/20231001/1940933.md">中国贸易顺差正在消失 中共急救用这个惊人办法</a></li>
 <li><a href="/topimagenews/20231001/1941008.md">1600米长UFO目击事件被公开 比军机如葡萄柚比葡萄干</a></li>
+<li><a href="/topimagenews/20231001/1940933.md">中国贸易顺差正在消失 中共急救用这个惊人办法</a></li>
+<li><a href="/cbnews/20231001/1940838.md">美国和中共关系重大损失！中共老朋友又少了一个</a></li>
+<li><a href="/cnnews/20231001/1940975.md">中共12大好色贪官 情场屡创“吉尼斯”纪录</a></li>
+<li><a href="/topimagenews/20231001/1940837.md">10年翻4倍？“润”的捷径 中国资本蜂拥来这里</a></li>
+<li><a href="/cnnews/20231001/1941011.md">日本研究发现：每天玩手机的孩子，脑部发育停止</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231002/1941120.md" target="_blank">习圈养不让退休老家伙们露面 福建帮和福建帮终将火拼</a></li>
 <li><a href="/comments/20231002/1941116.md" target="_blank">被习近平代替讲话，不代表李强失宠，或成常态</a></li>
 <li><a href="/comments/20231002/1941086.md" target="_blank">【独家重磅】李燕铭：疫情死亡人数惊人 楼市无人接盘 十户余一惊人预言正在一步步应验 许家印被抓中国楼市变天 习近平考虑放开房价任跌 中南海放风暗藏甩锅问责信号：朱镕基开启住宅商品化 李克强吹大楼市泡沫 中南海政变与反政变（134） 习近平决战江曾（133） 习近平连任后大清洗（94） 钱袋子争夺战（59） 许家印恒大危机深度内幕（42） 中共末日之病毒亡共（40） 习近平连任与中共末日（172）</a></li>
 <li><a href="/comments/20231001/1941075.md" target="_blank">悉尼大学中国留学生“悉尼维熊”在“国殇日”ni现场演讲</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231001/1940886.md" target="_blank">邓元杰：关于许家印的六个结论</a></li>
 <li><a href="/comments/20231001/1940876.md" target="_blank">陈志武：重回“战备驱动型经济”，未来十年，降低预期</a></li>
 <li><a href="/comments/20231001/1940870.md" target="_blank">专家：中共垮台“大势如此 谁也动不了”</a></li>
-<li><a href="/comments/20231001/1940866.md" target="_blank">吴奕军：本届联合国大会特别关注国际地缘安全局势</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/topimagenews/20180615/958090.md" target="_blank">魔鬼在统治着我们的世界(16)：法律篇</a></li>
-<li><a href="/bookonline/20131116/201050.md" target="_blank">《九评共产党》之六 评中国共产党破坏民族文化</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
 <li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
 
 </ul>
 </div>
