@@ -15,19 +15,19 @@
 <li><a href="/comments/20231001/1940910.md">蔡慎坤；走着瞧 许和习在演一场苦肉计？</a></li>
 <li><a href="/baitai/20231001/1941064.md">恒大歌舞团美女云聚、疑似许家印豪宅网络曝光 令人咋舌</a></li>
 <li><a href="/topimagenews/20231001/1941025.md">“把柳传志扔进垃圾桶” 胡锡进吓得直“激灵” 网友评论不敢回应【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231001/1940900.md">剑指中共！G7将有大动作</a></li>
+<li><a href="/topimagenews/20231002/1941113.md">恒大跨界经营神秘歌舞团！“长腿高颜值”照流出</a></li>
 <li><a href="/topimagenews/20231001/1940931.md">【微博精粹】沦陷区国殇日 一个好消息一个坏消息</a></li>
 <li><a href="/health/20231001/1940971.md">消化科医生：马上停止吃这种水果，吃得越多，癌细胞越兴奋</a></li>
-<li><a href="/topimagenews/20231002/1941113.md">恒大跨界经营神秘歌舞团！“长腿高颜值”照流出</a></li>
-<li><a href="/baitai/20231001/1941034.md">房市危机酿悲剧 38岁「中国巴菲特」突传噩耗 上海男欠款2百万绝望跳楼</a></li>
-<li><a href="/topimagenews/20231001/1941008.md">1600米长UFO目击事件被公开 比军机如葡萄柚比葡萄干</a></li>
-<li><a href="/topimagenews/20231001/1940933.md">中国贸易顺差正在消失 中共急救用这个惊人办法</a></li>
-<li><a href="/cnnews/20231001/1940975.md">中共12大好色贪官 情场屡创“吉尼斯”纪录</a></li>
 <li><a href="/ccpdope/20231002/1941119.md">曾庆红白手套许家印被抓 中南海恐有大事发生</a></li>
+<li><a href="/baitai/20231001/1941034.md">房市危机酿悲剧 38岁「中国巴菲特」突传噩耗 上海男欠款2百万绝望跳楼</a></li>
+<li><a href="/topimagenews/20231001/1940933.md">中国贸易顺差正在消失 中共急救用这个惊人办法</a></li>
+<li><a href="/topimagenews/20231001/1941008.md">1600米长UFO目击事件被公开 比军机如葡萄柚比葡萄干</a></li>
+<li><a href="/cnnews/20231001/1940975.md">中共12大好色贪官 情场屡创“吉尼斯”纪录</a></li>
 <li><a href="/cnnews/20231001/1941011.md">日本研究发现：每天玩手机的孩子，脑部发育停止</a></li>
 <li><a href="/ssgc/20231001/1941068.md">习近平“十一”招待会严防暗杀？</a></li>
+<li><a href="/cbnews/20231002/1941098.md">江峰：习近平骨子里的“贵族气质”惹祸了 #习近平 #许家印</a></li>
 <li><a href="/sohnews/20231001/1941047.md">陈破空：十一，天安门争看升旗？民众仿佛被押解到场！香港黒警压城，印证国殇日！首都机场冷清。美国政府最后时刻避免了关门。直播与互动：美东时间10月1日早8点30、即中港台10月1日晚8点30</a></li>
-<li><a href="/sohnews/20231001/1940908.md">被抓现场惊恐；许家印骄奢淫逸；恒大骗钱术曝光，钜款去了这里【新闻看点 李沐阳9.30】</a></li>
+<li><a href="/comments/20231002/1941086.md">【独家重磅】李燕铭：疫情死亡人数惊人 楼市无人接盘 十户余一惊人预言正在一步步应验 许家印被抓中国楼市变天 习近平考虑放开房价任跌 中南海放风暗藏甩锅问责信号：朱镕基开启住宅商品化 李克强吹大楼市泡沫 中南海政变与反政变（134） 习近平决战江曾（133） 习近平连任后大清洗（94） 钱袋子争夺战（59） 许家印恒大危机深度内幕（42） 中共末日之病毒亡共（40） 习近平连任与中共末日（172）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,12 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231002/1941165.md" target="_blank">打破中立，为什么哈萨克斯坦宣布制裁俄罗斯？</a></li>
+<li><a href="/comments/20231002/1941164.md" target="_blank">与解放军官兵说说心里话：两营倾覆谈起</a></li>
+<li><a href="/comments/20231002/1941163.md" target="_blank">许家印的罪与罚：酒后曾问“如何才能流芳百世”</a></li>
+<li><a href="/comments/20231002/1941162.md" target="_blank">又见保安脚踩民女，中国的底层互害何时休？</a></li>
+<li><a href="/comments/20231002/1941161.md" target="_blank">从“眯眯眼”到“留辫子”，被泛化的“辱华”指控</a></li>
+<li><a href="/comments/20231002/1941160.md" target="_blank">国师张维为：“你移民，我们可以付单程路费”</a></li>
 <li><a href="/comments/20231002/1941149.md" target="_blank">华为，请用产品说话！不要总煽动民族情绪</a></li>
 <li><a href="/comments/20231002/1941124.md" target="_blank">文昭：承德程序员翻墙打工，被罚105.8万元；罚款财政有多邪？【会员样片节选】</a></li>
 <li><a href="/comments/20231002/1941120.md" target="_blank">习圈养不让退休老家伙们露面 福建帮和福建帮终将火拼</a></li>
@@ -116,12 +122,6 @@
 <li><a href="/comments/20231001/1940923.md" target="_blank">法度Law:官方回应“动嫖娼念头被罚500元”</a></li>
 <li><a href="/comments/20231001/1940922.md" target="_blank">那个叫区伯的老人已经死去，而底层无产者的挣扎还会继续</a></li>
 <li><a href="/comments/20231001/1940921.md" target="_blank">我送的货打的工买的房，最后都变成我的债——恒大万亿债务背后的打工人</a></li>
-<li><a href="/comments/20231001/1940920.md" target="_blank">德媒：人气不再外企对中国信心难拾</a></li>
-<li><a href="/comments/20231001/1940910.md" target="_blank">蔡慎坤；走着瞧 许和习在演一场苦肉计？</a></li>
-<li><a href="/comments/20231001/1940905.md" target="_blank">【杰森视角】许家印被抓，中国一个时代结束！ 乌克兰战争彻底颠覆现代战争的本质！ 为救房地产，有中共官员要舍命一搏！外媒：习近平再次强调加强对外开放！ 未来战争，强国对弱国的绝对优势已失去？</a></li>
-<li><a href="/comments/20231001/1940888.md" target="_blank">杨子澂：独裁者的“国家安全”意义为何？</a></li>
-<li><a href="/comments/20231001/1940887.md" target="_blank">为什么说中共对中国经济的发展非但毫无贡献反而还扯了后腿</a></li>
-<li><a href="/comments/20231001/1940886.md" target="_blank">邓元杰：关于许家印的六个结论</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/comments/20220703/1753426.md" target="_blank">习近平是不是比江泽民更坏？</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
 <li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
 
 </ul>
 </div>
