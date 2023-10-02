@@ -13,8 +13,8 @@
 <li><a href="/comments/20231002/1941120.md">习圈养不让退休老家伙们露面 福建帮和福建帮终将火拼</a></li>
 <li><a href="/topimagenews/20231001/1941008.md">1600米长UFO目击事件被公开 比军机如葡萄柚比葡萄干</a></li>
 <li><a href="/baitai/20231001/1941034.md">房市危机酿悲剧 38岁「中国巴菲特」突传噩耗 上海男欠款2百万绝望跳楼</a></li>
-<li><a href="/headline/20231002/1941125.md">习近平的高规格国宴掩盖着什么</a></li>
 <li><a href="/topimagenews/20231002/1941171.md">许家印的女人们</a></li>
+<li><a href="/headline/20231002/1941125.md">习近平的高规格国宴掩盖着什么</a></li>
 <li><a href="/cnnews/20231001/1941011.md">日本研究发现：每天玩手机的孩子，脑部发育停止</a></li>
 <li><a href="/cbnews/20231002/1941114.md">谁弄我孩子我弄谁！天津家长说出“预制菜”真相</a></li>
 <li><a href="/cbnews/20231002/1941098.md">江峰：习近平骨子里的“贵族气质”惹祸了 #习近平 #许家印</a></li>
@@ -22,12 +22,12 @@
 <li><a href="/ssgc/20231001/1941068.md">习近平“十一”招待会严防暗杀？</a></li>
 <li><a href="/comments/20231002/1941086.md">【独家重磅】李燕铭：疫情死亡人数惊人 楼市无人接盘 十户余一惊人预言正在一步步应验 许家印被抓中国楼市变天 习近平考虑放开房价任跌 中南海放风暗藏甩锅问责信号：朱镕基开启住宅商品化 李克强吹大楼市泡沫 中南海政变与反政变（134） 习近平决战江曾（133） 习近平连任后大清洗（94） 钱袋子争夺战（59） 许家印恒大危机深度内幕（42） 中共末日之病毒亡共（40） 习近平连任与中共末日（172）</a></li>
 <li><a href="/baitai/20231002/1941139.md">郑少秋失联女儿惊传寻短 后事无人处理</a></li>
-<li><a href="/comments/20231002/1941116.md">被习近平代替讲话，不代表李强失宠，或成常态</a></li>
 <li><a href="/topimagenews/20231002/1941204.md">今日华为很像曾经的恒大,历史也总惊人的相似</a></li>
-<li><a href="/sohnews/20231001/1941047.md">陈破空：十一，天安门争看升旗？民众仿佛被押解到场！香港黒警压城，印证国殇日！首都机场冷清。美国政府最后时刻避免了关门。直播与互动：美东时间10月1日早8点30、即中港台10月1日晚8点30</a></li>
-<li><a href="/baitai/20231002/1941090.md">湖北惊现村委会向民众收「保护费」每户50元 网民震怒 官方回应了</a></li>
-<li><a href="/comments/20231002/1941149.md">华为，请用产品说话！不要总煽动民族情绪</a></li>
+<li><a href="/comments/20231002/1941116.md">被习近平代替讲话，不代表李强失宠，或成常态</a></li>
 <li><a href="/topimagenews/20231002/1941203.md">习近平这句话 把中共未来走向说明白了【阿波罗网报道】</a></li>
+<li><a href="/sohnews/20231001/1941047.md">陈破空：十一，天安门争看升旗？民众仿佛被押解到场！香港黒警压城，印证国殇日！首都机场冷清。美国政府最后时刻避免了关门。直播与互动：美东时间10月1日早8点30、即中港台10月1日晚8点30</a></li>
+<li><a href="/comments/20231002/1941149.md">华为，请用产品说话！不要总煽动民族情绪</a></li>
+<li><a href="/baitai/20231002/1941090.md">湖北惊现村委会向民众收「保护费」每户50元 网民震怒 官方回应了</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
-<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
-<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20220611/1744476.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/comments/20211012/1636544.md" target="_blank">女子为保忠贞，被天堂送回人间，醒来被爱包围。神为什么将他从地狱捞回人间？人的灵魂，死后去哪里？神的救赎与照护【 #灵异超自然 】</a></li>
 
 </ul>
 </div>
