@@ -24,8 +24,8 @@
 <li><a href="/cnnews/20231001/1941011.md">日本研究发现：每天玩手机的孩子，脑部发育停止</a></li>
 <li><a href="/ssgc/20231001/1941068.md">习近平“十一”招待会严防暗杀？</a></li>
 <li><a href="/cbnews/20231002/1941114.md">谁弄我孩子我弄谁！天津家长说出“预制菜”真相</a></li>
-<li><a href="/sohnews/20231001/1941047.md">陈破空：十一，天安门争看升旗？民众仿佛被押解到场！香港黒警压城，印证国殇日！首都机场冷清。美国政府最后时刻避免了关门。直播与互动：美东时间10月1日早8点30、即中港台10月1日晚8点30</a></li>
 <li><a href="/headline/20231002/1941125.md">习近平的高规格国宴掩盖着什么</a></li>
+<li><a href="/sohnews/20231001/1941047.md">陈破空：十一，天安门争看升旗？民众仿佛被押解到场！香港黒警压城，印证国殇日！首都机场冷清。美国政府最后时刻避免了关门。直播与互动：美东时间10月1日早8点30、即中港台10月1日晚8点30</a></li>
 <li><a href="/comments/20231002/1941086.md">【独家重磅】李燕铭：疫情死亡人数惊人 楼市无人接盘 十户余一惊人预言正在一步步应验 许家印被抓中国楼市变天 习近平考虑放开房价任跌 中南海放风暗藏甩锅问责信号：朱镕基开启住宅商品化 李克强吹大楼市泡沫 中南海政变与反政变（134） 习近平决战江曾（133） 习近平连任后大清洗（94） 钱袋子争夺战（59） 许家印恒大危机深度内幕（42） 中共末日之病毒亡共（40） 习近平连任与中共末日（172）</a></li>
 <li><a href="/topimagenews/20231001/1941026.md">协助训练抗俄 英军将首度进驻乌克兰</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231002/1941226.md" target="_blank">〖兲朝浮世绘〗爆料李强家族背景 是为了逼宫习近平吗？</a></li>
 <li><a href="/cbnews/20231002/1941216.md" target="_blank">江峰：李强再次被夺特权，十八大以前中共老人消失，国招会领导人个个扑克脸；李尚福剥夺公开场合露脸确定下台；7+3=8以及奥特曼被打，这国家的人民能有多少自己真实想法和情感【江峰漫谈20231001第738期】</a></li>
 <li><a href="/cbnews/20231002/1941172.md" target="_blank">布林肯向北京发贺电，提出这些“承诺”</a></li>
 <li><a href="/cbnews/20231002/1941144.md" target="_blank">中国出口俄国货流有多大？卸货后多出15万空货柜</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20230930/1940573.md" target="_blank">〖兲朝浮世绘〗许家印进去后，下一个是谁？</a></li>
 <li><a href="/cbnews/20230930/1940564.md" target="_blank">说好的抵制呢？中国长假 飞往日本航线基本满座</a></li>
 <li><a href="/comments/20230930/1940502.md" target="_blank">芝加哥市长要开国营商店 美国疯了吗？</a></li>
-<li><a href="/cbnews/20230930/1940501.md" target="_blank">江峰：台海热战之兵棋推演，中美台博弈大战略。 中共攻击离岛、封锁、直攻本岛哪个可能性大， 高超音速导弹能突破台湾防御麽，谈台湾比乌克兰强大的多的防空体系【 江峰、章天亮和唐靖远谈台湾大选20230929】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231002/1941231.md" target="_blank">借杭州亚运会扳倒习近平？习十一招待会跟老领导摊牌</a></li>
 <li><a href="/comments/20231002/1941206.md" target="_blank">【微博精粹】许家印在美国盖房子会破产 没机会烂尾</a></li>
 <li><a href="/comments/20231002/1941193.md" target="_blank">利用66军乌龙“政变” 邓小平挤走华国锋</a></li>
 <li><a href="/comments/20231002/1941192.md" target="_blank">天亮时分：上海城投成立武装部；中美高层开始勾兑？（政论天下第1123集 20231001）天亮时分</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231001/1940998.md" target="_blank">我“在中国买房能致富”的信仰，崩塌了</a></li>
 <li><a href="/comments/20231001/1940997.md" target="_blank">现在的诈骗 连饼都不用画了</a></li>
 <li><a href="/comments/20231001/1940986.md" target="_blank">走线 走过死亡幽谷，一生风浪都是坦途</a></li>
-<li><a href="/comments/20231001/1940985.md" target="_blank">一口巨大火锅 许家印徐明全社会都在里边涮…</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/bannedvideo/20220806/1768296.md" target="_blank">人权律师叶宁：四亿中华儿女三退 开创人类历史的先河</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
 <li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
 
 </ul>
 </div>
