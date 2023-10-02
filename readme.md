@@ -13,8 +13,8 @@
 <li><a href="/headline/20231002/1941125.md">习近平的高规格国宴掩盖着什么</a></li>
 <li><a href="/topimagenews/20231002/1941203.md">习近平这句话 把中共未来走向说明白了【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20231001/1941068.md">习近平“十一”招待会严防暗杀？</a></li>
-<li><a href="/topimagenews/20231002/1941204.md">今日华为很像曾经的恒大,历史也总惊人的相似</a></li>
 <li><a href="/cbnews/20231002/1941114.md">谁弄我孩子我弄谁！天津家长说出“预制菜”真相</a></li>
+<li><a href="/topimagenews/20231002/1941204.md">今日华为很像曾经的恒大,历史也总惊人的相似</a></li>
 <li><a href="/baitai/20231002/1941109.md">深陷内忧外患 习近平十一讲话透隐忧 最终败于这股力量？</a></li>
 <li><a href="/cbnews/20231002/1941226.md">〖兲朝浮世绘〗爆料李强家族背景 是为了逼宫习近平吗？</a></li>
 <li><a href="/cbnews/20231002/1941098.md">江峰：习近平骨子里的“贵族气质”惹祸了 #习近平 #许家印</a></li>
@@ -23,11 +23,11 @@
 <li><a href="/sohnews/20231001/1941055.md">网友查承德财政发现重大危机❗️❗️❗️爱国粉红遭遇爆击，IT圈可以清零了，外宣造反内宣自危……</a></li>
 <li><a href="/ssgc/20231002/1941212.md">〖微博谈〗世界之大无奇不有</a></li>
 <li><a href="/comments/20231002/1941116.md">被习近平代替讲话，不代表李强失宠，或成常态</a></li>
-<li><a href="/baitai/20231002/1941090.md">湖北惊现村委会向民众收「保护费」每户50元 网民震怒 官方回应了</a></li>
-<li><a href="/comments/20231002/1941149.md">华为，请用产品说话！不要总煽动民族情绪</a></li>
-<li><a href="/sohnews/20231001/1941047.md">陈破空：十一，天安门争看升旗？民众仿佛被押解到场！香港黒警压城，印证国殇日！首都机场冷清。美国政府最后时刻避免了关门。直播与互动：美东时间10月1日早8点30、即中港台10月1日晚8点30</a></li>
 <li><a href="/comments/20231002/1941231.md">借杭州亚运会扳倒习近平？习十一招待会跟老领导摊牌</a></li>
-<li><a href="/finance/20231002/1941103.md">罗永浩又欠15亿？！“真还传”迎来续集…</a></li>
+<li><a href="/comments/20231002/1941149.md">华为，请用产品说话！不要总煽动民族情绪</a></li>
+<li><a href="/baitai/20231002/1941090.md">湖北惊现村委会向民众收「保护费」每户50元 网民震怒 官方回应了</a></li>
+<li><a href="/cbnews/20231002/1941265.md">一口痰丢了性命，成都宝马车主嚣张至死</a></li>
+<li><a href="/sohnews/20231001/1941047.md">陈破空：十一，天安门争看升旗？民众仿佛被押解到场！香港黒警压城，印证国殇日！首都机场冷清。美国政府最后时刻避免了关门。直播与互动：美东时间10月1日早8点30、即中港台10月1日晚8点30</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231002/1941301.md" target="_blank">中国的“19号令”旨在对宗教的致命的打击？</a></li>
 <li><a href="/comments/20231002/1941283.md" target="_blank">这是爱国情怀？不！这是一种“精神病”</a></li>
 <li><a href="/comments/20231002/1941263.md" target="_blank">美国拜登政府为什么宁愿逼俄投中，也不愿联俄反共？</a></li>
 <li><a href="/comments/20231002/1941258.md" target="_blank">民主解救不了人口雪崩，这次袁世凯会成功吗？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231002/1941162.md" target="_blank">又见保安脚踩民女，中国的底层互害何时休？</a></li>
 <li><a href="/comments/20231002/1941161.md" target="_blank">从“眯眯眼”到“留辫子”，被泛化的“辱华”指控</a></li>
 <li><a href="/comments/20231002/1941160.md" target="_blank">国师张维为：“你移民，我们可以付单程路费”</a></li>
-<li><a href="/comments/20231002/1941149.md" target="_blank">华为，请用产品说话！不要总煽动民族情绪</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20211123/1656425.md" target="_blank">昔日“小粉红” 走入法轮功修炼</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/comments/20220710/1756469.md" target="_blank">法轮功奇迹：韩国公务员轻松戒酒 家人安心</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
+<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
 <li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
 
 </ul>
 </div>
