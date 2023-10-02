@@ -15,19 +15,19 @@
 <li><a href="/cbnews/20231002/1941226.md">〖兲朝浮世绘〗爆料李强家族背景 是为了逼宫习近平吗？</a></li>
 <li><a href="/ssgc/20231001/1941068.md">习近平“十一”招待会严防暗杀？</a></li>
 <li><a href="/cbnews/20231002/1941114.md">谁弄我孩子我弄谁！天津家长说出“预制菜”真相</a></li>
-<li><a href="/baitai/20231002/1941109.md">深陷内忧外患 习近平十一讲话透隐忧 最终败于这股力量？</a></li>
-<li><a href="/topimagenews/20231002/1941204.md">今日华为很像曾经的恒大,历史也总惊人的相似</a></li>
-<li><a href="/cbnews/20231002/1941098.md">江峰：习近平骨子里的“贵族气质”惹祸了 #习近平 #许家印</a></li>
 <li><a href="/cbnews/20231002/1941265.md">一口痰丢了性命，成都宝马车主嚣张至死</a></li>
-<li><a href="/comments/20231002/1941086.md">【独家重磅】李燕铭：疫情死亡人数惊人 楼市无人接盘 十户余一惊人预言正在一步步应验 许家印被抓中国楼市变天 习近平考虑放开房价任跌 中南海放风暗藏甩锅问责信号：朱镕基开启住宅商品化 李克强吹大楼市泡沫 中南海政变与反政变（134） 习近平决战江曾（133） 习近平连任后大清洗（94） 钱袋子争夺战（59） 许家印恒大危机深度内幕（42） 中共末日之病毒亡共（40） 习近平连任与中共末日（172）</a></li>
+<li><a href="/baitai/20231002/1941109.md">深陷内忧外患 习近平十一讲话透隐忧 最终败于这股力量？</a></li>
+<li><a href="/cbnews/20231002/1941098.md">江峰：习近平骨子里的“贵族气质”惹祸了 #习近平 #许家印</a></li>
+<li><a href="/topimagenews/20231002/1941204.md">今日华为很像曾经的恒大,历史也总惊人的相似</a></li>
 <li><a href="/fanqiang/20231002/1941262.md">多份报告称中国封锁了1.1.1.1</a></li>
 <li><a href="/topimagenews/20231002/1941271.md">首曝内幕：许家印这部门的震撼远超过“恒大歌舞团”【阿波罗网报道】</a></li>
+<li><a href="/comments/20231002/1941086.md">【独家重磅】李燕铭：疫情死亡人数惊人 楼市无人接盘 十户余一惊人预言正在一步步应验 许家印被抓中国楼市变天 习近平考虑放开房价任跌 中南海放风暗藏甩锅问责信号：朱镕基开启住宅商品化 李克强吹大楼市泡沫 中南海政变与反政变（134） 习近平决战江曾（133） 习近平连任后大清洗（94） 钱袋子争夺战（59） 许家印恒大危机深度内幕（42） 中共末日之病毒亡共（40） 习近平连任与中共末日（172）</a></li>
 <li><a href="/comments/20231002/1941231.md">借杭州亚运会扳倒习近平？习十一招待会跟老领导摊牌</a></li>
 <li><a href="/baitai/20231002/1941139.md">郑少秋失联女儿惊传寻短 后事无人处理</a></li>
-<li><a href="/sohnews/20231001/1941055.md">网友查承德财政发现重大危机❗️❗️❗️爱国粉红遭遇爆击，IT圈可以清零了，外宣造反内宣自危……</a></li>
 <li><a href="/comments/20231002/1941116.md">被习近平代替讲话，不代表李强失宠，或成常态</a></li>
 <li><a href="/ssgc/20231002/1941212.md">〖微博谈〗世界之大无奇不有</a></li>
-<li><a href="/comments/20231002/1941149.md">华为，请用产品说话！不要总煽动民族情绪</a></li>
+<li><a href="/cnnews/20231002/1941253.md">许家印住院照片网络疯传！引发无数网友热议【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20231002/1941216.md">江峰：李强再次被夺特权，十八大以前中共老人消失，国招会领导人个个扑克脸；李尚福剥夺公开场合露脸确定下台；7+3=8以及奥特曼被打，这国家的人民能有多少自己真实想法和情感【江峰漫谈20231001第738期】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,11 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231002/1941365.md" target="_blank">影响中国命运的7位女人</a></li>
+<li><a href="/comments/20231002/1941364.md" target="_blank">影响中国命运的7位女人：武则天</a></li>
+<li><a href="/comments/20231002/1941363.md" target="_blank">影响中国命运的7位女人：慈禧太后</a></li>
+<li><a href="/comments/20231002/1941362.md" target="_blank">影响中国命运的7位女人：来自西方的琵琶仙</a></li>
+<li><a href="/comments/20231002/1941361.md" target="_blank">影响中国命运的7位女人：明君背后的贤后</a></li>
 <li><a href="/comments/20231002/1941327.md" target="_blank">马特·盖兹准备罢免议长麦卡锡。AOC、佩洛西加入团战。建制派背后下手，将盖兹赶出国会。#盖兹 #麦卡锡 #权宜之计</a></li>
 <li><a href="/cbnews/20231002/1941265.md" target="_blank">一口痰丢了性命，成都宝马车主嚣张至死</a></li>
 <li><a href="/comments/20231002/1941258.md" target="_blank">民主解救不了人口雪崩，这次袁世凯会成功吗？</a></li>
@@ -55,11 +60,6 @@
 <li><a href="/cbnews/20231001/1940819.md" target="_blank">名字暗藏“六匹马” 让她大学4年不敢翘课</a></li>
 <li><a href="/comments/20230930/1940744.md" target="_blank">黎巴嫩政府称电影《芭比》 宣扬同性恋 拟禁止戏院上映</a></li>
 <li><a href="/cbnews/20230930/1940725.md" target="_blank">《红色轮盘》作者：许家印在砧板上很久了</a></li>
-<li><a href="/cbnews/20230930/1940724.md" target="_blank">秀与台潜舰合影 孙晓雅：美对台承诺坚若磐石</a></li>
-<li><a href="/cbnews/20230930/1940710.md" target="_blank">中秋节 民运人士赞扬李洪志先生和法轮功</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/cbnews/20230930/1940674.md" target="_blank">没那么简单！不是“监视居住” 恒大许家印遭“强制措施”另有玄机</a></li>
-<li><a href="/comments/20230930/1940600.md" target="_blank">众议院首次弹劾听证会现奇葩。一个谎话连篇，另一个胡搅蛮缠。专家证人对弹劾拜登前景发表看法，竟遭到了人身攻击。#弹劾听证 #拜登 #监督委员会</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231002/1941365.md" target="_blank">影响中国命运的7位女人</a></li>
+<li><a href="/comments/20231002/1941364.md" target="_blank">影响中国命运的7位女人：武则天</a></li>
+<li><a href="/comments/20231002/1941363.md" target="_blank">影响中国命运的7位女人：慈禧太后</a></li>
+<li><a href="/comments/20231002/1941362.md" target="_blank">影响中国命运的7位女人：来自西方的琵琶仙</a></li>
+<li><a href="/comments/20231002/1941361.md" target="_blank">影响中国命运的7位女人：明君背后的贤后</a></li>
+<li><a href="/comments/20231002/1941360.md" target="_blank">李承鹏看透中国的许家印们 这句话太犀利了</a></li>
+<li><a href="/comments/20231002/1941354.md" target="_blank">【新闻拍案惊奇】下一个是“王健林”？习清洗商界 抓了许家印还没完</a></li>
+<li><a href="/comments/20231002/1941353.md" target="_blank">9000人类基因组发现 夫妻缘居然真的存在</a></li>
 <li><a href="/comments/20231002/1941327.md" target="_blank">马特·盖兹准备罢免议长麦卡锡。AOC、佩洛西加入团战。建制派背后下手，将盖兹赶出国会。#盖兹 #麦卡锡 #权宜之计</a></li>
 <li><a href="/comments/20231002/1941301.md" target="_blank">中国的“19号令”旨在对宗教的致命的打击？</a></li>
 <li><a href="/comments/20231002/1941283.md" target="_blank">这是爱国情怀？不！这是一种“精神病”</a></li>
@@ -114,14 +122,6 @@
 <li><a href="/comments/20231002/1941193.md" target="_blank">利用66军乌龙“政变” 邓小平挤走华国锋</a></li>
 <li><a href="/comments/20231002/1941192.md" target="_blank">天亮时分：上海城投成立武装部；中美高层开始勾兑？（政论天下第1123集 20231001）天亮时分</a></li>
 <li><a href="/comments/20231002/1941182.md" target="_blank">宋征时：从“土豪旅”倾覆、蓝军旅濒危谈起</a></li>
-<li><a href="/comments/20231002/1941181.md" target="_blank">郑立：北京不要台湾拍马屁或卑屈 要“中华民国死透”</a></li>
-<li><a href="/comments/20231002/1941180.md" target="_blank">怒怼消费者之前，李佳琦的另一句话其实更恶心</a></li>
-<li><a href="/comments/20231002/1941179.md" target="_blank">别轻信要“把一切献给国家”的人，比如许家印</a></li>
-<li><a href="/comments/20231002/1941165.md" target="_blank">打破中立，为什么哈萨克斯坦宣布制裁俄罗斯？</a></li>
-<li><a href="/comments/20231002/1941164.md" target="_blank">与解放军官兵说说心里话：两营倾覆谈起</a></li>
-<li><a href="/comments/20231002/1941163.md" target="_blank">许家印的罪与罚：酒后曾问“如何才能流芳百世”</a></li>
-<li><a href="/comments/20231002/1941162.md" target="_blank">又见保安脚踩民女，中国的底层互害何时休？</a></li>
-<li><a href="/comments/20231002/1941161.md" target="_blank">从“眯眯眼”到“留辫子”，被泛化的“辱华”指控</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
 <li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
-<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
+<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
 
 </ul>
 </div>
