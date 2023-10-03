@@ -5,29 +5,29 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/cbnews/20231002/1941226.md">〖兲朝浮世绘〗爆料李强家族背景 是为了逼宫习近平吗？</a></li>
 <li><a href="/fanqiang/20231002/1941262.md">多份报告称中国封锁了1.1.1.1</a></li>
 <li><a href="/cbnews/20231002/1941265.md">一口痰丢了性命，成都宝马车主嚣张至死</a></li>
 <li><a href="/topimagenews/20231002/1941271.md">首曝内幕：许家印这部门的震撼远超过“恒大歌舞团”【阿波罗网报道】</a></li>
-<li><a href="/comments/20231002/1941231.md">借杭州亚运会扳倒习近平？习十一招待会跟老领导摊牌</a></li>
 <li><a href="/baitai/20231002/1941318.md">秦刚与傅晓田绯闻再爆大瓜 外媒：私生子为她人代孕所生</a></li>
 <li><a href="/cnnews/20231002/1941294.md">那个辞职去看世界的女老师 还是被打脸了？</a></li>
 <li><a href="/baitai/20231002/1941382.md">许家印野心不小！爆猛料：恒大内设执法系统 权力超过地方真「公检法」</a></li>
 <li><a href="/cnnews/20231002/1941253.md">许家印住院照片网络疯传！引发无数网友热议【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231002/1941352.md">台积电3奈米差点背锅！最新爆料：iPhone15发热祸首是1零件</a></li>
 <li><a href="/topimagenews/20231003/1941532.md">惨！俄提“最大让步”和谈 满满心机被看穿</a></li>
+<li><a href="/topimagenews/20231002/1941352.md">台积电3奈米差点背锅！最新爆料：iPhone15发热祸首是1零件</a></li>
 <li><a href="/comments/20231002/1941360.md">李承鹏看透中国的许家印们 这句话太犀利了</a></li>
 <li><a href="/topimagenews/20231002/1941282.md">对中共施压! 黄岩岛冲突后 6国齐挺菲律宾 今起南海联合军演</a></li>
+<li><a href="/cnnews/20231003/1941540.md">潮水退去，裸奔的队伍静悄悄</a></li>
 <li><a href="/sports/20231002/1941284.md">中国羽球队惨遭血洗，韩运动员这庆祝举动炸锅了</a></li>
 <li><a href="/ccpdope/20231003/1941481.md">习近平身边「高人」指点并未切中要害</a></li>
-<li><a href="/ssgc/20231002/1941298.md">十一国庆招待会凸显习核心地位 军报社论表态支持习近平</a></li>
-<li><a href="/cnnews/20231003/1941540.md">潮水退去，裸奔的队伍静悄悄</a></li>
 <li><a href="/cnnews/20231003/1941538.md">北上广的中产有点惨，辛苦半生回起点</a></li>
+<li><a href="/ssgc/20231002/1941298.md">十一国庆招待会凸显习核心地位 军报社论表态支持习近平</a></li>
 <li><a href="/baitai/20231002/1941384.md">习国宴讲话藏危机 学者：有人把习放炉子上烤</a></li>
 <li><a href="/comments/20231003/1941525.md">许家印被抓 恒大总部警察密布 戒备更严</a></li>
 <li><a href="/topimagenews/20231002/1941425.md">华尔街日报：中共调查许家印是否转移资产到海外</a></li>
 <li><a href="/sohnews/20231002/1941325.md">陈破空：全民降薪！这事只能发生在中国。红二代在美国出书：西方误解了中国？陈凯歌国庆大片《志愿军》沦最惨票房，巨亏8亿！直播与互动：美东时间10月2日早8点30、即中港台10月2日晚8点30</a></li>
+<li><a href="/sohnews/20231003/1941555.md">上海最繁华商业街惨不忍睹！外贸出口近崩盘！线上店舖生意跌到谷底！十一旅游短暂虚假的繁荣！上海象空城了一样！浦东曾经最热闹的步行街 繁华不再！上海群众演员充场人员安排现场 #新闻前线</a></li>
 <li><a href="/ccpdope/20231002/1941437.md">黑客「匿名者」攻入中共军校网站 列习近平罪状</a></li>
+<li><a href="/finance/20231002/1941266.md">中国三四线城市的房价，真顶不住了…</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231003/1941674.md" target="_blank">最高法院重新开庭 接什么大案【方伟时间-20231002】</a></li>
 <li><a href="/cbnews/20231003/1941665.md" target="_blank">〖兲朝浮世绘〗中共在64这个数字旁，永远做贼心虚</a></li>
 <li><a href="/comments/20231003/1941561.md" target="_blank">恒大2万亿债务谁背锅？受害者是否会血本无归？｜秦鹏 方菲 ｜新闻烽火台 1002</a></li>
 <li><a href="/cbnews/20231003/1941553.md" target="_blank">塞车尿急憋不住！大陆男狂奔“从高架桥跳下”画面曝</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231002/1941235.md" target="_blank">中国复兴党的宗旨和纲领（草案）</a></li>
 <li><a href="/cbnews/20231002/1941226.md" target="_blank">〖兲朝浮世绘〗爆料李强家族背景 是为了逼宫习近平吗？</a></li>
 <li><a href="/cbnews/20231002/1941216.md" target="_blank">江峰：李强再次被夺特权，十八大以前中共老人消失，国招会领导人个个扑克脸；李尚福剥夺公开场合露脸确定下台；7+3=8以及奥特曼被打，这国家的人民能有多少自己真实想法和情感【江峰漫谈20231001第738期】</a></li>
-<li><a href="/comments/20231002/1941182.md" target="_blank">宋征时：与解放军官兵说说心里话  &#8211; 从“土豪旅”倾覆、蓝军旅濒危谈起(下)</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231003/1941674.md" target="_blank">最高法院重新开庭 接什么大案【方伟时间-20231002】</a></li>
 <li><a href="/comments/20231003/1941614.md" target="_blank">天亮时分：不反习了？迟浩田露面国庆招待会；发生了什么大事？27国外长齐聚基辅，俄提议退至1991年边界（政论天下第1124集 20231002）天亮时分</a></li>
 <li><a href="/comments/20231003/1941593.md" target="_blank">陶方宣：北京宋庄：觉醒的奴隶</a></li>
 <li><a href="/comments/20231003/1941592.md" target="_blank">吞噬政权合法性的数据黑洞：中共一只脚已踏入</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231002/1941353.md" target="_blank">9000人类基因组发现 夫妻缘居然真的存在</a></li>
 <li><a href="/comments/20231002/1941327.md" target="_blank">马特·盖兹准备罢免议长麦卡锡。AOC、佩洛西加入团战。建制派背后下手，将盖兹赶出国会。#盖兹 #麦卡锡 #权宜之计</a></li>
 <li><a href="/comments/20231002/1941301.md" target="_blank">中国的“19号令”旨在对宗教的致命的打击？</a></li>
-<li><a href="/comments/20231002/1941283.md" target="_blank">这是爱国情怀？不！这是一种“精神病”</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
 <li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
 <li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
 
 </ul>
 </div>
