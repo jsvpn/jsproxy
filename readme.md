@@ -7,10 +7,9 @@
 
 <li><a href="/sohnews/20231003/1941684.md">习近平批示许家印问题只有两个字，李强总理一职不保，诺贝尔和平奖再给中国人。《老灯开讲第398期》</a></li>
 <li><a href="/topimagenews/20231003/1941784.md">惊爆许家印败落原因已被找到 这照片太惊人了【阿波罗网报道】</a></li>
-<li><a href="/sohnews/20231003/1941555.md">上海最繁华商业街惨不忍睹！外贸出口近崩盘！线上店舖生意跌到谷底！十一旅游短暂虚假的繁荣！上海象空城了一样！浦东曾经最热闹的步行街 繁华不再！上海群众演员充场人员安排现场 #新闻前线</a></li>
 <li><a href="/finance/20231003/1941588.md">北京，很快就有大麻烦了</a></li>
-<li><a href="/topimagenews/20231003/1941625.md">【微博精粹】看形势 很可能是过最后一个国殇日了</a></li>
 <li><a href="/bblog/20231003/1941770.md">二十大散会后，王岐山在家的表演</a></li>
+<li><a href="/topimagenews/20231003/1941625.md">【微博精粹】看形势 很可能是过最后一个国殇日了</a></li>
 <li><a href="/comments/20231003/1941718.md">习近平试用新版监控器 发现李克强秘密</a></li>
 <li><a href="/comments/20231003/1941773.md">犯习近平大忌 大陆老板揭许家印被抓内幕</a></li>
 <li><a href="/topimagenews/20231003/1941755.md">中共财政崩溃帝都动摇，官场都要借钱发工资；恒大倒下真凶：揭秘危机</a></li>
@@ -19,7 +18,6 @@
 <li><a href="/baitai/20231003/1941831.md">【立此存照】吴艳妮在杭州亚运会与队友拥抱“8964”，央视新闻换图</a></li>
 <li><a href="/comments/20231003/1941759.md">吴祚来：许家印拒不认罪 拒不检讨书</a></li>
 <li><a href="/ccpdope/20231003/1941649.md">有关李强妻女的爆料矛头直指习近平</a></li>
-<li><a href="/cbnews/20231003/1941553.md">塞车尿急憋不住！大陆男狂奔“从高架桥跳下”画面曝</a></li>
 <li><a href="/baitai/20231003/1941859.md">黑衣人曝习近平最大隐忧 财政危机威胁政权稳定</a></li>
 <li><a href="/baitai/20231003/1941793.md">记者们懵了！全红婵首名晋女子10米台决赛 赛后火速逃离采访区</a></li>
 <li><a href="/comments/20231003/1941775.md">传言不实？ 张又侠和迟浩田露面“十一”招待会</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/topimagenews/20231003/1941783.md">翻版《长津湖》内幕！中共豪华阵容大片赔得吐血</a></li>
 <li><a href="/yule/20231003/1941662.md">54岁许晴活动生图流出！皮肤白皙满脸皱纹 微笑时褶皱明显</a></li>
 <li><a href="/sohnews/20231003/1941862.md">北京房市腰斩50% 房价或放开任跌｜ #时事金扫描 #金然</a></li>
+<li><a href="/comments/20231003/1941614.md">天亮时分：不反习了？迟浩田露面国庆招待会；发生了什么大事？27国外长齐聚基辅，俄提议退至1991年边界（政论天下第1124集 20231002）天亮时分</a></li>
+<li><a href="/yule/20231003/1941605.md">范冰冰紫色薄纱装亮相影展闭幕式挨批“不合时宜”惹议</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231004/1942038.md" target="_blank">川普史无前例亲自佐证。当庭怒斥纽约总检察长。川普抓住两点为自己辩护。左翼法官现场丢丑。#纽约总检察长 #川普 #商业欺诈</a></li>
 <li><a href="/cbnews/20231004/1942027.md" target="_blank">忧心机会成本越来越高 习大概率铤而走险</a></li>
 <li><a href="/cbnews/20231004/1942026.md" target="_blank">中国乡民分享另类语音导航 听得让人火大</a></li>
 <li><a href="/cbnews/20231004/1942012.md" target="_blank">许家印交代了? 上千局级干部要坐牢 下几个恒大触目惊心【阿波罗网报道】</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20231002/1941419.md" target="_blank">宋征时：与解放军官兵说说心里话  &#8211; 从“土豪旅”倾覆、蓝军旅濒危谈起(上)</a></li>
 <li><a href="/cbnews/20231002/1941405.md" target="_blank">中国校长带头施暴 4师长围殴学生 叫嚣“打死送医院”</a></li>
 <li><a href="/cbnews/20231002/1941338.md" target="_blank">长幼失序 人伦异变 ——可怕的变异观念之二</a></li>
-<li><a href="/cbnews/20231002/1941339.md" target="_blank">毒水果太可怕，你还敢不敢吃？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,13 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231004/1942044.md" target="_blank">网海拾贝:许皮带能够滚动这么大，是政府一手纵容的结果</a></li>
+<li><a href="/comments/20231004/1942043.md" target="_blank">袁斌：习近平“十一”讲话自信不再 忧心忡忡强打精神</a></li>
+<li><a href="/comments/20231004/1942042.md" target="_blank">张直言：论天下之大事——红领带和蓝领带的对话</a></li>
+<li><a href="/comments/20231004/1942041.md" target="_blank">弘正义：马克思主义整个理论体系都是反科学、社会和人类的</a></li>
+<li><a href="/comments/20231004/1942040.md" target="_blank">陈思敏：医疗腐败深水区也是军队反腐死角</a></li>
+<li><a href="/comments/20231004/1942038.md" target="_blank">川普史无前例亲自佐证。当庭怒斥纽约总检察长。川普抓住两点为自己辩护。左翼法官现场丢丑。#纽约总检察长 #川普 #商业欺诈</a></li>
+<li><a href="/comments/20231004/1942037.md" target="_blank">文昭：干掉了中国房地产业的杀猪刀，是它</a></li>
 <li><a href="/comments/20231004/1942025.md" target="_blank">【独家重磅】李燕铭：习近平政治局批许家印有政治野心和诉求 中纪委发文暗示许家印落马涉政治问题 许家印四大敏感动作暴露政治野心 十九大前逼宫 藏头诗犯习大忌 许家印组建美女歌舞团围猎高官 深涉江曾集团政变反习阴谋 中南海政变与反政变（136） 习近平决战江曾（135） 习近平连任后大清洗（96） 钱袋子争夺战（61） 许家印恒大危机深度内幕（44）</a></li>
 <li><a href="/comments/20231004/1941996.md" target="_blank">孤星照 作者：楚天秋</a></li>
 <li><a href="/comments/20231004/1941991.md" target="_blank">中国人权律师团特稿 &#8211; 辩护制度是政治文明的指标</a></li>
@@ -115,13 +122,6 @@
 <li><a href="/comments/20231003/1941718.md" target="_blank">习近平试用新版监控器 发现李克强秘密</a></li>
 <li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
 <li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/comments/20231003/1941674.md" target="_blank">最高法院重新开庭 接什么大案【方伟时间-20231002】</a></li>
-<li><a href="/comments/20231003/1941614.md" target="_blank">天亮时分：不反习了？迟浩田露面国庆招待会；发生了什么大事？27国外长齐聚基辅，俄提议退至1991年边界（政论天下第1124集 20231002）天亮时分</a></li>
-<li><a href="/comments/20231003/1941593.md" target="_blank">陶方宣：北京宋庄：觉醒的奴隶</a></li>
-<li><a href="/comments/20231003/1941592.md" target="_blank">吞噬政权合法性的数据黑洞：中共一只脚已踏入</a></li>
-<li><a href="/comments/20231003/1941591.md" target="_blank">爱国贼是中共最后一代奴才</a></li>
-<li><a href="/comments/20231003/1941570.md" target="_blank">文昭：真相：房价跌10%就是大难临头的生死线！开发商大佬都是政府的「包税人」</a></li>
-<li><a href="/comments/20231003/1941561.md" target="_blank">恒大2万亿债务谁背锅？受害者是否会血本无归？｜秦鹏 方菲 ｜新闻烽火台 1002</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/topimagenews/20180524/947358.md" target="_blank">魔鬼在统治着我们的世界(6)：输出革命</a></li>
-<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/tculture/20190304/1091068.md" target="_blank">逆天而为痛悔迟18-1:太祖暴死弟乍立，烛影斧声千古谜1</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
+<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
+<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20220522/1736049.md" target="_blank">修炼故事：圣苦灵花</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
 
 </ul>
 </div>
