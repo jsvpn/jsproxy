@@ -7,7 +7,6 @@
 
 <li><a href="/sohnews/20231003/1941684.md">习近平批示许家印问题只有两个字，李强总理一职不保，诺贝尔和平奖再给中国人。《老灯开讲第398期》</a></li>
 <li><a href="/baitai/20231002/1941382.md">许家印野心不小！爆猛料：恒大内设执法系统 权力超过地方真「公检法」</a></li>
-<li><a href="/comments/20231002/1941360.md">李承鹏看透中国的许家印们 这句话太犀利了</a></li>
 <li><a href="/ccpdope/20231003/1941481.md">习近平身边「高人」指点并未切中要害</a></li>
 <li><a href="/topimagenews/20231003/1941532.md">惨！俄提“最大让步”和谈 满满心机被看穿</a></li>
 <li><a href="/topimagenews/20231003/1941625.md">【微博精粹】看形势 很可能是过最后一个国殇日了</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/finance/20231003/1941588.md">北京，很快就有大麻烦了</a></li>
 <li><a href="/comments/20231003/1941546.md">被自己的律师团坑了 许家印可能会被判死刑</a></li>
 <li><a href="/cbnews/20231003/1941665.md">〖兲朝浮世绘〗中共在64这个数字旁，永远做贼心虚</a></li>
+<li><a href="/comments/20231003/1941718.md">习近平试用新版监控器 发现李克强秘密</a></li>
 <li><a href="/comments/20231003/1941525.md">许家印被抓 恒大总部警察密布 戒备更严</a></li>
+<li><a href="/topimagenews/20231003/1941784.md">惊爆许家印败落原因已被找到 这照片太惊人了【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231002/1941425.md">华尔街日报：中共调查许家印是否转移资产到海外</a></li>
 <li><a href="/cbnews/20231003/1941553.md">塞车尿急憋不住！大陆男狂奔“从高架桥跳下”画面曝</a></li>
+<li><a href="/topimagenews/20231003/1941755.md">中共财政崩溃帝都动摇，官场都要借钱发工资；恒大倒下真凶：揭秘危机</a></li>
 <li><a href="/ccpdope/20231003/1941649.md">有关李强妻女的爆料矛头直指习近平</a></li>
 <li><a href="/baitai/20231003/1941542.md">吓坏女星﹗游北京上公厕…门儿都没有</a></li>
-<li><a href="/comments/20231003/1941718.md">习近平试用新版监控器 发现李克强秘密</a></li>
-<li><a href="/headline/20231003/1941470.md">陈凯歌新片贩卖爱国主义失灵 网民高呼「让领导的儿女首先牺牲」</a></li>
 <li><a href="/sports/20231003/1941537.md">傻眼！朝鲜队输球又输人还打裁判…</a></li>
-<li><a href="/topimagenews/20231003/1941755.md">中共财政崩溃帝都动摇，官场都要借钱发工资；恒大倒下真凶：揭秘危机</a></li>
+<li><a href="/headline/20231003/1941470.md">陈凯歌新片贩卖爱国主义失灵 网民高呼「让领导的儿女首先牺牲」</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231003/1941829.md" target="_blank">2023诺贝尔物理奖揭晓！ 三学者研究“极短光脉冲”获殊荣</a></li>
+<li><a href="/comments/20231003/1941828.md" target="_blank">印度多名记者涉洗钱并为中共宣传被警方带走调查</a></li>
 <li><a href="/comments/20231003/1941826.md" target="_blank">最高法院驳回一诉讼，对川普意义重大！川普模仿拜登迷路。从川普一号喊话，观众惊呼！拜登一句话，挑拨盖兹与麦卡锡关系？#拜登 #麦卡锡 #川普</a></li>
 <li><a href="/comments/20231003/1941775.md" target="_blank">传言不实？ 张又侠和迟浩田露面“十一”招待会</a></li>
 <li><a href="/comments/20231003/1941773.md" target="_blank">犯习近平大忌 大陆老板揭许家印被抓内幕</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20231002/1941419.md" target="_blank">宋征时：与解放军官兵说说心里话  &#8211; 从“土豪旅”倾覆、蓝军旅濒危谈起(上)</a></li>
 <li><a href="/comments/20231002/1941398.md" target="_blank">【文韬政论】一群「唯共是从」的「卖港贼」</a></li>
 <li><a href="/comments/20231002/1941365.md" target="_blank">影响中国命运的7位女人</a></li>
-<li><a href="/comments/20231002/1941364.md" target="_blank">影响中国命运的7位女人：武则天</a></li>
-<li><a href="/comments/20231002/1941363.md" target="_blank">影响中国命运的7位女人：慈禧太后</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/tculture/20200917/1398046.md" target="_blank">我和羊倌爷爷的故事 羊倌爷爷的特异功能</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
+<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
 <li><a href="/bannedvideo/20220821/1774387.md" target="_blank">鲍尔斯讲述40年美国巨变的原因【方伟时间-20220820】</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
 <li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cnnews/20210420/1529760.md" target="_blank">她曾梦见基督和千手观音 基督对她说：“赶快，赶快…”</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/cbnews/20210428/1535533.md" target="_blank">“大仙”难办的事  看法轮功录相两小时解决</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
 
 </ul>
 </div>
