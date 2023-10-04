@@ -12,22 +12,22 @@
 <li><a href="/topimagenews/20231004/1942135.md">中共核潜艇陷自己水底陷阱全体窒息亡 英国独家秘密情报【阿波罗网翻译】</a></li>
 <li><a href="/baitai/20231004/1942047.md">李强黑材料有疑点 分析：中南海有大事</a></li>
 <li><a href="/cnnews/20231004/1942001.md">中国女作家长文揭秘许家印：堪比帝王</a></li>
-<li><a href="/baitai/20231003/1941859.md">黑衣人曝习近平最大隐忧 财政危机威胁政权稳定</a></li>
 <li><a href="/ccpdope/20231003/1941889.md">解放军直接接管 中国各地国企纷纷成立武装部</a></li>
-<li><a href="/baitai/20231003/1941793.md">记者们懵了！全红婵首名晋女子10米台决赛 赛后火速逃离采访区</a></li>
+<li><a href="/baitai/20231003/1941859.md">黑衣人曝习近平最大隐忧 财政危机威胁政权稳定</a></li>
+<li><a href="/sohnews/20231003/1941862.md">北京房市腰斩50% 房价或放开任跌｜ #时事金扫描 #金然</a></li>
 <li><a href="/baitai/20231004/1942109.md">英秘密报告确认：共军093核潜艇全员阵亡！突发：百年首次！众议院议长麦卡锡遭罢免！ 川普发声：不要内斗！【主持】高洁 【嘉宾】时事评论员 方伟 唐靖远【焦点解读】10/03/2023</a></li>
 <li><a href="/cnnews/20231004/1942018.md">对比许家印，王健林让王思聪玩乐多么明智</a></li>
-<li><a href="/sohnews/20231003/1941862.md">北京房市腰斩50% 房价或放开任跌｜ #时事金扫描 #金然</a></li>
-<li><a href="/comments/20231004/1942025.md">【独家重磅】李燕铭：习近平政治局批许家印有政治野心和诉求 中纪委发文暗示许家印落马涉政治问题 许家印四大敏感动作暴露政治野心 十九大前逼宫 藏头诗犯习大忌 许家印组建美女歌舞团围猎高官 深涉江曾集团政变反习阴谋 中南海政变与反政变（136） 习近平决战江曾（135） 习近平连任后大清洗（96） 钱袋子争夺战（61） 许家印恒大危机深度内幕（44）</a></li>
-<li><a href="/baitai/20231004/1941975.md">日机构拆解华为新手机 揭芯片非7纳米</a></li>
-<li><a href="/cnnews/20231004/1942000.md">216：210 麦卡锡成美国史上首位被罢免下台议长</a></li>
 <li><a href="/cbnews/20231004/1942121.md">眼下移民潮，这类中国人“润”得最凶</a></li>
+<li><a href="/baitai/20231004/1941975.md">日机构拆解华为新手机 揭芯片非7纳米</a></li>
+<li><a href="/comments/20231004/1942025.md">【独家重磅】李燕铭：习近平政治局批许家印有政治野心和诉求 中纪委发文暗示许家印落马涉政治问题 许家印四大敏感动作暴露政治野心 十九大前逼宫 藏头诗犯习大忌 许家印组建美女歌舞团围猎高官 深涉江曾集团政变反习阴谋 中南海政变与反政变（136） 习近平决战江曾（135） 习近平连任后大清洗（96） 钱袋子争夺战（61） 许家印恒大危机深度内幕（44）</a></li>
+<li><a href="/cnnews/20231004/1942000.md">216：210 麦卡锡成美国史上首位被罢免下台议长</a></li>
+<li><a href="/cbnews/20231004/1942173.md">〖兲朝浮世绘〗国际大会上的唯一逆行者</a></li>
 <li><a href="/ccpdope/20231003/1941916.md">李强家族被曝贪腐 内斗盯上二号人物？</a></li>
 <li><a href="/yule/20231004/1942019.md">官媒出手删杨颖表演片 知情人曝：广告也在查</a></li>
 <li><a href="/cnnews/20231004/1941999.md">“中国第一贪”江绵恒是如何公开抢劫的？</a></li>
-<li><a href="/sohnews/20231004/1941950.md">“全军表态！军队只听习近平主席的指挥”No.01（10/03/23）</a></li>
-<li><a href="/cbnews/20231004/1942173.md">〖兲朝浮世绘〗国际大会上的唯一逆行者</a></li>
 <li><a href="/ccpdope/20231003/1941915.md">中国经济面临严峻时刻 专家：今后更艰难</a></li>
+<li><a href="/sohnews/20231004/1941950.md">“全军表态！军队只听习近平主席的指挥”No.01（10/03/23）</a></li>
+<li><a href="/cbnews/20231004/1942011.md">惊呆四方！中国大学新生“cosplay”内容引关注</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231004/1942149.md" target="_blank">吴祚来：中华史，一度又一度繁荣复兴</a></li>
 <li><a href="/cbnews/20231004/1942268.md" target="_blank">海外爆料：你一定以为这是苏联的国庆！哪有“中国”人啥事？</a></li>
 <li><a href="/cbnews/20231004/1942267.md" target="_blank">打击中共大外宣，印度出手又准又狠</a></li>
 <li><a href="/cbnews/20231004/1942266.md" target="_blank">意大利欲放弃一带一路 葡萄牙成中共宣传新指标</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231004/1942011.md" target="_blank">惊呆四方！中国大学新生“cosplay”内容引关注</a></li>
 <li><a href="/cbnews/20231004/1942010.md" target="_blank">月薪两万，随不起份子</a></li>
 <li><a href="/cbnews/20231003/1941920.md" target="_blank">赌博被突击 湖南公仆拔腿就跑“别说我是哪单位”</a></li>
-<li><a href="/cbnews/20231003/1941827.md" target="_blank">印度中部十五所学校集体学炼法轮功</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231004/1942149.md" target="_blank">吴祚来：中华史，一度又一度繁荣复兴</a></li>
 <li><a href="/comments/20231004/1942285.md" target="_blank">经济学人：中共国向台湾灌输虚假信息</a></li>
 <li><a href="/comments/20231004/1942182.md" target="_blank">号码牌革命惊现亚运赛场！英媒证实中共核潜艇黄海沉船55人丧生！反党歌曲火了，习保党危了？</a></li>
 <li><a href="/comments/20231004/1942157.md" target="_blank">超级奇幻：盖兹‘联手’民主党罢免议长【方伟时间-20231003】</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231004/1942025.md" target="_blank">【独家重磅】李燕铭：习近平政治局批许家印有政治野心和诉求 中纪委发文暗示许家印落马涉政治问题 许家印四大敏感动作暴露政治野心 十九大前逼宫 藏头诗犯习大忌 许家印组建美女歌舞团围猎高官 深涉江曾集团政变反习阴谋 中南海政变与反政变（136） 习近平决战江曾（135） 习近平连任后大清洗（96） 钱袋子争夺战（61） 许家印恒大危机深度内幕（44）</a></li>
 <li><a href="/comments/20231004/1941996.md" target="_blank">孤星照 作者：楚天秋</a></li>
 <li><a href="/comments/20231004/1941991.md" target="_blank">中国人权律师团特稿 &#8211; 辩护制度是政治文明的指标</a></li>
-<li><a href="/comments/20231003/1941934.md" target="_blank">时事大家谈：北京是世界的思想首都？什么思想？&#160;</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/topimagenews/20180331/921716.md" target="_blank">视频：1998年广州电视台、上海电视台正面报导法轮功</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
 <li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/comments/20210827/1614424.md" target="_blank">千年轮回16世转世，他曾见证耶稣遇难与复活；催眠中写下的笔记，竟与前世吻合；多位科学家联署证明：他说的都是真的！</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
 
 </ul>
 </div>
