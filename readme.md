@@ -7,7 +7,6 @@
 
 <li><a href="/sohnews/20231003/1941684.md">习近平批示许家印问题只有两个字，李强总理一职不保，诺贝尔和平奖再给中国人。《老灯开讲第398期》</a></li>
 <li><a href="/topimagenews/20231003/1941784.md">惊爆许家印败落原因已被找到 这照片太惊人了【阿波罗网报道】</a></li>
-<li><a href="/finance/20231003/1941588.md">北京，很快就有大麻烦了</a></li>
 <li><a href="/bblog/20231003/1941770.md">二十大散会后，王岐山在家的表演</a></li>
 <li><a href="/topimagenews/20231003/1941625.md">【微博精粹】看形势 很可能是过最后一个国殇日了</a></li>
 <li><a href="/comments/20231003/1941718.md">习近平试用新版监控器 发现李克强秘密</a></li>
@@ -19,15 +18,16 @@
 <li><a href="/comments/20231003/1941759.md">吴祚来：许家印拒不认罪 拒不检讨书</a></li>
 <li><a href="/ccpdope/20231003/1941649.md">有关李强妻女的爆料矛头直指习近平</a></li>
 <li><a href="/baitai/20231003/1941859.md">黑衣人曝习近平最大隐忧 财政危机威胁政权稳定</a></li>
-<li><a href="/baitai/20231003/1941793.md">记者们懵了！全红婵首名晋女子10米台决赛 赛后火速逃离采访区</a></li>
-<li><a href="/comments/20231003/1941775.md">传言不实？ 张又侠和迟浩田露面“十一”招待会</a></li>
-<li><a href="/ccpdope/20231003/1941889.md">解放军直接接管 中国各地国企纷纷成立武装部</a></li>
 <li><a href="/baitai/20231004/1941963.md">诡异！ 爆料李强妻女信息博客关门 央视删除他主持中共74周年招待会信息</a></li>
+<li><a href="/baitai/20231003/1941793.md">记者们懵了！全红婵首名晋女子10米台决赛 赛后火速逃离采访区</a></li>
+<li><a href="/ccpdope/20231003/1941889.md">解放军直接接管 中国各地国企纷纷成立武装部</a></li>
+<li><a href="/comments/20231003/1941775.md">传言不实？ 张又侠和迟浩田露面“十一”招待会</a></li>
 <li><a href="/sohnews/20231003/1941862.md">北京房市腰斩50% 房价或放开任跌｜ #时事金扫描 #金然</a></li>
+<li><a href="/topimagenews/20231003/1941783.md">翻版《长津湖》内幕！中共豪华阵容大片赔得吐血</a></li>
 <li><a href="/yule/20231003/1941662.md">54岁许晴活动生图流出！皮肤白皙满脸皱纹 微笑时褶皱明显</a></li>
 <li><a href="/health/20231003/1941758.md">胃的“修复剂”不是牛奶，而是它！每天喝一点，胃病“绕着走”</a></li>
-<li><a href="/topimagenews/20231003/1941783.md">翻版《长津湖》内幕！中共豪华阵容大片赔得吐血</a></li>
 <li><a href="/comments/20231003/1941614.md">天亮时分：不反习了？迟浩田露面国庆招待会；发生了什么大事？27国外长齐聚基辅，俄提议退至1991年边界（政论天下第1124集 20231002）天亮时分</a></li>
+<li><a href="/cbnews/20231004/1942012.md">许家印交代了? 上千局级干部要坐牢 下几个恒大触目惊心【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/bannedvideo/20220601/1740169.md" target="_blank">?【真飞直播】对话章天亮: 中华文化是粪坑文化吗？如何复兴中华民族? #真观点 #章天亮 #真飞直播</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
-<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
-<li><a href="/health/20170626/780270.md" target="_blank">仅三小时，法轮功学员神通祛除心脏病</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
-<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
+<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
+<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
 
 </ul>
 </div>
