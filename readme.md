@@ -13,21 +13,21 @@
 <li><a href="/cnnews/20231004/1942001.md">中国女作家长文揭秘许家印：堪比帝王</a></li>
 <li><a href="/ccpdope/20231003/1941889.md">解放军直接接管 中国各地国企纷纷成立武装部</a></li>
 <li><a href="/baitai/20231003/1941859.md">黑衣人曝习近平最大隐忧 财政危机威胁政权稳定</a></li>
-<li><a href="/sohnews/20231003/1941862.md">北京房市腰斩50% 房价或放开任跌｜ #时事金扫描 #金然</a></li>
 <li><a href="/cbnews/20231004/1942229.md">李强被废? 习近平的人事安排"用心深远"</a></li>
+<li><a href="/sohnews/20231003/1941862.md">北京房市腰斩50% 房价或放开任跌｜ #时事金扫描 #金然</a></li>
 <li><a href="/cnnews/20231004/1942018.md">对比许家印，王健林让王思聪玩乐多么明智</a></li>
 <li><a href="/baitai/20231004/1942109.md">英秘密报告确认：共军093核潜艇全员阵亡！突发：百年首次！众议院议长麦卡锡遭罢免！ 川普发声：不要内斗！【主持】高洁 【嘉宾】时事评论员 方伟 唐靖远【焦点解读】10/03/2023</a></li>
+<li><a href="/topimagenews/20231004/1942232.md">内部消息：习政治经济学双丰收 每个贪官收缴上亿 用来...【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231004/1942173.md">〖兲朝浮世绘〗国际大会上的唯一逆行者</a></li>
 <li><a href="/baitai/20231004/1941975.md">日机构拆解华为新手机 揭芯片非7纳米</a></li>
-<li><a href="/topimagenews/20231004/1942232.md">内部消息：习政治经济学双丰收 每个贪官收缴上亿 用来...【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231004/1942121.md">眼下移民潮，这类中国人“润”得最凶</a></li>
 <li><a href="/comments/20231004/1942025.md">【独家重磅】李燕铭：习近平政治局批许家印有政治野心和诉求 中纪委发文暗示许家印落马涉政治问题 许家印四大敏感动作暴露政治野心 十九大前逼宫 藏头诗犯习大忌 许家印组建美女歌舞团围猎高官 深涉江曾集团政变反习阴谋 中南海政变与反政变（136） 习近平决战江曾（135） 习近平连任后大清洗（96） 钱袋子争夺战（61） 许家印恒大危机深度内幕（44）</a></li>
 <li><a href="/cnnews/20231004/1942000.md">216：210 麦卡锡成美国史上首位被罢免下台议长</a></li>
 <li><a href="/ccpdope/20231003/1941916.md">李强家族被曝贪腐 内斗盯上二号人物？</a></li>
 <li><a href="/yule/20231004/1942019.md">官媒出手删杨颖表演片 知情人曝：广告也在查</a></li>
-<li><a href="/cnnews/20231004/1941999.md">“中国第一贪”江绵恒是如何公开抢劫的？</a></li>
+<li><a href="/finance/20231004/1942224.md">潘石屹夫妇 为何笑到了最后？</a></li>
 <li><a href="/sohnews/20231004/1942180.md">中共潜艇撞了铁链！英媒：55船员黄海遇难，事件坐实！罢免“麦卡锡”是为私仇！共和党大佬：驱逐“盖茨”；中共国封的“跨栏女神”照片太敏感，遭全网屏蔽！不是巧合是天意｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/cbnews/20231004/1942011.md">惊呆四方！中国大学新生“cosplay”内容引关注</a></li>
+<li><a href="/topimagenews/20231004/1942134.md">不幸言中！中共正在“把全国建成一个大监狱”【阿波罗网报道】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231004/1942411.md" target="_blank">麦卡锡被罢免。代理议长第一道命令，让佩洛西发飙。推举川普竞选新议长？#麦卡锡 #川普 #佩洛西</a></li>
 <li><a href="/cbnews/20231004/1942385.md" target="_blank">中南海筹备大镇压 反惹祸上身？【阿波罗网报道】</a></li>
 <li><a href="/comments/20231004/1942149.md" target="_blank">吴祚来：中华史，一度又一度繁荣复兴</a></li>
 <li><a href="/cbnews/20231004/1942268.md" target="_blank">海外爆料：你一定以为这是苏联的国庆！哪有“中国”人啥事？</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231004/1942026.md" target="_blank">中国乡民分享另类语音导航 听得让人火大</a></li>
 <li><a href="/cbnews/20231004/1942012.md" target="_blank">许家印交代了? 上千局级干部要坐牢 下几个恒大触目惊心【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231004/1942011.md" target="_blank">惊呆四方！中国大学新生“cosplay”内容引关注</a></li>
-<li><a href="/cbnews/20231004/1942010.md" target="_blank">月薪两万，随不起份子</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231004/1942411.md" target="_blank">麦卡锡被罢免。代理议长第一道命令，让佩洛西发飙。推举川普竞选新议长？#麦卡锡 #川普 #佩洛西</a></li>
 <li><a href="/comments/20231004/1942387.md" target="_blank">2023诺贝尔化学奖出炉 美俄3学者“量子点”研究获奖 名单曾外泄</a></li>
 <li><a href="/comments/20231004/1942149.md" target="_blank">吴祚来：中华史，一度又一度繁荣复兴</a></li>
 <li><a href="/comments/20231004/1942285.md" target="_blank">经济学人：中共国向台湾灌输虚假信息</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231004/1942038.md" target="_blank">川普史无前例亲自佐证。当庭怒斥纽约总检察长。川普抓住两点为自己辩护。左翼法官现场丢丑。#纽约总检察长 #川普 #商业欺诈</a></li>
 <li><a href="/comments/20231004/1942037.md" target="_blank">文昭：干掉了中国房地产业的杀猪刀，是它</a></li>
 <li><a href="/comments/20231004/1942025.md" target="_blank">【独家重磅】李燕铭：习近平政治局批许家印有政治野心和诉求 中纪委发文暗示许家印落马涉政治问题 许家印四大敏感动作暴露政治野心 十九大前逼宫 藏头诗犯习大忌 许家印组建美女歌舞团围猎高官 深涉江曾集团政变反习阴谋 中南海政变与反政变（136） 习近平决战江曾（135） 习近平连任后大清洗（96） 钱袋子争夺战（61） 许家印恒大危机深度内幕（44）</a></li>
-<li><a href="/comments/20231004/1941996.md" target="_blank">孤星照 作者：楚天秋</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20181210/1044798.md" target="_blank">魔鬼在统治着我们的世界(26)：全球野心(上)</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/xiulian/20180114/885650.md" target="_blank">轮回纪实：惨死山洞见真相 正法修炼破迷题</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
 <li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20230226/1853388.md" target="_blank">澳洲心理专家出书探秘法轮功祛病健身奇效</a></li>
+<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
 <li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/comments/20230511/1882985.md" target="_blank">曹长青：乌战美国输中共赢,川普48小时结束乌战不是吹牛</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
 
 </ul>
 </div>
