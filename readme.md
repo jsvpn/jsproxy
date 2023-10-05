@@ -5,19 +5,13 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/worldnews/20231004/1942281.md">迫不得已 普京向北京让步</a></li>
-<li><a href="/cbnews/20231004/1942263.md">“输定了” 中共收到强硬警告</a></li>
 <li><a href="/cbnews/20231004/1942385.md">中南海筹备大镇压 反惹祸上身？【阿波罗网报道】</a></li>
-<li><a href="/cbnews/20231004/1942268.md">海外爆料：你一定以为这是苏联的国庆！哪有“中国”人啥事？</a></li>
 <li><a href="/baitai/20231004/1942334.md">不能“全怪”习近平？</a></li>
 <li><a href="/cnnews/20231004/1942292.md">麦卡锡接任者上任就出招 赶走佩洛西</a></li>
 <li><a href="/baitai/20231004/1942323.md">将冻结与北京关系 又一盟友要翻脸?</a></li>
-<li><a href="/cbnews/20231004/1942267.md">打击中共大外宣，印度出手又准又狠</a></li>
-<li><a href="/cnnews/hknews/20231004/1942272.md">她决定放弃美国国籍，“严肃而罕见”</a></li>
-<li><a href="/worldnews/20231004/1942280.md">滑稽！乌军不会修缴获俄军坦克 竟设计…</a></li>
 <li><a href="/cnnews/20231004/1942295.md">华为、中芯破解封锁没用！大陆陷1痛苦危机 芯片业惨了</a></li>
-<li><a href="/baitai/20231004/1942354.md">残雪不可能得诺贝尔奖</a></li>
 <li><a href="/topimagenews/20231004/1942451.md">消费降级还想“松一下”？ 中国年轻人新招治疗精神内耗</a></li>
+<li><a href="/baitai/20231004/1942354.md">残雪不可能得诺贝尔奖</a></li>
 <li><a href="/baitai/20231004/1942378.md">给习添乱还是当局试水温？私营经济退场论后 中国现更恐怖言论</a></li>
 <li><a href="/topimagenews/20231004/1942437.md">哈尔滨房子卖到南京去！“远征2100公里”成交量太惊人</a></li>
 <li><a href="/comments/20231004/1942413.md">小粉红美国大学吉祥物上喷漆庆中共国庆 隔日被恶搞回敬</a></li>
@@ -25,9 +19,15 @@
 <li><a href="/ssgc/20231004/1942404.md">从习近平“十一”招待会破例讲话谈起</a></li>
 <li><a href="/headline/20231004/1942388.md">翘首等待秦刚回归的微博“饭圈”和中国外交官员的偶像化和娱乐化</a></li>
 <li><a href="/sohnews/20231004/1942427.md">一本曾经影响了大半中国人的书，却是谎言写成的洗脑宣传品，你读过《钢铁是怎样炼成的》吗？【历史真相】｜薇羽看世间 第754期</a></li>
+<li><a href="/topimagenews/20231005/1942646.md">许家印成习近平“烫手山芋”？习近平抓人被暗嘲【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20231004/1942293.md">在此被印度飞速赶超 中国遭受重大打击</a></li>
-<li><a href="/headline/20231004/1942366.md">英媒曝解放军核潜艇遭困自挖陷阱 或有55官兵海难 中国官方曾斥谣言</a></li>
 <li><a href="/sohnews/20231004/1942401.md">文睿：六个方向，一尊权力，遭到毁灭性打击，恐怖级别灾难杀入中南海</a></li>
+<li><a href="/headline/20231004/1942366.md">英媒曝解放军核潜艇遭困自挖陷阱 或有55官兵海难 中国官方曾斥谣言</a></li>
+<li><a href="/baitai/20231004/1942330.md">就是要人人自危，全民互撕</a></li>
+<li><a href="/cbnews/20231005/1942699.md">栽了！曝火箭军又有高阶将领自首,上任刚满一年</a></li>
+<li><a href="/baitai/20231004/1942324.md">吹响讨伐专制暴政轮回的号角</a></li>
+<li><a href="/sohnews/20231004/1942356.md">陈破空：快讯：众议长遭罢免！美国历史上首次。许家印被翻出，与栗战书王毅有染？毛左派发文：冻结私企财产。美东时间10月4日早8点30、即中港台10月4日晚8点30</a></li>
+<li><a href="/baitai/20231004/1942350.md">刘道玉：我是怎样识得易中天和邓晓芒的</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
 <li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20180725/976787.md" target="_blank">魔鬼在统治着我们的世界(20)：媒体篇</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
-<li><a href="/ccpdope/20220508/1730036.md" target="_blank">清末政界名人黎澍 入地府兼职判官</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20200309/948043.md" target="_blank">为了一次地震，冥界准备了整整五十年</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/bannedvideo/20210301/1495767.md" target="_blank">【馨香雅句】为何韩国越南兴起汉字复活</a></li>
 <li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20210723/1592176.md" target="_blank">认清中共谎言后 留学生从基督徒到法轮功修炼</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
 
 </ul>
 </div>
