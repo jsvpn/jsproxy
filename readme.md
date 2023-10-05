@@ -7,27 +7,27 @@
 
 <li><a href="/topimagenews/20231004/1942451.md">消费降级还想“松一下”？ 中国年轻人新招治疗精神内耗</a></li>
 <li><a href="/cbnews/20231005/1942699.md">栽了！曝火箭军又有高阶将领自首,上任刚满一年</a></li>
-<li><a href="/topimagenews/20231004/1942437.md">哈尔滨房子卖到南京去！“远征2100公里”成交量太惊人</a></li>
-<li><a href="/topimagenews/20231004/1942436.md">“摆烂就完事了” 陆年轻人内卷后躺平 无奈心声全说了</a></li>
-<li><a href="/cbnews/20231005/1942770.md">诡异:湖南婚车撞垃圾车6尸7命,新郎新娘伴娘全死了</a></li>
-<li><a href="/comments/20231004/1942413.md">小粉红美国大学吉祥物上喷漆庆中共国庆 隔日被恶搞回敬</a></li>
 <li><a href="/baitai/20231005/1942552.md">传汪洋 胡春华被查 与许家印被抓有关</a></li>
-<li><a href="/topimagenews/20231005/1942646.md">许家印成习近平“烫手山芋”？习近平抓人被暗嘲【阿波罗网报道】</a></li>
-<li><a href="/ssgc/20231004/1942404.md">从习近平“十一”招待会破例讲话谈起</a></li>
-<li><a href="/cbnews/20231005/1942675.md">〖兲朝浮世绘〗中共挖了个坑把自己人给埋了</a></li>
+<li><a href="/cbnews/20231005/1942770.md">诡异:湖南婚车撞垃圾车6尸7命,新郎新娘伴娘全死了</a></li>
+<li><a href="/topimagenews/20231004/1942437.md">哈尔滨房子卖到南京去！“远征2100公里”成交量太惊人</a></li>
+<li><a href="/comments/20231004/1942413.md">小粉红美国大学吉祥物上喷漆庆中共国庆 隔日被恶搞回敬</a></li>
+<li><a href="/topimagenews/20231004/1942436.md">“摆烂就完事了” 陆年轻人内卷后躺平 无奈心声全说了</a></li>
 <li><a href="/sohnews/20231004/1942427.md">一本曾经影响了大半中国人的书，却是谎言写成的洗脑宣传品，你读过《钢铁是怎样炼成的》吗？【历史真相】｜薇羽看世间 第754期</a></li>
+<li><a href="/topimagenews/20231005/1942646.md">许家印成习近平“烫手山芋”？习近平抓人被暗嘲【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20231005/1942675.md">〖兲朝浮世绘〗中共挖了个坑把自己人给埋了</a></li>
 <li><a href="/yule/20231005/1942779.md">范冰冰与董洁在法国聚餐 背2万的包包打扮低调</a></li>
 <li><a href="/sohnews/20231005/1942759.md">何止恒大歌舞团！整个恒大被打造成“行贿机器”！许家印们的豪奢超想像；许家印发家过程，有多少“常委”相助？多少贵人站台？！关于美国麦卡锡事件的三个观点，“少数綑绑多数”是根本难题｜新闻拍案惊奇 大宇</a></li>
-<li><a href="/sohnews/20231004/1942401.md">文睿：六个方向，一尊权力，遭到毁灭性打击，恐怖级别灾难杀入中南海</a></li>
-<li><a href="/baitai/20231005/1942716.md">他为何跟许家印结局不同？分析：因看透最关键一点</a></li>
+<li><a href="/topimagenews/20231005/1942580.md">精简20% ！中国砸“铁饭碗”开始了</a></li>
 <li><a href="/cbnews/20231005/1942741.md">宝马女马诺丈夫发文控诉：她骗钱骗房骗感情</a></li>
+<li><a href="/sohnews/20231005/1942613.md">6常委涉恒大案？许家印间谍叛国？“S亡榜单”出炉；借一亿提三千万，江湖文化极致奢靡【新闻看点 李沐阳10.4】</a></li>
+<li><a href="/baitai/20231005/1942716.md">他为何跟许家印结局不同？分析：因看透最关键一点</a></li>
 <li><a href="/cnnews/20231005/1942761.md">免费坐了20年头等舱，他把美国航空薅到破产…</a></li>
 <li><a href="/yule/20231005/1942815.md">53岁李嘉欣海边晒泳衣背影，网友惊呼：下垂了…</a></li>
-<li><a href="/topimagenews/20231005/1942580.md">精简20% ！中国砸“铁饭碗”开始了</a></li>
 <li><a href="/cnnews/20231005/1942772.md">高盛摩根大通异口同声：利率这么猛涨“要出事”</a></li>
-<li><a href="/cbnews/20231005/1942697.md">江峰：台海之战没打就输了，老天安排 #海鲲号 #台湾</a></li>
-<li><a href="/sohnews/20231005/1942613.md">6常委涉恒大案？许家印间谍叛国？“S亡榜单”出炉；借一亿提三千万，江湖文化极致奢靡【新闻看点 李沐阳10.4】</a></li>
+<li><a href="/cbnews/20231004/1942416.md">麦卡锡失去议长职务 众院下一步将发生什么</a></li>
 <li><a href="/comments/20231005/1942698.md">“兴坪”七人陨命，习近平七人危了？进坑丢命凶兆震动中央！陈凯歌《志愿军》遭拒看赔惨</a></li>
+<li><a href="/cbnews/20231005/1942697.md">江峰：台海之战没打就输了，老天安排 #海鲲号 #台湾</a></li>
+<li><a href="/ssgc/20231005/1942737.md">跌下天安门城楼的许家印</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
-<li><a href="/comments/20220506/1729215.md" target="_blank">法轮功奇迹：吸毒小伙轻松戒毒 生活巨变父母开心（真人照片）</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/comments/20230918/1935212.md" target="_blank">防止你的孩子不成功（4） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
+<li><a href="/funmedia/20210321/1509617.md" target="_blank">今世唐江山，前世陈明道，“再生人”回忆前世经历，找到前世家人</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
 <li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/topimagenews/20180530/950691.md" target="_blank">魔鬼在统治着我们的世界(11)：家庭篇(下)</a></li>
+<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
+<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
 
 </ul>
 </div>
