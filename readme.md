@@ -7,27 +7,27 @@
 
 <li><a href="/cbnews/20231004/1942385.md">中南海筹备大镇压 反惹祸上身？【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231004/1942451.md">消费降级还想“松一下”？ 中国年轻人新招治疗精神内耗</a></li>
-<li><a href="/baitai/20231004/1942378.md">给习添乱还是当局试水温？私营经济退场论后 中国现更恐怖言论</a></li>
 <li><a href="/cbnews/20231005/1942699.md">栽了！曝火箭军又有高阶将领自首,上任刚满一年</a></li>
 <li><a href="/topimagenews/20231004/1942437.md">哈尔滨房子卖到南京去！“远征2100公里”成交量太惊人</a></li>
 <li><a href="/topimagenews/20231004/1942436.md">“摆烂就完事了” 陆年轻人内卷后躺平 无奈心声全说了</a></li>
 <li><a href="/comments/20231004/1942413.md">小粉红美国大学吉祥物上喷漆庆中共国庆 隔日被恶搞回敬</a></li>
+<li><a href="/cbnews/20231005/1942770.md">诡异:湖南婚车撞垃圾车6尸7命,新郎新娘伴娘全死了</a></li>
 <li><a href="/topimagenews/20231005/1942646.md">许家印成习近平“烫手山芋”？习近平抓人被暗嘲【阿波罗网报道】</a></li>
 <li><a href="/ssgc/20231004/1942404.md">从习近平“十一”招待会破例讲话谈起</a></li>
 <li><a href="/headline/20231004/1942388.md">翘首等待秦刚回归的微博“饭圈”和中国外交官员的偶像化和娱乐化</a></li>
-<li><a href="/cbnews/20231005/1942770.md">诡异:湖南婚车撞垃圾车6尸7命,新郎新娘伴娘全死了</a></li>
 <li><a href="/cbnews/20231005/1942675.md">〖兲朝浮世绘〗中共挖了个坑把自己人给埋了</a></li>
 <li><a href="/sohnews/20231004/1942427.md">一本曾经影响了大半中国人的书，却是谎言写成的洗脑宣传品，你读过《钢铁是怎样炼成的》吗？【历史真相】｜薇羽看世间 第754期</a></li>
 <li><a href="/yule/20231005/1942779.md">范冰冰与董洁在法国聚餐 背2万的包包打扮低调</a></li>
-<li><a href="/headline/20231004/1942366.md">英媒曝解放军核潜艇遭困自挖陷阱 或有55官兵海难 中国官方曾斥谣言</a></li>
 <li><a href="/sohnews/20231004/1942401.md">文睿：六个方向，一尊权力，遭到毁灭性打击，恐怖级别灾难杀入中南海</a></li>
 <li><a href="/sohnews/20231005/1942759.md">何止恒大歌舞团！整个恒大被打造成“行贿机器”！许家印们的豪奢超想像；许家印发家过程，有多少“常委”相助？多少贵人站台？！关于美国麦卡锡事件的三个观点，“少数綑绑多数”是根本难题｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/baitai/20231005/1942552.md">传汪洋 胡春华被查 与许家印被抓有关</a></li>
 <li><a href="/cbnews/20231005/1942741.md">宝马女马诺丈夫发文控诉：她骗钱骗房骗感情</a></li>
-<li><a href="/cbnews/20231004/1942416.md">麦卡锡失去议长职务 众院下一步将发生什么</a></li>
-<li><a href="/topimagenews/20231004/1942435.md">荷包缩水 十一黄金周大陆出境游客锐减</a></li>
-<li><a href="/sohnews/20231005/1942613.md">6常委涉恒大案？许家印间谍叛国？“S亡榜单”出炉；借一亿提三千万，江湖文化极致奢靡【新闻看点 李沐阳10.4】</a></li>
+<li><a href="/cnnews/20231005/1942772.md">高盛摩根大通异口同声：利率这么猛涨“要出事”</a></li>
 <li><a href="/baitai/20231005/1942716.md">他为何跟许家印结局不同？分析：因看透最关键一点</a></li>
+<li><a href="/sohnews/20231005/1942613.md">6常委涉恒大案？许家印间谍叛国？“S亡榜单”出炉；借一亿提三千万，江湖文化极致奢靡【新闻看点 李沐阳10.4】</a></li>
+<li><a href="/cbnews/20231004/1942416.md">麦卡锡失去议长职务 众院下一步将发生什么</a></li>
+<li><a href="/cnnews/20231005/1942761.md">免费坐了20年头等舱，他把美国航空薅到破产…</a></li>
+<li><a href="/topimagenews/20231004/1942435.md">荷包缩水 十一黄金周大陆出境游客锐减</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231005/1942834.md" target="_blank">川普发布一张图，正式回应当议长的问题。建制派媒体头大，左媒不敢作声。民调显示，金里奇成议长热门人选。#罢免麦卡锡 #众议院议长 #川普</a></li>
 <li><a href="/cbnews/20231005/1942770.md" target="_blank">诡异:湖南婚车撞垃圾车6尸7命,新郎新娘伴娘全死了</a></li>
 <li><a href="/cbnews/20231005/1942741.md" target="_blank">宝马女马诺丈夫发文控诉：她骗钱骗房骗感情</a></li>
 <li><a href="/cbnews/20231005/1942699.md" target="_blank">栽了！曝火箭军又有高阶将领自首,上任刚满一年</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231004/1942264.md" target="_blank">华日：俄遭西方孤立后向东抱团 中共取得经略北极突破口</a></li>
 <li><a href="/cbnews/20231004/1942263.md" target="_blank">“输定了” 中共收到强硬警告</a></li>
 <li><a href="/cbnews/20231004/1942262.md" target="_blank">中国大陆性别失衡光棍多 越南人妻被拐卖当新娘</a></li>
-<li><a href="/cbnews/20231004/1942261.md" target="_blank">热搜被删…中国下一步关什么？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231005/1942834.md" target="_blank">川普发布一张图，正式回应当议长的问题。建制派媒体头大，左媒不敢作声。民调显示，金里奇成议长热门人选。#罢免麦卡锡 #众议院议长 #川普</a></li>
 <li><a href="/comments/20231005/1942826.md" target="_blank">中共火箭军装备部长传投案自首</a></li>
 <li><a href="/comments/20231005/1942825.md" target="_blank">中菲现新冲突 会触发美国干预的更大安全危机吗</a></li>
 <li><a href="/comments/20231005/1942804.md" target="_blank">到底是谁分裂中国？香港台湾··· 林松博士告诉您～</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231005/1942546.md" target="_blank">王赫：李强妻女被爆贪腐与中共内斗</a></li>
 <li><a href="/comments/20231005/1942545.md" target="_blank">秦时：恒大样本启示 共同富裕秒变共同债务</a></li>
 <li><a href="/comments/20231005/1942544.md" target="_blank">金言：跌下天安门城楼的许家印</a></li>
-<li><a href="/comments/20231005/1942486.md" target="_blank">李燕铭：两名高官查办赵乐际陕西窝案立功 在政法系统一路高升 中共中央政法委人事大洗牌 秘书长副秘书长全换人 王小洪公安部亲信转任政法委副秘书长 习连任后高层人事大洗牌（116） 习近平清洗刀把子（63） 围剿赵乐际（21）</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookonline/20131116/201055.md" target="_blank">《九评共产党》之二 评中国共产党是怎样起家的</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20220728/1764149.md" target="_blank">“君君臣臣，父父子子”，被曲解了两千多年的一句话</a></li>
-<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
-<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20210324/1511732.md" target="_blank">日本留学生严重花粉症不药而愈的奇迹</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20190517/1129285.md" target="_blank">修炼法轮功的芝大终身教授吴伟标 29岁获美国青年科学家总统奖</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20181209/1044543.md" target="_blank">中共道路是魔鬼的选择-系统揭秘共产党的起源</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
 
 </ul>
 </div>
