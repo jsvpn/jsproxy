@@ -13,20 +13,20 @@
 <li><a href="/sohnews/20231005/1942833.md">陈破空：悲剧！老习废了李强。李强废了国务院！女作家揭许家印大搞个人崇拜！意有所指？党媒承认官员大部躺平 美东时间10月4日早8点30、即中港台10月4日晚8点30</a></li>
 <li><a href="/ccpdope/20231005/1942871.md">分析：李强遭「暗算」 习近平岌岌可危</a></li>
 <li><a href="/sohnews/20231006/1943001.md">真假？网传汪洋胡春华涉恒大被查；习近平姐夫也传涉案，许家印或被灭口？！惊悚传言的背后，是有人先发制人；“迷笛”音乐节爆红，但不是因为音乐</a></li>
-<li><a href="/ccpdope/20231006/1942989.md">小笑话：习近平的新秘书太嫩</a></li>
 <li><a href="/yule/20231005/1942779.md">范冰冰与董洁在法国聚餐 背2万的包包打扮低调</a></li>
+<li><a href="/ccpdope/20231006/1942989.md">小笑话：习近平的新秘书太嫩</a></li>
 <li><a href="/sohnews/20231005/1942759.md">何止恒大歌舞团！整个恒大被打造成“行贿机器”！许家印们的豪奢超想像；许家印发家过程，有多少“常委”相助？多少贵人站台？！关于美国麦卡锡事件的三个观点，“少数綑绑多数”是根本难题｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20231006/1942942.md">中国要开始戳破房地产泡沫了 从这两点看出已迈出第一步</a></li>
-<li><a href="/cbnews/20231005/1942741.md">宝马女马诺丈夫发文控诉：她骗钱骗房骗感情</a></li>
 <li><a href="/cnnews/20231006/1943014.md">红色恐怖 惊爆中国要人人铁链直接到家 强制执行【阿波罗网报道】</a></li>
+<li><a href="/cbnews/20231005/1942741.md">宝马女马诺丈夫发文控诉：她骗钱骗房骗感情</a></li>
+<li><a href="/cnnews/20231006/1943027.md">华人注意：史上最严移民政策监控潮要来了</a></li>
 <li><a href="/cnnews/20231005/1942761.md">免费坐了20年头等舱，他把美国航空薅到破产…</a></li>
 <li><a href="/ccpdope/20231006/1942956.md">许家印案情牵涉高层内斗 分析：恐被灭口</a></li>
-<li><a href="/cnnews/20231006/1943027.md">华人注意：史上最严移民政策监控潮要来了</a></li>
 <li><a href="/sohnews/20231006/1942949.md">“网络为这句话爆破了 ⋯ 周润发：现在有很多限制 ⋯ 香港电影人很难呀”《今日点击》（10/05/23）</a></li>
 <li><a href="/cnnews/20231005/1942866.md">路透：中国政府要恒大拥有者承担政治责任</a></li>
 <li><a href="/ssgc/20231005/1942853.md">英情报证实核潜艇出事 令中南海头疼</a></li>
-<li><a href="/cnnews/hknews/20231005/1942785.md">火力全开！赖清德罕见视频全网疯传！网友大声叫好：太帅了！【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20231006/1943026.md">伊万卡为97岁外婆庆生:拍照超有少女感,气质清新</a></li>
+<li><a href="/cnnews/hknews/20231005/1942785.md">火力全开！赖清德罕见视频全网疯传！网友大声叫好：太帅了！【阿波罗网报道】</a></li>
 <li><a href="/comments/20231005/1942834.md">川普发布一张图，正式回应当议长的问题。建制派媒体头大，左媒不敢作声。民调显示，金里奇成议长热门人选。#罢免麦卡锡 #众议院议长 #川普</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/comments/20230228/1854345.md" target="_blank">科学发现：宇宙是轮回的 被设计出来的</a></li>
-<li><a href="/comments/20210720/1514058.md" target="_blank">修炼法轮功 获“女铁人三项赛”第三名</a></li>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/comments/20230301/1854831.md" target="_blank">一位中国商人的神韵观后感：这种感觉我从来没有过</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/lifebaike/20180921/1001202.md" target="_blank">马克思撒旦教卖玩偶 令其女儿汗毛倒竖</a></li>
+<li><a href="/comments/20220503/1727836.md" target="_blank">圣经与轮回-所有希伯来与基督教的经书支持轮回转世</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/baitai/20200711/1359005.md" target="_blank">恐怖：中共悄悄实施新的保甲制-15分钟生活圈</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
 <li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20201015/1414242.md" target="_blank">打坐中，我看到了庞贝城覆灭的场景</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
 
 </ul>
 </div>
