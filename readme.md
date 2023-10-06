@@ -14,20 +14,20 @@
 <li><a href="/ccpdope/20231006/1942956.md">许家印案情牵涉高层内斗 分析：恐被灭口</a></li>
 <li><a href="/cnnews/20231006/1943027.md">华人注意：史上最严移民政策监控潮要来了</a></li>
 <li><a href="/comments/20231006/1943174.md">许家印引爆党中央大雷：除汪洋胡春华，习近平要下狠手清君侧？梁振英吊打习语录，表忠变报复？</a></li>
-<li><a href="/cnnews/20231006/1943014.md">红色恐怖 惊爆中国要人人铁链直接到家 强制执行【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231006/1943214.md">网络炸锅！他竟然“主张全面取消所有人退休金”【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20231006/1943014.md">红色恐怖 惊爆中国要人人铁链直接到家 强制执行【阿波罗网报道】</a></li>
 <li><a href="/cnnews/20231005/1942866.md">路透：中国政府要恒大拥有者承担政治责任</a></li>
 <li><a href="/funmedia/20231006/1943097.md">莫言：凡是人品越差，就越爱说这3句话，你一定要小心面对</a></li>
 <li><a href="/sohnews/20231006/1942949.md">“网络为这句话爆破了 ⋯ 周润发：现在有很多限制 ⋯ 香港电影人很难呀”《今日点击》（10/05/23）</a></li>
+<li><a href="/cnnews/20231006/1943265.md">忘关镜头全程放送，书记和主任不雅视频疯传…</a></li>
 <li><a href="/topimagenews/20231006/1943129.md">中共一番话大翻车！“精神病医院主任”评：现在骂自己都这么狠吗【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20231006/1943055.md">融创暴雷，孙宏斌将成为第二个许家印！商界大佬当面装孙子背后捅刀子的江湖往事！他们都是中共权贵的白手套！柳传志把他送进大牢又把他扶上宝座！接盘侠孙宏斌的狗血人生！‘新闻最嘲点 姜光宇’2023.1005</a></li>
 <li><a href="/topimagenews/20231006/1943128.md">【微博精粹】每小时亏5000万 从商朝开始亏到现在</a></li>
-<li><a href="/cnnews/20231006/1943265.md">忘关镜头全程放送，书记和主任不雅视频疯传…</a></li>
 <li><a href="/cnnews/20231006/1943026.md">伊万卡为97岁外婆庆生:拍照超有少女感,气质清新</a></li>
+<li><a href="/topimagenews/20231006/1943259.md">看来，必须要制造一场金融危机了</a></li>
 <li><a href="/ccpdope/20231006/1943125.md">中共政局越发诡异 一场腥风血雨不可避免了</a></li>
 <li><a href="/cnnews/20231006/1943135.md">监狱里的首富，上个厕所就没了</a></li>
-<li><a href="/health/20231006/1943067.md">科学家惊人发现：百病不侵的秘密</a></li>
-<li><a href="/sohnews/20231006/1942972.md">“川普支持率冲天爆棚：65% 美国政坛发生着惊人改变 ⋯！”No.01（10/05/23）</a></li>
+<li><a href="/baitai/20231006/1943281.md">诺贝尔奖得主发现：决定人寿命长短的不是吃和运动</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,11 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231006/1943351.md" target="_blank">印度神童阿南德：预言中国大水灾</a></li>
+<li><a href="/comments/20231006/1943350.md" target="_blank">印度神童阿南德：真实水灾</a></li>
+<li><a href="/comments/20231006/1943349.md" target="_blank">印度神童阿南德：神童的儿童时期</a></li>
+<li><a href="/comments/20231006/1943348.md" target="_blank">印度神童阿南德：亚洲将发生大地震？</a></li>
+<li><a href="/cbnews/20231006/1943336.md" target="_blank">王军涛：中共特务五花八门 世界之最(2)</a></li>
 <li><a href="/comments/20231006/1943318.md" target="_blank">阿南德最新预言！躲避灾难，做一件事！印度神童：土星凌日！地震马上就来？涿州洪水，已经被证实了⋯｜ #未解之谜 扶摇</a></li>
 <li><a href="/cbnews/20231006/1943310.md" target="_blank">〖兲朝浮世绘〗南华早报大胆 难道以为习总是吓大的？</a></li>
 <li><a href="/comments/20231006/1943307.md" target="_blank">川普答应担任短期议长，下周二到国会山。拜登真的怕了？边境政策大逆转。川普要求道歉！#边境墙 #拜登 #川普</a></li>
@@ -55,11 +60,6 @@
 <li><a href="/cbnews/20231005/1942741.md" target="_blank">宝马女马诺丈夫发文控诉：她骗钱骗房骗感情</a></li>
 <li><a href="/cbnews/20231005/1942699.md" target="_blank">栽了！曝火箭军又有高阶将领自首,上任刚满一年</a></li>
 <li><a href="/cbnews/20231005/1942697.md" target="_blank">江峰：台海之战没打就输了，老天安排 #海鲲号 #台湾</a></li>
-<li><a href="/cbnews/20231005/1942675.md" target="_blank">〖兲朝浮世绘〗中共挖了个坑把自己人给埋了</a></li>
-<li><a href="/comments/20231005/1942674.md" target="_blank">Scalise和Jordan，谁将问鼎议长【方伟时间-20231004】</a></li>
-<li><a href="/cbnews/20231005/1942584.md" target="_blank">习近平的“十年，一万亿”</a></li>
-<li><a href="/cbnews/20231005/1942582.md" target="_blank">中国连续九年倒数第一</a></li>
-<li><a href="/cbnews/20231005/1942581.md" target="_blank">新一代的中国废柴们</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,14 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231006/1943351.md" target="_blank">印度神童阿南德：预言中国大水灾</a></li>
+<li><a href="/comments/20231006/1943350.md" target="_blank">印度神童阿南德：真实水灾</a></li>
+<li><a href="/comments/20231006/1943349.md" target="_blank">印度神童阿南德：神童的儿童时期</a></li>
+<li><a href="/comments/20231006/1943348.md" target="_blank">印度神童阿南德：亚洲将发生大地震？</a></li>
+<li><a href="/comments/20231006/1943334.md" target="_blank">YouTube被中共染红？“辱包”频道因“霸凌”遭永久封锁</a></li>
+<li><a href="/comments/20231006/1943333.md" target="_blank">南阳迷笛音乐节“大量财物遭窃” 竟是村民趁乱洗劫</a></li>
+<li><a href="/comments/20231006/1943330.md" target="_blank">新时代丐帮？中国躺平歌“我在财神殿里长跪不起”被禁</a></li>
+<li><a href="/comments/20231006/1943329.md" target="_blank">【新闻拍案惊奇】许家印贵人多？五大家族浮出水面</a></li>
 <li><a href="/comments/20231006/1943318.md" target="_blank">阿南德最新预言！躲避灾难，做一件事！印度神童：土星凌日！地震马上就来？涿州洪水，已经被证实了⋯｜ #未解之谜 扶摇</a></li>
 <li><a href="/comments/20231006/1943307.md" target="_blank">川普答应担任短期议长，下周二到国会山。拜登真的怕了？边境政策大逆转。川普要求道歉！#边境墙 #拜登 #川普</a></li>
 <li><a href="/comments/20231006/1943297.md" target="_blank">仍在狱中！伊朗女权斗士穆哈玛迪获 2023诺贝尔和平奖</a></li>
@@ -114,14 +122,6 @@
 <li><a href="/comments/20231006/1942974.md" target="_blank">【杜耀明评论】特区政府经济功能报废 领导班子须减一截人工</a></li>
 <li><a href="/comments/20231006/1942969.md" target="_blank">专栏 &#8211; 军事无禁区：世界军火市场新动向－韩国、土耳其异军突起</a></li>
 <li><a href="/comments/20231006/1942950.md" target="_blank">议长之变 方伟和天亮意见相左 隔空约架</a></li>
-<li><a href="/comments/20231006/1942947.md" target="_blank">时事大家谈：许家印被抓是因为“犯了大忌”？</a></li>
-<li><a href="/comments/20231006/1942946.md" target="_blank">时事大家谈：美众议长被罢免，如何透过现象看本质？</a></li>
-<li><a href="/comments/20231005/1942907.md" target="_blank">【独家重磅】李燕铭：许家印恒大窝案牵连温家宝李克强李强三任总理 内幕揭秘 曾庆红在官场私下散布倒习檄文 许家印给习写投名状信表白与常委家族关系 习反击曾庆红李克强连环政变 与元老你死我活内斗大戏才刚刚开始 中南海政变与反政变（137） 习近平决战江曾（136） 习近平连任后大清洗（97） 钱袋子争夺战（62） 许家印恒大危机深度内幕（45） 习近平李克强明争暗斗内幕（116）</a></li>
-<li><a href="/comments/20231005/1942897.md" target="_blank">时事大家谈：美众议长被罢免，如何透过现象看本质？许家印被抓是因为“犯了大忌”？</a></li>
-<li><a href="/comments/20231005/1942884.md" target="_blank">文昭：中国是走向军国主义，还是早就是军国主义？</a></li>
-<li><a href="/comments/20231005/1942858.md" target="_blank">【梁京评论】习近平权斗有术、治国无能的政治灾难（下）</a></li>
-<li><a href="/comments/20231005/1942834.md" target="_blank">川普发布一张图，正式回应当议长的问题。建制派媒体头大，左媒不敢作声。民调显示，金里奇成议长热门人选。#罢免麦卡锡 #众议院议长 #川普</a></li>
-<li><a href="/comments/20231005/1942826.md" target="_blank">中共火箭军装备部长传投案自首</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
-<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
-<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/lifebaike/20210407/1521258.md" target="_blank">秦始皇不是暴君是好皇帝，焚书坑儒都是误传</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
 <li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
-<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
-<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
-<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
-<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
 <li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
 
 </ul>
 </div>
