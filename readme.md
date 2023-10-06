@@ -14,13 +14,13 @@
 <li><a href="/cnnews/20231006/1943027.md">华人注意：史上最严移民政策监控潮要来了</a></li>
 <li><a href="/comments/20231006/1943174.md">许家印引爆党中央大雷：除汪洋胡春华，习近平要下狠手清君侧？梁振英吊打习语录，表忠变报复？</a></li>
 <li><a href="/cnnews/20231006/1943014.md">红色恐怖 惊爆中国要人人铁链直接到家 强制执行【阿波罗网报道】</a></li>
-<li><a href="/baitai/20231006/1943281.md">诺贝尔奖得主发现：决定人寿命长短的不是吃和运动</a></li>
 <li><a href="/cnnews/20231006/1943301.md">梁振英暗示习近平是亡国之君 网友大惊点赞</a></li>
-<li><a href="/topimagenews/20231006/1943214.md">网络炸锅！他竟然“主张全面取消所有人退休金”【阿波罗网报道】</a></li>
+<li><a href="/baitai/20231006/1943281.md">诺贝尔奖得主发现：决定人寿命长短的不是吃和运动</a></li>
 <li><a href="/funmedia/20231006/1943097.md">莫言：凡是人品越差，就越爱说这3句话，你一定要小心面对</a></li>
+<li><a href="/topimagenews/20231006/1943214.md">网络炸锅！他竟然“主张全面取消所有人退休金”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231006/1943259.md">看来，必须要制造一场金融危机了</a></li>
-<li><a href="/cbnews/20231006/1943310.md">〖兲朝浮世绘〗南华早报大胆 难道以为习总是吓大的？</a></li>
 <li><a href="/baitai/20231006/1943313.md">视像会议后未关视频 山东潍坊男女官员淫乱画面曝光 官方回应</a></li>
+<li><a href="/cbnews/20231006/1943310.md">〖兲朝浮世绘〗南华早报大胆 难道以为习总是吓大的？</a></li>
 <li><a href="/topimagenews/20231006/1943129.md">中共一番话大翻车！“精神病医院主任”评：现在骂自己都这么狠吗【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231006/1943128.md">【微博精粹】每小时亏5000万 从商朝开始亏到现在</a></li>
 <li><a href="/sohnews/20231006/1943055.md">融创暴雷，孙宏斌将成为第二个许家印！商界大佬当面装孙子背后捅刀子的江湖往事！他们都是中共权贵的白手套！柳传志把他送进大牢又把他扶上宝座！接盘侠孙宏斌的狗血人生！‘新闻最嘲点 姜光宇’2023.1005</a></li>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231007/1943453.md" target="_blank">“年轻人为什么不再看新闻联播了？”遭知乎删除</a></li>
 <li><a href="/comments/20231007/1943434.md" target="_blank">许家印“贵人”直通中南海</a></li>
 <li><a href="/comments/20231007/1943433.md" target="_blank">剧情突然反转 拜登政府宣布建边境墙</a></li>
 <li><a href="/comments/20231006/1943398.md" target="_blank">从白澳变成另类种族特权？ ——对公投“Yes”论据之质疑</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231006/1943174.md" target="_blank">许家印引爆党中央大雷：除汪洋胡春华，习近平要下狠手清君侧？梁振英吊打习语录，表忠变报复？</a></li>
 <li><a href="/comments/20231006/1943143.md" target="_blank">越境“洪水”太大 拜登松口要建墙【方伟时间-20231005】</a></li>
 <li><a href="/comments/20231006/1943112.md" target="_blank">专访神韵演员王琛：干净世界首播！“世界超级演员”联袂演出背后的故事</a></li>
-<li><a href="/comments/20231006/1943108.md" target="_blank">程翔：认识中共的“白蚁式”渗透</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
-<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
 <li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20230513/1884082.md" target="_blank">陈光诚: 法轮功的存在 使中共无法立足 【辛恬面对面-2023年5月13日】</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/comments/20220831/1778527.md" target="_blank">中国共产党愚蠢而凶暴，即将土崩瓦解</a></li>
+<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
+<li><a href="/bannedvideo/20220228/1697982.md" target="_blank">韩服VS汉服 为何如此相像 一</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
+<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
+<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
+<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
 
 </ul>
 </div>
