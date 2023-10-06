@@ -7,26 +7,26 @@
 
 <li><a href="/cbnews/20231005/1942770.md">诡异:湖南婚车撞垃圾车6尸7命,新郎新娘伴娘全死了</a></li>
 <li><a href="/yule/20231005/1942815.md">53岁李嘉欣海边晒泳衣背影，网友惊呼：下垂了…</a></li>
-<li><a href="/topimagenews/20231005/1942646.md">许家印成习近平“烫手山芋”？习近平抓人被暗嘲【阿波罗网报道】</a></li>
 <li><a href="/comments/20231005/1942826.md">中共火箭军装备部长传投案自首</a></li>
 <li><a href="/cbnews/20231005/1942675.md">〖兲朝浮世绘〗中共挖了个坑把自己人给埋了</a></li>
 <li><a href="/cbnews/20231005/1942699.md">栽了！曝火箭军又有高阶将领自首,上任刚满一年</a></li>
 <li><a href="/sohnews/20231005/1942833.md">陈破空：悲剧！老习废了李强。李强废了国务院！女作家揭许家印大搞个人崇拜！意有所指？党媒承认官员大部躺平 美东时间10月4日早8点30、即中港台10月4日晚8点30</a></li>
 <li><a href="/ccpdope/20231005/1942871.md">分析：李强遭「暗算」 习近平岌岌可危</a></li>
-<li><a href="/yule/20231005/1942779.md">范冰冰与董洁在法国聚餐 背2万的包包打扮低调</a></li>
-<li><a href="/topimagenews/20231006/1943003.md">北京消息：鱼雷自爆酿大祸 数十名共军高层要惨</a></li>
 <li><a href="/topimagenews/20231006/1943013.md">几家央企已经发不起工资了</a></li>
+<li><a href="/topimagenews/20231006/1943003.md">北京消息：鱼雷自爆酿大祸 数十名共军高层要惨</a></li>
+<li><a href="/yule/20231005/1942779.md">范冰冰与董洁在法国聚餐 背2万的包包打扮低调</a></li>
 <li><a href="/sohnews/20231005/1942759.md">何止恒大歌舞团！整个恒大被打造成“行贿机器”！许家印们的豪奢超想像；许家印发家过程，有多少“常委”相助？多少贵人站台？！关于美国麦卡锡事件的三个观点，“少数綑绑多数”是根本难题｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20231006/1942942.md">中国要开始戳破房地产泡沫了 从这两点看出已迈出第一步</a></li>
+<li><a href="/ccpdope/20231006/1942989.md">小笑话：习近平的新秘书太嫩</a></li>
 <li><a href="/cbnews/20231005/1942741.md">宝马女马诺丈夫发文控诉：她骗钱骗房骗感情</a></li>
+<li><a href="/sohnews/20231006/1943001.md">真假？网传汪洋胡春华涉恒大被查；习近平姐夫也传涉案，许家印或被灭口？！惊悚传言的背后，是有人先发制人；“迷笛”音乐节爆红，但不是因为音乐</a></li>
 <li><a href="/sohnews/20231006/1942949.md">“网络为这句话爆破了 ⋯ 周润发：现在有很多限制 ⋯ 香港电影人很难呀”《今日点击》（10/05/23）</a></li>
 <li><a href="/cnnews/20231005/1942761.md">免费坐了20年头等舱，他把美国航空薅到破产…</a></li>
 <li><a href="/cnnews/20231005/1942866.md">路透：中国政府要恒大拥有者承担政治责任</a></li>
-<li><a href="/ccpdope/20231006/1942989.md">小笑话：习近平的新秘书太嫩</a></li>
-<li><a href="/ccpdope/20231006/1942956.md">许家印案情牵涉高层内斗 分析：恐被灭口</a></li>
 <li><a href="/ssgc/20231005/1942853.md">英情报证实核潜艇出事 令中南海头疼</a></li>
-<li><a href="/sohnews/20231006/1943001.md">真假？网传汪洋胡春华涉恒大被查；习近平姐夫也传涉案，许家印或被灭口？！惊悚传言的背后，是有人先发制人；“迷笛”音乐节爆红，但不是因为音乐</a></li>
+<li><a href="/ccpdope/20231006/1942956.md">许家印案情牵涉高层内斗 分析：恐被灭口</a></li>
 <li><a href="/cnnews/hknews/20231005/1942785.md">火力全开！赖清德罕见视频全网疯传！网友大声叫好：太帅了！【阿波罗网报道】</a></li>
+<li><a href="/comments/20231005/1942698.md">“兴坪”七人陨命，习近平七人危了？进坑丢命凶兆震动中央！陈凯歌《志愿军》遭拒看赔惨</a></li>
 <li><a href="/cnnews/20231005/1942772.md">高盛摩根大通异口同声：利率这么猛涨“要出事”</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231006/1943108.md" target="_blank">程翔：认识中共的“白蚁式”渗透</a></li>
+<li><a href="/comments/20231006/1943107.md" target="_blank">陈家煜：让共产党死在自己的集体经济手里</a></li>
+<li><a href="/comments/20231006/1943106.md" target="_blank">天亮时分：核潜艇沉没，数十将领遭军委调查；拜登移民政策大逆转，开始建墙，能相信他吗？激辩方伟后续（政论天下第1127集 20231005）天亮时分</a></li>
 <li><a href="/comments/20231006/1943099.md" target="_blank">洪门大佬一生被骗 死后遗孀秘密改嫁造皮带刑处决</a></li>
 <li><a href="/comments/20231006/1943071.md" target="_blank">论中共经济的五大特征</a></li>
 <li><a href="/comments/20231006/1943021.md" target="_blank">吴嘉隆解读：恒大倒下，房地产崩溃将至？中国经济会像日本一样失落30年？｜#方菲时间</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20231005/1942668.md" target="_blank">菁英论坛:适逢苏联寿期 习反常发布十一讲话</a></li>
 <li><a href="/comments/20231005/1942640.md" target="_blank">404: 年轻人为什么不再看新闻联播了？</a></li>
 <li><a href="/comments/20231005/1942639.md" target="_blank">许氏帝国坍塌，某些权威机构不出来走几步吗？</a></li>
-<li><a href="/comments/20231005/1942638.md" target="_blank">著名刑法学教授劳东燕加拿大遭遇电诈，网友：中国人只骗中国人</a></li>
-<li><a href="/comments/20231005/1942630.md" target="_blank">天亮时分：恒大崩塌，砸倒汪洋胡春华？中纪委介入！美议长罢免後续看点，众院共和党要开除盖茨；约架方伟，辩论麦卡锡罢免案（政论天下第1126集 20231004）天亮时分</a></li>
-<li><a href="/comments/20231005/1942621.md" target="_blank">文建辉：朝鲜风云：中共国满盘皆输</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
 <li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/cbnews/20220514/1732764.md" target="_blank">国家主席找他看病 著名武术大师26年的修炼体会</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
+<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
+<li><a href="/comments/20200926/1403542.md" target="_blank">六四中他保护师生 后修炼法轮功铸就不畏强权的丰碑</a></li>
+<li><a href="/funmedia/20210802/1598610.md" target="_blank">故事很短，教你不再生气</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
+<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
 
 </ul>
 </div>
