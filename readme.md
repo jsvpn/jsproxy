@@ -12,22 +12,22 @@
 <li><a href="/ccpdope/20231006/1942989.md">小笑话：习近平的新秘书太嫩</a></li>
 <li><a href="/cnnews/20231006/1942942.md">中国要开始戳破房地产泡沫了 从这两点看出已迈出第一步</a></li>
 <li><a href="/ccpdope/20231006/1942956.md">许家印案情牵涉高层内斗 分析：恐被灭口</a></li>
-<li><a href="/comments/20231006/1943174.md">许家印引爆党中央大雷：除汪洋胡春华，习近平要下狠手清君侧？梁振英吊打习语录，表忠变报复？</a></li>
 <li><a href="/cnnews/20231006/1943027.md">华人注意：史上最严移民政策监控潮要来了</a></li>
+<li><a href="/comments/20231006/1943174.md">许家印引爆党中央大雷：除汪洋胡春华，习近平要下狠手清君侧？梁振英吊打习语录，表忠变报复？</a></li>
 <li><a href="/cnnews/20231006/1943014.md">红色恐怖 惊爆中国要人人铁链直接到家 强制执行【阿波罗网报道】</a></li>
-<li><a href="/funmedia/20231006/1943097.md">莫言：凡是人品越差，就越爱说这3句话，你一定要小心面对</a></li>
-<li><a href="/cnnews/20231005/1942866.md">路透：中国政府要恒大拥有者承担政治责任</a></li>
 <li><a href="/topimagenews/20231006/1943214.md">网络炸锅！他竟然“主张全面取消所有人退休金”【阿波罗网报道】</a></li>
+<li><a href="/cnnews/20231005/1942866.md">路透：中国政府要恒大拥有者承担政治责任</a></li>
+<li><a href="/funmedia/20231006/1943097.md">莫言：凡是人品越差，就越爱说这3句话，你一定要小心面对</a></li>
 <li><a href="/sohnews/20231006/1942949.md">“网络为这句话爆破了 ⋯ 周润发：现在有很多限制 ⋯ 香港电影人很难呀”《今日点击》（10/05/23）</a></li>
-<li><a href="/ssgc/20231005/1942853.md">英情报证实核潜艇出事 令中南海头疼</a></li>
 <li><a href="/topimagenews/20231006/1943129.md">中共一番话大翻车！“精神病医院主任”评：现在骂自己都这么狠吗【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20231006/1943055.md">融创暴雷，孙宏斌将成为第二个许家印！商界大佬当面装孙子背后捅刀子的江湖往事！他们都是中共权贵的白手套！柳传志把他送进大牢又把他扶上宝座！接盘侠孙宏斌的狗血人生！‘新闻最嘲点 姜光宇’2023.1005</a></li>
 <li><a href="/topimagenews/20231006/1943128.md">【微博精粹】每小时亏5000万 从商朝开始亏到现在</a></li>
+<li><a href="/cnnews/20231006/1943265.md">忘关镜头全程放送，书记和主任不雅视频疯传…</a></li>
 <li><a href="/cnnews/20231006/1943026.md">伊万卡为97岁外婆庆生:拍照超有少女感,气质清新</a></li>
 <li><a href="/ccpdope/20231006/1943125.md">中共政局越发诡异 一场腥风血雨不可避免了</a></li>
 <li><a href="/cnnews/20231006/1943135.md">监狱里的首富，上个厕所就没了</a></li>
 <li><a href="/health/20231006/1943067.md">科学家惊人发现：百病不侵的秘密</a></li>
-<li><a href="/cnnews/20231006/1943265.md">忘关镜头全程放送，书记和主任不雅视频疯传…</a></li>
+<li><a href="/sohnews/20231006/1942972.md">“川普支持率冲天爆棚：65% 美国政坛发生着惊人改变 ⋯！”No.01（10/05/23）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/comments/20200621/1348067.md" target="_blank">一个世纪的谎言，巨人的真相应当大白于天下</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/tculture/20121025/73065.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（上部）</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20200704/1355375.md" target="_blank">死亡只是幻觉？着名科学家用能量学说解释：人不会真死</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20220516/1733397.md" target="_blank">哈耶克——终结乌托邦的先知</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
 
 </ul>
 </div>
