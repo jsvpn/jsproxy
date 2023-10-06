@@ -11,23 +11,23 @@
 <li><a href="/ccpdope/20231006/1942989.md">小笑话：习近平的新秘书太嫩</a></li>
 <li><a href="/baitai/20231006/1943294.md">尴尬！习近平甩袖走人 李强接棒出席这样的亚运闭幕式</a></li>
 <li><a href="/cnnews/20231006/1943265.md">忘关镜头全程放送，书记和主任不雅视频疯传…</a></li>
-<li><a href="/ccpdope/20231006/1942956.md">许家印案情牵涉高层内斗 分析：恐被灭口</a></li>
 <li><a href="/cnnews/20231006/1943027.md">华人注意：史上最严移民政策监控潮要来了</a></li>
-<li><a href="/cnnews/20231006/1943014.md">红色恐怖 惊爆中国要人人铁链直接到家 强制执行【阿波罗网报道】</a></li>
 <li><a href="/comments/20231006/1943174.md">许家印引爆党中央大雷：除汪洋胡春华，习近平要下狠手清君侧？梁振英吊打习语录，表忠变报复？</a></li>
+<li><a href="/cnnews/20231006/1943014.md">红色恐怖 惊爆中国要人人铁链直接到家 强制执行【阿波罗网报道】</a></li>
 <li><a href="/baitai/20231006/1943281.md">诺贝尔奖得主发现：决定人寿命长短的不是吃和运动</a></li>
 <li><a href="/cnnews/20231006/1943301.md">梁振英暗示习近平是亡国之君 网友大惊点赞</a></li>
 <li><a href="/topimagenews/20231006/1943214.md">网络炸锅！他竟然“主张全面取消所有人退休金”【阿波罗网报道】</a></li>
 <li><a href="/funmedia/20231006/1943097.md">莫言：凡是人品越差，就越爱说这3句话，你一定要小心面对</a></li>
 <li><a href="/topimagenews/20231006/1943259.md">看来，必须要制造一场金融危机了</a></li>
 <li><a href="/cbnews/20231006/1943310.md">〖兲朝浮世绘〗南华早报大胆 难道以为习总是吓大的？</a></li>
+<li><a href="/baitai/20231006/1943313.md">视像会议后未关视频 山东潍坊男女官员淫乱画面曝光 官方回应</a></li>
 <li><a href="/topimagenews/20231006/1943129.md">中共一番话大翻车！“精神病医院主任”评：现在骂自己都这么狠吗【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231006/1943128.md">【微博精粹】每小时亏5000万 从商朝开始亏到现在</a></li>
 <li><a href="/sohnews/20231006/1943055.md">融创暴雷，孙宏斌将成为第二个许家印！商界大佬当面装孙子背后捅刀子的江湖往事！他们都是中共权贵的白手套！柳传志把他送进大牢又把他扶上宝座！接盘侠孙宏斌的狗血人生！‘新闻最嘲点 姜光宇’2023.1005</a></li>
-<li><a href="/baitai/20231006/1943313.md">视像会议后未关视频 山东潍坊男女官员淫乱画面曝光 官方回应</a></li>
 <li><a href="/cnnews/20231006/1943135.md">监狱里的首富，上个厕所就没了</a></li>
 <li><a href="/ccpdope/20231006/1943125.md">中共政局越发诡异 一场腥风血雨不可避免了</a></li>
 <li><a href="/cnnews/20231006/1943026.md">伊万卡为97岁外婆庆生:拍照超有少女感,气质清新</a></li>
+<li><a href="/baitai/20231006/1943188.md">习派内斗激烈？李强老二地位被取代 瓦格纳高价买中国情报卫星 兵变时曾使用【国际风云】</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230917/1933753.md" target="_blank">防止你的孩子不成功（2） &#8211;教育避坑指南</a></li>
-<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
-<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
-<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
-<li><a href="/comments/20220806/1768236.md" target="_blank">退出中共党团队后为什么感觉很轻松？</a></li>
-<li><a href="/comments/20210630/1485911.md" target="_blank">付费翻墙速度快 高效省时敏感期不中断</a></li>
-<li><a href="/tculture/20231002/1941287.md" target="_blank">嗔恨心危害极大，如何化解？</a></li>
-<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
 <li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
-<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
+<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
+<li><a href="/comments/20190807/1170993.md" target="_blank">越南空军一武术教练修炼法轮功重拾健康</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
+<li><a href="/tculture/20121025/73064.md" target="_blank">历史的天空：李大师讲法班另外空间所见</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/tculture/xiulian/20160303/508938.md" target="_blank">李嗣涔 特异功能大揭秘（下）寻找诸神的网站</a></li>
+<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
+<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/bannedvideo/20220502/1727317.md" target="_blank">他将中国文化带到琉球二</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
 
 </ul>
 </div>
