@@ -9,15 +9,14 @@
 <li><a href="/baitai/20231006/1943294.md">尴尬！习近平甩袖走人 李强接棒出席这样的亚运闭幕式</a></li>
 <li><a href="/comments/20231006/1943174.md">许家印引爆党中央大雷：除汪洋胡春华，习近平要下狠手清君侧？梁振英吊打习语录，表忠变报复？</a></li>
 <li><a href="/funmedia/20231006/1943097.md">莫言：凡是人品越差，就越爱说这3句话，你一定要小心面对</a></li>
+<li><a href="/cnnews/20231006/1943301.md">梁振英暗示习近平是亡国之君 网友大惊点赞</a></li>
 <li><a href="/baitai/20231006/1943281.md">诺贝尔奖得主发现：决定人寿命长短的不是吃和运动</a></li>
 <li><a href="/topimagenews/20231006/1943214.md">网络炸锅！他竟然“主张全面取消所有人退休金”【阿波罗网报道】</a></li>
-<li><a href="/cnnews/20231006/1943301.md">梁振英暗示习近平是亡国之君 网友大惊点赞</a></li>
 <li><a href="/baitai/20231006/1943313.md">视像会议后未关视频 山东潍坊男女官员淫乱画面曝光 官方回应</a></li>
 <li><a href="/topimagenews/20231006/1943259.md">看来，必须要制造一场金融危机了</a></li>
 <li><a href="/cbnews/20231006/1943310.md">〖兲朝浮世绘〗南华早报大胆 难道以为习总是吓大的？</a></li>
 <li><a href="/topimagenews/20231006/1943129.md">中共一番话大翻车！“精神病医院主任”评：现在骂自己都这么狠吗【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231006/1943128.md">【微博精粹】每小时亏5000万 从商朝开始亏到现在</a></li>
-<li><a href="/sohnews/20231006/1943055.md">融创暴雷，孙宏斌将成为第二个许家印！商界大佬当面装孙子背后捅刀子的江湖往事！他们都是中共权贵的白手套！柳传志把他送进大牢又把他扶上宝座！接盘侠孙宏斌的狗血人生！‘新闻最嘲点 姜光宇’2023.1005</a></li>
 <li><a href="/cnnews/20231006/1943135.md">监狱里的首富，上个厕所就没了</a></li>
 <li><a href="/ccpdope/20231006/1943125.md">中共政局越发诡异 一场腥风血雨不可避免了</a></li>
 <li><a href="/baitai/20231006/1943188.md">习派内斗激烈？李强老二地位被取代 瓦格纳高价买中国情报卫星 兵变时曾使用【国际风云】</a></li>
@@ -27,6 +26,7 @@
 <li><a href="/sohnews/20231006/1943278.md">香港进入僵尸经济时代！百业萧条，一业兴旺，最终结局是亚洲最大难民营｜政经孙老师 Mr. Sun Official</a></li>
 <li><a href="/finance/20231006/1943261.md">这就是中国经济萎靡的根源！已经走到了这条路的尽头</a></li>
 <li><a href="/ssgc/20231006/1943089.md">〖微博谈〗但我懂一点社会主义</a></li>
+<li><a href="/comments/20231007/1943434.md">许家印“贵人”直通中南海</a></li>
 <li><a href="/sohnews/20231006/1943203.md">恒大总部神秘“42层”！只有许家印和少数人能进；恒大欠了2.4万亿！专家指钜款四大走向；许有被“灭口”之忧，大连实德徐明是先例？北京“八一大楼”被称“凶宅”｜新闻拍案惊奇 大宇</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
+<li><a href="/topimagenews/20180527/948714.md" target="_blank">魔鬼在统治着我们的世界(8)：渗透西方(下)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/cnnews/aboluonews/20150422/388322.md" target="_blank">神了！日军炮轰老君台-连射十三发炮弹竟无一爆炸</a></li>
+<li><a href="/cbnews/20200126/1265515.md" target="_blank">网友感悟：三退运动的影响力巨大</a></li>
+<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
+<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
+<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/comments/20191110/1037275.md" target="_blank">儒家的第一次乱法：战国时期对儒家学说的破坏</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
 <li><a href="/comments/20220601/1740278.md" target="_blank">我所知道的地球历史与奥秘篇（全系列）</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/comments/20210810/1603672.md" target="_blank">李有甫:双盲测试证实轮回转世；高官心绞痛原来是蝎子报仇</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/tculture/20151001/455916.md" target="_blank">宿命通功能所见：烛影斧声-赵匡胤死亡之谜</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/tculture/20181126/1037279.md" target="_blank">儒家的第二次乱法：宋代对儒家学说的破坏</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200313/1292991.md" target="_blank">愚公：英雄的宗教法轮功</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20210312/1502968.md" target="_blank">潘晴：默念“法轮大法好”救了我的命</a></li>
+<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
 
 </ul>
 </div>
