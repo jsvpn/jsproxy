@@ -17,17 +17,17 @@
 <li><a href="/baitai/20231007/1943472.md">「习家军」内斗曝光 蔡奇 王毅联手递黑材料整秦刚</a></li>
 <li><a href="/comments/20231007/1943434.md">许家印“贵人”直通中南海</a></li>
 <li><a href="/baitai/20231006/1943188.md">习派内斗激烈？李强老二地位被取代 瓦格纳高价买中国情报卫星 兵变时曾使用【国际风云】</a></li>
-<li><a href="/topimagenews/20231006/1943361.md">把女儿嫁到美国的著名“反美斗士” 想起来还是想笑</a></li>
 <li><a href="/cbnews/20231006/1943239.md">手机搞丢20多天…女靠“WiFi名”跨60公里找回 众人惊：是个狠人</a></li>
+<li><a href="/topimagenews/20231006/1943361.md">把女儿嫁到美国的著名“反美斗士” 想起来还是想笑</a></li>
 <li><a href="/baitai/20231007/1943468.md">谁敢处理许家印案？这是致命的事 中共罕见危机或启动【红朝禁闻】</a></li>
+<li><a href="/sohnews/20231006/1943278.md">香港进入僵尸经济时代！百业萧条，一业兴旺，最终结局是亚洲最大难民营｜政经孙老师 Mr. Sun Official</a></li>
 <li><a href="/comments/20231006/1943351.md">印度神童阿南德：预言中国大水灾</a></li>
 <li><a href="/comments/20231007/1943453.md">“年轻人为什么不再看新闻联播了？”遭知乎删除</a></li>
-<li><a href="/sohnews/20231006/1943278.md">香港进入僵尸经济时代！百业萧条，一业兴旺，最终结局是亚洲最大难民营｜政经孙老师 Mr. Sun Official</a></li>
 <li><a href="/finance/20231006/1943261.md">这就是中国经济萎靡的根源！已经走到了这条路的尽头</a></li>
+<li><a href="/topimagenews/20231007/1943500.md">排除北京！中共恐怕赶不上这趟“便车”</a></li>
 <li><a href="/sohnews/20231006/1943203.md">恒大总部神秘“42层”！只有许家印和少数人能进；恒大欠了2.4万亿！专家指钜款四大走向；许有被“灭口”之忧，大连实德徐明是先例？北京“八一大楼”被称“凶宅”｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/cnnews/20231006/1943148.md">亚运沙排赛场惊见“神级美女” 网民沸腾</a></li>
 <li><a href="/sohnews/20231006/1943170.md">王毅也是两面人，玩老命表衷心，变脸外交露馅。中国第一个“回锅”外交部长，也是第一个“战狼”外交部长曾是文学青年。党性摧毁人性，“绅士”变“头狼”。</a></li>
-<li><a href="/comments/20231006/1943329.md">【新闻拍案惊奇】许家印贵人多？五大家族浮出水面</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231007/1943651.md" target="_blank">上海4岁女孩海滩失踪后续 网友晒照实锤父亲说谎</a></li>
 <li><a href="/comments/20231007/1943569.md" target="_blank">台湾最怕被‘乌克兰模式’</a></li>
 <li><a href="/cbnews/20231007/1943581.md" target="_blank">42中企支援俄军工业 列入美国实体清单</a></li>
 <li><a href="/cbnews/20231007/1943580.md" target="_blank">瞄准中俄关系，美宣布最新制裁</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20231006/1943021.md" target="_blank">吴嘉隆解读：恒大倒下，房地产崩溃将至？中国经济会像日本一样失落30年？｜#方菲时间</a></li>
 <li><a href="/comments/20231006/1942950.md" target="_blank">议长之变 方伟和天亮意见相左 隔空约架</a></li>
 <li><a href="/cbnews/20231005/1942889.md" target="_blank">插队遭揶揄“哪里的狗” 中国女恼羞“搬大石头追人砸”</a></li>
-<li><a href="/comments/20231005/1942834.md" target="_blank">川普发布一张图，正式回应当议长的问题。建制派媒体头大，左媒不敢作声。民调显示，金里奇成议长热门人选。#罢免麦卡锡 #众议院议长 #川普</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/sohnews/20161029/607205.md" target="_blank">我们的认知塌了——所谓“迷信”，可能是超级科学</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
-<li><a href="/comments/20200308/1290079.md" target="_blank">文革时期故事：知青下乡遇通灵使者方知冥冥之中还有高级生命</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20220529/1739017.md" target="_blank">视频：一位西人女大学教授修炼法轮功的故事</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/lifebaike/20230309/1857707.md" target="_blank">大劫前冥府造册 是否真的在劫难逃</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/ccpdope/20181219/1049286.md" target="_blank">天火焚城！4千年前男性乱遗址被找到</a></li>
-<li><a href="/aomi/history/20210111/1465363.md" target="_blank">公安部给法轮功的感谢信</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
 <li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
-<li><a href="/ssgc/20230821/1923285.md" target="_blank">评论 &#8211; 程晓农：中国金融外资断流（上篇）</a></li>
-<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
-<li><a href="/comments/20200527/1273654.md" target="_blank">宁静大舞台：看懂三国演义能帮你度过瘟疫劫难</a></li>
-<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
-<li><a href="/cbnews/20200611/1343057.md" target="_blank">一中巴摔下山崖 车上十四人惨死 他们是什么人？</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
+<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20200623/1346844.md" target="_blank">如果神真的存在，为什么眼睁睁看着好人受难？神是否太不公平？</a></li>
+<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
+<li><a href="/lifebaike/20200515/1328783.md" target="_blank">民国纺织女工工资比现在农民工高一万倍</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20190126/1070164.md" target="_blank">美国西人女士患红斑狼疮苦熬十年 修炼法轮功康复</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
 <li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
+<li><a href="/tculture/20201113/1430493.md" target="_blank">《圣经》真相浅探</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20200820/1382989.md" target="_blank">医学博士：法轮功九字真言对武汉肺炎疗效的惊人启示</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
 
 </ul>
 </div>
