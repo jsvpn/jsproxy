@@ -7,8 +7,6 @@
 
 <li><a href="/comments/20231007/1943620.md">天亮时分：何事紧急？习突决定出访，三中全会还开不开？万亿人民币涌入，香港经济要被大陆带崩；川普支持乔丹任议长（政论天下第1128集 20231006）天亮时分</a></li>
 <li><a href="/cbnews/20231007/1943661.md">中山一领导出轨被举报 大量聊天记录毁三观</a></li>
-<li><a href="/comments/20231007/1943537.md">文昭：几年之内，北京会发生一件很可怕的事</a></li>
-<li><a href="/ccpdope/20231007/1943534.md">中南海内斗不止 「李蔡不和」引关注</a></li>
 <li><a href="/topimagenews/20231007/1943750.md">必须要制造一场金融危机了！这就是中国经济萎靡根源！这条路已经走到尽头</a></li>
 <li><a href="/cbnews/20231007/1943719.md">斗完敌人斗自己? 习家军暗潮汹涌 福建帮杠浙江帮 李强、蔡奇内斗不止</a></li>
 <li><a href="/cbnews/20231007/1943651.md">上海4岁女孩海滩失踪后续 网友晒照实锤父亲说谎</a></li>
@@ -28,6 +26,8 @@
 <li><a href="/sohnews/20231007/1943686.md">李尚福下属“投案自首”！调查扩大；中共093潜艇是"鱼雷自爆"？港媒与英媒报导有差异；医院发烧患者连夜就诊，“十一”疫情延烧；川普愿做众院“短期议长”！周润发釜山影展揭中共审查｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20231007/1943749.md">才击落苏-35 俄军又打下自己战机！ 俄媒：再这样下去 就无机可飞了</a></li>
 <li><a href="/yule/20231007/1943634.md">AI都没本人漂亮！“韩国第一天然美女”秀美式复古照 结果震惊网</a></li>
+<li><a href="/comments/20231007/1943569.md">台湾最怕被‘乌克兰模式’</a></li>
+<li><a href="/baitai/20231007/1943785.md">【CDT报告汇】终结中国经济奇迹，习近平到底做了什么？（外二篇）</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231008/1943915.md" target="_blank">前民营企业家：中国房地产业水有多深？更多大事还会发生 ｜孟军 ｜新闻烽火台 10/07</a></li>
 <li><a href="/cbnews/20231008/1943910.md" target="_blank">江峰：城建集团扛枪？枪口对准维权烂尾楼主？ #房产暴雷</a></li>
 <li><a href="/comments/20231007/1943833.md" target="_blank">深度揭秘！拜登两爱犬因频频咬人先后被逐出白宫，背后真相超出外人想象。#指挥官 #少校 #拜登</a></li>
 <li><a href="/cbnews/20231007/1943797.md" target="_blank">〖兲朝浮世绘〗中共外交部日常高级黑，不小心黑了自己</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231006/1943239.md" target="_blank">手机搞丢20多天…女靠“WiFi名”跨60公里找回 众人惊：是个狠人</a></li>
 <li><a href="/cbnews/20231006/1943226.md" target="_blank">你被偷的东西网路上有卖! 迷笛音乐节爆大量“零元购”连电缆都被盗</a></li>
 <li><a href="/cbnews/20231006/1943171.md" target="_blank">【#周润发：我们现在有很多限制 电影人的处境很困难】</a></li>
-<li><a href="/cbnews/20231006/1943173.md" target="_blank">江峰：中共海底秘密陷阱“海带”发功，美军没上钩，中共核潜艇却被毁，技术骨干团灭。习近平缺席金砖峰会讲话真实原因曝光；华为新品非凡大师价格非凡，五天後惨遭雪崩【江峰漫谈20231005第741期】</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231008/1943915.md" target="_blank">前民营企业家：中国房地产业水有多深？更多大事还会发生 ｜孟军 ｜新闻烽火台 10/07</a></li>
 <li><a href="/comments/20231007/1943833.md" target="_blank">深度揭秘！拜登两爱犬因频频咬人先后被逐出白宫，背后真相超出外人想象。#指挥官 #少校 #拜登</a></li>
 <li><a href="/comments/20231007/1943780.md" target="_blank">袁红冰：《回归荒凉》（十七）</a></li>
 <li><a href="/comments/20231007/1943779.md" target="_blank">渖涧松：她那年十九岁（连载九）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231007/1943483.md" target="_blank">专栏 &#8211; 财经时时听： 黄金周创纪录国人境内游 消费回暖了?</a></li>
 <li><a href="/comments/20231007/1943453.md" target="_blank">“年轻人为什么不再看新闻联播了？”遭知乎删除</a></li>
 <li><a href="/comments/20231007/1943434.md" target="_blank">许家印“贵人”直通中南海</a></li>
-<li><a href="/comments/20231007/1943433.md" target="_blank">剧情突然反转 拜登政府宣布建边境墙</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/funmedia/20200713/1359909.md" target="_blank">修一个好脾气 就是一辈子的好福气</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/comments/20200620/1346848.md" target="_blank">先知为什么不受家乡人欢迎</a></li>
-<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20190512/1127015.md" target="_blank">读《转法轮》留守女孩打消自杀念头柳暗花明</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
-<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
-<li><a href="/cbnews/20220508/1730049.md" target="_blank">邪灵物件害人 赶快清除干净</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
-<li><a href="/cbnews/20211114/1652214.md" target="_blank">老师修炼法轮功 学生破茧成蝶</a></li>
-<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
+<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
+<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
+<li><a href="/bookonline/20131116/201048.md" target="_blank">《九评共产党》之七 评中国共产党的杀人历史</a></li>
+<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
+<li><a href="/topimagenews/20180521/945342.md" target="_blank">魔鬼在统治着我们的世界(3)：毁人36计</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/sohnews/20150904/445868.md" target="_blank">医生罢工，死亡率却下降说明什么</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
+<li><a href="/tculture/20200803/1373949.md" target="_blank">闭门即是深山，读书随处净土</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20181017/1014654.md" target="_blank">魔鬼在统治着我们的世界(25)：全球化</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
 
 </ul>
 </div>
