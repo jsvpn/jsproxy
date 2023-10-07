@@ -15,19 +15,19 @@
 <li><a href="/comments/20231007/1943434.md">许家印“贵人”直通中南海</a></li>
 <li><a href="/baitai/20231007/1943472.md">「习家军」内斗曝光 蔡奇 王毅联手递黑材料整秦刚</a></li>
 <li><a href="/topimagenews/20231007/1943500.md">排除北京！中共恐怕赶不上这趟“便车”</a></li>
-<li><a href="/comments/20231007/1943537.md">文昭：几年之内，北京会发生一件很可怕的事</a></li>
 <li><a href="/topimagenews/20231006/1943361.md">把女儿嫁到美国的著名“反美斗士” 想起来还是想笑</a></li>
+<li><a href="/comments/20231007/1943537.md">文昭：几年之内，北京会发生一件很可怕的事</a></li>
 <li><a href="/baitai/20231007/1943468.md">谁敢处理许家印案？这是致命的事 中共罕见危机或启动【红朝禁闻】</a></li>
-<li><a href="/cbnews/20231006/1943239.md">手机搞丢20多天…女靠“WiFi名”跨60公里找回 众人惊：是个狠人</a></li>
 <li><a href="/ccpdope/20231007/1943534.md">中南海内斗不止 「李蔡不和」引关注</a></li>
+<li><a href="/comments/20231007/1943620.md">天亮时分：何事紧急？习突决定出访，三中全会还开不开？万亿人民币涌入，香港经济要被大陆带崩；川普支持乔丹任议长（政论天下第1128集 20231006）天亮时分</a></li>
 <li><a href="/comments/20231006/1943351.md">印度神童阿南德：预言中国大水灾</a></li>
 <li><a href="/finance/20231006/1943261.md">这就是中国经济萎靡的根源！已经走到了这条路的尽头</a></li>
 <li><a href="/sohnews/20231006/1943278.md">香港进入僵尸经济时代！百业萧条，一业兴旺，最终结局是亚洲最大难民营｜政经孙老师 Mr. Sun Official</a></li>
 <li><a href="/comments/20231007/1943453.md">“年轻人为什么不再看新闻联播了？”遭知乎删除</a></li>
-<li><a href="/comments/20231007/1943620.md">天亮时分：何事紧急？习突决定出访，三中全会还开不开？万亿人民币涌入，香港经济要被大陆带崩；川普支持乔丹任议长（政论天下第1128集 20231006）天亮时分</a></li>
 <li><a href="/sohnews/20231007/1943524.md">陈破空：果然！总参谋长不妙！前军委副主席消失。国庆节鸿门宴内幕。中印冲突数年，中方落败的原因找到了？直播与互动：美东时间10月6日晚8点30、即中港台10月7日早8点30</a></li>
 <li><a href="/ssgc/20231007/1943542.md">〖微博谈〗一举四得</a></li>
 <li><a href="/ccpdope/20231006/1943287.md">疑嘲讽习近平 博主「冲浪之音」突遭YouTube永久封杀</a></li>
+<li><a href="/comments/20231006/1943329.md">【新闻拍案惊奇】许家印贵人多？五大家族浮出水面</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230707/1905138.md" target="_blank">《自由之声》”Sound of freedom” 影片以雷霆万钧之势横扫本周票房</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/bookonline/20131116/201047.md" target="_blank">《九评共产党》之八 评中国共产党的邪教本质</a></li>
-<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20230417/1873184.md" target="_blank">曹处长汉口遇仙启示</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
-<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
-<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20200618/1346823.md" target="_blank">瘟疫乱世中如何避祸 圣经故事埃及十灾的启示</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/comments/20200502/1322275.md" target="_blank">瘟疫中祈祷为啥无效？怎么祈祷才有奇效？</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
+<li><a href="/lifebaike/20210704/1580186.md" target="_blank">“千古之谜”：徐福出海后究竟去了哪里？</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20230922/1901294.md" target="_blank">防止你的孩子不成功（7） &#8211;教育避坑指南</a></li>
+<li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
+<li><a href="/comments/20200805/1375080.md" target="_blank">道教高人修炼法轮功的故事</a></li>
+<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
+<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
 <li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
+<li><a href="/tculture/xiulian/20170318/732480.md" target="_blank">历史的天空：海神波塞冬的天国家书</a></li>
+<li><a href="/comments/20200616/1345658.md" target="_blank">定中所见：薛平贵与王宝钏爱情故事的原始版本</a></li>
+<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
 
 </ul>
 </div>
