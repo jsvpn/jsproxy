@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/comments/20231007/1943620.md">天亮时分：何事紧急？习突决定出访，三中全会还开不开？万亿人民币涌入，香港经济要被大陆带崩；川普支持乔丹任议长（政论天下第1128集 20231006）天亮时分</a></li>
 <li><a href="/cbnews/20231007/1943661.md">中山一领导出轨被举报 大量聊天记录毁三观</a></li>
 <li><a href="/cbnews/20231007/1943719.md">斗完敌人斗自己? 习家军暗潮汹涌 福建帮杠浙江帮 李强、蔡奇内斗不止</a></li>
 <li><a href="/topimagenews/20231007/1943750.md">必须要制造一场金融危机了！这就是中国经济萎靡根源！这条路已经走到尽头</a></li>
@@ -17,14 +16,15 @@
 <li><a href="/topimagenews/20231007/1943718.md">中共必将重蹈苏联覆辙！“它把轨道给扳过来了...”！【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20231008/1943875.md">“震惊四座！威震四海的以色列情报系统 为何如此失败？”No.04（10/07/23）</a></li>
 <li><a href="/sohnews/20231007/1943789.md">哈马斯入侵以色列②：哈马斯抓住了以色列军队高官；以色列誓言彻底解决哈马斯；内塔尼亚胡已成最大赢家</a></li>
-<li><a href="/topimagenews/20231007/1943717.md">外资真被中共吓破胆了！大批人说啥也不来中国了【阿波罗网报道】</a></li>
 <li><a href="/sohnews/20231008/1943870.md">巴以突爆全面战争，欧洲战火延烧中东？ ！ 哈马斯辱尸震惊世界，蓄意挑事幕后有黑手？ 一份秘密协议，中共鬼影频现</a></li>
+<li><a href="/topimagenews/20231007/1943717.md">外资真被中共吓破胆了！大批人说啥也不来中国了【阿波罗网报道】</a></li>
 <li><a href="/headline/20231007/1943828.md">中国银行前书记董事长开除党籍 涉违规放贷造成重大金融风险</a></li>
 <li><a href="/worldnews/20231007/1943817.md">哈马斯大举袭击以色列，内塔尼亚胡宣布国家进入“战争状态”</a></li>
 <li><a href="/itnews/20231007/1943770.md">印度要求 X、YouTube 和 Telegram 从其平台上永久删除 CSAM 内容，否则将剥夺平台免责保护的权利</a></li>
 <li><a href="/sohnews/20231007/1943686.md">李尚福下属“投案自首”！调查扩大；中共093潜艇是"鱼雷自爆"？港媒与英媒报导有差异；医院发烧患者连夜就诊，“十一”疫情延烧；川普愿做众院“短期议长”！周润发釜山影展揭中共审查｜新闻拍案惊奇 大宇</a></li>
 <li><a href="/topimagenews/20231007/1943749.md">才击落苏-35 俄军又打下自己战机！ 俄媒：再这样下去 就无机可飞了</a></li>
 <li><a href="/yule/20231007/1943634.md">AI都没本人漂亮！“韩国第一天然美女”秀美式复古照 结果震惊网</a></li>
+<li><a href="/finance/20231008/1943902.md">大陆又添一座“鬼城” 房价2万暴跌到4千 晚上很可怕</a></li>
 <li><a href="/headline/20231008/1943862.md">哈马斯出其不意攻击以色列 加沙陷入全面战争</a></li>
 <li><a href="/comments/20231007/1943569.md">台湾最怕被‘乌克兰模式’</a></li>
 <li><a href="/ccpdope/20231007/1943809.md">郭伯雄覆灭记（下）</a></li>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231008/1944003.md" target="_blank">天亮时分：周末大V谈 从许家印炫富到美国议长之争</a></li>
+<li><a href="/comments/20231008/1943995.md" target="_blank">且听萧吟：我在中国东北寻找朝鲜脱北者</a></li>
 <li><a href="/comments/20231008/1943955.md" target="_blank">王扬生：叩访富强胡同 王扬生回忆赵紫阳2004年7月谈话</a></li>
 <li><a href="/comments/20231008/1943954.md" target="_blank">林保华：台企与华为的“不寻常”合作</a></li>
 <li><a href="/comments/20231008/1943953.md" target="_blank">张鸣：中国人反复遭遇苦难的原因是什么 ？</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20231007/1943569.md" target="_blank">台湾最怕被‘乌克兰模式’</a></li>
 <li><a href="/comments/20231007/1943627.md" target="_blank">佚名：只认立场，不论是非：12个最常见的逻辑错误</a></li>
 <li><a href="/comments/20231007/1943626.md" target="_blank">何与怀：警惕人性陷阱</a></li>
-<li><a href="/comments/20231007/1943620.md" target="_blank">天亮时分：何事紧急？习突决定出访，三中全会还开不开？万亿人民币涌入，香港经济要被大陆带崩；川普支持乔丹任议长（政论天下第1128集 20231006）天亮时分</a></li>
-<li><a href="/comments/20231007/1943602.md" target="_blank">吴惠林：第十六章 排队经济学</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/cbnews/20220809/1769245.md" target="_blank">无脑小粉红怒怼美国华人 被美国警察逮捕入狱</a></li>
-<li><a href="/comments/20211016/1639471.md" target="_blank">神总结：“厉害国”到底是一个什么样的国？</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20220727/1763613.md" target="_blank">曹长青：曼德拉绝不是英雄，是恶棍</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/cnnews/20220202/1686894.md" target="_blank">科学研究证实:人有“灵魂”</a></li>
+<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
+<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
+<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20210223/1492392.md" target="_blank">从《创世纪》看，圣经描述的是“多神造人”</a></li>
+<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
 <li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
-<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
-<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20230919/1935739.md" target="_blank">何清涟：美国共产主义2.0：重塑性别-家庭模式直至消灭家庭</a></li>
-<li><a href="/comments/20200607/783186.md" target="_blank">德国医学专家：修炼法轮功找到生命升华之路</a></li>
-<li><a href="/cnnews/20180504/937198.md" target="_blank">许仙白蛇根本不是爱情故事，历史上真正的高僧法海怎会多管闲事？</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
+<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
+<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/comments/20230930/1940691.md" target="_blank">防止你的孩子不成功（13）-教育避坑指南</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 
 </ul>
 </div>
