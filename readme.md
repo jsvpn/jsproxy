@@ -6,11 +6,8 @@
 <ul>
 
 <li><a href="/sohnews/20231008/1943972.md">许家印首席情妇白姗姗，恒大歌舞团头牌！每年两亿养艳妓，恒大舞团有秘密！范冰冰：许首富的红粉知己！诺奖大热残雪：中国文坛就是个黑帮！‘新闻最嘲点 姜光宇’2023.1007</a></li>
-<li><a href="/finance/20231008/1943902.md">大陆又添一座“鬼城” 房价2万暴跌到4千 晚上很可怕</a></li>
-<li><a href="/sohnews/20231008/1943909.md">恒大总部42楼祕密曝光 许家印“红楼”不一般！真实的kk园外围拍摄 有铁丝网 形同监狱！缅甸水沟谷亚太城 并非陆媒所宣传的诈骗园区！恒大烂尾楼知多少？恒大最牛烂尾楼！#新闻前线</a></li>
 <li><a href="/yule/20231008/1943968.md">中国明星傅艺伟儿子高乐男去世，年仅30岁</a></li>
 <li><a href="/topimagenews/20231008/1944107.md">她看以巴战争惊！“难怪习近平要去越南”</a></li>
-<li><a href="/baitai/20231008/1943907.md">习注定灭共？习家军开战 学者：大震在后面</a></li>
 <li><a href="/worldnews/20231008/1944087.md">哈玛斯背后“最大金主”曝光</a></li>
 <li><a href="/cbnews/20231008/1943990.md">江峰：习近平突然认怂！大阵仗出访越南，订800酒店房；美国不给“诚意”甚至制裁更重，习依然要登门拜访。为何要爬坡过坎？军队出大事！台湾国军可以在这点上攻击共军致命弱点【江峰漫谈20231007第743期】</a></li>
 <li><a href="/topimagenews/20231008/1944106.md">惨遭哈玛斯滥杀辱尸的以色列女兵：德国籍女模特</a></li>
@@ -28,6 +25,9 @@
 <li><a href="/cbnews/20231008/1944022.md">为何以未预见哈玛斯突袭？官员回答震惊BBC记者</a></li>
 <li><a href="/worldnews/20231008/1944023.md">哈玛斯亵渎尸体疑女兵扭曲惨死 最新死伤人数</a></li>
 <li><a href="/ccpdope/20231008/1943917.md">背靠曾庆红 许家印与中南海玩「图穷匕见」</a></li>
+<li><a href="/worldnews/20231008/1944110.md">热帖:又一场战争突然爆发,以色列犯下两致命错误</a></li>
+<li><a href="/cbnews/20231008/1944200.md">以色列正夺回领土 战争升温700死</a></li>
+<li><a href="/sohnews/20231008/1944227.md">毛泽东的“真龙”情节；身边美女如云，他为何专宠姿色平平的张玉凤和孟锦云？</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231009/1944303.md" target="_blank">绝配！迷笛绝配南阳，都是烂泥糊不上墙</a></li>
 <li><a href="/comments/20231008/1944236.md" target="_blank">地狱之井 科拉超深钻孔之谜1/2</a></li>
 <li><a href="/comments/20231008/1944235.md" target="_blank">地狱之井 科拉超深钻孔之谜2/2</a></li>
 <li><a href="/comments/20231008/1944223.md" target="_blank">【独家重磅】李燕铭：胡锦涛陷生死谜团 胡海峰政治基地高官主动投案 习近平连任后大清洗（100） 团派团灭内幕（34） 浙江帮覆灭记（14）</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231008/1943995.md" target="_blank">且听萧吟：我在中国东北寻找朝鲜脱北者</a></li>
 <li><a href="/comments/20231008/1943955.md" target="_blank">王扬生：叩访富强胡同 王扬生回忆赵紫阳2004年7月谈话</a></li>
 <li><a href="/comments/20231008/1943954.md" target="_blank">林保华：台企与华为的“不寻常”合作</a></li>
-<li><a href="/comments/20231008/1943953.md" target="_blank">张鸣：中国人反复遭遇苦难的原因是什么 ？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/comments/20210216/1488350.md" target="_blank">孙思邈：圣人济世　用道德调和</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20221204/1819603.md" target="_blank">作为一个军人，打不准是无罪的，你有把枪口抬高一厘米的权利</a></li>
+<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
+<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
 <li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20200929/1405201.md" target="_blank">龙延：挖出共产党的根（三）</a></li>
-<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
-<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/tculture/xiulian/20151111/470021.md" target="_blank">定中所见：天国王朝</a></li>
 <li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220819/1773759.md" target="_blank">移民美国如何说明中共党员身份问题？</a></li>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
 
 </ul>
 </div>
