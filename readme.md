@@ -11,17 +11,17 @@
 <li><a href="/yule/20231008/1943968.md">中国明星傅艺伟儿子高乐男去世，年仅30岁</a></li>
 <li><a href="/sohnews/20231008/1943909.md">恒大总部42楼祕密曝光 许家印“红楼”不一般！真实的kk园外围拍摄 有铁丝网 形同监狱！缅甸水沟谷亚太城 并非陆媒所宣传的诈骗园区！恒大烂尾楼知多少？恒大最牛烂尾楼！#新闻前线</a></li>
 <li><a href="/sohnews/20231008/1943875.md">“震惊四座！威震四海的以色列情报系统 为何如此失败？”No.04（10/07/23）</a></li>
-<li><a href="/topimagenews/20231008/1944107.md">她看以巴战争惊！“难怪习近平要去越南”</a></li>
 <li><a href="/baitai/20231008/1943907.md">习注定灭共？习家军开战 学者：大震在后面</a></li>
+<li><a href="/topimagenews/20231008/1944107.md">她看以巴战争惊！“难怪习近平要去越南”</a></li>
 <li><a href="/sohnews/20231008/1943876.md">“冲突模式发生根本性改变！对以色列不是好兆头⋯”No.03（10/07/23）</a></li>
 <li><a href="/worldnews/20231008/1944087.md">哈玛斯背后“最大金主”曝光</a></li>
 <li><a href="/cbnews/20231008/1943990.md">江峰：习近平突然认怂！大阵仗出访越南，订800酒店房；美国不给“诚意”甚至制裁更重，习依然要登门拜访。为何要爬坡过坎？军队出大事！台湾国军可以在这点上攻击共军致命弱点【江峰漫谈20231007第743期】</a></li>
 <li><a href="/topimagenews/20231008/1944106.md">惨遭哈玛斯滥杀辱尸的以色列女兵：德国籍女模特</a></li>
+<li><a href="/worldnews/20231008/1944163.md">以色列遭哈玛斯突袭！中共外交部发162字声明 内容让网友全看傻</a></li>
 <li><a href="/sohnews/20231008/1944142.md">惊天大料：中共制定点火计划怂恿哈马斯与以色列开战，中共处决加国锡克教领袖嫁祸印度，丧钟为我们每一个人敲响。《老灯开讲第401期》</a></li>
 <li><a href="/ssgc/20231008/1944092.md">习近平或缴获许家印持有的权贵淫乱影像</a></li>
-<li><a href="/worldnews/20231008/1944163.md">以色列遭哈玛斯突袭！中共外交部发162字声明 内容让网友全看傻</a></li>
-<li><a href="/cnnews/20231008/1944111.md">以巴开战什么要涨？内行人曝一项你料想不到</a></li>
 <li><a href="/cnnews/20231008/1943935.md">中国小鲜肉娶大妈被酸“不想努力” 他回呛结婚内幕</a></li>
+<li><a href="/cnnews/20231008/1944111.md">以巴开战什么要涨？内行人曝一项你料想不到</a></li>
 <li><a href="/topimagenews/20231008/1944162.md">市委书记在现场也挡不了！ 迷笛音乐节“零元购”猖狂 追回两卡车赃物</a></li>
 <li><a href="/topimagenews/20231008/1944144.md">中共国惊人一幕不看不敢相信【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231008/1944161.md">笑喷！乌克兰制裁“三桶油”！大陆一片欢腾：“支持制裁”、“必须制裁”【阿波罗网报道】</a></li>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
 <li><a href="/lifebaike/20221107/1807601.md" target="_blank">告诉你真实的宋朝官二代——衙内</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/topimagenews/20171017/843193.md" target="_blank">30年前“呼兰大侠迷案”：震惊东北，暗杀数十警察</a></li>
-<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20221219/1825441.md" target="_blank">红旗下的誓言 ——我们未被告知的秘密</a></li>
-<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
-<li><a href="/comments/20210720/1488271.md" target="_blank">朱丽叶在公园找到法轮功 炼功后看起来年轻了十岁</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/comments/20220925/1789151.md" target="_blank">章天亮博士《笑谈风云》-美国国会图书馆典藏珍品</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/cnnews/20210819/1609201.md" target="_blank">美国律师叶宁：退出共产党运动具有深远的历史意义</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20210728/1595695.md" target="_blank">巴黎中使馆邀请过哪位气功大师？</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20230601/1891432.md" target="_blank">曹长青：力挺川普、淘汰德桑蒂斯的六大理由！</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/comments/20201031/1423298.md" target="_blank">为阴谋论正名：阴谋论是我们洞察黑暗世界的探照灯</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/aomi/life/20141109/310549.md" target="_blank">台大校长李嗣涔：由特异功能到神佛世界</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
+<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20210302/1496716.md" target="_blank">天机茫茫人难测 精诚所至大道生</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20200919/82684.md" target="_blank">云游高僧揭示人类、外星人、人生真相之谜</a></li>
 
 </ul>
 </div>
