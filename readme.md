@@ -7,20 +7,19 @@
 
 <li><a href="/sohnews/20231008/1943972.md">许家印首席情妇白姗姗，恒大歌舞团头牌！每年两亿养艳妓，恒大舞团有秘密！范冰冰：许首富的红粉知己！诺奖大热残雪：中国文坛就是个黑帮！‘新闻最嘲点 姜光宇’2023.1007</a></li>
 <li><a href="/finance/20231008/1943902.md">大陆又添一座“鬼城” 房价2万暴跌到4千 晚上很可怕</a></li>
-<li><a href="/sohnews/20231008/1943870.md">巴以突爆全面战争，欧洲战火延烧中东？ ！ 哈马斯辱尸震惊世界，蓄意挑事幕后有黑手？ 一份秘密协议，中共鬼影频现</a></li>
 <li><a href="/sohnews/20231008/1943909.md">恒大总部42楼祕密曝光 许家印“红楼”不一般！真实的kk园外围拍摄 有铁丝网 形同监狱！缅甸水沟谷亚太城 并非陆媒所宣传的诈骗园区！恒大烂尾楼知多少？恒大最牛烂尾楼！#新闻前线</a></li>
 <li><a href="/yule/20231008/1943968.md">中国明星傅艺伟儿子高乐男去世，年仅30岁</a></li>
 <li><a href="/sohnews/20231008/1943875.md">“震惊四座！威震四海的以色列情报系统 为何如此失败？”No.04（10/07/23）</a></li>
 <li><a href="/baitai/20231008/1943907.md">习注定灭共？习家军开战 学者：大震在后面</a></li>
 <li><a href="/topimagenews/20231008/1944107.md">她看以巴战争惊！“难怪习近平要去越南”</a></li>
 <li><a href="/worldnews/20231008/1944087.md">哈玛斯背后“最大金主”曝光</a></li>
-<li><a href="/cbnews/20231008/1943990.md">江峰：习近平突然认怂！大阵仗出访越南，订800酒店房；美国不给“诚意”甚至制裁更重，习依然要登门拜访。为何要爬坡过坎？军队出大事！台湾国军可以在这点上攻击共军致命弱点【江峰漫谈20231007第743期】</a></li>
 <li><a href="/worldnews/20231008/1944163.md">以色列遭哈玛斯突袭！中共外交部发162字声明 内容让网友全看傻</a></li>
+<li><a href="/cbnews/20231008/1943990.md">江峰：习近平突然认怂！大阵仗出访越南，订800酒店房；美国不给“诚意”甚至制裁更重，习依然要登门拜访。为何要爬坡过坎？军队出大事！台湾国军可以在这点上攻击共军致命弱点【江峰漫谈20231007第743期】</a></li>
 <li><a href="/sohnews/20231008/1943876.md">“冲突模式发生根本性改变！对以色列不是好兆头⋯”No.03（10/07/23）</a></li>
 <li><a href="/topimagenews/20231008/1944106.md">惨遭哈玛斯滥杀辱尸的以色列女兵：德国籍女模特</a></li>
 <li><a href="/sohnews/20231008/1944142.md">惊天大料：中共制定点火计划怂恿哈马斯与以色列开战，中共处决加国锡克教领袖嫁祸印度，丧钟为我们每一个人敲响。《老灯开讲第401期》</a></li>
-<li><a href="/ssgc/20231008/1944092.md">习近平或缴获许家印持有的权贵淫乱影像</a></li>
 <li><a href="/cnnews/20231008/1943935.md">中国小鲜肉娶大妈被酸“不想努力” 他回呛结婚内幕</a></li>
+<li><a href="/ssgc/20231008/1944092.md">习近平或缴获许家印持有的权贵淫乱影像</a></li>
 <li><a href="/cnnews/20231008/1944111.md">以巴开战什么要涨？内行人曝一项你料想不到</a></li>
 <li><a href="/topimagenews/20231008/1944162.md">市委书记在现场也挡不了！ 迷笛音乐节“零元购”猖狂 追回两卡车赃物</a></li>
 <li><a href="/topimagenews/20231008/1944161.md">笑喷！乌克兰制裁“三桶油”！大陆一片欢腾：“支持制裁”、“必须制裁”【阿波罗网报道】</a></li>
@@ -28,6 +27,7 @@
 <li><a href="/worldnews/20231008/1944028.md">疑以色列女兵遭俘虏 被强塞吉普车载走</a></li>
 <li><a href="/topimagenews/20231008/1944047.md">“以色列版珍珠港事件” 以国数十亿防御系统为何失效？</a></li>
 <li><a href="/cbnews/20231008/1944022.md">为何以未预见哈玛斯突袭？官员回答震惊BBC记者</a></li>
+<li><a href="/worldnews/20231008/1944023.md">哈玛斯亵渎尸体疑女兵扭曲惨死 最新死伤人数</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20230919/1935723.md" target="_blank">何清涟：美国共产主义2.0运动：性别多元化</a></li>
-<li><a href="/tculture/20190304/1091076.md" target="_blank">逆天而为痛悔迟20-1：弑兄篡位千古谜，正本清源释群疑</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
-<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
-<li><a href="/comments/20200704/783272.md" target="_blank">泉州500多中共官员强奸中小学幼女8000余次</a></li>
-<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
-<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/cnnews/20210317/1506463.md" target="_blank">揭秘特异功能者梅辛 一个令爱因斯坦赞叹的“世界第一神奇人物”</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/lifebaike/20200711/1358994.md" target="_blank">百姓不得入内 揭秘毛时期中共腐败的特供商店</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20210226/1494382.md" target="_blank">贵州藏字石 预言中国共产党亡</a></li>
-<li><a href="/comments/20200717/1361899.md" target="_blank">论中国共产党的九大邪恶</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/comments/20200211/1275071.md" target="_blank">中共肺炎：更大更猛烈的瘟疫或会再来</a></li>
+<li><a href="/comments/20231003/1941694.md" target="_blank">防止你的孩子不成功（14）-教育避坑指南</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/comments/20220722/1761738.md" target="_blank">这件事，神界和人间的法则，大不同！著名《在地狱的23分钟》男子触碰神的心⋯</a></li>
+<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
+<li><a href="/lifebaike/20210815/1606781.md" target="_blank">乌托邦的掘墓人——哈耶克</a></li>
+<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
+<li><a href="/tculture/20121023/72121.md" target="_blank">高人在民间：为我铺就修行路的老人</a></li>
+<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
+<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/tculture/xiulian/20150708/421752.md" target="_blank">凭籍神的启示，寻找救世主</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
 
 </ul>
 </div>
