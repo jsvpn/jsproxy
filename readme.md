@@ -8,8 +8,8 @@
 <li><a href="/topimagenews/20231008/1944107.md">她看以巴战争惊！“难怪习近平要去越南”</a></li>
 <li><a href="/worldnews/20231008/1944087.md">哈玛斯背后“最大金主”曝光</a></li>
 <li><a href="/cbnews/20231008/1943990.md">江峰：习近平突然认怂！大阵仗出访越南，订800酒店房；美国不给“诚意”甚至制裁更重，习依然要登门拜访。为何要爬坡过坎？军队出大事！台湾国军可以在这点上攻击共军致命弱点【江峰漫谈20231007第743期】</a></li>
-<li><a href="/topimagenews/20231008/1944106.md">惨遭哈玛斯滥杀辱尸的以色列女兵：德国籍女模特</a></li>
 <li><a href="/worldnews/20231008/1944163.md">以色列遭哈玛斯突袭！中共外交部发162字声明 内容让网友全看傻</a></li>
+<li><a href="/topimagenews/20231008/1944106.md">惨遭哈玛斯滥杀辱尸的以色列女兵：德国籍女模特</a></li>
 <li><a href="/sohnews/20231008/1944142.md">惊天大料：中共制定点火计划怂恿哈马斯与以色列开战，中共处决加国锡克教领袖嫁祸印度，丧钟为我们每一个人敲响。《老灯开讲第401期》</a></li>
 <li><a href="/ssgc/20231008/1944092.md">习近平或缴获许家印持有的权贵淫乱影像</a></li>
 <li><a href="/cnnews/20231008/1944111.md">以巴开战什么要涨？内行人曝一项你料想不到</a></li>
@@ -17,8 +17,8 @@
 <li><a href="/topimagenews/20231008/1944161.md">笑喷！乌克兰制裁“三桶油”！大陆一片欢腾：“支持制裁”、“必须制裁”【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231008/1944144.md">中共国惊人一幕不看不敢相信【阿波罗网报道】</a></li>
 <li><a href="/worldnews/20231008/1944028.md">疑以色列女兵遭俘虏 被强塞吉普车载走</a></li>
-<li><a href="/comments/20231008/1944223.md">【独家重磅】李燕铭：胡锦涛陷生死谜团 胡海峰政治基地高官主动投案 习近平连任后大清洗（100） 团派团灭内幕（34） 浙江帮覆灭记（14）</a></li>
 <li><a href="/sohnews/20231009/1944256.md">🔥以遭突袭！中共外交部发162字声明 内容让网友全看傻；遭哈玛斯滥杀侮辱以女兵：德国籍女模特；俄乌最新战况：俄军投降与东线大捷；黎巴嫩朝以色列 发射迫击炮；中共再提“两国方案”【阿波罗网】</a></li>
+<li><a href="/comments/20231008/1944223.md">【独家重磅】李燕铭：胡锦涛陷生死谜团 胡海峰政治基地高官主动投案 习近平连任后大清洗（100） 团派团灭内幕（34） 浙江帮覆灭记（14）</a></li>
 <li><a href="/topimagenews/20231008/1944047.md">“以色列版珍珠港事件” 以国数十亿防御系统为何失效？</a></li>
 <li><a href="/cbnews/20231008/1944022.md">为何以未预见哈玛斯突袭？官员回答震惊BBC记者</a></li>
 <li><a href="/worldnews/20231008/1944023.md">哈玛斯亵渎尸体疑女兵扭曲惨死 最新死伤人数</a></li>
@@ -97,6 +97,9 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231009/1944347.md" target="_blank">概率学角度分析：山东两村干部不雅视频曝光</a></li>
+<li><a href="/comments/20231009/1944346.md" target="_blank">凯撒医疗7万名员工为什么罢工？</a></li>
+<li><a href="/comments/20231009/1944344.md" target="_blank">葵阳：挥泪囚家印 解朕于倒悬</a></li>
 <li><a href="/comments/20231009/1944332.md" target="_blank">从诺贝尔奖，看美国科技为何强大</a></li>
 <li><a href="/comments/20231009/1944306.md" target="_blank">深度解析：无休无止的巴以冲突，究竟是怎么来的</a></li>
 <li><a href="/comments/20231009/1944305.md" target="_blank">文昭：是谁干掉了骗术大师许家印，他为什麽骗不下去了？【会员样片节】</a></li>
@@ -119,9 +122,6 @@
 <li><a href="/comments/20231008/1944030.md" target="_blank">张正承：中国青少年失踪案例激增 器官移植生意？</a></li>
 <li><a href="/comments/20231008/1944013.md" target="_blank">【微博精粹】《金瓶梅》说出中国现状</a></li>
 <li><a href="/comments/20231008/1944012.md" target="_blank">中共潜艇出事 竟是被苹果手表害的？</a></li>
-<li><a href="/comments/20231008/1944011.md" target="_blank">借新还旧填财政黑洞内蒙古发债663亿偿还欠款</a></li>
-<li><a href="/comments/20231008/1944005.md" target="_blank">【杰森视角】哈马斯突袭以色列，末日战争开打？ 蔡奇跋扈抢夺李强权力？ 哈马斯火箭打掉拜登总统连任？ 哈马斯攻击以色列的真实原因是啥？ 习近平为何信任蔡奇超过李强？ 习近平为蔡奇建立现代版东厂间谍体系？</a></li>
-<li><a href="/comments/20231008/1944003.md" target="_blank">天亮时分：周末大V谈 从许家印炫富到美国议长之争</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/topimagenews/20180524/946967.md" target="_blank">魔鬼在统治着我们的世界(5)：东方杀戮</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/comments/20210509/1542786.md" target="_blank">《转法轮》在非洲流传 人们奔走相告传福音</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/comments/20230423/1875655.md" target="_blank">看中医泰斗张锡纯 如何治疗糖尿病</a></li>
+<li><a href="/tculture/xiulian/20151108/468739.md" target="_blank">定中经历：穆桂英传奇(下)</a></li>
+<li><a href="/comments/20200523/1332915.md" target="_blank">真人轮回案例：著名电影明星是海王星人转世</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/bannedvideo/20220509/1730156.md" target="_blank">福建人后裔在琉球传播中国文化</a></li>
+<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
+<li><a href="/topimagenews/20180620/960677.md" target="_blank">魔鬼在统治着我们的世界(17)：艺术篇</a></li>
 <li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
-<li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
-<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
-<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
-<li><a href="/comments/20220928/1790417.md" target="_blank">美国律师叶宁：三退是中华民族的希望（全文）</a></li>
-<li><a href="/tculture/20121214/86862.md" target="_blank">“释迦亲传弟子”的传奇故事</a></li>
-<li><a href="/lifebaike/20200520/1331379.md" target="_blank">美国的保守主义保守在哪里？</a></li>
-<li><a href="/comments/20201217/1449706.md" target="_blank">【典故新解】大智若愚——看破红尘，放下得失</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/cbnews/20220922/1787482.md" target="_blank">韩国通用汽车部长修炼法轮功活出两种人生</a></li>
-<li><a href="/lifebaike/20211124/1656686.md" target="_blank">一个令西方人神往的天朝——宋代</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
-<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/aomi/history/20170924/831575.md" target="_blank">高人揭秘：周易八卦与中华文字的天机与神迹</a></li>
-<li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/comments/20210308/1500552.md" target="_blank">法轮功说天灭中共，究竟是怎么回事？</a></li>
-<li><a href="/comments/20210420/1529876.md" target="_blank">中华古老的智慧早就演绎杰出女性的处世之道。如何才能活的精彩，如何能千古流芳，如何能让家族昌盛。合乎天道者是最大智慧者，天赐她无限福报。</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/comments/20200619/783185.md" target="_blank">颠覆现代人常识的瘟疫大劫：天灭大明</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
+<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
+<li><a href="/ccpdope/20200531/1337409.md" target="_blank">古籍中关于瘟神的传说</a></li>
 
 </ul>
 </div>
