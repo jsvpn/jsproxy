@@ -9,25 +9,25 @@
 <li><a href="/sohnews/20231009/1944256.md">🔥以遭突袭！中共外交部发162字声明 内容让网友全看傻；遭哈玛斯滥杀侮辱以女兵：德国籍女模特；俄乌最新战况：俄军投降与东线大捷；黎巴嫩朝以色列 发射迫击炮；中共再提“两国方案”【阿波罗网】</a></li>
 <li><a href="/sohnews/20231008/1944227.md">毛泽东的“真龙”情节；身边美女如云，他为何专宠姿色平平的张玉凤和孟锦云？</a></li>
 <li><a href="/topimagenews/20231009/1944285.md">美国要行动了！计划军舰战机靠近以色列 报告美国人遇害和失踪</a></li>
-<li><a href="/topimagenews/20231009/1944284.md">遭哈玛斯绑架女大学生是华人混血？北京出生 爸爸看视频崩溃</a></li>
 <li><a href="/topimagenews/20231009/1944322.md">战况：以色列火力全开，哈马斯一领导人被炸死</a></li>
+<li><a href="/topimagenews/20231009/1944284.md">遭哈玛斯绑架女大学生是华人混血？北京出生 爸爸看视频崩溃</a></li>
 <li><a href="/sohnews/20231009/1944260.md">“最高指挥官首次声明：以色列不放过任何责任人与参与者和国家”No.01（10/08/23）</a></li>
 <li><a href="/sohnews/20231009/1944269.md">哈马斯招认伊朗支持，中共“三大战役”是祸根？！巴以彻夜激战，黎巴嫩卷入，战争升级！音乐节惨变屠宰场，大批欧美人遇难</a></li>
 <li><a href="/topimagenews/20231009/1944452.md">全是尸体…以色列军方：血海深仇 哈玛斯都得死</a></li>
 <li><a href="/comments/20231009/1944357.md">以色列荡平哈马斯行动来了！中共损招闯大祸？习近平操弄国际政治杠杆里外不是人，听习明泽怎麽说</a></li>
 <li><a href="/baitai/20231008/1944212.md">哈马斯敢挑起大事端 背后大金主浮现</a></li>
 <li><a href="/topimagenews/20231009/1944397.md">不忍直面！以色列儿童被囚笼中，被俘女兵曝光</a></li>
+<li><a href="/topimagenews/20231009/1944483.md">她们拨通中共大使馆电话 回复引发众怒！ 网友：快喊“共产党下台”...【阿波罗网报道】</a></li>
 <li><a href="/yule/20231009/1944359.md">"最美妲己"傅艺伟年近60岁丧子！死因曝光</a></li>
 <li><a href="/headline/20231009/1944298.md">北京未能谴责哈马斯袭击后，以色列敦促中国提供声援</a></li>
-<li><a href="/topimagenews/20231009/1944483.md">她们拨通中共大使馆电话 回复引发众怒！ 网友：快喊“共产党下台”...【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231009/1944398.md">【微博精粹】习近平最大的敌人是中国共产党</a></li>
-<li><a href="/lifebaike/20231009/1944312.md">立秋后，“牛仔裤”下面一定不要搭运动鞋，瞧上海女生这样穿多美</a></li>
 <li><a href="/cbnews/20231009/1944414.md">比哈马斯恐怖分子更邪恶！看看这些中国网友</a></li>
 <li><a href="/cbnews/20231009/1944423.md">〖兲朝浮世绘〗习近平文化思想应该就是毛泽东流氓思想的传承吧？</a></li>
+<li><a href="/lifebaike/20231009/1944312.md">立秋后，“牛仔裤”下面一定不要搭运动鞋，瞧上海女生这样穿多美</a></li>
 <li><a href="/health/20231009/1944326.md">21岁少女患虫癌，医生开刀后发现2斤多虫子！她的习惯要引以为戒</a></li>
+<li><a href="/cbnews/20231009/1944520.md">宛如文革再现！中共各大喉舌现惊人一幕【阿波罗网报道】</a></li>
 <li><a href="/finance/20231009/1944294.md">惊爆 中国总体债务数字 方方面面都极力掩饰</a></li>
 <li><a href="/sohnews/20231009/1944238.md">炸了！哈马斯绑走的女孩Noa是华人！以色列驻华使馆怒了，“我在被屠杀你TM叫我协商？”</a></li>
-<li><a href="/cbnews/20231009/1944276.md">江峰：“与人民为敌”的许家印是谁安排上的天安门！ #许家印</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/lifebaike/20201113/1430218.md" target="_blank">4000案例证实神的存在</a></li>
-<li><a href="/bookwiki/20171120/858084.md" target="_blank">《共产主义的终极目的》</a></li>
-<li><a href="/cbnews/20190215/1081272.md" target="_blank">胡平：法轮功不让人打针吃药吗？附带介绍基督教科学教派</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
-<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
-<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/sohnews/20160609/543313.md" target="_blank">日本人不敢考古：徐福是日本人的真正始皇帝</a></li>
 <li><a href="/comments/20220713/1757701.md" target="_blank">中国民众反抗的新趋向：由维权转向政治反抗 — 曾节明</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
-<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/comments/20200629/1352460.md" target="_blank">挖出共产党的根（一）光照帮的成立和败露</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20200227/1284657.md" target="_blank">道术高人看到法轮功学员头上有光柱</a></li>
-<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
-<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
-<li><a href="/cbnews/20210517/1548104.md" target="_blank">大学校领导修炼法轮功 回忆录震烁同学圈</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/comments/20180804/981524.md" target="_blank">魔鬼在统治着我们的世界(22)：恐怖主义</a></li>
+<li><a href="/bannedvideo/20210418/1528557.md" target="_blank">欧洲艺术史上最出名的一段三角恋！“欧洲林徽因”克拉拉，拣尽寒枝不肯栖！情不知所起，一往而深的舒曼！贝多芬的接班人勃拉姆斯，为伊消得人憔悴！“大话西油”番外篇之三！【大话西油 姜光宇】(04.17）</a></li>
+<li><a href="/comments/20230906/1929991.md" target="_blank">社保的庞氏骗局破产问题</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20200307/1289968.md" target="_blank">了解法轮功：见证奇迹　解开生命奥秘</a></li>
+<li><a href="/comments/20211216/1666206.md" target="_blank">韩国蔚山内科医院院长修炼法轮功，并推荐大家一起修炼（真人照片）</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/cbnews/20220620/1747851.md" target="_blank">天亮时分:翡翠运动倒习,政治局隐秘议程,谁在决定习近平命运？为什么马斯克认为TikTok将毁灭人类文明？未婚同居与离婚率</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
+<li><a href="/bookonline/20131116/201045.md" target="_blank">《九评共产党》之九 评中国共产党的流氓本性</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20200629/1352533.md" target="_blank">法轮功学员做高中老师的两个故事</a></li>
+<li><a href="/topimagenews/20210131/1478453.md" target="_blank">奇迹康复！染上中共病毒写了遗嘱的他找到救命秘诀</a></li>
+<li><a href="/tculture/xiulian/20151105/467870.md" target="_blank">定中经历：穆桂英传奇(中)</a></li>
+<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
 
 </ul>
 </div>
