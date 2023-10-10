@@ -8,26 +8,26 @@
 <li><a href="/cbnews/20231009/1944520.md">宛如文革再现！中共各大喉舌现惊人一幕【阿波罗网报道】</a></li>
 <li><a href="/headline/20231009/1944537.md">二次文革再现？习近平重要指示 扬言宣传思想文化要「敢于善于斗争」</a></li>
 <li><a href="/lifebaike/20231009/1944535.md">哈佛一口气开除51名学生！中国留学生退学率惊人</a></li>
-<li><a href="/cbnews/20231009/1944493.md">吓人：重庆33层居民楼底下被挖出4室1厅，结果…</a></li>
 <li><a href="/baitai/20231010/1944699.md">态度变了！习近平会见美参院防团 袖舒默不满北京表态促习谴责哈马斯</a></li>
 <li><a href="/topimagenews/20231010/1944751.md">惊呆 巴勒斯坦总统无恶不作 衷心感谢中共支持</a></li>
 <li><a href="/topimagenews/20231010/1944759.md">中国富豪恐慌 地下钱庄遍布全国</a></li>
 <li><a href="/topimagenews/20231009/1944519.md">50年前一幕重演？中东战争爆发，随后爆发第一次石油危机</a></li>
 <li><a href="/baitai/20231010/1944777.md">央视女主持李思思离职 被爆其夫背景不一般</a></li>
 <li><a href="/sohnews/20231010/1944745.md">华为暗助哈马斯？策划袭击长达2年，细节曝光！主谋浮出，以色列发誓追杀伊朗领导人；以总理重大决定：我们已别无选择</a></li>
-<li><a href="/worldnews/20231009/1944494.md">以色列与哈马斯战争：无论谁输，赢家都是它</a></li>
-<li><a href="/cbnews/20231009/1944547.md">实名举报、登上热搜，央视主持人张泽群危险？</a></li>
 <li><a href="/topimagenews/20231010/1944853.md">中国真实失业率 除了震惊，找不到任何形容词</a></li>
-<li><a href="/ssgc/20231010/1944769.md">〖微博谈〗不知道这个对华为来讲是不是个好消息？</a></li>
+<li><a href="/cbnews/20231009/1944547.md">实名举报、登上热搜，央视主持人张泽群危险？</a></li>
 <li><a href="/sohnews/20231010/1944884.md">强烈信号：李强罕见缺席重要会议，丁薛祥下台被陈吉宁接替，中共召开二十届三中全会布局人事。《老灯开讲第402期》</a></li>
+<li><a href="/ssgc/20231010/1944769.md">〖微博谈〗不知道这个对华为来讲是不是个好消息？</a></li>
 <li><a href="/topimagenews/20231009/1944606.md">以军在迦萨附近集结10万人部队！国防军发言人最新宣布</a></li>
 <li><a href="/sohnews/20231009/1944534.md">文睿：又，烂大街了，护照，正在成为中国人灾祸的来源，吴京呢？</a></li>
 <li><a href="/topimagenews/20231009/1944504.md">海外以色列人急返国！航空公司加开“紧急班机”</a></li>
 <li><a href="/baitai/20231010/1944690.md">一句「宁坐宝马哭不坐自行车笑」爆红 13年后 她...</a></li>
 <li><a href="/cnnews/20231009/1944554.md">中国12万退休干部海外养老，还继续拿养老金…</a></li>
-<li><a href="/baitai/20231009/1944590.md">投资2248亿 杭州亚运仅收回不到3%成本 美媒：收入不多 传递的政治信号不少</a></li>
 <li><a href="/topimagenews/20231010/1944852.md">【微博精粹】前线情报：恐怖组织全体使用华为手机 五鸡设备</a></li>
+<li><a href="/baitai/20231009/1944590.md">投资2248亿 杭州亚运仅收回不到3%成本 美媒：收入不多 传递的政治信号不少</a></li>
 <li><a href="/cbnews/20231009/1944634.md">小粉红：为啥有人去以色列留学？网全笑了</a></li>
+<li><a href="/cnnews/20231009/1944555.md">太心急？山东两村干部在办公室…被监控“直播”</a></li>
+<li><a href="/headline/20231010/1944766.md">舒默赞扬中国就哈马斯袭击以色列发表比之前更为有力的声明</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231010/1944992.md" target="_blank">多大的心，能把4岁女儿一个人扔在海滩上？</a></li>
 <li><a href="/cbnews/20231010/1944966.md" target="_blank">洪水发生一个月后，我在涿州拍下这些照片</a></li>
 <li><a href="/cbnews/20231010/1944954.md" target="_blank">上海单身女教师网恋 警劝12次不果 痛失400万</a></li>
 <li><a href="/cbnews/20231010/1944947.md" target="_blank">中国各地房市调控175次创新高 宽松政策无可再出</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231009/1944547.md" target="_blank">实名举报、登上热搜，央视主持人张泽群危险？</a></li>
 <li><a href="/cbnews/20231009/1944520.md" target="_blank">宛如文革再现！中共各大喉舌现惊人一幕【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231009/1944493.md" target="_blank">吓人：重庆33层居民楼底下被挖出4室1厅，结果…</a></li>
-<li><a href="/cbnews/20231009/1944484.md" target="_blank">山东女三宝撞人慌了“掏卫生棉山盖头止血”网整排看傻：它吸血不止血…</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/topimagenews/20180529/949649.md" target="_blank">魔鬼在统治着我们的世界(9)：信仰篇</a></li>
-<li><a href="/comments/20220814/1771410.md" target="_blank">鲁迅是族魂还是日本汉奸？</a></li>
-<li><a href="/comments/20191203/1234383.md" target="_blank">修炼法轮功大展神通：摄魂大法、御气成刀、化功、超感功能</a></li>
-<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/comments/20220920/1786910.md" target="_blank">中苏特别条约计划消灭一亿人中国人</a></li>
-<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
-<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
-<li><a href="/comments/20210716/1588420.md" target="_blank">6岁寻找前世父母，不上学就识字。中国首例公开报导，海南“再生人”轮回转世！记者采访发现：他所做的一切，原来只是为了这件事 &#8230;&#8230;</a></li>
-<li><a href="/comments/20190427/1119935.md" target="_blank">子不语怪力乱神 两千多年来我们都理解错了</a></li>
-<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
-<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20190516/1128964.md" target="_blank">法轮功再创神话：真人视频-五处粉碎性骨折炼功康复</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
 <li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/bookonline/20131116/201057.md" target="_blank">《九评共产党》在线阅读</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20210801/1597741.md" target="_blank">女儿成绩全校第一的原因——在女儿高三家长会上的发言</a></li>
+<li><a href="/comments/20220614/1745276.md" target="_blank">心理汉奸谬论：唐山女孩被打无人见义勇为 是因为种族问题？</a></li>
 <li><a href="/comments/20221120/1813928.md" target="_blank">如何鉴别五毛，特别是伪装成反共异议人士的五毛</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/comments/20210907/1620306.md" target="_blank">瑞典音响师修炼法轮功轻松戒毒 花粉症康复（真人照片）</a></li>
-<li><a href="/ccpdope/20220710/1756358.md" target="_blank">大卫.科波菲尔的神奇魔术表演背后</a></li>
+<li><a href="/cbnews/20200531/1337381.md" target="_blank">地狱除名！38军退伍老兵游历阴曹地府真实经历</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/lifebaike/20200505/1323183.md" target="_blank">大陆的朋友为什么说话爱用反问句？</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
+<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
+<li><a href="/topimagenews/20180519/944624.md" target="_blank">魔鬼在统治着我们的世界 (1)</a></li>
+<li><a href="/comments/20210810/1603664.md" target="_blank">中医武术气功特异功能大师李有甫的传奇故事</a></li>
+<li><a href="/comments/20230812/1919435.md" target="_blank">Vaxxed-From Cover-Up to Catastrophe 接种疫苗 掩盖真相造成灾难 疫苗和自闭症</a></li>
+<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/topimagenews/20170331/738673.md" target="_blank">关贵敏《那就是我》举世无双 无人望其项背</a></li>
+<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
 
 </ul>
 </div>
