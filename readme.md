@@ -12,22 +12,22 @@
 <li><a href="/lifebaike/20231009/1944535.md">哈佛一口气开除51名学生！中国留学生退学率惊人</a></li>
 <li><a href="/cbnews/20231009/1944423.md">〖兲朝浮世绘〗习近平文化思想应该就是毛泽东流氓思想的传承吧？</a></li>
 <li><a href="/baitai/20231010/1944699.md">态度变了！习近平会见美参院防团 袖舒默不满北京表态促习谴责哈马斯</a></li>
-<li><a href="/cbnews/20231009/1944414.md">比哈马斯恐怖分子更邪恶！看看这些中国网友</a></li>
 <li><a href="/cbnews/20231009/1944493.md">吓人：重庆33层居民楼底下被挖出4室1厅，结果…</a></li>
 <li><a href="/topimagenews/20231009/1944519.md">50年前一幕重演？中东战争爆发，随后爆发第一次石油危机</a></li>
 <li><a href="/topimagenews/20231010/1944751.md">惊呆 巴勒斯坦总统无恶不作 衷心感谢中共支持</a></li>
 <li><a href="/comments/20231009/1944469.md">弗林将军就以色列局势说出一句令人震惊的话。川普赢纽约和佛州两场关键法律战。#川普 #商业欺诈案 #机密文件案</a></li>
+<li><a href="/sohnews/20231010/1944745.md">华为暗助哈马斯？策划袭击长达2年，细节曝光！主谋浮出，以色列发誓追杀伊朗领导人；以总理重大决定：我们已别无选择</a></li>
 <li><a href="/cbnews/20231009/1944547.md">实名举报、登上热搜，央视主持人张泽群危险？</a></li>
 <li><a href="/worldnews/20231009/1944494.md">以色列与哈马斯战争：无论谁输，赢家都是它</a></li>
-<li><a href="/sohnews/20231010/1944745.md">华为暗助哈马斯？策划袭击长达2年，细节曝光！主谋浮出，以色列发誓追杀伊朗领导人；以总理重大决定：我们已别无选择</a></li>
 <li><a href="/topimagenews/20231009/1944606.md">以军在迦萨附近集结10万人部队！国防军发言人最新宣布</a></li>
-<li><a href="/topimagenews/20231009/1944504.md">海外以色列人急返国！航空公司加开“紧急班机”</a></li>
 <li><a href="/sohnews/20231009/1944534.md">文睿：又，烂大街了，护照，正在成为中国人灾祸的来源，吴京呢？</a></li>
+<li><a href="/topimagenews/20231009/1944504.md">海外以色列人急返国！航空公司加开“紧急班机”</a></li>
+<li><a href="/topimagenews/20231010/1944759.md">中国富豪恐慌 地下钱庄遍布全国</a></li>
 <li><a href="/sohnews/20231009/1944238.md">炸了！哈马斯绑走的女孩Noa是华人！以色列驻华使馆怒了，“我在被屠杀你TM叫我协商？”</a></li>
 <li><a href="/baitai/20231010/1944690.md">一句「宁坐宝马哭不坐自行车笑」爆红 13年后 她...</a></li>
 <li><a href="/cnnews/20231009/1944554.md">中国12万退休干部海外养老，还继续拿养老金…</a></li>
-<li><a href="/topimagenews/20231010/1944759.md">中国富豪恐慌 地下钱庄遍布全国</a></li>
 <li><a href="/headline/20231009/1944455.md">中国光大集团原党委书记、董事长李晓鹏被“双开”</a></li>
+<li><a href="/baitai/20231009/1944590.md">投资2248亿 杭州亚运仅收回不到3%成本 美媒：收入不多 传递的政治信号不少</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231010/1944893.md" target="_blank">〖兲朝浮世绘〗在中国老百姓能和习总靠这么近吗？</a></li>
 <li><a href="/comments/20231010/1944857.md" target="_blank">事出反常必有妖：拜登白宫烧烤，奥巴马保持沉默。以遇袭，哈的钱和武器，都是拜登政府送的？</a></li>
 <li><a href="/comments/20231010/1944797.md" target="_blank">哈马斯突袭以色列，谁是背后推手？摩萨德为何失灵？战争会升级或扩大？｜周子定 方菲｜新闻烽火台 10/09</a></li>
 <li><a href="/cbnews/20231010/1944784.md" target="_blank">越南利用间谍软件攻击全球政要 蔡英文也遭锁定</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/cbnews/20231009/1944459.md" target="_blank">月入500万？中国网红行业报告揭真相：他年赚18亿…</a></li>
 <li><a href="/cbnews/20231009/1944458.md" target="_blank">广州乘客火车上被人持刀杀害，官方通报：撤职免职</a></li>
 <li><a href="/cbnews/20231009/1944423.md" target="_blank">〖兲朝浮世绘〗习近平文化思想应该就是毛泽东流氓思想的传承吧？</a></li>
-<li><a href="/cbnews/20231009/1944414.md" target="_blank">比哈马斯恐怖分子更邪恶！看看这些中国网友</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/topimagenews/20180605/953415.md" target="_blank">魔鬼在统治着我们的世界(14)：经济篇(上)</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20230515/1884431.md" target="_blank">OpenAI-ChatGPT支持的免费邮箱有哪些（2023最新情况）</a></li>
-<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
-<li><a href="/bannedvideo/20201203/1441331.md" target="_blank">【馨香雅句】服章之美谓之华，开启中国服饰文化的竟是她</a></li>
-<li><a href="/tculture/20121025/73066.md" target="_blank">历史的天空：漫长的宇宙历史中的法缘（下部）</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/comments/20210804/1600181.md" target="_blank">【方菲访谈】专访李有甫：我的寻道之路</a></li>
-<li><a href="/comments/20200712/1359432.md" target="_blank">2020的第二波瘟疫会是人类的大劫难吗</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
-<li><a href="/comments/20210629/1576797.md" target="_blank">孙延军教授：从哲学博士、宗教学者到法轮功弟子的故事</a></li>
-<li><a href="/comments/20221222/1826754.md" target="_blank">沈阳老军医指证中共活摘器官集中营（1）</a></li>
-<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
-<li><a href="/bookonline/20131116/201053.md" target="_blank">《九评共产党》之四 评共产党是反宇宙的力量</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
-<li><a href="/comments/20230502/1879311.md" target="_blank">余英时：近代儒家与民主——《文化中国》会议发言</a></li>
-<li><a href="/comments/20200511/1322384.md" target="_blank">穿越时空 谢田教授修炼法轮功体验宿命通</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20200528/1335859.md" target="_blank">台湾企业高管退出宗教团体 修炼法轮功实现幸福人生</a></li>
+<li><a href="/comments/20200712/1359456.md" target="_blank">月球是人造的宇宙飞船？曾经重创外星舰队，保护地球安全</a></li>
+<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
+<li><a href="/cbnews/20201004/1408019.md" target="_blank">美禁止共产党员移民 “三退”需主动</a></li>
+<li><a href="/comments/20211129/1658340.md" target="_blank">必看：盘点轮回转世存在的实锤证据</a></li>
+<li><a href="/comments/20220924/485408.md" target="_blank">复兴中华文化，中国将成为世界上最伟大的国家</a></li>
+<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
+<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20210210/1484775.md" target="_blank">【西游义趣】之一：神秘的樵夫</a></li>
+<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/tculture/20121025/73067.md" target="_blank">历史的天空：一位大法弟子天国世界</a></li>
+<li><a href="/comments/20200503/1322531.md" target="_blank">禁闻网推出安卓翻墙新闻APP（FQNews APP）</a></li>
+<li><a href="/cbnews/20210720/1590052.md" target="_blank">修炼法轮功保持青春 娇气女变和善女</a></li>
+<li><a href="/tculture/20200812/1378929.md" target="_blank">冥冥之中有定数：参谋长是什么官？</a></li>
+<li><a href="/comments/20220119/1681422.md" target="_blank">视频：中共革中华文化的命，台湾则开展中华文化复兴运动</a></li>
+<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
+<li><a href="/cbnews/20200516/1329218.md" target="_blank">法轮大法给了我女儿最好的教育</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/comments/20200814/1379994.md" target="_blank">搞政治是天赋人权，应该大搞特搞</a></li>
+<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
+<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
+<li><a href="/comments/20220331/1712636.md" target="_blank">中共——政教合一的极端邪教</a></li>
 
 </ul>
 </div>
