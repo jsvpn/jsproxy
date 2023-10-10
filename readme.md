@@ -6,28 +6,28 @@
 <ul>
 
 <li><a href="/baitai/20231010/1944699.md">态度变了！习近平会见美参院防团 袖舒默不满北京表态促习谴责哈马斯</a></li>
-<li><a href="/sohnews/20231010/1944884.md">强烈信号：李强罕见缺席重要会议，丁薛祥下台被陈吉宁接替，中共召开二十届三中全会布局人事。《老灯开讲第402期》</a></li>
 <li><a href="/topimagenews/20231010/1944751.md">惊呆 巴勒斯坦总统无恶不作 衷心感谢中共支持</a></li>
+<li><a href="/sohnews/20231010/1944884.md">强烈信号：李强罕见缺席重要会议，丁薛祥下台被陈吉宁接替，中共召开二十届三中全会布局人事。《老灯开讲第402期》</a></li>
 <li><a href="/sohnews/20231010/1944745.md">华为暗助哈马斯？策划袭击长达2年，细节曝光！主谋浮出，以色列发誓追杀伊朗领导人；以总理重大决定：我们已别无选择</a></li>
 <li><a href="/topimagenews/20231010/1944759.md">中国富豪恐慌 地下钱庄遍布全国</a></li>
 <li><a href="/baitai/20231010/1944777.md">央视女主持李思思离职 被爆其夫背景不一般</a></li>
-<li><a href="/topimagenews/20231010/1944853.md">中国真实失业率 除了震惊，找不到任何形容词</a></li>
 <li><a href="/topimagenews/20231010/1944953.md">哇！以色列士兵当众将大杀器安在了哈马斯分子身上【阿波罗网报道】</a></li>
-<li><a href="/topimagenews/20231009/1944606.md">以军在迦萨附近集结10万人部队！国防军发言人最新宣布</a></li>
+<li><a href="/topimagenews/20231010/1944853.md">中国真实失业率 除了震惊，找不到任何形容词</a></li>
 <li><a href="/ssgc/20231010/1944769.md">〖微博谈〗不知道这个对华为来讲是不是个好消息？</a></li>
+<li><a href="/topimagenews/20231009/1944606.md">以军在迦萨附近集结10万人部队！国防军发言人最新宣布</a></li>
 <li><a href="/baitai/20231010/1944690.md">一句「宁坐宝马哭不坐自行车笑」爆红 13年后 她...</a></li>
 <li><a href="/topimagenews/20231010/1944852.md">【微博精粹】前线情报：恐怖组织全体使用华为手机 五鸡设备</a></li>
 <li><a href="/topimagenews/20231010/1944894.md">“中共在哪？” 亚裔男冲撞旧金山中领馆曝光</a></li>
 <li><a href="/lifebaike/20231010/1944898.md">被传“和领导睡了” 这个姑娘的反杀绝了</a></li>
-<li><a href="/baitai/20231009/1944590.md">投资2248亿 杭州亚运仅收回不到3%成本 美媒：收入不多 传递的政治信号不少</a></li>
 <li><a href="/topimagenews/20231010/1945034.md">揭秘：中共就这样打了以色列 写小说都不敢这样写【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231009/1944634.md">小粉红：为啥有人去以色列留学？网全笑了</a></li>
 <li><a href="/headline/20231010/1944766.md">舒默赞扬中国就哈马斯袭击以色列发表比之前更为有力的声明</a></li>
-<li><a href="/topimagenews/20231010/1944945.md">中美刺刀见红 贸易战重启？</a></li>
 <li><a href="/cbnews/20231010/1944893.md">〖兲朝浮世绘〗在中国老百姓能和习总靠这么近吗？</a></li>
+<li><a href="/topimagenews/20231010/1944945.md">中美刺刀见红 贸易战重启？</a></li>
 <li><a href="/topimagenews/20231009/1944633.md">房地产危机造成中国银行业空前压力 却等不到政府纾困措施</a></li>
 <li><a href="/ccpdope/20231010/1944848.md">军队突然出现塌方式崩溃 中共灭亡在即</a></li>
-<li><a href="/sohnews/20231010/1944694.md">“最新消息！正在征集30万预备役军人 对伊朗宣战？”No.01（10/09/23）</a></li>
+<li><a href="/baitai/20231010/1944723.md">李强黑料被挖 习近平会出手吗？</a></li>
+<li><a href="/cbnews/20231010/1944966.md">洪水发生一个月后，我在涿州拍下这些照片</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231010/1945115.md" target="_blank">【财经拆局】「塘水滚塘鱼」外资撤走 股市死气沉沉</a></li>
 <li><a href="/comments/20231010/1944928.md" target="_blank">7.8亿中国人负债 钱都哪去了？</a></li>
 <li><a href="/comments/20231010/1944911.md" target="_blank">蔡慎坤：哈马斯大金主终于坐不住了</a></li>
 <li><a href="/comments/20231010/1944906.md" target="_blank">哈马斯幕後黑手众望所归，习近平遭以色列追问？巴勒斯坦小粉红泄密攻台计画？华为闯大祸了</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231010/1944683.md" target="_blank">宇宙只是幻象？！时间是幻觉？</a></li>
 <li><a href="/comments/20231010/1944681.md" target="_blank">时事大家谈：中东风云突变 牵动乌战与全球战略格局？</a></li>
 <li><a href="/comments/20231010/1944680.md" target="_blank">时事大家谈：哈马斯全面突袭以色列 谁是幕后推手？</a></li>
-<li><a href="/comments/20231009/1944669.md" target="_blank">【未普评论】习近平整肃军队的深层原因</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/comments/20220826/1776760.md" target="_blank">医学博士主治医师王元甫：《转法轮》是一本天书</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/ccpdope/20200729/1369047.md" target="_blank">民运人士高健：我所了解的法轮功</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/comments/20230528/1889935.md" target="_blank">曾节明：秦朝的技术之迷</a></li>
+<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
 <li><a href="/comments/20230427/1875415.md" target="_blank">韩国贸易公司代表炼法轮功几天 三十年病痛消失（图）</a></li>
-<li><a href="/topimagenews/20180701/965109.md" target="_blank">魔鬼在统治着我们的世界(18)：教育篇(上)</a></li>
-<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20200531/1337359.md" target="_blank">日料老板修炼法轮功 三位加拿大总理多次光临餐馆</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/comments/20200627/783266.md" target="_blank">禁闻网发布新版安卓APP海外版</a></li>
+<li><a href="/lifebaike/20200315/1294178.md" target="_blank">在宋朝连皇帝也不敢强拆迁</a></li>
 <li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20210905/1619324.md" target="_blank">法轮功新学员：我的大肠癌不见了（真人照片）</a></li>
-<li><a href="/topimagenews/20180520/944940.md" target="_blank">魔鬼在统治着我们的世界 (2)</a></li>
-<li><a href="/cnnews/20221111/1809674.md" target="_blank">中共高干千家驹：我亲眼所见的人体特异功能</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/bannedvideo/20220120/1681818.md" target="_blank">谁说大饥荒没反抗？大饥荒时期的各地农民起义及失败原因</a></li>
-<li><a href="/comments/20220531/1739728.md" target="_blank">矢板明夫：江泽民为何镇压法轮功？原因你绝对猜不到</a></li>
-<li><a href="/cbnews/20220615/1745823.md" target="_blank">唐山烧烤店无人见义勇为的背后藏着中共的险恶用心</a></li>
-<li><a href="/topimagenews/20180529/950153.md" target="_blank">魔鬼在统治着我们的世界(10)：家庭篇(上)</a></li>
-<li><a href="/bannedvideo/20220403/1714030.md" target="_blank">韩服 汉服 为何如此相像 四</a></li>
-<li><a href="/tculture/20120629/35483.md" target="_blank">神是否存在的争论被一下敲定-讲给无神论者的真实故事</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
-<li><a href="/ccpdope/20200907/1392129.md" target="_blank">太神奇了！怪梦救情人</a></li>
-<li><a href="/comments/20221226/1827998.md" target="_blank">专访胡乃文夫人：法轮功祛病健身的奇迹</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20220902/1779609.md" target="_blank">唐宫剑舞第一人——公孙大娘传奇故事</a></li>
-<li><a href="/cbnews/20180907/994846.md" target="_blank">魔鬼在统治着我们的世界(24)：环保主义(下)</a></li>
-<li><a href="/comments/20230430/1878187.md" target="_blank">张锡纯治糖尿病 药方结合民间食疗</a></li>
+<li><a href="/comments/20180716/972458.md" target="_blank">魔鬼在统治着我们的世界(19)：教育篇(下)</a></li>
+<li><a href="/comments/20220728/1764121.md" target="_blank">世界500强前高管EndCCP车游：传统文化威力爆炸-集团老总瞠目结舌</a></li>
+<li><a href="/cbnews/20210421/1530674.md" target="_blank">新冠病毒检测中心里的故事：美好的缘份 生命的奇迹</a></li>
+<li><a href="/comments/20220722/1761708.md" target="_blank">道家治国：道法自然无为而无不为，诞生世界第一强国</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/aomi/history/20141104/323033.md" target="_blank">史前回忆：我当工程师参与建造了月亮</a></li>
+<li><a href="/cbnews/20220707/1755000.md" target="_blank">台湾茑松艺术高中校长：修炼法轮功就像从泥沼中被捞起</a></li>
+<li><a href="/baitai/20221002/1792160.md" target="_blank">政治扫盲：厘清祖国、国家、政府、政党的概念</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/cbnews/20200720/1363328.md" target="_blank">胡平：中共对法轮功的污蔑走入穷途末路</a></li>
 
 </ul>
 </div>
