@@ -9,25 +9,25 @@
 <li><a href="/topimagenews/20231010/1944953.md">哇！以色列士兵当众将大杀器安在了哈马斯分子身上【阿波罗网报道】</a></li>
 <li><a href="/yule/20231010/1945018.md">黄任中称 林青霞邓丽君都是他的“床上宾”</a></li>
 <li><a href="/topimagenews/20231010/1945074.md">两天前才庆祝现在哭! 这条街将女模人质赤裸游街辱尸 以狠击报复</a></li>
-<li><a href="/lifebaike/20231010/1944898.md">被传“和领导睡了” 这个姑娘的反杀绝了</a></li>
 <li><a href="/sohnews/20231010/1944662.md">舒默简直就是把王毅和习近平当孙子训啊，太不像话了（中文字幕）</a></li>
 <li><a href="/sohnews/20231010/1945066.md">陈破空：不正常，唯独李强缺席！六常委亮相大会。突发：有人驾车撞入旧金山中领馆，大喊中共在哪里？遭警察击杀。美东时间10月10日早8点45、即中港台10月10日晚8点45</a></li>
 <li><a href="/baitai/20231010/1945042.md">再穷再惨也不能说？人民日报雷文点燃网民怒火</a></li>
 <li><a href="/sohnews/20231010/1945079.md">一个空前的小细节，舒默代表美国壁咚了习近平。中共跪得如此含蓄</a></li>
-<li><a href="/topimagenews/20231010/1944894.md">“中共在哪？” 亚裔男冲撞旧金山中领馆曝光</a></li>
 <li><a href="/topimagenews/20231010/1945154.md">哈玛斯5千导弹哪来？乌克兰提出警告</a></li>
 <li><a href="/cbnews/20231010/1944966.md">洪水发生一个月后，我在涿州拍下这些照片</a></li>
-<li><a href="/ssgc/20231010/1944934.md">习近平的神秘疾病与中南海“御医”</a></li>
 <li><a href="/topimagenews/20231010/1945112.md">外媒透露：2中国人在以色列当街被哈马斯开枪杀害 在中国完全搜不到资讯</a></li>
+<li><a href="/ssgc/20231010/1944934.md">习近平的神秘疾病与中南海“御医”</a></li>
 <li><a href="/worldnews/20231010/1944982.md">打怕了? 哈马斯称愿意谈判停火</a></li>
-<li><a href="/worldnews/20231011/1945247.md">哈玛斯扬言处决俘虏 以色列军方发言人：无济于事</a></li>
 <li><a href="/topimagenews/20231010/1944945.md">中美刺刀见红 贸易战重启？</a></li>
+<li><a href="/worldnews/20231011/1945247.md">哈玛斯扬言处决俘虏 以色列军方发言人：无济于事</a></li>
 <li><a href="/topimagenews/20231010/1945113.md">中国要这样 中共马上垮台！强硬反击…以发枪！“1万把突击步枪”优先给这些地方</a></li>
 <li><a href="/headline/20231011/1945255.md">中国公布免签和绿卡新政策，美国华裔兴趣不大</a></li>
-<li><a href="/comments/20231010/1944911.md">蔡慎坤：哈马斯大金主终于坐不住了</a></li>
-<li><a href="/baitai/20231010/1945077.md">英国通灵预言家帕克预测：以色列将摧毁伊朗核设施 台湾处于危险中</a></li>
 <li><a href="/baitai/20231011/1945282.md">前体育总局副局长杜兆才下马 只因「杜叔叔」与「侄女」暧昧惹的祸</a></li>
+<li><a href="/comments/20231010/1944911.md">蔡慎坤：哈马斯大金主终于坐不住了</a></li>
+<li><a href="/topimagenews/20231011/1945298.md">躲不过，终于轮到碧桂园了… 后面行业的大雷更超过房地产【阿波罗网报道】</a></li>
+<li><a href="/baitai/20231010/1945077.md">英国通灵预言家帕克预测：以色列将摧毁伊朗核设施 台湾处于危险中</a></li>
 <li><a href="/cbnews/20231010/1944944.md">江峰：战端一开习近平乐开怀，台海风云再起？巧合？冬奥会普京俄乌战争+亚运会阿萨德以阿战争。哈玛斯称幕後神秘国度究竟是？以色列情报和边境黑洞，巴勒斯坦是个怎样的国？【江峰漫谈20231009第744期】</a></li>
+<li><a href="/sohnews/20231010/1945070.md">文睿：就差，跪下了，一尊，见美国人，这次不敢得瑟了，原因一目了然</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,7 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231011/1945485.md" target="_blank">〖兲朝浮世绘〗上次指鼠为鸭 这次指鼠为牛</a></li>
 <li><a href="/cbnews/20231011/1945471.md" target="_blank">中国宣称驱赶菲律宾军舰 菲驳斥：没这回事</a></li>
 <li><a href="/cbnews/20231011/1945470.md" target="_blank">印度军队招募中文翻译</a></li>
 <li><a href="/cbnews/20231011/1945458.md" target="_blank">不满被中国网民叫“坡县” 新加坡人吵起来了</a></li>
@@ -59,7 +60,6 @@
 <li><a href="/comments/20231010/1944797.md" target="_blank">哈马斯突袭以色列，谁是背后推手？摩萨德为何失灵？战争会升级或扩大？｜周子定 方菲｜新闻烽火台 10/09</a></li>
 <li><a href="/cbnews/20231010/1944784.md" target="_blank">越南利用间谍软件攻击全球政要 蔡英文也遭锁定</a></li>
 <li><a href="/cbnews/20231010/1944758.md" target="_blank">江峰：潜艇出事儿，报还是不报很玄妙 #核潜艇事故</a></li>
-<li><a href="/cbnews/20231010/1944756.md" target="_blank">美国思想领袖：【精彩片段】哈马斯突袭以色列 背後有其它力量支持？中俄在扮演什麽角色？- #新闻大家谈</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
-<li><a href="/tculture/20190304/1091072.md" target="_blank">逆天而为痛悔迟19-1：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/comments/20200720/1363377.md" target="_blank">方伟：“人人生而平等” 含义有三个方面</a></li>
-<li><a href="/comments/20210317/1506773.md" target="_blank">法轮功学员穿过的绒衣成了仙衣 吸毒者穿上毒瘾立止</a></li>
-<li><a href="/comments/20200517/1330064.md" target="_blank">香港气功师见证奇效 推荐法轮功九字真言</a></li>
-<li><a href="/lishi/20130311/666695.md" target="_blank">鲁迅是民族性的毒药</a></li>
+<li><a href="/ssgc/20200820/1382763.md" target="_blank">为什么汉语是世界上最优秀的语言</a></li>
+<li><a href="/cbnews/20200703/1354907.md" target="_blank">关于法轮功 三个事实破除中共的谎言</a></li>
+<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
+<li><a href="/comments/20200622/1346846.md" target="_blank">迫害耶稣信徒的得力干将  为何成为最伟大的传教士？</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/cbnews/20210526/1554325.md" target="_blank">【庆祝513】玻璃体手术从不失败的医生</a></li>
+<li><a href="/comments/20200801/1373219.md" target="_blank">台湾主治医师：被法轮功的奇迹折服</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
 <li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
-<li><a href="/aomi/life/20210719/1589642.md" target="_blank">小粉红移民澳洲：修炼法轮功峰回路转</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
-<li><a href="/comments/20210402/1257608.md" target="_blank">V2ray VPN &#8211; 基于V2ray的安卓免费VPN-新增Vless支持</a></li>
-<li><a href="/comments/20200515/220430.md" target="_blank">公安部内部统计：三年大饥荒饿死9600万人</a></li>
-<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/comments/20230815/1920336.md" target="_blank">中国医生现身揭露大陆医疗黑幕，大陆癌症治疗黑幕</a></li>
-<li><a href="/lifebaike/20170523/762432.md" target="_blank">古中医超常的功能 天目一眼看穿病灶</a></li>
-<li><a href="/cbnews/20210507/1541162.md" target="_blank">父母的故事：母亲去世变仙女 父亲去世变饿鬼</a></li>
-<li><a href="/topimagenews/20181117/1032655.md" target="_blank">武术大师薛颠的功夫《功夫.寻道》片外故事 李有甫说故事</a></li>
-<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
-<li><a href="/comments/20180802/980476.md" target="_blank">魔鬼在统治着我们的世界(21)：文化篇</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/cbnews/20211114/1652055.md" target="_blank">医生修炼法轮功 不开回扣药、不收红包</a></li>
+<li><a href="/comments/20220503/1727847.md" target="_blank">古希腊与基督教中的轮回观念</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/cbnews/20210731/1597512.md" target="_blank">深度揭秘共产主义和共产党</a></li>
+<li><a href="/comments/20200606/783250.md" target="_blank">牲人论者的无耻嘴脸</a></li>
+<li><a href="/topimagenews/20161125/619230.md" target="_blank">关于法轮功，每个人都应该了解的真相</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/topimagenews/20180610/955499.md" target="_blank">魔鬼在统治着我们的世界(15)：经济篇(下)</a></li>
+<li><a href="/bannedvideo/20220328/1710971.md" target="_blank">韩服 汉服 为何如此相像 三 为何朝鲜王朝为明朝建了大报坛</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
 <li><a href="/tculture/20170925/832035.md" target="_blank">解周易八卦与神传文字（六）：有生命的汉字</a></li>
-<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
-<li><a href="/comments/20190417/1114875.md" target="_blank">聊聊关于法轮功的一些特别尖锐的问题</a></li>
+<li><a href="/cnnews/20210213/1486568.md" target="_blank">鲁迅是中国第一大汉奸</a></li>
+<li><a href="/ccpdope/20190803/1168965.md" target="_blank">耶稣为何不从十字架上走下来 证明自己是神</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
 
 </ul>
 </div>
