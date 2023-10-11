@@ -5,7 +5,6 @@
 <div><b>提示：</b>微信如提示停止访问该网页，须先点击右上角三个点，选择浏览器打开。国产浏览器可能已屏蔽本项目，建议使用谷歌Chrome、苹果Safari、微软Edge等官方浏览器。或<a href="%E5%88%B6%E4%BD%9Cgit%E7%A6%81%E9%97%BB%E9%95%9C%E5%83%8F.md">制作本项目的同步镜像</a>，获得一个新的网址来推广。</div>
 <ul>
 
-<li><a href="/sohnews/20231010/1944884.md">强烈信号：李强罕见缺席重要会议，丁薛祥下台被陈吉宁接替，中共召开二十届三中全会布局人事。《老灯开讲第402期》</a></li>
 <li><a href="/topimagenews/20231010/1945034.md">揭秘：中共就这样打了以色列 写小说都不敢这样写【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231010/1944953.md">哇！以色列士兵当众将大杀器安在了哈马斯分子身上【阿波罗网报道】</a></li>
 <li><a href="/yule/20231010/1945018.md">黄任中称 林青霞邓丽君都是他的“床上宾”</a></li>
@@ -23,11 +22,12 @@
 <li><a href="/ssgc/20231010/1944934.md">习近平的神秘疾病与中南海“御医”</a></li>
 <li><a href="/worldnews/20231010/1944982.md">打怕了? 哈马斯称愿意谈判停火</a></li>
 <li><a href="/topimagenews/20231010/1945113.md">中国要这样 中共马上垮台！强硬反击…以发枪！“1万把突击步枪”优先给这些地方</a></li>
-<li><a href="/topimagenews/20231010/1944945.md">中美刺刀见红 贸易战重启？</a></li>
 <li><a href="/worldnews/20231011/1945247.md">哈玛斯扬言处决俘虏 以色列军方发言人：无济于事</a></li>
+<li><a href="/topimagenews/20231010/1944945.md">中美刺刀见红 贸易战重启？</a></li>
 <li><a href="/headline/20231011/1945255.md">中国公布免签和绿卡新政策，美国华裔兴趣不大</a></li>
 <li><a href="/comments/20231010/1944911.md">蔡慎坤：哈马斯大金主终于坐不住了</a></li>
 <li><a href="/cbnews/20231010/1944944.md">江峰：战端一开习近平乐开怀，台海风云再起？巧合？冬奥会普京俄乌战争+亚运会阿萨德以阿战争。哈玛斯称幕後神秘国度究竟是？以色列情报和边境黑洞，巴勒斯坦是个怎样的国？【江峰漫谈20231009第744期】</a></li>
+<li><a href="/sohnews/20231010/1945070.md">文睿：就差，跪下了，一尊，见美国人，这次不敢得瑟了，原因一目了然</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231011/1945458.md" target="_blank">不满被中国网民叫“坡县” 新加坡人吵起来了</a></li>
+<li><a href="/cbnews/20231011/1945457.md" target="_blank">中共官场又有新动向</a></li>
 <li><a href="/cbnews/20231011/1945441.md" target="_blank">没撤侨回国机票价格翻倍 中国游客逃离以色列</a></li>
 <li><a href="/cbnews/20231011/1945440.md" target="_blank">在以色列中国人至少2死3伤 中共耍嘴皮子 就是不撤侨</a></li>
 <li><a href="/cbnews/20231011/1945385.md" target="_blank">第三次世界大战要来？ 以巴战火3大疑点3大巧合</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20231010/1944756.md" target="_blank">美国思想领袖：【精彩片段】哈马斯突袭以色列 背後有其它力量支持？中俄在扮演什麽角色？- #新闻大家谈</a></li>
 <li><a href="/cbnews/20231010/1944746.md" target="_blank">美国思想领袖：【精彩片段】中共除了大撒钱外 对中东国家会有什麽样的大国影响力？- #新闻大家谈</a></li>
 <li><a href="/cbnews/20231010/1944733.md" target="_blank">美国思想领袖：【精彩片段】美国助以色列启动最强空军！以巴冲突将会快速结束？会蔓延到台海吗？ &#8211; #新闻大家谈</a></li>
-<li><a href="/comments/20231010/1944686.md" target="_blank">宇宙只是幻象？！量子纠缠</a></li>
-<li><a href="/comments/20231010/1944685.md" target="_blank">宇宙只是幻象？！全息投影</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,7 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231011/1945460.md" target="_blank">要是爷爷没了退休金，北极鲶鱼一家可怎么活啊…</a></li>
 <li><a href="/comments/20231011/1945444.md" target="_blank">燕梳楼：河北程序员翻墙被罚事件，震动了国内外的IT圈</a></li>
 <li><a href="/comments/20231011/1945443.md" target="_blank">老牌恶棍: 巴以冲突：仇恨的怒火，平民的灾难</a></li>
 <li><a href="/comments/20231011/1945432.md" target="_blank">德媒：哈马斯威胁处决被俘的以色列平民人质</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231011/1945222.md" target="_blank">禁书解读 &#8211; 余杰：普天之下、率土之滨，都是中共的势力范围？- 克莱夫·汉密尔顿、马晓月《黑手：揭穿中国共产党如何改造世界》</a></li>
 <li><a href="/comments/20231010/1945191.md" target="_blank">时事大家谈：热点快评：蔡英文双十讲话释放哪些信息？美参院领袖会见习近平吁其支持以色列，北京有何打算？中国国企为何加紧部署人民武装部？</a></li>
 <li><a href="/comments/20231010/1945115.md" target="_blank">【财经拆局】「塘水滚塘鱼」外资撤走 股市死气沉沉</a></li>
-<li><a href="/comments/20231010/1944928.md" target="_blank">7.8亿中国人负债 钱都哪去了？</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
-<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
-<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
-<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
-<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
-<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
-<li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
+<li><a href="/cbnews/20230821/1923149.md" target="_blank">濒死轮回学揭示生命本质（上）</a></li>
+<li><a href="/comments/20190806/1168435.md" target="_blank">自由亚洲：【法轮功的20年（3）】：海外反共的重要力量</a></li>
+<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
+<li><a href="/tculture/20180501/935934.md" target="_blank">从尧舜禹三代之嘱，论中华为政及文武之道与术的辨证关系</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
 <li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
-<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
-<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
-<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
-<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
-<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
-<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
-<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
-<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
-<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
-<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
-<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
-<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
-<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
-<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
+<li><a href="/comments/20200810/1377609.md" target="_blank">觉醒（一）：物质的运动</a></li>
+<li><a href="/bannedvideo/20220321/1707657.md" target="_blank">韩服 汉服 为何如此相像 二</a></li>
+<li><a href="/bannedvideo/20220606/1742248.md" target="_blank">这个国家国王身穿汉服 很像中国官员</a></li>
+<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
+<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/tculture/20161028/606931.md" target="_blank">定中经历：巾帼英雄穆桂英(续集一)</a></li>
+<li><a href="/tculture/20180919/1000196.md" target="_blank">天目所见：天国的嘱托</a></li>
+<li><a href="/comments/20230715/1908335.md" target="_blank">谁出卖了中国？CIA红色间谍档案解密（1、2、3）</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
+<li><a href="/tculture/xiulian/20151104/467495.md" target="_blank">定中经历：穆桂英传奇(上)</a></li>
 
 </ul>
 </div>
