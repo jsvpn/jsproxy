@@ -6,27 +6,27 @@
 <ul>
 
 <li><a href="/sohnews/20231010/1944662.md">舒默简直就是把王毅和习近平当孙子训啊，太不像话了（中文字幕）</a></li>
-<li><a href="/sohnews/20231010/1945079.md">一个空前的小细节，舒默代表美国壁咚了习近平。中共跪得如此含蓄</a></li>
 <li><a href="/topimagenews/20231011/1945382.md">习家军内斗严重 这二人开始互殴</a></li>
 <li><a href="/topimagenews/20231010/1945154.md">哈玛斯5千导弹哪来？乌克兰提出警告</a></li>
 <li><a href="/topimagenews/20231010/1945112.md">外媒透露：2中国人在以色列当街被哈马斯开枪杀害 在中国完全搜不到资讯</a></li>
 <li><a href="/topimagenews/20231011/1945298.md">躲不过，终于轮到碧桂园了… 后面行业的大雷更超过房地产【阿波罗网报道】</a></li>
 <li><a href="/headline/20231011/1945255.md">中国公布免签和绿卡新政策，美国华裔兴趣不大</a></li>
+<li><a href="/sohnews/20231011/1945538.md">习近平到景德镇干了件大事，李鸿忠公开说习是如来佛，以色列报复中共向台湾转移核技术。《老灯开讲第403期》</a></li>
 <li><a href="/baitai/20231011/1945282.md">前体育总局副局长杜兆才下马 只因「杜叔叔」与「侄女」暧昧惹的祸</a></li>
 <li><a href="/worldnews/20231011/1945247.md">哈玛斯扬言处决俘虏 以色列军方发言人：无济于事</a></li>
-<li><a href="/sohnews/20231011/1945538.md">习近平到景德镇干了件大事，李鸿忠公开说习是如来佛，以色列报复中共向台湾转移核技术。《老灯开讲第403期》</a></li>
 <li><a href="/topimagenews/20231010/1945113.md">中国要这样 中共马上垮台！强硬反击…以发枪！“1万把突击步枪”优先给这些地方</a></li>
 <li><a href="/baitai/20231011/1945352.md">许家印倒下 中国两大银行爆挤兑 中共距政权危机还有多远？</a></li>
 <li><a href="/topimagenews/20231011/1945420.md">哈玛斯再传大屠杀！40婴幼儿部分遭斩首 以南200人惨死</a></li>
-<li><a href="/baitai/20231010/1945077.md">英国通灵预言家帕克预测：以色列将摧毁伊朗核设施 台湾处于危险中</a></li>
 <li><a href="/cbnews/20231011/1945485.md">〖兲朝浮世绘〗上次指鼠为鸭 这次指鼠为牛</a></li>
 <li><a href="/topimagenews/20231011/1945299.md">习近平会民主党大佬舒默 刚了还是怂了？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231011/1945457.md">中共官场又有新动向</a></li>
-<li><a href="/topimagenews/20231010/1945082.md">痛打哈玛斯 F35战机带头 以色列空中火力有多强</a></li>
 <li><a href="/sohnews/20231010/1945148.md">一切为了打仗，餐饮大佬讲中国消费真相，消费降级很惨淡，中国餐饮现状，中国法拍房暴增【小木分享】</a></li>
+<li><a href="/topimagenews/20231011/1945547.md">太耐人寻味了！习近平当面示好 舒默竟然这付表情【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231011/1945383.md">陆著名经济学家疾呼：中国现在必须改革</a></li>
 <li><a href="/headline/20231010/1945136.md">中国铜业大亨惊传失联</a></li>
 <li><a href="/worldnews/20231011/1945388.md">华尔街日报：以色列犯了大错</a></li>
+<li><a href="/topimagenews/20231011/1945507.md">拜登一反常态 美官员惊呼：从未见过</a></li>
+<li><a href="/cnnews/20231011/1945288.md">王光美的另一面心狠手辣迫害狂</a></li>
 <li><a href="/topimagenews/20231011/1945419.md">英通灵预言家帕克：以色列即将袭击伊朗 台湾危险 中美紧张</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20210307/1500218.md" target="_blank">多年的领导干部坚持信仰 党员大会上声明退党</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
+<li><a href="/comments/20200715/1359453.md" target="_blank">我的前世是谁？揭秘真实生活中的轮回转生！(探索与洞见)</a></li>
+<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
+<li><a href="/comments/20211023/1642745.md" target="_blank">日本越裔青年修炼法轮功浪子回头重获健康（真人帅照）</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20200705/783265.md" target="_blank">绝密禁片：克格勃特异功能超常现象研究档案（全3集）</a></li>
+<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
+<li><a href="/comments/20200926/1403589.md" target="_blank">鲜为人知的民国真相</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/comments/20220208/1689146.md" target="_blank">中国男人天生劣等吗？透视中国足球的阴盛阳衰现象 — 曾节明</a></li>
 <li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/topimagenews/20180527/948369.md" target="_blank">魔鬼在统治着我们的世界(7)：渗透西方(上)</a></li>
+<li><a href="/tculture/20130420/118886.md" target="_blank">六位修女的神奇故事和复活节惊世预言</a></li>
+<li><a href="/tculture/xiulian/20170726/797589.md" target="_blank">我所知道的地球历史与奥秘（三）：巴格达电池之谜</a></li>
+<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
+<li><a href="/comments/20220129/1685716.md" target="_blank">“方脑袋”的德国人，但是东德人却有点圆脑袋？</a></li>
+<li><a href="/comments/20200722/1364497.md" target="_blank">德国发明家抑郁厌世 修炼法轮功开启新生</a></li>
+<li><a href="/bannedvideo/20220411/1717515.md" target="_blank">琉球国文化和中国如此相像</a></li>
+<li><a href="/topimagenews/20200527/1335347.md" target="_blank">5G生物数码社会编程 AI向人散发生物物质</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
 <li><a href="/topimagenews/20210214/1487270.md" target="_blank">墨西哥孪生兄弟修炼法轮功神奇戒烟毒</a></li>
-<li><a href="/tculture/20121025/73069.md" target="_blank">法轮功宿命通功能还原历史真相：史前地球毁灭之秘</a></li>
-<li><a href="/bookwiki/20130610/138400.md" target="_blank">《解体党文化》</a></li>
-<li><a href="/comments/20201007/1409565.md" target="_blank">“集体主义”+“爱国主义”：中共的奴化模式剖析</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/comments/20200712/1359630.md" target="_blank">网友们借鉴下，如何说服小粉红、老粉红反共</a></li>
-<li><a href="/comments/20200820/1451960.md" target="_blank">United Against China CCP or Die From Nuclear War? 联合起来对付中共，还是死于核战？</a></li>
-<li><a href="/lifebaike/20210511/1544066.md" target="_blank">大灾难中竟然没有人是无辜的？《窦娥冤》的故事原型竟然说的如此明了</a></li>
-<li><a href="/bannedvideo/20210124/1473946.md" target="_blank">一个佛教徒受中共宣传迷惑敌视法轮功，后深深忏悔</a></li>
-<li><a href="/topimagenews/20200928/1404412.md" target="_blank">曾误陷黑社会刀口舔血 直到他无意中学会了翻墙&#8230;</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20221222/1826761.md" target="_blank">沈阳老军医指证中共活摘器官集中营（2）</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
-<li><a href="/comments/20230920/1936271.md" target="_blank">防止你的孩子不成功（5） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20220418/1721061.md" target="_blank">韩国数学家：法轮功让我找到人生方向</a></li>
-<li><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开当前瘟疫的妙招（修订版）</a></li>
-<li><a href="/comments/20221213/1822868.md" target="_blank">清华大学紫荆学生食堂示威视频：一个女生举白纸到数百人加入</a></li>
-<li><a href="/comments/20220514/1732752.md" target="_blank">视频：各界牛人齐聚，谈中共“终极禁忌话题”法轮功</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
+<li><a href="/lifebaike/20230911/1932098.md" target="_blank">精神疾病过度病理化或是医药产业的又一摇钱树</a></li>
+<li><a href="/comments/20200123/1263458.md" target="_blank">越南将军苦熬十轮化疗-一朝学法轮功喜获新生</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/cbnews/20220708/1755180.md" target="_blank">法轮功奇迹：抑郁症康复的若干案例</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
 
 </ul>
 </div>
