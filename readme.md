@@ -19,15 +19,15 @@
 <li><a href="/topimagenews/20231010/1945154.md">哈玛斯5千导弹哪来？乌克兰提出警告</a></li>
 <li><a href="/cbnews/20231010/1944893.md">〖兲朝浮世绘〗在中国老百姓能和习总靠这么近吗？</a></li>
 <li><a href="/cbnews/20231010/1944966.md">洪水发生一个月后，我在涿州拍下这些照片</a></li>
-<li><a href="/ssgc/20231010/1944934.md">习近平的神秘疾病与中南海“御医”</a></li>
 <li><a href="/topimagenews/20231010/1945112.md">外媒透露：2中国人在以色列当街被哈马斯开枪杀害 在中国完全搜不到资讯</a></li>
+<li><a href="/ssgc/20231010/1944934.md">习近平的神秘疾病与中南海“御医”</a></li>
 <li><a href="/worldnews/20231010/1944982.md">打怕了? 哈马斯称愿意谈判停火</a></li>
 <li><a href="/topimagenews/20231010/1945113.md">中国要这样 中共马上垮台！强硬反击…以发枪！“1万把突击步枪”优先给这些地方</a></li>
 <li><a href="/topimagenews/20231010/1944945.md">中美刺刀见红 贸易战重启？</a></li>
 <li><a href="/worldnews/20231011/1945247.md">哈玛斯扬言处决俘虏 以色列军方发言人：无济于事</a></li>
+<li><a href="/headline/20231011/1945255.md">中国公布免签和绿卡新政策，美国华裔兴趣不大</a></li>
 <li><a href="/comments/20231010/1944911.md">蔡慎坤：哈马斯大金主终于坐不住了</a></li>
 <li><a href="/cbnews/20231010/1944944.md">江峰：战端一开习近平乐开怀，台海风云再起？巧合？冬奥会普京俄乌战争+亚运会阿萨德以阿战争。哈玛斯称幕後神秘国度究竟是？以色列情报和边境黑洞，巴勒斯坦是个怎样的国？【江峰漫谈20231009第744期】</a></li>
-<li><a href="/sohnews/20231010/1945070.md">文睿：就差，跪下了，一尊，见美国人，这次不敢得瑟了，原因一目了然</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -35,6 +35,8 @@
 <div class="catlist">
 <h3><a href="/cbnews/" target="_blank">中共禁闻</a><span><a href="/cbnews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/cbnews/20231011/1945441.md" target="_blank">没撤侨回国机票价格翻倍 中国游客逃离以色列</a></li>
+<li><a href="/cbnews/20231011/1945440.md" target="_blank">在以色列中国人至少2死3伤 中共耍嘴皮子 就是不撤侨</a></li>
 <li><a href="/cbnews/20231011/1945385.md" target="_blank">第三次世界大战要来？ 以巴战火3大疑点3大巧合</a></li>
 <li><a href="/cbnews/20231011/1945384.md" target="_blank">收中共钱出卖美军机密 华裔士官认罪</a></li>
 <li><a href="/comments/20231011/1945380.md" target="_blank">姚诚：哈马斯突袭，背后大老板应是中共；台湾要警惕中共“以演变战”｜新闻烽火台 1010</a></li>
@@ -58,8 +60,6 @@
 <li><a href="/cbnews/20231010/1944733.md" target="_blank">美国思想领袖：【精彩片段】美国助以色列启动最强空军！以巴冲突将会快速结束？会蔓延到台海吗？ &#8211; #新闻大家谈</a></li>
 <li><a href="/comments/20231010/1944686.md" target="_blank">宇宙只是幻象？！量子纠缠</a></li>
 <li><a href="/comments/20231010/1944685.md" target="_blank">宇宙只是幻象？！全息投影</a></li>
-<li><a href="/comments/20231010/1944684.md" target="_blank">宇宙只是幻象？！玻姆的全息宇宙</a></li>
-<li><a href="/comments/20231010/1944683.md" target="_blank">宇宙只是幻象？！时间是幻觉？</a></li>
 
 </ul>
 </div>
@@ -97,6 +97,8 @@
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231011/1945444.md" target="_blank">燕梳楼：河北程序员翻墙被罚事件，震动了国内外的IT圈</a></li>
+<li><a href="/comments/20231011/1945443.md" target="_blank">老牌恶棍: 巴以冲突：仇恨的怒火，平民的灾难</a></li>
 <li><a href="/comments/20231011/1945432.md" target="_blank">德媒：哈马斯威胁处决被俘的以色列平民人质</a></li>
 <li><a href="/comments/20231011/1945431.md" target="_blank">以巴冲突：以色列誓言“全面围堵”加沙“不给电、不给吃、不给油”反击哈马斯</a></li>
 <li><a href="/comments/20231011/1945430.md" target="_blank">残雪：伟大的作品都是内省的、自我批判的</a></li>
@@ -120,8 +122,6 @@
 <li><a href="/comments/20231010/1945191.md" target="_blank">时事大家谈：热点快评：蔡英文双十讲话释放哪些信息？美参院领袖会见习近平吁其支持以色列，北京有何打算？中国国企为何加紧部署人民武装部？</a></li>
 <li><a href="/comments/20231010/1945115.md" target="_blank">【财经拆局】「塘水滚塘鱼」外资撤走 股市死气沉沉</a></li>
 <li><a href="/comments/20231010/1944928.md" target="_blank">7.8亿中国人负债 钱都哪去了？</a></li>
-<li><a href="/comments/20231010/1944911.md" target="_blank">蔡慎坤：哈马斯大金主终于坐不住了</a></li>
-<li><a href="/comments/20231010/1944906.md" target="_blank">哈马斯幕後黑手众望所归，习近平遭以色列追问？巴勒斯坦小粉红泄密攻台计画？华为闯大祸了</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
-<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
-<li><a href="/lifebaike/20230916/1934424.md" target="_blank">防止你的孩子不成功（1） &#8211;教育避坑指南</a></li>
-<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/topimagenews/20170218/694213.md" target="_blank">掸封尘：揭秘中共党徽背后的惊天黑幕</a></li>
-<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/comments/20221023/1801109.md" target="_blank">极简生活：用最少的物品，过最幸福的日子</a></li>
+<li><a href="/comments/20200511/1326751.md" target="_blank">法轮功学员在美国之音工作的神奇故事</a></li>
+<li><a href="/ccpdope/20210708/1583079.md" target="_blank">万分惊骇！中共五星红旗的风水秘密</a></li>
+<li><a href="/lifebaike/20210115/1468011.md" target="_blank">里根：最恐怖的九个字“我是政府派来帮你的”</a></li>
+<li><a href="/comments/20221021/1800167.md" target="_blank">最后的时刻，有解救的办法？人会变成什么样子？第三次世界大战，会发生吗？精确到人名，非常直白的预言，已经都被证实了！</a></li>
+<li><a href="/cbnews/20200730/1371580.md" target="_blank">王毅称中共与中国人“血肉相连” 捅破70年天大秘密</a></li>
 <li><a href="/comments/20201221/1451945.md" target="_blank">视频：阻止中共全球AI灭绝图谋之计划</a></li>
-<li><a href="/comments/20220408/1716379.md" target="_blank">鲁迅睡日本弟媳 二弟周作人当汉奸</a></li>
-<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
-<li><a href="/comments/20200618/1346830.md" target="_blank">荣耀尊贵伟大的神，为何降生在牲口住的地方？</a></li>
-<li><a href="/comments/20211125/1657403.md" target="_blank">曾被“鬼缠身”痛苦难诉 越南女孩修炼法轮功获新生</a></li>
-<li><a href="/comments/20200604/783200.md" target="_blank">怒发冲冠：天安门八九六四图片纪录片</a></li>
-<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
-<li><a href="/sohnews/20230904/1929011.md" target="_blank">美国爱国者成恐怖分子！左派正把美国带向地狱！</a></li>
-<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
-<li><a href="/aomi/qiwen/20151223/484507.md" target="_blank">视频：三千年一开的优昙婆罗花真的出现了</a></li>
-<li><a href="/tculture/20171201/863884.md" target="_blank">里根总统的道家思想：我无为而民自化，治大国若烹小鲜</a></li>
-<li><a href="/comments/20220503/1727726.md" target="_blank">基督教中的轮回说</a></li>
-<li><a href="/comments/20201013/1412612.md" target="_blank">《少林寺》是中华武术修炼的圣地，这部电影曾经唤醒一代中国人的英雄气</a></li>
-<li><a href="/comments/20210805/1600200.md" target="_blank">韩国著名电视编剧修炼法轮功脱胎换骨</a></li>
-<li><a href="/comments/20210123/1473011.md" target="_blank">【视频】震撼纪录片：《蚕食美国1：碾碎美国的图谋》《蚕食美国2：欺诈大师》</a></li>
-<li><a href="/lifebaike/20180921/1001174.md" target="_blank">黄继光堵枪眼真伪：新华社自相矛盾三版本 共产党革命美学的秘密</a></li>
+<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20131119/1029445.md" target="_blank">章天亮：九评三退解体中共 再造中华</a></li>
+<li><a href="/comments/20220112/1678403.md" target="_blank">科学能证明有神吗？</a></li>
+<li><a href="/comments/20220329/1711172.md" target="_blank">法轮功和佛教、道教、气功的区别是什么？</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/tculture/20161102/608445.md" target="_blank">定中经历：巾帼英雄穆桂英(续集二)</a></li>
+<li><a href="/bookonline/20131116/201054.md" target="_blank">《九评共产党》之三 评中国共产党的暴政</a></li>
+<li><a href="/comments/20220416/1720335.md" target="_blank">印度医学系主任修炼法轮功重获健康、翻译《转法轮》造福乡梓</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/lifebaike/20180811/984246.md" target="_blank">带有凶恶动物图案的衣物请慎选 小心惹祸上身</a></li>
+<li><a href="/cbnews/20220205/1688152.md" target="_blank">徐光：台湾民主化的最根本的原因是中华文化</a></li>
+<li><a href="/comments/20220808/1768773.md" target="_blank">探寻复兴中华之路，必看章天亮博士《中华文明史》</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/cbnews/20211017/1639766.md" target="_blank">漆黑的太空，封闭的太阳系，马斯克 @elonmusk 是火星民族的代表</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
+<li><a href="/cbnews/20210518/1548912.md" target="_blank">单亲妈妈与小丫的故事</a></li>
+<li><a href="/comments/20210123/1473430.md" target="_blank">钱学森为何拒绝反对法轮功？</a></li>
 
 </ul>
 </div>
