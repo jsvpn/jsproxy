@@ -10,24 +10,24 @@
 <li><a href="/sohnews/20231011/1945538.md">习近平到景德镇干了件大事，李鸿忠公开说习是如来佛，以色列报复中共向台湾转移核技术。《老灯开讲第403期》</a></li>
 <li><a href="/topimagenews/20231011/1945603.md">1万亿元的刺激计划来了！中国经济将反弹？</a></li>
 <li><a href="/baitai/20231011/1945282.md">前体育总局副局长杜兆才下马 只因「杜叔叔」与「侄女」暧昧惹的祸</a></li>
-<li><a href="/headline/20231011/1945255.md">中国公布免签和绿卡新政策，美国华裔兴趣不大</a></li>
 <li><a href="/baitai/20231011/1945352.md">许家印倒下 中国两大银行爆挤兑 中共距政权危机还有多远？</a></li>
+<li><a href="/headline/20231011/1945255.md">中国公布免签和绿卡新政策，美国华裔兴趣不大</a></li>
 <li><a href="/worldnews/20231011/1945247.md">哈玛斯扬言处决俘虏 以色列军方发言人：无济于事</a></li>
-<li><a href="/topimagenews/20231011/1945547.md">太耐人寻味了！习近平当面示好 舒默竟然这付表情【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231011/1945628.md">中国真实失业率 除震惊找不到任何形容词；中国富豪恐慌，地下钱庄遍布全国</a></li>
+<li><a href="/topimagenews/20231011/1945547.md">太耐人寻味了！习近平当面示好 舒默竟然这付表情【阿波罗网报道】</a></li>
 <li><a href="/topimagenews/20231011/1945420.md">哈玛斯再传大屠杀！40婴幼儿部分遭斩首 以南200人惨死</a></li>
-<li><a href="/topimagenews/20231011/1945299.md">习近平会民主党大佬舒默 刚了还是怂了？【阿波罗网报道】</a></li>
 <li><a href="/worldnews/20231011/1945388.md">华尔街日报：以色列犯了大错</a></li>
+<li><a href="/topimagenews/20231011/1945299.md">习近平会民主党大佬舒默 刚了还是怂了？【阿波罗网报道】</a></li>
 <li><a href="/cbnews/20231011/1945485.md">〖兲朝浮世绘〗上次指鼠为鸭 这次指鼠为牛</a></li>
-<li><a href="/worldnews/20231011/1945605.md">一个不留？以色列开出一份“大人物”名单</a></li>
 <li><a href="/cbnews/20231011/1945457.md">中共官场又有新动向</a></li>
 <li><a href="/headline/20231011/1945617.md">中国突称下月核查人口</a></li>
+<li><a href="/worldnews/20231011/1945605.md">一个不留？以色列开出一份“大人物”名单</a></li>
 <li><a href="/sohnews/20231011/1945622.md">文睿：李强，要被废了？一尊，正在酝酿一次更大规模的风暴</a></li>
 <li><a href="/topimagenews/20231011/1945383.md">陆著名经济学家疾呼：中国现在必须改革</a></li>
-<li><a href="/topimagenews/20231011/1945507.md">拜登一反常态 美官员惊呼：从未见过</a></li>
 <li><a href="/comments/20231011/1945539.md">吴祚来：彭丽媛热议习近平文化思想</a></li>
-<li><a href="/topimagenews/20231011/1945604.md">大陆芯片又传噩耗？拜登给“小弟”生路 反害1大厂送死</a></li>
+<li><a href="/topimagenews/20231011/1945507.md">拜登一反常态 美官员惊呼：从未见过</a></li>
 <li><a href="/topimagenews/20231011/1945560.md">25岁的她，带领居民击杀25名哈马斯武装分子</a></li>
+<li><a href="/topimagenews/20231011/1945604.md">大陆芯片又传噩耗？拜登给“小弟”生路 反害1大厂送死</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -66,6 +66,7 @@
 <div class="catlist">
 <h3><a href="/topimagenews/" target="_blank">图片新闻</a><span><a href="/topimagenews/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/topimagenews/20231012/1945741.md" target="_blank">中富豪往外“润” 托地下钱庄转移资产 今年将达1500亿美元</a></li>
 <li><a href="/topimagenews/20231011/1945712.md" target="_blank">泽伦斯基：以巴冲突恐分散对乌克兰战争注意力</a></li>
 <li><a href="/topimagenews/20231011/1945628.md" target="_blank">中国真实失业率 除震惊找不到任何形容词；中国富豪恐慌，地下钱庄遍布全国</a></li>
 <li><a href="/topimagenews/20231011/1945604.md" target="_blank">大陆芯片又传噩耗？拜登给“小弟”生路 反害1大厂送死</a></li>
@@ -90,13 +91,13 @@
 <li><a href="/topimagenews/20231010/1945152.md" target="_blank">强硬反击哈玛斯…以色列国安部长宣布发枪</a></li>
 <li><a href="/topimagenews/20231010/1945151.md" target="_blank">外媒：2中国人疑在以色列被开枪杀害 微博完全搜不到</a></li>
 <li><a href="/topimagenews/20231010/1945113.md" target="_blank">中国要这样 中共马上垮台！强硬反击…以发枪！“1万把突击步枪”优先给这些地方</a></li>
-<li><a href="/topimagenews/20231010/1945112.md" target="_blank">外媒透露：2中国人在以色列当街被哈马斯开枪杀害 在中国完全搜不到资讯</a></li>
 
 </ul>
 </div>
 <div class="catlist">
 <h3><a href="/comments/" target="_blank">新闻评论</a><span><a href="/comments/" target="_blank" rel="nofollow">更多文章>></a></span></h3>
 <ul>
+<li><a href="/comments/20231012/1945745.md" target="_blank">评论 &#8211; 傅申奇：谈谈蔡英文的双十节演说</a></li>
 <li><a href="/comments/20231011/1945729.md" target="_blank">法国圣女 肉身不腐之谜</a></li>
 <li><a href="/comments/20231011/1945724.md" target="_blank">时事大家谈：中国空喊高调 在以哈冲突中是否会再丢分？</a></li>
 <li><a href="/comments/20231011/1945723.md" target="_blank">时事大家谈：以哈冲突升级 如何影响美国对华战略？</a></li>
@@ -121,7 +122,6 @@
 <li><a href="/comments/20231011/1945432.md" target="_blank">德媒：哈马斯威胁处决被俘的以色列平民人质</a></li>
 <li><a href="/comments/20231011/1945431.md" target="_blank">以巴冲突：以色列誓言“全面围堵”加沙“不给电、不给吃、不给油”反击哈马斯</a></li>
 <li><a href="/comments/20231011/1945430.md" target="_blank">残雪：伟大的作品都是内省的、自我批判的</a></li>
-<li><a href="/comments/20231011/1945429.md" target="_blank">磊勒阗：《历史评论》的碰瓷哲学</a></li>
 
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
-<li><a href="/comments/20220722/1761714.md" target="_blank">忽必烈带色目人进入中原，本想监督汉人，108年后才知道孔子厉害</a></li>
+<li><a href="/comments/20200114/1258532.md" target="_blank">美国女歌手Mika Hale修炼法轮功的故事</a></li>
+<li><a href="/taiwannews/20220804/1767098.md" target="_blank">基督徒牧师美国华裔国会议员参选人 声援4亿中国人三退</a></li>
+<li><a href="/comments/20221031/1804538.md" target="_blank">中华文明中的八大思想就是普世价值，其中“人格审美”超越普世价值</a></li>
+<li><a href="/comments/20200928/1404653.md" target="_blank">龙延：挖出共产党的根（二）</a></li>
+<li><a href="/bannedvideo/20211002/1631942.md" target="_blank">中国传统成人礼 冠礼蕴含了哪些文化</a></li>
+<li><a href="/comments/20220717/1759493.md" target="_blank">人生的真正目的究竟是什么？</a></li>
+<li><a href="/comments/20220220/1694796.md" target="_blank">华人必看：中华文化的飓风 幸福感无法描述</a></li>
+<li><a href="/comments/20210215/1487728.md" target="_blank">真人照片：美国中医师染新冠重症几不治 炼法轮功迅速康复</a></li>
+<li><a href="/topimagenews/20210720/1544658.md" target="_blank">女飞行员泰瑞修炼法轮功 追寻超越之境</a></li>
+<li><a href="/comments/20220910/1782931.md" target="_blank">中国历史：一部预先写好的剧本</a></li>
+<li><a href="/tculture/20190304/1091070.md" target="_blank">逆天而为痛悔迟18-2:太祖暴死弟乍立，烛影斧声千古谜2</a></li>
 <li><a href="/sohnews/20150109/351438.md" target="_blank">佛教协会会长、省佛协代表为啥修炼了法轮功？</a></li>
-<li><a href="/bookonline/20131116/201056.md" target="_blank">《九评共产党》之一 评共产党是什么</a></li>
-<li><a href="/cbnews/20200610/1342772.md" target="_blank">台湾女士修炼法轮功：摆脱假宗教附体</a></li>
-<li><a href="/topimagenews/20130216/104433.md" target="_blank">武林佳话：从大师到徒弟的传奇</a></li>
-<li><a href="/comments/20210720/1518906.md" target="_blank">替代整合医学刊物发表“修习法轮功在新冠疫情中的可能好处”</a></li>
-<li><a href="/bannedvideo/20220425/1724098.md" target="_blank">他将中国文化带到琉球一</a></li>
-<li><a href="/aomi/supernatural/20150313/374665.md" target="_blank">视频: 世界的真相-此生必看的科学实验</a></li>
-<li><a href="/cbnews/20220601/1740227.md" target="_blank">修炼法轮功为什么能够轻松戒断海洛因毒瘾？</a></li>
-<li><a href="/comments/20231003/1941700.md" target="_blank">防止你的孩子不成功（15）-教育避坑指南</a></li>
-<li><a href="/cnnews/20210512/1544604.md" target="_blank">女飞行员曾患莱姆病 修炼法轮功康复后依然翱翔在蓝天</a></li>
-<li><a href="/comments/20200224/1282494.md" target="_blank">魏仁：张天师治瘟疫的妙法</a></li>
-<li><a href="/comments/20201115/1431139.md" target="_blank">医学重大发现！美国科学家揭开终极底牌：癌症自愈源于心脏！！</a></li>
-<li><a href="/comments/20210307/1499941.md" target="_blank">震惊世界的轮回案 ：印度4岁女孩转世探望婆家 圣雄甘地亲自下令调查</a></li>
-<li><a href="/cbnews/20190219/1083302.md" target="_blank">历史的天空：和嫦娥的道缘</a></li>
-<li><a href="/comments/20210720/1516768.md" target="_blank">从党棍康生亲测特异功能者说起</a></li>
-<li><a href="/comments/20220408/1716562.md" target="_blank">神韵充满能量 多伦多观众 体验“入定”顽疾消失</a></li>
-<li><a href="/health/20141127/823595.md" target="_blank">转轮圣王慈悲下走救众生 莫失机缘</a></li>
-<li><a href="/renquan/minyun/20200819/1391988.md" target="_blank">徐沛：今生乐做中国人</a></li>
-<li><a href="/comments/20200907/1392278.md" target="_blank">进化论：一个存在了160年的骗局</a></li>
-<li><a href="/comments/20200628/1351782.md" target="_blank">视频：刘伯温预言的正在发生，解密时刻就是最后的时刻</a></li>
-<li><a href="/aomi/life/20150328/379826.md" target="_blank">海南电视台纪录片证实轮回转世：唐江山转世事件</a></li>
-<li><a href="/comments/20180624/961987.md" target="_blank">胡平：永远对国人怀抱信心</a></li>
-<li><a href="/cbnews/20230826/1925513.md" target="_blank">老外论述汉语比英语高明太多了！</a></li>
+<li><a href="/topimagenews/20210219/1489990.md" target="_blank">他浑身细胞为之一震：这就是我一生都在等待的东西啊</a></li>
+<li><a href="/cbnews/20210810/1603566.md" target="_blank">打坐成为主流新疗法 打坐一次生理期疼痛消失</a></li>
+<li><a href="/comments/20220520/1735217.md" target="_blank">西人女青年修炼法轮功 健康和人际关系迅速改善（视频）</a></li>
+<li><a href="/ccpdope/20220806/1768044.md" target="_blank">中共密件爆太湖冤魂事件 安阳灵异案震惊中央</a></li>
+<li><a href="/comments/20230925/1899103.md" target="_blank">防止你的孩子不成功（10） &#8211;教育避坑指南</a></li>
+<li><a href="/cbnews/20170130/651555.md" target="_blank">唯物辩证法是破坏人类道德的邪恶文化</a></li>
+<li><a href="/comments/20220403/1714124.md" target="_blank">中国古代神剑的高科技光华绝代耀烁古今（图）</a></li>
+<li><a href="/comments/20220105/1674810.md" target="_blank">宿命通功能追溯古代四大美女之首西施的传奇人生</a></li>
+<li><a href="/comments/20200920/582873.md" target="_blank">轮回纪实:地球前世的大结局</a></li>
+<li><a href="/cbnews/20211221/1668847.md" target="_blank">老师心存真、善、忍，学生们发生了神奇的变化</a></li>
+<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
+<li><a href="/comments/20220522/1736045.md" target="_blank">费良勇：法轮功给人类带来希望</a></li>
+<li><a href="/comments/20181228/1054609.md" target="_blank">魔鬼在统治着我们的世界(28)：结束语</a></li>
 
 </ul>
 </div>
