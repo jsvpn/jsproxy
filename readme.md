@@ -8,26 +8,26 @@
 <li><a href="/comments/20231011/1945692.md">中南海不安全？习近平行踪诡异再度离京</a></li>
 <li><a href="/comments/20231012/1945855.md">中共给恐怖份子运了一船武器，结果被美国抓着..</a></li>
 <li><a href="/baitai/20231012/1945840.md">求死无门！两次咬舌自杀未果 贵州前政法委副书记刘文新被捕后供出多人</a></li>
-<li><a href="/comments/20231011/1945677.md">【秦鹏观察】中共国安爆超大黑幕：习近平座上宾泰国落马</a></li>
 <li><a href="/cbnews/20231012/1945872.md">中以关系蒙受重大打击，以色列对华政策将转向</a></li>
+<li><a href="/comments/20231011/1945677.md">【秦鹏观察】中共国安爆超大黑幕：习近平座上宾泰国落马</a></li>
 <li><a href="/sohnews/20231012/1945960.md">邓小平隔代“托孤”，关门弟子汪洋玩“出格”；“娃娃市长”曾掏粪拉车，辍学顶班；和薄熙来争“蛋糕”，“腾笼换鸟”对垒“唱红打黑”; 宦海茫茫，汪洋风头不再</a></li>
 <li><a href="/topimagenews/20231012/1945957.md">中共很多政治规矩被打破 三中全会到底还开不开？</a></li>
 <li><a href="/sohnews/20231012/1945833.md">4国极端组织宣布参战；猪队友？真主党威胁美航母秀中共导弹；以色列被惹毛？解除所有作战限制</a></li>
-<li><a href="/headline/20231012/1945762.md">四通桥事件周年: 彭立发仍下落不明 亲属个个受株连</a></li>
-<li><a href="/topimagenews/20231012/1945860.md">从内卷到“躺平”…“松弛”成了中国年轻人的人生观</a></li>
 <li><a href="/cnnews/20231012/1946005.md">销量暴跌70%,停产传闻不断 人民神车正在被抛弃</a></li>
+<li><a href="/topimagenews/20231012/1945860.md">从内卷到“躺平”…“松弛”成了中国年轻人的人生观</a></li>
+<li><a href="/headline/20231012/1945762.md">四通桥事件周年: 彭立发仍下落不明 亲属个个受株连</a></li>
+<li><a href="/cbnews/20231012/1946001.md">与习会谈后，舒默在京发表声明：中国必须负责</a></li>
 <li><a href="/cbnews/20231012/1945970.md">〖兲朝浮世绘〗中共的长臂管辖 专整海外华人</a></li>
 <li><a href="/topimagenews/20231012/1945741.md">中富豪往外“润” 托地下钱庄转移资产 今年将达1500亿美元</a></li>
 <li><a href="/cbnews/20231012/1945966.md">前央视主播成蕾涉间谍案获释 最新照曝光很苍老</a></li>
-<li><a href="/cbnews/20231012/1946001.md">与习会谈后，舒默在京发表声明：中国必须负责</a></li>
+<li><a href="/lifebaike/20231012/1946003.md">广东姑娘晒出极繁主义的家 网友：太有勇气了</a></li>
 <li><a href="/comments/20231011/1945679.md">【新闻拍案惊奇】中共援助曝光！哈马斯飞伞“湖南产”？</a></li>
 <li><a href="/ssgc/20231012/1945921.md">〖微博谈〗中共“促和”是假象</a></li>
-<li><a href="/lifebaike/20231012/1946003.md">广东姑娘晒出极繁主义的家 网友：太有勇气了</a></li>
 <li><a href="/worldnews/20231011/1945716.md">母亲拿零食安慰小孩遭扫射！ 以色列士兵见遗体恸：全身弹孔</a></li>
+<li><a href="/sohnews/20231012/1946051.md">习近平的大秘直通哈马斯，北极鲶鱼的叔叔正是钟绍军，彭立发勇士近况。《老灯开讲第404期》</a></li>
 <li><a href="/comments/20231012/1945914.md">哈马斯要凉了</a></li>
 <li><a href="/worldnews/20231012/1945757.md">以色列成立紧急政府 战时内阁3人成军 总理政敌加入</a></li>
 <li><a href="/health/20231012/1945910.md">凌晨3、4点总会突然醒来？第一个原因很多人有，但是都没检查出来</a></li>
-<li><a href="/topimagenews/20231012/1945777.md">史卡利斯击败乔登 获共和党提名担任新众议长</a></li>
 <li><b><a href="/comments/20200207/1272816.md" target="_blank">《刘伯温碑记》预言避开武汉肺炎的妙招（修订版）</a></b></li>
 </ul>
 </div>
@@ -129,31 +129,31 @@
 <div class="catlist">
 <h3>必看经典好文</h3>
 <ul>
-<li><a href="/comments/20200717/1362287.md" target="_blank">重磅：警惕中共的超限战</a></li>
-<li><a href="/lishi/20140517/664349.md" target="_blank">红色演讲家曲啸在美国遭遇滑铁卢纪实</a></li>
-<li><a href="/comments/20230923/1937654.md" target="_blank">防止你的孩子不成功（8）-教育避坑指南</a></li>
-<li><a href="/comments/20200521/783167.md" target="_blank">《漫谈党文化》</a></li>
-<li><a href="/comments/20210720/1502969.md" target="_blank">修炼法轮功驼背变直 百岁老人喜得川普总统贺信</a></li>
-<li><a href="/tculture/20200911/132247.md" target="_blank">弥勒佛和弥赛亚：末劫时期东西方共同的救世主</a></li>
-<li><a href="/comments/20230918/1935105.md" target="_blank">防止你的孩子不成功（3）&#8211;教育避坑指南</a></li>
-<li><a href="/bannedvideo/20220611/1744386.md" target="_blank">发现隐形的身体 ! 原来是“连系另外空间”的关键 ! ? 【地球旅馆】</a></li>
-<li><a href="/topimagenews/20180601/951286.md" target="_blank">魔鬼在统治着我们的世界(12)：政治篇(上)</a></li>
-<li><a href="/comments/20230921/1905929.md" target="_blank">防止你的孩子不成功（6） &#8211;教育避坑指南-植入家庭教育的木马</a></li>
-<li><a href="/cbnews/20200816/1381005.md" target="_blank">法轮功力量太强大 炼功瞬间打通带脉</a></li>
-<li><a href="/comments/20230424/1875912.md" target="_blank">疫苗，还是退烧药扑热息痛(泰诺) 导致了自闭症 ?</a></li>
-<li><a href="/tculture/20190304/1091074.md" target="_blank">逆天而为痛悔迟19-2：司马立场倾向强，偶做伪史歪真相</a></li>
-<li><a href="/cbnews/20210809/1603030.md" target="_blank">萍水仙踪</a></li>
-<li><a href="/bannedvideo/20220723/1761909.md" target="_blank">专访章天亮 (下)：中国历史朝代更替的模式是什么？历史是黑暗还是光明？中共要破坏掉传统文化才能统治｜中华文明史｜方菲访谈 07/22/2022</a></li>
-<li><a href="/comments/20220819/1773621.md" target="_blank">中国文化的迷思：夷夏之辨与儒家思想的先進性</a></li>
-<li><a href="/comments/20220214/1691990.md" target="_blank">传奇国医张锡纯：敢用一味山药 起死回生（九）</a></li>
-<li><a href="/ssgc/20180904/993719.md" target="_blank">魔鬼在统治着我们的世界(23)：环保主义(上)</a></li>
-<li><a href="/comments/20210509/1542373.md" target="_blank">美国孪生兄弟学法轮功 成功戒毒身心巨变</a></li>
-<li><a href="/comments/20220315/1705037.md" target="_blank">神韵的神奇健康功效：73岁帕金森老人疾病逆转</a></li>
-<li><a href="/bannedvideo/20210915/1623919.md" target="_blank">灵魂有重量吗？催眠可以看到前生今世吗？杨医生讲解对灵魂的各类研究。</a></li>
-<li><a href="/comments/20220518/1734456.md" target="_blank">视频：第九届新唐人中国古典舞大赛青年女子组金奖：付百合</a></li>
-<li><a href="/taiwannews/20221015/1797413.md" target="_blank">曹长青：日本的治安为什麽远超美国？</a></li>
-<li><a href="/comments/20200707/1357090.md" target="_blank">念这个口诀 真的有助打败中共病毒</a></li>
-<li><a href="/ssgc/20220828/1777549.md" target="_blank">他们的濒死体验印证灵魂是真实存在</a></li>
+<li><a href="/comments/20220127/1684835.md" target="_blank">只有这样，才能打败敌基督的共产邪教</a></li>
+<li><a href="/comments/20200806/1375443.md" target="_blank">必看视频：中国社会的斯德哥尔摩综合症</a></li>
+<li><a href="/comments/20200930/1405812.md" target="_blank">龙延：挖出共产党的根（四）</a></li>
+<li><a href="/comments/20220329/1711799.md" target="_blank">领先现代社会几千年的中国古代科技</a></li>
+<li><a href="/comments/20200705/783271.md" target="_blank">重磅：论中共政权的合法性危机</a></li>
+<li><a href="/comments/20220105/1675252.md" target="_blank">神韵神奇的疗愈功效</a></li>
+<li><a href="/topimagenews/20180522/946266.md" target="_blank">魔鬼在统治着我们的世界(4)：欧洲发端</a></li>
+<li><a href="/comments/20200921/1400587.md" target="_blank">科学家通过实验发现灵魂出窍现象，与民间说法一致</a></li>
+<li><a href="/comments/20220726/1762946.md" target="_blank">为何这么多国家都曾穿汉服，华夏：服章之美谓之华，礼仪之大故称夏</a></li>
+<li><a href="/comments/20210802/1598599.md" target="_blank">爱国主义，一个在中国遭到双重歪曲的概念</a></li>
+<li><a href="/cbnews/20211127/1658400.md" target="_blank">修炼法轮功 强势霸道女霸王变贤淑温柔女（真人照片）</a></li>
+<li><a href="/comments/20220730/1764893.md" target="_blank">项云：大陆乱局乱象是中共故意制造和放纵的邪术</a></li>
+<li><a href="/tculture/xiulian/20160303/508934.md" target="_blank">李嗣涔 特异功能大揭秘（上）谈儿童潜能</a></li>
+<li><a href="/comments/20231004/1942361.md" target="_blank">防止你的孩子不成功（16）-教育避坑指南</a></li>
+<li><a href="/cbnews/20200727/1366904.md" target="_blank">壮怀激烈：阎锡山妹阎惠卿致阎锡山绝命电</a></li>
+<li><a href="/comments/20181224/1052333.md" target="_blank">魔鬼在统治着我们的世界(27)：全球野心(下)</a></li>
+<li><a href="/bannedvideo/20220418/1720873.md" target="_blank">琉球第一座孔庙 竟是福建后裔所建</a></li>
+<li><a href="/comments/20210720/1514622.md" target="_blank">河南“血祸”受害染丙型肝炎 修炼法轮功康复【真人照片】</a></li>
+<li><a href="/yule/20210123/1473216.md" target="_blank">这禁忌片，粉碎了我的三观</a></li>
+<li><a href="/comments/20191218/1228234.md" target="_blank">海风：中共对法轮功为何如此敏感？</a></li>
+<li><a href="/tculture/20121025/73079.md" target="_blank">法轮功宿命通功能揭开考古谜案</a></li>
+<li><a href="/comments/20220605/1742040.md" target="_blank">厕所革命，安全有效威力大，干起来</a></li>
+<li><a href="/cbnews/20200702/1354550.md" target="_blank">一位修炼法轮功的高中老师和她的学生们</a></li>
+<li><a href="/cbnews/20180711/970353.md" target="_blank">宿命通功能所见：史前的玛雅帝国</a></li>
+<li><a href="/cbnews/20220713/1757692.md" target="_blank">大陆财务高管狱中结缘法轮功，润到美国</a></li>
 
 </ul>
 </div>
